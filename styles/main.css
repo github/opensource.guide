@@ -1,3 +1,5 @@
+/* Basics */
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -7,4 +9,26 @@
 html, body {
   font-size: 14px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header, section, footer {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+/* Header */
+
+.site-logo {
+  float: left;
+}
+
+.site-logo a {
+  text-indent: -999em;
+  overflow: hidden;
+  float: left;
+  width: 180px;
+  height: 35px;
+  background-size: 180px 35px;
+  background-image: url("/images/logo@2x.png");
 }
