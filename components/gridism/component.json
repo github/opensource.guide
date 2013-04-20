@@ -1,0 +1,25 @@
+{
+  "name": "gridism",
+  "version": "0.0.0",
+  "author": {
+    "name": "Coby Chapple"
+  },
+  "homepage": "https://github.com/cobyism/gridism/",
+  "main": "./css/gridism.css",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cobyism/gridism.git"
+  },
+  "ignore": [
+    "shapeshifter/",
+    "**/*.yml",
+    "**/*.html"
+  ],
+  "license": "MIT",
+  "gitHead": "7841c2410327ccfd316e2101d712a8eb058affb0",
+  "readme": "# Gridism\n\nA simple responsive CSS grid. [View the demo →](http://cobyism.com/gridism/)\n\n## Why?\n\n### My process\n\nWhen I design web layouts, my thought process usually goes something like this:\n\n> Alright, in this section, I want a bit that’s one third of the section’s width,\n> and then next to that I want another bit that’s two thirds of the sections’s width.\n> Now, in the next section…\n\nI don’t think in 12 or 16 column grids. Instead, my mental model basically just consists of the page being divided up into multiple full-width vertical sections, and each vertical section being divided up into simple fractions of the section width.\n\n### Existing grid frameworks\n\nMost frameworks I’ve used don’t match that thought process *at all*. I usually have to:\n\n1. Remember how many columns are in the grid for the particular framework I’m using.\n1. Decide how I want to divide up this particular section’s content.\n1. Mentally do the conversion from what I want to see (one quarter + three quarters, for example) into the number of columns I need for the grid I’m using.\n1. Remember the class naming structure for the framework I’m using. Is it `.span3`, `.grid_3`, `.col-3`, or something else altogether?\n1. Deal with other hassles like clearing floats, messing with column padding to have the gutters look right, indicating which elements are the first in a row, and so forth.\n\nOnly the second step should be necessary.\n\n### Gridism’s Goals\n\nI couldn’t find a framework that matched this mental model of how I work, so I started hacking on Gridism with the following goals:\n\n- Class names should be memorable and self-evident.\n- Gutters and basic content padding should be taken care of.\n- Clearing floats should be done automatically.\n- Wrapped grid sections should be independant of vertical page sections.\n- Frequently required utility classes should be provided.\n- Common patterns for Responsive Design™ should be built-in.\n\nI hope you find that this project is living up to those goals. If not, please [create an issue](https://github.com/cobyism/gridism/issues/new) and let me know.\n\n## Installation\n\n### 1. Get the files\n\nThe easiest way to use Gridism in your project is via the [Bower](http://twitter.github.com/bower) package manager.\n\n```sh\nbower install gridism\n```\n\nElsewise, [download a zip folder](https://github.com/cobyism/gridism/archive/gh-pages.zip), extract it, and copy `gridism.css` into your project’s folder.\n\n### 2. Link the stylesheet\n\nAdd the following stylesheet to your HTML’s `<head>` section:\n\n```html\n<link rel=\"stylesheet\" href=\"components/gridism/gridism.css\">\n```\n\n**Note:** If you didn’t install using Bower, you need to adjust the path of CSS file to match your file structure.\n\n### 3. Viewport scale\n\nAdd the following meta tag to your HTML’s `<head>` section:\n\n```html\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n```\n\nWithout this meta tag, mobiles and tablets might load your page as a scaled-down version of the desktop size, instead of resizing the content to match the device’s actual viewport width.\n\n## Contributing\n\nI’d :heart: to recieve contributions to this project. It doesn’t matter if it’s just a typo, or if you’re proposing an overhaul of the entire project—I’ll gladly take a look at your changes. Fork at will! :grinning:.\n\n## License\n\nGo nuts. See [LICENSE](https://github.com/cobyism/gridism/blob/gh-pages/LICENSE) (MIT).\n",
+  "readmeFilename": "README.md",
+  "_id": "gridism@0.0.4",
+  "description": "A simple responsive CSS grid. [View the demo →](http://cobyism.com/gridism/)",
+  "commit": "7841c2410327ccfd316e2101d712a8eb058affb0"
+}
