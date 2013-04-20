@@ -75,3 +75,39 @@ header {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#064f1f', endColorstr='#53895d',GradientType=0 );
 
 }
+
+/* Footer */
+
+footer {
+  margin-top: 30px;
+  color: #aaa;
+  font-size: 13px;
+}
+
+footer .grid {
+  border-top: 1px solid #eee;
+}
+
+footer .invertocat {
+  display: inline-block;
+  margin-top: 8px;
+  opacity: .2;
+}
+
+.footer-nav {
+  padding: 0;
+}
+
+.footer-nav li {
+  list-item-type: none;
+  display: inline-block;
+  margin: 0 10px 0 0;
+}
+
+/* HTML */
+
+a {
+  color: #4183c4;
+  text-decoration: none;
+  font-weight: bold;
+}
