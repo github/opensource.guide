@@ -76,6 +76,11 @@ header {
 
 }
 
+.overview.page-title {
+  font-size: 2em;
+  letter-spacing: -1px;
+}
+
 /* Footer */
 
 footer {
