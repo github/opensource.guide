@@ -16,12 +16,13 @@ header, section, footer {
   float: left;
   clear: both;
   width: 100%;
+  position: relative;
 }
 
 /* Header */
 
 .site-logo {
-  float: left;
+  display: inline-block;
 }
 
 .site-logo a {
@@ -69,16 +70,20 @@ header {
   background: -moz-linear-gradient(top,  #064f1f 0%, #53895d 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#064f1f), color-stop(100%,#53895d));
   background: -webkit-linear-gradient(top,  #064f1f 0%,#53895d 100%);
-  background: -o-linear-gradient(top,  #064f1f 0%,#53895d 100%);
-  background: -ms-linear-gradient(top,  #064f1f 0%,#53895d 100%);
   background: linear-gradient(to bottom,  #064f1f 0%,#53895d 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#064f1f', endColorstr='#53895d',GradientType=0 );
-
 }
 
 .overview.page-title {
-  font-size: 2em;
-  letter-spacing: -1px;
+  font-size: 1.5em;
+}
+
+.or {
+  position: absolute;
+  left: 50%;
+  top: 42%;
+  width: 30px;
+  margin-left: -15px;
 }
 
 /* Footer */
@@ -109,6 +114,33 @@ footer .invertocat {
   margin: 0 10px 0 0;
 }
 
+/* Buttons */
+
+.button {
+  border-radius: 5px;
+  padding: .5em 1em;
+  line-height: 24px;
+  display: inline-block;
+  background: #0acef2;
+  background: -webkit-linear-gradient(#0acef2, #059ce5);
+  background: -moz-linear-gradient(#0acef2, #059ce5);
+  background: linear-gradient(#0acef2, #059ce5);
+  border: 1px solid #0071B9;
+  -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.2), inset 0 1px 0 rgba(255,255,255,.5);
+  box-shadow: 0 1px 0 rgba(255,255,255,.2), inset 0 1px 0 rgba(255,255,255,.5);
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0,0,0,.5);
+}
+
+.button:hover {
+  color: #fff;
+  background: -webkit-linear-gradient(#07d7ff, #059ce5);
+}
+
+.button:active {
+  position: relative;
+  top: 1px;
+}
 /* HTML */
 
 a {
