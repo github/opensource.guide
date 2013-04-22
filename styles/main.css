@@ -7,7 +7,7 @@
 }
 
 html, body {
-  font-size: 14px;
+  font-size: 18px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
   background: #efefef;
@@ -185,30 +185,54 @@ a {
 
 /* Landing page */
 
-.overview-graphic {
-  display: inline-block;
-  overflow: hidden;
-  width: 140px;
-  height: 100px;
+.overview .page {
+  margin-top: 30px;
 }
 
-.overview-graphic.terminal {
+.lead p {
+  font-size: 1.2em;
+}
+
+.lead p strong {
+  color: #000;
+}
+
+.lead {
+  padding-bottom: 20px;
+}
+
+.overview-graphic {
+  margin-top: -60px;
+  text-align: center;
+  width: 100%;
+}
+
+.overview-graphic .terminal {
+  display: inline-block;
   text-align: left;
   font-weight: bold;
   padding: 10px 15px;
-  font-size: 24px;
   background: #333;
+  background-image: radial-gradient(farthest-corner at 50% 0%, #555, #333);
   color: #0c0;
-  border-radius: 5px;
+  border-radius: 8px;
+  font-family: Consolas, 'Liberation Mono', Courier, monospace;
+  width: 160px;
+  height: 120px;
+  box-shadow: 0 3px 10px rgba(0,0,0,.3),
+    inset 0 2px 0 rgba(255,255,255,.3),
+    inset 0 -2px 0 rgba(0,0,0,.3);
+  text-shadow: 0 -1px 0 rgba(0,0,0,.3);
 }
 
 .terminal .cursor {
   display: inline-block;
   background: #0c0;
   width: 10px;
-  height: .8em;
+  height: .85em;
   margin-left: 5px;
-  margin-bottom: -3px;
+  margin-bottom: -2px;
+  box-shadow: 0 -1px 0 rgba(0,0,0,.3);
   -webkit-animation: blink 1s linear 0s infinite;
   -moz-animation: blink 1s linear 0s infinite;
   -ms-animation: blink 1s linear 0s infinite;
@@ -231,4 +255,31 @@ a {
   0%   { background: #333 }
   50%  { background: #0c0 }
   100% { background: #333 }
+}
+
+.preview-section {
+  border-top: 1px solid #eee;
+  padding: 30px 0;
+  font-size: 1.25em;
+}
+
+.overview-graphic.github {
+  width: 259px;
+  height: 120px;
+}
+
+.preview-graphic {
+  display: inline-block;
+  width: 340px;
+  height: 260px;
+  background: #eee;
+}
+
+.preview-section p {
+  max-width: 240px;
+  display: inline-block;
+}
+
+.preview-section h3 {
+  margin-top: 60px;
 }
