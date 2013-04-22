@@ -10,6 +10,8 @@ html, body {
   font-size: 14px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
+  background: #efefef;
+  color: #444;
 }
 
 header, section, footer {
@@ -73,17 +75,28 @@ header {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#064f1f', endColorstr='#53895d',GradientType=0 );
 }
 
+.page {
+  max-width: 978px;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.2);
+  padding: 20px 0;
+}
+
+@media (max-width: 978px){
+  .page {
+    border-radius: 0;
+  }
+}
+
 /* Footer */
 
 footer {
-  margin-top: 30px;
   color: #aaa;
   font-size: 13px;
   font-weight: bold;
-}
-
-footer .grid {
-  border-top: 1px solid #eee;
+  text-shadow: 0 1px 0 #fff;
 }
 
 footer .invertocat {
@@ -166,5 +179,14 @@ footer .invertocat {
 a {
   color: #4183c4;
   text-decoration: none;
-  font-weight: bold;
+}
+
+/* Landing page */
+
+.overview-graphic {
+  display: inline-block;
+  overflow: hidden;
+  background: #ddd;
+  width: 140px;
+  height: 100px;
 }
