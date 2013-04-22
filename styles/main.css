@@ -155,10 +155,10 @@ footer .invertocat {
   line-height: 24px;
   display: inline-block;
   background: #0acef2;
-  background: -webkit-linear-gradient(#0acef2, #059ce5);
-  background: -moz-linear-gradient(#0acef2, #059ce5);
-  background: linear-gradient(#0acef2, #059ce5);
-  border: 1px solid #0071B9;
+  background: -webkit-linear-gradient(#0DCC33, #0D9933 75%, #0DBB33);
+  background: -moz-linear-gradient(#0DCC33, #0D9933 75%, #0DBB33);
+  background: linear-gradient(#0DCC33, #0D9933 75%, #0DBB33);
+  border: 1px solid #0D7733;
   -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.2), inset 0 1px 0 rgba(255,255,255,.5);
   box-shadow: 0 1px 0 rgba(255,255,255,.2), inset 0 1px 0 rgba(255,255,255,.5);
   color: #fff;
@@ -167,7 +167,9 @@ footer .invertocat {
 
 .button:hover {
   color: #fff;
-  background: -webkit-linear-gradient(#07d7ff, #059ce5);
+  background: -webkit-linear-gradient(#0DCC33, #0D8833 75%, #0DBB33);
+  background: -moz-linear-gradient(#0DCC33, #0D8833 75%, #0DBB33);
+  background: linear-gradient(#0DCC33, #0D7733 75%, #0DBB33);
 }
 
 .button:active {
