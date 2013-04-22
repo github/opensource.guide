@@ -188,7 +188,47 @@ a {
 .overview-graphic {
   display: inline-block;
   overflow: hidden;
-  background: #ddd;
   width: 140px;
   height: 100px;
+}
+
+.overview-graphic.terminal {
+  text-align: left;
+  font-weight: bold;
+  padding: 10px 15px;
+  font-size: 24px;
+  background: #333;
+  color: #0c0;
+  border-radius: 5px;
+}
+
+.terminal .cursor {
+  display: inline-block;
+  background: #0c0;
+  width: 10px;
+  height: .8em;
+  margin-left: 5px;
+  margin-bottom: -3px;
+  -webkit-animation: blink 1s linear 0s infinite;
+  -moz-animation: blink 1s linear 0s infinite;
+  -ms-animation: blink 1s linear 0s infinite;
+  -o-animation: blink 1s linear 0s infinite;
+}
+
+@-webkit-keyframes blink {
+  0%   { background: #333 }
+  50%  { background: #0c0 }
+  100% { background: #333 }
+}
+
+@-moz-keyframes blink {
+  0%   { background: #333 }
+  50%  { background: #0c0 }
+  100% { background: #333 }
+}
+
+@-ms-keyframes blink {
+  0%   { background: #333 }
+  50%  { background: #0c0 }
+  100% { background: #333 }
 }
