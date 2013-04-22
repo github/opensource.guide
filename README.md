@@ -1,6 +1,6 @@
 # GitHub Guides
 
-![Don’t panic](https://f.cloud.github.com/assets/296432/405450/964dfe90-a9db-11e2-825e-5c5bd0a9a5ca.png)
+![Don’t panic](https://f.cloud.github.com/assets/296432/407976/e4aa9a3c-ab1e-11e2-869a-693dd94218c2.png)
 
 GitHub Guides is the place to come to learn about the GitHub Universe™.
 From time to time you’ll see references to a beloved book,
