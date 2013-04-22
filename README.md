@@ -20,6 +20,6 @@ when necessary.
 
 These are the people you should get in touch with if you have questions.
 
-- @chrissiebrodigan
-- @cobyism
-- @brntbeer
+- [@chrissiebrodigan](https://github.com/chrissiebrodigan)
+- [@cobyism](https://github.com/cobyism)
+- [@brntbeer](https://github.com/brntbeer)
