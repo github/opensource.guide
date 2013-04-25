@@ -230,9 +230,10 @@ a {
   background: #0c0;
   width: 10px;
   height: .85em;
-  margin-left: 5px;
+  margin-left: 2px;
   margin-bottom: -2px;
   box-shadow: 0 -1px 0 rgba(0,0,0,.3);
+  opacity: 1;
   -webkit-animation: blink 1s linear 0s infinite;
   -moz-animation: blink 1s linear 0s infinite;
   -ms-animation: blink 1s linear 0s infinite;
@@ -240,21 +241,21 @@ a {
 }
 
 @-webkit-keyframes blink {
-  0%   { background: #333 }
-  50%  { background: #0c0 }
-  100% { background: #333 }
+  0%   { opacity: 0 }
+  50%  { opacity: 1 }
+  100% { opacity: 0 }
 }
 
 @-moz-keyframes blink {
-  0%   { background: #333 }
-  50%  { background: #0c0 }
-  100% { background: #333 }
+  0%   { opacity: 0 }
+  50%  { opacity: 1 }
+  100% { opacity: 0 }
 }
 
 @-ms-keyframes blink {
-  0%   { background: #333 }
-  50%  { background: #0c0 }
-  100% { background: #333 }
+  0%   { opacity: 0 }
+  50%  { opacity: 1 }
+  100% { opacity: 0 }
 }
 
 .preview-section {
