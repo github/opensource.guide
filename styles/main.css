@@ -34,7 +34,7 @@ header, section, footer {
   width: 180px;
   height: 35px;
   background-size: 180px 35px;
-  background-image: url("/images/logo@2x.png");
+  background-image: url("../images/logo@2x.png");
 }
 
 .top-bar {
