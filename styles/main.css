@@ -316,7 +316,7 @@ a {
 }
 
 .octocat-blink.blink-left {
-  top: 33px;
+  top: 32px;
   left: 30px;
   -webkit-animation: octocat-blink 6s ease-in-out 0s infinite;
   -moz-animation: octocat-blink 6s ease-in-out 0s infinite;
