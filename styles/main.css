@@ -309,7 +309,7 @@ a {
 }
 
 .collabocats .octocat-blink {
-  opacity: 1;
+  opacity: 0;
   position: absolute;
   width: 38px;
   height: 16px;
