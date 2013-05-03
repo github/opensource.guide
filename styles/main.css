@@ -233,79 +233,7 @@ a {
 .collabocats, .collabocats-main {
   display: inline-block;
   width: 259px;
-  height: 115px;
-}
-
-.collabocats-chat {
-  position: absolute;
-}
-
-.chat-left {
-  width: 51px;
-  height: 40px;
-  top: 0px;
-  left: 95px;
-/*  -webkit-animation: left-bubble-fade 10s ease-out 0s infinite;
-  -moz-animation: left-bubble-fade 10s ease-out 0s infinite;
-  -ms-animation: left-bubble-fade 10s ease-out 0s infinite;*/
-}
-
-@-webkit-keyframes left-bubble-fade {
-  0%   { opacity: 0; top: 25px; }
-  3%   { opacity: 1; top: 20px; }
-  46%  { opacity: 1; top: 20px; }
-  50%  { opacity: 0; top: 15px; }
-  100% { opacity: 0; top: 25px; }
-}
-
-@-moz-keyframes left-bubble-fade {
-  0%   { opacity: 0; top: 25px; }
-  3%   { opacity: 1; top: 20px; }
-  46%  { opacity: 1; top: 20px; }
-  50%  { opacity: 0; top: 15px; }
-  100% { opacity: 0; top: 25px; }
-}
-
-@-ms-keyframes left-bubble-fade {
-  0%   { opacity: 0; top: 25px; }
-  3%   { opacity: 1; top: 20px; }
-  46%  { opacity: 1; top: 20px; }
-  50%  { opacity: 0; top: 15px; }
-  100% { opacity: 0; top: 25px; }
-}
-
-.chat-right {
-  width: 47px;
-  height: 38px;
-  top: 30px;
-  left: 100px;
-/*  -webkit-animation: right-bubble-fade 10s ease-out 0s infinite;
-  -moz-animation: right-bubble-fade 10s ease-out 0s infinite;
-  -ms-animation: right-bubble-fade 10s ease-out 0s infinite;*/
-}
-
-@-webkit-keyframes right-bubble-fade {
-  0%    { opacity: 0; top: 25px; }
-  50%   { opacity: 0; top: 25px; }
-  53%   { opacity: 1; top: 20px; }
-  96%   { opacity: 1; top: 20px; }
-  100%  { opacity: 0; top: 15px; }
-}
-
-@-moz-keyframes right-bubble-fade {
-  0%    { opacity: 0; top: 25px; }
-  50%   { opacity: 0; top: 25px; }
-  53%   { opacity: 1; top: 20px; }
-  96%   { opacity: 1; top: 20px; }
-  100%  { opacity: 0; top: 15px; }
-}
-
-@-ms-keyframes right-bubble-fade {
-  0%    { opacity: 0; top: 25px; }
-  50%   { opacity: 0; top: 25px; }
-  53%   { opacity: 1; top: 20px; }
-  96%   { opacity: 1; top: 20px; }
-  100%  { opacity: 0; top: 15px; }
+  height: 120px;
 }
 
 .collabocats .octocat-blink {
@@ -316,7 +244,7 @@ a {
 }
 
 .octocat-blink.blink-left {
-  top: 32px;
+  top: 37px;
   left: 30px;
   -webkit-animation: octocat-blink 6s ease-in-out 0s infinite;
   -moz-animation: octocat-blink 6s ease-in-out 0s infinite;
@@ -324,7 +252,7 @@ a {
 }
 
 .octocat-blink.blink-right {
-  top: 30px;
+  top: 35px;
   left: 183px;
   width: 42px;
   height: 20px;
