@@ -236,7 +236,7 @@ a {
 
 .preview-graphic {
   display: inline-block;
-  width: 340px;
-  height: 260px;
+  width: 100%;
+  height: 150px;
   background: #eee;
 }
