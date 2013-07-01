@@ -7,6 +7,18 @@ From time to time you’ll see references to a beloved book,
 The Hitchhiker’s Guide to the Galaxy, by Douglas Adams.
 If you haven’t read it, don’t panic.
 
+## Installation
+
+Clone this repo down, and run some handy scripts to get going!
+
+```
+git clone https://github.com/github/guides
+cd guides
+script/setup
+script/server
+```
+
+
 ## Backstory
 
 We currently have materials for learning and teaching Git and GitHub
