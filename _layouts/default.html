@@ -1,13 +1,19 @@
----
-layout: site
----
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Guides</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="{{ site.url}}/components/gridism/gridism.css">
+  <link href="{{ site.url}}/styles/main.css" rel="stylesheet" />
+</head>
+<body class="wrap">
 
-<header>
-  <div class="grid">
-    <div class="unit whole center-on-mobiles">
-      <h1 class="site-logo"><a href="{{ site.url}}/">GitHub Guides</a></h1>
-    </div>
-  </div>
-</header>
+  <a name="top"></a>
 
-{{ content }}
+  {{ content }}
+
+  {% include analytics.html %}
+
+</body>
+</html>
