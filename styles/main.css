@@ -10,7 +10,52 @@ html, body {
   font-size: 16px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
-  background: #fff;
   color: #444;
 }
 
+body {
+  padding: 0;
+  background: #fff;
+}
+
+/* Main site styles */
+
+.wrap {
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+header {
+  padding: 15px 0 10px 0;
+  text-align: center;
+  background: #fff;
+  border-bottom: 1px solid #eee;
+}
+header img {
+  opacity: 0.3;
+}
+
+
+article {
+  line-height: 1.5;
+}
+article h1 {
+  margin-bottom: 10px;
+  font-size: 36px;
+  letter-spacing: -1px;
+  color: #000;
+}
+article ul.meta {
+  margin: -10px 0 30px 0;
+  padding: 0;
+  color: #999;
+}
+article ul.meta>li {
+  margin: 0 20px 0 0;
+  list-style-type: none;
+  display: inline-block;
+}
+
+article img {
+  max-width: 100%;
+}
