@@ -14,25 +14,45 @@ html, body {
 }
 
 body {
+  margin-bottom: 50px;
   padding: 0;
   background: #fff;
 }
 
 /* Main site styles */
 
+a {
+  color: #4183c4;
+  text-decoration: none;
+}
+
 .wrap {
   margin: 0 auto;
-  max-width: 700px;
+  max-width: 770px;
 }
 
 header {
   padding: 15px 0 10px 0;
-  text-align: center;
-  background: #fff;
+  background: #fafafa;
   border-bottom: 1px solid #eee;
 }
 header img {
   opacity: 0.3;
+}
+header ul.links {
+  margin: 2px 0 0;
+  padding: 0;
+  float: right;
+}
+header ul.links>li {
+  list-style-type: none;
+  display: inline-block;
+  margin-left: 20px;
+  font-size: 13px;
+  font-weight: bold;
+}
+header ul.links>li a {
+  color: #999;
 }
 
 
@@ -43,10 +63,11 @@ article h1 {
   margin-bottom: 10px;
   font-size: 36px;
   letter-spacing: -1px;
+  line-height: 1;
   color: #000;
 }
 article ul.meta {
-  margin: -10px 0 30px 0;
+  margin: 0 0 30px 0;
   padding: 0;
   color: #999;
 }
@@ -55,7 +76,56 @@ article ul.meta>li {
   list-style-type: none;
   display: inline-block;
 }
+article ul.meta .octicon {
+  margin-right: 3px;
+  color: #ccc;
+}
 
 article img {
+  margin: 15px 0;
   max-width: 100%;
+  padding: 2px;
+  background: #fafafa;
+  border: 1px solid #eee;
+}
+
+article.full {
+  width: 650px;
+}
+
+.article-list>.snippet {
+  padding: 15px 0;
+  border-top: 1px solid #eee;
+}
+.article-list>.snippet:first-child {
+  border-top: none;
+}
+.article-list a {
+  color: #444;
+}
+.article-list h3 {
+  margin: 16px 0 -8px 0;
+  color: #000;
+}
+
+ol.toc {
+  float: right;
+  width: 200px;
+  margin: 0 -220px 1em 0;
+  padding: 0;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+ol.toc>li {
+  list-style-type: none;
+  margin: 0;
+  padding: 5px 10px;
+  font-size: 14px;
+  border-top: 1px solid #eee;
+}
+ol.toc>li:first-child {
+  border-top: none;
+}
+ol.toc>li a strong {
+  color: #444;
 }

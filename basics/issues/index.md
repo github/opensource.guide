@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Collaborating with issues and notifications
+title: Issues and notifications
 ---
 
 Every repository on GitHub has a section dedicated to issue management. Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They’re a great way to foster communication between people who contribute code and everyone else who contributes to the project: documentation authors, support staff, project managers, and users of your software. Issues on public repositories can be seen and created by anyone with a GitHub account, but issues on private repositories can only be seen and created by those with access to the repository.
@@ -21,7 +21,7 @@ This guide will go over some basics of our issue management system to get a bett
 
 ----
 
-## Collaborating with notifications, @mentions, and references
+## Notifications, @mentions, and references
 
 By using @mentions and references inside of Issues, you can notify other GitHub users, teams, and cross-connect issues to each other. These are the core of collaboration in GitHub Issues and provide a flexible way to get the right people involved to resolve issues effectively.
 
@@ -61,7 +61,7 @@ This will send notifications to every member of the browser-bugs team.
 
 ----
 
-## Organization and filtering
+## Filters & Milestones
 
 ### Milestones
 
@@ -71,7 +71,7 @@ This will send notifications to every member of the browser-bugs team.
 
 ----
 
-## Getting a bigger picture
+## Seeing the bigger picture
 
 ### Pulse
 
