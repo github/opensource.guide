@@ -23,7 +23,8 @@ body {
 
 .wrap {
   margin: 0 auto;
-  max-width: 870px;
+  padding: 0 15px;
+  max-width: 900px;
 }
 
 article.full .content-body {
@@ -34,6 +35,22 @@ ol.toc {
   float: right;
   margin: 0;
   width: 200px;
+}
+
+@media (max-width: 900px) {
+  .wrap {
+    max-width: auto
+  }
+
+  article.full .content-body {
+    width: auto;
+  }
+
+  ol.toc {
+    float: none;
+    width: auto;
+    margin: -10px 0 20px;
+  }
 }
 
 /* Main site styles */
