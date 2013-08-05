@@ -32,8 +32,8 @@ article.full .content-body {
 
 ol.toc {
   float: right;
+  margin: 0;
   width: 200px;
-  margin: 0 0 1em 0;
 }
 
 /* Main site styles */
@@ -117,8 +117,6 @@ article img {
 }
 
 /* Table of Contents */
-
-.toc-item { display: none; }
 
 ol.toc {
   padding: 0;

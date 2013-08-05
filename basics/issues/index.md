@@ -5,7 +5,7 @@ read_time: 5 minute
 updated_at: Aug 3, 2013
 ---
 
-<a id="#intro" title="Intro" class="toc-item"></a>
+<a id="intro" title="Intro" class="toc-item"></a>
 Every repository on GitHub has a section dedicated to issue management. Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They’re a great way to foster communication between people who contribute code and everyone else who contributes to the project: documentation authors, support staff, project managers, and users of your software. Issues on public repositories can be seen and created by anyone with a GitHub account, but issues on private repositories can only be seen and created by those with access to the repository.
 
 What makes GitHub Issues special is a heavy focus on collaboration, references, and excellent text formatting. Each issue is composed of  a few pieces of information:
@@ -22,7 +22,7 @@ What makes GitHub Issues special is a heavy focus on collaboration, references, 
 
 This guide will go over some basics of our issue management system to get a better handle on how to use Issues for your projects.
 
-<a id="#notifications" title="Notifications, @mentions, and references" class="toc-item"></a>
+<a id="notifications" title="Notifications, @mentions, and references" class="toc-item"></a>
 
 ## Notifications, @mentions, and references
 
@@ -62,7 +62,7 @@ This will send notifications to every member of the browser-bugs team.
 
 ### References
 
-<a id="#filtering" title="Filters &amp; Milestones" class="toc-item"></a>
+<a id="filtering" title="Filters &amp; Milestones" class="toc-item"></a>
 
 ## Filters & Milestones
 
@@ -72,7 +72,7 @@ This will send notifications to every member of the browser-bugs team.
 
 ### Search
 
-<a id="#overviews" title="Overviews &amp; Reports" class="toc-item"></a>
+<a id="overviews" title="Overviews &amp; Reports" class="toc-item"></a>
 
 ## Overviews & Reports
 
@@ -80,7 +80,7 @@ This will send notifications to every member of the browser-bugs team.
 
 ### The Issue Dashboard
 
-<a id="#uses" title="Uses for Issues" class="toc-item"></a>
+<a id="uses" title="Uses for Issues" class="toc-item"></a>
 
 ## Uses for Issues
 
