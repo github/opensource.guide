@@ -19,16 +19,28 @@ body {
   background: #fff;
 }
 
+/* Columns & Layout */
+
+.wrap {
+  margin: 0 auto;
+  max-width: 870px;
+}
+
+article.full .content-body {
+  width: 650px;
+}
+
+ol.toc {
+  float: right;
+  width: 200px;
+  margin: 0 0 1em 0;
+}
+
 /* Main site styles */
 
 a {
   color: #4183c4;
   text-decoration: none;
-}
-
-.wrap {
-  margin: 0 auto;
-  max-width: 770px;
 }
 
 header {
@@ -89,10 +101,6 @@ article img {
   border: 1px solid #eee;
 }
 
-article.full {
-  width: 650px;
-}
-
 .article-list>.snippet {
   padding: 15px 0;
   border-top: 1px solid #eee;
@@ -108,10 +116,11 @@ article.full {
   color: #000;
 }
 
+/* Table of Contents */
+
+.toc-item { display: none; }
+
 ol.toc {
-  float: right;
-  width: 200px;
-  margin: 0 -220px 1em 0;
   padding: 0;
   border: 1px solid #ddd;
   border-radius: 3px;

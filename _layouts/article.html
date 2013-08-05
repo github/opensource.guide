@@ -5,28 +5,13 @@ layout: default
 <article class="full">
   <h1>{{ page.title }}</h1>
   <ul class="meta">
-    <li><span class="octicon octicon-calendar"></span> Last updated Aug 3, 2013</li>
-    <li><span class="octicon octicon-clock"></span> 5 minute read</li>
+    <li><span class="octicon octicon-calendar"></span> Last updated {{ page.updated_at }}</li>
+    <li><span class="octicon octicon-clock"></span> {{ page.read_time }} read</li>
   </ul>
 
   <ol class="toc">
-    <li>
-      <a href="#"><strong>Intro</strong></a>
-    </li>
-    <li>
-      <a href="#">Notifications, @mentions, and references</a>
-    </li>
-    <li>
-      <a href="#">Filters &amp; Milestones</a>
-    </li>
-    <li>
-      <a href="#">Seeing the bigger picture</a>
-    </li>
-    <li>
-      <a href="#">Issues around GitHub</a>
-    </li>
   </ol>
-  <div class="markdown-body">
+  <div class="markdown-body content-body">
     {{ content }}
   </div>
 </article>
