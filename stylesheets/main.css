@@ -119,7 +119,7 @@ article img {
 }
 
 .article-list>.snippet {
-  padding: 15px 0;
+  padding: 15px 0 15px 100px;
   border-top: 1px solid #eee;
 }
 .article-list>.snippet:first-child {
@@ -131,6 +131,25 @@ article img {
 .article-list h3 {
   margin: 16px 0 -8px 0;
   color: #000;
+}
+.article-list .icon {
+  float: left;
+  margin: 20px 0 0 -100px;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  border-radius: 100px;
+  background: #6CC644;
+  color: #fff;
+}
+.article-list .icon .mega-octicon {
+  line-height: 80px;
+}
+.article-list .icon-forking {
+  background: #8FB6DC;
+}
+.article-list .icon-project {
+  background: #A64599;
 }
 
 /* Table of Contents */
