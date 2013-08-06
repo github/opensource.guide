@@ -1,5 +1,29 @@
 $(function(){
   tableOfContents($('.js-toc'))
+
+
+  //
+  // Scroll Handlers
+  //
+  var toc = $('.toc')
+  var tocOffset = toc.offset().top
+  var tocPadding = 20
+
+  var didScroll = false;
+  $(window).scroll(function() {
+      didScroll = true
+  })
+
+  setInterval(function() {
+    if (didScroll) {
+      didScroll = false;
+
+      if (window.scrollY > tocOffset - tocPadding)
+        toc.addClass('sticky')
+      else
+        toc.removeClass('sticky')
+    }
+  }, 100);
 })
 
 

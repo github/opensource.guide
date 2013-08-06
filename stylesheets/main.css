@@ -32,10 +32,17 @@ article.full .content-body {
   padding-bottom: 30px;
 }
 
-ol.toc {
+.toc-wrapper {
   float: right;
-  margin: 0;
   width: 200px;
+}
+ol.toc {
+  width: 200px;
+  margin: 0;
+}
+ol.toc.sticky {
+  position: fixed;
+  top: 20px;
 }
 
 @media (max-width: 900px) {
