@@ -1,13 +1,40 @@
 $(function(){
   tableOfContents($('.js-toc'))
 
-
   //
   // Scroll Handlers
   //
+
+  // Table of contents
   var toc = $('.toc')
   var tocOffset = toc.offset().top
   var tocPadding = 20
+
+  var tocSections = $('.toc-item')
+  var tocSectionOffsets = []
+
+  // Calculates the toc section offsets, which can change as images get loaded
+  var calculateTocSections = function(){
+    tocSectionOffsets = []
+    tocSections.each(function(index, section){
+      tocSectionOffsets.push(section.offsetTop)
+    })
+  }
+  calculateTocSections()
+  $(window).bind('load', calculateTocSections)
+
+  var highlightTocSection = function(){
+    var highlightIndex = 0
+    $.each(tocSectionOffsets, function(index, offset){
+      if (window.scrollY > offset - 20){
+        highlightIndex = index
+      }
+    })
+    highlightIndex += 1
+    $('ol.toc .active').removeClass('active')
+    $('ol.toc li:nth-child(' + highlightIndex + ') a').addClass('active')
+  }
+  highlightTocSection()
 
   var didScroll = false;
   $(window).scroll(function() {
@@ -23,6 +50,7 @@ $(function(){
       else
         toc.removeClass('sticky')
     }
+    highlightTocSection()
   }, 100);
 })
 

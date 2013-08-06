@@ -189,6 +189,7 @@ ol.toc>li {
 ol.toc>li:first-child {
   border-top: none;
 }
-ol.toc>li a strong {
+ol.toc>li a.active {
+  font-weight: bold;
   color: #444;
 }
