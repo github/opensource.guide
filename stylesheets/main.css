@@ -103,6 +103,9 @@ article h1 {
   line-height: 1;
   color: #000;
 }
+article h2 {
+  color: #000;
+}
 article ul.meta {
   margin: 0 0 30px 0;
   padding: 0;
