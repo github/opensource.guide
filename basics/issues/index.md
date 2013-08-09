@@ -128,9 +128,19 @@ Visit our [advanced search](https://github.com/search/advanced?q=sidebar&ref=rep
 
 ## Overviews & Reports
 
+Outside of the Issues section, there are two other pages that help summarize what's going on with Issues across your repository and across all of your repositories.
+
 ### Pulse
 
+Underneath each repository is a section called **Pulse** — Pulse is a snapshot of everything that's happened in the repository in the past week (or day, or past 3 months, etc).
+
+![](http://cl.ly/image/0K3E1e3N1J0q/Image%202013-08-08%20at%207.53.24%20PM.png)
+
+It's a great way to catch up with repositories when you've been away, and don't want the granularity notifications offer when watching a repository.
+
 ### The Issue Dashboard
+
+Don't use it.
 
 <a id="uses" title="Uses for Issues" class="toc-item"></a>
 
