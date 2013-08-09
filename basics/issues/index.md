@@ -6,7 +6,9 @@ updated_at: Aug 3, 2013
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
-Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. Issues on public repositories can be seen and created by anyone with a GitHub account, but issues on private repositories can only be seen and created by those with access to the repository.
+Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. Issues on public repositories can be seen and created by anyone with a GitHub account, but issues on private repositories can only be seen and created by those with access to the repository. 
+
+**[Here's an example of Bootstrap's issues section](github.com/twbs/bootstrap/issues).**
 
 What makes GitHub's issue tracking special is our focus on collaboration, references, and excellent text formatting. A typical issue on GitHub looks a bit like this:
 
