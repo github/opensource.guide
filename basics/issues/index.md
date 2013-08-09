@@ -10,6 +10,8 @@ Issues are a great way to keep track of tasks, enhancements, and bugs for your p
 
 **[Here's an example of Bootstrap's issues section](github.com/twbs/bootstrap/issues).**
 
+![](http://cl.ly/image/381U0b3r3u0C/Image%202013-08-09%20at%202.18.11%20PM.png)
+
 What makes GitHub's issue tracking special is our focus on collaboration, references, and excellent text formatting. A typical issue on GitHub looks a bit like this:
 
 ![](http://cl.ly/image/3Y3z1v3A020T/Image%202013-08-08%20at%203.59.07%20PM.png)
