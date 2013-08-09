@@ -130,6 +130,16 @@ Visit our [advanced search](https://github.com/search/advanced?q=sidebar&ref=rep
 
 Outside of the Issues section, there are two other pages that help summarize what's going on with Issues across your repository and across all of your repositories.
 
+### The Issue Dashboard
+
+If you're looking for a broader listing of all of your issues across many projects, the [Issues Dashboard](https://github.com/dashboard/issues) can be a great tool. The dashboard works very similar to the issues section, but collects issues differently:
+
+* All issues in repositories you own and collaborate on
+* Issues assigned to you
+* Issues you've created
+
+If you use organizations, each of your organizations has it's own Issues dashboard that separates out Issues within the organization.
+
 ### Pulse
 
 Underneath each repository is a section called **Pulse** — Pulse is a snapshot of everything that's happened in the repository in the past week (or day, or past 3 months, etc).
@@ -138,12 +148,14 @@ Underneath each repository is a section called **Pulse** — Pulse is a snapshot
 
 It's a great way to catch up with repositories when you've been away, and don't want the granularity notifications offer when watching a repository.
 
-### The Issue Dashboard
-
-Don't use it.
-
 <a id="uses" title="Uses for Issues" class="toc-item"></a>
 
 ## Uses for Issues
 
-* https://github.com/frabcus/house/issues?labels=building&state=open
+Issues are great for tracking all kinds of things — and GitHub is a great place to easily share and collaborate on your issues.  Here's some of our favorites:
+
+* [Bug tracker for you house](https://github.com/frabcus/house/issues?labels=building&state=open) including such gems as *[the door being hung incorrectly](https://github.com/frabcus/house/issues/58)
+
+* [Bug tracker for open source projects](https://github.com/joyent/node/issues)
+
+* [Request for recipes](https://github.com/newmerator/recipes/issues) (maybe you have a good [gluten-free pizza dough recipe?](https://github.com/newmerator/recipes/issues/3)
