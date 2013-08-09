@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Issues and notifications
-read_time: 5 minute
+read_time: 7 minute
 updated_at: Aug 3, 2013
 ---
 
@@ -86,11 +86,41 @@ References make it possible to deeply connect the work being done with the bug b
 
 ## Filters & Milestones
 
+Once you've collected a lot of issues, you may find it hard to find the ones you care about. We use **milestones**, **assignees**, and **labels** to help filter and categorize issues.
+
+You can change the milestone and assignee through the grey bar at the top of issues, and assign labels on the right hand column.
+
+![](http://cl.ly/image/120i3q0P0528/Image%202013-08-08%20at%206.06.30%20PM.png)
+
+If you don't see edit buttons, that's because you don't have permission to edit the issue — ask the repository owner to add you as a collaborator.
+
 ### Milestones
+
+The easiest way to create new milestones is through the editor dropdown. Type in the name of the milestone you want to create and we will offer an option to create a new milestone.
+
+![](http://cl.ly/image/2E2q0j1L3s3D/Image%202013-08-08%20at%206.12.48%20PM.png)
+
+If you'd like to add a due date or extended description, you can  [create a new one in the milestones tab](https://github.com/github/github/issues/milestones/new).
 
 ### Assignees
 
-### Search
+Each issue can have an assignee — one person responsible for moving the issue forward. Assignees are selected the same way milestones are, through the grey bar at the top of the issue.
+
+<a id="search" title="Search" class="toc-item"></a>
+
+## Search
+
+At the very top of each page under the issues section is a search box that allows you to search through issues.
+
+* All issues mentioning the sidebar <https://github.com/twbs/bootstrap/search?q=sidebar&type=Issues>
+
+* … that are open <https://github.com/twbs/bootstrap/search?q=sidebar&state=open&type=Issues> (check out the links on the left hand sidebar to filter open/closed)
+
+* Assigned to @mdo <https://github.com/twbs/bootstrap/search?q=assignee%3Amdo&ref=cmdform&type=Issues>
+
+* Or search issues throughout all of GitHub by clicking the link in the sidebar <https://github.com/search?q=sidebar&ref=reposearch&state=open&type=Issues>
+
+Visit our [advanced search](https://github.com/search/advanced?q=sidebar&ref=reposearch&state=open&type=Issues) page to learn other ways of searching through issues: using created/updated dates, labels, authors, comment counts, by repository owner, and more.
 
 <a id="overviews" title="Overviews &amp; Reports" class="toc-item"></a>
 
