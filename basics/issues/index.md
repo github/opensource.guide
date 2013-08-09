@@ -114,13 +114,13 @@ Each issue can have an assignee — one person responsible for moving the issue 
 
 At the very top of each page under the issues section is a search box that allows you to search through issues.
 
-* All issues mentioning the sidebar <https://github.com/twbs/bootstrap/search?q=sidebar&type=Issues>
+* [All issues mentioning the sidebar](https://github.com/twbs/bootstrap/search?q=sidebar&type=Issues)
 
-* … that are open <https://github.com/twbs/bootstrap/search?q=sidebar&state=open&type=Issues> (check out the links on the left hand sidebar to filter open/closed)
+* [… that are open](https://github.com/twbs/bootstrap/search?q=sidebar&state=open&type=Issues) (check out the links on the left hand sidebar to filter open/closed)
 
-* Assigned to @mdo <https://github.com/twbs/bootstrap/search?q=assignee%3Amdo&ref=cmdform&type=Issues>
+* [Assigned to @mdo](https://github.com/twbs/bootstrap/search?q=assignee%3Amdo&ref=cmdform&type=Issues)
 
-* Or search issues throughout all of GitHub by clicking the link in the sidebar <https://github.com/search?q=sidebar&ref=reposearch&state=open&type=Issues>
+* [Or search issues throughout all of GitHub by clicking the link in the sidebar](https://github.com/search?q=sidebar&ref=reposearch&state=open&type=Issues)
 
 Visit our [advanced search](https://github.com/search/advanced?q=sidebar&ref=reposearch&state=open&type=Issues) page to learn other ways of searching through issues: using created/updated dates, labels, authors, comment counts, by repository owner, and more.
 
