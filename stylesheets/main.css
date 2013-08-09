@@ -139,6 +139,9 @@ article img {
 .article-list a {
   color: #444;
 }
+.article-list>.snippet:hover h3 a {
+  color: #4183c4;
+}
 .article-list h3 {
   margin: 16px 0 -8px 0;
   color: #000;

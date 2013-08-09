@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Issues and notifications
-read_time: 7 minute
-updated_at: Aug 3, 2013
+read_time: 8 minute
+updated_at: Aug 9, 2013
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
