@@ -34,11 +34,3 @@ These are the people you should get in touch with if you have questions:
 
 - [@kneath](https://github.com/kneath)
 - [@tclem](https://github.com/tclem)
-
-In the future, the following individuals would love to be part of the growth
-and maintenance of the site:
-
-- [@chrissiebrodigan](https://github.com/chrissiebrodigan)
-- [@cobyism](https://github.com/cobyism)
-- [@brntbeer](https://github.com/brntbeer)
-- [@github/training-team](https://github.com/organizations/github/teams/81241)
