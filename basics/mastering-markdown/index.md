@@ -13,7 +13,7 @@ Since writing is a critical form of collaboration, you will want it to be as ric
 
 [Markdown, which has been around since 2004](http://daringfireball.net/projects/markdown/) offers an easy but rich way to format. Here’s an [example from the GitHub API developer documentation](https://github.com/github/developer.github.com).
 
-![GitHub’s API Developer Site README](TODO)
+![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
 
 ## A little bit about the format
 > (How much of this should be in the Help article and how much should be in the guide? https://help.github.com/articles/github-flavored-markdown)
@@ -21,11 +21,11 @@ Since writing is a critical form of collaboration, you will want it to be as ric
 
 Imagine you have a document with several paragraphs. You think, “This would look best if I could do some formatting such as a header for a paragraph, like I would in a traditional word processor.” To practice this, [create a new practice issue](https://github.com/githubtraining/sample-markdown/issues/new), type a bit of text, type a “#” in front of the text line containing your header. You have now created the first heading of your document.
 
-![Raw Markdown in an Issue](TODO)
+![Raw Markdown in an Issue](masteringmarkdown-sample-issue-raw.jpg)
 
 Click the Preview tab to see a rendered view of your Markdown.
 
-![Previewed Markdown in an Issue](TODO)
+![Previewed Markdown in an Issue](masteringmarkdown-sample-issue-preview.jpg)
 
 ## Basic use in a file
 The most common locations that we see Markdown used is in Issues, as discussed above, and in README.md files.
