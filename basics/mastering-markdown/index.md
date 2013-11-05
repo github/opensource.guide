@@ -1,4 +1,11 @@
-# Mastering Markdown
+---
+layout: article
+title: Getting your project on GitHub
+read_time: 1 minute
+updated_at: Aug 3, 2013
+---
+
+<a id="intro" title="Intro" class="toc-item"></a>
 Markdown is a lightweight and easy to use syntax for styling all forms of writing on the GitHub platform.
 
 **What you will learn:**
@@ -8,14 +15,19 @@ Markdown is a lightweight and easy to use syntax for styling all forms of writin
 * How to leverage GitHub’s automatic Markdown rendering
 * How to apply GitHub’s unique Markdown extensions
 
+<a id="what" title="What is Markdown?" class="toc-item"></a>
 ## What is Markdown?
+
 Since writing is a critical form of collaboration, you will want it to be as rich as possible. As you start writing in Issues (bug tickets), Pull Requests (code reviews and discussions) and Gists (short single-file documents), you’ll quickly desire some formatting capabilities.  But formatting, to most people means a series of buttons on toolbars with Bold, Italics, Underline, and Hyperlink.  Those buttons often create invisible codes in the document behind your editor that make the document heavier to transmit, more complicated to compare to another version, and challenging to merge in changes from your collaborators.
 
 [Markdown, which has been around since 2004](http://daringfireball.net/projects/markdown/) offers an easy but rich way to format. Here’s an [example from the GitHub API developer documentation](https://github.com/github/developer.github.com).
 
 ![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
 
+
+<a id="format" title="The format" class="toc-item"></a>
 ## A little bit about the format
+
 > (How much of this should be in the Help article and how much should be in the guide? https://help.github.com/articles/github-flavored-markdown)
 > (What should we have them using for following along? Gist? Issues? README.md?)
 
@@ -27,9 +39,12 @@ Click the Preview tab to see a rendered view of your Markdown.
 
 ![Previewed Markdown in an Issue](masteringmarkdown-sample-issue-preview.jpg)
 
+<a id="fileuse" title="Use in a file" class="toc-item"></a>
 ## Basic use in a file
+
 The most common locations that we see Markdown used is in Issues, as discussed above, and in README.md files.
 
+<a id="gfm" title="Issues, Gists, Pull Requests, Comments" class="toc-item"></a>
 ## Basic use everywhere (Issues, Gists, Pull Requests)
 
 ## Special Flavors
