@@ -1,3 +1,4 @@
+baseurl: /guides
 gauges_tracker_id: 5172d522108d7b1cc0000040
 exclude: [gems]
 markdown: rdiscount
