@@ -165,6 +165,9 @@ article img {
 .article-list .icon-project {
   background: #A64599;
 }
+.article-list .icon-markdown {
+  background: #222;
+}
 
 footer {
   margin-top: 20px;
