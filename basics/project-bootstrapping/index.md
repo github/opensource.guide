@@ -19,6 +19,16 @@ Here's some of my favorite reasons to push projects to GitHub:
 
 Once your project is on GitHub, we provide a linkable interface for every file in your project. For example, this is Mike Bostock's popular [d3](https://github.com/mbostock/d3) project for javascript base data-driven documents.
 
+We end up using the word Git and GitHub a lot in this article, so here's some clarification that might help:
+
+* **Git** — This is the version control tool that GitHub is built on top of.
+
+* **GitHub** — GitHub is our company, a website, and the name of our software. We build software and websites to help you interact with Git repositories in a nice way.
+
+* **GitHub.com** — This is the website you log into to view repositories online.
+
+* **GitHub Desktop** — This is an application that you install on your computer that helps you connect code on your machine to github.com.
+
 <a id="desktop" title="GitHub Desktop" class="toc-item"></a>
 ## GitHub Desktop
 
@@ -43,7 +53,7 @@ All Git repositories are based on *commits* — snapshots of your code at a poi
 
 Navigate to the changes tab and press **Commit** to create your first commit. Every time you change files, you'll need to create a new commit. Commits are like saving a file — it tells Git that you'd like to remember this point in history.
 
-Make as many commits as you like locally — no one but you can see commits until you push them to GitHub.com.
+Make as many commits as you like locally — no one but you can see commits until you push them to GitHub.com. Git
 
 <a id="pushit" title="Push your code" class="toc-item"></a>
 ## Push your code to GitHub.com
@@ -62,6 +72,22 @@ Now that you've published the repository you have it in two places:
 
 Each time you make changes to your local repository, you'll need to sync your changes (upper right of GitHub Desktop) to make sure they show up online.
 
+<a id="pullit" title="Pulling code" class="toc-item"></a>
+## Getting code from GitHub.com
+
+If you work on multiple machines, or want to get some code that's on GitHub.com onto your machine, you'll need to pull changes or clone a repository:
+
+* **Pulling changes** — This will bring code from the online repository onto your computer (for example if your co-worker pushed up some changes). You can accomplish this by clicking "Sync" in the upper right of GitHub Desktop.
+
+* **Clone a repository** — This will create a new copy of a repository on your machine. You can accomplish this by pressing the "Clone in Desktop" button on github.com.
+
+<a id="celebrate" title="Celebrate!" class="toc-item"></a>
 ## Celebrate!
 
-You're done! Here's a bunch of [awesome things you can do with repositories](https://github.com/features).
+Now you know the basics of setting up projects on GitHub!
+
+* Download and use GitHub Desktop.
+* Make commits every time you accomplish a goal or want to save your progress.
+* Sync changes with GitHub.com to push your new commits and pull commits from others.
+
+And you're done! Here's a bunch of [awesome things you can do with repositories](https://github.com/features).
