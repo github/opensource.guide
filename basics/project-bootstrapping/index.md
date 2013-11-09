@@ -5,7 +5,9 @@ read_time: 1 minute
 updated_at: Aug 3, 2013
 ---
 <a id="intro" title="Intro" class="toc-item"></a>
-Everything on GitHub revolves around code. And chances are if you're joining GitHub, you've got some code that you might want to push to GitHub. Here's some reasons you should put your project on GitHub:
+Software is at the heart of GitHub — and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea! 
+
+Here's some of my favorite reasons to push projects to GitHub:
 
 * **Version Control** — Everything on GitHub is stored in [Git]http://git-scm.com/, the best version control system around. Version control allows you to  experiment and make mistakes in code without messing up your final product.
 
@@ -15,7 +17,7 @@ Everything on GitHub revolves around code. And chances are if you're joining Git
 
 ![](http://cl.ly/image/242S260f012S/Image%202013-11-05%20at%202.03.09%20PM.png)
 
-Once your project is on GitHub, we provide a linkable interface for every file in your project. This is Mike Bostock's popular [d3](https://github.com/mbostock/d3) project for javascript base data-driven documents.
+Once your project is on GitHub, we provide a linkable interface for every file in your project. For example, this is Mike Bostock's popular [d3](https://github.com/mbostock/d3) project for javascript base data-driven documents.
 
 <a id="desktop" title="GitHub Desktop" class="toc-item"></a>
 ## GitHub Desktop
@@ -31,7 +33,7 @@ The easiest way to get your project into GitHub Desktop is to drag the folder wi
 
 ![](http://cl.ly/image/3H2Q3p2Y3q0s/Image%202013-11-05%20at%202.56.56%20PM.png)
 
-If you drag in an existing Git repository, you can skip ahead to the [Push your code to GitHub.com](#pushit) section. If the folder isn't a Git repository yet, the application will allow you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder — it'll just create some hidden files that allow Git to do it's magic.
+If you are dragging in an existing Git repository, you can skip ahead to the [Push your code to GitHub.com](#pushit) section. However, if the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder — it will create some hidden files that allow Git to do it's magic.
 
 ### Your first commit
 
@@ -39,19 +41,27 @@ All Git repositories are based on *commits* — snapshots of your code at a poi
 
 ![](http://cl.ly/image/0b353m1V0T3T/Image%202013-11-05%20at%203.11.16%20PM.png)
 
-Navigate to the changes tab and press **Commit** to create your first commit. Every time you change files and want to remember that point in time, you'll need to create a new commit.
+Navigate to the changes tab and press **Commit** to create your first commit. Every time you change files, you'll need to create a new commit. Commits are like saving a file — it tells Git that you'd like to remember this point in history.
 
-Make as many commits as you like locally — no one but you can see commits that aren't pushed.
+Make as many commits as you like locally — no one but you can see commits until you push them to GitHub.com.
 
 <a id="pushit" title="Push your code" class="toc-item"></a>
 ## Push your code to GitHub.com
 
-Once your code is in a good place, it's time to push it to GitHub. Press the "Push to GitHub" button in the top right corner, and GitHub Desktop will ask you what kind of repository to push this as.
+Press the "Push to GitHub" button in the top right corner, and GitHub Desktop will ask you what kind of repository to create:
 
-* **Public repositories**  — Anyone can see this repository, but only you can choose who can commit to the repository. Public repositories are unlimited and free on GitHub.
+* **Public repository**  — Anyone can see this repository, but you can choose who can commit to the repository (make changes). You can create as many public repositories as you want on GitHub for free.
 
-* **Private repositories** — You choose who can see and commit to this repository. No one can know about the repository unless you tell them about it. Private repositories require a [paid subscription](https://github.com/settings/billing) on GitHub.
+* **Private repository** — By default, only you can see a private repository. You can then choose who can see and commit to this repository by adding collaborators. Private repositories require a [paid subscription](https://github.com/settings/billing) on GitHub.
+
+Now that you've published the repository you have it in two places:
+
+* **Local repository on your computer** — You can work with this repository without internet using GitHub Desktop. This is where you edit files and make changes to your project.
+
+* **Remote repository on github.com** — This is where you can send people links to see your code and use all of GitHub's other features (like Issue management and Pull Requests).
+
+Each time you make changes to your local repository, you'll need to sync your changes (upper right of GitHub Desktop) to make sure they show up online.
 
 ## Celebrate!
 
-And… your'e done! Now that your project is on GitHub, you can start exploring some of the [awesome things you can do with repositories](https://github.com/features).
+You're done! Here's a bunch of [awesome things you can do with repositories](https://github.com/features).
