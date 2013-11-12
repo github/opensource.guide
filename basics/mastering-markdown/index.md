@@ -21,7 +21,9 @@ Markdown is a lightweight and easy to use syntax for styling all forms of writin
 
 Since writing is a critical form of collaboration, you will want it to be as rich as possible. As you start writing in Issues (bug tickets), Pull Requests (code reviews and discussions) and Gists (short single-file documents), you’ll quickly desire some formatting capabilities.  But formatting, to most people means a series of buttons on toolbars with Bold, Italics, Underline, and Hyperlink.  Those buttons often create invisible codes in the document behind your editor that make the document heavier to transmit, more complicated to compare to another version, and challenging to merge in changes from your collaborators.
 
-[Markdown, which has been around since 2004](http://daringfireball.net/projects/markdown/) offers an easy but rich way to format. Here’s an [example from the GitHub API developer documentation](https://github.com/github/developer.github.com).
+[Markdown, which has been around since 2004](http://daringfireball.net/projects/markdown/) offers an easy but rich way to format. 
+
+** [Here’s an example from the GitHub API developer documentation](https://github.com/github/developer.github.com). **
 
 ![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
 
