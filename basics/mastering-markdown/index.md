@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Getting your project on GitHub
+title: Mastering Markdown
 read_time: 1 minute
 updated_at: Aug 3, 2013
 ---
@@ -9,6 +9,7 @@ updated_at: Aug 3, 2013
 Markdown is a lightweight and easy to use syntax for styling all forms of writing on the GitHub platform.
 
 **What you will learn:**
+
 * How the Markdown format makes styled collaborative editing easy
 * How Markdown differs from traditional formatting approaches
 * How to use Markdown to format text
