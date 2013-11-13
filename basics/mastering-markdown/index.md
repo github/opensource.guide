@@ -26,13 +26,12 @@ Markdown is a way to style text on the web. Bold, italics, font size, images, an
 ![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
 
 
-<a id="format" title="The format" class="toc-item"></a>
+<a id="format" title="The Format" class="toc-item"></a>
 ## A little bit about the format
 
-> (How much of this should be in the Help article and how much should be in the guide? https://help.github.com/articles/github-flavored-markdown)
-> (What should we have them using for following along? Gist? Issues? README.md?)
+Imagine you have a document with several paragraphs. You think, “This would look best if I could do some formatting such as a header for a paragraph, like I would in a traditional word processor.”
 
-Imagine you have a document with several paragraphs. You think, “This would look best if I could do some formatting such as a header for a paragraph, like I would in a traditional word processor.” To practice this, [create a new practice issue](https://github.com/githubtraining/sample-markdown/issues/new), type a bit of text, type a “#” in front of the text line containing your header. You have now created the first heading of your document.
+To practice this, [create a new practice issue](https://github.com/githubtraining/sample-markdown/issues/new) and type a bit of text in the comment section with a "#" in front to denote your header. You have now created the first heading of your document.
 
 ![Raw Markdown in an Issue](masteringmarkdown-sample-issue-raw.jpg)
 
