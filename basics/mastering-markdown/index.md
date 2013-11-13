@@ -39,14 +39,7 @@ Click the Preview tab to see a rendered view of your Markdown.
 
 ![Previewed Markdown in an Issue](masteringmarkdown-sample-issue-preview.jpg)
 
-<a id="fileuse" title="Use in a file" class="toc-item"></a>
-## Basic use in a file
-
-The most common locations that we see Markdown used is in Issues, as discussed above, and in README.md files.
-
-<a id="gfm" title="Issues, Gists, Pull Requests, Comments" class="toc-item"></a>
-## Basic use everywhere (Issues, Gists, Pull Requests)
-
+<a id="special" title="Special Flavors" class="toc-item"></a>
 ## Special Flavors
 
 Often basic Markdown flavored text can benefit from formatting beyond basic font sizes, bolding, and italicizing. With GitHub Flavored Markdown, you can quickly create rich content like Task Lists, code blocks with syntax highlighting, and sentiments through emoji. Documents retain clean and simple text content but have rich rendered views.
@@ -54,11 +47,17 @@ Often basic Markdown flavored text can benefit from formatting beyond basic font
 * TaskList
 * Strikethrough
 * Emoji
-* Code fences ```
-* Syntax highlighting for code blocks with language definition
-* SHA references
-* Issues references in same repo
-* Username @mentions
-* Cross-repo mentions with username/repo#Issue
-* URL auto-linking
+* Code fences
 * Relative image linking within repository
+
+<a id="gfm" title="Basic Use Beyond Issues" class="toc-item"></a>
+## Basic Use Beyond Issues ( Pull Requests, Gists, and Files)
+
+### Pull Requests
+
+### Gists
+
+### Files
+
+Files ending in ".md"
+
