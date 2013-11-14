@@ -66,10 +66,17 @@ Special Markdown that is everywhere including files are more related to text and
 ## Basic Use Beyond Issues ( Pull Requests, Gists, and Files)
 
 ### Pull Requests
+Pull Request work just like Issues, only discussion is about code. Comment on a Pull Request just like you would an issue.
 
 ### Gists
+Gists are a perfect place to have small snippets of text for Markdown files. Whether these are code examples or small notes to yourself, gists make it perfect to create things fast.
+
+![gist-to-do-file](https://f.cloud.github.com/assets/45141/1545382/9b986474-4d75-11e3-8e26-c712711fcdda.png)
+
 
 ### Files
 
-Files ending in ".md"
+Files ending in ".md" are rendered on GitHub to allow you to write more rich content using GitHub Flavored Markdown. Many people first do this with their README for their repository to give people an idea of what their project may be about and how to use it.
+
+![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
 
