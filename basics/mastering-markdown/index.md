@@ -41,11 +41,10 @@ Click the Preview tab to see a rendered view of your Markdown.
 
 <a id="special" title="Special Flavors" class="toc-item"></a>
 ## Special Flavors
-
 Depending on the location of where we're writing markdown, we may have a few additional sets of styling we can use Markdown for.
 
-### In Comments / Issues / Pull Requests / Gists
-Comments, Issues, Pull Requests and Gist have a nice set of additional Markdown syntax that writing in files don't, these relate to sets of data that may change or be updated.
+### Comment Boxes
+Comments have a nice set of additional Markdown syntax that writing in files don't, these relate to sets of data that may change or be updated.
 
 * TaskList
 * SHA References
@@ -53,12 +52,12 @@ Comments, Issues, Pull Requests and Gist have a nice set of additional Markdown 
 * Username @mentions
 * Cross-repository memtions with username/repo#issue
 * Automatic linking for URLs
+* Emoji
 
-### Markdown Files + Everywhere
+### Markdown Files + Comment Boxes
 Special Markdown that is everywhere including files are more related to text and not dynamic content.
 
 * Strikethrough
-* Emoji
 * Code fences to show formated code examples
 * Syntax highlighting for code blocks with language definition
 * Relative image linking within repository
