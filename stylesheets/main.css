@@ -202,3 +202,7 @@ ol.toc>li a.active {
   font-weight: bold;
   color: #444;
 }
+
+.bold {
+  font-weight: bold;
+}
