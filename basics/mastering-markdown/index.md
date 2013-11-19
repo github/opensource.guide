@@ -63,10 +63,12 @@ Special Markdown that is everywhere including files are more related to text and
 * Relative image linking within repository
 
 <a id="gfm" title="Basic Use Beyond Issues" class="toc-item"></a>
-## Basic Use Beyond Issues ( Pull Requests, Gists, and Files)
+## Basic Use Beyond Issues
 
 ### Pull Requests
 Pull Request work just like Issues, only discussion is about code. Comment on a Pull Request just like you would an issue.
+
+![from-rails-rails](https://f.cloud.github.com/assets/45141/1573881/09a0fbd4-5136-11e3-8e60-27ad047cce2a.png)
 
 ### Gists
 Gists are a perfect place to have small snippets of text for Markdown files. Whether these are code examples or small notes to yourself, gists make it perfect to create things fast.
