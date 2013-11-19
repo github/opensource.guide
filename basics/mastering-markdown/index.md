@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Getting your project on GitHub
+title: Mastering Markdown
 read_time: 1 minute
 updated_at: Aug 3, 2013
 ---
@@ -9,6 +9,7 @@ updated_at: Aug 3, 2013
 Markdown is a lightweight and easy to use syntax for styling all forms of writing on the GitHub platform.
 
 **What you will learn:**
+
 * How the Markdown format makes styled collaborative editing easy
 * How Markdown differs from traditional formatting approaches
 * How to use Markdown to format text
@@ -18,20 +19,19 @@ Markdown is a lightweight and easy to use syntax for styling all forms of writin
 <a id="what" title="What is Markdown?" class="toc-item"></a>
 ## What is Markdown?
 
-Since writing is a critical form of collaboration, you will want it to be as rich as possible. As you start writing in Issues (bug tickets), Pull Requests (code reviews and discussions) and Gists (short single-file documents), you’ll quickly desire some formatting capabilities.  But formatting, to most people means a series of buttons on toolbars with Bold, Italics, Underline, and Hyperlink.  Those buttons often create invisible codes in the document behind your editor that make the document heavier to transmit, more complicated to compare to another version, and challenging to merge in changes from your collaborators.
+Markdown is a way to style text on the web. Bold, italics, font size, images, and lists are just a few of the things we can do with it.
 
-[Markdown, which has been around since 2004](http://daringfireball.net/projects/markdown/) offers an easy but rich way to format. Here’s an [example from the GitHub API developer documentation](https://github.com/github/developer.github.com).
+** [Here’s an example from the GitHub API developer documentation](https://github.com/github/developer.github.com). **
 
 ![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
 
 
-<a id="format" title="The format" class="toc-item"></a>
+<a id="format" title="The Format" class="toc-item"></a>
 ## A little bit about the format
 
-> (How much of this should be in the Help article and how much should be in the guide? https://help.github.com/articles/github-flavored-markdown)
-> (What should we have them using for following along? Gist? Issues? README.md?)
+Imagine you have a document with several paragraphs. You think, “This would look best if I could do some formatting such as a header for a paragraph, like I would in a traditional word processor.”
 
-Imagine you have a document with several paragraphs. You think, “This would look best if I could do some formatting such as a header for a paragraph, like I would in a traditional word processor.” To practice this, [create a new practice issue](https://github.com/githubtraining/sample-markdown/issues/new), type a bit of text, type a “#” in front of the text line containing your header. You have now created the first heading of your document.
+To practice this, [create a new practice issue](https://github.com/githubtraining/sample-markdown/issues/new) and type a bit of text in the comment section with a "#" in front to denote your header. You have now created the first heading of your document.
 
 ![Raw Markdown in an Issue](masteringmarkdown-sample-issue-raw.jpg)
 
@@ -39,26 +39,46 @@ Click the Preview tab to see a rendered view of your Markdown.
 
 ![Previewed Markdown in an Issue](masteringmarkdown-sample-issue-preview.jpg)
 
-<a id="fileuse" title="Use in a file" class="toc-item"></a>
-## Basic use in a file
-
-The most common locations that we see Markdown used is in Issues, as discussed above, and in README.md files.
-
-<a id="gfm" title="Issues, Gists, Pull Requests, Comments" class="toc-item"></a>
-## Basic use everywhere (Issues, Gists, Pull Requests)
-
+<a id="special" title="Special Flavors" class="toc-item"></a>
 ## Special Flavors
+Depending on the location of where we're writing markdown, we may have a few additional sets of styling we can use Markdown for.
 
-Often basic Markdown flavored text can benefit from formatting beyond basic font sizes, bolding, and italicizing. With GitHub Flavored Markdown, you can quickly create rich content like Task Lists, code blocks with syntax highlighting, and sentiments through emoji. Documents retain clean and simple text content but have rich rendered views.
+### Comment Boxes
+Comments have a nice set of additional Markdown syntax that writing in files don't, these relate to sets of data that may change or be updated.
 
 * TaskList
-* Strikethrough
-* Emoji
-* Code fences ```
-* Syntax highlighting for code blocks with language definition
-* SHA references
+* SHA References
 * Issues references in same repo
 * Username @mentions
-* Cross-repo mentions with username/repo#Issue
-* URL auto-linking
+* Cross-repository memtions with username/repo#issue
+* Automatic linking for URLs
+* Emoji
+
+### Markdown Files + Comment Boxes
+Special Markdown that is everywhere including files are more related to text and not dynamic content.
+
+* Strikethrough
+* Code fences to show formated code examples
+* Syntax highlighting for code blocks with language definition
 * Relative image linking within repository
+
+<a id="gfm" title="Basic Use Beyond Issues" class="toc-item"></a>
+## Basic Use Beyond Issues
+
+### Pull Requests
+Pull Request work just like Issues, only discussion is about code. Comment on a Pull Request just like you would an issue.
+
+![from-rails-rails](https://f.cloud.github.com/assets/45141/1573881/09a0fbd4-5136-11e3-8e60-27ad047cce2a.png)
+
+### Gists
+Gists are a perfect place to have small snippets of text for Markdown files. Whether these are code examples or small notes to yourself, gists make it perfect to create things fast.
+
+![gist-to-do-file](https://f.cloud.github.com/assets/45141/1545382/9b986474-4d75-11e3-8e26-c712711fcdda.png)
+
+
+### Files
+
+Files ending in ".md" are rendered on GitHub to allow you to write more rich content using GitHub Flavored Markdown. Many people first do this with their README for their repository to give people an idea of what their project may be about and how to use it.
+
+![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
+
