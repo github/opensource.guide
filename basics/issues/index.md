@@ -1,12 +1,14 @@
 ---
 layout: article
-title: Issues and notifications
+title: Collaborating with Issues & Notifications
 read_time: 8 minute
 updated_at: Aug 9, 2013
+icon: issue-closed
+title_sha: d145998e941f058151cadcc7489275a8bb5d31d5
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
-Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. Issues on public repositories can be seen and created by anyone with a GitHub account, but issues on private repositories can only be seen and created by those with access to the repository. 
+Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. Issues on public repositories can be seen and created by anyone with a GitHub account, but issues on private repositories can only be seen and created by those with access to the repository.
 
 ** [Here's an example of Bootstrap's issues section](https://github.com/twbs/bootstrap/issues). **
 
@@ -36,7 +38,7 @@ By using @mentions and references inside of Issues, you can notify other GitHub 
 
 ### Notifications
 
-[Notifications](https://github.com/notifications) are GitHub’s way to keep up to date with your Issues. You can use them to find out about new issues on repositories, or just to know when someone needs your input to move forward on an issue. 
+[Notifications](https://github.com/notifications) are GitHub’s way to keep up to date with your Issues. You can use them to find out about new issues on repositories, or just to know when someone needs your input to move forward on an issue.
 
 There are two ways to receive notifications: via email, and via the web. You can configure how you receive notifications [in your settings](https://github.com/settings/notifications). I like to recommend that you receive web + email notifications for **Participating** and web notifications for **Watching**.
 
@@ -80,7 +82,7 @@ When you do this, we'll create an event inside of issue #42 that looks something
 
 Issue in another repository? Just include the repository before the name like `kneath/example-project#42`. You can also reference issues from commits if you like. Include the issue number inside of the commit message.
 
-![](http://cl.ly/image/3U2o202e1a1Q/Image%202013-08-08%20at%204.50.34%20PM.png) 
+![](http://cl.ly/image/3U2o202e1a1Q/Image%202013-08-08%20at%204.50.34%20PM.png)
 
 By prefacing your commits with "Fixes", "Fixed", "Fix", "Closes", "Closed", or "Close" when the commit is merged into master, it will also automatically close the issue.
 

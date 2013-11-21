@@ -1,14 +1,18 @@
-var guilloche = function(canvas, string){
+var guilloche = function(canvas, opts){
 
-  var majorROffset        = parseInt(string.substr(7, 2), 16) / 10,
-      minorROffset        = parseInt(string.substr(9, 1), 16) / 10,
-      angleOffset         = parseInt(string.substr(10, 1), 16) / 10,
-      radiusEffectOffset  = parseInt(string.substr(11, 1), 16) / 1.5,
-      stepsOffset         = parseInt(string.substr(12, 2), 16),
-      hueOffset           = parseInt(string.substr(14, 3), 16),
-      satOffset           = parseInt(string.substr(17, 1), 16);
+  var opts = opts || {};
 
-  var ctx                  = canvas.getContext('2d'),
+  var listingCenter        = opts.center || { x: 220, y: 65 },
+
+      majorROffset         = parseInt(opts.string.substr(7, 2), 16) / 10,
+      minorROffset         = parseInt(opts.string.substr(9, 1), 16) / 10,
+      angleOffset          = parseInt(opts.string.substr(10, 1), 16) / 10,
+      radiusEffectOffset   = parseInt(opts.string.substr(11, 1), 16) / 1.5,
+      stepsOffset          = parseInt(opts.string.substr(12, 2), 16),
+      hueOffset            = parseInt(opts.string.substr(14, 3), 16),
+      satOffset            = parseInt(opts.string.substr(17, 1), 16),
+
+      ctx                  = canvas.getContext('2d'),
       size                 = {x: canvas.offsetWidth, y: canvas.offsetHeight},
       halfSize             = {x: size.x / 2, y: size.y / 2},
       majorR               = 379.6 - majorROffset,
@@ -16,13 +20,12 @@ var guilloche = function(canvas, string){
       angleMultiplier      = 50 - angleOffset,
       radiusEffectConstant = 250 - radiusEffectOffset,
       steps                = 1250 - stepsOffset,
-      centerPoint          = { x: 150, y: 42 },
+      centerPoint          = listingCenter,
       color                = 'rgba(255,255,255, 0.06)',
       globalAlpha          = 1.0,
       baseBGColor          = Color("#933c3c");
 
-
-  mappedHueOffset = map(hueOffset, 0, 4095, 0, 360);
+  mappedHueOffset = map(hueOffset, 0, 4095, 0, 359);
   baseBGColor.hue(360 - mappedHueOffset);
   if (satOffset % 2) {
     baseBGColor.saturate(satOffset / 10);

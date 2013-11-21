@@ -3,9 +3,11 @@ layout: article
 title: Getting your project on GitHub
 read_time: 1 minute
 updated_at: Aug 3, 2013
+icon: device-desktop
+title_sha: 47011690ae87bd6102c016f144857b7e4e3bb11a
 ---
 <a id="intro" title="Intro" class="toc-item"></a>
-Software is at the heart of GitHub — and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea! 
+Software is at the heart of GitHub — and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!
 
 Here's some of my favorite reasons to push projects to GitHub:
 

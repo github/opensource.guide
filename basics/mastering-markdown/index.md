@@ -3,6 +3,8 @@ layout: article
 title: Mastering Markdown
 read_time: 1 minute
 updated_at: Aug 3, 2013
+icon: list-unordered
+title_sha: e8df966767fbd3a383c53216799beb4b4564cb74
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>

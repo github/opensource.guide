@@ -3,9 +3,19 @@ $(function(){
   $('.js-guide-listing').each(function() {
     var titleSHA = $(this).find('.js-guide-cover-title').data('title-sha');
     var canvas   = $(this).find('.js-guilloche')[0];
-    guilloche(canvas, titleSHA);
+    guilloche(canvas, {string: titleSHA, type: "listing"});
   });
 
+  $('.js-guide-article').each(function() {
+    var titleSHA = $(this).find('.js-guide-article-title').data('title-sha');
+    var canvas   = $(this).find('.js-guilloche')[0];
+    canvas.setAttribute('width', $(this).width());
+    canvas.setAttribute('height', $(this).height());
+    center = {x: $(this).find('.wrap').offset().left + 35, y: 113};
+    console.log(center);
+
+    guilloche(canvas, {string: titleSHA, type: "article", center: center});
+  });
 
   tableOfContents($('.js-toc'))
 
