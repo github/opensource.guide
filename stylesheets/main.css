@@ -7,24 +7,99 @@
 }
 
 html, body {
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
   color: #444;
+  background-color: #fff;
 }
 
-body {
-  margin-bottom: 50px;
-  padding: 0;
-  background: #fff;
+/* Guide listings */
+
+.guide-listings {
+  margin-top: 50px;
+  width: 990px;
 }
+
+.guide-listing {
+  width: 440px;
+  float: left;
+  margin-right: 50px;
+}
+
+.guide-cover-guilloche {
+  position: absolute;
+  z-index: 1;
+  width: 440px;
+  height: 225px;
+}
+
+.guide-cover {
+  height: 225px;
+  color: #fff;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
+
+.guide-cover-blue {
+  background-color: #207de5;
+}
+
+.guide-cover-green {
+  background-color: #009800;
+}
+
+.guide-cover-orange {
+  background-color: #eb6420;
+}
+
+.guide-cover a {
+  color: #fff;
+  display: block;
+  width: 440px;
+  height: 225px;
+  padding: 30px 40px;
+}
+
+.icon-container {
+  width: 68px;
+  height: 68px;
+  border-radius: 34px;
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  margin: 0 auto;
+}
+
+.icon-container .mega-octicon {
+  line-height: 68px;
+}
+
+.guide-cover-title {
+  font-size: 32px;
+  font-weight: normal;
+  line-height: 1.3;
+  margin-top: 20px;
+}
+
+.guide-summary {
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+.guide-read-time {
+  font-size: 14px;
+  color: #888;
+}
+
+
 
 /* Columns & Layout */
 
 .wrap {
   margin: 0 auto;
   padding: 0 15px;
-  max-width: 900px;
+  max-width: 960px;
 }
 
 article.full .content-body {
@@ -129,7 +204,7 @@ article img {
   border: 1px solid #eee;
 }
 
-.article-list>.snippet {
+/*.article-list>.snippet {
   padding: 15px 0 15px 100px;
   border-top: 1px solid #eee;
 }
@@ -168,7 +243,7 @@ article img {
 .article-list .icon-markdown {
   background: #222;
 }
-
+*/
 footer {
   margin-top: 20px;
   padding-top: 20px;
@@ -201,4 +276,14 @@ ol.toc>li:first-child {
 ol.toc>li a.active {
   font-weight: bold;
   color: #444;
+}
+
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear:  both;
 }

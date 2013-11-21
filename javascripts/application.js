@@ -1,4 +1,12 @@
 $(function(){
+
+  $('.js-guilloche').each(function() {
+    guilloche($(this)[0]);
+  });
+  // canvas  = $('.js-guilloche');
+  // guilloche(canvas[0]);
+
+
   tableOfContents($('.js-toc'))
 
   //
@@ -82,3 +90,6 @@ var scrollTo = function(e) {
     location.hash = elScrollTo;
   })
 }
+
+
+
