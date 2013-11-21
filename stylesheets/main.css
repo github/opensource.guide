@@ -42,18 +42,6 @@ html, body {
   z-index: 2;
 }
 
-.guide-cover-blue {
-  background-color: #207de5;
-}
-
-.guide-cover-green {
-  background-color: #009800;
-}
-
-.guide-cover-orange {
-  background-color: #eb6420;
-}
-
 .guide-cover a {
   color: #fff;
   display: block;
