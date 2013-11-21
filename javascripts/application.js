@@ -1,10 +1,10 @@
 $(function(){
 
-  $('.js-guilloche').each(function() {
-    guilloche($(this)[0]);
+  $('.js-guide-listing').each(function() {
+    var titleSHA = $(this).find('.js-guide-cover-title').data('title-sha');
+    var canvas   = $(this).find('.js-guilloche')[0];
+    guilloche(canvas, titleSHA);
   });
-  // canvas  = $('.js-guilloche');
-  // guilloche(canvas[0]);
 
 
   tableOfContents($('.js-toc'))
@@ -91,5 +91,20 @@ var scrollTo = function(e) {
   })
 }
 
+function str2hex(input) {
+  try { hexcase } catch(e) { hexcase=0; }
+  var hex_tab = hexcase ? "0123456789ABCDEF" : "0123456789abcdef";
+  var output = "";
+  var x;
+  for(var i = 0; i < input.length; i++) {
+    x = input.charCodeAt(i);
+    output += hex_tab.charAt((x >>> 4) & 0x0F)
+           +  hex_tab.charAt( x        & 0x0F);
+  }
+  return output;
+}
 
+function str2hash(str){
+  return str.split("").reduce(function(a,b){a=((a<<5)-a)+b.charCodeAt(0);return a&a},0);
+}
 

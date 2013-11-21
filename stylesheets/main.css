@@ -17,7 +17,7 @@ html, body {
 /* Guide listings */
 
 .guide-listings {
-  margin-top: 50px;
+  margin-top: 20px;
   width: 990px;
 }
 
@@ -105,6 +105,7 @@ html, body {
 article.full .content-body {
   width: 650px;
   padding-bottom: 30px;
+  font-size: 18px;
 }
 
 .toc-wrapper {
@@ -136,6 +137,13 @@ ol.toc.sticky {
   }
 }
 
+.article-heading {
+  background-color: #eee;
+  padding: 50px 0;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
 /* Main site styles */
 
 a {
@@ -144,9 +152,7 @@ a {
 }
 
 header {
-  padding: 15px 0 10px 0;
-  background: #fafafa;
-  border-bottom: 1px solid #eee;
+  padding: 25px 0;
 }
 header img {
   opacity: 0.3;
@@ -204,46 +210,6 @@ article img {
   border: 1px solid #eee;
 }
 
-/*.article-list>.snippet {
-  padding: 15px 0 15px 100px;
-  border-top: 1px solid #eee;
-}
-.article-list>.snippet:first-child {
-  border-top: none;
-}
-.article-list a {
-  color: #444;
-}
-.article-list>.snippet:hover h3 a {
-  color: #4183c4;
-}
-.article-list h3 {
-  margin: 16px 0 -8px 0;
-  color: #000;
-}
-.article-list .icon {
-  float: left;
-  margin: 20px 0 0 -100px;
-  width: 80px;
-  height: 80px;
-  text-align: center;
-  border-radius: 100px;
-  background: #6CC644;
-  color: #fff;
-}
-.article-list .icon .mega-octicon {
-  line-height: 80px;
-}
-.article-list .icon-forking {
-  background: #8FB6DC;
-}
-.article-list .icon-project {
-  background: #A64599;
-}
-.article-list .icon-markdown {
-  background: #222;
-}
-*/
 footer {
   margin-top: 20px;
   padding-top: 20px;
@@ -258,20 +224,21 @@ footer .mega-octicon {
 
 /* Table of Contents */
 
+.toc-heading {
+  color: #aaa;
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+
 ol.toc {
   padding: 0;
-  border: 1px solid #ddd;
-  border-radius: 3px;
 }
 ol.toc>li {
   list-style-type: none;
   margin: 0;
-  padding: 5px 10px;
-  font-size: 14px;
-  border-top: 1px solid #eee;
-}
-ol.toc>li:first-child {
-  border-top: none;
+  padding: 5px 0;
+  font-size: 16px;
 }
 ol.toc>li a.active {
   font-weight: bold;
