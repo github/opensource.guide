@@ -22,7 +22,7 @@ Here's some of my favorite reasons to push projects to GitHub:
 
 ![](http://cl.ly/image/242S260f012S/Image%202013-11-05%20at%202.03.09%20PM.png)
 
-Once your project is on GitHub, we provide a linkable interface for every file in your project. For example, this is Mike Bostock's popular [d3](https://github.com/mbostock/d3) project for javascript base data-driven documents.
+Once your project is on GitHub, we provide a URL for every file in your project. For example, this is Mike Bostock's popular [d3](https://github.com/mbostock/d3) project for javascript base data-driven documents.
 
 We end up using the word Git and GitHub a lot in this article, so here's some clarification that might help:
 
