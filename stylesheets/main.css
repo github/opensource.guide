@@ -278,3 +278,7 @@ ol.toc>li a.active {
 .cf:after {
   clear: both;
 }
+
+.pd-embedded {
+  margin: 20px 0;
+}
