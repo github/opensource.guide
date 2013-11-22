@@ -1,4 +1,35 @@
 $(function(){
+
+  var renderGuideListing = function(guideListing) {
+    var titleSHA = guideListing.find('.js-guide-cover-title').data('title-sha');
+    var canvas   = guideListing.find('.js-guilloche')[0];
+    guilloche(canvas, {string: titleSHA, type: "listing"});
+  };
+
+  var renderGuideHeading = function(guideHeading) {
+    var titleSHA = guideHeading.find('.js-guide-article-title').data('title-sha');
+    var canvas   = guideHeading.find('.js-guilloche')[0];
+    canvas.setAttribute('width', guideHeading.width());
+    canvas.setAttribute('height', guideHeading.height());
+    center = {x: guideHeading.find('.wrap').offset().left + 35, y: 113};
+    guilloche(canvas, {string: titleSHA, type: "article", center: center});
+  };
+
+
+  $('.js-guide-listing').each(function() {
+    renderGuideListing($(this));
+  });
+
+  $('.js-guide-article').each(function() {
+    renderGuideHeading($(this));
+  });
+
+  $(window).resize(function() {
+    if ($('.js-guide-article').length) {
+      renderGuideHeading($('.js-guide-article'));
+    }
+  });
+
   tableOfContents($('.js-toc'))
 
   //
@@ -82,3 +113,21 @@ var scrollTo = function(e) {
     location.hash = elScrollTo;
   })
 }
+
+function str2hex(input) {
+  try { hexcase } catch(e) { hexcase=0; }
+  var hex_tab = hexcase ? "0123456789ABCDEF" : "0123456789abcdef";
+  var output = "";
+  var x;
+  for(var i = 0; i < input.length; i++) {
+    x = input.charCodeAt(i);
+    output += hex_tab.charAt((x >>> 4) & 0x0F)
+           +  hex_tab.charAt( x        & 0x0F);
+  }
+  return output;
+}
+
+function str2hash(str){
+  return str.split("").reduce(function(a,b){a=((a<<5)-a)+b.charCodeAt(0);return a&a},0);
+}
+

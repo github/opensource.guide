@@ -1,12 +1,17 @@
 ---
 layout: article
-title: Issues and notifications
-read_time: 8 minute
+title: Collaborating with Issues & Notifications
+read_time: 7 minute
 updated_at: Aug 9, 2013
+icon: issue-closed
+title_sha: d145998e941f058151cadcc7489275a8bb5d31d5
+survey_tag: 'issues-1'
+
+summary: GitHub is great for managing all of the information <em>around</em> the code. This guide helps explain our issue tracking system and how to keep up to date with issues you’ve participated in.
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
-Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. Issues on public repositories can be seen and created by anyone with a GitHub account, but issues on private repositories can only be seen and created by those with access to the repository. 
+Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. Issues on public repositories can be seen and created by anyone with a GitHub account, but issues on private repositories can only be seen and created by those with access to the repository.
 
 <strong><a href="https://github.com/twbs/bootstrap/issues" target="_blank">Here's an example of Bootstrap's issues section</a></strong>
 
@@ -80,7 +85,7 @@ When you do this, we'll create an event inside of issue #42 that looks something
 
 Issue in another repository? Just include the repository before the name like `kneath/example-project#42`. You can also reference issues from commits if you like. Include the issue number inside of the commit message.
 
-![](http://cl.ly/image/3U2o202e1a1Q/Image%202013-08-08%20at%204.50.34%20PM.png) 
+![](http://cl.ly/image/3U2o202e1a1Q/Image%202013-08-08%20at%204.50.34%20PM.png)
 
 By prefacing your commits with "Fixes", "Fixed", "Fix", "Closes", "Closed", or "Close" when the commit is merged into master, it will also automatically close the issue.
 

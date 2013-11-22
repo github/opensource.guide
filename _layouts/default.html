@@ -11,6 +11,8 @@
   <link href="{{ site.baseurl }}/stylesheets/main.css" rel="stylesheet" />
 
   <script src="{{ site.baseurl }}/javascripts/jquery.js" type="text/javascript"></script>
+  <script src="{{ site.baseurl }}/javascripts/color.js" type="text/javascript"></script>
+  <script src="{{ site.baseurl }}/javascripts/guilloche.js" type="text/javascript"></script>
   <script src="{{ site.baseurl }}/javascripts/application.js" type="text/javascript"></script>
 </head>
 <body>
@@ -18,17 +20,15 @@
   <header>
     <div class="wrap">
       <ul class="links">
-        <li><a href="https://github.com/support">Contact Support</a></li>
-        <li><a href="https://github.com">Return to GitHub</a>
+        <li><a href="https://github.com/support">Support</a></li>
+        <li><a href="https://github.com">GitHub.com</a>
       </ul>
 
       <a href ="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo@2x.png" width="136" height="25" /></a>
     </div>
   </header>
 
-  <div class="wrap">
-    {{ content }}
-  </div>
+  {{ content }}
 
   <footer>
     <div class="wrap">
