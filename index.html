@@ -5,6 +5,7 @@ layout: landing_page
 <section class="guide-listings cf">
 
   {% for post in site.pages %}
+  {% if post.title != nil %}
   <article class="guide-listing js-guide-listing">
     <canvas class="guide-cover-guilloche js-guilloche" width="440" height="225"></canvas>
     <div class="guide-cover">
@@ -24,6 +25,7 @@ layout: landing_page
       <span class="octicon octicon-clock"></span> {{ post.read_time }} read
     </p>
   </article>
+  {% endif %}
   {% endfor %}
 
 </section>
