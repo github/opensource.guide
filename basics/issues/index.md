@@ -1,10 +1,12 @@
 ---
 layout: article
 title: Collaborating with Issues & Notifications
-read_time: 8 minute
+read_time: 7 minute
 updated_at: Aug 9, 2013
 icon: issue-closed
 title_sha: d145998e941f058151cadcc7489275a8bb5d31d5
+
+summary: GitHub is great for managing all of the information <em>around</em> the code. This guide helps explain our issue tracking system and how to keep up to date with issues you’ve participated in.
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>

@@ -12,8 +12,6 @@ $(function(){
     canvas.setAttribute('width', $(this).width());
     canvas.setAttribute('height', $(this).height());
     center = {x: $(this).find('.wrap').offset().left + 35, y: 113};
-    console.log(center);
-
     guilloche(canvas, {string: titleSHA, type: "article", center: center});
   });
 

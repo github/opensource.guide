@@ -4,64 +4,26 @@ layout: landing_page
 
 <section class="guide-listings cf">
 
+  {% for post in site.pages %}
   <article class="guide-listing js-guide-listing">
     <canvas class="guide-cover-guilloche js-guilloche" width="440" height="225"></canvas>
     <div class="guide-cover">
-      <a href="{{ site.baseurl }}/basics/issues">
+      <a href="{{ post.url }}">
         <div class="icon-container">
-          <span class="mega-octicon octicon-issue-closed"></span>
+          <span class="mega-octicon octicon-{{ post.icon }}"></span>
         </div>
-        <h3 class="guide-cover-title js-guide-cover-title" data-title-sha="d145998e941f058151cadcc7489275a8bb5d31d5">Collaborating with Issues &amp; Notifications</h3>
+        <h3 class="guide-cover-title js-guide-cover-title" data-title-sha="{{ post.title_sha }}">{{ post.title }}</h3>
       </a>
     </div>
 
     <p class="guide-summary">
-      GitHub is great for managing all of the information <em>around</em> the code. This guide helps explain our issue tracking system and how to keep up to date with issues you’ve participated in.
+      {{ post.summary }}
     </p>
 
     <p class="guide-read-time">
-      <span class="octicon octicon-clock"></span> 8 minute read
+      <span class="octicon octicon-clock"></span> {{ post.read_time }} read
     </p>
   </article>
-
-  <article class="guide-listing js-guide-listing">
-    <canvas class="guide-cover-guilloche js-guilloche" width="440" height="225"></canvas>
-    <div class="guide-cover">
-      <a href="{{ site.baseurl }}/basics/project-bootstrapping">
-        <div class="icon-container">
-          <span class="mega-octicon octicon-device-desktop"></span>
-        </div>
-        <h3 class="guide-cover-title js-guide-cover-title" data-title-sha="47011690ae87bd6102c016f144857b7e4e3bb11a">Getting your project on GitHub</h3>
-      </a>
-    </div>
-
-    <p class="guide-summary">
-      Publishing source code doesn’t have to be a pain. This guide will walk you through our Mac &amp; Windows applications and how to start sharing your projects with the world (or maybe with no one at all).
-    </p>
-
-    <p class="guide-read-time">
-      <span class="octicon octicon-clock"></span> 8 minute read
-    </p>
-  </article>
-
-  <article class="guide-listing js-guide-listing">
-    <canvas class="guide-cover-guilloche js-guilloche" width="440" height="225"></canvas>
-    <div class="guide-cover">
-      <a href="{{ site.baseurl }}/basics/mastering-markdown">
-        <div class="icon-container">
-          <span class="mega-octicon octicon-list-unordered"></span>
-        </div>
-        <h3 class="guide-cover-title js-guide-cover-title" data-title-sha="e8df966767fbd3a383c53216799beb4b4564cb74">Mastering Markdown</h3>
-      </a>
-    </div>
-
-    <p class="guide-summary">
-      Almost all text on GitHub is processed through a markup language called <em>Markdown</em> — it's an easy way to include simple formatting (like <em>italics</em>, <strong>bold words</strong>, lists, and <a href="{{ site.baseurl }}/basics/mastering-markdown">links</a>). This guide will show you the ins-and-outs of Markdown on GitHub.
-    </p>
-
-    <p class="guide-read-time">
-      <span class="octicon octicon-clock"></span> 8 minute read
-    </p>
-  </article>
+  {% endfor %}
 
 </section>

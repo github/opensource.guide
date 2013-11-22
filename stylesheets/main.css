@@ -25,6 +25,17 @@ html, body {
   width: 440px;
   float: left;
   margin-right: 50px;
+  margin-bottom: 30px;
+}
+
+.guide-listing:nth-child(2n+1):before,
+.guide-listing:nth-child(2n+1):after {
+  content: " ";
+  display: table;
+}
+
+.guide-listing:nth-child(2n+1):after {
+  clear: both;
 }
 
 .guide-cover-guilloche {
@@ -138,8 +149,6 @@ ol.toc.sticky {
 .article-header-guilloche {
   position: absolute;
   z-index: 1;
-  /*width: 100%;*/
-  /*height: 100%;*/
 }
 
 .article-heading .wrap {
@@ -169,7 +178,7 @@ a {
 }
 
 header {
-  padding: 25px 0;
+  padding: 35px 0 20px;
 }
 header img {
   opacity: 0.3;
@@ -216,10 +225,11 @@ article img {
 footer {
   margin-top: 20px;
   padding-top: 20px;
-  font-size: 18px;
+  padding-bottom: 20px;
+  font-size: 16px;
+  line-height: 1.3;
   color: #999;
   text-align: center;
-  border-top: 1px solid #eee;
 }
 footer .mega-octicon {
   color: #ddd;
@@ -256,10 +266,10 @@ ol.toc>li a.active {
 
 .cf:before,
 .cf:after {
-    content: " "; /* 1 */
-    display: table; /* 2 */
+  content: " ";
+  display: table;
 }
 
 .cf:after {
-    clear:  both;
+  clear: both;
 }
