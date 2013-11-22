@@ -8,7 +8,7 @@ updated_at: Aug 9, 2013
 <a id="intro" title="Intro" class="toc-item"></a>
 Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. Issues on public repositories can be seen and created by anyone with a GitHub account, but issues on private repositories can only be seen and created by those with access to the repository. 
 
-<a class="bold" href="https://github.com/twbs/bootstrap/issues" target="_blank">Here's an example of Bootstrap's issues section</a>
+<strong><a href="https://github.com/twbs/bootstrap/issues" target="_blank">Here's an example of Bootstrap's issues section</a></strong>
 
 ![](http://cl.ly/image/381U0b3r3u0C/Image%202013-08-09%20at%202.18.11%20PM.png)
 
@@ -156,8 +156,8 @@ It's a great way to catch up with repositories when you've been away, and don't 
 
 Issues are great for tracking all kinds of things — and GitHub is a great place to easily share and collaborate on your issues.  Here's some of our favorites:
 
-* <a href="https://github.com/frabcus/house/issues?labels=building&state=open" target="_blank">Bug tracker for your house</a> including such gems as <a class="bold" href="https://github.com/frabcus/house/issues/58" target="_blank">the door being hung incorrectly</a>
+* <a href="https://github.com/frabcus/house/issues?labels=building&state=open" target="_blank">Bug tracker for your house</a> including such gems as <strong><a href="https://github.com/frabcus/house/issues/58" target="_blank">the door being hung incorrectly</a></strong>
 
 * <a href="https://github.com/joyent/node/issues" target="_blank">Bug tracker for your open source projects</a>
 
-* <a href="https://github.com/newmerator/recipes/issues" target="_blank">Request for recipes</a> (maybe you have a good <a class="bold" href="https://github.com/newmerator/recipes/issues/3" target="_blank">gluten-free pizza dough recipes?</a>)
+* <a href="https://github.com/newmerator/recipes/issues" target="_blank">Request for recipes</a> (maybe you have a good <strong><a href="https://github.com/newmerator/recipes/issues/3" target="_blank">gluten-free pizza dough recipes?</a></strong>)
