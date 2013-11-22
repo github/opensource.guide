@@ -3,18 +3,29 @@ layout: default
 ---
 
 <article class="full">
-  <h1>{{ page.title }}</h1>
-  <ul class="meta">
-    <li><span class="octicon octicon-calendar"></span> Last updated {{ page.updated_at }}</li>
-    <li><span class="octicon octicon-clock"></span> {{ page.read_time }} read</li>
-  </ul>
-
-  <div class="toc-wrapper">
-    <ol class="toc js-toc">
-    </ol>
+  <div class="article-heading js-guide-article">
+    <canvas class="article-header-guilloche js-guilloche"></canvas>
+    <div class="wrap">
+      <div class="icon-container">
+        <span class="mega-octicon octicon-{{page.icon}}"></span>
+      </div>
+      <h1 class="js-guide-article-title" data-title-sha="{{ page.title_sha }}">{{ page.title }}</h1>
+      <span class="article-read-time">
+        <span class="octicon octicon-clock"></span> {{ page.read_time }} read
+      </span>
+    </div>
   </div>
 
-  <div class="markdown-body content-body">
-    {{ content }}
+  <div class="wrap">
+    <div class="toc-wrapper">
+      <p class="toc-heading">Table of contents</p>
+      <ol class="toc js-toc"></ol>
+    </div>
+
+    <div class="markdown-body content-body">
+      {{ content }}
+
+      <p class="last-updated">Last updated {{ page.updated_at }}</p>
+    </div>
   </div>
 </article>
