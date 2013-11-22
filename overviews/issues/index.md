@@ -13,7 +13,7 @@ summary: GitHub is great for managing all of the information <em>around</em> the
 <a id="intro" title="Intro" class="toc-item"></a>
 Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. Issues on public repositories can be seen and created by anyone with a GitHub account, but issues on private repositories can only be seen and created by those with access to the repository.
 
-**[Here's an example of Bootstrap's issues section](https://github.com/twbs/bootstrap/issues).**
+<strong><a href="https://github.com/twbs/bootstrap/issues" target="_blank">Here's an example of Bootstrap's issues section</a></strong>
 
 ![](http://cl.ly/image/381U0b3r3u0C/Image%202013-08-09%20at%202.18.11%20PM.png)
 
@@ -41,15 +41,15 @@ By using @mentions and references inside of Issues, you can notify other GitHub 
 
 ### Notifications
 
-[Notifications](https://github.com/notifications) are GitHub’s way to keep up to date with your Issues. You can use them to find out about new issues on repositories, or just to know when someone needs your input to move forward on an issue.
+<a href="https://github.com/notifications" target="_blank">Notifications</a> are GitHub’s way to keep up to date with your Issues. You can use them to find out about new issues on repositories, or just to know when someone needs your input to move forward on an issue.
 
-There are two ways to receive notifications: via email, and via the web. You can configure how you receive notifications [in your settings](https://github.com/settings/notifications). I like to recommend that you receive web + email notifications for **Participating** and web notifications for **Watching**.
+There are two ways to receive notifications: via email, and via the web. You can configure how you receive notifications <a href="https://github.com/settings/notifications" target="_blank">in your settings</a>. I like to recommend that you receive web + email notifications for **Participating** and web notifications for **Watching**.
 
 ![](http://cl.ly/image/3Y3S1b3M0h2U/content)
 
 With these settings, you receive emails when people specifically mention you, then visit the web-based interface to keep up to date with repositories you're interested in.
 
-You can access your notifications through the [notifications](/notifications) screen. This screen is nice for scanning many notifications at once and marking them as read or muting the thread. Try using keyboard shortcuts to speed up your workflow here — press `?` on the page to see which shortcuts are available.
+You can access your notifications through the <a href="https://github.com/notifications" target="_blank">notifications</a> screen. This screen is nice for scanning many notifications at once and marking them as read or muting the thread. Try using keyboard shortcuts to speed up your workflow here — press `?` on the page to see which shortcuts are available.
 
 ![](http://cl.ly/image/1V1J0N0l1H2v/content)
 
@@ -109,7 +109,7 @@ The easiest way to create new milestones is through the editor dropdown. Type in
 
 ![](http://cl.ly/image/2E2q0j1L3s3D/Image%202013-08-08%20at%206.12.48%20PM.png)
 
-If you'd like to add a due date or extended description, you can  [create a new one in the milestones tab](https://github.com/github/github/issues/milestones/new).
+If you'd like to add a due date or extended description, you can  <a href="https://github.com/githubtraining/sample-markdown/issues/milestones/new" target="_blank">create a new one in the milestones tab.</a>
 
 ### Assignees
 
@@ -121,15 +121,15 @@ Each issue can have an assignee — one person responsible for moving the issue 
 
 At the very top of each page under the issues section is a search box that allows you to search through issues.
 
-* [All issues mentioning the sidebar](https://github.com/twbs/bootstrap/search?q=sidebar&type=Issues)
+* <a href="https://github.com/twbs/bootstrap/search?q=sidebar&type=Issues" target="_blank">All issues mentioning the sidebar</a>
 
-* [… that are open](https://github.com/twbs/bootstrap/search?q=sidebar&state=open&type=Issues) (check out the links on the left hand sidebar to filter open/closed)
+* <a href="https://github.com/twbs/bootstrap/search?q=sidebar&state=open&type=Issues" target="_blank">...that are open</a> (check out the links on the left hand sidebar to filter open/closed)
 
-* [Assigned to @mdo](https://github.com/twbs/bootstrap/search?q=assignee%3Amdo&ref=cmdform&type=Issues)
+* <a href="https://github.com/twbs/bootstrap/search?q=assignee%3Amdo&ref=cmdform&type=Issues" target="_blank">Assigned to @mdo</a>
 
-* [Or search issues throughout all of GitHub by clicking the link in the sidebar](https://github.com/search?q=sidebar&ref=reposearch&state=open&type=Issues)
+* <a href="https://github.com/search?q=sidebar&ref=reposearch&state=open&type=Issues" target="_blank">Or search issues throughout all of GitHub by clicking the link in the sidebar</a>
 
-Visit our [advanced search](https://github.com/search/advanced?q=sidebar&ref=reposearch&state=open&type=Issues) page to learn other ways of searching through issues: using created/updated dates, labels, authors, comment counts, by repository owner, and more.
+Visit our <a href="https://github.com/search/advanced?q=sidebar&ref=reposearch&state=open&type=Issues" target="_blank">advanced search</a> page to learn other ways of searching through issues: using created/updated dates, labels, authors, comment counts, by repository owner, and more.
 
 <a id="overviews" title="Overviews &amp; Reports" class="toc-item"></a>
 
@@ -139,7 +139,7 @@ Outside of the Issues section, there are two other pages that help summarize wha
 
 ### The Issue Dashboard
 
-If you're looking for a broader listing of all of your issues across many projects, the [Issues Dashboard](https://github.com/dashboard/issues) can be a great tool. The dashboard works very similar to the issues section, but collects issues differently:
+If you're looking for a broader listing of all of your issues across many projects, the <a href="https://github.com/dashboard/issues" target="_blank">Issues Dashboard</a> can be a great tool. The dashboard works very similar to the issues section, but collects issues differently:
 
 * All issues in repositories you own and collaborate on
 * Issues assigned to you
@@ -161,8 +161,8 @@ It's a great way to catch up with repositories when you've been away, and don't 
 
 Issues are great for tracking all kinds of things — and GitHub is a great place to easily share and collaborate on your issues.  Here's some of our favorites:
 
-* [Bug tracker for you house](https://github.com/frabcus/house/issues?labels=building&state=open) including such gems as *[the door being hung incorrectly](https://github.com/frabcus/house/issues/58)
+* <a href="https://github.com/frabcus/house/issues?labels=building&state=open" target="_blank">Bug tracker for your house</a> including such gems as <strong><a href="https://github.com/frabcus/house/issues/58" target="_blank">the door being hung incorrectly</a></strong>
 
-* [Bug tracker for open source projects](https://github.com/joyent/node/issues)
+* <a href="https://github.com/joyent/node/issues" target="_blank">Bug tracker for your open source projects</a>
 
-* [Request for recipes](https://github.com/newmerator/recipes/issues) (maybe you have a good [gluten-free pizza dough recipe?](https://github.com/newmerator/recipes/issues/3)
+* <a href="https://github.com/newmerator/recipes/issues" target="_blank">Request for recipes</a> (maybe you have a good <strong><a href="https://github.com/newmerator/recipes/issues/3" target="_blank">gluten-free pizza dough recipes?</a></strong>)
