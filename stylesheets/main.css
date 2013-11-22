@@ -170,6 +170,11 @@ ol.toc.sticky {
   margin-left: 90px;
 }
 
+.article-read-time .octicon {
+  position: relative;
+  top: -1px;
+}
+
 /* Main site styles */
 
 a {
