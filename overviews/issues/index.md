@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Collaborating with Issues & Notifications
+title: Mastering Issues & Notifications
 read_time: 7 minute
 updated_at: Aug 9, 2013
 icon: issue-closed
