@@ -26,7 +26,7 @@ Markdown is a lightweight and easy to use syntax for styling all forms of writin
 
 Markdown is a way to style text on the web. Bold, italics, font size, images, and lists are just a few of the things we can do with it.
 
-<strong><a href="https://github.com/github/developer.github.com" target="_blank">Here's an example from the GitHub API deevloper Documentation</a></strong>
+<strong><a href="https://github.com/github/developer.github.com" target="_blank">Here's an example from the GitHub API developer Documentation</a></strong>
 
 ![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
 
