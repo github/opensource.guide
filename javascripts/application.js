@@ -2,13 +2,13 @@ $(function(){
 
   var renderGuideListing = function(guideListing) {
     var titleSHA = guideListing.find('.js-guide-cover-title').data('title-sha');
-    var canvas   = guideListing.find('.js-guilloche')[0];
-    guilloche(canvas, {string: titleSHA, type: "listing"});
+    var svgCanvas   = guideListing.find('.js-guilloche')[0];
+    guillocheSVG(svgCanvas, {string: titleSHA, type: "listing"});
   };
 
   var renderGuideHeading = function(guideHeading) {
     var titleSHA = guideHeading.find('.js-guide-article-title').data('title-sha');
-    var svgCanvas = $('svg.js-guilloche')[0];
+    var svgCanvas = $('.js-guilloche')[0];
     svgCanvas.setAttribute('width', guideHeading.width());
     svgCanvas.setAttribute('height', guideHeading.height());
     center = {x: guideHeading.find('.wrap').offset().left + 35, y: 113};
