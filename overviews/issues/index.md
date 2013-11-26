@@ -37,7 +37,7 @@ GitHub's issue tracking is special because of our focus on collaboration, refere
 
 <a id="filtering" title="Milestones, Labels &amp; Assignees" class="toc-item"></a>
 
-## Milestones, Labels & Assignees
+## Milestones, Labels, and Assignees
 
 Once you've collected a lot of issues, you may find it hard to find the ones you care about. **Milestones**, **labels**, and **assignees** are great features to filter and categorize issues.
 
