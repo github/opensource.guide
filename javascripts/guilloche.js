@@ -1,4 +1,4 @@
-var guilloche = function(canvas, opts){
+var guillocheSVG = function(canvas, opts){
 
   var opts = opts || {};
 
@@ -12,8 +12,8 @@ var guilloche = function(canvas, opts){
       hueOffset            = parseInt(opts.string.substr(14, 3), 16),
       satOffset            = parseInt(opts.string.substr(17, 1), 16),
 
-      ctx                  = canvas.getContext('2d'),
-      size                 = {x: canvas.offsetWidth, y: canvas.offsetHeight},
+      size                 = {x: canvas.getAttribute('width'),
+                              y: canvas.getAttribute('height')},
       halfSize             = {x: size.x / 2, y: size.y / 2},
       majorR               = 379.6 - majorROffset,
       minorR               = 50 - minorROffset,
@@ -21,7 +21,7 @@ var guilloche = function(canvas, opts){
       radiusEffectConstant = 250 - radiusEffectOffset,
       steps                = 1250 - stepsOffset,
       centerPoint          = listingCenter,
-      color                = 'rgba(255,255,255, 0.06)',
+      color                = 'rgba(255,255,255, 0.13)',
       globalAlpha          = 1.0,
       baseBGColor          = Color("#933c3c");
 
@@ -34,10 +34,14 @@ var guilloche = function(canvas, opts){
     baseBGColor.desaturate(satOffset / 10);
   }
 
-  ctx.globalAlpha = globalAlpha;
-  ctx.clearRect(0, 0, size.x, size.y);
-  ctx.fillStyle = baseBGColor.rgbString();
-  ctx.fillRect(0, 0, size.x, size.y);
+  // Background fill
+  var rect = document.createElementNS("http://www.w3.org/2000/svg", 'rect');
+      rect.setAttributeNS(null, 'x', 0);
+      rect.setAttributeNS(null, 'y', 0);
+      rect.setAttributeNS(null, 'width', size.x);
+      rect.setAttributeNS(null, 'height', size.y);
+      rect.setAttributeNS(null, 'fill', baseBGColor.rgbString());
+      canvas.appendChild(rect);
 
   var diff = majorR - minorR,
       s = diff / minorR,
@@ -53,18 +57,17 @@ var guilloche = function(canvas, opts){
     theta += Math.PI * 4 / steps;
 
     if (oldX) {
-      ctx.strokeStyle = color;
-      ctx.beginPath();
-      ctx.moveTo(oldX, oldY);
-      ctx.lineTo(x, y);
-      ctx.closePath();
-      ctx.stroke();
+      var pathData = "M"+oldX+","+oldY+" "+"L"+x+","+y;
+      var path = document.createElementNS("http://www.w3.org/2000/svg", 'path');
+          path.setAttributeNS(null, 'd', pathData);
+          path.setAttributeNS(null, 'stroke', color);
+          path.setAttributeNS(null, 'stroke-width', "1");
+          canvas.appendChild(path);
     }
 
     oldX = x;
     oldY = y;
   }
-
 };
 
 function map(value, v_min, v_max, d_min, d_max) {
