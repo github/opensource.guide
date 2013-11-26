@@ -12,10 +12,6 @@ summary: GitHub is great for managing all of the information <em>around</em> the
 
 <a id="intro" title="Intro" class="toc-item"></a>
 
-    Charlie: Hey, I had an idea for something we should add to our website, who should I email?
-    Micah: Ah hey — would you mind creating an issue for it? It'll only take a few minutes.
-    Charlie: Sure thing, but what's an Issue?
-
 Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They're kind of like email — except that you can share & discuss them with the rest of your team. Most software projects have an issue tracker of some kind — sometimes they're called bug trackers or task managers. GitHub's version is called **Issues** and there's a section in every repository.
 
 ![](http://cl.ly/image/3F3R2w160x3Z/Image%202013-11-25%20at%205.39.33%20PM.png)
@@ -42,10 +38,6 @@ What makes GitHub's issue tracking special is our focus on collaboration, refere
 <a id="filtering" title="Milestones, Labels &amp; Assignees" class="toc-item"></a>
 
 ## Milestones, Labels & Assignees
-
-    Micah: Can someone point me to something to work on? I just finished up my last project and I'm not sure where to start.
-    Ryan: Yeah! Definitely, why don't you check out issues labeled bug without an assignee. Any of those would be great to fix.
-    Micah: Awesome!
 
 Once you've collected a lot of issues, you may find it hard to find the ones you care about. **Milestones**, **labels**, and **assignees** are great features to filter and categorize issues.
 
