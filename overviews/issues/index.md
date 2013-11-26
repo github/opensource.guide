@@ -72,7 +72,7 @@ Each issue can have an assignee — one person responsible for moving the issue 
 
 <a id="notifications" title="Notifications, @mentions, and references" class="toc-item"></a>
 
-## Notifications, @mentions, and references
+## Notifications, @mentions, and References
 
 By using @mentions and references inside of Issues, you can notify other GitHub users & teams, and cross-connect issues to each other. These provide a flexible way to get the right people involved to resolve issues effectively, and are easy to learn and use. They work across all text fields on GitHub — they're a part of our text formatting syntax called [**GitHub Flavored Markdown**](https://help.github.com/articles/github-flavored-markdown).
 
@@ -175,7 +175,7 @@ It's a great way to catch up with repositories when you've been away and don't w
 
 <a id="uses" title="Other uses for Issues" class="toc-item"></a>
 
-## Other uses for Issues
+## Other Uses for Issues
 
 Issues are great for tracking all kinds of things — and GitHub is a great place to easily share and collaborate on your issues.  Here's some of our favorites:
 
