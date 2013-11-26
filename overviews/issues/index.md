@@ -12,11 +12,11 @@ summary: GitHub is great for managing all of the information <em>around</em> the
 
 <a id="intro" title="Intro" class="toc-item"></a>
 
-Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They're kind of like email—except they can be shared and discussed with the rest of your team. Most software projects have an issue tracker of some kind—sometimes it's called a bug tracker or task manager. GitHub's version is called **Issues** and has its own section in every repository.
+Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They're kind of like email—except they can be shared and discussed with the rest of your team. Most software projects have a bug tracker of some kind. GitHub's tracker is called **Issues**, and has its own section in every repository.
 
 ![](http://cl.ly/image/3F3R2w160x3Z/Image%202013-11-25%20at%205.39.33%20PM.png)
 
-For example, let's take a look at <a href="https://github.com/twbs/bootstrap/issues" target="_blank">Bootstrap's Issues section</a>.
+For example, let's take a look at <a href="https://github.com/twbs/bootstrap/issues" target="_blank">Bootstrap's Issues section</a>:
 
 ![](http://cl.ly/image/381U0b3r3u0C/Image%202013-08-09%20at%202.18.11%20PM.png)
 
@@ -26,9 +26,9 @@ GitHub's issue tracking is special because of our focus on collaboration, refere
 
 * A **title and description** describe what the issue is all about.
 
-* Color-coded **labels** help you to categorize and filter your issues (like labels in Gmail).
+* Color-coded **labels** help you categorize and filter your issues (just like labels in Gmail).
 
-* A **milestone** provides a "bucket" for issues—useful for coordinating project phases (e.g. *Weekly Sprint 9/5-9/16* or *Shipping 1.0*).
+* A **milestone** acts like a container for issues. This is useful for associating issues with specific features or project phases (e.g. *Weekly Sprint 9/5-9/16* or *Shipping 1.0*).
 
 * One **assignee** is responsible for working on the issue at any given time.
 
@@ -45,7 +45,7 @@ You can change the milestone and assignee through the grey bar at the top of iss
 
 ![](http://cl.ly/image/120i3q0P0528/Image%202013-08-08%20at%206.06.30%20PM.png)
 
-If you don't see edit buttons, that's because you don't have permission to edit the issue — ask the repository owner to add you as a collaborator.
+If you don't see edit buttons, that's because you don't have don't have permission to edit the issue. You can ask the repository owner to add you as a collaborator to get access.
 
 ### Milestones
 
@@ -67,7 +67,7 @@ Labels are a great way to organize different types of issues. Issues can have as
 
 ### Assignees
 
-Each issue can have an assignee — one person responsible for moving the issue forward. Assignees are selected the same way milestones are, through the grey bar at the top of the issue.
+Each issue can have an assignee — one person that's responsible for moving the issue forward. Assignees are selected the same way milestones are, through the grey bar at the top of the issue.
 
 
 <a id="notifications" title="Notifications, @mentions, and references" class="toc-item"></a>
@@ -82,7 +82,7 @@ By using @mentions and references inside of Issues, you can notify other GitHub 
 
 <a href="https://github.com/notifications" target="_blank">Notifications</a> are GitHub’s way to keep up to date with your Issues. You can use them to find out about new issues on repositories, or just to know when someone needs your input to move forward on an issue.
 
-There are two ways to receive notifications: via email, and via the web. You can configure how you receive notifications <a href="https://github.com/settings/notifications" target="_blank">in your settings</a>. If you plan on receiving a lot of notifications, I like to recommend that you receive web + email notifications for **Participating** and web notifications for **Watching**.
+There are two ways to receive notifications: via email, and via the web. You can configure how you receive notifications <a href="https://github.com/settings/notifications" target="_blank">in your settings</a>. If you plan on receiving a lot of notifications, we like to recommend that you receive web + email notifications for **Participating** and web notifications for **Watching**.
 
 ![](http://cl.ly/image/3Y3S1b3M0h2U/content)
 
@@ -114,13 +114,13 @@ This will send notifications to every member of the browser-bugs team.
 
 ### References
 
-Often times issues are dependent on other issues, or at least relate to them and you'd like to connect the two. The easiest way to reference another issue is to just type in the issue number:
-
+Often times issues are dependent on other issues, or at least relate to them and you'd like to connect the two. You can reference issues by typing in a hashtag plus the issue number.
 > Hey @kneath, I think the problem started in #42
 
 When you do this, we'll create an event inside of issue #42 that looks something like this:
 
 ![](http://cl.ly/image/1J2g0I0N3l0V/Image%202013-08-08%20at%204.47.08%20PM.png)
+
 
 Issue in another repository? Just include the repository before the name like `kneath/example-project#42`. You can also reference issues from commits if you like. Include the issue number inside of the commit message.
 
@@ -135,7 +135,7 @@ References make it possible to deeply connect the work being done with the bug b
 
 ## Search
 
-At the very top of each page is a search box that allows you to search through issues.
+At the very top of each page is a search box that lets you search through issues.
 
 ![](http://cl.ly/image/3T2X2E2g2X1B/Image%202013-11-25%20at%206.29.52%20PM.png)
 
