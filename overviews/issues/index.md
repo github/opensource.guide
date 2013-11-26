@@ -74,7 +74,7 @@ Each issue can have an assignee — one person responsible for moving the issue 
 
 ## Notifications, @mentions, and references
 
-By using @mentions and references inside of Issues, you can notify other GitHub users & teams, and cross-connect issues to each other. These provide a flexible way to get the right people involved to resolve issues effectively, and are easy to learn and use. They work across all text fields on GitHub — they're a part of our text formatting syntax called **GitHub Flavored Markdown**.
+By using @mentions and references inside of Issues, you can notify other GitHub users & teams, and cross-connect issues to each other. These provide a flexible way to get the right people involved to resolve issues effectively, and are easy to learn and use. They work across all text fields on GitHub — they're a part of our text formatting syntax called [**GitHub Flavored Markdown**](https://help.github.com/articles/github-flavored-markdown).
 
 ![](http://cl.ly/image/0u422037413i/Image%202013-08-08%20at%204.33.12%20PM.png)
 
