@@ -14,7 +14,7 @@ Software is at the heart of GitHub — and code is the DNA of software. Chances 
 
 Here's some of my favorite reasons to push projects to GitHub:
 
-* **Version Control** — Everything on GitHub is stored in [Git]http://git-scm.com/, the best version control system around. Version control allows you to  experiment and make mistakes in code without messing up your final product.
+* **Version Control** — Everything on GitHub is stored in <a href="http://git-scm.com" target="_blank">Git</a>, the best version control system around. Version control allows you to  experiment and make mistakes in code without messing up your final product.
 
 * **Keep your code in one place** — Whether you work on multiple computers, or just want to get some old projects off your hard drive, GitHub the perfect place to store your projects online.
 
@@ -22,7 +22,7 @@ Here's some of my favorite reasons to push projects to GitHub:
 
 ![](http://cl.ly/image/242S260f012S/Image%202013-11-05%20at%202.03.09%20PM.png)
 
-Once your project is on GitHub, we provide a URL for every file in your project. For example, this is Mike Bostock's popular [d3](https://github.com/mbostock/d3) project for javascript base data-driven documents.
+Once your project is on GitHub, we provide a URL for every file in your project. For example, this is Mike Bostock's popular <a href="https://github.com/mbostock/d3" target="_blank">d3</a> project for javascript base data-driven documents.
 
 We end up using the word Git and GitHub a lot in this article, so here's some clarification that might help:
 
@@ -37,9 +37,9 @@ We end up using the word Git and GitHub a lot in this article, so here's some cl
 <a id="desktop" title="GitHub Desktop" class="toc-item"></a>
 ## GitHub Desktop
 
-GitHub for Desktop is the easiest way to get code on GitHub — you won't need to learn any command line instructions, SSH keys, or complicated Git terminology. All you'll need is your Mac or Windows computer and a [GitHub.com account](https://github.com/join).
+GitHub for Desktop is the easiest way to get code on GitHub — you won't need to learn any command line instructions, SSH keys, or complicated Git terminology. All you'll need is your Mac or Windows computer and a <a href="https://github.com/join" target="_blank">GitHub.com account</a>.
 
-You can download GitHub Desktop for **[Mac](http://mac.github.com)** and **[Windows](http://windows.github.com)**. Once you install GitHub Desktop, a short set up wizard will walk you through some basic configuration and give you the chance to connect GitHub Desktop with your GitHub.com account.
+You can download GitHub Desktop for <strong><a href="http://mac.github.com" target="_blank">Mac</a></strong> and <strong><a href="http://windows.github.com" target="_blank">Windows</a></strong>. Once you install GitHub Desktop, a short set up wizard will walk you through some basic configuration and give you the chance to connect GitHub Desktop with your GitHub.com account.
 
 <a id="setup" title="Set up your project" class="toc-item"></a>
 ## Set up your project in GitHub Desktop
@@ -48,7 +48,7 @@ The easiest way to get your project into GitHub Desktop is to drag the folder wi
 
 ![](http://cl.ly/image/3H2Q3p2Y3q0s/Image%202013-11-05%20at%202.56.56%20PM.png)
 
-If you are dragging in an existing Git repository, you can skip ahead to the [Push your code to GitHub.com](#pushit) section. However, if the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder — it will create some hidden files that allow Git to do it's magic.
+If you are dragging in an existing Git repository, you can skip ahead to the [push your code to GitHub.com](#pushit) section. However, if the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder — it will create some hidden files that allow Git to do it's magic.
 
 ### Your first commit
 
@@ -67,7 +67,7 @@ Press the "Push to GitHub" button in the top right corner, and GitHub Desktop wi
 
 * **Public repository**  — Anyone can see this repository, but you can choose who can commit to the repository (make changes). You can create as many public repositories as you want on GitHub for free.
 
-* **Private repository** — By default, only you can see a private repository. You can then choose who can see and commit to this repository by adding collaborators. Private repositories require a [paid subscription](https://github.com/settings/billing) on GitHub.
+* **Private repository** — By default, only you can see a private repository. You can then choose who can see and commit to this repository by adding collaborators. Private repositories require a <a href="https://github.com/settings/billing" target="_blank">paid subscription</a> on GitHub.
 
 Now that you've published the repository you have it in two places:
 
@@ -95,4 +95,4 @@ Now you know the basics of setting up projects on GitHub!
 * Make commits every time you accomplish a goal or want to save your progress.
 * Sync changes with GitHub.com to push your new commits and pull commits from others.
 
-And you're done! Here's a bunch of [awesome things you can do with repositories](https://github.com/features).
+And you're done! Here's a bunch of <a href="https://github.com/features" target="_blank">awesome things you can do with repositories</a>.
