@@ -163,11 +163,13 @@ ol.toc.sticky {
   float: left;
   margin-top: 30px;
   margin-right: 20px;
+  position: absolute;
 }
 
 .article-read-time {
   color: rgba(255, 255, 255, 0.7);
-  margin-left: 90px;
+  margin-left: 93px;
+  clear: left;
 }
 
 .article-read-time .octicon {
@@ -210,6 +212,7 @@ article {
 }
 article h1 {
   margin-bottom: 10px;
+  margin-left: 90px;
   font-size: 48px;
   letter-spacing: -1px;
   line-height: 1;
