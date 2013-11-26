@@ -12,27 +12,27 @@ summary: GitHub is great for managing all of the information <em>around</em> the
 
 <a id="intro" title="Intro" class="toc-item"></a>
 
-Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They're kind of like email — except that you can share & discuss them with the rest of your team. Most software projects have an issue tracker of some kind — sometimes they're called bug trackers or task managers. GitHub's version is called **Issues** and there's a section in every repository.
+Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They're kind of like email—except they can be shared and discussed with the rest of your team. Most software projects have an issue tracker of some kind—sometimes it's called a bug tracker or task manager. GitHub's version is called **Issues** and has its own section in every repository.
 
 ![](http://cl.ly/image/3F3R2w160x3Z/Image%202013-11-25%20at%205.39.33%20PM.png)
 
-<strong><a href="https://github.com/twbs/bootstrap/issues" target="_blank">Here's an example of Bootstrap's issues section</a></strong>
+For example, let's take a look at <a href="https://github.com/twbs/bootstrap/issues" target="_blank">Bootstrap's Issues section</a>.
 
 ![](http://cl.ly/image/381U0b3r3u0C/Image%202013-08-09%20at%202.18.11%20PM.png)
 
-What makes GitHub's issue tracking special is our focus on collaboration, references, and excellent text formatting. A typical issue on GitHub looks a bit like this:
+GitHub's issue tracking is special because of our focus on collaboration, references, and excellent text formatting. A typical issue on GitHub looks a bit like this:
 
 ![](http://cl.ly/image/3Y3z1v3A020T/Image%202013-08-08%20at%203.59.07%20PM.png)
 
-* **Title & Description** — Text based fields to describe what the issue is all about.
+* A **title and description** describe what the issue is all about.
 
-* **Labels** — These are color coded tags to apply to your issues to help categorize and filter the list of issues later. If you’ve used Gmail, these are similar to Gmail’s labels.
+* Color-coded **labels** help you to categorize and filter your issues (like labels in Gmail).
 
-* **Milestone** — These are buckets of issues, useful for coordinating phases of projects (ex: *Weekly Sprint 9/5-9/16* or *Shipping 1.0*).
+* A **milestone** provides a "bucket" for issues—useful for coordinating project phases (e.g. *Weekly Sprint 9/5-9/16* or *Shipping 1.0*).
 
-* **Assignee** — One person that’s responsible or working on this issue at any given time.
+* One **assignee** is responsible for working on the issue at any given time.
 
-* **Comments** — Anyone with access to the repository can comment on  issues to weigh in on the process.
+* **Comments** allow anyone with access to the repository to provide feedback.
 
 
 <a id="filtering" title="Milestones, Labels &amp; Assignees" class="toc-item"></a>
