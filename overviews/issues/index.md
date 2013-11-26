@@ -11,7 +11,14 @@ summary: GitHub is great for managing all of the information <em>around</em> the
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
-Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. Issues on public repositories can be seen and created by anyone with a GitHub account, but issues on private repositories can only be seen and created by those with access to the repository.
+
+    Charlie: Hey, I had an idea for something we should add to our website, who should I email?
+    Micah: Ah hey — would you mind creating an issue for it? It'll only take a few minutes.
+    Charlie: Sure thing, but what's an Issue?
+
+Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They're kind of like email — except that you can share & discuss them with the rest of your team. Most software projects have an issue tracker of some kind — sometimes they're called bug trackers or task managers. GitHub's version is called **Issues** and there's a section in every repository.
+
+![](http://cl.ly/image/3F3R2w160x3Z/Image%202013-11-25%20at%205.39.33%20PM.png)
 
 **[Here's an example of Bootstrap's issues section](https://github.com/twbs/bootstrap/issues).**
 
@@ -30,6 +37,40 @@ What makes GitHub's issue tracking special is our focus on collaboration, refere
 * **Assignee** — One person that’s responsible or working on this issue at any given time.
 
 * **Comments** — Anyone with access to the repository can comment on  issues to weigh in on the process.
+
+
+<a id="filtering" title="Milestones, Labels &amp; Assignees" class="toc-item"></a>
+
+## Milestones, Labels & Assignees
+
+    Micah: Can someone point me to something to work on? I just finished up my last project and I'm not sure where to start.
+    Ryan: Yeah! Definitely, why don't you check out issues labeled bug without an assignee. Any of those would be great to fix.
+    Micah: Awesome!
+
+Once you've collected a lot of issues, you may find it hard to find the ones you care about. **Milestones**, **labels**, and **assignees** are great features to filter and categorize issues.
+
+You can change the milestone and assignee through the grey bar at the top of issues. Labels can be added by clicking the gear dropdown next to the Labels section in the right hand sidebar.
+
+![](http://cl.ly/image/120i3q0P0528/Image%202013-08-08%20at%206.06.30%20PM.png)
+
+If you don't see edit buttons, that's because you don't have permission to edit the issue — ask the repository owner to add you as a collaborator.
+
+### Milestones
+
+![](http://cl.ly/image/2E2q0j1L3s3D/Image%202013-08-08%20at%206.12.48%20PM.png)
+
+Milestones are groups of issues that correspond to a project, feature, or time period. People use them in many different ways in software development. Some examples:
+
+* **Beta Launch** — File bugs that you need to fix before you can launch the beta of your project. It's a great way to make sure you aren't missing anything.
+
+* **October Sprint** — File issues that you'd like to work on in October. A great way to focus your efforts when there's a lot to do.
+
+* **Redesign** — File issues related to redesigning your project. A great way to collect ideas on what to work on.
+
+### Assignees
+
+Each issue can have an assignee — one person responsible for moving the issue forward. Assignees are selected the same way milestones are, through the grey bar at the top of the issue.
+
 
 <a id="notifications" title="Notifications, @mentions, and references" class="toc-item"></a>
 
@@ -91,29 +132,6 @@ By prefacing your commits with "Fixes", "Fixed", "Fix", "Closes", "Closed", or "
 
 References make it possible to deeply connect the work being done with the bug being tracked, and are a great way to add visibility into the history of your project.
 
-<a id="filtering" title="Filters &amp; Milestones" class="toc-item"></a>
-
-## Filters & Milestones
-
-Once you've collected a lot of issues, you may find it hard to find the ones you care about. We use **milestones**, **assignees**, and **labels** to help filter and categorize issues.
-
-You can change the milestone and assignee through the grey bar at the top of issues, and assign labels on the right hand column.
-
-![](http://cl.ly/image/120i3q0P0528/Image%202013-08-08%20at%206.06.30%20PM.png)
-
-If you don't see edit buttons, that's because you don't have permission to edit the issue — ask the repository owner to add you as a collaborator.
-
-### Milestones
-
-The easiest way to create new milestones is through the editor dropdown. Type in the name of the milestone you want to create and we will offer an option to create a new milestone.
-
-![](http://cl.ly/image/2E2q0j1L3s3D/Image%202013-08-08%20at%206.12.48%20PM.png)
-
-If you'd like to add a due date or extended description, you can  [create a new one in the milestones tab](https://github.com/github/github/issues/milestones/new).
-
-### Assignees
-
-Each issue can have an assignee — one person responsible for moving the issue forward. Assignees are selected the same way milestones are, through the grey bar at the top of the issue.
 
 <a id="search" title="Search" class="toc-item"></a>
 
