@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Mastering Issues & Notifications
+title: Mastering Issues
 read_time: 7 minute
 updated_at: Aug 9, 2013
 icon: issue-closed
