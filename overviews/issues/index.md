@@ -67,6 +67,12 @@ Milestones are groups of issues that correspond to a project, feature, or time p
 
 * **Redesign** — File issues related to redesigning your project. A great way to collect ideas on what to work on.
 
+### Labels
+
+Labels are a great way to organize different types of issues. Issues can have as many labels as you want, and you can filter by one or many labels at once.
+
+![](http://cl.ly/image/2S063e0q280D/labels.png)
+
 ### Assignees
 
 Each issue can have an assignee — one person responsible for moving the issue forward. Assignees are selected the same way milestones are, through the grey bar at the top of the issue.
