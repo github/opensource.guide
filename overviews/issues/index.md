@@ -82,7 +82,7 @@ By using @mentions and references inside of Issues, you can notify other GitHub 
 
 [Notifications](https://github.com/notifications) are GitHub’s way to keep up to date with your Issues. You can use them to find out about new issues on repositories, or just to know when someone needs your input to move forward on an issue.
 
-There are two ways to receive notifications: via email, and via the web. You can configure how you receive notifications [in your settings](https://github.com/settings/notifications). I like to recommend that you receive web + email notifications for **Participating** and web notifications for **Watching**.
+There are two ways to receive notifications: via email, and via the web. You can configure how you receive notifications [in your settings](https://github.com/settings/notifications). If you plan on receiving a lot of notifications, I like to recommend that you receive web + email notifications for **Participating** and web notifications for **Watching**.
 
 ![](http://cl.ly/image/3Y3S1b3M0h2U/content)
 
@@ -135,7 +135,9 @@ References make it possible to deeply connect the work being done with the bug b
 
 ## Search
 
-At the very top of each page under the issues section is a search box that allows you to search through issues.
+At the very top of each page is a search box that allows you to search through issues.
+
+![](http://cl.ly/image/3T2X2E2g2X1B/Image%202013-11-25%20at%206.29.52%20PM.png)
 
 * [All issues mentioning the sidebar](https://github.com/twbs/bootstrap/search?q=sidebar&type=Issues)
 
@@ -169,11 +171,11 @@ Underneath each repository is a section called **Pulse** — Pulse is a snapshot
 
 ![](http://cl.ly/image/0K3E1e3N1J0q/Image%202013-08-08%20at%207.53.24%20PM.png)
 
-It's a great way to catch up with repositories when you've been away, and don't want the granularity notifications offer when watching a repository.
+It's a great way to catch up with repositories when you've been away and don't want the granularity notifications offer when watching a repository.
 
-<a id="uses" title="Uses for Issues" class="toc-item"></a>
+<a id="uses" title="Other uses for Issues" class="toc-item"></a>
 
-## Uses for Issues
+## Other uses for Issues
 
 Issues are great for tracking all kinds of things — and GitHub is a great place to easily share and collaborate on your issues.  Here's some of our favorites:
 
@@ -182,3 +184,7 @@ Issues are great for tracking all kinds of things — and GitHub is a great plac
 * [Bug tracker for open source projects](https://github.com/joyent/node/issues)
 
 * [Request for recipes](https://github.com/newmerator/recipes/issues) (maybe you have a good [gluten-free pizza dough recipe?](https://github.com/newmerator/recipes/issues/3)
+
+## Fin
+
+**Now congragulate yourself** — that was a lot to read! Issue management is one of the most powerful tools at any developer's disposal. I guess all that's left is to actually fix the bugs now. Sounds boring.
