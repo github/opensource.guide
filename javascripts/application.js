@@ -8,11 +8,11 @@ $(function(){
 
   var renderGuideHeading = function(guideHeading) {
     var titleSHA = guideHeading.find('.js-guide-article-title').data('title-sha');
-    var canvas   = guideHeading.find('.js-guilloche')[0];
-    canvas.setAttribute('width', guideHeading.width());
-    canvas.setAttribute('height', guideHeading.height());
+    var svgCanvas = $('svg.js-guilloche')[0];
+    svgCanvas.setAttribute('width', guideHeading.width());
+    svgCanvas.setAttribute('height', guideHeading.height());
     center = {x: guideHeading.find('.wrap').offset().left + 35, y: 113};
-    guilloche(canvas, {string: titleSHA, type: "article", center: center});
+    guillocheSVG(svgCanvas, {string: titleSHA, type: "article", center: center});
   };
 
 
