@@ -48,6 +48,90 @@ Click the Preview tab to see a rendered view of your Markdown.
 ## Special Flavors
 Depending on the location of where we're writing markdown, we may have a few additional sets of styling we can use Markdown for.
 
+<div id="markdown-special-flavors">
+
+  <h3>Formating Text</h3>
+  <p>Headers</p>
+  <pre>
+# This is an &lt;h1&gt; tag
+## This is an &lt;h2&gt; tag
+###### This is an &lt;h6&gt; tag</pre>
+
+  <p>Text styles</p>
+  <pre>
+*This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+
+*You **can** combine them*</pre>
+
+  <h3>Lists</h3>
+  <p>Unordered</p>
+  <pre>
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b</pre>
+  <p>Ordered</p>
+  <pre>
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b</pre>
+
+  <h3>Miscellaneous</h3>
+  <p>Images</p>
+  <pre>
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+  </pre>
+  <p>Links</p>
+  <pre>
+http://github.com - automatic!
+[GitHub](http://github.com)</pre>
+  <p>Blockquotes</p>
+  <pre>
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.</pre>
+
+  <h3>GitHub Flavored Markdown</h3>
+  <p>Syntax highlighting with <a href="http://github.github.com/github-flavored-markdown/" title="GitHub Flavored Markdown" target="_blank">GFM</a></p>
+  <pre>
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```</pre>
+  <p>Or, indent your code 4 spaces</p>
+  <pre>
+Here is a Python code example
+without syntax highlighting:
+
+    def foo:
+      if not bar:
+        return true</pre>
+  <p>Inline code for comments</p>
+  <pre>
+I think you should use an
+`&lt;addr&gt;` element here instead.</pre>
+
+  <p>Task Lists</p>
+  <pre>
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**,
+      @mentions, #1234 refs
+- [ ] incomplete
+- [x] completed </pre>
+
+</div>
+
 ### Comment Boxes
 Comments have a nice set of additional Markdown syntax that writing in files don't, these relate to sets of data that may change or be updated.
 
@@ -87,3 +171,4 @@ Files ending in ".md" are rendered on GitHub to allow you to write more rich con
 
 ![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
 
+</div>
