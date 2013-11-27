@@ -11,7 +11,6 @@ summary: GitHub is great for managing all of the information <em>around</em> the
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
-
 Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They're kind of like email—except they can be shared and discussed with the rest of your team. Most software projects have a bug tracker of some kind. GitHub's tracker is called **Issues**, and has its own section in every repository.
 
 ![](http://cl.ly/image/3F3R2w160x3Z/Image%202013-11-25%20at%205.39.33%20PM.png)
@@ -94,7 +93,7 @@ You can access your notifications through the <a href="https://github.com/notifi
 
 Muted threads won’t show up as unread again until you are specifically @mentioned again. This makes muting a great strategy for threads that you have little interest in (perhaps a sub-system that you aren’t familiar with). If you mark an issue as read, it will stay that way until someone comments on the thread again.
 
-GitHub also syncs read/unread status for notifications — if you read a notification in your email client, it will be marked as read in the web-based interface (make sure you allow your email client to display images if you’d like this functionality).
+GitHub also syncs read/unread status for email notifications — if you read a notification in your email client, it will be marked as read in the web-based interface (make sure you allow your email client to display images if you’d like this functionality).
 
 ### @mentions
 
@@ -122,7 +121,9 @@ When you do this, we'll create an event inside of issue #42 that looks something
 ![](http://cl.ly/image/1J2g0I0N3l0V/Image%202013-08-08%20at%204.47.08%20PM.png)
 
 
-Issue in another repository? Just include the repository before the name like `kneath/example-project#42`. You can also reference issues from commits if you like. Include the issue number inside of the commit message.
+Issue in another repository? Just include the repository before the name like `kneath/example-project#42`. 
+
+One of the more interesting ways to use GitHub Issues is to reference issues directly from commits. Include the issue number inside of the commit message.
 
 ![](http://cl.ly/image/3U2o202e1a1Q/Image%202013-08-08%20at%204.50.34%20PM.png)
 
