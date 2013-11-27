@@ -170,5 +170,3 @@ Gists are a perfect place to have small snippets of text for Markdown files. Whe
 Files ending in ".md" are rendered on GitHub to allow you to write more rich content using GitHub Flavored Markdown. Many people first do this with their README for their repository to give people an idea of what their project may be about and how to use it.
 
 ![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
-
-</div>
