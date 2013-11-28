@@ -25,14 +25,15 @@ summary: GitHub is great for managing all of the information <em>around</em> the
 ---
 ```
 
-** layout ** All guides are going to have a layout of article.
-** title ** Pick any title you want here.
-** read_time ** A good estimate for this is to take the word count and divide by 200.
-** updated_at ** As you make edits to a guide, make sure this gets updated as well. It'll present itself at the bottom of the guide.
-** icon ** This is the name of the icon you want to show up. Take a look at our [icon styleguide page](https://github.com/styleguide/icons) for more icons.
-** title_sha ** This one is a little tricky. Currently we're taking the title and pasting it into [this sha1 generating tool](http://www.tools4noobs.com/online_php_functions/sha1/) to get the sha1 back.
-** survey_tag ** Create a unique tag for this guide for survey feedback.
-** Summary ** What short description would you want people to read when looking at this on the front page?
+* **layout** - All guides are going to have a layout of article.
+* **title** - Pick any title you want here.
+* **read_time** - A good estimate for this is to take the word count and divide by 200.
+* **updated_at** - As you make edits to a guide, make sure this gets updated as well. It'll present itself at the bottom of the guide.
+* **icon** - This is the name of the icon you want to show up. Take a look at our [icon styleguide page](https://github.com/styleguide/icons) for more icons.
+* **title_sha** - This one is a little tricky. Currently we're taking the title and pasting it into [this sha1 generating tool](http://www.tools4noobs.com/online_php_functions/sha1/) to get the sha1 back.
+* **survey_tag** - Create a unique tag for this guide for survey feedback.
+* **summary** - What short description would you want people to read when looking at this on the front page?
+
 ## Working on your laptop
 If you want to write code, or write a guide, let's start out with that code on your laptop!
 
