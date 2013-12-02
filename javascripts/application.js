@@ -3,7 +3,11 @@ $(function(){
   var renderGuideListing = function(guideListing) {
     var titleSHA = guideListing.find('.js-guide-cover-title').data('title-sha');
     var svgCanvas   = guideListing.find('.js-guilloche')[0];
-    guillocheSVG(svgCanvas, {string: titleSHA, type: "listing"});
+    var cover = guideListing.find('.js-guide-cover');
+    svgCanvas.setAttribute('width', cover.width());
+    svgCanvas.setAttribute('height', cover.height());
+    center = {x: parseInt(guideListing.width() / 2) , y: 65};
+    guillocheSVG(svgCanvas, {string: titleSHA, type: "listing", center: center});
   };
 
   var renderGuideHeading = function(guideHeading) {
@@ -28,6 +32,11 @@ $(function(){
   $(window).resize(function() {
     if ($('.js-guide-article').length) {
       renderGuideHeading($('.js-guide-article'));
+    }
+    if ($('.js-guide-listing').length) {
+      $('.js-guide-listing').each(function() {
+        renderGuideListing($(this));
+      });
     }
   });
 
