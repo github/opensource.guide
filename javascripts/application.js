@@ -11,7 +11,7 @@ $(function(){
     var svgCanvas = $('.js-guilloche')[0];
     svgCanvas.setAttribute('width', guideHeading.width());
     svgCanvas.setAttribute('height', guideHeading.height());
-    center = {x: guideHeading.find('.wrap').offset().left + 35, y: 113};
+    center = {x: guideHeading.find('.wrap').offset().left + 50, y: 113};
     guillocheSVG(svgCanvas, {string: titleSHA, type: "article", center: center});
   };
 
