@@ -141,7 +141,7 @@ ol.toc.sticky {
 .article-heading {
   background-color: #eee;
   margin-top: 10px;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
   position: relative;
   text-shadow: 0 2px 0 rgba(0, 0, 0, 0.15);
 }
@@ -245,14 +245,6 @@ footer .mega-octicon {
 }
 
 /* Table of Contents */
-
-.toc-heading {
-  color: #aaa;
-  font-size: 15px;
-  margin-top: 0;
-  margin-bottom: 4px;
-}
-
 ol.toc {
   padding: 0;
 }
@@ -285,4 +277,42 @@ ol.toc>li a.active {
 
 .pd-embedded {
   margin: 20px 0;
+}
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  article.full .content-body {
+    width: 500px;
+  }
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+  html, body {
+    font-size: 15px;
+  }
+  .nav-github {
+    display: none ! important;
+  }
+  .article-heading .wrap {
+    padding: 30px 0;
+  }
+  article h1 {
+    font-size: 36px;
+  }
+  article.full .content-body {
+    width: 100%;
+  }
+  .toc-wrapper {
+    display: none;
+  }
 }

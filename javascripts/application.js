@@ -9,9 +9,10 @@ $(function(){
   var renderGuideHeading = function(guideHeading) {
     var titleSHA = guideHeading.find('.js-guide-article-title').data('title-sha');
     var svgCanvas = $('.js-guilloche')[0];
+    var topPadding = parseInt(guideHeading.find('.wrap').css('padding-top'));
     svgCanvas.setAttribute('width', guideHeading.width());
     svgCanvas.setAttribute('height', guideHeading.height());
-    center = {x: guideHeading.find('.wrap').offset().left + 50, y: 113};
+    center = {x: guideHeading.find('.wrap').offset().left + 50, y: 63 + topPadding};
     guillocheSVG(svgCanvas, {string: titleSHA, type: "article", center: center});
   };
 
