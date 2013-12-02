@@ -28,13 +28,7 @@ html, body {
   margin-bottom: 30px;
 }
 
-.guide-listing:nth-child(2n+1):before,
-.guide-listing:nth-child(2n+1):after {
-  content: " ";
-  display: table;
-}
-
-.guide-listing:nth-child(2n+1):after {
+.guide-listing:nth-child(odd) {
   clear: both;
 }
 
