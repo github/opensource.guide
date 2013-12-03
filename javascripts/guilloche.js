@@ -56,7 +56,7 @@ var guillocheSVG = function(canvas, opts){
 
     theta += Math.PI * 4 / steps;
 
-    if (oldX) {
+    if (visiblePath(oldX, oldY, x, y, size.x, size.y)) {
       var pathData = "M"+oldX+","+oldY+" "+"L"+x+","+y;
       var path = document.createElementNS("http://www.w3.org/2000/svg", 'path');
           path.setAttributeNS(null, 'd', pathData);
@@ -69,6 +69,44 @@ var guillocheSVG = function(canvas, opts){
     oldY = y;
   }
 };
+
+function visiblePath(pathOldX, pathOldY, pathNewX, pathNewY, visibleW, visibleH) {
+    var minX = pathOldX;
+    var maxX = pathNewX;
+
+    if (pathOldX > pathNewX) {
+        minX = pathNewX;
+        maxX = pathOldX;
+    }
+
+    if (maxX > visibleW) maxX = visibleW;
+    if (minX < 0) minX = 0;
+    if (minX > maxX) return false;
+
+    var minY = pathOldY;
+    var maxY = pathNewY;
+
+    var dx = pathNewX - pathOldX;
+
+    if (Math.abs(dx) > 0.0000001) {
+      var a = (pathNewY - pathOldY) / dx;
+      var b = pathOldY - a * pathOldX;
+      minY = a * minX + b;
+      maxY = a * maxX + b;
+    }
+
+    if (minY > maxY) {
+      var tmp = maxY;
+      maxY = minY;
+      minY = tmp;
+    }
+
+    if (maxY > visibleH) maxY = visibleH;
+    if (minY < 0) minY = 0;
+    if (minY > maxY) return false;
+
+    return true;
+}
 
 function map(value, v_min, v_max, d_min, d_max) {
   v_value = parseFloat(value);
