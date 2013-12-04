@@ -84,7 +84,7 @@ If you work on multiple machines or if you want to get some code that's on GitHu
 
 * **Pulling changes** — This will bring code from the online repository onto your computer (for example, if your co-worker pushed up some changes). You can accomplish this by clicking "Sync" in the upper right of GitHub Desktop.
 
-* **Clone a repository** — This will create a new copy of a repository on your machine. You can accomplish this by clicking the "Clone in Desktop" button on github.com.
+* **Clone a repository** — This will create a new copy of a repository on your machine. You can accomplish this by clicking the "Clone in Desktop" button on GitHub.com.
 
 <a id="celebrate" title="Celebrate!" class="toc-item"></a>
 ## Celebrate!
