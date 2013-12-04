@@ -12,11 +12,11 @@ summary: Publishing source code doesn’t have to be a pain. This guide will wal
 <a id="intro" title="Intro" class="toc-item"></a>
 Software is at the heart of GitHub — and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!
 
-Here's some great reasons to push projects to GitHub:
+Here are some great reasons to push projects to GitHub:
 
 * **Version Control** — Everything on GitHub is stored in <a href="http://git-scm.com" target="_blank">Git</a>, the best version control system around. Version control allows you to  experiment and make mistakes in code without messing up your final product.
 
-* **Keep your code in one place** — Whether you work on multiple computers or just want to get some old projects off your hard drive, GitHub is the perfect place to store your projects online.
+* **Keep your code in one place** — Whether you work on multiple computers or just want to get some old projects off your computer, GitHub is the perfect place to store your projects online.
 
 * **Collaboration** — Once your code is on GitHub, you can invite others to work on your code with you. Send them a link to help you debug a problem.
 
@@ -28,7 +28,7 @@ We use the words Git and GitHub a lot in this article, so let's clarify what the
 
 * **Git** — The version control tool that GitHub is built on top of.
 
-* **GitHub** — Our company, a website, and the name of our software. We build software and websites to help you interact with Git repositories in a nice way.
+* **GitHub** — Our company and the name of our software. We build software and websites to help you interact with Git repositories in a nice way.
 
 * **GitHub.com** — The website you log into to view repositories online.
 
@@ -48,7 +48,7 @@ The easiest way to get your project into GitHub Desktop is to drag the folder wi
 
 ![](http://cl.ly/image/3H2Q3p2Y3q0s/Image%202013-11-05%20at%202.56.56%20PM.png)
 
-If you are dragging in an existing Git repository, you can skip ahead to the [push your code to GitHub.com](#pushit) section. However, if the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder — it will simply create some hidden files that allow Git to do it's magic.
+If you are dragging in an existing Git repository, you can skip ahead to the [push your code to GitHub.com](#pushit) section. However, if the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder — it will simply create some hidden files that allow Git to do its magic.
 
 ### Your first commit
 
