@@ -52,7 +52,7 @@ If you are dragging in an existing Git repository, you can skip ahead and [push 
 
 ### Your first commit
 
-All Git repositories are based on *commits*—snapshots of your code at a point in time. Before you can push your code up to GitHub, you need to make at least one commit.
+All Git repositories are based on *commits*—snapshots of your code at a point in time. Before you can push your code up to GitHub.com, you need to make at least one commit.
 
 ![](http://cl.ly/image/0b353m1V0T3T/Image%202013-11-05%20at%203.11.16%20PM.png)
 
