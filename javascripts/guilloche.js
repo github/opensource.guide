@@ -28,10 +28,10 @@ var guillocheSVG = function(canvas, opts){
   mappedHueOffset = map(hueOffset, 0, 4095, 0, 359);
   baseBGColor.hue(360 - mappedHueOffset);
   if (satOffset % 2) {
-    baseBGColor.saturate(satOffset / 10);
+    baseBGColor.saturate(satOffset / 50);
   }
   else {
-    baseBGColor.desaturate(satOffset / 10);
+    baseBGColor.desaturate(satOffset / 50);
   }
 
   // Background fill
