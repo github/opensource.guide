@@ -32,12 +32,12 @@ We use the words Git and GitHub a lot in this article, so let's clarify what the
 
 * **GitHub.com** — The website you log into to view repositories online.
 
-* **GitHub Desktop** — An application that you can install on your computer that helps you connect code on your machine to GitHub.com.
+* **GitHub Desktop** — An application that you can install on your computer to help you synchronize local code with GitHub.com.
 
 <a id="desktop" title="GitHub Desktop" class="toc-item"></a>
 ## GitHub Desktop
 
-GitHub for Desktop is the easiest way to get code on GitHub. You won't need to learn any command-line instructions, SSH keys, or complicated Git terminology. All you'll need is your Mac or Windows computer and a <a href="https://github.com/join" target="_blank">GitHub.com account</a>.
+GitHub Desktop is the easiest way to get code on GitHub.com. You won't need to learn any command-line instructions, SSH keys, or complicated Git terminology. All you'll need is your Mac or Windows computer and a <a href="https://github.com/join" target="_blank">GitHub.com account</a>.
 
 You can download GitHub Desktop for <strong><a href="http://mac.github.com" target="_blank">Mac</a></strong> and <strong><a href="http://windows.github.com" target="_blank">Windows</a></strong>. Once you install GitHub Desktop, a short set up wizard will walk you through some basic configuration and will help you connect GitHub Desktop with your GitHub.com account.
 
