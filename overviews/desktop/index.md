@@ -63,19 +63,19 @@ Make as many commits as you like locally. No one but you can see those commits u
 <a id="pushit" title="Push your code" class="toc-item"></a>
 ## Push your code to GitHub.com
 
-Click the "Push to GitHub" button in the top right corner and GitHub Desktop will ask you what kind of repository to create:
+Click the "Push to GitHub" button in the upper-right corner and GitHub Desktop will ask you what kind of repository to create:
 
-* **Public repository**  — Anyone can see this repository, but you can choose who can commit (make changes) to the repository. You can create as many public repositories as you want on GitHub for free.
+* **Public repository**  — Anyone can see a public repository, but you choose who can commit (make changes) to it. You can create as many public repositories as you want on GitHub.com for free.
 
-* **Private repository** — By default, only you can see a private repository. You choose who can see and commit to this repository by adding collaborators. Private repositories require a <a href="https://github.com/settings/billing" target="_blank">paid subscription</a> on GitHub.
+* **Private repository** — By default, only you can see a private repository. You choose who can see and commit to this repository by adding collaborators. Private repositories require a <a href="https://github.com/settings/billing" target="_blank">paid subscription</a> on GitHub.com.
 
 Now that you've published the repository, you have it in two places:
 
-* **Local repository on your computer** — You can work with this repository without an internet connection using GitHub Desktop. This is where you edit files and make changes to your project.
+* **Local repository on your computer** — You can work on this repository without an Internet connection using GitHub Desktop. This is where you edit files and make changes to your project.
 
 * **Remote repository on GitHub.com** — You can send people links to your repository on GitHub.com so they can see your code and use all of GitHub's other features (like Issue management and Pull Requests).
 
-Each time you make changes to your local repository, you'll need to sync your changes (by clicking the button in the upper right corner of GitHub Desktop) to make sure they show up online.
+Each time you make changes to your local repository, you'll need to sync your changes (by clicking the button in the upper-right corner of GitHub Desktop) to make sure they show up online.
 
 <a id="pullit" title="Pulling code" class="toc-item"></a>
 ## Getting code from GitHub.com
