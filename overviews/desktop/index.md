@@ -44,7 +44,7 @@ You can download GitHub Desktop for <strong><a href="http://mac.github.com" targ
 <a id="setup" title="Set up your project" class="toc-item"></a>
 ## Set up your project in GitHub Desktop
 
-The easiest way to get your project into GitHub Desktop is to drag the folder with your code in it into the main application screen.
+The easiest way to get your project into GitHub Desktop is to drag the folder with your code into the main application screen.
 
 ![](http://cl.ly/image/3H2Q3p2Y3q0s/Image%202013-11-05%20at%202.56.56%20PM.png)
 
