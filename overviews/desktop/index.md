@@ -48,7 +48,7 @@ The easiest way to get your project into GitHub Desktop is to drag the folder wi
 
 ![](http://cl.ly/image/3H2Q3p2Y3q0s/Image%202013-11-05%20at%202.56.56%20PM.png)
 
-If you are dragging in an existing Git repository, you can skip ahead to the [push your code to GitHub.com](#pushit) section. However, if the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder—it will simply create some hidden files that allow Git to do its magic.
+If you are dragging in an existing Git repository, you can skip ahead and [push your code to GitHub.com](#pushit). However, if the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder—it will simply create some hidden files that allow Git to do its magic.
 
 ### Your first commit
 
