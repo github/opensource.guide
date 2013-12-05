@@ -37,7 +37,7 @@ We use the words Git and GitHub a lot in this article, so let's clarify what the
 <a id="desktop" title="GitHub Desktop" class="toc-item"></a>
 ## GitHub Desktop
 
-GitHub for Desktop is the easiest way to get code on GitHub. You won't need to learn any command line instructions, SSH keys, or complicated Git terminology. All you'll need is your Mac or Windows computer and a <a href="https://github.com/join" target="_blank">GitHub.com account</a>.
+GitHub for Desktop is the easiest way to get code on GitHub. You won't need to learn any command-line instructions, SSH keys, or complicated Git terminology. All you'll need is your Mac or Windows computer and a <a href="https://github.com/join" target="_blank">GitHub.com account</a>.
 
 You can download GitHub Desktop for <strong><a href="http://mac.github.com" target="_blank">Mac</a></strong> and <strong><a href="http://windows.github.com" target="_blank">Windows</a></strong>. Once you install GitHub Desktop, a short set up wizard will walk you through some basic configuration and will help you connect GitHub Desktop with your GitHub.com account.
 
