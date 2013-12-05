@@ -7,7 +7,7 @@ icon: git-branch
 title_sha: 073f59b119f21d1c2a35435d08e7894aa6a0c1cb
 survey_tag: 'project-bootstrapping-1'
 
-summary: Publishing source code doesn’t have to be a pain. This guide will walk you through our Mac & Windows applications and how to start sharing your projects with the world (or maybe with no one at all).
+summary:
 ---
 <a id="intro" title="Intro" class="toc-item"></a>
 Software is at the heart of GitHub — and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!

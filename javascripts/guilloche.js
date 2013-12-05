@@ -26,7 +26,6 @@ var guillocheSVG = function(canvas, opts){
       baseBGColor          = Color("#933c3c");
 
   mappedHueOffset = map(hueOffset, 0, 4095, 0, 359);
-
   baseBGColor.hue(360 - mappedHueOffset);
 
   if (satOffset % 2) {
