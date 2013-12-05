@@ -4,7 +4,7 @@ title: Understanding the GitHub Workflow
 read_time: 5 minute
 updated_at: Dec 5, 2013
 icon: git-branch
-title_sha: 778b00987f6045cbb63194891bc2c0716dd5c6d3
+title_sha: 073f59b119f21d1c2a35435d08e7894aa6a0c1cb
 survey_tag: 'project-bootstrapping-1'
 
 summary: Publishing source code doesn’t have to be a pain. This guide will walk you through our Mac & Windows applications and how to start sharing your projects with the world (or maybe with no one at all).
