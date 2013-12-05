@@ -80,11 +80,11 @@ Each time you make changes to your local repository, you'll need to sync your ch
 <a id="pullit" title="Pulling code" class="toc-item"></a>
 ## Getting code from GitHub.com
 
-If you work on multiple machines or if you want to get some code that's on GitHub.com onto your machine, you'll need to pull changes or clone a repository:
+If you work on multiple machines or if you want to get some code from GitHub.com onto your machine, you'll need to pull changes or clone a repository:
 
-* **Pulling changes** — This will bring code from the online repository onto your computer (for example, if your co-worker pushed up some changes). You can accomplish this by clicking "Sync" in the upper right of GitHub Desktop.
+* **Pull changes** — Click the "Sync" button in the upper-right corner of GitHub Desktop to bring code from an online repository (for example, changes that your co-worker pushed up) onto your computer.
 
-* **Clone a repository** — This will create a new copy of a repository on your machine. You can accomplish this by clicking the "Clone in Desktop" button on GitHub.com.
+* **Clone a repository** — Click the "Clone in Desktop" button on GitHub.com to create a new copy of a repository on your computer.
 
 <a id="celebrate" title="Celebrate!" class="toc-item"></a>
 ## Celebrate!
