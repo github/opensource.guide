@@ -34,7 +34,7 @@ Markdown is a way to style text on the web. You control the display of the docum
 <a id="format" title="The Format" class="toc-item"></a>
 ## About the format
 
-Imagine you have a document with several paragraphs. You think, "This would look better if I could do include some formatting, like making a word italic, just like I would in a traditional word processor."
+Imagine you have a document with several paragraphs. You think, "This would look better if I could include some formatting, like making a word italic, just like I would in a traditional word processor."
 
 To try this out, [create a new practice issue](https://github.com/githubtraining/sample-markdown/issues/new) and type a bit of text in the comment section. Add a "#" symbol to the front of your sentence; this turns it into a header. You have now created the first heading of your document!
 
