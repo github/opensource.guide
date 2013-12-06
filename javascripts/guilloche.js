@@ -72,6 +72,8 @@ var guillocheSVG = function(canvas, opts){
 };
 
 function visiblePath(pathOldX, pathOldY, pathNewX, pathNewY, visibleW, visibleH) {
+    if (!(pathOldX && pathOldY && pathNewX && pathNewY)) return false;
+
     var minX = pathOldX;
     var maxX = pathNewX;
 
