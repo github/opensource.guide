@@ -28,13 +28,7 @@ html, body {
   margin-bottom: 30px;
 }
 
-.guide-listing:nth-child(2n+1):before,
-.guide-listing:nth-child(2n+1):after {
-  content: " ";
-  display: table;
-}
-
-.guide-listing:nth-child(2n+1):after {
+.guide-listing:nth-child(odd) {
   clear: both;
 }
 
@@ -141,7 +135,7 @@ ol.toc.sticky {
 .article-heading {
   background-color: #eee;
   margin-top: 10px;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
   position: relative;
   text-shadow: 0 2px 0 rgba(0, 0, 0, 0.15);
 }
@@ -164,11 +158,12 @@ ol.toc.sticky {
   margin-top: 30px;
   margin-right: 20px;
   position: absolute;
+  left: 15px;
 }
 
 .article-read-time {
   color: rgba(255, 255, 255, 0.7);
-  margin-left: 93px;
+  margin-left: 108px;
   clear: left;
 }
 
@@ -212,7 +207,7 @@ article {
 }
 article h1 {
   margin-bottom: 10px;
-  margin-left: 90px;
+  margin-left: 105px;
   font-size: 48px;
   letter-spacing: -1px;
   line-height: 1;
@@ -244,14 +239,6 @@ footer .mega-octicon {
 }
 
 /* Table of Contents */
-
-.toc-heading {
-  color: #aaa;
-  font-size: 15px;
-  margin-top: 0;
-  margin-bottom: 4px;
-}
-
 ol.toc {
   padding: 0;
 }
@@ -284,4 +271,85 @@ ol.toc>li a.active {
 
 .pd-embedded {
   margin: 20px 0;
+}
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+  .guide-listing {
+    width: 400px;
+    margin-right: 20px;
+  }
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  article.full .content-body {
+    width: 500px;
+  }
+  .guide-listings {
+    width: 100%;
+  }
+  .guide-listing {
+    width: 48%;
+    margin-right: 4%;
+  }
+  .guide-listing:nth-child(2n) {
+    margin-right: 0;
+  }
+  .guide-cover {
+    width: 100%;
+  }
+  .guide-cover-title {
+    font-size: 28px;
+  }
+  .guide-cover a {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  html, body {
+    font-size: 15px;
+  }
+  .nav-github {
+    display: none ! important;
+  }
+  .article-heading .wrap {
+    padding: 30px 0;
+  }
+  article h1 {
+    font-size: 36px;
+  }
+  article.full .content-body {
+    width: 100%;
+  }
+  .toc-wrapper {
+    display: none;
+  }
+
+  .landing-page.wrap,
+  .guide-listings {
+    width: 100%;
+  }
+  .guide-cover a {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .guide-cover-title {
+    font-size: 26px;
+  }
+  .guide-listing {
+    display: block;
+    margin-right: 0;
+    float: none;
+    width: 100%;
+  }
+
+  footer {
+    font-size: 12px;
+  }
 }

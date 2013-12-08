@@ -15,11 +15,11 @@ var guillocheSVG = function(canvas, opts){
       size                 = {x: canvas.getAttribute('width'),
                               y: canvas.getAttribute('height')},
       halfSize             = {x: size.x / 2, y: size.y / 2},
-      majorR               = 379.6 - majorROffset,
-      minorR               = 50 - minorROffset,
-      angleMultiplier      = 50 - angleOffset,
-      radiusEffectConstant = 250 - radiusEffectOffset,
-      steps                = 1250 - stepsOffset,
+      majorR               = 379.6 + (majorROffset % 2 ? majorROffset : -majorROffset),
+      minorR               = 50 + (minorROffset % 2 ? minorROffset : -minorROffset),
+      angleMultiplier      = 50 + (angleOffset % 2 ? angleOffset : -angleOffset),
+      radiusEffectConstant = 250 + (radiusEffectConstant % 2 ? radiusEffectOffset : -radiusEffectOffset),
+      steps                = 1250 + (stepsOffset % 2 ? stepsOffset : -stepsOffset),
       centerPoint          = listingCenter,
       color                = 'rgba(255,255,255, 0.13)',
       globalAlpha          = 1.0,
@@ -27,11 +27,12 @@ var guillocheSVG = function(canvas, opts){
 
   mappedHueOffset = map(hueOffset, 0, 4095, 0, 359);
   baseBGColor.hue(360 - mappedHueOffset);
+
   if (satOffset % 2) {
-    baseBGColor.saturate(satOffset / 10);
+    baseBGColor.saturate(satOffset / 50);
   }
   else {
-    baseBGColor.desaturate(satOffset / 10);
+    baseBGColor.desaturate(satOffset / 50);
   }
 
   // Background fill
@@ -56,7 +57,7 @@ var guillocheSVG = function(canvas, opts){
 
     theta += Math.PI * 4 / steps;
 
-    if (oldX) {
+    if (visiblePath(oldX, oldY, x, y, size.x, size.y)) {
       var pathData = "M"+oldX+","+oldY+" "+"L"+x+","+y;
       var path = document.createElementNS("http://www.w3.org/2000/svg", 'path');
           path.setAttributeNS(null, 'd', pathData);
@@ -69,6 +70,46 @@ var guillocheSVG = function(canvas, opts){
     oldY = y;
   }
 };
+
+function visiblePath(pathOldX, pathOldY, pathNewX, pathNewY, visibleW, visibleH) {
+    if (!(pathOldX && pathOldY && pathNewX && pathNewY)) return false;
+
+    var minX = pathOldX;
+    var maxX = pathNewX;
+
+    if (pathOldX > pathNewX) {
+        minX = pathNewX;
+        maxX = pathOldX;
+    }
+
+    if (maxX > visibleW) maxX = visibleW;
+    if (minX < 0) minX = 0;
+    if (minX > maxX) return false;
+
+    var minY = pathOldY;
+    var maxY = pathNewY;
+
+    var dx = pathNewX - pathOldX;
+
+    if (Math.abs(dx) > 0.0000001) {
+      var a = (pathNewY - pathOldY) / dx;
+      var b = pathOldY - a * pathOldX;
+      minY = a * minX + b;
+      maxY = a * maxX + b;
+    }
+
+    if (minY > maxY) {
+      var tmp = maxY;
+      maxY = minY;
+      minY = tmp;
+    }
+
+    if (maxY > visibleH) maxY = visibleH;
+    if (minY < 0) minY = 0;
+    if (minY > maxY) return false;
+
+    return true;
+}
 
 function map(value, v_min, v_max, d_min, d_max) {
   v_value = parseFloat(value);
