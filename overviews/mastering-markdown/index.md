@@ -147,7 +147,7 @@ I think you should use an
 `<addr>` element here instead.
 </pre>
 
-### Comment Boxes
+### Comment boxes
 
 Comments have a useful set of additional Markdown syntax that differs from the format in files. These syntaxes correlate to information on GitHub.com.
 
