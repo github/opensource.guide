@@ -51,7 +51,7 @@ Here's an overview of Markdown syntax that you can use anywhere on GitHub.com, o
 
 ### Formating text
 
-Headers
+##### Headers
 
 ```markdown
 # This is an <h1> tag
@@ -59,7 +59,7 @@ Headers
 ###### This is an <h6> tag
 ```
 
-Text styles
+##### Text styles
 
 ```markdown
 *This text will be italic*
@@ -72,7 +72,7 @@ __This will also be bold__
 
 ### Lists
 
-Unordered
+##### Unordered
 
 ```markdown
 * Item 1
@@ -81,7 +81,7 @@ Unordered
   * Item 2b
 ```
 
-Ordered
+##### Ordered
 
 ```markdown
 1. Item 1
@@ -93,21 +93,21 @@ Ordered
 
 ### Miscellaneous
 
-Images
+##### Images
 
 ```markdown
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 ```
 
-Links
+##### Links
 
 ```markdown
 http://github.com - automatic!
 [GitHub](http://github.com)
 ```
 
-Blockquotes
+##### Blockquotes
 
 ```markdown
 As Kanye West said:
@@ -151,18 +151,18 @@ I think you should use an
 
 Comments have a useful set of additional Markdown syntax that differs from the format in files. These syntaxes correlate to information on GitHub.com.
 
-TaskLists
+##### TaskLists
 
 ```
-    - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-    - [x] list syntax required (any unordered or ordered list supported)
-    - [x] this is a complete item
-    - [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 ```
 
-SHA References
+##### SHA references
 
-Referencing a commit SHA, like so:
+Referencing a commit SHA
 
 ```
 16c999e8c71134401a78d4d46435517b2271d6ac
@@ -172,10 +172,10 @@ mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 
 becomes a link to the commit with that SHA.
 
-Issues references in same repo
+##### Issues references in same repo
 
 
-Referencing an Issue or Pull Request by its number, like so:
+Referencing an Issue or Pull Request by its number
 
 ```
 #1
@@ -185,17 +185,17 @@ mojombo/github-flavored-markdown#1
 
 turns it into a link to that Issue or Pull Request.
 
-Username @mentions
+##### Username @mentions
 
 Typing an `@` symbol, followed by a username, will notify that person to come and view
 the comment. This is called an "@mention", because you're _mentioning_ the individual.
 You can also @mention teams within an organization.
 
-Automatic linking for URLs
+##### Automatic linking for URLs
 
 Any pasted URL, like `http://www.github.com/`, will automatically turn into a clicklable link.
 
-Strikethrough
+##### Strikethrough
 
 Wrapping a word with two `~` marks--like `~~this~~`--will generate a strike through, or cross the text with a line.
 Emoji
