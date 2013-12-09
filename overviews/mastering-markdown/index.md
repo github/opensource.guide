@@ -49,7 +49,7 @@ To see your craftsmanship, click on the "Preview" tab to see a rendered view of 
 
 Here's an overview of Markdown syntax that you can use anywhere on GitHub.com, or your own text files:
 
-### Formating text
+### Formatting text
 
 ##### Headers
 
