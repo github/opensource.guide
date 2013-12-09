@@ -135,11 +135,13 @@ Or, indent your code 4 spaces:
 Here is a Python code example
 without syntax highlighting:
 
+<pre>
 ```
     def foo:
       if not bar:
         return true
 ```
+</pre>
 
 Inline code for comments
 <pre>
