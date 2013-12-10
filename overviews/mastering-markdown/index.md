@@ -24,15 +24,16 @@ Markdown is a lightweight and easy to use syntax for styling all forms of writin
 <a id="what" title="What is Markdown?" class="toc-item"></a>
 ## What is Markdown?
 
-Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown.
+Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. It was created by John Gruber as an easier way to write documents that contained more than just plain text.
 
-<strong><a href="https://github.com/github/developer.github.com" target="_blank">Here's an example from the GitHub API developer Documentation</a></strong>
+<strong><a href="https://github.com/github/developer.github.com" target="_blank">Here's an example of Markdown from the GitHub API developer Documentation</a></strong>
 
 ![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
 
-
 <a id="format" title="The Format" class="toc-item"></a>
 ## About the format
+
+Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like `#` or `*`.
 
 Imagine you have a document with several paragraphs. You think, "This would look better if I could include some formatting, like making a word italic, just like I would in a traditional word processor."
 
@@ -45,7 +46,7 @@ To see your craftsmanship, click on the "Preview" tab to see a rendered view of 
 ![Previewed Markdown in an Issue](masteringmarkdown-sample-issue-preview.jpg)
 
 <a id="special" title="Special Flavors" class="toc-item"></a>
-## Special flavors
+## Basic syntax
 
 Here's an overview of Markdown syntax that you can use anywhere on GitHub.com, or your own text files:
 
@@ -116,7 +117,11 @@ As Kanye West said:
 > the present is our past.
 ```
 
-### GitHub Flavored Markdown
+## GitHub Flavored Markdown
+
+GitHub.com has a useful set of additional Markdown syntax that differs from the format in files. These syntaxes correlate to information found on GitHub.com.
+
+##### Syntax highlighting
 
 Syntax highlighting with [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
 
@@ -146,10 +151,6 @@ Inline code for comments
 I think you should use an
 `<addr>` element here instead.
 </pre>
-
-### Comment boxes
-
-Comments have a useful set of additional Markdown syntax that differs from the format in files. These syntaxes correlate to information on GitHub.com.
 
 ##### TaskLists
 
@@ -202,8 +203,8 @@ Emoji
 
 GitHub supports emoji! To see a list of every image we support, check out the [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).
 
-<a id="gfm" title="Basic use beyond issues" class="toc-item"></a>
-## Basic use beyond issues
+<a id="gfm" title="Basic use" class="toc-item"></a>
+## Basic use
 
 ### Pull Requests
 Pull Requests work just like Issues, except the discussion is about code. Comment on a Pull Request just like you would an issue.
