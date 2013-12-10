@@ -41,7 +41,7 @@ $(function(){
 
 
   // Initalize the ToC if we're on an article page
-  if ($('js-toc').length) {
+  if ($('.js-toc').length) {
     tableOfContents($('.js-toc'));
 
     var toc = $('.js-toc');
