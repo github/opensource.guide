@@ -30,9 +30,6 @@ Markdown is a way to style text on the web. You control the display of the docum
 
 ![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
 
-<a id="format" title="The Format" class="toc-item"></a>
-## About the format
-
 Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like `#` or `*`.
 
 Imagine you have a document with several paragraphs. You think, "This would look better if I could include some formatting, like making a word italic, just like I would in a traditional word processor."
