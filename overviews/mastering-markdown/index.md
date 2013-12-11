@@ -11,7 +11,7 @@ summary: Almost all text on GitHub is processed through a markup language called
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
-Markdown is a lightweight and easy to use syntax for styling all forms of writing on the GitHub platform.
+Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
 **What you will learn:**
 
