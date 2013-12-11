@@ -42,6 +42,12 @@ To see your craftsmanship, click on the "Preview" tab to see a rendered view of 
 
 ![Previewed Markdown in an Issue](masteringmarkdown-sample-issue-preview.jpg)
 
+You can also use Markdown in the following areas of GitHub.com:
+
+- [Gists](https://gist.github.com/)
+- Comments in Issues and Pull Requests
+- Files with the `.md` or `.markdown` extension
+
 <a id="special" title="Basic syntax" class="toc-item"></a>
 ## Basic syntax
 
