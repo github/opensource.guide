@@ -172,18 +172,15 @@ mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 
 becomes a link to the commit with that SHA.
 
-### Issues references in same repo
+### Issue references within a repository
 
-
-Referencing an Issue or Pull Request by its number
+Any number that refers to an Issue or Pull Request will be automatically converted into a link.
 
 ```
 #1
 mojombo#1
 mojombo/github-flavored-markdown#1
 ```
-
-turns it into a link to that Issue or Pull Request.
 
 ### Username @mentions
 
