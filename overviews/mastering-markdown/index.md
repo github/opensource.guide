@@ -48,7 +48,7 @@ You can also use Markdown in the following areas of GitHub.com:
 - Comments in Issues and Pull Requests
 - Files with the `.md` or `.markdown` extension
 
-<a id="special" title="Basic syntax" class="toc-item"></a>
+<a id="syntax" title="Basic syntax" class="toc-item"></a>
 ## Basic syntax
 
 Here's an overview of Markdown syntax that you can use anywhere on GitHub.com, or your own text files:
