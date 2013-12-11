@@ -72,20 +72,28 @@ summary:
 
 <div class="flow-content">
 
-  <div class="panel-nav prev">
+  <a href="#" class="panel-nav prev js-panel-nav-prev" title="Previous">
     <span class="mega-octicon octicon-chevron-left"></span>
-  </div>
+  </a>
 
-  <div class="panel-nav next">
+  <a href="#" class="panel-nav next js-panel-nav-next" title="Next">
     <span class="mega-octicon octicon-chevron-right"></span>
+  </a>
+
+  <div class="panel-content js-panel-content">
+    <h3>Create a branch</h3>
+
+    <p>Software is at the heart of GitHub — and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!</p>
+
+    <p>Here's some of my favorite reasons to push projects to GitHub:</p>
   </div>
 
-  <h3>Create a branch</h3>
+  <div class="panel-content js-panel-content">
+    <h3>Make one or more commits</h3>
 
-  Software is at the heart of GitHub — and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!
+    <p>Commits blah blah.</p>
 
-  Here's some of my favorite reasons to push projects to GitHub:
+  </div>
 
-  ### Your first commit
 
 </div>

@@ -14,6 +14,10 @@
   top: 100px;
 }
 
+.panel-nav:hover {
+  border-color: #4183c4;
+}
+
 .panel-nav.prev {
   left: -150px;
 }
@@ -26,6 +30,23 @@
   font-size: 48px;
   line-height: 100px;
   color: #4183c4;
+}
+
+.panel-nav.disabled .mega-octicon {
+  color: #e5e5e5;
+}
+
+.panel-nav.disabled:hover {
+  border-color: #e5e5e5;
+  cursor: default;
+}
+
+.panel-content {
+  display: none;
+}
+
+.panel-content.active {
+  display: block;
 }
 
 .features-branch-diagram {
