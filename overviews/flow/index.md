@@ -83,17 +83,65 @@ summary:
   <div class="panel-content js-panel-content">
     <h3>Create a branch</h3>
 
-    <p>Software is at the heart of GitHub — and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!</p>
+    <p>When you're working on a project, you're going to have a bunch of different features or ideas in progress at any given time – some of which are ready to go, and others which are not. Branching exists to help you manage this workflow.</p>
 
-    <p>Here's some of my favorite reasons to push projects to GitHub:</p>
+    <p>When you create a branch in your project, you're creating an environment where you can try out new ideas. Changes you make on a branch don't affect the <code>master</code> branch, so you're free to experiment and commit changes, safe in the knowledge that your branch won't be merged until it's ready to be reviewed by someone you're collaborating with.</p>
+
+    <h4>ProTip</h4>
+
+    <p>Branching is a core concept in Git, and the entire GitHub Flow is based upon it. There's only one rule: anything in the <code>master</code> branch is always deployable.</p>
+
+    <p>Because of this, it's extremely important that your new branch is created off of master when working on a feature or a fix. Your branch name should be descriptive (e.g., <code>refactor-authentication</code>, <code>user-content-cache-key</code>, <code>make-retina-avatars</code>), so that others can see what is being worked on.</p>
   </div>
 
   <div class="panel-content js-panel-content">
-    <h3>Make one or more commits</h3>
+    <h3>Add commits</h3>
 
-    <p>Commits blah blah.</p>
+    <p>Once your branch has been created, it's time to start making changes. Whenever you add, edit, or delete a file, you're making a commit, and adding them to your branch. This process of adding commits keeps track of your progress as you work on a feature branch.</p>
 
+    <p>Commits also create a transparent history of your work that others can follow to understand what you've done and why. Each commit has an associated commit message, which is a description explaining why a particular change was made. Furthermore, each commit is considered a separate unit of change. This lets you roll back changes if a bug is found, or if you decide to head in a different direction.</p>
+
+    <h4>ProTip</h4>
+
+    <p>Commit messages are important, especially since Git tracks your changes and then displays them as commits once they're pushed to the server. By writing clear commit messages, you can make it easier for other people to follow along and provide feedback.</p>
   </div>
 
+  <div class="panel-content js-panel-content">
+    <h3>Open a Pull Request</h3>
+
+    <p>Pull Requests initiate discussion about your commits. Because they're tightly integrated with the underlying Git repository, anyone can see exactly what changes would be merged if they accept your request.</p>
+
+    <p>You can open a Pull Request at any point during the development process: when you have little or no code but want to share some screenshots or general ideas, when you're stuck and need help or advice, or when you're ready for someone to review your work. By using GitHub's @mention system in your Pull Request message, you can ask for feedback from specific people or teams, whether they're down the hall or ten time zones away.</p>
+
+    <h4>ProTip</h4>
+
+    <p>Pull Requests are useful for contributing to open source projects and for managing changes to shared repositories. If you're using a Fork &amp; Pull Model, Pull Requests provide a way to notify project maintainers about the changes you'd like them to consider. If you're using a Shared Repository Model, Pull Requests help start code review and conversation about proposed changes before they're merged into the master branch.</p>
+  </div>
+
+  <div class="panel-content js-panel-content">
+
+    <h3>Code review and discussion</h3>
+
+    <p>Once a Pull Request has been opened, the person or team reviewing your changes may have questions or comments. Perhaps the coding style doesn't match project guidelines, the change is missing unit tests, or maybe everything looks great and props are in order. Pull Requests are designed to encourage and capture this type of conversation.</p>
+
+    <p>You can also continue to push to your branch in light of discussion and feedback about your commits. If someone comments that you forgot to do something or if there is a bug in the code, you can fix it in your branch and push up the change. GitHub will show your new commits and any additional feedback you may receive in the unified Pull Request view.</p>
+
+    <h4>ProTip</h4>
+
+    <p>Pull Request comments are written in Markdown, so you can embed images and emoji, use pre-formatted text blocks, and other lightweight formatting.</p>
+  </div>
+
+  <div class="panel-content js-panel-content">
+
+    <h3>Merge and deploy</h3>
+
+    <p>Once your Pull Request has been reviewed and the branch passes your tests, it's time to merge your code to the master branch for deployment. If you want to test things before merging in the repository on GitHub, you can perform the merge locally first. This is also handy if you don't have push access to the repository.</p>
+
+    <p>Once merged, Pull Requests preserve a record of the historical changes to your code. Because they're searchable, they let anyone go back in time to understand why and how a decision was made.</p>
+
+    <h4>ProTip</h4>
+
+    <p>By incorporating certain keywords into the text of your Pull Request, you can associate issues with code. When your Pull Request is merged, the related issues are also closed. For example, entering the phrase <code>Closes #32</code> would close issue number 32 in the repository. For more information, check out our <a href="https://help.github.com/articles/closing-issues-via-commit-messages">help article</a>.</p>
+  </div>
 
 </div>
