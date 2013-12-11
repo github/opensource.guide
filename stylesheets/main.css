@@ -103,6 +103,10 @@ article.full .content-body {
   font-size: 18px;
 }
 
+article.full .content-body.full-width {
+  width: 100%;
+}
+
 .toc-wrapper {
   float: right;
   width: 200px;

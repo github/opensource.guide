@@ -1,0 +1,144 @@
+.flow-content {
+  width: 560px;
+  position: relative;
+  margin: 0 auto 100px auto;
+}
+
+.panel-nav {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  text-align: center;
+  border: solid 1px #e5e5e5;
+  position: absolute;
+  top: 100px;
+}
+
+.panel-nav.prev {
+  left: -150px;
+}
+
+.panel-nav.next {
+  left: 615px;
+}
+
+.panel-nav .mega-octicon {
+  font-size: 48px;
+  line-height: 100px;
+  color: #4183c4;
+}
+
+.features-branch-diagram {
+  position: relative;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.diagram-icon {
+  position: absolute;
+  border-radius: 50px;
+  border: solid 4px #4183c4;
+  background-color: #fff;
+  width: 53px;
+  height: 53px;
+  text-align: center;
+  line-height: 55px;
+  color: #4183c4;
+}
+
+.diagram-icon .mega-octicon {
+  line-height: 32px;
+}
+
+.diagram-icon-small {
+  position: absolute;
+  color: #4183c4;
+  margin-top: 2px\9; // IE hack
+}
+
+.diagram-icon-branch {
+  top: -13px;
+  left: 61px;
+}
+
+.diagram-icon-pr {
+  top: 89px;
+  left: 405px;
+}
+
+.diagram-icon-merge {
+  top: -13px;
+  left: 823px;
+}
+
+.diagram-icon-commit-1 {
+  top: 101px;
+  left: 240px;
+  background-color: #fff;
+}
+
+.diagram-icon-commit-2 {
+  top: 101px;
+  left: 295px;
+  background-color: #fff;
+}
+
+.diagram-icon-commit-3 {
+  top: 101px;
+  left: 350px;
+  background-color: #fff;
+}
+
+.diagram-icon-discussion-1 {
+  top: 79px;
+  left: 488px;
+  opacity: 0.3;
+}
+
+.diagram-icon-commit-4 {
+  top: 101px;
+  left: 515px;
+  background-color: #fff;
+}
+
+.diagram-icon-discussion-2 {
+  top: 131px;
+  left: 542px;
+  opacity: 0.3;
+}
+
+.diagram-icon-commit-5 {
+  top: 101px;
+  left: 570px;
+  background-color: #fff;
+}
+
+.diagram-icon-discussion-3 {
+  top: 79px;
+  left: 597px;
+  opacity: 0.3;
+}
+
+.diagram-icon-commit-6 {
+  top: 101px;
+  left: 625px;
+  background-color: #fff;
+}
+
+.diagram-icon-discussion-4 {
+  top: 131px;
+  left: 652px;
+  opacity: 0.3;
+}
+
+.diagram-icon-commit-7 {
+  top: 101px;
+  left: 680px;
+  background-color: #fff;
+}
+
+.diagram-icon-discussion-5 {
+  top: 79px;
+  left: 707px;
+  opacity: 0.3;
+}

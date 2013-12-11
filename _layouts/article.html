@@ -18,11 +18,13 @@ layout: default
 
 
   <div class="wrap">
+    {% if page.full_width != true %}
     <div class="toc-wrapper">
       <ol class="toc js-toc"></ol>
     </div>
+    {% endif %}
 
-    <div class="markdown-body content-body">
+    <div class="markdown-body content-body {% if page.full_width %}full-width{% endif %}">
       {{ content }}
 
       <p class="last-updated">Last updated {{ page.updated_at }}</p>

@@ -1,5 +1,6 @@
 ---
 layout: article
+full_width: true
 title: Understanding the GitHub Workflow
 read_time: 5 minute
 updated_at: Dec 5, 2013
@@ -9,90 +10,82 @@ survey_tag: 'project-bootstrapping-1'
 
 summary:
 ---
-<a id="intro" title="Intro" class="toc-item"></a>
-Software is at the heart of GitHub — and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!
 
-Here's some of my favorite reasons to push projects to GitHub:
+<script type="text/javascript" src="flow.js"></script>
+<link rel="stylesheet" type="text/css" href="flow.css">
 
-* **Version Control** — Everything on GitHub is stored in <a href="http://git-scm.com" target="_blank">Git</a>, the best version control system around. Version control allows you to  experiment and make mistakes in code without messing up your final product.
+<div class="features-branch-diagram preload" id="js-features-branch-diagram">
 
-* **Keep your code in one place** — Whether you work on multiple computers, or just want to get some old projects off your hard drive, GitHub the perfect place to store your projects online.
+  <svg width="938px" height="128px" xmlns="http://www.w3.org/2000/svg">
+    <path d="M78,9 C129.058594,9 137.203125,117 186.011719,117 C234.820312,117 688.816406,117 734.773438,117 C800.730469,117 796.5625,8.99345711 867.417969,9" id="js-branch-diagram-branch" stroke="#4182C4" stroke-width="4" fill="none"></path>
+    <path d="M10,10 L756.042969,10 L904,10" id="js-branch-diagram-master" stroke="#c6d9ed" stroke-width="8"></path>
+    <path id="js-branch-diagram-arrow" d="M903.2,13 C906.98,11.95 910.22,11.05 914,10 C910.22,8.95 906.98,8.05 903.2,7" stroke="#c6d9ed" stroke-width="8" fill="none"></path>
+  </svg>
 
-* **Collaboration** — Once your code is on GitHub, you can invite others to work on your code with you. Send them a link to help you debug a problem
+  <div class="diagram-icon diagram-icon-branch ">
+    <span class="mega-octicon octicon-git-branch"></span>
+  </div>
+  <div class="diagram-icon-small diagram-icon-commit-1 ">
+    <span class="mega-octicon octicon-git-commit"></span>
+  </div>
+  <div class="diagram-icon-small diagram-icon-commit-2 ">
+    <span class="mega-octicon octicon-git-commit"></span>
+  </div>
+  <div class="diagram-icon-small diagram-icon-commit-3 ">
+    <span class="mega-octicon octicon-git-commit"></span>
+  </div>
+  <div class="diagram-icon diagram-icon-pr ">
+    <span class="mega-octicon octicon-git-pull-request"></span>
+  </div>
+  <div class="diagram-icon diagram-icon-merge ">
+    <span class="mega-octicon octicon-git-merge"></span>
+  </div>
+  <div class="diagram-icon-small diagram-icon-discussion-1 ">
+    <span class="mega-octicon octicon-comment-discussion"></span>
+  </div>
+  <div class="diagram-icon-small diagram-icon-commit-4 ">
+    <span class="mega-octicon octicon-git-commit"></span>
+  </div>
+  <div class="diagram-icon-small diagram-icon-discussion-2 ">
+    <span class="mega-octicon octicon-comment-discussion"></span>
+  </div>
+  <div class="diagram-icon-small diagram-icon-commit-5 ">
+    <span class="mega-octicon octicon-git-commit"></span>
+  </div>
+  <div class="diagram-icon-small diagram-icon-discussion-3 ">
+    <span class="mega-octicon octicon-comment-discussion"></span>
+  </div>
+  <div class="diagram-icon-small diagram-icon-commit-6 ">
+    <span class="mega-octicon octicon-git-commit"></span>
+  </div>
+  <div class="diagram-icon-small diagram-icon-discussion-4 ">
+    <span class="mega-octicon octicon-comment-discussion"></span>
+  </div>
+  <div class="diagram-icon-small diagram-icon-commit-7 ">
+    <span class="mega-octicon octicon-git-commit"></span>
+  </div>
+  <div class="diagram-icon-small diagram-icon-discussion-5 ">
+    <span class="mega-octicon octicon-comment-discussion"></span>
+  </div>
 
-![](http://cl.ly/image/242S260f012S/Image%202013-11-05%20at%202.03.09%20PM.png)
+</div>
 
-Once your project is on GitHub, we provide a URL for every file in your project. For example, this is Mike Bostock's popular <a href="https://github.com/mbostock/d3" target="_blank">d3</a> project for javascript base data-driven documents.
+<div class="flow-content">
 
-We end up using the word Git and GitHub a lot in this article, so here's some clarification that might help:
+  <div class="panel-nav prev">
+    <span class="mega-octicon octicon-chevron-left"></span>
+  </div>
 
-* **Git** — This is the version control tool that GitHub is built on top of.
+  <div class="panel-nav next">
+    <span class="mega-octicon octicon-chevron-right"></span>
+  </div>
 
-* **GitHub** — GitHub is our company, a website, and the name of our software. We build software and websites to help you interact with Git repositories in a nice way.
+  <h3>Create a branch</h3>
 
-* **GitHub.com** — This is the website you log into to view repositories online.
+  Software is at the heart of GitHub — and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!
 
-* **GitHub Desktop** — This is an application that you install on your computer that helps you connect code on your machine to github.com.
+  Here's some of my favorite reasons to push projects to GitHub:
 
-<a id="desktop" title="GitHub Desktop" class="toc-item"></a>
-## GitHub Desktop
+  ### Your first commit
 
-GitHub for Desktop is the easiest way to get code on GitHub — you won't need to learn any command line instructions, SSH keys, or complicated Git terminology. All you'll need is your Mac or Windows computer and a <a href="https://github.com/join" target="_blank">GitHub.com account</a>.
-
-You can download GitHub Desktop for <strong><a href="http://mac.github.com" target="_blank">Mac</a></strong> and <strong><a href="http://windows.github.com" target="_blank">Windows</a></strong>. Once you install GitHub Desktop, a short set up wizard will walk you through some basic configuration and give you the chance to connect GitHub Desktop with your GitHub.com account.
-
-<a id="setup" title="Set up your project" class="toc-item"></a>
-## Set up your project in GitHub Desktop
-
-The easiest way to get your project into GitHub Desktop is to drag the folder with your code in it into the main application screen.
-
-![](http://cl.ly/image/3H2Q3p2Y3q0s/Image%202013-11-05%20at%202.56.56%20PM.png)
-
-If you are dragging in an existing Git repository, you can skip ahead to the [push your code to GitHub.com](#pushit) section. However, if the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder — it will create some hidden files that allow Git to do it's magic.
-
-### Your first commit
-
-All Git repositories are based on *commits* — snapshots of your code at a point in time. Before you can push your code up to GitHub, you need to make at least one commit.
-
-![](http://cl.ly/image/0b353m1V0T3T/Image%202013-11-05%20at%203.11.16%20PM.png)
-
-Navigate to the changes tab and press **Commit** to create your first commit. Every time you change files, you'll need to create a new commit. Commits are like saving a file — it tells Git that you'd like to remember this point in history.
-
-Make as many commits as you like locally — no one but you can see commits until you push them to GitHub.com. Git
-
-<a id="pushit" title="Push your code" class="toc-item"></a>
-## Push your code to GitHub.com
-
-Press the "Push to GitHub" button in the top right corner, and GitHub Desktop will ask you what kind of repository to create:
-
-* **Public repository**  — Anyone can see this repository, but you can choose who can commit to the repository (make changes). You can create as many public repositories as you want on GitHub for free.
-
-* **Private repository** — By default, only you can see a private repository. You can then choose who can see and commit to this repository by adding collaborators. Private repositories require a <a href="https://github.com/settings/billing" target="_blank">paid subscription</a> on GitHub.
-
-Now that you've published the repository you have it in two places:
-
-* **Local repository on your computer** — You can work with this repository without internet using GitHub Desktop. This is where you edit files and make changes to your project.
-
-* **Remote repository on github.com** — This is where you can send people links to see your code and use all of GitHub's other features (like Issue management and Pull Requests).
-
-Each time you make changes to your local repository, you'll need to sync your changes (upper right of GitHub Desktop) to make sure they show up online.
-
-<a id="pullit" title="Pulling code" class="toc-item"></a>
-## Getting code from GitHub.com
-
-If you work on multiple machines, or want to get some code that's on GitHub.com onto your machine, you'll need to pull changes or clone a repository:
-
-* **Pulling changes** — This will bring code from the online repository onto your computer (for example if your co-worker pushed up some changes). You can accomplish this by clicking "Sync" in the upper right of GitHub Desktop.
-
-* **Clone a repository** — This will create a new copy of a repository on your machine. You can accomplish this by pressing the "Clone in Desktop" button on github.com.
-
-<a id="celebrate" title="Celebrate!" class="toc-item"></a>
-## Celebrate!
-
-Now you know the basics of setting up projects on GitHub!
-
-* Download and use GitHub Desktop.
-* Make commits every time you accomplish a goal or want to save your progress.
-* Sync changes with GitHub.com to push your new commits and pull commits from others.
-
-And you're done! Here's a bunch of <a href="https://github.com/features" target="_blank">awesome things you can do with repositories</a>.
+</div>
