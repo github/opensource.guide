@@ -187,9 +187,7 @@ turns it into a link to that Issue or Pull Request.
 
 ### Username @mentions
 
-Typing an `@` symbol, followed by a username, will notify that person to come and view
-the comment. This is called an "@mention", because you're _mentioning_ the individual.
-You can also @mention teams within an organization.
+Typing an `@` symbol, followed by a username, will notify that person to come and view the comment. This is called an "@mention", because you're _mentioning_ the individual. You can also @mention teams within an organization.
 
 ### Automatic linking for URLs
 
