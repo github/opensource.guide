@@ -197,7 +197,7 @@ Any pasted URL, like `http://www.github.com/`, will automatically turn into a cl
 
 ### Strikethrough
 
-Wrapping a word with two `~` marks--like `~~this~~`--will generate a strike through, or cross the text with a line.
+Any word wrapped with two tildes (like `~~this~~`) will appear crossed out.
 
 ### Emoji
 
