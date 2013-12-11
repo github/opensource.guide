@@ -193,7 +193,7 @@ You can also @mention teams within an organization.
 
 ### Automatic linking for URLs
 
-Any pasted URL, like `http://www.github.com/`, will automatically turn into a clicklable link.
+Any URL (like `http://www.github.com/`) will be automatically converted into a clickable link.
 
 ### Strikethrough
 
