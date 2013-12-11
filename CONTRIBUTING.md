@@ -52,7 +52,7 @@ Your content here...
 ```
 
 will create a `Creating a branch` link in the ToC. The `id` can be anything, but be
-sure to use `toc-item` for the `class`.
+sure to use `toc-item` for the `class`. If you don't feel comfortable writing this HTML, don't worry, we can fix it in the PR!
 
 ### Images
 Images should be put in the same directory that you're writing your guide in:
