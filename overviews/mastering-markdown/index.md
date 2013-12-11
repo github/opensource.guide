@@ -200,23 +200,3 @@ Wrapping a word with two `~` marks--like `~~this~~`--will generate a strike thro
 Emoji
 
 GitHub supports emoji! To see a list of every image we support, check out the [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).
-
-<a id="gfm" title="Basic use" class="toc-item"></a>
-## Basic use
-
-### Pull Requests
-Pull Requests work just like Issues, except the discussion is about code. Comment on a Pull Request just like you would an issue.
-
-![from-rails-rails](https://f.cloud.github.com/assets/45141/1573881/09a0fbd4-5136-11e3-8e60-27ad047cce2a.png)
-
-### Gists
-Gists are a perfect place to have small snippets of text for Markdown files. Whether these are code examples or small notes to yourself, gists make it easy to create fast content for people to read.
-
-![gist-to-do-file](https://f.cloud.github.com/assets/45141/1545382/9b986474-4d75-11e3-8e26-c712711fcdda.png)
-
-
-### Files
-
-Files ending in ".md" are rendered on GitHub to allow you to write more rich content using GitHub Flavored Markdown. Many people first do this with their README for their repository to give people an idea of what their project may be about, and how to use it.
-
-![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
