@@ -55,7 +55,7 @@ Here's an overview of Markdown syntax that you can use anywhere on GitHub.com, o
 
 ### Formatting text
 
-##### Headers
+#### Headers
 
 ```markdown
 # This is an <h1> tag
@@ -63,7 +63,7 @@ Here's an overview of Markdown syntax that you can use anywhere on GitHub.com, o
 ###### This is an <h6> tag
 ```
 
-##### Text styles
+#### Text styles
 
 ```markdown
 *This text will be italic*
@@ -76,7 +76,7 @@ __This will also be bold__
 
 ### Lists
 
-##### Unordered
+#### Unordered
 
 ```markdown
 * Item 1
@@ -85,7 +85,7 @@ __This will also be bold__
   * Item 2b
 ```
 
-##### Ordered
+#### Ordered
 
 ```markdown
 1. Item 1
@@ -97,21 +97,21 @@ __This will also be bold__
 
 ### Miscellaneous
 
-##### Images
+#### Images
 
 ```markdown
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 ```
 
-##### Links
+#### Links
 
 ```markdown
 http://github.com - automatic!
 [GitHub](http://github.com)
 ```
 
-##### Blockquotes
+#### Blockquotes
 
 ```markdown
 As Kanye West said:
@@ -125,7 +125,7 @@ As Kanye West said:
 
 GitHub.com has a useful set of additional Markdown syntax that differs from the format in files. These syntaxes correlate to information found on GitHub.com.
 
-##### Syntax highlighting
+### Syntax highlighting
 
 Syntax highlighting with [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
 
@@ -156,7 +156,7 @@ I think you should use an
 `<addr>` element here instead.
 </pre>
 
-##### TaskLists
+### TaskLists
 
 ```
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
@@ -165,7 +165,7 @@ I think you should use an
 - [ ] this is an incomplete item
 ```
 
-##### SHA references
+### SHA references
 
 Referencing a commit SHA
 
@@ -177,7 +177,7 @@ mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 
 becomes a link to the commit with that SHA.
 
-##### Issues references in same repo
+### Issues references in same repo
 
 
 Referencing an Issue or Pull Request by its number
@@ -190,20 +190,20 @@ mojombo/github-flavored-markdown#1
 
 turns it into a link to that Issue or Pull Request.
 
-##### Username @mentions
+### Username @mentions
 
 Typing an `@` symbol, followed by a username, will notify that person to come and view
 the comment. This is called an "@mention", because you're _mentioning_ the individual.
 You can also @mention teams within an organization.
 
-##### Automatic linking for URLs
+### Automatic linking for URLs
 
 Any pasted URL, like `http://www.github.com/`, will automatically turn into a clicklable link.
 
-##### Strikethrough
+### Strikethrough
 
 Wrapping a word with two `~` marks--like `~~this~~`--will generate a strike through, or cross the text with a line.
 
-##### Emoji
+### Emoji
 
 GitHub supports emoji! To see a list of every image we support, check out the [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).
