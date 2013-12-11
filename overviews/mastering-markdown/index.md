@@ -129,14 +129,13 @@ GitHub.com has a useful set of additional Markdown syntax that differs from the 
 
 Syntax highlighting with [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
 
-<pre>
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```</pre>
+    ```javascript
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+    ```
 
 Or, indent your code 4 spaces:
 
@@ -144,17 +143,14 @@ Or, indent your code 4 spaces:
 Here is a Python code example
 without syntax highlighting:
 
-<pre>
     def foo:
       if not bar:
         return true
-</pre>
 
 Inline code for comments
-<pre>
-I think you should use an
-`<addr>` element here instead.
-</pre>
+
+    I think you should use an
+    `<addr>` element here instead.
 
 ### TaskLists
 
