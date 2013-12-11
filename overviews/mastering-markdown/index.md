@@ -203,6 +203,7 @@ Any pasted URL, like `http://www.github.com/`, will automatically turn into a cl
 ##### Strikethrough
 
 Wrapping a word with two `~` marks--like `~~this~~`--will generate a strike through, or cross the text with a line.
-Emoji
+
+##### Emoji
 
 GitHub supports emoji! To see a list of every image we support, check out the [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).
