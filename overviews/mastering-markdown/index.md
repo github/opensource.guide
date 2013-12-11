@@ -19,7 +19,7 @@ Markdown is a lightweight and easy-to-use syntax for styling all forms of writin
 * How Markdown differs from traditional formatting approaches
 * How to use Markdown to format text
 * How to leverage GitHub's automatic Markdown rendering
-* How to apply GitHub’s unique Markdown extensions
+* How to apply GitHub's unique Markdown extensions
 
 <a id="what" title="What is Markdown?" class="toc-item"></a>
 ## What is Markdown?
