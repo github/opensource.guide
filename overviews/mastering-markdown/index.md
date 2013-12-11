@@ -42,7 +42,7 @@ To see your craftsmanship, click on the "Preview" tab to see a rendered view of 
 
 ![Previewed Markdown in an Issue](masteringmarkdown-sample-issue-preview.jpg)
 
-<a id="special" title="Special Flavors" class="toc-item"></a>
+<a id="special" title="Basic syntax" class="toc-item"></a>
 ## Basic syntax
 
 Here's an overview of Markdown syntax that you can use anywhere on GitHub.com, or your own text files:
@@ -114,6 +114,7 @@ As Kanye West said:
 > the present is our past.
 ```
 
+<a id="special" title="GitHub Flavored Markdown" class="toc-item"></a>
 ## GitHub Flavored Markdown
 
 GitHub.com has a useful set of additional Markdown syntax that differs from the format in files. These syntaxes correlate to information found on GitHub.com.
