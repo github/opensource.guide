@@ -58,7 +58,7 @@ All Git repositories are based on *commits* — snapshots of your code at a poi
 
 Navigate to the changes tab and press **Commit** to create your first commit. Every time you change files, you'll need to create a new commit. Commits are like saving a file — it tells Git that you'd like to remember this point in history.
 
-Make as many commits as you like locally — no one but you can see commits until you push them to GitHub.com. Git
+Make as many commits as you like locally — no one but you can see commits until you push them to GitHub.com.
 
 <a id="pushit" title="Push your code" class="toc-item"></a>
 ## Push your code to GitHub.com
