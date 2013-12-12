@@ -11,162 +11,193 @@ summary: Almost all text on GitHub is processed through a markup language called
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
-Markdown is a lightweight and easy to use syntax for styling all forms of writing on the GitHub platform.
+Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
 **What you will learn:**
 
 * How the Markdown format makes styled collaborative editing easy
 * How Markdown differs from traditional formatting approaches
 * How to use Markdown to format text
-* How to leverage GitHub’s automatic Markdown rendering
-* How to apply GitHub’s unique Markdown extensions
+* How to leverage GitHub's automatic Markdown rendering
+* How to apply GitHub's unique Markdown extensions
 
 <a id="what" title="What is Markdown?" class="toc-item"></a>
 ## What is Markdown?
 
-Markdown is a way to style text on the web. Bold, italics, font size, images, and lists are just a few of the things we can do with it.
+Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. It was created by John Gruber as an easier way to write documents that contained more than just plain text.
 
-<strong><a href="https://github.com/github/developer.github.com" target="_blank">Here's an example from the GitHub API developer Documentation</a></strong>
+<strong><a href="https://github.com/github/developer.github.com" target="_blank">Here's an example of Markdown from the GitHub API developer Documentation</a></strong>
 
 ![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
 
+Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like `#` or `*`.
 
-<a id="format" title="The Format" class="toc-item"></a>
-## A little bit about the format
+Imagine you have a document with several paragraphs. You think, "This would look better if I could include some formatting, like making a word italic, just like I would in a traditional word processor." A Markdown file would be perfect for this.
 
-Imagine you have a document with several paragraphs. You think, “This would look best if I could do some formatting such as a header for a paragraph, like I would in a traditional word processor.”
-
-To practice this, [create a new practice issue](https://github.com/githubtraining/sample-markdown/issues/new) and type a bit of text in the comment section with a "#" in front to denote your header. You have now created the first heading of your document.
+To try this out, [create a new practice issue](https://github.com/githubtraining/sample-markdown/issues/new) and type a bit of text in the comment section. Add a "#" symbol to the front of your sentence; this turns it into a header. You have now created the first heading of your document!
 
 ![Raw Markdown in an Issue](masteringmarkdown-sample-issue-raw.jpg)
 
-Click the Preview tab to see a rendered view of your Markdown.
+To see your craftsmanship, click on the "Preview" tab to see a rendered view of your Markdown.
 
 ![Previewed Markdown in an Issue](masteringmarkdown-sample-issue-preview.jpg)
 
-<a id="special" title="Special Flavors" class="toc-item"></a>
-## Special Flavors
-Depending on the location of where we're writing markdown, we may have a few additional sets of styling we can use Markdown for.
+You can also use Markdown in the following areas of GitHub.com:
 
-<div id="markdown-special-flavors">
+- [Gists](https://gist.github.com/)
+- Comments in Issues and Pull Requests
+- Files with the `.md` or `.markdown` extension
 
-  <h3>Formating Text</h3>
-  <p>Headers</p>
-  <pre>
-# This is an &lt;h1&gt; tag
-## This is an &lt;h2&gt; tag
-###### This is an &lt;h6&gt; tag</pre>
+<a id="syntax" title="Basic syntax" class="toc-item"></a>
+## Basic syntax
 
-  <p>Text styles</p>
-  <pre>
+Here's an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
+
+### Headers
+
+```markdown
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+```
+
+### Emphasis
+
+```markdown
 *This text will be italic*
 _This will also be italic_
+
 **This text will be bold**
 __This will also be bold__
 
-*You **can** combine them*</pre>
+*You **can** combine them*
+```
 
-  <h3>Lists</h3>
-  <p>Unordered</p>
-  <pre>
+### Lists
+
+#### Unordered
+
+```markdown
 * Item 1
 * Item 2
   * Item 2a
-  * Item 2b</pre>
-  <p>Ordered</p>
-  <pre>
+  * Item 2b
+```
+
+#### Ordered
+
+```markdown
 1. Item 1
 2. Item 2
 3. Item 3
    * Item 3a
-   * Item 3b</pre>
+   * Item 3b
+```
 
-  <h3>Miscellaneous</h3>
-  <p>Images</p>
-  <pre>
+### Images
+
+```markdown
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
-  </pre>
-  <p>Links</p>
-  <pre>
+```
+
+### Links
+
+```markdown
 http://github.com - automatic!
-[GitHub](http://github.com)</pre>
-  <p>Blockquotes</p>
-  <pre>
+[GitHub](http://github.com)
+```
+
+### Blockquotes
+
+```markdown
 As Kanye West said:
 
 > We're living the future so
-> the present is our past.</pre>
+> the present is our past.
+```
 
-  <h3>GitHub Flavored Markdown</h3>
-  <p>Syntax highlighting with <a href="http://github.github.com/github-flavored-markdown/" title="GitHub Flavored Markdown" target="_blank">GFM</a></p>
-  <pre>
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```</pre>
-  <p>Or, indent your code 4 spaces</p>
-  <pre>
-Here is a Python code example
-without syntax highlighting:
+### Inline code
+
+    I think you should use an
+    `<addr>` element here instead.
+
+<a id="GitHub-flavored-markdown" title="GFM" class="toc-item"></a>
+## GitHub Flavored Markdown
+
+GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
+
+Note that some features of GitHub Flavored Markdown are only available in the descriptions and comments of Issues and Pull Requests. These include @mentions as well as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
+
+### Syntax highlighting
+
+Here's an example of how you can use syntax highlighting with [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown):
+
+    ```javascript
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+    ```
+
+You can also simply indent your code by four spaces:
+
+        function fancyAlert(arg) {
+          if(arg) {
+            $.facebox({div:'#foo'})
+          }
+        }
+
+Here's an example of Python code without syntax highlighting:
 
     def foo:
       if not bar:
-        return true</pre>
-  <p>Inline code for comments</p>
-  <pre>
-I think you should use an
-`&lt;addr&gt;` element here instead.</pre>
+        return true
 
-  <p>Task Lists</p>
-  <pre>
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] normal **formatting**,
-      @mentions, #1234 refs
-- [ ] incomplete
-- [x] completed </pre>
+### Task Lists
 
-</div>
+```
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+```
 
-### Comment Boxes
-Comments have a nice set of additional Markdown syntax that writing in files don't, these relate to sets of data that may change or be updated.
+### SHA references
 
-* TaskList
-* SHA References
-* Issues references in same repo
-* Username @mentions
-* Cross-repository memtions with username/repo#issue
-* Automatic linking for URLs
-* Emoji
+Any reference to a commit's [SHA-1 hash][] will be automatically converted into a link to that commit on GitHub.
 
-### Markdown Files + Comment Boxes
-Special Markdown that is everywhere including files are more related to text and not dynamic content.
+  [SHA-1 hash]: http://en.wikipedia.org/wiki/SHA-1
 
-* Strikethrough
-* Code fences to show formated code examples
-* Syntax highlighting for code blocks with language definition
-* Relative image linking within repository
+```
+16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+```
 
-<a id="gfm" title="Basic Use Beyond Issues" class="toc-item"></a>
-## Basic Use Beyond Issues
+### Issue references within a repository
 
-### Pull Requests
-Pull Request work just like Issues, only discussion is about code. Comment on a Pull Request just like you would an issue.
+Any number that refers to an Issue or Pull Request will be automatically converted into a link.
 
-![from-rails-rails](https://f.cloud.github.com/assets/45141/1573881/09a0fbd4-5136-11e3-8e60-27ad047cce2a.png)
+```
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
+```
 
-### Gists
-Gists are a perfect place to have small snippets of text for Markdown files. Whether these are code examples or small notes to yourself, gists make it perfect to create things fast.
+### Username @mentions
 
-![gist-to-do-file](https://f.cloud.github.com/assets/45141/1545382/9b986474-4d75-11e3-8e26-c712711fcdda.png)
+Typing an `@` symbol, followed by a username, will notify that person to come and view the comment. This is called an "@mention", because you're _mentioning_ the individual. You can also @mention teams within an organization.
 
+### Automatic linking for URLs
 
-### Files
+Any URL (like `http://www.github.com/`) will be automatically converted into a clickable link.
 
-Files ending in ".md" are rendered on GitHub to allow you to write more rich content using GitHub Flavored Markdown. Many people first do this with their README for their repository to give people an idea of what their project may be about and how to use it.
+### Strikethrough
 
-![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
+Any word wrapped with two tildes (like `~~this~~`) will appear crossed out.
+
+### Emoji
+
+GitHub supports emoji! To see a list of every image we support, check out the [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).
