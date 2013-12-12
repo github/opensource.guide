@@ -146,7 +146,7 @@ without syntax highlighting:
       if not bar:
         return true
 
-Inline code for comments
+### Inline code
 
     I think you should use an
     `<addr>` element here instead.
