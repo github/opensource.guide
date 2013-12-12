@@ -68,6 +68,7 @@ Here's an overview of Markdown syntax that you can use anywhere on GitHub.com, o
 ```markdown
 *This text will be italic*
 _This will also be italic_
+
 **This text will be bold**
 __This will also be bold__
 
