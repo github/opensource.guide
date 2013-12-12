@@ -63,7 +63,7 @@ Here's an overview of Markdown syntax that you can use anywhere on GitHub.com or
 ###### This is an <h6> tag
 ```
 
-#### Text styles
+#### Emphasis
 
 ```markdown
 *This text will be italic*
