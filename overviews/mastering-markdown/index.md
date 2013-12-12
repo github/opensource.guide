@@ -53,9 +53,7 @@ You can also use Markdown in the following areas of GitHub.com:
 
 Here's an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
-### Formatting text
-
-#### Headers
+### Headers
 
 ```markdown
 # This is an <h1> tag
@@ -63,7 +61,7 @@ Here's an overview of Markdown syntax that you can use anywhere on GitHub.com or
 ###### This is an <h6> tag
 ```
 
-#### Emphasis
+### Emphasis
 
 ```markdown
 *This text will be italic*
@@ -96,23 +94,21 @@ __This will also be bold__
    * Item 3b
 ```
 
-### Miscellaneous
-
-#### Images
+### Images
 
 ```markdown
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 ```
 
-#### Links
+### Links
 
 ```markdown
 http://github.com - automatic!
 [GitHub](http://github.com)
 ```
 
-#### Blockquotes
+### Blockquotes
 
 ```markdown
 As Kanye West said:
