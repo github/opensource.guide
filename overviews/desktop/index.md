@@ -32,7 +32,7 @@ We end up using the word Git and GitHub a lot in this article, so here's some cl
 
 * **GitHub.com** — This is the website you log into to view repositories online.
 
-* **GitHub Desktop** — This is an application that you install on your computer that helps you connect code on your machine to github.com.
+* **GitHub Desktop** — This is an application that you install on your computer that helps you connect code on your machine to GitHub.com.
 
 <a id="desktop" title="GitHub Desktop" class="toc-item"></a>
 ## GitHub Desktop
@@ -73,7 +73,7 @@ Now that you've published the repository you have it in two places:
 
 * **Local repository on your computer** — You can work with this repository without internet using GitHub Desktop. This is where you edit files and make changes to your project.
 
-* **Remote repository on github.com** — This is where you can send people links to see your code and use all of GitHub's other features (like Issue management and Pull Requests).
+* **Remote repository on GitHub.com** — This is where you can send people links to see your code and use all of GitHub's other features (like Issue management and Pull Requests).
 
 Each time you make changes to your local repository, you'll need to sync your changes (upper right of GitHub Desktop) to make sure they show up online.
 
@@ -84,7 +84,7 @@ If you work on multiple machines, or want to get some code that's on GitHub.com 
 
 * **Pulling changes** — This will bring code from the online repository onto your computer (for example if your co-worker pushed up some changes). You can accomplish this by clicking "Sync" in the upper right of GitHub Desktop.
 
-* **Clone a repository** — This will create a new copy of a repository on your machine. You can accomplish this by pressing the "Clone in Desktop" button on github.com.
+* **Clone a repository** — This will create a new copy of a repository on your machine. You can accomplish this by pressing the "Clone in Desktop" button on GitHub.com.
 
 <a id="celebrate" title="Celebrate!" class="toc-item"></a>
 ## Celebrate!
