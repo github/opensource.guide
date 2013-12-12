@@ -51,7 +51,7 @@ You can also use Markdown in the following areas of GitHub.com:
 <a id="syntax" title="Basic syntax" class="toc-item"></a>
 ## Basic syntax
 
-Here's an overview of Markdown syntax that you can use anywhere on GitHub.com, or your own text files:
+Here's an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
 ### Formatting text
 
