@@ -14,12 +14,12 @@ summary:
 <script type="text/javascript" src="flow.js"></script>
 <link rel="stylesheet" type="text/css" href="flow.css">
 
-<div class="features-branch-diagram preload" id="js-features-branch-diagram">
+<div class="features-branch-diagram" id="js-features-branch-diagram">
 
-  <svg width="938px" height="128px" xmlns="http://www.w3.org/2000/svg">
-    <path d="M78,9 C129.058594,9 137.203125,117 186.011719,117 C234.820312,117 688.816406,117 734.773438,117 C800.730469,117 796.5625,8.99345711 867.417969,9" id="js-branch-diagram-branch" stroke="#4182C4" stroke-width="4" fill="none"></path>
-    <path d="M10,10 L756.042969,10 L904,10" id="js-branch-diagram-master" stroke="#c6d9ed" stroke-width="8"></path>
-    <path id="js-branch-diagram-arrow" d="M903.2,13 C906.98,11.95 910.22,11.05 914,10 C910.22,8.95 906.98,8.05 903.2,7" stroke="#c6d9ed" stroke-width="8" fill="none"></path>
+  <svg width="930px" height="120px" xmlns="http://www.w3.org/2000/svg">
+    <path d="M66.2711864,5.96363636 C135.523206,5.96363636 143.460673,112 191.02837,112 C238.596067,112 681.049887,112 725.83852,112 C770.627152,112 786.056674,5.95721244 855.110732,5.96363636" id="js-branch-diagram-branch" stroke="#4182C4" stroke-width="4" fill="none"></path>
+    <path d="M0,7 L766,7 L920,7" id="js-branch-diagram-master" stroke="#c6d9ed" stroke-width="8"></path>
+    <path id="js-branch-diagram-arrow" d="M907.2,10 C910.98,8.95 915.22,8.05 918,7 C914.22,5.95 910.98,5.05 907.2,4" stroke="#c6d9ed" stroke-width="8" fill="none"></path>
   </svg>
 
   <div class="diagram-icon diagram-icon-branch ">

@@ -1,5 +1,5 @@
 .flow-content {
-  width: 560px;
+  width: 600px;
   position: relative;
   margin: 0 auto 100px auto;
 }
@@ -19,11 +19,11 @@
 }
 
 .panel-nav.prev {
-  left: -150px;
+  left: -165px;
 }
 
 .panel-nav.next {
-  left: 615px;
+  left: 644px;
 }
 
 .panel-nav .mega-octicon {
@@ -78,88 +78,88 @@
 }
 
 .diagram-icon-branch {
-  top: -13px;
+  top: -18px;
   left: 61px;
 }
 
 .diagram-icon-pr {
-  top: 89px;
-  left: 405px;
+  top: 84px;
+  left: 395px;
 }
 
 .diagram-icon-merge {
-  top: -13px;
-  left: 823px;
+  top: -18px;
+  left: 813px;
 }
 
 .diagram-icon-commit-1 {
-  top: 101px;
-  left: 240px;
+  top: 96px;
+  left: 220px;
   background-color: #fff;
 }
 
 .diagram-icon-commit-2 {
-  top: 101px;
-  left: 295px;
+  top: 96px;
+  left: 275px;
   background-color: #fff;
 }
 
 .diagram-icon-commit-3 {
-  top: 101px;
-  left: 350px;
+  top: 96px;
+  left: 330px;
   background-color: #fff;
 }
 
 .diagram-icon-discussion-1 {
-  top: 79px;
-  left: 488px;
+  top: 74px;
+  left: 468px;
   opacity: 0.3;
 }
 
 .diagram-icon-commit-4 {
-  top: 101px;
-  left: 515px;
+  top: 96px;
+  left: 495px;
   background-color: #fff;
 }
 
 .diagram-icon-discussion-2 {
-  top: 131px;
-  left: 542px;
+  top: 126px;
+  left: 522px;
   opacity: 0.3;
 }
 
 .diagram-icon-commit-5 {
-  top: 101px;
-  left: 570px;
+  top: 96px;
+  left: 550px;
   background-color: #fff;
 }
 
 .diagram-icon-discussion-3 {
-  top: 79px;
-  left: 597px;
+  top: 74px;
+  left: 577px;
   opacity: 0.3;
 }
 
 .diagram-icon-commit-6 {
-  top: 101px;
-  left: 625px;
+  top: 96px;
+  left: 605px;
   background-color: #fff;
 }
 
 .diagram-icon-discussion-4 {
-  top: 131px;
-  left: 652px;
+  top: 126px;
+  left: 632px;
   opacity: 0.3;
 }
 
 .diagram-icon-commit-7 {
-  top: 101px;
-  left: 680px;
+  top: 96px;
+  left: 660px;
   background-color: #fff;
 }
 
 .diagram-icon-discussion-5 {
-  top: 79px;
-  left: 707px;
+  top: 74px;
+  left: 687px;
   opacity: 0.3;
 }
