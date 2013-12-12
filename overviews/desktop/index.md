@@ -18,7 +18,7 @@ Here's some of my favorite reasons to push projects to GitHub:
 
 * **Keep your code in one place** — Whether you work on multiple computers, or just want to get some old projects off your hard drive, GitHub the perfect place to store your projects online.
 
-* **Collaboration** — Once your code is on GitHub, you can invite others to work on your code with you. Send them a link to help you debug a problem
+* **Collaboration** — Once your code is on GitHub, you can invite others to work on your code with you. Send them a link to help you debug a problem.
 
 ![](http://cl.ly/image/242S260f012S/Image%202013-11-05%20at%202.03.09%20PM.png)
 
