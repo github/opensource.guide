@@ -138,6 +138,11 @@ Syntax highlighting with [GitHub Flavored Markdown](https://help.github.com/arti
 
 Or, indent your code 4 spaces:
 
+        function fancyAlert(arg) {
+          if(arg) {
+            $.facebox({div:'#foo'})
+          }
+        }
 
 Here is a Python code example
 without syntax highlighting:
