@@ -15,11 +15,11 @@ var guillocheSVG = function(canvas, opts){
       size                 = {x: canvas.getAttribute('width'),
                               y: canvas.getAttribute('height')},
       halfSize             = {x: size.x / 2, y: size.y / 2},
-      majorR               = 379.6 - majorROffset,
-      minorR               = 50 - minorROffset,
-      angleMultiplier      = 50 - angleOffset,
-      radiusEffectConstant = 250 - radiusEffectOffset,
-      steps                = 1250 - stepsOffset,
+      majorR               = 379.6 + (majorROffset % 2 ? majorROffset : -majorROffset),
+      minorR               = 50 + (minorROffset % 2 ? minorROffset : -minorROffset),
+      angleMultiplier      = 50 + (angleOffset % 2 ? angleOffset : -angleOffset),
+      radiusEffectConstant = 250 + (radiusEffectConstant % 2 ? radiusEffectOffset : -radiusEffectOffset),
+      steps                = 1250 + (stepsOffset % 2 ? stepsOffset : -stepsOffset),
       centerPoint          = listingCenter,
       color                = 'rgba(255,255,255, 0.13)',
       globalAlpha          = 1.0,
@@ -27,11 +27,12 @@ var guillocheSVG = function(canvas, opts){
 
   mappedHueOffset = map(hueOffset, 0, 4095, 0, 359);
   baseBGColor.hue(360 - mappedHueOffset);
+
   if (satOffset % 2) {
-    baseBGColor.saturate(satOffset / 10);
+    baseBGColor.saturate(satOffset / 50);
   }
   else {
-    baseBGColor.desaturate(satOffset / 10);
+    baseBGColor.desaturate(satOffset / 50);
   }
 
   // Background fill
@@ -71,6 +72,8 @@ var guillocheSVG = function(canvas, opts){
 };
 
 function visiblePath(pathOldX, pathOldY, pathNewX, pathNewY, visibleW, visibleH) {
+    if (!(pathOldX && pathOldY && pathNewX && pathNewY)) return false;
+
     var minX = pathOldX;
     var maxX = pathNewX;
 
