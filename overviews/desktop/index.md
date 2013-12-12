@@ -10,7 +10,7 @@ survey_tag: 'project-bootstrapping-1'
 summary: Publishing source code doesn’t have to be a pain. This guide will walk you through our Mac & Windows applications and how to start sharing your projects with the world (or maybe with no one at all).
 ---
 <a id="intro" title="Intro" class="toc-item"></a>
-Software is at the heart of GitHub — and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!
+Software is at the heart of GitHub—and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!
 
 Here's some of my favorite reasons to push projects to GitHub:
 
@@ -37,7 +37,7 @@ We end up using the word Git and GitHub a lot in this article, so here's some cl
 <a id="desktop" title="GitHub Desktop" class="toc-item"></a>
 ## GitHub Desktop
 
-GitHub for Desktop is the easiest way to get code on GitHub — you won't need to learn any command line instructions, SSH keys, or complicated Git terminology. All you'll need is your Mac or Windows computer and a <a href="https://github.com/join" target="_blank">GitHub.com account</a>.
+GitHub for Desktop is the easiest way to get code on GitHub—you won't need to learn any command line instructions, SSH keys, or complicated Git terminology. All you'll need is your Mac or Windows computer and a <a href="https://github.com/join" target="_blank">GitHub.com account</a>.
 
 You can download GitHub Desktop for <strong><a href="http://mac.github.com" target="_blank">Mac</a></strong> and <strong><a href="http://windows.github.com" target="_blank">Windows</a></strong>. Once you install GitHub Desktop, a short set up wizard will walk you through some basic configuration and give you the chance to connect GitHub Desktop with your GitHub.com account.
 
@@ -48,17 +48,17 @@ The easiest way to get your project into GitHub Desktop is to drag the folder wi
 
 ![](http://cl.ly/image/3H2Q3p2Y3q0s/Image%202013-11-05%20at%202.56.56%20PM.png)
 
-If you are dragging in an existing Git repository, you can skip ahead to the [push your code to GitHub.com](#pushit) section. However, if the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder — it will create some hidden files that allow Git to do its magic.
+If you are dragging in an existing Git repository, you can skip ahead to the [push your code to GitHub.com](#pushit) section. However, if the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder—it will create some hidden files that allow Git to do its magic.
 
 ### Your first commit
 
-All Git repositories are based on *commits* — snapshots of your code at a point in time. Before you can push your code up to GitHub, you need to make at least one commit.
+All Git repositories are based on *commits*—snapshots of your code at a point in time. Before you can push your code up to GitHub, you need to make at least one commit.
 
 ![](http://cl.ly/image/0b353m1V0T3T/Image%202013-11-05%20at%203.11.16%20PM.png)
 
-Navigate to the changes tab and press **Commit** to create your first commit. Every time you change files, you'll need to create a new commit. Commits are like saving a file — it tells Git that you'd like to remember this point in history.
+Navigate to the changes tab and press **Commit** to create your first commit. Every time you change files, you'll need to create a new commit. Commits are like saving a file—it tells Git that you'd like to remember this point in history.
 
-Make as many commits as you like locally — no one but you can see commits until you push them to GitHub.com.
+Make as many commits as you like locally—no one but you can see commits until you push them to GitHub.com.
 
 <a id="pushit" title="Push your code" class="toc-item"></a>
 ## Push your code to GitHub.com
