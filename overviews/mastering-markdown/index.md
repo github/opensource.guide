@@ -116,6 +116,12 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 ```
+
+### Inline code
+
+    I think you should use an
+    `<addr>` element here instead.
+
 <a id="GitHub-flavored-markdown" title="GFM" class="toc-item"></a>
 ## GitHub Flavored Markdown
 
@@ -146,11 +152,6 @@ Here's an example of Python code without syntax highlighting:
     def foo:
       if not bar:
         return true
-
-### Inline code
-
-    I think you should use an
-    `<addr>` element here instead.
 
 ### Task Lists
 
