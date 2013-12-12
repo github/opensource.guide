@@ -119,7 +119,7 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 ```
-<a id="GitHub-flavored-markdown" title="Special Flavor" class="toc-item"></a>
+<a id="GitHub-flavored-markdown" title="GFM" class="toc-item"></a>
 ## GitHub Flavored Markdown
 
 GitHub.com has a useful set of additional Markdown syntax that differs from the format in files. These syntaxes correlate to information found on GitHub.com.
