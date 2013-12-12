@@ -126,7 +126,7 @@ GitHub.com has a useful set of additional Markdown syntax that differs from the 
 
 ### Syntax highlighting
 
-Syntax highlighting with [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
+Here's an example of how you can use syntax highlighting with [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown):
 
     ```javascript
     function fancyAlert(arg) {
@@ -136,7 +136,7 @@ Syntax highlighting with [GitHub Flavored Markdown](https://help.github.com/arti
     }
     ```
 
-Or, indent your code 4 spaces:
+You can also simply indent your code by four spaces:
 
         function fancyAlert(arg) {
           if(arg) {
@@ -144,8 +144,7 @@ Or, indent your code 4 spaces:
           }
         }
 
-Here is a Python code example
-without syntax highlighting:
+Here's an example of Python code without syntax highlighting:
 
     def foo:
       if not bar:
