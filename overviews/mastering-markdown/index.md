@@ -151,7 +151,7 @@ Inline code for comments
     I think you should use an
     `<addr>` element here instead.
 
-### TaskLists
+### Task Lists
 
 ```
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
