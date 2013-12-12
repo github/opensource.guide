@@ -162,15 +162,15 @@ Inline code for comments
 
 ### SHA references
 
-Referencing a commit SHA
+Any reference to a commit's [SHA-1 hash][] will be automatically converted into a link to that commit on GitHub.
+
+  [SHA-1 hash]: http://en.wikipedia.org/wiki/SHA-1
 
 ```
 16c999e8c71134401a78d4d46435517b2271d6ac
 mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
 mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 ```
-
-becomes a link to the commit with that SHA.
 
 ### Issue references within a repository
 
