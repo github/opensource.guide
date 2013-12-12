@@ -125,7 +125,9 @@ As Kanye West said:
 <a id="GitHub-flavored-markdown" title="GFM" class="toc-item"></a>
 ## GitHub Flavored Markdown
 
-GitHub.com has a useful set of additional Markdown syntax that differs from the format in files. These syntaxes correlate to information found on GitHub.com.
+GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easy to link to content on GitHub.com.
+
+Note that some features of GitHub Flavored Markdown are only available in the descriptions of—and comments added to—Issues and Pull Requests. These include @mentions as well as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
 
 ### Syntax highlighting
 
