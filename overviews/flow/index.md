@@ -3,20 +3,21 @@ layout: article
 full_width: true
 title: Understanding the GitHub Workflow
 read_time: 5 minute
-updated_at: Dec 5, 2013
+updated_at: Dec 12, 2013
 icon: git-branch
 title_sha: 073f59b119f21d1c2a35435d08e7894aa6a0c1cb
 survey_tag: 'project-bootstrapping-1'
 
-summary:
+summary: The branch → Pull Request → merge workflow is extremely effective. This guide explains these concepts so that you can level up your development process.
 ---
 
+<script type="text/javascript" src="/javascripts/snap.svg-min.js"></script>
 <script type="text/javascript" src="flow.js"></script>
 <link rel="stylesheet" type="text/css" href="flow.css">
 
 <div class="features-branch-diagram" id="js-features-branch-diagram">
 
-  <svg width="930px" height="120px" xmlns="http://www.w3.org/2000/svg">
+  <svg width="930px" height="300px" id="js-features-branch-diagram-svg" xmlns="http://www.w3.org/2000/svg">
     <path d="M66.2711864,5.96363636 C135.523206,5.96363636 143.460673,112 191.02837,112 C238.596067,112 681.049887,112 725.83852,112 C770.627152,112 786.056674,5.95721244 855.110732,5.96363636" id="js-branch-diagram-branch" stroke="#4182C4" stroke-width="4" fill="none"></path>
     <path d="M0,7 L766,7 L920,7" id="js-branch-diagram-master" stroke="#c6d9ed" stroke-width="8"></path>
     <path id="js-branch-diagram-arrow" d="M907.2,10 C910.98,8.95 915.22,8.05 918,7 C914.22,5.95 910.98,5.05 907.2,4" stroke="#c6d9ed" stroke-width="8" fill="none"></path>

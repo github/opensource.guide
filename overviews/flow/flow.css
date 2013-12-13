@@ -52,7 +52,7 @@
 .features-branch-diagram {
   position: relative;
   margin-top: 40px;
-  margin-bottom: 50px;
+  margin-bottom: -40px;
 }
 
 .diagram-icon {
@@ -65,6 +65,11 @@
   text-align: center;
   line-height: 55px;
   color: #4183c4;
+}
+
+.diagram-icon.active {
+  background-color: #4183c4;
+  color: #fff;
 }
 
 .diagram-icon .mega-octicon {
@@ -162,4 +167,8 @@
   top: 74px;
   left: 687px;
   opacity: 0.3;
+}
+
+circle:hover {
+  cursor: pointer;
 }
