@@ -46,34 +46,66 @@ $(function() {
 
   var s = Snap("#js-features-branch-diagram-svg");
 
-  var line = s.line(88, 20, 88, 223);
-  line.attr({
-    stroke: "#d4d4d4",
+  var branchAnnotation = new Annotation(s, {top: 20, left: 88, height: 207});
+  var prAnnotation     = new Annotation(s, {top: 137, left: 423, height: 89});
+  var mergeAnnotation  = new Annotation(s, {top: 20, left: 840, height: 207});
+
+});
+
+function Annotation(paper, options) {
+  this.DASH_COLOR   = "#d4d4d4";
+  this.SOLID_COLOR  = "#444444";
+  this.TARGET_COLOR = "#4183c4";
+  this.BOTTOM       = 266;
+
+  this.paper        = paper;
+  this.top          = options.top;
+  this.left         = options.left;
+  this.height       = options.height;
+  this.extender     = null;
+  this.targetInner  = null;
+  this.targetOuter  = null;
+
+  this.initLines();
+  this.initTarget();
+}
+
+Annotation.prototype.initLines = function() {
+  this.extender = this.paper.line(this.left, this.top, this.left, this.top + this.height);
+  this.extender.attr({
+    stroke: this.DASH_COLOR,
     strokeWidth: 1,
     "stroke-dasharray": "3"
-  })
-
-  var outerCircle = s.circle(88, 223, 7);
-  outerCircle.attr({
-    fill: "#4183c4"
   });
-  var innerCircle = s.circle(88, 223, 5);
-  innerCircle.attr({
-    fill: "#4183c4",
+}
+
+Annotation.prototype.initTarget = function() {
+  this.targetOuter = this.paper.circle(this.left, this.top + this.height, 7);
+  this.targetOuter.attr({
+    fill: this.TARGET_COLOR
+  });
+  this.targetInner = this.paper.circle(this.left, this.top + this.height, 5);
+  this.targetInner.attr({
+    fill: this.TARGET_COLOR,
     stroke: "#fff",
     strokeWidth: 2
   });
 
-  var target = s.group(outerCircle, innerCircle);
-  target.click(function() {
-    outerCircle.animate({r:14, cy: 266}, 800, mina.elastic);
-    innerCircle.animate({r:10, cy: 266}, 800, mina.elastic);
-    line.animate({y2: 266, stroke: "#444444"}, 100, mina.elastic, function() {
-      line.attr({
-        "stroke-dasharray": "none"
-      });
+  var self = this;
+  this.target = this.paper.group(this.targetOuter, this.targetInner);
+  this.target.click(function() {
+    self.extendLine();
+  });
+}
+
+Annotation.prototype.extendLine = function() {
+  var self = this;
+  this.targetOuter.animate({r:14, cy: this.BOTTOM}, 800, mina.elastic);
+  this.targetInner.animate({r:10, cy: this.BOTTOM}, 800, mina.elastic);
+  this.extender.animate({y2: this.BOTTOM, stroke: "#444444"}, 100, mina.elastic, function() {
+    self.extender.attr({
+      "stroke-dasharray": "none"
     });
   });
+}
 
-
-});
