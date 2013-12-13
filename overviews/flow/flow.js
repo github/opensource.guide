@@ -8,49 +8,81 @@ $(function() {
     e.preventDefault();
     if ($(this).hasClass('disabled')) return;
 
-    var activePanel = $('.js-panel-content.active').removeClass('active');
+    var activePanel = $('.js-panel-content.active');
     var prevPanel = activePanel.prev('.js-panel-content');
-    $('.js-panel-content').fadeOut(200).removeClass('active');
-    prevPanel.fadeIn(200).addClass('active');
-
-    if ($('.js-panel-content:first').is(prevPanel)) {
-      $('.js-panel-nav-prev').addClass('disabled');
-    }
-    else {
-      $('.js-panel-nav-prev').removeClass('disabled');
-    }
-
-    $('.js-panel-nav-next').removeClass('disabled');
+    changePanel(prevPanel);
   });
 
   $('.js-panel-nav-next').click(function(e) {
     e.preventDefault();
     if ($(this).hasClass('disabled')) return;
 
-    var activePanel = $('.js-panel-content.active').removeClass('active');
+    var activePanel = $('.js-panel-content.active');
     var nextPanel = activePanel.next('.js-panel-content');
-    $('.js-panel-content').fadeOut(200).removeClass('active');
-    nextPanel.fadeIn(200).addClass('active');
-
-    if ($('.js-panel-content:last').is(nextPanel)) {
-      $('.js-panel-nav-next').addClass('disabled');
-    }
-    else {
-      $('.js-panel-nav-next').removeClass('disabled');
-    }
-
-    $('.js-panel-nav-prev').removeClass('disabled');
+    changePanel(nextPanel);
   });
 
   // SVG stuff
 
   var s = Snap("#js-features-branch-diagram-svg");
 
-  var branchAnnotation = new Annotation(s, {top: 20, left: 88, height: 207});
+  var branchAnnotation = new Annotation(s, {top: 20,  left: 88,  height: 207});
   var prAnnotation     = new Annotation(s, {top: 137, left: 423, height: 89});
-  var mergeAnnotation  = new Annotation(s, {top: 20, left: 840, height: 207});
+  var mergeAnnotation  = new Annotation(s, {top: 20,  left: 840, height: 207});
+
+  var annotations = [branchAnnotation, prAnnotation, mergeAnnotation];
+
+  branchAnnotation.target.click(function() {
+    changePanel($('.js-panel-content-branch'));
+    branchAnnotation.extendLine();
+    $.each(annotations, function(i, value) {
+      if (annotations[i] != branchAnnotation) {
+        annotations[i].retractLine();
+      }
+    });
+  });
+
+  prAnnotation.target.click(function() {
+    changePanel($('.js-panel-content-pr'));
+    prAnnotation.extendLine();
+    $.each(annotations, function(i, value) {
+      if (annotations[i] != prAnnotation) {
+        annotations[i].retractLine();
+      }
+    });
+  });
+
+  mergeAnnotation.target.click(function() {
+    changePanel($('.js-panel-content-merge'));
+    mergeAnnotation.extendLine();
+    $.each(annotations, function(i, value) {
+      if (annotations[i] != mergeAnnotation) {
+        annotations[i].retractLine();
+      }
+    });
+  });
 
 });
+
+function changePanel(panel) {
+  $('.js-panel-content.active').removeClass('active');
+  $('.js-panel-content').fadeOut(200).removeClass('active');
+  panel.fadeIn(200).addClass('active');
+
+  if ($('.js-panel-content:last').is(panel)) {
+    $('.js-panel-nav-next').addClass('disabled');
+  }
+  else {
+    $('.js-panel-nav-next').removeClass('disabled');
+  }
+
+  if ($('.js-panel-content:first').is(panel)) {
+    $('.js-panel-nav-prev').addClass('disabled');
+  }
+  else {
+    $('.js-panel-nav-prev').removeClass('disabled');
+  }
+}
 
 function Annotation(paper, options) {
   this.DASH_COLOR   = "#d4d4d4";
@@ -93,19 +125,26 @@ Annotation.prototype.initTarget = function() {
 
   var self = this;
   this.target = this.paper.group(this.targetOuter, this.targetInner);
-  this.target.click(function() {
-    self.extendLine();
-  });
 }
 
 Annotation.prototype.extendLine = function() {
   var self = this;
   this.targetOuter.animate({r:14, cy: this.BOTTOM}, 800, mina.elastic);
   this.targetInner.animate({r:10, cy: this.BOTTOM}, 800, mina.elastic);
-  this.extender.animate({y2: this.BOTTOM, stroke: "#444444"}, 100, mina.elastic, function() {
+  this.extender.animate({y2: this.BOTTOM, stroke: this.SOLID_COLOR}, 100, mina.elastic, function() {
     self.extender.attr({
       "stroke-dasharray": "none"
     });
   });
 }
 
+Annotation.prototype.retractLine = function() {
+  var self = this;
+  this.targetOuter.animate({r:7, cy: this.top + this.height}, 800, mina.elastic);
+  this.targetInner.animate({r:5, cy: this.top + this.height}, 800, mina.elastic);
+  this.extender.animate({y2: this.top + this.height, stroke: this.DASH_COLOR}, 100, mina.elastic, function() {
+    self.extender.attr({
+      "stroke-dasharray": "3"
+    });
+  });
+}
