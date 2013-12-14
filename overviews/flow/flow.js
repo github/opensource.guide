@@ -26,40 +26,32 @@ $(function() {
 
   var s = Snap("#js-features-branch-diagram-svg");
 
-  var branchAnnotation = new Annotation(s, {top: 20,  left: 88,  height: 207});
-  var prAnnotation     = new Annotation(s, {top: 137, left: 423, height: 89});
-  var mergeAnnotation  = new Annotation(s, {top: 20,  left: 840, height: 207});
+  var branchAnnotation = new Annotation(s,
+                               {top: 20,  left: 88,  height: 207,
+                                panelContainer: '.js-panel-content-branch'}
+                             );
+  var prAnnotation     = new Annotation(s,
+                               {top: 137, left: 423, height: 89,
+                                panelContainer: '.js-panel-content-pr'}
+                             );
+  var mergeAnnotation  = new Annotation(s,
+                               {top: 20,  left: 840, height: 207,
+                                panelContainer: '.js-panel-content-merge'}
+                             );
 
   var annotations = [branchAnnotation, prAnnotation, mergeAnnotation];
 
-  branchAnnotation.target.click(function() {
-    changePanel($('.js-panel-content-branch'));
-    branchAnnotation.extendLine();
-    $.each(annotations, function(i, value) {
-      if (annotations[i] != branchAnnotation) {
-        annotations[i].retractLine();
-      }
+  $.each(annotations, function(i) {
+    annotations[i].target.click(function() {
+      changePanel($(annotations[i].panel));
+      $.each(annotations, function(j) {
+        if (annotations[j] != annotations[i]) {
+          annotations[j].retractLine();
+        }
+      });
+      annotations[i].extendLine();
     });
-  });
 
-  prAnnotation.target.click(function() {
-    changePanel($('.js-panel-content-pr'));
-    prAnnotation.extendLine();
-    $.each(annotations, function(i, value) {
-      if (annotations[i] != prAnnotation) {
-        annotations[i].retractLine();
-      }
-    });
-  });
-
-  mergeAnnotation.target.click(function() {
-    changePanel($('.js-panel-content-merge'));
-    mergeAnnotation.extendLine();
-    $.each(annotations, function(i, value) {
-      if (annotations[i] != mergeAnnotation) {
-        annotations[i].retractLine();
-      }
-    });
   });
 
 });
@@ -94,6 +86,7 @@ function Annotation(paper, options) {
   this.top          = options.top;
   this.left         = options.left;
   this.height       = options.height;
+  this.panel        = options.panelContainer;
   this.extender     = null;
   this.targetInner  = null;
   this.targetOuter  = null;
