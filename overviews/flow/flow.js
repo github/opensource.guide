@@ -26,20 +26,18 @@ $(function() {
 
   var s = Snap("#js-features-branch-diagram-svg");
 
-  var branchAnnotation = new Annotation(s,
-                               {top: 20,  left: 88,  height: 207,
-                                panelContainer: '.js-panel-content-branch'}
-                             );
-  var prAnnotation     = new Annotation(s,
-                               {top: 137, left: 423, height: 89,
-                                panelContainer: '.js-panel-content-pr'}
-                             );
-  var mergeAnnotation  = new Annotation(s,
-                               {top: 20,  left: 840, height: 207,
-                                panelContainer: '.js-panel-content-merge'}
-                             );
-
-  var annotations = [branchAnnotation, prAnnotation, mergeAnnotation];
+  var annotations = [
+        new Annotation(s, {top: 20,  left: 88,  height: 207,
+                           panelContainer: '.js-panel-content-branch'}),
+        new Annotation(s, {top: 140,  left: 287,  height: 86, width: 112,
+                           panelContainer: '.js-panel-content-commits'}),
+        new Annotation(s, {top: 137, left: 423, height: 89,
+                           panelContainer: '.js-panel-content-pr'}),
+        new Annotation(s, {top: 140,  left: 590,  height: 86, width: 240,
+                           panelContainer: '.js-panel-content-code-review'}),
+        new Annotation(s, {top: 20,  left: 840, height: 207,
+                           panelContainer: '.js-panel-content-merge'})
+  ];
 
   $.each(annotations, function(i) {
     annotations[i].target.click(function() {
@@ -86,8 +84,10 @@ function Annotation(paper, options) {
   this.top          = options.top;
   this.left         = options.left;
   this.height       = options.height;
+  this.width        = options.width;
   this.panel        = options.panelContainer;
   this.extender     = null;
+  this.lines        = [];
   this.targetInner  = null;
   this.targetOuter  = null;
 
@@ -96,11 +96,32 @@ function Annotation(paper, options) {
 }
 
 Annotation.prototype.initLines = function() {
-  this.extender = this.paper.line(this.left, this.top, this.left, this.top + this.height);
-  this.extender.attr({
-    stroke: this.DASH_COLOR,
-    strokeWidth: 1,
-    "stroke-dasharray": "3"
+  if (this.width) {
+    this.lines = [
+      this.paper.line(
+        this.left - (this.width / 2), this.top + 30,
+        this.left + (this.width / 2), this.top + 30),
+      this.paper.line(
+        this.left - (this.width / 2), this.top,
+        this.left - (this.width / 2), this.top + 30),
+      this.paper.line(
+        this.left + (this.width / 2), this.top,
+        this.left + (this.width / 2), this.top + 30),
+      this.extender = this.paper.line(this.left, this.top + 30, this.left, this.top + this.height)
+    ];
+  }
+  else {
+    this.lines = [
+      this.extender = this.paper.line(this.left, this.top, this.left, this.top + this.height)
+    ];
+  }
+  self = this;
+  $.each(self.lines, function(i) {
+    self.lines[i].attr({
+      stroke: self.DASH_COLOR,
+      strokeWidth: 1,
+      "stroke-dasharray": "3"
+    });
   });
 }
 
@@ -124,9 +145,12 @@ Annotation.prototype.extendLine = function() {
   var self = this;
   this.targetOuter.animate({r:14, cy: this.BOTTOM}, 800, mina.elastic);
   this.targetInner.animate({r:10, cy: this.BOTTOM}, 800, mina.elastic);
-  this.extender.animate({y2: this.BOTTOM, stroke: this.SOLID_COLOR}, 100, mina.elastic, function() {
-    self.extender.attr({
-      "stroke-dasharray": "none"
+  this.extender.animate({y2: this.BOTTOM}, 100, mina.elastic, function() {
+    $.each(self.lines, function(i) {
+      self.lines[i].attr({
+        stroke: self.SOLID_COLOR,
+        "stroke-dasharray": "none"
+      });
     });
   });
 }
@@ -135,9 +159,12 @@ Annotation.prototype.retractLine = function() {
   var self = this;
   this.targetOuter.animate({r:7, cy: this.top + this.height}, 800, mina.elastic);
   this.targetInner.animate({r:5, cy: this.top + this.height}, 800, mina.elastic);
-  this.extender.animate({y2: this.top + this.height, stroke: this.DASH_COLOR}, 100, mina.elastic, function() {
-    self.extender.attr({
-      "stroke-dasharray": "3"
+  this.extender.animate({y2: this.top + this.height}, 100, mina.elastic, function() {
+    $.each(self.lines, function(i) {
+      self.lines[i].attr({
+        stroke: self.DASH_COLOR,
+        "stroke-dasharray": "3"
+      });
     });
   });
 }
