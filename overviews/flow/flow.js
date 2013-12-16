@@ -1,29 +1,6 @@
 $(function() {
 
-  // Panel nav
-  $('.js-panel-content').first().addClass('active');
-  $('.js-panel-nav-prev').addClass('disabled');
-
-  $('.js-panel-nav-prev').click(function(e) {
-    e.preventDefault();
-    if ($(this).hasClass('disabled')) return;
-
-    var activePanel = $('.js-panel-content.active');
-    var prevPanel = activePanel.prev('.js-panel-content');
-    changePanel(prevPanel);
-  });
-
-  $('.js-panel-nav-next').click(function(e) {
-    e.preventDefault();
-    if ($(this).hasClass('disabled')) return;
-
-    var activePanel = $('.js-panel-content.active');
-    var nextPanel = activePanel.next('.js-panel-content');
-    changePanel(nextPanel);
-  });
-
   // SVG stuff
-
   var s = Snap("#js-features-branch-diagram-svg");
 
   var annotations = [
@@ -37,14 +14,7 @@ $(function() {
   $.each(annotations, function(i) {
     annotations[i].target.click(function() {
       changePanel($('.js-panel-content-'+annotations[i].name));
-      $.each(annotations, function(j) {
-        if (annotations[j] != annotations[i]) {
-          annotations[j].deactivate();
-          $('.js-diagram-icon, .js-diagram-icon-small').removeClass('active');
-        }
-      });
-      $('.js-diagram-icon-'+annotations[i].name).addClass('active');
-      annotations[i].activate();
+      changeAnnotation(annotations, annotations[i].name);
     });
     annotations[i].target.mouseover(function() {
       if (!annotations[i].isActive()) {
@@ -57,7 +27,46 @@ $(function() {
       }
     });
   });
+
+  // Panel nav
+  var firstPanel = $('.js-panel-content').first();
+  firstPanel.addClass('active');
+  changeAnnotation(annotations, firstPanel.data('step'));
+  $('.js-panel-nav-prev').addClass('disabled');
+
+  $('.js-panel-nav-prev').click(function(e) {
+    e.preventDefault();
+    if ($(this).hasClass('disabled')) return;
+
+    var activePanel = $('.js-panel-content.active');
+    var prevPanel = activePanel.prev('.js-panel-content');
+    changePanel(prevPanel);
+    changeAnnotation(annotations, prevPanel.data('step'));
+  });
+
+  $('.js-panel-nav-next').click(function(e) {
+    e.preventDefault();
+    if ($(this).hasClass('disabled')) return;
+
+    var activePanel = $('.js-panel-content.active');
+    var nextPanel = activePanel.next('.js-panel-content');
+    changePanel(nextPanel);
+    changeAnnotation(annotations, nextPanel.data('step'));
+  });
+
 });
+
+function changeAnnotation(annotations, name) {
+  var annotation = $.grep(annotations, function(a){ return a.name == name; })[0];
+  $.each(annotations, function(i) {
+    if (annotations[i] != annotation) {
+      annotations[i].deactivate();
+      $('.js-diagram-icon, .js-diagram-icon-small').removeClass('active');
+    }
+  });
+  $('[data-diagram-step='+name+']').addClass('active');
+  annotation.activate();
+}
 
 function changePanel(panel) {
   $('.js-panel-content.active').removeClass('active');

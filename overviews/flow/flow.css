@@ -85,6 +85,7 @@
 
 .diagram-icon-small.active {
   color: #8c4573;
+  opacity: 1;
 }
 
 .diagram-icon-branch {

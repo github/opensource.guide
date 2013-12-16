@@ -23,49 +23,49 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
     <path id="js-branch-diagram-arrow" d="M907.2,10 C910.98,8.95 915.22,8.05 918,7 C914.22,5.95 910.98,5.05 907.2,4" stroke="#c6d9ed" stroke-width="8" fill="none"></path>
   </svg>
 
-  <div class="diagram-icon js-diagram-icon diagram-icon-branch js-diagram-icon-branch">
+  <div class="diagram-icon js-diagram-icon diagram-icon-branch" data-diagram-step="branch">
     <span class="mega-octicon octicon-git-branch"></span>
   </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-1 js-diagram-icon-commits">
+  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-1" data-diagram-step="commits">
     <span class="mega-octicon octicon-git-commit"></span>
   </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-2 js-diagram-icon-commits">
+  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-2" data-diagram-step="commits">
     <span class="mega-octicon octicon-git-commit"></span>
   </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-3 js-diagram-icon-commits">
+  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-3" data-diagram-step="commits">
     <span class="mega-octicon octicon-git-commit"></span>
   </div>
-  <div class="diagram-icon js-diagram-icon diagram-icon-pr js-diagram-icon-pr">
+  <div class="diagram-icon js-diagram-icon diagram-icon-pr" data-diagram-step="pr">
     <span class="mega-octicon octicon-git-pull-request"></span>
   </div>
-  <div class="diagram-icon js-diagram-icon diagram-icon-merge js-diagram-icon-merge">
+  <div class="diagram-icon js-diagram-icon diagram-icon-merge" data-diagram=step="merge">
     <span class="mega-octicon octicon-git-merge"></span>
   </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-1 js-diagram-icon-code-review">
+  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-1" data-diagram-step="code-review">
     <span class="mega-octicon octicon-comment-discussion"></span>
   </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-4 js-diagram-icon-code-review">
+  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-4" data-diagram-step="code-review">
     <span class="mega-octicon octicon-git-commit"></span>
   </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-2 js-diagram-icon-code-review">
+  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-2" data-diagram-step="code-review">
     <span class="mega-octicon octicon-comment-discussion"></span>
   </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-5 js-diagram-icon-code-review">
+  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-5" data-diagram-step="code-review">
     <span class="mega-octicon octicon-git-commit"></span>
   </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-3 js-diagram-icon-code-review">
+  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-3" data-diagram-step="code-review">
     <span class="mega-octicon octicon-comment-discussion"></span>
   </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-6 js-diagram-icon-code-review">
+  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-6" data-diagram-step="code-review">
     <span class="mega-octicon octicon-git-commit"></span>
   </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-4 js-diagram-icon-code-review">
+  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-4" data-diagram-step="code-review">
     <span class="mega-octicon octicon-comment-discussion"></span>
   </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-7 js-diagram-icon-code-review">
+  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-7" data-diagram-step="code-review">
     <span class="mega-octicon octicon-git-commit"></span>
   </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-5 js-diagram-icon-code-review">
+  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-5" data-diagram-step="code-review">
     <span class="mega-octicon octicon-comment-discussion"></span>
   </div>
 
@@ -81,7 +81,7 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
     <span class="mega-octicon octicon-chevron-right"></span>
   </a>
 
-  <div class="panel-content js-panel-content js-panel-content-branch">
+  <div class="panel-content js-panel-content js-panel-content-branch" data-step="branch">
     <h3>Create a branch</h3>
 
     <p>When you're working on a project, you're going to have a bunch of different features or ideas in progress at any given time – some of which are ready to go, and others which are not. Branching exists to help you manage this workflow.</p>
@@ -95,7 +95,7 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
     <p>Because of this, it's extremely important that your new branch is created off of master when working on a feature or a fix. Your branch name should be descriptive (e.g., <code>refactor-authentication</code>, <code>user-content-cache-key</code>, <code>make-retina-avatars</code>), so that others can see what is being worked on.</p>
   </div>
 
-  <div class="panel-content js-panel-content js-panel-content-commits">
+  <div class="panel-content js-panel-content js-panel-content-commits" data-step="commits">
     <h3>Add commits</h3>
 
     <p>Once your branch has been created, it's time to start making changes. Whenever you add, edit, or delete a file, you're making a commit, and adding them to your branch. This process of adding commits keeps track of your progress as you work on a feature branch.</p>
@@ -107,7 +107,7 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
     <p>Commit messages are important, especially since Git tracks your changes and then displays them as commits once they're pushed to the server. By writing clear commit messages, you can make it easier for other people to follow along and provide feedback.</p>
   </div>
 
-  <div class="panel-content js-panel-content js-panel-content-pr">
+  <div class="panel-content js-panel-content js-panel-content-pr" data-step="pr">
     <h3>Open a Pull Request</h3>
 
     <p>Pull Requests initiate discussion about your commits. Because they're tightly integrated with the underlying Git repository, anyone can see exactly what changes would be merged if they accept your request.</p>
@@ -119,7 +119,7 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
     <p>Pull Requests are useful for contributing to open source projects and for managing changes to shared repositories. If you're using a Fork &amp; Pull Model, Pull Requests provide a way to notify project maintainers about the changes you'd like them to consider. If you're using a Shared Repository Model, Pull Requests help start code review and conversation about proposed changes before they're merged into the master branch.</p>
   </div>
 
-  <div class="panel-content js-panel-content js-panel-content-code-review">
+  <div class="panel-content js-panel-content js-panel-content-code-review" data-step="code-review">
 
     <h3>Code review and discussion</h3>
 
@@ -132,7 +132,7 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
     <p>Pull Request comments are written in Markdown, so you can embed images and emoji, use pre-formatted text blocks, and other lightweight formatting.</p>
   </div>
 
-  <div class="panel-content js-panel-content js-panel-content-merge">
+  <div class="panel-content js-panel-content js-panel-content-merge" data-step="merge">
 
     <h3>Merge and deploy</h3>
 
