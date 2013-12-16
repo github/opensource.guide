@@ -38,7 +38,7 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
   <div class="diagram-icon js-diagram-icon diagram-icon-pr" data-diagram-step="pr">
     <span class="mega-octicon octicon-git-pull-request"></span>
   </div>
-  <div class="diagram-icon js-diagram-icon diagram-icon-merge" data-diagram=step="merge">
+  <div class="diagram-icon js-diagram-icon diagram-icon-merge" data-diagram-step="merge">
     <span class="mega-octicon octicon-git-merge"></span>
   </div>
   <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-1" data-diagram-step="code-review">

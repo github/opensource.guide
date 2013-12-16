@@ -31,7 +31,6 @@ $(function() {
   // Panel nav
   var firstPanel = $('.js-panel-content').first();
   firstPanel.addClass('active');
-  changeAnnotation(annotations, firstPanel.data('step'));
   $('.js-panel-nav-prev').addClass('disabled');
 
   $('.js-panel-nav-prev').click(function(e) {
@@ -54,6 +53,12 @@ $(function() {
     changeAnnotation(annotations, nextPanel.data('step'));
   });
 
+  $('.diagram-icon, .diagram-icon-small').click(function(e) {
+    changePanel($('.js-panel-content-'+$(this).data('diagram-step')));
+    changeAnnotation(annotations, $(this).data('diagram-step'));
+  });
+
+  changeAnnotation(annotations, firstPanel.data('step'));
 });
 
 function changeAnnotation(annotations, name) {

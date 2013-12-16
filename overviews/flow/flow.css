@@ -65,6 +65,7 @@
   text-align: center;
   line-height: 55px;
   color: #4183c4;
+  cursor: pointer;
 }
 
 .diagram-icon.active {
@@ -80,6 +81,7 @@
 .diagram-icon-small {
   position: absolute;
   color: #4183c4;
+  cursor: pointer;
   margin-top: 2px\9; // IE hack
 }
 
