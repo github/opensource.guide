@@ -121,7 +121,7 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
 
   <div class="panel-content js-panel-content js-panel-content-code-review" data-step="code-review">
 
-    <h3>Code review and discussion</h3>
+    <h3>Discuss and review your code</h3>
 
     <p>Once a Pull Request has been opened, the person or team reviewing your changes may have questions or comments. Perhaps the coding style doesn't match project guidelines, the change is missing unit tests, or maybe everything looks great and props are in order. Pull Requests are designed to encourage and capture this type of conversation.</p>
 
