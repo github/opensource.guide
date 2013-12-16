@@ -68,7 +68,8 @@
 }
 
 .diagram-icon.active {
-  background-color: #4183c4;
+  background-color: #8c4573;
+  border-color: #8c4573;
   color: #fff;
 }
 
@@ -80,6 +81,10 @@
   position: absolute;
   color: #4183c4;
   margin-top: 2px\9; // IE hack
+}
+
+.diagram-icon-small.active {
+  color: #8c4573;
 }
 
 .diagram-icon-branch {

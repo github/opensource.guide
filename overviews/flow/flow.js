@@ -27,33 +27,34 @@ $(function() {
   var s = Snap("#js-features-branch-diagram-svg");
 
   var annotations = [
-        new Annotation(s, {top: 20,  left: 88,  height: 207,
-                           panelContainer: '.js-panel-content-branch'}),
-        new Annotation(s, {top: 140,  left: 287,  height: 86, width: 112,
-                           panelContainer: '.js-panel-content-commits'}),
-        new Annotation(s, {top: 137, left: 423, height: 89,
-                           panelContainer: '.js-panel-content-pr'}),
-        new Annotation(s, {top: 140,  left: 590,  height: 86, width: 240,
-                           panelContainer: '.js-panel-content-code-review'}),
-        new Annotation(s, {top: 20,  left: 840, height: 207,
-                           panelContainer: '.js-panel-content-merge'})
+        new Annotation(s, {top: 20,  left: 88,  height: 207, name: 'branch'}),
+        new Annotation(s, {top: 140,  left: 289,  height: 86, width: 113, name: 'commits'}),
+        new Annotation(s, {top: 137, left: 423, height: 89, name: 'pr'}),
+        new Annotation(s, {top: 140,  left: 590,  height: 86, width: 240, name: 'code-review'}),
+        new Annotation(s, {top: 20,  left: 840, height: 207, name: 'merge'})
   ];
 
   $.each(annotations, function(i) {
     annotations[i].target.click(function() {
-      changePanel($(annotations[i].panel));
+      changePanel($('.js-panel-content-'+annotations[i].name));
       $.each(annotations, function(j) {
         if (annotations[j] != annotations[i]) {
-          annotations[j].retractLine();
+          annotations[j].deactivate();
+          $('.js-diagram-icon, .js-diagram-icon-small').removeClass('active');
         }
       });
-      annotations[i].extendLine();
+      $('.js-diagram-icon-'+annotations[i].name).addClass('active');
+      annotations[i].activate();
     });
     annotations[i].target.mouseover(function() {
-      annotations[i].scaleTarget(2);
+      if (!annotations[i].isActive()) {
+        annotations[i].scaleTarget(2);
+      }
     });
     annotations[i].target.mouseout(function() {
-      annotations[i].scaleTarget(1);
+      if (!annotations[i].isActive()) {
+        annotations[i].scaleTarget(1);
+      }
     });
   });
 });
@@ -80,7 +81,7 @@ function changePanel(panel) {
 
 function Annotation(paper, options) {
   this.DASH_COLOR   = "#d4d4d4";
-  this.SOLID_COLOR  = "#444444";
+  this.SOLID_COLOR  = "#8c4573";
   this.TARGET_COLOR = "#4183c4";
   this.BOTTOM       = 266;
 
@@ -89,11 +90,12 @@ function Annotation(paper, options) {
   this.left         = options.left;
   this.height       = options.height;
   this.width        = options.width;
-  this.panel        = options.panelContainer;
+  this.name         = options.name;
   this.extender     = null;
   this.lines        = [];
   this.targetInner  = null;
   this.targetOuter  = null;
+  this.active       = false;
 
   this.initLines();
   this.initTarget();
@@ -145,10 +147,10 @@ Annotation.prototype.initTarget = function() {
   this.target = this.paper.group(this.targetOuter, this.targetInner);
 }
 
-Annotation.prototype.extendLine = function() {
+Annotation.prototype.activate = function() {
   var self = this;
-  this.targetOuter.animate({r:14, cy: this.BOTTOM}, 800, mina.elastic);
-  this.targetInner.animate({r:10, cy: this.BOTTOM}, 800, mina.elastic);
+  this.targetOuter.animate({r:14, cy: this.BOTTOM, fill: this.SOLID_COLOR}, 800, mina.elastic);
+  this.targetInner.animate({r:10, cy: this.BOTTOM, fill: this.SOLID_COLOR}, 800, mina.elastic);
   this.extender.animate({y2: this.BOTTOM}, 100, mina.elastic, function() {
     $.each(self.lines, function(i) {
       self.lines[i].attr({
@@ -157,12 +159,13 @@ Annotation.prototype.extendLine = function() {
       });
     });
   });
+  this.active = true;
 }
 
-Annotation.prototype.retractLine = function() {
+Annotation.prototype.deactivate = function() {
   var self = this;
-  this.targetOuter.animate({r:7, cy: this.top + this.height}, 800, mina.elastic);
-  this.targetInner.animate({r:5, cy: this.top + this.height}, 800, mina.elastic);
+  this.targetOuter.animate({r:7, cy: this.top + this.height, fill: this.TARGET_COLOR}, 800, mina.elastic);
+  this.targetInner.animate({r:5, cy: this.top + this.height, fill: this.TARGET_COLOR}, 800, mina.elastic);
   this.extender.animate({y2: this.top + this.height}, 100, mina.elastic, function() {
     $.each(self.lines, function(i) {
       self.lines[i].attr({
@@ -171,9 +174,14 @@ Annotation.prototype.retractLine = function() {
       });
     });
   });
+  this.active = false;
 }
 
 Annotation.prototype.scaleTarget = function(factor) {
   this.targetOuter.animate({r:7 * factor}, 800, mina.elastic);
   this.targetInner.animate({r:5 * factor}, 800, mina.elastic);
+}
+
+Annotation.prototype.isActive = function() {
+  return (this.active == true);
 }
