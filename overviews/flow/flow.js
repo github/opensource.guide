@@ -49,9 +49,13 @@ $(function() {
       });
       annotations[i].extendLine();
     });
-
+    annotations[i].target.mouseover(function() {
+      annotations[i].scaleTarget(2);
+    });
+    annotations[i].target.mouseout(function() {
+      annotations[i].scaleTarget(1);
+    });
   });
-
 });
 
 function changePanel(panel) {
@@ -167,4 +171,9 @@ Annotation.prototype.retractLine = function() {
       });
     });
   });
+}
+
+Annotation.prototype.scaleTarget = function(factor) {
+  this.targetOuter.animate({r:7 * factor}, 800, mina.elastic);
+  this.targetInner.animate({r:5 * factor}, 800, mina.elastic);
 }
