@@ -12,20 +12,21 @@
         var b64 = 'data:image/svg+xml;base64,'+window.btoa(s.toString());
         var url = 'url("' + b64 + '")';
 
-        var hueOffset            = parseInt(sha.substr(14, 3), 16);
-        var satOffset            = parseInt(sha.substr(17, 1), 16);
-        var baseBGColor = Color("#933c3c");
+        var hueOffset = parseInt(sha.substr(14, 3), 16);
+        var satOffset = parseInt(sha.substr(17, 1), 16);
+        var baseBGColor = Snap.getRGB("#933c3c");
 
-        var mappedHueOffset = map(hueOffset, 0, 4095, 0, 359);
-        baseBGColor.hue(360 - mappedHueOffset);
+        var mappedHueOffset = map(hueOffset, 0, 4095, 0, 1);
+        var baseBGColorHSL = Snap.rgb2hsb(baseBGColor.r, baseBGColor.g, baseBGColor.b);
+        baseBGColorHSL.h = 1 - mappedHueOffset;
 
         if (satOffset % 2) {
-          baseBGColor.saturate(satOffset / 50);
+          baseBGColorHSL.s += satOffset / 100;
         }
         else {
-          baseBGColor.desaturate(satOffset / 50);
+          baseBGColorHSL.s -= satOffset / 100;
         }
-        $(this).css('background-color', baseBGColor.rgbString());
+        $(this).css('background-color', Snap.hsb2rgb(baseBGColorHSL.h, baseBGColorHSL.s, baseBGColorHSL.b).hex);
         $(this).css('background-image', url);
       });
     };
