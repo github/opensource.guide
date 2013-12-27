@@ -29,11 +29,24 @@
       }
 
       function geoSquares(s, sha) {
+        var squareSize = parseInt(sha.substr(0, 1), 16);
+        squareSize = Math.floor(map(squareSize, 0, 16, 10, 80));
         s.attr({
-          width:  '200px',
-          height: '200px'
+          width:  squareSize * 6 + 'px',
+          height: squareSize * 6 + 'px'
         });
-        var bigCircle = s.circle(50, 50, 50);
+        var i = 0;
+        for (var x = 0; x < 6; x++) {
+          for (var y = 0; y < 6; y++) {
+            var val = parseInt(sha.substr(i, 1), 16);
+            var square = s.rect(x*squareSize, y*squareSize, squareSize, squareSize);
+            square.attr({
+              fill: "#000",
+              opacity: map(val, 0, 16, 0, 0.3)
+            });
+            i++;
+          };
+        };
       }
 
       function renderPattern(s, container) {
