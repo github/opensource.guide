@@ -4,13 +4,28 @@
       return this.each(function() {
         var container = $(this);
         var sha       = $(this).data('title-sha');
-        var s         = Snap();
+        var s         = getSnap();
 
         setBGColor(s, sha, container);
         // geoSquares(s, sha);
-        geoCircles(s, sha);
+        // geoCircles(s, sha);
+        geoRings(s, sha);
         renderPattern(s, container);
       });
+
+      function getSnap() {
+        var snap;
+        if ($('#geopattern-tmp').length) {
+          snap = Snap('#geopattern-tmp');
+        }
+        else {
+          var svg = document.createElementNS('http://www.w3.org/2000/svg', "svg");
+          svg.id = "geopattern-tmp";
+          snap = Snap(svg);
+        }
+        return snap;
+
+      }
 
       function setBGColor(s, sha, container) {
         var hueOffset       = parseInt(sha.substr(14, 3), 16);
@@ -30,7 +45,7 @@
       }
 
       function geoSquares(s, sha) {
-        var squareSize = parseInt(sha.substr(0, 1), 16);
+        var squareSize = parseInt(sha.substr(0, 2), 16);
         squareSize = Math.floor(map(squareSize, 0, 16, 10, 70));
         s.attr({
           width:  squareSize * 6 + 'px',
@@ -51,7 +66,8 @@
       }
 
       function geoCircles(s, sha) {
-        var maxCircleSize = 50;
+        var scale = parseInt(sha.substr(0, 2), 16);
+        var maxCircleSize = scale * 10;
         s.attr({
           width:  maxCircleSize * 6 + 'px',
           height: maxCircleSize * 6 + 'px'
@@ -60,11 +76,41 @@
         for (var x = 0; x < 6; x++) {
           for (var y = 0; y < 6; y++) {
             var val = parseInt(sha.substr(i, 1), 16);
-            val = map(val, 0, 15, 10, maxCircleSize / 2);
-            var circle = s.circle(x*maxCircleSize + 25, y*maxCircleSize + 25, val);
+            val = map(val, 0, 15, 1, maxCircleSize);
+            var circle = s.circle(
+                            x*maxCircleSize + maxCircleSize/2,
+                            y*maxCircleSize + maxCircleSize/2,
+                            val / 2);
             circle.attr({
               fill: "#000",
               opacity: map(val, 10, maxCircleSize / 2, 0.2, 0.02)
+            });
+            i++;
+          };
+        };
+      }
+
+      function geoRings(s, sha) {
+        var scale = parseInt(sha.substr(1, 1), 16);
+        var ringSize = map(scale, 0, 15, 5, 100);
+        var strokeWidth = ringSize / 4;
+        s.attr({
+          width:  (ringSize + strokeWidth) * 6 + 'px',
+          height: (ringSize + strokeWidth) * 6 + 'px'
+        });
+        var i = 0;
+        for (var x = 0; x < 6; x++) {
+          for (var y = 0; y < 6; y++) {
+            var val = parseInt(sha.substr(i, 1), 16);
+            var circle = s.circle(
+                            x*ringSize + x*strokeWidth + (ringSize + strokeWidth)/2,
+                            y*ringSize + y*strokeWidth + (ringSize + strokeWidth)/2,
+                            ringSize/2);
+            circle.attr({
+              fill: "none",
+              stroke: "#000",
+              'strokeWidth': strokeWidth,
+              opacity: map(val, 0, 15, 0.02, 0.18)
             });
             i++;
           };
@@ -85,6 +131,5 @@
       }
 
     };
-
 
 }(jQuery));
