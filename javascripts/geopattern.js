@@ -69,8 +69,8 @@
         var scale = parseInt(sha.substr(0, 2), 16);
         var maxCircleSize = scale * 10;
         s.attr({
-          width:  maxCircleSize * 6 + 'px',
-          height: maxCircleSize * 6 + 'px'
+          width:  maxCircleSize * 8,
+          height: maxCircleSize * 8
         });
         var i = 0;
         for (var x = 0; x < 6; x++) {
@@ -95,9 +95,9 @@
         var ringSize = map(scale, 0, 15, 5, 100);
         var strokeWidth = ringSize / 4;
         s.attr({
-          width:  (ringSize + strokeWidth) * 6 + 'px',
-          height: (ringSize + strokeWidth) * 6 + 'px'
         });
+        s.node.setAttribute('width',  (ringSize + strokeWidth) * 6);
+        s.node.setAttribute('height', (ringSize + strokeWidth) * 6);
         var i = 0;
         for (var x = 0; x < 6; x++) {
           for (var y = 0; y < 6; y++) {
@@ -118,6 +118,7 @@
       }
 
       function renderPattern(s, container) {
+        console.log(s.toString());
         var b64 = 'data:image/svg+xml;base64,'+window.btoa(s.toString());
         var url = 'url("' + b64 + '")';
         $(container).css('background-image', url);
