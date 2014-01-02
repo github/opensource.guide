@@ -23,7 +23,7 @@ html, body {
 
 .guide-listing {
   width: 440px;
-  /*float: left;*/
+  float: left;
   margin-right: 50px;
   margin-bottom: 30px;
 }
