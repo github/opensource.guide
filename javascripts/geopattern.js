@@ -9,7 +9,8 @@
         setBGColor(s, sha, container);
         // geoSquares(s, sha);
         // geoCircles(s, sha);
-        geoRings(s, sha);
+        // geoRings(s, sha);
+        geoHexagons(s, sha);
         renderPattern(s, container);
       });
 
@@ -52,8 +53,8 @@
           height: squareSize * 6 + 'px'
         });
         var i = 0;
-        for (var x = 0; x < 6; x++) {
-          for (var y = 0; y < 6; y++) {
+        for (var y = 0; y < 6; y++) {
+          for (var x = 0; x < 6; x++) {
             var val = parseInt(sha.substr(i, 1), 16);
             var square = s.rect(x*squareSize, y*squareSize, squareSize, squareSize);
             square.attr({
@@ -73,8 +74,8 @@
           height: maxCircleSize * 8
         });
         var i = 0;
-        for (var x = 0; x < 6; x++) {
-          for (var y = 0; y < 6; y++) {
+        for (var y = 0; y < 6; y++) {
+          for (var x = 0; x < 6; x++) {
             var val = parseInt(sha.substr(i, 1), 16);
             val = map(val, 0, 15, 1, maxCircleSize);
             var circle = s.circle(
@@ -94,13 +95,11 @@
         var scale = parseInt(sha.substr(1, 1), 16);
         var ringSize = map(scale, 0, 15, 5, 100);
         var strokeWidth = ringSize / 4;
-        s.attr({
-        });
         s.node.setAttribute('width',  (ringSize + strokeWidth) * 6);
         s.node.setAttribute('height', (ringSize + strokeWidth) * 6);
         var i = 0;
-        for (var x = 0; x < 6; x++) {
-          for (var y = 0; y < 6; y++) {
+        for (var y = 0; y < 6; y++) {
+          for (var x = 0; x < 6; x++) {
             var val = parseInt(sha.substr(i, 1), 16);
             var circle = s.circle(
                             x*ringSize + x*strokeWidth + (ringSize + strokeWidth)/2,
@@ -117,8 +116,40 @@
         };
       }
 
+      function geoHexagons(s, sha) {
+        var scale      = parseInt(sha.substr(1, 1), 16);
+        var sideLength = map(scale, 0, 15, 5, 80);
+        var hexHeight  = sideLength * Math.sqrt(3);
+
+        s.node.setAttribute('width',  500);
+        s.node.setAttribute('height', 500);
+
+        var i = 0;
+        for (var y = 0; y < 6; y++) {
+          for (var x = 0; x < 6; x++) {
+            var val = parseInt(sha.substr(i, 1), 16);
+            var hex = createHexagon(s, sideLength);
+            var dy = (x+1) % 2 == 0 ? y*hexHeight : y*hexHeight + hexHeight/2;
+            console.log("x:"+ x*sideLength);
+            console.log("y:"+ dy);
+            hex.attr({
+              fill: "#000",
+              opacity: map(val, 0, 15, 0.02, 0.18),
+              transform: "t"+[x*sideLength*1.5,dy]
+            });
+            i++;
+          };
+        };
+      }
+
+      function createHexagon(s, sideLength) {
+        c = sideLength;
+        a = c/2;
+        b = Math.sin(Snap.rad(60))*c;
+        return s.polyline(0, b, a, 0, a+c, 0, 2*c, b, a+c, 2*b, a, 2*b, 0, b);
+      }
+
       function renderPattern(s, container) {
-        console.log(s.toString());
         var b64 = 'data:image/svg+xml;base64,'+window.btoa(s.toString());
         var url = 'url("' + b64 + '")';
         $(container).css('background-image', url);
