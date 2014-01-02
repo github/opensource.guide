@@ -118,25 +118,53 @@
 
       function geoHexagons(s, sha) {
         var scale      = parseInt(sha.substr(1, 1), 16);
-        var sideLength = map(scale, 0, 15, 5, 80);
+        var sideLength = map(scale, 0, 20, 5, 120);
         var hexHeight  = sideLength * Math.sqrt(3);
+        var hexWidth   = sideLength * 2;
+        var hex        = createHexagon(s, sideLength).attr({fill: "#111", stroke: "#000", opacity:0});
 
-        s.node.setAttribute('width',  500);
-        s.node.setAttribute('height', 500);
+        s.node.setAttribute('width',  (hexWidth * 3) + (sideLength * 3));
+        s.node.setAttribute('height', hexHeight * 6);
 
         var i = 0;
         for (var y = 0; y < 6; y++) {
           for (var x = 0; x < 6; x++) {
-            var val = parseInt(sha.substr(i, 1), 16);
-            var hex = createHexagon(s, sideLength);
-            var dy = (x+1) % 2 == 0 ? y*hexHeight : y*hexHeight + hexHeight/2;
-            console.log("x:"+ x*sideLength);
-            console.log("y:"+ dy);
-            hex.attr({
-              fill: "#000",
-              opacity: map(val, 0, 15, 0.02, 0.18),
-              transform: "t"+[x*sideLength*1.5,dy]
+            var val     = parseInt(sha.substr(i, 1), 16);
+            var dy      = x % 2 == 0 ? y*hexHeight : y*hexHeight + hexHeight/2;
+            var opacity = map(val, 0, 15, 0.02, 0.18),
+            tmpHex = hex.clone();
+            tmpHex.attr({
+              opacity: opacity,
+              transform: "t"+[x*sideLength*1.5 - hexWidth/2,dy - hexHeight/2]
             });
+
+            // Add an extra one at top-right, for tiling.
+            if (x == 0) {
+              tmpHex = hex.clone();
+              tmpHex.attr({
+                opacity: opacity,
+                transform: "t"+[6*sideLength*1.5 - hexWidth/2,dy - hexHeight/2]
+              });
+            }
+
+            // Add an extra row at the end that matches the first row, for tiling.
+            if (y == 0) {
+              var dy = x % 2 == 0 ? 6*hexHeight : 6*hexHeight + hexHeight/2;
+              tmpHex = hex.clone();
+              tmpHex.attr({
+                opacity: opacity,
+                transform: "t"+[x*sideLength*1.5 - hexWidth/2,dy - hexHeight/2]
+              });
+            }
+
+            // Add an extra one at bottom-right, for tiling.
+            if (x == 0 && y == 0) {
+              tmpHex = hex.clone();
+              tmpHex.attr({
+                opacity: opacity,
+                transform: "t"+[6*sideLength*1.5 - hexWidth/2,5*hexHeight + hexHeight/2]
+              });
+            }
             i++;
           };
         };
