@@ -10,7 +10,9 @@
         // geoSquares(s, sha);
         // geoCircles(s, sha);
         // geoRings(s, sha);
-        geoHexagons(s, sha);
+        // geoHexagons(s, sha);
+        geoOverlappingCircles(s, sha);
+
         renderPattern(s, container);
       });
 
@@ -46,8 +48,9 @@
       }
 
       function geoSquares(s, sha) {
-        var squareSize = parseInt(sha.substr(0, 2), 16);
-        squareSize = Math.floor(map(squareSize, 0, 16, 10, 70));
+        var squareSize = parseInt(sha.substr(0, 1), 16);
+        squareSize = map(squareSize, 0, 15, 10, 70);
+        console.log(squareSize);
         s.attr({
           width:  squareSize * 6 + 'px',
           height: squareSize * 6 + 'px'
@@ -109,7 +112,7 @@
               fill: "none",
               stroke: "#000",
               'strokeWidth': strokeWidth,
-              opacity: map(val, 0, 15, 0.02, 0.18)
+              opacity: map(val, 0, 15, 0.02, 0.16)
             });
             i++;
           };
@@ -118,7 +121,7 @@
 
       function geoHexagons(s, sha) {
         var scale      = parseInt(sha.substr(1, 1), 16);
-        var sideLength = map(scale, 0, 20, 5, 120);
+        var sideLength = map(scale, 0, 15, 5, 120);
         var hexHeight  = sideLength * Math.sqrt(3);
         var hexWidth   = sideLength * 2;
         var hex        = createHexagon(s, sideLength).attr({fill: "#111", stroke: "#000", opacity:0});
@@ -168,6 +171,82 @@
             i++;
           };
         };
+      }
+
+      function geoOverlappingCircles(s, sha) {
+        var scale    = parseInt(sha.substr(1, 1), 16);
+        var diameter = map(scale, 0, 15, 20, 200);
+        var radius   = diameter/2;
+
+        console.log("diameter:"+diameter);
+        console.log("radius:"+radius);
+
+        s.node.setAttribute('width',  radius * 6);
+        s.node.setAttribute('height', radius * 6);
+
+        var i = 0;
+        for (var y = 0; y < 6; y++) {
+          for (var x = 0; x < 6; x++) {
+            var val     = parseInt(sha.substr(i, 1), 16);
+            var opacity = map(val, 0, 15, 0.02, 0.1);
+            var fill    = (val % 2 == 0) ? "#ddd" : "#222";
+            var circle = s.circle(x*radius, y*radius, radius);
+            circle.attr({
+              fill: fill,
+              opacity: opacity
+            });
+
+            // Add an extra one at top-right, for tiling.
+            if (x == 0) {
+              var circle = s.circle(6*radius, y*radius, radius);
+              circle.attr({
+                fill: fill,
+                opacity: opacity
+              });
+            }
+
+            // // Add an extra row at the end that matches the first row, for tiling.
+            if (y == 0) {
+              var circle = s.circle(x*radius, 6*radius, radius);
+              circle.attr({
+                fill: fill,
+                opacity: opacity
+              });
+            }
+
+            // // Add an extra one at bottom-right, for tiling.
+            if (x == 0 && y == 0) {
+              var circle = s.circle(6*radius, 6*radius, radius);
+              circle.attr({
+                fill: fill,
+                opacity: opacity
+              });
+            }
+            i++;
+          };
+        };
+        // var scale = parseInt(sha.substr(0, 1), 16);
+        // var maxCircleSize = scale * 10;
+        // s.attr({
+        //   width:  600,
+        //   height: 600
+        // });
+        // var i = 0;
+        // for (var y = 0; y < 6; y++) {
+        //   for (var x = 0; x < 6; x++) {
+        //     var val = parseInt(sha.substr(i, 1), 16);
+        //     // val = map(val, 0, 15, 1, maxCircleSize);
+        //     var circle = s.circle(
+        //                     x*100,
+        //                     y*100,
+        //                     100);
+        //     circle.attr({
+        //       fill: "#000",
+        //       opacity: map(val, 10, maxCircleSize / 2, 0.2, 0.02)
+        //     });
+        //     i++;
+        //   };
+        // };
       }
 
       function createHexagon(s, sideLength) {
