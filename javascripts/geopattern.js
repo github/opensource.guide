@@ -11,7 +11,8 @@
         // geoCircles(s, sha);
         // geoRings(s, sha);
         // geoHexagons(s, sha);
-        geoOverlappingCircles(s, sha);
+        // geoOverlappingCircles(s, sha);
+        geoTriangles(s, sha);
 
         renderPattern(s, container);
       });
@@ -173,13 +174,55 @@
         };
       }
 
+      function geoTriangles(s, sha) {
+        var scale          = parseInt(sha.substr(1, 1), 16);
+        var sideLength     = map(scale, 0, 15, 5, 120);
+        var triangleHeight = sideLength/2 * Math.sqrt(3);
+        var triangle       = createTriangle(s, sideLength, triangleHeight).attr({stroke: "#444", opacity:0});
+        var rotation       = "r180,"+sideLength/2 +","+triangleHeight/2;
+
+        s.node.setAttribute('width',  sideLength * 3);
+        s.node.setAttribute('height', triangleHeight * 6);
+
+        var i = 0;
+        for (var y = 0; y < 6; y++) {
+          for (var x = 0; x < 6; x++) {
+            var val  = parseInt(sha.substr(i, 1), 16);
+            var fill = (val % 2 == 0) ? "#ddd" : "#222";
+            var rot  = "";
+            if (y % 2 == 0) {
+              rot = x % 2 == 0 ? rotation : "";
+            }
+            else {
+              rot = x % 2 != 0 ? rotation : "";
+            }
+            var opacity = map(val, 0, 15, 0.02, 0.15),
+            tmpTri = triangle.clone();
+            tmpTri.attr({
+              opacity: opacity,
+              fill: fill,
+              transform: "t"+[x*sideLength*0.5 - sideLength/2,triangleHeight*y]+rot
+            });
+
+            // Add an extra one at top-right, for tiling.
+            if (x == 0) {
+              tmpTri = triangle.clone();
+              tmpTri.attr({
+                opacity: opacity,
+                fill: fill,
+                transform: "t"+[6*sideLength*0.5 - sideLength/2,triangleHeight*y]+rot
+              });
+            }
+
+            i++;
+          };
+        };
+      }
+
       function geoOverlappingCircles(s, sha) {
         var scale    = parseInt(sha.substr(1, 1), 16);
         var diameter = map(scale, 0, 15, 20, 200);
         var radius   = diameter/2;
-
-        console.log("diameter:"+diameter);
-        console.log("radius:"+radius);
 
         s.node.setAttribute('width',  radius * 6);
         s.node.setAttribute('height', radius * 6);
@@ -225,28 +268,6 @@
             i++;
           };
         };
-        // var scale = parseInt(sha.substr(0, 1), 16);
-        // var maxCircleSize = scale * 10;
-        // s.attr({
-        //   width:  600,
-        //   height: 600
-        // });
-        // var i = 0;
-        // for (var y = 0; y < 6; y++) {
-        //   for (var x = 0; x < 6; x++) {
-        //     var val = parseInt(sha.substr(i, 1), 16);
-        //     // val = map(val, 0, 15, 1, maxCircleSize);
-        //     var circle = s.circle(
-        //                     x*100,
-        //                     y*100,
-        //                     100);
-        //     circle.attr({
-        //       fill: "#000",
-        //       opacity: map(val, 10, maxCircleSize / 2, 0.2, 0.02)
-        //     });
-        //     i++;
-        //   };
-        // };
       }
 
       function createHexagon(s, sideLength) {
@@ -254,6 +275,11 @@
         a = c/2;
         b = Math.sin(Snap.rad(60))*c;
         return s.polyline(0, b, a, 0, a+c, 0, 2*c, b, a+c, 2*b, a, 2*b, 0, b);
+      }
+
+      function createTriangle(s, sideLength, height) {
+        var halfWidth = sideLength / 2;
+        return s.polyline(halfWidth, 0, sideLength, height, 0, height, halfWidth, 0);
       }
 
       function renderPattern(s, container) {
