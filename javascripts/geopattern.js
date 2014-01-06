@@ -12,7 +12,8 @@
         // geoRings(s, sha);
         // geoHexagons(s, sha);
         // geoOverlappingCircles(s, sha);
-        geoTriangles(s, sha);
+        // geoTriangles(s, sha);
+        geoXes(s, sha);
 
         renderPattern(s, container);
       });
@@ -51,7 +52,6 @@
       function geoSquares(s, sha) {
         var squareSize = parseInt(sha.substr(0, 1), 16);
         squareSize = map(squareSize, 0, 15, 10, 70);
-        console.log(squareSize);
         s.attr({
           width:  squareSize * 6 + 'px',
           height: squareSize * 6 + 'px'
@@ -213,7 +213,6 @@
                 transform: "t"+[6*sideLength*0.5 - sideLength/2,triangleHeight*y]+rot
               });
             }
-
             i++;
           };
         };
@@ -270,6 +269,34 @@
         };
       }
 
+      function geoXes(s, sha) {
+        var squareSize = parseInt(sha.substr(0, 1), 16);
+        squareSize     = map(squareSize, 0, 15, 10, 25);
+        console.log(squareSize);
+        var xShape     = createX(s, squareSize);
+        var xSize      = squareSize * 3 * 0.943;
+
+        s.node.setAttribute('width',  xSize * 6);
+        s.node.setAttribute('height', xSize * 6);
+
+        var i = 0;
+        for (var y = 0; y < 6; y++) {
+          for (var x = 0; x < 6; x++) {
+            var val     = parseInt(sha.substr(i, 1), 16);
+            var opacity = map(val, 0, 15, 0.02, 0.15);
+            var fill    = (val % 2 == 0) ? "#ddd" : "#222";
+            var xTmp    = xShape.clone();
+            xTmp.attr({
+              fill: fill,
+              opacity: opacity,
+              transform: "t"+[x*xSize,y*xSize]+
+                         "r45,"+squareSize*1.5+","+squareSize*1.5
+            });
+            i++;
+          };
+        };
+      }
+
       function createHexagon(s, sideLength) {
         c = sideLength;
         a = c/2;
@@ -280,6 +307,17 @@
       function createTriangle(s, sideLength, height) {
         var halfWidth = sideLength / 2;
         return s.polyline(halfWidth, 0, sideLength, height, 0, height, halfWidth, 0);
+      }
+
+      function createX(s, squareSize) {
+        var shape = s.group(
+          s.rect(squareSize, 0, squareSize, squareSize*3),
+          s.rect(0, squareSize, squareSize*3, squareSize)
+        );
+        shape.attr({
+          opacity: 0,
+        });
+        return shape;
       }
 
       function renderPattern(s, container) {
