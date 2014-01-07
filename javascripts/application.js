@@ -1,44 +1,6 @@
 $(function(){
 
-  var renderGuideListing = function(guideListing) {
-    var titleSHA = guideListing.find('.js-guide-cover-title').data('title-sha');
-    var svgCanvas   = guideListing.find('.js-guilloche')[0];
-    var cover = guideListing.find('.js-guide-cover');
-    svgCanvas.setAttribute('width', cover.width());
-    svgCanvas.setAttribute('height', cover.height());
-    center = {x: parseInt(guideListing.width() / 2) , y: 65};
-    guillocheSVG(svgCanvas, {string: titleSHA, type: "listing", center: center});
-  };
-
-  var renderGuideHeading = function(guideHeading) {
-    var titleSHA = guideHeading.find('.js-guide-article-title').data('title-sha');
-    var svgCanvas = $('.js-guilloche')[0];
-    var topPadding = parseInt(guideHeading.find('.wrap').css('padding-top'));
-    svgCanvas.setAttribute('width', guideHeading.width());
-    svgCanvas.setAttribute('height', guideHeading.height());
-    center = {x: guideHeading.find('.wrap').offset().left + 50, y: 63 + topPadding};
-    guillocheSVG(svgCanvas, {string: titleSHA, type: "article", center: center});
-  };
-
-  $('.js-guide-listing').each(function() {
-    renderGuideListing($(this));
-  });
-
-  $('.js-guide-article').each(function() {
-    renderGuideHeading($(this));
-  });
-
-  $(window).resize(function() {
-    if ($('.js-guide-article').length) {
-      renderGuideHeading($('.js-guide-article'));
-    }
-    if ($('.js-guide-listing').length) {
-      $('.js-guide-listing').each(function() {
-        renderGuideListing($(this));
-      });
-    }
-  });
-
+  $('.js-geopattern').geopattern();
 
   // Initalize the ToC if we're on an article page
   if ($('.js-toc').length) {
