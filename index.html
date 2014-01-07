@@ -7,8 +7,8 @@ layout: landing_page
   {% for post in site.pages %}
   {% if post.title != nil %}
   <article class="guide-listing js-guide-listing">
-    <svg class="article-header-guilloche js-guilloche" xmlns="http://www.w3.org/2000/svg" width="440" height="225"></svg>
-    <div class="guide-cover js-guide-cover">
+
+    <div class="guide-cover js-guide-cover js-geopattern" data-title-sha="{{ post.title_sha }}">
       <a href="{{ site.baseurl }}/{{ post.path | replace:'/index.md','' }}">
         <div class="icon-container">
           <span class="mega-octicon octicon-{{ post.icon }}"></span>

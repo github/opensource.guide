@@ -140,9 +140,10 @@ ol.toc.sticky {
   text-shadow: 0 2px 0 rgba(0, 0, 0, 0.15);
 }
 
-.article-header-guilloche {
+.article-header-pattern {
   position: absolute;
   z-index: 1;
+  display: none;
 }
 
 .article-heading .wrap {
