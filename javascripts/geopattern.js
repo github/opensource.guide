@@ -7,14 +7,42 @@
         var s         = getSnap();
 
         setBGColor(s, sha, container);
-        // geoSquares(s, sha);
-        // geoCircles(s, sha);
-        // geoRings(s, sha);
-        // geoHexagons(s, sha);
-        // geoOverlappingCircles(s, sha);
-        // geoTriangles(s, sha);
-        geoXes(s, sha);
 
+        var pattern = parseInt(sha.substr(39, 1), 16);
+        switch (pattern) {
+          case 0:
+            geoRings(s, sha); break;
+          case 1:
+            geoSquares(s, sha); break;
+          case 2:
+            break;
+          case 3:
+            break;
+          case 4:
+            geoXes(s, sha); break;
+          case 5:
+            geoHexagons(s, sha); break;
+          case 6:
+            break;
+          case 7:
+            break;
+          case 8:
+            break;
+          case 9:
+            break;
+          case 10:
+            geoOverlappingCircles(s, sha); break;
+          case 11:
+            geoTriangles(s, sha); break;
+          case 12:
+            break;
+          case 13:
+            break;
+          case 14:
+            break;
+          case 15:
+            break;
+        }
         renderPattern(s, container);
       });
 
@@ -64,31 +92,6 @@
             square.attr({
               fill: "#000",
               opacity: map(val, 0, 15, 0, 0.2)
-            });
-            i++;
-          };
-        };
-      }
-
-      function geoCircles(s, sha) {
-        var scale = parseInt(sha.substr(0, 2), 16);
-        var maxCircleSize = scale * 10;
-        s.attr({
-          width:  maxCircleSize * 8,
-          height: maxCircleSize * 8
-        });
-        var i = 0;
-        for (var y = 0; y < 6; y++) {
-          for (var x = 0; x < 6; x++) {
-            var val = parseInt(sha.substr(i, 1), 16);
-            val = map(val, 0, 15, 1, maxCircleSize);
-            var circle = s.circle(
-                            x*maxCircleSize + maxCircleSize/2,
-                            y*maxCircleSize + maxCircleSize/2,
-                            val / 2);
-            circle.attr({
-              fill: "#000",
-              opacity: map(val, 10, maxCircleSize / 2, 0.2, 0.02)
             });
             i++;
           };
@@ -272,7 +275,6 @@
       function geoXes(s, sha) {
         var squareSize = parseInt(sha.substr(0, 1), 16);
         squareSize     = map(squareSize, 0, 15, 10, 25);
-        console.log(squareSize);
         var xShape     = createX(s, squareSize);
         var xSize      = squareSize * 3 * 0.943;
 
