@@ -276,22 +276,56 @@
         var xShape     = createX(s, squareSize);
         var xSize      = squareSize * 3 * 0.943;
 
-        s.node.setAttribute('width',  xSize * 6);
-        s.node.setAttribute('height', xSize * 6);
+        s.node.setAttribute('width',  xSize * 3);
+        s.node.setAttribute('height', xSize * 3.5);
 
         var i = 0;
         for (var y = 0; y < 6; y++) {
           for (var x = 0; x < 6; x++) {
             var val     = parseInt(sha.substr(i, 1), 16);
             var opacity = map(val, 0, 15, 0.02, 0.15);
+            var dy      = x % 2 == 0 ? y*xSize - xSize*0.5 : y*xSize - xSize*0.5 + xSize/4;
             var fill    = (val % 2 == 0) ? "#ddd" : "#222";
             var xTmp    = xShape.clone();
             xTmp.attr({
               fill: fill,
               opacity: opacity,
-              transform: "t"+[x*xSize,y*xSize]+
+              transform: "t"+[x*xSize/2 - xSize/2,dy - y*xSize/2]+
                          "r45,"+squareSize*1.5+","+squareSize*1.5
             });
+            // Add an extra one at top-right, for tiling.
+            if (x == 0) {
+              var xTmp = xShape.clone();
+              xTmp.attr({
+                fill: fill,
+                opacity: opacity,
+                transform: "t"+[6*xSize/2 - xSize/2,dy - y*xSize/2]+
+                           "r45,"+squareSize*1.5+","+squareSize*1.5
+              });
+            }
+
+            // // Add an extra row at the end that matches the first row, for tiling.
+            if (y == 0) {
+              var dy = x % 2 == 0 ? 6*xSize - xSize/2 : 6*xSize - xSize/2 + xSize/4;
+              var xTmp = xShape.clone();
+              xTmp.attr({
+                fill: fill,
+                opacity: opacity,
+                transform: "t"+[x*xSize/2 - xSize/2,dy - 6*xSize/2]+
+                           "r45,"+squareSize*1.5+","+squareSize*1.5
+              });
+            }
+
+            // // // Add an extra one at bottom-right, for tiling.
+            if (x == 0 && y == 0) {
+              var xTmp = xShape.clone();
+              xTmp.attr({
+                fill: fill,
+                opacity: opacity,
+                transform: "t"+[6*xSize/2 - xSize/2,dy - 6*xSize/2]+
+                           "r45,"+squareSize*1.5+","+squareSize*1.5
+              });
+            }
             i++;
           };
         };
