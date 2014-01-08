@@ -3,13 +3,12 @@ layout: default
 ---
 
 <article class="full">
-  <div class="article-heading js-guide-article">
-    <svg class="article-header-guilloche js-guilloche" xmlns="http://www.w3.org/2000/svg"></svg>
+  <div class="article-heading js-article-heading js-geopattern" data-title-sha="{{ page.title_sha }}">
     <div class="wrap">
       <div class="icon-container">
         <span class="mega-octicon octicon-{{page.icon}}"></span>
       </div>
-      <h1 class="js-guide-article-title" data-title-sha="{{ page.title_sha }}">{{ page.title }}</h1>
+      <h1>{{ page.title }}</h1>
       <span class="article-read-time">
         <span class="octicon octicon-clock"></span> {{ page.read_time }} read
       </span>
