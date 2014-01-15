@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Mastering Issues
-read_time: 7 minute
+read_time: 10 minute
 updated_at: Aug 9, 2013
 icon: issue-closed
 title_sha: d145998e941f058151cadcc7489275a8bb5d31d5
