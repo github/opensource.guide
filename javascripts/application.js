@@ -52,6 +52,18 @@ $(function(){
       }
       highlightTocSection();
     }, 100);
+
+    var exampleNav = $('.js-examples-nav')
+    if (exampleNav.length){
+      exampleNav.on('click', 'a', function(event){
+        event.preventDefault()
+        exampleNav.find('a').removeClass('selected')
+        $('.markdown-example').hide()
+        $('#' + $(this).attr('data-container-id')).show()
+        $(this).addClass('selected')
+      })
+    }
+
   }
 })
 
