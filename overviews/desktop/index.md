@@ -20,7 +20,7 @@ Here are some great reasons to push projects to GitHub:
 
 * **Collaboration** — Once your code is on GitHub, you can invite others to work on your code with you. Send them a link to help you debug a problem.
 
-![](http://cl.ly/image/242S260f012S/Image%202013-11-05%20at%202.03.09%20PM.png)
+![](repository.png)
 
 Once your project is on GitHub, we provide a URL for every file in your project. For example, this is Mike Bostock's popular <a href="https://github.com/mbostock/d3" target="_blank">d3</a> project for creating data-driven documents with JavaScript.
 
@@ -48,19 +48,19 @@ The easiest way to get your project into GitHub Desktop is to drag the folder wi
 
 *Note: Our examples show the Mac app, but the flows are the same for the Windows app as well.*
 
-![](http://github-images.s3.amazonaws.com/guides/overview-desktop/mac-dragndrop.jpg)
+![](mac-dragndrop.jpg)
 
 If you are dragging in an existing Git repository, you can skip ahead and [push your code to GitHub.com](#pushit). 
 
 If the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder—it will simply create some hidden files that allow Git to do its magic.
 
-![](http://github-images.s3.amazonaws.com/guides/overview-desktop/mac-gitinit.jpg)
+![](mac-gitinit.jpg)
 
 ### Your first commit
 
 All Git repositories are based on *commits*—snapshots of your code at a point in time. You need to make at least one commit before you can push your code up to GitHub.com.
 
-![](http://github-images.s3.amazonaws.com/guides/overview-desktop/mac-commit.jpg)
+![](mac-commit.jpg)
 
 Navigate to the **Changes** tab and click **Commit** to create your first commit. You'll need to create a new commit every time you change files. Creating a commit is like saving a file—you are telling Git that you'd like to remember this point in history.
 
@@ -69,7 +69,7 @@ Make as many commits as you like locally. No one but you can see those commits u
 <a id="pushit" title="Push your code" class="toc-item"></a>
 ## Push your code to GitHub.com
 
-![](http://github-images.s3.amazonaws.com/guides/overview-desktop/mac-push.jpg)
+![](mac-push.jpg)
 
 Click the "Push to GitHub" button in the upper-right corner and GitHub Desktop will ask you what kind of repository to create:
 
