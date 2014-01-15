@@ -24,32 +24,204 @@ Markdown is a lightweight and easy-to-use syntax for styling all forms of writin
 <a id="what" title="What is Markdown?" class="toc-item"></a>
 ## What is Markdown?
 
-Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. It was created by John Gruber as an easier way to write documents that contained more than just plain text.
+Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like `#` or `*`.
 
-<strong><a href="https://github.com/github/developer.github.com" target="_blank">Here's an example of Markdown from the GitHub API developer Documentation</a></strong>
-
-![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
-
-Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like `#` or `*`.
-
-Imagine you have a document with several paragraphs. You think, "This would look better if I could include some formatting, like making a word italic, just like I would in a traditional word processor." A Markdown file would be perfect for this.
-
-To try this out, [create a new practice issue](https://github.com/githubtraining/sample-markdown/issues/new) and type a bit of text in the comment section. Add a "#" symbol to the front of your sentence; this turns it into a header. You have now created the first heading of your document!
-
-![Raw Markdown in an Issue](masteringmarkdown-sample-issue-raw.jpg)
-
-To see your craftsmanship, click on the "Preview" tab to see a rendered view of your Markdown.
-
-![Previewed Markdown in an Issue](masteringmarkdown-sample-issue-preview.jpg)
-
-You can also use Markdown in the following areas of GitHub.com:
+You can use Markdown most places around GitHub:
 
 - [Gists](https://gist.github.com/)
 - Comments in Issues and Pull Requests
 - Files with the `.md` or `.markdown` extension
 
+<a id="examples" title="Examples" class="toc-item"></a>
+## Examples
+
+<ul class="example-nav js-examples-nav">
+  <li><a href="#" class="selected" data-container-id="example-text">Text</a></li>
+  <li><a href="#" data-container-id="example-lists">Lists</a></li>
+  <li><a href="#" data-container-id="example-images">Images</a></li>
+  <li><a href="#" data-container-id="example-headers">Headers &amp; Quotes</a></li>
+  <li><a href="#" data-container-id="example-code">Code</a></li>
+  <li><a href="#" data-container-id="example-extras">Extras</a></li>
+</ul>
+
+<div class="markdown-example" id="example-text">
+<pre class="source">
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com).
+</pre>
+<div class="rendered">
+It's very easy to make some words <strong>bold</strong> and other words <em>italic</em> with Markdown. You can even <a href="http://google.com">link to Google!</a>
+</div>
+</div>
+
+<div class="markdown-example" id="example-lists" style="display:none">
+<pre class="source">
+Sometimes you want numbered lists:
+
+1. One
+2. Two
+3. Three
+
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
+
+Alternatively,
+
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
+</pre>
+<div class="rendered">
+  <p>Sometimes you want numbered lists:</p>
+  <ol>
+  <li>One</li>
+  <li>Two</li>
+  <li>Three</li>
+  </ol>
+  <p>Sometimes you want bullet points:</p>
+  <ul>
+  <li>Start a line with a star</li>
+  <li>Profit!</li>
+  </ul>
+  <p>Alternatively,</p>
+  <ul>
+  <li>Dashes work just as well</li>
+  <li>And if you have sub points, put two spaces before the dash or star:
+  <ul>
+  <li>Like this</li>
+  <li>And this</li>
+  </ul>
+  </li>
+  </ul>
+</div>
+</div>
+
+<div class="markdown-example" id="example-images" style="display:none">
+<pre class="source">
+If you want to embed images, this is how you do it:
+
+![](http://octodex.github.com/images/yaktocat.png)
+</pre>
+<div class="rendered">
+  <p>If you want to embed images, this is how you do it:</p>
+  <p><img src="http://octodex.github.com/images/yaktocat.png" /></p>
+</div>
+</div>
+
+<div class="markdown-example" id="example-headers" style="display:none">
+<pre class="source">
+# Structured documents
+
+Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
+
+### This is a third-tier heading
+
+You can use  one `#` all the way up to `######` six for different heading sizes.
+
+If you'd like to quote someone, use the > character before the line:
+
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+> - Captain Janeway
+</pre>
+<div class="rendered">
+  <h1>Structured documents</h1>
+
+  <p>Sometimes it&rsquo;s useful to have different levels of headings to structure your documents. Start lines with a <code>#</code> to create headings. Multiple <code>##</code> in a row denote smaller heading sizes.</p>
+
+  <h3>This is a third-tier heading</h3>
+
+  <p>You can use  one <code>#</code> all the way up to <code>######</code> six for different heading sizes.</p>
+
+  <p>If you&rsquo;d like to quote someone, use the > character before the line:</p>
+
+  <blockquote><p>Coffee. The finest organic suspension ever devised&hellip; I beat the Borg with it.
+  - Captain Janeway</p></blockquote>
+</div>
+</div>
+
+
+<div class="markdown-example" id="example-code" style="display:none">
+<pre class="source">
+There are many different ways to style code with GitHub's markdown. If you have inline code blocks, wrap them in backticks: `var example = true`.  If you've got a longer block of code, you can indent with four spaces:
+
+    if (isAwesome){
+      return true
+    }
+
+GitHub also supports something called code fencing, which allows for multiple lines without indentation:
+
+```
+if (isAwesome){
+  return true
+}
+```
+
+And if you'd like to use syntax highlighting, include the language:
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+</pre>
+<div class="rendered">
+  <p>There are many different ways to style code with GitHub&rsquo;s markdown. If you have inline code blocks, wrap them in backticks: <code>var example = true</code>.  If you&rsquo;ve got a longer block of code, you can indent with four spaces:</p>
+
+<pre><code>if (isAwesome){
+  return true
+}
+</code></pre>
+
+  <p>GitHub also supports something called code fencing, which allows for multiple lines without indentation:</p>
+
+<pre><code>if (isAwesome){
+  return true
+}
+</code></pre>
+
+  <p>And if you&rsquo;d like to use syntax highlighting, include the language:</p>
+
+<div class="highlight highlight-javascript"><pre><span class="k">if</span> <span class="p">(</span><span class="nx">isAwesome</span><span class="p">){</span>
+  <span class="k">return</span> <span class="kc">true</span>
+<span class="p">}</span>
+</pre></div>
+
+</div>
+</div>
+
+
+<div class="markdown-example" id="example-extras" style="display:none">
+<pre class="source">
+GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey @kneath — love your sweater!
+
+But I have to admit, tasks lists are my favorite:
+
+- [x] This is a complete item
+- [ ] This is an incomplete item
+
+And, of course emoji! :sparkles: :camel: :boom:
+</pre>
+<div class="rendered">
+  <p>GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey <a href="https://github.com/kneath" class="user-mention">@kneath</a> — love your sweater!</p>
+
+  <p>But I have to admit, tasks lists are my favorite:</p>
+
+  <ul class="task-list">
+  <li class="task-list-item">
+  <input type="checkbox" class="task-list-item-checkbox" checked="" disabled=""> This is a complete item</li>
+  <li class="task-list-item">
+  <input type="checkbox" class="task-list-item-checkbox" disabled=""> This is an incomplete item</li>
+  </ul><p>And, of course emoji! <img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://github.global.ssl.fastly.net/images/icons/emoji/sparkles.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":camel:" alt=":camel:" src="https://github.global.ssl.fastly.net/images/icons/emoji/camel.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":boom:" alt=":boom:" src="https://github.global.ssl.fastly.net/images/icons/emoji/boom.png" height="20" width="20" align="absmiddle"></p>
+
+</div>
+</div>
+
+
+
 <a id="syntax" title="Basic syntax" class="toc-item"></a>
-## Basic syntax
+## Syntax guide
 
 Here's an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 

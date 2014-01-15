@@ -12,79 +12,87 @@ summary: Publishing source code doesn’t have to be a pain. This guide will wal
 <a id="intro" title="Intro" class="toc-item"></a>
 Software is at the heart of GitHub—and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!
 
-Here's some of my favorite reasons to push projects to GitHub:
+Here are some great reasons to push projects to GitHub:
 
 * **Version Control** — Everything on GitHub is stored in <a href="http://git-scm.com" target="_blank">Git</a>, the best version control system around. Version control allows you to  experiment and make mistakes in code without messing up your final product.
 
-* **Keep your code in one place** — Whether you work on multiple computers, or just want to get some old projects off your hard drive, GitHub the perfect place to store your projects online.
+* **Keep your code in one place** — Whether you work on multiple computers or just want to get some old projects off your computer, GitHub is the perfect place to store your projects online.
 
 * **Collaboration** — Once your code is on GitHub, you can invite others to work on your code with you. Send them a link to help you debug a problem.
 
-![](http://cl.ly/image/242S260f012S/Image%202013-11-05%20at%202.03.09%20PM.png)
+![](repository.png)
 
-Once your project is on GitHub, we provide a URL for every file in your project. For example, this is Mike Bostock's popular <a href="https://github.com/mbostock/d3" target="_blank">d3</a> project for javascript base data-driven documents.
+Once your project is on GitHub, we provide a URL for every file in your project. For example, this is Mike Bostock's popular <a href="https://github.com/mbostock/d3" target="_blank">d3</a> project for creating data-driven documents with JavaScript.
 
-We end up using the word Git and GitHub a lot in this article, so here's some clarification that might help:
+We use the words Git and GitHub a lot in this article, so let's clarify what they mean.
 
-* **Git** — This is the version control tool that GitHub is built on top of.
+* **Git** — The version control tool that GitHub is built on top of.
 
-* **GitHub** — GitHub is our company, a website, and the name of our software. We build software and websites to help you interact with Git repositories in a nice way.
+* **GitHub** — Our company and the name of our software. We build software and websites to help you interact with Git repositories in a nice way.
 
-* **GitHub.com** — This is the website you log into to view repositories online.
+* **GitHub.com** — The website you log into to view repositories online.
 
-* **GitHub Desktop** — This is an application that you install on your computer that helps you connect code on your machine to GitHub.com.
+* **GitHub Desktop** — An application that you can install on your computer to help you synchronize local code with GitHub.com.
 
 <a id="desktop" title="GitHub Desktop" class="toc-item"></a>
 ## GitHub Desktop
 
-GitHub for Desktop is the easiest way to get code on GitHub—you won't need to learn any command line instructions, SSH keys, or complicated Git terminology. All you'll need is your Mac or Windows computer and a <a href="https://github.com/join" target="_blank">GitHub.com account</a>.
+GitHub Desktop is the easiest way to get code on GitHub.com. You won't need to learn any command-line instructions, SSH keys, or complicated Git terminology. All you'll need is your Mac or Windows computer and a <a href="https://github.com/join" target="_blank">GitHub.com account</a>.
 
-You can download GitHub Desktop for <strong><a href="http://mac.github.com" target="_blank">Mac</a></strong> and <strong><a href="http://windows.github.com" target="_blank">Windows</a></strong>. Once you install GitHub Desktop, a short set up wizard will walk you through some basic configuration and give you the chance to connect GitHub Desktop with your GitHub.com account.
+You can download GitHub Desktop for <strong><a href="http://mac.github.com" target="_blank">Mac</a></strong> and <strong><a href="http://windows.github.com" target="_blank">Windows</a></strong>. Once you install GitHub Desktop, a short set up wizard will walk you through some basic configuration and will help you connect GitHub Desktop with your GitHub.com account.
 
 <a id="setup" title="Set up your project" class="toc-item"></a>
 ## Set up your project in GitHub Desktop
 
-The easiest way to get your project into GitHub Desktop is to drag the folder with your code in it into the main application screen.
+The easiest way to get your project into GitHub Desktop is to drag the folder with your code into the main application screen.
 
-![](http://cl.ly/image/3H2Q3p2Y3q0s/Image%202013-11-05%20at%202.56.56%20PM.png)
+*Note: Our examples show the Mac app, but the flows are the same for the Windows app as well.*
 
-If you are dragging in an existing Git repository, you can skip ahead to the [push your code to GitHub.com](#pushit) section. However, if the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder—it will create some hidden files that allow Git to do its magic.
+![](mac-dragndrop.jpg)
+
+If you are dragging in an existing Git repository, you can skip ahead and [push your code to GitHub.com](#pushit). 
+
+If the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder—it will simply create some hidden files that allow Git to do its magic.
+
+![](mac-gitinit.jpg)
 
 ### Your first commit
 
-All Git repositories are based on *commits*—snapshots of your code at a point in time. Before you can push your code up to GitHub, you need to make at least one commit.
+All Git repositories are based on *commits*—snapshots of your code at a point in time. You need to make at least one commit before you can push your code up to GitHub.com.
 
-![](http://cl.ly/image/0b353m1V0T3T/Image%202013-11-05%20at%203.11.16%20PM.png)
+![](mac-commit.jpg)
 
-Navigate to the changes tab and press **Commit** to create your first commit. Every time you change files, you'll need to create a new commit. Commits are like saving a file—it tells Git that you'd like to remember this point in history.
+Navigate to the **Changes** tab and click **Commit** to create your first commit. You'll need to create a new commit every time you change files. Creating a commit is like saving a file—you are telling Git that you'd like to remember this point in history.
 
-Make as many commits as you like locally—no one but you can see commits until you push them to GitHub.com.
+Make as many commits as you like locally. No one but you can see those commits until you push them to GitHub.com.
 
 <a id="pushit" title="Push your code" class="toc-item"></a>
 ## Push your code to GitHub.com
 
-Press the "Push to GitHub" button in the top right corner, and GitHub Desktop will ask you what kind of repository to create:
+![](mac-push.jpg)
 
-* **Public repository**  — Anyone can see this repository, but you can choose who can commit to the repository (make changes). You can create as many public repositories as you want on GitHub for free.
+Click the "Push to GitHub" button in the upper-right corner and GitHub Desktop will ask you what kind of repository to create:
 
-* **Private repository** — By default, only you can see a private repository. You can then choose who can see and commit to this repository by adding collaborators. Private repositories require a <a href="https://github.com/settings/billing" target="_blank">paid subscription</a> on GitHub.
+* **Public repository**  — Anyone can see a public repository, but you choose who can commit (make changes) to it. You can create as many public repositories as you want on GitHub.com for free.
 
-Now that you've published the repository you have it in two places:
+* **Private repository** — By default, only you can see a private repository. You choose who can see and commit to this repository by adding collaborators. Private repositories require a <a href="https://github.com/settings/billing" target="_blank">paid subscription</a> on GitHub.com.
 
-* **Local repository on your computer** — You can work with this repository without internet using GitHub Desktop. This is where you edit files and make changes to your project.
+Now that you've published the repository, you have it in two places:
 
-* **Remote repository on GitHub.com** — This is where you can send people links to see your code and use all of GitHub's other features (like Issue management and Pull Requests).
+* **Local repository on your computer** — You can work on this repository without an Internet connection using GitHub Desktop. This is where you edit files and make changes to your project.
 
-Each time you make changes to your local repository, you'll need to sync your changes (upper right of GitHub Desktop) to make sure they show up online.
+* **Remote repository on GitHub.com** — You can send people links to your repository on GitHub.com so they can see your code and use all of GitHub's other features (like Issue management and Pull Requests).
+
+Each time you make changes to your local repository, you'll need to sync your changes (by clicking the button in the upper-right corner of GitHub Desktop) to make sure they show up online.
 
 <a id="pullit" title="Pulling code" class="toc-item"></a>
 ## Getting code from GitHub.com
 
-If you work on multiple machines, or want to get some code that's on GitHub.com onto your machine, you'll need to pull changes or clone a repository:
+If you want to get some code from GitHub.com onto your computer or synchronize changes between multiple computers, you'll need to either pull changes or clone a repository:
 
-* **Pulling changes** — This will bring code from the online repository onto your computer (for example if your co-worker pushed up some changes). You can accomplish this by clicking "Sync" in the upper right of GitHub Desktop.
+* **Pull changes** — Click the "Sync" button in the upper-right corner of GitHub Desktop to bring code from an online repository (for example, changes that your co-worker pushed up) onto your computer. *Note: This will also push changes you haven't pushed yet.*
 
-* **Clone a repository** — This will create a new copy of a repository on your machine. You can accomplish this by pressing the "Clone in Desktop" button on GitHub.com.
+* **Clone a repository** — Click the "Clone in Desktop" button on GitHub.com to create a new copy of a repository on your computer.
 
 <a id="celebrate" title="Celebrate!" class="toc-item"></a>
 ## Celebrate!
