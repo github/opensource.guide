@@ -39,7 +39,7 @@ You can use Markdown most places around GitHub:
   <li><a href="#" class="selected" data-container-id="example-text">Text</a></li>
   <li><a href="#" data-container-id="example-lists">Lists</a></li>
   <li><a href="#" data-container-id="example-images">Images</a></li>
-  <li><a href="#" data-container-id="example-headings">Headings</a></li>
+  <li><a href="#" data-container-id="example-headers">Headers &amp; Quotes</a></li>
   <li><a href="#" data-container-id="example-code">Code</a></li>
   <li><a href="#" data-container-id="example-extras">Extras</a></li>
 </ul>
@@ -98,8 +98,130 @@ Alternatively,
 </div>
 </div>
 
+<div class="markdown-example" id="example-images" style="display:none">
+<pre class="source">
+If you want to embed images, this is how you do it:
+
+![](http://octodex.github.com/images/yaktocat.png)
+</pre>
+<div class="rendered">
+  <p>If you want to embed images, this is how you do it:</p>
+  <p><img src="http://octodex.github.com/images/yaktocat.png" /></p>
+</div>
+</div>
+
+<div class="markdown-example" id="example-headers" style="display:none">
+<pre class="source">
+# Structured documents
+
+Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
+
+### This is a third-tier heading
+
+You can use  one `#` all the way up to `######` six for different heading sizes.
+
+If you'd like to quote someone, use the > character before the line:
+
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+> - Captain Janeway
+</pre>
+<div class="rendered">
+  <h1>Structured documents</h1>
+
+  <p>Sometimes it&rsquo;s useful to have different levels of headings to structure your documents. Start lines with a <code>#</code> to create headings. Multiple <code>##</code> in a row denote smaller heading sizes.</p>
+
+  <h3>This is a third-tier heading</h3>
+
+  <p>You can use  one <code>#</code> all the way up to <code>######</code> six for different heading sizes.</p>
+
+  <p>If you&rsquo;d like to quote someone, use the > character before the line:</p>
+
+  <blockquote><p>Coffee. The finest organic suspension ever devised&hellip; I beat the Borg with it.
+  - Captain Janeway</p></blockquote>
+</div>
+</div>
+
+
+<div class="markdown-example" id="example-code" style="display:none">
+<pre class="source">
+There are many different ways to style code with GitHub's markdown. If you have inline code blocks, wrap them in backticks: `var example = true`.  If you've got a longer block of code, you can indent with four spaces:
+
+    if (isAwesome){
+      return true
+    }
+
+GitHub also supports something called code fencing, which allows for multiple lines without indentation:
+
+```
+if (isAwesome){
+  return true
+}
+```
+
+And if you'd like to use syntax highlighting, include the language:
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+</pre>
+<div class="rendered">
+  <p>There are many different ways to style code with GitHub&rsquo;s markdown. If you have inline code blocks, wrap them in backticks: <code>var example = true</code>.  If you&rsquo;ve got a longer block of code, you can indent with four spaces:</p>
+
+<pre><code>if (isAwesome){
+  return true
+}
+</code></pre>
+
+  <p>GitHub also supports something called code fencing, which allows for multiple lines without indentation:</p>
+
+<pre><code>if (isAwesome){
+  return true
+}
+</code></pre>
+
+  <p>And if you&rsquo;d like to use syntax highlighting, include the language:</p>
+
+<div class="highlight highlight-javascript"><pre><span class="k">if</span> <span class="p">(</span><span class="nx">isAwesome</span><span class="p">){</span>
+  <span class="k">return</span> <span class="kc">true</span>
+<span class="p">}</span>
+</pre></div>
+
+</div>
+</div>
+
+
+<div class="markdown-example" id="example-extras">
+<pre class="source">
+GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey @kneath — love your sweater!
+
+But I have to admit, tasks lists are my favorite:
+
+- [x] This is a complete item
+- [ ] This is an incomplete item
+
+And, of course emoji! :sparkles: :camel: :boom:
+</pre>
+<div class="rendered">
+  <p>GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey <a href="https://github.com/kneath" class="user-mention">@kneath</a> — love your sweater!</p>
+
+  <p>But I have to admit, tasks lists are my favorite:</p>
+
+  <ul class="task-list">
+  <li class="task-list-item">
+  <input type="checkbox" class="task-list-item-checkbox" checked="" disabled=""> This is a complete item</li>
+  <li class="task-list-item">
+  <input type="checkbox" class="task-list-item-checkbox" disabled=""> This is an incomplete item</li>
+  </ul><p>And, of course emoji! <img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://github.global.ssl.fastly.net/images/icons/emoji/sparkles.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":camel:" alt=":camel:" src="https://github.global.ssl.fastly.net/images/icons/emoji/camel.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":boom:" alt=":boom:" src="https://github.global.ssl.fastly.net/images/icons/emoji/boom.png" height="20" width="20" align="absmiddle"></p>
+
+</div>
+</div>
+
+
+
 <a id="syntax" title="Basic syntax" class="toc-item"></a>
-## Basic syntax
+## Syntax guide
 
 Here's an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
