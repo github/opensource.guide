@@ -2,7 +2,7 @@
 layout: article
 title: Mastering Markdown
 read_time: 3 minute
-updated_at: Aug 3, 2013
+updated_at: Jan 15, 2014
 icon: markdown
 title_sha: e8df966767fbd3a383c53216799beb4b4564cb74
 survey_tag: 'markdown-1'

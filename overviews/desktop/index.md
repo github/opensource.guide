@@ -2,7 +2,7 @@
 layout: article
 title: Getting your project on GitHub
 read_time: 5 minute
-updated_at: Aug 3, 2013
+updated_at: Jan 15, 2014
 icon: device-desktop
 title_sha: 47011690ae87bd6102c016f144857b7e4e3bb11a
 survey_tag: 'project-bootstrapping-1'
