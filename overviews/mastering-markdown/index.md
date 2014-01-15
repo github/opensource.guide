@@ -24,29 +24,79 @@ Markdown is a lightweight and easy-to-use syntax for styling all forms of writin
 <a id="what" title="What is Markdown?" class="toc-item"></a>
 ## What is Markdown?
 
-Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. It was created by John Gruber as an easier way to write documents that contained more than just plain text.
+Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like `#` or `*`.
 
-<strong><a href="https://github.com/github/developer.github.com" target="_blank">Here's an example of Markdown from the GitHub API developer Documentation</a></strong>
-
-![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
-
-Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like `#` or `*`.
-
-Imagine you have a document with several paragraphs. You think, "This would look better if I could include some formatting, like making a word italic, just like I would in a traditional word processor." A Markdown file would be perfect for this.
-
-To try this out, [create a new practice issue](https://github.com/githubtraining/sample-markdown/issues/new) and type a bit of text in the comment section. Add a "#" symbol to the front of your sentence; this turns it into a header. You have now created the first heading of your document!
-
-![Raw Markdown in an Issue](masteringmarkdown-sample-issue-raw.jpg)
-
-To see your craftsmanship, click on the "Preview" tab to see a rendered view of your Markdown.
-
-![Previewed Markdown in an Issue](masteringmarkdown-sample-issue-preview.jpg)
-
-You can also use Markdown in the following areas of GitHub.com:
+You can use Markdown most places around GitHub:
 
 - [Gists](https://gist.github.com/)
 - Comments in Issues and Pull Requests
 - Files with the `.md` or `.markdown` extension
+
+<a id="examples" title="Examples" class="toc-item"></a>
+## Examples
+
+<ul class="example-nav js-examples-nav">
+  <li><a href="#" class="selected" data-container-id="example-text">Text</a></li>
+  <li><a href="#" data-container-id="example-lists">Lists</a></li>
+  <li><a href="#" data-container-id="example-images">Images</a></li>
+  <li><a href="#" data-container-id="example-headings">Headings</a></li>
+  <li><a href="#" data-container-id="example-code">Code</a></li>
+  <li><a href="#" data-container-id="example-extras">Extras</a></li>
+</ul>
+
+<div class="markdown-example" id="example-text">
+<pre class="source">
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com).
+</pre>
+<div class="rendered">
+It's very easy to make some words <strong>bold</strong> and other words <em>italic</em> with Markdown. You can even <a href="http://google.com">link to Google!</a>
+</div>
+</div>
+
+<div class="markdown-example" id="example-lists" style="display:none">
+<pre class="source">
+Sometimes you want numbered lists:
+
+1. One
+2. Two
+3. Three
+
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
+
+Alternatively,
+
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
+</pre>
+<div class="rendered">
+  <p>Sometimes you want numbered lists:</p>
+  <ol>
+  <li>One</li>
+  <li>Two</li>
+  <li>Three</li>
+  </ol>
+  <p>Sometimes you want bullet points:</p>
+  <ul>
+  <li>Start a line with a star</li>
+  <li>Profit!</li>
+  </ul>
+  <p>Alternatively,</p>
+  <ul>
+  <li>Dashes work just as well</li>
+  <li>And if you have sub points, put two spaces before the dash or star:
+  <ul>
+  <li>Like this</li>
+  <li>And this</li>
+  </ul>
+  </li>
+  </ul>
+</div>
+</div>
 
 <a id="syntax" title="Basic syntax" class="toc-item"></a>
 ## Basic syntax

@@ -173,6 +173,49 @@ ol.toc.sticky {
   top: -1px;
 }
 
+.markdown-example {
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.075);
+}
+.markdown-example .source {
+  margin: 0;
+  padding: 20px;
+  background: #F8F8F8;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid #ccc;
+  white-space: pre-wrap;
+  font-size: 16px;
+  line-height: 28px;
+}
+.markdown-example .rendered {
+  padding: 20px;
+}
+
+.markdown-body ul.example-nav {
+  margin: 20px 0;
+  padding: 0;
+}
+.example-nav li {
+  margin: 0 15px 0 0;
+  padding: 0;
+  list-style-type: none;
+  display: inline-block;
+}
+
+.example-nav li a {
+  font-size: 16px;
+  font-weight: bold;
+}
+.example-nav li a.selected {
+  padding: 2px 12px 4px 12px;
+  color: #fff;
+  background: #4183C4;
+  border-radius: 20px;
+}
+
 /* Main site styles */
 
 a {
