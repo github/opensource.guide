@@ -372,4 +372,4 @@ Any word wrapped with two tildes (like `~~this~~`) will appear crossed out.
 
 ### Emoji
 
-GitHub supports emoji! To see a list of every image we support, check out the [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).
+GitHub supports emoji! <img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://github.global.ssl.fastly.net/images/icons/emoji/sparkles.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":camel:" alt=":camel:" src="https://github.global.ssl.fastly.net/images/icons/emoji/camel.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":boom:" alt=":boom:" src="https://github.global.ssl.fastly.net/images/icons/emoji/boom.png" height="20" width="20" align="absmiddle"> To see a list of every image we support, check out the [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).
