@@ -187,7 +187,7 @@ Issues are great for tracking all kinds of things — and GitHub is a great plac
 * <a href="https://github.com/joyent/node/issues" target="_blank">Bug tracker for your open source projects</a>
 
 
-* <a href="https://github.com/newmerator/recipes/issues" target="_blank">Request for recipes</a> (maybe you have a good <strong><a href="https://github.com/newmerator/recipes/issues/3" target="_blank">gluten-free pizza dough recipes?</a></strong>)
+* <a href="https://github.com/newmerator/recipes/issues" target="_blank">Request for recipes</a> (maybe you have a good <strong><a href="https://github.com/newmerator/recipes/issues/3" target="_blank">gluten-free pizza dough recipe?</a></strong>)
 
 ## Fin
 
