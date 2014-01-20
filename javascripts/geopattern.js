@@ -128,7 +128,7 @@
         var sideLength = map(scale, 0, 15, 5, 120);
         var hexHeight  = sideLength * Math.sqrt(3);
         var hexWidth   = sideLength * 2;
-        var hex        = createHexagon(s, sideLength).attr({fill: "#111", stroke: "#000", opacity:0});
+        var hex        = createHexagon(s, sideLength).attr({stroke: "#000", opacity:0});
 
         s.node.setAttribute('width',  (hexWidth * 3) + (sideLength * 3));
         s.node.setAttribute('height', hexHeight * 6);
@@ -138,10 +138,12 @@
           for (var x = 0; x < 6; x++) {
             var val     = parseInt(sha.substr(i, 1), 16);
             var dy      = x % 2 == 0 ? y*hexHeight : y*hexHeight + hexHeight/2;
-            var opacity = map(val, 0, 15, 0.02, 0.18),
+            var opacity = map(val, 0, 15, 0.02, 0.18);
+            var fill    = (val % 2 == 0) ? "#ddd" : "#222";
             tmpHex = hex.clone();
             tmpHex.attr({
               opacity: opacity,
+              fill: fill,
               transform: "t"+[x*sideLength*1.5 - hexWidth/2,dy - hexHeight/2]
             });
 
@@ -150,6 +152,7 @@
               tmpHex = hex.clone();
               tmpHex.attr({
                 opacity: opacity,
+                fill: fill,
                 transform: "t"+[6*sideLength*1.5 - hexWidth/2,dy - hexHeight/2]
               });
             }
@@ -160,6 +163,7 @@
               tmpHex = hex.clone();
               tmpHex.attr({
                 opacity: opacity,
+                fill: fill,
                 transform: "t"+[x*sideLength*1.5 - hexWidth/2,dy - hexHeight/2]
               });
             }
@@ -169,6 +173,7 @@
               tmpHex = hex.clone();
               tmpHex.attr({
                 opacity: opacity,
+                fill: fill,
                 transform: "t"+[6*sideLength*1.5 - hexWidth/2,5*hexHeight + hexHeight/2]
               });
             }
