@@ -15,12 +15,12 @@
           case 1:
             geoSquares(s, sha); break;
           case 2:
+            geoTriangles(s, sha); break;
             break;
           case 3:
             break;
           case 4:
-            // geoXes(s, sha); break;
-            geoSineWaves(s, sha); break;
+            geoXes(s, sha); break;
           case 5:
             geoHexagons(s, sha); break;
           case 6:
@@ -34,7 +34,7 @@
           case 10:
             geoOverlappingCircles(s, sha); break;
           case 11:
-            geoTriangles(s, sha); break;
+            geoSineWaves(s, sha); break;
           case 12:
             break;
           case 13:
@@ -227,53 +227,34 @@
         period        = Math.floor(map(period, 0, 15, 100, 400));
         var amplitude = parseInt(sha.substr(2, 1), 16);
         amplitude     = Math.floor(map(amplitude, 0, 15, 30, 100));
+        var waveWidth = parseInt(sha.substr(3, 1), 16);
+        waveWidth     = Math.floor(map(waveWidth, 0, 15, 3, 30));
 
         s.node.setAttribute('width',  period);
-        s.node.setAttribute('height', 500);
+        s.node.setAttribute('height', waveWidth * 36);
 
-        var xOffset = period / 4 * 0.7;
-        var str = "M0 "+amplitude+
-                  " C "+xOffset+" 0, "+(period/2 - xOffset)+" 0, "+(period/2)+" "+amplitude+
-                  " S "+(period-xOffset)+" "+(amplitude*2)+", "+period+" "+amplitude+
-                  " S "+(period*1.5-xOffset)+" 0, "+(period*1.5)+", "+amplitude;
-        console.log(str);
-        var line = s.path(str);
-        line.attr({
-              fill: "none",
-              stroke: "#000",
-              opacity: 0.1,
-              'strokeWidth': 3,
-              transform: "t-"+period/4+",0"
-            });
-
-        // for (var i = 0; i < 36; i+=2) {
-          // var val  = parseInt(sha.substr(i, 1), 16);
-          // var fill = (val % 2 == 0) ? "#ddd" : "#222";
-          // var rot  = "";
-          // if (y % 2 == 0) {
-          //   rot = x % 2 == 0 ? rotation : "";
-          // }
-          // else {
-          //   rot = x % 2 != 0 ? rotation : "";
-          // }
-          // var opacity = map(val, 0, 15, 0.02, 0.15),
-          // tmpTri = triangle.clone();
-          // tmpTri.attr({
-          //   opacity: opacity,
-          //   fill: fill,
-          //   transform: "t"+[x*sideLength*0.5 - sideLength/2,triangleHeight*y]+rot
-          // });
-
-          // // Add an extra one at top-right, for tiling.
-          // if (x == 0) {
-          //   tmpTri = triangle.clone();
-          //   tmpTri.attr({
-          //     opacity: opacity,
-          //     fill: fill,
-          //     transform: "t"+[6*sideLength*0.5 - sideLength/2,triangleHeight*y]+rot
-          //   });
-          // }
-        // };
+        for (var i = 0; i < 36; i++) {
+          var val     = parseInt(sha.substr(i, 1), 16);
+          var fill    = (val % 2 == 0) ? "#ddd" : "#222";
+          var opacity = map(val, 0, 15, 0.02, 0.15);
+          var xOffset = period / 4 * 0.7;
+          var str = "M0 "+amplitude+
+                    " C "+xOffset+" 0, "+(period/2 - xOffset)+" 0, "+(period/2)+" "+amplitude+
+                    " S "+(period-xOffset)+" "+(amplitude*2)+", "+period+" "+amplitude+
+                    " S "+(period*1.5-xOffset)+" 0, "+(period*1.5)+", "+amplitude;
+          var line = s.path(str);
+          line.attr({
+                fill: "none",
+                stroke: fill,
+                opacity: opacity,
+                'strokeWidth': waveWidth,
+                transform: "t-"+period/4+","+(waveWidth*i-amplitude*1.5)
+              });
+          line.clone();
+          line.attr({
+                transform: "t-"+period/4+","+(waveWidth*i-amplitude*1.5 + waveWidth*36)
+              });
+        };
       }
 
       function geoOverlappingCircles(s, sha) {
