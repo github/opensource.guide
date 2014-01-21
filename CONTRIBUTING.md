@@ -15,7 +15,6 @@ Once you create your file, there's one important thing to do first, yaml front m
 ---
 layout: article
 title: Mastering Issues & Notifications
-read_time: 7 minute
 updated_at: Aug 9, 2013
 icon: issue-closed
 title_sha: d145998e941f058151cadcc7489275a8bb5d31d5
@@ -27,7 +26,6 @@ summary: GitHub is great for managing all of the information <em>around</em> the
 
 - `layout` should always be `article`.
 - `title` is the name of your guide.
-- `read_time` is just an estimate. Total word count / 200 is a good rule of thumb.
 - `updated_at` will be displayed at the bottom of the guide.
 - `icon` is the Octicon that should appear in the banner (see the
 [Icon Helper](https://github.com/styleguide/icons) in the Style Guide).
