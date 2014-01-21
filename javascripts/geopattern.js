@@ -19,7 +19,8 @@
           case 3:
             break;
           case 4:
-            geoXes(s, sha); break;
+            // geoXes(s, sha); break;
+            geoSineWaves(s, sha); break;
           case 5:
             geoHexagons(s, sha); break;
           case 6:
@@ -219,6 +220,60 @@
             i++;
           };
         };
+      }
+
+      function geoSineWaves(s, sha) {
+        var period    = parseInt(sha.substr(1, 1), 16);
+        period        = Math.floor(map(period, 0, 15, 100, 400));
+        var amplitude = parseInt(sha.substr(2, 1), 16);
+        amplitude     = Math.floor(map(amplitude, 0, 15, 30, 100));
+
+        s.node.setAttribute('width',  period);
+        s.node.setAttribute('height', 500);
+
+        var xOffset = period / 4 * 0.7;
+        var str = "M0 "+amplitude+
+                  " C "+xOffset+" 0, "+(period/2 - xOffset)+" 0, "+(period/2)+" "+amplitude+
+                  " S "+(period-xOffset)+" "+(amplitude*2)+", "+period+" "+amplitude+
+                  " S "+(period*1.5-xOffset)+" 0, "+(period*1.5)+", "+amplitude;
+        console.log(str);
+        var line = s.path(str);
+        line.attr({
+              fill: "none",
+              stroke: "#000",
+              opacity: 0.1,
+              'strokeWidth': 3,
+              transform: "t-"+period/4+",0"
+            });
+
+        // for (var i = 0; i < 36; i+=2) {
+          // var val  = parseInt(sha.substr(i, 1), 16);
+          // var fill = (val % 2 == 0) ? "#ddd" : "#222";
+          // var rot  = "";
+          // if (y % 2 == 0) {
+          //   rot = x % 2 == 0 ? rotation : "";
+          // }
+          // else {
+          //   rot = x % 2 != 0 ? rotation : "";
+          // }
+          // var opacity = map(val, 0, 15, 0.02, 0.15),
+          // tmpTri = triangle.clone();
+          // tmpTri.attr({
+          //   opacity: opacity,
+          //   fill: fill,
+          //   transform: "t"+[x*sideLength*0.5 - sideLength/2,triangleHeight*y]+rot
+          // });
+
+          // // Add an extra one at top-right, for tiling.
+          // if (x == 0) {
+          //   tmpTri = triangle.clone();
+          //   tmpTri.attr({
+          //     opacity: opacity,
+          //     fill: fill,
+          //     transform: "t"+[6*sideLength*0.5 - sideLength/2,triangleHeight*y]+rot
+          //   });
+          // }
+        // };
       }
 
       function geoOverlappingCircles(s, sha) {
