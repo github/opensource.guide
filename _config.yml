@@ -11,5 +11,3 @@ exclude:
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
-gems:
-  - jekyll-time-to-read
