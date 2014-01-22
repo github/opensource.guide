@@ -72,14 +72,6 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
 
 <div class="flow-content">
 
-  <a href="#" class="panel-nav prev js-panel-nav-prev" title="Previous">
-    <span class="mega-octicon octicon-chevron-left"></span>
-  </a>
-
-  <a href="#" class="panel-nav next js-panel-nav-next" title="Next">
-    <span class="mega-octicon octicon-chevron-right"></span>
-  </a>
-
   <div class="panel-content js-panel-content js-panel-content-branch" data-step="branch">
     <h3>Create a branch</h3>
 
@@ -92,6 +84,7 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
     <p>Branching is a core concept in Git, and the entire GitHub Flow is based upon it. There's only one rule: anything in the <code>master</code> branch is always deployable.</p>
 
     <p>Because of this, it's extremely important that your new branch is created off of master when working on a feature or a fix. Your branch name should be descriptive (e.g., <code>refactor-authentication</code>, <code>user-content-cache-key</code>, <code>make-retina-avatars</code>), so that others can see what is being worked on.</p>
+
   </div>
 
   <div class="panel-content js-panel-content js-panel-content-commits" data-step="commits">
@@ -104,6 +97,7 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
     <h4>ProTip</h4>
 
     <p>Commit messages are important, especially since Git tracks your changes and then displays them as commits once they're pushed to the server. By writing clear commit messages, you can make it easier for other people to follow along and provide feedback.</p>
+
   </div>
 
   <div class="panel-content js-panel-content js-panel-content-pr" data-step="pr">
@@ -116,6 +110,7 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
     <h4>ProTip</h4>
 
     <p>Pull Requests are useful for contributing to open source projects and for managing changes to shared repositories. If you're using a Fork &amp; Pull Model, Pull Requests provide a way to notify project maintainers about the changes you'd like them to consider. If you're using a Shared Repository Model, Pull Requests help start code review and conversation about proposed changes before they're merged into the master branch.</p>
+
   </div>
 
   <div class="panel-content js-panel-content js-panel-content-code-review" data-step="code-review">
@@ -129,6 +124,7 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
     <h4>ProTip</h4>
 
     <p>Pull Request comments are written in Markdown, so you can embed images and emoji, use pre-formatted text blocks, and other lightweight formatting.</p>
+
   </div>
 
   <div class="panel-content js-panel-content js-panel-content-merge" data-step="merge">
@@ -142,6 +138,16 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
     <h4>ProTip</h4>
 
     <p>By incorporating certain keywords into the text of your Pull Request, you can associate issues with code. When your Pull Request is merged, the related issues are also closed. For example, entering the phrase <code>Closes #32</code> would close issue number 32 in the repository. For more information, check out our <a href="https://help.github.com/articles/closing-issues-via-commit-messages">help article</a>.</p>
+
   </div>
+
+  <a href="#" class="panel-nav prev js-panel-nav-prev" title="Previous">
+    <span class="mega-octicon octicon-chevron-left"></span>
+  </a>
+
+  <a href="#" class="panel-nav next js-panel-nav-next" title="Next">
+    <span class="mega-octicon octicon-chevron-right"></span>
+  </a>
+
 
 </div>

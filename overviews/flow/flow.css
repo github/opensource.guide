@@ -41,6 +41,25 @@
   cursor: default;
 }
 
+.panel-nav-bottom {
+  margin-top: 20px;
+  line-height: 1.4;
+}
+
+.panel-nav-bottom.next {
+  float: right;
+}
+
+.panel-nav-bottom.prev {
+  float: left;
+}
+
+.panel-nav-bottom .mega-octicon {
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+}
+
 .panel-content {
   display: none;
 }
@@ -179,4 +198,25 @@
 
 circle:hover {
   cursor: pointer;
+}
+
+@media only screen and (max-width: 959px) {
+  .flow-content {
+    width: auto;
+  }
+
+  .panel-nav {
+    position: static;
+    top: auto;
+  }
+
+  .panel-nav.prev {
+    left: auto;
+    float: left;
+  }
+
+  .panel-nav.next {
+    left: auto;
+    float: right;
+  }
 }
