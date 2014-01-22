@@ -11,7 +11,6 @@ survey_tag: 'flow-1'
 summary: The branch → Pull Request → merge workflow is extremely effective. This guide explains these concepts so that you can level up your development process.
 ---
 
-<script type="text/javascript" src="/javascripts/snap.svg-min.js"></script>
 <script type="text/javascript" src="flow.js"></script>
 <link rel="stylesheet" type="text/css" href="flow.css">
 
