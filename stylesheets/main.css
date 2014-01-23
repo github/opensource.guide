@@ -374,7 +374,11 @@ ol.toc>li a.active {
     padding: 30px 0;
   }
   article h1 {
-    font-size: 36px;
+    font-size: 34px;
+    margin-left: 96px;
+  }
+  .article-read-time {
+    margin-left: 96px;
   }
   article.full .content-body {
     width: 100%;
@@ -392,7 +396,6 @@ ol.toc>li a.active {
     padding-left: 15px;
     padding-right: 15px;
   }
-
   .guide-cover-title {
     font-size: 26px;
   }

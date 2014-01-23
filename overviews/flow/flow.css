@@ -14,7 +14,7 @@
   top: 100px;
 }
 
-.panel-nav:hover {
+.panel-nav:active {
   border-color: #4183c4;
 }
 
@@ -36,9 +36,28 @@
   color: #e5e5e5;
 }
 
-.panel-nav.disabled:hover {
+.panel-nav.disabled:active {
   border-color: #e5e5e5;
   cursor: default;
+}
+
+.panel-nav-bottom {
+  margin-top: 20px;
+  line-height: 1.4;
+}
+
+.panel-nav-bottom.next {
+  float: right;
+}
+
+.panel-nav-bottom.prev {
+  float: left;
+}
+
+.panel-nav-bottom .mega-octicon {
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
 }
 
 .panel-content {
@@ -49,10 +68,16 @@
   display: block;
 }
 
+.scrollable-diagram {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  padding-bottom: 20px;
+}
+
 .features-branch-diagram {
   position: relative;
-  margin-top: 40px;
-  margin-bottom: -60px;
+  margin-top: 20px;
+  margin-bottom: -80px;
 }
 
 .diagram-icon {
@@ -179,4 +204,25 @@
 
 circle:hover {
   cursor: pointer;
+}
+
+@media only screen and (max-width: 959px) {
+  .flow-content {
+    width: auto;
+  }
+
+  .panel-nav {
+    position: static;
+    top: auto;
+  }
+
+  .panel-nav.prev {
+    left: auto;
+    float: left;
+  }
+
+  .panel-nav.next {
+    left: auto;
+    float: right;
+  }
 }

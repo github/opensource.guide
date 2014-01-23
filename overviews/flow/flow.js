@@ -71,6 +71,7 @@ function changeAnnotation(annotations, name) {
   });
   $('[data-diagram-step='+name+']').addClass('active');
   annotation.activate();
+  $('.js-scrollable-diagram').animate({scrollLeft: annotation.left - $('.js-scrollable-diagram').width()/2}, 400, 'swing');
 }
 
 function changePanel(panel) {
@@ -91,6 +92,7 @@ function changePanel(panel) {
   else {
     $('.js-panel-nav-prev').removeClass('disabled');
   }
+  $('body,html').animate({scrollTop: $('#js-features-branch-diagram').offset().top - 20}, 400, 'swing');
 }
 
 function Annotation(paper, options) {
