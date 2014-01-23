@@ -71,6 +71,7 @@ function changeAnnotation(annotations, name) {
   });
   $('[data-diagram-step='+name+']').addClass('active');
   annotation.activate();
+  $('.js-scrollable-diagram').animate({scrollLeft: annotation.left - $('.js-scrollable-diagram').width()/2}, 400, 'swing');
 }
 
 function changePanel(panel) {

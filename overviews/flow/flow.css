@@ -71,12 +71,13 @@
 .scrollable-diagram {
   overflow-x: scroll;
   overflow-y: hidden;
+  padding-bottom: 20px;
 }
 
 .features-branch-diagram {
   position: relative;
   margin-top: 20px;
-  margin-bottom: -60px;
+  margin-bottom: -80px;
 }
 
 .diagram-icon {
