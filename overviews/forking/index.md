@@ -7,7 +7,7 @@ icon: repo-forked
 title_sha: b6933dc4ddce5382fb99d0e411ec046fe27ea921
 survey_tag: 'project-forking-1'
 
-summary: Curious to know how you can contribute?
+summary: Ever find a project that you want to work on? Find out how with Forking.
 ---
 <a id="intro" title="Intro" class="toc-item"></a>
 Software is at the heart of GitHub—and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!
