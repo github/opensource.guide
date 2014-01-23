@@ -14,60 +14,60 @@ summary: The branch → Pull Request → merge workflow is extremely effective. 
 <script type="text/javascript" src="flow.js"></script>
 <link rel="stylesheet" type="text/css" href="flow.css">
 
-<div class="features-branch-diagram" id="js-features-branch-diagram">
+<div class="scrollable-diagram">
+  <div class="features-branch-diagram" id="js-features-branch-diagram">
+    <svg width="930px" height="345" id="js-features-branch-diagram-svg" xmlns="http://www.w3.org/2000/svg">
+      <path d="M66.2711864,5.96363636 C135.523206,5.96363636 143.460673,112 191.02837,112 C238.596067,112 681.049887,112 725.83852,112 C770.627152,112 786.056674,5.95721244 855.110732,5.96363636" id="js-branch-diagram-branch" stroke="#4182C4" stroke-width="4" fill="none"></path>
+      <path d="M0,7 L766,7 L920,7" id="js-branch-diagram-master" stroke="#c6d9ed" stroke-width="8"></path>
+      <path id="js-branch-diagram-arrow" d="M907.2,10 C910.98,8.95 915.22,8.05 918,7 C914.22,5.95 910.98,5.05 907.2,4" stroke="#c6d9ed" stroke-width="8" fill="none"></path>
+    </svg>
 
-  <svg width="930px" height="320px" id="js-features-branch-diagram-svg" xmlns="http://www.w3.org/2000/svg">
-    <path d="M66.2711864,5.96363636 C135.523206,5.96363636 143.460673,112 191.02837,112 C238.596067,112 681.049887,112 725.83852,112 C770.627152,112 786.056674,5.95721244 855.110732,5.96363636" id="js-branch-diagram-branch" stroke="#4182C4" stroke-width="4" fill="none"></path>
-    <path d="M0,7 L766,7 L920,7" id="js-branch-diagram-master" stroke="#c6d9ed" stroke-width="8"></path>
-    <path id="js-branch-diagram-arrow" d="M907.2,10 C910.98,8.95 915.22,8.05 918,7 C914.22,5.95 910.98,5.05 907.2,4" stroke="#c6d9ed" stroke-width="8" fill="none"></path>
-  </svg>
-
-  <div class="diagram-icon js-diagram-icon diagram-icon-branch" data-diagram-step="branch">
-    <span class="mega-octicon octicon-git-branch"></span>
+    <div class="diagram-icon js-diagram-icon diagram-icon-branch" data-diagram-step="branch">
+      <span class="mega-octicon octicon-git-branch"></span>
+    </div>
+    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-1" data-diagram-step="commits">
+      <span class="mega-octicon octicon-git-commit"></span>
+    </div>
+    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-2" data-diagram-step="commits">
+      <span class="mega-octicon octicon-git-commit"></span>
+    </div>
+    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-3" data-diagram-step="commits">
+      <span class="mega-octicon octicon-git-commit"></span>
+    </div>
+    <div class="diagram-icon js-diagram-icon diagram-icon-pr" data-diagram-step="pr">
+      <span class="mega-octicon octicon-git-pull-request"></span>
+    </div>
+    <div class="diagram-icon js-diagram-icon diagram-icon-merge" data-diagram-step="merge">
+      <span class="mega-octicon octicon-git-merge"></span>
+    </div>
+    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-1" data-diagram-step="code-review">
+      <span class="mega-octicon octicon-comment-discussion"></span>
+    </div>
+    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-4" data-diagram-step="code-review">
+      <span class="mega-octicon octicon-git-commit"></span>
+    </div>
+    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-2" data-diagram-step="code-review">
+      <span class="mega-octicon octicon-comment-discussion"></span>
+    </div>
+    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-5" data-diagram-step="code-review">
+      <span class="mega-octicon octicon-git-commit"></span>
+    </div>
+    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-3" data-diagram-step="code-review">
+      <span class="mega-octicon octicon-comment-discussion"></span>
+    </div>
+    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-6" data-diagram-step="code-review">
+      <span class="mega-octicon octicon-git-commit"></span>
+    </div>
+    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-4" data-diagram-step="code-review">
+      <span class="mega-octicon octicon-comment-discussion"></span>
+    </div>
+    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-7" data-diagram-step="code-review">
+      <span class="mega-octicon octicon-git-commit"></span>
+    </div>
+    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-5" data-diagram-step="code-review">
+      <span class="mega-octicon octicon-comment-discussion"></span>
+    </div>
   </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-1" data-diagram-step="commits">
-    <span class="mega-octicon octicon-git-commit"></span>
-  </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-2" data-diagram-step="commits">
-    <span class="mega-octicon octicon-git-commit"></span>
-  </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-3" data-diagram-step="commits">
-    <span class="mega-octicon octicon-git-commit"></span>
-  </div>
-  <div class="diagram-icon js-diagram-icon diagram-icon-pr" data-diagram-step="pr">
-    <span class="mega-octicon octicon-git-pull-request"></span>
-  </div>
-  <div class="diagram-icon js-diagram-icon diagram-icon-merge" data-diagram-step="merge">
-    <span class="mega-octicon octicon-git-merge"></span>
-  </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-1" data-diagram-step="code-review">
-    <span class="mega-octicon octicon-comment-discussion"></span>
-  </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-4" data-diagram-step="code-review">
-    <span class="mega-octicon octicon-git-commit"></span>
-  </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-2" data-diagram-step="code-review">
-    <span class="mega-octicon octicon-comment-discussion"></span>
-  </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-5" data-diagram-step="code-review">
-    <span class="mega-octicon octicon-git-commit"></span>
-  </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-3" data-diagram-step="code-review">
-    <span class="mega-octicon octicon-comment-discussion"></span>
-  </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-6" data-diagram-step="code-review">
-    <span class="mega-octicon octicon-git-commit"></span>
-  </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-4" data-diagram-step="code-review">
-    <span class="mega-octicon octicon-comment-discussion"></span>
-  </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-7" data-diagram-step="code-review">
-    <span class="mega-octicon octicon-git-commit"></span>
-  </div>
-  <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-5" data-diagram-step="code-review">
-    <span class="mega-octicon octicon-comment-discussion"></span>
-  </div>
-
 </div>
 
 <div class="flow-content">

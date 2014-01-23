@@ -14,7 +14,7 @@
   top: 100px;
 }
 
-.panel-nav:hover {
+.panel-nav:active {
   border-color: #4183c4;
 }
 
@@ -36,7 +36,7 @@
   color: #e5e5e5;
 }
 
-.panel-nav.disabled:hover {
+.panel-nav.disabled:active {
   border-color: #e5e5e5;
   cursor: default;
 }
@@ -68,9 +68,14 @@
   display: block;
 }
 
+.scrollable-diagram {
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
 .features-branch-diagram {
   position: relative;
-  margin-top: 40px;
+  margin-top: 20px;
   margin-bottom: -60px;
 }
 
