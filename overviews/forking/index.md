@@ -4,7 +4,7 @@ title: Forking other projects
 read_time: 5 minute
 updated_at: Jan 23, 2014
 icon: repo-forked
-title_sha: 47011690ae87bd6102c016f144857b7e4e3bb11a
+title_sha: b6933dc4ddce5382fb99d0e411ec046fe27ea921
 survey_tag: 'project-forking-1'
 
 summary: Curious to know how you can contribute?
