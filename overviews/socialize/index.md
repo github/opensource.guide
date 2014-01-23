@@ -10,9 +10,9 @@ survey_tag: 'project-socialize-1'
 summary: On GitHub there are many people and many projects to explore. Keeping up with the work that's done with them and showing your interest is easy.
 ---
 
-``` intro
-If you've found yourself on this page, we're assuming you're brand new to Git and GitHub. This guide will walk you through the basics and explain a little bit about how everything works along the way.
-```
+<a id="intro" title="Intro" class="toc-item"></a>
+
+With more and more people joining GitHub and adding projects every day, keeping up with all of them can be difficult. However, this can be fun and easy by following users or watching repositories, simply showing interest in them by starring, or using explore to find new people and projects.
 
 ### Follow A Friend
 
