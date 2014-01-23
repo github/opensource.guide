@@ -91,6 +91,7 @@ function changePanel(panel) {
   else {
     $('.js-panel-nav-prev').removeClass('disabled');
   }
+  $('body,html').animate({scrollTop: $('#js-features-branch-diagram').offset().top - 20}, 400, 'swing');
 }
 
 function Annotation(paper, options) {
