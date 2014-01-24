@@ -77,23 +77,9 @@ Congratulations! You are now watching the Hello World project. If the Octocat up
 
 You've done some of the most basic social interaction GitHub has to offer, but don't stop there! Check out these other social features:
 
-#### Pull Requests
+#### Explore
 
-![Pull Request Button](https://github-images.s3.amazonaws.com/help/repository/repo-actions-pullrequest.png)
-
-You may find yourself wanting to contribute to someone else's project, whether to add features or to fix bugs. After making changes, you can let the original author know about them by sending a [pull request][2].
-
-#### Issues
-
-![Issues Button](https://github-images.s3.amazonaws.com/help/repository/repo-tabs-issues.png)
-
-When you are collaborating on a project with someone, you sometimes come across problems that need to be fixed. To help you keep track of these problems, each GitHub repository has a section called Issues. For an example, check out the [issues] [3] for the Spoon-Knife repository.
-
-#### Organizations
-
-![Switch account context dropdown](https://github-images.s3.amazonaws.com/help/overview/dashboard-contextswitcher.png)
-
-Have you found yourself wishing you could collaborate with multiple developers on one project? You can manage everyone with Organizations! With an organization you can establish teams with special permissions, have a public organization profile, and keep track of activity within the organization.
+#### Star Gazing
 
 ### Celebrate
 
