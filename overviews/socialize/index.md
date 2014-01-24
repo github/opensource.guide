@@ -14,14 +14,15 @@ summary: On GitHub there are many people and many projects to explore. Keeping u
 
 With more and more people joining GitHub and adding projects every day, keeping up with all of them can be difficult. However, this can be fun and easy by following users or watching repositories, simply showing interest in them by starring, or using explore to find new people and projects.
 
-### Follow A Friend
+<a id="follow-a-friend" title="Follow A Friend" class="toc-item"></a>
+# Follow a Friend
 
-One of the great features on GitHub is the ability to see what other people are working on and who they are connecting with. 
+One of the great features on GitHub is the ability to see what other people are working on and who they are connecting with.
 When you follow someone, you'll get notifications on your dashboard about their GitHub activity.
 
-#### Step 1: Pick a friend.
+### Step 1: Pick a friend.
 
-Why not follow one of these cool people from GitHub (including their pet tanuki!):
+Why not follow one of these cool people from GitHub:
 
 <div class="founders">
 <a href="https://github.com/jlord" class="founder" target="_blank">
@@ -50,19 +51,18 @@ Why not follow one of these cool people from GitHub (including their pet tanuki!
 </div>
 
 
-#### Step 2: Follow that friend (in a non-creepy way)
+### Step 2: Follow that friend
 
 Once you are on one of their pages, click the "follow" button.
-  
+
 ![Follow user button](https://github-images.s3.amazonaws.com/help/profile/follow-user-button.png)
 
 Congratulations! You are now following a friend.
 
-### Watch A Project
+<a id="watch-a-project" title="Watch A Project" class="toc-item"></a>
+# Watch a Project
 
 At some point you may want to stay up-to-date with a specific project. We've made this easy to do.
-
-#### Watch a project
 
 Our friend the Octocat has a project called [Hello World] [1] that we'd like to watch.
 
@@ -72,8 +72,8 @@ Once you are on the project page, you will notice there is a "watch" button at t
 
 Congratulations! You are now watching the Hello World project. If the Octocat updates it, you will see what happened in your dashboard.
 
-
-### More Things You Can Do
+<a id="explore" title="More Things You Can Do" class="toc-item"></a>
+# More Things You Can Do
 
 You've done some of the most basic social interaction GitHub has to offer, but don't stop there! Check out these other social features:
 
