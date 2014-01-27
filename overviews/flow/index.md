@@ -8,7 +8,7 @@ icon: git-branch
 title_sha: 073f59b119f21d1c2a35435d08e7894aa6a0c1cb
 survey_tag: 'flow-1'
 
-summary: The branch → Pull Request → merge workflow is extremely effective. This guide explains these concepts so that you can level up your development process.
+summary: GitHub Flow is lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub Flow works.
 ---
 
 <script type="text/javascript" src="flow.js"></script>
