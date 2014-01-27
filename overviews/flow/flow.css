@@ -94,8 +94,8 @@
 }
 
 .diagram-icon.active {
-  background-color: #8c4573;
-  border-color: #8c4573;
+  background-color: #932D70;
+  border-color: #932D70;
   color: #fff;
 }
 
@@ -111,7 +111,7 @@
 }
 
 .diagram-icon-small.active {
-  color: #8c4573;
+  color: #932D70;
   opacity: 1;
 }
 

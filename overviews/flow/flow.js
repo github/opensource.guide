@@ -97,7 +97,7 @@ function changePanel(panel) {
 
 function Annotation(paper, options) {
   this.DASH_COLOR   = "#d4d4d4";
-  this.SOLID_COLOR  = "#8c4573";
+  this.SOLID_COLOR  = "#932D70";
   this.TARGET_COLOR = "#4183c4";
   this.BOTTOM       = 266;
 
