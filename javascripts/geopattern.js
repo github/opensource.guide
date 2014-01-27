@@ -66,16 +66,16 @@
         var satOffset       = parseInt(sha.substr(17, 1), 16) / 100;
         var bgRGB           = Snap.getRGB("#933c3c");
         var mappedHueOffset = map(hueOffset, 0, 4095, 0, 1);
-        var bgHSL           = Snap.rgb2hsb(bgRGB.r, bgRGB.g, bgRGB.b);
-        bgHSL.h             = 1 - mappedHueOffset;
+        var bgHSB           = Snap.rgb2hsb(bgRGB.r, bgRGB.g, bgRGB.b);
+        bgHSB.h             = 1 - mappedHueOffset;
 
         if (satOffset % 2) {
-          bgHSL.s += satOffset;
+          bgHSB.s += satOffset;
         }
         else {
-          bgHSL.s -= satOffset;
+          bgHSB.s -= satOffset;
         }
-        $(container).css('background-color', Snap.hsb2rgb(bgHSL.h, bgHSL.s, bgHSL.b).hex);
+        $(container).css('background-color', Snap.hsb2rgb(bgHSB.h, bgHSB.s, bgHSB.b).hex);
       }
 
       function geoSquares(s, sha) {
