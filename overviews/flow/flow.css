@@ -71,7 +71,7 @@
 .scrollable-diagram {
   overflow-x: scroll;
   overflow-y: hidden;
-  padding-bottom: 20px;
+  padding: 20px 0;
 }
 
 .features-branch-diagram {
