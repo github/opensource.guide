@@ -4,7 +4,7 @@ title: Mastering Issues
 read_time: 10 minute
 updated_at: Jan 15, 2014
 icon: issue-closed
-title_sha: d145998e941f058151cadcc7489275a8bb5d31d5
+title_sha: 7e3ae4c621930e98d438a8e1c462e73f58220cca
 survey_tag: 'issues-1'
 
 summary: GitHub is great for managing all of the information <em>around</em> the code. This guide helps explain our issue tracking system and how to keep up to date with issues you’ve participated in.
