@@ -43,7 +43,7 @@ When you're ready to submit your changes, type up a *commit summary*, and click 
 
 ![GHfM commit changes view](https://github-images.s3.amazonaws.com/mac/changes/changes-view-20130108-143933.jpg)
 
-Right now, you've essentially told Git, "Okay, I've taken a snapshot of my changes!" You can continue to make more changes, and take more commit snapshots. When you're ready to push your changes onto GitHub.com, click on the **Sync** button, which is right above your list of changes.
+Right now, you've essentially told Git, "Okay, I've taken a snapshot of my changes!" You can continue to make more changes, and take more commit snapshots. When you're ready to push your changes up to GitHub.com, click on the **Sync** button, which is right above your list of changes.
 
 <a id="step-4" title="Step 4: Making a Pull Request" class="toc-item"></a>
 ## Step 4: Making a Pull Request
