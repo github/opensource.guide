@@ -84,7 +84,7 @@ You've done some of the most basic social interaction GitHub has to offer, but d
 #### Stargazing
 If you're interested in some of the projects your friends have starred in the past, but you no longer see it on your dashboard, head over to your [stars page](https://github.com/stars) and jump to another user!
 
-![Jump to another user](https://github.campfirenow.com/room/573426/uploads/5448447/2014-01-29_14-41-40.png)
+![Jump to another user](jump-to-another-user.png)
 
 #### Explore / Newsletter
 
@@ -92,13 +92,13 @@ The Explore page has projects that have been starred by people you follow, GitHu
 
 If you want to receive these as a newsletter daily, weekly, or monthly, check out the newsletter announcement at the bottom of the Explore page.
 
-![Newsletter](https://github.campfirenow.com/room/573426/uploads/5448215/2014-01-29_14-12-09.png)
+![Newsletter](subscribe-explore.png)
 
 You can also configure this setting later at [the subscription page](https://github.com/explore/subscribe).
 
 If you want to view just trending repositories and users, [head over to Trending](https://github.com/trending) and take a look.
 
-![trending](https://github.campfirenow.com/room/573426/uploads/5448503/2014-01-29_14-48-12.png)
+![trending](trending.png)
 
 <a id="celebrate" title="Celebrate" class="toc-item"></a>
 # Celebrate
