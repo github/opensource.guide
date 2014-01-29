@@ -191,4 +191,4 @@ Issues are great for tracking all kinds of things — and GitHub is a great plac
 
 ## Fin
 
-**Now congragulate yourself** — that was a lot to read! Issue management is one of the most powerful tools at any developer's disposal. I guess all that's left is to actually fix the bugs now. Sounds boring.
+**Now congratulate yourself** — that was a lot to read! Issue management is one of the most powerful tools at any developer's disposal. I guess all that's left is to actually fix the bugs now. Sounds boring.
