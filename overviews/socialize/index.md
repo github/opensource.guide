@@ -88,18 +88,26 @@ If you're interested in some of the projects your friends have starred in the pa
 
 #### Explore / Newsletter
 
-### Celebrate
+The Explore page has projects that have been starred by people you follow, GitHub staff, and general trending repositories right on the first page.
 
-Congratulations! You are quite the socialite.
+If you want to receive these as a newsletter daily, weekly, or monthly, check out the newsletter announcement at the bottom of the Explore page.
 
-- [Set Up Git] [4]
-- [Create A Repository] [5]
-- [Fork A Repository] [6]
-- **Be Social**
+![Newsletter](https://github.campfirenow.com/room/573426/uploads/5448215/2014-01-29_14-12-09.png)
+
+You can also configure this setting later at [the subscription page](https://github.com/explore/subscribe).
+
+If you want to view just trending repositories and users, [head over to Trending](https://github.com/trending) and take a look.
+
+![trending](https://github.campfirenow.com/room/573426/uploads/5448503/2014-01-29_14-48-12.png)
+
+<a id="celebrate" title="Celebrate" class="toc-item"></a>
+# Celebrate
+
+Congratulations! You are quite the socialite. Check out some of these next steps
+
+- [Getting your project on GitHub] [2]
+- [Fork A Repository] [3]
 
 [1]: https://github.com/octocat/Hello-World
-[2]: https://help.github.com/articles/using-pull-requests
-[3]: https://github.com/octocat/Spoon-Knife/issues
-[4]: /articles/set-up-git
-[5]: /articles/create-a-repo
-[6]: /articles/fork-a-repo
+[2]: /overviews/desktop/
+[3]: /overviews/forking/
