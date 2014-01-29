@@ -19,8 +19,8 @@ With more and more people joining GitHub and adding projects every day, keeping 
 
 One of the great features on GitHub is the ability to see what other people are working on and who they are connecting with.
 When you follow someone, you'll get notifications about their GitHub activity. Following friends
-help you find new projects and new people that you may share interest with. You can see what some of your friends are
-interested in by looking at [the explore page](https://github.com/explore).
+helps you find new projects and new people that you may share interests with. You can see what some of your friends are
+interested in by looking at [the Explore page](https://github.com/explore).
 
 ### Step 1: Pick a friend.
 
@@ -55,7 +55,7 @@ Why not follow one of these cool people from GitHub:
 
 ### Step 2: Follow that friend
 
-Once you are on one of their pages, click the "follow" button.
+Once you are on someone's profiles, click the "follow" button.
 
 ![Follow user button](https://github-images.s3.amazonaws.com/help/profile/follow-user-button.png)
 
