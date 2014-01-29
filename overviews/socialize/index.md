@@ -63,8 +63,10 @@ Congratulations! You are now following a friend.
 
 <a id="watch-a-project" title="Watch A Project" class="toc-item"></a>
 # Watch a Project
-
-At some point you may want to stay up-to-date with a specific project. We've made this easy to do.
+At some point you may want to stay up-to-date with a specific project. This is similar to following a person, except
+the focus is narrowed to only events on that project. You can choose to have notifications for this project sent via
+email or viewable on the web by [configuring your settings](https://github.com/settings/notifications). Typical
+notifications would be comments on a Pull Request or an issue, or just a comment anywhere within the repository.
 
 Our friend the Octocat has a project called [Hello World] [1] that we'd like to watch.
 
@@ -72,7 +74,7 @@ Once you are on the project page, you will notice there is a "watch" button at t
 
 ![Watch repository button](https://github-images.s3.amazonaws.com/help/repository/repo-actions-watch.png)
 
-Congratulations! You are now watching the Hello World project. If the Octocat updates it, you will see what happened in your dashboard.
+Congratulations! You are now watching the Hello World project. If the Octocat updates it, you will see what happened in your dashboard or receive a notification.
 
 <a id="explore" title="More Things You Can Do" class="toc-item"></a>
 # More Things You Can Do
