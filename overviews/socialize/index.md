@@ -55,7 +55,7 @@ Why not follow one of these cool people from GitHub:
 
 ### Step 2: Follow that friend
 
-Once you are on someone's profiles, click the "follow" button.
+Once you are on someone's profile, click the "follow" button.
 
 ![Follow user button](https://github-images.s3.amazonaws.com/help/profile/follow-user-button.png)
 
