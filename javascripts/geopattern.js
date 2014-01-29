@@ -8,21 +8,20 @@
 
         setBGColor(s, sha, container);
 
-        var pattern = parseInt(sha.substr(39, 1), 16);
+        var pattern = parseInt(sha.substr(20, 1), 16);
         switch (pattern) {
           case 0:
-            geoRings(s, sha); break;
-          case 1:
-            geoSquares(s, sha); break;
-          case 2:
             geoTriangles(s, sha); break;
-            break;
-          case 3:
-            break;
-          case 4:
-            geoXes(s, sha); break;
-          case 5:
+          case 1:
+            geoOverlappingCircles(s, sha); break;
+          case 2:
             geoHexagons(s, sha); break;
+          case 3:
+            geoXes(s, sha); break;
+          case 4:
+            geoSineWaves(s, sha); break;
+          case 5:
+            break;
           case 6:
             break;
           case 7:
@@ -30,11 +29,11 @@
           case 8:
             break;
           case 9:
-            break;
+            geoSquares(s, sha); break;
           case 10:
-            geoOverlappingCircles(s, sha); break;
+            geoRings(s, sha); break;
           case 11:
-            geoSineWaves(s, sha); break;
+            break;
           case 12:
             break;
           case 13:
@@ -101,7 +100,7 @@
 
       function geoRings(s, sha) {
         var scale = parseInt(sha.substr(1, 1), 16);
-        var ringSize = map(scale, 0, 15, 5, 100);
+        var ringSize = map(scale, 0, 15, 5, 80);
         var strokeWidth = ringSize / 4;
         s.node.setAttribute('width',  (ringSize + strokeWidth) * 6);
         s.node.setAttribute('height', (ringSize + strokeWidth) * 6);
