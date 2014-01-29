@@ -23,7 +23,7 @@ To fork the Spoon-Knife repository, click the **Fork** button in the header of t
 
 ![A repository's fork button](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
-Sit back, and watching the forking magic. You'll be taken to your copy of the Spoon-Knife repository instantly.
+Sit back and watch the forking magic. You'll be taken to your copy of the Spoon-Knife repository instantly.
 
 <a id="step-2" title="Step 2: Clone your fork" class="toc-item"></a>
 ## Step 2: Clone your fork
