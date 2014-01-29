@@ -81,9 +81,12 @@ Congratulations! You are now watching the Hello World project. If the Octocat up
 
 You've done some of the most basic social interaction GitHub has to offer, but don't stop there! Check out these other social features:
 
-#### Explore
+#### Stargazing
+If you're interested in some of the projects your friends have starred in the past, but you no longer see it on your dashboard, head over to your [stars page](https://github.com/stars) and jump to another user!
 
-#### Star Gazing
+![Jump to another user](https://github.campfirenow.com/room/573426/uploads/5448447/2014-01-29_14-41-40.png)
+
+#### Explore / Newsletter
 
 ### Celebrate
 
