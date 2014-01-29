@@ -61,3 +61,9 @@ When you're ready typing out your heartfelt argument, click on **Send pull reque
 ![Send Pull Request button](https://github-images.s3.amazonaws.com/help/pull_requests/pullrequest-send.png)
 
 Pull Requests are an area for discussion. Don't be offended if the project owner rejects your Pull Request, or asks for more information on why it's been made. It may even be that the project owner chooses not to merge your pull request, and that's totally okay. Your copy will exist in infamy on the Internet. And who knows--maybe someone you've never met will find your changes much more valuable than the original project. Share and share alike!
+
+<a id="step-5" title="Step 5: Huzzah!" class="toc-item"></a>
+## Step 5: Huzzah!
+
+You've successfuly forked and contributed back to a repository. Go forth, and 
+contribute some more!
