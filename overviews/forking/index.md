@@ -12,7 +12,7 @@ summary: Ever find a project on GitHub that you want to work on? Find out how yo
 <a id="contributing" title="Contributing to a project" class="toc-item"></a>
 After using GitHub by yourself for a while, you may find yourself wanting to contribute to someone else's project. Or maybe you'd like to use someone's project as the starting point for your own. This process is known as *forking.*
 
-Creating a "fork" is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository, and your personal copy. You can submit *Pull Requests* to help make other people's projects better, by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
+Creating a "fork" is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
 For this tutorial, we'll be using [the Spoon-Knife project](https://github.com/octocat/Spoon-Knife), a test repository that's hosted on GitHub.com that lets you test the Pull Request workflow.
 
