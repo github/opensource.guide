@@ -12,14 +12,13 @@ summary: On GitHub there are many people and many projects to explore. Keeping u
 
 <a id="intro" title="Intro" class="toc-item"></a>
 
-With more and more people joining GitHub and adding projects every day, keeping up with all of them can be difficult. However, this can be fun and easy by following users or watching repositories, simply showing interest in them by starring, or using explore to find new people and projects.
+With more and more people joining GitHub and adding projects every day, keeping up with all of them can be difficult. However, this can be fun and easy by following users or watching repositories, simply showing interest in them by starring, or using Explore to find new people and projects.
 
 <a id="follow-a-friend" title="Follow A Friend" class="toc-item"></a>
 # Follow a Friend
 
 One of the great features on GitHub is the ability to see what other people are working on and who they are connecting with.
-When you follow someone, you'll get notifications about their GitHub activity. You can choose to have these sent via
-email or viewable on the web by [configuring your settings](https://github.com/settings/notifications). Following friends
+When you follow someone, you'll get notifications about their GitHub activity. Following friends
 help you find new projects and new people that you may share interest with. You can see what some of your friends are
 interested in by looking at [the explore page](https://github.com/explore).
 
