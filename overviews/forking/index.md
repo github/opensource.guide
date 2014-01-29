@@ -10,7 +10,7 @@ survey_tag: 'project-forking-1'
 summary: Ever find a project on GitHub that you want to work on? Find out how you can contribute with Forking.
 ---
 <a id="contributing" title="Contributing to a project" class="toc-item"></a>
-After using GitHub by yourself for a while, you may find yourself wanting to contribute to someone else's project. Or, maybe you'd like like to use someone's project as the starting point for your own. This process is known as *forking.*
+After using GitHub by yourself for a while, you may find yourself wanting to contribute to someone else's project. Or maybe you'd like to use someone's project as the starting point for your own. This process is known as *forking.*
 
 Creating a "fork" is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository, and your personal copy. You can submit *Pull Requests* to help make other people's projects better, by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
