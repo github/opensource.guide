@@ -40,7 +40,7 @@ GitHub's issue tracking is special because of our focus on collaboration, refere
 
 Once you've collected a lot of issues, you may find it hard to find the ones you care about. **Milestones**, **labels**, and **assignees** are great features to filter and categorize issues.
 
-You can change or add a milestone, assignee, and label by clicking their corresponding gears in the sidebar on the right.
+You can change or add a milestone, an assignee, and labels by clicking their corresponding gears in the sidebar on the right.
 
 ![](labels.png)
 
