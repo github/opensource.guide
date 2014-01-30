@@ -54,6 +54,9 @@
         else {
           var svg = document.createElementNS('http://www.w3.org/2000/svg', "svg");
           svg.id = "geopattern-tmp";
+          // Workaround for rendering bug in FF
+          // https://bugzilla.mozilla.org/show_bug.cgi?id=612118
+          $('body').append(svg);
           snap = Snap(svg);
         }
         return snap;
@@ -400,6 +403,7 @@
         var b64 = 'data:image/svg+xml;base64,'+window.btoa(s.toString());
         var url = 'url("' + b64 + '")';
         $(container).css('background-image', url);
+        s.remove();
       }
 
       function map(value, v_min, v_max, d_min, d_max) {
