@@ -322,7 +322,7 @@
         var xSize      = squareSize * 3 * 0.943;
 
         s.node.setAttribute('width',  xSize * 3);
-        s.node.setAttribute('height', xSize * 3.5);
+        s.node.setAttribute('height', xSize * 3);
 
         var i = 0;
         for (var y = 0; y < 6; y++) {
@@ -349,7 +349,7 @@
               });
             }
 
-            // // Add an extra row at the end that matches the first row, for tiling.
+            // Add an extra row at the end that matches the first row, for tiling.
             if (y == 0) {
               var dy = x % 2 == 0 ? 6*xSize - xSize/2 : 6*xSize - xSize/2 + xSize/4;
               var xTmp = xShape.clone();
@@ -361,7 +361,18 @@
               });
             }
 
-            // // // Add an extra one at bottom-right, for tiling.
+            // These can hang off the bottom, so put a row at the top for tiling.
+            if (y == 5) {
+              var xTmp = xShape.clone();
+              xTmp.attr({
+                fill: fill,
+                opacity: opacity,
+                transform: "t"+[x*xSize/2 - xSize/2,dy - 11*xSize/2]+
+                           "r45,"+squareSize*1.5+","+squareSize*1.5
+              });
+            }
+
+            // Add an extra one at bottom-right, for tiling.
             if (x == 0 && y == 0) {
               var xTmp = xShape.clone();
               xTmp.attr({
