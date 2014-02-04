@@ -8,20 +8,20 @@
 
         setBGColor(s, sha, container);
 
-        var pattern = parseInt(sha.substr(39, 1), 16);
+        var pattern = parseInt(sha.substr(20, 1), 16);
         switch (pattern) {
           case 0:
-            geoRings(s, sha); break;
+            geoTriangles(s, sha); break;
           case 1:
-            geoSquares(s, sha); break;
+            geoOverlappingCircles(s, sha); break;
           case 2:
-            break;
-          case 3:
-            break;
-          case 4:
-            geoXes(s, sha); break;
-          case 5:
             geoHexagons(s, sha); break;
+          case 3:
+            geoXes(s, sha); break;
+          case 4:
+            geoSineWaves(s, sha); break;
+          case 5:
+            break;
           case 6:
             break;
           case 7:
@@ -29,11 +29,11 @@
           case 8:
             break;
           case 9:
-            break;
+            geoSquares(s, sha); break;
           case 10:
-            geoOverlappingCircles(s, sha); break;
+            geoRings(s, sha); break;
           case 11:
-            geoTriangles(s, sha); break;
+            break;
           case 12:
             break;
           case 13:
@@ -54,6 +54,9 @@
         else {
           var svg = document.createElementNS('http://www.w3.org/2000/svg', "svg");
           svg.id = "geopattern-tmp";
+          // Workaround for rendering bug in FF
+          // https://bugzilla.mozilla.org/show_bug.cgi?id=612118
+          $('body').append(svg);
           snap = Snap(svg);
         }
         return snap;
@@ -65,16 +68,16 @@
         var satOffset       = parseInt(sha.substr(17, 1), 16) / 100;
         var bgRGB           = Snap.getRGB("#933c3c");
         var mappedHueOffset = map(hueOffset, 0, 4095, 0, 1);
-        var bgHSL           = Snap.rgb2hsb(bgRGB.r, bgRGB.g, bgRGB.b);
-        bgHSL.h             = 1 - mappedHueOffset;
+        var bgHSB           = Snap.rgb2hsb(bgRGB.r, bgRGB.g, bgRGB.b);
+        bgHSB.h             = 1 - mappedHueOffset;
 
         if (satOffset % 2) {
-          bgHSL.s += satOffset;
+          bgHSB.s += satOffset;
         }
         else {
-          bgHSL.s -= satOffset;
+          bgHSB.s -= satOffset;
         }
-        $(container).css('background-color', Snap.hsb2rgb(bgHSL.h, bgHSL.s, bgHSL.b).hex);
+        $(container).css('background-color', Snap.hsb2rgb(bgHSB.h, bgHSB.s, bgHSB.b).hex);
       }
 
       function geoSquares(s, sha) {
@@ -100,7 +103,7 @@
 
       function geoRings(s, sha) {
         var scale = parseInt(sha.substr(1, 1), 16);
-        var ringSize = map(scale, 0, 15, 5, 100);
+        var ringSize = map(scale, 0, 15, 5, 80);
         var strokeWidth = ringSize / 4;
         s.node.setAttribute('width',  (ringSize + strokeWidth) * 6);
         s.node.setAttribute('height', (ringSize + strokeWidth) * 6);
@@ -128,7 +131,7 @@
         var sideLength = map(scale, 0, 15, 5, 120);
         var hexHeight  = sideLength * Math.sqrt(3);
         var hexWidth   = sideLength * 2;
-        var hex        = createHexagon(s, sideLength).attr({fill: "#111", stroke: "#000", opacity:0});
+        var hex        = createHexagon(s, sideLength).attr({stroke: "#000", opacity:0});
 
         s.node.setAttribute('width',  (hexWidth * 3) + (sideLength * 3));
         s.node.setAttribute('height', hexHeight * 6);
@@ -138,10 +141,12 @@
           for (var x = 0; x < 6; x++) {
             var val     = parseInt(sha.substr(i, 1), 16);
             var dy      = x % 2 == 0 ? y*hexHeight : y*hexHeight + hexHeight/2;
-            var opacity = map(val, 0, 15, 0.02, 0.18),
+            var opacity = map(val, 0, 15, 0.02, 0.18);
+            var fill    = (val % 2 == 0) ? "#ddd" : "#222";
             tmpHex = hex.clone();
             tmpHex.attr({
               opacity: opacity,
+              fill: fill,
               transform: "t"+[x*sideLength*1.5 - hexWidth/2,dy - hexHeight/2]
             });
 
@@ -150,6 +155,7 @@
               tmpHex = hex.clone();
               tmpHex.attr({
                 opacity: opacity,
+                fill: fill,
                 transform: "t"+[6*sideLength*1.5 - hexWidth/2,dy - hexHeight/2]
               });
             }
@@ -160,6 +166,7 @@
               tmpHex = hex.clone();
               tmpHex.attr({
                 opacity: opacity,
+                fill: fill,
                 transform: "t"+[x*sideLength*1.5 - hexWidth/2,dy - hexHeight/2]
               });
             }
@@ -169,6 +176,7 @@
               tmpHex = hex.clone();
               tmpHex.attr({
                 opacity: opacity,
+                fill: fill,
                 transform: "t"+[6*sideLength*1.5 - hexWidth/2,5*hexHeight + hexHeight/2]
               });
             }
@@ -218,6 +226,41 @@
             }
             i++;
           };
+        };
+      }
+
+      function geoSineWaves(s, sha) {
+        var period    = parseInt(sha.substr(1, 1), 16);
+        period        = Math.floor(map(period, 0, 15, 100, 400));
+        var amplitude = parseInt(sha.substr(2, 1), 16);
+        amplitude     = Math.floor(map(amplitude, 0, 15, 30, 100));
+        var waveWidth = parseInt(sha.substr(3, 1), 16);
+        waveWidth     = Math.floor(map(waveWidth, 0, 15, 3, 30));
+
+        s.node.setAttribute('width',  period);
+        s.node.setAttribute('height', waveWidth * 36);
+
+        for (var i = 0; i < 36; i++) {
+          var val     = parseInt(sha.substr(i, 1), 16);
+          var fill    = (val % 2 == 0) ? "#ddd" : "#222";
+          var opacity = map(val, 0, 15, 0.02, 0.15);
+          var xOffset = period / 4 * 0.7;
+          var str = "M0 "+amplitude+
+                    " C "+xOffset+" 0, "+(period/2 - xOffset)+" 0, "+(period/2)+" "+amplitude+
+                    " S "+(period-xOffset)+" "+(amplitude*2)+", "+period+" "+amplitude+
+                    " S "+(period*1.5-xOffset)+" 0, "+(period*1.5)+", "+amplitude;
+          var line = s.path(str);
+          line.attr({
+                fill: "none",
+                stroke: fill,
+                opacity: opacity,
+                'strokeWidth': waveWidth,
+                transform: "t-"+period/4+","+(waveWidth*i-amplitude*1.5)
+              });
+          line.clone();
+          line.attr({
+                transform: "t-"+period/4+","+(waveWidth*i-amplitude*1.5 + waveWidth*36)
+              });
         };
       }
 
@@ -279,7 +322,7 @@
         var xSize      = squareSize * 3 * 0.943;
 
         s.node.setAttribute('width',  xSize * 3);
-        s.node.setAttribute('height', xSize * 3.5);
+        s.node.setAttribute('height', xSize * 3);
 
         var i = 0;
         for (var y = 0; y < 6; y++) {
@@ -306,7 +349,7 @@
               });
             }
 
-            // // Add an extra row at the end that matches the first row, for tiling.
+            // Add an extra row at the end that matches the first row, for tiling.
             if (y == 0) {
               var dy = x % 2 == 0 ? 6*xSize - xSize/2 : 6*xSize - xSize/2 + xSize/4;
               var xTmp = xShape.clone();
@@ -318,7 +361,18 @@
               });
             }
 
-            // // // Add an extra one at bottom-right, for tiling.
+            // These can hang off the bottom, so put a row at the top for tiling.
+            if (y == 5) {
+              var xTmp = xShape.clone();
+              xTmp.attr({
+                fill: fill,
+                opacity: opacity,
+                transform: "t"+[x*xSize/2 - xSize/2,dy - 11*xSize/2]+
+                           "r45,"+squareSize*1.5+","+squareSize*1.5
+              });
+            }
+
+            // Add an extra one at bottom-right, for tiling.
             if (x == 0 && y == 0) {
               var xTmp = xShape.clone();
               xTmp.attr({
@@ -360,6 +414,7 @@
         var b64 = 'data:image/svg+xml;base64,'+window.btoa(s.toString());
         var url = 'url("' + b64 + '")';
         $(container).css('background-image', url);
+        s.remove();
       }
 
       function map(value, v_min, v_max, d_min, d_max) {

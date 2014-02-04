@@ -4,7 +4,7 @@ title: Mastering Issues
 read_time: 10 minute
 updated_at: Jan 15, 2014
 icon: issue-closed
-title_sha: d145998e941f058151cadcc7489275a8bb5d31d5
+title_sha: 7e3ae4c621930e98d438a8e1c462e73f58220cca
 survey_tag: 'issues-1'
 
 summary: GitHub is great for managing all of the information <em>around</em> the code. This guide helps explain our issue tracking system and how to keep up to date with issues you’ve participated in.
@@ -40,7 +40,7 @@ GitHub's issue tracking is special because of our focus on collaboration, refere
 
 Once you've collected a lot of issues, you may find it hard to find the ones you care about. **Milestones**, **labels**, and **assignees** are great features to filter and categorize issues.
 
-You can change the milestone and assignee through the grey bar at the top of issues. Labels can be added by clicking the gear dropdown next to the Labels section in the right hand sidebar.
+You can change or add a milestone, an assignee, and labels by clicking their corresponding gears in the sidebar on the right.
 
 ![](labels.png)
 
@@ -191,4 +191,4 @@ Issues are great for tracking all kinds of things — and GitHub is a great plac
 
 ## Fin
 
-**Now congragulate yourself** — that was a lot to read! Issue management is one of the most powerful tools at any developer's disposal. I guess all that's left is to actually fix the bugs now. Sounds boring.
+**Now congratulate yourself** — that was a lot to read! Issue management is one of the most powerful tools at any developer's disposal. I guess all that's left is to actually fix the bugs now. Sounds boring.
