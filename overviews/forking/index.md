@@ -23,7 +23,7 @@ To fork the Spoon-Knife repository, click the **Fork** button in the header of t
 
 ![A repository's fork button](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
-Sit back and watch the forking magic. You'll be taken to your copy of the Spoon-Knife repository instantly.
+Sit back and watch the forking magic. When it's finished, you'll be taken to your copy of the Spoon-Knife repository.
 
 <a id="clone" title="Clone your fork" class="toc-item"></a>
 ## Clone your fork
@@ -37,9 +37,9 @@ If you're using [the GitHub for Desktop](http://guides.github.com/overviews/desk
 <a id="making-changes" title="Making and pushing changes" class="toc-item"></a>
 ## Making and pushing changes
 
-Go ahead and make a few changes to the project. Maybe you'll find a typo. Maybe you'll want to [practice some new Markdown](http://guides.github.com/overviews/mastering-markdown/). Maybe you'll add a new file.
+Go ahead and make a few changes to the project using your favorite text editor, like [Notepad++](http://www.notepad-plus-plus.org/) or [Sublime Text](http://www.sublimetext.com/). You could, for example, change the text in *index.html* to add your GitHub username.
 
-When you're ready to submit your changes, type up a *commit summary*, and click **Commit**.
+When you're ready to submit your changes, type up a *commit summary* in GitHub for Desktop, and click **Commit**.
 
 ![GHfM commit changes view](https://github-images.s3.amazonaws.com/mac/changes/changes-view-20130108-143933.jpg)
 
@@ -60,7 +60,7 @@ When you're ready typing out your heartfelt argument, click on **Send pull reque
 
 ![Send Pull Request button](https://github-images.s3.amazonaws.com/help/pull_requests/pullrequest-send.png)
 
-Pull Requests are an area for discussion. Don't be offended if the project owner rejects your Pull Request, or asks for more information on why it's been made. It may even be that the project owner chooses not to merge your pull request, and that's totally okay. Your copy will exist in infamy on the Internet. And who knows--maybe someone you've never met will find your changes much more valuable than the original project. Share and share alike!
+Pull Requests are an area for discussion. In this case, the Octocat is very busy, and probably won't merge your changes. For other projects, don't be offended if the project owner rejects your Pull Request, or asks for more information on why it's been made. It may even be that the project owner chooses not to merge your pull request, and that's totally okay. Your copy will exist in infamy on the Internet. And who knows--maybe someone you've never met will find your changes much more valuable than the original project. Share and share alike!
 
 <a id="huzzah" title="Huzzah!" class="toc-item"></a>
 ## Huzzah!
