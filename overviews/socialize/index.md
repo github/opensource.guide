@@ -104,7 +104,7 @@ If you want to view just trending repositories and users, [head over to Trending
 <a id="celebrate" title="Celebrate" class="toc-item"></a>
 # Celebrate
 
-Congratulations! You are quite the socialite. Check out some of these next steps
+Congratulations! You are quite the socialite. Check out some of these next steps:
 
 - [Getting your project on GitHub] [2]
 - [Fork A Repository] [3]
