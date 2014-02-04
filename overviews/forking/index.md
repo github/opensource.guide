@@ -16,8 +16,8 @@ Creating a "fork" is producing a personal copy of someone else's project. Forks 
 
 For this tutorial, we'll be using [the Spoon-Knife project](https://github.com/octocat/Spoon-Knife), a test repository that's hosted on GitHub.com that lets you test the Pull Request workflow.
 
-<a id="step-1" title="Step 1: Fork the repository" class="toc-item"></a>
-## Step 1: Fork the repository
+<a id="fork" title="Fork the repository" class="toc-item"></a>
+## Fork the repository
 
 To fork the Spoon-Knife repository, click the **Fork** button in the header of the repository.
 
@@ -25,8 +25,8 @@ To fork the Spoon-Knife repository, click the **Fork** button in the header of t
 
 Sit back and watch the forking magic. You'll be taken to your copy of the Spoon-Knife repository instantly.
 
-<a id="step-2" title="Step 2: Clone your fork" class="toc-item"></a>
-## Step 2: Clone your fork
+<a id="clone" title="Clone your fork" class="toc-item"></a>
+## Clone your fork
 
 You've successfully forked the Spoon-Knife repository, but so far, it only exists on GitHub. To be able to work on the project, you will need to clone it to your computer.
 
@@ -34,8 +34,8 @@ If you're using [the GitHub for Desktop](http://guides.github.com/overviews/desk
 
 ![Clone to computer button in GHfM](https://github-images.s3.amazonaws.com/mac/sync/ghfm_clone_repo_locally.png)
 
-<a id="step-3" title="Step 3: Making and pushing changes" class="toc-item"></a>
-## Step 3: Making and pushing changes
+<a id="making-changes" title="Making and pushing changes" class="toc-item"></a>
+## Making and pushing changes
 
 Go ahead and make a few changes to the project. Maybe you'll find a typo. Maybe you'll want to [practice some new Markdown](http://guides.github.com/overviews/mastering-markdown/). Maybe you'll add a new file.
 
@@ -45,8 +45,8 @@ When you're ready to submit your changes, type up a *commit summary*, and click 
 
 Right now, you've essentially told Git, "Okay, I've taken a snapshot of my changes!" You can continue to make more changes, and take more commit snapshots. When you're ready to push your changes up to GitHub.com, click on the **Sync** button, which is right above your list of changes.
 
-<a id="step-4" title="Step 4: Making a Pull Request" class="toc-item"></a>
-## Step 4: Making a Pull Request
+<a id="making-a-pull-request" title="Making a Pull Request" class="toc-item"></a>
+## Making a Pull Request
 
 At last, you're ready to propose changes into the main project! This is the final step in producing a fork of someone else's project, and arguably the most important. If you've made a change that you feel would benefit the community as a whole, you should definitely consider contributing back.
 
@@ -62,8 +62,8 @@ When you're ready typing out your heartfelt argument, click on **Send pull reque
 
 Pull Requests are an area for discussion. Don't be offended if the project owner rejects your Pull Request, or asks for more information on why it's been made. It may even be that the project owner chooses not to merge your pull request, and that's totally okay. Your copy will exist in infamy on the Internet. And who knows--maybe someone you've never met will find your changes much more valuable than the original project. Share and share alike!
 
-<a id="step-5" title="Step 5: Huzzah!" class="toc-item"></a>
-## Step 5: Huzzah!
+<a id="huzzah" title="Huzzah!" class="toc-item"></a>
+## Huzzah!
 
-You've successfuly forked and contributed back to a repository. Go forth, and 
+You've successfuly forked and contributed back to a repository. Go forth, and
 contribute some more!
