@@ -1,0 +1,2 @@
+pre .k, pre .kc { color: #AA0D92; font-weight: bold } /* Keyword, Name.Class */
+pre .nc, pre .nx  { color: #000000 } /* Name.Class, Name.Other */
