@@ -4,7 +4,7 @@ title: Mastering Wikis
 read_time: 809 minute
 icon: book
 updated_at: February 15, 2014
-title_sha: 1b3c80339e36e0645d2de89def592809e5d9d85f
+title_sha: c469509d617e807565143d61be1de8764785475e
 survey_tag: 'wiki-1'
 summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -12,7 +12,7 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat."
 ---
 
-Good documentation is key to the success of any project. Making that documentation accessible enables people to learn about your project. Making it easy to update ensures that it stays relevant. **GitHub Wikis** are a great way to present information about a project in a readable way while making it easy for contributors to propose changes.
+Good documentation is key to the success of any project. Making that documentation accessible enables people to learn about your project. Making it easy to update ensures that it stays relevant. **Wikis** on GitHub are a great way to present information about a project in a readable way while making it easy for contributors to propose changes.
 
 ## Creating Your Wiki
 
@@ -30,37 +30,25 @@ The special page file `Home.ext` (where the extension is one of the supported
 formats) will be used as the entrance page to your wiki. If it is missing, an
 automatically generated table of contents will be shown instead.
 
-## GitHub Flow
+## The GitHub Workflow
+
+Wiki content is versioned just like everything else in a repository. Contributors can use  the [GitHub Workflow](http://guides.github.com/overviews/flow/) to make pull requests to the wiki in the same way as any other files in the repository. Use branches and tags to keep track of different versions of content to go along with releases of a project.
+
+![Screenshot of branch selector on a Wiki]()
 
 ## Sidebar
 
-Sidebar files allow you to add a simple sidebar to your wiki. Sidebar files
-are named `_Sidebar.ext` where the extension is one of the supported formats.
-Sidebars affect all pages in their directory and any subdirectories that do not
-have a sidebar file of their own.
+By default, the sidebar will list all of the pages in your wiki. When you add new pages, they will be added to the sidebar.
 
-## Header & Footer
+If you would like to manage it yourself, click the "Edit" link in the sidebar and include whatever custom content that you would like to display on each page.
 
-Header files allow you to add a simple header to your wiki. Header files must
-be named `_Header.ext` where the extension is one of the supported formats.
-Like sidebars, headers affect all pages in their directory and any
-subdirectories that do not have a header file of their own.
+The sidebar content will be saved in a file named `_Sidebar` and, like wiki pages, can use any of format supported by [GitHub Markup](http://github.com/github/markup). Sidebars affect all pages in their directory and any subdirectories that do not have a sidebar file of their own.
 
-Footer files allow you to add a simple footer to your wiki. Footer files must
-be named `_Footer.ext` where the extension is one of the supported formats.
-Like sidebars, footers affect all pages in their directory and any
-subdirectories that do not have a footer file of their own.
-
-## Html Sanitization
-
-For security and compatibility reasons, wikis may not contain custom CSS
-or JavaScript. These tags will be stripped from the converted HTML. See
-`docs/sanitization.md` for more details on what tags and attributes are
-allowed.
+![Screenshot of a sidebar]()
 
 ## Syntax Highlighting
 
-In page files you can get automatic syntax highlighting for a wide range of
+Wiki pages support  automatic syntax highlighting of code for a wide range of
 languages by using the following syntax:
 
     ```ruby
@@ -69,19 +57,9 @@ languages by using the following syntax:
       end
     ```
 
-The block must start with three backticks, at the beginning of a line or
-indented with any number of spaces or tabs.
-After that comes the name of the language that is contained by the
-block. The language must be one of the `short name` lexer strings supported by
-Pygments. See the [list of lexers](http://pygments.org/docs/lexers/) for valid
-options.
+The block must start with three backticks, optionally followed by the the name of the language that is contained by the block. See [Pygments for the list of languages](http://pygments.org/docs/lexers/) that can be syntax highlighted.
 
-The block contents should be indented at the same level than the opening backticks.
-If the block contents are indented with an additional two spaces or one tab,
-then that whitespace will be ignored (this makes the blocks easier to read in plaintext).
-
-The block must end with three backticks indented at the same level than the opening
-backticks.
+The block contents should be indented at the same level than the opening backticks. The block must end with three backticks indented at the same level than the opening backticks.
 
 ## Upgrading Your Wiki
 
