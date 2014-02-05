@@ -16,7 +16,7 @@ summary: On GitHub there are many people and many projects to explore. Keeping u
 With more and more people joining GitHub and adding projects every day, keeping up with all of them can be difficult. However, this can be fun and easy by following users or watching repositories, simply showing interest in them by starring, or using Explore to find new people and projects.
 
 <a id="follow-a-friend" title="Follow A Friend" class="toc-item"></a>
-# Follow a Friend
+## Follow a Friend
 
 One of the great features on GitHub is the ability to see what other people are working on and who they are connecting with.
 When you follow someone, you'll get notifications about their GitHub activity. Following friends
@@ -63,7 +63,7 @@ Once you are on someone's profile, click the "follow" button.
 Congratulations! You are now following a friend.
 
 <a id="watch-a-project" title="Watch A Project" class="toc-item"></a>
-# Watch a Project
+## Watch a Project
 At some point you may want to stay up-to-date with a specific project. This is similar to following a person, except
 the focus is narrowed to only events on that project. You can choose to have notifications for this project sent via
 email or viewable on the web by [configuring your settings](https://github.com/settings/notifications). Typical
@@ -78,7 +78,7 @@ Once you are on the project page, you will notice there is a "watch" button at t
 Congratulations! You are now watching the Hello World project. If the Octocat updates it, you will see what happened in your dashboard or receive a notification.
 
 <a id="explore" title="More Things You Can Do" class="toc-item"></a>
-# More Things You Can Do
+## More Things You Can Do
 
 You've done some of the most basic social interaction GitHub has to offer, but don't stop there! Check out these other social features:
 
@@ -102,7 +102,7 @@ If you want to view just trending repositories and users, [head over to Trending
 ![trending](trending.png)
 
 <a id="celebrate" title="Celebrate" class="toc-item"></a>
-# Celebrate
+## Celebrate
 
 Congratulations! You are quite the socialite. Check out some of these next steps:
 

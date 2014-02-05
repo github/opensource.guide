@@ -9,7 +9,6 @@
         setBGColor(s, sha, container);
 
         var pattern = parseInt(sha.substr(20, 1), 16);
-        console.log(pattern);
         switch (pattern) {
           case 0:
             break;
