@@ -9,25 +9,26 @@
         setBGColor(s, sha, container);
 
         var pattern = parseInt(sha.substr(20, 1), 16);
+        console.log(pattern);
         switch (pattern) {
           case 0:
-            geoTriangles(s, sha); break;
+            break;
           case 1:
             geoOverlappingCircles(s, sha); break;
           case 2:
-            geoHexagons(s, sha); break;
+            break;
           case 3:
             geoXes(s, sha); break;
           case 4:
             geoSineWaves(s, sha); break;
           case 5:
-            break;
+            geoHexagons(s, sha); break;
           case 6:
             break;
           case 7:
             break;
           case 8:
-            break;
+            geoTriangles(s, sha); break;
           case 9:
             geoSquares(s, sha); break;
           case 10:
