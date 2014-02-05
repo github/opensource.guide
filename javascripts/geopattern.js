@@ -22,7 +22,7 @@
           case 4:
             geoSineWaves(s, sha); break;
           case 5:
-            break;
+            geoHexagons(s, sha); break;
           case 6:
             break;
           case 7:
@@ -38,7 +38,7 @@
           case 12:
             break;
           case 13:
-            geoHexagons(s, sha); break;
+            break;
           case 14:
             break;
           case 15:
