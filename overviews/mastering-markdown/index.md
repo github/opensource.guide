@@ -10,6 +10,8 @@ survey_tag: 'markdown-1'
 summary: Almost all text on GitHub is processed through a markup language called <em>Markdown</em> — it's an easy way to include simple formatting (like <em>italics</em>, <strong>bold words</strong>, lists, and <a href="/basics/mastering-markdown">links</a>). This guide will show you the ins-and-outs of Markdown on GitHub.
 ---
 
+<link rel="stylesheet" type="text/css" href="mastering-markdown.css">
+
 <a id="intro" title="Intro" class="toc-item"></a>
 Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
