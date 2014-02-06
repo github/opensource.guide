@@ -1,0 +1,117 @@
+---
+layout: article
+title: Contributing to Open Source on GitHub
+read_time: 999 minute
+updated_at: Jan 18, 2013
+icon: repo
+title_sha: affe39a19c114de9a15b371413c5498e5f8e9633
+survey_tag: 'issues-1'
+
+summary: Open source software is thriving on GitHub. Anyone can get involved and it's easy, too. This guide covers the basics about what to look for and what to do when contributing to open source projects
+---
+
+<a id="intro" title="Intro" class="toc-item"></a>
+
+A great way to get involved in open source is to contribute to the existing projects you're using. GitHub is home to more than 5 million open source projects. There are projects for every skill set like [recipes](https://github.com/sinker/tacofancy), [HTML/CSS](https://github.com/tobiasahlin/SpinKit), [Ruby](https://github.com/sferik/t), [Astrophysics]() and many more. While every project and project maintainer(s) is different, there are a number of standards that have developed and we'll cover those here.
+
+<a id="find" title="Find Projects" class="toc-item"></a>
+
+## Find Projects
+
+Before you contribute to a project you'll need to find a project that you're interested in using. You'll find GitHub projects being shared all over the internet. A few great places to keep an eye on are:
+
+> Maybe say twitter and mention how much traffic comes in from Tiwtter
+
+> How do we feel about these links/recommending outside places?
+
+- [GitHub Explore](https://github.com/explore): A page highlighting popular projects by language, popularity throughout GitHub or within your organization or those you follow.
+- [GitHub Stars](https://github.com/stars?direction=desc&sort=created): Checking out the repositories another user stars is a great way to find interesting projects. Be [social](http://guides.github.com/overviews/socialize/).
+- [Layervault News](http://news.layervault.com): Many front-end and design projects are shared here.
+- [CodeTriage](http://www.codetriage.com/): A directory of projects with open issues.
+
+![layervault](layervault.png)
+
+<a id="readme" title="Readme and other Docs" class="toc-item"></a>
+
+## Readme and other Docs
+
+Nearly all GitHub projects include a `README.md` file. The readme provides a lay of the land for a project with details on how to use, build and sometimes contribute to a project. You may also find badges signifying browser support and test status. You may find the license in the readme, too. Sometimes the readme is the kitchen sink, sometimes elements are given their own file:
+
+> I think the test status badges don't work right now per that security issue, but will they come back?
+
+### Contributing.md
+
+Projects and project maintainers vary, so the best way to contribute will also vary. Contributing docs detail the specifics about how the maintainers would like to see patches or features contributed. This can include what tests to write, code syntax style or areas to focus on for patches.
+
+### License.md
+
+A license file is straightforward -- it provides the license for the project. There are many ways _to be_ open source and for each of those ways there is a license. Read more about what each license means at [choosealicense.com](http://www.choosealicense.com).
+
+> Emphasis probably not needed
+
+### Documentation and Wikis
+
+Many larger projects must beyond go the readme to give instructions for use. In such cases you'll often find a link to another file or a folder named 'docs' in the repository. Alternatively, the repository may instead use the GitHub wiki to break down documentation.
+
+![d3 wiki](d3-wiki.png)
+
+### github.io
+
+GitHub offers [free static site hosting]() for all repositories (and users and organizations). Many open source projects take advantage of this by creating a website for the project -- a great resource for finding live demos. All pages hosted this way have a 'github.io' domain. Regardless of where the site is hosted, if a project has its own website, the link can often be found at the top of the repository's page on GitHub.
+
+> Um, I wanted to use tobiasahlin/SpinKit as an example but turns out it's not making use of GitHub Pages!
+
+![gh-pages](gh-pages.png)
+
+<a id="issue" title="Create an Issue" class="toc-item"></a>
+
+## Create an Issue
+
+If you find a bug in a project you're using (and you don't know how to fix it), have trouble following the documentation or have a question about the project -- create an issue! There's nothing to it and whatever issue you're having, you're likely not the only one, so others will find your issue helpful, too. We've got a guide on [issues]().
+
+<a id="cla" title="Contributor Licsence Agreement" class="toc-item"></a>
+
+## Contributor's License Agreement
+
+Before you create a pull request with a patch or feature, you should know if that project requires contributors to sign a Contributor License Agreement, usually mentioned in the contributing documentation. This is a legally binding contract concerning the code that you're contributing. Most often the agreement's purpose is making binding the re-usability and responsibility of the code your'e contributing.
+
+> I'm probably explaining this terribly.
+
+<a id="community" title="The Community" class="toc-item"></a>
+
+## The Community
+
+Projects often have a community around them, made up of other users in different roles:
+
+- **Owner** is the user or organization that created the project has the project on their account.
+- **Maintainer(s)** is/are the users primarily doing the work on a project and driving the direction. Oftentimes the owner and the maintainer are the same.
+- **Core-contributors** are trusted users who are given write access to a repository that they contribute to often.
+- **Contributors** is everyone who has had a pull request merged into a project.
+- **Community Members** are the users who often use and care deeply about the project and are active in discussions for features and pull requests.
+
+> What are 'community members' actually called?
+
+<a id="pr" title="Pull Request" class="toc-item"></a>
+
+## Pull Request
+
+When you've found a feature to add or bug to fix in a project and you've read the documents on contributing, create a pull request. Be not afraid! Once you've submitted a pull request the maintainer(s) can compare your branch to the existing one and decide whether or not to incorporate (pull in) your changes.
+
+### Pull Request Pro Tips :TM:
+
+- [Fork](http://guides.github.com/overviews/forking/) the repository and clone it locally. Connect your local to the original 'upstream' repository by adding it as a remote. **Pull in changes** from 'upstream' often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely.
+- Create a [**branch**](http://guides.github.com/overviews/flow/) for your edits.
+- In the body of your pull request, **be clear** about what problem was occurring and how someone can recreate that problem. Then be equally as clear about what steps you took to make your changes.
+- It's best to **test**. Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
+- If your changes include differences in HTML/CSS, **include screenshots** of the before and after. Just drag and drop the images into the body of your pull request.
+- If the project you're contributing to doesn't have guidelines on contributing, it's always best to create your contribution in the **style of the project**. This may mean using indents, semi colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge.
+
+### Open Pull Requests
+
+Once you've opened a pull request a discussion will start around your proposed changes. Other contributors and users may chime in, but ultimately the decision is made by the maintainer(s). You may be asked to make some changes to your pull request, if so, add more commits to your branch and push them -- they'll automatically go into the existing pull request.
+
+![pr convo](convo.png)
+
+If your pull request is merged -- great! If it is not, no sweat, it may not be what they had in mind, or they were already working on it. Go forth and pull request again -- or [create your own open source project](theotherguide).
+
+> find better image
