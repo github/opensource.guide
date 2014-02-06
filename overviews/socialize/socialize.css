@@ -1,0 +1,15 @@
+.founders {
+  position: relative;
+  overflow: hidden;
+
+}
+.founder {
+  float: left;
+  text-align: center;
+  margin-right: 10px;
+  display: block;
+
+  p {
+    margin: 0;
+  }
+}
