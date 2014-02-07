@@ -49,7 +49,7 @@ Projects often have a community around them, made up of other users in different
 
 <a id="pr" title="Pull Request" class="toc-item"></a>
 
-## Read the Docs
+## Reading the Docs
 
 ### Readme
 
