@@ -73,7 +73,7 @@ _[Note: @jlord it would be great to link to a project with a docs folder and D3'
 
 ![d3 wiki](d3-wiki.png)
 
-### github.io
+### GitHub Pages
 
 GitHub offers [free static site hosting]() for all repositories (and users and organizations). Many open source projects take advantage of this by creating a website for the project -- a great resource for finding live demos. All pages hosted this way have a 'github.io' domain. Regardless of where the site is hosted, if a project has its own website, the link can often be found at the top of the repository's page on GitHub.
 
