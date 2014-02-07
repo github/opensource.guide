@@ -67,12 +67,6 @@ GitHub offers [free static site hosting]() for all repositories (and users and o
 
 _[Note to @jlord: We might want to capture this content Issues, PRs, etc. under a subhead similarly to how you captured the readme and other docs]_
 
-## Create an Issue
-
-If you find a bug in a project you're using (and you don't know how to fix it), have trouble following the documentation or have a question about the project -- create an issue! There's nothing to it and whatever issue you're having, you're likely not the only one, so others will find your issue helpful, too. We've got a guide on [issues]().
-
-<a id="cla" title="Contributor Licsence Agreement" class="toc-item"></a>
-
 ## Contributor's License Agreement
 
 Before you create a pull request with a patch or feature, you should know if that project requires contributors to sign a Contributor License Agreement, usually mentioned in the contributing documentation. This is a legally binding contract concerning the code that you're contributing. Most often the agreement's purpose is making binding the re-usability and responsibility of the code your'e contributing.
@@ -94,6 +88,13 @@ Projects often have a community around them, made up of other users in different
 > What are 'community members' actually called?
 
 <a id="pr" title="Pull Request" class="toc-item"></a>
+
+## Create an Issue
+
+If you find a bug in a project you're using (and you don't know how to fix it), have trouble following the documentation or have a question about the project -- create an issue! There's nothing to it and whatever issue you're having, you're likely not the only one, so others will find your issue helpful, too. We've got a guide on [issues]().
+
+<a id="cla" title="Contributor Licsence Agreement" class="toc-item"></a>
+
 
 ## Pull Request
 
