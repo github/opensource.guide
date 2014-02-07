@@ -35,9 +35,7 @@ Get started by finding a project that you're also interested in using. You'll fi
 
 ## Readme and other Docs
 
-Nearly all GitHub projects include a `README.md` file. The readme provides a lay of the land for a project with details on how to use, build and sometimes contribute to a project. You may also find badges signifying browser support and test status. You may find the license in the readme, too. Sometimes the readme is the kitchen sink, sometimes elements are given their own file:
-
-> I think the test status badges don't work right now per that security issue, but will they come back?
+Nearly all GitHub projects include a `README.md` file. The readme provides a lay of the land for a project with details on how to use, build and sometimes contribute to a project. 
 
 ### Contributing.md
 
