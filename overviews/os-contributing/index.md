@@ -95,7 +95,6 @@ If you find a bug in a project you're using (and you don't know how to fix it), 
 
 <a id="cla" title="Contributor Licsence Agreement" class="toc-item"></a>
 
-
 ## Pull Request
 
 When you've found a feature to add or bug to fix in a project and you've read the documents on contributing, create a pull request. Be not afraid! Once you've submitted a pull request the maintainer(s) can compare your branch to the existing one and decide whether or not to incorporate (pull in) your changes.
@@ -115,6 +114,6 @@ Once you've opened a pull request a discussion will start around your proposed c
 
 ![pr convo](convo.png)
 
-If your pull request is merged -- great! If it is not, no sweat, it may not be what they had in mind, or they were already working on it. Go forth and pull request again -- or [create your own open source project](theotherguide).
+If your pull request is merged -- great! If it is not, no sweat, it may not be what the project maintainer had in mind, or they were already working on it. This happens, so our recommendation is to take any feedback you've received and go forth and pull request again -- or [create your own open source project](theotherguide).
 
 > find better image
