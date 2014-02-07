@@ -65,6 +65,8 @@ GitHub offers [free static site hosting]() for all repositories (and users and o
 
 <a id="issue" title="Create an Issue" class="toc-item"></a>
 
+_[Note to @jlord: We might want to capture this content Issues, PRs, etc. under a subhead similarly to how you captured the readme and other docs]_
+
 ## Create an Issue
 
 If you find a bug in a project you're using (and you don't know how to fix it), have trouble following the documentation or have a question about the project -- create an issue! There's nothing to it and whatever issue you're having, you're likely not the only one, so others will find your issue helpful, too. We've got a guide on [issues]().
