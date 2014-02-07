@@ -65,6 +65,12 @@ A license file is straightforward -- it provides the license for the project. Th
 
 > Emphasis probably not needed
 
+### Contributor's License Agreement
+
+Before you create a pull request with a patch or feature, you should know if that project requires contributors to sign a Contributor License Agreement (usually mentioned in the contributing documentation). This is a legally binding contract concerning the code that you're contributing. Most often the agreement's purpose is making binding the re-usability and responsibility of the code your'e contributing.
+
+> I'm probably explaining this terribly.
+
 ### Documentation and Wikis
 
 Many larger projects must beyond go the readme to give instructions for how people can use their project. In such cases you'll often find a link to another file or a folder named 'docs' in the repository. Alternatively, the repository may instead use the GitHub wiki to break down documentation.
@@ -85,11 +91,6 @@ GitHub offers [free static site hosting]() for all repositories (and users and o
 
 _[Note to @jlord: We might want to capture this content Issues, PRs, etc. under a subhead similarly to how you captured the readme and other docs]_
 
-## Contributor's License Agreement
-
-Before you create a pull request with a patch or feature, you should know if that project requires contributors to sign a Contributor License Agreement (usually mentioned in the contributing documentation). This is a legally binding contract concerning the code that you're contributing. Most often the agreement's purpose is making binding the re-usability and responsibility of the code your'e contributing.
-
-> I'm probably explaining this terribly.
 
 ## Create an Issue
 
