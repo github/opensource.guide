@@ -49,7 +49,9 @@ A license file is straightforward -- it provides the license for the project. Th
 
 ### Documentation and Wikis
 
-Many larger projects must beyond go the readme to give instructions for use. In such cases you'll often find a link to another file or a folder named 'docs' in the repository. Alternatively, the repository may instead use the GitHub wiki to break down documentation.
+Many larger projects must beyond go the readme to give instructions for how people can use their project. In such cases you'll often find a link to another file or a folder named 'docs' in the repository. Alternatively, the repository may instead use the GitHub wiki to break down documentation.
+
+_[Note: @jlord it would be great to link to a project with a docs folder and D3's wiki.]_
 
 ![d3 wiki](d3-wiki.png)
 
