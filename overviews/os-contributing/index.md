@@ -33,6 +33,22 @@ Get started by finding a project that you're also interested in using. You'll fi
 
 <a id="readme" title="Readme and other Docs" class="toc-item"></a>
 
+<a id="community" title="The Community" class="toc-item"></a>
+
+## The Community
+
+Projects often have a community around them, made up of other users in different roles:
+
+- **Owner** is the user or organization that created the project has the project on their account.
+- **Maintainer(s)** is/are the users primarily doing the work on a project and driving the direction. Oftentimes the owner and the maintainer are the same.
+- **Core-contributors** are trusted users who are given write access to a repository that they contribute to often.
+- **Contributors** is everyone who has had a pull request merged into a project.
+- **Community Members** are the users who often use and care deeply about the project and are active in discussions for features and pull requests.
+
+> What are 'community members' actually called?
+
+<a id="pr" title="Pull Request" class="toc-item"></a>
+
 ## Readme and other Docs
 
 Nearly all GitHub projects include a `README.md` file. The readme provides a lay of the land for a project with details on how to use, build and sometimes contribute to a project. 
@@ -72,22 +88,6 @@ _[Note to @jlord: We might want to capture this content Issues, PRs, etc. under 
 Before you create a pull request with a patch or feature, you should know if that project requires contributors to sign a Contributor License Agreement, usually mentioned in the contributing documentation. This is a legally binding contract concerning the code that you're contributing. Most often the agreement's purpose is making binding the re-usability and responsibility of the code your'e contributing.
 
 > I'm probably explaining this terribly.
-
-<a id="community" title="The Community" class="toc-item"></a>
-
-## The Community
-
-Projects often have a community around them, made up of other users in different roles:
-
-- **Owner** is the user or organization that created the project has the project on their account.
-- **Maintainer(s)** is/are the users primarily doing the work on a project and driving the direction. Oftentimes the owner and the maintainer are the same.
-- **Core-contributors** are trusted users who are given write access to a repository that they contribute to often.
-- **Contributors** is everyone who has had a pull request merged into a project.
-- **Community Members** are the users who often use and care deeply about the project and are active in discussions for features and pull requests.
-
-> What are 'community members' actually called?
-
-<a id="pr" title="Pull Request" class="toc-item"></a>
 
 ## Create an Issue
 
