@@ -18,7 +18,7 @@ A great way to get involved in open source is to contribute to the existing proj
 
 ## Find Projects
 
-Before you contribute to a project you'll need to find a project that you're interested in using. You'll find GitHub projects being shared all over the internet. A few great places to keep an eye on are:
+Get started by finding a project that you're also interested in using. You'll find GitHub projects being shared all over the internet. A few great places to keep an eye on are:
 
 > Maybe say twitter and mention how much traffic comes in from Tiwtter
 
