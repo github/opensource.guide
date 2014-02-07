@@ -67,7 +67,7 @@ A license file is straightforward -- it provides the license for the project. Th
 
 ### Contributor's License Agreement
 
-Before you create a pull request with a patch or feature, you should know if that project requires contributors to sign a Contributor License Agreement (usually mentioned in the contributing documentation). This is a legally binding contract concerning the code that you're contributing. Most often the agreement's purpose is making binding the re-usability and responsibility of the code your'e contributing.
+Before you create a pull request with a patch or feature, you should know if that project requires contributors to sign a Contributor License Agreement (usually mentioned in the contributing documentation). This is a legally binding contract concerning the code that you're contributing. Most often the agreement's purpose is making binding the re-usability and responsibility of the code you're contributing.
 
 > I'm probably explaining this terribly.
 
