@@ -39,7 +39,7 @@ Nearly all GitHub projects include a `README.md` file. The readme provides a lay
 
 ### Contributing.md
 
-Projects and project maintainers vary, so the best way to contribute will also vary. Contributing docs detail the specifics about how the maintainers would like to see patches or features contributed. This can include what tests to write, code syntax style or areas to focus on for patches.
+Projects and project maintainers vary, so the best way to contribute will also vary. Keep your eye open for a doc labeled "CONTRIBUTING." Contributing docs detail the specifics about how a project's maintainer would like to see patches or features contributed. This can include what tests to write, code syntax style or areas to focus on for patches.
 
 ### License.md
 
