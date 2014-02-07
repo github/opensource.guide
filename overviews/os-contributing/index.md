@@ -49,7 +49,9 @@ Projects often have a community around them, made up of other users in different
 
 <a id="pr" title="Pull Request" class="toc-item"></a>
 
-## Readme and other Docs
+## Read the Docs
+
+### Readme
 
 Nearly all GitHub projects include a `README.md` file. The readme provides a lay of the land for a project with details on how to use, build and sometimes contribute to a project. 
 
