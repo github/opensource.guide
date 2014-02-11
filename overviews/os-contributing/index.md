@@ -12,7 +12,7 @@ summary: Open source software is thriving on GitHub. Anyone can get involved and
 
 <a id="intro" title="Intro" class="toc-item"></a>
 
-A great way to get involved in open source is to contribute to the existing projects you're using. GitHub is home to more than 5 million open source projects. There are projects for every skill set like [recipes](https://github.com/sinker/tacofancy), [HTML/CSS](https://github.com/tobiasahlin/SpinKit), [Ruby](https://github.com/sferik/t), [Astrophysics]() and many more. While every project and project maintainer(s) is different, there are a number of standards that have developed and we'll cover those here.
+A great way to get involved in open source is to contribute to the existing projects you're using. GitHub is home to more than 5 million open source projects. There are projects for every skill set like [recipes](https://github.com/sinker/tacofancy), [HTML/CSS](https://github.com/tobiasahlin/SpinKit), [Ruby](https://github.com/sferik/t), [Astrophysics](https://github.com/dfm/emcee) and many more. While every project and project maintainer(s) is different, there are a number of standards that have developed and we'll cover those here.
 
 <a id="find" title="Find Projects" class="toc-item"></a>
 
