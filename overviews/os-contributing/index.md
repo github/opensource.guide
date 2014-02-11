@@ -18,7 +18,7 @@ A great way to get involved in open source is to contribute to the existing proj
 
 ## Find Projects
 
-Before you contribute to a project you'll need to find a project that you're interested in using. You'll find GitHub projects being shared all over the internet. A few great places to keep an eye on are:
+Get started by finding a project that you're also interested in using. You'll find GitHub projects being shared all over the internet. A few great places to keep an eye on are:
 
 > Maybe say twitter and mention how much traffic comes in from Tiwtter
 
@@ -32,50 +32,6 @@ Before you contribute to a project you'll need to find a project that you're int
 ![layervault](layervault.png)
 
 <a id="readme" title="Readme and other Docs" class="toc-item"></a>
-
-## Readme and other Docs
-
-Nearly all GitHub projects include a `README.md` file. The readme provides a lay of the land for a project with details on how to use, build and sometimes contribute to a project. You may also find badges signifying browser support and test status. You may find the license in the readme, too. Sometimes the readme is the kitchen sink, sometimes elements are given their own file:
-
-> I think the test status badges don't work right now per that security issue, but will they come back?
-
-### Contributing.md
-
-Projects and project maintainers vary, so the best way to contribute will also vary. Contributing docs detail the specifics about how the maintainers would like to see patches or features contributed. This can include what tests to write, code syntax style or areas to focus on for patches.
-
-### License.md
-
-A license file is straightforward -- it provides the license for the project. There are many ways _to be_ open source and for each of those ways there is a license. Read more about what each license means at [choosealicense.com](http://www.choosealicense.com).
-
-> Emphasis probably not needed
-
-### Documentation and Wikis
-
-Many larger projects must beyond go the readme to give instructions for use. In such cases you'll often find a link to another file or a folder named 'docs' in the repository. Alternatively, the repository may instead use the GitHub wiki to break down documentation.
-
-![d3 wiki](d3-wiki.png)
-
-### github.io
-
-GitHub offers [free static site hosting]() for all repositories (and users and organizations). Many open source projects take advantage of this by creating a website for the project -- a great resource for finding live demos. All pages hosted this way have a 'github.io' domain. Regardless of where the site is hosted, if a project has its own website, the link can often be found at the top of the repository's page on GitHub.
-
-> Um, I wanted to use tobiasahlin/SpinKit as an example but turns out it's not making use of GitHub Pages!
-
-![gh-pages](gh-pages.png)
-
-<a id="issue" title="Create an Issue" class="toc-item"></a>
-
-## Create an Issue
-
-If you find a bug in a project you're using (and you don't know how to fix it), have trouble following the documentation or have a question about the project -- create an issue! There's nothing to it and whatever issue you're having, you're likely not the only one, so others will find your issue helpful, too. We've got a guide on [issues]().
-
-<a id="cla" title="Contributor Licsence Agreement" class="toc-item"></a>
-
-## Contributor's License Agreement
-
-Before you create a pull request with a patch or feature, you should know if that project requires contributors to sign a Contributor License Agreement, usually mentioned in the contributing documentation. This is a legally binding contract concerning the code that you're contributing. Most often the agreement's purpose is making binding the re-usability and responsibility of the code your'e contributing.
-
-> I'm probably explaining this terribly.
 
 <a id="community" title="The Community" class="toc-item"></a>
 
@@ -92,6 +48,55 @@ Projects often have a community around them, made up of other users in different
 > What are 'community members' actually called?
 
 <a id="pr" title="Pull Request" class="toc-item"></a>
+
+## Reading the Docs
+
+### Readme
+
+Nearly all GitHub projects include a `README.md` file. The readme provides a lay of the land for a project with details on how to use, build and sometimes contribute to a project. 
+
+### Contributing.md
+
+Projects and project maintainers vary, so the best way to contribute will also vary. Keep your eye open for a doc labeled "CONTRIBUTING." Contributing docs detail the specifics about how a project's maintainer would like to see patches or features contributed. This can include what tests to write, code syntax style or areas to focus on for patches.
+
+### License.md
+
+A license file is straightforward -- it provides the license for the project. There are many ways _to be_ open source and for each of those ways there is a license. Read more about what each license means at [choosealicense.com](http://www.choosealicense.com).
+
+> Emphasis probably not needed
+
+### Contributor's License Agreement
+
+Before you create a pull request with a patch or feature, you should know if that project requires contributors to sign a Contributor License Agreement (usually mentioned in the contributing documentation). This is a legally binding contract concerning the code that you're contributing. Most often the agreement's purpose is making binding the re-usability and responsibility of the code you're contributing.
+
+> I'm probably explaining this terribly.
+
+### Documentation and Wikis
+
+Many larger projects must beyond go the readme to give instructions for how people can use their project. In such cases you'll often find a link to another file or a folder named 'docs' in the repository. Alternatively, the repository may instead use the GitHub wiki to break down documentation.
+
+_[Note: @jlord it would be great to link to a project with a docs folder and D3's wiki.]_
+
+![d3 wiki](d3-wiki.png)
+
+### GitHub Pages
+
+GitHub offers [free static site hosting]() for all repositories (and users and organizations). Many open source projects take advantage of this by creating a website for the project -- a great resource for finding live demos. All pages hosted this way have a 'github.io' domain. Regardless of where the site is hosted, if a project has its own website, the link can often be found at the top of the repository's page on GitHub.
+
+> Um, I wanted to use tobiasahlin/SpinKit as an example but turns out it's not making use of GitHub Pages!
+
+![gh-pages](gh-pages.png)
+
+<a id="issue" title="Create an Issue" class="toc-item"></a>
+
+_[Note to @jlord: We might want to capture this content Issues, PRs, etc. under a subhead similarly to how you captured the readme and other docs]_
+
+
+## Create an Issue
+
+If you find a bug in a project you're using (and you don't know how to fix it), have trouble following the documentation or have a question about the project -- create an issue! There's nothing to it and whatever issue you're having, you're likely not the only one, so others will find your issue helpful, too. We've got a guide on [issues]().
+
+<a id="cla" title="Contributor Licsence Agreement" class="toc-item"></a>
 
 ## Pull Request
 
@@ -112,6 +117,6 @@ Once you've opened a pull request a discussion will start around your proposed c
 
 ![pr convo](convo.png)
 
-If your pull request is merged -- great! If it is not, no sweat, it may not be what they had in mind, or they were already working on it. Go forth and pull request again -- or [create your own open source project](theotherguide).
+If your pull request is merged -- great! If it is not, no sweat, it may not be what the project maintainer had in mind, or they were already working on it. This happens, so our recommendation is to take any feedback you've received and go forth and pull request again -- or [create your own open source project](theotherguide).
 
 > find better image
