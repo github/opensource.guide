@@ -331,6 +331,10 @@ ol.toc>li a.active {
   margin: 20px 0;
 }
 
+.nav-rss a .octicon-rss {
+  color: #ff6600;
+}
+
 /* Smaller than standard 960 (devices and browsers) */
 @media only screen and (max-width: 959px) {
   .guide-listing {
@@ -371,7 +375,7 @@ ol.toc>li a.active {
   html, body {
     font-size: 15px;
   }
-  .nav-github {
+  .nav-github, .nav-rss {
     display: none ! important;
   }
   .article-heading .wrap {
