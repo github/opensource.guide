@@ -100,7 +100,9 @@
   .markdown-body table {
     width: 100%;
     overflow: auto;
-    display: block; }
+    display: block;
+    border-spacing: 0;
+    border-collapse: collapse; }
     .markdown-body table th {
       font-weight: bold; }
     .markdown-body table th, .markdown-body table td {
