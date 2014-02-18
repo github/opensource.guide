@@ -25,7 +25,7 @@ layout: nil
    {% endif %}
    <updated>{{ post.updated_at | date_to_xmlschema }}</updated>
    <id>http://guides.github.com{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <content type="html">{{ post.content | markdownify | xml_escape }}</content>
  </entry>
  {% endif %}
  {% endfor %}
