@@ -10,7 +10,7 @@ GEM
       highline (~> 1.6.11)
     fast-stemmer (1.0.2)
     ffi (1.9.3)
-    geo_pattern (1.0.0)
+    geo_pattern (1.1.0)
       color (~> 1.5)
     github-pages (11)
       RedCloth (= 4.2.9)
@@ -31,7 +31,7 @@ GEM
       pygments.rb (~> 0.5.0)
       redcarpet (~> 2.3.0)
       safe_yaml (~> 0.9.7)
-    jekyll-geo-pattern (0.0.1)
+    jekyll-geo-pattern (0.2.1)
       geo_pattern
       jekyll
     kramdown (1.2.0)
@@ -62,4 +62,4 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-geo-pattern
+  jekyll-geo-pattern (~> 0.2.1)
