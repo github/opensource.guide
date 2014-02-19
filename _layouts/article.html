@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="full">
-  <div class="article-heading js-article-heading js-geopattern" style="background-image:url(data:image/svg+xml;base64,{% base64_geo_pattern text=page.title base_color="#96363a" %})">
+  <div class="article-heading js-article-heading js-geopattern" style="{% uri_geo_pattern text=page.title base_color=#96363a %})">
     <div class="wrap">
       <div class="icon-container">
         <span class="mega-octicon octicon-{{page.icon}}"></span>
