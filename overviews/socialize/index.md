@@ -4,7 +4,6 @@ title: Be Social
 read_time: 15 minute
 updated_at: Jan 23, 2014
 icon: organization
-title_sha: 187a79bd3bde38accf7389b11d66ee3ed4232be2
 survey_tag: 'project-socialize-1'
 
 summary: On GitHub there are many people and many projects to explore. Keeping up with the work that's done with them and showing your interest is easy.
