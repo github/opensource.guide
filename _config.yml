@@ -11,3 +11,5 @@ exclude:
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
+gems:
+  - jekyll-geo-pattern

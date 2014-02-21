@@ -4,7 +4,6 @@ title: Mastering Issues
 read_time: 10 minute
 updated_at: Jan 15, 2014
 icon: issue-closed
-title_sha: 7e3ae4c621930e98d438a8e1c462e73f58220cca
 survey_tag: 'issues-1'
 
 summary: GitHub is great for managing all of the information <em>around</em> the code. This guide helps explain our issue tracking system and how to keep up to date with issues you’ve participated in.
@@ -123,7 +122,7 @@ When you do this, we'll create an event inside of issue #42 that looks something
 ![](reference.png)
 
 
-Issue in another repository? Just include the repository before the name like `kneath/example-project#42`. 
+Issue in another repository? Just include the repository before the name like `kneath/example-project#42`.
 
 One of the more interesting ways to use GitHub Issues is to reference issues directly from commits. Include the issue number inside of the commit message.
 

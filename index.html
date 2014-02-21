@@ -8,7 +8,7 @@ layout: landing_page
   {% if post.title != nil %}
   <article class="guide-listing js-guide-listing">
 
-    <div class="guide-cover js-guide-cover js-geopattern" data-title-sha="{{ post.title_sha }}">
+    <div class="guide-cover js-guide-cover js-geopattern" style="background-image: {% uri_geo_pattern text=post.title base_color="#8c282c" %})">
       <a href="{{ site.baseurl }}/{{ post.path | replace:'/index.md','' }}">
         <div class="icon-container">
           <span class="mega-octicon octicon-{{ post.icon }}"></span>
