@@ -95,13 +95,23 @@ Now that you've found the material for understanding the project, here is how yo
 
 ### Create an Issue
 
-If you find a bug in a project you're using (and you don't know how to fix it), have trouble following the documentation or have a question about the project -- create an issue! There's nothing to it and whatever issue you're having, you're likely not the only one, so others will find your issue helpful, too. We've got a guide on [issues]().
+If you find a bug in a project you're using (and you don't know how to fix it), have trouble following the documentation or have a question about the project -- create an issue! There's nothing to it and whatever issue you're having, you're likely not the only one, so others will find your issue helpful, too. For more information on how issues work, check out our [Issues guide](http://guides.github.com/overviews/issues).
 
-<a id="cla" title="Contributor Licsence Agreement" class="toc-item"></a>
+> Why don't my :tm:s work?
+
+#### Issues Pro Tips :TM:
+
+- **Check existing issues** for your issue. Duplicating an issue is slower for both parties so search through open and closed issues to see if what you're running into has been addressed already.
+- **Be clear** about what your problem is. Detail how someone else can recreate the problem.
+- **Include system details** like what the browser, library or operating system you're using and its version.
+- **Paste error output** or logs in your issue or in a [Gist](http://gist.github.com). If pasting them in the issue, wrap it in three backticks: ` ``` ` so that it renders nicely.
+- **Link to demos** recreating the problem on things like [JSFiddle](http://jsfiddle.net) or [CodePen](http://codepen.io).
+
+<a id="pr" title="Pull Request" class="toc-item"></a>
 
 ### Pull Request
 
-When you've found a feature to add or bug to fix in a project and you've read the documents on contributing, create a pull request. Be not afraid! Once you've submitted a pull request the maintainer(s) can compare your branch to the existing one and decide whether or not to incorporate (pull in) your changes.
+If you're able to patch the bug or add the feature yourself -- fantastic, make a pull request with the code! Be sure you've read any documents on contributing, understand the license and have signed a CLA if required. Once you've submitted a pull request the maintainer(s) can compare your branch to the existing one and decide whether or not to incorporate (pull in) your changes.
 
 #### Pull Request Pro Tips :TM:
 
