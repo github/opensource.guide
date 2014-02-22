@@ -31,13 +31,13 @@ Get started by finding a project that you're also interested in using. You'll fi
 
 ![layervault](layervault.png)
 
-<a id="readme" title="Readme and other Docs" class="toc-item"></a>
-
-<a id="community" title="The Community" class="toc-item"></a>
+<a id="project" title="A Typical Project" class="toc-item"></a>
 
 ## A Typical Project
 
 Below are some elements you're likely to come across in an open source project on GitHub.
+
+<a id="community" title="Community" class="toc-item"></a>
 
 ### The Community
 
@@ -50,7 +50,7 @@ Projects often have a community around them, made up of other users in different
 
 > What are 'community members' actually called? Does core-contributors need to be it's own, do some core-contributors not have access and contribute via PRs?
 
-<a id="pr" title="Pull Request" class="toc-item"></a>
+<a id="docs" title="Documentation" class="toc-item"></a>
 
 ### Reading the Docs
 
@@ -86,12 +86,14 @@ GitHub offers [free static site hosting](http://pages.github.com) for all reposi
 
 ![gh-pages](gh-pages.png)
 
-<a id="issue" title="Create an Issue" class="toc-item"></a>
+<a id="contributing" title="Contributing to a Project" class="toc-item"></a>
 
 
-## Contributing
+## Contributing to a Project
 
 Now that you've found the material for understanding the project, here is how you can take action.
+
+<a id="issues" title="Issues" class="toc-item"></a>
 
 ### Create an Issue
 
@@ -107,7 +109,7 @@ If you find a bug in a project you're using (and you don't know how to fix it), 
 - **Paste error output** or logs in your issue or in a [Gist](http://gist.github.com). If pasting them in the issue, wrap it in three backticks: ` ``` ` so that it renders nicely.
 - **Link to demos** recreating the problem on things like [JSFiddle](http://jsfiddle.net) or [CodePen](http://codepen.io).
 
-<a id="pr" title="Pull Request" class="toc-item"></a>
+<a id="prs" title="Pull Requests" class="toc-item"></a>
 
 ### Pull Request
 
