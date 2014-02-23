@@ -12,7 +12,7 @@ summary: Open source software is thriving on GitHub. Anyone can get involved and
 
 <a id="intro" title="Intro" class="toc-item"></a>
 
-GitHub is home to more than 5 million open source projects. There are projects for every skill set like [recipes](https://github.com/sinker/tacofancy), [HTML/CSS](https://github.com/tobiasahlin/SpinKit), [Ruby](https://github.com/sferik/t), [Astrophysics]() and many more. While every project and project maintainer(s) is different, there are a number of standards that have developed and we'll cover those here.
+GitHub is home to more than 5 million open source projects. There are projects for every skill set like [recipes](https://github.com/sinker/tacofancy), [HTML/CSS](https://github.com/tobiasahlin/SpinKit), [Ruby](https://github.com/sferik/t), [Astrophysics]() and many more. While every project and project maintainer(s) is different, we're going to introduce you to some of the standards that will help you get started almost anywhere.
 
 <a id="find" title="Find Projects" class="toc-item"></a>
 
