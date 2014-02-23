@@ -25,7 +25,7 @@ We recommend that you start by finding a project that you're also interested in 
 > How do we feel about these links/recommending outside places?
 
 - [GitHub Explore](https://github.com/explore): Popular and trending projects.
-- [GitHub Stars](https://github.com/stars?direction=desc&sort=created): Repositories starred by other people.
+- [GitHub Stars](https://github.com/stars?direction=desc&sort=created): Projects starred by other people.
 - [Layervault News](http://news.layervault.com): Front-end and design projects.
 - [CodeTriage](http://www.codetriage.com/): Projects with open issues (contributors needed).
 
