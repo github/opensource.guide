@@ -18,7 +18,7 @@ GitHub is home to more than 5 million open source projects. There are projects f
 
 ## Find Projects
 
-We recommend that you start by finding a project that you're also interested in using. You'll find GitHub projects being shared all over the internet. A few great places to keep an eye on are:
+We recommend that you start by finding a project that you're also interested in using. You'll find projects on GitHub being shared all over the internet. A few great places to keep an eye on are:
 
 > Maybe say twitter and mention how much traffic comes in from Tiwtter
 
