@@ -100,9 +100,9 @@ If you find a bug in a project you're using (and you don't know how to fix it), 
 
 ## Open a Pull Request
 
-When you've found a feature to add or bug to fix in a project and you've read the documents on contributing, create a pull request. Be not afraid! Once you've submitted a pull request the maintainer(s) can compare your branch to the existing one and decide whether or not to incorporate (pull in) your changes.
+When you've found a feature to add or bug to fix in a project and you've read the documents on contributing, it's time to create a pull request. Be not afraid! Once you've submitted a pull request the maintainer(s) can compare your branch to the existing one and decide whether or not to incorporate (pull in) your changes.
 
-Once you've opened a pull request a discussion will start around your proposed changes. Other contributors and users may chime in, but ultimately the decision is made by the maintainer(s). You may be asked to make some changes to your pull request, if so, add more commits to your branch and push them -- they'll automatically go into the existing pull request.
+After you've opened a pull request a discussion will start around your proposed changes. Other contributors and users may chime in, but ultimately the decision is made by the maintainer(s). You may be asked to make some changes to your pull request, if so, add more commits to your branch and push them -- they'll automatically go into the existing pull request.
 
 ![pr convo](convo.png)
 
