@@ -106,7 +106,7 @@ After you've opened a pull request a discussion will start around your proposed 
 
 ![pr convo](convo.png)
 
-If your pull request gets merged -- great! If it doesn't, no sweat, it may not be what the project maintainer had in mind, or they were already working on it. This happens, so our recommendation is to take any feedback you've received and go forth and pull request again -- or [create your own open source project](theotherguide).
+If your pull request gets merged -- great! If it doesn't, no sweat, it may not be what the project maintainer had in mind, or they were already working on it. This happens, so our recommendation is to take any feedback you've receive and go forth and pull request again -- or [create your own open source project](theotherguide).
 
 > find better image
 
