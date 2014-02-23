@@ -37,7 +37,7 @@ We recommend that you start by finding a project that you're also interested in 
 
 ## The Community
 
-Projects often have a community around them, made up of other users in different roles:
+Open source projects are curated by people working in different roles:
 
 - **Owner** is the user or organization that created the project has the project on their account.
 - **Maintainer(s)** is/are the users primarily doing the work on a project and driving the direction. Oftentimes the owner and the maintainer are the same.
