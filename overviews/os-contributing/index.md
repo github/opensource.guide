@@ -39,7 +39,7 @@ We recommend that you start by finding a project that you're also interested in 
 
 Open source projects are curated by people working in different roles:
 
-- **Owner –** the person or organization that created the project.
+- **Owner –** The person or organization responsible for creating the project.
 - **Maintainer(s) –** the person responsible for implementing changes and driving the project's direction. The owner and the maintainer can be the same people.
 - **Core-contributors –** People who are given write access to a repository that they contribute to often.
 - **Contributors –** People who have had a pull request merged into a project.
