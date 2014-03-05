@@ -4,7 +4,6 @@ title: Contributing to Open Source on GitHub
 read_time: 999 minute
 updated_at: Jan 18, 2013
 icon: repo
-title_sha: affe39a19c114de9a15b371413c5498e5f8e9633
 survey_tag: 'issues-1'
 
 summary: Open source software is thriving on GitHub. Anyone can get involved and it's easy, too. This guide covers the basics about what to look for and what to do when contributing to open source projects
@@ -53,7 +52,7 @@ Open source projects are curated by people working in different roles:
 
 ### Readme
 
-Nearly all GitHub projects include a `README.md` file. The readme provides a lay of the land for a project with details on how to use, build and sometimes contribute to a project. 
+Nearly all GitHub projects include a `README.md` file. The readme provides a lay of the land for a project with details on how to use, build and sometimes contribute to a project.
 
 ### Contributing.md
 
