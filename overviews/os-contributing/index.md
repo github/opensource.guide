@@ -11,13 +11,13 @@ summary: Open source software is thriving on GitHub. Anyone can get involved and
 
 <a id="intro" title="Intro" class="toc-item"></a>
 
-GitHub is home to more than 5 million open source projects. There are projects for every skill set like [recipes](https://github.com/sinker/tacofancy), [HTML/CSS](https://github.com/tobiasahlin/SpinKit), [Ruby](https://github.com/sferik/t), [Astrophysics]() and many more. While every project and project maintainer(s) is different, this guide will introduce you to contributing standards that will help you get started almost anywhere.
+GitHub is home to more than 5 million open source projects. There are projects for every skill set like [recipes](https://github.com/sinker/tacofancy), [HTML/CSS](https://github.com/tobiasahlin/SpinKit), [Ruby](https://github.com/sferik/t), [Astrophysics](https://github.com/dfm/emcee) and many more. While every project and project maintainer(s) is different, this guide will introduce you to contributing standards that will help you get started almost anywhere.
 
 <a id="find" title="Find Projects" class="toc-item"></a>
 
 ## Find Projects
 
-We recommend that you start by finding a project that you're also interested in using. Here are a few great places to look:
+We recommend that you start by finding a project that you're already (or are interested in) using. Here are a few great places to look:
 
 > Maybe say twitter and mention how much traffic comes in from Tiwtter
 
@@ -40,7 +40,7 @@ Open source projects are curated by people working in different roles:
 
 - **Owner –** Person or organization responsible for creating the project.
 - **Maintainer(s) –** People responsible for implementing changes and driving the project's direction. The owner and the maintainer can be the same people.
-- **Core-contributors –** People with write access to a repository who make regular contributions.
+- **Core contributors –** People with write access to a repository who make regular contributions.
 - **Contributors –** People who have had a pull request merged into a project.
 - **Community Members –** People who use and care about the project and are active in bug tracking, feature discussions, and pull requests.
 
@@ -60,15 +60,15 @@ Projects and project maintainers vary, so the best way to contribute will also v
 
 ### License.md
 
-A license file is straightforward -- it provides the license for the project. There are many ways _to be_ open source and for each of those ways there is a license. Read more about what each license means at [choosealicense.com](http://www.choosealicense.com).
-
-> Emphasis probably not needed
+A license file, well, is the license for the project. An open source project's license informs users what they can and can't do (e.g., use, modify, redistribute), and contributors, what they are allowing others to do. There are many ways to license and open source project, you can read more about what each license means at [choosealicense.com](http://www.choosealicense.com).
 
 ### Contributor's License Agreement
 
 Before you create a pull request with a patch or feature, you should know if that project requires contributors to sign a Contributor License Agreement (usually mentioned in the contributing documentation). This is a legally binding contract concerning the code that you're contributing. Most often the agreement's purpose is making binding the re-usability and responsibility of the code you're contributing.
 
 > I'm probably explaining this terribly.
+
+> Maybe we don't include CLAs in this guide?
 
 ### Documentation and Wikis
 
