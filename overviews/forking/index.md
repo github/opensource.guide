@@ -4,7 +4,6 @@ title: Forking Projects
 read_time: 4 minutes
 updated_at: Jan 23, 2014
 icon: repo-forked
-title_sha: 87d0bebe1173acd569c8557b76221ee245256da9
 survey_tag: 'project-forking-1'
 
 summary: Ever find a project on GitHub that you want to work on? Find out how you can contribute with Forking.

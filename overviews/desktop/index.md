@@ -4,7 +4,6 @@ title: Getting your project on GitHub
 read_time: 5 minute
 updated_at: Jan 15, 2014
 icon: device-desktop
-title_sha: 47011690ae87bd6102c016f144857b7e4e3bb11a
 survey_tag: 'project-bootstrapping-1'
 
 summary: Publishing source code doesn’t have to be a pain. This guide will walk you through our Mac & Windows applications and how to start sharing your projects with the world (or maybe with no one at all).
@@ -50,7 +49,7 @@ The easiest way to get your project into GitHub Desktop is to drag the folder wi
 
 ![](mac-dragndrop.jpg)
 
-If you are dragging in an existing Git repository, you can skip ahead and [push your code to GitHub.com](#pushit). 
+If you are dragging in an existing Git repository, you can skip ahead and [push your code to GitHub.com](#pushit).
 
 If the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder—it will simply create some hidden files that allow Git to do its magic.
 

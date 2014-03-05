@@ -1,7 +1,5 @@
 $(function(){
 
-  $('.js-geopattern').geopattern();
-
   // Initalize the ToC if we're on an article page
   if ($('.js-toc').length) {
     tableOfContents($('.js-toc'));
