@@ -43,7 +43,7 @@ You can change or add a milestone, an assignee, and labels by clicking their cor
 
 ![](labels.png)
 
-If you don't see edit buttons, that's because you don't have don't have permission to edit the issue. You can ask the repository owner to add you as a collaborator to get access.
+If you don't see edit buttons, that's because you don't have permission to edit the issue. You can ask the repository owner to add you as a collaborator to get access.
 
 ### Milestones
 
