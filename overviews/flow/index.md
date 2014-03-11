@@ -2,6 +2,7 @@
 layout: article
 full_width: true
 title: Understanding the GitHub Flow
+pattern: sine_waves
 read_time: 5 minute
 updated_at: Dec 12, 2013
 icon: git-branch
