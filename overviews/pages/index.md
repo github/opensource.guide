@@ -13,16 +13,19 @@ summary: GitHub Pages are a great way to showcase some open source projects, hos
 <a id="intro" title="Intro" class="toc-item"></a>
 GitHub Pages are public webpages freely hosted and easily published through GitHub. The quickest way to get up and running is by using the Automatic Page Generator to create some starter HTML and CSS for us. Once created, we will be able to create additional changes to this content and style in the web or on our desktop.
 
-![pages-home-page](https://f.cloud.github.com/assets/45141/1651846/be1eeb0e-5af3-11e3-888f-350f75f724d4.png)
+![pages-home-page](pages-home-page.png)
 
 <a id="setup" title="Create Your Website" class="toc-item"></a>
 
 ## Create Your Website
 
-Once we're <a href="https://github.com/login" target="_blank">signed in</a> we can create a special named repository for our website.
+Once we're <a href="https://github.com/login" target="_blank">signed in</a> we will create a new repository to get started.
 
-![](placeholder_image_of_clicking_new_repo_icon)
-![](placeholder_image_of_creating_repo_screen)
+![](create-new-repo-button.png)
+
+Once on the new repository screen, we need to name this repository something special for generating our website.
+
+![](create-new-repo-screen.png)
 
 This repository, `username.github.io`, will be where all of the HTML and CSS lives that makes up our website. Make sure when naming it, that we name it after our actual username, not the word 'username'. To have this initial set of HTML and CSS for us, we have to first go over to the settings tab to enable the automatic page generator.
 
