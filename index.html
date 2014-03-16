@@ -7,13 +7,13 @@ layout: landing_page
   {% for post in site.pages %}
   {% if post.title != nil %}
   <article class="guide-listing js-guide-listing">
-    <svg class="article-header-guilloche js-guilloche" xmlns="http://www.w3.org/2000/svg" width="440" height="225"></svg>
-    <div class="guide-cover js-guide-cover">
+
+    <div class="guide-cover js-guide-cover js-geopattern" style="background-image: {% uri_geo_pattern text=post.title base_color='#8c282c' %}">
       <a href="{{ site.baseurl }}/{{ post.path | replace:'/index.md','' }}">
         <div class="icon-container">
           <span class="mega-octicon octicon-{{ post.icon }}"></span>
         </div>
-        <h3 class="guide-cover-title js-guide-cover-title" data-title-sha="{{ post.title_sha }}">{{ post.title }}</h3>
+        <h3 class="guide-cover-title js-guide-cover-title">{{ post.title }}</h3>
       </a>
     </div>
 

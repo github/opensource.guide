@@ -14,6 +14,10 @@ html, body {
   background-color: #fff;
 }
 
+.task-list-item {
+  list-style: none;
+}
+
 /* Guide listings */
 
 .guide-listings {
@@ -103,6 +107,10 @@ article.full .content-body {
   font-size: 18px;
 }
 
+article.full .content-body.full-width {
+  width: 100%;
+}
+
 .toc-wrapper {
   float: right;
   width: 200px;
@@ -140,9 +148,10 @@ ol.toc.sticky {
   text-shadow: 0 2px 0 rgba(0, 0, 0, 0.15);
 }
 
-.article-header-guilloche {
+.article-header-pattern {
   position: absolute;
   z-index: 1;
+  display: none;
 }
 
 .article-heading .wrap {
@@ -170,6 +179,49 @@ ol.toc.sticky {
 .article-read-time .octicon {
   position: relative;
   top: -1px;
+}
+
+.markdown-example {
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.075);
+}
+.markdown-example .source {
+  margin: 0;
+  padding: 20px;
+  background: #F8F8F8;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid #ccc;
+  white-space: pre-wrap;
+  font-size: 16px;
+  line-height: 28px;
+}
+.markdown-example .rendered {
+  padding: 20px;
+}
+
+.markdown-body ul.example-nav {
+  margin: 20px 0;
+  padding: 0;
+}
+.example-nav li {
+  margin: 0 15px 0 0;
+  padding: 0;
+  list-style-type: none;
+  display: inline-block;
+}
+
+.example-nav li a {
+  font-size: 16px;
+  font-weight: bold;
+}
+.example-nav li a.selected {
+  padding: 2px 12px 4px 12px;
+  color: #fff;
+  background: #4183C4;
+  border-radius: 20px;
 }
 
 /* Main site styles */
@@ -224,6 +276,12 @@ article img {
   background: #fafafa;
   border: 1px solid #eee;
 }
+article img.emoji {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  border: none;
+}
 
 footer {
   margin-top: 20px;
@@ -273,6 +331,10 @@ ol.toc>li a.active {
   margin: 20px 0;
 }
 
+.nav-rss a .octicon-rss {
+  color: #ff6600;
+}
+
 /* Smaller than standard 960 (devices and browsers) */
 @media only screen and (max-width: 959px) {
   .guide-listing {
@@ -313,14 +375,18 @@ ol.toc>li a.active {
   html, body {
     font-size: 15px;
   }
-  .nav-github {
+  .nav-github, .nav-rss {
     display: none ! important;
   }
   .article-heading .wrap {
     padding: 30px 0;
   }
   article h1 {
-    font-size: 36px;
+    font-size: 34px;
+    margin-left: 96px;
+  }
+  .article-read-time {
+    margin-left: 96px;
   }
   article.full .content-body {
     width: 100%;
@@ -338,7 +404,6 @@ ol.toc>li a.active {
     padding-left: 15px;
     padding-right: 15px;
   }
-
   .guide-cover-title {
     font-size: 26px;
   }

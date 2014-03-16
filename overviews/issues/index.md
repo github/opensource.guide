@@ -1,10 +1,9 @@
 ---
 layout: article
 title: Mastering Issues
-read_time: 7 minute
-updated_at: Aug 9, 2013
+read_time: 10 minute
+updated_at: Jan 15, 2014
 icon: issue-closed
-title_sha: d145998e941f058151cadcc7489275a8bb5d31d5
 survey_tag: 'issues-1'
 
 summary: GitHub is great for managing all of the information <em>around</em> the code. This guide helps explain our issue tracking system and how to keep up to date with issues you’ve participated in.
@@ -13,15 +12,15 @@ summary: GitHub is great for managing all of the information <em>around</em> the
 <a id="intro" title="Intro" class="toc-item"></a>
 Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They're kind of like email—except they can be shared and discussed with the rest of your team. Most software projects have a bug tracker of some kind. GitHub's tracker is called **Issues**, and has its own section in every repository.
 
-![](http://cl.ly/image/3F3R2w160x3Z/Image%202013-11-25%20at%205.39.33%20PM.png)
+![](navigation-highlight.png)
 
 For example, let's take a look at <a href="https://github.com/twbs/bootstrap/issues" target="_blank">Bootstrap's Issues section</a>:
 
-![](http://cl.ly/image/381U0b3r3u0C/Image%202013-08-09%20at%202.18.11%20PM.png)
+![](listing-screen.png)
 
 GitHub's issue tracking is special because of our focus on collaboration, references, and excellent text formatting. A typical issue on GitHub looks a bit like this:
 
-![](http://cl.ly/image/3Y3z1v3A020T/Image%202013-08-08%20at%203.59.07%20PM.png)
+![](example-issue.png)
 
 * A **title and description** describe what the issue is all about.
 
@@ -40,15 +39,15 @@ GitHub's issue tracking is special because of our focus on collaboration, refere
 
 Once you've collected a lot of issues, you may find it hard to find the ones you care about. **Milestones**, **labels**, and **assignees** are great features to filter and categorize issues.
 
-You can change the milestone and assignee through the grey bar at the top of issues. Labels can be added by clicking the gear dropdown next to the Labels section in the right hand sidebar.
+You can change or add a milestone, an assignee, and labels by clicking their corresponding gears in the sidebar on the right.
 
-![](http://cl.ly/image/120i3q0P0528/Image%202013-08-08%20at%206.06.30%20PM.png)
+![](labels.png)
 
-If you don't see edit buttons, that's because you don't have don't have permission to edit the issue. You can ask the repository owner to add you as a collaborator to get access.
+If you don't see edit buttons, that's because you don't have permission to edit the issue. You can ask the repository owner to add you as a collaborator to get access.
 
 ### Milestones
 
-![](http://cl.ly/image/2E2q0j1L3s3D/Image%202013-08-08%20at%206.12.48%20PM.png)
+![](milestones.png)
 
 Milestones are groups of issues that correspond to a project, feature, or time period. People use them in many different ways in software development. Some examples:
 
@@ -62,7 +61,7 @@ Milestones are groups of issues that correspond to a project, feature, or time p
 
 Labels are a great way to organize different types of issues. Issues can have as many labels as you want, and you can filter by one or many labels at once.
 
-![](http://cl.ly/image/2S063e0q280D/labels.png)
+![](labels-listing.png)
 
 ### Assignees
 
@@ -73,9 +72,11 @@ Each issue can have an assignee — one person that's responsible for moving the
 
 ## Notifications, @mentions, and References
 
-By using @mentions and references inside of Issues, you can notify other GitHub users & teams, and cross-connect issues to each other. These provide a flexible way to get the right people involved to resolve issues effectively, and are easy to learn and use. They work across all text fields on GitHub — they're a part of our text formatting syntax called [**GitHub Flavored Markdown**](https://help.github.com/articles/github-flavored-markdown).
+By using @mentions and references inside of Issues, you can notify other GitHub users & teams, and cross-connect issues to each other. These provide a flexible way to get the right people involved to resolve issues effectively, and are easy to learn and use. They work across all text fields on GitHub — they're a part of our text formatting syntax called [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).
 
-![](http://cl.ly/image/0u422037413i/Image%202013-08-08%20at%204.33.12%20PM.png)
+![](markdown-example.png)
+
+If you'd like to learn more, have a look at **[Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/)**.
 
 ### Notifications
 
@@ -83,13 +84,13 @@ By using @mentions and references inside of Issues, you can notify other GitHub 
 
 There are two ways to receive notifications: via email, and via the web. You can configure how you receive notifications <a href="https://github.com/settings/notifications" target="_blank">in your settings</a>. If you plan on receiving a lot of notifications, we like to recommend that you receive web + email notifications for **Participating** and web notifications for **Watching**.
 
-![](http://cl.ly/image/3Y3S1b3M0h2U/content)
+![](notifications.png)
 
 With these settings, you receive emails when people specifically mention you, then visit the web-based interface to keep up to date with repositories you're interested in.
 
 You can access your notifications through the <a href="https://github.com/notifications" target="_blank">notifications</a> screen. This screen is nice for scanning many notifications at once and marking them as read or muting the thread. Try using keyboard shortcuts to speed up your workflow here — press `?` on the page to see which shortcuts are available.
 
-![](http://cl.ly/image/1V1J0N0l1H2v/content)
+![](notification.png)
 
 Muted threads won’t show up as unread again until you are specifically @mentioned again. This makes muting a great strategy for threads that you have little interest in (perhaps a sub-system that you aren’t familiar with). If you mark an issue as read, it will stay that way until someone comments on the thread again.
 
@@ -118,14 +119,14 @@ Often times issues are dependent on other issues, or at least relate to them and
 
 When you do this, we'll create an event inside of issue #42 that looks something like this:
 
-![](http://cl.ly/image/1J2g0I0N3l0V/Image%202013-08-08%20at%204.47.08%20PM.png)
+![](reference.png)
 
 
-Issue in another repository? Just include the repository before the name like `kneath/example-project#42`. 
+Issue in another repository? Just include the repository before the name like `kneath/example-project#42`.
 
 One of the more interesting ways to use GitHub Issues is to reference issues directly from commits. Include the issue number inside of the commit message.
 
-![](http://cl.ly/image/3U2o202e1a1Q/Image%202013-08-08%20at%204.50.34%20PM.png)
+![](commit.png)
 
 By prefacing your commits with "Fixes", "Fixed", "Fix", "Closes", "Closed", or "Close" when the commit is merged into master, it will also automatically close the issue.
 
@@ -138,7 +139,7 @@ References make it possible to deeply connect the work being done with the bug b
 
 At the very top of each page is a search box that lets you search through issues.
 
-![](http://cl.ly/image/3T2X2E2g2X1B/Image%202013-11-25%20at%206.29.52%20PM.png)
+![](search.png)
 
 * <a href="https://github.com/twbs/bootstrap/search?q=sidebar&type=Issues" target="_blank">All issues mentioning the sidebar</a>
 
@@ -170,7 +171,7 @@ If you use organizations, each of your organizations has it's own Issues dashboa
 
 Underneath each repository is a section called **Pulse** — Pulse is a snapshot of everything that's happened in the repository in the past week (or day, or past 3 months, etc).
 
-![](http://cl.ly/image/0K3E1e3N1J0q/Image%202013-08-08%20at%207.53.24%20PM.png)
+![](pulse.png)
 
 It's a great way to catch up with repositories when you've been away and don't want the granularity notifications offer when watching a repository.
 
@@ -185,8 +186,8 @@ Issues are great for tracking all kinds of things — and GitHub is a great plac
 * <a href="https://github.com/joyent/node/issues" target="_blank">Bug tracker for your open source projects</a>
 
 
-* <a href="https://github.com/newmerator/recipes/issues" target="_blank">Request for recipes</a> (maybe you have a good <strong><a href="https://github.com/newmerator/recipes/issues/3" target="_blank">gluten-free pizza dough recipes?</a></strong>)
+* <a href="https://github.com/newmerator/recipes/issues" target="_blank">Request for recipes</a> (maybe you have a good <strong><a href="https://github.com/newmerator/recipes/issues/3" target="_blank">gluten-free pizza dough recipe</a>?</strong>)
 
 ## Fin
 
-**Now congragulate yourself** — that was a lot to read! Issue management is one of the most powerful tools at any developer's disposal. I guess all that's left is to actually fix the bugs now. Sounds boring.
+**Now congratulate yourself** — that was a lot to read! Issue management is one of the most powerful tools at any developer's disposal. I guess all that's left is to actually fix the bugs now. Sounds boring.

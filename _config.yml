@@ -1,6 +1,15 @@
-baseurl: /guides
+baseurl:
 google_tracking_id: UA-3769691-29
-exclude: [gems]
+exclude:
+  - gems
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - ".gitignore"
+  - CONTRIBUTING.md
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
+gems:
+  - jekyll-geo-pattern

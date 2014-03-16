@@ -3,13 +3,12 @@ layout: default
 ---
 
 <article class="full">
-  <div class="article-heading js-guide-article">
-    <svg class="article-header-guilloche js-guilloche" xmlns="http://www.w3.org/2000/svg"></svg>
+  <div class="article-heading js-article-heading js-geopattern" style=" background-image: {% uri_geo_pattern text=page.title base_color="#8c282c" %})">
     <div class="wrap">
       <div class="icon-container">
         <span class="mega-octicon octicon-{{page.icon}}"></span>
       </div>
-      <h1 class="js-guide-article-title" data-title-sha="{{ page.title_sha }}">{{ page.title }}</h1>
+      <h1>{{ page.title }}</h1>
       <span class="article-read-time">
         <span class="octicon octicon-clock"></span> {{ page.read_time }} read
       </span>
@@ -18,11 +17,13 @@ layout: default
 
 
   <div class="wrap">
+    {% if page.full_width != true %}
     <div class="toc-wrapper">
       <ol class="toc js-toc"></ol>
     </div>
+    {% endif %}
 
-    <div class="markdown-body content-body">
+    <div class="markdown-body content-body {% if page.full_width %}full-width{% endif %}">
       {{ content }}
 
       <p class="last-updated">Last updated {{ page.updated_at }}</p>
