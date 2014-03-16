@@ -15,8 +15,6 @@ GitHub Pages are public webpages freely hosted and easily published through GitH
 
 ![pages-home-page](https://f.cloud.github.com/assets/45141/1651846/be1eeb0e-5af3-11e3-888f-350f75f724d4.png)
 
-When first creating our website, we are presented with the option to change the default content, choose a theme, and finally publishing our website.
-
 <a id="setup" title="Create Your Website" class="toc-item"></a>
 
 ## Create Your Website
