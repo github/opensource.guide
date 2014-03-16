@@ -24,7 +24,7 @@ Once we're <a href="https://github.com/login" target="_blank">signed in</a> we c
 ![](placeholder_image_of_clicking_new_repo_icon)
 ![](placeholder_image_of_creating_repo_screen)
 
-This repository, `username.github.io`, will be where all of the HTML and CSS lives that makes up our website. GitHub is going to generate this initial code for us from the settings tab.
+This repository, `username.github.io`, will be where all of the HTML and CSS lives that makes up our website. Make sure when naming it, that we name it after our actual username, not the word 'username'. To have this initial set of HTML and CSS for us, we have to first go over to the settings tab to enable the automatic page generator.
 
 ![](settings_tab_shot)
 
