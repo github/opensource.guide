@@ -32,7 +32,7 @@ Scrolling down near the bottom of the options, we see a button labeled "Automati
 
 ![](automatic-page-generator)
 
-When we click this, we're directed to the first step of generating the page: The Content. We can go ahead and keep this default content and make changes to it later. Let's go ahead and click `Continue to Layouts`
+When we click this, we're directed to the first step of generating the page: The Content. We can go ahead and keep this default content and make changes to it later. Let's go ahead and click `Continue to Layouts` at the bottom of the page.
 
 ![](content-step-continue-to-layout)
 
