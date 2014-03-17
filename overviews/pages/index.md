@@ -29,19 +29,19 @@ Once on the new repository screen, we need to name this repository something spe
 
 This repository, `username.github.io`, will be where all of the HTML and CSS lives that makes up our website. Make sure when naming it, that we name it after our actual username, not the word 'username'. To have this initial set of HTML and CSS for us, we have to first go over to the settings tab to enable the automatic page generator.
 
-![](settings_tab_shot)
+![](settings-tab.png)
 
 Scrolling down near the bottom of the options, we see a button labeled "Automatic Page Generator". Clicking this will start off the process for our content being automatically created for us.
 
-![](automatic-page-generator)
+![](automatic-page-generator.png)
 
 When we click this, we're directed to the first step of generating the page: The Content. We can go ahead and keep this default content and make changes to it later. Let's go ahead and click `Continue to Layouts` at the bottom of the page.
 
-![](content-step-continue-to-layout)
+![](continue-to-layout.png)
 
 Now, we pick our theme. This part requires a bit more thought, as the style we choose is slightly harder to update later. Take a look at some of the options at the top, and when you find one you love, click Publish at the top.
 
-![](selection-of-style-click-publish)
+![](selection-of-layout-publish.png)
 
 Once we click publish, GitHub does all the work to ensure when someone navigates to `username.github.io` it directs to your new website. This can take up to 10 minutes. After some time passes, feel free to open a new tab in your browser and go to your website!
 
