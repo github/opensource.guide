@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Getting Started with GitHub Pages
-read_time: 5 minute
+read_time: 10 minute
 updated_at: Dec 1, 2013
 icon: file-text
 title_sha: 309cb295fd8cec60d292d20165104a098e2084f3
