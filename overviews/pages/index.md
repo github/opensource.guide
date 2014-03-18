@@ -42,7 +42,7 @@ Now we pick our theme. This part requires a bit more thought because it's slight
 
 ![](selection-of-layout-publish.png)
 
-Once we click publish, GitHub does all the work to ensure when someone navigates to `username.github.io` it directs to your new website. This can take up to 10 minutes. After some time passes, feel free to open a new tab in your browser and go to your website!
+Once we click **Publish**, GitHub does all the work to direct visitors to `username.github.io` to view your new website. This can take up to 10 minutes. After some time has passed, we can open a new tab in our browser to go to our site!
 
 <a id="changes" title="Making Changes" class="toc-item"></a>
 
