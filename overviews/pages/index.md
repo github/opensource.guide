@@ -30,11 +30,11 @@ Our website's HTML and CSS will all live in a repository named `username.github.
 
 ![](settings-tab.png)
 
-Scrolling down near the bottom of the options, we see a button labeled "Automatic Page Generator". Clicking this will start off the process for our content being automatically created for us.
+If we scroll down on the settings page, we should see a button labeled "Automatic Page Generator" near the bottom. By clicking this button, we will begin the process of generating our content automatically.
 
 ![](automatic-page-generator.png)
 
-When we click this, we're directed to the first step of generating the page: The Content. We can go ahead and keep this default content and make changes to it later. Let's go ahead and click `Continue to Layouts` at the bottom of the page.
+Once we've clicked the button, we're directed to the first step of the generation: The Content. We can keep this default content for now and make changes to it later. Let's go ahead and click **Continue to Layouts** at the bottom of the page to continue.
 
 ![](continue-to-layout.png)
 
