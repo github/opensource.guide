@@ -26,7 +26,7 @@ On the new repository screen, we need to give this repository a special name to 
 
 ![](create-new-repo-screen.png)
 
-This repository, `username.github.io`, will be where all of the HTML and CSS lives that makes up our website. Make sure when naming it, that we name it after our actual username, not the word 'username'. To have this initial set of HTML and CSS for us, we have to first go over to the settings tab to enable the automatic page generator.
+Our website's HTML and CSS will all live in a repository named `username.github.io` (where "username" is our actual user name, of course). To get an initial set of HTML and CSS, we have to open the settings tab and enable the Automatic Page Generator
 
 ![](settings-tab.png)
 
