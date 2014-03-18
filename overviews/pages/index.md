@@ -49,3 +49,9 @@ Once we click publish, GitHub does all the work to ensure when someone navigates
 ## Making Changes
 
 One of the first things we can do is remove the default title of our index page, and add a friendlier message to it. Since this is a very quick change -- and our first one -- we're going to make it on the default branch: `gh-pages`.
+
+If we click on `index.html` to navigate into that file, we can make edits to it by selecting the edit button.
+
+![](edit-index-page.png)
+
+Let's find in this file where it says `username.github.io` and change this to a more friendly name. For the Octocat, I'm going to change it to "Welcome to the Octocat's Homepage". Feel free to do the same, except for your own username!
