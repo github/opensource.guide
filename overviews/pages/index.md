@@ -54,4 +54,8 @@ If we click on `index.html` to navigate into that file, we can make edits to it 
 
 ![](edit-index-page.png)
 
-Let's find in this file where it says `username.github.io` and change this to a more friendly name. For the Octocat, I'm going to change it to "Welcome to the Octocat's Homepage". Feel free to do the same, except for your own username!
+Let's find in this file where it says `username.github.io` and change this to a more friendly name. For the Octocat, I'm going to change it to "Welcome to the Octocat's Homepage". Feel free to do the same, except for your own username! Under this title, we should add a message about the purpose of the page and describe what we want people to do while they're here.
+
+After we're done making this small change, scroll to the bottom of the page to make our first commit. We have two places to write about this change: a subject and an extended description. The extended description is optional, so let's leave a descriptive message in the subject.
+
+![](commit-messages-matter.png)
