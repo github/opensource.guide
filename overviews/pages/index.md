@@ -59,3 +59,19 @@ Let's find in this file where it says `username.github.io` and change this to a 
 After we're done making this small change, scroll to the bottom of the page to make our first commit. We have two places to write about this change: a subject and an extended description. The extended description is optional, so let's leave a descriptive message in the subject.
 
 ![](commit-messages-matter.png)
+
+When we're done, we can click `Commit Changes` and our change should go live in just a few seconds!
+
+<a id="next-steps" title="Next Steps" class="toc-item"></a>
+
+## Next Steps
+
+Just because we've made some changes into our project doesn't mean we should stop! Check out these other guides so we can contribute to other projects or get someone to help us out with our project:
+
+- [GitHub Flow] [1]
+- [Contributing to Open Source] [2]
+- [Open Sourcing Your Work] [3]
+
+[1]: /overviews/flow
+[2]: /overviews/os-contributing/
+[3]: /overviews/create-os/
