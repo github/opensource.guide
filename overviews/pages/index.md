@@ -6,7 +6,7 @@ updated_at: Dec 1, 2013
 icon: file-text
 survey_tag: 'pages-automatic-generators'
 
-summary: GitHub Pages are a great way to showcase some open source projects, host a blog, or even share your resume. This guide will help get you started on creating your next website.
+summary: GitHub Pages are a great way to showcase some open source projects, host a blog, or even share your résumé. This guide will help get you started on creating your next website.
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
