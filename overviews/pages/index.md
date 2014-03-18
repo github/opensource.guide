@@ -38,7 +38,7 @@ Once we've clicked the button, we're directed to the first step of the generatio
 
 ![](continue-to-layout.png)
 
-Now, we pick our theme. This part requires a bit more thought, as the style we choose is slightly harder to update later. Take a look at some of the options at the top, and when you find one you love, click Publish at the top.
+Now we pick our theme. This part requires a bit more thought because it's slightly more difficult to update our theme later. When we've looked at some of the options at the top of the page and found one that we love, click **Publish** to finish.
 
 ![](selection-of-layout-publish.png)
 
