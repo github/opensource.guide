@@ -10,7 +10,7 @@ summary: GitHub Pages are a great way to showcase some open source projects, hos
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
-GitHub Pages are public webpages freely hosted and easily published through GitHub. The quickest way to get up and running is by using the Automatic Page Generator to create some starter HTML and CSS for us. Once created, we will be able to create additional changes to this content and style in the web or on our desktop.
+GitHub Pages are public webpages freely hosted and easily published through GitHub. The quickest way to get up and running is by using the Automatic Page Generator to create some starter HTML and CSS for us. We can then modify our GitHub Pages' content and style remotely via the web or locally on our computer.
 
 ![pages-home-page](pages-home-page.png)
 
