@@ -22,7 +22,7 @@ Once we're <a href="https://github.com/login" target="_blank">signed in</a> we w
 
 ![](create-new-repo-button.png)
 
-Once on the new repository screen, we need to name this repository something special for generating our website.
+On the new repository screen, we need to give this repository a special name to generate our website.
 
 ![](create-new-repo-screen.png)
 
