@@ -47,3 +47,5 @@ Once we click publish, GitHub does all the work to ensure when someone navigates
 <a id="changes" title="Making Changes" class="toc-item"></a>
 
 ## Making Changes
+
+One of the first things we can do is remove the default title of our index page, and add a friendlier message to it. Since this is a very quick change -- and our first one -- we're going to make it on the default branch: `gh-pages`.
