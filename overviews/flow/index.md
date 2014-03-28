@@ -1,11 +1,15 @@
 ---
 layout: article
 full_width: true
-title: Understanding the GitHub Workflow
+title: Understanding the GitHub Flow
 read_time: 5 minute
 updated_at: Dec 12, 2013
 icon: git-branch
 survey_tag: 'flow-1'
+
+# optional
+pattern: sine_waves
+color: "#932d70"
 
 summary: GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub Flow works.
 ---
