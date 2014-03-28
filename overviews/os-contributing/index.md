@@ -43,8 +43,6 @@ Projects often have a community around them, made up of other users in different
 - **Contributors** is everyone who has had a pull request merged into a project.
 - **Community Members** are the users who often use and care deeply about the project and are active in discussions for features and pull requests.
 
-> What are 'community members' actually called? Does core-contributors need to be it's own, do some core-contributors not have access and contribute via PRs?
-
 <a id="docs" title="Documentation" class="toc-item"></a>
 
 ### Reading the Docs
