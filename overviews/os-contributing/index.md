@@ -79,14 +79,6 @@ _[Note: @jlord it would be great to link to a project with a docs folder and D3'
 
 ![d3 wiki](d3-wiki.png)
 
-### GitHub Pages
-
-GitHub offers [free static site hosting]() for all repositories (and users and organizations). Many open source projects take advantage of this by creating a website for the project -- a great resource for finding live demos. All pages hosted this way have a 'github.io' domain. Regardless of where the site is hosted, if a project has its own website, the link can often be found at the top of the repository's page on GitHub.
-
-> Um, I wanted to use tobiasahlin/SpinKit as an example but turns out it's not making use of GitHub Pages!
-
-![gh-pages](gh-pages.png)
-
 <a id="issue" title="Create an Issue" class="toc-item"></a>
 
 _[Note to @jlord: We might want to capture this content Issues, PRs, etc. under a subhead similarly to how you captured the readme and other docs]_
