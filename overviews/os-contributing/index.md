@@ -15,18 +15,14 @@ A great way to get involved in open source is to contribute to the existing proj
 
 <a id="find" title="Find Projects" class="toc-item"></a>
 
-### Find Projects
+## Find Projects
 
 We recommend that you start by finding a project that you're already (or are interested in) using. Here are a few great places to look:
 
-> Maybe say twitter and mention how much traffic comes in from Tiwtter
-
-> How do we feel about these links/recommending outside places?
-
 - [GitHub Explore](https://github.com/explore): Popular and trending projects.
 - [GitHub Stars](https://github.com/stars?direction=desc&sort=created): Projects starred by other people.
+- [GitHub Showcases](https://github.com/showcases): A way to discover related repositories.
 - [Layervault News](http://news.layervault.com): Front-end and design projects.
-- [CodeTriage](http://www.codetriage.com/): Projects with open issues (contributors needed).
 
 ![layervault](layervault.png)
 
