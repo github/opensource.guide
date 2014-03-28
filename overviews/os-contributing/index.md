@@ -83,9 +83,7 @@ Now that you've found the material for understanding the project, here is how yo
 
 If you find a bug in a project you're using (and you don't know how to fix it), have trouble following the documentation or have a question about the project -- create an issue! There's nothing to it and whatever issue you're having, you're likely not the only one, so others will find your issue helpful, too. For more information on how issues work, check out our [Issues guide](http://guides.github.com/overviews/issues).
 
-> Why don't my :tm:s work?
-
-#### Issues Pro Tips :TM:
+#### Issues Pro Tips™
 
 - **Check existing issues** for your issue. Duplicating an issue is slower for both parties so search through open and closed issues to see if what you're running into has been addressed already.
 - **Be clear** about what your problem is. Detail how someone else can recreate the problem.
@@ -99,7 +97,7 @@ If you find a bug in a project you're using (and you don't know how to fix it), 
 
 If you're able to patch the bug or add the feature yourself -- fantastic, make a pull request with the code! Be sure you've read any documents on contributing, understand the license and have signed a CLA if required. Once you've submitted a pull request the maintainer(s) can compare your branch to the existing one and decide whether or not to incorporate (pull in) your changes.
 
-#### Pull Request Pro Tips :TM:
+#### Pull Request Pro Tips™
 
 - [Fork](http://guides.github.com/overviews/forking/) the repository and clone it locally. Connect your local to the original 'upstream' repository by adding it as a remote. **Pull in changes** from 'upstream' often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork).
 - Create a [**branch**](http://guides.github.com/overviews/flow/) for your edits.
