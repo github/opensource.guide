@@ -61,8 +61,6 @@ Projects and project maintainers vary, so the best way to contribute will also v
 
 A license file, well, is the license for the project. An open source project's license informs users what they can and can't do (e.g., use, modify, redistribute), and contributors, what they are allowing others to do. There are many ways to license and open source project, you can read more about what each license means at [choosealicense.com](http://www.choosealicense.com).
 
-> Emphasis probably not needed
-
 #### Documentation and Wikis
 
 Many larger projects must beyond go the readme to give instructions for how people can use their project. In such cases you'll often find a link to another file or a folder named 'docs' in the repository.
