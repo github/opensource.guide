@@ -71,12 +71,6 @@ Alternatively, the repository may instead use the GitHub wiki to break down docu
 
 ![d3 wiki](d3-wiki.png)
 
-#### GitHub Pages
-
-GitHub offers [free static site hosting](http://pages.github.com) for all repositories (and users and organizations). Many open source projects take advantage of this by creating a website for the project -- a great resource for finding live demos. All pages hosted this way have a 'github.io' domain. Regardless of where the site is hosted, if a project has its own website, the link can often be found at the top of the repository's page on GitHub.
-
-![gh-pages](gh-pages.png)
-
 <a id="contributing" title="Contributing to a Project" class="toc-item"></a>
 
 
