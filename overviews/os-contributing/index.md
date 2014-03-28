@@ -45,19 +45,19 @@ Projects often have a community around them, made up of other users in different
 
 <a id="docs" title="Documentation" class="toc-item"></a>
 
-### Reading the Docs
+## Reading the Docs
 
 The what's-what of common files in projects.
 
-#### Readme
+### Readme
 
 Nearly all GitHub projects include a `README.md` file. The readme provides a lay of the land for a project with details on how to use, build and sometimes contribute to a project.
 
-#### Contributing.md
+### Contributing.md
 
 Projects and project maintainers vary, so the best way to contribute will also vary. Keep your eye open for a doc labeled "CONTRIBUTING." Contributing docs detail the specifics about how a project's maintainer would like to see patches or features contributed. This can include what tests to write, code syntax style or areas to focus on for patches.
 
-#### License.md
+### License.md
 
 A license file, well, is the license for the project. An open source project's license informs users what they can and can't do (e.g., use, modify, redistribute), and contributors, what they are allowing others to do. There are many ways to license and open source project, you can read more about what each license means at [choosealicense.com](http://www.choosealicense.com).
 
@@ -72,7 +72,6 @@ Alternatively, the repository may instead use the GitHub wiki to break down docu
 ![d3 wiki](d3-wiki.png)
 
 <a id="contributing" title="Contributing to a Project" class="toc-item"></a>
-
 
 ## Contributing to a Project
 
