@@ -4,7 +4,7 @@ title: Contributing to Open Source on GitHub
 read_time: 999 minute
 updated_at: Jan 18, 2013
 icon: repo
-survey_tag: 'issues-1'
+survey_tag: 'contributing-to-open-source-1'
 
 summary: Open source software is thriving on GitHub. Anyone can get involved and it's easy, too. This guide covers the basics about what to look for and what to do when contributing to open source projects.
 ---
