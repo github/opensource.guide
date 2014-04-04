@@ -53,7 +53,7 @@ Projects and project maintainers vary, so the best way to contribute will also v
 
 #### License
 
-A `LICENSE` file, well, is the license for the project. An open source project's license informs users what they can and can't do (e.g., use, modify, redistribute), and contributors, what they are allowing others to do. There are many ways to license and open source project, you can read more about what each license means at [choosealicense.com](http://www.choosealicense.com).
+A `LICENSE` file, well, is the license for the project. An open source project's license informs users what they can and can't do (e.g., use, modify, redistribute), and contributors, what they are allowing others to do. There are many ways to license and open source project, you can read more about what each license means at [choosealicense.com](http://choosealicense.com).
 
 #### Documentation and Wikis
 
