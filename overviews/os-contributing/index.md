@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Contributing to Open Source on GitHub
-read_time: 999 minute
+read_time: 6 minute
 updated_at: Jan 18, 2013
 icon: repo
 survey_tag: 'contributing-to-open-source-1'
