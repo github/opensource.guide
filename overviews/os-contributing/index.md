@@ -57,7 +57,7 @@ A `LICENSE` file, well, is the license for the project. An open source project's
 
 #### Documentation and Wikis
 
-Many larger projects must beyond go the readme to give instructions for how people can use their project. In such cases you'll often find a link to another file or a folder named 'docs' in the repository.
+Many larger projects go beyond a readme to give instructions for how people can use their project. In such cases you'll often find a link to another file or a folder named 'docs' in the repository.
 
 ![bootstrap docs](docs-folder.png)
 
