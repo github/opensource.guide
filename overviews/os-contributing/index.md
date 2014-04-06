@@ -20,7 +20,7 @@ We recommend that you start by finding a project that you're already (or are int
 - [GitHub Explore](https://github.com/explore): Popular and trending projects.
 - [GitHub Stars](https://github.com/stars?direction=desc&sort=created): Projects starred by other people.
 - [GitHub Showcases](https://github.com/showcases): A way to discover related repositories.
-- [Layervault News](http://news.layervault.com): Front-end and design projects.
+- [LayerVault News](http://news.layervault.com): Front-end and design projects.
 
 ![layervault](layervault.png)
 
