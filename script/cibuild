@@ -24,6 +24,6 @@ cd "$RACK_ROOT"
 
 script/bootstrap
 
-jekyll build
+bundle exec jekyll build
 
-htmlproof _site
+bundle exec htmlproof _site
