@@ -15,7 +15,7 @@ script/server
 
 ## Contributing a new guide
 
-[CONTRIBUTING.md](https://github.com/github/guides/blob/master/CONTRIBUTING.md)
+[CONTRIBUTING.md](/CONTRIBUTING.md)
 has everything you need to know to get your guide ready for the interwebs.
 
 ## People
