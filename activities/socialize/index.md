@@ -7,6 +7,9 @@ icon: organization
 survey_tag: 'project-socialize-1'
 
 summary: On GitHub there are many people and many projects to explore. Keeping up with the work that's done with them and showing your interest is easy.
+
+redirect_from:
+  - /overviews/socialize/index.html
 ---
 <link rel="stylesheet" type="text/css" href="socialize.css">
 

@@ -7,6 +7,9 @@ icon: repo
 survey_tag: 'contributing-to-open-source-1'
 
 summary: Open source software is thriving on GitHub. Anyone can get involved and it's easy, too. This guide covers the basics about what to look for and what to do when contributing to open source projects.
+
+redirect_from:
+  - /overviews/os-contributing/index.html
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>

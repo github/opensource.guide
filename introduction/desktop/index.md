@@ -7,6 +7,9 @@ icon: device-desktop
 survey_tag: 'project-bootstrapping-1'
 
 summary: Publishing source code doesn’t have to be a pain. This guide will walk you through our Mac & Windows applications and how to start sharing your projects with the world (or maybe with no one at all).
+
+redirect_from:
+  - /lol/butzz.html
 ---
 <a id="intro" title="Intro" class="toc-item"></a>
 Software is at the heart of GitHub—and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!

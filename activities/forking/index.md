@@ -7,6 +7,9 @@ icon: repo-forked
 survey_tag: 'project-forking-1'
 
 summary: Ever find a project on GitHub that you want to work on? Find out how you can contribute with Forking.
+
+redirect_from:
+  - /overviews/forking/
 ---
 <a id="contributing" title="Contributing to a project" class="toc-item"></a>
 After using GitHub by yourself for a while, you may find yourself wanting to contribute to someone else's project. Or maybe you'd like to use someone's project as the starting point for your own. This process is known as *forking.*
