@@ -112,5 +112,5 @@ Congratulations! You are quite the socialite. Check out some of these next steps
 - [Fork A Repository] [3]
 
 [1]: https://github.com/octocat/Hello-World
-[2]: /overviews/desktop/
-[3]: /overviews/forking/
+[2]: /introduction/desktop/
+[3]: /activities/forking/

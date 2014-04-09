@@ -7,6 +7,9 @@ icon: issue-closed
 survey_tag: 'issues-1'
 
 summary: GitHub is great for managing all of the information <em>around</em> the code. This guide helps explain our issue tracking system and how to keep up to date with issues you’ve participated in.
+
+redirect_from:
+  - /overviews/issues/index.html
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
@@ -76,7 +79,7 @@ By using @mentions and references inside of Issues, you can notify other GitHub 
 
 ![Example of Markdown](markdown-example.png)
 
-If you'd like to learn more, have a look at **[Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/)**.
+If you'd like to learn more, have a look at **[Mastering Markdown](http://guides.github.com/features/mastering-markdown/)**.
 
 ### Notifications
 
