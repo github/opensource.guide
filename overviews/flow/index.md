@@ -146,11 +146,11 @@ GitHub Flow is a lightweight, branch-based workflow that supports teams and proj
 
   </div>
 
-  <a href="#" class="panel-nav prev js-panel-nav-prev" title="Previous">
+  <a href="#" class="panel-nav prev js-panel-nav-prev" title="Previous" data-proofer-ignore>
     <span class="mega-octicon octicon-chevron-left"></span>
   </a>
 
-  <a href="#" class="panel-nav next js-panel-nav-next" title="Next">
+  <a href="#" class="panel-nav next js-panel-nav-next" title="Next" data-proofer-ignore>
     <span class="mega-octicon octicon-chevron-right"></span>
   </a>
 
