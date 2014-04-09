@@ -35,12 +35,12 @@ You can use Markdown most places around GitHub:
 ## Examples
 
 <ul class="example-nav js-examples-nav">
-  <li><a href="#" class="selected" data-container-id="example-text">Text</a></li>
-  <li><a href="#" data-container-id="example-lists">Lists</a></li>
-  <li><a href="#" data-container-id="example-images">Images</a></li>
-  <li><a href="#" data-container-id="example-headers">Headers &amp; Quotes</a></li>
-  <li><a href="#" data-container-id="example-code">Code</a></li>
-  <li><a href="#" data-container-id="example-extras">Extras</a></li>
+  <li><a href="#" class="selected" data-container-id="example-text" data-proofer-ignore>Text</a></li>
+  <li><a href="#" data-container-id="example-lists" data-proofer-ignore>Lists</a></li>
+  <li><a href="#" data-container-id="example-images" data-proofer-ignore>Images</a></li>
+  <li><a href="#" data-container-id="example-headers" data-proofer-ignore>Headers &amp; Quotes</a></li>
+  <li><a href="#" data-container-id="example-code" data-proofer-ignore>Code</a></li>
+  <li><a href="#" data-container-id="example-extras" data-proofer-ignore>Extras</a></li>
 </ul>
 
 <div class="markdown-example" id="example-text">
@@ -101,11 +101,11 @@ Alternatively,
 <pre class="source">
 If you want to embed images, this is how you do it:
 
-![](http://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](http://octodex.github.com/images/yaktocat.png)
 </pre>
 <div class="rendered">
   <p>If you want to embed images, this is how you do it:</p>
-  <p><img src="http://octodex.github.com/images/yaktocat.png" /></p>
+  <p><img src="http://octodex.github.com/images/yaktocat.png" alt="Image of Yakotocat"/></p>
 </div>
 </div>
 
