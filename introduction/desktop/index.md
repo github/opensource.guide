@@ -71,7 +71,7 @@ Make as many commits as you like locally. No one but you can see those commits u
 <a id="pushit" title="Push your code" class="toc-item"></a>
 ## Push your code to GitHub.com
 
-![](mac-push.jpg)
+![Screenshot of pushing in Mac app](mac-push.jpg)
 
 Click the "Push to GitHub" button in the upper-right corner and GitHub Desktop will ask you what kind of repository to create:
 
