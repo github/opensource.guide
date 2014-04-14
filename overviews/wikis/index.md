@@ -20,17 +20,15 @@ Every repository on GitHub has a wiki. Starting your wiki is simply a matter of 
 
 ![Screenshot a starting wiki](wiki-start.png)
 
-## Adding a Page
+## Adding Pages
 
 Wiki content is designed to be human editable. 
 
 Wiki pages can be organized into directories any way you choose. Other content—like images or PDFs—can also be present and organized in the same way. Wiki pages can be written in any format supported by [GitHub Markup](http://github.com/github/markup). GitHub detects the page file format via the extension, so files must have one of the default or registered extensions in order to be converted.
 
-The special page file `Home.ext` (where the extension is one of the supported
-formats) will be used as the entrance page to your wiki. If it is missing, an
-automatically generated table of contents will be shown instead.
+The special page file `Home.ext` (where the extension is one of the supported formats) will be used as the entrance page to your wiki. If it is missing, an automatically generated table of contents will be shown instead.
 
-## Sidebar
+## Including a Sidebar
 
 By default, the sidebar will list all of the pages in your wiki. When you add new pages, they will be added to the sidebar.
 
@@ -42,8 +40,7 @@ The sidebar content will be saved in a file named `_Sidebar` and, like wiki page
 
 ## Syntax Highlighting
 
-Wiki pages support  automatic syntax highlighting of code for a wide range of
-languages by using the following syntax:
+Wiki pages support automatic syntax highlighting of code for a wide range of languages by using the following syntax:
 
     ```ruby
       def foo
