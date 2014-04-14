@@ -38,6 +38,8 @@ The sidebar content will be saved in a file named `_Sidebar` and, like wiki page
 
 ![Screenshot of a sidebar]()
 
+## Cloning your Wiki
+
 ## Syntax Highlighting
 
 Wiki pages support automatic syntax highlighting of code for a wide range of languages by using the following syntax:
