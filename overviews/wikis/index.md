@@ -22,19 +22,13 @@ Every repository on GitHub has a wiki. Starting your wiki is simply a matter of 
 
 ## Adding a Page
 
-Wiki content is designed to be human editable. By default, all your wiki content is stored in the `docs` directory of your repository,  which can be changed in your repository settings.
+Wiki content is designed to be human editable. 
 
 Wiki pages can be organized into directories any way you choose. Other content—like images or PDFs—can also be present and organized in the same way. Wiki pages can be written in any format supported by [GitHub Markup](http://github.com/github/markup). GitHub detects the page file format via the extension, so files must have one of the default or registered extensions in order to be converted.
 
 The special page file `Home.ext` (where the extension is one of the supported
 formats) will be used as the entrance page to your wiki. If it is missing, an
 automatically generated table of contents will be shown instead.
-
-## The GitHub Workflow
-
-Wiki content is versioned just like everything else in a repository. Contributors can use  the [GitHub Workflow](http://guides.github.com/overviews/flow/) to make pull requests to the wiki in the same way as any other files in the repository. Use branches and tags to keep track of different versions of content to go along with releases of a project.
-
-![Screenshot of branch selector on a Wiki]()
 
 ## Sidebar
 
@@ -61,8 +55,4 @@ The block must start with three backticks, optionally followed by the the name o
 
 The block contents should be indented at the same level than the opening backticks. The block must end with three backticks indented at the same level than the opening backticks.
 
-## Upgrading Your Wiki
 
-Wikis used to be stored in a separate repository from the main project. If your project has been around for a while, it might need to be upgraded. Click the "Upgrade This Wiki" button to merge your exisitng wiki content into your project's repository and to take advantage of all the latest features of Wikis.
-
-![Screenshot of button to upgrade wikis](wiki-upgrade.png)
