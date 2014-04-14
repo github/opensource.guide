@@ -12,7 +12,7 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat."
 ---
 
-Good documentation is key to the success of any project. Making that documentation accessible enables people to learn about your project. Making it easy to update ensures that it stays relevant. **Wikis** on GitHub are a great way to present information about a project in a readable way while making it easy for contributors to propose changes.
+Good documentation is key to the success of any project. Making that documentation accessible enables people to learn about your project. Making it easy to update ensures that your documentation stays relevant. **Wikis** on GitHub help you present useful information about your project in a readable way, while also letting contributors propose changes.
 
 ## Creating Your Wiki
 
