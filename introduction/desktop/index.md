@@ -7,6 +7,9 @@ icon: device-desktop
 survey_tag: 'project-bootstrapping-1'
 
 summary: Publishing source code doesn’t have to be a pain. This guide will walk you through our Mac & Windows applications and how to start sharing your projects with the world (or maybe with no one at all).
+
+redirect_from:
+  - /overviews/desktop/index.html
 ---
 <a id="intro" title="Intro" class="toc-item"></a>
 Software is at the heart of GitHub—and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!
@@ -19,7 +22,7 @@ Here are some great reasons to push projects to GitHub:
 
 * **Collaboration** — Once your code is on GitHub, you can invite others to work on your code with you. Send them a link to help you debug a problem.
 
-![Screenshot of your repository](repository.png)
+![Screenshot of repository](repository.png)
 
 Once your project is on GitHub, we provide a URL for every file in your project. For example, this is Mike Bostock's popular <a href="https://github.com/mbostock/d3" target="_blank">d3</a> project for creating data-driven documents with JavaScript.
 
@@ -47,19 +50,19 @@ The easiest way to get your project into GitHub Desktop is to drag the folder wi
 
 *Note: Our examples show the Mac app, but the flows are the same for the Windows app as well.*
 
-![Screenshot of Mac drag and drop](mac-dragndrop.jpg)
+![Screenshot of drag and drop in Mac app](mac-dragndrop.jpg)
 
 If you are dragging in an existing Git repository, you can skip ahead and [push your code to GitHub.com](#pushit).
 
 If the folder isn't a Git repository yet, GitHub Desktop will prompt you to turn it into a repository. Turning your project into a Git repository won't delete or ruin the files in your folder—it will simply create some hidden files that allow Git to do its magic.
 
-![Screenshot of Mac's Git init](mac-gitinit.jpg)
+![Screenshot of Git init in Mac app](mac-gitinit.jpg)
 
 ### Your first commit
 
 All Git repositories are based on *commits*—snapshots of your code at a point in time. You need to make at least one commit before you can push your code up to GitHub.com.
 
-![Screenshot of Mac making commits](mac-commit.jpg)
+![Screenshot of committing in Mac app](mac-commit.jpg)
 
 Navigate to the **Changes** tab and click **Commit** to create your first commit. You'll need to create a new commit every time you change files. Creating a commit is like saving a file—you are telling Git that you'd like to remember this point in history.
 
@@ -68,7 +71,7 @@ Make as many commits as you like locally. No one but you can see those commits u
 <a id="pushit" title="Push your code" class="toc-item"></a>
 ## Push your code to GitHub.com
 
-![Screenshot of Mac pushing code](mac-push.jpg)
+![Screenshot of pushing in Mac app](mac-push.jpg)
 
 Click the "Push to GitHub" button in the upper-right corner and GitHub Desktop will ask you what kind of repository to create:
 

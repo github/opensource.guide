@@ -7,6 +7,9 @@ icon: repo
 survey_tag: 'contributing-to-open-source-1'
 
 summary: Open source software is thriving on GitHub. Anyone can get involved and it's easy, too. This guide covers the basics about what to look for and what to do when contributing to open source projects.
+
+redirect_from:
+  - /overviews/os-contributing/index.html
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
@@ -73,7 +76,7 @@ Now that you've found the material for understanding the project, here is how yo
 
 ### Create an Issue
 
-If you find a bug in a project you're using (and you don't know how to fix it), have trouble following the documentation or have a question about the project -- create an issue! There's nothing to it and whatever issue you're having, you're likely not the only one, so others will find your issue helpful, too. For more information on how issues work, check out our [Issues guide](http://guides.github.com/overviews/issues).
+If you find a bug in a project you're using (and you don't know how to fix it), have trouble following the documentation or have a question about the project -- create an issue! There's nothing to it and whatever issue you're having, you're likely not the only one, so others will find your issue helpful, too. For more information on how issues work, check out our [Issues guide](http://guides.github.com/features/issues).
 
 #### Issues Pro Tips
 
@@ -89,8 +92,8 @@ If you're able to patch the bug or add the feature yourself -- fantastic, make a
 
 #### Pull Request Pro Tips
 
-- **[Fork](http://guides.github.com/overviews/forking/) the repository** and clone it locally. Connect your local to the original 'upstream' repository by adding it as a remote. **Pull in changes** from 'upstream' often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork).
-- **Create a [branch](http://guides.github.com/overviews/flow/)** for your edits.
+- **[Fork](http://guides.github.com/activities/forking/) the repository** and clone it locally. Connect your local to the original 'upstream' repository by adding it as a remote. **Pull in changes** from 'upstream' often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork).
+- **Create a [branch](http://guides.github.com/introduction/flow/)** for your edits.
 - **Be clear** about what problem is occurring and how someone can recreate that problem or why your feature will help. Then be equally as clear about the steps you took to make your changes.
 - **It's best to test**. Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
 - **Include screenshots** of the before and after if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
