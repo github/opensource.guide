@@ -4,7 +4,6 @@ title: Mastering Wikis
 read_time: 809 minute
 icon: book
 updated_at: February 15, 2014
-title_sha: c469509d617e807565143d61be1de8764785475e
 survey_tag: 'wiki-1'
 summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -22,7 +21,7 @@ Every repository on GitHub has a wiki. Starting your wiki is simply a matter of 
 
 ## Adding Pages
 
-Wiki content is designed to be human editable. 
+Wiki content is designed to be human editable.
 
 Wiki pages can be organized into directories any way you choose. Other content—like images or PDFs—can also be present and organized in the same way. Wiki pages can be written in any format supported by [GitHub Markup](http://github.com/github/markup). GitHub detects the page file format via the extension, so files must have one of the default or registered extensions in order to be converted.
 
@@ -53,5 +52,3 @@ Wiki pages support automatic syntax highlighting of code for a wide range of lan
 The block must start with three backticks, optionally followed by the the name of the language that is contained by the block. See [Pygments for the list of languages](http://pygments.org/docs/lexers/) that can be syntax highlighted.
 
 The block contents should be indented at the same level than the opening backticks. The block must end with three backticks indented at the same level than the opening backticks.
-
-
