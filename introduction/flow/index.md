@@ -1,14 +1,20 @@
 ---
 layout: article
 full_width: true
-title: Understanding the GitHub Workflow
+title: Understanding the GitHub Flow
 read_time: 5 minute
 updated_at: Dec 12, 2013
 icon: git-branch
-title_sha: 073f59b119f21d1c2a35435d08e7894aa6a0c1cb
 survey_tag: 'flow-1'
 
+# optional
+pattern: sine_waves
+color: "#932d70"
+
 summary: GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub Flow works.
+
+redirect_from:
+  - /overviews/flow/index.html
 ---
 
 GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub Flow works.
@@ -143,11 +149,11 @@ GitHub Flow is a lightweight, branch-based workflow that supports teams and proj
 
   </div>
 
-  <a href="#" class="panel-nav prev js-panel-nav-prev" title="Previous">
+  <a href="#" class="panel-nav prev js-panel-nav-prev" title="Previous" data-proofer-ignore>
     <span class="mega-octicon octicon-chevron-left"></span>
   </a>
 
-  <a href="#" class="panel-nav next js-panel-nav-next" title="Next">
+  <a href="#" class="panel-nav next js-panel-nav-next" title="Next" data-proofer-ignore>
     <span class="mega-octicon octicon-chevron-right"></span>
   </a>
 

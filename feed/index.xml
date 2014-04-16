@@ -1,0 +1,33 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://fww.w3.org/2005/Atom">
+
+ <title>GitHub Guides</title>
+ <link href="http://guides.github.com/feed" rel="self"/>
+ <link href="http://guides.github.com/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://guides.github.com/</id>
+ <author>
+   <name>GitHub</name>
+   <email>support@github.com</email>
+ </author>
+
+ {% for post in site.pages %}
+ {% if post.title != nil %}
+ <entry>
+   <title>{{ post.title | xml_escape }}</title>
+   {% if post.type == 'link' %}
+     <link href="{{ post.link }}" />
+   {% else %}
+     <link href="http://guides.github.com{{ post.url }}" />
+   {% endif %}
+   <updated>{{ post.updated_at | date_to_xmlschema }}</updated>
+   <id>http://guides.github.com{{ post.id }}</id>
+   <content type="html">{{ post.content | markdownify | xml_escape }}</content>
+ </entry>
+ {% endif %}
+ {% endfor %}
+
+</feed>

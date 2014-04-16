@@ -18,7 +18,6 @@ title: Mastering Issues & Notifications
 read_time: 7 minute
 updated_at: Aug 9, 2013
 icon: issue-closed
-title_sha: d145998e941f058151cadcc7489275a8bb5d31d5
 survey_tag: 'issues-1'
 
 summary: GitHub is great for managing all of the information <em>around</em> the code. This guide helps explain our issue tracking system and how to keep up to date with issues you’ve participated in.
@@ -31,10 +30,6 @@ summary: GitHub is great for managing all of the information <em>around</em> the
 - `updated_at` will be displayed at the bottom of the guide.
 - `icon` is the Octicon that should appear in the banner (see the
 [Icon Helper](https://github.com/styleguide/icons) in the Style Guide).
-- `title_sha` is a `sha1()` hash of the `title` field. This is used to generate
-the color and pattern in the guide's header and it currently needs to be entered
-manually. Any `sha1()` tool, such as
-[this one](http://www.tools4noobs.com/online_php_functions/sha1/), will suffice.
 - `survey_tag` is a custom tag for tracking the survey results that follow at the end of a guide. It should be descriptive and unique.
 - `summary` is a short (~2 sentences) overview of the guide. This appears on the
 site's landing page.
