@@ -7,6 +7,9 @@ icon: repo-forked
 survey_tag: 'project-forking-1'
 
 summary: Ever find a project on GitHub that you want to work on? Find out how you can contribute with Forking.
+
+redirect_from:
+  - /overviews/forking/index.html
 ---
 <a id="contributing" title="Contributing to a project" class="toc-item"></a>
 After using GitHub by yourself for a while, you may find yourself wanting to contribute to someone else's project. Or maybe you'd like to use someone's project as the starting point for your own. This process is known as *forking.*
@@ -29,7 +32,7 @@ Sit back and watch the forking magic. When it's finished, you'll be taken to you
 
 You've successfully forked the Spoon-Knife repository, but so far, it only exists on GitHub. To be able to work on the project, you will need to clone it to your computer.
 
-If you're using [the GitHub for Desktop](http://guides.github.com/overviews/desktop) application, this process is a breeze. Under the **GitHub.com** title in the sidebar, click on your beautiful face, and start typing out the name "Spoon-Knife." You'll notice a button that says **Clone to Computer**. Clicking on this clones the repository to your computer.
+If you're using [the GitHub for Desktop](http://guides.github.com/introduction/desktop) application, this process is a breeze. Under the **GitHub.com** title in the sidebar, click on your beautiful face, and start typing out the name "Spoon-Knife." You'll notice a button that says **Clone to Computer**. Clicking on this clones the repository to your computer.
 
 ![Clone to computer button in GHfM](https://github-images.s3.amazonaws.com/mac/sync/ghfm_clone_repo_locally.png)
 

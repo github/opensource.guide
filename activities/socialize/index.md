@@ -7,6 +7,9 @@ icon: organization
 survey_tag: 'project-socialize-1'
 
 summary: On GitHub there are many people and many projects to explore. Keeping up with the work that's done with them and showing your interest is easy.
+
+redirect_from:
+  - /overviews/socialize/index.html
 ---
 <link rel="stylesheet" type="text/css" href="socialize.css">
 
@@ -109,5 +112,5 @@ Congratulations! You are quite the socialite. Check out some of these next steps
 - [Fork A Repository] [3]
 
 [1]: https://github.com/octocat/Hello-World
-[2]: /overviews/desktop/
-[3]: /overviews/forking/
+[2]: /introduction/desktop/
+[3]: /activities/forking/

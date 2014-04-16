@@ -6,7 +6,9 @@ updated_at: Jan 15, 2014
 icon: markdown
 survey_tag: 'markdown-1'
 
-summary: Almost all text on GitHub is processed through a markup language called <em>Markdown</em> — it's an easy way to include simple formatting (like <em>italics</em>, <strong>bold words</strong>, lists, and <a href="/basics/mastering-markdown">links</a>). This guide will show you the ins-and-outs of Markdown on GitHub.
+summary: Almost all text on GitHub is processed through a markup language called <em>Markdown</em> — it's an easy way to include simple formatting (like <em>italics</em>, <strong>bold words</strong>, lists, and <a href="/features/mastering-markdown">links</a>). This guide will show you the ins-and-outs of Markdown on GitHub.
+redirect_from:
+  - /overviews/master-markdown/index.html
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
@@ -35,12 +37,12 @@ You can use Markdown most places around GitHub:
 ## Examples
 
 <ul class="example-nav js-examples-nav">
-  <li><a href="#" class="selected" data-container-id="example-text">Text</a></li>
-  <li><a href="#" data-container-id="example-lists">Lists</a></li>
-  <li><a href="#" data-container-id="example-images">Images</a></li>
-  <li><a href="#" data-container-id="example-headers">Headers &amp; Quotes</a></li>
-  <li><a href="#" data-container-id="example-code">Code</a></li>
-  <li><a href="#" data-container-id="example-extras">Extras</a></li>
+  <li><a href="#" class="selected" data-container-id="example-text" data-proofer-ignore>Text</a></li>
+  <li><a href="#" data-container-id="example-lists" data-proofer-ignore>Lists</a></li>
+  <li><a href="#" data-container-id="example-images" data-proofer-ignore>Images</a></li>
+  <li><a href="#" data-container-id="example-headers" data-proofer-ignore>Headers &amp; Quotes</a></li>
+  <li><a href="#" data-container-id="example-code" data-proofer-ignore>Code</a></li>
+  <li><a href="#" data-container-id="example-extras" data-proofer-ignore>Extras</a></li>
 </ul>
 
 <div class="markdown-example" id="example-text">
@@ -101,11 +103,11 @@ Alternatively,
 <pre class="source">
 If you want to embed images, this is how you do it:
 
-![](http://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](http://octodex.github.com/images/yaktocat.png)
 </pre>
 <div class="rendered">
   <p>If you want to embed images, this is how you do it:</p>
-  <p><img src="http://octodex.github.com/images/yaktocat.png" /></p>
+  <p><img src="http://octodex.github.com/images/yaktocat.png" alt="Image of Yakotocat"/></p>
 </div>
 </div>
 

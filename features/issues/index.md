@@ -7,20 +7,23 @@ icon: issue-closed
 survey_tag: 'issues-1'
 
 summary: GitHub is great for managing all of the information <em>around</em> the code. This guide helps explain our issue tracking system and how to keep up to date with issues you’ve participated in.
+
+redirect_from:
+  - /overviews/issues/index.html
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
 Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They're kind of like email—except they can be shared and discussed with the rest of your team. Most software projects have a bug tracker of some kind. GitHub's tracker is called **Issues**, and has its own section in every repository.
 
-![](navigation-highlight.png)
+![Highlighting navigation](navigation-highlight.png)
 
 For example, let's take a look at <a href="https://github.com/twbs/bootstrap/issues" target="_blank">Bootstrap's Issues section</a>:
 
-![](listing-screen.png)
+![List of issues](listing-screen.png)
 
 GitHub's issue tracking is special because of our focus on collaboration, references, and excellent text formatting. A typical issue on GitHub looks a bit like this:
 
-![](example-issue.png)
+![An example issue](example-issue.png)
 
 * A **title and description** describe what the issue is all about.
 
@@ -41,13 +44,13 @@ Once you've collected a lot of issues, you may find it hard to find the ones you
 
 You can change or add a milestone, an assignee, and labels by clicking their corresponding gears in the sidebar on the right.
 
-![](labels.png)
+![Viewing labels](labels.png)
 
 If you don't see edit buttons, that's because you don't have permission to edit the issue. You can ask the repository owner to add you as a collaborator to get access.
 
 ### Milestones
 
-![](milestones.png)
+![Viewing Milestones](milestones.png)
 
 Milestones are groups of issues that correspond to a project, feature, or time period. People use them in many different ways in software development. Some examples:
 
@@ -61,7 +64,7 @@ Milestones are groups of issues that correspond to a project, feature, or time p
 
 Labels are a great way to organize different types of issues. Issues can have as many labels as you want, and you can filter by one or many labels at once.
 
-![](labels-listing.png)
+![Viewing label listings](labels-listing.png)
 
 ### Assignees
 
@@ -74,9 +77,9 @@ Each issue can have an assignee — one person that's responsible for moving the
 
 By using @mentions and references inside of Issues, you can notify other GitHub users & teams, and cross-connect issues to each other. These provide a flexible way to get the right people involved to resolve issues effectively, and are easy to learn and use. They work across all text fields on GitHub — they're a part of our text formatting syntax called [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).
 
-![](markdown-example.png)
+![Example of Markdown](markdown-example.png)
 
-If you'd like to learn more, have a look at **[Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/)**.
+If you'd like to learn more, have a look at **[Mastering Markdown](http://guides.github.com/features/mastering-markdown/)**.
 
 ### Notifications
 
@@ -84,13 +87,13 @@ If you'd like to learn more, have a look at **[Mastering Markdown](http://guides
 
 There are two ways to receive notifications: via email, and via the web. You can configure how you receive notifications <a href="https://github.com/settings/notifications" target="_blank">in your settings</a>. If you plan on receiving a lot of notifications, we like to recommend that you receive web + email notifications for **Participating** and web notifications for **Watching**.
 
-![](notifications.png)
+![Screenshot of notifications](notifications.png)
 
 With these settings, you receive emails when people specifically mention you, then visit the web-based interface to keep up to date with repositories you're interested in.
 
 You can access your notifications through the <a href="https://github.com/notifications" target="_blank">notifications</a> screen. This screen is nice for scanning many notifications at once and marking them as read or muting the thread. Try using keyboard shortcuts to speed up your workflow here — press `?` on the page to see which shortcuts are available.
 
-![](notification.png)
+![Screenshot of an individual notification](notification.png)
 
 Muted threads won’t show up as unread again until you are specifically @mentioned again. This makes muting a great strategy for threads that you have little interest in (perhaps a sub-system that you aren’t familiar with). If you mark an issue as read, it will stay that way until someone comments on the thread again.
 
@@ -119,14 +122,14 @@ Often times issues are dependent on other issues, or at least relate to them and
 
 When you do this, we'll create an event inside of issue #42 that looks something like this:
 
-![](reference.png)
+![Screenshot of creating a reference](reference.png)
 
 
 Issue in another repository? Just include the repository before the name like `kneath/example-project#42`.
 
 One of the more interesting ways to use GitHub Issues is to reference issues directly from commits. Include the issue number inside of the commit message.
 
-![](commit.png)
+![Screenshot of referencing a commit](commit.png)
 
 By prefacing your commits with "Fixes", "Fixed", "Fix", "Closes", "Closed", or "Close" when the commit is merged into master, it will also automatically close the issue.
 
@@ -139,7 +142,7 @@ References make it possible to deeply connect the work being done with the bug b
 
 At the very top of each page is a search box that lets you search through issues.
 
-![](search.png)
+![Screenshot of making a search](search.png)
 
 * <a href="https://github.com/twbs/bootstrap/search?q=sidebar&type=Issues" target="_blank">All issues mentioning the sidebar</a>
 
@@ -171,7 +174,7 @@ If you use organizations, each of your organizations has it's own Issues dashboa
 
 Underneath each repository is a section called **Pulse** — Pulse is a snapshot of everything that's happened in the repository in the past week (or day, or past 3 months, etc).
 
-![](pulse.png)
+![Screenshot of the Pulse feature](pulse.png)
 
 It's a great way to catch up with repositories when you've been away and don't want the granularity notifications offer when watching a repository.
 
