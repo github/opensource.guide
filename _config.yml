@@ -14,6 +14,7 @@ rdiscount:
 gems:
   - jekyll-geo-pattern
   - jekyll-redirect-from
+  - jemoji
 organization:
   - /introduction/desktop/index.html
   - /introduction/flow/index.html
