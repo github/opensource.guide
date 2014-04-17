@@ -214,7 +214,7 @@ And, of course emoji! :<nbsp>sparkles: :<nbsp>camel: :<nbsp>boom:
   <input type="checkbox" class="task-list-item-checkbox" checked="" disabled=""> This is a complete item</li>
   <li class="task-list-item">
   <input type="checkbox" class="task-list-item-checkbox" disabled=""> This is an incomplete item</li>
-  </ul><p>And, of course emoji! <img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://github.global.ssl.fastly.net/images/icons/emoji/sparkles.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":camel:" alt=":camel:" src="https://github.global.ssl.fastly.net/images/icons/emoji/camel.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":boom:" alt=":boom:" src="https://github.global.ssl.fastly.net/images/icons/emoji/boom.png" height="20" width="20" align="absmiddle"></p>
+  </ul><p>And, of course emoji! :sparkles: :camel: :boom:</p>
 
 </div>
 </div>
