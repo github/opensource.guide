@@ -62,6 +62,10 @@ You've got a repository now, but it's pretty bare. It could use a README with mo
 
 ![issue](issue.png)
 
+Click 'Submit new issue' when you're done. Now this issue has a permaent home (URL) that you can reference even after it is closed.
+
+Next, work towards editing your readme and closing this issue.
+
 <a id="branch" title="Create a Branch" class="toc-item"></a>
 
 ## Create a Branch
@@ -87,7 +91,7 @@ At GitHub, our developers, writers, and designers use branches for keeping bug f
 
 ![branch gif](readme-edits.gif)
 
-Now you've got two branches, 'master' and 'readme-edits'. They look exactly the same, but not for long! Next we'll add our changes to the new branch.
+Now you have two branches, 'master' and 'readme-edits'. They look exactly the same, but not for long! Next we'll add our changes to the new branch.
 
 <a id="commit" title="Make a Commit" class="toc-item"></a>
 
@@ -103,10 +107,11 @@ You should still be on the code view for your 'readme-edits' branch, now make so
 
 1. Click the README file
 2. Click 'Edit'
-3. In the editor, write some text, tell us a bit about yourself
+3. In the editor, write some text, tell a bit about yourself
 4. Write a commit message that describes your changes
 
-![commit](commit.png)
+![commit](edit-top.png)
+![commit](edit-bottom.png)
 
 Click 'Commit your changes'. Now these changes have been made to the README file on your 'readme-edits' branch and now this branch contains different content and commits than 'master' (as it should!).
 
@@ -114,7 +119,7 @@ Click 'Commit your changes'. Now these changes have been made to the README file
 
 ## Open a Pull Request
 
-Pull Requests are the heart of collaboration on GitHub. When you make a **pull request**, you're proposing your changes and requesting that someone pull in your contribution - aka merge them into their branch. GitHub's Pull Request feature allows you to compare the content on two branches. The changes, addtions and substractions, are show in read and green and called **diffs** (differences).
+Pull Requests are the heart of collaboration on GitHub. When you make a **pull request**, you're proposing your changes and requesting that someone pull in your contribution - aka merge them into their branch. GitHub's Pull Request feature allows you to compare the content on two branches. The changes, addtions and substractions, are show in green and red and called **diffs** (differences).
 
 As soon as you make a change, you can open a Pull Request. People use Pull Requests to start a discussion about commits (code review) even before the code is finished. This way you can get feedback as you go or help when you're stuck. 
 
@@ -129,18 +134,18 @@ _Click on the image for a larger version_
 | Step | Screenshot |
 | --- | --- |
 | Click the Pull Requests icon on the sidebar, then from the Pull Request page, click green "Create pull request" button. | ![create pr](https://cloud.githubusercontent.com/assets/1305617/2543808/73059f0a-b5f7-11e3-928e-745e9f9a5c75.gif) | 
-| Select the branch you made, `readme-edits`, to compare with `master` (the original). | ![screen shot 2014-03-13 at 2 42 27 pm](https://f.cloud.github.com/assets/1305617/2415666/788fc32e-aaf8-11e3-817c-16b958e31bb6.png) | 
-| Look over your changes in the diffs on the Compare page, make sure they're what you want to submit. | ![create pr](https://cloud.githubusercontent.com/assets/1305617/2543868/2a6036d8-b5f8-11e3-8d03-093bfcfadc75.gif) | 
-| When you're satisfied that these are the changes you want to submit, click the big green 'Send pull request' button. | ![create-pull](https://f.cloud.github.com/assets/1305617/2415719/f38aa210-aaf8-11e3-80dc-aad14be6be95.png) | 
-| Give your pull request a title that briefly describes the changes you're proposing, e.g. "Update README." Then describe in more detail what you've changed, how, and why. If you're fixing a bug, describe how to recreate the original error. If you're feeling fancy, you can write in Markdown, drag in images from your computer, or express your emotion with some emoji. :boom: |
+| Select the branch you made, `readme-edits`, to compare with `master` (the original). | [![branch](pick-branch.png)](pick-branch.png) | 
+| Look over your changes in the diffs on the Compare page, make sure they're what you want to submit. | [![diff](diff.png)](diff.png) | 
+| When you're satisfied that these are the changes you want to submit, click the big green 'Send pull request' button. | [![create-pull](create-pr.png)](create-pr.png) | 
+| Give your pull request a title and since it relates directly to an open issue, include "fixes #" and the issue number in the title. Write a breif discription of your changes. | ![pr-form](pr-form.png)
 
 When you're done with your message, click 'Send Pull Request'!
 
 ---
 
-> **Tip**: When a branch contains recent changes, GitHub provides a link to start a pull request on the code view. From here click the green **Compare** button next to the Branches drop-down menu.
+> **Tip**: You can use emoji and drag and drop images and gifs onto comments and Pull Requests.
 
-> **Tip**: If a pull request fixes, or "closes", an open issue, include the issue number in the pull request title. When the pull request is merged, GitHub will automatically close the issue!
+> **Tip**: When a branch contains recent changes, GitHub provides a link to start a pull request on the code view. From here click the green **Compare** button next to the Branches drop-down menu.
 
 <a id="merge" title="Merge Pull Request" class="toc-item"></a>
 
@@ -149,23 +154,19 @@ When you're done with your message, click 'Send Pull Request'!
 It's time to bring your changes together -- merge your 'readme-edits' branch into the 'master' branch.
 
 1. Click the green button to merge the changes into 'master'.
-2. Go ahead and delete the branch (the purple button) since its changes have been incorporated.
+2. Click 'Confirm merge'
+2. Go ahead and delete the branch, since its changes have been incorporated, with the button in the purple box.
+
+![merge](merge-button.png)
+![delete](delete-button.png)
+
+If you revisit the issue you opened, it's now closed! Because you included "fixes #1" in your Pull Request title, GitHub took care of closing that issue when the Pull Request was merged! 
 
 ### Celebrate!
 
 You've learned to make a pull request on GitHub! :tada: :octocat: :zap: 
 
-For your humblebrag, here are the things you accomplished in this tutorial:
-
-* Navigate the Code page
-* Navigate the Pull Request page
-* Create a branch
-* Create a new file
-* Commit changes
-* Compare your changes against `master`
-* Open a Pull Request
-* Merge a Pull Request
-* Delete a merged branch
+For your humblebrag, here are the things you accomplished in this tutorial: created a branch, issue, created and merged a pull request!
 
 If you want to learn more about the power of pull requests, we recommend reading the [GitHub Flow Guide](http://guides.github.com/overviews/flow/). You might also visit [GitHub Explore](http://github.com/explore) and get involved in an Open Source project :octocat:
 
