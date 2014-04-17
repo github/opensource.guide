@@ -202,7 +202,7 @@ But I have to admit, tasks lists are my favorite:
 - [x] This is a complete item
 - [ ] This is an incomplete item
 
-And, of course emoji! :sparkles: :camel: :boom:
+And, of course emoji! :<nbsp>sparkles: :<nbsp>camel: :<nbsp>boom:
 </pre>
 <div class="rendered">
   <p>GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey <a href="https://github.com/kneath" class="user-mention">@kneath</a> — love your sweater!</p>
