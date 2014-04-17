@@ -16,8 +16,8 @@ gems:
   - jekyll-redirect-from
   - jemoji
 organization:
-  - /introduction/desktop/index.html
   - /introduction/flow/index.html
+  - /introduction/desktop/index.html
   - /activities/contributing-to-open-source/index.html
   - /activities/forking/index.html
   - /activities/socialize/index.html
