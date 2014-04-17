@@ -14,4 +14,3 @@ rdiscount:
 gems:
   - jekyll-geo-pattern
   - jekyll-redirect-from
-  - jemoji
