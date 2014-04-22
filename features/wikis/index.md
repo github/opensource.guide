@@ -15,29 +15,33 @@ Good documentation is key to the success of any project. Making that documentati
 
 ## Creating Your Wiki
 
-Every repository on GitHub has a wiki. Starting your wiki is simply a matter of creating the first page.
+Every repository on GitHub comes with a wiki. You can find yours through the sidbar navigation. Starting your wiki is simply a matter of selecting the wiki button, which creates your first page. 
 
 ![Screenshot a starting wiki](wiki-start.png)
 
+You can edit the content of this page with the "Edit" button, located in the upper right corner of the page. 
+
+## Adding Content
+
+Wiki content is designed to be human editable using the wiki editor.
+
+![screencap of editor]()
+
+Wiki pages can be written in any format supported by [GitHub Markup](http://github.com/github/markup). GitHub detects the page file format via the extension, so files must have one of the default or registered extensions in order to be converted.
+
 ## Adding Pages
 
-Wiki content is designed to be human editable.
+Wiki pages can be organized into directories any way you choose. The special page file `Home.ext` (where the extension is one of the supported formats) will be used as the entrance page to your wiki. If it is missing, an automatically generated table of contents will be shown instead.
 
-Wiki pages can be organized into directories any way you choose. Other content—like images or PDFs—can also be present and organized in the same way. Wiki pages can be written in any format supported by [GitHub Markup](http://github.com/github/markup). GitHub detects the page file format via the extension, so files must have one of the default or registered extensions in order to be converted.
-
-The special page file `Home.ext` (where the extension is one of the supported formats) will be used as the entrance page to your wiki. If it is missing, an automatically generated table of contents will be shown instead.
-
-## Including a Sidebar
-
-By default, the sidebar will list all of the pages in your wiki. When you add new pages, they will be added to the sidebar.
-
-If you would like to manage it yourself, click the "Edit" link in the sidebar and include whatever custom content that you would like to display on each page.
-
-The sidebar content will be saved in a file named `_Sidebar` and, like wiki pages, can use any of format supported by [GitHub Markup](http://github.com/github/markup). Sidebars affect all pages in their directory and any subdirectories that do not have a sidebar file of their own.
+By default, your wiki will feature a sidebar that lists all of your pages. When you add new pages, they will be added to the sidebar automatically. To manage sidebar content yourself, click the "Edit" link and select whatever custom content you would like to display on each page.
 
 ![Screenshot of a sidebar]()
 
-## Cloning your Wiki
+Sidebar content is saved in a file named `_Sidebar` and, like wiki pages, can use any of format supported by [GitHub Markup](http://github.com/github/markup). Sidebars affect all pages in their directory and any subdirectories that do not have a sidebar file of their own.
+
+## Cloning Your Wiki
+
+
 
 ## Syntax Highlighting
 
