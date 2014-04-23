@@ -8,7 +8,7 @@ survey_tag: 'markdown-1'
 
 summary: Almost all text on GitHub is processed through a markup language called <em>Markdown</em> — it's an easy way to include simple formatting (like <em>italics</em>, <strong>bold words</strong>, lists, and <a href="/features/mastering-markdown">links</a>). This guide will show you the ins-and-outs of Markdown on GitHub.
 redirect_from:
-  - /overviews/master-markdown/index.html
+  - /overviews/mastering-markdown/index.html
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
@@ -202,7 +202,7 @@ But I have to admit, tasks lists are my favorite:
 - [x] This is a complete item
 - [ ] This is an incomplete item
 
-And, of course emoji! :sparkles: :camel: :boom:
+And, of course emoji! :<nbsp>sparkles: :<nbsp>camel: :<nbsp>boom:
 </pre>
 <div class="rendered">
   <p>GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey <a href="https://github.com/kneath" class="user-mention">@kneath</a> — love your sweater!</p>
@@ -214,7 +214,7 @@ And, of course emoji! :sparkles: :camel: :boom:
   <input type="checkbox" class="task-list-item-checkbox" checked="" disabled=""> This is a complete item</li>
   <li class="task-list-item">
   <input type="checkbox" class="task-list-item-checkbox" disabled=""> This is an incomplete item</li>
-  </ul><p>And, of course emoji! <img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://github.global.ssl.fastly.net/images/icons/emoji/sparkles.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":camel:" alt=":camel:" src="https://github.global.ssl.fastly.net/images/icons/emoji/camel.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":boom:" alt=":boom:" src="https://github.global.ssl.fastly.net/images/icons/emoji/boom.png" height="20" width="20" align="absmiddle"></p>
+  </ul><p>And, of course emoji! :sparkles: :camel: :boom:</p>
 
 </div>
 </div>
@@ -392,4 +392,6 @@ Any word wrapped with two tildes (like `~~this~~`) will appear crossed out.
 
 ### Emoji
 
-GitHub supports emoji! <img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://github.global.ssl.fastly.net/images/icons/emoji/sparkles.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":camel:" alt=":camel:" src="https://github.global.ssl.fastly.net/images/icons/emoji/camel.png" height="20" width="20" align="absmiddle"><img class="emoji" title=":boom:" alt=":boom:" src="https://github.global.ssl.fastly.net/images/icons/emoji/boom.png" height="20" width="20" align="absmiddle"> To see a list of every image we support, check out the [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).
+GitHub supports emoji! :sparkles: :camel: :boom:
+
+ To see a list of every image we support, check out the [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).
