@@ -76,7 +76,7 @@ When you create a repository, by default it has one branch with the name 'master
 
 When you create a branch, you're making a copy of the original branch as it was at that point in time (like a photo snapshot). If the original branch changes while you're working on your new branch, no worries, you can always pull in those updates. 
 
-![a branch](branching.png)
+[![a branch](branching.png)](branching.png)
 
 You may have, at some point in your life, saved different versions of a file like, "story.txt", "story-joe-edit.txt", "story-sue-edit.txt". Branches accomplish the same goals but are easier to manage on GitHub repositories. 
 
