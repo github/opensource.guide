@@ -70,8 +70,6 @@ Just because we've made some changes into our project doesn't mean we should sto
 
 - [GitHub Flow] [1]
 - [Contributing to Open Source] [2]
-- [Open Sourcing Your Work] [3]
 
-[1]: /overviews/flow
-[2]: /overviews/os-contributing/
-[3]: /overviews/create-os/
+[1]: /introduction/flow
+[2]: /activities/contributing-to-open-source/
