@@ -26,11 +26,11 @@ On the new repository screen, we need to give this repository a special name to 
 
 ![](create-new-repo-screen.png)
 
-Our website's HTML and CSS will all live in a repository named `username.github.io` (where "username" is our actual user name, of course). To get an initial set of HTML and CSS, we have to open the settings tab and enable the Automatic Page Generator
+Our website's HTML and CSS will all live in a repository named `username.github.io` (where "username" is our actual GitHub user name, of course). To get an initial set of HTML and CSS, we have to open the settings tab and enable the Automatic Page Generator
 
 ![](settings-tab.png)
 
-If we scroll down on the settings page, we should see a button labeled "Automatic Page Generator" near the bottom. By clicking this button, we will begin the process of generating our content automatically.
+If we scroll down on the settings page, we should see the **Automatic Page Generator** button near the bottom. By clicking this button, we will begin the process of generating our content automatically.
 
 ![](automatic-page-generator.png)
 
@@ -38,7 +38,7 @@ Once we've clicked the button, we're directed to the first step of the generatio
 
 ![](continue-to-layout.png)
 
-Now we pick our theme. This part requires a bit more thought because it's slightly more difficult to update our theme later. When we've looked at some of the options at the top of the page and found one that we love, click **Publish** to finish.
+Now we pick our theme. This part requires a bit more thought because it's easier to choose a theme now than to update our theme later. When we've looked at some of the options at the top of the page and found one that we love, click **Publish** to finish.
 
 ![](selection-of-layout-publish.png)
 
