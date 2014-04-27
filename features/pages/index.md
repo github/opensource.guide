@@ -54,7 +54,7 @@ If we click on the `index.html` file to navigate into that file, we can make edi
 
 ![](edit-index-page.png)
 
-Let's find in this file where it says `username.github.io` and change this to a friendlier title. For the Octocat, I'm going to change it to "Welcome to the Octocat's Homepage!". Feel free to do the same, except for your own username. Under this title, we should add a message about the purpose of the page and describe what we want people to do while they're here.
+Let's find in this file where it says `username.github.io` and change this to a friendlier title. For the Octocat, I'm going to change it to "Welcome to the Octocat's homepage!". Feel free to do the same, except for your own username. Under this title, we should add a message about the purpose of the page and describe what we want people to do while they're here.
 
 ![](welcome-message.png)
 
