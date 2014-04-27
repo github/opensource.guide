@@ -50,17 +50,19 @@ Once we click **Publish**, GitHub does all the work to direct visitors to `usern
 
 One of the first things we can do is remove the default title of our index page, and add a friendlier message to it. Since this is a very quick change -- and our first one -- we're going to make it on the default branch: `gh-pages`.
 
-If we click on `index.html` to navigate into that file, we can make edits to it by selecting the edit button.
+If we click on the `index.html` file to navigate into that file, we can make edits to it by selecting the **Edit** button.
 
 ![](edit-index-page.png)
 
-Let's find in this file where it says `username.github.io` and change this to a more friendly name. For the Octocat, I'm going to change it to "Welcome to the Octocat's Homepage". Feel free to do the same, except for your own username! Under this title, we should add a message about the purpose of the page and describe what we want people to do while they're here.
+Let's find in this file where it says `username.github.io` and change this to a friendlier title. For the Octocat, I'm going to change it to "Welcome to the Octocat's Homepage!". Feel free to do the same, except for your own username. Under this title, we should add a message about the purpose of the page and describe what we want people to do while they're here.
+
+![](welcome-message.png)
 
 After we're done making this small change, scroll to the bottom of the page to make our first commit. We have two places to write about this change: a subject and an extended description. The extended description is optional, so let's leave a descriptive message in the subject.
 
-![](commit-messages-matter.png)
-
 When we're done, we can click `Commit Changes` and our change should go live in just a few seconds!
+
+![](commit-messages-matter.png)
 
 <a id="next-steps" title="Next Steps" class="toc-item"></a>
 
