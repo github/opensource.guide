@@ -48,7 +48,7 @@ Once we click **Publish**, GitHub does all the work to direct visitors to `usern
 
 ## Making Changes
 
-One of the first things we can do is remove the default title of our index page, and add a friendlier message to it. Since this is a very quick change -- and our first one -- we're going to make it on the default branch: `gh-pages`.
+One of the first things we can do is remove the default title of our index page, and add a friendlier message to it. Since this is a very quick change -- and our first one -- we're going to make it on the default branch: `master`.
 
 If we click on the `index.html` file to navigate into that file, we can make edits to it by selecting the **Edit** button.
 
