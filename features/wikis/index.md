@@ -36,6 +36,13 @@ You can also add a custom sidebar to your wiki by clicking the **Add custom side
 
 Note: The page called "Home" functions as the entrance page to your wiki. If it is missing, an automatically generated table of contents will be shown instead.
 
+<div class="alert">
+  <p>
+    If you're knowledgable with the command line, you can also modify wikis locally. Check out <a href="https://help.github.com/articles/adding-and-editing-wiki-pages-locally
+">our help article</a> for more info.
+  </p>
+</div>
+
 ## Syntax highlighting
 
 Wiki pages support automatic syntax highlighting of code for a wide range of languages by using the following syntax:
