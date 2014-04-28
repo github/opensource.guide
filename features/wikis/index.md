@@ -1,29 +1,24 @@
 ---
 layout: article
 title: Mastering Wikis
-read_time: 809 minute
+read_time: 5 minutes
 icon: book
-updated_at: February 15, 2014
+updated_at: April 28, 2014
 survey_tag: 'wiki-1'
-summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat."
+summary: "Wikis on GitHub help you include documentation and other useful information about your project. This guide will help you learn how to create a wiki and add content."
 ---
 
-Good documentation is key to the success of any project. Making that documentation accessible enables people to learn about your project. Making it easy to update ensures that your documentation stays relevant. **Wikis** on GitHub help you present useful information about your project in a readable way, while also letting contributors propose changes.
+Good documentation is key to the success of any project. Making that documentation accessible enables people to learn about a project; making it easy to update ensures that documentation stays relevant. **Wikis** on GitHub help you present information about your project in a readable way, while also letting contributors propose changes.
 
 ## Creating Your Wiki
 
-Every repository on GitHub comes with a wiki. You can find yours through the sidbar navigation. Starting your wiki is simply a matter of selecting the wiki button, which creates your first page. 
+Every repository on GitHub comes with a wiki. You can find yours through the sidbar navigation. Starting your wiki is simply a matter of selecting the wiki tab and creating your first page. 
 
 ![Screenshot a starting wiki](wiki-start.png)
 
-You can edit the content of this page with the "Edit" button, located in the upper right corner of the page. 
-
 ## Adding Content
 
-Wiki content is designed to be human editable using the wiki editor.
+Wiki content is designed to be easily editable. You can change the content of any wiki page by cliking the `Edit` button located in the upper right corner of each page. 
 
 ![screencap of editor]()
 
@@ -31,17 +26,13 @@ Wiki pages can be written in any format supported by [GitHub Markup](http://gith
 
 ## Adding Pages
 
-Wiki pages can be organized into directories any way you choose. The special page file `Home.ext` (where the extension is one of the supported formats) will be used as the entrance page to your wiki. If it is missing, an automatically generated table of contents will be shown instead.
+Wiki pages can be organized into directories any way you choose. The special page file `Home.ext` (where the extension is one of the supported formats) functions as the entrance page to your wiki. If it is missing, an automatically generated table of contents will be shown instead.
 
-By default, your wiki will feature a sidebar that lists all of your pages. When you add new pages, they will be added to the sidebar automatically. To manage sidebar content yourself, click the "Edit" link and select whatever custom content you would like to display on each page.
+By default, your wiki includes a sidebar that lists all of your pages. When you add new pages, they will be added to the sidebar automatically and listed in alphabetical order.  
 
 ![Screenshot of a sidebar]()
 
-Sidebar content is saved in a file named `_Sidebar` and, like wiki pages, can use any of format supported by [GitHub Markup](http://github.com/github/markup). Sidebars affect all pages in their directory and any subdirectories that do not have a sidebar file of their own.
-
-## Cloning Your Wiki
-
-
+Sidebar content is saved in a file named `_Sidebar` and, like wiki pages, can use any of format supported by [GitHub Markup](http://github.com/github/markup). Sidebars affect all pages in their directory and any subdirectories that do not have a sidebar file of their own. You can also add custom text content to your sidebar.
 
 ## Syntax Highlighting
 
