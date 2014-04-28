@@ -224,6 +224,19 @@ ol.toc.sticky {
   border-radius: 20px;
 }
 
+.alert {
+  position:relative;
+  margin:0 auto;
+  padding:15px;
+  color:#264c72;
+  border: 1px solid #97c1da;
+  border-radius: 3px;
+  background-color: #d8ebf8;
+}
+
+.alert *:first-child { margin-top: 0 }
+.alert *:last-child { margin-bottom: 0 }
+
 /* Main site styles */
 
 a {
