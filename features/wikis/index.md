@@ -30,7 +30,7 @@ You can add additional pages to your wiki by selecting `New Page` in the upper r
 
 ![Screenshot of a sidebar]()
 
-You can add a custom sidebar to your wiki by clicking the 'Add custom sidebar' link. Custom sidebar content can include text, images, and links. 
+You can also add a custom sidebar to your wiki by clicking the 'Add custom sidebar' link. Custom sidebar content can include text, images, and links. 
 
 Note: The page called `Home` functions as the entrance page to your wiki. If it is missing, an automatically generated table of contents will be shown instead.
 
