@@ -12,7 +12,7 @@ Good documentation is key to the success of any project. Making documentation ac
 
 ## Creating your wiki
 
-Every repository on GitHub comes with a wiki. After you've created a repository, you can set up the included wiki through the sidebar navigation. Starting your wiki is simply a matter of selecting the wiki tab and creating your first page.
+Every repository on GitHub comes with a wiki. After you've created a repository, you can set up the included wiki through the sidebar navigation. Starting your wiki is simply a matter of clicking the wiki button and creating your first page.
 
 ![Screenshot a starting wiki](wiki-start.png)
 
