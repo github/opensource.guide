@@ -10,7 +10,7 @@ summary: GitHub Pages are a great way to showcase some open source projects, hos
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
-GitHub Pages are public webpages freely hosted and easily published through GitHub. The quickest way to get up and running is by using the Automatic Page Generator to create some starter HTML and CSS for us. We can then modify our GitHub Pages' content and style remotely via the web or locally on our computer.
+GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Automatic Page Generator to create some starter HTML and CSS for us. We can then modify our GitHub Pages' content and style remotely via the web or locally on our computer.
 
 ![pages-home-page](pages-home-page.png)
 
@@ -50,7 +50,7 @@ Once we click **Publish**, GitHub does all the work to direct visitors to `usern
 
 One of the first things we can do is remove the default title of our index page, and add a friendlier message to it. Since this is a very quick change -- and our first one -- we're going to make it on the default branch: `master`.
 
-If we click on the `index.html` file to navigate into that file, we can make edits to it by selecting the **Edit** button.
+If we click on the `index.html` file to navigate into that file, we can make edits to it by clicking **Edit**.
 
 ![](edit-index-page.png)
 
@@ -60,7 +60,7 @@ Let's find in this file where it says `username.github.io` and change this to a 
 
 After we're done making this small change, scroll to the bottom of the page to make our first commit. We have two places to write about this change: a subject and an extended description. The extended description is optional, so let's leave a descriptive message in the subject.
 
-When we're done, we can click `Commit Changes` and our change should go live in just a few seconds!
+When we're done, we can click **Commit Changes** and our change should go live in just a few seconds!
 
 ![](commit-messages-matter.png)
 
