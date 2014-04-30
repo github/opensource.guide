@@ -81,6 +81,6 @@ organization:
   - /features/mastering-markdown/index.html
 ```
 
-Don't laugh! Those paths determine how the landing page for Guides is ordered. (There's a bug in Jekyll where every new page is reshuffled when the site is built.)
+Those paths determine how the landing page for Guides is ordered. (Jekyll gleefully fetches whatever it can, so sometimes the front page gets reshuffled when the site is built.)
 
 Add a path to your new guide wherever you see fit!
