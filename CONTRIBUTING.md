@@ -66,3 +66,21 @@ If you want to write code, or write a guide, let's start out with that code on y
 4. When you're ready to get review: `git push -u origin HEAD`
 5. Open your pull request and start the conversation
 
+## Determining your guide's order
+
+Open up the *_config.yml* file in the root of the *guides* folder, and you'll see some funny looking code that looks like this:
+
+```yml
+organization:
+  - /introduction/flow/index.html
+  - /introduction/desktop/index.html
+  - /activities/contributing-to-open-source/index.html
+  - /activities/forking/index.html
+  - /activities/socialize/index.html
+  - /features/issues/index.html
+  - /features/mastering-markdown/index.html
+```
+
+Don't laugh! Those paths determine how the landing page for Guides is ordered. (There's a bug in Jekyll where every new page is reshuffled when the site is built.)
+
+Add a path to your new guide wherever you see fit!
