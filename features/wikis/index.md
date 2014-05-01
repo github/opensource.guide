@@ -30,7 +30,7 @@ GitHub keeps track of changes made to each page in your wiki. Below a page title
 
 You can add additional pages to your wiki by selecting **New Page** in the upper right corner. By default, each page you create is included automatically in your wiki's sidebar and listed in alphabetical order.
 
-![Screenshot of the wiki sidebar](wik-sidebar-closeup.png)
+![Screenshot of the wiki sidebar](wiki-sidebar-closeup.png)
 
 You can also add a custom sidebar to your wiki by clicking the **Add custom sidebar** link. Custom sidebar content can include text, images, and links.
 
