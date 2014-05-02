@@ -17,7 +17,7 @@ GitHub is a platform for hosting and collaborating on projects. You don't have t
 
 This guide walks you through the GitHub Essentials: **Repositories**, **Branches**, **Commits**, **Issues** and **Pull Requests**.
 
-With these skills, you'll go far. And with this `hello-world` repository you'll have a place to store ideas (aka future repositories), resources or other general notes, even discuss things with others. 
+With these skills, you'll go far. And with this `hello-world` repository you'll have a place to store ideas (aka future repositories), resources or other general notes, even discuss things with others.
 
 #### Install & Code Free Zone
 
@@ -50,7 +50,7 @@ Click 'Create repository'. :boom: repository!
 
 ## Open an Issue
 
-An **issue** is a note on a repository about something that needs attention. It could be a bug, a feature request, a question or lots of other things. On GitHub you can label, search and assign Issues, making managing an active project easier. 
+An **issue** is a note on a repository about something that needs attention. It could be a bug, a feature request, a question or lots of other things. On GitHub you can label, search and assign Issues, making managing an active project easier.
 
 You've got a repository now, but it's pretty bare. It could use a README with more information in it so that people know what is going on. Open an Issue!
 
@@ -74,17 +74,17 @@ Next, work towards editing your readme and closing this issue.
 
 When you create a repository, by default it has one branch with the name 'master'. You could keep working on this branch and have only one, that's fine. But if you have another feature or idea you want to work on, you can create another branch, starting from 'master', so that you can leave 'master' in its working state.
 
-When you create a branch, you're making a copy of the original branch as it was at that point in time (like a photo snapshot). If the original branch changes while you're working on your new branch, no worries, you can always pull in those updates. 
+When you create a branch, you're making a copy of the original branch as it was at that point in time (like a photo snapshot). If the original branch changes while you're working on your new branch, no worries, you can always pull in those updates.
 
 [![a branch](branching.png)](branching.png)
 
-You may have, at some point in your life, saved different versions of a file like, "story.txt", "story-joe-edit.txt", "story-sue-edit.txt". Branches accomplish the same goals but are easier to manage on GitHub repositories. 
+You may have, at some point in your life, saved different versions of a file like, "story.txt", "story-joe-edit.txt", "story-sue-edit.txt". Branches accomplish the same goals but are easier to manage on GitHub repositories.
 
-At GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our 'master' (production) branch. When a feature or fix is ready, the branch is merged into 'master'. 
+At GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our 'master' (production) branch. When a feature or fix is ready, the branch is merged into 'master'.
 
 ### To create a new branch
 
-1. Go to your new repository `hello-world` 
+1. Go to your new repository `hello-world`
 2. Click the drop down at the top of the file list that says 'branch: master'
 3. Type a branch name, "readme-edits", into the new branch text box
 4. Select the blue 'Create branch' box or hit 'Enter'
@@ -99,7 +99,7 @@ Now you have two branches, 'master' and 'readme-edits'. They look exactly the sa
 
 On GitHub, saved changes are called **commits**. Commits are pretty glorious, because a bunch of them together read like the history of your project.
 
-Each commit has an associated **commit message**, which is a description explaining why a particular change was made. Thanks to these messages, you and others can read through commits and understand what you've done and why. 
+Each commit has an associated **commit message**, which is a description explaining why a particular change was made. Thanks to these messages, you and others can read through commits and understand what you've done and why.
 
 You should still be on the code view for your 'readme-edits' branch, now make some changes!
 
@@ -121,11 +121,11 @@ Click 'Commit your changes'. Now these changes have been made to the README file
 
 Pull Requests are the heart of collaboration on GitHub. When you make a **pull request**, you're proposing your changes and requesting that someone pull in your contribution - aka merge them into their branch. GitHub's Pull Request feature allows you to compare the content on two branches. The changes, addtions and substractions, are show in green and red and called **diffs** (differences).
 
-As soon as you make a change, you can open a Pull Request. People use Pull Requests to start a discussion about commits (code review) even before the code is finished. This way you can get feedback as you go or help when you're stuck. 
+As soon as you make a change, you can open a Pull Request. People use Pull Requests to start a discussion about commits (code review) even before the code is finished. This way you can get feedback as you go or help when you're stuck.
 
 By using GitHub's [@mention system](https://github.com/blog/821-mention-somebody-they-re-notified) in your Pull Request message, you can ask for feedback from specific people or teams, whether they're down the hall or 10 time zones away.
 
-You can even open, as we're doing here, a Pull Request in your own repository and merge it yourself. It's a great way to learn to process before working on larger projects. 
+You can even open, as we're doing here, a Pull Request in your own repository and merge it yourself. It's a great way to learn to process before working on larger projects.
 
 #### Create a Pull Request for changes to the README
 
@@ -133,10 +133,10 @@ _Click on the image for a larger version_
 
 | Step | Screenshot |
 | --- | --- |
-| Click the Pull Requests icon on the sidebar, then from the Pull Request page, click green "Create pull request" button. | ![create pr](https://cloud.githubusercontent.com/assets/1305617/2543808/73059f0a-b5f7-11e3-928e-745e9f9a5c75.gif) | 
-| Select the branch you made, `readme-edits`, to compare with `master` (the original). | [![branch](pick-branch.png)](pick-branch.png) | 
-| Look over your changes in the diffs on the Compare page, make sure they're what you want to submit. | [![diff](diff.png)](diff.png) | 
-| When you're satisfied that these are the changes you want to submit, click the big green 'Send pull request' button. | [![create-pull](create-pr.png)](create-pr.png) | 
+| Click the Pull Requests icon on the sidebar, then from the Pull Request page, click green "Create pull request" button. | ![create pr](https://cloud.githubusercontent.com/assets/1305617/2543808/73059f0a-b5f7-11e3-928e-745e9f9a5c75.gif) |
+| Select the branch you made, `readme-edits`, to compare with `master` (the original). | [![branch](pick-branch.png)](pick-branch.png) |
+| Look over your changes in the diffs on the Compare page, make sure they're what you want to submit. | [![diff](diff.png)](diff.png) |
+| When you're satisfied that these are the changes you want to submit, click the big green 'Send pull request' button. | [![create-pull](create-pr.png)](create-pr.png) |
 | Give your pull request a title and since it relates directly to an open issue, include "fixes #" and the issue number in the title. Write a breif discription of your changes. | ![pr-form](pr-form.png)
 
 When you're done with your message, click 'Send Pull Request'!
@@ -160,11 +160,11 @@ It's time to bring your changes together -- merge your 'readme-edits' branch int
 ![merge](merge-button.png)
 ![delete](delete-button.png)
 
-If you revisit the issue you opened, it's now closed! Because you included "fixes #1" in your Pull Request title, GitHub took care of closing that issue when the Pull Request was merged! 
+If you revisit the issue you opened, it's now closed! Because you included "fixes #1" in your Pull Request title, GitHub took care of closing that issue when the Pull Request was merged!
 
 ### Celebrate!
 
-You've learned to make a pull request on GitHub! :tada: :octocat: :zap: 
+You've learned to make a pull request on GitHub! :tada: :octocat: :zap:
 
 For your humblebrag, here are the things you accomplished in this tutorial: created a branch, issue, created and merged a pull request!
 
