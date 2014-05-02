@@ -11,7 +11,7 @@ summary: Learn how to GitHub with this guide that will walk you through creating
 ---
 <a id="intro" title="Intro" class="toc-item"></a>
 
-The `hello-world` project is a time honored tradition in computer programming. It is a simple exercise that gets your started when learning something new. Let's get started!
+The `hello-world` project is a time-honored tradition in computer programming. It is a simple exercise that gets your started when learning something new. Let's get started!
 
 GitHub is a platform for hosting and collaborating on projects. You don't have to worry about losing data on your hard drive or managing a project across multiple computers -- sync from anywhere. Most importantly, GitHub is a way of working that helps make you more awesome at developing software.
 
@@ -37,10 +37,10 @@ A **repository** is the basic unit of GitHub, most commonly a single project. Th
 
 ### To create a new repository
 
-1. Click the <span class="octicon octicon-plus"></span> icon or go directly to the [new repository page](http://github.com/new)
-2. Name your repository `hello-world`
-3. Write a short description
-4. Select **Initialize this repository with a README**
+1. Click the <span class="octicon octicon-plus"></span> icon.
+2. Name your repository `hello-world`.
+3. Write a short description.
+4. Select **Initialize this repository with a README**.
 
 ![new-repo-form](create-new-repo.png)
 
