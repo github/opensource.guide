@@ -11,11 +11,11 @@ summary: Learn how to GitHub with this guide that will walk you through creating
 ---
 <a id="intro" title="Intro" class="toc-item"></a>
 
-The `hello-world` project is a time honored tradition in computer programming. It is a simple exercise that gets your started when leanring something new. Let's get started!
+The `hello-world` project is a time honored tradition in computer programming. It is a simple exercise that gets your started when learning something new. Let's get started!
 
 GitHub is a platform for hosting and collaborating on projects. You don't have to worry about losing data on your hard drive or managing a project across multiple computers -- sync from anywhere. Most importantly, GitHub is a way of working that helps make you more awesome at developing software.
 
-This guide walks you through the GitHub Essentials: **repositories**, **branches**, **commits**, **Issues** and **Pull Requests**.
+This guide walks you through the GitHub Essentials: **Repositories**, **Branches**, **Commits**, **Issues** and **Pull Requests**.
 
 With these skills, you'll go far. And with this `hello-world` repository you'll have a place to store ideas (aka future repositories), resources or other general notes, even discuss things with others. 
 
@@ -33,14 +33,14 @@ We're going to complete the tasks in this tutorial using GitHub.com, so you don'
 
 ## Create a Repository
 
-A **repository** is the basic unit of GitHub, most comonly a single project. They can contain folders and files -- whatever your project needs. Because most repositories contain a README, a file explaining the project, GitHub makes that an option when creating new repositories. _It also offers other common options such as a license file, but we can skip that for now._
+A **repository** is the basic unit of GitHub, most commonly a single project. They can contain folders and files -- whatever your project needs. Because most repositories contain a README, a file explaining the project, GitHub makes that an option when creating new repositories. _It also offers other common options such as a license file, but we can skip that for now._
 
 ### To create a new repository
 
 1. Click the <span class="octicon octicon-plus"></span> icon or go directly to the [new repository page](http://github.com/new)
 2. Name your repository "hello-world"
 3. Write a short description
-4. Select Initialize this repository with a README
+4. Select 'Initialize this repository with a README'
 
 ![new-repo-form](create-new-repo.png)
 
@@ -62,7 +62,7 @@ You've got a repository now, but it's pretty bare. It could use a README with mo
 
 ![issue](issue.png)
 
-Click 'Submit new issue' when you're done. Now this issue has a permaent home (URL) that you can reference even after it is closed.
+Click 'Submit new issue' when you're done. Now this issue has a permanent home (URL) that you can reference even after it is closed.
 
 Next, work towards editing your readme and closing this issue.
 
@@ -87,7 +87,7 @@ At GitHub, our developers, writers, and designers use branches for keeping bug f
 1. Go to your new repository `hello-world` 
 2. Click the drop down at the top of the file list that says 'branch: master'
 3. Type a branch name, "readme-edits", into the new branch text box
-4. Select the blue 'Creat branch' box or hit 'Enter'
+4. Select the blue 'Create branch' box or hit 'Enter'
 
 ![branch gif](readme-edits.gif)
 
@@ -125,7 +125,7 @@ As soon as you make a change, you can open a Pull Request. People use Pull Reque
 
 By using GitHub's [@mention system](https://github.com/blog/821-mention-somebody-they-re-notified) in your Pull Request message, you can ask for feedback from specific people or teams, whether they're down the hall or 10 time zones away.
 
-You can even do, as we're doing here, a Pull Request in your own repository and merge it yourself. It's a great way to learn to process before working on larger projects. 
+You can even open, as we're doing here, a Pull Request in your own repository and merge it yourself. It's a great way to learn to process before working on larger projects. 
 
 #### Create a Pull Request for changes to the README
 
