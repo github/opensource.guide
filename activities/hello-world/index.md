@@ -23,11 +23,7 @@ With these skills, you'll go far. And with this `hello-world` repository you'll 
 
 We're going to complete the tasks in this tutorial using GitHub.com, so you don't have to know the command line or even install Git (which is the change-tracking software GitHub is built on). You don't even need to know how to code. You will, however, need a GitHub account, so sign up if you don't have one!
 
-> probably they do if they're getting the email, but if this lives on Guides, maybe we should include that last line
-
-
-
-> Tip: Keep this guide open in its own tab in your browser, so you can navigate back to it throughout the tutorial.
+> Tip: Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.
 
 <a id="repository" title="Create a Repository" class="toc-item"></a>
 
