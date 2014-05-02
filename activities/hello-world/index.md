@@ -64,7 +64,7 @@ You've got a repository now, but it's pretty bare. It could use a README with mo
 
 Click **Submit new issue** when you're done. Now this issue has a permanent home (URL) that you can reference even after it is closed.
 
-Next, work towards editing your readme and closing this issue.
+Next, work towards editing your README and closing this issue.
 
 <a id="branch" title="Create a Branch" class="toc-item"></a>
 
