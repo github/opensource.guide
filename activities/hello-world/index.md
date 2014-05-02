@@ -4,7 +4,7 @@ title: Hello World
 read_time: 10 minutes
 updated_at: April, 2014
 icon: repo
-survey_tag: 'pull-requests-1'
+survey_tag: 'hello-world-1'
 
 summary: Learn how to GitHub with this guide that will walk you through creating a repository, branching, making changes, and opening a Pull Request.
 
