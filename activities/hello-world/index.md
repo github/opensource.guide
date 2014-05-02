@@ -44,7 +44,7 @@ A **repository** is the basic unit of GitHub, most commonly a single project. Th
 
 ![new-repo-form](create-new-repo.png)
 
-Click 'Create repository'. :boom: repository!
+Click **Create repository**. :boom: repository!
 
 <a id="issue" title="Open an Issue" class="toc-item"></a>
 
