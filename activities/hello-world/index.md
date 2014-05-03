@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Hello World
-read_time: 10 minutes
+read_time: 10 minute
 updated_at: May, 2014
 icon: repo
 survey_tag: 'hello-world-1'
