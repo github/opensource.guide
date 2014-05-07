@@ -160,7 +160,7 @@ If you revisit the issue you opened, it's now closed! Because you included "fixe
 
 You've learned to make a pull request on GitHub! :tada: :octocat: :zap:
 
-For your humblebrag, here are the things you accomplished in this tutorial: created a repository, branch, issue, and pull request, then merged a pull request! Show off your new [contribution squares](https://github.com/blog/1360-introducing-contributions)!
+For your humblebrag, here are the things you accomplished in this tutorial: created a repository, branch, issue, and pull request, then merged a pull request! Show off your new [contribution squares](https://help.github.com/articles/viewing-contributions)!
 
 If you want to learn more about the power of pull requests, we recommend reading the [GitHub Flow Guide](http://guides.github.com/overviews/flow/). You might also visit [GitHub Explore](http://github.com/explore) and get involved in an Open Source project :octocat:
 
