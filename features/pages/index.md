@@ -68,7 +68,7 @@ When we're done, we can click **Commit Changes** and our change should go live i
 
 ## Next Steps
 
-Just because we've made some changes into our project doesn't mean we should stop! Check out these other guides so we can contribute to other projects or get someone to help us out with our project:
+Just because we've made some changes into our project doesn't mean we should stop! Check out these other guides so we can contribute to other projects or perfect the way we work on our projects:
 
 - [GitHub Flow] [1]
 - [Contributing to Open Source] [2]
