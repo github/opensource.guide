@@ -20,27 +20,27 @@ GitHub Pages are public webpages hosted and easily published through GitHub. The
 
 Once we're <a href="https://github.com/login" target="_blank">signed in</a> we will create a new repository to get started.
 
-![](create-new-repo-button.png)
+![new-repo-button](create-new-repo-button.png)
 
 On the new repository screen, we need to give this repository a special name to generate our website.
 
-![](create-new-repo-screen.png)
+![new-repo-screen](create-new-repo-screen.png)
 
 Our website's HTML and CSS will all live in a repository named `username.github.io` (where "username" is our actual GitHub user name, of course). To get an initial set of HTML and CSS, we have to open the settings tab and enable the Automatic Page Generator
 
-![](settings-tab.png)
+![settings-tab](settings-tab.png)
 
 If we scroll down on the settings page, we should see the **Automatic Page Generator** button near the bottom. By clicking this button, we will begin the process of generating our content automatically.
 
-![](automatic-page-generator.png)
+![automatic-button](automatic-page-generator.png)
 
 Once we've clicked the button, we're directed to the first step of the generation: The Content. We can keep this default content for now and make changes to it later. Let's go ahead and click **Continue to Layouts** at the bottom of the page to continue.
 
-![](continue-to-layout.png)
+![continue-to-layout](continue-to-layout.png)
 
 Now we pick our theme. This part requires a bit more thought because it's easier to choose a theme now than to update our theme later. When we've looked at some of the options at the top of the page and found one that we love, click **Publish** to finish.
 
-![](selection-of-layout-publish.png)
+![pick-your-poison](selection-of-layout-publish.png)
 
 Once we click **Publish**, GitHub does all the work to direct visitors to `username.github.io` to view your new website. This can take up to 10 minutes. After some time has passed, we can open a new tab in our browser to go to our site!
 
@@ -52,17 +52,17 @@ One of the first things we can do is remove the default title of our index page,
 
 If we click on the `index.html` file to navigate into that file, we can make edits to it by clicking **Edit**.
 
-![](edit-index-page.png)
+![edit-page](edit-index-page.png)
 
 Let's find in this file where it says `username.github.io` and change this to a friendlier title. For the Octocat, I'm going to change it to "Welcome to the Octocat's homepage!". Feel free to do the same, except for your own username. Under this title, we should add a message about the purpose of the page and describe what we want people to do while they're here.
 
-![](welcome-message.png)
+![change-message](welcome-message.png)
 
 After we're done making this small change, scroll to the bottom of the page to make our first commit. We have two places to write about this change: a subject and an extended description. The extended description is optional, so let's leave a descriptive message in the subject.
 
 When we're done, we can click **Commit Changes** and our change should go live in just a few seconds!
 
-![](commit-messages-matter.png)
+![be-descriptive](commit-messages-matter.png)
 
 <a id="next-steps" title="Next Steps" class="toc-item"></a>
 
