@@ -82,3 +82,23 @@ Unless you've created releases for this repository before then you will be asked
 If this is the first release of your code then you should probably give it a version number of ```1.0```. Fill in any release notes and click the 'Publish release' button.
 
 ![first-release](first-release.png)
+
+Provided everything has gone swimmingly thus far then the creation of this new release should have triggered Zenodo into archiving our repository. Let's head back over to Zenodo to see what's waiting for us...
+
+<a id="finishing" title="Minting a DOI" class="toc-item"></a>
+
+## Minting a DOI
+
+Before Zenodo can issue a DOI for our repository they need a little bit more information about the GitHub repo that we've just archived.
+
+![uploads](upload-tab.png)
+
+Click the 'Upload' tab from your Zenodo profile and you should see a new upload in the right-hand panel.
+
+![form](zenodo-form.png)
+
+Next we need to fill in the form to complete this submission. Once you're happy with the description of your software click the 'Submit' button at the bottom and voil&agrave;, you've just made  yourself a shiny new DOI for your GitHub repo!
+
+<a id="finishing-up" title="Finishing Up" class="toc-item"></a>
+
+## Finishing Up
