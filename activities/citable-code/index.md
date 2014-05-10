@@ -55,7 +55,7 @@ At this point, you've just authorized Zenodo to configure the webhooks for your 
 
 That's all we need to do for now here. Back to GitHub!
 
-<a id="issue" title="Check Repo Settings" class="toc-item"></a>
+<a id="check" title="Check Repo Settings" class="toc-item"></a>
 
 ## Check Repository Settings
 
@@ -65,7 +65,7 @@ Click the settings icon <span class="octicon octicon-tools"></span> and then cli
 
 ![webhooks](webhook-view.png)
 
-<a id="issue" title="Create a New Release" class="toc-item"></a>
+<a id="create" title="Create a New Release" class="toc-item"></a>
 
 ## Create a New Release
 
