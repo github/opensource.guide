@@ -103,7 +103,7 @@ To complete this submission we need to fill in the form. Once you're happy with 
 
 ## Finishing up
 
-Back on your [Zenodo GitHub page](https://zenodo.org/account/settings/github/) you should now see your repository listed with a shiny new badge showing your new DOI!
+Back on your [Zenodo GitHub page](https://zenodo.org/account/settings/github) you should now see your repository listed with a shiny new badge showing your new DOI!
 
 > **Tip:** If you really want to show off then right click on the DOI image and copy the URL and place it in your README on your GitHub repo.
 
