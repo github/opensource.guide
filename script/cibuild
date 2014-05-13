@@ -24,4 +24,6 @@ cd "$RACK_ROOT"
 
 script/bootstrap
 
-bundle exec rake test
+bundle exec jekyll build
+
+bundle exec htmlproof _site
