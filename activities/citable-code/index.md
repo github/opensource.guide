@@ -49,7 +49,7 @@ At this point, you've authorized Zenodo to configure the repository webhooks nee
 
 ## Check repository settings
 
-By switching archiving on in Zenodo, you have set up a new webhook on your repository. Click the settings icon <span class="octicon octicon-tools"></span> in your repository, and then click 'Webhooks &amp; Services' in the left-hand menu. If all has gone to plan then you should see something like in the screengrab below listing a new webhook configured to post to Zenodo.
+By enabling archiving in Zenodo, you have set up a new webhook on your repository. Click the settings icon <span class="octicon octicon-tools"></span> in your repository, and then click 'Webhooks &amp; Services' in the left-hand menu. You should see something like the image below, which shows a new webhook configured to send messages to Zenodo.
 
 ![webhooks](webhook-view.png)
 
@@ -61,7 +61,7 @@ By default, Zenodo takes an archive of your GitHub repository each time you crea
 
 ![repo](repo-view.png)
 
-Unless you've created releases for this repository before you will be asked to **Create a new release**. Go ahead and click this button and fill in the new release form.
+Unless you've created releases for this repository before, you will be asked to **Create a new release**. Go ahead and click this button and fill in the new release form.
 
 ![create-release](create-release.png)
 
