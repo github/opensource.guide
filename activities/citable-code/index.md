@@ -27,7 +27,7 @@ Provided you've already got a GitHub repository set up that you want to archive 
 
 ## Choosing Your Repository
 
-Repositories are the basic unit of GitHub. We first need to select the repository we want to archive in Zenodo. Head over to your profile and click the 'repositories' tab.
+Repositories are the basic unit of GitHub. We first need to select the repository we want to archive in Zenodo. Head over to your profile and click the **Repositories** tab.
 
 ![login](repos.png)
 
