@@ -61,7 +61,7 @@ That's all we need to do for now here. Back to GitHub!
 
 By switching archiving on in Zenodo, we have set up a new webhook on our repository. Let's got and take a look at that now.
 
-Click the settings icon <span class="octicon octicon-tools"></span> and then click 'Webhooks &amp; Services' in the left-hand menu. If all has gone to plan then you should see something like in the screengrab below listing a new webhook configured to post to Zenodo.org.
+Click the settings icon <span class="octicon octicon-tools"></span> and then click 'Webhooks &amp; Services' in the left-hand menu. If all has gone to plan then you should see something like in the screengrab below listing a new webhook configured to post to Zenodo.
 
 ![webhooks](webhook-view.png)
 
@@ -97,7 +97,7 @@ Click the **Upload** tab from your Zenodo profile and you should see a new uploa
 
 ![form](zenodo-form.png)
 
-Next we need to fill in the form to complete this submission. Once you're happy with the description of your software click the **Submit** button at the bottom and voil&agrave;, you've just made  yourself a shiny new DOI for your GitHub repo!
+Next we need to fill in the form to complete this submission. Once you're happy with the description of your software click the **Submit** button at the bottom and voil&agrave;, you've just made yourself a shiny new DOI for your GitHub repo!
 
 <a id="finishing-up" title="Finishing Up" class="toc-item"></a>
 
