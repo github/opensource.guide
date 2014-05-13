@@ -67,7 +67,7 @@ Click the settings icon <span class="octicon octicon-tools"></span> and then cli
 
 ## Create a New Release
 
-By default, Zenodo takes an archive of your GitHub repository each time you create a new [Release](https://help.github.com/articles/creating-releases) so let's go ahead and create one to test things out.
+By default, Zenodo takes an archive of your GitHub repository each time you create a new [Release](https://help.github.com/articles/about-releases) so let's go ahead and create one to test things out.
 
 Head back to the main repository view and click on the **releases** header item.
 
