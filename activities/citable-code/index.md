@@ -13,11 +13,9 @@ summary: Learn how to make your code citable in the academic literature by assig
 
 [Digital Object Identifiers](http://en.wikipedia.org/wiki/Digital_object_identifier) (DOI) are the backbone of the academic reference and metrics system. If you're a researcher writing software then this guide will show you how to make your work citable in the academic referencing system.
 
-In this tutorial we're going to learn how to archive one of your GitHub repositories and assign it a DOI using the data archiving tool [Zenodo](https://zenodo.org/).
+In this tutorial we're going to learn how to archive one of your GitHub repositories and assign it a DOI using the data archiving tool [Zenodo](https://zenodo.org/about).
 
-> **Tip:** Note, this tutorial is aimed at researchers who want to cite GitHub repositories in the academic literature. Most people don't need to do this but if you do then read on...
-
-_Should explain what Zenodo is here?_
+> **Tip:** Note, this tutorial is aimed at researchers who want to cite GitHub repositories in the academic literature.
 
 #### Install & Code Free Zone
 
@@ -83,7 +81,13 @@ If this is the first release of your code then you should probably give it a ver
 
 ![first-release](first-release.png)
 
-Provided everything has gone swimmingly thus far then the creation of this new release should have triggered Zenodo into archiving our repository. Let's head back over to Zenodo to see what's waiting for us.
+## Checking everything worked
+
+Provided everything has gone swimmingly thus far, then the creation of this new release should have triggered Zenodo into archiving our repository. Let's head back over to Zenodo to see what's waiting for us.
+
+Click the **Upload** tab from your Zenodo profile and you should see a new upload in the right-hand panel.
+
+![uploads](upload-tab.png)
 
 <a id="finishing" title="Minting a DOI" class="toc-item"></a>
 
@@ -91,14 +95,16 @@ Provided everything has gone swimmingly thus far then the creation of this new r
 
 Before Zenodo can issue a DOI for our repository they need a little bit more information about the GitHub repo that we've just archived.
 
-![uploads](upload-tab.png)
-
-Click the **Upload** tab from your Zenodo profile and you should see a new upload in the right-hand panel.
+To complete this submission we need to fill in the form. Once you're happy with the description of your software click the **Submit** button at the bottom and voil&agrave;, you've just made yourself a shiny new DOI for your GitHub repo!
 
 ![form](zenodo-form.png)
 
-Next we need to fill in the form to complete this submission. Once you're happy with the description of your software click the **Submit** button at the bottom and voil&agrave;, you've just made yourself a shiny new DOI for your GitHub repo!
+<a id="finishing-up" title="Finishing up" class="toc-item"></a>
 
-<a id="finishing-up" title="Finishing Up" class="toc-item"></a>
+## Finishing up
 
-## Finishing Up
+Back on your [Zenodo GitHub page](https://zenodo.org/account/settings/github/) you should now see your repository listed with a shiny new badge showing your new DOI!
+
+> **Tip:** If you really want to show off then right click on the DOI image and copy the URL and place it in your README on your GitHub repo.
+
+![releases-present](releases-present.png)
