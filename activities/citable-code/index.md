@@ -23,7 +23,7 @@ Repositories are the most basic element of GitHub. They're easiest to imagine as
 
 ![login](repos.png)
 
-> **Important!** Make sure you tell people how they can reuse your work by including a license in your repository. If you don't know which license is right for you, then take a look at [choosealicense.com](http://choosealicense.com/)
+> **Important!** Make sure you tell people how they can reuse your work by including a license in your repository. If you don't know which license is right for you, then take a look at [choosealicense.com](http://choosealicense.com/).
 
 <a id="login" title="Login to Zenodo" class="toc-item"></a>
 
