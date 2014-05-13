@@ -37,8 +37,6 @@ Zenodo will redirect you back to GitHub to ask for your permission to share your
 
 ![auth](zenodo-authorize.png)
 
-> **ProTip** This integration with Zenodo makes use of the GitHub [API webhooks](https://developer.github.com/webhooks/), which is a broadcast API for your GitHub repositories.
-
 ### Pick the repository you want to archive
 
 At this point, you've authorized Zenodo to configure the repository webhooks needed to allow for archiving and DOI-issuing. To enable this functionality, simply click the **On** toggle button next to your repository (in this case **My-Awesome-Science-Software**).
