@@ -15,7 +15,7 @@ summary: Learn how to make your code citable in the academic literature by assig
 
 In this tutorial we're going to learn how to archive one of your GitHub repositories and assign it a DOI using the data archiving tool [Zenodo](https://zenodo.org/about).
 
-> **Tip:** Note, this tutorial is aimed at researchers who want to cite GitHub repositories in the academic literature.
+> **ProTip:** this tutorial is aimed at researchers who want to cite GitHub repositories in the academic literature.
 
 #### Install & Code Free Zone
 
@@ -103,7 +103,7 @@ To complete this submission we need to fill in the form. Once you're happy with 
 
 ## Finishing up
 
-Back on your [Zenodo GitHub page](https://zenodo.org/account/settings/github) you should now see your repository listed with a shiny new badge showing your new DOI!
+Back on your <a href="https://zenodo.org/account/settings/github" data-proofer-ignore">Zenodo GitHub page</a> you should now see your repository listed with a shiny new badge showing your new DOI!
 
 > **Tip:** If you really want to show off then right click on the gray and blue DOI image and copy the URL and place it in your README on your GitHub repo.
 
