@@ -6,18 +6,18 @@ updated_at: May, 2014
 icon: repo
 survey_tag: 'citable-code'
 
-summary: Learn how to make your code citable in the academic literature by assigning a Digital Object Identifier to your GitHub repository
+summary: Learn how to make your code citable in academic literature by assigning a Digital Object Identifier to your GitHub repository
 
 ---
 <a id="intro" title="Intro" class="toc-item"></a>
 
-[Digital Object Identifiers](http://en.wikipedia.org/wiki/Digital_object_identifier) (DOI) are the backbone of the academic reference and metrics system. If you're a researcher writing software, this guide will show you how to make the work you share on GitHub citable by archiving one of your GitHub repositories and assigning a DOI using the data archiving tool [Zenodo](https://zenodo.org/about).
+[Digital Object Identifiers](http://en.wikipedia.org/wiki/Digital_object_identifier) (DOI) are the backbone of the academic reference and metrics system. If you're a researcher writing software, this guide will show you how to make the work you share on GitHub citable by archiving one of your GitHub repositories and assigning a DOI with the data archiving tool [Zenodo](https://zenodo.org/about).
 
 > **ProTip:** This tutorial is aimed at researchers who want to cite GitHub repositories in academic literature. Provided you've already set up a GitHub repository, this tutorial can be completed without installing any special software. If you haven't yet created a project on GitHub, start first by [uploading your work](https://guides.github.com/introduction/desktop/) to a repository.
 
 <a id="repository" title="Choosing Your Repo" class="toc-item"></a>
 
-## Choosing your repository
+## Choose your repository
 
 Repositories are the most basic element of GitHub. They're easiest to imagine as your project's folder. The first step in creating a DOI is to select the repository you want to archive in Zenodo. To do so, head over to your profile and click the **Repositories** tab.
 
