@@ -19,7 +19,7 @@ In this tutorial we're going to learn how to archive one of your GitHub reposito
 
 #### Install & Code Free Zone
 
-Provided you've already got a GitHub repository set up that you want to archive, then this tutorial can be completed without installing any special software. If you haven't yet created a project on GitHub, start first by [uploading your work]((https://guides.github.com/introduction/desktop/)) to a repository.
+Provided you've already got a GitHub repository set up that you want to archive, then this tutorial can be completed without installing any special software. If you haven't yet created a project on GitHub, start first by [uploading your work](https://guides.github.com/introduction/desktop/) to a repository.
 
 <a id="repository" title="Choosing Your Repo" class="toc-item"></a>
 
