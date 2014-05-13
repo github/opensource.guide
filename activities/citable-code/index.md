@@ -37,11 +37,11 @@ Repositories are the basic unit of GitHub. We first need to select the repositor
 
 ## Login to Zenodo
 
-Next, head over to [Zenodo](http://zenodo.org) and click the 'sign in' button at the top right of the page which gives you an option to login with your GitHub account :zap:.
+Next, head over to [Zenodo](http://zenodo.org) and click the **Sign In** button at the top right of the page which gives you an option to login with your GitHub account :zap:.
 
 ![login](zenodo-login.png)
 
-Zenodo will redirect you back to GitHub to ask for your permission to share your email address and the ability to configure [webhooks](https://developer.github.com/webhooks/) on your repositories. Go ahead and click 'Authorize application' to give Zenodo the permissions it needs.
+Zenodo will redirect you back to GitHub to ask for your permission to share your email address and the ability to configure [webhooks](https://developer.github.com/webhooks/) on your repositories. Go ahead and click **Authorize application** to give Zenodo the permissions it needs.
 
 ![auth](zenodo-authorize.png)
 
@@ -49,7 +49,7 @@ Zenodo will redirect you back to GitHub to ask for your permission to share your
 
 ### Pick the repository you want to archive
 
-At this point, you've just authorized Zenodo to configure the webhooks for your repositories to allow for archiving and DOI-issuing. To enable this functionality we need to turn on archiving 'on' using the toggle button next to our repository (in this case 'My Awesome Science Software').
+At this point, you've just authorized Zenodo to configure the webhooks for your repositories to allow for archiving and DOI-issuing. To enable this functionality we need to click the **On** toggle button next to our repository (in this case **My-Awesome-Science-Software**).
 
 ![toggle](zenodo-toggle-on.png)
 
@@ -59,7 +59,7 @@ That's all we need to do for now here. Back to GitHub!
 
 ## Check Repository Settings
 
-By switching on archiving on Zenodo we have set up a new webhook on our repository. Let's got and take a look at that now.
+By switching archiving on in Zenodo, we have set up a new webhook on our repository. Let's got and take a look at that now.
 
 Click the settings icon <span class="octicon octicon-tools"></span> and then click 'Webhooks &amp; Services' in the left-hand menu. If all has gone to plan then you should see something like in the screengrab below listing a new webhook configured to post to Zenodo.org.
 
@@ -71,19 +71,19 @@ Click the settings icon <span class="octicon octicon-tools"></span> and then cli
 
 By default, Zenodo takes an archive of your GitHub repository each time you create a new [Release](https://help.github.com/articles/creating-releases) so let's go ahead and create one to test things out.
 
-Head back to the main repository view and click on the 'releases' header item.
+Head back to the main repository view and click on the **releases** header item.
 
 ![repo](repo-view.png)
 
-Unless you've created releases for this repository before then you will be asked to 'Create a new release'. Go ahead and click this button and fill in the new release form.
+Unless you've created releases for this repository before then you will be asked to **Create a new release**. Go ahead and click this button and fill in the new release form.
 
 ![create-release](create-release.png)
 
-If this is the first release of your code then you should probably give it a version number of ```1.0```. Fill in any release notes and click the 'Publish release' button.
+If this is the first release of your code then you should probably give it a version number of `1.0`. Fill in any release notes and click the **Publish release** button.
 
 ![first-release](first-release.png)
 
-Provided everything has gone swimmingly thus far then the creation of this new release should have triggered Zenodo into archiving our repository. Let's head back over to Zenodo to see what's waiting for us...
+Provided everything has gone swimmingly thus far then the creation of this new release should have triggered Zenodo into archiving our repository. Let's head back over to Zenodo to see what's waiting for us.
 
 <a id="finishing" title="Minting a DOI" class="toc-item"></a>
 
@@ -93,11 +93,11 @@ Before Zenodo can issue a DOI for our repository they need a little bit more inf
 
 ![uploads](upload-tab.png)
 
-Click the 'Upload' tab from your Zenodo profile and you should see a new upload in the right-hand panel.
+Click the **Upload** tab from your Zenodo profile and you should see a new upload in the right-hand panel.
 
 ![form](zenodo-form.png)
 
-Next we need to fill in the form to complete this submission. Once you're happy with the description of your software click the 'Submit' button at the bottom and voil&agrave;, you've just made  yourself a shiny new DOI for your GitHub repo!
+Next we need to fill in the form to complete this submission. Once you're happy with the description of your software click the **Submit** button at the bottom and voil&agrave;, you've just made  yourself a shiny new DOI for your GitHub repo!
 
 <a id="finishing-up" title="Finishing Up" class="toc-item"></a>
 
