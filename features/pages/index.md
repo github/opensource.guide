@@ -10,7 +10,7 @@ summary: GitHub Pages are a great way to showcase some open source projects, hos
 ---
 
 <a id="intro" title="Intro" class="toc-item"></a>
-GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Automatic Page Generator to create some starter HTML and CSS for us. We can then modify our GitHub Pages' content and style remotely via the web or locally on our computer.
+GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Automatic Page Generator to create some starter HTML and CSS for us. You can then modify our GitHub Pages' content and style remotely via the web or locally on our computer.
 
 ![pages-home-page](pages-home-page.png)
 
@@ -18,49 +18,49 @@ GitHub Pages are public webpages hosted and easily published through GitHub. The
 
 ## Create Your Website
 
-Once we're <a href="https://github.com/login" target="_blank">signed in</a> we will create a new repository to get started.
+Once you'vee <a href="https://github.com/login" target="_blank">signed in</a>, you'll create a new repository to get started.
 
 ![new-repo-button](create-new-repo-button.png)
 
-On the new repository screen, we need to give this repository a special name to generate our website.
+On the new repository screen, you need to give this repository a special name to generate your website.
 
 ![new-repo-screen](create-new-repo-screen.png)
 
-Our website's HTML and CSS will all live in a repository named `username.github.io` (where "username" is our actual GitHub user name, of course). To get an initial set of HTML and CSS, we have to open the settings tab and enable the Automatic Page Generator
+Your website's HTML and CSS will all live in a repository named `username.github.io` (where "username" is your actual GitHub user name). To get an initial set of HTML and CSS, you have to open the Settings tab and enable the Automatic Page Generator
 
 ![settings-tab](settings-tab.png)
 
-If we scroll down on the settings page, we should see the **Automatic Page Generator** button near the bottom. By clicking this button, we will begin the process of generating our content automatically.
+If you scroll down on the settings page, you should see the **Automatic Page Generator** button near the bottom. By clicking this button, you start the process of generating your content automatically.
 
 ![automatic-button](automatic-page-generator.png)
 
-Once we've clicked the button, we're directed to the first step of the generation: The Content. We can keep this default content for now and make changes to it later. Let's go ahead and click **Continue to Layouts** at the bottom of the page to continue.
+Once you've clicked the button, you'll be directed to the first step of the generation: The Content. You can keep this default content for now and make changes to it later. Let's go ahead and click **Continue to Layouts** at the bottom of the page to continue.
 
 ![continue-to-layout](continue-to-layout.png)
 
-Now we pick our theme. This part requires a bit more thought because it's easier to choose a theme now than to update our theme later. When we've looked at some of the options at the top of the page and found one that we love, click **Publish** to finish.
+Now, you pick your theme. This part requires a bit more thought because it's easier to choose a theme now than to update your theme later. When you've looked at some of the options at the top of the page and found one that you love, click **Publish** to finish.
 
 ![pick-your-poison](selection-of-layout-publish.png)
 
-Once we click **Publish**, GitHub does all the work to direct visitors to `username.github.io` to view your new website. This can take up to 10 minutes. After some time has passed, we can open a new tab in our browser to go to our site!
+Once you click **Publish**, GitHub does all the work to direct visitors to `username.github.io` to view your new website. This can take up to 10 minutes. After some time has passed, you can open a new tab in your browser to go to your site!
 
 <a id="changes" title="Making Changes" class="toc-item"></a>
 
 ## Making Changes
 
-One of the first things we can do is remove the default title of our index page, and add a friendlier message to it. Since this is a very quick change -- and our first one -- we're going to make it on the default branch: `master`.
+One of the first things you can do is remove the default title of your index page, and add a friendlier message to it. Since this is a very quick change -- and your first one -- you're going to make it on the default branch: `master`.
 
-If we click on the `index.html` file to navigate into that file, we can make edits to it by clicking **Edit**.
+If you click on the `index.html` file to navigate into that file, you can make edits to it by clicking **Edit**.
 
 ![edit-page](edit-index-page.png)
 
-Let's find in this file where it says `username.github.io` and change this to a friendlier title. For the Octocat, I'm going to change it to "Welcome to the Octocat's homepage!". Feel free to do the same, except for your own username. Under this title, we should add a message about the purpose of the page and describe what we want people to do while they're here.
+Let's find in this file where it says `username.github.io` and change this to a friendlier title. For the Octocat, I'm going to change it to "Welcome to the Octocat's homepage!". Feel free to do the same, except for your own username. Under this title, you should add a message about the purpose of the page and describe what you want people to do while they're here.
 
 ![change-message](welcome-message.png)
 
-After we're done making this small change, scroll to the bottom of the page to make our first commit. We have two places to write about this change: a subject and an extended description. The extended description is optional, so let's leave a descriptive message in the subject.
+After you're done making this small change, scroll to the bottom of the page to make your first commit. You have two places to write about this change: a subject and an extended description. The extended description is optional, so let's leave a descriptive message in the subject.
 
-When we're done, we can click **Commit Changes** and our change should go live in just a few seconds!
+When you're done, click **Commit Changes** and your change should go live in just a few seconds!
 
 ![be-descriptive](commit-messages-matter.png)
 
@@ -68,7 +68,7 @@ When we're done, we can click **Commit Changes** and our change should go live i
 
 ## Next Steps
 
-Just because we've made some changes into our project doesn't mean we should stop! Check out these other guides so we can contribute to other projects or perfect the way we work on our projects:
+Just because you've made some changes into your project doesn't mean you should stop! Check out these other guides to learn how to contribute to other projects or perfect the way you work on projects:
 
 - [GitHub Flow] [1]
 - [Contributing to Open Source] [2]
