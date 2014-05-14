@@ -18,7 +18,7 @@ GitHub Pages are public webpages hosted and easily published through GitHub. The
 
 ## Create Your Website
 
-Once you'vee <a href="https://github.com/login" target="_blank">signed in</a>, you'll create a new repository to get started.
+Once you've <a href="https://github.com/login" target="_blank">signed in</a>, you'll create a new repository to get started.
 
 ![new-repo-button](create-new-repo-button.png)
 
