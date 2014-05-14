@@ -3,7 +3,7 @@ layout: article
 title: Making Your Code Citable
 read_time: 10 minute
 updated_at: May, 2014
-icon: repo
+icon: microscope
 survey_tag: 'citable-code'
 
 summary: Learn how to make your code citable in academic literature by assigning a Digital Object Identifier to your GitHub repository
