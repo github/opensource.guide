@@ -46,6 +46,7 @@ html, body {
 .guide-cover {
   height: 225px;
   color: #fff;
+  background-color: #aaa;
   text-align: center;
   position: relative;
   z-index: 2;
@@ -141,7 +142,7 @@ ol.toc.sticky {
 }
 
 .article-heading {
-  background-color: #eee;
+  background-color: #aaa;
   margin-top: 10px;
   margin-bottom: 40px;
   position: relative;
