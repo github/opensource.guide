@@ -1,17 +1,17 @@
 .flow-content {
-  width: 600px;
   position: relative;
+  width: 600px;
   margin: 0 auto 100px auto;
 }
 
 .panel-nav {
-  height: 100px;
-  width: 100px;
-  border-radius: 50px;
-  text-align: center;
-  border: solid 1px #e5e5e5;
   position: absolute;
   top: 100px;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  border: solid 1px #e5e5e5;
+  border-radius: 50px;
 }
 
 .panel-nav:active {
@@ -37,8 +37,8 @@
 }
 
 .panel-nav.disabled:active {
-  border-color: #e5e5e5;
   cursor: default;
+  border-color: #e5e5e5;
 }
 
 .panel-nav-bottom {
@@ -55,9 +55,9 @@
 }
 
 .panel-nav-bottom .mega-octicon {
-  vertical-align: middle;
   position: relative;
   top: -1px;
+  vertical-align: middle;
 }
 
 .panel-content {
@@ -69,9 +69,9 @@
 }
 
 .scrollable-diagram {
+  padding: 20px 0;
   overflow-x: scroll;
   overflow-y: hidden;
-  padding: 20px 0;
 }
 
 .features-branch-diagram {
@@ -82,21 +82,21 @@
 
 .diagram-icon {
   position: absolute;
-  border-radius: 50px;
-  border: solid 4px #4183c4;
-  background-color: #fff;
   width: 53px;
   height: 53px;
-  text-align: center;
   line-height: 55px;
   color: #4183c4;
+  text-align: center;
   cursor: pointer;
+  background-color: #fff;
+  border: solid 4px #4183c4;
+  border-radius: 50px;
 }
 
 .diagram-icon.active {
+  color: #fff;
   background-color: #932D70;
   border-color: #932D70;
-  color: #fff;
 }
 
 .diagram-icon .mega-octicon {
@@ -107,7 +107,7 @@
   position: absolute;
   color: #4183c4;
   cursor: pointer;
-  margin-top: 2px\9; // IE hack
+  margin-top: 2px\9; // IE hack - this needs to remain the last rule
 }
 
 .diagram-icon-small.active {
