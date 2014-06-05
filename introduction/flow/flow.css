@@ -107,7 +107,7 @@
   position: absolute;
   color: #4183c4;
   cursor: pointer;
-  margin-top: 2px\9; // IE hack
+  margin-top: 2px\9; // IE hack - this needs to remain the last rule
 }
 
 .diagram-icon-small.active {
