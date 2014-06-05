@@ -7,9 +7,9 @@
 }
 
 html, body {
-  font-size: 18px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
   color: #444;
   background-color: #fff;
 }
@@ -21,13 +21,13 @@ html, body {
 /* Guide listings */
 
 .guide-listings {
-  margin-top: 20px;
   width: 990px;
+  margin-top: 20px;
 }
 
 .guide-listing {
-  width: 440px;
   float: left;
+  width: 440px;
   margin-right: 50px;
   margin-bottom: 30px;
 }
@@ -44,28 +44,28 @@ html, body {
 }
 
 .guide-cover {
-  height: 225px;
-  color: #fff;
-  background-color: #aaa;
-  text-align: center;
   position: relative;
   z-index: 2;
+  height: 225px;
+  color: #fff;
+  text-align: center;
+  background-color: #aaa;
 }
 
 .guide-cover a {
-  color: #fff;
   display: block;
   width: 440px;
   height: 225px;
   padding: 30px 40px;
+  color: #fff;
 }
 
 .icon-container {
   width: 68px;
   height: 68px;
-  border-radius: 34px;
-  background-color: rgba(0, 0, 0, 0.5);
   text-align: center;
+  background-color: rgba(0, 0, 0, .5);
+  border-radius: 34px;
 }
 
 .guide-cover .icon-container {
@@ -77,11 +77,11 @@ html, body {
 }
 
 .guide-cover-title {
+  margin-top: 20px;
   font-size: 32px;
   font-weight: normal;
-  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.15);
   line-height: 1.3;
-  margin-top: 20px;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, .15);
 }
 
 .guide-summary {
@@ -97,9 +97,9 @@ html, body {
 /* Columns & Layout */
 
 .wrap {
-  margin: 0 auto;
-  padding: 0 15px;
   max-width: 960px;
+  padding: 0 15px;
+  margin: 0 auto;
 }
 
 article.full .content-body {
@@ -127,7 +127,7 @@ ol.toc.sticky {
 
 @media (max-width: 900px) {
   .wrap {
-    max-width: auto
+    max-width: auto;
   }
 
   article.full .content-body {
@@ -142,11 +142,11 @@ ol.toc.sticky {
 }
 
 .article-heading {
-  background-color: #aaa;
+  position: relative;
   margin-top: 10px;
   margin-bottom: 40px;
-  position: relative;
-  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.15);
+  text-shadow: 0 2px 0 rgba(0, 0, 0, .15);
+  background-color: #aaa;
 }
 
 .article-header-pattern {
@@ -163,18 +163,18 @@ ol.toc.sticky {
 }
 
 .article-heading .icon-container {
+  position: absolute;
+  left: 15px;
   display: inline-block;
   float: left;
   margin-top: 30px;
   margin-right: 20px;
-  position: absolute;
-  left: 15px;
 }
 
 .article-read-time {
-  color: rgba(255, 255, 255, 0.7);
   margin-left: 108px;
   clear: left;
+  color: rgba(255, 255, 255, .7);
 }
 
 .article-read-time .octicon {
@@ -186,32 +186,32 @@ ol.toc.sticky {
   margin: 20px 0;
   border: 1px solid #ccc;
   border-radius: 3px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.075);
+  box-shadow: 0 1px 3px rgba(0,0,0,.075);
 }
 .markdown-example .source {
-  margin: 0;
   padding: 20px;
-  background: #F8F8F8;
-  border: none;
-  border-radius: 0;
-  border-bottom: 1px solid #ccc;
-  white-space: pre-wrap;
+  margin: 0;
   font-size: 16px;
   line-height: 28px;
+  white-space: pre-wrap;
+  background: #F8F8F8;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  border-radius: 0;
 }
 .markdown-example .rendered {
   padding: 20px;
 }
 
 .markdown-body ul.example-nav {
-  margin: 20px 0;
   padding: 0;
+  margin: 20px 0;
 }
 .example-nav li {
-  margin: 0 15px 0 0;
-  padding: 0;
-  list-style-type: none;
   display: inline-block;
+  padding: 0;
+  margin: 0 15px 0 0;
+  list-style-type: none;
 }
 
 .example-nav li a {
@@ -227,16 +227,16 @@ ol.toc.sticky {
 
 .alert {
   position:relative;
-  margin:0 auto;
   padding:15px;
+  margin:0 auto;
   color:#264c72;
+  background-color: #d8ebf8;
   border: 1px solid #97c1da;
   border-radius: 3px;
-  background-color: #d8ebf8;
 }
 
-.alert *:first-child { margin-top: 0 }
-.alert *:last-child { margin-bottom: 0 }
+.alert *:first-child { margin-top: 0; }
+.alert *:last-child { margin-bottom: 0; }
 
 /* Main site styles */
 
@@ -249,19 +249,19 @@ header {
   padding: 35px 0 20px;
 }
 header img {
-  opacity: 0.3;
+  opacity: .3;
 }
 header ul.links {
-  margin: 2px 0 0;
-  padding: 0;
   float: right;
+  padding: 0;
+  margin: 2px 0 0;
 }
 header ul.links>li {
-  list-style-type: none;
   display: inline-block;
   margin-left: 20px;
   font-size: 13px;
   font-weight: bold;
+  list-style-type: none;
 }
 header ul.links>li a {
   color: #999;
@@ -275,32 +275,32 @@ article h1 {
   margin-bottom: 10px;
   margin-left: 105px;
   font-size: 48px;
-  letter-spacing: -1px;
-  line-height: 1;
   font-weight: normal;
+  line-height: 1;
+  letter-spacing: -1px;
 }
 article h2 {
   color: #000;
 }
 
 article img {
-  margin-top: 8px;
   max-width: 100%;
   padding: 2px;
+  margin-top: 8px;
   background: #fafafa;
   border: 1px solid #eee;
 }
 article img.emoji {
-  margin: 0;
   padding: 0;
+  margin: 0;
   background: transparent;
   border: none;
 }
 
 footer {
-  margin-top: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
+  margin-top: 20px;
   font-size: 16px;
   line-height: 1.3;
   color: #999;
@@ -315,10 +315,10 @@ ol.toc {
   padding: 0;
 }
 ol.toc>li {
-  list-style-type: none;
-  margin: 0;
   padding: 5px 0;
+  margin: 0;
   font-size: 16px;
+  list-style-type: none;
 }
 ol.toc>li a.active {
   font-weight: bold;
@@ -326,15 +326,15 @@ ol.toc>li a.active {
 }
 
 .last-updated {
+  padding-top: 30px;
   font-size: 14px;
   color: #999;
-  padding-top: 30px;
 }
 
 .cf:before,
 .cf:after {
-  content: " ";
   display: table;
+  content: " ";
 }
 
 .cf:after {
@@ -380,8 +380,8 @@ ol.toc>li a.active {
   }
   .guide-cover a {
     width: 100%;
-    padding-left: 15px;
     padding-right: 15px;
+    padding-left: 15px;
   }
 }
 
@@ -396,8 +396,8 @@ ol.toc>li a.active {
     padding: 30px 0;
   }
   article h1 {
-    font-size: 34px;
     margin-left: 96px;
+    font-size: 34px;
   }
   .article-read-time {
     margin-left: 96px;
@@ -415,17 +415,17 @@ ol.toc>li a.active {
   }
   .guide-cover a {
     width: 100%;
-    padding-left: 15px;
     padding-right: 15px;
+    padding-left: 15px;
   }
   .guide-cover-title {
     font-size: 26px;
   }
   .guide-listing {
     display: block;
-    margin-right: 0;
     float: none;
     width: 100%;
+    margin-right: 0;
   }
 
   footer {
