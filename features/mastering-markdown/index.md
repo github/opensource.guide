@@ -103,7 +103,7 @@ Alternatively,
 <pre class="source">
 If you want to embed images, this is how you do it:
 
-![Image of Yaktocat](http://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 </pre>
 <div class="rendered">
   <p>If you want to embed images, this is how you do it:</p>
