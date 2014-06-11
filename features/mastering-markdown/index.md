@@ -107,7 +107,7 @@ If you want to embed images, this is how you do it:
 </pre>
 <div class="rendered">
   <p>If you want to embed images, this is how you do it:</p>
-  <p><img src="http://octodex.github.com/images/yaktocat.png" alt="Image of Yakotocat"/></p>
+  <p><img src="https://octodex.github.com/images/yaktocat.png" alt="Image of Yakotocat"/></p>
 </div>
 </div>
 
