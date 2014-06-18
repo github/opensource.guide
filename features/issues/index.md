@@ -19,7 +19,7 @@ Issues are a great way to keep track of tasks, enhancements, and bugs for your p
 
 For example, let's take a look at <a href="https://github.com/twbs/bootstrap/issues" target="_blank">Bootstrap's Issues section</a>:
 
-![List of issues](https://github-images.s3.amazonaws.com/help/issues/issues_landing_page.png)
+![List of issues](listing-screen.png)
 
 GitHub's issue tracking is special because of our focus on collaboration, references, and excellent text formatting. A typical issue on GitHub looks a bit like this:
 
