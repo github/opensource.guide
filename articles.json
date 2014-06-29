@@ -1,7 +1,7 @@
 ---
 ---
 { "articles": [{% for page in site.pages %}{% unless page.title %}{% continue %}{% endunless %}{
-    "title":   "{{ page.title }}",
-    "url":     "{{ page.url }}",
-    "summary": "{{ page.summary }}"
 }{% unless forloop.last %},{% endunless %}{% endfor %}] }
+    "title":   "{{ page.title | escape }}",
+    "url":     "{{ page.url | escape }}",
+    "summary": "{{ page.summary | escape }}"
