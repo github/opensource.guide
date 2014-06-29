@@ -2,6 +2,6 @@
 ---
 { "articles": [{% for article in site.organization %}{% for page in site.pages %}{% unless page.url == article %}{% continue %}{% endunless %}{
     "title":   "{{ page.title | escape }}",
-    "url":     "{{ page.url | escape }}",
+    "url":     "{{ page.url }}",
     "summary": "{{ page.summary | escape }}"
 }{% endfor %}{% unless forloop.last %},{% endunless %}{% endfor %}] }
