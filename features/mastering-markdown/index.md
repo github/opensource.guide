@@ -324,9 +324,9 @@ You can also simply indent your code by four spaces:
 
 Here's an example of Python code without syntax highlighting:
 
-    def foo:
-      if not bar:
-        return true
+    def foo():
+        if not bar:
+            return true
 
 ### Task Lists
 
