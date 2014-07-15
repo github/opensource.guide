@@ -6,7 +6,7 @@ updated_at: Jan 15, 2014
 icon: device-desktop
 survey_tag: 'project-bootstrapping-1'
 
-summary: Publishing source code doesn’t have to be a pain. This guide will walk you through our Mac & Windows applications and how to start sharing your projects with the world (or maybe with no one at all).
+summary: Publishing source code doesn’t have to be a pain. This guide will walk you through how to start sharing your projects with the world.
 
 redirect_from:
   - /overviews/desktop/index.html
