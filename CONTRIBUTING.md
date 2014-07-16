@@ -5,6 +5,9 @@ Welcome to the Guide for Guides!
 We want everyone to feel okay with contributing to anything. Check out the [issues page](https://github.com/github/guides/issues) to see some issues to contribute to. If there's nothing there that piques your interest, you should help us write a guide. Open an issue and suggest a new guide, how you want it written, and what the goal of the guide is. Once you're done with the suggestion, attach the label of `guide-suggestion`.
 
 ## How should I go about writing a Guide?
+
+- Tell, then show when writing a guide. That means write the text and then show an image
+
 Not all of us are wordsmiths, but that's why we're in this together. If there's something you've stumbled upon that you think should be a guide, follow the [steps below](#working-on-your-laptop) to get the repository down on your computer locally and start writing content.
 
 If there isn't a category folder for your file yet, don't fret. Either create one you think is good, or don't worry about it and we can work this out in the pull request.
