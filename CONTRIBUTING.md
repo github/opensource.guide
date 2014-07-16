@@ -2,7 +2,7 @@
 Welcome to the Guide for Guides!
 
 ## How do I help?
-We want everyone to feel okay with contributing to anything. Check out the [issues page](https://github.com/github/guides/issues) to see some issues to contribute to. If there's nothing there that piques your interest, you should help us write a guide!
+We want everyone to feel okay with contributing to anything. Check out the [issues page](https://github.com/github/guides/issues) to see some issues to contribute to. If there's nothing there that piques your interest, you should help us write a guide. Open an issue and suggest a new guide, how you want it written, and what the goal of the guide is. Once you're done with the suggestion, attach the label of `guide-suggestion`.
 
 ## How should I go about writing a Guide?
 Not all of us are wordsmiths, but that's why we're in this together. If there's something you've stumbled upon that you think should be a guide, follow the [steps below](#working-on-your-laptop) to get the repository down on your computer locally and start writing content.
