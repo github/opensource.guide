@@ -34,7 +34,7 @@ You've successfully forked the Spoon-Knife repository, but so far, it only exist
 
 If you're using [the GitHub for Desktop](http://guides.github.com/introduction/desktop) application, this process is a breeze. Under the **GitHub.com** title in the sidebar, click on your beautiful face, and start typing out the name "Spoon-Knife." You'll notice a button that says **Clone to Computer**. Clicking on this clones the repository to your computer.
 
-![Clone to computer button in GHfM](https://github-images.s3.amazonaws.com/mac/sync/ghfm_clone_repo_locally.png)
+![Clone in Desktop](clone-in-desktop.png)
 
 <a id="making-changes" title="Making and pushing changes" class="toc-item"></a>
 ## Making and pushing changes
