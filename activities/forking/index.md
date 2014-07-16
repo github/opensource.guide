@@ -32,7 +32,7 @@ Sit back and watch the forking magic. When it's finished, you'll be taken to you
 
 You've successfully forked the Spoon-Knife repository, but so far, it only exists on GitHub. To be able to work on the project, you will need to clone it to your computer.
 
-If you're using [the GitHub for Desktop](http://guides.github.com/introduction/desktop) application, this process is a breeze. Under the **GitHub.com** title in the sidebar, click on your beautiful face, and start typing out the name "Spoon-Knife." You'll notice a button that says **Clone to Computer**. Clicking on this clones the repository to your computer.
+If you're using GitHub for Desktop application, this process is a breeze. On your fork of Spoon-Knife, navigate over to the bottom of the right hand side bar and click **Clone in Desktop**. Once we click this, it'll ask us if we want to launch our desktop application to clone the repository, and where we want to save it. Pick a location on your computer that you feel comfortable with creating files and folders.
 
 ![Clone in Desktop](clone-in-desktop.png)
 
