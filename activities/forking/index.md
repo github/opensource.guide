@@ -39,7 +39,7 @@ If you're using GitHub for Desktop application, this process is a breeze. On you
 <a id="making-changes" title="Making and pushing changes" class="toc-item"></a>
 ## Making and pushing changes
 
-Go ahead and make a few changes to the project using your favorite text editor, like [Notepad++](http://www.notepad-plus-plus.org/) or [Sublime Text](http://www.sublimetext.com/). You could, for example, change the text in *index.html* to add your GitHub username.
+Go ahead and make a few changes to the project using your favorite text editor, like [Atom](https://atom.io). You could, for example, change the text in *index.html* to add your GitHub username.
 
 When you're ready to submit your changes, type up a *commit summary* in GitHub for Desktop, and click **Commit**.
 
