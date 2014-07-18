@@ -16,7 +16,7 @@ After using GitHub by yourself for a while, you may find yourself wanting to con
 
 Creating a "fork" is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
-For this tutorial, we'll be using [the Spoon-Knife project](https://github.com/octocat/Spoon-Knife), a test repository that's hosted on GitHub.com that lets you test the Pull Request workflow.
+For this tutorial, we'll be using [the Spoon-Knife project](https://github.com/octocat/Spoon-Knife), a test repository that's hosted on GitHub.com that lets you test the Pull Request workflow and the GitHub Desktop application. To download the desktop application, head over to https://mac.github.com or https://windows.github.com depending on your operating system.
 
 <a id="fork" title="Fork the repository" class="toc-item"></a>
 ## Fork the repository
@@ -32,14 +32,14 @@ Sit back and watch the forking magic. When it's finished, you'll be taken to you
 
 You've successfully forked the Spoon-Knife repository, but so far, it only exists on GitHub. To be able to work on the project, you will need to clone it to your computer.
 
-If you're using [the GitHub for Desktop](http://guides.github.com/introduction/desktop) application, this process is a breeze. Under the **GitHub.com** title in the sidebar, click on your beautiful face, and start typing out the name "Spoon-Knife." You'll notice a button that says **Clone to Computer**. Clicking on this clones the repository to your computer.
+If you're using GitHub for Desktop application, this process is a breeze. On your fork of Spoon-Knife, navigate over to the bottom of the right hand side bar and click **Clone in Desktop**. Once we click this, it'll ask us if we want to launch our desktop application to clone the repository, and where we want to save it. Pick a location on your computer that you feel comfortable with creating files and folders.
 
-![Clone to computer button in GHfM](https://github-images.s3.amazonaws.com/mac/sync/ghfm_clone_repo_locally.png)
+![Clone in Desktop](clone-in-desktop.png)
 
 <a id="making-changes" title="Making and pushing changes" class="toc-item"></a>
 ## Making and pushing changes
 
-Go ahead and make a few changes to the project using your favorite text editor, like [Notepad++](http://www.notepad-plus-plus.org/) or [Sublime Text](http://www.sublimetext.com/). You could, for example, change the text in *index.html* to add your GitHub username.
+Go ahead and make a few changes to the project using your favorite text editor, like [Atom](https://atom.io). You could, for example, change the text in *index.html* to add your GitHub username.
 
 When you're ready to submit your changes, type up a *commit summary* in GitHub for Desktop, and click **Commit**.
 
