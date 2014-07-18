@@ -22,5 +22,4 @@ has everything you need to know to get your guide ready for the interwebs.
 
 These are the people you should get in touch with if you have questions:
 
-- [@kneath](https://github.com/kneath)
 - [@brntbeer](https://github.com/brntbeer)
