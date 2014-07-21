@@ -17,7 +17,7 @@ gems:
   - jemoji
 organization:
   - /introduction/flow/index.html
-  - /introduction/desktop/index.html
+  - /introduction/getting-your-project-on-github/index.html
   - /activities/contributing-to-open-source/index.html
   - /activities/hello-world/index.html
   - /activities/forking/index.html
@@ -27,4 +27,3 @@ organization:
   - /features/mastering-markdown/index.html
   - /features/wikis/index.html
   - /features/pages/index.html
-  
