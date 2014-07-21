@@ -74,7 +74,7 @@ Make as many commits as you like locally. No one but you can see those commits u
 
 ![Screenshot of pushing in Mac app](mac-push.jpg)
 
-Click the "Push to GitHub" button in the upper-right corner and GitHub Desktop will ask you what kind of repository to create:
+Click the "Publish" button in the upper-right corner and GitHub Desktop will ask you what kind of repository to create:
 
 * **Public repository**  — Anyone can see a public repository, but you choose who can commit (make changes) to it. You can create as many public repositories as you want on GitHub.com for free.
 
