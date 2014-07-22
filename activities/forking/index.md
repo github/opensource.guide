@@ -43,7 +43,7 @@ Go ahead and make a few changes to the project using your favorite text editor, 
 
 When you're ready to submit your changes, type up a *commit summary* in GitHub for Desktop, and click **Commit**.
 
-![GHfM commit changes view](https://github-images.s3.amazonaws.com/mac/changes/changes-view-20130108-143933.jpg)
+![GHfM commit changes view](https://github-images.s3.amazonaws.com/mac/changes/changes.jpg)
 
 Right now, you've essentially told Git, "Okay, I've taken a snapshot of my changes!" You can continue to make more changes, and take more commit snapshots. When you're ready to push your changes up to GitHub.com, click on the **Sync** button, which is right above your list of changes.
 
