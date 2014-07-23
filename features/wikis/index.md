@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Mastering Wikis
-read_time: 5 minutes
+read_time: 5 minute
 icon: book
 updated_at: April 28, 2014
 survey_tag: 'wiki-1'
