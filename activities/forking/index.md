@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Forking Projects
-read_time: 4 minutes
+read_time: 4 minute
 updated_at: Jan 23, 2014
 icon: repo-forked
 survey_tag: 'project-forking-1'
