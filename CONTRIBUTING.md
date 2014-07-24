@@ -5,7 +5,7 @@ file an issue with a proposal
 make sure to cc a domain expert
 get approval from domain expert and maybe a collaborator
 
-Just because you write the proposal, doesnt mean you have to write the guide. It's up to you!
+Just because you wrote the proposal, doesn't mean you have to write the guide. It's up to you!
 
 ## How do I help?
 We want everyone to feel okay with contributing to anything. Check out the [issues page](https://github.com/github/guides/issues) to see some issues to contribute to. If there's nothing there that piques your interest, you should help us write a guide. Open an issue and suggest a new guide, how you want it written, and what the goal of the guide is. Once you're done with the suggestion, attach the label of `guide-suggestion`.
