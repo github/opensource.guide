@@ -14,9 +14,9 @@ If there's a guide currently being written you want to help out with, don't be a
 
 ## How should I go about writing a Guide?
 
-- Tell, then show when writing a guide. That means write the text and then show an image
+- Write the steps then show an image corresponding to those words when writing a guide.
 
-Not all of us are wordsmiths, but that's why we're in this together. If there's something you've stumbled upon that you think should be a guide, follow the [steps below](#working-on-your-laptop) to get the repository down on your computer locally and start writing content.
+If you or some domain expert thinks the guide is a good idea, just start writing. We can iron out small details of format later (I sometimes find an outline in the initial issue gets me going).
 
 If there isn't a category folder for your file yet, don't fret. Either create one you think is good, or don't worry about it and we can work this out in the pull request.
 
