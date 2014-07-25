@@ -24,22 +24,13 @@ If there isn't a category folder for your file yet, don't fret. Either create on
 Images should be put in the same directory that you're writing your guide in:
 
 ```
-![GitHub’s API Developer Site README](masteringmarkdown-github-developer-api-readme.jpg)
+![GitHub’s API Developer Site README](features/masteringmarkdown/github-developer-api-readme.jpg)
 ```
 This way we can render them with Markdown AND they're easier to keep track of for updating. Since `masteringmarkdown-github-developer-api-readme.jpg` lives in the same directory as the Markdown file referencing it, we can just call the file by name in the parenthesis part of the image Markdown.
 
-## Working on your laptop
-If you want to write code, or write a guide, let's start out with that code on your laptop!
-
-1. Grab the repository: `git clone https://github.com/github/guides`
-2. Create a feature branch: `git checkout -b MY-FEATURE`
-3. Write your content, fix syntax, add new styles, whatever your change is.
-4. When you're ready to get review: `git push -u origin HEAD`
-5. Open your pull request and start the conversation
-
 ## Determining your guide's order
 
-Open up the *_config.yml* file in the root of the *guides* folder, and you'll see some funny looking code that looks like this:
+Open up the *_config.yml* file in the root of the *guides* folder, and you'll see some code that looks like this:
 
 ```yml
 organization:
