@@ -1,10 +1,12 @@
 # GitHub Guides
 
-Long form tutorials
-help: data and information
-guides: learning, not a list of help docs, not just explaining a feature, or showing something off. If you want to walk someone through a process, thats a guide. Walk-throughs
-training: i'm a teacher wanting to teach this stuff
-GitHub Guides is the place to come to learn about the GitHub Universe™. Think of it as a collection of tutorials, tips, and workflows to help people learn GitHub and become experts. If you've got an idea for a tutorial, write it up! **We're always looking for more tutorials**.
+## Definitions (or, what goes where)
+**help.github.com:** "Help, I'm screwed!" solutions via data and information
+
+**guides.github.com:** "I wish I knew how to..." solutions via long form tutorials and walk-throughs
+
+**training.github.com/kit:** "I'm a trainer or teacher wanting to have full length lessons"
+
 
 ## Installation
 
