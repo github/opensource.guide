@@ -21,8 +21,7 @@ script/server
 
 ## Contributing a new guide
 
-[CONTRIBUTING.md](/CONTRIBUTING.md)
-has everything you need to know to get your guide ready.
+[CONTRIBUTING.md](/CONTRIBUTING.md) has some quick steps you need to know to get your guide ready.
 
 ## People
 
