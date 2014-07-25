@@ -1,14 +1,16 @@
 # Guide for Guides
 Welcome to the Guide for Guides!
 
-file an issue with a proposal
-make sure to cc a domain expert
-get approval from domain expert and maybe a collaborator
+## How do I help?
+
+- File an issue with a proposal for the new guide
+  - Attach the label of `guide-suggestion`
+- Make sure to cc a domain expert if you aren't one
+- Once the guide looks finished, get a :+1: from domain expert and some word smiths over at @github/guides or @github/docs
 
 Just because you wrote the proposal, doesn't mean you have to write the guide. It's up to you!
 
-## How do I help?
-We want everyone to feel okay with contributing to anything. Check out the [issues page](https://github.com/github/guides/issues) to see some issues to contribute to. If there's nothing there that piques your interest, you should help us write a guide. Open an issue and suggest a new guide, how you want it written, and what the goal of the guide is. Once you're done with the suggestion, attach the label of `guide-suggestion`.
+If there's a guide currently being written you want to help out with, don't be a stranger! Comment on the issue to provide feedback or see if the contributor would love your help
 
 ## How should I go about writing a Guide?
 
