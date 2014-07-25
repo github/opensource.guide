@@ -152,7 +152,7 @@ You can scope search results by:
 
 * Assignee, such as, [all issues mentioning the sidebar that were assigned to @mdo](https://github.com/twbs/bootstrap/issues?q=sidebar+is%3Aclosed+assignee%3Amdo)
 
-[Our Help article on searching Issues](https://help.github.com/articles/using-search-to-filter-issues-and-pull-requests) can teach you other ways to search: using created/updated dates, labels, authors, comment counts, by repository owner, and more.
+[Our Help article on searching Issues](https://help.github.com/articles/using-search-to-filter-issues-and-pull-requests) can show you other ways to search: using created/updated dates, labels, authors, comment counts, by repository owner, and more.
 
 <a id="overviews" title="Overviews &amp; Reports" class="toc-item"></a>
 
