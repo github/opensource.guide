@@ -25,9 +25,9 @@ GitHub's issue tracking is special because of our focus on collaboration, refere
 
 ![An example issue](example-issue.png)
 
-* A **title and description** describe what the issue is all about.
+* A **title** and **description** describe what the issue is all about.
 
-* Color-coded **labels** help you categorize and filter your issues (just like labels in Gmail).
+* Color-coded **labels** help you categorize and filter your issues (just like labels in email).
 
 * A **milestone** acts like a container for issues. This is useful for associating issues with specific features or project phases (e.g. *Weekly Sprint 9/5-9/16* or *Shipping 1.0*).
 
@@ -52,7 +52,7 @@ If you don't see edit buttons, that's because you don't have permission to edit 
 
 ![Viewing Milestones](milestones.png)
 
-Milestones are groups of issues that correspond to a project, feature, or time period. People use them in many different ways in software development. Some examples:
+Milestones are groups of issues that correspond to a project, feature, or time period. People use them in many different ways in software development. Some examples of milestones on GitHub include:
 
 * **Beta Launch** — File bugs that you need to fix before you can launch the beta of your project. It's a great way to make sure you aren't missing anything.
 
@@ -75,7 +75,7 @@ Each issue can have an assignee — one person that's responsible for moving the
 
 ## Notifications, @mentions, and References
 
-By using @mentions and references inside of Issues, you can notify other GitHub users & teams, and cross-connect issues to each other. These provide a flexible way to get the right people involved to resolve issues effectively, and are easy to learn and use. They work across all text fields on GitHub — they're a part of our text formatting syntax called [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).
+By using @mentions and references inside of Issues, you can notify other GitHub users & teams, and cross-connect issues to each other. These provide a flexible way to get the right people involved to resolve issues effectively, and are easy to learn and use. They work across all text fields on GitHub — they're a part of our text formatting syntax called [GitHub Flavored Markdown](https://help.github.com/articles/writing-on-github#name-and-team-mentions-autocomplete).
 
 ![Example of Markdown](markdown-example.png)
 
@@ -144,15 +144,15 @@ At the very top of each page is a search box that lets you search through issues
 
 ![Screenshot of making a search](search.png)
 
-* <a href="https://github.com/twbs/bootstrap/search?q=sidebar&type=Issues" target="_blank">All issues mentioning the sidebar</a>
+You can scope search results by:
 
-* <a href="https://github.com/twbs/bootstrap/search?q=sidebar&state=open&type=Issues" target="_blank">...that are open</a> (check out the links on the left hand sidebar to filter open/closed)
+* Keyword, such as, [all issues mentioning the sidebar](https://github.com/twbs/bootstrap/issues?q=sidebar)
 
-* <a href="https://github.com/twbs/bootstrap/search?q=assignee%3Amdo&ref=cmdform&type=Issues" target="_blank">Assigned to @mdo</a>
+* State, such as, [all issues mentioning the sidebar that are closed](https://github.com/twbs/bootstrap/issues?q=sidebar+is%3Aclosed)
 
-* <a href="https://github.com/search?q=sidebar&ref=reposearch&state=open&type=Issues" target="_blank">Or search issues throughout all of GitHub by clicking the link in the sidebar</a>
+* Assignee, such as, [all issues mentioning the sidebar that were assigned to @mdo](https://github.com/twbs/bootstrap/issues?q=sidebar+is%3Aclosed+assignee%3Amdo)
 
-Visit our <a href="https://github.com/search/advanced?q=sidebar&ref=reposearch&state=open&type=Issues" target="_blank">advanced search</a> page to learn other ways of searching through issues: using created/updated dates, labels, authors, comment counts, by repository owner, and more.
+[Our Help article on searching Issues](https://help.github.com/articles/using-search-to-filter-issues-and-pull-requests) can show you other ways to search: using created/updated dates, labels, authors, comment counts, by repository owner, and more.
 
 <a id="overviews" title="Overviews &amp; Reports" class="toc-item"></a>
 
@@ -168,7 +168,7 @@ If you're looking for a broader listing of all of your issues across many projec
 * Issues assigned to you
 * Issues you've created
 
-If you use organizations, each of your organizations has it's own Issues dashboard that separates out Issues within the organization.
+If you use organizations, each one has its own Issues dashboard that separates out Issues within the organization.
 
 ### Pulse
 
@@ -193,4 +193,4 @@ Issues are great for tracking all kinds of things — and GitHub is a great plac
 
 ## Fin
 
-**Now congratulate yourself** — that was a lot to read! Issue management is one of the most powerful tools at any developer's disposal. I guess all that's left is to actually fix the bugs now. Sounds boring.
+**Now congratulate yourself** — that was a lot to read! Issue management is one of the most powerful tools at any developer's disposal. I guess all that's left is to actually fix the bugs now.
