@@ -6,10 +6,11 @@ updated_at: Jan 15, 2014
 icon: device-desktop
 survey_tag: 'project-bootstrapping-1'
 
-summary: Publishing source code doesn’t have to be a pain. This guide will walk you through our Mac & Windows applications and how to start sharing your projects with the world (or maybe with no one at all).
+summary: Publishing source code doesn’t have to be a pain. This guide will walk you through how to start sharing your projects with the world.
 
 redirect_from:
   - /overviews/desktop/index.html
+  - /introduction/desktop/index.html
 ---
 <a id="intro" title="Intro" class="toc-item"></a>
 Software is at the heart of GitHub—and code is the DNA of software. Chances are if you're joining, you've got some code that you might want to push to GitHub. And that's a fantastic idea!
@@ -73,7 +74,7 @@ Make as many commits as you like locally. No one but you can see those commits u
 
 ![Screenshot of pushing in Mac app](mac-push.jpg)
 
-Click the "Push to GitHub" button in the upper-right corner and GitHub Desktop will ask you what kind of repository to create:
+Click the "Publish" button in the upper-right corner and GitHub Desktop will ask you what kind of repository to create:
 
 * **Public repository**  — Anyone can see a public repository, but you choose who can commit (make changes) to it. You can create as many public repositories as you want on GitHub.com for free.
 
