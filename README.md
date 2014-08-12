@@ -4,9 +4,9 @@
 
 **training.github.com/kit:** "I'm a trainer or teacher wanting to have full length lessons."
 
-**help.github.com:** "Help, I'm screwed!" solutions via data and information.
+**help.github.com:** "Help, I'm screwed!" solutions via data and information. These are short instructions to perform a discrete task
 
-**guides.github.com:** "I wish I knew how to..." solutions via long form tutorials and walk-throughs. These are conceptual and procedural documents telling a story and not necessarily an individual feature.
+**guides.github.com:** "I wish I knew how to..." solutions via long form tutorials and walk-throughs. These are conceptual and procedural documents telling a story and are not necessarily an individual feature.
 
 Conceptual + Procedural: What is this => Okay here's how we do it
 
