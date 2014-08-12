@@ -10,15 +10,12 @@
 
 Conceptual + Procedural: What is this => Okay here's how we do it
 
-- Guides have more of a product focus. What the core pieces of the product are, and are the bigger product pieces we want people to do.
-
-- If we had to sit down and explain GitHub and important interactions to have on it, everything we list in those 30 seconds should be a guide.
+- Guides have more of a product focus. They communicate what the core pieces of the product are and how to use them. Guides should cover the fundamentally important interactions and workflows people have and use on GitHub.
 
 ### Examples
-An Organizations guide would maybe show setting up billings, security around orgs with 2fa, setting up teams, etc.
 
-Porter on it's own wouldn't fit as a guide because it's a short form procedural document showing its individual features. The story it could be in is "Getting your project on GitHub" where one way we can get a project on github is through importing
-
+- **Good candidate for a Guide**: A Guide to Organizations that walks a user through *why* an organization is useful and how to create one, set up teams and permissions, change billing settings.
+- **Good candidate for a Help article**: Porter is a new and important feature within the product. However, it makes more sense to write a Help article than a Guide about Porter because all we need is a short-form procedural document. If we wanted to include information about Porter in a Guide, we could add it to "Getting your project on GitHub", since that Guide tells a larger story about moving code to GitHub.
 
 
 ## Installation
