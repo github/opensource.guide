@@ -3,12 +3,12 @@ Welcome to the Guide for Guides!
 
 ## How do I help?
 
-- File an issue with a proposal for the new guide
-  - Attach the label of `guide-suggestion`
-- Make sure to cc a domain expert if you aren't one
-- Once the guide looks finished, get a :+1: from domain expert and some word smiths over at @github/guides or @github/docs
+- File an issue with a proposal for the new Guide.
+  - Attach the label of `guide-suggestion`.
+- Make sure to cc a domain expert if you aren't one.
+- Once the guide looks finished, get a :+1: from domain expert and some word smiths over at @github/guides or @github/docs.
 
-Just because you wrote the proposal, doesn't mean you have to write the guide. It's up to you!
+Just because you wrote the proposal doesn't mean you have to write the guide. It's up to you!
 
 If there's a guide currently being written you want to help out with, don't be a stranger! Comment on the issue to provide feedback or see if the contributor would love your help
 
