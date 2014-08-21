@@ -11,10 +11,12 @@ exclude:
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
+  
 gems:
   - jekyll-geo-pattern
   - jekyll-redirect-from
   - jemoji
+  
 organization:
   - /introduction/flow/index.html
   - /introduction/getting-your-project-on-github/index.html
