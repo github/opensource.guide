@@ -76,7 +76,7 @@ function changeAnnotation(annotations, name) {
 
 function changePanel(panel) {
   $('.js-panel-content.active').removeClass('active');
-  $('.js-panel-content').fadeOut(200).removeClass('active');
+  $('.js-panel-content').fadeOut(0).removeClass('active');
   panel.fadeIn(200).addClass('active');
 
   if ($('.js-panel-content:last').is(panel)) {
