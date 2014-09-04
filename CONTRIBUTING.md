@@ -1,36 +1,40 @@
-# Guide for Guides
-Welcome to the Guide for Guides!
+# The Guide to Guides
 
-## How do I help?
+Have an idea for a new guide? Do you have a suggestion for making an existing guide even better? Here's what you can do!
 
-- File an issue with a proposal for the new Guide.
-  - Attach the label of `guide-suggestion`.
-- Make sure to cc a domain expert if you aren't one.
-- If you want to write the guide yourself and the proposal has been agreed upon, create a branch, write the guide, and /cc the @github/guides team.
+## The Guides Content Model
 
-Just because you wrote the proposal doesn't mean you have to write the guide. It's up to you!
+The [Guides Content Model](https://manual-of-style.githubapp.com/guides-model) is a high-level explanation of how a content developer should form a guide. You may find that your idea is more closely aligned with the [Help Content Model](https://manual-of-style.githubapp.com/help-model).
 
-If there's a Guide currently being written you want to help out with, don't be a stranger! Comment on the issue to provide feedback or see if the contributor would love your help.
+Still not sure? Open an issue and we can talk it out!
 
-## How should I go about writing a Guide?
+## New guide proposals
 
-- Write the steps, then include the screenshot corresponding to those words when writing a Guide.
+To propose an idea for a new guide, just open an issue in this repository.
 
-If you or a domain expert thinks the Guide is a good idea, just start writing. We can iron out small details of format later (I sometimes find an outline in the initial issue gets me going).
+Ideally, we'd like to know how the proposed guide fits into the story of being successful with GitHub. An outline of the content is fantastic, too, but not necessary if you're unsure.
 
-If there isn't a category folder for your file yet, don't fret! Either create a category you think makes sense, or ask for help creating one in the pull request.
+- Apply the [`guide-suggestion` label](https://github.com/github/guides/issues?q=is%3Aopen+is%3Aissue+label%3Aguide-suggestion)
+- If you aren't a domain expert, @mention an individual or team who can help out.
 
-### Images
-Images should be put in the same directory that you're writing your Guide in:
+## Updating an existing guide
+
+Have an idea to improve a published guide? Open an issue and apply the [`enhancement` label](https://github.com/github/guides/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement).
+
+## Assembling a guide
+
+**Categories:** If there isn't a category folder for your file yet, don't fret! Either create a category you think makes sense, or ask for help creating one in the pull request.
+
+**Images:** Images should be included in the same directory as your guide so that they can be rendered using the [Markdown image syntax](http://daringfireball.net/projects/markdown/syntax#img). For example:
 
 ```
 ![GitHub’s API Developer Site README](features/masteringmarkdown/github-developer-api-readme.jpg)
 ```
-This way we can render them with Markdown AND they're easier to keep track of for updating. Since `masteringmarkdown-github-developer-api-readme.jpg` lives in the same directory as the Markdown file referencing it, we can just call the file by name in the parenthesis part of the image Markdown.
+The `masteringmarkdown-github-developer-api-readme.jpg` lives in the same directory as the Markdown file for easy referencing.
 
 ## Determining your Guide's order
 
-Open up the *_config.yml* file in the root of the *guides* folder, and you'll see some code that looks like this:
+The *_config.yml* file in the root of the *guides* folder includes some code that looks like this:
 
 ```yml
 organization:
@@ -45,4 +49,4 @@ organization:
 
 Those paths determine how the landing page for Guides is ordered. (Jekyll gleefully fetches whatever it can, so sometimes the front page gets reshuffled when the site is built.)
 
-Add a path to your new Guide wherever you see fit!
+Include this file with a path to your new guide in your pull request to get consensus on order.
