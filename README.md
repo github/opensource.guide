@@ -1,26 +1,20 @@
 # GitHub Guides
 
-## Definitions ("What Goes Where")
+[GitHub Guides](https://guides.github.com/) are highly approachable tutorials about a larger idea or product feature on GitHub. They not only explain how to accomplish a task, but also why you’d want to, and how that task fits into the larger story of using GitHub as a whole.
 
-**training.github.com/kit:** "I'm a trainer or teacher wanting to have full length lessons."
+## What are the components that form a guide?
 
-**help.github.com:** "Help, I'm screwed!" solutions via data and information. These are short instructions to perform a discrete task
+For a deep-dive into the way a guide should be authored, take a look at the [GitHub Guides Content Model](https://manual-of-style.githubapp.com/guides-model) (another [GitHub Content Model](https://manual-of-style.githubapp.com/content-model) joynt).
 
-**guides.github.com:** "I wish I knew how to..." solutions via long form tutorials and walk-throughs. These are conceptual and procedural documents telling a story and are not necessarily an individual feature.
+## Other forms of user assistance
 
-Conceptual + Procedural: What is this => Okay here's how we do it
+**training.github.com/kit:** Materials for individuals who want to deliver full-length lessons about Git or GitHub.
 
-- Guides have more of a product focus. They communicate what the core pieces of the product are and how to use them. Guides should cover the fundamentally important interactions and workflows people have and use on GitHub.
-
-### Examples
-
-- **Good candidate for a Guide**: A Guide to Organizations that walks a user through *why* an organization is useful and how to create one, set up teams and permissions, change billing settings.
-- **Good candidate for a Help article**: Porter is a new and important feature within the product. However, it makes more sense to write a Help article than a Guide about Porter because all we need is a short-form procedural document. If we wanted to include information about Porter in a Guide, we could add it to "Getting your project on GitHub", since that Guide tells a larger story about moving code to GitHub.
-
+**help.github.com:** Discrete articles that get existing users unstuck and back to work (yes, Virginia - [there's a content model for that](https://manual-of-style.githubapp.com/help-model), too!).
 
 ## Installation
 
-Clone this repo down, and run some handy scripts to get going!
+Clone this repository, then run some handy scripts to get going!
 
 ```
 git clone https://github.com/github/guides
@@ -31,10 +25,8 @@ script/server
 
 ## Contributing a new guide
 
-[CONTRIBUTING.md](/CONTRIBUTING.md) has some quick steps you need to know to get your guide ready.
+[CONTRIBUTING.md](/CONTRIBUTING.md) has everything you need to know to propose a new guide (or an update to an existing one!).
 
-## People
+## Questions?
 
-These are the people you should get in touch with if you have questions:
-
-- [@brntbeer](https://github.com/brntbeer)
+Ping the @github/docs team (or just pop into +The Documentation Room in good old Campfire - we'll dazzle you with random emoji :peach::fuelpump:).
