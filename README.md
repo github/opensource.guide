@@ -4,7 +4,7 @@
 
 ## What are the components that form a guide?
 
-For a deep-dive into the way a guide should be authored, take a look at the [GitHub Guides Content Model](https://manual-of-style.githubapp.com/guides-model) (another [GitHub Content Model](https://manual-of-style.githubapp.com/content-model) joynt).
+For a deep-dive into the way a guide should be authored, take a look at the [GitHub Guides Content Model](https://manual-of-style.githubapp.com/guides-model) (another [GitHub Content Model](https://manual-of-style.githubapp.com/content-model) Joint).
 
 ## Other forms of user assistance
 
