@@ -29,4 +29,4 @@ script/server
 
 ## Questions?
 
-Ping the @github/docs team (or just pop into +The Documentation Room in good old Campfire - we'll dazzle you with random emoji :peach::fuelpump:).
+Ping the **@github/guides team** (or just pop into **+The Guides Room** in good old Campfire - we'll dazzle you with random emoji :peach::fuelpump:).
