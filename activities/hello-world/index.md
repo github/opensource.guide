@@ -129,7 +129,7 @@ _Click on the image for a larger version_
 
 | Step | Screenshot |
 | --- | --- |
-| Click the <span class="octicon octicon-git-pull-request"></span> Pull Request icon on the sidebar, then from the Pull Request page, click the green **Create pull request** button. | ![create pr](https://cloud.githubusercontent.com/assets/1305617/2543808/73059f0a-b5f7-11e3-928e-745e9f9a5c75.gif) |
+| Click the <span class="octicon octicon-git-pull-request"></span> Pull Request icon on the sidebar, then from the Pull Request page, click the green **New pull request** button. | ![create pr](https://cloud.githubusercontent.com/assets/1305617/2543808/73059f0a-b5f7-11e3-928e-745e9f9a5c75.gif) |
 | Select the branch you made, `readme-edits`, to compare with `master` (the original). | [![branch](pick-branch.png)](pick-branch.png) |
 | Look over your changes in the diffs on the Compare page, make sure they're what you want to submit. | [![diff](diff.png)](diff.png) |
 | When you're satisfied that these are the changes you want to submit, click the big green **Create Pull Request** button. | [![create-pull](create-pr.png)](create-pr.png) |
