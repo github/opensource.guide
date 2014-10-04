@@ -47,7 +47,7 @@ You can use Markdown most places around GitHub:
 
 <div class="markdown-example" id="example-text">
 <pre class="source">
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com).
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 </pre>
 <div class="rendered">
 It's very easy to make some words <strong>bold</strong> and other words <em>italic</em> with Markdown. You can even <a href="http://google.com">link to Google!</a>
