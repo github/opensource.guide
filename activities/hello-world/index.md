@@ -106,8 +106,7 @@ You should still be on the code view for your `readme-edits` branch, now make so
 3. In the editor, write some text, tell a bit about yourself.
 4. Write a commit message that describes your changes.
 
-![commit](edit-top.png)
-![commit](edit-bottom.png)
+![commit](commit.png)
 
 Click **Commit changes**. Now these changes have been made to the README file on your `readme-edits` branch and now this branch contains different content and commits than `master` (as it should!).
 
