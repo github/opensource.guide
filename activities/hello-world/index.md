@@ -102,7 +102,7 @@ You should still be on the code view for your `readme-edits` branch, now make so
 #### To commit changes
 
 1. Click the README file.
-2. Click **Edit**.
+2. Click the pencil icon in the upper right corner of the file view to edit.
 3. In the editor, write some text, tell a bit about yourself.
 4. Write a commit message that describes your changes.
 
@@ -135,7 +135,7 @@ _Click on the image for a larger version_
 | When you're satisfied that these are the changes you want to submit, click the big green **Create Pull Request** button. | [![create-pull](create-pr.png)](create-pr.png) |
 | Give your pull request a title and since it relates directly to an open issue, include "fixes #" and the issue number in the title. Write a brief description of your changes. | ![pr-form](pr-form.png)
 
-When you're done with your message, click **Send Pull Request**!
+When you're done with your message, click **Create Pull Request**!
 
 ---
 
