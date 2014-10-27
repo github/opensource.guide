@@ -135,7 +135,7 @@ _Click on the image for a larger version_
 | When you're satisfied that these are the changes you want to submit, click the big green **Create Pull Request** button. | [![create-pull](create-pr.png)](create-pr.png) |
 | Give your pull request a title and since it relates directly to an open issue, include "fixes #" and the issue number in the title. Write a brief description of your changes. | ![pr-form](pr-form.png)
 
-When you're done with your message, click **Create Pull Request**!
+When you're done with your message, click **Create pull request**!
 
 ---
 
