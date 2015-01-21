@@ -13,7 +13,7 @@ layout: nil
 
   <channel>
     <title xml:lang="en">GitHub Guides</title>
-    <atom:link type="application/atom+xml" href="http://jekyllrb.com/feed/index.xml" rel="self"/>
+    <atom:link type="application/atom+xml" href="https://guides.github.com/feed/index.xml" rel="self"/>
     <link>https://guides.github.com/</link>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
@@ -26,12 +26,12 @@ layout: nil
      <item>
        <title>{{ post.title | xml_escape }}</title>
        {% if post.type == 'link' %}
-         <link href="{{ post.link }}" />
+         <link>{{ post.link }}</link>
        {% else %}
-         <link href="http://guides.github.com{{ post.url }}" />
+         <link>http://guides.github.com{{ post.url }}</link>
        {% endif %}
        <pubDate>{{ post.updated_at | date_to_rfc822 }}</pubDate>
-       <guid isPermaLink="true">http://guides.github.com{{ post.id }}</guid>
+       <guid isPermaLink="true">http://guides.github.com/{{ post.path }}</guid>
        <description>{{ post.content | xml_escape }}</description>
      </item>
      {% endif %}
