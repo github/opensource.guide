@@ -60,4 +60,4 @@ Wiki pages support automatic syntax highlighting of code for a wide range of lan
 
 The block must start with three backticks, optionally followed by the the name of the language that is contained by the block. See [Pygments for the list of languages](http://pygments.org/docs/lexers/) that can be syntax highlighted.
 
-The block contents should be indented at the same level than the opening backticks. The block must end with three backticks indented at the same level than the opening backticks.
+The block contents should be indented at the same level as the opening backticks. The block must end with three backticks indented at the same level as the opening backticks.
