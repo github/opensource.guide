@@ -174,12 +174,23 @@ ol.toc.sticky {
 .article-read-time {
   margin-left: 108px;
   clear: left;
+}
+
+.article-pdf {
+  margin-left: 20px;
+}
+
+.article-meta {
   color: rgba(255, 255, 255, .7);
 }
 
-.article-read-time .octicon {
+.article-meta .octicon {
   position: relative;
   top: -1px;
+}
+
+.article-meta {
+
 }
 
 .markdown-example {
