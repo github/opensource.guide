@@ -10,7 +10,7 @@ survey_tag: 'flow-1'
 # optional
 pattern: sine_waves
 color: "#932d70"
-pdf_download: /pdfs/githubflow-online.pdf
+pdf_download: githubflow-online.pdf
 
 summary: GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub Flow works.
 
