@@ -9,9 +9,14 @@ layout: default
         <span class="mega-octicon octicon-{{page.icon}}"></span>
       </div>
       <h1>{{ page.title }}</h1>
-      <span class="article-read-time">
+      <span class="article-read-time article-meta">
         <span class="octicon octicon-clock"></span> {{ page.read_time }} read
       </span>
+      {% if page.pdf_download %}
+      <a class="article-pdf article-meta" href="/pdfs/{{page.pdf_download}}" onClick="_gaq.push(['_trackEvent', 'PDF Download', 'Click', '{{ page.pdf_download }}']);">
+        <span class="octicon octicon-cloud-download"></span> Download PDF version
+      </a>
+      {% endif %}
     </div>
   </div>
 
