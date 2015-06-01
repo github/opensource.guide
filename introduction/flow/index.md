@@ -134,7 +134,7 @@ GitHub Flow is a lightweight, branch-based workflow that supports teams and proj
 
     <h3>Deploy</h3>
 
-    <p>Once your Pull Request has been reviewed and the branch passes your tests, you can deploy your changes to verify them in production. If your changes cause issues, you can roll them back by deploying the existing master back into production.</p>
+    <p>Once your Pull Request has been reviewed and the branch passes your tests, you can deploy your changes to verify them in production. If your branch cause issues, you can roll it back by deploying the existing master into production.</p>
   </div>
 
   <div class="panel-content js-panel-content js-panel-content-merge" data-step="merge">
