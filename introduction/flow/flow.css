@@ -202,6 +202,11 @@
   opacity: 0.3;
 }
 
+.diagram-icon-deploy {
+  top: 84px;
+  left: 660px;
+}
+
 circle:hover {
   cursor: pointer;
 }

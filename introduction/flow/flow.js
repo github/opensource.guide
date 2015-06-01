@@ -7,7 +7,8 @@ $(function() {
         new Annotation(s, {top: 20,  left: 88,  height: 207, name: 'branch'}),
         new Annotation(s, {top: 140,  left: 289,  height: 86, width: 113, name: 'commits'}),
         new Annotation(s, {top: 137, left: 423, height: 89, name: 'pr'}),
-        new Annotation(s, {top: 140,  left: 590,  height: 86, width: 240, name: 'code-review'}),
+        new Annotation(s, {top: 140,  left: 550,  height: 86, width: 145, name: 'code-review'}),
+        new Annotation(s, {top: 137, left: 688, height: 89, name: 'deploy'}),
         new Annotation(s, {top: 20,  left: 840, height: 207, name: 'merge'})
   ];
 

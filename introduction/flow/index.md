@@ -67,14 +67,8 @@ GitHub Flow is a lightweight, branch-based workflow that supports teams and proj
     <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-6" data-diagram-step="code-review">
       <span class="mega-octicon octicon-git-commit"></span>
     </div>
-    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-4" data-diagram-step="code-review">
-      <span class="mega-octicon octicon-comment-discussion"></span>
-    </div>
-    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-commit-7" data-diagram-step="code-review">
-      <span class="mega-octicon octicon-git-commit"></span>
-    </div>
-    <div class="diagram-icon-small js-diagram-icon-small diagram-icon-discussion-5" data-diagram-step="code-review">
-      <span class="mega-octicon octicon-comment-discussion"></span>
+    <div class="diagram-icon js-diagram-icon-small diagram-icon-deploy" data-diagram-step="deploy">
+      <span class="mega-octicon octicon-squirrel"></span>
     </div>
   </div>
 </div>
@@ -136,11 +130,18 @@ GitHub Flow is a lightweight, branch-based workflow that supports teams and proj
 
   </div>
 
+  <div class="panel-content js-panel-content js-panel-content-deploy" data-step="deploy">
+
+    <h3>Deploy</h3>
+
+    <p>Once your Pull Request has been reviewed and the branch passes your tests, you can deploy your changes to verify them in production. If your changes cause issues, you can roll them back by deploying the existing master back into production.</p>
+  </div>
+
   <div class="panel-content js-panel-content js-panel-content-merge" data-step="merge">
 
-    <h3>Deploy then merge</h3>
+    <h3>Merge</h3>
 
-    <p>Once your Pull Request has been reviewed and the branch passes your tests, it's time to deploy your branch to verify it. If the branch is not quite ready to merge, you can deploy master again to rollback your changes in production. Once you're happy with your changes, you can merge your code into the master branch.</p>
+    <p>Now that your changes have been verified in production, it is time to merge your code into the master branch.</p>
 
     <p>Once merged, Pull Requests preserve a record of the historical changes to your code. Because they're searchable, they let anyone go back in time to understand why and how a decision was made.</p>
 
