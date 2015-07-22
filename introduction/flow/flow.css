@@ -184,22 +184,9 @@
   background-color: #fff;
 }
 
-.diagram-icon-discussion-4 {
-  top: 126px;
-  left: 632px;
-  opacity: 0.3;
-}
-
-.diagram-icon-commit-7 {
-  top: 96px;
+.diagram-icon-deploy {
+  top: 84px;
   left: 660px;
-  background-color: #fff;
-}
-
-.diagram-icon-discussion-5 {
-  top: 74px;
-  left: 687px;
-  opacity: 0.3;
 }
 
 circle:hover {
