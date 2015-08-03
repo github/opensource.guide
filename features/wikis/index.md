@@ -42,7 +42,7 @@ Note: The page called "Home" functions as the entrance page to your wiki. If it 
 
 <div class="alert">
   <p>
-    If you're knowledgable with the command line, you can also modify wikis locally. Check out [our help article](https://help.github.com/articles/adding-and-editing-wiki-pages-locally) for more info.
+    If you're knowledgable with the command line, you can also modify wikis locally. Check out <a href="https://help.github.com/articles/adding-and-editing-wiki-pages-locally">our help article</a> for more info.
   </p>
 </div>
 
