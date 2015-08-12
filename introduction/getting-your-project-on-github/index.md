@@ -3,7 +3,7 @@ layout: article
 title: Getting your project on GitHub
 read_time: 5 minute
 updated_at: Jan 15, 2014
-icon: device-desktop
+icon: device-mac
 survey_tag: 'project-bootstrapping-1'
 
 summary: Publishing source code doesn’t have to be a pain. This guide will walk you through how to start sharing your projects with the world.
@@ -42,7 +42,7 @@ We use the words Git and GitHub a lot in this article, so let's clarify what the
 
 GitHub Desktop is the easiest way to get code on GitHub.com. You won't need to learn any command-line instructions, SSH keys, or complicated Git terminology. All you'll need is your Mac or Windows computer and a <a href="https://github.com/join" target="_blank">GitHub.com account</a>.
 
-You can download GitHub Desktop for <strong><a href="http://mac.github.com" target="_blank">Mac</a></strong> and <strong><a href="http://windows.github.com" target="_blank">Windows</a></strong>. Once you install GitHub Desktop, a short set up wizard will walk you through some basic configuration and will help you connect GitHub Desktop with your GitHub.com account.
+You can download <strong><a href="https://desktop.github.com" target="_blank">GitHub Desktop</a></strong> for Mac and Windows. Once you install GitHub Desktop, a short set up wizard will walk you through some basic configuration and will help you connect GitHub Desktop with your GitHub.com account.
 
 <a id="setup" title="Set up your project" class="toc-item"></a>
 ## Set up your project in GitHub Desktop
