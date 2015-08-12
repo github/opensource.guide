@@ -3,7 +3,7 @@ layout: article
 title: Getting your project on GitHub
 read_time: 5 minute
 updated_at: Jan 15, 2014
-icon: device-deskop
+icon: device-desktop
 survey_tag: 'project-bootstrapping-1'
 
 summary: Publishing source code doesn’t have to be a pain. This guide will walk you through how to start sharing your projects with the world.
