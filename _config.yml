@@ -11,21 +11,21 @@ exclude:
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
-  
+
 gems:
   - jekyll-geo-pattern
   - jekyll-redirect-from
   - jemoji
-  
+
 organization:
   - /introduction/flow/index.html
-  - /introduction/getting-your-project-on-github/index.html
-  - /activities/contributing-to-open-source/index.html
   - /activities/hello-world/index.html
+  - /activities/contributing-to-open-source/index.html
+  - /features/pages/index.html
+  - /introduction/getting-your-project-on-github/index.html
   - /activities/forking/index.html
   - /activities/socialize/index.html
   - /activities/citable-code/index.html
   - /features/issues/index.html
   - /features/mastering-markdown/index.html
   - /features/wikis/index.html
-  - /features/pages/index.html
