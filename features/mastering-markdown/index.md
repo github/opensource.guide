@@ -205,6 +205,8 @@ But I have to admit, tasks lists are my favorite:
 - [x] This is a complete item
 - [ ] This is an incomplete item
 
+When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
+
 And, of course emoji! :<nbsp>sparkles: :<nbsp>camel: :<nbsp>boom:
 </pre>
 <div class="rendered">
@@ -217,7 +219,9 @@ And, of course emoji! :<nbsp>sparkles: :<nbsp>camel: :<nbsp>boom:
   <input type="checkbox" class="task-list-item-checkbox" checked="" disabled=""> This is a complete item</li>
   <li class="task-list-item">
   <input type="checkbox" class="task-list-item-checkbox" disabled=""> This is an incomplete item</li>
-  </ul><p>And, of course emoji! :sparkles: :camel: :boom:</p>
+  </ul>
+  <p>When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!</p>
+  <p>And, of course emoji! :sparkles: :camel: :boom:</p>
 
 </div>
 </div>
@@ -339,6 +343,8 @@ Here's an example of Python code without syntax highlighting:
 - [x] this is a complete item
 - [ ] this is an incomplete item
 ```
+
+If you include a task list in the first comment of an Issue, you will get a handy progress indicator in your issue list. It also works in Pull Requests!
 
 ### Tables
 
