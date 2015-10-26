@@ -41,6 +41,8 @@ Zenodo will redirect you back to GitHub to ask for your permission to share your
 
 At this point, you've authorized Zenodo to configure the repository webhooks needed to allow for archiving and DOI-issuing. To enable this functionality, simply click the **On** toggle button next to your repository (in this case **My-Awesome-Science-Software**).
 
+> **Important!** Zenodo can only access your public repositories so make sure the repository you want to archive is [public](https://help.github.com/articles/making-a-private-repository-public/).
+
 ![toggle](zenodo-toggle-on.png)
 
 <a id="check" title="Check Repo Settings" class="toc-item"></a>
