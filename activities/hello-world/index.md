@@ -21,7 +21,7 @@ With these skills, you'll go far. And with this `hello-world` repository you'll 
 
 #### Install & Code Free Zone
 
-We're going to complete the tasks in this tutorial using GitHub.com, so you don't have to know the command line or even install Git (which is the change-tracking software GitHub is built on). You don't even need to know how to code. You will, however, need a GitHub account, so sign up if you don't have one!
+We're going to complete the tasks in this tutorial using GitHub.com, so you don't have to know the command line or even install Git (which is the change-tracking software GitHub is built on). You don't even need to know how to code. You will, however, need a GitHub account, so [sign up](https://github.com/join) if you don't have one!
 
 > **Tip:** Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.
 
