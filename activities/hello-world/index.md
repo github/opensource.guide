@@ -17,7 +17,7 @@ GitHub is a platform for hosting and collaborating on projects. You don't have t
 
 This guide walks you through the GitHub Essentials: **Repositories**, **Branches**, **Commits**, **Issues** and **Pull Requests**.
 
-With these skills, you'll go far. And with this `hello-world` repository you'll have a place to store ideas (aka future repositories, like [jlord/hello-world](https://github.com/jlord/hello-world)), resources or other general notes, even discuss things with others (like [holman/feedback](https://github.com/holman/feedback)).
+With these skills, you'll go far. And with this `hello-world` repository you'll have a place to store ideas, resources or other general notes, even discuss things with others.
 
 #### Install & Code Free Zone
 
