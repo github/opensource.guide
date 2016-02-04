@@ -5,3 +5,4 @@ _site/
 /vendor/gems/
 /bin/
 /.bundle/
+/tmp

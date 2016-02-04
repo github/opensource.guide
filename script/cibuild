@@ -26,4 +26,4 @@ script/bootstrap
 
 bundle exec jekyll build
 
-bundle exec htmlproof _site
+time bundle exec htmlproof _site
