@@ -38,6 +38,7 @@ We use the words Git and GitHub a lot in this article, so let's clarify what the
 * **GitHub Desktop** — An application that you can install on your computer to help you synchronize local code with GitHub.com.
 
 <a id="desktop" title="GitHub Desktop" class="toc-item"></a>
+
 ## GitHub Desktop
 
 GitHub Desktop is the easiest way to get code on GitHub.com. You won't need to learn any command-line instructions, SSH keys, or complicated Git terminology. All you'll need is your Mac or Windows computer and a <a href="https://github.com/join" target="_blank">GitHub.com account</a>.
@@ -45,6 +46,7 @@ GitHub Desktop is the easiest way to get code on GitHub.com. You won't need to l
 You can download <strong><a href="https://desktop.github.com" target="_blank">GitHub Desktop</a></strong> for Mac and Windows. Once you install GitHub Desktop, a short set up wizard will walk you through some basic configuration and will help you connect GitHub Desktop with your GitHub.com account.
 
 <a id="setup" title="Set up your project" class="toc-item"></a>
+
 ## Set up your project in GitHub Desktop
 
 The easiest way to get your project into GitHub Desktop is to drag the folder which contains your project files onto the main application screen.
@@ -68,6 +70,7 @@ Navigate to the **Changes** tab and click **Commit** to create your first commit
 Make as many commits as you like locally. No one but you can see those commits until you push them to GitHub.com.
 
 <a id="pushit" title="Push your code" class="toc-item"></a>
+
 ## Push your code to GitHub.com
 
 ![Screenshot of pushing in Mac app](mac-push.jpg)
@@ -87,6 +90,7 @@ Now that you've published the repository, you have it in two places:
 Each time you make changes to your local repository, you'll need to sync your changes (by clicking the button in the upper-right corner of GitHub Desktop) to make sure they show up online.
 
 <a id="pullit" title="Pulling code" class="toc-item"></a>
+
 ## Getting code from GitHub.com
 
 If you want to get some code from GitHub.com onto your computer or synchronize changes between multiple computers, you'll need to either pull changes or clone a repository:
@@ -96,6 +100,7 @@ If you want to get some code from GitHub.com onto your computer or synchronize c
 * **Clone a repository** — Click the "Clone in Desktop" button on GitHub.com to create a new copy of a repository on your computer.
 
 <a id="celebrate" title="Celebrate!" class="toc-item"></a>
+
 ## Celebrate!
 
 Now you know the basics of setting up projects on GitHub!

@@ -9,9 +9,11 @@ exclude:
   - ".gitignore"
   - CONTRIBUTING.md
   - vendor/
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
+markdown: kramdown
+kramdown:
+  input:        GFM
+  auto_ids:     false
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
 
 gems:
   - jekyll-geo-pattern
