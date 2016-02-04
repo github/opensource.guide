@@ -5,10 +5,7 @@ layout: landing_page
 <section class="guide-listings cf">
 
   {% for link in site.organization %}
-  {% for post in site.pages %}
-  {% if post.url != link %}
-    {% continue %}
-  {% endif %}
+  {% assign post = site.pages | where: "url", link | first %}
   {% if post.title != nil %}
   <article class="guide-listing js-guide-listing">
 
@@ -30,7 +27,6 @@ layout: landing_page
     </p>
   </article>
   {% endif %}
-  {% endfor %}
   {% endfor %}
 
 </section>
