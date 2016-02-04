@@ -19,14 +19,14 @@ gems:
   - jemoji
 
 organization:
-  - /introduction/flow/index.html
-  - /activities/hello-world/index.html
-  - /activities/contributing-to-open-source/index.html
-  - /features/pages/index.html
-  - /introduction/getting-your-project-on-github/index.html
-  - /activities/forking/index.html
-  - /activities/socialize/index.html
-  - /activities/citable-code/index.html
-  - /features/issues/index.html
-  - /features/mastering-markdown/index.html
-  - /features/wikis/index.html
+  - /introduction/flow/
+  - /activities/hello-world/
+  - /activities/contributing-to-open-source/
+  - /features/pages/
+  - /introduction/getting-your-project-on-github/
+  - /activities/forking/
+  - /activities/socialize/
+  - /activities/citable-code/
+  - /features/issues/
+  - /features/mastering-markdown/
+  - /features/wikis/
