@@ -8,6 +8,7 @@ exclude:
   - CNAME
   - ".gitignore"
   - CONTRIBUTING.md
+  - vendor/
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
