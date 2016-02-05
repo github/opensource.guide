@@ -100,7 +100,7 @@ On GitHub, saved changes are called **commits**. Each commit has an associated *
 
 ![commit](commit.png)
 
-Click **Commit changes** button. Now these changes have been made to the README file on your `readme-edits` branch and now this branch contains different content and commits than `master` (as it should!).
+Click **Commit changes** button. These changes will be made to just the README file on your `readme-edits` branch, so now *this branch* contains different content and commits than `master` (as it should!).
 
 <a id="pr" title="Open a Pull Request" class="toc-item"></a>
 
