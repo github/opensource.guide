@@ -138,7 +138,7 @@ When you're done with your message, click **Create pull request**!
 
 ## Step 5. Merge your Pull Request
 
-In this final step, it's time to bring your changes together -- merge your `readme-edits` branch into the `master` branch.
+In this final step, it's time to bring your changes together -- merging your `readme-edits` branch into the `master` branch.
 
 1. Click the green **Merge pull request** button to merge the changes into `master`.
 2. Click **Confirm merge** button.
