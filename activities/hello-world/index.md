@@ -23,7 +23,7 @@ summary: Learn how to open and merge a Pull Request on GitHub with this guide. T
 <a id="what" title="What is GitHub?" class="toc-item"></a>
 ## What is GitHub?
 
-GitHub is a platform for version control, code hosting, project collaboration (namely code review). When you put a project on GitHub, you don't have to worry about losing data on your hard drive or updating a project across multiple computers. GitHub allows you and anyone you're working with on a project to download and sync a copy of your project from anywhere.
+GitHub is a platform for version control, code hosting and project collaboration (namely code review). When you put a project on GitHub, you don't have to worry about losing data on your hard drive or updating a project across multiple computers. GitHub allows you and anyone you're working with on a project to download and sync a copy of your project from anywhere.
 
 This tutorial guides you through some GitHub Essentials: **Repositories**, **Branches**, **Commits**, and **Pull Requests**. By following the tutorial you will create your own Hello World repository and become the maintainer of an open source project. You will also learn GitHub's pull requests workflow, which is a popular way of contributing code and code review to private and open source projects.
 
@@ -64,7 +64,7 @@ By default your repository has one branch named `master`. We use branches to exp
 
 When you create a branch, you're making a copy of the original `master` branch as it was at that point in time (like a photo snapshot). If the `master` branch changes while you're working on your new branch, no worries, you can always pull in those updates.
 
-Here's a diagram that depicts the `master` branch, `feature` branch, and the journey `feature` takes before it is merged into `master`.
+Here's a diagram that depicts the `master` branch, `feature` branch, and the journey that `feature` takes before it is merged into `master`.
 
 [![a branch](branching.png)](branching.png)
 
@@ -94,7 +94,7 @@ On GitHub, saved changes are called **commits**. Each commit has an associated *
 #### Make and commit changes
 
 1. Click the `README.md` file.
-2. Click the pencil icon in the upper right corner of the file view to edit.
+2. Click the <span class="octicon octicon-pencil"></span> pencil icon in the upper right corner of the file view to edit.
 3. In the editor, add some text, write a bit about yourself.
 4. Write a commit message that describes your changes.
 
