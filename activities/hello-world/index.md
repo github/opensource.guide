@@ -153,9 +153,9 @@ By completing this tutorial, you've learned to create a project and make a pull 
 
 For your humblebrag, here are the things you accomplished in this tutorial:
 
-* Created and a repository
+* Created an open source repository
 * Started and managed a new branch
-* Changed a file and commits to GitHub
+* Changed a file and committed those changes to GitHub
 * Opened and merged a Pull Request
 
 Take a look at your GitHub profile and you'll see your new [contribution squares](https://help.github.com/articles/viewing-contributions)!
