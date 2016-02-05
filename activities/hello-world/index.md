@@ -54,7 +54,7 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 
 Click **Create repository**. :boom:
 
-<a id="issue" title="Open an Issue" class="toc-item"></a>
+<a id="branch" title="Create a Branch" class="toc-item"></a>
 
 ## Step 2. Create a Branch
 
