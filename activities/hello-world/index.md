@@ -58,7 +58,7 @@ Click **Create repository**. :tada:
 
 ## Step 2. Create a Branch
 
-**Branching** allows you and other contributors to work on different parts of a repository (project) without writing over the main project.
+**Branching** is the way to work on different parts of a repository at one time.
 
 By default your repository has one branch named `master`. We use branches to experiment and make edits before committing them to master.
 
