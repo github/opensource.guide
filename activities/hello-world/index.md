@@ -52,7 +52,7 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 
 ![new-repo-form](create-new-repo.png)
 
-Click **Create repository**. :boom:
+Click **Create repository**. :tada:
 
 <a id="branch" title="Create a Branch" class="toc-item"></a>
 
