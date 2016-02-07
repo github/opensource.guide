@@ -13,7 +13,7 @@ summary: The easiest way to get started with GitHub. In this guide you'll comple
 
 The **Hello World** project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let's get started with GitHub!
 
-**What you will learn:**
+**What you'll learn:**
 
 * How to create and use a repository
 * How to start and manage a new branch
