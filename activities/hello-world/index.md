@@ -6,7 +6,7 @@ updated_at: February, 2016
 icon: globe
 survey_tag: 'hello-world-1'
 
-summary: Learn how to open and merge a Pull Request on GitHub with this guide. The tutorial will walk you through creating a repository, starting a branch, pushing up changes in a commit, and opening and merging a Pull Request.
+summary: The easiest way to get started with GitHub. In this guide you'll complete a time honored "Hello World" exercise, and learn GitHub essentials.
 
 ---
 <a id="intro" title="Intro" class="toc-item"></a>
