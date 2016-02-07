@@ -66,7 +66,7 @@ When you create a branch, you're making a copy of the original `master` branch a
 
 Here's a diagram that depicts the `master` branch, `feature` branch, and the journey that `feature` takes before it is merged into `master`.
 
-[![a branch](branching.png)](branching.png)
+![a branch](branching.png)
 
 Have you ever saved different versions of a file like, "story.txt", "story-joe-edit.txt", "story-sue-edit.txt"? Branches accomplish similar goals on GitHub repositories.
 
