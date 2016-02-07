@@ -11,7 +11,7 @@ summary: The easiest way to get started with GitHub. In this guide you'll comple
 ---
 <a id="intro" title="Intro" class="toc-item"></a>
 
-**Hello World** projects are a time-honored [tradition](http://en.wikipedia.org/wiki/%22Hello,_World!%22_program) in computer programming. Everyone starts somewhere, and Hello World is a great exercise that helps you learn something new in programming like GitHub.
+The **Hello World** project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let's get started with GitHub!
 
 **What you will learn:**
 
