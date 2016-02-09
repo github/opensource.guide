@@ -23,7 +23,6 @@ The **Hello World** project is a time-honored tradition in computer programming.
 <a id="what" title="What is GitHub?" class="toc-item"></a>
 ## What is GitHub?
 
-GitHub is a platform for version control, code hosting and project collaboration (namely code review). When you put a project on GitHub, you don't have to worry about losing data on your hard drive or updating a project across multiple computers. GitHub allows you and anyone you're working with on a project to download and sync a copy of your project from anywhere.
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 This tutorial guides you through some GitHub essentials: **Repositories**, **Branches**, **Commits**, and **Pull Requests**. By following the tutorial you will create your own Hello World repository and become the maintainer of an open source project. You will also learn GitHub's pull request workflow, which is a popular way to contribute and review code.
