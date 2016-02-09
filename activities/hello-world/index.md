@@ -24,6 +24,7 @@ The **Hello World** project is a time-honored tradition in computer programming.
 ## What is GitHub?
 
 GitHub is a platform for version control, code hosting and project collaboration (namely code review). When you put a project on GitHub, you don't have to worry about losing data on your hard drive or updating a project across multiple computers. GitHub allows you and anyone you're working with on a project to download and sync a copy of your project from anywhere.
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 This tutorial guides you through some GitHub essentials: **Repositories**, **Branches**, **Commits**, and **Pull Requests**. By following the tutorial you will create your own Hello World repository and become the maintainer of an open source project. You will also learn GitHub's pull request workflow, which is a popular way to contribute and review code.
 
@@ -58,7 +59,7 @@ Click **Create repository**. :tada:
 
 ## Step 2. Create a Branch
 
-**Branching** is the way to work on different parts of a repository at one time.
+**Branching** is the way to work on different versions of a repository at one time.
 
 By default your repository has one branch named `master`. We use branches to experiment and make edits before committing them to master.
 
