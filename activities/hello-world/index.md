@@ -62,7 +62,11 @@ By default your repository has one branch named `master` which is considered to 
 
 When you create a branch off the `master` branch, you're making a copy, or snapshot, of `master` as it was at that point in time. If someone else made changes to the `master` branch while you were working on your branch, you could pull in those updates.
 
-Here's a diagram that depicts the `master` branch, `feature` branch, and the journey that `feature` takes before it is merged into `master`.
+This diagram shows:
+
+* The `master` branch
+* A new branch called `feature` (because we're doing 'feature work' on this branch)
+* The journey that `feature` takes before it's merged into `master`
 
 ![a branch](branching.png)
 
@@ -99,7 +103,7 @@ On GitHub, saved changes are called *commits*. Each commit has an associated *co
 
 1. Click the `README.md` file.
 2. Click the <span class="octicon octicon-pencil"></span> pencil icon in the upper right corner of the file view to edit.
-3. In the editor, add some text, write a bit about yourself.
+3. In the editor, write a bit about yourself.
 4. Write a commit message that describes your changes.
 5. Click **Commit changes** button.
 
