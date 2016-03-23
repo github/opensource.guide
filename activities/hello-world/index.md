@@ -43,7 +43,7 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 
 ### To create a new repository
 
-1. In the upper right corner, next to your username, click <span class="octicon octicon-plus"></span> and then click **New repository**.
+1. In the upper right corner, next to your avatar or identicon, click <span class="octicon octicon-plus"></span> and then select **New repository**.
 2. Name your repository `hello-world`.
 3. Write a short description.
 4. Select **Initialize this repository with a README**.
