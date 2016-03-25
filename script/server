@@ -2,4 +2,18 @@
 
 set -e
 
-jekyll serve --watch --baseurl ''
+#check for auth flag
+if [ $* -a $1 == "--auth" ]; then
+
+  # server with auth
+  echo "Spinning up the server with authentication..."
+  bundle exec jekyll-auth
+
+else
+
+  # server sans auth
+  echo "Spinning up the server sans authentication..."
+  echo "If you want authentication, just add --auth to the script/server command"
+  bundle exec jekyll serve --watch --baseurl ''
+
+fi

@@ -1,6 +1,8 @@
 baseurl:
 google_tracking_id: UA-3769691-29
 exclude:
+  - config.ru
+  - Rakefile
   - gems
   - README.md
   - Gemfile
@@ -9,11 +11,15 @@ exclude:
   - ".gitignore"
   - CONTRIBUTING.md
   - vendor/
+  - script/
 markdown: kramdown
 kramdown:
   input:        GFM
   auto_ids:     false
   smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+jekyll_auth:
+  ssl: true
 
 gems:
   - jekyll-geo-pattern
