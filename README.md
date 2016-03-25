@@ -27,6 +27,12 @@ script/server
 
 [CONTRIBUTING.md](/CONTRIBUTING.md) has everything you need to know to propose a new guide (or an update to an existing one!).
 
+## Deployment
+
+Deploying to production is as simple as merging your branch into the `gh-pages` branch. :tada:
+
+Deploying to staging requires a Chat account and Hubot. Run `.deploy guides/YOUR-BRANCH to staging` just like you normally would and visit https://guides-staging.githubapp.com to preview your changes!
+
 ## Questions?
 
 Ping the **@github/guides team** (or just pop into **+The Guides Room** in good old Campfire - we'll dazzle you with random emoji :peach::fuelpump:).
