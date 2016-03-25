@@ -23,7 +23,5 @@ export RUBYOPT=
 cd "$RACK_ROOT"
 
 script/bootstrap
-
-bundle exec jekyll build
-
-time bundle exec htmlproof _site
+script/build -d $(pwd)/_site
+script/test
