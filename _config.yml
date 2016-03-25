@@ -1,6 +1,8 @@
 baseurl:
 google_tracking_id: UA-3769691-29
 exclude:
+  - config.ru
+  - Rakefile
   - gems
   - README.md
   - Gemfile
@@ -12,6 +14,9 @@ exclude:
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
+
+jekyll_auth:
+  ssl: true
 
 gems:
   - jekyll-geo-pattern
