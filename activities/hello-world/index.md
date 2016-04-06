@@ -25,7 +25,7 @@ The **Hello World** project is a time-honored tradition in computer programming.
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-This tutorial teaches you GitHub essentials like *repositories*, *branches*, *commits*, and *pull requests*. You'll create your own Hello World repository and learn GitHub's pull request workflow, a popular way to create and review code.
+This tutorial teaches you GitHub essentials like *repositories*, *branches*, *commits*, and *Pull Requests*. You'll create your own Hello World repository and learn GitHub's Pull Request workflow, a popular way to create and review code.
 
 #### No coding necessary
 
@@ -169,7 +169,7 @@ Here's what you accomplished in this tutorial:
 
 Take a look at your GitHub profile and you'll see your new [contribution squares](https://help.github.com/articles/viewing-contributions)!
 
-If you want to learn more about the power of pull requests, we recommend reading the [GitHub Flow Guide](http://guides.github.com/overviews/flow/). You might also visit [GitHub Explore](http://github.com/explore) and get involved in an Open Source project :octocat:
+If you want to learn more about the power of Pull Requests, we recommend reading the [GitHub Flow Guide](http://guides.github.com/overviews/flow/). You might also visit [GitHub Explore](http://github.com/explore) and get involved in an Open Source project :octocat:
 
 ---
 
