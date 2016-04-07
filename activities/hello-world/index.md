@@ -2,7 +2,7 @@
 layout: article
 title: Hello World
 read_time: 10 minute
-updated_at: February, 2016
+updated_at: April 7, 2016
 icon: globe
 survey_tag: 'hello-world-1'
 

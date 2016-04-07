@@ -2,7 +2,7 @@
 layout: article
 title: Mastering Issues
 read_time: 10 minute
-updated_at: Jan 15, 2014
+updated_at: April 7, 2014
 icon: issue-closed
 survey_tag: 'issues-1'
 
