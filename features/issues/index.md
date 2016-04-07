@@ -2,7 +2,7 @@
 layout: article
 title: Mastering Issues
 read_time: 10 minute
-updated_at: Jan 15, 2014
+updated_at: April 7, 2014
 icon: issue-closed
 survey_tag: 'issues-1'
 
@@ -101,7 +101,7 @@ GitHub also syncs read/unread status for email notifications — if you read a n
 
 ### @mentions
 
-@mentions are the way that we reference other GitHub users inside of GitHub issues. Inside of the description or any comment of the issue, include the @username of another GitHub user to send them a notification. This works very similar to how Twitter uses @mentions.
+@mentions are the way that we reference other GitHub users inside of GitHub Issues. Inside of the description or any comment of the issue, include the @username of another GitHub user to send them a notification. This works very similar to how Twitter uses @mentions.
 
 We like to use the `/cc` syntax (an abbreviation for carbon copy) to include people in issues:
 
