@@ -1,5 +1,6 @@
 _site/
 .DS_Store
+/release-*.tgz
 /.rbenv-version
 /.ruby-version
 /vendor/gems/
