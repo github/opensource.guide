@@ -19,6 +19,7 @@ Creating a "fork" is producing a personal copy of someone else's project. Forks 
 For this tutorial, we'll be using [the Spoon-Knife project](https://github.com/octocat/Spoon-Knife), a test repository that's hosted on GitHub.com that lets you test the Pull Request workflow and the GitHub Desktop application. To download the desktop application, head over to <https://desktop.github.com>.
 
 <a id="fork" title="Fork the repository" class="toc-item"></a>
+
 ## Fork the repository
 
 To fork the Spoon-Knife repository, click the **Fork** button in the header of the repository.
@@ -28,6 +29,7 @@ To fork the Spoon-Knife repository, click the **Fork** button in the header of t
 Sit back and watch the forking magic. When it's finished, you'll be taken to your copy of the Spoon-Knife repository.
 
 <a id="clone" title="Clone your fork" class="toc-item"></a>
+
 ## Clone your fork
 
 You've successfully forked the Spoon-Knife repository, but so far, it only exists on GitHub. To be able to work on the project, you will need to clone it to your computer.
@@ -37,6 +39,7 @@ If you're using GitHub for Desktop application, this process is a breeze. On you
 ![Clone in Desktop](clone-in-desktop.png)
 
 <a id="making-changes" title="Making and pushing changes" class="toc-item"></a>
+
 ## Making and pushing changes
 
 Go ahead and make a few changes to the project using your favorite text editor, like [Atom](https://atom.io). You could, for example, change the text in *index.html* to add your GitHub username.
@@ -48,6 +51,7 @@ When you're ready to submit your changes, type up a *commit summary* in GitHub f
 Right now, you've essentially told Git, "Okay, I've taken a snapshot of my changes!" You can continue to make more changes, and take more commit snapshots. When you're ready to push your changes up to GitHub.com, click on the **Sync** button, which is right above your list of changes.
 
 <a id="making-a-pull-request" title="Making a Pull Request" class="toc-item"></a>
+
 ## Making a Pull Request
 
 At last, you're ready to propose changes into the main project! This is the final step in producing a fork of someone else's project, and arguably the most important. If you've made a change that you feel would benefit the community as a whole, you should definitely consider contributing back.
@@ -65,6 +69,7 @@ When you're ready typing out your heartfelt argument, click on **Send pull reque
 Pull Requests are an area for discussion. In this case, the Octocat is very busy, and probably won't merge your changes. For other projects, don't be offended if the project owner rejects your Pull Request, or asks for more information on why it's been made. It may even be that the project owner chooses not to merge your pull request, and that's totally okay. Your copy will exist in infamy on the Internet. And who knows--maybe someone you've never met will find your changes much more valuable than the original project. Share and share alike!
 
 <a id="huzzah" title="Huzzah!" class="toc-item"></a>
+
 ## Huzzah!
 
 You've successfuly forked and contributed back to a repository. Go forth, and

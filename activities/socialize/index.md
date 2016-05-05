@@ -18,6 +18,7 @@ redirect_from:
 With more and more people joining GitHub and adding projects every day, keeping up with all of them can be difficult. However, this can be fun and easy by following users or watching repositories, simply showing interest in them by starring, or using Explore to find new people and projects.
 
 <a id="follow-a-friend" title="Follow A Friend" class="toc-item"></a>
+
 ## Follow a Friend
 
 One of the great features on GitHub is the ability to see what other people are working on and who they are connecting with.
@@ -30,31 +31,14 @@ interested in by looking at [the Explore page](https://github.com/explore).
 Why not follow one of these cool people from GitHub:
 
 <div class="founders">
-<a href="https://github.com/jlord" class="founder" target="_blank">
-<img src="https://secure.gravatar.com/avatar/e26a281b6bd0c2145e8d0fcc834a56fb"  alt="jlord_icon" />
-<p><strong>jlord</strong></p>
-</a>
-<a href="https://github.com/charliesome" class="founder" target="_blank">
-<img src="https://secure.gravatar.com/avatar/bcb6acc9d0d9bef99e033b36c3d32ca9"  alt="charliesome_icon" />
-<p><strong>charliesome</strong></p>
-</a>
-<a href="https://github.com/benbalter" class="founder" target="_blank">
-<img src="https://secure.gravatar.com/avatar/ea353bd28baa1aefaefae736a19fcf2a"  alt="benbalter_icon" />
-<p><strong>benbalter</strong></p>
-</a>
-<a href="https://github.com/tekkub" class="founder" target="_blank">
-<img src="https://secure.gravatar.com/avatar/472814aac7576b67da59ea79fcbf7d66" alt="tekkub_icon" />
-<p><strong>tekkub</strong></p>
-<a href="https://github.com/muan" class="founder" target="_blank">
-<img src="https://secure.gravatar.com/avatar/3aeb5655cf56bb8cc5583da71c757dc4"  alt="muan_icon" />
-<p><strong>muan</strong></p>
-</a>
-<a href="https://github.com/mdo" class="founder" target="_blank">
-<img src="https://secure.gravatar.com/avatar/bc4ab438f7a4ce1c406aadc688427f2c" alt="mdo_icon" />
-<p><strong>mdo</strong></p>
-</a>
+  {% assign users = "jlord|charliesome|benbalter|tekkub|muan|mdo" | split: "|" %}
+  {% for user in users %}
+  <a href="https://github.com/{{ user }}" class="founder" target="_blank">
+    {% avatar user=user size=86 %}
+    <p><strong>{{ user }}</strong></p>
+  </a>
+  {% endfor %}
 </div>
-
 
 ### Step 2: Follow that friend
 
@@ -65,7 +49,9 @@ Once you are on someone's profile, click the "follow" button.
 Congratulations! You are now following a friend.
 
 <a id="watch-a-project" title="Watch A Project" class="toc-item"></a>
+
 ## Watch a Project
+
 At some point you may want to stay up-to-date with a specific project. This is similar to following a person, except
 the focus is narrowed to only events on that project. You can choose to have notifications for this project sent via
 email or viewable on the web by [configuring your settings](https://github.com/settings/notifications). Typical
@@ -80,6 +66,7 @@ Once you are on the project page, you will notice there is a "watch" button at t
 Congratulations! You are now watching the Hello World project. If the Octocat updates it, you will see what happened in your dashboard or receive a notification.
 
 <a id="explore" title="More Things You Can Do" class="toc-item"></a>
+
 ## More Things You Can Do
 
 You've done some of the most basic social interaction GitHub has to offer, but don't stop there! Check out these other social features:
@@ -104,6 +91,7 @@ If you want to view just trending repositories and users, [head over to Trending
 ![trending](trending.png)
 
 <a id="celebrate" title="Celebrate" class="toc-item"></a>
+
 ## Celebrate
 
 Congratulations! You are quite the socialite. Check out some of these next steps:

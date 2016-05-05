@@ -12,9 +12,9 @@ exclude:
   - CONTRIBUTING.md
   - vendor/
   - script/
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
+markdown: kramdown
+kramdown:
+  auto_ids:     false
 
 jekyll_auth:
   ssl: true
@@ -23,6 +23,7 @@ gems:
   - jekyll-geo-pattern
   - jekyll-redirect-from
   - jemoji
+  - jekyll-avatar
 
 organization:
   - /introduction/flow/

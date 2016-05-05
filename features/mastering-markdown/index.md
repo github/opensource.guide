@@ -26,6 +26,7 @@ Markdown is a lightweight and easy-to-use syntax for styling all forms of writin
 * How to apply GitHub's unique Markdown extensions
 
 <a id="what" title="What is Markdown?" class="toc-item"></a>
+
 ## What is Markdown?
 
 [Markdown](http://daringfireball.net/projects/markdown/) is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like `#` or `*`.
@@ -37,6 +38,7 @@ You can use Markdown most places around GitHub:
 - Files with the `.md` or `.markdown` extension
 
 <a id="examples" title="Examples" class="toc-item"></a>
+
 ## Examples
 
 <ul class="example-nav js-examples-nav">
@@ -122,7 +124,7 @@ Sometimes it's useful to have different levels of headings to structure your doc
 
 ### This is a third-tier heading
 
-You can use  one `#` all the way up to `######` six for different heading sizes.
+You can use one `#` all the way up to `######` six for different heading sizes.
 
 If you'd like to quote someone, use the > character before the line:
 
@@ -207,7 +209,7 @@ But I have to admit, tasks lists are my favorite:
 
 When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
 
-And, of course emoji! :<nbsp>sparkles: :<nbsp>camel: :<nbsp>boom:
+And, of course emoji! :<span></span>sparkles: :<span></span>camel: :<span></span>boom:
 </pre>
 <div class="rendered">
   <p>GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey <a href="https://github.com/kneath" class="user-mention">@kneath</a> — love your sweater!</p>
@@ -229,6 +231,7 @@ And, of course emoji! :<nbsp>sparkles: :<nbsp>camel: :<nbsp>boom:
 
 
 <a id="syntax" title="Basic syntax" class="toc-item"></a>
+
 ## Syntax guide
 
 Here's an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
@@ -303,6 +306,7 @@ As Kanye West said:
     `<addr>` element here instead.
 
 <a id="GitHub-flavored-markdown" title="GFM" class="toc-item"></a>
+
 ## GitHub Flavored Markdown
 
 GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
