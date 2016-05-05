@@ -2,6 +2,8 @@
 
 set -e
 
+export DISABLE_WHITELIST=true
+
 #check for auth flag
 if [ $* -a $1 == "--auth" ]; then
 

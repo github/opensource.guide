@@ -14,9 +14,7 @@ exclude:
   - script/
 markdown: kramdown
 kramdown:
-  input:        GFM
   auto_ids:     false
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
 
 jekyll_auth:
   ssl: true
@@ -25,6 +23,7 @@ gems:
   - jekyll-geo-pattern
   - jekyll-redirect-from
   - jemoji
+  - jekyll-avatar
 
 organization:
   - /introduction/flow/

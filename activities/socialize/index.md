@@ -31,12 +31,13 @@ interested in by looking at [the Explore page](https://github.com/explore).
 Why not follow one of these cool people from GitHub:
 
 <div class="founders">
-    {% include socializing_founder.html handle="jlord"       gravatar="e26a281b6bd0c2145e8d0fcc834a56fb" %}
-    {% include socializing_founder.html handle="charliesome" gravatar="bcb6acc9d0d9bef99e033b36c3d32ca9" %}
-    {% include socializing_founder.html handle="benbalter"   gravatar="ea353bd28baa1aefaefae736a19fcf2a" %}
-    {% include socializing_founder.html handle="tekkub"      gravatar="472814aac7576b67da59ea79fcbf7d66" %}
-    {% include socializing_founder.html handle="muan"        gravatar="3aeb5655cf56bb8cc5583da71c757dc4" %}
-    {% include socializing_founder.html handle="mdo"         gravatar="bc4ab438f7a4ce1c406aadc688427f2c" %}
+  {% assign users = "jlord|charliesome|benbalter|tekkub|muan|mdo" | split: "|" %}
+  {% for user in users %}
+  <a href="https://github.com/{{ user }}" class="founder" target="_blank">
+    {% avatar user=user size=86 %}
+    <p><strong>{{ user }}</strong></p>
+  </a>
+  {% endfor %}
 </div>
 
 ### Step 2: Follow that friend
