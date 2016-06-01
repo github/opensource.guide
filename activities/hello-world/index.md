@@ -21,6 +21,7 @@ The **Hello World** project is a time-honored tradition in computer programming.
 * Open and merge a pull request
 
 <a id="what" title="What is GitHub?" class="toc-item"></a>
+
 ## What is GitHub?
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
