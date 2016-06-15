@@ -25,15 +25,13 @@ gems:
   - jemoji
   - jekyll-avatar
 
-organization:
-  - /introduction/flow/
-  - /activities/hello-world/
-  - /activities/contributing-to-open-source/
-  - /features/pages/
-  - /introduction/getting-your-project-on-github/
-  - /activities/forking/
-  - /activities/socialize/
-  - /activities/citable-code/
-  - /features/issues/
-  - /features/mastering-markdown/
-  - /features/wikis/
+collections:
+  content:
+    output: true
+    permalink: /:path/
+
+sections:
+  - /basics/
+  - /consuming/
+  - /contributing/
+  - /producing/

@@ -3,14 +3,13 @@ layout: landing_page
 ---
 
 <section class="guide-listings cf">
+  {% for section in site.sections %}
+  {% assign post = site.content | where: "url", section | first %}
 
-  {% for link in site.organization %}
-  {% assign post = site.pages | where: "url", link | first %}
-  {% if post.title != nil %}
   <article class="guide-listing js-guide-listing">
 
     <div class="guide-cover js-guide-cover js-geopattern" style="background-image: {% uri_geo_pattern text=post.title generator=post.pattern color=post.color base_color="#8c282c" %}">
-      <a href="{{ site.baseurl }}/{{ post.path | replace:'index.md','' }}" onClick="_gaq.push(['_trackEvent', 'Guides Banner', 'Click', '{{ post.path | replace:'/index.md','' }}']);">
+      <a href="{{ post.url | prepend: site.baseurl }}" onClick="_gaq.push(['_trackEvent', 'Guides Banner', 'Click', '{{ post.url }}']);">
         <div class="icon-container">
           <span class="mega-octicon octicon-{{ post.icon }}"></span>
         </div>
@@ -19,14 +18,15 @@ layout: landing_page
     </div>
 
     <p class="guide-summary">
-      {{ post.summary }}
+      {{ post.excerpt }}
     </p>
 
     <p class="guide-read-time">
-      <span class="octicon octicon-clock"></span> {{ post.read_time }} read
+      {% if post.read_time %}
+        <span class="octicon octicon-clock"></span> {{ post.read_time }} read
+      {% endif %}
     </p>
   </article>
-  {% endif %}
   {% endfor %}
 
 </section>
