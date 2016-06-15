@@ -1,4 +1,4 @@
-baseurl:
+baseurl: "/open-source-guides"
 google_tracking_id: UA-3769691-29
 exclude:
   - config.ru
