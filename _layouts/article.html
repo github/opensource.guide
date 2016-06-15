@@ -32,6 +32,20 @@ layout: default
       {{ content }}
 
       <p class="last-updated">Last updated {{ page.updated_at }}</p>
+
+      {% if page.credits %}
+        <div id="credits">
+          <p><em>This article is based on open source content:</em></p>
+          <ul>
+            {% for source in page.credits %}
+              <li>
+                <strong><a href="{{ source.url }}">{{ source.title }}</a></strong>
+                by {{ source.attribution }}
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
     </div>
   </div>
 </article>
