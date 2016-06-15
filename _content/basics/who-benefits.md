@@ -2,8 +2,9 @@
 layout: article
 title: Who benefits from open source software?
 category: basics
-attribution:
-  - attribution: "opensource.com: What is open source?"
+credits:
+  - title: "What is open source?"
+    attribution: "opensource.com"
     url: "https://opensource.com/resources/what-open-source"
     license: CC-BY-SA
 ---

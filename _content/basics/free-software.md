@@ -3,7 +3,8 @@ layout: article
 title: Is Open Source Software The Same As ‘Free Software’?
 category: basics
 credits:
-  - attribution: "OSS Watch: What Is Open Source Software?"
+  - title: "What Is Open Source Software?"
+    attribution: "OSS Watch"
     url: "http://oss-watch.ac.uk/resources/opensourcesoftware"
     license: CC-BY-SA
 related:

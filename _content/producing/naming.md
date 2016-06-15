@@ -2,10 +2,11 @@
 layout: article
 title: Choosing a name
 category: producing
-attribution:
-- name: Chris Grams
+credits:
+- title: "How to choose a brand name for your open source project"
+  attribution: Chris Grams
+  url: https://opensource.com/business/16/2/how-choose-brand-name-open-source-project
   license: CC-BY-4.0
-  source: https://opensource.com/business/16/2/how-choose-brand-name-open-source-project
 ---
 
 When it comes to developing a new open source software project, most developers don't spend a lot of time thinking about brand strategy. After all, a great idea, solid code, and a passionate community are what really matter when you're getting a project underway.

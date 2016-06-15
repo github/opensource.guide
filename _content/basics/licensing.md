@@ -3,11 +3,14 @@ layout: article
 title: What is Open Source Licensing?
 category: basics
 attribution:
-  - attribution: "Open Source Development - An Introduction To Ownership And Licensing Issues"
+  - title: "Open Source Development - An Introduction To Ownership And Licensing Issues"
+    attribution: "OSS Watch"
     url: "http://oss-watch.ac.uk/resources/iprguide"
     license: CC-BY-SA
-  - attribution: "OSS Watch: Open Source For Absolute Beginners"
+  - title: "Open Source For Absolute Beginners"
+    attribution: "OSS Watch"
     url: "http://oss-watch.ac.uk/resources/beginners"
+    license: CC-BY-SA
 related:
   - basics/proprietary.md
   - basics/who-uses.md

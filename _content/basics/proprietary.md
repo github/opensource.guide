@@ -2,13 +2,16 @@
 layout: article
 title: What's the difference between open source software and other types of software?
 category: basics
-attribution:
-  - attribution: "opensource.com: What is open source?"
+credits:
+  - title: "What is open source?"
+    attribution: "opensource.com"
     url: "https://opensource.com/resources/what-open-source"
     license: CC-BY-SA
 ---
 
-Some software has source code that cannot be modified by anyone but the person, team, or organization who created it and maintains exclusive control over it. This kind of software is frequently called "proprietary software" or "closed source" software, because its source code is the property of its original authors, who are the only ones legally allowed to copy or modify it. Microsoft Word and Adobe Photoshop are examples of proprietary software. In order to use proprietary software, computer users must agree (usually by signing a license displayed the first time they run this software) that they will not do anything with the software that the software's authors have not expressly permitted.
+Some software has source code that cannot be modified by anyone but the person, team, or organization who created it and maintains exclusive control over it.
+
+This kind of software is frequently called "proprietary software" or "closed source" software, because its source code is the property of its original authors, who are the only ones legally allowed to copy or modify it. Microsoft Word and Adobe Photoshop are examples of proprietary software. In order to use proprietary software, computer users must agree (usually by signing a license displayed the first time they run this software) that they will not do anything with the software that the software's authors have not expressly permitted.
 
 TODO: proprietary software is almost always built on top of open source
 
