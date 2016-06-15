@@ -47,5 +47,19 @@ layout: default
         </div>
       {% endif %}
     </div>
+
+    {% if page.related %}
+    <h2>Read More</h2>
+    <section class="guide-listings cf">
+      {% for path in page.related %}
+        {% for article in site.content %}
+          {% if article.path contains path %}
+            {% include post.html %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </section>
+    {% endif %}
+
   </div>
 </article>
