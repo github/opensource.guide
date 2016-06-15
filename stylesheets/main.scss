@@ -1,3 +1,6 @@
+---
+---
+
 /* Basics */
 
 * {
@@ -441,5 +444,45 @@ ol.toc>li a.active {
 
   footer {
     font-size: 12px;
+  }
+}
+
+#credits {
+  border-top: 1px solid #eee;
+  font-size: 0.7em;
+  color: #999;
+}
+
+#credits ul {
+  list-style: none;
+  padding: 0;
+}
+
+#credits li {
+  margin-bottom: 0.5em;
+}
+
+// Responsive container for 16:9 embeds from youtube, vimeo, etc
+// <div class="embed"><!-- embed code --></div>
+.embed {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+
+  &, &.ratio-16-9 {
+    padding-bottom: 56.25%;
+  }
+
+  &.ratio-4-3 {
+    padding-bottom: 75%;
+  }
+
+  iframe, object, embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
 }
