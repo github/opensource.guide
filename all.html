@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="wrap">
+  <ul>
+  {% for page in site.content %}
+    <li>
+      <a href="{{ page.url | prepend: page.baseurl }}">
+        {{ page.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
