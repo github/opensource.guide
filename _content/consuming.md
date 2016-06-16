@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Using open source software
+title: Consuming
 category: consuming
 ---
 
