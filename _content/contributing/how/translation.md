@@ -1,6 +1,5 @@
 ---
 title: "Language translation"
-layout: article
 credits:
 - title: "Roles In Open Source Projects"
   attribution: "OSS Watch"

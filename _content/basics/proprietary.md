@@ -1,7 +1,5 @@
 ---
-layout: article
 title: What's the difference between open source software and other types of software?
-category: basics
 credits:
   - title: "What is open source?"
     attribution: "opensource.com"

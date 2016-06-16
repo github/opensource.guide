@@ -1,7 +1,5 @@
 ---
-layout: article
 title: Contributing
-category: contributing
 related:
   - contributing/how.md
 ---

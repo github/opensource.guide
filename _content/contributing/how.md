@@ -1,8 +1,6 @@
 ---
-layout: article
 title: How to contribute
 breadcrumb: How
-category: contributing
 credits:
 - title: "Roles In Open Source Projects"
   attribution: "OSS Watch"

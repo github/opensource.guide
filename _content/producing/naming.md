@@ -1,7 +1,5 @@
 ---
-layout: article
 title: Choosing a name
-category: producing
 credits:
 - title: "How to choose a brand name for your open source project"
   attribution: Chris Grams

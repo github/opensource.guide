@@ -30,6 +30,13 @@ collections:
     output: true
     permalink: /:path/
 
+defaults:
+  - scope:
+      path: ""
+      type: "content"
+    values:
+      layout: article
+
 sections:
   - /basics/
   - /consuming/
