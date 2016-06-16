@@ -51,21 +51,26 @@ html, body {
   z-index: 2;
   height: 225px;
   color: #fff;
-  text-align: center;
   background-color: #aaa;
+
+  .breadcrumb {
+    position: absolute;
+    left: 40px;
+    top: 30px;
+  }
 }
 
 .guide-cover a {
   display: block;
   width: 440px;
   height: 225px;
-  padding: 30px 40px;
+  padding: 40px 40px 30px 40px;
   color: #fff;
 }
 
 .guide-cover-title {
   margin-top: 20px;
-  font-size: 32px;
+  font-size: 28px;
   font-weight: normal;
   line-height: 1.3;
   text-shadow: 0 2px 0 rgba(0, 0, 0, .15);
@@ -132,8 +137,12 @@ ol.toc.sticky {
   position: relative;
   margin-top: 10px;
   margin-bottom: 40px;
-  text-shadow: 0 2px 0 rgba(0, 0, 0, .15);
   background-color: #aaa;
+
+  h1 {
+    text-shadow: 0 2px 0 rgba(0, 0, 0, .15);
+    margin: 0;
+  }
 }
 
 .article-header-pattern {
@@ -145,7 +154,8 @@ ol.toc.sticky {
 .article-heading .wrap {
   position: relative;
   z-index: 2;
-  padding: 50px 0;
+  padding-top: 50px;
+  padding-bottom: 50px;
   color: #fff;
 }
 
@@ -262,7 +272,6 @@ article {
 }
 article h1 {
   margin-bottom: 10px;
-  margin-left: 105px;
   font-size: 48px;
   font-weight: normal;
   line-height: 1;
@@ -423,19 +432,15 @@ ol.toc>li a.active {
 }
 
 #credits {
-  border-top: 1px solid #eee;
   font-size: 0.7em;
-  color: #999;
+  color: #777;
+  border-top: 1px solid #eee;
+
+  li {
+    margin-bottom: 0.5em;
+  }
 }
 
-#credits ul {
-  list-style: none;
-  padding: 0;
-}
-
-#credits li {
-  margin-bottom: 0.5em;
-}
 
 // Responsive container for 16:9 embeds from youtube, vimeo, etc
 // <div class="embed"><!-- embed code --></div>

@@ -35,11 +35,11 @@ layout: default
 
       {% if page.credits %}
         <div id="credits">
-          <p><em>This article is based on open source content:</em></p>
+          <p>This article is based on open source content:</p>
           <ul>
             {% for source in page.credits %}
               <li>
-                <strong><a href="{{ source.url }}">{{ source.title }}</a></strong>
+                <a href="{{ source.url }}">{{ source.title }}</a>
                 by {{ source.attribution }}
               </li>
             {% endfor %}
