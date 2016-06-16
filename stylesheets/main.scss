@@ -63,22 +63,6 @@ html, body {
   color: #fff;
 }
 
-.icon-container {
-  width: 68px;
-  height: 68px;
-  text-align: center;
-  background-color: rgba(0, 0, 0, .5);
-  border-radius: 34px;
-}
-
-.guide-cover .icon-container {
-  margin: 0 auto;
-}
-
-.icon-container .mega-octicon {
-  line-height: 68px;
-}
-
 .guide-cover-title {
   margin-top: 20px;
   font-size: 32px;
@@ -163,15 +147,6 @@ ol.toc.sticky {
   z-index: 2;
   padding: 50px 0;
   color: #fff;
-}
-
-.article-heading .icon-container {
-  position: absolute;
-  left: 15px;
-  display: inline-block;
-  float: left;
-  margin-top: 30px;
-  margin-right: 20px;
 }
 
 .article-read-time {
