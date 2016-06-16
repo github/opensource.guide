@@ -10,9 +10,11 @@ layout: default
       </div>
       {% include breadcrumb.html page=page %}
       <h1>{{ page.title }}</h1>
+      {% if page.read_time %}
       <span class="article-read-time article-meta">
         <span class="octicon octicon-clock"></span> {{ page.read_time }} read
       </span>
+      {% endif %}
       {% if page.pdf_download %}
       <a class="article-pdf article-meta" href="/pdfs/{{page.pdf_download}}" onClick="_gaq.push(['_trackEvent', 'PDF Download', 'Click', '{{ page.pdf_download }}']);">
         <span class="octicon octicon-cloud-download"></span> Download PDF version
