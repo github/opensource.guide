@@ -1,10 +1,8 @@
 <article class="guide-listing js-guide-listing">
 
   <div class="guide-cover js-guide-cover js-geopattern" style="background-image: {% uri_geo_pattern text=article.title generator=article.pattern color=article.color base_color="#8c282c" %}">
+    {% include breadcrumb.html page=article %}
     <a href="{{ article.url | prepend: site.baseurl }}" onClick="_gaq.push(['_trackEvent', 'Guides Banner', 'Click', '{{ article.url }}']);">
-      <div class="icon-container">
-        <span class="mega-octicon octicon-{{ article.icon }}"></span>
-      </div>
       <h3 class="guide-cover-title js-guide-cover-title">{{ article.title }}</h3>
     </a>
   </div>

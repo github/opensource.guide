@@ -1,0 +1,14 @@
+{% assign next_breadcrumb = "" %}
+<ol class="breadcrumb">
+{% assign parts = include.page.url | remove_first: '/' | split: '/' | pop %}
+{% for part in parts %}
+  {% assign breadcrumb_url = next_breadcrumb | append: "/" | append: part | append: "/" %}
+  {% capture next_breadcrumb %}{{ next_breadcrumb }}/{{ part }}{% endcapture %}
+  {% for breadcrumb_page in site.content %}
+    {% if breadcrumb_url == breadcrumb_page.url %}
+      {% capture breadcrumb_page_page_url_without_index_html %}{{ breadcrumb_page.url | remove: "index.html" }}{% endcapture %}
+      <li><a href="{{ site.baseurl }}{{breadcrumb_page_page_url_without_index_html}}">{{breadcrumb_page.breadcrumb | default: breadcrumb_page.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</ol>

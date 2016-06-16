@@ -486,3 +486,35 @@ ol.toc>li a.active {
     height: 100%;
   }
 }
+
+.breadcrumb {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  opacity: 0.7;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 12px;
+
+  li {
+    display: inline;
+
+    &:after {
+      content: "»";
+      display: inline-block;
+      padding: 0 5px;
+      font-size: 16px;
+    }
+
+    &:last-child:after {
+      content: "";
+    }
+  }
+
+  a {
+    color: inherit;
+    display: inline;
+    padding: 0;
+  }
+}

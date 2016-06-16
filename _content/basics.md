@@ -1,6 +1,7 @@
 ---
 layout: article
 title: What is open source?
+breadcrumb: Basics
 category: basics
 credits:
   - title: "What is open source?"
