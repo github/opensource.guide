@@ -28,6 +28,14 @@ layout: default
     </div>
     {% endif %}
 
+    <div class="toc-wrapper">
+      <a class="light-button" href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}">
+        <span class="octicon octicon-pencil"></span>
+        Suggest edits
+      </a>
+    </div>
+
+
     <div class="markdown-body content-body {% if page.full_width %}full-width{% endif %}">
       {{ content }}
 
