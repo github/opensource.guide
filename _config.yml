@@ -12,6 +12,8 @@ exclude:
   - CONTRIBUTING.md
   - vendor/
   - script/
+  - bin
+  - test
 markdown: kramdown
 kramdown:
   auto_ids:     false
