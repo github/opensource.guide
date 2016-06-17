@@ -1,7 +1,5 @@
 ---
-layout: article
 title: Producing
-category: producing
 ---
 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

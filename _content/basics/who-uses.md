@@ -1,7 +1,5 @@
 ---
-layout: article
 title: Who uses open source software?
-category: basics
 credits:
   - title: "What is open source?"
     attribution: "opensource.com"

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Nip Rudeness in the Bud
 credits:
 - title: "Producing Open Source Software"

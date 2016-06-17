@@ -1,3 +1,9 @@
 #!/bin/sh
+
+set -e
+
+echo "==> Running tests"
+time bundle exec rake
+
 echo "==> Running html-proofer…"
 time bundle exec htmlproof _site

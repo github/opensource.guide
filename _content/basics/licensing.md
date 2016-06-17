@@ -1,8 +1,6 @@
 ---
-layout: article
 title: What is Open Source Licensing?
-category: basics
-attribution:
+credits:
   - title: "Open Source Development - An Introduction To Ownership And Licensing Issues"
     attribution: "OSS Watch"
     url: "http://oss-watch.ac.uk/resources/iprguide"
