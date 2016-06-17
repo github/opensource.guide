@@ -498,3 +498,21 @@ ol.toc>li a.active {
     padding: 0;
   }
 }
+
+.light-button {
+  color: #bbb;
+  font-size: 13px;
+  padding: 5px 10px;
+  border-radius: 4px;
+  border: 1px solid #eee;
+
+  &:hover {
+    color: #999;
+    background: #fafafa;
+  }
+
+  .octicon {
+    font-size: inherit;
+    margin-right: 2px;
+  }
+}
