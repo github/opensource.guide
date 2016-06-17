@@ -1,7 +1,9 @@
 baseurl: "/open-source-handbook"
+
 branch: gh-pages
 
 google_tracking_id: UA-3769691-29
+
 exclude:
   - config.ru
   - Rakefile
@@ -16,9 +18,6 @@ exclude:
   - script/
   - bin
   - test
-markdown: kramdown
-kramdown:
-  auto_ids:     false
 
 jekyll_auth:
   ssl: true
