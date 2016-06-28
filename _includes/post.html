@@ -1,15 +1,18 @@
 <article class="guide-listing js-guide-listing">
 
   <div class="guide-cover js-guide-cover js-geopattern" style="background-image: {% uri_geo_pattern text=article.title generator=article.pattern color=article.color base_color="#8c282c" %}">
-    {% include breadcrumb.html page=article %}
-    <a href="{{ article.url | prepend: site.baseurl }}" onClick="_gaq.push(['_trackEvent', 'Guides Banner', 'Click', '{{ article.url }}']);">
-      <h3 class="guide-cover-title js-guide-cover-title">{{ article.title }}</h3>
-    </a>
   </div>
 
-  <p class="guide-summary">
+  {% include breadcrumb.html page=article %}
+  <h3 class="guide-cover-title js-guide-cover-title">
+    <a href="{{ article.url | prepend: site.baseurl }}" onClick="_gaq.push(['_trackEvent', 'Guides Banner', 'Click', '{{ article.url }}']);">
+    {{ article.title }}
+    </a>
+  </h3>
+
+  <div class="guide-summary">
     {{ article.excerpt | truncate: 200 }}
-  </p>
+  </div>
 
   <p class="guide-read-time">
     {% if article.read_time %}
