@@ -244,8 +244,13 @@ a {
 header {
   padding: 35px 0 20px;
 }
-header img {
-  opacity: .3;
+header h1 {
+  font-size: 24px;
+  font-weight: 200;
+
+  a {
+    color: rgba(0,0,0,0.3);
+  }
 }
 header ul.links {
   float: right;
