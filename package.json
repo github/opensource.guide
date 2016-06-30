@@ -1,0 +1,19 @@
+{
+  "name": "open-source-handbook",
+  "private": true,
+  "devDependencies": {
+    "async": "^1.5.2",
+    "glob": "^7.0.5",
+    "remark-lint": "^4.0.1",
+    "remark-parse": "^1.0.0",
+    "remark-retext": "^2.0.0",
+    "remark-stringify": "^1.0.0",
+    "retext": "^3.0.0",
+    "retext-english": "^2.0.0",
+    "retext-equality": "^2.3.2",
+    "retext-readability": "^2.0.0",
+    "to-vfile": "^1.0.0",
+    "unified": "^4.1.2",
+    "vfile-reporter": "^2.0.0"
+  }
+}
