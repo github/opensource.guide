@@ -58,6 +58,6 @@ We’ll use these answers in the next section, as you consider the brand of your
 
 ## Related content
 
-(add some related content here)
+* http://mozillascience.github.io/working-open-workshop/personas_pathways/
 
 [Previous](index.md) | [Next](branding.md)
