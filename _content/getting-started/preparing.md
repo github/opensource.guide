@@ -24,7 +24,7 @@ There are [over 70 approved licenses](https://opensource.org/licenses/alphabetic
 * [Mozilla Public License 2.0](http://choosealicense.com/licenses/mpl-2.0/)
 * [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of these licenses will make your GitHub project open source. (Different licenses carry slightly different permissions. You can use [http://choosealicense.com](http://choosealicense.com) to find the right license for you.)
+When you create a new project on GitHub, you are given the option to select a license. Including one of these licenses will make your GitHub project open source. (Different licenses carry slightly different permissions. You can use http://choosealicense.com to find the right license for you.)
 
 (include image of license selection on GitHub new repo here?)
 
@@ -80,20 +80,20 @@ Launching your project is only the first step. If you’re looking for feedback 
 ## Related content
 
 * Licenses
-  * [https://github.com/blog/1530-choosing-an-open-source-license](https://github.com/blog/1530-choosing-an-open-source-license)
-  * [http://choosealicense.com](http://choosealicense.com)
+  * https://github.com/blog/1530-choosing-an-open-source-license
+  * http://choosealicense.com
 * READMEs
-  * [http://tom.preston-werner.com/2010/08/23/readme-driven-development.html](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-  * [https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
-  * [https://pages.18f.gov/open-source-guide/making-readmes-readable/](https://pages.18f.gov/open-source-guide/making-readmes-readable/)
-  * [https://changelog.com/a-beginners-guide-to-creating-a-readme/](https://changelog.com/a-beginners-guide-to-creating-a-readme/)
-  * [https://gist.github.com/jxson/1784669](https://gist.github.com/jxson/1784669)
+  * http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
+  * https://github.com/matiassingers/awesome-readme
+  * https://pages.18f.gov/open-source-guide/making-readmes-readable/
+  * https://changelog.com/a-beginners-guide-to-creating-a-readme/
+  * https://gist.github.com/jxson/1784669
 * Contributing guides
-  * [https://github.com/blog/1184-contributing-guidelines](https://github.com/blog/1184-contributing-guidelines)
-  * [http://www.contribution-guide.org/](http://www.contribution-guide.org/)
-  * [https://github.com/nayafia/contributing-template](https://github.com/nayafia/contributing-template)
-  * [http://mozillascience.github.io/working-open-workshop/contributing/](http://mozillascience.github.io/working-open-workshop/contributing/)
+  * https://github.com/blog/1184-contributing-guidelines
+  * http://www.contribution-guide.org/
+  * https://github.com/nayafia/contributing-template
+  * http://mozillascience.github.io/working-open-workshop/contributing/
 * Codes of conduct
-  * [http://contributor-covenant.org/](http://contributor-covenant.org/)
-  * [https://github.com/django/code-of-conduct](https://github.com/django/code-of-conduct)
-  * [https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+  * http://contributor-covenant.org/
+  * https://github.com/django/code-of-conduct
+  * https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/
