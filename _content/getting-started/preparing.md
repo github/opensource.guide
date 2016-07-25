@@ -92,6 +92,7 @@ Launching your project is only the first step. If you’re looking for feedback 
   * [https://github.com/blog/1184-contributing-guidelines](https://github.com/blog/1184-contributing-guidelines)
   * [http://www.contribution-guide.org/](http://www.contribution-guide.org/)
   * [https://github.com/nayafia/contributing-template](https://github.com/nayafia/contributing-template)
+  * [http://mozillascience.github.io/working-open-workshop/contributing/](http://mozillascience.github.io/working-open-workshop/contributing/)
 * Codes of conduct
   * [http://contributor-covenant.org/](http://contributor-covenant.org/)
   * [https://github.com/django/code-of-conduct](https://github.com/django/code-of-conduct)
