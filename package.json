@@ -1,6 +1,9 @@
 {
   "name": "open-source-handbook",
   "private": true,
+  "scripts": {
+    "test": "script/test"
+  },
   "devDependencies": {
     "async": "^1.5.2",
     "glob": "^7.0.5",
