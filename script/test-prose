@@ -18,10 +18,11 @@ var async = require('async');
 var options = {
   // https://github.com/wooorm/remark-lint/blob/master/doc/rules.md
   "lint": {
-    "first-heading-level": 2,      // First heading should be an h2
-    "list-item-indent": "space",   // As the gods intended.
+    "list-item-indent": "space",    // As the gods intended.
     "maximum-line-length": false,   // turn off line length linting
-    "no-html": false               // Sadly, need HTML for video embeds
+    "no-html": false,               // Sadly, need HTML for video embeds
+    "no-heading-punctuation": false,
+    "list-item-spacing": false,
   },
   "readability": {
     "age": 18
@@ -29,7 +30,8 @@ var options = {
   "simplify": {
     ignore: [
       "modify",
-      "contribute"
+      "contribute",
+      "previous"
     ]
   }
 };
