@@ -4,6 +4,8 @@ This handbook is a collection of resources to help individual, communities, and 
 
 This handbook aims to foster healthy open source communities, and provide a canonical place for the community to discuss and codify best practices into highly-approachable resources.
 
+### [Get Started](_content/index.md)
+
 ## Contributing
 
 This handbook aims to reflect community best practices. Check out [CONTRIBUTING.md](/CONTRIBUTING.md) for ways to offer feedback and contribute.
