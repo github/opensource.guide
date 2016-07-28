@@ -97,3 +97,4 @@ Launching your project is only the first step. If you’re looking for feedback 
   * http://contributor-covenant.org/
   * https://github.com/django/code-of-conduct
   * https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/
+  * https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines/
