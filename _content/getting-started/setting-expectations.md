@@ -1,8 +1,8 @@
 # Setting expectations
 
-There are many reasons to open source a project. Before going public with your project, it’s a good idea to figure out yours. What you want to get out of the experience will guide how you manage your project and help you figure out where to say yes (and no!).
+There are many reasons to open source a project. It’s a good idea to figure out yours before going public with your project. What you want to get out of the experience will guide how you manage your project and help you figure out where to say yes (and no!).
 
-In this section, we’ll help you think through a few important questions around the goals of your project.
+In this section, we’ll help you think through a few important questions about the goals of your project.
 
 ## Define your goals
 
@@ -36,13 +36,13 @@ If you’re hoping to get feedback on something you’ve created, consider askin
 
 ## Figure out what others need from you
 
-Finally, open sourcing a project is a two-way street. People who use your project will probably ask you for things, too.
+Finally, open sourcing a project is a two-way street. People who use your project will probably ask you for things, too. 
 
 Try to anticipate these needs beforehand so you can add them to your project from the beginning. Successful open source projects try to document as much as they can in public. Much like reusable pieces of code, reusable information means less people need to ask you the same questions over and over again. (That means less work for you!)
 
-The needs of your users affect every part of your project, from functionality to customer support to [branding](branding.md).
+Remember that as your project grows, your users may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project. While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
 
-Here are some questions to consider early on. If you don’t know the answers, consider how you might be able to figure them out (for example, polling others online or reading through forums where your users might congregate).
+Here are some questions to ask yourself early on. If you don’t know the answers, consider how you might be able to figure them out (for example, polling others online or reading through forums where your users might congregate).
 
 * Does the project’s name resonate with my audience? Will they remember it or think it is clever?
 * What are the skills and background of my audience? Do they need to know anything special about how to use my project?
@@ -54,7 +54,7 @@ Here are some questions to consider early on. If you don’t know the answers, c
 
 Congratulations, you just did your first round of user research for your project! If you wrote down the answers to the above questions, save them for later. You can reference your goals and expectations as you develop your project.
 
-We’ll use these answers in the next section, as you consider the brand of your project.
+We’ll also use these answers in the next section, as you consider the brand of your project.
 
 ## Related content
 
