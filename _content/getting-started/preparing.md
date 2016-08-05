@@ -26,6 +26,8 @@ There are [over 70 approved licenses](https://opensource.org/licenses/alphabetic
 
 When you create a new project on GitHub, you are given the option to select a license. Including one of these licenses will make your GitHub project open source. (Different licenses carry slightly different permissions. You can use [http://choosealicense.com](http://choosealicense.com) to find the right license for you.)
 
+If you have other questions or concerns around the legal aspects of managing an open source project, we've got you covered: [The legal side of open source](legal.md)
+
 **(include image of license selection on GitHub new repo here?)**
 
 ## Writing a README
