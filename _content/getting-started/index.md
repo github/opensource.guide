@@ -14,13 +14,13 @@ Open source licenses grant permission to everyone to use, modify, and share lice
 
 Public repositories on GitHub [comply with GitHub’s Terms of Service](https://help.github.com/articles/open-source-licensing/), which gives other people the right to view and fork your repository. But if you want others to use, copy, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use your GitHub project in their code, even if it’s public, unless you explicitly give them the right to do so. **(See also: link to license/legal article here)**
 
-## Open source is about more than just a license
+## Open source is more than just a license
 
 Open source is defined by its legal protections and freedoms. In terms of culture, open sourcing a project has come to mean much more.
 
 There are many reasons why a person or organization might want to open source a project. Some examples are:
 
-* **Transparency:** Making your code visible means that anyone can inspect it for errors or inconsistencies. Transparency matters to government (like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/)), regulated industries like banking or healthcare, and security-related software infrastructure (like [Let’s Encrypt](https://github.com/letsencrypt)).
+* **Transparency:** Making your code visible means that anyone can inspect it for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security-related software infrastructure like [Let’s Encrypt](https://github.com/letsencrypt).
 
 * **Collaboration:** Projects that are open source can accept changes and updates from anybody. Collaboration matters to those who want to build their projects with a community, like [Hoodie](https://github.com/hoodiehq) and [Rust](https://github.com/rust-lang/rust). When people make improvements together, projects can thrive, because they draw from multiple skill sets, experiences, and levels of involvement.
 
