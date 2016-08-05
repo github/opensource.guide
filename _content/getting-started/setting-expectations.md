@@ -56,8 +56,9 @@ Congratulations, you just did your first round of user research for your project
 
 We’ll also use these answers in the next section, as you consider the brand of your project.
 
-## Related content
+## Further reading
 
 * http://mozillascience.github.io/working-open-workshop/personas_pathways/
+* http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
 
 [Previous](index.md) | [Next](branding.md)
