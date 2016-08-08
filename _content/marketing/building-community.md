@@ -46,6 +46,8 @@ For casual or first-time contributors, be open-minded about the types of contrib
 
 You’re doing great so far! Now that you’re promoting your project and growing a community, you’re probably wondering whether you’re doing it right. In the next section, we’ll talk about metrics to measure your project’s success and how to track them.
 
+[Previous](spreading-word.md) | [Next](measuring-success.md)
+
 ### Footnotes
 
 [1] [https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)
