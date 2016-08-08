@@ -105,3 +105,7 @@ Sometimes, it will take a long time before people notice your open source projec
   * [https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) 
   * [https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines/](https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines/)
 
+
+[Previous](branding.md) | [Next](../marketing/index.md)
+
+
