@@ -44,6 +44,8 @@ Spreading the word is an important step in growing the popularity of your projec
 
 In the next section, we’ll talk about how to retain those early enthusiasts and grow an engaged community around your project.
 
+[Previous](index.md) | [Next](building-community.md)
+
 ### Footnotes
 
 [1] [https://news.ycombinator.com/item?id=7531689](https://news.ycombinator.com/item?id=7531689) 
