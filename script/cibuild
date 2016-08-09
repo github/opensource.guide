@@ -2,6 +2,7 @@
 
 set -e
 
+export PATH="/usr/share/rbenv/shims:$PATH"
 export RBENV_VERSION="2.1.7-github"
 # clean out the ruby environment
 export RUBYLIB=
