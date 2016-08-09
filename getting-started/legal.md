@@ -1,4 +1,6 @@
-# **The legal side of open source**
+---
+title: The legal side of open source
+---
 
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn’t know you had to worry about.
 
@@ -100,7 +102,7 @@ If you use others’ open source code to create anything that could be considere
 
 
 
-To learn more about the implications of different open source licenses, check out: [https://tldrlegal.com/](https://tldrlegal.com/) 
+To learn more about the implications of different open source licenses, check out: [https://tldrlegal.com/](https://tldrlegal.com/)
 
 
 
@@ -108,6 +110,6 @@ To learn more about the implications of different open source licenses, check ou
 
 * [http://choosealicense.com](http://choosealicense.com)
 * [https://tldrlegal.com/](https://tldrlegal.com/)
-* [https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) 
+* [https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
 * [https://blog.docker.com/2014/01/docker-code-contributions-require-developer-certificate-of-origin/](https://blog.docker.com/2014/01/docker-code-contributions-require-developer-certificate-of-origin/)
-* [https://www.joyent.com/blog/broadening-node-js-contributions](https://www.joyent.com/blog/broadening-node-js-contributions) 
+* [https://www.joyent.com/blog/broadening-node-js-contributions](https://www.joyent.com/blog/broadening-node-js-contributions)

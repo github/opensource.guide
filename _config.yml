@@ -1,0 +1,19 @@
+baseurl: "/open-source-handbook"
+
+exclude:
+  - bin
+  - docs
+  - Gemfile*
+  - Rakefile
+  - README.md
+  - script
+  - test
+  - vendor
+
+permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: article

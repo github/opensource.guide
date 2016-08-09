@@ -1,4 +1,7 @@
-# Welcome
+---
+title: Welcome
+next: getting-started/index.md
+---
 
 Welcome to the Open Source Handbook! We created this handbook to help creators like you successfully release and grow your projects.
 

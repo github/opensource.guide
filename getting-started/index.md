@@ -1,4 +1,7 @@
-# Before You Get Started
+---
+title: Before you Get Started
+next: getting-started/setting-expectations.md
+---
 
 ## What does it mean to open source a project?
 
@@ -31,5 +34,3 @@ Remember: open source isn’t just for software! You can open source everything 
 When you open source a project, you open yourself to feedback and suggestions from other people who are engaged with your work. It might feel intimidating to open source a project for the first time, but remember that you’re not alone.
 
 In the next section, we’ll help you figure out your goals around open sourcing your project. Understanding these goals beforehand will make it easier to manage your and others’ expectations later on.
-
-[Previous](../index.md) | [Next](setting-expectations.md)

@@ -1,4 +1,7 @@
-# **Branding**
+---
+title: Branding
+next: getting-started/preparing.md
+---
 
 You’ve thought about who your users are, what they need from you, and what you might be able to offer them. Next, we’ll put that research into practice as we consider the brand of your project.
 
@@ -24,7 +27,7 @@ Make sure that your project’s name doesn’t infringe upon any trademarks. A c
 
 
 
-You’ll also want to look for open source projects with a similar name, especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you will confuse your audience and make it less likely that anyone will use what you’ve created. You can check for similar project names here: [http://ivantomic.com/projects/ospnc/](http://ivantomic.com/projects/ospnc/) 
+You’ll also want to look for open source projects with a similar name, especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you will confuse your audience and make it less likely that anyone will use what you’ve created. You can check for similar project names here: [http://ivantomic.com/projects/ospnc/](http://ivantomic.com/projects/ospnc/)
 
 
 
@@ -69,5 +72,3 @@ We’re almost there! Next, we’ll walk you through a few components that every
 ### Further reading
 
 * [http://producingoss.com/en/getting-started.html#choosing-a-name](http://producingoss.com/en/getting-started.html#choosing-a-name)
-
-[Previous](setting-expecations.md) | [Next](preparing.md)

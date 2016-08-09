@@ -1,4 +1,7 @@
-# **Preparing for launch**
+---
+title: Preparing for launch
+next: marketing/index.md
+---
 
 You’re almost ready to launch your project! In this section, we’ll talk about what to include in an open source project before releasing it to the world.
 
@@ -87,25 +90,20 @@ Sometimes, it will take a long time before people notice your open source projec
 
 * Licenses
   * [https://github.com/blog/1530-choosing-an-open-source-license](https://github.com/blog/1530-choosing-an-open-source-license)
-  * [http://choosealicense.com](http://choosealicense.com) 
+  * [http://choosealicense.com](http://choosealicense.com)
 * READMEs
   * [http://tom.preston-werner.com/2010/08/23/readme-driven-development.html](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
   * [https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
   * [https://pages.18f.gov/open-source-guide/making-readmes-readable/](https://pages.18f.gov/open-source-guide/making-readmes-readable/)
   * [https://changelog.com/a-beginners-guide-to-creating-a-readme/](https://changelog.com/a-beginners-guide-to-creating-a-readme/)
-  * [https://gist.github.com/jxson/1784669](https://gist.github.com/jxson/1784669) 
+  * [https://gist.github.com/jxson/1784669](https://gist.github.com/jxson/1784669)
 * Contributing guides
   * [https://github.com/blog/1184-contributing-guidelines](https://github.com/blog/1184-contributing-guidelines)
-  * [http://www.contribution-guide.org/](http://www.contribution-guide.org/) 
-  * [https://github.com/nayafia/contributing-template](https://github.com/nayafia/contributing-template) 
+  * [http://www.contribution-guide.org/](http://www.contribution-guide.org/)
+  * [https://github.com/nayafia/contributing-template](https://github.com/nayafia/contributing-template)
   * [http://mozillascience.github.io/working-open-workshop/contributing/](http://mozillascience.github.io/working-open-workshop/contributing/)
 * Codes of conduct
-  * [http://contributor-covenant.org/](http://contributor-covenant.org/) 
-  * [https://github.com/django/code-of-conduct](https://github.com/django/code-of-conduct) 
-  * [https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) 
+  * [http://contributor-covenant.org/](http://contributor-covenant.org/)
+  * [https://github.com/django/code-of-conduct](https://github.com/django/code-of-conduct)
+  * [https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   * [https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines/](https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines/)
-
-
-[Previous](branding.md) | [Next](../marketing/index.md)
-
-
