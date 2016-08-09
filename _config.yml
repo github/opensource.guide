@@ -2,9 +2,11 @@ baseurl: "/open-source-handbook"
 
 exclude:
   - docs
+  - Gemfile*
+  - Rakefile
   - README.md
   - script
-  - Gemfile*
+  - test
 
 collections:
   content:

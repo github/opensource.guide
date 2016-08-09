@@ -1,0 +1,10 @@
+# Each piece of content has YAML front matter with these properties:
+
+title:
+  required: true
+
+next:
+  type: String
+
+previous:
+  type: String
