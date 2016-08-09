@@ -41,7 +41,7 @@ Look for meetups and conferences that are relevant to your work. Offline outreac
 
 If you’re new to public speaking, start by finding a local meetup that’s related to the language or ecosystem of your project. If you’ve never spoken at an event before, it’s perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work. As you design your talk, remember to focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
-When you feel ready, consider speaking at a conference to promote your audience. Conferences can help you reach more people, sometimes from all over the world. Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference and its attendees beforehand to understand what they want to learn about, which will help you tailor your talk and increase your chances of getting accepted. You can often get a sense of a conference’s audience by looking at its speakers.
+When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world. Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference and its attendees beforehand to understand what they want to learn about, which will help you tailor your talk and increase your chances of getting accepted. You can often get a sense of a conference’s audience by looking at its speakers.
 
 Spreading the word is an important step in growing the popularity of your project. It can be scary to share your creativity with the world, so give yourself a high five for making it this far! 👌 💯 🙌
 
@@ -49,15 +49,15 @@ In the next section, we’ll talk about how to retain those early enthusiasts an
 
 ### Footnotes
 
-[1] [https://news.ycombinator.com/item?id=7531689](https://news.ycombinator.com/item?id=7531689)
+[1] [https://news.ycombinator.com/item?id=7531689](https://news.ycombinator.com/item?id=7531689) 
 
 [2] [https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md](https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md)
 
 ### Further reading
 
-* [https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+* [https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/) 
 
-* [https://zachholman.com/posts/open-source-marketing/](https://zachholman.com/posts/open-source-marketing/)
+* [https://zachholman.com/posts/open-source-marketing/](https://zachholman.com/posts/open-source-marketing/) 
 
 * [http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz/](http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz/)
 
