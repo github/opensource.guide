@@ -1,4 +1,7 @@
-# **Building a Community**
+---
+title: Building a community
+next: marketing/measuring.md
+---
 
 You’ve launched your project, you’re spreading the word, and people are checking out your project. Awesome! Now, how do you get them to stick around? In this section, we’ll discuss ways to encourage people to use, contribute to, and evangelize your project.
 
@@ -54,13 +57,10 @@ You’re doing great so far! Now that you’re promoting your project and growin
 
 ### Further reading
 
-* [http://radek.io/2015/10/12/marketing-for-open-source-projects-5/](http://radek.io/2015/10/12/marketing-for-open-source-projects-5/) 
+* [http://radek.io/2015/10/12/marketing-for-open-source-projects-5/](http://radek.io/2015/10/12/marketing-for-open-source-projects-5/)
 
-* [http://hood.ie/blog/welcoming-communities.html](http://hood.ie/blog/welcoming-communities.html) 
+* [http://hood.ie/blog/welcoming-communities.html](http://hood.ie/blog/welcoming-communities.html)
 
 * [https://ashfurrow.com/blog/building-popular-projects/](https://ashfurrow.com/blog/building-popular-projects/)
 
-* [http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/) 
-
-
-[Previous](spreading-word.md) | [Next](measuring.md)
+* [http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)

@@ -1,4 +1,7 @@
-# **Spreading the word**
+---
+title: Spreading the word
+next: marketing/building-community.md
+---
 
 You’ve just published your project–what’s next? It’s time to tell everybody about your hard work!
 
@@ -44,19 +47,17 @@ Spreading the word is an important step in growing the popularity of your projec
 
 In the next section, we’ll talk about how to retain those early enthusiasts and grow an engaged community around your project.
 
-[Previous](index.md) | [Next](building-community.md)
-
 ### Footnotes
 
-[1] [https://news.ycombinator.com/item?id=7531689](https://news.ycombinator.com/item?id=7531689) 
+[1] [https://news.ycombinator.com/item?id=7531689](https://news.ycombinator.com/item?id=7531689)
 
 [2] [https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md](https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md)
 
 ### Further reading
 
-* [https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/) 
+* [https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
 
-* [https://zachholman.com/posts/open-source-marketing/](https://zachholman.com/posts/open-source-marketing/) 
+* [https://zachholman.com/posts/open-source-marketing/](https://zachholman.com/posts/open-source-marketing/)
 
 * [http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz/](http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz/)
 

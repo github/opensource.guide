@@ -8,14 +8,10 @@ exclude:
   - script
   - test
 
-collections:
-  content:
-    output: true
-    permalink: /:path/
+permalink: /:path/
 
 defaults:
   - scope:
       path: ""
-      type: "content"
     values:
       layout: article

@@ -1,4 +1,7 @@
-# Setting expectations
+---
+title: Setting expectations
+next: getting-started/branding.md
+---
 
 There are many reasons to open source a project. It’s a good idea to figure out yours before going public with your project. What you want to get out of the experience will guide how you manage your project and help you figure out where to say yes (and no!).
 
@@ -36,7 +39,7 @@ If you’re hoping to get feedback on something you’ve created, consider askin
 
 ## Figure out what others need from you
 
-Finally, open sourcing a project is a two-way street. People who use your project will probably ask you for things, too. 
+Finally, open sourcing a project is a two-way street. People who use your project will probably ask you for things, too.
 
 Try to anticipate these needs beforehand so you can add them to your project from the beginning. Successful open source projects try to document as much as they can in public. Much like reusable pieces of code, reusable information means less people need to ask you the same questions over and over again. (That means less work for you!)
 
@@ -60,5 +63,3 @@ We’ll also use these answers in the next section, as you consider the brand of
 
 * http://mozillascience.github.io/working-open-workshop/personas_pathways/
 * http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
-
-[Previous](index.md) | [Next](branding.md)

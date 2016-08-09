@@ -2,7 +2,7 @@ require_relative "./helper"
 
 describe "lint test" do
 
-  content.each do |page|
+  pages.each do |page|
 
     describe page["path"] do
 
@@ -26,10 +26,12 @@ describe "lint test" do
           it "#{name} should be of type #{attrs["type"]}" do
             assert_kind_of Kernel.const_get(attrs["type"]), @data[name] if @data[name]
           end if attrs["type"]
-
-          it "#{name} has valid attributes" do
-          end
         end
+
+        it "`next` points to a page that exists" do
+          assert pages.detect {|p| p["path"] == page["next"] },
+            "Could not find page with path #{page["next"]}"
+        end if page["next"]
       end
     end
   end
