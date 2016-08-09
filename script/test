@@ -2,4 +2,6 @@
 
 set -e
 
+script/build --config _config.yml,test/_config.yml
 bundle exec rake
+script/html-proofer
