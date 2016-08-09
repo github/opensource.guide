@@ -2,4 +2,6 @@
 
 set -e
 
+script/build
 bundle exec rake
+bundle exec htmlproofer _site
