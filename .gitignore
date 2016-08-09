@@ -1,3 +1,6 @@
 .DS_Store
 .jekyll-metadata
 _site/
+.bundle
+bin
+vendor
