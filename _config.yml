@@ -1,0 +1,19 @@
+baseurl: "/open-source-handbook"
+
+exclude:
+  - docs
+  - README.md
+  - script
+  - Gemfile*
+
+collections:
+  content:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "content"
+    values:
+      layout: article
