@@ -1,6 +1,5 @@
 ---
 title: Preparing for launch
-previous: getting-started/branding.md
 next: marketing/index.md
 ---
 
