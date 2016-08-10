@@ -2,7 +2,7 @@
 title: Leadership & Governance
 ---
 
-Your project is growing, people are engaged, and you’re committed to keeping this thing going. At this stage, you’re probably starting to wonder about governance. Maybe you want to recognize a community members who’s made significant contributions to your project. Maybe you’ve gotten into a debate with your community and realized you didn’t know how to resolve it. 
+Your project is growing, people are engaged, and you’re committed to keeping this thing going. At this stage, you’re probably starting to wonder about governance. Maybe you want to recognize a community members who’s made significant contributions to your project. Maybe you’ve gotten into a debate with your community and realized you didn’t know how to resolve it.
 
 In this section, we’ll answer some commonly asked questions about leadership and governance for open source projects.
 
@@ -72,16 +72,22 @@ If you want to accept donations for your open source project, you can set up a d
 
 If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.python.org/pypi), the Python package manager, and the [Node.js Foundation](https://nodejs.org/en/foundation/) helps support [Express.js](http://expressjs.com/), a Node-based framework.
 
+## What's next?
+
+Congratulations on making it this far, and welcome to the ranks of open source maintainership! We hope your project continues to thrive and that this Handbook has helped you along the way.
+
+As you grow into your leadership role, you'll inevitably come across some tough situations. Check out our [Troubleshooting](/troubleshooting/) section for help when you need it. And from the bottom of our hearts, thank you for sharing your work and making a positive contribution to the world. 💕
+
 ### Footnotes
 
-[1] [http://felixge.de/2013/03/11/the-pull-request-hack.html](http://felixge.de/2013/03/11/the-pull-request-hack.html) 
+[1] [http://felixge.de/2013/03/11/the-pull-request-hack.html](http://felixge.de/2013/03/11/the-pull-request-hack.html)
 
 [2] [https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.46vkbdar7](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.46vkbdar7)
 
-[3] From Orta: *"I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding."* [https://realm.io/news/orta-therox-moving-to-oss-by-default/](https://realm.io/news/orta-therox-moving-to-oss-by-default/) 
+[3] From Orta: *"I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding."* [https://realm.io/news/orta-therox-moving-to-oss-by-default/](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
 
-[4] [https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s) 
+[4] [https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
 
-[5] [https://www.rust-lang.org/en-US/team.html](https://www.rust-lang.org/en-US/team.html) 
+[5] [https://www.rust-lang.org/en-US/team.html](https://www.rust-lang.org/en-US/team.html)
 
 [6] [https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs)
