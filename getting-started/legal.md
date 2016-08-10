@@ -42,7 +42,7 @@ If your open source project isn’t software, consider a Creative Commons or oth
 
 
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of the above licenses will make your GitHub project open source. If you’d like to see other license options, use [http://choosealicense.com](http://choosealicense.com) to find the right license for you.
+When you create a new project on GitHub, you are given the option to select a license. Including one of the above licenses will make your GitHub project open source. If you’d like to see other license options, check out [Choose a License](http://choosealicense.com) to find the right license for you.
 
 ## Do I need a contributor agreement in addition to my open source license?
 
@@ -102,7 +102,7 @@ If you use others’ open source code to create anything that could be considere
 
 
 
-To learn more about the implications of different open source licenses, check out: [https://tldrlegal.com/](https://tldrlegal.com/)
+To learn more about the implications of different open source licenses, [TLDRLegal](https://tldrlegal.com/) is a great resource.
 
 
 

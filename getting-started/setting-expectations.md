@@ -61,5 +61,5 @@ We’ll also use these answers in the next section, as you consider the brand of
 
 ## Further reading
 
-* http://mozillascience.github.io/working-open-workshop/personas_pathways/
-* http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
+* [http://mozillascience.github.io/working-open-workshop/personas_pathways/](http://mozillascience.github.io/working-open-workshop/personas_pathways/)
+* [http://tom.preston-werner.com/2010/08/23/readme-driven-development.html](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)

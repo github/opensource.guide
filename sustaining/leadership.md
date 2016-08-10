@@ -76,7 +76,7 @@ If your project is closely associated with a certain language or ecosystem, ther
 
 Congratulations on making it this far, and welcome to the ranks of open source maintainership! We hope your project continues to thrive and that this Handbook has helped you along the way.
 
-As you grow into your leadership role, you'll inevitably come across some tough situations. Check out our [Troubleshooting](/open-source-handbook/troubleshooting/) section for help when you need it. And from the bottom of our hearts, thank you for sharing your work and making a positive contribution to the world. 💕
+As you grow into your leadership role, you'll inevitably come across some tough situations. Check out our [Troubleshooting](../../troubleshooting/) section for help when you need it. And from the bottom of our hearts, thank you for sharing your work and making a positive contribution to the world. 💕
 
 ### Footnotes
 
