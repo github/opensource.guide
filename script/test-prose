@@ -14,6 +14,9 @@ var report = require('vfile-reporter');
 var glob = require('glob');
 var fs = require('fs');
 var async = require('async');
+var yaml = require('js-yaml');
+var jekyllConfig = yaml.safeLoad(fs.readFileSync('_config.yml', 'utf8'));
+var ignore = require('ignore')().add(jekyllConfig["exclude"])
 
 var options = {
   // https://github.com/wooorm/remark-lint/blob/master/doc/rules.md
@@ -36,7 +39,7 @@ var options = {
   }
 };
 
-async.map(glob.sync("_content/**/*.md"), function(file, callback) {
+async.map(ignore.filter(glob.sync("**/*.md")), function(file, callback) {
   fs.readFile(file, function(err, contents) {
     unified()
       .use(parse)
@@ -54,6 +57,5 @@ async.map(glob.sync("_content/**/*.md"), function(file, callback) {
       });
   });
 }, function (err, results) {
-  console.log("reporting");
   console.log(report(results));
 });

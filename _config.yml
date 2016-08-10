@@ -2,8 +2,11 @@ baseurl: "/open-source-handbook"
 
 exclude:
   - bin
+  - CONTRIBUTING.md
   - docs
   - Gemfile*
+  - node_modules
+  - package.json
   - Rakefile
   - README.md
   - script
