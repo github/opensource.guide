@@ -12,7 +12,7 @@ Most people who come across your project don’t know anything about you or your
 
 Maybe at one point you put a lot of time into your project but now circumstances have changed. You’re juggling a new family and a full-time job, and you just don’t have that much time to spend on open source work anymore. That’s perfectly okay! Make sure other people know about it. Other people won’t know what’s happening in your life unless you tell them.
 
-Write your time constraints directly into your README. If your time is purely volunteered, make sure that people are aware of your circumstances. You can even tell them exactly how many hours you spend on the project per week, or let them know which days you’re most active. If your project is completely unmaintained or a low priority in your life, tell people that, too. (You can read more about proactive communication under **"Best Practices for Maintainers" (link)**.)
+Write your time constraints directly into your README. If your time is purely volunteered, make sure that people are aware of your circumstances. You can even tell them exactly how many hours you spend on the project per week, or let them know which days you’re most active. If your project is completely unmaintained or a low priority in your life, tell people that, too. You can read more about best practices for maintainers [here](../../sustaining/best-practices/).
 
 ## Write an agreement for maintainers and contributors
 
@@ -36,8 +36,8 @@ There’s no shame in admitting when you don’t have the bandwidth to care for 
 
 Further reading:
 
-* [http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) 
+* [http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/)
 
-* [https://archive.is/j8zAk](https://archive.is/j8zAk) 
+* [https://archive.is/j8zAk](https://archive.is/j8zAk)
 
 * [https://publicobject.com/2016/05/03/the-open-source-maintainers-dilemma/](https://publicobject.com/2016/05/03/the-open-source-maintainers-dilemma/)

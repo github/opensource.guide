@@ -25,17 +25,11 @@ Here are some examples of reasons why people open source their work:
 
 Once you’ve listed out your goals, ask yourself: *for each of these goals, what do I (or we) need from others?*
 
-For example, if you are open sourcing a project to build your portfolio, you may not be actively looking for contributions, or you don’t have time to review them. In that case, you might clearly state in your README that you are not accepting contributions.
+For example, if you are open sourcing a project to build your portfolio, you may not be actively looking for contributions, or you don’t have time to review them. In that case, you might clearly state in your README that you are not accepting contributions. For example, [Infinite-scroll](https://github.com/infinite-scroll/infinite-scroll) states this information at the top of its README.
 
-**(add an example, e.g.: https://github.com/infinite-scroll/infinite-scroll or https://github.com/dboehmer/hotelres)**
+On the other hand, if you are building a community project, you may be very actively looking for contributors. In this case, you might want to be more detailed about the types of contributions you’re looking for and explicitly give your readers permission to modify and shape the project. For example, [Sinatra](https://github.com/sinatra/sinatra/blob/master/CONTRIBUTING.md) lists all the types of contributions they'd love to have.
 
-On the other hand, if you are building a community project, you may be very actively looking for contributors. In this case, you might want to be more detailed about the types of contributions you’re looking for and explicitly give your readers permission to modify and shape the project.
-
-**(add an example, e.g. https://github.com/Level/levelup#contributing)**
-
-If you’re hoping to get feedback on something you’ve created, consider asking for the type of feedback you’re looking for, whether it’s general code review or help with a specific bug.
-
-**(add an example, e.g.: https://github.com/alexreisner/geocoder#known-issue)**
+If you’re hoping to get feedback on something you’ve created, consider asking for the type of feedback you’re looking for, whether it’s general code review or help with a specific bug. For example, [Geocoder](https://github.com/alexreisner/geocoder#known-issue) calls out a known issue in its README.
 
 ## Figure out what others need from you
 

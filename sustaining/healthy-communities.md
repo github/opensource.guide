@@ -9,7 +9,7 @@ If you’re starting an open source project today, the vast majority of contribu
 
 A casual contributor may not have time to get fully up to speed with your project. Nearly half of contributors on popular GitHub projects, for example, only made one contribution. [1] This level of noise can be overwhelming at first. But the more people feel ownership of your project, the more work can be distributed. [2] It will be much less stressful than trying to do everything yourself.
 
- 
+
 
 Here are some ways you can empower your biggest fans to run with the work they’re excited about.
 
@@ -55,23 +55,23 @@ Any popular project will inevitably attract people who harm, rather than help, y
 
 Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave. Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these types of conversations and not want to participate.
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to ask them to leave. Your code of conduct can be a constructive guide for these conversations. **<link to "Enforcing your code of conduct" article>**
+When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../../troubleshooting/conduct/). Your code of conduct can be a constructive guide for these conversations.
 
 ### Footnotes
 
 [1] [http://gustavopinto.org/lost+found/saner2016.pdf](http://gustavopinto.org/lost+found/saner2016.pdf)
 
-[3] [Node.js](https://github.com/nodejs) is a big project that helped popularize some of these ideas: [https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5#.db5dkrbrw](https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5#.db5dkrbrw) 
+[3] [Node.js](https://github.com/nodejs) is a big project that helped popularize some of these ideas: [https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5#.db5dkrbrw](https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5#.db5dkrbrw)
 
 [4] [http://artsy.github.io/blog/2016/07/03/handling-big-projects/](http://artsy.github.io/blog/2016/07/03/handling-big-projects/)
 
-[5] [http://felixge.de/2013/03/11/the-pull-request-hack.html](http://felixge.de/2013/03/11/the-pull-request-hack.html) 
+[5] [http://felixge.de/2013/03/11/the-pull-request-hack.html](http://felixge.de/2013/03/11/the-pull-request-hack.html)
 
-[6] [https://peerj.com/preprints/1233.pdf](https://peerj.com/preprints/1233.pdf) 
+[6] [https://peerj.com/preprints/1233.pdf](https://peerj.com/preprints/1233.pdf)
 
 ### Further reading
 
-* [https://opensource.com/life/16/5/growing-contributor-base-modern-open-source](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source) 
+* [https://opensource.com/life/16/5/growing-contributor-base-modern-open-source](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
 
 * [http://writing.jan.io/2015/11/20/sustainable-open-source.html](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
@@ -79,8 +79,8 @@ When you see negative behavior happening on your project, call it out publicly. 
 
 * [https://github.com/Moya/contributors](https://github.com/Moya/contributors)
 
-* [https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md) 
+* [https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
 
 * [http://radek.io/2015/08/24/github-issues/](http://radek.io/2015/08/24/github-issues/)
 
-* [http://producingoss.com/en/producingoss.html#difficult-people](http://producingoss.com/en/producingoss.html#difficult-people) 
+* [http://producingoss.com/en/producingoss.html#difficult-people](http://producingoss.com/en/producingoss.html#difficult-people)

@@ -3,7 +3,7 @@ title: Measuring Success
 next: sustaining/index.md
 ---
 
-Your project is starting to grow.🌱 Well, you think it’s growing. Is it growing? In this section, we’ll talk about how to measure and track the success of your open source project.
+Your project is starting to grow. 🌱  Well, you think it’s growing. Is it growing? In this section, we’ll talk about how to measure and track the success of your open source project.
 
 ## Discoverability
 
@@ -53,11 +53,11 @@ Here are a few types of contributor metrics you may want to regularly keep track
 
 ### Further reading
 
-* [http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/](http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/) 
+* [http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/](http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/)
 
-* [https://opensource.com/business/16/6/pirate-metrics](https://opensource.com/business/16/6/pirate-metrics) 
+* [https://opensource.com/business/16/6/pirate-metrics](https://opensource.com/business/16/6/pirate-metrics)
 
-* [https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel) 
+* [https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel)
 
 * [https://github.com/blog/2195-the-shape-of-open-source](https://github.com/blog/2195-the-shape-of-open-source)
 

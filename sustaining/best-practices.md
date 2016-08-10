@@ -11,13 +11,13 @@ In this section, we’ll talk about how to set up your projects in a way that he
 
 ## Know yourself and your needs
 
-Remember way back, before you launched your project, when you wrote down your expectations? **<link to "setting expectations" article>** It’s time to revisit that document now. Remind yourself why you’re doing this work and what you want to get out of open sourcing your project. Has anything changed?
+Remember way back, before you launched your project, [when you wrote down](../../getting-started/setting-expectations) your expectations? It’s time to revisit that document now. Remind yourself why you’re doing this work and what you want to get out of open sourcing your project. Has anything changed?
 
 Be honest with yourself about how much time you have to spend on your project. This is not the same as how much time you think the project requires, or how much time you think others want you to spend on your project. Write down your time constraints, and make it public so others understand your priorities, too.
 
 Write down your project’s vision and, where possible, make that vision transparent to others. Your vision is your North Star, guiding you when you feel overwhelmed by others’ requests, and helping you reset your priorities. Add it to your README. If there are related artifacts that you think could help, like a project roadmap, make those public as well.
 
-[@lord](https://github.com/lord) discovered that having a project vision helped him figure out which requests he should spend time on. As a new maintainer, he regretted not sticking to his project’s scope when he got his first feature request for [Slate](https://github.com/lord/slate)*: "I fumbled it. I didn’t put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said “I don’t have time for this right now, but I’ll add it to the long term nice-to-have list."* [1]
+[@lord](https://github.com/lord) discovered that having a project vision helped him figure out which requests he should spend time on. As a new maintainer, he regretted not sticking to his project’s scope when he got his first feature request for [Slate](https://github.com/lord/slate): *"I fumbled it. I didn’t put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said “I don’t have time for this right now, but I’ll add it to the long term nice-to-have list."* [1]
 
 These types of exercises may seem trivial, but the more you know yourself and your limits (not just abilities!), the easier it is to say no to things that don’t fit into your scope.
 
@@ -49,7 +49,7 @@ One of the most important places you’ll practice saying no is on your your iss
 
 If you notice repeated requests for things you don’t want to accept, consider adding them into your contribution policy, so you don’t have to keep repeating yourself.
 
-If the thought of saying no terrifies you, you’re not alone. As [@jfrazelle](https://github.com/jfrazelle) put it:* "I’ve talked to maintainers from several different open source projects, Mesos, Kubernetes, C**hromium**, and they all agree one of the hardest parts of being a maintainer is saying “No" to patches you don’t want.”* [3] But the more often you practice saying no, the easier it becomes. Promise.
+If the thought of saying no terrifies you, you’re not alone. As [@jfrazelle](https://github.com/jfrazelle) put it: *"I’ve talked to maintainers from several different open source projects, Mesos, Kubernetes, C**hromium**, and they all agree one of the hardest parts of being a maintainer is saying “No" to patches you don’t want.”* [3] But the more often you practice saying no, the easier it becomes. Promise.
 
 ## Keep communication public
 
@@ -83,23 +83,22 @@ Hopefully, you’re feeling more empowered to say no, set and enforce rules, and
 
 ### Footnotes
 
-[1] [https://lord.io/blog/2014/oss-tips/](https://lord.io/blog/2014/oss-tips/) 
+[1] [https://lord.io/blog/2014/oss-tips/](https://lord.io/blog/2014/oss-tips/)
 
-[2] [https://twitter.com/solomonstre/status/715277134978113536](https://twitter.com/solomonstre/status/715277134978113536) 
+[2] [https://twitter.com/solomonstre/status/715277134978113536](https://twitter.com/solomonstre/status/715277134978113536)
 
 [3] [https://blog.jessfraz.com/post/the-art-of-closing/](https://blog.jessfraz.com/post/the-art-of-closing/)
 
 ### Further reading
 
-* [http://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way](http://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way) 
+* [http://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way](http://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
 
-* [https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/](https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/) 
+* [https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/](https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/)
 
-* [http://words.steveklabnik.com/how-to-be-an-open-source-gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener) 
+* [http://words.steveklabnik.com/how-to-be-an-open-source-gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 
 * [https://github.com/blog/2124-kindly-closing-pull-requests](https://github.com/blog/2124-kindly-closing-pull-requests)
 
-* [https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/) 
+* [https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
 
-* [http://artsy.github.io/blog/2016/07/03/handling-big-projects/](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) 
-
+* [http://artsy.github.io/blog/2016/07/03/handling-big-projects/](http://artsy.github.io/blog/2016/07/03/handling-big-projects/)
