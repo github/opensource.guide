@@ -6,9 +6,17 @@ Your project is growing, people are engaged, and you’re committed to keeping t
 
 In this section, we’ll answer some commonly asked questions about leadership and governance for open source projects.
 
-## What are some of the common governance structures for community projects?
+## Table of Contents
+1. [What are some of the common governance structures for open source projects?](#what-are-some-of-the-common-governance-structures-for-open-source-projects)
+2. [Do I need governance docs when I launch my project?](#do-i-need-governance-docs-when-i-launch-my-project)
+3. [When should I give someone commit access?](#when-should-i-give-someone-commit-access)
+4. [What are some leadership roles or responsibilities that projects use?](#what-are-some-leadership-roles-or-responsibilities-that-projects-use)
+5. [How do I formalize leadership roles in my project?](#how-do-i-formalize-leadership-roles-in-my-project)
+6. [Do I need a legal entity to support my project?](#do-i-need-a-legal-entity-to-support-my-project)
 
-If you’re a growing community project, there are three common governance structures associated with open source projects:
+## What are some of the common governance structures for open source projects?
+
+There are three common governance structures associated with open source projects:
 
 * **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example of a BDFL project. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
 
@@ -16,7 +24,7 @@ If you’re a growing community project, there are three common governance struc
 
 * **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. The liberal contribution model was pioneered by [Node.js](https://nodejs.org/en/foundation/). [Rust](https://www.rust-lang.org/en-US/) is another example.
 
-There is no one correct governance model, and although they may seem quite different at first, all three models have more in common than it might seem. If you’re interested in adopting one of these models, here are some templates:
+Which one should you use? It's up to you! There is no one correct model. Each one has advantages and tradeoffs. And although they may seem quite different at first, all three models have more in common than it might seem. If you’re interested in adopting one of these models, here are some templates:
 
 * [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 
@@ -34,7 +42,7 @@ There is no right time to write down your project’s governance, but it’s muc
 
 It’s up to you when you want to give someone commit access to your project. Some people think you should give commit access to everybody who makes a contribution. [1] Doing so could encourage more people to feel ownership of your project. On the other hand, especially for big community projects, you may want to only give commit access to people who have made have demonstrated their commitment. There’s no one right way of doing it - do what makes you most comfortable!
 
-## What are some leadership roles or responsibilities I should consider?
+## What are some leadership roles or responsibilities that projects use?
 
 Here are some common roles that you might have heard of for open source projects. What these roles actually mean, though, is entirely up to you.
 
