@@ -10,8 +10,8 @@ These topics aren’t fun. They may feel unfamiliar or force you out of your com
 Sometimes, being a maintainer is a thankless job. If you’re reading this section, though, you’ve taken an important first step towards becoming a leader, and for that, we thank you. ❤️
 
 ## Troubleshooting topics
-* [Enforcing your code of conduct](conduct.md)
-* [Feeling guilty or burned out](burnout.md)
-* [Finding community consensus](finding-consensus.md)
-* [Handling contributions you don't want to accept](contributions.md)
-* [Getting paid for open source work](getting-paid.md)
+* [Enforcing your code of conduct](conduct/)
+* [Feeling guilty or burned out](burnout/)
+* [Finding community consensus](finding-consensus/)
+* [Handling contributions you don't want to accept](contributions/)
+* [Getting paid for open source work](getting-paid/)
