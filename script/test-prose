@@ -44,12 +44,12 @@ async.map(ignore.filter(glob.sync("**/*.md")), function(file, callback) {
     unified()
       .use(parse)
       .use(lint, options["lint"])
-      .use(remark2retext, unified()
-        .use(require('retext-english'))
-        .use(require('retext-simplify'), options["simplify"])
-        .use(require('retext-equality'))
-        .use(require('retext-readability'), options["readability"])
-      )
+      // .use(remark2retext, unified()
+      //   .use(require('retext-english'))
+      //   .use(require('retext-simplify'), options["simplify"])
+      //   .use(require('retext-equality'))
+      //   .use(require('retext-readability'), options["readability"])
+      // )
       .use(stringify)
       .process(contents.toString(), function (err, result) {
           result.filename = file;
