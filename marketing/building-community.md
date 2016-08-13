@@ -47,13 +47,13 @@ For casual or first-time contributors, be open-minded about the types of contrib
 
 You’re doing great so far! Now that you’re promoting your project and growing a community, you’re probably wondering whether you’re doing it right. In the next section, we’ll talk about metrics to measure your project’s success and how to track them.
 
-### Footnotes
+## Footnotes
 
 [1] [https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)
 
 [2] [https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel)
 
-### Further reading
+## Further reading
 
 * [http://radek.io/2015/10/12/marketing-for-open-source-projects-5/](http://radek.io/2015/10/12/marketing-for-open-source-projects-5/) 
 

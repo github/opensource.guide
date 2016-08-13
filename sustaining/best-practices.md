@@ -81,7 +81,7 @@ If you want to get a little more advanced, style guides and linters can help sta
 
 Hopefully, you’re feeling more empowered to say no, set and enforce rules, and take breaks when you need them. In the next section, we’ll talk about how you can leverage your community to grow a sustainable project.
 
-### Footnotes
+## Footnotes
 
 [1] [https://lord.io/blog/2014/oss-tips/](https://lord.io/blog/2014/oss-tips/)
 
@@ -89,7 +89,7 @@ Hopefully, you’re feeling more empowered to say no, set and enforce rules, and
 
 [3] [https://blog.jessfraz.com/post/the-art-of-closing/](https://blog.jessfraz.com/post/the-art-of-closing/)
 
-### Further reading
+## Further reading
 
 * [http://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way](http://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
 

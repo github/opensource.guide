@@ -51,7 +51,7 @@ Here are a few types of contributor metrics you may want to regularly keep track
 
 * **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
 
-### Further reading
+## Further reading
 
 * [http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/](http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/)
 

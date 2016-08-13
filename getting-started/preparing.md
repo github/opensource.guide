@@ -84,7 +84,7 @@ Launching your project is only the first step. If you’re hoping people will di
 
 Sometimes, it will take a long time before people notice your open source project. Your project will likely go through multiple phases of activity and contributorship. That’s okay! Some of the most popular projects today took years to reach high levels of activity. The rest of this handbook is designed to help you manage your project every step of the way.
 
-### Further reading
+## Further reading
 
 * Licenses
   * [https://github.com/blog/1530-choosing-an-open-source-license](https://github.com/blog/1530-choosing-an-open-source-license)

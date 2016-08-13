@@ -55,7 +55,7 @@ Do your best to adopt a zero-tolerance policy towards these types of people. If 
 
 When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../../troubleshooting/conduct/). Your code of conduct can be a constructive guide for these conversations.
 
-### Footnotes
+## Footnotes
 
 [1] [http://gustavopinto.org/lost+found/saner2016.pdf](http://gustavopinto.org/lost+found/saner2016.pdf)
 
@@ -67,7 +67,7 @@ When you see negative behavior happening on your project, call it out publicly. 
 
 [6] [https://peerj.com/preprints/1233.pdf](https://peerj.com/preprints/1233.pdf)
 
-### Further reading
+## Further reading
 
 * [https://opensource.com/life/16/5/growing-contributor-base-modern-open-source](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
 
