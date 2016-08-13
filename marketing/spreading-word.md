@@ -19,7 +19,9 @@ There is no magical formula to building an audience and reputation. Gaining the 
 
 You can help people find and remember you by pointing them to your project’s namespace—a website, Twitter handle, or IRC channel, for example.
 
-Consider creating a website for your project. [@adrianholovaty](https://github.com/adrianholovaty) called a well-designed site "by far the best thing we did with Django in the early days". [1] [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are a few more examples of excellent, comprehensive websites.
+Consider creating a website for your project. [@adrianholovaty](https://github.com/adrianholovaty) called a well-designed site "by far the best thing we did with Django in the early days"[^1]. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are a few more examples of excellent, comprehensive websites.
+
+[^1]: https://news.ycombinator.com/item?id=7531689
 
 A website, along with clear documentation and tutorials, makes your project seem friendly and easy to navigate. It also suggests that your project is active and supported, which will make your audience feel more comfortable using it. Adding tutorials and examples gives people ideas for ways they can use your project.
 
@@ -37,7 +39,9 @@ Consider introducing yourself and your work to related open source projects and 
 
 ## Go where your audience is (offline)
 
-Look for meetups and conferences that are relevant to your work. Offline outreach is a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers. [@mitchellh](https://github.com/mitchellh) attributes [Vagrant](https://github.com/mitchellh/vagrant)’s growth and popularity to the talks he gave about the project. [2]
+Look for meetups and conferences that are relevant to your work. Offline outreach is a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers. [@mitchellh](https://github.com/mitchellh) attributes [Vagrant](https://github.com/mitchellh/vagrant)’s growth and popularity to the talks he gave about the project. [^2]
+
+[^2]: https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md
 
 If you’re new to public speaking, start by finding a local meetup that’s related to the language or ecosystem of your project. If you’ve never spoken at an event before, it’s perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work. As you design your talk, remember to focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
@@ -47,17 +51,11 @@ Spreading the word is an important step in growing the popularity of your projec
 
 In the next section, we’ll talk about how to retain those early enthusiasts and grow an engaged community around your project.
 
-## Footnotes
-
-[1] [https://news.ycombinator.com/item?id=7531689](https://news.ycombinator.com/item?id=7531689) 
-
-[2] [https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md](https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md)
-
 ## Further reading
 
-* [https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/) 
+* [https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
 
-* [https://zachholman.com/posts/open-source-marketing/](https://zachholman.com/posts/open-source-marketing/) 
+* [https://zachholman.com/posts/open-source-marketing/](https://zachholman.com/posts/open-source-marketing/)
 
 * [http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz/](http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz/)
 

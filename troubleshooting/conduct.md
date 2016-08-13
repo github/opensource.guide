@@ -18,7 +18,9 @@ You should give people a private way (such as an email address) to report a code
 
 Don’t forget that someone might want to report a violation about someone who usually receives those reports. In this case, give them an option to report violations to someone else. For example, [@ctb](https://github.com/ctb) and [@mr-c](https://github.com/mr-c) explain on their project, [Khmer](https://github.com/dib-lab/khmer):
 
-*Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.* [1]
+> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.* [^1]
+
+[^1]: https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst
 
 ## Gather information about the situation
 
@@ -44,20 +46,16 @@ Sometimes, a resolution cannot be reached. The person in question may become agg
 
 * Permanently ban the person from the project
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures towards a community member when it is clear that a resolution cannot be reached. 
+Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures towards a community member when it is clear that a resolution cannot be reached.
 
 It’s not always easy to enforce your code of conduct, but this type of work is necessary to maintain a healthy and active community. When a project seems hostile or unwelcoming, even if it’s just one person whose behavior is tolerated by the rest of the community, you risk losing the contributions of many others, some of whom you may never even meet.
-
-## Footnotes
-
-[1] [https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst) 
 
 ## Further reading
 
 * [https://www.djangoproject.com/conduct/enforcement-manual/](https://www.djangoproject.com/conduct/enforcement-manual/)
 
-* [http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response](http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response) 
+* [http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response](http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response)
 
-* [https://www.rust-lang.org/en-US/conduct.html](https://www.rust-lang.org/en-US/conduct.html) 
+* [https://www.rust-lang.org/en-US/conduct.html](https://www.rust-lang.org/en-US/conduct.html)
 
 * [http://producingoss.com/en/producingoss.html#difficult-people](http://producingoss.com/en/producingoss.html#difficult-people)
