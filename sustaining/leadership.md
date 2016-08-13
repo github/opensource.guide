@@ -87,7 +87,7 @@ Congratulations on making it this far, and welcome to the ranks of open source m
 
 As you grow into your leadership role, you'll inevitably come across some tough situations. Check out our [Troubleshooting](../../troubleshooting/) section for help when you need it. And from the bottom of our hearts, thank you for sharing your work and making a positive contribution to the world. 💕
 
-### Footnotes
+## Footnotes
 
 [1] [http://felixge.de/2013/03/11/the-pull-request-hack.html](http://felixge.de/2013/03/11/the-pull-request-hack.html)
 

@@ -48,11 +48,11 @@ Banning members should not be taken lightly and represents a permanent and irrec
 
 It’s not always easy to enforce your code of conduct, but this type of work is necessary to maintain a healthy and active community. When a project seems hostile or unwelcoming, even if it’s just one person whose behavior is tolerated by the rest of the community, you risk losing the contributions of many others, some of whom you may never even meet.
 
-### Footnotes
+## Footnotes
 
 [1] [https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst) 
 
-### Further reading
+## Further reading
 
 * [https://www.djangoproject.com/conduct/enforcement-manual/](https://www.djangoproject.com/conduct/enforcement-manual/)
 

@@ -50,7 +50,7 @@ With a good attitude and clear communication, most difficult situations are reso
 
 Your tiebreaker should be a last resort. Divisive issues can be an opportunity for your community to grow and learn. Embrace these opportunities and try to use a collaborative process to move to a resolution wherever possible.
 
-### Further reading
+## Further reading
 
 * [http://producingoss.com/en/producingoss.html#common-pitfalls](http://producingoss.com/en/producingoss.html#common-pitfalls) 
 

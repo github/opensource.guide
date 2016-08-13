@@ -6,7 +6,7 @@ If you make regular, substantial contributions to open source, or you’re just 
 
 Today, some open source work is paid. Projects sometimes raise money from companies, individuals, or others to fund ongoing work. [Ruby Together](https://rubytogether.org/), for example, is a foundation that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects.
 
-For an individual contributor, a company may hire an employee to work on an open source project, or encourage employees to make open source contributions during work hours. [Nodesource](https://github.com/nodesource) and [Rackspace](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) are two companies with these types of arrangements. 
+For an individual contributor, a company may hire an employee to work on an open source project, or encourage employees to make open source contributions during work hours. [Nodesource](https://github.com/nodesource) and [Rackspace](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) are two companies with these types of arrangements.
 
 Other open source work is unpaid or volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time. (Did you know that [@gvanrossum ](https://github.com/gvanrossum)started [Python](https://github.com/python) over a Christmas holiday?)
 
@@ -26,12 +26,12 @@ As open source’s popularity increases, availability of funding has not yet cau
 
 If you’d like to explore other different funding options, you can check out [this list](https://github.com/nayafia/lemonade-stand). Different types of funding require different skills, so consider your strengths to figure out which funding option works best for you.
 
-### Further reading
+## Further reading
 
-* [http://lifeofaudrey.com/essays/love_and_money.html](http://lifeofaudrey.com/essays/love_and_money.html) 
+* [http://lifeofaudrey.com/essays/love_and_money.html](http://lifeofaudrey.com/essays/love_and_money.html)
 
-* [http://blog.cocoapods.org/Why-we-dont-accept-donations/](http://blog.cocoapods.org/Why-we-dont-accept-donations/) 
+* [http://blog.cocoapods.org/Why-we-dont-accept-donations/](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
 
-* [http://marijnhaverbeke.nl/blog/sustainable-maintenance.html](http://marijnhaverbeke.nl/blog/sustainable-maintenance.html) 
+* [http://marijnhaverbeke.nl/blog/sustainable-maintenance.html](http://marijnhaverbeke.nl/blog/sustainable-maintenance.html)
 
 * [https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.nyk44wmm1](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.nyk44wmm1)

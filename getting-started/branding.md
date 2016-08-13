@@ -41,10 +41,10 @@ It isn’t necessary to write a style guide for your project when you’re just 
 
 We’re almost there! Next, we’ll walk you through a few components that every open source project should include when you launch.
 
-### Footnotes
+## Footnotes
 
 [1] [http://writing.jan.io/2015/11/20/sustainable-open-source.html](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
-### Further reading
+## Further reading
 
 * [http://producingoss.com/en/getting-started.html#choosing-a-name](http://producingoss.com/en/getting-started.html#choosing-a-name)

@@ -47,13 +47,13 @@ Spreading the word is an important step in growing the popularity of your projec
 
 In the next section, we’ll talk about how to retain those early enthusiasts and grow an engaged community around your project.
 
-### Footnotes
+## Footnotes
 
 [1] [https://news.ycombinator.com/item?id=7531689](https://news.ycombinator.com/item?id=7531689) 
 
 [2] [https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md](https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md)
 
-### Further reading
+## Further reading
 
 * [https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/) 
 

@@ -74,7 +74,7 @@ If you use others’ open source code to create anything that could be considere
 
 To learn more about the implications of different open source licenses, [TLDRLegal](https://tldrlegal.com/) is a great resource.
 
-### Further reading
+## Further reading
 
 * [http://choosealicense.com](http://choosealicense.com)
 * [https://tldrlegal.com/](https://tldrlegal.com/)
