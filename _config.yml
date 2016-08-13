@@ -20,3 +20,8 @@ defaults:
       path: ""
     values:
       layout: article
+
+branch: gh-pages
+
+github:
+  repository_nwo: github/open-source-handbook
