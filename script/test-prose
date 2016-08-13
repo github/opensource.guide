@@ -19,6 +19,12 @@ var jekyllConfig = yaml.safeLoad(fs.readFileSync('_config.yml', 'utf8'));
 var ignore = require('ignore')().add(jekyllConfig["exclude"])
 
 var options = {
+  // https://github.com/wooorm/remark/tree/master/packages/remark-parse#options
+  "remark": {
+    "gfm": true,
+    "footnotes": true
+  },
+
   // https://github.com/wooorm/remark-lint/blob/master/doc/rules.md
   "lint": {
     "list-item-indent": "space",    // As the gods intended.
@@ -55,7 +61,7 @@ async.map(ignore.filter(glob.sync("**/*.md")), function(file, callback) {
       //   .use(require('retext-readability'), options["readability"])
       // )
       .use(stringify)
-      .process(contents.toString(), function (err, result) {
+      .process(contents.toString(), options["remark"], function (err, result) {
           result.filename = file;
           callback(err, result);
       });
