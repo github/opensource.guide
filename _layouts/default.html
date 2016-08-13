@@ -1,0 +1,5 @@
+<form id="search-form" action="{{ "/search/" | prepend:site.baseurl }}" data-content-url="{{ "/search/content.json" | prepend:site.baseurl }}" method="get">
+  <input type="text" id="search-box" name="q" placeholder="Search…">
+</form>
+
+{{ content }}
