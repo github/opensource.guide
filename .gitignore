@@ -1,6 +1,7 @@
-.DS_Store
-.jekyll-metadata
 _site/
 .bundle
+.DS_Store
+.jekyll-metadata
 bin
+node_modules
 vendor

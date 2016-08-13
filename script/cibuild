@@ -2,8 +2,9 @@
 
 set -e
 
-export PATH="/usr/share/rbenv/shims:$PATH"
+export PATH="/usr/share/rbenv/shims:/usr/local/share/nodenv/shims:$PATH"
 export RBENV_VERSION="2.1.7-github"
+export NODENV_VERSION="v0.10.21"
 # clean out the ruby environment
 export RUBYLIB=
 export RUBYOPT=

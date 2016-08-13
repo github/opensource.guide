@@ -4,31 +4,23 @@ title: The legal side of open source
 
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn’t know you had to worry about.
 
-
-
 Thankfully, you don’t have to start from scratch. This section will make sure you’ve got all your legal needs covered.
-
-
 
 **(Do we need a legal disclaimer for this piece?)**
 
 ## Table of Contents
+
 1. [Why do I need an open source license?](#why-do-i-need-an-open-source-license)
 2. [Which open source license is appropriate for me?](#which-open-source-license-is-appropriate-for-me)
 3. [Do I need a contributor agreement in addition to my open source license?](#do-i-need-a-contributor-agreement-in-addition-to-my-open-source-license)
 4. [I’m a company open sourcing a project. What does my legal team need to know?](#im-a-company-open-sourcing-a-project-what-does-my-legal-team-need-to-know)
 5. [I’m using others’ open source code. What does my legal team need to know?](#im-using-others-open-source-code-what-does-my-legal-team-need-to-know)
 
-
 ## Why do I need an open source license?
 
 When you publish a creative work (which includes code), your work is under copyright by default. Unless you include a license that specifies otherwise, nobody can copy or modify your work without being subject to copyright law.
 
-
-
 An open source license guarantees that others can use, modify and share your project. It protects both you and anybody else who might interact with your project.
-
-
 
 Making your GitHub project public is not the same as licensing your project. Public GitHub projects allow others to view and fork your project, but your work is otherwise copyrighted unless you add an open source license.
 
@@ -63,13 +55,10 @@ You can also consider using a DCO, which is less cumbersome than signing an agre
 
 If you are a company open sourcing a project, there are a few legal aspects you may want to consider.
 
-
 * **Existing Intellectual Property (IP):** Consider whether there is anything existing in the project that might fall under company IP, which you would not want to make available to the general public. If so, you could open source the rest of your project, but keep the IP private.
 * **Future Patents:** If you are concerned that there may be patents associated with your project later on, use an open source license that provides patent protections (such as the [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)).
 * **Employee contribution policies:** Consider developing a corporate policy that specifies how your employees contribute to open source projects, especially if you expect employees to maintain the project. A clear corporate policy will reduce confusion among your employees and encourage them to make open source contributions during work hours. A good example is Rackspace’s [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 * **Trademarks:** Double check that your project’s name does not conflict with any existing trademarks. If you use your own company trademarks in the project, check that it does not cause any conflicts.
-
-
 
 These are starting points for conversation. Be sure to run any open source project by your legal team before proceeding!
 
@@ -84,7 +73,6 @@ Other open source licenses, like the MIT license, are very permissive. They may 
 If you use others’ open source code to create anything that could be considered company IP, you will want to read the terms of the license carefully to understand your patent rights.
 
 To learn more about the implications of different open source licenses, [TLDRLegal](https://tldrlegal.com/) is a great resource.
-
 
 ### Further reading
 
