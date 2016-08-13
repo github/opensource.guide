@@ -68,4 +68,12 @@ async.map(ignore.filter(glob.sync("**/*.md")), function(file, callback) {
   });
 }, function (err, results) {
   console.log(report(results));
+
+  var hasErrors = false;
+
+  results.forEach(function(file) {
+    if(file.messages.length > 0) hasErrors = true;
+  });
+
+  if(hasErrors) process.exit(1);
 });
