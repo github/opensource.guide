@@ -37,7 +37,6 @@ var options = {
     // FIXME: Eventually remove these
     "maximum-heading-length": 80,
     "no-literal-urls": false,
-    "no-inline-padding": false,
     "no-missing-blank-lines": false,
   },
   "readability": {
