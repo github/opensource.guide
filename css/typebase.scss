@@ -1,0 +1,116 @@
+---
+---
+
+/*! Typebase.scss v0.1.0 | MIT License */
+
+// Typesetting variables. Edit these!
+$baseFontSize:20; // in pixels. This would result in 22px on desktop
+$baseLineHeight:1.5; // how large the line height is as a multiple of font size
+$leading:$baseLineHeight * 1rem;
+// Rate of growth for headings
+// I actually like this to be slightly smaller then the leading. Makes for tight headings.
+$scale:1;
+
+/* Setup */
+
+html {
+    /* Change default typefaces here */
+    font-family: sans-serif;
+    font-size: $baseFontSize / 16 * 100%;
+    // Make everything look a little nicer in webkit
+    -webkit-font-smoothing: antialiased;
+    // -webkit-text-size-adjust: auto
+    // -moz-text-size-adjust: auto
+    // -ms-text-size-adjust: auto
+    // -o-text-size-adjust: auto
+    // text-size-adjust: auto
+
+}
+/* Copy & Lists */
+
+p {
+    line-height: $leading;
+    margin-top: $leading;
+    margin-bottom: 0;
+}
+ul,
+ol {
+    margin-top: $leading;
+    margin-bottom: $leading;
+    li {
+        line-height: $leading;
+    }
+    ul,
+    ol {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+}
+blockquote {
+    line-height: $leading;
+    margin-top: $leading;
+    margin-bottom: $leading;
+}
+/* Headings */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    /* Change heading typefaces here */
+    margin-top: $leading;
+    margin-bottom: 0;
+    line-height: $leading;
+}
+h1 {
+    font-size: 3 * $scale * 1rem;
+    line-height: 3 * $leading;
+    margin-top: 2 * $leading;
+}
+h2 {
+    font-size: 2 * $scale * 1rem;
+    line-height: 2 * $leading;
+    margin-top: 2 * $leading;
+}
+h3 {
+    font-size: 1 * $scale * 1rem;
+}
+h4 {
+    font-size: $scale / 2 * 1rem;
+}
+h5 {
+    font-size: $scale / 3 * 1rem;
+}
+h6 {
+    font-size: $scale / 4 * 1rem;
+}
+/* Tables */
+
+table {
+    margin-top: $leading;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+td,
+th {
+    padding: 0;
+    line-height: $baseLineHeight * $baseFontSize - 0px;
+}
+/* Code blocks */
+
+code {
+    // Forces text to constrain to the line-height. Not ideal, but works.
+    vertical-align: bottom;
+}
+/* Leading paragraph text */
+
+.lead {
+    font-size: $scale * 1rem;
+}
+/* Hug a the block above you */
+
+.hug {
+    margin-top: 0;
+}

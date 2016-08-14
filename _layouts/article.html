@@ -6,12 +6,14 @@ layout: default
 
 {{ content }}
 
-{% assign previous = site.pages | where: "next", page.path | first %}
-{% if previous %}
-  Previous: <a href="{{ previous.url | prepend: site.baseurl }}">{{ previous.title }}</a> |
-{% endif %}
+<p>
+  {% assign previous = site.pages | where: "next", page.path | first %}
+  {% if previous %}
+    Previous: <a href="{{ previous.url | prepend: site.baseurl }}">{{ previous.title }}</a> |
+  {% endif %}
 
-{% if page.next %}
-  {% assign next = site.pages | where: "path", page.next | first %}
-  Next: <a href="{{ next.url | prepend: site.baseurl }}">{{ next.title }}</a>
-{% endif %}
+  {% if page.next %}
+    {% assign next = site.pages | where: "path", page.next | first %}
+    Next: <a href="{{ next.url | prepend: site.baseurl }}">{{ next.title }}</a>
+  {% endif %}
+</p>

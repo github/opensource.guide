@@ -1,5 +1,25 @@
-<form id="search-form" action="{{ "/search/" | prepend:site.baseurl }}" data-content-url="{{ "/search/content.json" | prepend:site.baseurl }}" method="get">
-  <input type="text" id="search-box" name="q" placeholder="Search…">
-</form>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
 
-{{ content }}
+    <link rel="stylesheet" href="{{ "/css/typebase.css" | prepend: site.baseurl }}">
+    <style media="screen">
+      #content {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2em 1em;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="content">
+      <form id="search-form" action="{{ "/search/" | prepend:site.baseurl }}" data-content-url="{{ "/search/content.json" | prepend:site.baseurl }}" method="get">
+        <input type="text" id="search-box" name="q" placeholder="Search…">
+      </form>
+
+      {{ content }}
+    </div>
+  </body>
+</html>
