@@ -33,6 +33,7 @@ var options = {
     "no-heading-punctuation": false,
     "list-item-spacing": false,
     "first-heading-level": 2,       // Page title is h1, so start with h2
+    "emphasis-marker": "_",
 
     // FIXME: Eventually remove these
     "maximum-heading-length": 80,
