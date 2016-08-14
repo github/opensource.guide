@@ -45,4 +45,4 @@ We’re almost there! Next, we’ll walk you through a few components that every
 
 ## Further reading
 
-* [http://producingoss.com/en/getting-started.html#choosing-a-name](http://producingoss.com/en/getting-started.html#choosing-a-name)
+* [Choose a Good Name](http://producingoss.com/en/getting-started.html#choosing-a-name) from _Producing Open Source Software_ by Karl Fogel

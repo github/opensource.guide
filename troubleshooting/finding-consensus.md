@@ -52,6 +52,5 @@ Your tiebreaker should be a last resort. Divisive issues can be an opportunity f
 
 ## Further reading
 
-* [http://producingoss.com/en/producingoss.html#common-pitfalls](http://producingoss.com/en/producingoss.html#common-pitfalls) 
-
-* [https://en.wikipedia.org/wiki/Consensus-seeking_decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) 
+* [Avoiding Common Pitfalls](http://producingoss.com/en/producingoss.html#common-pitfalls) from *Producing Open Source Software* by Karl Fogel
+* Wikipedia: [Consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)

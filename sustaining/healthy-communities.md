@@ -66,16 +66,10 @@ When you see negative behavior happening on your project, call it out publicly. 
 
 ## Further reading
 
-* [https://opensource.com/life/16/5/growing-contributor-base-modern-open-source](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
-
-* [http://writing.jan.io/2015/11/20/sustainable-open-source.html](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
-
-* [http://www.mckinsey.com/business-functions/organization/our-insights/whartons-adam-grant-on-the-key-to-professional-success](http://www.mckinsey.com/business-functions/organization/our-insights/whartons-adam-grant-on-the-key-to-professional-success)
-
-* [https://github.com/Moya/contributors](https://github.com/Moya/contributors)
-
-* [https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
-
-* [http://radek.io/2015/08/24/github-issues/](http://radek.io/2015/08/24/github-issues/)
-
-* [http://producingoss.com/en/producingoss.html#difficult-people](http://producingoss.com/en/producingoss.html#difficult-people)
+* [Growing a contributor base in modern open source](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source) by Mikeal Rogers
+* [Sustainable Open Source](http://writing.jan.io/2015/11/20/sustainable-open-source.html) by Jan Lehnardt
+* [Wharton’s Adam Grant on the key to professional success](http://www.mckinsey.com/business-functions/organization/our-insights/whartons-adam-grant-on-the-key-to-professional-success)
+* [How the Moya org handles contributions](https://github.com/Moya/contributors)
+* [Rust Governance](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+* [How to use Github issues to attract new contributors](http://radek.io/2015/08/24/github-issues/) by Radek Pazdera
+* [Difficult People](http://producingoss.com/en/producingoss.html#difficult-people) from *Producing Open Source Software* by Karl Fogel

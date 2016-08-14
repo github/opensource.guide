@@ -20,7 +20,7 @@ Don’t forget that someone might want to report a violation about someone who u
 
 > Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.* [^1]
 
-[^1]: https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst
+[^1]: [Khmer's code of conduct](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst)
 
 ## Gather information about the situation
 
@@ -52,10 +52,7 @@ It’s not always easy to enforce your code of conduct, but this type of work is
 
 ## Further reading
 
-* [https://www.djangoproject.com/conduct/enforcement-manual/](https://www.djangoproject.com/conduct/enforcement-manual/)
-
-* [http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response](http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response)
-
-* [https://www.rust-lang.org/en-US/conduct.html](https://www.rust-lang.org/en-US/conduct.html)
-
-* [http://producingoss.com/en/producingoss.html#difficult-people](http://producingoss.com/en/producingoss.html#difficult-people)
+* [Django Code of Conduct - Enforcement Manual](https://www.djangoproject.com/conduct/enforcement-manual/)
+* [Enforcing Your Code of Conduct](http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response) presentation by Audrey Eschright
+* [The Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
+* [Difficult People](http://producingoss.com/en/producingoss.html#difficult-people) from _Producing Open Source Software_ by Karl Fogel

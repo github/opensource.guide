@@ -76,8 +76,9 @@ To learn more about the implications of different open source licenses, [TLDRLeg
 
 ## Further reading
 
-* [http://choosealicense.com](http://choosealicense.com)
-* [https://tldrlegal.com/](https://tldrlegal.com/)
-* [https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
-* [https://blog.docker.com/2014/01/docker-code-contributions-require-developer-certificate-of-origin/](https://blog.docker.com/2014/01/docker-code-contributions-require-developer-certificate-of-origin/)
-* [https://www.joyent.com/blog/broadening-node-js-contributions](https://www.joyent.com/blog/broadening-node-js-contributions)
+* [ChooseALicense.com](http://choosealicense.com)
+* [TLDRLegal](https://tldrlegal.com/)
+* [A Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+* [Introducing The Docker Developer Certificate Of Origin](https://blog.docker.com/2014/01/docker-code-contributions-require-developer-certificate-of-origin/) by Nick Stinemates
+* [Broadening Node.js Contributions
+](https://www.joyent.com/blog/broadening-node-js-contributions) by Bryan Cantrill

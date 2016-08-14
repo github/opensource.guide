@@ -33,7 +33,7 @@ As you promote your project, people will probably have feedback and ideas for yo
 
 Try to be responsive when someone files an issue, submits a pull request, or asks a question about your project. When you respond quickly, people will feel they are part of a dialogue, and feel more enthusiastic about participating in and using your project. For example, when Mozilla studied its community and engagement in 2014, they found that contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.[^1]
 
-[^1]: https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177
+[^1]: [Measuring Engagement](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) presentation by David Eaves, Adam Lofting, Pierros Papadeas, Peter Loewen
 
 Remember that conversations about your project could also be happening in other places around the Internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
 
@@ -41,7 +41,7 @@ Remember that conversations about your project could also be happening in other 
 
 One way to think about your project’s community is what [@MikeMcQuaid](https://github.com/MikeMcQuaid) calls the contributor funnel. [^2] At the top of the funnel is anybody who could potentially use your project. At the bottom of the funnel are people like you who maintain the project.
 
-[^2]: https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel
+[^2]: [The Open Source Contributor Funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel) by Mike McQuaid
 
 As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to make each stage of the contributor experience as frictionless as possible. When people have easy wins, they will feel incentivized to do more.
 
@@ -53,10 +53,7 @@ You’re doing great so far! Now that you’re promoting your project and growin
 
 ## Further reading
 
-* [http://radek.io/2015/10/12/marketing-for-open-source-projects-5/](http://radek.io/2015/10/12/marketing-for-open-source-projects-5/)
-
-* [http://hood.ie/blog/welcoming-communities.html](http://hood.ie/blog/welcoming-communities.html)
-
-* [https://ashfurrow.com/blog/building-popular-projects/](https://ashfurrow.com/blog/building-popular-projects/)
-
-* [http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+* [Growing the community around your open-source project](http://radek.io/2015/10/12/marketing-for-open-source-projects-5/) by Radek Pazdera
+* [Welcoming Communities](http://hood.ie/blog/welcoming-communities.html) by Gregor Martynus
+* [Building Popular Projects](https://ashfurrow.com/blog/building-popular-projects/) by Ash Furrow
+* [What makes a good community?](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/) by Sarah Sharp
