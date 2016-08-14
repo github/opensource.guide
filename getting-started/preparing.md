@@ -27,7 +27,7 @@ There are [over 70 approved licenses](https://opensource.org/licenses/alphabetic
 * [Mozilla Public License 2.0](http://choosealicense.com/licenses/mpl-2.0/)
 * [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of these licenses will make your GitHub project open source. (Different licenses carry slightly different permissions. You can use [http://choosealicense.com](http://choosealicense.com) to find the right license for you.)
+When you create a new project on GitHub, you are given the option to select a license. Including one of these licenses will make your GitHub project open source. (Different licenses carry slightly different permissions. You can use [ChooseALicense.com](http://choosealicense.com) to find the right license for you.)
 
 If you have other questions or concerns around the legal aspects of managing an open source project, we've got you covered: [The legal side of open source](../legal/)
 
@@ -87,21 +87,21 @@ Sometimes, it will take a long time before people notice your open source projec
 ## Further reading
 
 * Licenses
-  * [https://github.com/blog/1530-choosing-an-open-source-license](https://github.com/blog/1530-choosing-an-open-source-license)
-  * [http://choosealicense.com](http://choosealicense.com)
+  * [Choosing an Open Source License](https://github.com/blog/1530-choosing-an-open-source-license) by Phil Haack
+  * [ChooseALicense.com](http://choosealicense.com)
 * READMEs
-  * [http://tom.preston-werner.com/2010/08/23/readme-driven-development.html](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-  * [https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
-  * [https://pages.18f.gov/open-source-guide/making-readmes-readable/](https://pages.18f.gov/open-source-guide/making-readmes-readable/)
-  * [https://changelog.com/a-beginners-guide-to-creating-a-readme/](https://changelog.com/a-beginners-guide-to-creating-a-readme/)
-  * [https://gist.github.com/jxson/1784669](https://gist.github.com/jxson/1784669)
+  * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) by Tom Preston-Werner
+  * [Awesome README](https://github.com/matiassingers/awesome-readme)
+  * [18F logo 18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/making-readmes-readable/)
+  * [A Beginner’s Guide to Creating a README](https://changelog.com/a-beginners-guide-to-creating-a-readme/) by Beverly Nelson
+  * [README.md template](https://gist.github.com/jxson/1784669) from @jxson
 * Contributing guides
-  * [https://github.com/blog/1184-contributing-guidelines](https://github.com/blog/1184-contributing-guidelines)
-  * [http://www.contribution-guide.org/](http://www.contribution-guide.org/)
-  * [https://github.com/nayafia/contributing-template](https://github.com/nayafia/contributing-template)
-  * [http://mozillascience.github.io/working-open-workshop/contributing/](http://mozillascience.github.io/working-open-workshop/contributing/)
+  * [Contributing Guidelines](https://github.com/blog/1184-contributing-guidelines) by @vinbarnes
+  * [Contributing to Open Source Projects](http://www.contribution-guide.org/) by Jeff Forcier
+  * [Contributing Guides: A Template](https://github.com/nayafia/contributing-template) by @nayafia
+  * [Wrangling Web Contributions: How to Build a CONTRIBUTING.md](http://mozillascience.github.io/working-open-workshop/contributing/)
 * Codes of conduct
-  * [http://contributor-covenant.org/](http://contributor-covenant.org/)
-  * [https://github.com/django/code-of-conduct](https://github.com/django/code-of-conduct)
-  * [https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
-  * [https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines/](https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines/)
+  * [Contributor Covenant](http://contributor-covenant.org/)
+  * [Django Code of Conduct](https://github.com/django/code-of-conduct)
+  * [HOWTO design a code of conduct for your community](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) by Valerie Aurora
+  * [Docker community guidelines](https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines)

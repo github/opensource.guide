@@ -28,10 +28,7 @@ If you’d like to explore other different funding options, you can check out [t
 
 ## Further reading
 
-* [http://lifeofaudrey.com/essays/love_and_money.html](http://lifeofaudrey.com/essays/love_and_money.html)
-
-* [http://blog.cocoapods.org/Why-we-dont-accept-donations/](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
-
-* [http://marijnhaverbeke.nl/blog/sustainable-maintenance.html](http://marijnhaverbeke.nl/blog/sustainable-maintenance.html)
-
-* [https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.nyk44wmm1](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.nyk44wmm1)
+* [For Love and For Money](http://lifeofaudrey.com/essays/love_and_money.html) by Audrey Eschright
+* [Why we don't accept donations](http://blog.cocoapods.org/Why-we-dont-accept-donations/) by Eloy Durán
+* [More Money For Better Open-Source Software](http://marijnhaverbeke.nl/blog/sustainable-maintenance.html) by Marijn Haverbeke
+* [Money and Open Source](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.nyk44wmm1) by Isaac Schlueter

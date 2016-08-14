@@ -19,7 +19,7 @@ Write down your project’s vision and, where possible, make that vision transpa
 
 [@lord](https://github.com/lord) discovered that having a project vision helped him figure out which requests he should spend time on. As a new maintainer, he regretted not sticking to his project’s scope when he got his first feature request for [Slate](https://github.com/lord/slate): *"I fumbled it. I didn’t put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said “I don’t have time for this right now, but I’ll add it to the long term nice-to-have list."* [^1]
 
-[^1]: [https://lord.io/blog/2014/oss-tips/](https://lord.io/blog/2014/oss-tips/)
+[^1]: [Tips for New Open Source Maintainers](https://lord.io/blog/2014/oss-tips/) by Robert Lord
 
 These types of exercises may seem trivial, but the more you know yourself and your limits (not just abilities!), the easier it is to say no to things that don’t fit into your scope.
 
@@ -43,9 +43,9 @@ Some examples of rules you may want to write down:
 
 ## Learn to say no
 
-The first rule of open source, according to [@shykes](https://github.com/shykes): *"No is temporary, yes is forever."* [^2] If you plan on maintaining open source projects for a long time, it’s never too early to practice saying no.
+The first rule of open source, according to [@shykes](https://github.com/shykes): *"No is temporary, yes is forever."*[^2] If you plan on maintaining open source projects for a long time, it’s never too early to practice saying no.
 
-[^2]: [https://twitter.com/solomonstre/status/715277134978113536](https://twitter.com/solomonstre/status/715277134978113536)
+[^2]: [tweet from @solomonstre](https://twitter.com/solomonstre/status/715277134978113536)
 
 Saying no applies to many situations you’ll come across as a maintainer. You can say no to feature requests that don’t fit the scope of your project. You can say no, or refuse to engage, when someone derails a conversation on a mailing list. You can say no to doing work for others that you don’t find important.
 
@@ -55,7 +55,7 @@ If you notice repeated requests for things you don’t want to accept, consider 
 
 If the thought of saying no terrifies you, you’re not alone. As [@jfrazelle](https://github.com/jfrazelle) put it: *"I’ve talked to maintainers from several different open source projects, Mesos, Kubernetes, C**hromium**, and they all agree one of the hardest parts of being a maintainer is saying “No" to patches you don’t want.”* [^3] But the more often you practice saying no, the easier it becomes. Promise.
 
-[^3]: [https://blog.jessfraz.com/post/the-art-of-closing/](https://blog.jessfraz.com/post/the-art-of-closing/)
+[^3]: [The Art of Closing](https://blog.jessfraz.com/post/the-art-of-closing/) by Jessie Frazelle
 
 ## Keep communication public
 
@@ -89,14 +89,9 @@ Hopefully, you’re feeling more empowered to say no, set and enforce rules, and
 
 ## Further reading
 
-* [http://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way](http://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
-
-* [https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/](https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/)
-
-* [http://words.steveklabnik.com/how-to-be-an-open-source-gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
-
-* [https://github.com/blog/2124-kindly-closing-pull-requests](https://github.com/blog/2124-kindly-closing-pull-requests)
-
-* [https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
-
-* [http://artsy.github.io/blog/2016/07/03/handling-big-projects/](http://artsy.github.io/blog/2016/07/03/handling-big-projects/)
+* [Be Cordial or Be on Your Way](http://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way) by Kenneth Reitz
+* [A Plea for Better Open Source Etiquette](https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/) by Jake Benilov
+* [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener) by Steve Klabnik
+* [Kindly Closing Pull Requests](https://github.com/blog/2124-kindly-closing-pull-requests) by Mike McQuaid
+* [My condolences, you’re now the maintainer of a popular open source project](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/) by Daniel Bachhuber
+* [Handling Large OSS Projects Defensively](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) by Orta Therox

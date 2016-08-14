@@ -1,5 +1,6 @@
 ---
 title: Leadership & Governance
+next: troubleshooting/index.md
 ---
 
 Your project is growing, people are engaged, and you’re committed to keeping this thing going. At this stage, you’re probably starting to wonder about governance. Maybe you want to recognize a community members who’s made significant contributions to your project. Maybe you’ve gotten into a debate with your community and realized you didn’t know how to resolve it.
@@ -43,7 +44,7 @@ There is no right time to write down your project’s governance, but it’s muc
 
 It’s up to you when you want to give someone commit access to your project. Some people think you should give commit access to everybody who makes a contribution. [^1] Doing so could encourage more people to feel ownership of your project. On the other hand, especially for big community projects, you may want to only give commit access to people who have made have demonstrated their commitment. There’s no one right way of doing it - do what makes you most comfortable!
 
-[^1]: [http://felixge.de/2013/03/11/the-pull-request-hack.html](http://felixge.de/2013/03/11/the-pull-request-hack.html)
+[^1]: [The Pull Request Hack](http://felixge.de/2013/03/11/the-pull-request-hack.html) by Felix Geisendörfer
 
 ## What are some leadership roles or responsibilities that projects use?
 
@@ -57,17 +58,19 @@ Here are some common roles that you might have heard of for open source projects
 
 [Node.js](https://github.com/nodejs), for example, defines a "contributor" as anyone who comments on an issue or pull request, whereas other projects would define a contributor as somebody whose pull request was accepted. [^2]
 
-[^2]: [https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.46vkbdar7](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.46vkbdar7)
+[^2]: [Healthy Open Source](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951) by Mikeal Rogers
 
 For some projects, "maintainers" are the only people in a project with commit access. In other projects, they’re simply the people who are listed in the README as maintainers.
 
 A maintainer doesn’t necessarily have to be someone who writes code for your project. It could be someone who’s done a lot of work evangelizing your project (like [@janl](https://github.com/janl) did for [CouchDB](https://github.com/apache/couchdb)) or written documentation that made the project more accessible to others (like [@orta](https://github.com/orta) did for [CocoaPods](https://github.com/CocoaPods/CocoaPods)). [^3] Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
 
-[^3]: From Orta: *"I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding."* [https://realm.io/news/orta-therox-moving-to-oss-by-default/](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+[^3]: [From Orta](https://realm.io/news/orta-therox-moving-to-oss-by-default/):
+
+    > I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
 
 You should use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill. [@jacobian](https://github.com/jacobian), one of [Django](https://github.com/django/django)’s former BDFLs, once told a crowd at PyCon that he is actually a mediocre programmer who joined the project a year after it started, even though he’s often mistaken as the co-creator or even "inventor" of Django. [^4]
 
-[^4]: [https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
+[^4]: [Pycon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s) by Jacob Kaplan-Moss
 
 ## How do I formalize leadership roles in my project?
 
@@ -75,11 +78,11 @@ Formalizing your leadership roles helps people take ownership and tells other co
 
 If your project is bigger, you may have a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas. [Rust](https://github.com/rust-lang/rust) is an example of a project that moved from having one core team to multiple teams. [^5] For example, you could have subcommittees focused on security, issue triaging, or community conduct. Let people self-organize and volunteer for the roles they’re most excited about, rather than assigning them.
 
-[^5]: [https://www.rust-lang.org/en-US/team.html](https://www.rust-lang.org/en-US/team.html)
+[^5]: [The Rust Team](https://www.rust-lang.org/en-US/team.html)
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, hosts office hours every week. [^6]
+Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, hosts office hours every week.[^6]
 
-[^6]: [https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs)
+[^6]: [Talking with other devs](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs) from [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)
 
 Once you’ve established leadership roles, don’t forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions in private.
 

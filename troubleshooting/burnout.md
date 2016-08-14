@@ -36,8 +36,6 @@ There’s no shame in admitting when you don’t have the bandwidth to care for 
 
 Further reading:
 
-* [http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/)
-
-* [https://archive.is/j8zAk](https://archive.is/j8zAk)
-
-* [https://publicobject.com/2016/05/03/the-open-source-maintainers-dilemma/](https://publicobject.com/2016/05/03/the-open-source-maintainers-dilemma/)
+* [Leadership, Guilt, and Pull Requests](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) by Jeff Lindsay
+* [Why I Haven’t Fixed Your Issue Yet](https://archive.is/j8zAk) by Michael Bromley
+* [The Open Source Maintainer’s Dilemma](https://publicobject.com/2016/05/03/the-open-source-maintainers-dilemma/) by Jesse Wilson
