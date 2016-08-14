@@ -22,7 +22,7 @@ In your CONTRIBUTING.md file, explicitly tell new contributors how to get starte
 
 > If you want to deep dive and help out with development on Read the Docs, then first get the project installed locally according to the Installation Guide. After that is done we suggest you have a look at tickets in our issue tracker that are labelled Good First Bug. These are meant to be a great way to get a smooth start and won’t put you in front of the most complex parts of the system.
 
-In Issues, label bugs that are suitable for beginners: for example, *"good first bug"*, *“help wanted”*, or *“first-timers-only”*. These labels make it easy for someone new to your project to quickly scan your issues and get started. ([Here](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) are some other examples of commonly used labels.)
+In Issues, label bugs that are suitable for beginners: for example, _"good first bug"_, _“help wanted”_, or _“first-timers-only”_. These labels make it easy for someone new to your project to quickly scan your issues and get started. ([Here](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) are some other examples of commonly used labels.)
 
 Finally, use your documentation to make people feel welcome at every step of the way. Remember that you will never meet most of the people who come across your project. There are probably contributions you didn’t receive because somebody felt intimidated or didn’t know where to get started. Do your best to reduce your chances of someone leaving your project in frustration. Even a few kind words can help. For example, here’s how [Rubinius](https://github.com/rubinius/rubinius/blob/master/CONTRIBUTING.md) starts off its contributing guide:
 
@@ -72,4 +72,4 @@ When you see negative behavior happening on your project, call it out publicly. 
 * [How the Moya org handles contributions](https://github.com/Moya/contributors)
 * [Rust Governance](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
 * [How to use Github issues to attract new contributors](http://radek.io/2015/08/24/github-issues/) by Radek Pazdera
-* [Difficult People](http://producingoss.com/en/producingoss.html#difficult-people) from *Producing Open Source Software* by Karl Fogel
+* [Difficult People](http://producingoss.com/en/producingoss.html#difficult-people) from _Producing Open Source Software_ by Karl Fogel
