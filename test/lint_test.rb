@@ -3,6 +3,7 @@ require_relative "./helper"
 describe "lint test" do
 
   pages.each do |page|
+    next unless page["path"].match(/\.md$/)
 
     describe page["path"] do
 
