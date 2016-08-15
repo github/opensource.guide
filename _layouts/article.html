@@ -2,22 +2,28 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<nav>
+  {% include contents.html %}
+</nav>
 
-<a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}">
-  Suggest edits
-</a>
+<article>
+  <h1>{{ page.title }}</h1>
 
-{{ content }}
+  <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}">
+    Suggest edits
+  </a>
 
-<p>
-  {% assign previous = site.pages | where: "next", page.path | first %}
-  {% if previous %}
-    Previous: <a href="{{ previous.url | prepend: site.baseurl }}">{{ previous.title }}</a> |
-  {% endif %}
+  {{ content }}
 
-  {% if page.next %}
-    {% assign next = site.pages | where: "path", page.next | first %}
-    Next: <a href="{{ next.url | prepend: site.baseurl }}">{{ next.title }}</a>
-  {% endif %}
-</p>
+  <p>
+    {% assign previous = site.pages | where: "next", page.path | first %}
+    {% if previous %}
+      Previous: <a href="{{ previous.url | prepend: site.baseurl }}">{{ previous.title }}</a> |
+    {% endif %}
+
+    {% if page.next %}
+      {% assign next = site.pages | where: "path", page.next | first %}
+      Next: <a href="{{ next.url | prepend: site.baseurl }}">{{ next.title }}</a>
+    {% endif %}
+  </p>
+</article>
