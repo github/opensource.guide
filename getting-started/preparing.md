@@ -82,13 +82,8 @@ Sometimes, it will take a long time before people notice your open source projec
 ## Further reading
 
 * Licenses
-<<<<<<< HEAD
-  * [https://help.github.com/articles/open-source-licensing/](https://help.github.com/articles/open-source-licensing/)
-  * [http://choosealicense.com](http://choosealicense.com)
-=======
-  * [Choosing an Open Source License](https://github.com/blog/1530-choosing-an-open-source-license) by Phil Haack
+  * [Open source licensing](https://help.github.com/articles/open-source-licensing/)
   * [ChooseALicense.com](http://choosealicense.com)
->>>>>>> origin/gh-pages
 * READMEs
   * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) by Tom Preston-Werner
   * [Awesome README](https://github.com/matiassingers/awesome-readme)
@@ -101,15 +96,8 @@ Sometimes, it will take a long time before people notice your open source projec
   * [Contributing Guides: A Template](https://github.com/nayafia/contributing-template) by @nayafia
   * [Wrangling Web Contributions: How to Build a CONTRIBUTING.md](http://mozillascience.github.io/working-open-workshop/contributing/)
 * Codes of conduct
-<<<<<<< HEAD
-  * [http://geekfeminism.wikia.com/wiki/Code_of_conduct_evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct_evaluations)
-  * [http://contributor-covenant.org/](http://contributor-covenant.org/)
-  * [https://github.com/django/code-of-conduct](https://github.com/django/code-of-conduct)
-  * [https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
-  * [https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines/](https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines/)
-=======
+  * [Code of conduct evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct_evaluations) from the Geek Feminism wiki
   * [Contributor Covenant](http://contributor-covenant.org/)
   * [Django Code of Conduct](https://github.com/django/code-of-conduct)
   * [HOWTO design a code of conduct for your community](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) by Valerie Aurora
   * [Docker community guidelines](https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines)
->>>>>>> origin/gh-pages
