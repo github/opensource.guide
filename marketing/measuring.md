@@ -51,14 +51,11 @@ Here are a few types of contributor metrics you may want to regularly keep track
 
 * **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
 
-### Further reading
+## Further reading
 
-* [http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/](http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/)
-
-* [https://opensource.com/business/16/6/pirate-metrics](https://opensource.com/business/16/6/pirate-metrics)
-
-* [https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel)
-
-* [https://github.com/blog/2195-the-shape-of-open-source](https://github.com/blog/2195-the-shape-of-open-source)
-
-* [http://libraries.io](http://libraries.io)
+* [Measuring Success in an Open Source Project](http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/) by Steven J Vaughan-Nichols
+* [Using Pirate Metrics to measure success of open source projects](https://opensource.com/business/16/6/pirate-metrics) by Gaby Fachler
+* [
+The Open Source Contributor Funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel) by Mike McQuaid
+* [The shape of open source](https://github.com/blog/2195-the-shape-of-open-source) by Arfon Smith
+* [Libraries.io](http://libraries.io)

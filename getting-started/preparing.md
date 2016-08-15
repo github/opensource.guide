@@ -79,25 +79,37 @@ Launching your project is only the first step. If you’re hoping people will di
 
 Sometimes, it will take a long time before people notice your open source project. Your project will likely go through multiple phases of activity and contributorship. That’s okay! Some of the most popular projects today took years to reach high levels of activity. The rest of this handbook is designed to help you manage your project every step of the way.
 
-### Further reading
+## Further reading
 
 * Licenses
+<<<<<<< HEAD
   * [https://help.github.com/articles/open-source-licensing/](https://help.github.com/articles/open-source-licensing/)
   * [http://choosealicense.com](http://choosealicense.com)
+=======
+  * [Choosing an Open Source License](https://github.com/blog/1530-choosing-an-open-source-license) by Phil Haack
+  * [ChooseALicense.com](http://choosealicense.com)
+>>>>>>> origin/gh-pages
 * READMEs
-  * [http://tom.preston-werner.com/2010/08/23/readme-driven-development.html](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-  * [https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
-  * [https://pages.18f.gov/open-source-guide/making-readmes-readable/](https://pages.18f.gov/open-source-guide/making-readmes-readable/)
-  * [https://changelog.com/a-beginners-guide-to-creating-a-readme/](https://changelog.com/a-beginners-guide-to-creating-a-readme/)
-  * [https://gist.github.com/jxson/1784669](https://gist.github.com/jxson/1784669)
+  * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) by Tom Preston-Werner
+  * [Awesome README](https://github.com/matiassingers/awesome-readme)
+  * [18F logo 18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/making-readmes-readable/)
+  * [A Beginner’s Guide to Creating a README](https://changelog.com/a-beginners-guide-to-creating-a-readme/) by Beverly Nelson
+  * [README.md template](https://gist.github.com/jxson/1784669) from @jxson
 * Contributing guides
-  * [https://github.com/blog/1184-contributing-guidelines](https://github.com/blog/1184-contributing-guidelines)
-  * [http://www.contribution-guide.org/](http://www.contribution-guide.org/)
-  * [https://github.com/nayafia/contributing-template](https://github.com/nayafia/contributing-template)
-  * [http://mozillascience.github.io/working-open-workshop/contributing/](http://mozillascience.github.io/working-open-workshop/contributing/)
+  * [Contributing Guidelines](https://github.com/blog/1184-contributing-guidelines) by @vinbarnes
+  * [Contributing to Open Source Projects](http://www.contribution-guide.org/) by Jeff Forcier
+  * [Contributing Guides: A Template](https://github.com/nayafia/contributing-template) by @nayafia
+  * [Wrangling Web Contributions: How to Build a CONTRIBUTING.md](http://mozillascience.github.io/working-open-workshop/contributing/)
 * Codes of conduct
+<<<<<<< HEAD
   * [http://geekfeminism.wikia.com/wiki/Code_of_conduct_evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct_evaluations)
   * [http://contributor-covenant.org/](http://contributor-covenant.org/)
   * [https://github.com/django/code-of-conduct](https://github.com/django/code-of-conduct)
   * [https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   * [https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines/](https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines/)
+=======
+  * [Contributor Covenant](http://contributor-covenant.org/)
+  * [Django Code of Conduct](https://github.com/django/code-of-conduct)
+  * [HOWTO design a code of conduct for your community](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) by Valerie Aurora
+  * [Docker community guidelines](https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines)
+>>>>>>> origin/gh-pages

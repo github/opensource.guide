@@ -19,13 +19,23 @@ var jekyllConfig = yaml.safeLoad(fs.readFileSync('_config.yml', 'utf8'));
 var ignore = require('ignore')().add(jekyllConfig["exclude"])
 
 var options = {
+  // https://github.com/wooorm/remark/tree/master/packages/remark-parse#options
+  "remark": {
+    "gfm": true,
+    "footnotes": true
+  },
+
   // https://github.com/wooorm/remark-lint/blob/master/doc/rules.md
   "lint": {
     "list-item-indent": "space",    // As the gods intended.
     "maximum-line-length": false,   // turn off line length linting
-    "no-html": false,               // Sadly, need HTML for video embeds
     "no-heading-punctuation": false,
     "list-item-spacing": false,
+    "first-heading-level": 2,       // Page title is h1, so start with h2
+    "no-missing-blank-lines": {"exceptTightLists": true},
+
+    // FIXME: Eventually remove these
+    "maximum-heading-length": 80,
   },
   "readability": {
     "age": 18
@@ -51,11 +61,19 @@ async.map(ignore.filter(glob.sync("**/*.md")), function(file, callback) {
       //   .use(require('retext-readability'), options["readability"])
       // )
       .use(stringify)
-      .process(contents.toString(), function (err, result) {
+      .process(contents.toString(), options["remark"], function (err, result) {
           result.filename = file;
           callback(err, result);
       });
   });
 }, function (err, results) {
   console.log(report(results));
+
+  var hasErrors = false;
+
+  results.forEach(function(file) {
+    if(file.messages.length > 0) hasErrors = true;
+  });
+
+  if(hasErrors) process.exit(1);
 });
