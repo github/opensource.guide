@@ -54,7 +54,7 @@ A CONTRIBUTING file tells your audience how to participate in your project. For 
 
 In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions. Remember that no two open source projects are alike. Write down rules that work best for you and your lifestyle. For example, you may want to convey that you are only accepting certain types of contributions, tell participants how long they should expect to hear a response from you, or explain how (or how not) to get in touch with you.
 
-If you are a community project, you can use the CONTRIBUTING file to actively solicit the types of contributions you’re looking for. Using a warm, friendly tone and offering specific contribution suggestions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+The CONTRIBUTING file is a place to clearly state the types of contributions you’re looking for. Using a warm, friendly tone and offering specific contribution suggestions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
 
 You should reference your CONTRIBUTING file in your README. In your README, give your audience a quick overview of how contributions work, then link to the CONTRIBUTING file for more information.
 
