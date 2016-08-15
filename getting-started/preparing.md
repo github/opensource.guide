@@ -12,7 +12,7 @@ Every open source project should include the following:
 * Contributing guide
 * Code of conduct
 
-As a maintainer, these components will help you communicate expectations, manage contributions, protect your legal rights, and make sure that you and your contributors have a positive experience. The more you can document for your readers up front, the less work you’ll have to do later on.
+As a maintainer, these components will help you communicate expectations, manage contributions, protect your, contributors’, and users’ legal rights, and make sure that you and your contributors have a positive experience. The more you can document for your readers up front, the less work you’ll have to do later on.
 
 ## Choosing a license
 
@@ -20,14 +20,7 @@ An open source license guarantees that others can use, copy, modify and contribu
 
 Legal work is no fun. The good news is there are many licenses available that you can copy and paste into your repository. It will only take a minute to protect your hard work.
 
-There are [over 70 approved licenses](https://opensource.org/licenses/alphabetical) that comply with the generally accepted definition of open source. Some licenses you’ll commonly hear about are:
-
-* [MIT License](http://choosealicense.com/licenses/mit/)
-* [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
-* [Mozilla Public License 2.0](http://choosealicense.com/licenses/mpl-2.0/)
-* [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
-
-When you create a new project on GitHub, you are given the option to select a license. Including one of these licenses will make your GitHub project open source. (Different licenses carry slightly different permissions. You can use [http://choosealicense.com](http://choosealicense.com) to find the right license for you.)
+When you create a new project on GitHub, you are given the option to select a license. Including one of these licenses will make your GitHub project open source. (You can use [http://choosealicense.com](http://choosealicense.com) to find the right license for your project.)
 
 If you have other questions or concerns around the legal aspects of managing an open source project, we've got you covered: [The legal side of open source](../legal/)
 
@@ -54,6 +47,7 @@ As a maintainer, READMEs are an opportunity to clarify your goals in public. If 
 
 When you include a README file in the root directory, GitHub will automatically display it on your project repository’s homepage. It will be the first thing someone sees when they arrive.
 
+
 ## Setting your contributing guidelines
 
 A CONTRIBUTING file tells your audience how to participate in your project. For example, you might want to tell your reader how to create an issue, file a bug report, test fixes, or format code.
@@ -75,6 +69,7 @@ A code of conduct is a place to convey the values or philosophy that define your
 Codes of conduct help protect not just your participants, but yourself. As you maintain your project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work. A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive about these expectations reduces the likelihood that you, or others, will become fatigued with your project later on. You can read more about enforcing codes of conduct [here](../../troubleshooting/conduct/).
 
 In addition to communicating your expectations, you should describe what happens if someone violates the code of conduct, and where someone can report such behavior. We recommend placing a CODE_OF_CONDUCT file in your root directory.
+
 
 ## What’s next?
 
