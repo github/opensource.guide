@@ -9,30 +9,30 @@ Thankfully, you don’t have to start from scratch. This section will make sure 
 **(Do we need a legal disclaimer for this piece?)**
 
 ## Table of Contents
-
 1. [Why do I need an open source license?](#why-do-i-need-an-open-source-license)
 2. [Which open source license is appropriate for me?](#which-open-source-license-is-appropriate-for-me)
 3. [Do I need a contributor agreement in addition to my open source license?](#do-i-need-a-contributor-agreement-in-addition-to-my-open-source-license)
-4. [I’m a company open sourcing a project. What does my legal team need to know?](#im-a-company-open-sourcing-a-project-what-does-my-legal-team-need-to-know)
+4. [I’m at a company open sourcing a project. What does my legal team need to know?](#intimidatinga-company-open-sourcing-a-project-what-does-my-legal-team-need-to-know)
 5. [I’m using others’ open source code. What does my legal team need to know?](#im-using-others-open-source-code-what-does-my-legal-team-need-to-know)
+
 
 ## Why do I need an open source license?
 
-When you publish a creative work (which includes code), your work is under copyright by default. Unless you include a license that specifies otherwise, nobody can copy or modify your work without being subject to copyright law.
+When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation. Once the work has other contributors (each a copyright holder), nobody includes you.
 
-An open source license guarantees that others can use, modify and share your project. It protects both you and anybody else who might interact with your project.
+An open source license guarantees that everyone can use, modify and share your project. It protects both you and anybody else who might interact with your project.
 
-Making your GitHub project public is not the same as licensing your project. Public GitHub projects allow others to view and fork your project, but your work is otherwise copyrighted unless you add an open source license.
+Making your GitHub project public is not the same as licensing your project. Public GitHub projects allow others to view and fork your project, but your work otherwise comes with no permissions unless you add an open source license.
 
 ## Which open source license is appropriate for me?
 
-There are [over 70 approved licenses](https://opensource.org/licenses/alphabetical) that comply with the generally accepted definition of open source. Here is a breakdown of three of the most common licenses.
+There are [over 70 approved licenses](https://opensource.org/licenses/alphabetical) that conform with the generally accepted definition of open source. Here is a breakdown of three of the most common licenses.
 
-* **For individuals releasing an open source project with no deeper interests,** consider the [MIT License](http://choosealicense.com/licenses/mit/), which is simple and permissive. People can use your project for whatever they like, as long as they provide attribution back to you and don’t hold you liable for anything.
-* **For companies releasing an open source project,** consider the [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/). The Apache 2.0 license is appropriate for project owners who are concerned about patents. It provides an express grant of patent rights from contributors.
-* **For those who care about keeping their code in the public domain,** consider the [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/), which is a copyleft license. That means anyone who distributes your code, or a derivative of your work, must make the source available under the same terms. It also provides an express grant of patent rights from contributors.
+* **For individuals releasing an open source project with no deeper interests,** consider the [MIT License](http://choosealicense.com/licenses/mit/), a short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+* **For companies releasing an open source project,** consider the [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/), also a permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+* **For those who care about keeping their code open source,** consider the [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/), which is a strong copyleft license with permissions conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
-If your open source project isn’t software, consider a Creative Commons or other type of license that’s tailored for media. You can read more about choosing a non-software license [here](http://choosealicense.com/non-software/).
+If your open source project isn’t software, one of the above licenses will still work, but you can also read about open licenses for domains such as open source hardware design, data, books, music, video, documentation, and fonts [here](http://choosealicense.com/non-software/).
 
 When you create a new project on GitHub, you are given the option to select a license. Including one of the above licenses will make your GitHub project open source. If you’d like to see other license options, check out [Choose a License](http://choosealicense.com) to find the right license for you.
 
@@ -55,10 +55,13 @@ You can also consider using a DCO, which is less cumbersome than signing an agre
 
 If you are a company open sourcing a project, there are a few legal aspects you may want to consider.
 
+
 * **Existing Intellectual Property (IP):** Consider whether there is anything existing in the project that might fall under company IP, which you would not want to make available to the general public. If so, you could open source the rest of your project, but keep the IP private.
 * **Future Patents:** If you are concerned that there may be patents associated with your project later on, use an open source license that provides patent protections (such as the [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)).
 * **Employee contribution policies:** Consider developing a corporate policy that specifies how your employees contribute to open source projects, especially if you expect employees to maintain the project. A clear corporate policy will reduce confusion among your employees and encourage them to make open source contributions during work hours. A good example is Rackspace’s [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 * **Trademarks:** Double check that your project’s name does not conflict with any existing trademarks. If you use your own company trademarks in the project, check that it does not cause any conflicts.
+
+
 
 These are starting points for conversation. Be sure to run any open source project by your legal team before proceeding!
 
@@ -74,10 +77,10 @@ If you use others’ open source code to create anything that could be considere
 
 To learn more about the implications of different open source licenses, [TLDRLegal](https://tldrlegal.com/) is a great resource.
 
+
 ### Further reading
 
 * [http://choosealicense.com](http://choosealicense.com)
-* [https://tldrlegal.com/](https://tldrlegal.com/)
 * [https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
 * [https://blog.docker.com/2014/01/docker-code-contributions-require-developer-certificate-of-origin/](https://blog.docker.com/2014/01/docker-code-contributions-require-developer-certificate-of-origin/)
 * [https://www.joyent.com/blog/broadening-node-js-contributions](https://www.joyent.com/blog/broadening-node-js-contributions)
