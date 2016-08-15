@@ -54,7 +54,6 @@ As a maintainer, READMEs are an opportunity to clarify your goals in public. If 
 
 When you include a README file in the root directory, GitHub will automatically display it on your project repository’s homepage. It will be the first thing someone sees when they arrive.
 
-
 ## Setting your contributing guidelines
 
 A CONTRIBUTING file tells your audience how to participate in your project. For example, you might want to tell your reader how to create an issue, file a bug report, test fixes, or format code.
@@ -76,7 +75,6 @@ A code of conduct is a place to convey the values or philosophy that define your
 Codes of conduct help protect not just your participants, but yourself. As you maintain your project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work. A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive about these expectations reduces the likelihood that you, or others, will become fatigued with your project later on. You can read more about enforcing codes of conduct [here](../../troubleshooting/conduct/).
 
 In addition to communicating your expectations, you should describe what happens if someone violates the code of conduct, and where someone can report such behavior. We recommend placing a CODE_OF_CONDUCT file in your root directory.
-
 
 ## What’s next?
 
