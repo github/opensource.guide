@@ -12,7 +12,7 @@ Thankfully, you don’t have to start from scratch. This section will make sure 
 1. [Why do I need an open source license?](#why-do-i-need-an-open-source-license)
 2. [Which open source license is appropriate for me?](#which-open-source-license-is-appropriate-for-me)
 3. [Do I need a contributor agreement in addition to my open source license?](#do-i-need-a-contributor-agreement-in-addition-to-my-open-source-license)
-4. [I’m at a company open sourcing a project. What does my legal team need to know?](#intimidatinga-company-open-sourcing-a-project-what-does-my-legal-team-need-to-know)
+4. [I’m at a company open sourcing a project. What does my legal team need to know?](#im-a-company-open-sourcing-a-project-what-does-my-legal-team-need-to-know)
 5. [I’m using others’ open source code. What does my legal team need to know?](#im-using-others-open-source-code-what-does-my-legal-team-need-to-know)
 
 
