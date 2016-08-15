@@ -15,7 +15,7 @@ Pick a name that is easy to remember and, ideally, gives some idea of what the p
 
 Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. For example, some of your users might be employees; you don’t want to make them uncomfortable when they have to explain your project’s name to coworkers!
 
-## Avoiding namespace conflicts
+## Avoiding name conflicts
 
 Make sure that your project’s name doesn’t infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It’s just not worth the risk. You can check for U.S. trademark conflicts [here](http://www.uspto.gov).
 
