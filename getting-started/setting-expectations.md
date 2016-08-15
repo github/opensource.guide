@@ -13,7 +13,7 @@ Let’s start by defining your goals. Simply put: *why are you open sourcing thi
 
 There is no one right answer to this question. You may find that you have multiple goals for a single project, or that different projects have different goals. The most important thing is to be honest with yourself.
 
-Here are some examples of reasons why people open source their work:
+Here are some examples of [reasons](http://ben.balter.com/2015/11/23/why-open-source/) why people open source their work:
 
 * An individual wants to show off his or her portfolio
 * An individual or company wants others to use what they’ve created
@@ -33,7 +33,7 @@ If you’re hoping to get feedback on something you’ve created, consider askin
 
 ## Figure out what others need from you
 
-Finally, open sourcing a project is a two-way street. People who use your project will probably ask you for things, too.
+Open sourcing a project is a two-way street. People who use your project will probably ask you for things, too.
 
 Try to anticipate these needs beforehand so you can add them to your project from the beginning. Successful open source projects try to document as much as they can in public. Much like reusable pieces of code, reusable information means less people need to ask you the same questions over and over again. (That means less work for you!)
 
