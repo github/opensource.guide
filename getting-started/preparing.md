@@ -60,15 +60,15 @@ You should reference your CONTRIBUTING file in your README. In your README, give
 
 If you place your CONTRIBUTING file in the root directory, GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
 
-## Writing a code of conduct
+## Establishing a code of conduct
 
-Finally, a code of conduct helps set ground rules for communication among your project’s participants. The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Angular Code of Conduct](https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md) are two good examples.
+Finally, a code of conduct helps set ground rules for behavior of your project’s participants. This is especially valuable if you’re launching an open source project for a community or company.
 
-A code of conduct is a place to convey the values or philosophy that define your project. This is especially valuable if you’re a community or company launching an open source project.
+In addition to communicating your expectations, you should describe what happens if someone violates the code of conduct, and where someone can report such behavior. We recommend placing a CODE_OF_CONDUCT file in your project’s root directory.
+
+The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Angular Code of Conduct](https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md) are two good examples. The [Contributor Covenant](http://contributor-covenant.org/) is a code of conduct used by [many projects](http://contributor-covenant.org/adopters/).
 
 Codes of conduct help protect not just your participants, but yourself. As you maintain your project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work. A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive about these expectations reduces the likelihood that you, or others, will become fatigued with your project later on. You can read more about enforcing codes of conduct [here](../../troubleshooting/conduct/).
-
-In addition to communicating your expectations, you should describe what happens if someone violates the code of conduct, and where someone can report such behavior. We recommend placing a CODE_OF_CONDUCT file in your root directory.
 
 
 ## What’s next?
