@@ -82,7 +82,7 @@ Sometimes, it will take a long time before people notice your open source projec
 ### Further reading
 
 * Licenses
-  * [https://github.com/blog/1530-choosing-an-open-source-license](https://github.com/blog/1530-choosing-an-open-source-license)
+  * [https://help.github.com/articles/open-source-licensing/](https://help.github.com/articles/open-source-licensing/)
   * [http://choosealicense.com](http://choosealicense.com)
 * READMEs
   * [http://tom.preston-werner.com/2010/08/23/readme-driven-development.html](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
@@ -96,6 +96,7 @@ Sometimes, it will take a long time before people notice your open source projec
   * [https://github.com/nayafia/contributing-template](https://github.com/nayafia/contributing-template)
   * [http://mozillascience.github.io/working-open-workshop/contributing/](http://mozillascience.github.io/working-open-workshop/contributing/)
 * Codes of conduct
+  * [http://geekfeminism.wikia.com/wiki/Code_of_conduct_evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct_evaluations)
   * [http://contributor-covenant.org/](http://contributor-covenant.org/)
   * [https://github.com/django/code-of-conduct](https://github.com/django/code-of-conduct)
   * [https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
