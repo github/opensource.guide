@@ -32,7 +32,7 @@ While discussion is important, there is a difference between productive and unpr
 
 Allowing these conversations to continue is not only bad for the issue at hand, but bad for the health of your community. It sends a message that these types of conversations are permitted or even encouraged, and it can discourage people from raising or resolving future issues.
 
-With every point made by you or by others, ask yourself, *"How does this bring us closer to a resolution?"* If the conversation is starting to unravel, ask the group, *“Which steps should we take next?”* to refocus the conversation.
+With every point made by you or by others, ask yourself, _"How does this bring us closer to a resolution?"_ If the conversation is starting to unravel, ask the group, _“Which steps should we take next?”_ to refocus the conversation.
 
 If a conversation is taking place on an Issue that clearly isn’t going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the Issue and explain why it has been closed.
 
@@ -52,5 +52,5 @@ Your tiebreaker should be a last resort. Divisive issues can be an opportunity f
 
 ## Further reading
 
-* [Avoiding Common Pitfalls](http://producingoss.com/en/producingoss.html#common-pitfalls) from *Producing Open Source Software* by Karl Fogel
+* [Avoiding Common Pitfalls](http://producingoss.com/en/producingoss.html#common-pitfalls) from _Producing Open Source Software_ by Karl Fogel
 * Wikipedia: [Consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)

@@ -23,7 +23,7 @@ You don’t have to overdo it or feel like you’re putting others’ needs in f
 
 ## Document everything
 
-When you start an open source project, it may feel natural to keep your ideas and workflows private. But open source projects thrive when you document your process in public. That way, more people can participate at every step of the way. Not only will they know *what* to contribute, but they’ll also know *how*. You might get help on something you didn’t even know you needed.
+When you start an open source project, it may feel natural to keep your ideas and workflows private. But open source projects thrive when you document your process in public. That way, more people can participate at every step of the way. Not only will they know _what_ to contribute, but they’ll also know _how_. You might get help on something you didn’t even know you needed.
 
 Documenting your open source project means more than just technical documentation. Be transparent about your project’s roadmap, your timeline for completing new features, the types of contributions you’re looking for, how contributions are reviewed and accepted, or why you made certain decisions. Any time you feel the urge to write something down about your project, ask yourself whether you can make it public. The feedback you’ll get from this level of transparency may surprise you.
 

@@ -9,7 +9,7 @@ In this section, we’ll help you think through a few important questions about 
 
 ## Define your goals
 
-Let’s start by defining your goals. Simply put: *why are you open sourcing this project?*
+Let’s start by defining your goals. Simply put: _why are you open sourcing this project?_
 
 There is no one right answer to this question. You may find that you have multiple goals for a single project, or that different projects have different goals. The most important thing is to be honest with yourself.
 
@@ -23,7 +23,7 @@ Here are some examples of reasons why people open source their work:
 
 ## Figure out what you need from others
 
-Once you’ve listed out your goals, ask yourself: *for each of these goals, what do I (or we) need from others?*
+Once you’ve listed out your goals, ask yourself: _for each of these goals, what do I (or we) need from others?_
 
 For example, if you are open sourcing a project to build your portfolio, you may not be actively looking for contributions, or you don’t have time to review them. In that case, you might clearly state in your README that you are not accepting contributions. For example, [Infinite-scroll](https://github.com/infinite-scroll/infinite-scroll) states this information at the top of its README.
 

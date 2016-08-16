@@ -17,7 +17,9 @@ Be honest with yourself about how much time you have to spend on your project. T
 
 Write down your project’s vision and, where possible, make that vision transparent to others. Your vision is your North Star, guiding you when you feel overwhelmed by others’ requests, and helping you reset your priorities. Add it to your README. If there are related artifacts that you think could help, like a project roadmap, make those public as well.
 
-[@lord](https://github.com/lord) discovered that having a project vision helped him figure out which requests he should spend time on. As a new maintainer, he regretted not sticking to his project’s scope when he got his first feature request for [Slate](https://github.com/lord/slate): *"I fumbled it. I didn’t put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said “I don’t have time for this right now, but I’ll add it to the long term nice-to-have list."* [^1]
+[@lord](https://github.com/lord) discovered that having a project vision helped him figure out which requests he should spend time on. As a new maintainer, he regretted not sticking to his project’s scope when he got his first feature request for [Slate](https://github.com/lord/slate):
+
+> I fumbled it. I didn’t put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said “I don’t have time for this right now, but I’ll add it to the long term nice-to-have list."[^1]
 
 [^1]: [Tips for New Open Source Maintainers](https://lord.io/blog/2014/oss-tips/) by Robert Lord
 
@@ -43,7 +45,7 @@ Some examples of rules you may want to write down:
 
 ## Learn to say no
 
-The first rule of open source, according to [@shykes](https://github.com/shykes): *"No is temporary, yes is forever."*[^2] If you plan on maintaining open source projects for a long time, it’s never too early to practice saying no.
+The first rule of open source, according to [@shykes](https://github.com/shykes): _"No is temporary, yes is forever."_[^2] If you plan on maintaining open source projects for a long time, it’s never too early to practice saying no.
 
 [^2]: [tweet from @solomonstre](https://twitter.com/solomonstre/status/715277134978113536)
 
@@ -53,7 +55,7 @@ One of the most important places you’ll practice saying no is on your your iss
 
 If you notice repeated requests for things you don’t want to accept, consider adding them into your contribution policy, so you don’t have to keep repeating yourself.
 
-If the thought of saying no terrifies you, you’re not alone. As [@jfrazelle](https://github.com/jfrazelle) put it: *"I’ve talked to maintainers from several different open source projects, Mesos, Kubernetes, C**hromium**, and they all agree one of the hardest parts of being a maintainer is saying “No" to patches you don’t want.”* [^3] But the more often you practice saying no, the easier it becomes. Promise.
+If the thought of saying no terrifies you, you’re not alone. As [@jfrazelle](https://github.com/jfrazelle) put it: _"I’ve talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying “No" to patches you don’t want.”_ [^3] But the more often you practice saying no, the easier it becomes. Promise.
 
 [^3]: [The Art of Closing](https://blog.jessfraz.com/post/the-art-of-closing/) by Jessie Frazelle
 
