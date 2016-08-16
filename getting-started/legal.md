@@ -10,9 +10,9 @@ Thankfully, you don’t have to start from scratch. This section will make sure 
 
 ## Table of Contents
 
-1. [Why do I need an open source license?](#why-do-i-need-an-open-source-license)
-2. [Which open source license is appropriate for me?](#which-open-source-license-is-appropriate-for-me)
-3. [Do I need a contributor agreement in addition to my open source license?](#do-i-need-a-contributor-agreement-in-addition-to-my-open-source-license)
+1. [Why does my project need an open source license?](#why-does-my-project-need-an-open-source-license)
+2. [Which open source license is appropriate for my project?](#which-open-source-license-is-appropriate-for-my-project)
+3. [Does my project need a contributor agreement in addition to its open source license?](#does-my-project-need-a-contributor-agreement-in-addition-to-its-open-source-license)
 4. [I’m at a company open sourcing a project. What does my legal team need to know?](#im-a-company-open-sourcing-a-project-what-does-my-legal-team-need-to-know)
 5. [I’m using others’ open source code. What does my legal team need to know?](#im-using-others-open-source-code-what-does-my-legal-team-need-to-know)
 
@@ -24,7 +24,7 @@ An open source license guarantees that everyone can use, modify and share your p
 
 Making your GitHub project public is not the same as licensing your project. Public GitHub projects allow others to view and fork your project, but your work otherwise comes with no permissions unless you add an open source license.
 
-## Which open source license is appropriate for me?
+## Which open source license is appropriate for my project?
 
 There are [over 70 approved licenses](https://opensource.org/licenses/alphabetical) that conform with the generally accepted definition of open source. Here is a breakdown of three of the most common licenses.
 
@@ -36,20 +36,19 @@ If your open source project isn’t software, one of the above licenses will sti
 
 When you create a new project on GitHub, you are given the option to select a license. Including one of the above licenses will make your GitHub project open source. If you’d like to see other license options, check out [Choose a License](http://choosealicense.com) to find the right license for you.
 
-## Do I need a contributor agreement in addition to my open source license?
+## Does my project need a contributor agreement in addition to its open source license?
 
-Some open source projects, particularly when companies are involved, require a contributor agreement. These are legal agreements that must be signed by a contributor before they can make changes to the project.
+Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license.
 
-Contributor agreements are used when the project owner wants to protect themselves, and their users, from future copyright claims from contributors. There are two major types of contributor agreements:
+An additional agreement adds a variable amount of overhead to accepting contributions, depending on the project and implementation, ranging from minimal for simple agreements that only affirm, with a single click, that the contributor has the rights necessary to contribute under the project open source license, to open-ended, for complex and asymmetric agreements that need legal review and sign-off from contributors’ employers.
 
-* [Contributor License Agreement (CLA)](https://www.apache.org/licenses/icla.txt): A CLA explicitly grants the project owner the right to distribute all contributions made by the contributor, either by assigning copyright or granting an irrevocable license. Some projects specify that CLAs only need to be signed for “non-trivial changes”: for example, fixing a significant bug rather than a small typo.
-* [Developer Certificate of Origin (DCO)](http://developercertificate.org/): A DCO certifies that the contributor has the right to make their contribution and that they allow the project owner to use it in other distributions. Unlike a CLA, which must be explicitly signed, a DCO is required as a signature when the contribution is submitted, or is part of the project’s contribution policy.
+Here are some situations for which you may need to deploy an additional contribution agreement for your project:
 
-There are some concerns associated with CLAs in particular. CLAs can be perceived as not friendly to the project’s community. They can also create a lot of administrative work for the project owner. Finally, CLAs increase the barrier to community participation by adding more paperwork than some believe is necessary.
+* Your lawyers want all contributors to expressly accept (_sign_, online or offline) contribution terms, perhaps based on a feeling that bare open source licenses cannot be robust in theory, even though they are in practice. If this is the only concern, an additional contributor agreement that affirms the project open source license should suffice. The [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) is an example of such a light additional contributor agreement. For some projects, a [Developer Certificate of Origin](http://developercertificate.org/) can be an even lighter alternative.
+* Your project is under an open source license such as MIT that does not include an express patent grant, and you need a patent grant from all contributors, some of who may work for companies with large patent portfolios that could be used to target you or the project’s other contributors and users. The [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.txt) is a commonly used additional contributor agreement that has a patent grant mirroring the one found in the Apache License 2.0.
+* Your project is under a copyleft license, but you also need to distribute a proprietary version of the project. You'll need every contributor to assign copyright to you or grant you (but not the public) a permissive license. The [MongoDB Contributor Agreement] is an example of such an agreement.
 
-Many projects that use a CLA are concerned about patents. If you have patent concerns, consider adopting a license with patent protections instead, such as the [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/), in which contributors expressly grant patent rights.
-
-You can also consider using a DCO, which is less cumbersome than signing an agreement and provides similar benefits to a CLA. If your project is on GitHub, include the DCO in your CONTRIBUTING.md file, which is automatically referenced when someone submits a pull request. Or you can require that contributors include the DCO as a signature when they submit a pull request.
+If you do need to use an additional contributor agreement with your project, consider using an integration such as [CLA assistant](https://github.com/cla-assistant/cla-assistant) to minimize contributor distraction.
 
 ## I’m a company open sourcing a project. What does my legal team need to know?
 
