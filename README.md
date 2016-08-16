@@ -4,7 +4,7 @@ This handbook is a collection of resources to help individuals, communities, and
 
 This handbook aims to foster healthy open source communities, and provide a canonical place for the community to discuss and codify best practices into highly-approachable resources.
 
-### [Get Started](_content/index.md)
+### [Get Started](https://github.github.io/open-source-handbook/)
 
 ## Contributing
 
