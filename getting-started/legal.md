@@ -42,7 +42,6 @@ Your **company** may have specific licensing requirements for projects it open s
 
 When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you’d like to see other options, check out [ChooseALicense.com](http://choosealicense.com) to find the right license for your project, even if it [isn’t software](http://choosealicense.com/non-software/).
 
-
 ## Does my project need an additional contributor agreement?
 
 Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license.
@@ -77,7 +76,6 @@ Some open source licenses, like the GNU GPLv3, require that any software using t
 Other open source licenses, like the MIT license, are very permissive. They may still require attribution.
 
 If you use others’ open source code to create anything that could be considered company IP, you will want to read the terms of the license carefully to understand your patent rights.
-
 
 ## Further reading
 
