@@ -13,7 +13,7 @@ Thankfully, you don’t have to start from scratch. This section will make sure 
 1. [Why does my project need an open source license?](#why-does-my-project-need-an-open-source-license)
 2. [Which open source license is appropriate for my project?](#which-open-source-license-is-appropriate-for-my-project)
 3. [Does my project need an additional contributor agreement?](#does-my-project-need-an-additional-contributor-agreement)
-4. [I’m at a company open sourcing a project. What does my legal team need to know?](#im-a-company-open-sourcing-a-project-what-does-my-legal-team-need-to-know)
+4. [What does my company’s legal team need to know?](#what-does-my-companys-legal-team-need-to-know)
 5. [I’m using others’ open source code. What does my legal team need to know?](#im-using-others-open-source-code-what-does-my-legal-team-need-to-know)
 
 ## Why does my project need an open source license?
@@ -24,17 +24,24 @@ An open source license guarantees that everyone can use, modify and share your p
 
 Making your GitHub project public is not the same as licensing your project. Public GitHub projects allow others to view and fork your project, but your work otherwise comes with no permissions unless you add an open source license.
 
+Also, the licenses of your project’s dependencies, the communities you hope will use your project, or your employer’s policies may effectively require your project to use an open source license, even a specific open source license. We’ll cover these situations below.
+
 ## Which open source license is appropriate for my project?
 
-There are [over 70 approved licenses](https://opensource.org/licenses/alphabetical) that conform with the generally accepted definition of open source. Here is a breakdown of three of the most common licenses.
+If you’re starting from a blank slate, it’s hard to go wrong with the MIT License. It’s short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including your copyright notice. You’ll be able to release the project under a different license if and when your situation calls for doing so.
 
-* **For individuals releasing an open source project with no deeper interests,** consider the [MIT License](http://choosealicense.com/licenses/mit/), a short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
-* **For companies releasing an open source project,** consider the [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/), also a permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
-* **For those who care about keeping their code open source,** consider the [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/), which is a strong copyleft license with permissions conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+Otherwise, the appropriate open source license for your project depends on your situation and objectives.
 
-If your open source project isn’t software, one of the above licenses will still work, but you can also read about open licenses for domains such as open source hardware design, data, books, music, video, documentation, and fonts [here](http://choosealicense.com/non-software/).
+Your project very likely has or will have **dependencies**. For example, if you’re open sourcing a Node.js project, you’ll be using libraries from the Node Package Manager (npm). Those dependencies will each have an open source license. If each of their licenses is "permissive" (gives the public permission to use, modify, and share, without any condition for downstream licensing), you can use any license you want. Common permissive licenses include MIT, Apache 2.0, ISC, and BSD.
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of the above licenses will make your GitHub project open source. If you’d like to see other license options, check out [Choose a License](http://choosealicense.com) to find the right license for you.
+If any of your dependencies’ licenses are "strong copyleft" (also gives public same permissions, subject to condition of using the same license downstream), then your project will have to use the same license. Common strong copyleft licenses include GPLv2, GPLv3, and AGPLv3.
+
+You might have in mind the **communities** you hope will use and contribute to your project. Do you want your project to be used as a dependency by other projects? Probably best to use a license popular in the relevant community. For example, MIT is the most popular license for [npm libraries](https://libraries.io/npm). Do you want your project to be most appealing to large businesses that want to have an express patent license from all contributors? Apache 2.0 has you (and them) covered. Or do you want your project to be most appealing to contributors who do not want to allow their contributions to be used in closed source software? GPLv3 or (if they also do not wish to contribute to closed source services) AGPLv3 will go over well.
+
+Your **company** may have specific licensing requirements for projects it open sources. For example, it may require a permissive license so that the company can use your project in the company’s closed source product. Or your company may require a strong copyleft license and an additional contributor agreement (see below) so that only your company and nobody else can use your project in closed source software. Or your company may have objectives for your project related to standards, social responsibility, or transparency, any of which could provide a rationale for a particular licensing strategy. Talk to your company’s legal department (also see below).
+
+When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you’d like to see other options, check out [ChooseALicense.com](http://choosealicense.com) to find the right license for your project, even if it [isn’t software](http://choosealicense.com/non-software/).
+
 
 ## Does my project need an additional contributor agreement?
 
@@ -50,7 +57,7 @@ Here are some situations for which you may need to deploy an additional contribu
 
 If you do need to use an additional contributor agreement with your project, consider using an integration such as [CLA assistant](https://github.com/cla-assistant/cla-assistant) to minimize contributor distraction.
 
-## I’m a company open sourcing a project. What does my legal team need to know?
+## What does my company’s legal team need to know?
 
 If you are a company open sourcing a project, there are a few legal aspects you may want to consider.
 
@@ -71,11 +78,11 @@ Other open source licenses, like the MIT license, are very permissive. They may 
 
 If you use others’ open source code to create anything that could be considered company IP, you will want to read the terms of the license carefully to understand your patent rights.
 
-To learn more about the implications of different open source licenses, [TLDRLegal](https://tldrlegal.com/) is a great resource.
 
 ## Further reading
 
 * [ChooseALicense.com](http://choosealicense.com)
+* [Over 70 approved licenses](https://opensource.org/licenses/alphabetical) that conform with the generally accepted definition of open source
 * [A Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
 * [Introducing The Docker Developer Certificate Of Origin](https://blog.docker.com/2014/01/docker-code-contributions-require-developer-certificate-of-origin/) by Nick Stinemates
 * [Broadening Node.js Contributions
