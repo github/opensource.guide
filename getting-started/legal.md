@@ -16,7 +16,7 @@ Thankfully, you don’t have to start from scratch. This section will make sure 
 4. [I’m at a company open sourcing a project. What does my legal team need to know?](#im-a-company-open-sourcing-a-project-what-does-my-legal-team-need-to-know)
 5. [I’m using others’ open source code. What does my legal team need to know?](#im-using-others-open-source-code-what-does-my-legal-team-need-to-know)
 
-## Why do I need an open source license?
+## Why does my project need an open source license?
 
 When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation. Once the work has other contributors (each a copyright holder), nobody includes you.
 
