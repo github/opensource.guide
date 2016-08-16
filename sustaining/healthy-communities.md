@@ -5,7 +5,7 @@ next: sustaining/leadership.md
 
 Your project’s community is extremely powerful. That power can be a blessing or a curse, depending on how you wield it. In this section, we’ll look at ways to structure your community to become a force of construction, not destruction.
 
-If you’re starting an open source project today, the vast majority of contributions will come from "casual contributors": people who contribute to a project only occasionally. Sometimes these are also called “drive-by contributors”.
+If you’re starting an open source project today, the vast majority of contributors will be "casual contributors": people who contribute to a project only occasionally. Sometimes these are also called “drive-by contributors”.
 
 A casual contributor may not have time to get fully up to speed with your project. Nearly half of contributors on popular GitHub projects, for example, only made one contribution.[^1] This level of noise can be overwhelming at first. But the more people feel ownership of your project, the more work can be distributed.[^2] It will be much less stressful than trying to do everything yourself.
 
