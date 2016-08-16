@@ -2,7 +2,7 @@
 title: Handling contributions you don't want to accept
 ---
 
-As a maintainer of an open source project, you’ll inevitably receive contributions that you don’t want to accept. Maybe the contribution changes your project’s scope or doesn’t match your vision. Maybe the idea is good, but the execution is poor.
+As a maintainer of an open source project, you’ll inevitably receive contributions that you don’t want to accept. Maybe the contribution changes your project’s scope or doesn’t match your vision. Maybe the idea is good, but the implementation is poor.
 
 Regardless of the reason, here are some strategies to tactfully handle contributions that don’t meet your project’s standards.
 
@@ -14,7 +14,7 @@ Contributing to an open source project can be intimidating, especially if it’s
 
 ## Write down what you won’t accept beforehand
 
-Having a clear contribution policy helps depersonalize situations where you don’t want to accept a contribution. Saying "Your contribution doesn’t match this project’s criteria" feels less personal than “I don’t like your contribution”. In addition, clear contribution policies can reduce the chances that someone will submit something you don’t want in the first place. 
+Having a clear contribution policy helps depersonalize situations where you don’t want to accept a contribution. Saying "Your contribution doesn’t match this project’s criteria" feels less personal than “I don’t like your contribution”. In addition, clear contribution policies can reduce the chances that someone will submit something you don’t want in the first place.
 
 ## Ask that people discuss major changes first
 
