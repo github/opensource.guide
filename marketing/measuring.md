@@ -7,7 +7,7 @@ Your project is starting to grow. 🌱  Well, you think it’s growing. Is it gr
 
 ## Discoverability
 
-Before anybody can use or contribute back to your project, they first need to know it exists. The first question you’ll want to ask yourself, then, is: *are people finding my project?*
+Before anybody can use or contribute back to your project, they first need to know it exists. The first question you’ll want to ask yourself, then, is: _are people finding my project?_
 
 If your project is hosted on GitHub, you can view how many people land on your project and where they come from. From your project’s page, click "Graphs", then “Traffic”. On this page, you can see:
 
@@ -25,7 +25,7 @@ You may also want to track discoverability in specific places: for example, Goog
 
 ## Usage
 
-People are finding your project on this wild and crazy thing we call the Internet. Ideally, when they see your project, they’ll feel compelled to do something. The second question you’ll want to ask is: *are people using my project?*
+People are finding your project on this wild and crazy thing we call the Internet. Ideally, when they see your project, they’ll feel compelled to do something. The second question you’ll want to ask is: _are people using my project?_
 
 If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project’s downloads. Each package manager may use a slightly different definition of "download", and downloads do not not necessarily correlate to installs or use, but it provides some baseline for comparison.
 
@@ -35,7 +35,7 @@ If usage is low compared to the number of people discovering your project, there
 
 ## Retention
 
-People are finding your project and they’re using it. The last question you’ll want to ask yourself is: *are people contributing back to my project?*
+People are finding your project and they’re using it. The last question you’ll want to ask yourself is: _are people contributing back to my project?_
 
 This is a big one. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is popular (many people use it) but not supported (not enough maintainer time to meet demand). It’s never too early to start thinking about contributors!
 
