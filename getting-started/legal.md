@@ -12,7 +12,7 @@ Thankfully, you don’t have to start from scratch. This section will make sure 
 
 1. [Why does my project need an open source license?](#why-does-my-project-need-an-open-source-license)
 2. [Which open source license is appropriate for my project?](#which-open-source-license-is-appropriate-for-my-project)
-3. [Does my project need a contributor agreement in addition to its open source license?](#does-my-project-need-a-contributor-agreement-in-addition-to-its-open-source-license)
+3. [Does my project need an additional contributor agreement?](#does-my-project-need-an-additional-contributor-agreement)
 4. [I’m at a company open sourcing a project. What does my legal team need to know?](#im-a-company-open-sourcing-a-project-what-does-my-legal-team-need-to-know)
 5. [I’m using others’ open source code. What does my legal team need to know?](#im-using-others-open-source-code-what-does-my-legal-team-need-to-know)
 
@@ -36,7 +36,7 @@ If your open source project isn’t software, one of the above licenses will sti
 
 When you create a new project on GitHub, you are given the option to select a license. Including one of the above licenses will make your GitHub project open source. If you’d like to see other license options, check out [Choose a License](http://choosealicense.com) to find the right license for you.
 
-## Does my project need a contributor agreement in addition to its open source license?
+## Does my project need an additional contributor agreement?
 
 Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license.
 
@@ -46,7 +46,7 @@ Here are some situations for which you may need to deploy an additional contribu
 
 * Your lawyers want all contributors to expressly accept (_sign_, online or offline) contribution terms, perhaps based on a feeling that bare open source licenses cannot be robust in theory, even though they are in practice. If this is the only concern, an additional contributor agreement that affirms the project open source license should suffice. The [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) is an example of such a light additional contributor agreement. For some projects, a [Developer Certificate of Origin](http://developercertificate.org/) can be an even lighter alternative.
 * Your project is under an open source license such as MIT that does not include an express patent grant, and you need a patent grant from all contributors, some of who may work for companies with large patent portfolios that could be used to target you or the project’s other contributors and users. The [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.txt) is a commonly used additional contributor agreement that has a patent grant mirroring the one found in the Apache License 2.0.
-* Your project is under a copyleft license, but you also need to distribute a proprietary version of the project. You'll need every contributor to assign copyright to you or grant you (but not the public) a permissive license. The [MongoDB Contributor Agreement] is an example of such an agreement.
+* Your project is under a copyleft license, but you also need to distribute a proprietary version of the project. You'll need every contributor to assign copyright to you or grant you (but not the public) a permissive license. The [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement) is an example of such an agreement.
 
 If you do need to use an additional contributor agreement with your project, consider using an integration such as [CLA assistant](https://github.com/cla-assistant/cla-assistant) to minimize contributor distraction.
 
