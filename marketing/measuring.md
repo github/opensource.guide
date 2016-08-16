@@ -53,9 +53,9 @@ Here are a few types of contributor metrics you may want to regularly keep track
 
 ## Further reading
 
-* [Measuring Success in an Open Source Project](http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/) by Steven J Vaughan-Nichols
-* [Using Pirate Metrics to measure success of open source projects](https://opensource.com/business/16/6/pirate-metrics) by Gaby Fachler
+* [Measuring Success in an Open Source Project](http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/) by @sjvn
+* [Using Pirate Metrics to measure success of open source projects](https://opensource.com/business/16/6/pirate-metrics) by @gfachler
 * [
-The Open Source Contributor Funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel) by Mike McQuaid
-* [The shape of open source](https://github.com/blog/2195-the-shape-of-open-source) by Arfon Smith
+The Open Source Contributor Funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel) by @MikeMcQuaid
+* [The shape of open source](https://github.com/blog/2195-the-shape-of-open-source) by @arfon
 * [Libraries.io](http://libraries.io)

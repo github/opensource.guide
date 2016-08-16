@@ -44,7 +44,7 @@ There is no right time to write down your project’s governance, but it’s muc
 
 It’s up to you when you want to give someone commit access to your project. Some people think you should give commit access to everybody who makes a contribution. [^1] Doing so could encourage more people to feel ownership of your project. On the other hand, especially for big community projects, you may want to only give commit access to people who have made have demonstrated their commitment. There’s no one right way of doing it - do what makes you most comfortable!
 
-[^1]: [The Pull Request Hack](http://felixge.de/2013/03/11/the-pull-request-hack.html) by Felix Geisendörfer
+[^1]: [The Pull Request Hack](http://felixge.de/2013/03/11/the-pull-request-hack.html) by @felixge
 
 ## What are some leadership roles or responsibilities that projects use?
 
@@ -58,19 +58,19 @@ Here are some common roles that you might have heard of for open source projects
 
 [Node.js](https://github.com/nodejs), for example, defines a "contributor" as anyone who comments on an issue or pull request, whereas other projects would define a contributor as somebody whose pull request was accepted. [^2]
 
-[^2]: [Healthy Open Source](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951) by Mikeal Rogers
+[^2]: [Healthy Open Source](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951) by @mikeal
 
 For some projects, "maintainers" are the only people in a project with commit access. In other projects, they’re simply the people who are listed in the README as maintainers.
 
-A maintainer doesn’t necessarily have to be someone who writes code for your project. It could be someone who’s done a lot of work evangelizing your project (like [@janl](https://github.com/janl) did for [CouchDB](https://github.com/apache/couchdb)) or written documentation that made the project more accessible to others (like [@orta](https://github.com/orta) did for [CocoaPods](https://github.com/CocoaPods/CocoaPods)). [^3] Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
+A maintainer doesn’t necessarily have to be someone who writes code for your project. It could be someone who’s done a lot of work evangelizing your project (like @janl did for [CouchDB](https://github.com/apache/couchdb)) or written documentation that made the project more accessible to others (like @orta did for [CocoaPods](https://github.com/CocoaPods/CocoaPods)). [^3] Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
 
 [^3]: [From Orta](https://realm.io/news/orta-therox-moving-to-oss-by-default/):
 
     > I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
 
-You should use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill. [@jacobian](https://github.com/jacobian), one of [Django](https://github.com/django/django)’s former BDFLs, once told a crowd at PyCon that he is actually a mediocre programmer who joined the project a year after it started, even though he’s often mistaken as the co-creator or even "inventor" of Django. [^4]
+You should use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill. @jacobian, one of [Django](https://github.com/django/django)’s former BDFLs, once told a crowd at PyCon that he is actually a mediocre programmer who joined the project a year after it started, even though he’s often mistaken as the co-creator or even "inventor" of Django. [^4]
 
-[^4]: [Pycon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s) by Jacob Kaplan-Moss
+[^4]: [Pycon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s) by @jacobian
 
 ## How do I formalize leadership roles in my project?
 

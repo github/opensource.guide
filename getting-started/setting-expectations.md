@@ -56,4 +56,4 @@ We’ll also use these answers in the next section, as you consider the brand of
 ## Further reading
 
 * [Personas and Pathways for Growing Communities](http://mozillascience.github.io/working-open-workshop/personas_pathways/)
-* [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) by Tom Preston-Werner
+* [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) by @mojombo

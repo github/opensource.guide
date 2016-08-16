@@ -19,9 +19,9 @@ There is no magical formula to building an audience and reputation. Gaining the 
 
 You can help people find and remember you by pointing them to your project’s namespace—a website, Twitter handle, or IRC channel, for example.
 
-Consider creating a website for your project. [@adrianholovaty](https://github.com/adrianholovaty) called a well-designed site "by far the best thing we did with Django in the early days"[^1]. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are a few more examples of excellent, comprehensive websites.
+Consider creating a website for your project. @adrianholovaty called a well-designed site "by far the best thing we did with Django in the early days"[^1]. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are a few more examples of excellent, comprehensive websites.
 
-[^1]: [HackerNews comment](https://news.ycombinator.com/item?id=7531689) from [@adrianholovaty](https://github.com/adrianholovaty)
+[^1]: [HackerNews comment](https://news.ycombinator.com/item?id=7531689) from @adrianholovaty
 
 A website, along with clear documentation and tutorials, makes your project seem friendly and easy to navigate. It also suggests that your project is active and supported, which will make your audience feel more comfortable using it. Adding tutorials and examples gives people ideas for ways they can use your project.
 
@@ -39,7 +39,7 @@ Consider introducing yourself and your work to related open source projects and 
 
 ## Go where your audience is (offline)
 
-Look for meetups and conferences that are relevant to your work. Offline outreach is a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers. [@mitchellh](https://github.com/mitchellh) attributes [Vagrant](https://github.com/mitchellh/vagrant)’s growth and popularity to the talks he gave about the project. [^2]
+Look for meetups and conferences that are relevant to your work. Offline outreach is a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers. @mitchellh attributes [Vagrant](https://github.com/mitchellh/vagrant)’s growth and popularity to the talks he gave about the project. [^2]
 
 [^2]: [Notes from @mitchellh's 2016 CodeConf talk](https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md)
 
@@ -53,8 +53,8 @@ In the next section, we’ll talk about how to retain those early enthusiasts an
 
 ## Further reading
 
-* [How to Spread The Word About Your Code](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/) by Peter Cooper and Robert Nyman
-* [Open Source Doesn't Just Market Itself](https://zachholman.com/posts/open-source-marketing/) by Zach Holman
-* [Open-Source Projects Need More Than Good Code—They Need Marketing](http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz/) by Matt Asay
-* [How to make your open-source project thrive](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540) with Andrey Petrov
-* [Marketing for open-source projects](http://radek.io/2015/09/14/marketing-for-open-source-projects-1/) by Radek Pazdera
+* [How to Spread The Word About Your Code](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/) by @peterc and @robnyman
+* [Open Source Doesn't Just Market Itself](https://zachholman.com/posts/open-source-marketing/) by @holman
+* [Open-Source Projects Need More Than Good Code—They Need Marketing](http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz/) by @mjasay
+* [How to make your open-source project thrive](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540) with @shazow
+* [Marketing for open-source projects](http://radek.io/2015/09/14/marketing-for-open-source-projects-1/) by @pazdera
