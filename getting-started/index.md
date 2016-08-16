@@ -15,7 +15,7 @@ When you publish a project on GitHub, you have the option to make the repository
 
 Open source licenses grant permission to everyone to use, modify, and share licensed software for any purpose, subject to certain conditions, depending on the license.
 
-Public repositories on GitHub are covered by [GitHub’s Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which gives other people the right to view and fork your repository. But if you want others to use, copy, modify, or contribute back to your project, you need to [include an open source license](https://help.github.com/articles/open-source-licensing/). For example, someone cannot legally use your GitHub project in their code, even if it’s public, unless you explicitly give them the right to do so. (You can learn more about the legal side of open source [here](legal/).)
+Public repositories on GitHub are covered by [GitHub’s Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which gives other people the right to view and fork your repository. But if you want others to use, copy, modify, or contribute back to your project, you need to [include an open source license](https://help.github.com/articles/open-source-licensing/). For example, someone cannot legally use any part of your GitHub project in their code, even if it’s public, unless you explicitly give them the right to do so. (You can learn more about the legal side of open source [here](legal/).)
 
 ## Open source is more than just source code with a license
 
