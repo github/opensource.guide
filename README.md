@@ -20,8 +20,8 @@ Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.
 > <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>
 > license.</a>
 
-This means you can use the code and content in this repository except for GitHub trademarks in your own projects.
+Code, including source files and code samples if any in the content, is released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-Code in `/test` is released under the MIT License.
+This means you can use the code and content in this repository except for GitHub trademarks in your own projects.
 
 When you contribute to this repository you are doing so under the above licenses.
