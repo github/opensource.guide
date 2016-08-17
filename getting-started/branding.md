@@ -17,7 +17,7 @@ Consider clarity above all. Puns are fun, but remember that some jokes might not
 
 ## Avoiding name conflicts
 
-Make sure that your project’s name doesn’t infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It’s just not worth the risk. You can check for U.S. trademark conflicts [here](http://www.uspto.gov).
+Make sure that your project’s name doesn’t infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It’s just not worth the risk. You can check for U.S. trademark conflicts [here](http://www.uspto.gov/trademarks-application-process/search-trademark-database). If you’re at a company, this is one of the things your [legal team can help you with](./legal/#what-does-my-companys-legal-team-need-to-know).
 
 You’ll also want to look for open source projects with a similar name, especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you will confuse your audience and make it less likely that anyone will use what you’ve created. You can check for similar project names [here](http://ivantomic.com/projects/ospnc/).
 
@@ -31,11 +31,9 @@ Throughout the life of your project, you’ll do a lot of writing: READMEs, tuto
 
 [@janl](https://github.com/janl) discovered that the way he spoke to others helped create a positive brand for [CouchDB](https://github.com/apache/couchdb):
 
-> When I started out at CouchDB and we finally joined the ASF \[Apache Software Foundation\] and it was standard procedure to have a user@ mailing list for end-user support, I remembered my days in the #php channel and decided that that’s not the culture I want to have there. So for the first three or so years, I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style. \[...\]
->
-> Every time I join and read, I see the culture that I helped plant there seven years ago and it makes me very proud. [^1]
+*When I started out at CouchDB and we finally joined the ASF [Apache Software Foundation] and it was standard procedure to have a user@ mailing list for end-user support, I remembered my days in the #php channel and decided that that’s not the culture I want to have there. So for the first three or so years, I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style. [...]*
 
-[^1]: [Sustainable Open Source](http://writing.jan.io/2015/11/20/sustainable-open-source.html) by [@janl](https://github.com/janl)
+*Every time I join and read, I see the culture that I helped plant there seven years ago and it makes me very proud.* [1]
 
 Beyond how you write words, your coding style may also become part of your project’s brand. For example, [Angular](https://github.com/johnpapa/angular-styleguide) and [jQuery](http://contribute.jquery.org/style-guide/js/) are two projects with rigorous coding styles and guidelines.
 
@@ -43,6 +41,10 @@ It isn’t necessary to write a style guide for your project when you’re just 
 
 We’re almost there! Next, we’ll walk you through a few components that every open source project should include when you launch.
 
-## Further reading
+### Footnotes
 
-* [Choose a Good Name](http://producingoss.com/en/getting-started.html#choosing-a-name) from _Producing Open Source Software_ by Karl Fogel
+[1] [http://writing.jan.io/2015/11/20/sustainable-open-source.html](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+
+### Further reading
+
+* [http://producingoss.com/en/getting-started.html#choosing-a-name](http://producingoss.com/en/getting-started.html#choosing-a-name)
