@@ -16,7 +16,7 @@ As a maintainer, these components will help you communicate expectations, manage
 
 ## Choosing a license
 
-An open source license guarantees that others can use, copy, modify and contribute back to your project without repercussions. It also protects you from any sticky legal situations.
+An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from any sticky legal situations.
 
 Legal work is no fun. The good news is there are many licenses available that you can copy and paste into your repository. It will only take a minute to protect your hard work.
 
