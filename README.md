@@ -15,7 +15,7 @@ This handbook aims to reflect community best practices. Check out [CONTRIBUTING.
 Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), which gives you permission to use content for almost any purpose but does not grant you any trademark permissions, so long as you note the license and give credit, such as follows:
 
 > Content based on
-> <a href="https://github.com/github/open-source-handbook">github.com/github/open-source-handbook/a>
+> <a href="https://github.com/github/open-source-handbook">github.com/github/open-source-handbook</a>
 > used under the
 > <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>
 > license.</a>
