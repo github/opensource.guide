@@ -21,6 +21,9 @@ defaults:
     values:
       layout: article
 
+gems:
+  - jekyll-mentions
+
 branch: gh-pages
 
 github:

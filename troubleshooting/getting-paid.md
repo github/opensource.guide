@@ -8,7 +8,7 @@ Today, some open source work is paid. Projects sometimes raise money from compan
 
 For an individual contributor, a company may hire an employee to work on an open source project, or encourage employees to make open source contributions during work hours. [Nodesource](https://github.com/nodesource) and [Rackspace](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) are two companies with these types of arrangements.
 
-Other open source work is unpaid or volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time. (Did you know that [@gvanrossum](https://github.com/gvanrossum)started [Python](https://github.com/python) over a Christmas holiday?)
+Other open source work is unpaid or volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time. (Did you know that @gvanrossum started [Python](https://github.com/python) over a Christmas holiday?)
 
 There are plenty of reasons why a person or project would not want to be paid for open source work. They may already have a full-time job that they love, which enables them to contribute to open source in their spare time. Others enjoy thinking of open source as a hobby or creative escape and don’t want to feel financially obligated to work on their projects.
 
@@ -28,7 +28,7 @@ If you’d like to explore other different funding options, you can check out [t
 
 ## Further reading
 
-* [For Love and For Money](http://lifeofaudrey.com/essays/love_and_money.html) by Audrey Eschright
-* [Why we don't accept donations](http://blog.cocoapods.org/Why-we-dont-accept-donations/) by Eloy Durán
-* [More Money For Better Open-Source Software](http://marijnhaverbeke.nl/blog/sustainable-maintenance.html) by Marijn Haverbeke
-* [Money and Open Source](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.nyk44wmm1) by Isaac Schlueter
+* [For Love and For Money](http://lifeofaudrey.com/essays/love_and_money.html) by @aeschright
+* [Why we don't accept donations](http://blog.cocoapods.org/Why-we-dont-accept-donations/) by @alloy
+* [More Money For Better Open-Source Software](http://marijnhaverbeke.nl/blog/sustainable-maintenance.html) by @marijnh
+* [Money and Open Source](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.nyk44wmm1) by @isaacs

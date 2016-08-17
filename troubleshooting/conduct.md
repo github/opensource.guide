@@ -16,7 +16,7 @@ Ideally, you’ve explained how your code of conduct will be enforced **_before_
 
 You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
 
-Don’t forget that someone might want to report a violation about someone who usually receives those reports. In this case, give them an option to report violations to someone else. For example, [@ctb](https://github.com/ctb) and [@mr-c](https://github.com/mr-c) explain on their project, [Khmer](https://github.com/dib-lab/khmer):
+Don’t forget that someone might want to report a violation about someone who usually receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c explain on their project, [Khmer](https://github.com/dib-lab/khmer):
 
 > Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.* [^1]
 
@@ -55,4 +55,4 @@ It’s not always easy to enforce your code of conduct, but this type of work is
 * [Django Code of Conduct - Enforcement Manual](https://www.djangoproject.com/conduct/enforcement-manual/)
 * [Enforcing Your Code of Conduct](http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response) presentation by Audrey Eschright
 * [The Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
-* [Difficult People](http://producingoss.com/en/producingoss.html#difficult-people) from _Producing Open Source Software_ by Karl Fogel
+* [Difficult People](http://producingoss.com/en/producingoss.html#difficult-people) from _Producing Open Source Software_ by @kfogel
