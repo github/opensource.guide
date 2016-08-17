@@ -51,7 +51,7 @@ The first rule of open source, according to @shykes: _"No is temporary, yes is f
 
 Saying no applies to many situations you’ll come across as a maintainer. You can say no to feature requests that don’t fit the scope of your project. You can say no, or refuse to engage, when someone derails a conversation on a mailing list. You can say no to doing work for others that you don’t find important.
 
-One of the most important places you’ll practice saying no is on your issue and pull request queue.  If someone suggests an idea that you know you won’t accept, don’t leave it open because you feel guilty or want to be nice. Be kind, but firm. Thank them for their contribution and explain why it doesn’t fit into the scope of the project. Then close the request.
+One of the most important places you’ll practice saying no is on your issue and pull request queue. If someone suggests an idea that you know you won’t accept, don’t leave it open because you feel guilty or want to be nice. Be kind, but firm. Thank them for their contribution and explain why it doesn’t fit into the scope of the project. Then close the request.
 
 If you notice repeated requests for things you don’t want to accept, consider adding them into your contribution policy, so you don’t have to keep repeating yourself.
 
