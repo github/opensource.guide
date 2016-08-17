@@ -17,7 +17,7 @@ Consider clarity above all. Puns are fun, but remember that some jokes might not
 
 ## Avoiding name conflicts
 
-Make sure that your project’s name doesn’t infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It’s just not worth the risk. You can check for U.S. trademark conflicts [here](http://www.uspto.gov/trademarks-application-process/search-trademark-database). If you’re at a company, this is one of the things your [legal team can help you with](./legal/#what-does-my-companys-legal-team-need-to-know).
+Make sure that your project’s name doesn’t infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It’s just not worth the risk. You can check for U.S. trademark conflicts [here](http://www.uspto.gov/trademarks-application-process/search-trademark-database). If you’re at a company, this is one of the things your [legal team can help you with](../legal/#what-does-my-companys-legal-team-need-to-know).
 
 You’ll also want to look for open source projects with a similar name, especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you will confuse your audience and make it less likely that anyone will use what you’ve created. You can check for similar project names [here](http://ivantomic.com/projects/ospnc/).
 
