@@ -92,7 +92,7 @@ Sometimes, it will take a long time before people notice your open source projec
 * READMEs
   * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) by @mojombo
   * [Awesome README](https://github.com/matiassingers/awesome-readme)
-  * [18F logo 18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/making-readmes-readable/)
+  * [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/making-readmes-readable/)
   * [A Beginner’s Guide to Creating a README](https://changelog.com/a-beginners-guide-to-creating-a-readme/) by @beverlynelson
   * [README.md template](https://gist.github.com/jxson/1784669) from @jxson
 * Contributing guides
