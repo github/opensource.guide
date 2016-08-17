@@ -18,7 +18,7 @@
 
 * Wants people to notice their project
 
-* Wants people to actually use the project, give them feedback
+* Wants people to actually use the project and give feedback
 
 ### Frustrations/Pain Points
 
@@ -42,7 +42,7 @@
 
 ### Primary Goals
 
-* Manage personal time so project demands don’t overwhelm them
+* Manage personal time so project demands don’t become overwhelming
 
 * Find other contributors or maintainers to help with the project
 
