@@ -3,7 +3,7 @@ title: Leadership & Governance
 next: troubleshooting/index.md
 ---
 
-Your project is growing, people are engaged, and you’re committed to keeping this thing going. At this stage, you’re probably starting to wonder about governance. Maybe you want to recognize a community members who’s made significant contributions to your project. Maybe you’ve gotten into a debate with your community and realized you didn’t know how to resolve it.
+Your project is growing, people are engaged, and you’re committed to keeping this thing going. At this stage, you’re probably starting to wonder about governance. Maybe you want to recognize a community member who’s made significant contributions to your project. Maybe you’ve gotten into a debate with your community and realized you didn’t know how to resolve it.
 
 In this section, we’ll answer some commonly asked questions about leadership and governance for open source projects.
 

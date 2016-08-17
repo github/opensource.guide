@@ -15,7 +15,7 @@ There is no one right answer to this question. You may find that you have multip
 
 Here are some examples of [reasons](http://ben.balter.com/2015/11/23/why-open-source/) why people open source their work:
 
-* An individual wants to show off his or her portfolio
+* An individual wants to show off their portfolio
 * An individual or company wants others to use what they’ve created
 * A community wants to find collaborators to shape the project and help it grow
 * An individual wants to get feedback on their work

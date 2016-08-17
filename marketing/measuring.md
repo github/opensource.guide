@@ -3,7 +3,7 @@ title: Measuring Success
 next: sustaining/index.md
 ---
 
-Your project is starting to grow. 🌱  Well, you think it’s growing. Is it growing? In this section, we’ll talk about how to measure and track the success of your open source project.
+Your project is starting to grow. 🌱 Well, you think it’s growing. Is it growing? In this section, we’ll talk about how to measure and track the success of your open source project.
 
 ## Discoverability
 
@@ -25,7 +25,7 @@ You may also want to track discoverability in specific places: for example, Goog
 
 ## Usage
 
-People are finding your project on this wild and crazy thing we call the Internet. Ideally, when they see your project, they’ll feel compelled to do something. The second question you’ll want to ask is: _are people using my project?_
+People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they’ll feel compelled to do something. The second question you’ll want to ask is: _are people using my project?_
 
 If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project’s downloads. Each package manager may use a slightly different definition of "download", and downloads do not not necessarily correlate to installs or use, but it provides some baseline for comparison.
 

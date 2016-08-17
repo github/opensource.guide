@@ -19,7 +19,7 @@ Thankfully, you don’t have to start from scratch. This section will make sure 
 
 When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation. Once the work has other contributors (each a copyright holder), "nobody" starts including you.
 
-An open source license guarantees that everyone can use, modify and share your project. It protects both you and anybody else who might interact with your project.
+An open source license guarantees that everyone can use, modify, and share your project. It protects both you and anybody else who might interact with your project.
 
 Making your GitHub project public is not the same as licensing your project. Public GitHub projects allow others to view and fork your project, but your work otherwise comes with no permissions unless you add an open source license.
 
