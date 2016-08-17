@@ -80,17 +80,16 @@ Sometimes, it will take a long time before people notice your open source projec
 ## Further reading
 
 * Licenses
-  * [Open source licensing](https://help.github.com/articles/open-source-licensing/)
   * [ChooseALicense.com](http://choosealicense.com)
 * READMEs
-  * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) by Tom Preston-Werner
+  * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) by @mojombo
   * [Awesome README](https://github.com/matiassingers/awesome-readme)
-  * [18F logo 18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/making-readmes-readable/)
-  * [A Beginner’s Guide to Creating a README](https://changelog.com/a-beginners-guide-to-creating-a-readme/) by Beverly Nelson
+  * [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/making-readmes-readable/)
+  * [A Beginner’s Guide to Creating a README](https://changelog.com/a-beginners-guide-to-creating-a-readme/) by @beverlynelson
   * [README.md template](https://gist.github.com/jxson/1784669) from @jxson
 * Contributing guides
   * [Contributing Guidelines](https://github.com/blog/1184-contributing-guidelines) by @vinbarnes
-  * [Contributing to Open Source Projects](http://www.contribution-guide.org/) by Jeff Forcier
+  * [Contributing to Open Source Projects](http://www.contribution-guide.org/) by @bitprophet
   * [Contributing Guides: A Template](https://github.com/nayafia/contributing-template) by @nayafia
   * [Wrangling Web Contributions: How to Build a CONTRIBUTING.md](http://mozillascience.github.io/working-open-workshop/contributing/)
 * Codes of conduct

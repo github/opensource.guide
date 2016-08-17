@@ -23,7 +23,7 @@ You don’t have to overdo it or feel like you’re putting others’ needs in f
 
 ## Document everything
 
-When you start an open source project, it may feel natural to keep your ideas and workflows private. But open source projects thrive when you document your process in public. That way, more people can participate at every step of the way. Not only will they know *what* to contribute, but they’ll also know *how*. You might get help on something you didn’t even know you needed.
+When you start an open source project, it may feel natural to keep your ideas and workflows private. But open source projects thrive when you document your process in public. That way, more people can participate at every step of the way. Not only will they know _what_ to contribute, but they’ll also know _how_. You might get help on something you didn’t even know you needed.
 
 Documenting your open source project means more than just technical documentation. Be transparent about your project’s roadmap, your timeline for completing new features, the types of contributions you’re looking for, how contributions are reviewed and accepted, or why you made certain decisions. Any time you feel the urge to write something down about your project, ask yourself whether you can make it public. The feedback you’ll get from this level of transparency may surprise you.
 
@@ -39,9 +39,9 @@ Remember that conversations about your project could also be happening in other 
 
 ## Make it easy for people to use and contribute
 
-One way to think about your project’s community is what [@MikeMcQuaid](https://github.com/MikeMcQuaid) calls the contributor funnel. [^2] At the top of the funnel is anybody who could potentially use your project. At the bottom of the funnel are people like you who maintain the project.
+One way to think about your project’s community is what @MikeMcQuaid calls the contributor funnel. [^2] At the top of the funnel is anybody who could potentially use your project. At the bottom of the funnel are people like you who maintain the project.
 
-[^2]: [The Open Source Contributor Funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel) by Mike McQuaid
+[^2]: [The Open Source Contributor Funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel) by @MikeMcQuaid
 
 As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to make each stage of the contributor experience as frictionless as possible. When people have easy wins, they will feel incentivized to do more.
 
@@ -53,7 +53,7 @@ You’re doing great so far! Now that you’re promoting your project and growin
 
 ## Further reading
 
-* [Growing the community around your open-source project](http://radek.io/2015/10/12/marketing-for-open-source-projects-5/) by Radek Pazdera
-* [Welcoming Communities](http://hood.ie/blog/welcoming-communities.html) by Gregor Martynus
-* [Building Popular Projects](https://ashfurrow.com/blog/building-popular-projects/) by Ash Furrow
-* [What makes a good community?](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/) by Sarah Sharp
+* [Growing the community around your open-source project](http://radek.io/2015/10/12/marketing-for-open-source-projects-5/) by @pazdera
+* [Welcoming Communities](http://hood.ie/blog/welcoming-communities.html) by @gr2m
+* [Building Popular Projects](https://ashfurrow.com/blog/building-popular-projects/) by @ashfurrow
+* [What makes a good community?](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/) by @sarahsharp
