@@ -1,0 +1,92 @@
+//
+// Code snippets
+//
+
+
+// Based on .markdown-body styles
+
+code,
+pre {
+  font-family: Consolas,"Liberation Mono",Menlo,Courier,monospace;
+  font-size: 12px;
+}
+
+// Inline code
+code {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0, 0, 0, 0.04);
+  border-radius: $border-radius / 2;
+
+  &::before,
+  &::after {
+    letter-spacing: -0.2em;
+    content: "\00a0";
+  }
+}
+
+// Code blocks
+.highlight {
+  margin: 0 0 $spacer4;
+  background-color: $gray-light;
+  border: $border;
+  border-radius: $border-radius;
+
+  pre {
+    padding: $spacer3;
+    margin-bottom: 0;
+    overflow: auto;
+    font-size: 16px;
+    line-height: 1.45;
+
+    code {
+      display: inline;
+      max-width: initial;
+      padding: 0;
+      margin: 0;
+      overflow: initial;
+      line-height: inherit;
+      word-wrap: normal;
+      background-color: transparent;
+      border: 0;
+
+      &::before,
+      &::after {
+        content: none;
+      }
+    }
+  }
+}
+
+// Example styles
+
+.example {
+  padding: $spacer3;
+  margin-top: $spacer3;
+  border: $border;
+  border-top-left-radius: $border-radius;
+  border-top-right-radius: $border-radius;
+
+  + .highlight {
+    margin-bottom: $spacer4;
+    border-top: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+}
+
+.screenshot {
+  margin-bottom: $spacer5;
+
+  img {
+    display: inline-block;
+    margin: $spacer 0;
+    border-radius: $border-radius;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+  }
+}
+
+.highlight { + .highlight { margin-top: -$spacer3; }}

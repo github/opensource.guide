@@ -1,0 +1,42 @@
+// Makes single images fluid
+.img-fluid {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.img-static {
+  width: auto;
+  max-width: none;
+  height: auto;
+}
+
+// Makes all media fluid by default
+// Use as a body class or in specific areas
+// Wrap videos, map embeds, etc in .media-container
+.media-fluid {
+  img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .media-container {
+    position: relative;
+    max-width: 100%;
+    height: 0;
+    padding-top: 30px;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+
+    iframe,
+    object,
+    embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  }
+}

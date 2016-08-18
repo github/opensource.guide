@@ -28,3 +28,6 @@ branch: gh-pages
 
 github:
   repository_nwo: github/open-source-handbook
+
+sass:
+    sass_dir: _sass

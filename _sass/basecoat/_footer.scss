@@ -1,0 +1,44 @@
+.footer {
+  position: relative;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 30px;
+  font-size: 13px;
+  line-height: 32px; // match height of .footer-mark
+  text-align: center;
+  border-top: $border;
+}
+
+.footer-mark {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: none;
+  margin-top: -16px;
+  margin-left: -16px;
+  color: #ccc;
+
+  @include breakpoint(md) {
+    display: block;
+  }
+}
+
+.footer-nav {
+  @include breakpoint(md) {
+    float: right;
+  }
+}
+
+.footer-nav-item {
+  display: inline-block;
+
+  + .footer-nav-item {
+    margin-left: 20px;
+  }
+}
+
+.footer-legal {
+  @include breakpoint(md) {
+    float: left;
+  }
+}

@@ -1,0 +1,34 @@
+// Text colors
+.text-black {color: $heading-color !important;}
+.text-default {color: $body-color !important;}
+.text-white { color: $white !important; }
+
+// Link colors
+.link-white {
+  color: $white;
+  opacity: 0.7;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+.link-muted {
+  color: $link-muted;
+
+  &:hover {
+    color: $link-muted-hover;
+    text-decoration: none !important;
+  }
+}
+
+// Background colors
+.bg-white { background: $white !important;}
+.bg-black { background: $black !important;}
+.bg-gray-light { background: $gray-light !important;}
+.bg-theme-color { background: $theme-color !important; }
+.bg-shade-gradient {
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.065), rgba(0, 0, 0, 0));
+  background-repeat: no-repeat;
+  background-size: 100% 200px;
+}
