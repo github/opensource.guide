@@ -35,7 +35,7 @@ Try to be responsive when someone files an issue, submits a pull request, or ask
 
 [^1]: [Measuring Engagement](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) presentation by David Eaves, Adam Lofting, Pierros Papadeas, Peter Loewen
 
-Remember that conversations about your project could also be happening in other places around the Internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
+Remember that conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
 
 ## Make it easy for people to use and contribute
 

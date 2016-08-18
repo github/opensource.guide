@@ -8,6 +8,8 @@ var parse = require('remark-parse');
 var lint = require('remark-lint');
 var remark2retext = require('remark-retext');
 var stringify = require('remark-stringify');
+var english = require('retext-english');
+var sentenceSpacing = require('retext-sentence-spacing');
 
 // Util stuff
 var report = require('vfile-reporter');
@@ -55,12 +57,13 @@ async.map(ignore.filter(glob.sync("**/*.md")), function(file, callback) {
     unified()
       .use(parse)
       .use(lint, options["lint"])
-      // .use(remark2retext, unified()
-      //   .use(require('retext-english'))
-      //   .use(require('retext-simplify'), options["simplify"])
-      //   .use(require('retext-equality'))
-      //   .use(require('retext-readability'), options["readability"])
-      // )
+      .use(remark2retext, unified()
+        .use(english)
+        .use(sentenceSpacing, {preferred: 1})
+        // .use(require('retext-simplify'), options["simplify"])
+        // .use(require('retext-equality'))
+        // .use(require('retext-readability'), options["readability"])
+      )
       .use(stringify)
       .process(contents.toString(), options["remark"], function (err, result) {
           result.filename = file;

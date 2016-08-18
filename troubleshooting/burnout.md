@@ -16,7 +16,7 @@ Write your time constraints directly into your README. If your time is purely vo
 
 ## Write an agreement for maintainers and contributors
 
-If you haven't noticed by now, the more you write down, the easier your life will be. 😎  One thing you may want to consider writing down are ground rules and expectations for maintainers (and contributors!). Think of it as an extension of your code of conduct.
+If you haven't noticed by now, the more you write down, the easier your life will be. 😎 One thing you may want to consider writing down are ground rules and expectations for maintainers (and contributors!). Think of it as an extension of your code of conduct.
 
 For example, as a maintainer, you might promise to acknowledge every contribution, even if you don't accept them. You might ask contributors to promise that their code passes all tests before they submit it.
 

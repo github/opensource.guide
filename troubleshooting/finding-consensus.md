@@ -4,7 +4,7 @@ title: Finding community consensus
 
 Early in the life of your open source project, making major decisions is easy. When you want to do something, you just do it.
 
-As your project becomes more popular, more people will take interest in the decisions you make. Even if you don't have a big community of contributors,, you'll find that people will start to weigh in on your decisions or raise issues of their own if your project has a lot of users.
+As your project becomes more popular, more people will take interest in the decisions you make. Even if you don't have a big community of contributors, you'll find that people will start to weigh in on your decisions or raise issues of their own if your project has a lot of users.
 
 For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, you and your community should be able to reach a resolution. But sometimes you run into an issue that's a little bit harder to address. Here are some strategies to reach consensus.
 
