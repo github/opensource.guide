@@ -9,17 +9,17 @@ So you’re interested in making your project open source? Congratulations! 🎉
 
 Before we get into the details of running and managing an open source project, let’s talk about what open sourcing a project actually means.
 
-## Public projects on GitHub are not open source
+## Public projects on GitHub without a license are not open source
 
 When you publish a project on GitHub, you have the option to make the repository **private** or **public**. A public repository is not automatically open source unless you pick a license that grants a certain set of rights to people who might interact with your project.
 
 Open source licenses grant permission to everyone to use, modify, and share licensed software for any purpose, subject to certain conditions, depending on the license.
 
-Public repositories on GitHub [comply with GitHub’s Terms of Service](https://help.github.com/articles/open-source-licensing/), which gives other people the right to view and fork your repository. But if you want others to use, copy, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use your GitHub project in their code, even if it’s public, unless you explicitly give them the right to do so. (You can learn more about the legal side of open source [here](legal/).)
+Public repositories on GitHub are covered by [GitHub’s Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which gives other people the right to view and fork your repository. But if you want others to use, copy, modify, or contribute back to your project, you need to [include an open source license](https://help.github.com/articles/open-source-licensing/). For example, someone cannot legally use any part of your GitHub project in their code, even if it’s public, unless you explicitly give them the right to do so. (You can learn more about the legal side of open source [here](legal/).)
 
-## Open source is more than just a license
+## Open source is more than just source code with a license
 
-Open source is defined by its legal protections and freedoms. In terms of culture, open sourcing a project has come to mean much more.
+Open source is [defined by](https://opensource.org/osd) source code with legal protections and freedoms. In terms of culture, open sourcing a project has come to mean much more.
 
 There are many reasons why a person or organization might want to open source a project. Some examples are:
 
