@@ -7,14 +7,8 @@ Your project is growing, people are engaged, and you're committed to keeping thi
 
 In this section, we'll answer some commonly asked questions about leadership and governance for open source projects.
 
-## Table of Contents
-
-1. [What are some of the common governance structures for open source projects?](#what-are-some-of-the-common-governance-structures-for-open-source-projects)
-2. [Do I need governance docs when I launch my project?](#do-i-need-governance-docs-when-i-launch-my-project)
-3. [When should I give someone commit access?](#when-should-i-give-someone-commit-access)
-4. [What are some leadership roles or responsibilities that projects use?](#what-are-some-leadership-roles-or-responsibilities-that-projects-use)
-5. [How do I formalize leadership roles in my project?](#how-do-i-formalize-leadership-roles-in-my-project)
-6. [Do I need a legal entity to support my project?](#do-i-need-a-legal-entity-to-support-my-project)
+* TOC
+{:toc}
 
 ## What are some of the common governance structures for open source projects?
 

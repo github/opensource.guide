@@ -5,6 +5,9 @@ next: sustaining/index.md
 
 Your project is starting to grow. 🌱 Well, you think it's growing. Is it growing? In this section, we'll talk about how to measure and track the success of your open source project.
 
+* TOC
+{:toc}
+
 ## Discoverability
 
 Before anybody can use or contribute back to your project, they first need to know it exists. The first question you'll want to ask yourself, then, is: _are people finding my project?_

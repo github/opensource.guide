@@ -14,6 +14,9 @@ Every open source project should include the following:
 
 As a maintainer, these components will help you communicate expectations, manage contributions, protect your, contributors', and users' legal rights, and make sure that you and your contributors have a positive experience. The more you can document for your readers up front, the less work you'll have to do later on.
 
+* TOC
+{:toc}
+
 ## Choosing a license
 
 An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from any sticky legal situations.
