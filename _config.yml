@@ -23,6 +23,7 @@ defaults:
 
 gems:
   - jekyll-mentions
+  - jekyll-octicons
 
 branch: gh-pages
 
