@@ -37,6 +37,12 @@ var options = {
     "first-heading-level": 2,       // Page title is h1, so start with h2
     "no-missing-blank-lines": {"exceptTightLists": true},
     "emphasis-marker": "_",
+    "strong-marker": "*",
+    "unordered-list-marker-style": "*",
+    "ordered-list-marker-style": ".",
+    "blockquote-indentation": 2,
+    "heading-style": "atx",
+
 
     // FIXME: Eventually remove these
     "maximum-heading-length": 80,
