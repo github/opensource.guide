@@ -31,8 +31,8 @@ h2,
   font-weight: 300;
   line-height: 1.2;
 
-  @include breakpoint(md) { font-size: 34px; }
-  @include breakpoint(lg) { font-size: 38px; }
+  @include breakpoint(md) { font-size: 32px; }
+  @include breakpoint(lg) { font-size: 34px; }
 }
 
 h3,

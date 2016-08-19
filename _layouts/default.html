@@ -3,13 +3,20 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   </head>
   <body>
-    <div id="content text-white">
-      {{ content }}
-    </div>
+    <header class="border-bottom p-3 clearfix">
+      <h3 class="mb-0 float-sm-left pt-sm-2 mb-3 mb-sm-0">Open Source Handbook</h3>
+      <a  href="{{ site.baseurl }}" class="mb-0 float-sm-right btn btn-outline">
+        View on GitHub
+      </a>
+    </header>
+    <main class="bg-shade-gradient">
+      <div id="content" class="container-narrow mx-auto pt-5 pt-sm-7">
+        {{ content }}
+      </div>
+    </main>
   </body>
 </html>

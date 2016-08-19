@@ -2,11 +2,14 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
-
-<a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}">
-  Suggest edits
-</a>
+<header class="border-bottom mb-3 mb-sm-5">
+  <h1 class="mb-2">{{ page.title }}</h1>
+  <div class="mb-4">
+    <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="link-muted">
+      Suggest edits to this page
+    </a>
+  </div>
+</header>
 
 {{ content }}
 
