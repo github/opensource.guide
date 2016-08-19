@@ -31,6 +31,9 @@ layout: default
       {% assign previous = site.pages | where: "next", page.path | first %}
       <div class="clearfix border-top mt-4 mt-md-7 py-3 py-md-6">
         <div class="col-md-6">
+          {% if previous == null %}
+            <span class="d-block">&nbsp;</span>
+          {% endif %}
           {% if previous %}
             <p class="mb-1">Previous</p>
             <a href="{{ previous.url | prepend: site.baseurl }}" class="text-gamma link-blue">{{ previous.title }}</a>
