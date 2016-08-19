@@ -57,7 +57,7 @@ The CONTRIBUTING file is a place to clearly state the types of contributions you
 
 You should reference your CONTRIBUTING file in your README. In your README, give your audience a quick overview of how contributions work, then link to the CONTRIBUTING file for more information.
 
-If you place your CONTRIBUTING file in the root directory, GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+If you [place your CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
 
 ## Establishing a code of conduct
 
