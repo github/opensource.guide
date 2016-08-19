@@ -1,6 +1,6 @@
 # Content Model
 
-The Open Source Handbook helps individuals, communities, and companies embrace open source software. It explains not only how to accomplish a task, but why you’d want to, and how that task fits into the larger story of consuming, contributing to, and producing open source software.
+The Open Source Handbook helps individuals, communities, and companies embrace open source software. It explains not only how to accomplish a task, but why you'd want to, and how that task fits into the larger story of consuming, contributing to, and producing open source software.
 
 This content is created and curated by GitHub, and covers topics that are very relevant to GitHub users, but it is not specific to GitHub products.
 
@@ -13,22 +13,22 @@ For content that is specific to GitHub products, see:
 
 Each piece of content is grouped under a *dimension* and *topic*.
 
-A *dimension* roughly describes an individual’s relationship with an open source project:
+A *dimension* roughly describes an individual's relationship with an open source project:
 
 0. **Basics**: rudimentary introduction to the concepts of open source.
 0. (coming in v2) **Consuming**: using open source software.
 0. (coming in v2) **Contributing**: getting involved and improving existing open source projects.
 0: **Producing**: starting, growing, and maintaining your own open source project.
 
-A “topic” groups together content around a high-level goal of the user, and should begin with a [gerund](https://en.wikipedia.org/wiki/Gerund).
+A "topic" groups together content around a high-level goal of the user, and should begin with a [gerund](https://en.wikipedia.org/wiki/Gerund).
 
 Examples:
 
-- :smile: “Building a community”
-- :smile: “Reviewing contributions”
-- :smile: “Choosing a license”
-- :cry: “Code review”
-- :cry: “Legal”
+- :smile: "Building a community"
+- :smile: "Reviewing contributions"
+- :smile: "Choosing a license"
+- :cry: "Code review"
+- :cry: "Legal"
 
 ## Common Elements
 
@@ -39,7 +39,7 @@ Every piece of content contains these elements:
 Each piece of content may also include:
 
 - [References](#references)
-- [Credits](#credits) - 
+- [Credits](#credits) -
 
 ### Introductions
 
@@ -92,23 +92,23 @@ Tactical content answers the question "How?". This is arguably the most common t
 
 Tactical content is structured as:
 
-- **Title** - Tactical articles should begin with a gerund. For example, "Enforcing a code of conduct”.
+- **Title** - Tactical articles should begin with a gerund. For example, "Enforcing a code of conduct".
 
-- **Introduction** - The introduction should should explain what the user will specifically accomplish by applying these tactics, and can and probably should reference [conceptual content](#conceptual-content) to further explain why you would want to apply the tactics. For example, an article on “Enforcing a Code of Conduct” should reference the conceptual content “About codes of conduct”.
+- **Introduction** - The introduction should should explain what the user will specifically accomplish by applying these tactics, and can and probably should reference [conceptual content](#conceptual-content) to further explain why you would want to apply the tactics. For example, an article on "Enforcing a Code of Conduct" should reference the conceptual content "About codes of conduct".
 
-- **Tactical sections** - These sections explain each tactic involved in achieving the goal. They may be procedural steps, or just a list of individual tactics that should be considered. For example, an article on “Enforcing a code of conduct” might have a tactical section called “Responding to reports of abuse”.
+- **Tactical sections** - These sections explain each tactic involved in achieving the goal. They may be procedural steps, or just a list of individual tactics that should be considered. For example, an article on "Enforcing a code of conduct" might have a tactical section called "Responding to reports of abuse".
 
 - **Summarizing conclusion** - Conclude by briefly reviewing how these tactics connect to the larger story and encouraging the user to find ways to apply them to their situation.
 
 - Links to **Related content** - Hopefully the user is excited about what they've just learned and wants to find out more.
- 
+
 ### Frequently Asked Questions (FAQs)
 
-FAQ articles aim to directly address common questions or misconceptions. These tend to be questions that have known but nuanced answers, such as “Is open source software secure?” or “How do I convince my boss to let me contribute to open source?”.
+FAQ articles aim to directly address common questions or misconceptions. These tend to be questions that have known but nuanced answers, such as "Is open source software secure?" or "How do I convince my boss to let me contribute to open source?".
 
 FAQ content is structured as:
 
-- **Title** should be in the form of a question. The question should be succinct and as close to the most widely asked form of the question, because not every person will ask a question in the same way. For example, “What is open source?”, or “How do I make money writing open source software?”
+- **Title** should be in the form of a question. The question should be succinct and as close to the most widely asked form of the question, because not every person will ask a question in the same way. For example, "What is open source?", or "How do I make money writing open source software?"
 
 - **Body** should be as brief as possible - answering the question and linking off to more information where appropriate. Ask yourself if the question (the title) could be rephrased to create [conceptual](#conceptual-content) or [tactical](#tactical-content) content.
 
@@ -124,5 +124,3 @@ Referential content is structured as:
 - **Title** - should begin with a noun describing the information that's being referenced, followed by how you'd use that thing. For example, "Countries that support SMS for two-factor authentication".
 
 It's always a good idea to link a referential article to a tactical or conceptual article, even if that's in the **Further reading** section at the end of the article.
-
-

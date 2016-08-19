@@ -18,11 +18,11 @@
 
 * Wants people to notice their project
 
-* Wants people to actually use the project, give him/her feedback
+* Wants people to actually use the project and give feedback
 
 ### Frustrations/Pain Points
 
-* Doesn’t know how to find an audience
+* Doesn't know how to find an audience
 
 ## 2. Individual developer (multiple projects)
 
@@ -42,7 +42,7 @@
 
 ### Primary Goals
 
-* Manage personal time so project demands don’t overwhelm him/her
+* Manage personal time so project demands don't become overwhelming
 
 * Find other contributors or maintainers to help with the project
 
@@ -74,7 +74,7 @@
 
 ### Frustrations/Pain Points
 
-* Managing a community is exhausting, especially when it’s volunteer work
+* Managing a community is exhausting, especially when it's volunteer work
 
 ## 4. Corporate entity
 
@@ -114,12 +114,12 @@
 
 * Non-developers (individual, student, community, corporate)
 
-    * People who are open sourcing projects that don’t involve code (ex. books, documents, templates)
+    * People who are open sourcing projects that don't involve code (ex. books, documents, templates)
 
     * Can we use language that applies to both code- and non-code-centric projects?
 
-    * If we don’t tailor the handbook to them, will they feel isolated or ignored? Is there anything we’d miss about their experience?
+    * If we don't tailor the handbook to them, will they feel isolated or ignored? Is there anything we'd miss about their experience?
 
 * Student developer
 
-    * Likely more interested in learning how to contribute vs. how to start their own project. Set this aside for v1 (we’re primarily focusing on who produces open source projects)
+    * Likely more interested in learning how to contribute vs. how to start their own project. Set this aside for v1 (we're primarily focusing on who produces open source projects)
