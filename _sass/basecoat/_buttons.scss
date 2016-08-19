@@ -157,6 +157,10 @@
   background-image: none;
   border: 1px solid $border-color;
 
+  svg {
+    fill: $gray-dark;
+  }
+
   &:hover,
   &:active,
   &.selected,
@@ -166,6 +170,10 @@
     background-color: $link-color;
     background-image: none;
     border-color: $border-color-link;
+
+    svg {
+      fill: $white;
+    }
   }
 
   &.selected:hover {

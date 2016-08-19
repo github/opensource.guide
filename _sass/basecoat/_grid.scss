@@ -8,6 +8,16 @@
   width: 100%;
   padding-left: $container-padding;
   padding-right: $container-padding;
+
+  @include breakpoint(md) {
+    padding-left: $container-padding*2;
+    padding-right: $container-padding*2;
+  }
+
+  @include breakpoint(lg) {
+    padding-left: $container-padding*3;
+    padding-right: $container-padding*3;
+  }
 }
 
 .container {
