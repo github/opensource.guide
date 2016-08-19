@@ -1,6 +1,6 @@
 ---
 title: The legal side of open source
-breadcrumb: Getting Started
+next: getting-started/preparing.md
 ---
 
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about.

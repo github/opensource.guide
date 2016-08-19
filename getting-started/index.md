@@ -1,6 +1,11 @@
 ---
 title: Before you Get Started
 next: getting-started/setting-expectations.md
+contents:
+  - getting-started/setting-expectations.md
+  - getting-started/branding.md
+  - getting-started/legal.md
+  - getting-started/preparing.md
 ---
 
 ## What does it mean to open source a project?

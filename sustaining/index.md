@@ -1,6 +1,10 @@
 ---
 title: Sustaining Growth
 next: sustaining/best-practices.md
+contents:
+- sustaining/best-practices.md
+- sustaining/healthy-communities.md
+- sustaining/leadership.md
 ---
 
 Congratulations! You launched a project into the universe, and it managed to hit escape velocity. People are using your project, contributing back, and telling their friends. Your project has a bright future ahead of it. 👏 🚀 🌠
