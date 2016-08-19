@@ -3,5 +3,8 @@
 title:
   required: true
 
+contents:
+  type: Array
+
 next:
   type: String
