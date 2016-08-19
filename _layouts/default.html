@@ -6,14 +6,14 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-
   </head>
-
   <body>
     <header class="border-bottom clearfix">
       <div class="container-wide mx-auto">
-        <h3 class="my-3 my-4 d-inline-block pr-3">Open Source Handbook</h3>
-        <a  href="https://github.com/{{ site.github.repository_nwo }}" class="">
+        <h3 class="my-3 my-4 d-inline-block pr-3">
+          <a href="{{ site.baseurl }}" class="link-unstyled">Open Source Handbook</a>
+        </h3>
+        <a href="https://github.com/{{ site.github.repository_nwo }}" class="">
           View on GitHub
         </a>
       </div>
