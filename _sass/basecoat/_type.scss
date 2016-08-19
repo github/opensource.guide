@@ -16,6 +16,21 @@ body {
 //
 
 h1,
+h2,
+h3,
+h4,
+h5,
+.text-alpha,
+.text-beta,
+.text-gamma,
+.text-delta {
+  margin-top: 0;
+  margin-bottom: 0.45em;
+  color: $heading-color;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
 .text-alpha {
   font-size: 36px;
   font-weight: 300;
@@ -27,11 +42,15 @@ h1,
 
 h2,
 .text-beta {
-  font-size: 28px;
+  font-size: 26px;
   font-weight: 300;
   line-height: 1.2;
+  margin-top: $spacer3;
 
-  @include breakpoint(md) { font-size: 32px; }
+  @include breakpoint(md) {
+    font-size: 30px;
+    margin-top: $spacer5;
+  }
   @include breakpoint(lg) { font-size: 34px; }
 }
 
@@ -50,21 +69,6 @@ h4,
   font-size: 16px;
   font-weight: 500;
   line-height: 1.4;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-.text-alpha,
-.text-beta,
-.text-gamma,
-.text-delta {
-  margin-top: 0;
-  margin-bottom: 0.45em;
-  color: $heading-color;
-  -webkit-font-smoothing: antialiased;
 }
 
 //
