@@ -20,24 +20,31 @@ layout: default
       <h1 class="mb-2">{{ page.title }}</h1>
       <div class="mb-4">
         <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="link-muted">
-          {% octicon pencil height:18 class:"right left text-gray mr-2" aria-label:hi %} Suggest edits to this page
+          {% octicon pencil height:18 class:"right left fill-gray mr-2" aria-label:hi %} Suggest edits to this page
         </a>
       </div>
     </header>
 
     {{ content }}
 
-    <p>
-      {% assign previous = site.pages | where: "next", page.path | first %}
-      {% if previous %}
-        Previous: <a href="{{ previous.url | prepend: site.baseurl }}">{{ previous.title }}</a> |
-      {% endif %}
 
-      {% if page.next %}
-        {% assign next = site.pages | where: "path", page.next | first %}
-        Next: <a href="{{ next.url | prepend: site.baseurl }}">{{ next.title }}</a>
-      {% endif %}
-    </p>
+      {% assign previous = site.pages | where: "next", page.path | first %}
+      <div class="clearfix border-top mt-4 mt-md-7 py-3 py-md-6">
+        <div class="col-md-6">
+          {% if previous %}
+            <p class="mb-1">Previous</p>
+            <a href="{{ previous.url | prepend: site.baseurl }}" class="text-gamma link-blue">{{ previous.title }}</a>
+          {% endif %}
+        </div>
+        <div class="col-md-6 text-md-right">
+          {% if page.next %}
+            {% assign next = site.pages | where: "path", page.next | first %}
+            <p class="mb-1">Next</p>
+            <a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma link-blue">{{ next.title }}</a>
+          {% endif %}
+        </div>
+      </div>
+
   </article>
 
 </div>

@@ -37,8 +37,11 @@
 
   .selected ul {
     display: block;
-    margin-top: $spacer3;
+    margin-top: $spacer2;
 
+    @include breakpoint(lg) {
+      margin-top: $spacer3;
+    }
   }
 
   .selected ul li {

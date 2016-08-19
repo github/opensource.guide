@@ -43,6 +43,10 @@
   }
 }
 
+.link-blue {
+  color: $link-color !important;
+}
+
 // Text alignment
 
 .text-center  { text-align: center !important; }
@@ -53,6 +57,6 @@
   @include breakpoint($breakpoint) {
     .text-#{$breakpoint}-center  { text-align: center !important; }
     .text-#{$breakpoint}-left  { text-align: left !important; }
-    .text-#{$breakpoint}-right  { text-align: left !important; }
+    .text-#{$breakpoint}-right  { text-align: right !important; }
   }
 }
