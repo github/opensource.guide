@@ -6,15 +6,55 @@
 
     <link rel="stylesheet" href="{{ "/css/typebase.css" | prepend: site.baseurl }}">
     <style media="screen">
-      #content {
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 2em 1em;
+      nav {
+        position: fixed;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        font-size: 0.8em;
+        width: 300px;
+        padding: 2rem 1rem;
+      }
+
+      nav a {
+        color: rgba(0,0,0,0.5);
+        text-decoration: none;
+      }
+
+      nav a.current {
+        color: #000;
+      }
+
+      nav li { line-height: 1.3rem; }
+
+      nav ul {
+        list-style: none;
+        padding-left: 1em;
+      }
+
+      nav li ul {
+        display: none;
+      }
+
+      nav li.selected ul {
+        display: block;
+      }
+
+      nav li {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      article {
+        margin-left: 300px;
+        max-width: 700px;
+        padding: 0 1em 2em 1em;
       }
     </style>
   </head>
   <body>
-    <div id="content">
+    <div id="main">
       {{ content }}
     </div>
   </body>

@@ -1,5 +1,11 @@
 ---
 title: Troubleshooting
+contents:
+- troubleshooting/conduct.md
+- troubleshooting/burnout.md
+- troubleshooting/finding-consensus.md
+- troubleshooting/contributions.md
+- troubleshooting/getting-paid.md
 ---
 
 This section of the handbook addresses some common situations or questions that may come up as you maintain your open source project.
