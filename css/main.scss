@@ -12,3 +12,45 @@
     cursor: pointer;
   }
 }
+
+.navigation {
+
+  ul li {
+    padding-bottom: $spacer2;
+    margin-bottom: $spacer2;
+    border-bottom: $border;
+    font-size: 18px;
+
+    &:last-of-type {
+      border-bottom: 0;
+    }
+
+    @include breakpoint(lg) {
+      padding-bottom: $spacer4;
+      margin-bottom: $spacer4;
+    }
+  }
+
+  ul ul {
+    display: none;
+  }
+
+  .selected ul {
+    display: block;
+    margin-top: $spacer3;
+
+  }
+
+  .selected ul li {
+    display: block;
+    margin: 0;
+    border-bottom: 0;
+    padding: 0;
+    font-size: 16px;
+  }
+
+  a.current {
+    color: $black;
+  }
+
+}
