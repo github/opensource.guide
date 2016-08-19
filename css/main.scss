@@ -2,3 +2,13 @@
 ---
 
 @import "basecoat/basecoat";
+
+.expand-content {
+  display: none;
+}
+
+.expand-trigger {
+  a {
+    cursor: pointer;
+  }
+}

@@ -5,18 +5,32 @@
     <title>{{ page.title }}</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
   </head>
+
   <body>
-    <header class="border-bottom p-3 clearfix">
-      <h3 class="mb-0 float-sm-left pt-sm-2 mb-3 mb-sm-0">Open Source Handbook</h3>
-      <a  href="{{ site.baseurl }}" class="mb-0 float-sm-right btn btn-outline">
-        View on GitHub
-      </a>
+    <header class="border-bottom clearfix">
+      <div class="container-wide mx-auto">
+        <h3 class="my-3 my-4 d-inline-block pr-3">Open Source Handbook</h3>
+        <a  href="{{ site.baseurl }}" class="">
+          View on GitHub
+        </a>
+      </div>
     </header>
     <main class="bg-shade-gradient">
-      <div id="content" class="container-narrow mx-auto pt-5 pt-md-7">
+      <div id="content" class="container-wide mx-auto">
         {{ content }}
       </div>
     </main>
+    <script>
+       var expandTrigger = $('.expand-trigger')
+        //show expand content clicking on expandTrigger
+        expandTrigger.on('click', function(event){
+        	event.preventDefault();
+        	$(this).next('.expand-content').slideToggle(200).end().parent('li').toggleClass('content-visible');
+          $(this).toggleClass('expand-open')
+        });
+    </script>
   </body>
 </html>
