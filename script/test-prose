@@ -30,16 +30,24 @@ var options = {
 
   // https://github.com/wooorm/remark-lint/blob/master/doc/rules.md
   "lint": {
-    "list-item-indent": "space",    // As the gods intended.
-    "maximum-line-length": false,   // turn off line length linting
+    // Headings
+    "heading-style": "atx",             // ## Headings
+    "first-heading-level": 2,           // Page title is h1, so start with h2
     "no-heading-punctuation": false,
-    "list-item-spacing": false,
-    "first-heading-level": 2,       // Page title is h1, so start with h2
-    "no-missing-blank-lines": {"exceptTightLists": true},
-    "emphasis-marker": "_",
+    "maximum-heading-length": 80,       // FIXME: Eventually remove this
 
-    // FIXME: Eventually remove these
-    "maximum-heading-length": 80,
+    // Lists
+    "list-item-indent": "space",        // As the gods intended.
+    "list-item-spacing": false,
+    "unordered-list-marker-style": "*",
+    "ordered-list-marker-style": ".",
+
+    // Misc
+    "maximum-line-length": false,   // turn off line length linting
+    "emphasis-marker": "_",
+    "strong-marker": "*",
+    "blockquote-indentation": 2,
+    "no-missing-blank-lines": {"exceptTightLists": true},
   },
   "readability": {
     "age": 18
