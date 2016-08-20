@@ -9,6 +9,9 @@ Branding may sound like a waste of time. After all there, are plenty of popular 
 
 But branding is more than a flashy logo or catchy project name. It's about how you talk about your project and who you reach with your message. Here are a few things you'll want to think about before you launch.
 
+* TOC
+{:toc}
+
 ## Choosing the right name
 
 Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example, [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting, and [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server.

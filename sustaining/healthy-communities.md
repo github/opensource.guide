@@ -14,6 +14,9 @@ A casual contributor may not have time to get fully up to speed with your projec
 
 Here are some ways you can empower your biggest fans to run with the work they're excited about.
 
+* TOC
+{:toc}
+
 ## Meet contributors where they're at
 
 Good documentation is important to give casual contributors the context they need. Make sure people know what the goal of your project is and whether there are contributions you categorically won't accept.

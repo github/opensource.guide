@@ -9,12 +9,8 @@ Thankfully, you don't have to start from scratch. This section will make sure yo
 
 **(Do we need a legal disclaimer for this piece?)**
 
-## Table of Contents
-
-1. [Why does my project need an open source license?](#why-does-my-project-need-an-open-source-license)
-2. [Which open source license is appropriate for my project?](#which-open-source-license-is-appropriate-for-my-project)
-3. [Does my project need an additional contributor agreement?](#does-my-project-need-an-additional-contributor-agreement)
-4. [What does my company's legal team need to know?](#what-does-my-companys-legal-team-need-to-know)
+* TOC
+{:toc}
 
 ## Why does my project need an open source license?
 

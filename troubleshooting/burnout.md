@@ -6,6 +6,9 @@ Open source work once brought you joy. Maybe now it's starting to make you feel 
 
 Burnout is a real and pervasive issue in open source work, especially among maintainers. Let's talk about how to make things better.
 
+* TOC
+{:toc}
+
 ## Clearly communicate your limits
 
 Most people who come across your project don't know anything about you or your circumstances. They may even think that you get paid to work on the project, especially if it's something they regularly use and depend on.

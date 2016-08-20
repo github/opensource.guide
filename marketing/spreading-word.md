@@ -7,6 +7,9 @@ You've just published your project–what's next? It's time to tell everybody ab
 
 In this section, we'll go through some of the most effective ways that people promote their open source projects. But before we do, let's start with a few tips that will help you make the most of your outreach.
 
+* TOC
+{:toc}
+
 ## Be able to convey who you are (and why it matters)
 
 Before you start the hard work of promoting your project, you should be able to explain why your project is different or interesting. Why should someone get excited about your work? Answering this question for yourself will make it easier to convince others.

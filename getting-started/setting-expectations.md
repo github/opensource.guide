@@ -7,6 +7,9 @@ There are many reasons to open source a project. It's a good idea to figure out 
 
 In this section, we'll help you think through a few important questions about the goals of your project.
 
+* TOC
+{:toc}
+
 ## Define your goals
 
 Let's start by defining your goals. Simply put: _why are you open sourcing this project?_
