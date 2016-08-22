@@ -6,6 +6,9 @@ As a maintainer of an open source project, you'll inevitably receive contributio
 
 Regardless of the reason, here are some strategies to tactfully handle contributions that don't meet your project's standards.
 
+* TOC
+{:toc}
+
 ## Say something!
 
 If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.

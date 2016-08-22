@@ -9,6 +9,9 @@ As you've probably noticed, a major part of maintaining an active open source pr
 
 In this section, we'll talk about how to set up your projects in a way that helps you maintain your sanity.
 
+* TOC
+{:toc}
+
 ## Know yourself and your needs
 
 Remember way back, before you launched your project, [when you wrote down](../../getting-started/setting-expectations) your expectations? It's time to revisit that document now. Remind yourself why you're doing this work and what you want to get out of open sourcing your project. Has anything changed?

@@ -11,6 +11,7 @@ var stringify = require('remark-stringify');
 var english = require('retext-english');
 var sentenceSpacing = require('retext-sentence-spacing');
 var quotes = require('retext-quotes');
+var repeated = require('retext-repeated-words');
 
 // Util stuff
 var report = require('vfile-reporter');
@@ -30,16 +31,24 @@ var options = {
 
   // https://github.com/wooorm/remark-lint/blob/master/doc/rules.md
   "lint": {
-    "list-item-indent": "space",    // As the gods intended.
-    "maximum-line-length": false,   // turn off line length linting
+    // Headings
+    "heading-style": "atx",             // ## Headings
+    "first-heading-level": 2,           // Page title is h1, so start with h2
     "no-heading-punctuation": false,
-    "list-item-spacing": false,
-    "first-heading-level": 2,       // Page title is h1, so start with h2
-    "no-missing-blank-lines": {"exceptTightLists": true},
-    "emphasis-marker": "_",
+    "maximum-heading-length": 80,       // FIXME: Eventually remove this
 
-    // FIXME: Eventually remove these
-    "maximum-heading-length": 80,
+    // Lists
+    "list-item-indent": "space",        // As the gods intended.
+    "list-item-spacing": false,
+    "unordered-list-marker-style": "*",
+    "ordered-list-marker-style": ".",
+
+    // Misc
+    "maximum-line-length": false,   // turn off line length linting
+    "emphasis-marker": "_",
+    "strong-marker": "*",
+    "blockquote-indentation": 2,
+    "no-missing-blank-lines": {"exceptTightLists": true},
   },
   "readability": {
     "age": 18
@@ -62,6 +71,7 @@ async.map(ignore.filter(glob.sync("**/*.md")), function(file, callback) {
         .use(english)
         .use(sentenceSpacing, {preferred: 1})
         .use(quotes, {preferred: 'straight'})
+        .use(repeated)
         // .use(require('retext-simplify'), options["simplify"])
         // .use(require('retext-equality'))
         // .use(require('retext-readability'), options["readability"])

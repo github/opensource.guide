@@ -8,6 +8,9 @@ As your project becomes more popular, more people will take interest in the deci
 
 For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, you and your community should be able to reach a resolution. But sometimes you run into an issue that's a little bit harder to address. Here are some strategies to reach consensus.
 
+* TOC
+{:toc}
+
 ## Set the bar for kindness
 
 When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.

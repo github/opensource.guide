@@ -4,6 +4,9 @@ title: Enforcing your code of conduct
 
 Your code of conduct helps create a healthy and constructive social atmosphere for your project's community. Sometimes, despite your best efforts, somebody will do something that violates this code. In this section, we'll talk about how to address negative or harmful behavior in your project's community.
 
+* TOC
+{:toc}
+
 ## Write down how you'll enforce your code of conduct
 
 Ideally, you've explained how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons for this:
