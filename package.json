@@ -20,6 +20,7 @@
     "retext-readability": "^2.0.0",
     "retext-sentence-spacing": "^1.0.0",
     "retext-simplify": "^2.0.0",
+    "retext-words": "bkeepers/retext-words",
     "to-vfile": "^1.0.0",
     "unified": "^4.1.2",
     "vfile-reporter": "^2.0.0"
