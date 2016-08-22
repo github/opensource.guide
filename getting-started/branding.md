@@ -5,7 +5,7 @@ next: getting-started/legal.md
 
 You've thought about who your users are, what they need from you, and what you might be able to offer them. Next, we'll put that research into practice as we consider the brand of your project.
 
-Branding may sound like a waste of time. After all there, are plenty of popular open source projects that have never thought about their brand at all.
+Branding may sound like a waste of time. After all, there are plenty of popular open source projects that have never thought about their brand at all.
 
 But branding is more than a flashy logo or catchy project name. It's about how you talk about your project and who you reach with your message. Here are a few things you'll want to think about before you launch.
 
