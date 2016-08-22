@@ -53,7 +53,7 @@ See if you can find ways to give credit to your community as much as possible. H
 
 [^5]: [The Pull Request Hack](http://felixge.de/2013/03/11/the-pull-request-hack.html)
 
-The bigger your project, and the bigger your community, the easier it is to find help. The reality is that most projects only have one or two maintainers who do most of the work.[^6] While you many not always find someone to answer the call, putting a Batsignal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help. Early investments in your community will pay off over time.
+The bigger your project, and the bigger your community, the easier it is to find help. The reality is that most projects only have one or two maintainers who do most of the work.[^6] While you may not always find someone to answer the call, putting a Batsignal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help. Early investments in your community will pay off over time.
 
 [^6]: [What is the Truck Factor of Popular GitHub Applications? A First Assessment](https://peerj.com/preprints/1233.pdf)
 
