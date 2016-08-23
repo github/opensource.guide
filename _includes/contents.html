@@ -4,7 +4,7 @@
   {% assign item = site.pages | where: "path", "contents.html" | first %}
 {% endif %}
 
-<ul class="list-unstyled" id="">
+<ul class="list-unstyled">
 {% for path in item.contents %}
   {% assign subpage = site.pages | where: "path", path | first %}
   <li{% if page.url contains subpage.url %} class="selected"{% endif %}>
