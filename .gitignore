@@ -2,6 +2,7 @@ _site/
 .bundle
 .DS_Store
 .jekyll-metadata
+.sass-cache/
 bin
 node_modules
 vendor
