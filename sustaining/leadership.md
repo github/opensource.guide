@@ -3,9 +3,7 @@ title: Leadership & Governance
 next: troubleshooting/index.md
 ---
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you're probably starting to wonder about governance. Maybe you want to recognize a community member who's made significant contributions to your project. Maybe you've gotten into a debate with your community and realized you didn't know how to resolve it.
-
-In this section, we'll answer some commonly asked questions about leadership and governance for open source projects.
+Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you're probably starting to wonder about governance. Maybe you want to recognize a community member who's made significant contributions to your project. Maybe you've gotten into a debate with your community and realized you didn't know how to resolve it. It's time to think about who makes decisions in your community and how those decisions are made.
 
 * TOC
 {:toc}
@@ -92,6 +90,6 @@ If your project is closely associated with a certain language or ecosystem, ther
 
 ## What's next?
 
-Congratulations on making it this far, and welcome to the ranks of open source maintainership! We hope your project continues to thrive and that this Handbook has helped you along the way.
+Congratulations on making it this far, and welcome to the ranks of open source maintainership! We hope your project continues to thrive.
 
 As you grow into your leadership role, you'll inevitably come across some tough situations. Check out our [Troubleshooting](../../troubleshooting/) section for help when you need it. And from the bottom of our hearts, thank you for sharing your work and making a positive contribution to the world. 💕

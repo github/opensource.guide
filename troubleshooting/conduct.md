@@ -2,7 +2,7 @@
 title: Enforcing your code of conduct
 ---
 
-Your code of conduct helps create a healthy and constructive social atmosphere for your project's community. Sometimes, despite your best efforts, somebody will do something that violates this code. In this section, we'll talk about how to address negative or harmful behavior in your project's community.
+Your code of conduct helps create a healthy and constructive social atmosphere for your project's community. Sometimes, despite your best efforts, somebody will do something that violates this code. Addressing negative or harmful behavior in your project's community is crucial.
 
 * TOC
 {:toc}

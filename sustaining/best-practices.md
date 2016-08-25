@@ -3,11 +3,11 @@ title: Best Practices for Maintainers
 next: sustaining/healthy-communities.md
 ---
 
-In this handbook, we spend plenty of time talking about how to make other people happy. But first and foremost, make yourself happy. Your happiness and health are the most important requirements of open source work. Without them, nothing else matters.
+While maintaining an open source project, it's easy to spend most of your time thinking about how to make other people happy. But first and foremost, make yourself happy. Your happiness and health are the most important requirements of open source work. Without them, nothing else matters.
 
 As you've probably noticed, a major part of maintaining an active open source project is managing other people. While that can be a lot less fun than coding or writing, there are things you can do to make your life easier.
 
-In this section, we'll talk about how to set up your projects in a way that helps you maintain your sanity.
+Set up your projects in a way that helps you maintain your sanity.
 
 * TOC
 {:toc}
@@ -90,7 +90,7 @@ For bug reports and other common contributions, GitHub has [Issue Templates and 
 
 If you want to get a little more advanced, style guides and linters can help standardize project contributions and make them easier to review and accept. However, if your standards are too complicated, they can increase the barriers to contribution, so proceed carefully here and make sure you're only adding just enough rules to make everyone's lives easier.
 
-Hopefully, you're feeling more empowered to say no, set and enforce rules, and take breaks when you need them. In the next section, we'll talk about how you can leverage your community to grow a sustainable project.
+Hopefully, you're feeling more empowered to say no, set and enforce rules, and take breaks when you need them. Now it's time to think about how you can leverage your community to grow a sustainable project.
 
 ## Further reading
 

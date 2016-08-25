@@ -5,7 +5,7 @@ next: marketing/building-community.md
 
 You've just published your project–what's next? It's time to tell everybody about your hard work!
 
-In this section, we'll go through some of the most effective ways that people promote their open source projects. But before we do, let's start with a few tips that will help you make the most of your outreach.
+But first, make sure it's clear why your project is worth getting excited about, and then make it easy for people to find and connect with your community. Your project may not sell itself, so you may need to help people find it.
 
 * TOC
 {:toc}
@@ -52,7 +52,7 @@ When you feel ready, consider speaking at a conference to promote your project. 
 
 Spreading the word is an important step in growing the popularity of your project. It can be scary to share your creativity with the world, so give yourself a high five for making it this far! 👌 💯 🙌
 
-In the next section, we'll talk about how to retain those early enthusiasts and grow an engaged community around your project.
+It's time to talk about how to retain those early enthusiasts and grow an engaged community around your project.
 
 ## Further reading
 

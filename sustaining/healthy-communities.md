@@ -3,7 +3,7 @@ title: Sustaining Healthy Communities
 next: sustaining/leadership.md
 ---
 
-Your project's community is extremely powerful. That power can be a blessing or a curse, depending on how you wield it. In this section, we'll look at ways to structure your community to become a force of construction, not destruction.
+Your project's community is extremely powerful. That power can be a blessing or a curse, depending on how you wield it. Structure your community to become a force of construction, not destruction.
 
 If you're starting an open source project today, the vast majority of contributors will be "casual contributors": people who contribute to a project only occasionally. Sometimes these are also called "drive-by contributors".
 
@@ -57,7 +57,7 @@ The bigger your project, and the bigger your community, the easier it is to find
 
 [^6]: [What is the Truck Factor of Popular GitHub Applications? A First Assessment](https://peerj.com/preprints/1233.pdf)
 
-As you build a community of engaged and thoughtful people, you may start thinking about how to formalize their ownership in your project. In the next section, we'll cover some commonly asked questions around leadership and governance.
+As you build a community of engaged and thoughtful people, you may start thinking about how to [formalize their ownership in your project](../leadership/).
 
 ## Don't tolerate bad actors
 
