@@ -1,4 +1,8 @@
-$nav-width: 330px;
+$nav-width: 300px;
+
+.content-wrapper {
+  max-width: 1700px;
+}
 
 .col-nav {
  @include breakpoint(lg) {
@@ -9,7 +13,7 @@ $nav-width: 330px;
 
 .col-main {
   @include breakpoint(lg) {
-    margin-left: ($nav-width + $spacer4);
+    margin-left: ($nav-width + $spacer5);
   }
 }
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="px-3 px-sm-5 px-md-6 pt-lg-7">
+<div class="px-3 px-sm-5 px-md-6 pt-lg-6 content-wrapper">
 
   <nav class="col-nav">
     <div class="pt-4 d-lg-none expand-trigger">
@@ -17,15 +17,14 @@ layout: default
 
   <article class="col-main">
 
-    <div class="col-main-wrapper">
-      <header class="mb-3 mb-sm-5 pt-4 pt-lg-0">
-        <h1 class="mb-2">{{ page.title }}</h1>
-        <div class="mb-4">
-          <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="link-muted">
-            {% octicon pencil height:18 class:"right left fill-gray mr-2" aria-label:hi %} Suggest edits to this page
-          </a>
-        </div>
-      </header>
+    <div class="col-main-wrapper pt-4 pt-lg-0">
+
+      <h1 class="mb-3 mb-lg-4">{{ page.title }}</h1>
+      <div class="text-small px-3 py-1 mb-4 border rounded-1 d-inline-block">
+        <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="link-muted">
+          {% octicon pencil height:18 class:"right left fill-gray mr-2" aria-label:hi %} Suggest edits to this page
+        </a>
+      </div>
 
       {{ content }}
 
