@@ -64,7 +64,8 @@ var options = {
   "words": {
     "patterns": {
       "this section": { omit: true },
-      "this handbook": { omit: true }
+      "next section": { omit: true },
+      "this handbook": { omit: true },
     }
   }
 };
