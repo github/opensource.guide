@@ -6,26 +6,6 @@ layout: default
   <ul id="search-results">
   </ul>
 
-  <script>
-    window.store = {
-    {% for article in site.pages %}
-      {% capture html %}
-        <li>
-          <a href="{{ article.url | prepend: site.baseurl }}">
-            {{ article.title }}
-          </a>
-        </li>
-      {% endcapture %}
-
-      "{{ article.url | xml_escape }}": {
-        "title": "{{ article.title | xml_escape }}",
-        "content": {{ article.content | strip_html | strip_newlines | jsonify }},
-        "url": "{{ article.url | xml_escape }}",
-        "html": {{ html | jsonify }}
-      }{% unless forloop.last %},{% endunless %}
-    {% endfor %}
-    }
-  </script>
   <script src="/js/lunr.min.js"></script>
   <script src="/js/search.js"></script>
 </section>

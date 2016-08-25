@@ -1,5 +1,20 @@
-// http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/
+---
+layout: false
+---
 
+window.store = {
+{% for article in site.pages %}
+  {% capture html %}{% include search-result.html article=article %}{% endcapture %}
+  "{{ article.url | xml_escape }}": {
+    "title": "{{ article.title | xml_escape }}",
+    "content": {{ article.content | markdownify | strip_html | strip_newlines | jsonify }},
+    "url": "{{ article.url | xml_escape }}",
+    "html": {{ html | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+};
+
+// http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/
 (function() {
   var store = window.store;
   var searchTerm = getQueryVariable('q');
