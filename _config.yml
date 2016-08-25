@@ -15,6 +15,11 @@ exclude:
 
 permalink: /:path/
 
+collections:
+  faqs:
+    output: true
+    permalink: /faq/:path/
+
 defaults:
   - scope:
       path: ""

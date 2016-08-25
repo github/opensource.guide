@@ -1,6 +1,6 @@
 ---
 title: Branding
-next: getting-started/legal.md
+next: getting-started/preparing.md
 ---
 
 You've thought about who your users are, what they need from you, and what you might be able to offer them. Next, we'll put that research into practice as we consider the brand of your project.

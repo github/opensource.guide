@@ -4,7 +4,6 @@ next: getting-started/setting-expectations.md
 contents:
   - getting-started/setting-expectations.md
   - getting-started/branding.md
-  - getting-started/legal.md
   - getting-started/preparing.md
 ---
 
