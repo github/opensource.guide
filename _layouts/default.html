@@ -3,23 +3,38 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-
-    <link rel="stylesheet" href="{{ "/css/typebase.css" | prepend: site.baseurl }}">
-    <style media="screen">
-      #content {
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 2em 1em;
-      }
-    </style>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="{{ "/js/jquery.sticky.js" | prepend: site.baseurl }}"></script>
   </head>
   <body>
-    <div id="content">
-      <form id="search-form" action="{{ "/search/" | prepend:site.baseurl }}" data-content-url="{{ "/search/content.json" | prepend:site.baseurl }}" method="get">
-        <input type="text" id="search-box" name="q" placeholder="Search…">
-      </form>
-
-      {{ content }}
-    </div>
+    <header class="border-bottom clearfix">
+      <div class="container-wide mx-auto">
+        <h3 class="my-3 my-4 d-inline-block pr-3">
+          <a href="{{ site.baseurl }}" class="link-unstyled">Open Source Handbook</a>
+        </h3>
+        <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}" class="">
+          View on GitHub
+        </a>
+        <form id="search-form" action="{{ "/search/" | prepend:site.baseurl }}" data-content-url="{{ "/search/content.json" | prepend:site.baseurl }}" method="get">
+          <input type="text" id="search-box" name="q" placeholder="Search…">
+        </form>
+      </div>
+    </header>
+    <main class="bg-shade-gradient">
+      <div id="content" class="container-wide mx-auto">
+        {{ content }}
+      </div>
+    </main>
+    <script>
+       var expandTrigger = $('.expand-trigger')
+        //show expand content clicking on expandTrigger
+        expandTrigger.on('click', function(event){
+        	event.preventDefault();
+        	$(this).next('.expand-content').slideToggle(200).end().parent('li').toggleClass('content-visible');
+          $(this).toggleClass('expand-open')
+        });
+    </script>
   </body>
 </html>

@@ -1,0 +1,21 @@
+.breadcrumb {
+
+  li {
+    display: inline;
+    margin-left: 0;
+    white-space: nowrap;
+    list-style: none;
+
+    &::after {
+      padding: 0 2px 0 5px;
+      color: $text-muted;
+      content: "/";
+    }
+  }
+
+  .breadcrumb-selected {
+    &::after {
+      content: " ";
+    }
+  }
+}

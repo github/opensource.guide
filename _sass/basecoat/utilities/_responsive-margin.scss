@@ -1,0 +1,56 @@
+// scss-lint:disable SpaceAfterPropertyName
+// Margin spacer utilities
+
+.mx-auto {
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+@for $i from 1 through length($spacers) {
+  $size: #{nth($spacers, $i)};
+  $scale: #{$i - 1};
+
+  // .m-0, .m-1, .m-2...
+  .m-#{$scale}  { margin: #{$size} !important; }
+  .mt-#{$scale} { margin-top: #{$size} !important; }
+  .mr-#{$scale} { margin-right: #{$size} !important; }
+  .mb-#{$scale} { margin-bottom: #{$size} !important; }
+  .ml-#{$scale} { margin-left: #{$size} !important; }
+
+  .mx-#{$scale} {
+    margin-right: #{$size} !important;
+    margin-left: #{$size} !important;
+  }
+
+  .my-#{$scale} {
+    margin-top: #{$size} !important;
+    margin-bottom: #{$size} !important;
+  }
+}
+
+@each $breakpoint in map-keys($breakpoints) {
+  @for $i from 1 through length($spacers) {
+
+    @include breakpoint($breakpoint) {
+      $size: #{nth($spacers, $i)};
+      $scale: #{$i - 1};
+
+      // .m-sm-0, .m-md-1, .m-lg-2...
+      .m-#{$breakpoint}-#{$scale}  { margin: #{$size} !important; }
+      .mt-#{$breakpoint}-#{$scale} { margin-top: #{$size} !important; }
+      .mr-#{$breakpoint}-#{$scale} { margin-right: #{$size} !important; }
+      .mb-#{$breakpoint}-#{$scale} { margin-bottom: #{$size} !important; }
+      .ml-#{$breakpoint}-#{$scale} { margin-left: #{$size} !important; }
+
+      .mx-#{$breakpoint}-#{$scale} {
+        margin-right: #{$size} !important;
+        margin-left: #{$size} !important;
+      }
+
+      .my-#{$breakpoint}-#{$scale} {
+        margin-top: #{$size} !important;
+        margin-bottom: #{$size} !important;
+      }
+    }
+  }
+}

@@ -20,3 +20,12 @@ defaults:
       path: ""
     values:
       layout: article
+
+gems:
+  - jekyll-mentions
+  - jekyll-octicons
+
+branch: gh-pages
+
+github:
+  repository_nwo: github/open-source-handbook
