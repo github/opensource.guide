@@ -2,6 +2,7 @@ baseurl: "/open-source-handbook"
 
 exclude:
   - bin
+  - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
   - docs
   - Gemfile*
