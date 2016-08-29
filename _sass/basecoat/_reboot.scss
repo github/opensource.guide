@@ -136,9 +136,13 @@ ol,
 ul,
 dl {
   margin-top: 0;
-  margin-left: 0;
+  margin-left: 1rem;
   margin-bottom: 1rem;
   padding-left: 0;
+
+  @include breakpoint(md) {
+    margin-left: 0;
+  }
 }
 
 ol ol,
