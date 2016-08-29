@@ -1,5 +1,5 @@
 ---
-title: Before you Get Started
+title: Getting Started
 next: getting-started/setting-expectations.md
 contents:
   - getting-started/setting-expectations.md

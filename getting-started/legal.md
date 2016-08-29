@@ -87,6 +87,5 @@ Longer term your legal team can do more to help the company get more from its in
 * [ChooseALicense.com](http://choosealicense.com)
 * [Over 70 approved licenses](https://opensource.org/licenses/alphabetical) that conform with the generally accepted definition of open source
 * [A Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) by @vanl
-* [Introducing The Docker Developer Certificate Of Origin](https://blog.docker.com/2014/01/docker-code-contributions-require-developer-certificate-of-origin/) by @keeb
 * [Broadening Node.js Contributions](https://www.joyent.com/blog/broadening-node-js-contributions) by @bcantrill
 * [FOSSmarks](http://fossmarks.org/) is "a practical guide to understanding trademarks in the context of Free and Open Source projects."
