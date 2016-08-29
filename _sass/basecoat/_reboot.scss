@@ -79,6 +79,11 @@ body {
   background-color: $body-bg-color;
   margin: 0;
   padding: 0;
+
+  @include breakpoint(md) {
+    font-size: $body-font-size-md !important;
+  }
+
 }
 
 // Suppress the focus outline on elements that cannot be accessed via keyboard.
