@@ -6,32 +6,31 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-    <script src="{{ "/js/jquery.sticky.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/script.js" | prepend: site.baseurl }}"></script>
   </head>
   <body>
-    <header class="border-bottom clearfix bg-gray-light">
-      <div class="px-3 px-sm-5 px-md-6">
-        <h3 class="my-3 my-4 d-inline-block pr-3">
-          <a href="{{ site.baseurl }}" class="link-unstyled">Open Source Handbook</a>
-        </h3>
-        <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}">
-          View on GitHub
-        </a>
+    <div class="site-wrapper">
+      <div class="site-canvas">
+        <header class="border-bottom clearfix bg-gray-light">
+          <div class="px-3 px-sm-5 px-md-6">
+            <a href="#" class="toggle-nav btn btn-outline mr-3 d-lg-none">
+              {% octicon list-unordered height:20 class:"" aria-label:hi %}
+            </a>
+            <h3 class="my-3 my-4 d-lg-inline-block pr-3">
+              <a href="{{ site.baseurl }}" class="link-unstyled">Open Source Handbook</a>
+            </h3>
+            <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}">
+              View on GitHub
+            </a>
+          </div>
+        </header>
+        <main class="">
+          <div id="content" class="">
+            {{ content }}
+          </div>
+        </main>
       </div>
-    </header>
-    <main class="">
-      <div id="content" class="">
-        {{ content }}
-      </div>
-    </main>
-    <script>
-       var expandTrigger = $('.expand-trigger')
-        //show expand content clicking on expandTrigger
-        expandTrigger.on('click', function(event){
-        	event.preventDefault();
-        	$(this).next('.expand-content').slideToggle(200).end().parent('li').toggleClass('content-visible');
-          $(this).toggleClass('expand-open')
-        });
-    </script>
+    </div>
+
   </body>
 </html>

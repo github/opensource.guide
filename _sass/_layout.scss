@@ -1,14 +1,65 @@
 $nav-width: 300px;
 
-.content-wrapper {
+.site-wrapper { // for the off canvas nav
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  @include breakpoint(lg) {
+    position: static;
+  }
+}
+
+.site-canvas {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  -webkit-transform: translateX(0);
+  transform: translateX(0);
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  -webkit-transition: 300ms ease all;
+  transition: 300ms ease all;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+
+  @include breakpoint(lg) {
+    position: static;
+  }
+
+}
+
+.show-nav .site-canvas {
+  -webkit-transform: translateX($nav-width);
+  transform: translateX($nav-width);
+  -webkit-transform: translate3d($nav-width, 0, 0);
+  transform: translate3d($nav-width, 0, 0);
+
+  @include breakpoint(lg) {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.content-wrapper { //puts a max width on the content area
   max-width: 1700px;
 }
 
 .col-nav {
+  width: $nav-width;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: -$nav-width;
+  border-right: $border;
+
  @include breakpoint(lg) {
-   position: absolute;
-   width: $nav-width;
+   top: auto;
+   left: auto;
+   border-right: 0;
  }
+
  @media (min-width: 992px) and (min-height: 730px){ //only fix navigation if screen is tall enough for it
     position: fixed;
  }

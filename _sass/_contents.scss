@@ -15,9 +15,12 @@
 
 .navigation {
   background: white;
-  border: $border;
-  box-shadow: $box-shadow;
-  border-radius: $border-radius;
+
+  @include breakpoint(lg) {
+    border: $border;
+    box-shadow: $box-shadow;
+    border-radius: $border-radius;
+  }
 
   ul {
     margin-bottom: 0;
