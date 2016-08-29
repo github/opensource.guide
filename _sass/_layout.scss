@@ -6,8 +6,11 @@ $nav-width: 300px;
 
 .col-nav {
  @include breakpoint(lg) {
-   position: fixed;
+   position: absolute;
    width: $nav-width;
+ }
+ @media screen and (min-height: 730px) { //only fix navigation if screen is tall enough for it
+    position: fixed;
  }
 }
 
