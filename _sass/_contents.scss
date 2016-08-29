@@ -24,7 +24,6 @@
   }
 
   ul li {
-    padding: $spacer3;
     border-bottom: $border;
     font-size: 18px;
 
@@ -32,8 +31,26 @@
       border-bottom: 0;
     }
 
+  }
+
+  ul li a {
+    padding: $spacer3;
+
+    &:hover {
+      background: $gray-light;
+      text-decoration: none;
+    }
+
     @include breakpoint(lg) {
       padding: $spacer4;
+    }
+  }
+
+  ul li.selected a {
+
+    &:hover {
+      background: transparent;
+      text-decoration: underline;
     }
   }
 
@@ -43,24 +60,40 @@
 
   .selected ul {
     display: block;
-    margin-top: $spacer2;
+    margin-bottom: $spacer3;
+    margin-top: -$spacer3;
 
     @include breakpoint(lg) {
-      margin-top: $spacer3;
+      margin-bottom: $spacer4;
     }
+
   }
 
   .selected ul li {
-    display: block;
-    margin: 0;
-    margin-bottom: $spacer2;
     border-bottom: 0;
-    padding: 0;
     font-size: 16px;
+  }
+
+  .selected ul li a {
+    padding: $spacer1 $spacer3;
+
+    &:hover {
+      background: transparent;
+      text-decoration: underline;
+    }
+
+    @include breakpoint(lg) {
+      padding: 0;
+      padding: $spacer1 $spacer4;
+    }
   }
 
   a.current {
     color: $black;
+    &:hover {
+      background: transparent;
+      text-decoration: none;
+    }
   }
 
 }
