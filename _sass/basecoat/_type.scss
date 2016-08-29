@@ -45,11 +45,9 @@ h2,
   font-size: 26px;
   font-weight: 300;
   line-height: 1.2;
-  margin-top: $spacer3;
 
   @include breakpoint(md) {
     font-size: 30px;
-    margin-top: $spacer5;
   }
   @include breakpoint(lg) { font-size: 34px; }
 }
@@ -148,12 +146,15 @@ hr {
 blockquote {
   padding-left: $spacer3;
   font-family: $alt-font;
-  font-size: 16px;
+  font-size: 17px;
   border-left: 4px solid $border-color;
 
   @include breakpoint(md) {
-    margin-left: -($spacer3 + 4px); //offset the border and padding defined above
     font-size: 18px;
+    border-left: 6px solid $border-color;
+    padding-left: $spacer4;
+    padding-top: $spacer3;
+    padding-bottom: $spacer2;
   }
 }
 

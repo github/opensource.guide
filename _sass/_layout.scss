@@ -1,0 +1,25 @@
+$nav-width: 300px;
+
+.content-wrapper {
+  max-width: 1700px;
+}
+
+.col-nav {
+ @include breakpoint(lg) {
+   position: fixed;
+   width: $nav-width;
+ }
+}
+
+.col-main {
+  @include breakpoint(lg) {
+    margin-left: ($nav-width + $spacer5);
+  }
+}
+
+.col-main-wrapper {
+  @include breakpoint(lg) {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+}

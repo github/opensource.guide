@@ -14,9 +14,9 @@
 
 // Small text
 .text-small {
-  font-size: 13px !important;
+  font-size: 14px !important;
 
-  @include breakpoint(md) { font-size: 14px !important; }
+  @include breakpoint(md) { font-size: 15px !important; }
 }
 
 // Bold text
