@@ -26,7 +26,7 @@ Consider creating a website for your project. @adrianholovaty called a well-desi
 
 [^1]: [HackerNews comment](https://news.ycombinator.com/item?id=7531689) from @adrianholovaty
 
-A website, along with clear documentation and tutorials, makes your project seem friendly and easy to navigate. It also suggests that your project is active and supported, which will make your audience feel more comfortable using it. Adding tutorials and examples gives people ideas for ways they can use your project.
+A website, along with clear documentation and tutorials, makes your project friendlier and easier to navigate. It also shows that your project is supported, which will make your audience feel more comfortable using it. Adding tutorials and examples gives people ideas for ways they can use your project.
 
 A Twitter handle or IRC channel is like a calling card for your project. It gives people a place to convene around your project, which will help grow your community. If you don't wish to set up these channels for your project yet, promote your own Twitter or GitHub handle in everything you do. For example, make sure it is included in your bio or slides if you speak at a meetup or event. That way, people know who you are and how to reach you or follow your work.
 
