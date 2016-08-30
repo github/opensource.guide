@@ -110,8 +110,9 @@ h4,
   }
 }
 
-.list-inline {
+ul.list-inline {
   padding-left: 0;
+  margin-left: 0;
   list-style: none;
 
   li {
@@ -119,8 +120,9 @@ h4,
   }
 }
 
-.list-unstyled {
+ul.list-unstyled {
   padding-left: 0;
+  margin-left: 0;
 
   li {
     list-style: none;

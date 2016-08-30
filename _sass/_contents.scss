@@ -106,10 +106,10 @@
   border-top: $border;
   border-bottom: $border;
   padding: $spacer3 0;
+  margin: $spacer4 0;
 
   @include breakpoint(md) {
     padding: $spacer4 0;
-    margin: $spacer4 0;
   }
 
   &:before {
