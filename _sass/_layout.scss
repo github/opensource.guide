@@ -28,6 +28,21 @@ $nav-width: 300px;
 
 }
 
+.toggle-nav {
+  .octicon-x {
+    display: none;
+  }
+}
+
+.toggle-nav-close {
+  .octicon-x {
+    display: block;
+  }
+  .octicon-list {
+    display: none;
+  }
+}
+
 .show-nav .site-canvas {
   -webkit-transform: translateX($nav-width);
   transform: translateX($nav-width);

@@ -12,16 +12,23 @@
     <div class="site-wrapper">
       <div class="site-canvas">
         <header class="border-bottom clearfix bg-gray-light">
-          <div class="px-3 px-sm-5 px-md-6 py-3">
-            <a href="#" class="toggle-nav btn btn-outline mr-3 d-lg-none">
-              {% octicon list-unordered height:20 class:"" aria-label:hi %}
-            </a>
-            <h3 class="my-3 d-lg-inline-block pr-3">
-              <a href="{{ site.baseurl }}" class="link-unstyled">Open Source Handbook</a>
-            </h3>
-            <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}">
-              View on GitHub
-            </a>
+          <div class="px-3 px-sm-5 px-md-6 py-3 clearfix">
+            <div class="d-table">
+              <div class="d-table-cell v-align-middle">
+                <a href="#" class="toggle-nav btn btn-outline mr-3 d-lg-none">
+                  {% octicon list-unordered height:20 class:"octicon-list" aria-label:hi %}
+                  {% octicon x height:20 class:"octicon-x" aria-label:hi %}
+                </a>
+              </div>
+              <div class="d-table-cell v-align-middle">
+                <h3 class="m-0 my-md-3 pr-3 d-sm-inline-block">
+                  <a href="{{ site.baseurl }}" class="link-unstyled">Open Source Handbook</a>
+                </h3>
+                <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}">
+                  View on GitHub
+                </a>
+              </div>
+            </div>
           </div>
         </header>
         <main class="">
