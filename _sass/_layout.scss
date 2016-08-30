@@ -1,3 +1,4 @@
+$nav-width-offcanvas: 70%;
 $nav-width: 300px;
 
 .site-wrapper { // for the off canvas nav
@@ -44,10 +45,10 @@ $nav-width: 300px;
 }
 
 .show-nav .site-canvas {
-  -webkit-transform: translateX($nav-width);
-  transform: translateX($nav-width);
-  -webkit-transform: translate3d($nav-width, 0, 0);
-  transform: translate3d($nav-width, 0, 0);
+  -webkit-transform: translateX($nav-width-offcanvas);
+  transform: translateX($nav-width-offcanvas);
+  -webkit-transform: translate3d($nav-width-offcanvas, 0, 0);
+  transform: translate3d($nav-width-offcanvas, 0, 0);
 
   @include breakpoint(lg) {
     -webkit-transform: translateX(0);
@@ -62,21 +63,22 @@ $nav-width: 300px;
 }
 
 .col-nav {
-  width: $nav-width;
+  width: $nav-width-offcanvas;
   height: 100%;
   position: absolute;
   top: 0;
-  left: -$nav-width;
+  left: -$nav-width-offcanvas;
   border-right: $border;
 
  @include breakpoint(lg) {
+   width: $nav-width;
    top: auto;
    left: auto;
    border-right: 0;
  }
 
- @media (min-width: 992px) and (min-height: 730px){ //only fix navigation if screen is tall enough for it
-    position: fixed;
+ @media screen and (min-width: 992px) and (min-height: 730px){ //only fix navigation if screen is tall enough for it
+    position: fixed !important;
  }
 }
 
