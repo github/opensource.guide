@@ -8,7 +8,7 @@
 {% for path in item.contents %}
   {% assign subpage = site.pages | where: "path", path | first %}
   <li{% if page.url contains subpage.url %} class="selected"{% endif %}>
-    <a{% if page.url == subpage.url %} class="current"{% endif %}
+    <a class="d-block {% if page.url == subpage.url %} current{% endif %}"
       href="{{ subpage.url | prepend: site.baseurl }}">{{ subpage.title }}</a>
     {% if subpage.contents %}
       {% include contents.html item=subpage %}
