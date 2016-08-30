@@ -30,4 +30,4 @@ When you contribute to this repository you are doing so under the above licenses
 
 The initial release of the Handbook was authored by **@nayafia, @bkeepers, @stephbwills,** and **@mlinksva**.
 
-Thanks to **@aitchabee, @benbalter, @brettcannon, @coralineada, @dmleong, @ericholscher, @gr2m, @janl, @jfrazelle, @joshsimmons, @kytrynx, @lee-dohm, @mikeal, @mikemcquaid, @nathansobo, @nsqe, @orta, @parkr, @shazow, @steveklabnik,** and **@wooorm** for lending their valuable input and expertise leading up to the initial release, and to **@sophshep** for designing the Handbook.
+Thanks to **@aitchabee, @benbalter, @brettcannon, @coralineada, @dmleong, @ericholscher, @gr2m, @janl, @jfrazelle, @joshsimmons, @kytrinyx, @lee-dohm, @mikeal, @mikemcquaid, @nathansobo, @nsqe, @orta, @parkr, @shazow, @steveklabnik,** and **@wooorm** for lending their valuable input and expertise leading up to the initial release, and to **@sophshep** for designing the Handbook.
