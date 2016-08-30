@@ -18,6 +18,7 @@ permalink: /:path/
 defaults:
   - scope:
       path: ""
+      type: pages
     values:
       layout: article
 

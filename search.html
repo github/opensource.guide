@@ -2,10 +2,52 @@
 layout: default
 ---
 
-<section class="wrap">
-  <ul id="search-results">
-  </ul>
+<div class="clearfix gut-3 pt-lg-6 pt-xl-7">
 
-  <script src="/js/lunr.min.js"></script>
-  <script src="/js/search.js"></script>
-</section>
+  <nav class="col-lg-4 col-xl-3">
+    <div class="pt-4 d-lg-none expand-trigger">
+      <a class="btn btn-outline btn-block menu-button v-align-middle">
+        {% octicon list-unordered height:18 class:"mr-2" aria-label:hi %}
+        View Menu
+      </a>
+    </div>
+    <div class="d-lg-block expand-content navigation">
+      {% include contents.html %}
+    </div>
+  </nav>
+
+  <article class="col-lg-8 offset-xl-1 pt-4">
+    <header class="mb-3 mb-sm-5">
+      <h1 class="mb-2">{{ page.title }}</h1>
+    </header>
+
+    <ul id="search-results">
+    </ul>
+
+
+      {% assign previous = site.pages | where: "next", page.path | first %}
+      <div class="clearfix border-top mt-4 mt-md-7 py-3 py-md-6">
+        <div class="col-md-6 mb-3">
+          {% if previous == null %}
+            <span class="d-block">&nbsp;</span>
+          {% endif %}
+          {% if previous %}
+            <p class="mb-1">Previous</p>
+            <a href="{{ previous.url | prepend: site.baseurl }}" class="text-gamma link-blue">{{ previous.title }}</a>
+          {% endif %}
+        </div>
+        <div class="col-md-6 text-md-right">
+          {% if page.next %}
+            {% assign next = site.pages | where: "path", page.next | first %}
+            <p class="mb-1">Next</p>
+            <a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma link-blue">{{ next.title }}</a>
+          {% endif %}
+        </div>
+      </div>
+
+  </article>
+
+</div>
+
+<script src="{{ "/js/lunr.min.js" | prepend: site.baeurl }}"></script>
+<script src="{{ "/js/search.js" | prepend: site.baseurl }}?{{ site.time }}"></script>
