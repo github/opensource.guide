@@ -72,7 +72,7 @@ This repo is currently maintained by @nayafia and @bkeepers, who have commit acc
 
 While we enjoy maintaining this project and are excited that you want to participate, we have full-time jobs and competing priorities. If you haven't heard from anyone in 10 days, feel free to bump the thread or @-mention a maintainer to review your contribution.
 
-If you've been active on this project (such as writing helpful content, answering others' questions, or triaging issues) and would like a more formal leadership role, open up an issue and let's talk about it!
+If you've been active on this project (such as writing helpful content, answering others' questions, or triaging issues) and would like a more formal leadership role, open up an issue, and let's talk about it!
 
 ## Community
 
