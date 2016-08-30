@@ -1,0 +1,76 @@
+.menu-button {
+  background: white;
+  text-align: left;
+}
+
+.expand-open .menu-button {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background: $blue;
+  color: $white;
+  svg {
+    fill: $white;
+  }
+}
+
+.navigation {
+  background: white;
+  padding: $spacer4;
+  border-bottom-right-radius: $border-radius;
+  border-bottom-left-radius: $border-radius;
+  border: $border;
+  margin-top: -1px;
+
+  @include breakpoint(lg) {
+    padding: 0;
+    background: transparent;
+    border: 0;
+  }
+
+  ul {
+    margin-bottom: 0;
+  }
+
+  ul li {
+    padding-bottom: $spacer3;
+    margin-bottom: $spacer3;
+    border-bottom: $border;
+    font-size: 18px;
+
+    &:last-of-type {
+      border-bottom: 0;
+      margin-bottom: 0;
+    }
+
+    @include breakpoint(lg) {
+      padding-bottom: $spacer4;
+      margin-bottom: $spacer4;
+    }
+  }
+
+  ul ul {
+    display: none;
+  }
+
+  .selected ul {
+    display: block;
+    margin-top: $spacer2;
+
+    @include breakpoint(lg) {
+      margin-top: $spacer3;
+    }
+  }
+
+  .selected ul li {
+    display: block;
+    margin: 0;
+    border-bottom: 0;
+    padding: 0;
+    font-size: 16px;
+  }
+
+  a.current {
+    color: $black;
+  }
+
+}

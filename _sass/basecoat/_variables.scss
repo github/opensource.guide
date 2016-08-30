@@ -59,7 +59,7 @@ $spacer9: nth($spacers, 10); // 84px
 $body-font: Roboto, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", "Oxygen", "Ubuntu", "Cantarell", "Open Sans", sans-serif;
 $display-font: $body-font;
 $alt-font: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-$body-font-size: 16px;
+$body-font-size: 18px;
 $body-line-height: 1.5;
 $weight-normal: 300;
 $weight-semibold: 400;
@@ -74,7 +74,7 @@ $colors: (
     base:   #fff,
   ),
   black: (
-    base:   #3c4146,
+    base:   #333333,
   ),
   gray: (
     base:   #e5e5e5,
