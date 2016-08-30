@@ -50,4 +50,4 @@ layout: default
 </div>
 
 <script src="{{ "/js/lunr.min.js" | prepend: site.baeurl }}"></script>
-<script src="{{ "/js/search.js" | prepend: site.baseurl }}?{{ site.time }}"></script>
+<script src="{{ "/js/search.js" | prepend: site.baseurl }}?{{ site.time | date: "%s" }}"></script>
