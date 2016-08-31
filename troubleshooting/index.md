@@ -6,6 +6,7 @@ contents:
 - troubleshooting/finding-consensus.md
 - troubleshooting/contributions.md
 - troubleshooting/getting-paid.md
+- troubleshooting/legal.md
 ---
 
 This section of the handbook addresses some common situations or questions that may come up as you maintain your open source project.
