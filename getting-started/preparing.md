@@ -25,7 +25,7 @@ Legal work is no fun. The good news is there are many licenses available that yo
 
 When you create a new project on GitHub, you are given the option to select a license. Including one of these licenses will make your GitHub project open source. (You can use [http://choosealicense.com](http://choosealicense.com) to find the right license for your project.)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, we've got you covered: [The legal side of open source](../legal/)
+If you have other questions or concerns around the legal aspects of managing an open source project, we've got you covered: [The legal side of open source](../../troubleshooting/legal/)
 
 **(include image of license selection on GitHub new repo here?)**
 
