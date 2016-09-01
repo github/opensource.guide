@@ -30,3 +30,19 @@ a.user-mention {
     padding-top: $spacer5;
   }
 }
+
+.footnotes {
+  margin-top: $spacer4;
+
+  &:before {
+    content: "Footnotes:";
+    display: inline-block;
+    margin-bottom: $spacer3;
+    color: $heading-color;
+    font-size: 18px;
+    font-weight: 400;
+
+    @include breakpoint(md) { font-size: 20px; }
+    @include breakpoint(lg) { font-size: 22px; }
+  }
+}
