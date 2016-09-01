@@ -34,6 +34,14 @@ $nav-width: 300px;
   height: 100%;
   position: absolute;
   display: none;
+
+  &.is-shown {
+    display: block;
+    @include breakpoint(lg) {
+      display: none;
+    }
+  }
+  
 }
 
 .toggle-nav {
