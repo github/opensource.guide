@@ -33,11 +33,12 @@ a.user-mention {
 
 .footnotes {
   margin-top: $spacer4;
-  
+
   &:before {
     content: "Footnotes:";
     display: inline-block;
-    margin-bottom: $spacer1;
+    margin-bottom: $spacer3;
+    color: $heading-color;
     font-size: 18px;
     font-weight: 400;
 

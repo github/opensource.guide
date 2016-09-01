@@ -25,6 +25,8 @@ $nav-width: 300px;
 
   @include breakpoint(lg) {
     position: static;
+    transform: none;
+    -webkit-transform: none;
   }
 
 }
@@ -41,7 +43,7 @@ $nav-width: 300px;
       display: none;
     }
   }
-  
+
 }
 
 .toggle-nav {
@@ -92,7 +94,7 @@ $nav-width: 300px;
    border-right: 0;
  }
 
- @media screen and (min-width: 992px) and (min-height: 730px){ //only fix navigation if screen is tall enough for it
+ @media screen and (min-width: 992px) and (min-height: 730px) { //only fix navigation if screen is tall enough for it
     position: fixed !important;
  }
 }
