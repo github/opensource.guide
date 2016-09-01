@@ -14,16 +14,19 @@ layout: default
     <div class="col-main-wrapper pt-4 pt-lg-0">
 
       <h1 class="mb-3 mb-lg-4">{{ page.title }}</h1>
-      <div class="text-small px-3 py-1 mb-4 border rounded-1 d-inline-block">
-        <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="link-muted">
-          {% octicon pencil height:18 class:"right left fill-gray mr-2" aria-label:hi %} Suggest edits to this page
-        </a>
-      </div>
 
       {{ content }}
 
+      <p class="border mb-0 mt-4 mt-md-7 p-3 p-md-4">
+        {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
+          This content is open source.
+          <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="">
+            Please help improve it.
+          </a>
+      </p>
+
       {% assign previous = site.pages | where: "next", page.path | first %}
-      <div class="clearfix border-top mt-4 mt-md-7 py-3 py-md-6">
+      <div class="clearfix py-3 py-md-6">
         <div class="col-md-6 mb-3">
           {% if previous == null %}
             <span class="d-block">&nbsp;</span>
