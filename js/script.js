@@ -6,7 +6,6 @@ function toggleNav() {
       // Do things on Nav Open
       $('.site-wrapper').addClass('show-nav');
   }
-  //$('#site-wrapper').toggleClass('show-nav');
 }
 
 $(function() {
@@ -15,5 +14,11 @@ $(function() {
         // Calling a function in case you want to expand upon this.
         toggleNav();
         $(this).toggleClass('toggle-nav-close');
+        $('.site-canvas-mask').addClass('d-block');
+    });
+    $('.site-canvas-mask').click(function() {
+      $('.site-wrapper').removeClass('show-nav');
+      $(this).removeClass('d-block');
+      $('.toggle-nav').removeClass('toggle-nav-close');
     });
 });
