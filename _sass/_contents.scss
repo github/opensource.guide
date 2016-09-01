@@ -15,9 +15,12 @@
 
 .navigation {
   background: white;
-  border: $border;
-  box-shadow: $box-shadow;
-  border-radius: $border-radius;
+
+  @include breakpoint(lg) {
+    border: $border;
+    box-shadow: $box-shadow;
+    border-radius: $border-radius;
+  }
 
   ul {
     margin-bottom: 0;
@@ -27,6 +30,7 @@
   ul li {
     border-bottom: $border;
     font-size: 18px;
+    margin-bottom: 0;
 
     &:last-of-type {
       border-bottom: 0;
@@ -103,10 +107,10 @@
   border-top: $border;
   border-bottom: $border;
   padding: $spacer3 0;
+  margin: $spacer4 0;
 
   @include breakpoint(md) {
     padding: $spacer4 0;
-    margin: $spacer4 0;
   }
 
   &:before {
