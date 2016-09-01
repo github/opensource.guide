@@ -8,7 +8,7 @@ This handbook aims to foster healthy open source communities, and provide a cano
 
 ## Contributing
 
-This handbook aims to reflect community best practices. Check out [CONTRIBUTING.md](/CONTRIBUTING.md) for ways to offer feedback and contribute.
+Our goal is for this project to reflect community best practices, so we'd love your input! Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
 
 ## Licenses
 
