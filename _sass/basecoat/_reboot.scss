@@ -135,7 +135,7 @@ address {
 ol,
 ul,
 dl {
-  margin-top: 0;
+  margin-top: 1rem;
   margin-left: 1rem;
   margin-bottom: 1rem;
   padding-left: 0;
@@ -154,6 +154,9 @@ ul ul,
 ol ul,
 ul ol {
   margin-bottom: 0;
+  @include breakpoint(md) {
+    margin-left: 1rem;
+  }
 }
 
 dt {
