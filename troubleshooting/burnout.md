@@ -15,7 +15,7 @@ Most people who come across your project don't know anything about you or your c
 
 Maybe at one point you put a lot of time into your project but now circumstances have changed. You're juggling a new family and a full-time job, and you just don't have that much time to spend on open source work anymore. That's perfectly okay! Make sure other people know about it. Other people won't know what's happening in your life unless you tell them.
 
-Write your time constraints directly into your README. [Say no](contributions/) to contributions you don't want to accept. If your time is purely volunteered, make sure that people are aware of your circumstances. You can even tell them exactly how many hours you spend on the project per week, or let them know which days you're most active. If your project is completely unmaintained or a low priority in your life, tell people that, too. Cultivating [best practices as a maintainer](../../sustaining/best-practices/) will help you protect your boundaries.
+Write your time constraints directly into your README. [Say no](../contributions/) to contributions you don't want to accept. If your time is purely volunteered, make sure that people are aware of your circumstances. You can even tell them exactly how many hours you spend on the project per week, or let them know which days you're most active. If your project is completely unmaintained or a low priority in your life, tell people that, too. Cultivating [best practices as a maintainer](../../sustaining/best-practices/) will help you protect your boundaries.
 
 ## Write an agreement for maintainers and contributors
 

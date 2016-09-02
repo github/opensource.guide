@@ -15,13 +15,13 @@ For the most part, if you've cultivated a friendly, respectful community and doc
 
 When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../sustaining/healthy-communities/#dont-tolerate-bad-actors) to keep discussions civil and productive.
+Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../../sustaining/healthy-communities/#dont-tolerate-bad-actors) to keep discussions civil and productive.
 
 Remember that others in your community are looking to you for guidance. Set a good example for others. You can still express disappointment, unhappiness, or concern, but do so with a sense of calm and detachment. Keeping your cool isn't easy, but your leadership will improve the health of your community. The internet thanks you. 🙏
 
 ## Treat your README as a constitution
 
-Your README is [more than just a set of instructions](../getting-started/preparing/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people become overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher goals and vision of your project. Focusing on the README can also help depersonalize the conversation around a specific idea, so you can have a constructive discussion.
+Your README is [more than just a set of instructions](../../getting-started/preparing/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people become overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher goals and vision of your project. Focusing on the README can also help depersonalize the conversation around a specific idea, so you can have a constructive discussion.
 
 ## Focus on the journey, not the destination
 

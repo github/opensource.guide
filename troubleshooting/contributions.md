@@ -15,7 +15,7 @@ If you receive a contribution you don't want to accept, your first reaction migh
 
 Contributing to an open source project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, be sure to respond to their submission. Acknowledge the person behind it and thank them for their interest. It's a big compliment! If you don't want to accept the contribution, clearly explain why and offer suggestions for improvement if you're able.
 
-Don't feel guilty about not wanting to accept someone's contribution. While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it. Your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, take steps to diffuse the situation or even [remove them from your community](conduct), if they're not willing to collaborate constructively.
+Don't feel guilty about not wanting to accept someone's contribution. While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it. Your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, take steps to diffuse the situation or even [remove them from your community](../conduct), if they're not willing to collaborate constructively.
 
 ## Write down what you won't accept beforehand
 
