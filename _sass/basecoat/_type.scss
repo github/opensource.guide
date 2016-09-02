@@ -52,6 +52,10 @@ h2,
   @include breakpoint(lg) { font-size: 32px; }
 }
 
+p + h2 { // for better vertical rhythm when reading 
+  margin-top: 1em;
+}
+
 h3,
 .text-gamma {
   font-size: 18px;
