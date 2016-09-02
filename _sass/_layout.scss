@@ -36,9 +36,12 @@ $nav-width: 300px;
   height: 100%;
   position: absolute;
   display: none;
+  -webkit-transition: 300ms ease all;
+  transition: 300ms ease all;
 
   &.is-shown {
     display: block;
+    background: rgba(0, 0, 0, 0.5);
     @include breakpoint(lg) {
       display: none;
     }

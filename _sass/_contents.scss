@@ -15,6 +15,7 @@
 
 .navigation {
   background: white;
+  padding-top: 2px; //hacky px value to make the borders line up perfectly
 
   @include breakpoint(lg) {
     border: $border;
@@ -39,16 +40,13 @@
   }
 
   ul li a {
-    padding: $spacer3;
+    padding: $spacer4;
 
     &:hover {
       background: $gray-light;
       text-decoration: none;
     }
 
-    @include breakpoint(lg) {
-      padding: $spacer4;
-    }
   }
 
   ul li.selected a {
@@ -80,16 +78,11 @@
   }
 
   .selected ul li a {
-    padding: $spacer1 $spacer3;
+    padding: $spacer1 $spacer4;
 
     &:hover {
       background: transparent;
       text-decoration: underline;
-    }
-
-    @include breakpoint(lg) {
-      padding: 0;
-      padding: $spacer1 $spacer4;
     }
   }
 
