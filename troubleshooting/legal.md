@@ -1,6 +1,5 @@
 ---
 title: The legal side of open source
-next: getting-started/preparing.md
 ---
 
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about.
@@ -69,7 +68,7 @@ If you're open sourcing a project for your company, then definitely let them kno
 * **Third party material:** Does your project have dependencies created by others or otherwise include or use others' code? If these are open source, you'll need to comply with the materials' open source licenses. That starts with choosing a license that works with the third party open source licenses (see above). If your project modifies or distributes third party open source material, then your legal team will also want to know that you're meeting other conditions of the third party open source licenses such as retaining copyright notices. If your project uses others' code that does't have an open source license, you'll probably have to ask the third party maintainers to [add an open source license](http://choosealicense.com/no-license/#for-users), and if you can't get one, stop using their code in your project.
 * **Trade secrets:** Consider whether there is anything in the project that the company does not want to make available to the general public. If so, you could open source the rest of your project, after extracting the material the you want to keep private.
 * **Patents:** Is your company applying for a patent of which open sourcing your project would constitute [public disclosure](https://en.wikipedia.org/wiki/Public_disclosure)? Sadly, you might be asked to wait (or maybe the company will reconsider the wisdom of the application). If you're expecting contributions to your project from employees of companies with large patent portfolios, your legal team may want you to use a license with an express patent grant from contributors (such as Apache 2.0 or GPLv3), or an additional contributor agreement (see above).
-* **Trademarks:** Double check that your project's name [does not conflict with any existing trademarks](../branding/#avoiding-name-conflicts). If you use your own company trademarks in the project, check that it does not cause any conflicts.
+* **Trademarks:** Double check that your project's name [does not conflict with any existing trademarks](../../getting-started/branding/#avoiding-name-conflicts). If you use your own company trademarks in the project, check that it does not cause any conflicts.
 * **Privacy:** Does your project collect data on users? "Phone home" to company servers? Your legal team can help you comply with company policies and external regulations.
 
 If you're releasing your company's first open source project, the above is more than enough to get through (but don't worry, most projects shouldn't raise any major concerns).
