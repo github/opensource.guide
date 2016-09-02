@@ -64,9 +64,13 @@ If you [place your CONTRIBUTING file in your project's repository](https://help.
 
 ## Establishing a code of conduct
 
-Finally, a code of conduct helps set ground rules for behavior of your project's participants. This is especially valuable if you're launching an open source project for a community or company.
+Finally, a code of conduct helps set ground rules for behavior of your project's participants. This is especially valuable if you're launching an open source project for a community or company. We recommend placing a CODE_OF_CONDUCT file in your project's root directory.
 
-In addition to communicating your expectations, you should describe what happens if someone violates the code of conduct, and where someone can report such behavior. We recommend placing a CODE_OF_CONDUCT file in your project's root directory.
+In addition to communicating your expectations, you should describe the following:
+* Where your code of conduct takes effect (only on issues and pull requests, or related community activities like events?)
+* Who the code of conduct applies to (community members and maintainers, but what about sponsors?)
+* What happens if someone violates the code of conduct
+* How someone can report violations
 
 The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Angular Code of Conduct](https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md) are two good examples. The [Contributor Covenant](http://contributor-covenant.org/) is a code of conduct used by [many projects](http://contributor-covenant.org/adopters/).
 
