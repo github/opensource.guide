@@ -1,9 +1,9 @@
 ---
-title: Best Practices for Maintainers
+title: Best practices for maintainers
 next: sustaining/healthy-communities.md
 ---
 
-In this handbook, we spend plenty of time talking about how to make other people happy. But first and foremost, make yourself happy. Your happiness and health are the most important requirements of open source work. Without them, nothing else matters.
+We spend plenty of time talking about how to make other people happy. But first and foremost, make yourself happy. Maintainer happiness is a non-negotiable requirement for the survival of any open source project.
 
 As you've probably noticed, a major part of maintaining an active open source project is managing other people. While that can be a lot less fun than coding or writing, there are things you can do to make your life easier.
 
@@ -83,12 +83,19 @@ The good news about maintaining a popular open source project is that other main
 * [mention-bot](https://github.com/facebook/mention-bot) automatically mentions potential reviewers for pull requests
 
 * [PullApprove](https://about.pullapprove.com/) helps you manage pull requests
+* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
 
-One of the most important ways you can automate your project is by adding tests. Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be. If you add tests to your project, make sure to explain how they work in your CONTRIBUTING.md file.
+One of the most important ways you can automate your project is by adding tests. Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be. If you add tests to your project, make sure to explain how they work in your CONTRIBUTING file.
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive.
+For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. You can also set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to manage your email notifications.
 
 If you want to get a little more advanced, style guides and linters can help standardize project contributions and make them easier to review and accept. However, if your standards are too complicated, they can increase the barriers to contribution, so proceed carefully here and make sure you're only adding just enough rules to make everyone's lives easier.
+
+If you're not sure which tools or processes to use, sometimes it helps to look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Adopting similar tools and approaches will also make your process more familiar to potential contributors.
+
+## Let others help out
+
+You don't have to do everything yourself. As your project's community grows, you may find that others are making substantial contributions to your project. Recognizing their contributions explicitly and [formalizing their role](../leadership/#how-do-i-formalize-leadership-roles-in-my-project) in your project can go a long way in reducing your own burden. Make it clear early on in your CONTRIBUTING file how others can grow into leadership roles if they wish.
 
 Hopefully, you're feeling more empowered to say no, set and enforce rules, and take breaks when you need them. In the next section, we'll talk about how you can leverage your community to grow a sustainable project.
 
