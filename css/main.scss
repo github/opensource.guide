@@ -2,18 +2,9 @@
 ---
 
 @import "basecoat/basecoat";
+@import "off-canvas";
 @import "contents";
 @import "layout";
-
-.expand-content {
-  display: none;
-}
-
-.expand-trigger {
-  a {
-    cursor: pointer;
-  }
-}
 
 a.user-mention {
   font-weight: 700;

@@ -62,33 +62,33 @@
   }
 }
 
-.col-1 { width: calc(1/12 * 100%); float: left;}
-.col-2 { width: calc(2/12 * 100%); float: left;}
-.col-3 { width: calc(3/12 * 100%); float: left; }
-.col-4 { width: calc(4/12 * 100%); float: left; }
-.col-5 { width: calc(5/12 * 100%); float: left; }
-.col-6 { width: calc(6/12 * 100%); float: left; }
-.col-7 { width: calc(7/12 * 100%); float: left; }
-.col-8 { width: calc(8/12 * 100%); float: left; }
-.col-9 { width: calc(9/12 * 100%); float: left; }
-.col-10 { width: calc(10/12 * 100%); float: left; }
-.col-11 { width: calc(11/12 * 100%); float: left; }
-.col-12 { width: 100%; float: left; }
+.col-1 { width: calc(1/12 * 100%) !important; float: left;}
+.col-2 { width: calc(2/12 * 100%) !important; float: left;}
+.col-3 { width: calc(3/12 * 100%) !important; float: left; }
+.col-4 { width: calc(4/12 * 100%) !important; float: left; }
+.col-5 { width: calc(5/12 * 100%) !important; float: left; }
+.col-6 { width: calc(6/12 * 100%) !important; float: left; }
+.col-7 { width: calc(7/12 * 100%) !important; float: left; }
+.col-8 { width: calc(8/12 * 100%) !important; float: left; }
+.col-9 { width: calc(9/12 * 100%) !important; float: left; }
+.col-10 { width: calc(10/12 * 100%) !important; float: left; }
+.col-11 { width: calc(11/12 * 100%) !important; float: left; }
+.col-12 { width: 100% !important; float: left; }
 
 @each $breakpoint in map-keys($breakpoints) {
   @include breakpoint($breakpoint) {
-    .col-#{$breakpoint}-1 { width: calc(1/12 * 100%); float: left;}
-    .col-#{$breakpoint}-2 { width: calc(2/12 * 100%); float: left; }
-    .col-#{$breakpoint}-3 { width: calc(3/12 * 100%); float: left; }
-    .col-#{$breakpoint}-4 { width: calc(4/12 * 100%); float: left; }
-    .col-#{$breakpoint}-5 { width: calc(5/12 * 100%); float: left; }
-    .col-#{$breakpoint}-6 { width: calc(6/12 * 100%); float: left; }
-    .col-#{$breakpoint}-7 { width: calc(7/12 * 100%); float: left; }
-    .col-#{$breakpoint}-8 { width: calc(8/12 * 100%); float: left; }
-    .col-#{$breakpoint}-9 { width: calc(9/12 * 100%); float: left; }
-    .col-#{$breakpoint}-10 { width: calc(10/12 * 100%); float: left; }
-    .col-#{$breakpoint}-11 { width: calc(11/12 * 100%); float: left; }
-    .col-#{$breakpoint}-12 { width: 100%; float: left; }
+    .col-#{$breakpoint}-1 { width: calc(1/12 * 100%) !important; float: left;}
+    .col-#{$breakpoint}-2 { width: calc(2/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-3 { width: calc(3/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-4 { width: calc(4/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-5 { width: calc(5/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-6 { width: calc(6/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-7 { width: calc(7/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-8 { width: calc(8/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-9 { width: calc(9/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-10 { width: calc(10/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-11 { width: calc(11/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-12 { width: 100% !important; float: left; }
   }
 }
 

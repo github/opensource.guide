@@ -1,87 +1,6 @@
 $nav-width-offcanvas: 70%;
 $nav-width: 300px;
 
-.site-wrapper { // for the off canvas nav
-  position: relative;
-  overflow: hidden;
-  width: 100%;
-  @include breakpoint(lg) {
-    position: static;
-  }
-}
-
-.site-canvas {
-  width: 100%;
-  height: 100%;
-  position: relative;
-  -webkit-transform: translateX(0);
-  transform: translateX(0);
-  -webkit-transform: translate3d(0, 0, 0);
-  transform: translate3d(0, 0, 0);
-  -webkit-transition: 300ms ease all;
-  transition: 300ms ease all;
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-
-  @include breakpoint(lg) {
-    position: static;
-    transform: none;
-    -webkit-transform: none;
-  }
-
-}
-
-.site-canvas-mask {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  display: none;
-  -webkit-transition: 300ms ease all;
-  transition: 300ms ease all;
-
-  &.is-shown {
-    display: block;
-    background: rgba(0, 0, 0, 0.5);
-    @include breakpoint(lg) {
-      display: none;
-    }
-  }
-
-}
-
-.toggle-nav {
-  .octicon-x {
-    display: none;
-  }
-}
-
-.toggle-nav-close {
-  .octicon-x {
-    display: block;
-  }
-  .octicon-list {
-    display: none;
-  }
-}
-
-.show-nav .site-canvas {
-  -webkit-transform: translateX($nav-width-offcanvas);
-  transform: translateX($nav-width-offcanvas);
-  -webkit-transform: translate3d($nav-width-offcanvas, 0, 0);
-  transform: translate3d($nav-width-offcanvas, 0, 0);
-
-  @include breakpoint(lg) {
-    -webkit-transform: translateX(0);
-    transform: translateX(0);
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
-  }
-}
-
-.content-wrapper { //puts a max width on the content area
-  max-width: 1700px;
-}
-
 .col-nav {
   width: $nav-width-offcanvas;
   height: 100%;
@@ -91,26 +10,16 @@ $nav-width: 300px;
   border-right: $border;
 
  @include breakpoint(lg) {
-   width: $nav-width;
+   position: relative;
+   width: 100%;
    top: auto;
    left: auto;
-   border-right: 0;
  }
 
- @media screen and (min-width: 992px) and (min-height: 730px) { //only fix navigation if screen is tall enough for it
-    position: fixed !important;
- }
 }
 
 .col-main {
   @include breakpoint(lg) {
-    margin-left: ($nav-width + $spacer5);
-  }
-}
-
-.col-main-wrapper {
-  @include breakpoint(lg) {
-    max-width: 700px;
-    margin: 0 auto;
+    //margin-left: ($nav-width + $spacer5);
   }
 }
