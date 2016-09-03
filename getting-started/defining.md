@@ -5,7 +5,7 @@ next: getting-started/setting-expectations.md
 
 ## What does it mean to open source a project?
 
-So you're interested in making your project open source? Congratulations! 🎉 🙌 🌟 The world appreciates your contribution.
+So you're interested in making your project open source? Congratulations! 🎉 The world appreciates your contribution.
 
 Before we get into the details of running an open source project, let's talk about what open sourcing a project actually means.
 
