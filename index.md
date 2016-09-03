@@ -4,6 +4,6 @@ next: getting-started/index.md
 contents:
 ---
 
-Welcome to the Open Source Handbook! If you're interested in launching and growing your own open source project, we're here to help.
+Welcome to the Open Source Handbook! If you're interested in launching and growing your own open source project, this is the handbook for you.
 
-Not all open source projects are the same. Whether you're an individual, a company, or a community, we've gathered advice and stories to guide you.
+Open source projects can be big or small, simple or complex. Whether you're an individual, a company, or a community, we've gathered advice and stories to guide you.
