@@ -9,7 +9,12 @@ contents:
   - getting-started/preparing.md
 ---
 
-While we cover strategies that are relevant to every open source project, you may find different sections more or less useful, depending on what you need.
+We'll start with the basics. What is open source? What do I need to know before launching a project? What should my project include?
+
+The Open Source Handbook is meant to help you launch projects of all shapes and sizes. While we cover strategies that are relevant to every project, you may find certain sections more or less useful, depending on what you need.
+
+* TOC
+{:toc}
 
 ---
 
