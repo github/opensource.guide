@@ -4,6 +4,6 @@ next: getting-started/index.md
 contents:
 ---
 
-Welcome to the Open Source Handbook! We created this handbook to help creators like you successfully release and grow your projects.
+Welcome to the Open Source Handbook! If you're interested in launching and growing your own open source project, we're here to help.
 
-We wrote this handbook based on what we've learned from watching millions of open source projects on GitHub's platform. Whether you're an individual, a company, or a community, you'll find plenty of real stories and experiences in this handbook to guide you.
+Not all open source projects are the same. Whether you're an individual, a company, or a community, we've gathered advice and stories to guide you.
