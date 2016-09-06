@@ -31,3 +31,6 @@ When you contribute to this repository you are doing so under the above licenses
 The initial release of the Handbook was authored by **@nayafia, @bkeepers, @stephbwills,** and **@mlinksva**.
 
 Thanks to **@aitchabee, @benbalter, @brettcannon, @coralineada, @dmleong, @ericholscher, @gr2m, @janl, @jfrazelle, @joshsimmons, @kytrinyx, @lee-dohm, @mikeal, @mikemcquaid, @nathansobo, @nsqe, @orta, @parkr, @shazow, @steveklabnik,** and **@wooorm** for lending their valuable input and expertise leading up to the initial release, and to **@sophshep** for designing the Handbook.
+
+## Disclaimer
+While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](disclaimer.md) before diving in.
