@@ -13,7 +13,7 @@ We'll start with the basics. What is open source? What do I need to know before 
 
 The Open Source Handbook is meant to help you launch projects of all shapes and sizes. While we cover strategies that are relevant to every project, you may find certain sections more or less useful, depending on what you need.
 
-One more thing: we can give you advice on running an open source project, but we're not lawyers. Be sure to read our [disclaimer](../../../disclaimer) before you dive in.
+One more thing: we can give you advice on running an open source project, but we're not lawyers. Be sure to read our [disclaimer](../../disclaimer) before you dive in.
 
 * TOC
 {:toc}
