@@ -12,13 +12,13 @@ But branding is more than a flashy logo or catchy project name. It's about how y
 * TOC
 {:toc}
 
-## Choosing the right name
+### Choosing the right name
 
 Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example, [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting, and [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server.
 
 Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. For example, some of your users might be employees; you don't want to make them uncomfortable when they have to explain your project's name to coworkers!
 
-## Avoiding name conflicts
+### Avoiding name conflicts
 
 Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk. You can check for U.S. trademark conflicts [here](http://www.uspto.gov/trademarks-application-process/search-trademark-database). If you're at a company, this is one of the things your [legal team can help you with](../legal/#what-does-my-companys-legal-team-need-to-know).
 
@@ -28,7 +28,7 @@ Consider whether you'll want a website, Twitter handle, or other properties to r
 
 Finally, it doesn't hurt to do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
 
-## How you write (and code) affects your brand, too!
+### How you write (and code) affects your brand, too!
 
 Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists. Whether it's official documentation or a casual email, how you write contributes to the brand of a project. Consider how you might come across to your audience and whether that is the tone you wish to convey.
 
@@ -46,6 +46,6 @@ It isn't necessary to write a style guide for your project when you're just star
 
 We're almost there! Next, we'll walk you through a few components that every open source project should include when you launch.
 
-## Further reading
+### Further reading
 
 * [Choose a Good Name](http://producingoss.com/en/getting-started.html#choosing-a-name) from _Producing Open Source Software_ by @kfogel

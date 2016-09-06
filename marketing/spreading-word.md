@@ -10,7 +10,7 @@ In this section, we'll go through some of the most effective ways that people pr
 * TOC
 {:toc}
 
-## Be able to convey what your project is for (and why it matters)
+### Be able to convey what your project is for (and why it matters)
 
 Before you start the hard work of promoting your project, you should be able to explain why your project is different or interesting. Why should someone get excited about your work? Answering this question for yourself will make it easier to convince others.
 
@@ -18,7 +18,7 @@ The best way to invite people to share and contribute to your project is to shar
 
 There is no magical formula to building an audience and reputation. Gaining the trust and respect of others takes time—it's never too early or too late to start.
 
-## Help people find and follow your project
+### Help people find and follow your project
 
 You can help people find and remember your project by pointing them to your project's namespace—a website, Twitter handle, or IRC channel, for example.
 
@@ -32,7 +32,7 @@ A Twitter handle or IRC channel is like a calling card for your project. It give
 
 Now that you have a marketing message for your project, and clear ways for people to reach you, let's get out there and talk to your audience!
 
-## Go where your project's audience is (online)
+### Go where your project's audience is (online)
 
 Take advantage of existing online communities and platforms to reach your audience. Online outreach is a great way to share and spread the word quickly, and you have the potential to reach a very wide audience.
 
@@ -40,7 +40,7 @@ If your open source project is a software project, you can probably find your au
 
 Consider introducing yourself and your work to related open source projects and communities. They may help promote your work to their audience through newsletters or forums, or you might find an opportunity to write a blog post or speak at an event. As your project grows, there may even be opportunities for collaboration.
 
-## Go where your project's audience is (offline)
+### Go where your project's audience is (offline)
 
 Look for meetups and conferences that are relevant to your work. Offline outreach is a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers. @mitchellh attributes [Vagrant](https://github.com/mitchellh/vagrant)'s growth and popularity to the talks he gave about the project. [^2]
 
@@ -54,7 +54,7 @@ Spreading the word is an important step in growing the popularity of your projec
 
 In the next section, we'll talk about how to retain those early enthusiasts and grow an engaged community around your project.
 
-## Further reading
+### Further reading
 
 * [How to Spread The Word About Your Code](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/) by @peterc and @robnyman
 * [Tips for public speaking](http://speaking.io/) by @holman

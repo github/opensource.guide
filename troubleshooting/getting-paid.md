@@ -28,7 +28,7 @@ As open source's popularity increases, availability of funding has not yet caugh
 
 Different types of funding require different skills, so consider your strengths to figure out which funding option works best for you.
 
-## Further reading
+### Further reading
 
 * [For Love and For Money](http://lifeofaudrey.com/essays/love_and_money.html) by @aeschright
 * [Why we don't accept donations](http://blog.cocoapods.org/Why-we-dont-accept-donations/) by @alloy

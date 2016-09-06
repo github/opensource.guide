@@ -14,7 +14,7 @@ These topics aren't fun. They may feel unfamiliar or force you out of your comfo
 
 Sometimes, being a maintainer is a thankless job. If you're reading this section, though, you've taken an important first step towards becoming a leader, and for that, we thank you. ❤️
 
-## Troubleshooting topics
+### Troubleshooting topics
 
 * [Enforcing your code of conduct](conduct/)
 * [Feeling guilty or burned out](burnout/)

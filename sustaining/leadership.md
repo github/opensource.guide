@@ -10,7 +10,7 @@ In this section, we'll answer some commonly asked questions about leadership and
 * TOC
 {:toc}
 
-## What are some of the common governance structures for open source projects?
+### What are some of the common governance structures for open source projects?
 
 There are three common governance structures associated with open source projects:
 
@@ -28,19 +28,19 @@ Which one should you use? It's up to you! There is no one correct model. Each on
 
 * [Node.js's liberal contribution policy](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
 
-## Do I need governance docs when I launch my project?
+### Do I need governance docs when I launch my project?
 
 There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
 
 Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch. And if you're a company launching an open source project, you may also want to explain anything particular to how your company will (or won't!) be involved with the project.
 
-## When should I give someone commit access?
+### When should I give someone commit access?
 
 It's up to you when you want to give someone commit access to your project. Some people think you should give commit access to everybody who makes a contribution. [^1] Doing so could encourage more people to feel ownership of your project. On the other hand, especially for big community projects, you may want to only give commit access to people who have made have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
 
 [^1]: [The Pull Request Hack](http://felixge.de/2013/03/11/the-pull-request-hack.html) by @felixge
 
-## What are some leadership roles or responsibilities that projects use?
+### What are some leadership roles or responsibilities that projects use?
 
 Here are some common roles that you might have heard of for open source projects. What these roles actually mean, though, is entirely up to you.
 
@@ -66,7 +66,7 @@ You should use leadership roles to formally recognize people who have made outst
 
 [^4]: [Pycon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s) by @jacobian
 
-## How do I formalize leadership roles in my project?
+### How do I formalize leadership roles in my project?
 
 Formalizing your leadership roles helps people take ownership and tells other community members who to look to for help. For a smaller project, designating leaders can be as simple as adding their names to your README. You could also create a separate text file that lists the names of project leaders. If your project has a website, you can create a team page or list your project leaders there.
 
@@ -82,7 +82,7 @@ Once you've established leadership roles, don't forget to document how people ca
 
 Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization. [GitHub Organizations](https://github.com/blog/674-introducing-organizations) make it easier to manage permissions and help protect your project's legacy.
 
-## Do I need a legal entity to support my project?
+### Do I need a legal entity to support my project?
 
 You don't need a legal entity to support your open source project unless you're handling money. For example, if you want to create a commercial business, you'll want to set up a C Corp or LLC (if you're based in the US). If you're just doing contract work related to your open source project, you can accept money as a sole proprietor, or set up an LLC (if you're based in the US).
 
@@ -90,7 +90,7 @@ If you want to accept donations for your open source project, you can set up a d
 
 If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.python.org/pypi), the Python package manager, and the [Node.js Foundation](https://nodejs.org/en/foundation/) helps support [Express.js](http://expressjs.com/), a Node-based framework.
 
-## What's next?
+### What's next?
 
 Congratulations on making it this far, and welcome to the ranks of open source maintainership! We hope your project continues to thrive and that this Handbook has helped you along the way.
 

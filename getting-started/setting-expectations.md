@@ -10,7 +10,7 @@ In this section, we'll help you think through a few important questions about th
 * TOC
 {:toc}
 
-## Define your goals
+### Define your goals
 
 Let's start by defining your goals. Simply put: _why are you open sourcing this project?_
 
@@ -24,7 +24,7 @@ Here are some examples of [reasons](http://ben.balter.com/2015/11/23/why-open-so
 * An individual wants to get feedback on their work
 * A company wants make their code transparent
 
-## Figure out what you need from others
+### Figure out what you need from others
 
 Once you've listed out your goals, ask yourself: _for each of these goals, what do I (or we) need from others?_
 
@@ -34,7 +34,7 @@ On the other hand, if you are building a community project, you may be very acti
 
 If you're hoping to get feedback on something you've created, consider asking for the type of feedback you're looking for, whether it's general code review or help with a specific bug. For example, [Geocoder](https://github.com/alexreisner/geocoder#known-issue) calls out a known issue in its README.
 
-## Figure out what others need from you
+### Figure out what others need from you
 
 Open sourcing a project is a two-way street. People who use your project will probably ask you for things, too.
 
@@ -50,13 +50,13 @@ Here are some questions to ask yourself early on. If you don't know the answers,
 * Will my users need extra help or support anywhere?
 * How does this project compare to other projects that my audience might be familiar with?
 
-## Save your answers, you'll need them!
+### Save your answers, you'll need them!
 
 Congratulations, you just did your first round of user research for your project! If you wrote down the answers to the above questions, save them for later. You can reference your goals and expectations as you develop your project.
 
 We'll also use these answers in the next section, as you consider the brand of your project.
 
-## Further reading
+### Further reading
 
 * [Personas and Pathways for Growing Communities](http://mozillascience.github.io/working-open-workshop/personas_pathways/)
 * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) by @mojombo

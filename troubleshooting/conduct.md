@@ -7,7 +7,7 @@ Your code of conduct helps create a healthy and constructive social atmosphere f
 * TOC
 {:toc}
 
-## Write down how you'll enforce your code of conduct
+### Write down how you'll enforce your code of conduct
 
 You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons for this:
 
@@ -25,7 +25,7 @@ Don't forget that someone might want to report a violation about someone who usu
 
 [^1]: [Khmer's code of conduct](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst)
 
-## Gather information about the situation
+### Gather information about the situation
 
 Treat each community member's voice as important as your own. If you receive a report that someone has violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so sends a signal to members of your community that you value their perspective and trust their judgment.
 
@@ -33,7 +33,7 @@ The community member in question may be a repeat offender who consistently makes
 
 Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives from other community members about this person and their behavior.
 
-## Take appropriate action
+### Take appropriate action
 
 When you feel you sufficiently understand the context of the situation, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
 
@@ -55,7 +55,7 @@ Banning members should not be taken lightly and represents a permanent and irrec
 
 It's not always easy to enforce your code of conduct, but this type of work is necessary to maintain a healthy and active community. When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by the rest of the community, you risk losing the contributions of many others, some of whom you may never even meet.
 
-## Further reading
+### Further reading
 
 * [Django Code of Conduct - Enforcement Manual](https://www.djangoproject.com/conduct/enforcement-manual/)
 * [Enforcing Your Code of Conduct](http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response) presentation by Audrey Eschright

@@ -12,7 +12,7 @@ If you *are* interested in growing your project, the following metrics will give
 * TOC
 {:toc}
 
-## Discoverability
+### Discoverability
 
 Before anybody can use or contribute back to your project, they first need to know it exists. The first question you'll want to ask yourself, then, is: _are people finding my project?_
 
@@ -30,7 +30,7 @@ If your project is hosted on GitHub, [you can view](https://help.github.com/arti
 
 You may also want to track discoverability in specific places: for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
 
-## Usage
+### Usage
 
 People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using my project?_
 
@@ -40,7 +40,7 @@ If your project is on GitHub, navigate again to the "Traffic" page. You can use 
 
 If usage is low compared to the number of people discovering your project, there are two issues to consider: 1) that your project isn't successfully converting your audience, or 2) that you're attracting the wrong audience. For example, if your project lands on the front page of Hacker News, you'll probably see a traffic spike but a lower conversion rate because you're reaching everyone on Hacker News, not just your target audience. Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you're facing.
 
-## Retention
+### Retention
 
 People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to my project?_
 
@@ -59,7 +59,7 @@ Here are a few types of contributor metrics you may want to regularly track:
 
 * **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
 
-## Maintainer Health
+### Maintainer Health
 
 Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _are we responsive to our community?_
 
@@ -69,7 +69,7 @@ Consider tracking how long it takes for you (or another maintainer) to respond t
 
 You could also measure the time it takes to move between stages in the contribution process, such as average amount of time an issue remains open, or time from issue to PR.
 
-## Further reading
+### Further reading
 
 * [Measuring Success in an Open Source Project](http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/) by @sjvn
 * [Using Pirate Metrics to measure success of open source projects](https://opensource.com/business/16/6/pirate-metrics) by @gfachler

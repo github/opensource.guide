@@ -17,7 +17,7 @@ Here are some ways you can empower your biggest fans to run with the work they'r
 * TOC
 {:toc}
 
-## Don't tolerate bad actors
+### Don't tolerate bad actors
 
 Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
 
@@ -25,7 +25,7 @@ Do your best to adopt a zero-tolerance policy towards these types of people. If 
 
 When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../../troubleshooting/conduct/). Your code of conduct can be a constructive guide for these conversations.
 
-## Meet contributors where they're at
+### Meet contributors where they're at
 
 Good documentation is important to give casual contributors the context they need. Make sure people know what the goal of your project is and whether there are contributions you categorically won't accept.
 
@@ -39,7 +39,7 @@ Finally, use your documentation to make people feel welcome at every step of the
 
 > We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
 
-## Share ownership of your project
+### Share ownership of your project
 
 People are excited to contribute to projects when they feel like it belongs to them. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you can give credit to others, the more likely it is that they will stick around.
 
@@ -65,7 +65,7 @@ The bigger your project, and the bigger your community, the easier it is to find
 
 As you build a community of engaged and thoughtful people, you may start thinking about how to formalize their ownership in your project. In the next section, we'll cover some commonly asked questions around leadership and governance.
 
-## Further reading
+### Further reading
 
 * [Growing a contributor base in modern open source](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source) by @mikeal
 * [Sustainable Open Source](http://writing.jan.io/2015/11/20/sustainable-open-source.html) by @janl
