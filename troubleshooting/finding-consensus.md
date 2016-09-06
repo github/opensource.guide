@@ -11,7 +11,7 @@ For the most part, if you've cultivated a friendly, respectful community and doc
 * TOC
 {:toc}
 
-## Set the bar for kindness
+### Set the bar for kindness
 
 When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
 
@@ -19,11 +19,11 @@ Your job as a maintainer is to keep these situations from escalating. Even if yo
 
 Remember that others in your community are looking to you for guidance. Set a good example for others. You can still express disappointment, unhappiness, or concern, but do so with a sense of calm and detachment. Keeping your cool isn't easy, but your leadership will improve the health of your community. The internet thanks you. 🙏
 
-## Treat your README as a constitution
+### Treat your README as a constitution
 
 Your README is [more than just a set of instructions](../../getting-started/preparing/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people become overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher goals and vision of your project. Focusing on the README can also help depersonalize the conversation around a specific idea, so you can have a constructive discussion.
 
-## Focus on the journey, not the destination
+### Focus on the journey, not the destination
 
 Some projects use a voting process to make major decisions. While sensible at first glance, voting emphasizes getting to an "answer," rather than listening to and addressing each other's concerns.
 
@@ -35,7 +35,7 @@ Even if you don't actually adopt a consensus seeking process, as the maintainer 
 
 Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
 
-## Keep the conversation focused on action
+### Keep the conversation focused on action
 
 While discussion is important, there is a difference between productive and unproductive conversations. Encourage discussion so long as it is actively moving towards resolution. If it's clear that conversation is languishing or going off-topic, jabs are getting personal, or people are quibbling about minor details, it's time to shut this thing down.
 
@@ -45,7 +45,7 @@ With every point made by you or by others, ask yourself, _"How does this bring u
 
 If a conversation is taking place on an Issue that clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the Issue and explain why it has been closed.
 
-## Pick your battles wisely
+### Pick your battles wisely
 
 Context is important. Consider who is involved in the discussion and how they represent the rest of the community. Is everybody in the community upset about, or even engaged with, this issue? Or is a lone troublemaker raising the issue? Remember to consider your community members who are silent, not just the active voices.
 
@@ -53,13 +53,13 @@ A notable exception to this framing is when the issue concerns community behavio
 
 If the issue does not represent the broader needs of your community, you may just need to acknowledge the concerns of a few people. If this is a recurring issue without a clear resolution, point them to previous discussions on the topic and close the thread.
 
-## Identify a community tiebreaker
+### Identify a community tiebreaker
 
 With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, you should identify an individual or group of people that can serve as a tiebreaker. A tiebreaker could be the primary maintainer of the project, or it could be a small group of people who make a decision based on voting. Ideally, you've identified your tiebreaker and the associated process in your GOVERNANCE.md before you ever have to use it.
 
 Your tiebreaker should be a last resort. Divisive issues can be an opportunity for your community to grow and learn. Embrace these opportunities and try to use a collaborative process to move to a resolution wherever possible.
 
-## Further reading
+### Further reading
 
 * [Avoiding Common Pitfalls](http://producingoss.com/en/producingoss.html#common-pitfalls) from _Producing Open Source Software_ by @kfogel
 * Wikipedia: [Consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)

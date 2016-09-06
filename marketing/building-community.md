@@ -8,7 +8,7 @@ You've launched your project, you're spreading the word, and people are checking
 * TOC
 {:toc}
 
-## Give your community a place to congregate
+### Give your community a place to congregate
 
 There are two reasons to give your community a place to congregate.
 
@@ -18,13 +18,13 @@ The second reason is for you. If you don't give people a public place to talk ab
 
 If your project is on GitHub, public communication can be as simple as directing people to use GitHub Issues instead of emailing you directly. You could also set up a mailing list (such as [Google Groups](https://groups.google.com/forum/#!overview)) or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
 
-## Make people feel welcome
+### Make people feel welcome
 
 A welcoming community is an investment into your project's future and reputation. When someone new lands on your project, make sure to thank them for their interest! Show them around and help them get started. Point them to resources, like onboarding materials or past mailing list threads, that you think might be helpful. It only takes one negative experience to make someone not want to come back.
 
 You don't have to overdo it or feel like you're putting others' needs in front of your own. Be honest about your project's needs, but do so with an assertive attitude. You can stand up for yourself without being rude, flippant, or unhelpful.
 
-## Document everything
+### Document everything
 
 When you start an open source project, it may feel natural to keep your ideas and workflows private. But open source projects thrive when you document your process in public. That way, more people can participate at every step of the way. Not only will they know _what_ to contribute, but they'll also know _how_. You might get help on something you didn't even know you needed.
 
@@ -32,7 +32,7 @@ Documenting your open source project means more than just technical documentatio
 
 Writing things down isn't just for meetings and technical documentation, either. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
 
-## Be responsive
+### Be responsive
 
 As you promote your project, people will probably have feedback and ideas for you. They may request support or functionality, have questions about how things work, or need help getting started.
 
@@ -42,7 +42,7 @@ Try to be responsive when someone files an issue, submits a pull request, or ask
 
 Remember that conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
 
-## Make it easy for people to use and contribute
+### Make it easy for people to use and contribute
 
 One way to think about your project's community is what @MikeMcQuaid calls the contributor funnel. [^2] At the top of the funnel is anybody who could potentially use your project. At the bottom of the funnel are people like you who maintain the project.
 
@@ -58,7 +58,7 @@ If there's a contribution you disagree with, thank them for their idea and expla
 
 You're doing great so far! Now that you're promoting your project and growing a community, you're probably wondering whether you're doing it right. In the next section, we'll talk about metrics to measure your project's success and how to track them.
 
-## Further reading
+### Further reading
 
 * [Growing the community around your open-source project](http://radek.io/2015/10/12/marketing-for-open-source-projects-5/) by @pazdera
 * [Welcoming Communities](http://hood.ie/blog/welcoming-communities.html) by @gr2m

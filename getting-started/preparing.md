@@ -17,7 +17,7 @@ As a maintainer, these components will help you communicate expectations, manage
 * TOC
 {:toc}
 
-## Choosing a license
+### Choosing a license
 
 An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from any sticky legal situations.
 
@@ -29,7 +29,7 @@ If you have other questions or concerns around the legal aspects of managing an 
 
 **(include image of license selection on GitHub new repo here?)**
 
-## Writing a README
+### Writing a README
 
 Your project's README file gives your reader context about the project.
 
@@ -50,7 +50,7 @@ As a maintainer, READMEs are an opportunity to clarify your goals in public. If 
 
 When you include a README file in the root directory, GitHub will automatically display it on your project repository's homepage. It will be the first thing someone sees when they arrive.
 
-## Setting your contributing guidelines
+### Setting your contributing guidelines
 
 A CONTRIBUTING file tells your audience how to participate in your project. For example, you might want to tell your reader how to create an issue, file a bug report, test fixes, or format code.
 
@@ -62,7 +62,7 @@ You should reference your CONTRIBUTING file in your README. In your README, give
 
 If you [place your CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
 
-## Establishing a code of conduct
+### Establishing a code of conduct
 
 Finally, a code of conduct helps set ground rules for behavior of your project's participants. This is especially valuable if you're launching an open source project for a community or company. We recommend placing a CODE_OF_CONDUCT file in your project's root directory.
 
@@ -76,7 +76,7 @@ The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [An
 
 Codes of conduct help protect not just your participants, but yourself. As you maintain your project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work. A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive about these expectations reduces the likelihood that you, or others, will become fatigued with your project later on. You can read more about enforcing codes of conduct [here](../../troubleshooting/conduct/).
 
-## What's next?
+### What's next?
 
 Now that you have these four files in the root directory of your project, you're ready to open source your project! Click "publish" and pat yourself on the back. Then continue on to the next section. We've got work to do.
 
@@ -84,7 +84,7 @@ Launching your project is only the first step. If you're hoping people will disc
 
 Sometimes, it will take a long time before people notice your open source project. Your project will likely go through multiple phases of activity and contributorship. That's okay! Some of the most popular projects today took years to reach high levels of activity. The rest of this handbook is designed to help you manage your project every step of the way.
 
-## Further reading
+### Further reading
 
 * Licenses
   * [ChooseALicense.com](http://choosealicense.com)

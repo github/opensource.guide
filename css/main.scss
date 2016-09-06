@@ -46,3 +46,8 @@ a.user-mention {
     @include breakpoint(lg) { font-size: 22px; }
   }
 }
+
+#site-title {
+  font-size: 22px;
+  font-weight: 400;
+}

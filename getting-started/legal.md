@@ -10,7 +10,7 @@ Thankfully, you don't have to start from scratch. This section will make sure yo
 * TOC
 {:toc}
 
-## Why does my project need an open source license?
+### Why does my project need an open source license?
 
 When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation. Once the work has other contributors (each a copyright holder), "nobody" starts including you.
 
@@ -20,7 +20,7 @@ Making your GitHub project public is not the same as licensing your project. Pub
 
 Also, the licenses of your project's dependencies, the communities you hope will use your project, or your employer's policies may effectively require your project to use an open source license, even a specific open source license. We'll cover these situations below.
 
-## Which open source license is appropriate for my project?
+### Which open source license is appropriate for my project?
 
 If you're starting from a blank slate, it's hard to go wrong with the [MIT License](http://choosealicense.com/licenses/mit/). It's short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including your copyright notice. You'll be able to release the project under a different license if you ever need to.
 
@@ -40,7 +40,7 @@ Your **company** may have specific licensing requirements for its open source pr
 
 When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you'd like to see other options, check out [ChooseALicense.com](http://choosealicense.com) to find the right license for your project, even if it [isn't software](http://choosealicense.com/non-software/).
 
-## Does my project need an additional contributor agreement?
+### Does my project need an additional contributor agreement?
 
 Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license.
 
@@ -56,7 +56,7 @@ Here are some situations where you may want to consider an additional contributi
 
 If you do need to use an additional contributor agreement with your project, consider using an integration such as [CLA assistant](https://github.com/cla-assistant/cla-assistant) to minimize contributor distraction.
 
-## What does my company's legal team need to know?
+### What does my company's legal team need to know?
 
 First, they should know that you're open sourcing a project.
 
@@ -80,7 +80,7 @@ Longer term your legal team can do more to help the company get more from its in
 * **Patents:** Your company may wish to join the [Open Invention Network](http://www.openinventionnetwork.com/), a shared defensive patent pool to protect members' use of major open source projects, or explore other [alternative patent licensing](https://www.eff.org/document/hacking-patent-system-2016).
 * **Governance:** Especially if and when it makes sense to move a project to a [legal entity outside of the company](../../sustaining/leadership/#do-i-need-a-legal-entity-to-support-my-project).
 
-## Further reading
+### Further reading
 
 * [ChooseALicense.com](http://choosealicense.com)
 * [Over 70 approved licenses](https://opensource.org/licenses/alphabetical) that conform with the generally accepted definition of open source

@@ -12,7 +12,7 @@ In this section, we'll talk about how to set up your projects in a way that help
 * TOC
 {:toc}
 
-## Know yourself and your needs
+### Know yourself and your needs
 
 Remember way back, before you launched your project, [when you wrote down](../../getting-started/setting-expectations) your expectations? It's time to revisit that document now. Remind yourself why you're doing this work and what you want to get out of open sourcing your project. Has anything changed?
 
@@ -28,7 +28,7 @@ Write down your project's vision and, where possible, make that vision transpare
 
 These types of exercises may seem trivial, but the more you know yourself and your limits (not just abilities!), the easier it is to say no to things that don't fit into your scope.
 
-## Write down your rules
+### Write down your rules
 
 Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
 
@@ -46,7 +46,7 @@ Some examples of rules you may want to write down:
 
 * How much time you spend on the project (for example: "I only work on this project on weekends" or "I spend 10 percent of my employer's time on this project, usually Wednesdays through Fridays")
 
-## Learn to say no
+### Learn to say no
 
 The first rule of open source, according to @shykes: _"No is temporary, yes is forever."_[^2] If you plan on maintaining open source projects for a long time, it's never too early to practice saying no.
 
@@ -65,7 +65,7 @@ If the thought of saying no terrifies you, you're not alone. As @jfrazelle put i
 
 [^3]: [The Art of Closing](https://blog.jessfraz.com/post/the-art-of-closing/) by @jfrazelle
 
-## Keep communication public
+### Keep communication public
 
 Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
 
@@ -73,7 +73,7 @@ It's tempting to respond to private communication, especially early in the life 
 
 Notable exceptions to this practice are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these types of issues privately. If you don't want to use your personal communication channels, set up a separate email address for this purpose.
 
-## Automate your work
+### Automate your work
 
 The good news about maintaining a popular open source project is that other maintainers have probably struggled with similar issues. There are a variety of tools available to help automate your work. For example:
 
@@ -96,13 +96,13 @@ If you want to get a little more advanced, style guides and linters can help sta
 
 If you're not sure which tools or processes to use, sometimes it helps to look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Adopting similar tools and approaches will also make your process more familiar to potential contributors.
 
-## Let others help out
+### Let others help out
 
 You don't have to do everything yourself. As your project's community grows, you may find that others are making substantial contributions to your project. Recognizing their contributions explicitly and [formalizing their role](../leadership/#how-do-i-formalize-leadership-roles-in-my-project) in your project can go a long way in reducing your own burden. Make it clear early on in your CONTRIBUTING file how others can grow into leadership roles if they wish.
 
 Hopefully, you're feeling more empowered to say no, set and enforce rules, and take breaks when you need them. In the next section, we'll talk about how you can leverage your community to grow a sustainable project.
 
-## Further reading
+### Further reading
 
 * [Be Cordial or Be on Your Way](http://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way) by @kennethreitz
 * [A Plea for Better Open Source Etiquette](https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/) by @benilovj
