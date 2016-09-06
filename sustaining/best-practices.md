@@ -56,7 +56,10 @@ Saying no applies to many situations you'll come across as a maintainer. You can
 
 One of the most important places you'll practice saying no is on your issue and pull request queue. If someone suggests an idea that you know you won't accept, don't leave it open because you feel guilty or want to be nice. Be kind, but firm. Thank them for their contribution and explain why it doesn't fit into the scope of the project. Then close the request.
 
-If you notice repeated requests for things you don't want to accept, consider adding them into your contribution policy, so you don't have to keep repeating yourself.
+Defining your project's scope makes closing pull requests that have "scope
+creep" easier. If you notice repeated requests for things you don't want to
+accept, consider adding them into your contribution policy or modifying your
+project's scope, so you don't have to keep repeating yourself.
 
 If the thought of saying no terrifies you, you're not alone. As @jfrazelle put it: _"I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want."_ [^3] But the more often you practice saying no, the easier it becomes. Promise.
 
@@ -66,7 +69,7 @@ If the thought of saying no terrifies you, you're not alone. As @jfrazelle put i
 
 Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
 
-It's tempting to respond to private communication, especially early in the life of a project. Resist the temptation. Keeping communication public means less work for you personally. It also opens up opportunities for other people to learn and participate.
+It's tempting to respond to private communication, especially early in the life of a project. Resist the temptation. Keeping communication public means less work for you personally. It also opens up opportunities for other people to learn and participate. When the communication is public it means other people with the same question or problem can easily find the answer without having to ask again.
 
 Notable exceptions to this practice are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these types of issues privately. If you don't want to use your personal communication channels, set up a separate email address for this purpose.
 
