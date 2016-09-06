@@ -2,8 +2,6 @@
 title: Handbook Legal Disclaimer
 ---
 
-# Legal Disclaimer
-
 GitHub is not a law firm. As such, GitHub does not provide legal advice. The material in this handbook does not constitute legal advice nor does contributing to the handbook or communicating with GitHub or other contributors about the handbook create an attorney-client relationship.
 
 Open source projects are made available and contributed to under licenses that include terms that, for the protection of contributors, make clear that the projects are offered "as-is", without warranty, and disclaiming liability for damages resulting from using the projects. This handbook is no different. The open content license it is offered under [includes such terms](https://creativecommons.org/licenses/by/4.0/legalcode#s5).
