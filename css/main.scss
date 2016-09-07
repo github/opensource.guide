@@ -49,5 +49,6 @@ a.user-mention {
   background-color: $taupe;
   background-image: url("{{ site.baseurl }}/img/bg.svg");
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: 102%;
+  background-position: center -10px;
 }
