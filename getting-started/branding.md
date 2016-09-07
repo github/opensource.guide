@@ -1,6 +1,6 @@
 ---
 title: Branding
-next: getting-started/legal.md
+next: getting-started/preparing.md
 ---
 
 Wondering what to name your project? Let's talk about your project's brand.
