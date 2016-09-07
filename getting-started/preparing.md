@@ -14,7 +14,7 @@ No matter which stage you decide to open source your project, every project shou
 * License ([LICENSE](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository))
 * README ([README](https://help.github.com/articles/create-a-repo/#commit-your-first-change))
 * Contributing guidelines ([CONTRIBUTING](https://help.github.com/articles/setting-guidelines-for-repository-contributors/))
-* Code of conduct (CODE-OF-CONDUCT)
+* Code of conduct (CODE_OF_CONDUCT)
 
 If your project is on GitHub, putting these in your root directory with the recommended filenames will help GitHub recognize these as special files. GitHub will display your README on the front page of your repository, link to your contributing guidelines when someone opens an issue, and other goodies.
 
