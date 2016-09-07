@@ -1,3 +1,5 @@
+title: "Open Source Handbook"
+
 baseurl: "/open-source-handbook"
 
 exclude:
@@ -25,8 +27,15 @@ defaults:
 gems:
   - jekyll-mentions
   - jekyll-octicons
+  - jekyll-seo-tag
 
 branch: gh-pages
 
 github:
   repository_nwo: github/open-source-handbook
+
+twitter:
+  username: github
+
+facebook:
+  publisher: https://www.facebook.com/GitHub/
