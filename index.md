@@ -2,6 +2,7 @@
 title: Welcome
 next: getting-started/index.md
 contents:
+layout: landing
 ---
 
 Welcome to the Open Source Handbook! If you're interested in launching and growing your own open source project, this is the handbook for you.

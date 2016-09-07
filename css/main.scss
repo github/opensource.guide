@@ -37,3 +37,17 @@ a.user-mention {
     @include breakpoint(lg) { font-size: 22px; }
   }
 }
+
+.landing-intro {
+  padding-top: 28%;
+  @include breakpoint(xl) {
+    padding-top: 20%;
+  }
+}
+
+.bg-squares {
+  background-color: $taupe;
+  background-image: url("{{ site.baseurl }}/img/bg.svg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
