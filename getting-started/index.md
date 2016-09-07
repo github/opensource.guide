@@ -5,8 +5,8 @@ contents:
   - getting-started/defining.md
   - getting-started/setting-expectations.md
   - getting-started/branding.md
-  - getting-started/legal.md
   - getting-started/preparing.md
+  - getting-started/legal.md
 ---
 
 We'll start with the basics: What is open source? What do you need to know before launching a project?
