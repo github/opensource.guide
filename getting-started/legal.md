@@ -1,6 +1,5 @@
 ---
 title: The legal side of open source
-next: getting-started/preparing.md
 ---
 
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about.
@@ -87,3 +86,4 @@ Longer term your legal team can do more to help the company get more from its in
 * [A Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) by @vanl
 * [Broadening Node.js Contributions](https://www.joyent.com/blog/broadening-node-js-contributions) by @bcantrill
 * [FOSSmarks](http://fossmarks.org/) is "a practical guide to understanding trademarks in the context of Free and Open Source projects."
+* [Everything a government attorney needs to know about open source software licensing](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/) by @benbalter
