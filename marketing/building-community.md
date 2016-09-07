@@ -28,7 +28,9 @@ You don't have to overdo it or feel like you're putting others' needs in front o
 
 When you start an open source project, it may feel natural to keep your ideas and workflows private. But open source projects thrive when you document your process in public. That way, more people can participate at every step of the way. Not only will they know _what_ to contribute, but they'll also know _how_. You might get help on something you didn't even know you needed.
 
-Documenting your open source project means more than just technical documentation. Be transparent about your project's roadmap, your timeline for completing new features, the types of contributions you're looking for, how contributions are reviewed and accepted, or why you made certain decisions. Any time you feel the urge to write something down about your project, ask yourself whether you can make it public. The feedback you'll get from this level of transparency may surprise you.
+Documenting your open source project means more than just technical documentation. Be transparent about your project's roadmap, your timeline for completing new features, the types of contributions you're looking for, how contributions are reviewed and accepted, or why you made certain decisions. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public. For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+
+Writing things down isn't just for meetings and technical documentation, either. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
 
 ## Be responsive
 
@@ -48,9 +50,11 @@ One way to think about your project's community is what @MikeMcQuaid calls the c
 
 As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to make each stage of the contributor experience as frictionless as possible. When people have easy wins, they will feel incentivized to do more.
 
-Start by making it easy for someone to use your project. Tutorials, clear code examples, good documentation, and a friendly README will make it easier for anyone who lands on your project to understand its value and get started.
+Start by making it easy for someone to use your project. Tutorials, clear code examples, good documentation, and a friendly README will make it easier for anyone who lands on your project to understand its value and get started. Don't forget to document processes for non-code contributions as well, such as triaging, community management, or design.
 
-For casual or first-time contributors, be open-minded about the types of contributions you'll accept. Many casual contributors start with a small fix. A new contributor might write a tutorial or improve your project's documentation, because newer users notice things that more experienced users might not. Let people help how they want to help. If there's a contribution you disagree with, thank them for their idea and explain why it doesn't fit into the scope of the project. If there are certain types of contributions that you won't accept, explain so in your CONTRIBUTING.md file.
+For casual or first-time contributors, be open-minded about the types of contributions you'll accept. Your pool of contributors includes much more than just developers. Many contributors start with a bug report or small fix. A new contributor might write a tutorial or improve your project's documentation, because newer users notice things that more experienced users might not. Let people help how they want to help.
+
+If there's a contribution you disagree with, thank them for their idea and explain why it doesn't fit into the scope of the project. If there are certain types of contributions that you won't accept, explain so in your CONTRIBUTING.md file.
 
 You're doing great so far! Now that you're promoting your project and growing a community, you're probably wondering whether you're doing it right. In the next section, we'll talk about metrics to measure your project's success and how to track them.
 
@@ -60,3 +64,5 @@ You're doing great so far! Now that you're promoting your project and growing a 
 * [Welcoming Communities](http://hood.ie/blog/welcoming-communities.html) by @gr2m
 * [Building Popular Projects](https://ashfurrow.com/blog/building-popular-projects/) by @ashfurrow
 * [What makes a good community?](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/) by @sarahsharp
+* [Lowering the barriers](https://the-pastry-box-project.net/charlotte-spencer/2015-september-16) by @charlotteis
+* [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.f0i87x7us) by @kentcdodds

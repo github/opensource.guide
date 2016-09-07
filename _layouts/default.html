@@ -2,36 +2,104 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="{{ "/js/script.js" | prepend: site.baseurl }}"></script>
+    {% seo %}
+  </head>
+  <body>
+    <div class="site-wrapper">
+      <div class="site-canvas">
+        <div class="site-canvas-mask"></div>
+        <header class="border-bottom clearfix bg-gray-light">
+          <div class="px-3 px-sm-5 px-md-6 py-3 clearfix">
+            <div class="d-table">
+              <div class="d-table-cell v-align-middle">
+                <div class="toggle-nav fill-blue v-align-middle ml-2 py-3 mr-4 d-lg-none">
+                  {% octicon three-bars height:32 class:"octicon-list mt-1" aria-label:hi %}
+                  {% octicon x height:32 class:"octicon-x" aria-label:hi %}
+                </div>
+              </div>
+              <div class="d-table-cell v-align-middle">
+                <h3 class="m-0 my-md-3 pr-3 d-sm-inline-block">
+                  <a href="{{ site.baseurl }}" class="link-unstyled">Open Source Handbook</a>
+                </h3>
+                <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}" class="text-small">
+                  View on GitHub
+                </a>
+              </div>
+            </div>
+          </div>
+        </header>
+        <main>
+          <div id="content">
+            {{ content }}
+          </div>
+        </main>
+        <section class="bg-gray-light text-center mt-4 mt-md-6 py-4 py-md-6 py-lg-7">
+          <a class="btn btn-blue" type="button" href="mailto:opensource@github.com">Contact a human</a>
+        </section>
+      </div>
+    </div>
+
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<<<<<<< HEAD
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="{{ "/js/jquery.sticky.js" | prepend: site.baseurl }}"></script>
     {% seo %}
+=======
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="{{ "/js/script.js" | prepend: site.baseurl }}"></script>
+>>>>>>> gh-pages
   </head>
   <body>
-    <header class="border-bottom clearfix">
-      <div class="px-3 px-sm-5 px-md-6">
-        <h3 class="my-3 my-4 d-inline-block pr-3">
-          <a href="{{ site.baseurl }}" class="link-unstyled">Open Source Handbook</a>
-        </h3>
-        <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}" class="">
-          View on GitHub
-        </a>
+    <div class="site-wrapper">
+      <div class="site-canvas">
+        <div class="site-canvas-mask"></div>
+        <header class="border-bottom clearfix bg-gray-light">
+          <div class="px-3 px-sm-5 px-md-6 py-3 clearfix">
+            <div class="d-table">
+              <div class="d-table-cell v-align-middle">
+                <div class="toggle-nav fill-blue v-align-middle ml-2 py-3 mr-4 d-lg-none">
+                  {% octicon three-bars height:32 class:"octicon-list mt-1" aria-label:hi %}
+                  {% octicon x height:32 class:"octicon-x" aria-label:hi %}
+                </div>
+              </div>
+              <div class="d-table-cell v-align-middle">
+                <h3 class="m-0 my-md-3 pr-3 d-sm-inline-block">
+                  <a href="{{ site.baseurl }}" class="link-unstyled">Open Source Handbook</a>
+                </h3>
+                <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}" class="text-small">
+                  View on GitHub
+                </a>
+              </div>
+            </div>
+          </div>
+        </header>
+        <main>
+          <div id="content">
+            {{ content }}
+          </div>
+        </main>
+        <section class="bg-gray-light text-center mt-4 mt-md-6 py-4 py-md-6 py-lg-7">
+          <a class="btn btn-blue" type="button" href="mailto:opensource@github.com">Contact a human</a>
+        </section>
       </div>
-    </header>
-    <main class="bg-shade-gradient">
-      <div id="content" class="">
-        {{ content }}
-      </div>
-    </main>
-    <script>
-       var expandTrigger = $('.expand-trigger')
-        //show expand content clicking on expandTrigger
-        expandTrigger.on('click', function(event){
-        	event.preventDefault();
-        	$(this).next('.expand-content').slideToggle(200).end().parent('li').toggleClass('content-visible');
-          $(this).toggleClass('expand-open')
-        });
-    </script>
+    </div>
+
   </body>
 </html>

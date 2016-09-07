@@ -1,5 +1,5 @@
 ---
-title: Leadership & Governance
+title: Leadership & governance
 next: troubleshooting/index.md
 ---
 
@@ -14,11 +14,11 @@ In this section, we'll answer some commonly asked questions about leadership and
 
 There are three common governance structures associated with open source projects:
 
-* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example of a BDFL project. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example of a BDFL project. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
 
-* **Meritocracy:** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy was pioneered by the [Apache Foundation](http://www.apache.org/); [all Apache projects](http://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **Meritocracy:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](http://www.apache.org/); [all Apache projects](http://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
 
-* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. The liberal contribution model was pioneered by [Node.js](https://nodejs.org/en/foundation/). [Rust](https://www.rust-lang.org/en-US/) is another example.
+* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://nodejs.org/en/foundation/) and [Rust](https://www.rust-lang.org/en-US/).
 
 Which one should you use? It's up to you! There is no one correct model. Each one has advantages and tradeoffs. And although they may seem quite different at first, all three models have more in common than it might seem. If you're interested in adopting one of these models, here are some templates:
 
@@ -30,9 +30,9 @@ Which one should you use? It's up to you! There is no one correct model. Each on
 
 ## Do I need governance docs when I launch my project?
 
-It's not necessary to define your project's governance when you launch. The best part about open source governance is that it is shaped by the community!
+There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
 
-There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. However, some documentation will inevitably contribute to your project's governance, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch. And if you're a company launching an open source project, you may also want to explain anything particular to how your company will (or won't!) be involved with the project.
+Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch. And if you're a company launching an open source project, you may also want to explain anything particular to how your company will (or won't!) be involved with the project.
 
 ## When should I give someone commit access?
 
@@ -72,13 +72,13 @@ Formalizing your leadership roles helps people take ownership and tells other co
 
 If your project is bigger, you may have a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas. [Rust](https://github.com/rust-lang/rust) is an example of a project that moved from having one core team to multiple teams. [^5] For example, you could have subcommittees focused on security, issue triaging, or community conduct. Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
 
-[^5]: [The Rust Team](https://www.rust-lang.org/en-US/team.html)
+[^5]: [Expanding Rust's governance structure](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
 
 Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, hosts office hours every week.[^6]
 
 [^6]: [Talking with other devs](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs) from [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions in private.
+Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md. You can also use tools like [vossibility-stack](https://github.com/icecrime/vossibility-stack) to publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions in private.
 
 Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization. [GitHub Organizations](https://github.com/blog/674-introducing-organizations) make it easier to manage permissions and help protect your project's legacy.
 
