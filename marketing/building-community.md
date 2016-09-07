@@ -64,3 +64,5 @@ You're doing great so far! Now that you're promoting your project and growing a 
 * [Welcoming Communities](http://hood.ie/blog/welcoming-communities.html) by @gr2m
 * [Building Popular Projects](https://ashfurrow.com/blog/building-popular-projects/) by @ashfurrow
 * [What makes a good community?](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/) by @sarahsharp
+* [Lowering the barriers](https://the-pastry-box-project.net/charlotte-spencer/2015-september-16) by @charlotteis
+* [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.f0i87x7us) by @kentcdodds
