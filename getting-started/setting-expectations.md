@@ -11,6 +11,7 @@ In this section, we'll help you think through a few important questions about th
 {:toc}
 
 ## Your first time
+
 If you've never open sourced a project before, you might be nervous about whether your work is good enough, what people will say, or whether anyone will notice at all. If this sounds like you, don't worry!
 
 Open source work is like any other creative activity, such as writing or painting. It might feel scary to share your work with the world for the first time, but the only way to get better is to practice. If you're still on the fence, [check out these reasons](http://www.huffingtonpost.com/bianca-bass/why-you-should-write-even_b_9331252.html) why people write, even when they don't have an audience.
