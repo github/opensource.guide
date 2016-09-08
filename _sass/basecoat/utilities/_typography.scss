@@ -1,0 +1,62 @@
+// Text-color
+.text-black {color: $heading-color !important;}
+
+.text-default {color: $body-color !important;}
+
+.text-white {
+  color: $white !important;
+
+  a {
+    color: $white !important;
+    opacity: 0.7 !important;
+  }
+}
+
+// Small text
+.text-small {
+  font-size: 14px !important;
+
+  @include breakpoint(md) { font-size: 15px !important; }
+}
+
+// Bold text
+.text-bold {
+  font-weight: 500 !important;
+}
+
+.text-thin {
+  font-weight: 300 !important;
+}
+
+// Special links
+.link-no-underline {
+  &:hover {
+    text-decoration: none !important;
+  }
+}
+
+.link-unstyled {
+  color: inherit !important;
+  &:hover {
+    text-decoration: none !important;
+    color: inherit !important;
+  }
+}
+
+.link-blue {
+  color: $link-color !important;
+}
+
+// Text alignment
+
+.text-center  { text-align: center !important; }
+.text-left  { text-align: left !important; }
+.text-right  { text-align: right !important; }
+
+@each $breakpoint in map-keys($breakpoints) {
+  @include breakpoint($breakpoint) {
+    .text-#{$breakpoint}-center  { text-align: center !important; }
+    .text-#{$breakpoint}-left  { text-align: left !important; }
+    .text-#{$breakpoint}-right  { text-align: right !important; }
+  }
+}

@@ -3,14 +3,20 @@ title: Preparing for launch
 next: marketing/index.md
 ---
 
-You're almost ready to launch your project! In this section, we'll talk about what to include in an open source project before releasing it to the world.
+You've written down your goals, you've chosen a name and an idea, and hopefully you've been hard at work building your project. (Haven't started yet? [Create a repository!](https://help.github.com/articles/create-a-repo/))
 
-Every open source project should include the following:
+Feel ready to launch? In this section, we'll talk about what to include in an open source project before sharing it with the world.
 
-* License
-* README
-* Contributing guide
-* Code of conduct
+If you're developing your project in private, you may be wondering whether it's ready for launch. The short answer is there is no optimal time to open source a project. You can open source something when it's just an idea, or after years of private development. Maybe your project is still a work in progress, or maybe it's a polished piece of art. You should open source your project when you feel comfortable having other people view, and give feedback on, your work.
+
+No matter which stage you decide to open source your project, every project should include the following (standard GitHub filenames are listed in parentheses):
+
+* License ([LICENSE](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository))
+* README ([README](https://help.github.com/articles/create-a-repo/#commit-your-first-change))
+* Contributing guidelines ([CONTRIBUTING](https://help.github.com/articles/setting-guidelines-for-repository-contributors/))
+* Code of conduct (CODE_OF_CONDUCT)
+
+If your project is on GitHub, putting these in your root directory with the recommended filenames will help GitHub recognize these as special files. GitHub will display your README on the front page of your repository, link to your contributing guidelines when someone opens an issue, and other goodies.
 
 As a maintainer, these components will help you communicate expectations, manage contributions, protect your, contributors', and users' legal rights, and make sure that you and your contributors have a positive experience. The more you can document for your readers up front, the less work you'll have to do later on.
 
@@ -23,11 +29,9 @@ An open source license guarantees that others can use, copy, modify, and contrib
 
 Legal work is no fun. The good news is there are many licenses available that you can copy and paste into your repository. It will only take a minute to protect your hard work.
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of these licenses will make your GitHub project open source. (You can use [http://choosealicense.com](http://choosealicense.com) to find the right license for your project.)
+When you create a new project on GitHub, you are given the option to select a license. Including one of these licenses will make your GitHub project open source. [MIT](http://choosealicense.com/licenses/mit/), [Apache 2.0](http://choosealicense.com/licenses/apache-2.0/), and [GPLv3](http://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](http://choosealicense.com) to choose from.
 
 If you have other questions or concerns around the legal aspects of managing an open source project, we've got you covered: [The legal side of open source](../legal/)
-
-**(include image of license selection on GitHub new repo here?)**
 
 ## Writing a README
 
@@ -60,21 +64,26 @@ The CONTRIBUTING file is a place to clearly state the types of contributions you
 
 You should reference your CONTRIBUTING file in your README. In your README, give your audience a quick overview of how contributions work, then link to the CONTRIBUTING file for more information.
 
-If you place your CONTRIBUTING file in the root directory, GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+If you [place your CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
 
 ## Establishing a code of conduct
 
-Finally, a code of conduct helps set ground rules for behavior of your project's participants. This is especially valuable if you're launching an open source project for a community or company.
+Finally, a code of conduct helps set ground rules for behavior of your project's participants. This is especially valuable if you're launching an open source project for a community or company. We recommend placing a CODE_OF_CONDUCT file in your project's root directory.
 
-In addition to communicating your expectations, you should describe what happens if someone violates the code of conduct, and where someone can report such behavior. We recommend placing a CODE_OF_CONDUCT file in your project's root directory.
+In addition to communicating your expectations, you should describe the following:
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Angular Code of Conduct](https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md) are two good examples. The [Contributor Covenant](http://contributor-covenant.org/) is a code of conduct used by [many projects](http://contributor-covenant.org/adopters/).
+* Where your code of conduct takes effect (only on issues and pull requests, or related community activities like events?)
+* Who the code of conduct applies to (community members and maintainers, but what about sponsors?)
+* What happens if someone violates the code of conduct
+* How someone can report violations
+
+The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that has been adopted by [thousands of open source projects](http://contributor-covenant.org/adopters/). If you'd prefer to write your own, the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Angular Code of Conduct](https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md) are good customized examples that can serve as inspiration.
 
 Codes of conduct help protect not just your participants, but yourself. As you maintain your project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work. A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive about these expectations reduces the likelihood that you, or others, will become fatigued with your project later on. You can read more about enforcing codes of conduct [here](../../troubleshooting/conduct/).
 
 ## What's next?
 
-Now that you have these four files in the root directory of your project, you're ready to open source your project! Click "publish" and pat yourself on the back. Then continue on to the next section. We've got work to do.
+Now that you have these four files in the root directory of your project, you're ready to open source your project! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back. Then continue on to the next section. We've got work to do.
 
 Launching your project is only the first step. If you're hoping people will discover and use your project, you'll want to make sure other people know about it.
 

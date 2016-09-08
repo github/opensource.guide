@@ -1,0 +1,164 @@
+// Grid breakpoints
+//
+// Define the minimum and maximum dimensions at which your layout will change,
+// adapting to different screen sizes, for use in media queries.
+$breakpoints: (
+  // Small screen / phone
+  'sm': 544px,
+  // Medium screen / tablet
+  'md': 768px,
+  // Large screen / desktop
+  'lg': 992px,
+  // Extra large screen / wide desktop
+  'xl': 1200px
+) !default;
+
+$container-padding: 20px !default; //not using spacer scale here so that it matches the site
+$container-width: 980px !default; // matches .com
+$container-wide-width: 1220px !default;
+$container-narrow-width: 720px !default;
+
+
+// These are our margin and padding utility spacers. The default step size we
+// use is 6px. This gives us a key of:
+//    0 => 0px
+//    1 => 3px
+//    2 => 6px
+//    3 => 12px
+//    4 => 24px
+//    5 => 36px
+//    6 => 48px
+//    7 => 60px
+
+$spacer: 6px !default;
+$spacers: (
+  0,
+  round($spacer / 2),
+  $spacer,
+  $spacer * 2,
+  $spacer * 4,
+  $spacer * 6,
+  $spacer * 8,
+  $spacer * 10,
+  $spacer * 12,
+  $spacer * 14
+);
+
+// Aliases for easy use
+$spacer1: nth($spacers, 2); // 3px
+$spacer2: nth($spacers, 3); // 6px
+$spacer3: nth($spacers, 4); // 12px
+$spacer4: nth($spacers, 5); // 24px
+$spacer5: nth($spacers, 6); // 36px
+$spacer6: nth($spacers, 7); // 48px
+$spacer7: nth($spacers, 8); // 60px
+$spacer8: nth($spacers, 9); // 72px
+$spacer9: nth($spacers, 10); // 84px
+
+// Type
+$body-font: Roboto, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", "Oxygen", "Ubuntu", "Cantarell", "Open Sans", sans-serif;
+$display-font: $body-font;
+$alt-font: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+$body-font-size: 16px;
+$body-font-size-md: 18px;
+$body-line-height: 1.5;
+$weight-normal: 300;
+$weight-semibold: 400;
+$weight-bold: 500;
+
+// Colors
+//
+// scss-lint:disable ColorKeyword
+
+$colors: (
+  white: (
+    base:   #fff,
+  ),
+  black: (
+    base:   #333333,
+  ),
+  gray: (
+    base:   #e5e5e5,
+    light: #f5f5f5,
+    mid: #aaa,
+    dark: #767676
+  ),
+  purple: (
+    base:   #7a3497,
+    light:  #f7f1f9,
+    dark:   #591e71
+  ),
+  orange: (
+    base:   #e8400d,
+    light:  #fdf2ec,
+    dark:   #b83606
+  ),
+  blue: (
+    base:   #0079d1,
+    light:  #eef4fc,
+    dark:   #0058a2
+  )
+);
+
+@function color($color, $tone:"'base") {
+  @return map-get(map-get($colors, $color), $tone);
+}
+
+// Oranges
+$orange: color(orange, base);
+$orange-dark: color(orange, dark);
+$orange-light: color(orange, light);
+
+// Blues
+$blue: color(blue, base);
+$blue-dark: color(blue, dark);
+$blue-light: color(blue, light);
+
+// Purps
+$purple: color(purple, base);
+$purple-dark: color(purple, dark);
+$purple-light: color(purple, light);
+
+// 11 Shades of Gray
+$black: color(black, base);
+$white: color(white, base);
+$gray: color(gray, base);
+$gray-light: color(gray, light);
+$gray-dark: color(gray, dark);
+$gray-mid: color(gray, mid);
+
+// Color used to generate color scheme
+$theme-color: $blue-dark !default;
+
+// Colors in use
+$body-color: #767676 !default;
+$heading-color: #3c4146 !default;
+$body-bg-color: $white;
+
+// Text
+$text-muted: $gray-mid;
+
+// Links
+$link-color: $blue;
+$link-hover-color: darken($link-color, 10%);
+$link-decoration: none;
+$link-hover-decoration: underline;
+$link-muted: $gray-dark;
+$link-muted-hover: $black;
+
+// Main navigation
+$nav-font-size: 14px !default;
+$nav-text-color: $black !default;
+$nav-bg: $theme-color !default;
+$nav-shadow: false !default; // Adds subtle dropshadow under nav
+
+// Borders
+$border-width: 1px; // Override primer's default
+$border-color: $gray; // Override primer's default
+$border-color-white: $white; // Override primer's default
+$border-color-link: $link-color; // Override primer's default
+$border-radius: 6px; // Override primer's default of 3px;
+$border: $border-width solid $border-color; // Override primer's default
+
+// Shadow
+$box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);

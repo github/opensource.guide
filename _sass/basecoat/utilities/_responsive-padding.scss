@@ -1,0 +1,50 @@
+// scss-lint:disable SpaceAfterPropertyName
+// Padding spacer utilities
+
+@for $i from 1 through length($spacers) {
+  $size: #{nth($spacers, $i)};
+  $scale: #{$i - 1};
+
+  // .p-0, .p-1, .p-2...
+  .p-#{$scale}  { padding: #{$size} !important; }
+  .pt-#{$scale} { padding-top: #{$size} !important; }
+  .pr-#{$scale} { padding-right: #{$size} !important; }
+  .pb-#{$scale} { padding-bottom: #{$size} !important; }
+  .pl-#{$scale} { padding-left: #{$size} !important; }
+
+  .px-#{$scale} {
+    padding-right: #{$size} !important;
+    padding-left: #{$size} !important;
+  }
+
+  .py-#{$scale} {
+    padding-top: #{$size} !important;
+    padding-bottom: #{$size} !important;
+  }
+}
+
+@each $breakpoint in map-keys($breakpoints) {
+  @include breakpoint($breakpoint) {
+    @for $i from 1 through length($spacers) {
+      $size: #{nth($spacers, $i)};
+      $scale: #{$i - 1};
+
+      // .p-sm-0, .p-md-1, .p-lg-2...
+      .p-#{$breakpoint}-#{$scale}  { padding: #{$size} !important; }
+      .pt-#{$breakpoint}-#{$scale} { padding-top: #{$size} !important; }
+      .pr-#{$breakpoint}-#{$scale} { padding-right: #{$size} !important; }
+      .pb-#{$breakpoint}-#{$scale} { padding-bottom: #{$size} !important; }
+      .pl-#{$breakpoint}-#{$scale} { padding-left: #{$size} !important; }
+
+      .px-#{$breakpoint}-#{$scale} {
+        padding-right: #{$size} !important;
+        padding-left: #{$size} !important;
+      }
+
+      .py-#{$breakpoint}-#{$scale} {
+        padding-top: #{$size} !important;
+        padding-bottom: #{$size} !important;
+      }
+    }
+  }
+}

@@ -8,7 +8,7 @@ This handbook aims to foster healthy open source communities, and provide a cano
 
 ## Contributing
 
-This handbook aims to reflect community best practices. Check out [CONTRIBUTING.md](/CONTRIBUTING.md) for ways to offer feedback and contribute.
+Our goal is for this project to reflect community best practices, so we'd love your input! Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
 
 ## Licenses
 
@@ -25,3 +25,12 @@ Code, including source files and code samples if any in the content, is released
 This means you can use the code and content in this repository except for GitHub trademarks in your own projects.
 
 When you contribute to this repository you are doing so under the above licenses.
+
+## Acknowledgments
+
+The initial release of the Handbook was authored by **@nayafia, @bkeepers, @stephbwills,** and **@mlinksva**.
+
+Thanks to **@aitchabee, @benbalter, @brettcannon, @coralineada, @dmleong, @ericholscher, @gr2m, @janl, @jfrazelle, @joshsimmons, @kytrinyx, @lee-dohm, @mikeal, @mikemcquaid, @nathansobo, @nsqe, @orta, @parkr, @shazow, @steveklabnik,** and **@wooorm** for lending their valuable input and expertise leading up to the initial release, and to **@sophshep** for designing the Handbook.
+
+## Disclaimer
+While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](disclaimer.md) before diving in.

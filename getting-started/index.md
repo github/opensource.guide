@@ -1,41 +1,45 @@
 ---
-title: Before you Get Started
-next: getting-started/setting-expectations.md
+title: Getting started
+next: getting-started/defining.md
 contents:
+  - getting-started/defining.md
   - getting-started/setting-expectations.md
   - getting-started/branding.md
-  - getting-started/legal.md
   - getting-started/preparing.md
+  - getting-started/legal.md
 ---
 
-## What does it mean to open source a project?
+We'll start with the basics: What is open source? What do you need to know before launching a project?
 
-So you're interested in making your project open source? Congratulations! 🎉 🙌 🌟 The world appreciates your contribution.
+The Open Source Handbook is meant to help you launch projects of all shapes and sizes. While we cover strategies that are relevant to every project, you may find certain sections more or less useful, depending on what you need.
 
-Before we get into the details of running and managing an open source project, let's talk about what open sourcing a project actually means.
+One more thing: we can give you advice on running an open source project, but we're not lawyers. Be sure to read our [disclaimer](../disclaimer) before you dive in.
 
-## Public projects on GitHub without a license are not open source
+* TOC
+{:toc}
 
-When you publish a project on GitHub, you have the option to make the repository **private** or **public**. A public repository is not automatically open source unless you pick a license that grants a certain set of rights to people who might interact with your project.
+## You're open sourcing a project for the first time
 
-Open source licenses grant permission to everyone to use, modify, and share licensed software for any purpose, subject to certain conditions, depending on the license.
+You've heard a lot about this "open source" thing and you'd like to release a project for the first time.
 
-Public repositories on GitHub are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which gives other people the right to view and fork your repository. But if you want others to use, copy, modify, or contribute back to your project, you need to [include an open source license](https://help.github.com/articles/open-source-licensing/). For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so. (You can learn more about the legal side of open source [here](legal/).)
+If you're worried about getting things right, check out ["Preparing for launch"](preparing) for a quickstart guide, as well as the [Marketing](../marketing) section.
 
-## Open source is more than just source code with a license
+## You've open sourced projects before, but you'd like to sharpen your skills
 
-Open source is [defined by](https://opensource.org/osd) source code with legal protections and freedoms. In terms of culture, open sourcing a project has come to mean much more.
+You currently maintain a few open source projects. You understand the basic mechanics, but there are some things you think you could do better.
 
-There are many reasons why a person or organization might want to open source a project. Some examples are:
+If you're hoping to improve your skills as a maintainer, take a look at the [Sustaining Growth](../sustaining) and [Troubleshooting](../troubleshooting) sections.
 
-* **Transparency:** Making your code visible means that anyone can inspect it for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security-related software infrastructure like [Let's Encrypt](https://github.com/letsencrypt).
+## You're trying to build a large community project
 
-* **Collaboration:** Projects that are open source can accept changes and updates from anybody. Collaboration matters to those who want to build their projects with a community, like [Hoodie](https://github.com/hoodiehq) and [Rust](https://github.com/rust-lang/rust). When people make improvements together, projects can thrive, because they draw from multiple skill sets, experiences, and levels of involvement.
+For you, the best part about open source is _collaboration_. You're excited to work on a project with people from all over the world.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for any purpose, whether it's making a custom version of the original project, or using that project to build something else entirely. Code can reach more people when it is shared and reused, like [React](https://github.com/facebook/react) or [Sentry](https://github.com/getsentry/sentry). And new projects can grow out of older projects, like [WordPress and b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md), or [Jenkins and Hudson](https://github.com/jenkinsci).
+If community is important to you, keep an eye out for resources such as ["Building a community"](../marketing/building-community) and ["Sustaining healthy communities"](../sustaining/healthy-communities).
 
-Remember: open source isn't just for software! You can open source everything from data sets to websites to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+## You're a company open sourcing a project
 
-When you open source a project, you open yourself to feedback and suggestions from other people who are engaged with your work. It might feel intimidating to open source a project for the first time, but remember that you're not alone.
+Your company is about to open source a previously internal project. You want to do it without breaking any laws or upsetting anyone who will interact with your project.
 
-Now it's time to figure out your goals around open sourcing your project. Understanding these goals beforehand will make it easier to manage your and others' expectations later on.
+If you're worried about making lawyers happy, ["The legal side of open source"](legal) and ["Leadership & governance"](../sustaining/leadership) can help you with trademark, license, and other company matters.
+
+Ready to go? Let's get started!

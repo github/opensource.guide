@@ -1,0 +1,48 @@
+---
+---
+
+@import "basecoat/basecoat";
+@import "contents";
+@import "layout";
+
+.expand-content {
+  display: none;
+}
+
+.expand-trigger {
+  a {
+    cursor: pointer;
+  }
+}
+
+a.user-mention {
+  font-weight: 700;
+  color: $black;
+}
+
+#further-reading {
+  border-top: $border;
+  margin-top: $spacer4;
+  padding-top: $spacer4;
+
+  @include breakpoint(md) {
+    margin-top: $spacer6;
+    padding-top: $spacer5;
+  }
+}
+
+.footnotes {
+  margin-top: $spacer4;
+
+  &:before {
+    content: "Footnotes:";
+    display: inline-block;
+    margin-bottom: $spacer3;
+    color: $heading-color;
+    font-size: 18px;
+    font-weight: 400;
+
+    @include breakpoint(md) { font-size: 20px; }
+    @include breakpoint(lg) { font-size: 22px; }
+  }
+}

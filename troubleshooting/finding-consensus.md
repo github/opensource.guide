@@ -15,15 +15,21 @@ For the most part, if you've cultivated a friendly, respectful community and doc
 
 When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views.
+Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../../sustaining/healthy-communities/#dont-tolerate-bad-actors) to keep discussions civil and productive.
 
 Remember that others in your community are looking to you for guidance. Set a good example for others. You can still express disappointment, unhappiness, or concern, but do so with a sense of calm and detachment. Keeping your cool isn't easy, but your leadership will improve the health of your community. The internet thanks you. 🙏
 
+## Treat your README as a constitution
+
+Your README is [more than just a set of instructions](../../getting-started/preparing/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people become overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher goals and vision of your project. Focusing on the README can also help depersonalize the conversation around a specific idea, so you can have a constructive discussion.
+
 ## Focus on the journey, not the destination
 
-Some projects use a voting process to make major decisions. While sensible at first glance, voting can emphasize getting to an "answer," rather than listening to and addressing each other's concerns. Voting can also become political, where community members feel pressured to do each other favors or vote a certain way.
+Some projects use a voting process to make major decisions. While sensible at first glance, voting emphasizes getting to an "answer," rather than listening to and addressing each other's concerns.
 
-As much as you are able, emphasize "consensus seeking" rather than consensus. Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. A consensus seeking process acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
+Voting can become political, where community members feel pressured to do each other favors or vote a certain way. Also, not everybody votes, whether it's the [silent majority](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in your community, or current users who didn't know a vote was taking place.
+
+Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize "consensus seeking" rather than consensus. Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. A consensus seeking process acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
 
 Even if you don't actually adopt a consensus seeking process, as the maintainer of your project, it's important to make sure that people know you are listening. Making other people feel heard and committing to resolving their concerns can go a long way in diffusing a sensitive situation. Then, follow up on your words with actions.
 
@@ -57,3 +63,4 @@ Your tiebreaker should be a last resort. Divisive issues can be an opportunity f
 
 * [Avoiding Common Pitfalls](http://producingoss.com/en/producingoss.html#common-pitfalls) from _Producing Open Source Software_ by @kfogel
 * Wikipedia: [Consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)
+* [Why Atom doesn't have a voting system](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2?u=leedohm) by @lee-dohm

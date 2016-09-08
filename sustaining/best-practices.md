@@ -1,9 +1,9 @@
 ---
-title: Best Practices for Maintainers
+title: Best practices for maintainers
 next: sustaining/healthy-communities.md
 ---
 
-While maintaining an open source project, it's easy to spend most of your time thinking about how to make other people happy. But first and foremost, make yourself happy. Your happiness and health are the most important requirements of open source work. Without them, nothing else matters.
+We spend plenty of time talking about how to make other people happy. But first and foremost, make yourself happy. Maintainer happiness is a non-negotiable requirement for the survival of any open source project.
 
 As you've probably noticed, a major part of maintaining an active open source project is managing other people. While that can be a lot less fun than coding or writing, there are things you can do to make your life easier.
 
@@ -56,7 +56,10 @@ Saying no applies to many situations you'll come across as a maintainer. You can
 
 One of the most important places you'll practice saying no is on your issue and pull request queue. If someone suggests an idea that you know you won't accept, don't leave it open because you feel guilty or want to be nice. Be kind, but firm. Thank them for their contribution and explain why it doesn't fit into the scope of the project. Then close the request.
 
-If you notice repeated requests for things you don't want to accept, consider adding them into your contribution policy, so you don't have to keep repeating yourself.
+Defining your project's scope makes closing pull requests that have "scope
+creep" easier. If you notice repeated requests for things you don't want to
+accept, consider adding them into your contribution policy or modifying your
+project's scope, so you don't have to keep repeating yourself.
 
 If the thought of saying no terrifies you, you're not alone. As @jfrazelle put it: _"I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want."_ [^3] But the more often you practice saying no, the easier it becomes. Promise.
 
@@ -66,7 +69,7 @@ If the thought of saying no terrifies you, you're not alone. As @jfrazelle put i
 
 Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
 
-It's tempting to respond to private communication, especially early in the life of a project. Resist the temptation. Keeping communication public means less work for you personally. It also opens up opportunities for other people to learn and participate.
+It's tempting to respond to private communication, especially early in the life of a project. Resist the temptation. Keeping communication public means less work for you personally. It also opens up opportunities for other people to learn and participate. When the communication is public it means other people with the same question or problem can easily find the answer without having to ask again.
 
 Notable exceptions to this practice are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these types of issues privately. If you don't want to use your personal communication channels, set up a separate email address for this purpose.
 
@@ -83,14 +86,21 @@ The good news about maintaining a popular open source project is that other main
 * [mention-bot](https://github.com/facebook/mention-bot) automatically mentions potential reviewers for pull requests
 
 * [PullApprove](https://about.pullapprove.com/) helps you manage pull requests
+* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
 
-One of the most important ways you can automate your project is by adding tests. Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be. If you add tests to your project, make sure to explain how they work in your CONTRIBUTING.md file.
+One of the most important ways you can automate your project is by adding tests. Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be. If you add tests to your project, make sure to explain how they work in your CONTRIBUTING file.
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive.
+For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. You can also set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to manage your email notifications.
 
 If you want to get a little more advanced, style guides and linters can help standardize project contributions and make them easier to review and accept. However, if your standards are too complicated, they can increase the barriers to contribution, so proceed carefully here and make sure you're only adding just enough rules to make everyone's lives easier.
 
-Hopefully, you're feeling more empowered to say no, set and enforce rules, and take breaks when you need them. Now it's time to think about how you can leverage your community to grow a sustainable project.
+If you're not sure which tools or processes to use, sometimes it helps to look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Adopting similar tools and approaches will also make your process more familiar to potential contributors.
+
+## Let others help out
+
+You don't have to do everything yourself. As your project's community grows, you may find that others are making substantial contributions to your project. Recognizing their contributions explicitly and [formalizing their role](../leadership/#how-do-i-formalize-leadership-roles-in-my-project) in your project can go a long way in reducing your own burden. Make it clear early on in your CONTRIBUTING file how others can grow into leadership roles if they wish.
+
+Hopefully, you're feeling more empowered to say no, set and enforce rules, and take breaks when you need them. In the next section, we'll talk about how you can leverage your community to grow a sustainable project.
 
 ## Further reading
 

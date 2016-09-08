@@ -10,6 +10,12 @@ In this section, we'll help you think through a few important questions about th
 * TOC
 {:toc}
 
+## Your first time
+
+If you've never open sourced a project before, you might be nervous about whether your work is good enough, what people will say, or whether anyone will notice at all. If this sounds like you, don't worry!
+
+Open source work is like any other creative activity, such as writing or painting. It might feel scary to share your work with the world for the first time, but the only way to get better is to practice. If you're still on the fence, [check out these reasons](http://www.huffingtonpost.com/bianca-bass/why-you-should-write-even_b_9331252.html) why people write, even when they don't have an audience.
+
 ## Define your goals
 
 Let's start by defining your goals. Simply put: _why are you open sourcing this project?_
@@ -18,45 +24,37 @@ There is no one right answer to this question. You may find that you have multip
 
 Here are some examples of [reasons](http://ben.balter.com/2015/11/23/why-open-source/) why people open source their work:
 
-* An individual wants to show off their portfolio
-* An individual or company wants others to use what they've created
+* A person wants to show off their portfolio
+* A person wants to know what it's like to run an open source project
 * A community wants to find collaborators to shape the project and help it grow
-* An individual wants to get feedback on their work
+* A person (or company) wants others to use what they've created
+* A person wants to get feedback on their work
 * A company wants make their code transparent
 
-## Figure out what you need from others
+If your goal is to learn how to collaborate with others or better understand how open source works, you might also want to [consider contributing](https://guides.github.com/activities/contributing-to-open-source/) to an existing open source project, rather than creating your own. There are many active community projects who would love to help you make a contribution. [First Timers Only](http://www.firsttimersonly.com/) and [Your First PR](https://yourfirstpr.github.io/) are a few resources that can help you get started.
 
-Once you've listed out your goals, ask yourself: _for each of these goals, what do I (or we) need from others?_
+## Reflect on your goals
 
-For example, if you are open sourcing a project to build your portfolio, you may not be actively looking for contributions, or you don't have time to review them. In that case, you might clearly state in your README that you are not accepting contributions. For example, [Infinite-scroll](https://github.com/infinite-scroll/infinite-scroll) states this information at the top of its README.
+Once you've listed out your goals, ask yourself: _based on my goals, what do I (or we) expect from this project?_
 
-On the other hand, if you are building a community project, you may be very actively looking for contributors. In this case, you might want to be more detailed about the types of contributions you're looking for and explicitly give your readers permission to modify and shape the project. For example, [Sinatra](https://github.com/sinatra/sinatra/blob/master/CONTRIBUTING.md) lists all the types of contributions they'd love to have.
+You don't have to overthink it at this stage, but it's helpful to think about what you might expect from others, and what others might expect from you, based on your project's goals.
 
-If you're hoping to get feedback on something you've created, consider asking for the type of feedback you're looking for, whether it's general code review or help with a specific bug. For example, [Geocoder](https://github.com/alexreisner/geocoder#known-issue) calls out a known issue in its README.
+For example, if your only goal is to show off your work, you may not be actively looking for contributions, and even state that you're not accepting contributions in your README (like [infinite-scroll](https://github.com/infinite-scroll/infinite-scroll) does).
 
-## Figure out what others need from you
+On the other hand, if you are building a community project, you may be very actively looking for contributors. In that case, you might want to invest a lot of work into clear, detailed documentation and making newcomers feel welcome (like [Sinatra](https://github.com/sinatra/sinatra/blob/master/CONTRIBUTING.md) does).
 
-Open sourcing a project is a two-way street. People who use your project will probably ask you for things, too.
-
-Try to anticipate these needs beforehand so you can add them to your project from the beginning. Successful open source projects try to document as much as they can in public. Much like reusable pieces of code, reusable information means less people need to ask you the same questions over and over again. (That means less work for you!)
-
-Remember that as your project grows, your users may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project. While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
-
-Here are some questions to ask yourself early on. If you don't know the answers, consider how you might be able to figure them out (for example, polling others online or reading through forums where your users might congregate).
-
-* Does the project's name resonate with my audience? Will they remember it or think it is clever?
-* What are the skills and background of my audience? Do they need to know anything special about how to use my project?
-* Where might my users feel frustrated? Can I (or we) make it easier somehow?
-* Will my users need extra help or support anywhere?
-* How does this project compare to other projects that my audience might be familiar with?
+If you're hoping people will contribute to your project, remember that as your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project. While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
 
 ## Save your answers, you'll need them!
 
-Congratulations, you just did your first round of user research for your project! If you wrote down the answers to the above questions, save them for later. You can reference your goals and expectations as you develop your project.
+Writing down your goals will help you throughout the life of your project. A clear set of goals can help you figure out what to work on, what to say no to, and where you need help from others.
 
-We'll also use these answers in the next section, as you consider the brand of your project.
+Consider listing your goals in the README of your project. Successful open source projects try to document as much as they can in public. Much like reusable pieces of code, reusable information means less people need to ask you the same questions over and over again. Making your goals public will remind you about what matters, as well as help others know what to expect of you.
 
 ## Further reading
 
 * [Personas and Pathways for Growing Communities](http://mozillascience.github.io/working-open-workshop/personas_pathways/)
 * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) by @mojombo
+* [Contributing to Open Source](https://guides.github.com/activities/contributing-to-open-source/)
+* [First Timers Only](http://www.firsttimersonly.com/) by @kentcdodds and @shanselman
+* [Your First PR](https://yourfirstpr.github.io/) by @charlotteis

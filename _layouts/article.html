@@ -1,29 +1,57 @@
 ---
 layout: default
 ---
+<div class="px-3 px-sm-5 px-md-6 pt-lg-6 content-wrapper">
 
-<nav>
-  {% include contents.html %}
-</nav>
+  <nav class="col-nav">
+    <div class="d-lg-block navigation mt-1">
+      {% include contents.html %}
+    </div>
+  </nav>
 
-<article>
-  <h1>{{ page.title }}</h1>
+  <article class="col-main">
 
-  <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}">
-    Suggest edits
-  </a>
+    <div class="col-main-wrapper pt-4 pt-lg-0">
 
-  {{ content }}
+      <h1 class="mb-3 mb-lg-4">{{ page.title }}</h1>
 
-  <p>
-    {% assign previous = site.pages | where: "next", page.path | first %}
-    {% if previous %}
-      Previous: <a href="{{ previous.url | prepend: site.baseurl }}">{{ previous.title }}</a> |
-    {% endif %}
+      {{ content }}
 
-    {% if page.next %}
-      {% assign next = site.pages | where: "path", page.next | first %}
-      Next: <a href="{{ next.url | prepend: site.baseurl }}">{{ next.title }}</a>
-    {% endif %}
-  </p>
-</article>
+      <div class="border mb-0 my-4 my-md-7 p-3 p-md-4">
+        <div class="clearfix">
+          <div class="float-left">
+            {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
+          </div>
+          <div class="overflow-hidden">
+            <span class="d-block d-md-inline">This content is open source.</span>
+            <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
+              Please help improve it.
+            </a>
+          </div>
+        </div>
+      </div>
+
+      {% assign previous = site.pages | where: "next", page.path | first %}
+      <div class="clearfix py-3 py-md-6">
+        <div class="col-md-6 mb-3">
+          {% if previous == null %}
+            <span class="d-block">&nbsp;</span>
+          {% endif %}
+          {% if previous %}
+            <p class="mb-1">Previous</p>
+            <a href="{{ previous.url | prepend: site.baseurl }}" class="text-gamma link-blue">{{ previous.title }}</a>
+          {% endif %}
+        </div>
+        <div class="col-md-6 text-md-right">
+          {% if page.next %}
+            {% assign next = site.pages | where: "path", page.next | first %}
+            <p class="mb-1">Next</p>
+            <a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma link-blue">{{ next.title }}</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+  </article>
+
+</div>

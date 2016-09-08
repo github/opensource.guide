@@ -18,6 +18,7 @@
     "retext-equality": "^2.3.2",
     "retext-quotes": "^1.0.0",
     "retext-readability": "^2.0.0",
+    "retext-repeated-words": "^1.0.0",
     "retext-sentence-spacing": "^1.0.0",
     "retext-simplify": "^2.0.0",
     "retext-words": "bkeepers/retext-words",

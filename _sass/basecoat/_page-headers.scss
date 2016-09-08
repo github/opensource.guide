@@ -1,0 +1,39 @@
+.minitron {
+  position: relative;
+  padding-top: $spacer4;
+  padding-bottom: $spacer4;
+  background-color: $theme-color;
+
+  @include breakpoint(sm) {
+    padding-top: $spacer5;
+    padding-bottom: $spacer5;
+  }
+
+}
+
+.jumbotron {
+  position: relative;
+  padding-top: $spacer5;
+  padding-bottom: $spacer5;
+  background-color: $theme-color;
+
+  @include breakpoint(md) {
+    padding-top: $spacer8;
+    padding-bottom: $spacer8;
+  }
+
+  // Shadow
+  &::after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    content: " ";
+    background-color: transparent;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.05));
+    background-repeat: repeat-x;
+    box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.05);
+  }
+
+}

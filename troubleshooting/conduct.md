@@ -9,7 +9,7 @@ Your code of conduct helps create a healthy and constructive social atmosphere f
 
 ## Write down how you'll enforce your code of conduct
 
-Ideally, you've explained how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons for this:
+You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons for this:
 
 * Tying values to action turns the code of conduct from a philosophy into a policy. It demonstrates that you are serious about enforcing the code of conduct.
 
@@ -36,6 +36,8 @@ Before you respond, give yourself time to understand what happened. Read through
 ## Take appropriate action
 
 When you feel you sufficiently understand the context of the situation, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+
+Remember that when somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
 
 Here are some ways you might respond to a code of conduct violation:
 
