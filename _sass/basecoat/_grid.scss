@@ -22,14 +22,17 @@
 
 .container {
   max-width: $container-width + ($container-padding*2);
+  margin: 0 auto;
 }
 
 .container-narrow {
   max-width: $container-narrow-width + ($container-padding*2);
+  margin: 0 auto;
 }
 
 .container-wide {
   max-width: $container-wide-width + ($container-padding*2);
+  margin: 0 auto;
 }
 
 // Gutters

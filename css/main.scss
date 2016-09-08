@@ -49,6 +49,22 @@ a.user-mention {
   background-color: $taupe;
   background-image: url("{{ site.baseurl }}/img/bg.svg");
   background-repeat: no-repeat;
-  background-size: 102%;
-  background-position: center -10px;
+  background-size: 175%;
+  background-position: center -20px;
+
+  @include breakpoint(sm) {
+    background-size: 102%;
+    background-position: center -10px;
+  }
+}
+
+.bg-squares-small {
+  background-color: $taupe;
+
+  @include breakpoint(lg) {
+    background-image: url("{{ site.baseurl }}/img/bg-wide.svg");
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position: -10% 40px;
+  }
 }
