@@ -1,6 +1,6 @@
 # Open Source Handbook
 
-A handbook for open source creators. **[Check it out…](http://opensource.guide/)**
+A community handbook for open source creators. **[Check it out…](http://opensource.guide/)**
 
 ## Goals
 
