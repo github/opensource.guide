@@ -1,10 +1,20 @@
 # Open Source Handbook
 
-This handbook is a collection of resources to help individuals, communities, and companies sustainably embrace open source software. It explains not only how to accomplish a task, but why you'd want to, and how that task fits into the larger story of consuming, contributing to, and producing open source software.
+a handbook for open source creators. **[Check it out…](http://opensource.guide/)**
 
-This handbook aims to foster healthy open source communities, and provide a canonical place for the community to discuss and codify best practices into highly-approachable resources.
+## Goals
 
-### [Get Started](https://github.github.io/open-source-handbook/)
+This handbook is a collection of resources for individuals, communities, and companies that want to successfully run and maintain an open source project. The content was originally created and curated by GitHub, along with input from outside community reviewers, but it is not specific to GitHub products.
+
+It follows these guiding principles:
+
+* **Approachability:** Don't assume reader has prior knowledge
+* **Brevity:** Keep it simple, link to outside content for deeper dives
+* **Curation:** Amplify community best practices vs. any individual's point of view
+
+This Handbook is a jumping off point for people who want to learn how to run an open source project. It should give readers enough information to get started, but it doesn't attempt to answer everything in detail.
+
+This Handbook also aggregates community best practices, *not* what GitHub (or any other individual or entity) thinks is best. Therefore, we try to use examples and quotations from others to illustrate our points. Many sections also link to "Further Reading" at the end, to surface relevant writing and perspectives that live elsewhere on the web.
 
 ## Contributing
 
