@@ -14,8 +14,9 @@ We've put together the following guidelines to help you figure out where you can
 0. [Community](#community)
 
 ## Types of contributions we're looking for
+First and foremost, this project is a forum to discuss open source best practices, then document them in the Handbook when we've found consensus. Your first contribution might be starting a new conversation, or adding to an existing conversation, around best practices. You can do so under [Issues](https://github.com/github/open-source-handbook/issues).
 
-There are many ways you can contribute to the Handbook:
+There are also many ways you can contribute to the Handbook directly:
 
 * Fix editorial inconsistencies or inaccuracies
 * Revise language to be more approachable and friendly
@@ -62,6 +63,6 @@ If you've been active on this project (such as writing helpful content, answerin
 
 ## Community
 
-Handbook discussions take place on this repository's [Issues](https://github.com/github/open-source-handbook/issues) and [Pull Requests](https://github.com/github/open-source-handbook/pulls) sections. Anybody is welcome to join these conversations. There is also a mailing list for regular updates and discussion.
+Handbook discussions take place on this repository's [Issues](https://github.com/github/open-source-handbook/issues) and [Pull Requests](https://github.com/github/open-source-handbook/pulls) sections. Anybody is welcome to join these conversations. There is also a mailing list for regular updates.
 
 Wherever possible, do not take these conversations to private channels, including contacting the maintainers directly. Keeping communication public means everybody can benefit and learn from the conversation.
