@@ -7,7 +7,7 @@ Your project is starting to grow. 🌱 Well, you think it's growing. Is it growi
 
 One caveat: popularity doesn't matter for every open source project. Everybody gets into open source for different reasons. If [your goal](../../getting-started/setting-expectations) was to show off your portfolio work, be transparent about your code, or just have fun, don't feel pressured to grow your project through the metrics outlined below.
 
-If you *are* interested in growing your project, the following metrics will give you a framework for analyzing and tracking your progress.
+If you _are_ interested in growing your project, the following metrics will give you a framework for analyzing and tracking your progress.
 
 * TOC
 {:toc}
@@ -55,7 +55,7 @@ Here are a few types of contributor metrics you may want to regularly track:
 * **First time vs. repeat contributors:** Helps you track whether you're getting new contributors in. Without new contributors, your project's community can become stagnant.
 
 * **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
-* **Number of *opened* issues and *opened* pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
+* **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
 
 * **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
 

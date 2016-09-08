@@ -16,7 +16,7 @@ But branding is more than a flashy logo or catchy project name. It's about how y
 
 Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example, [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting, and [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server.
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does. For example, [node-fetch](https://github.com/bitinn/node-fetch) is a module that brings 'window.fetch' to Node.js.
+If you're building upon an existing project, using their name as a prefix can help clarify what your project does. For example, [node-fetch](https://github.com/bitinn/node-fetch) is a module that brings `window.fetch` to Node.js.
 
 Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. For example, some of your potential users might be company employees; you don't want to make them uncomfortable when they explain your project at work!
 

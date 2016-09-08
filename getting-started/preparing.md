@@ -71,6 +71,7 @@ If you [place your CONTRIBUTING file in your project's repository](https://help.
 Finally, a code of conduct helps set ground rules for behavior of your project's participants. This is especially valuable if you're launching an open source project for a community or company. We recommend placing a CODE_OF_CONDUCT file in your project's root directory.
 
 In addition to communicating your expectations, you should describe the following:
+
 * Where your code of conduct takes effect (only on issues and pull requests, or related community activities like events?)
 * Who the code of conduct applies to (community members and maintainers, but what about sponsors?)
 * What happens if someone violates the code of conduct
