@@ -9,11 +9,11 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="{{ "/js/script.js" | prepend: site.baseurl }}"></script>
   </head>
-  <body>
+  <body class="bg-taupe">
     <div class="site-wrapper">
       <div class="site-canvas">
         <div class="site-canvas-mask"></div>
-        <header class="border-bottom clearfix bg-taupe">
+        <header class="border-bottom clearfix bg-white">
           <div class="py-2 py-md-3 container-wide mx-auto clearfix">
             <div class="d-table">
               <div class="d-table-cell v-align-middle">
@@ -27,7 +27,7 @@
                   <a href="{{ site.baseurl }}" class="link-unstyled">Open Source Handbook</a>
                 </h3>
                 <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}" class="text-small">
-                  View on GitHub
+                  View on GitHub {% octicon arrow-right height:20 class:"v-align-middle ml-1 fill-blue" aria-label:hi %}
                 </a>
               </div>
             </div>

@@ -14,7 +14,7 @@
 }
 
 .navigation {
-  background: white;
+  //background: white;
   padding-top: 2px; //hacky px value to make the borders line up perfectly
 
   @include breakpoint(lg) {
