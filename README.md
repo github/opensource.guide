@@ -1,24 +1,24 @@
 # Open Source Handbook
 
-a handbook for open source creators. **[Check it out…](http://opensource.guide/)**
+A handbook for open source creators. **[Check it out…](http://opensource.guide/)**
 
 ## Goals
 
-This handbook is a collection of resources for individuals, communities, and companies that want to successfully run and maintain an open source project. The content was originally created and curated by GitHub, along with input from outside community reviewers, but it is not specific to GitHub products.
+The Open Source Handbook is a collection of resources for individuals, communities, and companies who want to learn how to run an open source project. It gives readers enough information to get started, but it doesn't attempt to answer everything in detail.
 
-It follows these guiding principles:
+The Handbook follows these guiding principles:
 
 * **Approachability:** Don't assume reader has prior knowledge
 * **Brevity:** Keep it simple, link to outside content for deeper dives
 * **Curation:** Amplify community best practices vs. any individual's point of view
 
-This Handbook is a jumping off point for people who want to learn how to run an open source project. It should give readers enough information to get started, but it doesn't attempt to answer everything in detail.
+This handbook was originally created and curated by GitHub, along with input from outside community reviewers, but it is not specific to GitHub products. Our goal is to aggregate community best practices, *not* what GitHub (or any other individual or entity) thinks is best. Therefore, we try to use examples and quotations from others to illustrate our points. Many sections also link to "Further Reading" at the end, to surface relevant perspectives elsewhere on the web.
 
-This Handbook also aggregates community best practices, *not* what GitHub (or any other individual or entity) thinks is best. Therefore, we try to use examples and quotations from others to illustrate our points. Many sections also link to "Further Reading" at the end, to surface relevant writing and perspectives that live elsewhere on the web.
+A big reason we started this project is because we felt that there weren't enough resources for people creating open source projects. We made the Handbook itself open source in hopes that you'll use this space to talk about best practices, then document them when you've found consensus. We'd like this to be a safe space to talk about what's hard, what's scary, and what's simply confusing about running open source projects.
 
 ## Contributing
 
-Our goal is for this project to reflect community best practices, so we'd love your input! Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
+Our goal is for this project to reflect community best practices, so we'd love your input! Got a question or an idea? Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
 
 ## Licenses
 
