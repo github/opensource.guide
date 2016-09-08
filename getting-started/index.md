@@ -36,7 +36,7 @@ If community is important to you, keep an eye out for resources such as ["Buildi
 
 Your company is about to open source a previously internal project. You want to do it without breaking any laws or upsetting anyone who will interact with your project.
 
-If you're worried about making lawyers happy, ["The legal side of open source"](legal) and ["Leadership & governance"](../sustaining/leadership) can help you with trademark, license, and other company matters.
+If you're hoping to become a good corporate citizen, ["The legal side of open source"](legal) and ["Leadership & governance"](../sustaining/leadership) can help you with trademark, license, and other company matters.
 
 ---
 
