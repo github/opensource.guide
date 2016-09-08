@@ -57,14 +57,3 @@ a.user-mention {
     background-position: center -10px;
   }
 }
-
-.bg-squares-small {
-  background-color: $taupe;
-
-  @include breakpoint(lg) {
-    background-image: url("{{ site.baseurl }}/img/bg-wide.svg");
-    background-repeat: no-repeat;
-    background-size: 35%;
-    background-position: -10% 40px;
-  }
-}
