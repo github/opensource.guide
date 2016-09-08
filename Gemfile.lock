@@ -145,6 +145,7 @@ DEPENDENCIES
   github-pages
   html-proofer
   jekyll-octicons
+  jekyll-seo-tag
   rake
 
 BUNDLED WITH

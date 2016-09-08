@@ -37,7 +37,7 @@ Taking breaks applies to more than just vacations, too. If you don't want to do 
 
 Sometimes, someone who uses your project really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [describes his strategy](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) for building open source "defensively" in the iOS ecosystem:
 
-> It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying 'no', but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
+> It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
 >
 > Some of the most interesting ideas in the CocoaPods ecosystem come from plugins.
 >
