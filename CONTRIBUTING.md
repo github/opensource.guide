@@ -2,34 +2,21 @@
 
 Thanks for checking out the Open Source Handbook! We're excited to hear and learn from you. Your experiences will benefit others who are reading and using this Handbook.
 
-We've put together the following guidelines to: 1) communicate the goals of this project and 2) help you figure out where you can best be helpful.
+We've put together the following guidelines to help you figure out where you can best be helpful.
 
 ## Table of Contents
-1. [Goals of this project](#goals-of-this-project)
-2. [Types of contributions we're looking for](#types-of-contributions-were-looking-for)
-3. [Ground rules & expectations](#ground-rules--expectations)
-4. [How to contribute](#how-to-contribute)
-5. [Setting up your environment](#setting-up-your-environment)
-6. [Contribution review process](#contribution-review-process)
-7. [Community](#community)
 
-## Goals of this project
-
-We created this Handbook for individuals, communities, and companies that want to successfully run and maintain an open source project. The content was originally created and curated by GitHub, along with input from outside community reviewers, but it is not specific to GitHub products.
-
-Here are some guiding principles for the Handbook:
-
-* **Approachability:** Don't assume reader has prior knowledge
-* **Brevity:** Keep it simple, link to outside content for deeper dives
-* **Curation:** Amplify community best practices vs. any individual's point of view
-
-This Handbook is a jumping off point for people who want to learn how to run an open source project. It should give readers enough information to get started, but it doesn't attempt to answer everything in detail.
-
-This Handbook also aggregates community best practices, *not* what GitHub (or any other individual or entity) thinks is best. Therefore, we try to use examples and quotations from others to illustrate our points. Many sections also link to "Further Reading" at the end, to surface relevant writing and perspectives that live elsewhere on the web.
+0. [Types of contributions we're looking for](#types-of-contributions-were-looking-for)
+0. [Ground rules & expectations](#ground-rules--expectations)
+0. [How to contribute](#how-to-contribute)
+0. [Setting up your environment](#setting-up-your-environment)
+0. [Contribution review process](#contribution-review-process)
+0. [Community](#community)
 
 ## Types of contributions we're looking for
+First and foremost, this project is a forum to discuss open source best practices, then document them in the Handbook when we've found consensus. Your first contribution might be starting a new conversation, or adding to an existing conversation, around best practices. You can do so under [Issues](https://github.com/github/open-source-handbook/issues).
 
-There are many ways you can contribute to the Handbook:
+There are also many ways you can contribute to the Handbook directly:
 
 * Fix editorial inconsistencies or inaccuracies
 * Revise language to be more approachable and friendly
@@ -76,6 +63,6 @@ If you've been active on this project (such as writing helpful content, answerin
 
 ## Community
 
-Handbook discussions take place on this repository's [Issues](https://github.com/github/open-source-handbook/issues) and [Pull Requests](https://github.com/github/open-source-handbook/pulls) sections. Anybody is welcome to join these conversations. There is also a mailing list for regular updates and discussion.
+Handbook discussions take place on this repository's [Issues](https://github.com/github/open-source-handbook/issues) and [Pull Requests](https://github.com/github/open-source-handbook/pulls) sections. Anybody is welcome to join these conversations. There is also a mailing list for regular updates.
 
 Wherever possible, do not take these conversations to private channels, including contacting the maintainers directly. Keeping communication public means everybody can benefit and learn from the conversation.
