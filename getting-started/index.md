@@ -9,11 +9,7 @@ contents:
   - getting-started/legal.md
 ---
 
-We'll start with the basics: What is open source? What do you need to know before launching a project?
-
-The Open Source Handbook is meant to help you launch projects of all shapes and sizes. While we cover strategies that are relevant to every project, you may find certain sections more or less useful, depending on what you need.
-
-One more thing: we can give you advice on running an open source project, but we're not lawyers. Be sure to read our [disclaimer](../disclaimer) before you dive in.
+First things first: we're here to help you launch projects of all shapes and sizes, but you may find certain sections more or less useful, depending on what you need.
 
 * TOC
 {:toc}
@@ -40,6 +36,10 @@ If community is important to you, keep an eye out for resources such as ["Buildi
 
 Your company is about to open source a previously internal project. You want to do it without breaking any laws or upsetting anyone who will interact with your project.
 
-If you're worried about making lawyers happy, ["The legal side of open source"](legal) and ["Leadership & governance"](../sustaining/leadership) can help you with trademark, license, and other company matters.
+If you're hoping to become a good corporate citizen, ["The legal side of open source"](legal) and ["Leadership & governance"](../sustaining/leadership) can help you with trademark, license, and other company matters.
+
+---
+
+One more thing: we can give you advice on running an open source project, but we're not lawyers. Be sure to read our [disclaimer](../disclaimer) before you dive in.
 
 Ready to go? Let's get started!
