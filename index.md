@@ -1,6 +1,5 @@
 ---
 title: Welcome
-next: getting-started/index.md
 layout: landing
 ---
 
