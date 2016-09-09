@@ -1,4 +1,5 @@
 ---
+seo_title: Legal Disclaimer—Open Source Handbook
 title: Legal Disclaimer
 ---
 

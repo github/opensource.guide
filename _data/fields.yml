@@ -11,3 +11,6 @@ next:
 
 nav:
   type: String
+
+seo_title:
+  type: String
