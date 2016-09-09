@@ -5,7 +5,7 @@ next: sustaining/index.md
 
 Your project is starting to grow. 🌱 Well, you think it's growing. Is it growing? Let's talk about how to measure and track the success of your open source project.
 
-One caveat: popularity doesn't matter for every open source project. Everybody gets into open source for different reasons. If [your goal](../../getting-started/setting-expectations) was to show off your portfolio work, be transparent about your code, or just have fun, don't feel pressured to grow your project through the metrics outlined below.
+Popularity isn't everything. Everybody gets into open source for different reasons. If [your goal](../../getting-started/setting-expectations) was to show off your portfolio work, be transparent about your code, or just have fun, don't feel pressured to grow your project through the metrics outlined below.
 
 If you _are_ interested in growing your project, the following metrics will give you a framework for analyzing and tracking your progress.
 
@@ -14,7 +14,7 @@ If you _are_ interested in growing your project, the following metrics will give
 
 ## Discoverability
 
-Before anybody can use or contribute back to your project, they first need to know it exists. The first question you'll want to ask yourself, then, is: _are people finding my project?_
+Before anybody can use or contribute back to your project, they need to know it exists. The first question you'll want to ask yourself, then, is: _are people finding my project?_
 
 If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Graphs", then "Traffic". On this page, you can see:
 
@@ -61,7 +61,7 @@ Here are a few types of contributor metrics you may want to regularly track:
 
 ## Maintainer Health
 
-Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _are we responsive to our community?_
+Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
 
 Unresponsive maintainers can become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave. [Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
 
@@ -76,4 +76,4 @@ You could also measure the time it takes to move between stages in the contribut
 * [
 The Open Source Contributor Funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel) by @MikeMcQuaid
 * [The shape of open source](https://github.com/blog/2195-the-shape-of-open-source) by @arfon
-* [Libraries.io](http://libraries.io)
+* [Libraries.io](http://libraries.io) by @andrew

@@ -24,9 +24,9 @@ Consider clarity above all. Puns are fun, but remember that some jokes might not
 
 Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk. You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/#what-does-my-companys-legal-team-need-to-know).
 
-You'll also want to double-check for open source projects with a similar name, especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you'll probably confuse your audience. You can check for similar project names [here](http://ivantomic.com/projects/ospnc/).
+You'll [also want to check](http://ivantomic.com/projects/ospnc/) for open source projects with a similar name, especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
 
-Consider whether you'll want a website, Twitter handle, or other properties to represent your project. If so, make sure you can get the names you want. Ideally, reserve those names now for peace of mind. You can check for domain name availability [here](https://instantdomainsearch.com/).
+Consider whether you'll want a website, Twitter handle, or other properties to represent your project. If so, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind.
 
 Finally, it doesn't hurt to do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
 
@@ -40,15 +40,16 @@ Throughout the life of your project, you'll do a lot of writing: READMEs, tutori
 >
 > Every time I join and read, I see the culture that I helped plant there seven years ago and it makes me very proud.
 
-Using warm, inclusive language (such as using "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Also consider using simple language when writing, as many of your readers may not be native English speakers.
+Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Also consider using simple language when writing, as many of your readers may not be native English speakers.
 
 Beyond how you write words, your coding style may also become part of your project's brand. For example, [Angular](https://github.com/johnpapa/angular-styleguide) and [jQuery](http://contribute.jquery.org/style-guide/js/) are two projects with rigorous coding styles and guidelines.
 
 It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing (and coding) style might attract (or not attract) different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
 
-We're almost there! Next, we'll walk you through a few components that every open source project should include when you launch.
+We're almost there! Next, we'll walk you through a few components that every open source project should include before launch.
 
 ## Further reading
 
 * [Choose a Good Name](http://producingoss.com/en/getting-started.html#choosing-a-name) from _Producing Open Source Software_ by @kfogel
 * [Hemingway](http://www.hemingwayapp.com/): tool to help you write in simple, clear prose
+* [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) to check for trademark conflicts
