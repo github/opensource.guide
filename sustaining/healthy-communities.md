@@ -58,7 +58,19 @@ See if you can find ways to give credit to your community as much as possible. H
 
 The bigger your project, and the bigger your community, the easier it is to find help. The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. While you may not always find someone to answer the call, putting a Batsignal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
 
-As you build a community of engaged and thoughtful people, you may start wondering how to formalize their ownership in your project. In the next section, we'll cover some commonly asked questions around leadership and governance.
+## Be comfortable with commercial activity
+
+Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams indirectly tied to the project.  For example, a company may use the project's code as one component in a commercial service offering.
+
+As the project gets more widely used, people who have expertise in it become more in-demand -- you may be one of them! -- and will sometimes get paid for work they do in the project.
+
+It's important to treat commercial activity as normal and as just another source of development energy.  Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits.  However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+
+"Commercial" is completely compatible with "open source".  "Commercial" just means there is money involved somewhere -- that the software is used in commerce, which is increasingly likely as a project gains adoption.  (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+
+Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions.  Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does.  As a maintainer, your role is to keep discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+
+As you build a community of engaged and thoughtful people, some of whom may have monetary interest in the code, you may start wondering how to formalize their stakes in the project. In the next section, we'll cover some commonly asked questions around leadership and governance.
 
 ## Further reading
 
