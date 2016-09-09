@@ -38,7 +38,7 @@ Some early documentation will inevitably contribute to your project's governance
 
 ## When should I give someone commit access?
 
-It's up to you when you want to give someone commit access to your project. Some people think you should give commit access to [everybody who makes a contribution](http://felixge.de/2013/03/11/the-pull-request-hack.html). Doing so could encourage more people to feel ownership of your project. On the other hand, especially for big community projects, you may want to only give commit access to people who have have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+Some people think you should give commit access to [everybody who makes a contribution](http://felixge.de/2013/03/11/the-pull-request-hack.html). Doing so could encourage more people to feel ownership of your project. On the other hand, especially for big community projects, you may want to only give commit access to people who have have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
 
 ## What are some leadership roles or responsibilities that projects use?
 
