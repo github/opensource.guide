@@ -8,7 +8,7 @@ We started by focusing on open source creators, because they play a critical rol
 
 * [x] Create a handbook that helps creators start and grow their own open source project
 * [x] Make the handbook public and release it as an open source project
-* [ ] Continue to improve the content for open source producers
+* [ ] Continue to improve the content for open source creators
 * [ ] Foster healthy community dynamics so the handbook becomes a place to codify community best practices
 * [ ] Improve the discoverability of the Handbook for open source creators
 
