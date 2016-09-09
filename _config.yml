@@ -1,4 +1,6 @@
 title: "Open Source Handbook"
+url: http://opensource.guide
+logo: /path/to/logo.png
 
 exclude:
   - bin
