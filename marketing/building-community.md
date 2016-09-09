@@ -42,7 +42,7 @@ Remember that conversations about your project could also be happening in other 
 
 ## Make it easy for people to use and contribute
 
-One way to think about your project's community is what @MikeMcQuaid calls the [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel). [^2] At the top of the funnel is anybody who could potentially use your project. At the bottom of the funnel are people like you, who maintain the project.
+One way to think about your project's community is what @MikeMcQuaid calls the [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel). At the top of the funnel is anybody who could potentially use your project. At the bottom of the funnel are people like you, who maintain the project.
 
 As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
 
