@@ -16,6 +16,8 @@ If you _are_ interested in growing your project, the following metrics will give
 
 Before anybody can use or contribute back to your project, they need to know it exists. The first question you'll want to ask yourself, then, is: _are people finding my project?_
 
+![traffic graph]({{ site.baseurl }}/img/repo_traffic_graphs_tooltip.png)
+
 If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Graphs", then "Traffic". On this page, you can see:
 
 * **Total pageviews:** Tells you how many times your project was viewed
