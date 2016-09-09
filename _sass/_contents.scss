@@ -14,13 +14,13 @@
 }
 
 .navigation {
-  //background: white;
-  padding-top: 2px; //hacky px value to make the borders line up perfectly
+  background: darken($taupe, 3%);
+  //padding-top: 2px; //hacky px value to make the borders line up perfectly
 
   @include breakpoint(lg) {
-    border: $border;
-    box-shadow: $box-shadow;
-    border-radius: $border-radius;
+    //border: $border;
+    //box-shadow: $box-shadow;
+    //border-radius: $border-radius;
   }
 
   ul {
@@ -43,7 +43,7 @@
     padding: $spacer4;
 
     &:hover {
-      background: $gray-light;
+      background: darken($taupe, 6%);
       text-decoration: none;
     }
 

@@ -1,7 +1,11 @@
 $nav-width-offcanvas: 70%;
 $nav-width: 300px;
 
-.col-nav {
+.content-wrapper { //puts a max width on the content area
+  max-width: 1700px;
+}
+
+.nav {
   width: $nav-width-offcanvas;
   height: 100%;
   position: absolute;
@@ -10,16 +14,26 @@ $nav-width: 300px;
   border-right: $border;
 
  @include breakpoint(lg) {
-   position: relative;
-   width: 100%;
+   width: $nav-width;
    top: auto;
    left: auto;
+   border-right: 0;
  }
 
+ @media screen and (min-width: 992px) and (min-height: 730px) { //only fix navigation if screen is tall enough for it
+    position: fixed !important;
+ }
 }
 
 .article {
   @include breakpoint(lg) {
-    //margin-left: ($nav-width + $spacer5);
+    margin-left: ($nav-width + $spacer5);
+  }
+}
+
+.main-wrapper {
+  @include breakpoint(lg) {
+    max-width: 700px;
+    margin: 0 auto;
   }
 }

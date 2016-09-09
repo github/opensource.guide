@@ -25,6 +25,8 @@
 // Background colors
 .bg-white { background: $white !important;}
 .bg-taupe { background: $taupe !important; }
+.bg-taupe-dark { background: darken($taupe, 3%) !important; }
+.bg-taupe-very-dark { background: darken($taupe, 6%) !important; }
 .bg-maroon { background: $maroon !important; }
 .bg-black { background: $black !important;}
 .bg-gray-light { background: $gray-light !important;}
@@ -43,6 +45,10 @@
   fill: $link-color;
 }
 
-.fill-taupe {
-  fill: $taupe;
+.fill-maroon {
+  fill: $maroon;
+}
+
+.fill-white {
+  fill: $white;
 }
