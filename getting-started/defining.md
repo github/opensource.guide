@@ -2,6 +2,7 @@
 title: What it means to open source
 next: getting-started/setting-expectations.md
 ---
+
 So you're interested in making your project open source? Congratulations! 🎉 The world appreciates your contribution.
 
 Let's start by talking about what it means to open source your work.
