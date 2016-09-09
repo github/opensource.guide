@@ -57,3 +57,27 @@ a.user-mention {
     background-position: center -10px;
   }
 }
+
+.form-input {
+  border: $border;
+  height: 36px;
+}
+
+#mc_embed_signup div.mce_inline_error {
+  background-color: inherit !important;
+  color: $maroon !important;
+  font-weight: normal !important;
+  font-size: 16px;
+}
+
+.card-landing .card {
+  @include breakpoint(md) {
+    height: 196px;
+  }
+  @include breakpoint(lg) {
+    height: 172px;
+  }
+  @include breakpoint(xl) {
+    height: auto;
+  }
+}
