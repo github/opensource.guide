@@ -5,7 +5,7 @@ next: sustaining/index.md
 
 Your project is starting to grow. 🌱 Well, you think it's growing. Is it growing? Let's talk about how to measure and track the success of your open source project.
 
-Popularity isn't everything. Everybody gets into open source for different reasons. If [your goal](../../getting-started/setting-expectations) was to show off your portfolio work, be transparent about your code, or just have fun, don't feel pressured to grow your project through the metrics outlined below.
+Popularity isn't everything. Everybody gets into open source for different reasons. If [your goal](../../getting-started/setting-expectations/) was to show off your portfolio work, be transparent about your code, or just have fun, don't feel pressured to grow your project through the metrics outlined below.
 
 If you _are_ interested in growing your project, the following metrics will give you a framework for analyzing and tracking your progress.
 
