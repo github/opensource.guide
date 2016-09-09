@@ -3,68 +3,7 @@
   {% include head.html %}
   <body class="bg-squares">
     <div class="site-wrapper">
-      <div class="container-narrow text-center landing-intro">
-        <h1>Welcome to the Open Source Handbook!</h1>
-        <p class="lead mb-md-5">
-          If you're interested in launching and growing your own open source project, this is the handbook for you.
-        </p>
-        <a href="https://github.com/{{ site.github.repository_nwo }}">View on GitHub {% octicon arrow-right height:26 class:"v-align-middle ml-2 fill-maroon" aria-label:hi %}</a>
-      </div>
-      <div class="container-wide">
-        <div class="clearfix gut-3 card-landing">
-          <div class="col-md-6 mt-4 mt-lg-7">
-            <div class="card p-4">
-              <h3>
-                <a href="{{ site.baseurl }}/getting-started/">Getting started</a>
-              </h3>
-              <p class="mb-0">
-                We’ll start with the basics: What is open source? What do you need to know before launching a project?
-              </p>
-            </div>
-          </div>
-          <div class="col-md-6 mt-4 mt-lg-7">
-            <div class="card p-4">
-              <h3>
-                <a href="{{ site.baseurl }}/marketing/">Marketing your project</a>
-              </h3>
-              <p class="mb-0">
-                Spread the word about your project and grow your initial community of users and contributors.
-              </p>
-            </div>
-          </div>
-          <div class="col-md-6 mt-4 mt-lg-5">
-            <div class="card p-4">
-              <h3>
-                <a href="{{ site.baseurl }}/sustaining/">Sustaining Growth</a>
-              </h3>
-              <p class="mb-0">
-                Now that people are using your project, contributing back, and telling their friends, how can you maintain that velocity?
-              </p>
-            </div>
-          </div>
-          <div class="col-md-6 mt-4 mt-lg-5">
-            <div class="card p-4">
-              <h3>
-                <a href="{{ site.baseurl }}/troubleshooting/">Troubleshooting</a>
-              </h3>
-              <p class="mb-0">
-                This section addresses some common situations or questions that may come up as you maintain your open source project.
-              </p>
-            </div>
-          </div>
-        </div>
-
-      </div><!--end container-wide-->
-      <div class="container-narrow mb-0 my-4 my-md-7">
-        <div class="border text-center p-3 p-md-4">
-          {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
-          <span class="d-block d-md-inline">This content is open source.</span>
-          <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
-            Please help improve it.
-          </a>
-        </div>
-        {% include footer.html %}
-      </div>
+      {{ content }}
     </div>
   </body>
 </html>
