@@ -1,6 +1,6 @@
 # Roadmap
 
-Our vision for the Open Source Handbook is to offer resources to help individuals, communities, and companies sustainably embrace open source.
+Our vision for the Open Source Handbook is to provide a jumping off point for individuals, communities, and companies to sustainably embrace open source.
 
 ### 2016: Creators
 
