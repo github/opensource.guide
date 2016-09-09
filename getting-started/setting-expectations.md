@@ -24,24 +24,22 @@ There is no one right answer to this question. You may find that you have multip
 
 Here are some examples of [reasons](http://ben.balter.com/2015/11/23/why-open-source/) why people open source their work:
 
-* A person wants to show off their portfolio
-* A person wants to know what it's like to run an open source project
+* A person wants to show off their portfolio or get feedback
 * A community wants to find collaborators to shape the project and help it grow
 * A person (or company) wants others to use what they've created
-* A person wants to get feedback on their work
 * A company wants make their code transparent
 
-If your goal is to learn how to collaborate with others or better understand how open source works, you might also want to [consider contributing](https://guides.github.com/activities/contributing-to-open-source/) to an existing open source project, rather than creating your own. There are many active community projects who would love to help you make a contribution. [First Timers Only](http://www.firsttimersonly.com/) and [Your First PR](https://yourfirstpr.github.io/) are a few resources that can help you get started.
+If your goal is to learn how to collaborate with others or understand how open source works, you might also want to [contribute to an existing open source project](https://guides.github.com/activities/contributing-to-open-source/), rather than creating your own. There are many active community projects who would love to help you! [First Timers Only](http://www.firsttimersonly.com/) and [Your First PR](https://yourfirstpr.github.io/) are a few resources that can help you get started.
 
 ## Reflect on your goals
 
 Once you've listed out your goals, ask yourself: _based on my goals, what do I (or we) expect from this project?_
 
-You don't have to overthink it at this stage, but it's helpful to think about what you might expect from others, and what others might expect from you, based on your project's goals.
+You don't have to overthink it at this stage, but it's helpful to think about what you might expect from others, and what others might expect from you.
 
-For example, if your only goal is to show off your work, you may not be actively looking for contributions, and even state that you're not accepting contributions in your README (like [infinite-scroll](https://github.com/infinite-scroll/infinite-scroll) does).
+For example, if your only goal is to show off your work, you may not want contributions, and even state that you're not accepting contributions in your README (like [infinite-scroll](https://github.com/infinite-scroll/infinite-scroll) does).
 
-On the other hand, if you are building a community project, you may be very actively looking for contributors. In that case, you might want to invest a lot of work into clear, detailed documentation and making newcomers feel welcome (like [Sinatra](https://github.com/sinatra/sinatra/blob/master/CONTRIBUTING.md) does).
+On the other hand, if you are building a community project, you may be actively looking for contributors. In that case, you might want to invest work into clear, detailed documentation and making newcomers feel welcome (like [Sinatra](https://github.com/sinatra/sinatra/blob/master/CONTRIBUTING.md) does).
 
 If you're hoping people will contribute to your project, remember that as your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project. While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
 
@@ -49,7 +47,7 @@ If you're hoping people will contribute to your project, remember that as your p
 
 Writing down your goals will help you throughout the life of your project. A clear set of goals can help you figure out what to work on, what to say no to, and where you need help from others.
 
-Consider listing your goals in the README of your project. Successful open source projects try to document as much as they can in public. Much like reusable pieces of code, reusable information means less people need to ask you the same questions over and over again. Making your goals public will remind you about what matters, as well as help others know what to expect of you.
+Consider listing your goals in the README of your project. Successful open source projects try to document as much as they can in public. Much like reusable pieces of code, reusable information means less people need to ask you the same questions over and over again. Making your goals public will remind you, and others, of what matters.
 
 ## Further reading
 
