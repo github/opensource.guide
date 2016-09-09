@@ -73,7 +73,7 @@ a.user-mention {
 
 .bg-nav {
   @media screen and (min-width: 992px) and (min-height: 730px) {
-    background-color: darken ($taupe, 5%);
+    //background-color: darken($taupe, 5%);
     background-image: url("{{ site.baseurl }}/img/bg-bottom-left.svg");
     background-repeat: no-repeat;
     background-size: 96%;

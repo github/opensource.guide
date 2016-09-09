@@ -1,6 +1,7 @@
 ---
 title: Welcome
 layout: landing
+contents:
 ---
 
 <div class="container-narrow text-center landing-intro">
