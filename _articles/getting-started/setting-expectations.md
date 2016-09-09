@@ -1,7 +1,7 @@
 ---
 title: Setting expectations for your open source project
 nav: Setting expectations
-next: getting-started/branding.md
+following: _articles/getting-started/branding.md
 ---
 
 There are many reasons to open source a project. It's a good idea to figure out yours before going public with your project. What you want to get out of the experience will guide how you manage your project and help you figure out where to say yes (and no!).

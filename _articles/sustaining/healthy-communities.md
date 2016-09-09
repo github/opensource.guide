@@ -1,7 +1,7 @@
 ---
 title: Sustaining healthy open source communities
 nav: Sustaining healthy communities
-next: sustaining/leadership.md
+following: _articles/sustaining/leadership.md
 ---
 
 Your project's community is extremely powerful. That power can be a blessing or a curse, depending on how you wield it. In this section, we'll look at ways to structure your community to become a force of construction, not destruction.

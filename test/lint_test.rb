@@ -29,10 +29,10 @@ describe "lint test" do
           end if attrs["type"]
         end
 
-        it "`next` points to a page that exists" do
-          assert pages.detect {|p| p["path"] == page["next"] },
-            "Could not find page with path #{page["next"]}"
-        end if page["next"]
+        it "`following` points to a page that exists" do
+          assert pages.detect {|p| p["path"] == page["following"] },
+            "Could not find page with path #{page["following"]}"
+        end if page["following"]
       end
     end
   end

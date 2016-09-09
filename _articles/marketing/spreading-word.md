@@ -1,7 +1,7 @@
 ---
 title: Promoting your open source project
 nav: Spreading the word
-next: marketing/building-community.md
+following: _articles/marketing/building-community.md
 ---
 
 You've just published your project–what's next? It's time to tell everybody about your hard work!

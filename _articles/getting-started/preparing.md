@@ -1,7 +1,7 @@
 ---
 title: Launching your open source project
 nav: Preparing for launch
-next: marketing/index.md
+following: _articles/marketing.md
 ---
 
 You've written down your goals, you've chosen a name and an idea, and hopefully you've been hard at work building your project. (Haven't started yet? [Create a repository!](https://help.github.com/articles/create-a-repo/))
