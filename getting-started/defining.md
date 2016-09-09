@@ -29,7 +29,7 @@ When you [create a new project](https://help.github.com/articles/creating-a-new-
 
 Public repositories on GitHub are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which gives other people the right to view and fork your repository. But if you want others to use, copy, modify, or contribute back to your project, you need to include an open source license.
 
-A **public** repository is not **open source** unless you choose an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so. (You can learn more about the legal side of open source [here](../legal).)
+A **public** repository is not **open source** unless you choose an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so. (You can learn more about the legal side of open source [here](../legal/).)
 
 It's easy to add a license. You'll be [asked to add one](https://help.github.com/articles/open-source-licensing/) when you create a new repository.
 
