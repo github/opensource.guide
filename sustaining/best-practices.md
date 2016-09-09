@@ -22,7 +22,7 @@ Write down your project's vision and, where possible, make that vision transpare
 
 @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, [he regretted](https://lord.io/blog/2014/oss-tips/) not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate):
 
-> I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."[^1]
+> I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
 
 These types of exercises may seem trivial, but the more you know yourself and your limits (not just abilities!), the easier it is to say no when something doesn't fit into your scope.
 
@@ -54,7 +54,7 @@ One of the most important places you'll practice saying no is on your issue and 
 
 Defining your project's scope makes closing pull requests with "scope creep" easier. If you notice repeated requests for things you don't want to accept, consider adding them into your contribution policy or modifying your project's scope, so you don't have to keep repeating yourself.
 
-If the thought of saying no terrifies you, you're not alone. As @jfrazelle [put it](https://blog.jessfraz.com/post/the-art-of-closing/): _"I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want."_ [^3] The more often you practice saying no, the easier it becomes. Promise.
+If the thought of saying no terrifies you, you're not alone. As @jfrazelle [put it](https://blog.jessfraz.com/post/the-art-of-closing/): _"I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want."_ The more often you practice saying no, the easier it becomes. Promise.
 
 ## Keep communication public
 
