@@ -1,5 +1,5 @@
 ---
-title: Getting paid for open source work
+title: Getting paid for open source project work
 nav: Getting paid for open source work
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Feeling guilty or burned out
+title: Open source project burnout
 nav: Feeling guilty or burned out
 ---
 

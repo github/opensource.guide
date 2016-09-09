@@ -1,5 +1,5 @@
 ---
-title: Sustaining healthy communities
+title: Sustaining healthy open source communities
 nav: Sustaining healthy communities
 next: sustaining/leadership.md
 ---

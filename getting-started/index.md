@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: How to start an open source project
 nav: Getting started
 next: getting-started/defining.md
 contents:

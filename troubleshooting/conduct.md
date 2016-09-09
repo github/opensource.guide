@@ -1,5 +1,5 @@
 ---
-title: Enforcing your code of conduct
+title: Enforcing your open source project code of conduct
 nav: Enforcing your code of conduct
 ---
 

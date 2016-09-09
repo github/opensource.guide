@@ -1,5 +1,5 @@
 ---
-title: Finding community consensus
+title: Finding open source community consensus
 nav: Finding community consensus
 ---
 

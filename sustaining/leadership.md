@@ -1,5 +1,5 @@
 ---
-title: Leadership & governance
+title: Open source project leadership & governance
 nav: Leadership & governance
 next: troubleshooting/index.md
 ---

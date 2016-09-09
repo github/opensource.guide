@@ -1,5 +1,5 @@
 ---
-title: Handling contributions you don't want to accept
+title: Handling open source contributions you don't want to accept
 nav: Handling contributions you don't want to accept
 ---
 

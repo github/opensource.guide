@@ -1,5 +1,5 @@
 ---
-title: Measuring success
+title: Measuring the success of your open source project
 nav: Measuring success
 next: sustaining/index.md
 ---
