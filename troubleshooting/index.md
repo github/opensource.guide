@@ -1,5 +1,6 @@
 ---
 title: Troubleshooting
+nav: Troubleshooting
 contents:
 - troubleshooting/conduct.md
 - troubleshooting/burnout.md

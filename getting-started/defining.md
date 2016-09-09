@@ -1,5 +1,6 @@
 ---
 title: What it means to open source
+nav: What it means to open source
 next: getting-started/setting-expectations.md
 ---
 

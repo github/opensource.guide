@@ -1,5 +1,6 @@
 ---
 title: Best practices for maintainers
+nav: Best practices for maintainers
 next: sustaining/healthy-communities.md
 ---
 

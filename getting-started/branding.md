@@ -1,5 +1,6 @@
 ---
 title: Branding
+nav: Branding
 next: getting-started/preparing.md
 ---
 

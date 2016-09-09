@@ -1,5 +1,6 @@
 ---
 title: Measuring success
+nav: Measuring success
 next: sustaining/index.md
 ---
 

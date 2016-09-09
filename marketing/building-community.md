@@ -1,5 +1,6 @@
 ---
 title: Building a community
+nav: Building a community
 next: marketing/measuring.md
 ---
 

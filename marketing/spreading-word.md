@@ -1,5 +1,6 @@
 ---
 title: Spreading the word
+nav: Spreading the word
 next: marketing/building-community.md
 ---
 

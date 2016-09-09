@@ -1,5 +1,6 @@
 ---
 title: Preparing for launch
+nav: Preparing for launch
 next: marketing/index.md
 ---
 

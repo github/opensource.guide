@@ -1,5 +1,6 @@
 ---
 title: Sustaining healthy communities
+nav: Sustaining healthy communities
 next: sustaining/leadership.md
 ---
 

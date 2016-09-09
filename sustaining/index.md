@@ -1,5 +1,6 @@
 ---
 title: Sustaining Growth
+nav: Sustaining growth
 next: sustaining/best-practices.md
 contents:
 - sustaining/best-practices.md

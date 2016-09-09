@@ -8,3 +8,6 @@ contents:
 
 next:
   type: String
+
+nav:
+  type: String

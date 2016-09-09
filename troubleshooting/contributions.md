@@ -1,5 +1,6 @@
 ---
 title: Handling contributions you don't want to accept
+nav: Handling contributions you don't want to accept
 ---
 
 As a maintainer of an open source project, you'll inevitably receive contributions that you don't want to accept. Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.

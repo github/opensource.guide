@@ -1,5 +1,6 @@
 ---
 title: Leadership & governance
+nav: Leadership & governance
 next: troubleshooting/index.md
 ---
 

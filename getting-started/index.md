@@ -1,5 +1,6 @@
 ---
 title: Getting started
+nav: Getting started
 next: getting-started/defining.md
 contents:
   - getting-started/defining.md
