@@ -63,6 +63,7 @@ If you've been active on this project (such as writing helpful content, answerin
 
 ## Community
 
-Handbook discussions take place on this repository's [Issues](https://github.com/github/open-source-handbook/issues) and [Pull Requests](https://github.com/github/open-source-handbook/pulls) sections. Anybody is welcome to join these conversations. There is also a mailing list for regular updates.
+Handbook discussions take place on this repository's [Issues](https://github.com/github/open-source-handbook/issues) and [Pull Requests](https://github.com/github/open-source-handbook/pulls) sections. Anybody is welcome to join these conversations. There is also a [mailing list](
+http://eepurl.com/cecpnT) for regular updates.
 
 Wherever possible, do not take these conversations to private channels, including contacting the maintainers directly. Keeping communication public means everybody can benefit and learn from the conversation.
