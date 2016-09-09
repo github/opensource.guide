@@ -16,6 +16,10 @@ This handbook was originally created and curated by GitHub, along with input fro
 
 A big reason we started this project is because we felt that there weren't enough resources for people creating open source projects. We made the Handbook itself open source in hopes that you'll use this space to talk about best practices, then document them when you've found consensus. We'd like this to be a safe space to talk about what's hard, what's scary, and what's simply confusing about running open source projects.
 
+## Roadmap
+
+We've shared our vision and priorities for this project in our [roadmap](docs/roadmap.md).
+
 ## Contributing
 
 Our goal is for this project to reflect community best practices, so we'd love your input! Got a question or an idea? Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
