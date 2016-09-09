@@ -41,6 +41,7 @@
 
   ul li a {
     padding: $spacer4;
+    color: $black;
 
     &:hover {
       background: darken($taupe, 6%);
@@ -79,6 +80,7 @@
 
   .selected ul li a {
     padding: $spacer1 $spacer4;
+    color: $maroon;
 
     &:hover {
       background: transparent;

@@ -58,6 +58,29 @@ a.user-mention {
   }
 }
 
+.bg-squares {
+  background-color: $taupe;
+  background-image: url("{{ site.baseurl }}/img/bg.svg");
+  background-repeat: no-repeat;
+  background-size: 175%;
+  background-position: center -20px;
+
+  @include breakpoint(sm) {
+    background-size: 102%;
+    background-position: center -10px;
+  }
+}
+
+.bg-nav {
+  @media screen and (min-width: 992px) and (min-height: 730px) {
+    background-color: darken ($taupe, 5%);
+    background-image: url("{{ site.baseurl }}/img/bg-bottom-left.svg");
+    background-repeat: no-repeat;
+    background-size: 96%;
+    background-position: -10px 91%;
+  }
+}
+
 .form-input {
   border: $border;
   height: 36px;

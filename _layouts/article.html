@@ -4,7 +4,7 @@ layout: default
 <div class="">
 
     <nav class="">
-      <div class="nav d-lg-block navigation">
+      <div class="nav d-lg-block navigation bg-nav">
         {% include contents.html %}
       </div>
     </nav>
@@ -15,7 +15,7 @@ layout: default
 
         <div class="container-narrow pt-4 pt-lg-8">
 
-          <h1 class="mb-3 mb-lg-4 pt-lg-8">{{ page.title }}</h1>
+          <h1 class="mb-3 mb-lg-4 pt-md-3 pt-lg-8">{{ page.title }}</h1>
 
           {{ content }}
 
@@ -41,14 +41,14 @@ layout: default
               {% endif %}
               {% if previous %}
                 <p class="mb-1">Previous</p>
-                <a href="{{ previous.url | prepend: site.baseurl }}" class="text-gamma link-blue">{{ previous.title }}</a>
+                <a href="{{ previous.url | prepend: site.baseurl }}" class="text-gamma">{{ previous.title }}</a>
               {% endif %}
             </div>
             <div class="col-md-6 text-md-right">
               {% if page.next %}
                 {% assign next = site.pages | where: "path", page.next | first %}
                 <p class="mb-1">Next</p>
-                <a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma link-blue">{{ next.title }}</a>
+                <a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma">{{ next.title }}</a>
               {% endif %}
             </div>
           </div>
