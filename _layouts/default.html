@@ -1,34 +1,28 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-    <script src="{{ "/js/script.js" | prepend: site.baseurl }}"></script>
-    {% seo %}
-  </head>
-  <body>
+  {% include head.html %}
+  <body class="bg-taupe">
     <div class="site-wrapper">
       <div class="site-canvas">
         <div class="site-canvas-mask"></div>
-        <header class="border-bottom clearfix bg-gray-light">
-          <div class="px-3 px-sm-5 px-md-6 py-3 clearfix">
-            <div class="d-table">
-              <div class="d-table-cell v-align-middle">
-                <div class="toggle-nav fill-blue v-align-middle ml-2 py-3 mr-4 d-lg-none">
-                  {% octicon three-bars height:32 class:"octicon-list mt-1" aria-label:hi %}
-                  {% octicon x height:32 class:"octicon-x" aria-label:hi %}
+        <header class="fixed-header">
+          <div class="clearfix bg-maroon">
+            <div class="container-narrow ml-lg-0 pl-lg-4 py-2 py-md-3 clearfix">
+              <div class="d-table">
+                <div class="d-table-cell v-align-middle">
+                  <div class="toggle-nav fill-white v-align-middle ml-2 py-3 mr-4 d-lg-none">
+                    {% octicon three-bars height:32 class:"octicon-list mt-1" aria-label:hi %}
+                    {% octicon x height:32 class:"octicon-x" aria-label:hi %}
+                  </div>
                 </div>
-              </div>
-              <div class="d-table-cell v-align-middle">
-                <h3 class="m-0 my-md-3 pr-3 d-sm-inline-block">
-                  <a href="{{ site.baseurl }}" class="link-unstyled">Open Source Handbook</a>
-                </h3>
-                <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}" class="text-small">
-                  View on GitHub
-                </a>
+                <div class="d-table-cell v-align-middle text-white">
+                  <h3 class="m-0 my-md-3 pr-3 d-sm-inline-block">
+                    <a href="{{ site.baseurl }}" class="link-unstyled">Open Source Handbook</a>
+                  </h3>
+                  <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}" class="text-small">
+                    View on GitHub {% octicon arrow-right height:20 class:"v-align-middle ml-1 fill-white" aria-label:hi %}
+                  </a>
+                </div>
               </div>
             </div>
           </div>
@@ -38,11 +32,7 @@
             {{ content }}
           </div>
         </main>
-        <section class="bg-gray-light text-center mt-4 mt-md-6 py-4 py-md-6 py-lg-7">
-          <a class="btn btn-blue" type="button" href="mailto:opensource@github.com">Contact a human</a>
-        </section>
       </div>
     </div>
-
   </body>
 </html>
