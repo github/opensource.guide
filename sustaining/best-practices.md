@@ -14,7 +14,7 @@ In this section, we'll talk about how to set up your projects in a way that help
 
 ## Know yourself and your needs
 
-Remember way back, before you launched your project, [when you wrote down](../../getting-started/setting-expectations) your expectations? It's time to revisit that document now. Remind yourself why you're doing this work and what you want to get out of open sourcing your project. Has anything changed?
+Remember way back, before you launched your project, [when you wrote down](../../getting-started/setting-expectations/) your expectations? It's time to revisit that document now. Remind yourself why you're doing this work and what you want to get out of open sourcing your project. Has anything changed?
 
 Be honest with yourself about how much time you have to spend on your project. This is not the same as how much time you think the project requires, or how much time others want you to spend on the project. Write down your time constraints, and make it public so others understand your priorities, too.
 
@@ -50,7 +50,7 @@ The first rule of open source, [according to](https://twitter.com/solomonstre/st
 
 Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. If someone suggests an idea that you know you won't accept, don't leave it open because you feel guilty or want to be nice. Be kind, but firm. Thank them for their contribution and explain why it doesn't fit into the scope of the project. Then [close the request](../../troubleshooting/contributions).
+One of the most important places you'll practice saying no is on your issue and pull request queue. If someone suggests an idea that you know you won't accept, don't leave it open because you feel guilty or want to be nice. Be kind, but firm. Thank them for their contribution and explain why it doesn't fit into the scope of the project. Then [close the request](../../troubleshooting/contributions/).
 
 Defining your project's scope makes closing pull requests with "scope creep" easier. If you notice repeated requests for things you don't want to accept, consider adding them into your contribution policy or modifying your project's scope, so you don't have to keep repeating yourself.
 
@@ -62,7 +62,7 @@ Wherever you can, keep communication about your project public. If somebody trie
 
 It's tempting to respond to private communication, especially early in the life of a project. Resist the temptation. Keeping communication public means less work for you personally. It also creates opportunities for other people to learn and participate. When the communication is public, other people with the same question can easily find answers without having to ask again.
 
-Notable exceptions to this practice are: 1) security issues and 2) sensitive [code of conduct violations](../../troubleshooting/conduct). You should always have a way for people to report these types of issues privately. If you don't want to use your personal communication channels, set up a separate email address for this purpose.
+Notable exceptions to this practice are: 1) security issues and 2) sensitive [code of conduct violations](../../troubleshooting/conduct/). You should always have a way for people to report these types of issues privately. If you don't want to use your personal communication channels, set up a separate email address for this purpose.
 
 ## Automate your work
 
