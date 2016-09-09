@@ -4,6 +4,8 @@ Our vision for the Open Source Handbook is to offer resources to help individual
 
 ### 2016: Creators
 
+We started by focusing on open source creators, because they play a critical role in growing healthy projects. Creators help set good examples for contributors and consumers of open source. We also noticed there were very few comprehensive resources aimed at helping creators.
+
 * [x] Create a handbook that helps creators start and grow their own open source project
 * [x] Make the handbook public and release it as an open source project
 * [ ] Continue to improve the content for open source producers
