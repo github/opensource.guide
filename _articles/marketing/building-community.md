@@ -1,7 +1,7 @@
 ---
 title: Building an open source community
 nav: Building a community
-next: marketing/measuring.md
+following: _articles/marketing/measuring.md
 ---
 
 You've launched your project, you're spreading the word, and people are checking out your project. Awesome! Now, how do you get them to stick around? In this section, we'll discuss ways to encourage people to use, contribute to, and evangelize your project.

@@ -1,7 +1,7 @@
 ---
 title: Measuring the success of your open source project
 nav: Measuring success
-next: sustaining/index.md
+following: _articles/sustaining.md
 ---
 
 Your project is starting to grow. 🌱 Well, you think it's growing. Is it growing? Let's talk about how to measure and track the success of your open source project.

@@ -1,13 +1,13 @@
 ---
 title: How to start an open source project
 nav: Getting started
-next: getting-started/defining.md
+following: _articles/getting-started/defining.md
 contents:
-  - getting-started/defining.md
-  - getting-started/setting-expectations.md
-  - getting-started/branding.md
-  - getting-started/preparing.md
-  - getting-started/legal.md
+  - _articles/getting-started/defining.md
+  - _articles/getting-started/setting-expectations.md
+  - _articles/getting-started/branding.md
+  - _articles/getting-started/preparing.md
+  - _articles/getting-started/legal.md
 ---
 
 First things first: we're here to help you launch projects of all shapes and sizes, but you may find certain sections more or less useful, depending on what you need.

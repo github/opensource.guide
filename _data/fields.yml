@@ -6,7 +6,7 @@ title:
 contents:
   type: Array
 
-next:
+following:
   type: String
 
 nav:

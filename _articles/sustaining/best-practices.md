@@ -1,7 +1,7 @@
 ---
 title: Best practices for open source project maintenance
 nav: Best practices for maintainers
-next: sustaining/healthy-communities.md
+following: _articles/sustaining/healthy-communities.md
 ---
 
 We spend plenty of time talking about how to make other people happy. But first and foremost, make yourself happy. Maintainer happiness is a non-negotiable requirement for the survival of any open source project.

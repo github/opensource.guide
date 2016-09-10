@@ -1,2 +1,7 @@
 # Override config for tests
 baseurl: ""
+
+collections:
+  articles:
+    output: true
+    permalink: /:path/

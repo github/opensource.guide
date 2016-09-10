@@ -1,7 +1,7 @@
 ---
 title: Open source project leadership & governance
 nav: Leadership & governance
-next: troubleshooting/index.md
+following: _articles/troubleshooting.md
 ---
 
 Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you're probably starting to wonder about governance.

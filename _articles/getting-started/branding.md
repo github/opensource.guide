@@ -1,7 +1,7 @@
 ---
 title: Branding your open source project
 nav: Branding
-next: getting-started/preparing.md
+following: _articles/getting-started/preparing.md
 ---
 
 Wondering what to name your project? Let's talk about your project's brand.

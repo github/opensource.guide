@@ -33,7 +33,7 @@ layout: default
             </div>
           </div>
 
-          {% assign previous = site.pages | where: "next", page.path | first %}
+          {% assign previous = site.articles | where: "following", page.path | first %}
           <div class="clearfix py-3 py-md-6">
             <div class="col-md-6 mb-3">
               {% if previous == null %}
@@ -45,8 +45,8 @@ layout: default
               {% endif %}
             </div>
             <div class="col-md-6 text-md-right">
-              {% if page.next %}
-                {% assign next = site.pages | where: "path", page.next | first %}
+              {% if page.following %}
+                {% assign next = site.articles | where: "path", page.following | first %}
                 <p class="mb-1">Next</p>
                 <a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma">{{ next.title }}</a>
               {% endif %}

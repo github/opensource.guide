@@ -16,6 +16,11 @@ exclude:
 
 permalink: /:path/
 
+collections:
+  articles:
+    output: true
+    permalink: /:path/
+
 defaults:
   - scope:
       path: ""
