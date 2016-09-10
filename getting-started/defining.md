@@ -1,5 +1,6 @@
 ---
-title: What it means to open source
+title: What is an open source project?
+nav: What it means to open source
 next: getting-started/setting-expectations.md
 ---
 

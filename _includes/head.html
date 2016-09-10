@@ -4,6 +4,9 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="icon" type="image/png" href="{{ "/img/favicon-128.png" | prepend: site.baseurl }}" sizes="128x128" />
+  <title>
+  {% if page.seo_title == nil %}{{ page.title }}{% else %}{{ page.seo_title }}{% endif %}
+  </title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
   <script src="{{ "/js/script.js" | prepend: site.baseurl }}"></script>
   <script>

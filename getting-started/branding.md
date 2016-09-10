@@ -1,5 +1,6 @@
 ---
-title: Branding
+title: Branding your open source project
+nav: Branding
 next: getting-started/preparing.md
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: Troubleshooting
+title: Open source project troubleshooting & maintenance
+nav: Troubleshooting
 contents:
 - troubleshooting/conduct.md
 - troubleshooting/burnout.md

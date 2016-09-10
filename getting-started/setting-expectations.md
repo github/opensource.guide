@@ -1,5 +1,6 @@
 ---
 title: Setting expectations for your open source project
+nav: Setting expectations
 next: getting-started/branding.md
 ---
 

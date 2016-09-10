@@ -1,5 +1,6 @@
 ---
-title: Finding community consensus
+title: Finding open source community consensus
+nav: Finding community consensus
 ---
 
 In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.

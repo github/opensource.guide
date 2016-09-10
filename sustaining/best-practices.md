@@ -1,5 +1,6 @@
 ---
-title: Best practices for maintainers
+title: Best practices for open source project maintenance
+nav: Best practices for maintainers
 next: sustaining/healthy-communities.md
 ---
 

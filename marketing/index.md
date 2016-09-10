@@ -1,5 +1,6 @@
 ---
-title: Marketing your project
+title: Marketing your open source project
+nav: Marketing your project
 next: marketing/spreading-word.md
 contents:
 - marketing/spreading-word.md
