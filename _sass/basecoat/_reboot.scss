@@ -79,6 +79,11 @@ body {
   background-color: $body-bg-color;
   margin: 0;
   padding: 0;
+
+  @include breakpoint(md) {
+    font-size: $body-font-size-md !important;
+  }
+
 }
 
 // Suppress the focus outline on elements that cannot be accessed via keyboard.
@@ -131,9 +136,17 @@ ol,
 ul,
 dl {
   margin-top: 0;
-  margin-left: 0;
+  margin-left: 1rem;
   margin-bottom: 1rem;
   padding-left: 0;
+
+  @include breakpoint(md) {
+    margin-left: 0;
+  }
+}
+
+li {
+  margin-bottom: 1rem;
 }
 
 ol ol,
@@ -141,6 +154,10 @@ ul ul,
 ol ul,
 ul ol {
   margin-bottom: 0;
+  margin-top: 1rem;
+  @include breakpoint(md) {
+    margin-left: 1rem;
+  }
 }
 
 dt {
@@ -162,7 +179,7 @@ blockquote {
 //
 
 a {
-  color: $link-color;
+  color: $maroon;
   text-decoration: $link-decoration;
 
   &:hover {
@@ -204,8 +221,7 @@ img {
   // By default, `<img>`s are `inline-block`. This assumes that, and vertically
   // centers them. This won't apply should you reset them to `block` level.
   vertical-align: middle;
-  // Note: `<img>`s are deliberately not made responsive by default.
-  // For the rationale behind this, see the comments on the `.img-fluid` class.
+  max-width: 100%;
 }
 
 

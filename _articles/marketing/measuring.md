@@ -1,18 +1,25 @@
 ---
-title: Measuring Success
-next: sustaining/index.md
+title: Measuring the success of your open source project
+nav: Measuring success
+following: _articles/sustaining.md
 ---
 
-Your project is starting to grow. 🌱 Well, you think it's growing. Is it growing? In this section, we'll talk about how to measure and track the success of your open source project.
+Your project is starting to grow. 🌱 Well, you think it's growing. Is it growing? Let's talk about how to measure and track the success of your open source project.
+
+Popularity isn't everything. Everybody gets into open source for different reasons. If [your goal](../../getting-started/setting-expectations/) was to show off your portfolio work, be transparent about your code, or just have fun, don't feel pressured to grow your project through the metrics outlined below.
+
+If you _are_ interested in growing your project, the following metrics will give you a framework for analyzing and tracking your progress.
 
 * TOC
 {:toc}
 
 ## Discoverability
 
-Before anybody can use or contribute back to your project, they first need to know it exists. The first question you'll want to ask yourself, then, is: _are people finding my project?_
+Before anybody can use or contribute back to your project, they need to know it exists. The first question you'll want to ask yourself, then, is: _are people finding my project?_
 
-If your project is hosted on GitHub, you can view how many people land on your project and where they come from. From your project's page, click "Graphs", then "Traffic". On this page, you can see:
+![traffic graph]({{ site.baseurl }}/img/repo_traffic_graphs_tooltip.png)
+
+If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Graphs", then "Traffic". On this page, you can see:
 
 * **Total pageviews:** Tells you how many times your project was viewed
 
@@ -38,11 +45,11 @@ If usage is low compared to the number of people discovering your project, there
 
 ## Retention
 
-People are finding your project and they're using it. The last question you'll want to ask yourself is: _are people contributing back to my project?_
+People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to my project?_
 
-This is a big one. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is popular (many people use it) but not supported (not enough maintainer time to meet demand). It's never too early to start thinking about contributors!
+This is a big one. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is popular (many people use it) but not supported (not enough maintainer time to meet demand). Retention also requires an inflow of new contributors, as previously active contributors will eventually move on to other things. It's never too early to start thinking about contributors!
 
-Here are a few types of contributor metrics you may want to regularly keep track of:
+Here are a few types of contributor metrics you may want to regularly track:
 
 * **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. You can view this under "Graphs" -> "Contributors"
 
@@ -51,8 +58,19 @@ Here are a few types of contributor metrics you may want to regularly keep track
 * **First time vs. repeat contributors:** Helps you track whether you're getting new contributors in. Without new contributors, your project's community can become stagnant.
 
 * **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
+* **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
 
 * **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
+
+## Maintainer Health
+
+Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
+
+Unresponsive maintainers can become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave. [Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
+
+Consider tracking how long it takes for you (or another maintainer) to respond to contributions, whether an issue or a pull request. Responding doesn't require taking action: it can be as simple as saying "Thanks for your submission! I'll review this within the next week."
+
+You could also measure the time it takes to move between stages in the contribution process, such as average amount of time an issue remains open, or time from issue to PR.
 
 ## Further reading
 
@@ -61,4 +79,4 @@ Here are a few types of contributor metrics you may want to regularly keep track
 * [
 The Open Source Contributor Funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel) by @MikeMcQuaid
 * [The shape of open source](https://github.com/blog/2195-the-shape-of-open-source) by @arfon
-* [Libraries.io](http://libraries.io)
+* [Libraries.io](http://libraries.io) by @andrew

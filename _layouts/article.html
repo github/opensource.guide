@@ -1,54 +1,69 @@
 ---
 layout: default
 ---
-<div class="px-3 px-sm-5 px-md-6 pt-lg-6 content-wrapper">
+<div class="">
 
-  <nav class="col-nav">
-    <div class="pt-4 d-lg-none expand-trigger">
-      <a class="btn btn-outline btn-block menu-button v-align-middle">
-        {% octicon list-unordered height:18 class:"mr-2" aria-label:hi %}
-        View Menu
-      </a>
-    </div>
-    <div class="d-lg-block expand-content navigation">
-      {% include contents.html %}
-    </div>
-  </nav>
-
-  <article class="col-main">
-
-    <div class="col-main-wrapper pt-4 pt-lg-0">
-
-      <h1 class="mb-3 mb-lg-4">{{ page.title }}</h1>
-      <div class="text-small px-3 py-1 mb-4 border rounded-1 d-inline-block">
-        <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="link-muted">
-          {% octicon pencil height:18 class:"right left fill-gray mr-2" aria-label:hi %} Suggest edits to this page
-        </a>
+    <nav class="">
+      <div class="nav d-lg-block navigation bg-nav">
+        {% include contents.html %}
       </div>
+    </nav>
 
-      {{ content }}
+    <div class="main-col">
 
-      {% assign previous = site.pages | where: "next", page.path | first %}
-      <div class="clearfix border-top mt-4 mt-md-7 py-3 py-md-6">
-        <div class="col-md-6 mb-3">
-          {% if previous == null %}
-            <span class="d-block">&nbsp;</span>
-          {% endif %}
-          {% if previous %}
-            <p class="mb-1">Previous</p>
-            <a href="{{ previous.url | prepend: site.baseurl }}" class="text-gamma link-blue">{{ previous.title }}</a>
-          {% endif %}
+      <article>
+
+        <div class="container-narrow pt-4 pt-lg-8">
+
+          <h1 class="mb-3 mb-lg-4 pt-md-3 pt-lg-8">{{ page.title }}</h1>
+
+          {{ content }}
+
+          <div class="border mb-0 my-4 my-md-7 p-3 p-md-4">
+            <div class="clearfix">
+              <div class="float-left">
+                {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
+              </div>
+              <div class="overflow-hidden">
+                <span class="d-block d-md-inline">This content is open source.</span>
+                <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
+                  Please help improve it.
+                </a>
+              </div>
+            </div>
+          </div>
+
+          {% assign previous = site.articles | where: "following", page.path | first %}
+          <div class="clearfix py-3 py-md-6">
+            <div class="col-md-6 mb-3">
+              {% if previous == null %}
+                <span class="d-block">&nbsp;</span>
+              {% endif %}
+              {% if previous %}
+                <p class="mb-1">Previous</p>
+                <a href="{{ previous.url | prepend: site.baseurl }}" class="text-gamma">{{ previous.title }}</a>
+              {% endif %}
+            </div>
+            <div class="col-md-6 text-md-right">
+              {% if page.following %}
+                {% assign next = site.articles | where: "path", page.following | first %}
+                <p class="mb-1">Next</p>
+                <a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma">{{ next.title }}</a>
+              {% endif %}
+            </div>
+          </div>
         </div>
-        <div class="col-md-6 text-md-right">
-          {% if page.next %}
-            {% assign next = site.pages | where: "path", page.next | first %}
-            <p class="mb-1">Next</p>
-            <a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma link-blue">{{ next.title }}</a>
-          {% endif %}
+
+      </article>
+
+      <footer class="bg-taupe-dark">
+        <div class="container-narrow">
+          <div class="pl-lg-4">
+            {% include footer.html %}
+          </div>
         </div>
-      </div>
+      </footer>
+
     </div>
-
-  </article>
 
 </div>

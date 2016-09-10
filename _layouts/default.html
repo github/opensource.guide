@@ -1,40 +1,41 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-    <script src="{{ "/js/jquery.sticky.js" | prepend: site.baseurl }}"></script>
-  </head>
-  <body>
-    <header class="border-bottom clearfix">
-      <div class="px-3 px-sm-5 px-md-6">
-        <h3 class="my-3 my-4 d-inline-block pr-3">
-          <a href="{{ site.baseurl }}" class="link-unstyled">Open Source Handbook</a>
-        </h3>
-        <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}" class="">
-          View on GitHub
-        </a>
-        <form id="search-form" action="{{ "/search/" | prepend:site.baseurl }}" data-content-url="{{ "/search/content.json" | prepend:site.baseurl }}" method="get">
-          <input type="text" id="search-box" name="q" placeholder="Search…">
-        </form>
+  {% include head.html %}
+  <body class="bg-taupe">
+    <div class="site-wrapper">
+      <div class="site-canvas">
+        <div class="site-canvas-mask"></div>
+        <header class="fixed-header">
+          <div class="clearfix bg-maroon">
+            <div class="container-narrow ml-lg-0 pl-lg-4 py-2 py-md-3 clearfix">
+              <div class="d-table">
+                <div class="d-table-cell v-align-middle">
+                  <div class="toggle-nav fill-white v-align-middle ml-2 py-3 mr-4 d-lg-none">
+                    {% octicon three-bars height:32 class:"octicon-list mt-1" aria-label:hi %}
+                    {% octicon x height:32 class:"octicon-x" aria-label:hi %}
+                  </div>
+                </div>
+                <div class="d-table-cell v-align-middle text-white">
+                  <h3 class="m-0 my-md-3 pr-3 d-sm-inline-block">
+                    <a href='{{ "/" | prepend: site.baseurl }}' class="link-unstyled">Open Source Handbook</a>
+                  </h3>
+                  <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}" class="text-small">
+                    View on GitHub {% octicon arrow-right height:20 class:"v-align-middle ml-1 fill-white" aria-label:hi %}
+                  </a>
+                  <form id="search-form" action="{{ "/search/" | prepend:site.baseurl }}" data-content-url="{{ "/search/content.json" | prepend:site.baseurl }}" method="get">
+                    <input type="text" id="search-box" name="q" placeholder="Search…">
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+        <main>
+          <div id="content">
+            {{ content }}
+          </div>
+        </main>
       </div>
-    </header>
-    <main class="bg-shade-gradient">
-      <div id="content" class="">
-        {{ content }}
-      </div>
-    </main>
-    <script>
-       var expandTrigger = $('.expand-trigger')
-        //show expand content clicking on expandTrigger
-        expandTrigger.on('click', function(event){
-        	event.preventDefault();
-        	$(this).next('.expand-content').slideToggle(200).end().parent('li').toggleClass('content-visible');
-          $(this).toggleClass('expand-open')
-        });
-    </script>
+    </div>
   </body>
 </html>

@@ -1,23 +1,53 @@
+$nav-width-offcanvas: 70%;
 $nav-width: 300px;
+$header-height: 80px;
 
-.content-wrapper {
+.content-wrapper { //puts a max width on the content area
   max-width: 1700px;
 }
 
-.col-nav {
- @include breakpoint(lg) {
-   position: fixed;
-   width: $nav-width;
- }
-}
-
-.col-main {
-  @include breakpoint(lg) {
-    margin-left: ($nav-width + $spacer5);
+.fixed-header {
+  @media screen and (min-width: 992px) and (min-height: 730px) { //only fix navigation if screen is tall enough for it
+     position: fixed !important;
+     width: 100%;
+     height: $header-height;
   }
 }
 
-.col-main-wrapper {
+.nav {
+  width: $nav-width-offcanvas;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: -$nav-width-offcanvas;
+  border-right: $border;
+
+ @include breakpoint(lg) {
+   width: $nav-width;
+   top: auto;
+   left: auto;
+   border-right: 0;
+ }
+
+ @media screen and (min-width: 992px) and (min-height: 730px) { //only fix navigation if screen is tall enough for it
+    position: fixed !important;
+    top: $header-height;
+ }
+}
+
+.main-col {
+  @include breakpoint(lg) {
+    margin-left: ($nav-width);
+  }
+
+  article {
+    @include breakpoint(lg) {
+      margin-left: $spacer5;
+    }
+  }
+}
+
+.main-wrapper {
   @include breakpoint(lg) {
     max-width: 700px;
     margin: 0 auto;

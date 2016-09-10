@@ -6,5 +6,11 @@ title:
 contents:
   type: Array
 
-next:
+following:
+  type: String
+
+nav:
+  type: String
+
+seo_title:
   type: String

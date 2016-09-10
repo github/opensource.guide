@@ -59,7 +59,8 @@ $spacer9: nth($spacers, 10); // 84px
 $body-font: Roboto, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", "Oxygen", "Ubuntu", "Cantarell", "Open Sans", sans-serif;
 $display-font: $body-font;
 $alt-font: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-$body-font-size: 18px;
+$body-font-size: 16px;
+$body-font-size-md: 18px;
 $body-line-height: 1.5;
 $weight-normal: 300;
 $weight-semibold: 400;
@@ -80,7 +81,7 @@ $colors: (
     base:   #e5e5e5,
     light: #f5f5f5,
     mid: #aaa,
-    dark: #767676
+    dark: #766d6b
   ),
   purple: (
     base:   #7a3497,
@@ -125,12 +126,14 @@ $gray: color(gray, base);
 $gray-light: color(gray, light);
 $gray-dark: color(gray, dark);
 $gray-mid: color(gray, mid);
+$taupe: #f7f6f2;
 
 // Color used to generate color scheme
 $theme-color: $blue-dark !default;
+$maroon: #854a58;
 
 // Colors in use
-$body-color: #767676 !default;
+$body-color: #766d6b !default;
 $heading-color: #3c4146 !default;
 $body-bg-color: $white;
 
@@ -138,7 +141,7 @@ $body-bg-color: $white;
 $text-muted: $gray-mid;
 
 // Links
-$link-color: $blue;
+$link-color: $maroon;
 $link-hover-color: darken($link-color, 10%);
 $link-decoration: none;
 $link-hover-decoration: underline;
@@ -153,7 +156,7 @@ $nav-shadow: false !default; // Adds subtle dropshadow under nav
 
 // Borders
 $border-width: 1px; // Override primer's default
-$border-color: $gray; // Override primer's default
+$border-color: #e3e2df; // Override primer's default
 $border-color-white: $white; // Override primer's default
 $border-color-link: $link-color; // Override primer's default
 $border-radius: 6px; // Override primer's default of 3px;
