@@ -1,29 +1,51 @@
 ---
 layout: default
 ---
+<div class="">
 
-<div class="px-3 px-sm-5 px-md-6 pt-lg-6 content-wrapper">
+    <nav class="">
+      <div class="nav d-lg-block navigation bg-nav">
+        {% include contents.html %}
+      </div>
+    </nav>
 
-  <nav class="col-nav">
-    <div class="pt-4 d-lg-none expand-trigger">
-      <a class="btn btn-outline btn-block menu-button v-align-middle">
-        {% octicon list-unordered height:18 class:"mr-2" aria-label:hi %}
-        View Menu
-      </a>
+    <div class="main-col">
+
+      <article>
+
+        <div class="container-narrow pt-4 pt-lg-8">
+
+          <h1 class="mb-3 mb-lg-4 pt-md-3 pt-lg-8">{{ page.title }}</h1>
+
+          <ul id="search-results">
+          </ul>
+
+          <div class="border mb-0 my-4 my-md-7 p-3 p-md-4">
+            <div class="clearfix">
+              <div class="float-left">
+                {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
+              </div>
+              <div class="overflow-hidden">
+                <span class="d-block d-md-inline">This content is open source.</span>
+                <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
+                  Please help improve it.
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <footer class="bg-taupe-dark">
+        <div class="container-narrow">
+          <div class="pl-lg-4">
+            {% include footer.html %}
+          </div>
+        </div>
+      </footer>
+
     </div>
-    <div class="d-lg-block expand-content navigation">
-      {% include contents.html %}
-    </div>
-  </nav>
 
-  <article class="col-main">
-    <div class="col-main-wrapper pt-4 pt-lg-0">
-      <h1 class="mb-3 mb-lg-4">{{ page.title }}</h1>
-
-      <ul id="search-results">
-      </ul>
-    </div>
-  </article>
 </div>
 
 <script src="{{ "/js/lunr.min.js" | prepend: site.baeurl }}"></script>
