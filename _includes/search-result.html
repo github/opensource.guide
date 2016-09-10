@@ -1,5 +1,8 @@
 <li>
   <a href="{{ include.article.url | prepend: site.baseurl }}">
     {{ include.article.title }}
-  </a> {{ include.article.path }}
+  </a>
+  <div>
+    {{ include.article.excerpt }}
+  </div>
 </li>

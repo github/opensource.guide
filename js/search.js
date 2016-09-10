@@ -3,7 +3,7 @@ layout: false
 ---
 
 window.store = {
-{% for article in site.pages %}
+{% for article in site.articles %}
   {% capture html %}{% include search-result.html article=article %}{% endcapture %}
   "{{ article.url | xml_escape }}": {
     "title": "{{ article.title | xml_escape }}",

@@ -24,7 +24,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: pages
+      type: articles
     values:
       layout: article
 
