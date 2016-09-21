@@ -32,7 +32,7 @@ An open source license guarantees that others can use, copy, modify, and contrib
 
 Legal work is no fun. The good news is there are many licenses available that you can copy and paste into your repository. It will only take a minute to protect your hard work.
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of these open source licenses will make your GitHub project open source.
+When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
 
 ![pick a license]({{ site.baseurl }}/assets/images/getting-started/repository-license-picker.png)
 
