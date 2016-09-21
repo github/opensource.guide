@@ -23,6 +23,8 @@ If your project is on GitHub, public communication can be as simple as directing
 
 A welcoming community is an investment into your project's future and reputation. When someone new lands on your project, make sure to thank them for their interest! Show them around and help them get started. Point them to resources, like onboarding materials or past mailing list threads, that you think might be helpful. It only takes one negative experience to make someone not want to come back.
 
+![django new contributors page]({{ site.baseurl }}/assets/images/marketing/django_new_contributors.png)
+
 You don't have to overdo it, or put others' needs in front of your own. Be honest about your project's needs, but do so with an assertive attitude. You can stand up for yourself without being rude, flippant, or unhelpful.
 
 ## Document everything
@@ -37,13 +39,21 @@ Writing things down isn't just for meetings and technical documentation, either.
 
 As you promote your project, people will probably have feedback and ideas for you. They may request support or functionality, have questions about how things work, or need help getting started.
 
-Try to be responsive when someone files an issue, submits a pull request, or asks a question about your project. When you respond quickly, people will feel they are part of a dialogue, and they'll be more enthusiastic about participating. For example, when Mozilla studied its community and engagement in 2014, [they found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
+Try to be responsive when someone files an issue, submits a pull request, or asks a question about your project. When you respond quickly, people will feel they are part of a dialogue, and they'll be more enthusiastic about participating.
 
-Remember that conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
+Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
+
+![middleman pull request]({{ site.baseurl }}/assets/images/marketing/middleman_pr.png)
+
+When Mozilla studied its community and engagement in 2014, [they found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
+
+Conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
 
 ## Make it easy for people to use and contribute
 
-One way to think about your project's community is what @MikeMcQuaid calls the [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel). At the top of the funnel is anybody who could potentially use your project. At the bottom of the funnel are people like you, who maintain the project.
+One way to think about your project's community is what @MikeMcQuaid calls the [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
+
+![contributor funnel]({{ site.baseurl }}/assets/images/marketing/contributor_funnel_mikemcquaid.png)
 
 As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
 
