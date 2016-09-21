@@ -49,13 +49,15 @@ People are excited to contribute to projects when they feel as sense of ownershi
 
 See if you can find ways to give credit to your community as much as possible. Here are some ideas:
 
-* Resist fixing easy (non-critical) bugs. Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time.
+* **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
 
-* Start a CONTRIBUTORS file in your project that lists everyone who's contributed to your project. Here's an example that @shazow made for his project, [urllib3](https://github.com/shazow/urllib3/blob/master/CONTRIBUTORS.txt).
+![cookiecutter issue]({{ site.baseurl }}/assets/images/sustaining/cookiecutter_submit_pr.png)
 
-* If you've got a sizeable community, consider sending out a newsletter or writing a blog post that calls out contributors and thanks them. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+* **Start a CONTRIBUTORS file** in your project to recognize everyone who's contributed to your project. @shazow made a [simple list](https://github.com/shazow/urllib3/blob/master/CONTRIBUTORS.txt) for his project, [urllib3](https://github.com/shazow/urllib3).
 
-* Consider giving every contributor commit access. @felixge found that this made people [more excited to polish their patches](http://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
+* If you've got a sizeable community, consider **sending out a newsletter or writing a blog post** that thanks contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+
+* **Consider giving every contributor commit access.** @felixge found that this made people [more excited to polish their patches](http://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
 
 The bigger your project, and the bigger your community, the easier it is to find help. The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. While you may not always find someone to answer the call, putting a Batsignal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
 

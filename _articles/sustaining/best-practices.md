@@ -55,7 +55,11 @@ One of the most important places you'll practice saying no is on your issue and 
 
 Defining your project's scope makes closing pull requests with "scope creep" easier. If you notice repeated requests for things you don't want to accept, consider adding them into your contribution policy or modifying your project's scope, so you don't have to keep repeating yourself.
 
-If the thought of saying no terrifies you, you're not alone. As @jfrazelle [put it](https://blog.jessfraz.com/post/the-art-of-closing/): _"I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want."_ The more often you practice saying no, the easier it becomes. Promise.
+If the thought of saying no terrifies you, you're not alone. As @jfrazelle [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+
+> "I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want."
+
+The more often you practice saying no, the easier it becomes. Promise.
 
 ## Keep communication public
 
