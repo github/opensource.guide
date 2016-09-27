@@ -14,7 +14,7 @@ When you "open source" a project, it means you've added [a certain set](https://
 
 Open source licenses grant permission to everyone to use, modify, and share licensed software for any purpose, subject to certain conditions, depending on the license.
 
-That's the legal side of it. In terms of culture, open sourcing a project has come to mean much more. There are many reasons why a person or organization might want to open source a project. For example:
+That's the legal side of it. In terms of culture, open sourcing a project has come to mean much more. There are many reasons why a person or organization might want to open source a project. Some examples include:
 
 * **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
 
@@ -39,3 +39,7 @@ It's easy to add a license. You'll be [asked to add one](https://help.github.com
 When you open source a project, you open yourself to feedback and suggestions from other people who are engaged with your work. It might feel intimidating to open source a project for the first time, but remember that you're not alone.
 
 In the next section, we'll help you figure out your goals around open sourcing your project. Understanding your goals beforehand will make it easier to manage your and others' expectations later on.
+
+## Further reading
+
+* [Why open source](http://ben.balter.com/2015/11/23/why-open-source/) by @benbalter
