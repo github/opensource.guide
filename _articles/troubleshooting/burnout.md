@@ -18,13 +18,17 @@ Maybe at one point you put a lot of time into your project but now circumstances
 
 Write your time constraints directly into your README. [Say no to contributions](../contributions/) you don't want to accept. If your time is purely volunteered, make sure that people are aware of your circumstances. You can even tell them exactly how many hours, or which days, you spend on the project per week. If your project is completely unmaintained or a low priority in your life, tell people that, too. [Cultivating best practices](../../sustaining/best-practices/) as a maintainer will help you protect your boundaries.
 
+[PhantomJS](https://github.com/ariya/phantomjs) used Issues to [communicate the time constraints](https://github.com/ariya/phantomjs/issues/14541) of their maintainers:
+
+> The team behind PhantomJS (@ariya @Vitallium @zackw and other occasional contributors) is committed, yet we remain a small team. None of us is paid to work on PhantomJS, thus we carry out the contribution during our spare time. For the sake of discussion, let's say that our estimated total effort is 4 hours/week.
+
 ## Write an agreement for maintainers and contributors
 
 If you haven't noticed by now, the more you write down, the easier your life will be. One thing you may want to consider writing down are ground rules and expectations for maintainers (and contributors!). Think of it as an extension of your code of conduct.
 
 For example, as a maintainer, you might promise to acknowledge every contribution, even if you don't accept them. You might ask contributors to promise that their code passes all tests before they submit it.
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Maintainers-Avoiding-Burnout.md) are several examples of projects that have ground rules for maintainers and contributors.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/master/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects that have ground rules for maintainers and contributors.
 
 ## Don't forget to take breaks
 
