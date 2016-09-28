@@ -1,6 +1,5 @@
 ---
-title: Promoting your open source project
-nav: Spreading the word
+title: Spreading the word
 following: _articles/marketing/building-community.md
 ---
 

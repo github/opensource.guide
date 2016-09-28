@@ -1,6 +1,5 @@
 ---
-title: Launching your open source project
-nav: Preparing for launch
+title: Preparing for launch
 following: _articles/marketing.md
 ---
 

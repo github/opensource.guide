@@ -1,6 +1,5 @@
 ---
-title: How to start an open source project
-nav: Getting started
+title: Getting started
 following: _articles/getting-started/defining.md
 contents:
   - _articles/getting-started/defining.md
