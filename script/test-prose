@@ -51,10 +51,15 @@ var markdown = unified()
     // Headings
     headingStyle: 'atx',             // ## Headings
     firstHeadingLevel: 2,            // Page title is h1, so start with h2
+    headingIncrement: true,
     maximumHeadingLength: 80,        // FIXME: Eventually remove this
+    noDuplicateHeadings: true,
+    noMultipleToplevelHeadings: true,
 
     // Lists
     listItemIndent: 'space',         // As the gods intended.
+    listItemBulletIndent: true,
+    listItemContentIndent: true,
     unorderedListMarkerStyle: '*',
     orderedListMarkerStyle: '.',
 
@@ -63,6 +68,21 @@ var markdown = unified()
     strongMarker: '*',
     blockquoteIndentation: 2,
     noMissingBlankLines: {exceptTightLists: true},
+    noConsecutiveBlankLines: true,
+    finalNewline: true,
+    noAutoLinkWithoutProtocol: true,
+    noBlockquoteWithoutCaret: true,
+    noLiteralUrls: true,
+
+    // Mistakes
+    hardBreakSpaces: true,
+    noDuplicateDefinitions: true,
+    noHeadingContentIndent: true,
+    noInlinePadding: true,
+    noShortcutReferenceImage: true,
+    noShortcutReferenceLink: true,
+    noUndefinedReferences: true,
+    noUnusedDefinitions: true,
   })
   .use(remark2retext, prose)
   .use(stringify);
