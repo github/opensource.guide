@@ -51,7 +51,7 @@ See if you can find ways to give credit to your community as much as possible. H
 
 * **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
 
-![cookiecutter issue]({{ "/assets/images/sustaining/cookiecutter_submit_pr.png" | prepend: site.baseurl }})
+![cookiecutter issue](assets/images/sustaining/cookiecutter_submit_pr.png)
 
 * **Start a CONTRIBUTORS file** in your project to recognize everyone who's contributed to your project. @shazow made a [simple list](https://github.com/shazow/urllib3/blob/master/CONTRIBUTORS.txt) for his project, [urllib3](https://github.com/shazow/urllib3).
 
