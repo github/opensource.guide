@@ -1,95 +1,98 @@
 #!/usr/bin/env node
 
-// Retext stuff
+// Core
 var unified = require('unified');
 
-// Remark stuff
+// Remark stuff (markdown)
 var parse = require('remark-parse');
 var lint = require('remark-lint');
 var remark2retext = require('remark-retext');
 var stringify = require('remark-stringify');
+
+// Retext stuff (prose)
 var english = require('retext-english');
 var sentenceSpacing = require('retext-sentence-spacing');
 var quotes = require('retext-quotes');
 var repeated = require('retext-repeated-words');
 
 // Util stuff
+var vfile = require('to-vfile');
+var statistics = require('vfile-statistics');
 var report = require('vfile-reporter');
 var glob = require('glob');
 var fs = require('fs');
 var async = require('async');
 var yaml = require('js-yaml');
-var jekyllConfig = yaml.safeLoad(fs.readFileSync('_config.yml', 'utf8'));
-var ignore = require('ignore')().add(jekyllConfig["exclude"])
+var jekyllConfig = yaml.safeLoad(fs.readFileSync('_config.yml'));
+var ignore = require('ignore')().add(jekyllConfig.exclude)
 
-var options = {
-  // https://github.com/wooorm/remark/tree/master/packages/remark-parse#options
-  "remark": {
-    "gfm": true,
-    "footnotes": true
-  },
+// Prose checking pipeline
+var prose = unified()
+  .use(english)
+  .use(sentenceSpacing, {preferred: 1})
+  .use(quotes, {preferred: 'straight'})
+  .use(repeated)
 
+// Check rigorously if `FULL_PROSE_CHECK` is in env.
+if(process.env.FULL_PROSE_CHECK) {
+  prose
+    .use(require('retext-simplify'), {
+      ignore: ['modify', 'contribute', 'previous']
+    })
+    .use(require('retext-equality'))
+    .use(require('retext-readability'), {age: 18})
+}
+
+// Markdown checking pipeline.
+var markdown = unified()
+  .use(parse)
   // https://github.com/wooorm/remark-lint/blob/master/doc/rules.md
-  "lint": {
+  .use(lint, {
     // Headings
-    "heading-style": "atx",             // ## Headings
-    "first-heading-level": 2,           // Page title is h1, so start with h2
-    "no-heading-punctuation": false,
-    "maximum-heading-length": 80,       // FIXME: Eventually remove this
+    headingStyle: 'atx',             // ## Headings
+    firstHeadingLevel: 2,            // Page title is h1, so start with h2
+    headingIncrement: true,
+    maximumHeadingLength: 80,        // FIXME: Eventually remove this
+    noDuplicateHeadings: true,
+    noMultipleToplevelHeadings: true,
 
     // Lists
-    "list-item-indent": "space",        // As the gods intended.
-    "list-item-spacing": false,
-    "unordered-list-marker-style": "*",
-    "ordered-list-marker-style": ".",
+    listItemIndent: 'space',         // As the gods intended.
+    listItemBulletIndent: true,
+    listItemContentIndent: true,
+    unorderedListMarkerStyle: '*',
+    orderedListMarkerStyle: '.',
 
     // Misc
-    "maximum-line-length": false,   // turn off line length linting
-    "emphasis-marker": "_",
-    "strong-marker": "*",
-    "blockquote-indentation": 2,
-    "no-missing-blank-lines": {"exceptTightLists": true},
-  },
-  "readability": {
-    "age": 18
-  },
-  "simplify": {
-    ignore: [
-      "modify",
-      "contribute",
-      "previous"
-    ]
-  }
-};
+    emphasisMarker: '_',
+    strongMarker: '*',
+    blockquoteIndentation: 2,
+    noMissingBlankLines: {exceptTightLists: true},
+    noConsecutiveBlankLines: true,
+    finalNewline: true,
+    noAutoLinkWithoutProtocol: true,
+    noBlockquoteWithoutCaret: true,
+    noLiteralUrls: true,
 
-async.map(ignore.filter(glob.sync("**/*.md")), function(file, callback) {
-  fs.readFile(file, function(err, contents) {
-    unified()
-      .use(parse)
-      .use(lint, options["lint"])
-      .use(remark2retext, unified()
-        .use(english)
-        .use(sentenceSpacing, {preferred: 1})
-        .use(quotes, {preferred: 'straight'})
-        .use(repeated)
-        // .use(require('retext-simplify'), options["simplify"])
-        // .use(require('retext-equality'))
-        // .use(require('retext-readability'), options["readability"])
-      )
-      .use(stringify)
-      .process(contents.toString(), options["remark"], function (err, result) {
-          result.filename = file;
-          callback(err, result);
-      });
+    // Mistakes
+    hardBreakSpaces: true,
+    noDuplicateDefinitions: true,
+    noHeadingContentIndent: true,
+    noInlinePadding: true,
+    noShortcutReferenceImage: true,
+    noShortcutReferenceLink: true,
+    noUndefinedReferences: true,
+    noUnusedDefinitions: true,
+  })
+  .use(remark2retext, prose)
+  .use(stringify);
+
+async.map(ignore.filter(glob.sync('**/*.md')), function(filePath, callback) {
+  vfile.read(filePath, function(err, file) {
+    if(err) return callback(err);
+    markdown.process(file, {footnotes: true}, callback);
   });
 }, function (err, results) {
   console.log(report(results));
-
-  var hasErrors = false;
-
-  results.forEach(function(file) {
-    if(file.messages.length > 0) hasErrors = true;
-  });
-
-  if(hasErrors) process.exit(1);
+  if(statistics(results).total) process.exit(1);
 });
