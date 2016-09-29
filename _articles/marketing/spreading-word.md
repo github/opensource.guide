@@ -1,6 +1,5 @@
 ---
-title: Promoting your open source project
-nav: Spreading the word
+title: Spreading the word
 following: _articles/marketing/building-community.md
 ---
 
@@ -55,7 +54,7 @@ In the next section, we'll talk about how to retain those early enthusiasts and 
 
 * [How to Spread The Word About Your Code](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/) by @peterc and @robnyman
 * [Tips for public speaking](http://speaking.io/) by @holman
-* [Open Source Doesn't Just Market Itself](https://zachholman.com/posts/open-source-marketing/) by @holman
+* [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk) by Lena Reinhard
 * [Open-Source Projects Need More Than Good Code—They Need Marketing](http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz/) by @mjasay
 * [How to make your open-source project thrive](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540) with @shazow
 * [Marketing for open-source projects](http://radek.io/2015/09/14/marketing-for-open-source-projects-1/) by @pazdera

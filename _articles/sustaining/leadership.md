@@ -1,6 +1,5 @@
 ---
-title: Open source project leadership & governance
-nav: Leadership & governance
+title: Leadership & governance
 following: _articles/troubleshooting.md
 ---
 
