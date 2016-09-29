@@ -95,7 +95,7 @@ var markdown = unified()
   .use(remark2retext, prose)
   .use(stringify);
 
-async.map(ignore.filter(glob.sync('**/*.md')), function(filePath, callback) {
+async.map(ignore.filter(glob.sync('_articles/**/*.md')), function(filePath, callback) {
   vfile.read(filePath, function(err, file) {
     if(err) return callback(err);
     markdown.process(file, {footnotes: true}, callback);
