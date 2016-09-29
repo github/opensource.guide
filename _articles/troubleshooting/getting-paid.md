@@ -1,6 +1,5 @@
 ---
-title: Getting paid for open source project work
-nav: Getting paid for open source work
+title: Getting paid for open source work
 ---
 
 If you make regular, substantial contributions to open source, or you're just considering your first contribution, you may start to wonder whether anybody gets paid to work on open source.

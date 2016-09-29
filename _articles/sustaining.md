@@ -1,6 +1,5 @@
 ---
-title: Sustaining growth of your open source project
-nav: Sustaining growth
+title: Sustaining growth
 following: _articles/sustaining/best-practices.md
 contents:
 - _articles/sustaining/best-practices.md

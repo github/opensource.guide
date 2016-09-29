@@ -1,6 +1,5 @@
 ---
-title: Building an open source community
-nav: Building a community
+title: Building a community
 following: _articles/marketing/measuring.md
 ---
 
