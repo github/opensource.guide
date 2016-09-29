@@ -3,7 +3,7 @@ title: Building a community
 following: _articles/marketing/measuring.md
 ---
 
-You've launched your project, you're spreading the word, and people are checking out your project. Awesome! Now, how do you get them to stick around? In this section, we'll discuss ways to encourage people to use, contribute to, and evangelize your project.
+You've launched your project, you're spreading the word, and people are checking out your project. Awesome! Now, how do you get them to stick around?
 
 * TOC
 {:toc}
@@ -52,7 +52,7 @@ For casual or first-time contributors, be open-minded about the types of contrib
 
 If there's a contribution you disagree with, thank them for their idea and [explain why](../../troubleshooting/contributions) it doesn't fit into the scope of the project. If there are certain types of contributions that you won't accept, explain so in your CONTRIBUTING.md file.
 
-You're doing great so far! Now that you're promoting your project and growing a community, you might be wondering whether you're doing it right. In the next section, we'll talk about metrics to measure your project's success and how to track them.
+You're doing great so far! Now that you're promoting your project and growing a community, you might be wondering whether you're doing it right. Metrics can help you measure and track the success of your open source project.
 
 ## Further reading
 
