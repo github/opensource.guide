@@ -1,4 +1,5 @@
 title: "Open Source Handbook"
+description: "A community handbook for open source creators."
 
 exclude:
   - bin
@@ -16,6 +17,11 @@ exclude:
 
 permalink: /:path/
 
+collections:
+  articles:
+    output: true
+    permalink: /:path/
+
 defaults:
   - scope:
       path: ""
@@ -26,7 +32,8 @@ gems:
   - jekyll-mentions
   - jekyll-octicons
   - jekyll-seo-tag
-
+  - jekyll-sitemap
+  
 branch: gh-pages
 
 github:

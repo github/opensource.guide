@@ -24,6 +24,10 @@
 
 // Background colors
 .bg-white { background: $white !important;}
+.bg-taupe { background: $taupe !important; }
+.bg-taupe-dark { background: darken($taupe, 3%) !important; }
+.bg-taupe-very-dark { background: darken($taupe, 6%) !important; }
+.bg-maroon { background: $maroon !important; }
 .bg-black { background: $black !important;}
 .bg-gray-light { background: $gray-light !important;}
 .bg-theme-color { background: $theme-color !important; }
@@ -39,4 +43,12 @@
 
 .fill-blue {
   fill: $link-color;
+}
+
+.fill-maroon {
+  fill: $maroon;
+}
+
+.fill-white {
+  fill: $white;
 }

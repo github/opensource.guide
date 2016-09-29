@@ -4,7 +4,7 @@ title: Getting paid for open source work
 
 If you make regular, substantial contributions to open source, or you're just considering your first contribution, you may start to wonder whether anybody gets paid to work on open source.
 
-Today, some open source work is paid. Projects sometimes raise money from companies, individuals, or others to fund ongoing work. [Ruby Together](https://rubytogether.org/), for example, is a foundation that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects.
+Today, some open source work is paid. Projects sometimes raise money from companies, individuals, or others to fund ongoing work. [Ruby Together](https://rubytogether.org/), for example, is an organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects.
 
 For an individual contributor, a company may hire an employee to work on an open source project, or encourage employees to contribute during work hours. [Nodesource](https://github.com/nodesource) and [Rackspace](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) are two companies with these types of arrangements.
 
@@ -26,7 +26,7 @@ As open source's popularity increases, availability of funding has not yet caugh
 
 * If you have a large project, raise sponsorships from companies and individual donors through a software foundation. Or start a business to support the project.
 
-Different types of funding require different skills, so consider your strengths to figure out which funding option works best for you.
+Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
 
 ## Further reading
 

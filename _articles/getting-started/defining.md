@@ -1,13 +1,11 @@
 ---
 title: What it means to open source
-next: getting-started/setting-expectations.md
+following: _articles/getting-started/setting-expectations.md
 ---
-
-## What does it mean to open source a project?
 
 So you're interested in making your project open source? Congratulations! 🎉 The world appreciates your contribution.
 
-Before we get into the details of running an open source project, let's talk about what open sourcing a project actually means.
+Let's start by talking about what it means to open source your work.
 
 ## Open source is more than just a license
 
@@ -17,7 +15,7 @@ Open source licenses grant permission to everyone to use, modify, and share lice
 
 That's the legal side of it. In terms of culture, open sourcing a project has come to mean much more. There are many reasons why a person or organization might want to open source a project. For example:
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security-related software like [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
 
 * **Collaboration:** Open source projects can accept changes and updates from anybody, which means they benefit from multiple skill sets and experiences. Collaboration matters to those who want to build their projects with a community, like [Hoodie](https://github.com/hoodiehq) and [Rust](https://github.com/rust-lang/rust).
 
@@ -27,11 +25,15 @@ Remember: open source isn't just for software! You can open source everything fr
 
 ## Public projects on GitHub without a license are not open source
 
-When you publish a project on GitHub, [you have the option](https://help.github.com/articles/creating-a-new-repository/) to make the repository **private** or **public**.
+When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
 
-Public repositories on GitHub are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which gives other people the right to view and fork your repository. But if you want others to use, copy, modify, or contribute back to your project, you need to [include an open source license](https://help.github.com/articles/open-source-licensing/).
+Public repositories on GitHub are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which gives other people the right to view and fork your repository. But if you want others to use, copy, modify, or contribute back to your project, you need to include an open source license.
 
-A public repository is not automatically open source unless you pick a license that grants a certain set of rights to people who might interact with your project. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so. (You can learn more about the legal side of open source [here](../legal).)
+A **public** repository is not **open source** unless you choose an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so. (You can learn more about the legal side of open source [here](../legal/).)
+
+It's easy to add a license. You'll be [asked to add one](https://help.github.com/articles/open-source-licensing/) when you create a new repository.
+
+---
 
 When you open source a project, you open yourself to feedback and suggestions from other people who are engaged with your work. It might feel intimidating to open source a project for the first time, but remember that you're not alone.
 
