@@ -19,6 +19,19 @@ layout: default
 
           {{ content }}
 
+          {% if page.contents %}
+            <div class="mt-6">
+              {% for path in page.contents %}
+                {% assign article = site.articles | where: "path", path | first %}
+
+                <div class="border-top pt-4 my-4">
+                  <h2><a href="{{ article.url }}">{{ article.title }}</a></h2>
+                  {{ article.excerpt }}
+                </div>
+              {% endfor %}
+            </div>
+          {% endif %}
+
           <div class="border mb-0 my-4 my-md-7 p-3 p-md-4">
             <div class="clearfix">
               <div class="float-left">
