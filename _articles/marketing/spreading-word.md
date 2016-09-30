@@ -10,7 +10,7 @@ We'll go through some of the most effective ways that people promote their open 
 * TOC
 {:toc}
 
-## Be able to convey what your project is for (and why it matters)
+## Be able to convey what your project does (and why it matters)
 
 Before you start the hard work of promoting your project, you should be able to explain why your project is different or interesting. What would make someone excited about your work? Answering this question for yourself will make it easier to convince others.
 
@@ -22,7 +22,11 @@ There is no magical formula to building an audience and reputation. Gaining the 
 
 You can help people find and remember your project by pointing them to your project's namespace—a website, Twitter handle, or IRC channel, for example.
 
-Consider creating a website for your project. If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. @adrianholovaty [called a well-designed site](https://news.ycombinator.com/item?id=7531689) "by far the best thing we did with Django in the early days". [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are a few more examples of excellent, comprehensive websites.
+Consider creating a website for your project. If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website.
+
+@adrianholovaty [called a well-designed site](https://news.ycombinator.com/item?id=7531689) "by far the best thing we did with Django in the early days". [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are a few more examples of excellent, comprehensive websites.
+
+![vagrant homepage[(/assets/images/marketing/vagrant_homepage.png)
 
 A website, along with clear documentation and tutorials, makes your project friendlier and easier to navigate. It also suggests that your project is active, which will make your audience feel more comfortable using it. Add tutorials and examples to give people ideas for how to use your project.
 

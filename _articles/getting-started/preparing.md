@@ -31,7 +31,11 @@ An open source license guarantees that others can use, copy, modify, and contrib
 
 Legal work is no fun. The good news is there are many licenses available that you can copy and paste into your repository. It will only take a minute to protect your hard work.
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of these open source licenses will make your GitHub project open source. [MIT](http://choosealicense.com/licenses/mit/), [Apache 2.0](http://choosealicense.com/licenses/apache-2.0/), and [GPLv3](http://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](http://choosealicense.com) to choose from.
+When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+
+![pick a license[(/assets/images/getting-started/repository-license-picker.png)
+
+[MIT](http://choosealicense.com/licenses/mit/), [Apache 2.0](http://choosealicense.com/licenses/apache-2.0/), and [GPLv3](http://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](http://choosealicense.com) to choose from.
 
 If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
 
@@ -67,6 +71,8 @@ The CONTRIBUTING file is a place to clearly state the types of contributions you
 You should reference your CONTRIBUTING file in your README. In your README, give your audience a quick overview of how contributions work, then link to the CONTRIBUTING file for more information.
 
 If you [place your CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+
+![contributing guidelines[(/assets/images/getting-started/Contributing-guidelines.jpg)
 
 ## Establishing a code of conduct
 
