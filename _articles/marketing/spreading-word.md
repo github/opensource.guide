@@ -26,7 +26,7 @@ Consider creating a website for your project. If your project is hosted on GitHu
 
 @adrianholovaty [called a well-designed site](https://news.ycombinator.com/item?id=7531689) "by far the best thing we did with Django in the early days". [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are a few more examples of excellent, comprehensive websites.
 
-![vagrant homepage[(/assets/images/marketing/vagrant_homepage.png)
+![vagrant homepage](/assets/images/marketing/vagrant_homepage.png)
 
 A website, along with clear documentation and tutorials, makes your project friendlier and easier to navigate. It also suggests that your project is active, which will make your audience feel more comfortable using it. Add tutorials and examples to give people ideas for how to use your project.
 

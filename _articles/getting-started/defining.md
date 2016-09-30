@@ -27,7 +27,7 @@ Remember: open source isn't just for software! You can open source everything fr
 
 When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
 
-![create repository[(/assets/images/getting-started/repo-create-name.png)
+![create repository](/assets/images/getting-started/repo-create-name.png)
 
 Public repositories on GitHub are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which gives other people the right to view and fork your repository. But if you want others to use, copy, modify, or contribute back to your project, you need to include an open source license.
 
