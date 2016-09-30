@@ -1,6 +1,5 @@
 ---
-title: Measuring the success of your open source project
-nav: Measuring success
+title: Measuring success
 following: _articles/sustaining.md
 ---
 
