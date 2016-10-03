@@ -20,27 +20,13 @@ layout: default
           {{ content }}
 
           {% if page.following %}
-          <div class="card p-4 my-7">
+          <div class="border-top border-bottom py-4 my-7">
             {% assign next = site.articles | where: "path", page.following | first %}
             <div><small>Up Next:</small></div>
             <div class="text-gamma"><a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma">{{ next.title }}</a></div>
             <p class="mb-0">{{ next.excerpt | strip_html }}</p>
           </div>
           {% endif %}
-
-          <div class="border mb-0 my-4 my-md-7 p-3 p-md-4">
-            <div class="clearfix">
-              <div class="float-left">
-                {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
-              </div>
-              <div class="overflow-hidden">
-                <span class="d-block d-md-inline">This content is open source.</span>
-                <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
-                  Please help improve it.
-                </a>
-              </div>
-            </div>
-          </div>
 
           {% if page.more %}
             <h2>Further reading</h2>
@@ -56,6 +42,22 @@ layout: default
               {% endfor %}
             </ul>
           {% endif %}
+
+          <div class="border-top my-md-7 py-3">
+            <div class="clearfix">
+              <div class="float-left">
+                {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
+              </div>
+              <div class="overflow-hidden">
+                <span class="d-block d-md-inline">This content is open source.</span>
+                <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
+                  Please help improve it.
+                </a>
+              </div>
+            </div>
+          </div>
+
+
 
         </div>
       </article>
