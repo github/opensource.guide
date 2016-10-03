@@ -25,12 +25,15 @@ There is no one right answer to this question. You may find that you have multip
 
 Here are some examples of [reasons](http://ben.balter.com/2015/11/23/why-open-source/) why people open source their work:
 
-* A person wants to show off their portfolio or get feedback
+* A person wants to show off their portfolio or share their work
 * A community wants to find collaborators to shape the project and help it grow
-* A person (or company) wants others to use what they've created
-* A company wants make their code transparent
+* A company wants foster an ecosystem or make their code transparent
 
-If your goal is to learn how to collaborate with others or understand how open source works, you might also want to [contribute to an existing open source project](https://guides.github.com/activities/contributing-to-open-source/), rather than creating your own. There are many active community projects who would love to help you! [First Timers Only](http://www.firsttimersonly.com/) and [Your First PR](https://yourfirstpr.github.io/) are a few resources that can help you get started.
+## Consider contributing to a project
+
+If your goal is to learn how to collaborate with others or understand how open source works, you may want to [contribute to an existing open source project](https://guides.github.com/activities/contributing-to-open-source/) first, rather than creating your own. There are many active community projects who would love to help you! [First Timers Only](http://www.firsttimersonly.com/) and [Your First PR](https://yourfirstpr.github.io/) are a few resources that can help you get started.
+
+If you're representing a company whose goal is to help foster an ecosystem, you may also want to explore contributing to an existing project, rather than starting a new one. Many large projects, such as [Linux](https://github.com/torvalds/linux) or [Django](https://www.djangoproject.com/), have formal governance bodies (like the [Linux Foundation](https://www.linuxfoundation.org/) and the [Django Software Foundation](https://www.djangoproject.com/foundation/), respectively) where you can get involved with an ecosystem.
 
 ## Figure out what you need
 
@@ -40,7 +43,9 @@ For example, if your only goal is to show off your work, you may not want contri
 
 On the other hand, if you are building a community project, you may be actively looking for contributors. In that case, you might want to invest work into clear, detailed documentation and making newcomers feel welcome (like [Sinatra](https://github.com/sinatra/sinatra/blob/master/CONTRIBUTING.md) does).
 
-If you're hoping people will contribute to your project, remember that as your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project. While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+If you're looking for contributions, remember that as your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project. While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+
+If you're part of a company open sourcing a project, make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintainer-related tasks after launch, and how you want to share those tasks with your community. If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
 
 ## Further reading
 
