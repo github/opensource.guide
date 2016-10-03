@@ -25,8 +25,6 @@ When you contribute to this repository you are doing so under the above licenses
 
 Screenshots are used with permissions below.
 
-Included GitHub screenshots are © 2016 GitHub, Inc. and may be reproduced in copies of this handbook.
-
 **Django:**
 
 > Copyright (c) Django Software Foundation and individual contributors.
