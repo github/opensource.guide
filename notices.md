@@ -11,6 +11,7 @@ Open source projects are made available and contributed to under licenses that i
 Running an open source project, like any human endeavor, involves uncertainty and trade-offs. We hope this handbook helps, but it may include mistakes, and can't address every situation. If you have any questions about your project, we encourage you to do your own research, seek out experts, and discuss with your community. If you have any legal questions, you should consult with your own legal counsel before moving forward. If you're at a company, [talk to its legal team](../getting-started/legal/#what-does-my-companys-legal-team-need-to-know).
 
 ## Licenses
+
 Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), which gives you permission to use content for almost any purpose but does not grant you any trademark permissions, so long as you note the license and give credit, such as follows:
 
 > Content based on [github.com/github/open-source-handbook](https://github.com/github/open-source-handbook) used under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
@@ -54,7 +55,6 @@ Screenshots are used with permissions below.
 > ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 > (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 > SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
 
 **Vagrant:**
 
