@@ -30,7 +30,7 @@ more:
   href: http://mozillascience.github.io/working-open-workshop/contributing/
 - title: Code of conduct evaluations
   href: http://geekfeminism.wikia.com/wiki/Code_of_conduct_evaluations
-   from the Geek Feminism wiki
+  from: the Geek Feminism wiki
 - title: Contributor Covenant
   href: http://contributor-covenant.org/
 - title: Django Code of Conduct
