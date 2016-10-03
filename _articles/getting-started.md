@@ -40,6 +40,6 @@ If you're hoping to become a good corporate citizen, ["The legal side of open so
 
 ---
 
-One more thing: we can give you advice on running an open source project, but we're not lawyers. Be sure to read our [disclaimer](../disclaimer/) before you dive in.
+One more thing: we can give you advice on running an open source project, but we're not lawyers. Be sure to read our [disclaimer](../notices) before you dive in.
 
 Ready to go? Let's get started!
