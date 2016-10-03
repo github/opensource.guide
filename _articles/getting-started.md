@@ -32,7 +32,7 @@ For you, the best part about open source is _collaboration_. You're excited to w
 
 If community is important to you, keep an eye out for resources such as ["Building a community"](../marketing/building-community/) and ["Sustaining healthy communities"](../sustaining/healthy-communities/).
 
-## You're a company open sourcing a project
+## You're at a company open sourcing a project
 
 Your company is about to open source a previously internal project. You want to do it without breaking any laws or upsetting anyone who will interact with your project.
 
