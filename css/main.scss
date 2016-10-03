@@ -104,3 +104,15 @@ a.user-mention {
     height: auto;
   }
 }
+
+.anchorjs-link, .anchorjs-link:hover {
+  float: left;
+  margin-left: -1.4em;
+  width: 1.4em;
+  text-decoration: none;
+  color: inherit;
+
+  *:hover > & {
+    opacity: 0.75;
+  }
+}
