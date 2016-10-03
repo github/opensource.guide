@@ -41,8 +41,23 @@ layout: default
               </div>
             </div>
           </div>
-        </div>
 
+          {% if page.more %}
+            <h2>Further reading</h2>
+
+            <ul class="mb-7">
+              {% for ref in page.more %}
+                <li>
+                  <a href="{{ ref.href }}">{{ ref.title }}</a>
+                  {% if ref.description %}{{ ref.description }}{% endif %}
+                  {% if ref.from %} from <em>{{ ref.from }}</em>{% endif %}
+                  {% if ref.by %} by {{ ref.by }}{% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+
+        </div>
       </article>
 
       <footer class="bg-taupe-dark">
