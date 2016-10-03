@@ -4,7 +4,7 @@ nav: Sustaining healthy communities
 following: _articles/sustaining/leadership.md
 ---
 
-Your project's community is extremely powerful. That power can be a blessing or a curse, depending on how you wield it. In this section, we'll look at ways to structure your community to become a force of construction, not destruction.
+Your project's community is extremely powerful. That power can be a blessing or a curse, depending on how you wield it. But there are ways to help your community become a force of construction, not destruction.
 
 If you're starting an open source project today, the vast majority of contributors will be "casual contributors": people who contribute to a project only occasionally. Sometimes these are also called ["drive-through contributors"](https://lwn.net/Articles/688560/).
 

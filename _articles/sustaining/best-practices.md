@@ -8,7 +8,7 @@ We spend plenty of time talking about how to make other people happy. But first 
 
 As you've probably noticed, a major part of maintaining an active open source project is managing other people. While that can be a lot less fun than coding or writing, there are things you can do to make your life easier.
 
-In this section, we'll talk about how to set up your projects in a way that helps you maintain your sanity.
+Let's talk about how to set up your projects in a way that helps you maintain your sanity.
 
 * TOC
 {:toc}

@@ -3,14 +3,14 @@ title: Enforcing your open source project code of conduct
 nav: Enforcing your code of conduct
 ---
 
-Your code of conduct helps create a healthy and constructive social atmosphere for your project's community. Sometimes, despite your best efforts, somebody will do something that violates this code. In this section, we'll talk about how to address negative or harmful behavior in your project's community.
+Your code of conduct helps create a healthy and constructive social atmosphere for your project's community. Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
 
 * TOC
 {:toc}
 
 ## Write down how you'll enforce your code of conduct
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons for this:
+You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
 
 * It demonstrates that you are serious about taking action when it's needed.
 
@@ -38,17 +38,17 @@ After gathering and processing sufficient information, you'll need to decide wha
 
 When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
 
-Here are some ways you might respond to a code of conduct violation:
+There are a few ways you might respond to a code of conduct violation:
 
-* Give the person in question a public warning and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
 
-* Privately reach out to the person in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent first before CCing them.
+* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent first before CCing them.
 
 Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
 
-* Suspend the person in question from the project, enforced through a temporary ban on participating in any aspect of the project
+* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
 
-* Permanently ban the person from the project
+* **Permanently ban** the person from the project
 
 Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
 

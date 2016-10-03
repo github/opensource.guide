@@ -4,11 +4,11 @@ nav: Branding
 following: _articles/getting-started/preparing.md
 ---
 
-Wondering what to name your project? Your project's name, and how you present your work to the world, will impact who uses it.
+Wondering what to name your project? Your project's name, and how you present your work to the world, will help determine who uses it.
 
 Branding may sound like a waste of time. After all, there are plenty of popular open source projects that have never thought about their brand at all.
 
-But branding is more than a flashy logo or catchy project name. It's about how you talk about your project and who you reach with your message. Here are a few things you'll want to think about before you launch.
+But branding is more than a flashy logo or catchy project name. It's about how you talk about your project and who you reach with your message.
 
 * TOC
 {:toc}

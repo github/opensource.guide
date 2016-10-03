@@ -19,7 +19,7 @@ Paid work also enables people from different walks of life to make meaningful co
 
 As open source's popularity increases, availability of funding has not yet caught up to the need. If you are interested in finding funding for your open source work, [there are some options](https://github.com/nayafia/lemonade-stand) available to you. Here are some examples:
 
-* Raise money for your work through crowdfunding campaigns or donations. This works well if you have a strong audience or reputation already.
+* Raise money for your work through crowdfunding campaigns or donations. This strategy works well if you have a strong audience or reputation already.
 
 * Find a company to hire you to work on your idea, or ask your current employer for dedicated work time.
 

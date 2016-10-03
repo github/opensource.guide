@@ -8,7 +8,7 @@ Your project is growing, people are engaged, and you're committed to keeping thi
 
 Maybe you want to recognize a community member who's made significant contributions to your project. Maybe you've gotten into a debate with your community and realized you didn't know how to resolve it.
 
-In this section, we'll answer some commonly asked questions about leadership and governance for open source projects.
+Got questions about leadership and governance for open source projects? We've got answers.
 
 * TOC
 {:toc}
@@ -23,12 +23,10 @@ There are three common governance structures associated with open source project
 
 * **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://nodejs.org/en/foundation/) and [Rust](https://www.rust-lang.org/en-US/).
 
-Which one should you use? It's up to you! Every model has advantages and tradeoffs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, here are some templates:
+Which one should you use? It's up to you! Every model has advantages and tradeoffs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
 
 * [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
-
 * [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-
 * [Node.js's liberal contribution policy](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
 
 ## Do I need governance docs when I launch my project?

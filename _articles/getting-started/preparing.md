@@ -6,7 +6,7 @@ following: _articles/marketing.md
 
 You've written down your goals, you've chosen a name and an idea, and hopefully you've been hard at work building your project. (Haven't started yet? [Create a repository!](https://help.github.com/articles/create-a-repo/))
 
-Feel ready to launch? In this section, we'll talk about what to include in an open source project before sharing it with the world.
+Feel ready to launch? Let's talk about what to include in an open source project before sharing it with the world.
 
 Not sure whether you're ready to launch? The short answer is there is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source. You should open source your project when you feel comfortable having others view, and give feedback on, your work.
 

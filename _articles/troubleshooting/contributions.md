@@ -5,7 +5,7 @@ nav: Handling contributions you don't want to accept
 
 As a maintainer of an open source project, you'll inevitably receive contributions that you don't want to accept. Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
 
-Regardless of the reason, here are some strategies to tactfully handle contributions that don't meet your project's standards.
+Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
 
 * TOC
 {:toc}

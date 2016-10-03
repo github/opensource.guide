@@ -4,9 +4,7 @@ nav: Setting expectations
 following: _articles/getting-started/branding.md
 ---
 
-There are many reasons to open source a project. It's a good idea to figure out yours before going public with your project. What you want to get out of the experience will guide how you manage your project and help you figure out where to say yes (and no!).
-
-In this section, we'll help you think through a few important questions about the goals of your project.
+There are many reasons to open source a project. It's a good idea to figure out yours before going public with your project. What you want to get out of the experience will guide how you manage your project and help you figure out where to say yes (and no!). We'll help you think through a few important questions about the goals of your project.
 
 * TOC
 {:toc}
@@ -23,7 +21,7 @@ Before you start on your project, it helps to briefly check in with yourself and
 
 There is no one right answer to this question. You may find that you have multiple goals for a single project, or that different projects have different goals.
 
-Here are some examples of [reasons](http://ben.balter.com/2015/11/23/why-open-source/) why people open source their work:
+A few [reasons why](http://ben.balter.com/2015/11/23/why-open-source/) people open source their work include:
 
 * A person wants to show off their portfolio or share their work
 * A community wants to find collaborators to shape the project and help it grow

@@ -4,7 +4,7 @@ nav: Building a community
 following: _articles/marketing/measuring.md
 ---
 
-You've launched your project, you're spreading the word, and people are checking out your project. Awesome! Now, how do you get them to stick around? In this section, we'll discuss ways to encourage people to use, contribute to, and evangelize your project.
+You've launched your project, you're spreading the word, and people are checking out your project. Awesome! Now, how do you get them to stick around? There are all sorts of ways to encourage people to use, contribute to, and evangelize your project.
 
 * TOC
 {:toc}
