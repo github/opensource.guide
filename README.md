@@ -40,6 +40,8 @@ This means you can use the code and content in this repository except for GitHub
 
 When you contribute to this repository you are doing so under the above licenses.
 
+Screenshots in the handbook are used according to [various permissions](disclaimer.md#permissions).
+
 ## Acknowledgments
 
 The initial release of the Handbook was authored by **@nayafia, @bkeepers, @stephbwills,** and **@mlinksva**.
@@ -47,4 +49,4 @@ The initial release of the Handbook was authored by **@nayafia, @bkeepers, @step
 Thanks to **@aitchabee, @benbalter, @brettcannon, @coralineada, @dmleong, @ericholscher, @gr2m, @janl, @jfrazelle, @joshsimmons, @kytrinyx, @lee-dohm, @mikeal, @mikemcquaid, @nathansobo, @nsqe, @orta, @parkr, @shazow, @steveklabnik,** and **@wooorm** for lending their valuable input and expertise leading up to the initial release, and to **@sophshep** for designing the Handbook.
 
 ## Disclaimer
-While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](disclaimer.md) before diving in.
+While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.
