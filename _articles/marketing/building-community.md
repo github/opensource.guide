@@ -1,6 +1,26 @@
 ---
 title: Building a community
 following: _articles/marketing/measuring.md
+more:
+- title: Growing the community around your open-source project
+  href: http://radek.io/2015/10/12/marketing-for-open-source-projects-5/
+  by: "@pazdera"
+- title: Welcoming Communities
+  href: http://hood.ie/blog/welcoming-communities.html
+  by: "@gr2m"
+- title: Building Popular Projects
+  href: https://ashfurrow.com/blog/building-popular-projects/
+  by: "@ashfurrow"
+- title: What makes a good community?
+  href: http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/
+  by: "@sarahsharp"
+- title: Lowering the barriers
+  href: https://the-pastry-box-project.net/charlotte-spencer/2015-september-16
+  by: "@charlotteis"
+- title: First Timers Only
+  href: https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.f0i87x7us
+  by: "@kentcdodds"
+
 ---
 
 You've launched your project, you're spreading the word, and people are checking out your project. Awesome! Now, how do you get them to stick around? In this section, we'll discuss ways to encourage people to use, contribute to, and evangelize your project.
@@ -63,12 +83,3 @@ For casual or first-time contributors, be open-minded about the types of contrib
 If there's a contribution you disagree with, thank them for their idea and [explain why](../../troubleshooting/contributions) it doesn't fit into the scope of the project. If there are certain types of contributions that you won't accept, explain so in your CONTRIBUTING.md file.
 
 You're doing great so far! Now that you're promoting your project and growing a community, you might be wondering whether you're doing it right. In the next section, we'll talk about metrics to measure your project's success and how to track them.
-
-## Further reading
-
-* [Growing the community around your open-source project](http://radek.io/2015/10/12/marketing-for-open-source-projects-5/) by @pazdera
-* [Welcoming Communities](http://hood.ie/blog/welcoming-communities.html) by @gr2m
-* [Building Popular Projects](https://ashfurrow.com/blog/building-popular-projects/) by @ashfurrow
-* [What makes a good community?](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/) by @sarahsharp
-* [Lowering the barriers](https://the-pastry-box-project.net/charlotte-spencer/2015-september-16) by @charlotteis
-* [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.f0i87x7us) by @kentcdodds

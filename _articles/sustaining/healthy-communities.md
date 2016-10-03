@@ -1,6 +1,26 @@
 ---
 title: Sustaining healthy communities
 following: _articles/sustaining/leadership.md
+more:
+- title: Growing a contributor base in modern open source
+  href: https://opensource.com/life/16/5/growing-contributor-base-modern-open-source
+  by: "@mikeal"
+- title: Sustainable Open Source
+  href: http://writing.jan.io/2015/11/20/sustainable-open-source.html
+  by: "@janl"
+- title: Wharton's Adam Grant on the key to professional success
+  href: http://www.mckinsey.com/business-functions/organization/our-insights/whartons-adam-grant-on-the-key-to-professional-success
+- title: How the Moya org handles contributions
+  href: https://github.com/Moya/contributors
+- title: Rust Governance
+  href: https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md
+- title: How to use Github issues to attract new contributors
+  href: http://radek.io/2015/08/24/github-issues/
+  by: "@pazdera"
+- title: Difficult People
+  href: http://producingoss.com/en/producingoss.html#difficult-people
+  from: _Producing Open Source Software
+  by: "@kfogel"
 ---
 
 Your project's community is extremely powerful. That power can be a blessing or a curse, depending on how you wield it. In this section, we'll look at ways to structure your community to become a force of construction, not destruction.
@@ -61,13 +81,3 @@ See if you can find ways to give credit to your community as much as possible. H
 The bigger your project, and the bigger your community, the easier it is to find help. The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. While you may not always find someone to answer the call, putting a Batsignal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
 
 As you build a community of engaged and thoughtful people, you may start wondering how to formalize their ownership in your project. In the next section, we'll cover some commonly asked questions around leadership and governance.
-
-## Further reading
-
-* [Growing a contributor base in modern open source](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source) by @mikeal
-* [Sustainable Open Source](http://writing.jan.io/2015/11/20/sustainable-open-source.html) by @janl
-* [Wharton's Adam Grant on the key to professional success](http://www.mckinsey.com/business-functions/organization/our-insights/whartons-adam-grant-on-the-key-to-professional-success)
-* [How the Moya org handles contributions](https://github.com/Moya/contributors)
-* [Rust Governance](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
-* [How to use Github issues to attract new contributors](http://radek.io/2015/08/24/github-issues/) by @pazdera
-* [Difficult People](http://producingoss.com/en/producingoss.html#difficult-people) from _Producing Open Source Software_ by @kfogel

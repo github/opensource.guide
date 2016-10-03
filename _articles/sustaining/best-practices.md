@@ -1,6 +1,25 @@
 ---
 title: Best practices for maintainers
 following: _articles/sustaining/healthy-communities.md
+more:
+- title: Be Cordial or Be on Your Way
+  href: http://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way
+  by: "@kennethreitz"
+- title: A Plea for Better Open Source Etiquette
+  href: https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/
+  by: "@benilovj"
+- title: How to be an open source gardener
+  href: http://words.steveklabnik.com/how-to-be-an-open-source-gardener
+  by: "@steveklabnik"
+- title: Kindly Closing Pull Requests
+  href: https://github.com/blog/2124-kindly-closing-pull-requests
+  by: "@MikeMcQuaid"
+- title: My condolences, you're now the maintainer of a popular open source project
+  href: https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/
+  by: "@danielbachhuber"
+- title: Handling Large OSS Projects Defensively
+  href: http://artsy.github.io/blog/2016/07/03/handling-big-projects/
+  by: "@orta"
 ---
 
 We spend plenty of time talking about how to make other people happy. But first and foremost, make yourself happy. Maintainer happiness is a non-negotiable requirement for the survival of any open source project.
@@ -96,12 +115,3 @@ If you're not sure which tools to use, sometimes it helps to look at what other 
 You don't have to do everything yourself. As your project's community grows, you may find that others are making substantial contributions to your project. Recognizing their contributions explicitly and [formalizing their role](../leadership/#how-do-i-formalize-leadership-roles-in-my-project) in your project can help reduce your burden. Make it clear early on in your CONTRIBUTING file how others can grow into leadership roles if they wish.
 
 Hopefully, you're feeling more empowered to say no, set and enforce rules, and take breaks when you need them. In the next section, we'll talk about how you can leverage your community to grow a sustainable project.
-
-## Further reading
-
-* [Be Cordial or Be on Your Way](http://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way) by @kennethreitz
-* [A Plea for Better Open Source Etiquette](https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/) by @benilovj
-* [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener) by @steveklabnik
-* [Kindly Closing Pull Requests](https://github.com/blog/2124-kindly-closing-pull-requests) by @MikeMcQuaid
-* [My condolences, you're now the maintainer of a popular open source project](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/) by @danielbachhuber
-* [Handling Large OSS Projects Defensively](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) by @orta
