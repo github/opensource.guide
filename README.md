@@ -40,6 +40,8 @@ This means you can use the code and content in this repository except for GitHub
 
 When you contribute to this repository you are doing so under the above licenses.
 
+Screenshots in the handbook are used according to [various permissions](disclaimer.md#permissions).
+
 ## Acknowledgments
 
 The initial release of the Handbook was authored by **@nayafia, @bkeepers, @stephbwills,** and **@mlinksva**.
