@@ -34,7 +34,7 @@ Which one should you use? It's up to you! Every model has advantages and tradeof
 
 There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
 
-Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch. And if you're a company launching an open source project, you may also want to explain anything particular to how your company will (or won't!) be involved with the project.
+Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch. And if you're at a company launching an open source project, you may also want to explain anything particular to how your company will (or won't!) be involved with the project.
 
 ## When should I give someone commit access?
 
