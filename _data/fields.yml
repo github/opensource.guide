@@ -8,3 +8,6 @@ contents:
 
 following:
   type: String
+
+more:
+  type: Array
