@@ -52,6 +52,10 @@ Sometimes, someone who uses your project really wants a solution that you simply
 
 If your project has other regular contributors, don't be afraid to ask them for help in reducing your workload. For example, Jekyll is experimenting with the idea of [affinity team captains](https://github.com/jekyll/jekyll/pull/5273) to triage issues and review pull requests. Affinity teams help distribute the work, while captains ensure that someone is responsible and decisions are made efficiently.
 
+If you're looking for others to pitch in, start by asking around. @vishnubob added a "Help Needed" section to the README of his project, [wait-for-it](https://github.com/vishnubob/wait-for-it#help-needed), once the work became more than he could handle:
+
+> Hi there! I wrote wait-for-it in order to help me orchestrate containers I operate at my day job. I thought it was a neat little script, so I published it. I assumed I would be its only user, but that's not what happened! wait-for-it has received more stars then all of my other public repositories put together. I had no idea this tool would solicit such an audience, and I was equally unprepared to carve out the time required to address my user's issues and patches. I would like to solicit a volunteer from the community who would be willing to be a co-maintainer of this repository.
+
 If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you. If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's a compliment that so many people want your project to live on!
 
 Further reading:
