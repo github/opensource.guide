@@ -19,6 +19,15 @@ layout: default
 
           {{ content }}
 
+          {% if page.following %}
+          <div class="card p-4 my-7">
+            {% assign next = site.articles | where: "path", page.following | first %}
+            <div><small>Up Next:</small></div>
+            <div class="text-gamma"><a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma">{{ next.title }}</a></div>
+            <p class="mb-0">{{ next.excerpt | strip_html }}</p>
+          </div>
+          {% endif %}
+
           <div class="border mb-0 my-4 my-md-7 p-3 p-md-4">
             <div class="clearfix">
               <div class="float-left">
@@ -30,26 +39,6 @@ layout: default
                   Please help improve it.
                 </a>
               </div>
-            </div>
-          </div>
-
-          {% assign previous = site.articles | where: "following", page.path | first %}
-          <div class="clearfix py-3 py-md-6">
-            <div class="col-md-6 mb-3">
-              {% if previous == null %}
-                <span class="d-block">&nbsp;</span>
-              {% endif %}
-              {% if previous %}
-                <p class="mb-1">Previous</p>
-                <a href="{{ previous.url | prepend: site.baseurl }}" class="text-gamma">{{ previous.title }}</a>
-              {% endif %}
-            </div>
-            <div class="col-md-6 text-md-right">
-              {% if page.following %}
-                {% assign next = site.articles | where: "path", page.following | first %}
-                <p class="mb-1">Next</p>
-                <a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma">{{ next.title }}</a>
-              {% endif %}
             </div>
           </div>
         </div>
