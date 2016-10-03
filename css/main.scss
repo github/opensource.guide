@@ -11,17 +11,6 @@ a.user-mention {
   color: $black;
 }
 
-#further-reading {
-  border-top: $border;
-  margin-top: $spacer4;
-  padding-top: $spacer4;
-
-  @include breakpoint(md) {
-    margin-top: $spacer6;
-    padding-top: $spacer5;
-  }
-}
-
 .footnotes {
   margin-top: $spacer4;
 
