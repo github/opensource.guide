@@ -8,11 +8,27 @@ So you're interested in making your project open source? Congratulations! 🎉 T
 
 Let's start by talking about what it means to open source your work.
 
+## What is open source?
+When a project is "open source", that means that anybody can view, use, modify, and distribute your project for any purpose.
+
+For example, imagine you are a designer working on a website for a paid client. You're searching for the right font to use.
+
+If you wanted to use [Arial](https://www.microsoft.com/typography/fonts/font.aspx?FMID=1909), a popular closed source font created by Microsoft, you would need to purchase a license before using it in your project. There are various licenses available that specify what you can do with the font and whether it's for personal or commercial use. You cannot view Arial's font files, and you cannot contribute changes to the Arial font.
+
+On the other hand, imagine you wanted to use [Arvo](https://fonts.google.com/specimen/Arvo?ref=marketopia), an open source font created by Google. You are free to download the font from Google and use it for any purpose, personal or commercial. You can [view the files](https://github.com/google/fonts/tree/master/ofl/arvo) that make up the Arvo font, and if you wanted to contribute back to the project, you could open an issue or pull request on Google's [font repository](https://github.com/google/fonts).
+
+Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly, and because the production process is open to the public.
+
+## Does open source mean free of charge?
+One of open source's biggest draws is that it does not cost money, but that is just a byproduct of its value.
+
+Open source is defined by its license. There are many open source licenses, but all of them grant permission for anyone to use, modify, and share licensed software for any purpose, subject to certain conditions.
+
+When you "open source" a project, it means you've added these [legal protections and freedoms](https://opensource.org/osd) that allow others to interact with your project.
+
+Because an open source project lets anyone view, use, and distribute the project, they tend to be free of cost. If the project cost money to use, anyone could legally make a copy and use the free version instead. That's why most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+
 ## Open source is more than just a license
-
-When you "open source" a project, it means you've added [a certain set](https://opensource.org/osd) of legal protections and freedoms that allow others to interact with your project.
-
-Open source licenses grant permission to everyone to use, modify, and share licensed software for any purpose, subject to certain conditions, depending on the license.
 
 That's the legal side of it. In terms of culture, open sourcing a project has come to mean much more. There are many reasons why a person or organization might want to open source a project. Some examples include:
 
@@ -43,3 +59,4 @@ In the next section, we'll help you figure out your goals around open sourcing y
 ## Further reading
 
 * [Why open source](http://ben.balter.com/2015/11/23/why-open-source/) by @benbalter
+* [The Open Source Definition](https://opensource.org/osd)
