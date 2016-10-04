@@ -22,7 +22,7 @@ more:
 
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about.
 
-Thankfully, you don't have to start from scratch. This section will make sure you've got all your legal needs covered. Before you dive in, be sure to read our [disclaimer](../../disclaimer/).
+Thankfully, you don't have to start from scratch. This section will make sure you've got all your legal needs covered. Before you dive in, be sure to read our [disclaimer](../../notices/).
 
 * TOC
 {:toc}
