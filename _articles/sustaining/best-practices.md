@@ -1,6 +1,5 @@
 ---
-title: Best practices for open source project maintenance
-nav: Best practices for maintainers
+title: Best practices for maintainers
 following: _articles/sustaining/healthy-communities.md
 ---
 
@@ -60,6 +59,12 @@ Defining your project's scope makes closing pull requests with "scope creep" eas
 If the thought of saying no terrifies you, you're not alone. As @jfrazelle [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
 
 > I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+
+The more often you practice saying no, the easier it becomes. Promise.
+
+## Keep communication public
+
+Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
 
 The more often you practice saying no, the easier it becomes. Promise.
 

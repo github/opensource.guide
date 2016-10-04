@@ -1,6 +1,5 @@
 ---
-title: Open source project burnout
-nav: Feeling guilty or burned out
+title: Feeling guilty or burned out
 ---
 
 Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty. Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.

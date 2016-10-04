@@ -1,6 +1,5 @@
 ---
-title: Promoting your open source project
-nav: Spreading the word
+title: Spreading the word
 following: _articles/marketing/building-community.md
 ---
 
@@ -21,7 +20,15 @@ If you're hoping people will use and contribute to your project, remember that p
 
 You can help people find and remember your project by pointing them to your project's namespace—a website, Twitter handle, or IRC channel, for example.
 
+<<<<<<< ours
+Consider creating a website for your project. If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website.
+
+@adrianholovaty [called a well-designed site](https://news.ycombinator.com/item?id=7531689) "by far the best thing we did with Django in the early days". [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are a few more examples of excellent, comprehensive websites.
+
+![vagrant homepage](/assets/images/marketing/vagrant_homepage.png)
+=======
 **Consider creating a website for your project.** [According to @adrianholovaty](https://news.ycombinator.com/item?id=7531689), a website was _"by far the best thing we did with Django in the early days"_. A website makes your project friendlier and easier to navigate, especially paired with clear documentation and tutorials. It also suggests that your project is active, which will make your audience feel more comfortable using it. Use examples to give people ideas for how to use your project.
+>>>>>>> theirs
 
 If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are a few more examples of excellent, comprehensive websites.
 

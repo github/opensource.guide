@@ -1,6 +1,5 @@
 ---
-title: Enforcing your open source project code of conduct
-nav: Enforcing your code of conduct
+title: Enforcing your code of conduct
 ---
 
 Your code of conduct helps create a healthy and constructive social atmosphere for your project's community. Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.

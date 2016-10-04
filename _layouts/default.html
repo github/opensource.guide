@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body class="bg-taupe">
+  <body>
     <div class="site-wrapper">
       <div class="site-canvas">
         <div class="site-canvas-mask"></div>
@@ -16,10 +16,10 @@
                   </div>
                 </div>
                 <div class="d-table-cell v-align-middle text-white">
-                  <h3 class="m-0 my-md-3 pr-3 d-sm-inline-block">
+                  <h1 class="m-0 my-md-3 pr-3 d-sm-inline-block text-gamma">
                     <a href='{{ "/" | prepend: site.baseurl }}' class="link-unstyled">Open Source Handbook</a>
-                  </h3>
-                  <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}" class="text-small">
+                  </h1>
+                  <a href="https://github.com/{{ site.github.repository_nwo }}" class="text-small">
                     View on GitHub {% octicon arrow-right height:20 class:"v-align-middle ml-1 fill-white" aria-label:hi %}
                   </a>
                 </div>
@@ -34,5 +34,8 @@
         </main>
       </div>
     </div>
+
+    <script src="{{ site.baseurl }}/js/vendor/anchor-js/anchor.min.js"></script>
+    <script>anchors.add('#content h2, #content h3, #content h4, #content h5');</script>
   </body>
 </html>
