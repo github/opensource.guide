@@ -26,7 +26,7 @@ If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.gi
 
 ![vagrant homepage](/assets/images/marketing/vagrant_homepage.png)
 
-**A Twitter handle or IRC channel is like a calling card** for your project. It gives your project's community a place to convene. If you don't wish to set up these channels for your project yet, promote your own Twitter or GitHub handle in everything you do. For example, make sure it is included in your bio or slides if you speak at a meetup or event. That way, people know how to reach you or follow your work.
+**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. They also give your project's growing community a place to convene. If you don't wish to set up these channels for your project yet, promote your own Twitter or GitHub handle in everything you do. For example, make sure it is included in your bio or slides if you speak at a meetup or event. That way, people know how to reach you or follow your work.
 
 Now that you have a marketing message for your project, and easy ways for people to reach you, let's get out there and talk to your audience!
 
