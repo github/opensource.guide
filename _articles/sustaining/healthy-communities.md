@@ -23,7 +23,7 @@ Do your best to adopt a zero-tolerance policy towards these types of people. If 
 
 Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../../troubleshooting/conduct/). Your code of conduct can be a constructive guide for these conversations.
+When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../../troubleshooting/conduct/). Your [code of conduct](../../getting-started/preparing/#establishing-a-code-of-conduct) can be a constructive guide for these conversations.
 
 ## Meet contributors where they're at
 
@@ -47,11 +47,11 @@ People are excited to contribute to projects when they feel as sense of ownershi
 
 > Understanding motivations, encouraging ownership and accommodating multiple viewpoints are vital parts of anyone who wants to make a project bigger than themselves. There [are lots of times](https://github.com/danger/danger/graphs/contributors) when I'm not the lead developer on Danger.
 
-See if you can find ways to give credit to your community as much as possible. Here are some ideas:
+See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
 
 * Resist fixing easy (non-critical) bugs. Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time.
 
-* Start a CONTRIBUTORS file in your project that lists everyone who's contributed to your project. Here's an example that @shazow made for his project, [urllib3](https://github.com/shazow/urllib3/blob/master/CONTRIBUTORS.txt).
+* Start a CONTRIBUTORS or AUTHORS file in your project that lists everyone who's contributed to your project. Here's an example that @shazow made for his project, [urllib3](https://github.com/shazow/urllib3/blob/master/CONTRIBUTORS.txt).
 
 * If you've got a sizeable community, consider sending out a newsletter or writing a blog post that calls out contributors and thanks them. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
 

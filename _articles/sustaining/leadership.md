@@ -4,9 +4,9 @@ nav: Leadership & governance
 following: _articles/troubleshooting.md
 ---
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you're probably starting to wonder about governance.
+Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you're probably starting to wonder how to formalize your processes.
 
-Maybe you want to recognize a community member who's made significant contributions to your project. Maybe you've gotten into a debate with your community and realized you didn't know how to resolve it.
+Maybe you want to give commit access to a community member who's made significant contributions. Maybe you've gotten into a debate with your community and realized you didn't know how to resolve it.
 
 Got questions about leadership and governance for open source projects? We've got answers.
 
@@ -67,7 +67,7 @@ If your project is bigger, you may have a "core team" of maintainers, or even su
 
 Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md. Tools like [vossibility-stack](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
+Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md. Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
 
 Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization. [GitHub Organizations](https://github.com/blog/674-introducing-organizations) make it easier to manage permissions and protect your project's legacy.
 
