@@ -19,7 +19,7 @@ The second reason is for you. If you don't give people a public place to talk ab
 
 If your project is on GitHub, public communication can be as simple as directing people to use [GitHub Issues](https://guides.github.com/features/issues/) instead of emailing you directly. You could also set up a mailing list (such as [Google Groups](https://groups.google.com/forum/#!overview)) or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
 
-Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don’t want to use your personal communication channels, set up a separate email address for this purpose.
+Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal communication channels, set up a separate email address for this purpose.
 
 ## Make people feel welcome
 
