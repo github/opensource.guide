@@ -10,13 +10,13 @@ Let's start by talking about what it means to open source your work.
 
 ## What is open source?
 
-When a project is "open source", that means that anybody can view, use, modify, and distribute your project for any purpose.
+When a project is "open source", that means that **anybody can view, use, modify, and distribute your project for any purpose.**
 
-For example, imagine you are a designer working on a website for a paid client. You're searching for the right font to use.
+For example, imagine you want to make a website. You will need a programming language to write it.
 
-If you wanted to use [Arial](https://www.microsoft.com/typography/fonts/font.aspx?FMID=1909), a popular closed source font created by Microsoft, you would need to purchase a license before using it in your project. There are various licenses available that specify what you can do with the font and whether it's for personal or commercial use. You cannot view Arial's font files, and you cannot contribute changes to the Arial font.
+Many commonly used programming languages, such as [Ruby](https://github.com/ruby/ruby), are open source. Because they're open source, you're free to download and use them as you wish. You can use Ruby to teach classes, or build a website that makes money. You can view the code that powers Ruby, so you know exactly what you're putting into your website. You can even contribute changes back to the Ruby language, or modify it for your own purposes.
 
-On the other hand, imagine you wanted to use [Arvo](https://fonts.google.com/specimen/Arvo?ref=marketopia), an open source font created by Google. You are free to download the font from Google and use it for any purpose, personal or commercial. You can [view the files](https://github.com/google/fonts/tree/master/ofl/arvo) that make up the Arvo font, and if you wanted to contribute back to the project, you could open an issue or pull request on Google's [font repository](https://github.com/google/fonts).
+By comparison, if you were to use a closed source language to build your website, you couldn't change or inspect the code. You might have to pay to use it, or be prevented from using it for commercial purposes.
 
 Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly, and because the production process is open to the public.
 
@@ -26,7 +26,7 @@ One of open source's biggest draws is that it does not cost money, but that is j
 
 Open source is defined by its license. There are many open source licenses, but all of them grant permission for anyone to use, modify, and share licensed software for any purpose, subject to certain conditions.
 
-When you "open source" a project, it means you've added these [legal protections and freedoms](https://opensource.org/osd) that allow others to interact with your project.
+When you "open source" a project, it means you've added the above [legal protections and freedoms](https://opensource.org/osd) that allow others to interact with your project.
 
 Because an open source project lets anyone view, use, and distribute the project, they tend to be free of cost. If the project cost money to use, anyone could legally make a copy and use the free version instead. That's why most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
 
