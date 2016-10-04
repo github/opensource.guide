@@ -9,6 +9,7 @@ So you're interested in making your project open source? Congratulations! 🎉 T
 Let's start by talking about what it means to open source your work.
 
 ## What is open source?
+
 When a project is "open source", that means that anybody can view, use, modify, and distribute your project for any purpose.
 
 For example, imagine you are a designer working on a website for a paid client. You're searching for the right font to use.
@@ -20,6 +21,7 @@ On the other hand, imagine you wanted to use [Arvo](https://fonts.google.com/spe
 Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly, and because the production process is open to the public.
 
 ## Does open source mean free of charge?
+
 One of open source's biggest draws is that it does not cost money, but that is just a byproduct of its value.
 
 Open source is defined by its license. There are many open source licenses, but all of them grant permission for anyone to use, modify, and share licensed software for any purpose, subject to certain conditions.
