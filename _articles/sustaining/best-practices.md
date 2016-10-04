@@ -114,4 +114,4 @@ If you're not sure which tools to use, sometimes it helps to look at what other 
 
 You don't have to do everything yourself. As your project's community grows, you may find that others are making substantial contributions to your project. Recognizing their contributions explicitly and [formalizing their role](../leadership/#how-do-i-formalize-leadership-roles-in-my-project) in your project can help reduce your burden. Make it clear early on in your CONTRIBUTING file how others can grow into leadership roles if they wish.
 
-Hopefully, you're feeling more empowered to say no, set and enforce rules, and take breaks when you need them. In the next section, we'll talk about how you can leverage your community to grow a sustainable project.
+Hopefully, you're feeling more empowered to say no, set and enforce rules, and take breaks when you need them.

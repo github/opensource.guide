@@ -79,5 +79,3 @@ See if you can find ways to give credit to your community as much as possible. H
 * **Consider giving every contributor commit access.** @felixge found that this made people [more excited to polish their patches](http://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
 
 The bigger your project, and the bigger your community, the easier it is to find help. The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. While you may not always find someone to answer the call, putting a Batsignal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
-
-As you build a community of engaged and thoughtful people, you may start wondering how to formalize their ownership in your project. In the next section, we'll cover some commonly asked questions around leadership and governance.

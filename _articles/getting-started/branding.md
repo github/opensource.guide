@@ -12,7 +12,7 @@ more:
 - title: WIPO Global Brand Database
   href: http://www.wipo.int/branddb/en/
   description: to check for trademark conflicts
-  
+
 ---
 
 Wondering what to name your project? Let's talk about your project's brand.
@@ -57,5 +57,3 @@ Using warm, inclusive language (such as "them", even when referring to the singl
 Beyond how you write words, your coding style may also become part of your project's brand. For example, [Angular](https://github.com/johnpapa/angular-styleguide) and [jQuery](http://contribute.jquery.org/style-guide/js/) are two projects with rigorous coding styles and guidelines.
 
 It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing (and coding) style might attract (or not attract) different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
-
-We're almost there! Next, we'll walk you through a few components that every open source project should include before launch.

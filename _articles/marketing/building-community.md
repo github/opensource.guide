@@ -81,5 +81,3 @@ Start by making it easy for someone to use your project. Tutorials, clear code e
 For casual or first-time contributors, be open-minded about the types of contributions you'll accept. Your pool of contributors includes much more than just developers. Many contributors start with a bug report or small fix. A new contributor might write a tutorial or improve your project's documentation, because newer users notice things that more experienced users might not. Let people help how they want to help.
 
 If there's a contribution you disagree with, thank them for their idea and [explain why](../../troubleshooting/contributions) it doesn't fit into the scope of the project. If there are certain types of contributions that you won't accept, explain so in your CONTRIBUTING.md file.
-
-You're doing great so far! Now that you're promoting your project and growing a community, you might be wondering whether you're doing it right. In the next section, we'll talk about metrics to measure your project's success and how to track them.

@@ -72,5 +72,3 @@ If you're [new to public speaking](http://speaking.io/), start by finding a loca
 When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world. Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference beforehand to tailor your talk to its attendees and increase your chances of getting accepted. You can often get a sense of a conference's audience by looking at its speakers.
 
 Spreading the word is an important step in growing the popularity of your project. It can be scary to share your creativity with the world, so give yourself a high five for making it this far! 👌 💯 🙌
-
-In the next section, we'll talk about how to retain those early enthusiasts and grow an engaged community around your project.
