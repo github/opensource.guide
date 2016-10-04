@@ -56,6 +56,7 @@ Spreading the word is an important step in growing the popularity of your projec
 In the next section, we'll talk about how to retain those early enthusiasts and grow an engaged community around your project.
 
 ## Build your reputation
+
 The best way to invite people to share and contribute to your project is to share and contribute to their projects. Helping newcomers, sharing resources, and making thoughtful contributions to others' work will help you build a positive reputation. Then, people will have context for your work and be more likely to pay attention and share what you're doing.
 
 It's never too early, or too late, to start! Even if you've launched your own project already, continue looking for find ways to be helpful to others. There is no magical formula to building an audience and reputation. Gaining the trust and respect of others takes time.
