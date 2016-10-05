@@ -16,8 +16,6 @@ more:
 - title: Your First PR
   href: https://yourfirstpr.github.io/
   by: "@charlotteis"
-- title: Personas and Pathways for Growing Communities
-  href: http://mozillascience.github.io/working-open-workshop/personas_pathways/
 - title: Readme Driven Development
   href: http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
   by: "@mojombo"
