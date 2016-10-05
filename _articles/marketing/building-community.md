@@ -1,6 +1,25 @@
 ---
 title: Building a community
 following: _articles/marketing/measuring.md
+more:
+- title: Growing the community around your open-source project
+  href: http://radek.io/2015/10/12/marketing-for-open-source-projects-5/
+  by: "@pazdera"
+- title: Welcoming Communities
+  href: http://hood.ie/blog/welcoming-communities.html
+  by: "@gr2m"
+- title: Building Popular Projects
+  href: https://ashfurrow.com/blog/building-popular-projects/
+  by: "@ashfurrow"
+- title: What makes a good community?
+  href: http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/
+  by: "@sarahsharp"
+- title: Lowering the barriers
+  href: https://the-pastry-box-project.net/charlotte-spencer/2015-september-16
+  by: "@charlotteis"
+- title: First Timers Only
+  href: https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.f0i87x7us
+  by: "@kentcdodds"
 ---
 
 You've launched your project, you're spreading the word, and people are checking out your project. Awesome! Now, how do you get them to stick around? In this section, we'll discuss ways to encourage people to use, contribute to, and evangelize your project.
@@ -30,7 +49,7 @@ You don't have to overdo it, or put others' needs in front of your own. Be hones
 
 When you start an open source project, it may feel natural to keep your ideas and workflows private. But open source projects thrive when you document your process in public. That way, more people can participate at every step of the way. Not only will they know _what_ to contribute, but they'll also know _how_. You might get help on something you didn't even know you needed.
 
-Documenting your open source project means more than just technical documentation. Be transparent about your project's roadmap, your timeline for completing new features, the types of contributions you're looking for, how contributions are reviewed and accepted, or why you made certain decisions. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public. For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+Documenting your open source project means more than just technical documentation. Be transparent about your project's roadmap, your timeline for completing new features, the types of contributions you're looking for, how contributions are reviewed and accepted, or why you made certain decisions. If there are certain types of contributions that you won't accept, explain so in your CONTRIBUTING.md file. If you get frequent questions or notice users running into the same problem, document the answers in the README. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public. For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
 
 Writing things down isn't just for meetings and technical documentation, either. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
 
@@ -60,15 +79,4 @@ Start by making it easy for someone to use your project. Tutorials, clear code e
 
 For casual or first-time contributors, be open-minded about the types of contributions you'll accept. Your pool of contributors includes much more than just developers. Many contributors start with a bug report or small fix. A new contributor might write a tutorial or improve your project's documentation, because newer users notice things that more experienced users might not. Let people help how they want to help.
 
-If there's a contribution you disagree with, thank them for their idea and [explain why](../../troubleshooting/contributions) it doesn't fit into the scope of the project. If there are certain types of contributions that you won't accept, explain so in your CONTRIBUTING.md file.
-
-You're doing great so far! Now that you're promoting your project and growing a community, you might be wondering whether you're doing it right. In the next section, we'll talk about metrics to measure your project's success and how to track them.
-
-## Further reading
-
-* [Growing the community around your open-source project](http://radek.io/2015/10/12/marketing-for-open-source-projects-5/) by @pazdera
-* [Welcoming Communities](http://hood.ie/blog/welcoming-communities.html) by @gr2m
-* [Building Popular Projects](https://ashfurrow.com/blog/building-popular-projects/) by @ashfurrow
-* [What makes a good community?](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/) by @sarahsharp
-* [Lowering the barriers](https://the-pastry-box-project.net/charlotte-spencer/2015-september-16) by @charlotteis
-* [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.f0i87x7us) by @kentcdodds
+If there's a contribution you disagree with, thank them for their idea and [explain why](../../troubleshooting/contributions/) it doesn't fit into the scope of the project. Link to existing documentation on the types of contributions you are looking for and encourage them to stay involved.

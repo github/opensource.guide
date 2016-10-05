@@ -1,5 +1,15 @@
 ---
 title: Feeling guilty or burned out
+more:
+- title: Leadership, Guilt, and Pull Requests
+  href: http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/
+  by: "@progrium"
+- title: Why I Haven't Fixed Your Issue Yet
+  href: https://archive.is/j8zAk
+  by: "@michaelbromley"
+- title: The Open Source Maintainer's Dilemma
+  href: https://publicobject.com/2016/05/03/the-open-source-maintainers-dilemma/
+  by: "@swankjesse"
 ---
 
 Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty. Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
@@ -52,9 +62,3 @@ Sometimes, someone who uses your project really wants a solution that you simply
 If your project has other regular contributors, don't be afraid to ask them for help in reducing your workload. For example, Jekyll is experimenting with the idea of [affinity team captains](https://github.com/jekyll/jekyll/pull/5273) to triage issues and review pull requests. Affinity teams help distribute the work, while captains ensure that someone is responsible and decisions are made efficiently.
 
 If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you. If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's a compliment that so many people want your project to live on!
-
-Further reading:
-
-* [Leadership, Guilt, and Pull Requests](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) by @progrium
-* [Why I Haven't Fixed Your Issue Yet](https://archive.is/j8zAk) by @michaelbromley
-* [The Open Source Maintainer's Dilemma](https://publicobject.com/2016/05/03/the-open-source-maintainers-dilemma/) by @swankjesse
