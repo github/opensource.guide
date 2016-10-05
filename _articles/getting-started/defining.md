@@ -38,5 +38,3 @@ It's easy to add a license. You'll be [asked to add one](https://help.github.com
 ---
 
 When you open source a project, you open yourself to feedback and suggestions from other people who are engaged with your work. It might feel intimidating to open source a project for the first time, but remember that you're not alone.
-
-In the next section, we'll help you figure out your goals around open sourcing your project. Understanding your goals beforehand will make it easier to manage your and others' expectations later on.

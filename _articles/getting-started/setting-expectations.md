@@ -1,6 +1,34 @@
 ---
 title: Setting expectations
 following: _articles/getting-started/branding.md
+more:
+- title: Personas and Pathways for Growing Communities
+  description: "This activity is designed to help you identify potential users and contributors, understand their goals and motivations, help them find a way into your project, and grow them into strong, committed community members."
+  href: http://mozillascience.github.io/working-open-workshop/personas_pathways/
+- title: Readme Driven Development
+  href: http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
+  by: "@mojombo"
+- title: Contributing to Open Source
+  href: https://guides.github.com/activities/contributing-to-open-source/
+- title: First Timers Only
+  href: http://www.firsttimersonly.com/
+  by: "@kentcdodds and @shanselman"
+- title: Your First PR
+  href: https://yourfirstpr.github.io/
+  by: "@charlotteis"
+- title: Personas and Pathways for Growing Communities
+  href: http://mozillascience.github.io/working-open-workshop/personas_pathways/
+- title: Readme Driven Development
+  href: http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
+  by: "@mojombo"
+- title: Contributing to Open Source
+  href: https://guides.github.com/activities/contributing-to-open-source/
+- title: First Timers Only
+  href: http://www.firsttimersonly.com/
+  by: "@kentcdodds and @shanselman"
+- title: Your First PR
+  href: https://yourfirstpr.github.io/
+  by: "@charlotteis"
 ---
 
 There are many reasons to open source a project. It's a good idea to figure out yours before going public with your project. What you want to get out of the experience will guide how you manage your project and help you figure out where to say yes (and no!).
@@ -48,11 +76,3 @@ If you're hoping people will contribute to your project, remember that as your p
 Writing down your goals will help you throughout the life of your project. A clear set of goals can help you figure out what to work on, what to say no to, and where you need help from others.
 
 Consider listing your goals in the README of your project. Successful open source projects try to document as much as they can in public. Much like reusable pieces of code, reusable information means less people need to ask you the same questions over and over again. Making your goals public will remind you, and others, of what matters.
-
-## Further reading
-
-* [Personas and Pathways for Growing Communities](http://mozillascience.github.io/working-open-workshop/personas_pathways/)
-* [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) by @mojombo
-* [Contributing to Open Source](https://guides.github.com/activities/contributing-to-open-source/)
-* [First Timers Only](http://www.firsttimersonly.com/) by @kentcdodds and @shanselman
-* [Your First PR](https://yourfirstpr.github.io/) by @charlotteis
