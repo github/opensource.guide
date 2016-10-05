@@ -33,11 +33,14 @@ gems:
   - jekyll-octicons
   - jekyll-seo-tag
   - jekyll-sitemap
-  
+  - jekyll-github-metadata
+
 branch: gh-pages
 
 github:
   repository_nwo: github/open-source-handbook
+
+repository: github/open-source-handbook
 
 twitter:
   username: github

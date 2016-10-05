@@ -16,7 +16,7 @@ title: Contributors
       <h1 class="mb-3 mb-lg-4 pt-md-2 pt-lg-4">{{ page.title }}</h1>
 
       <p class="lead">
-        Every contribution is meaningful, so thank you to everyone who has played a part in improving this handbook. 
+        Every contribution is meaningful, so thank you to everyone who has played a part in improving this handbook.
       </p>
 
       <ul class="list-unstyled cols-left text-center mt-4">
@@ -24,7 +24,7 @@ title: Contributors
         <li class="col-2 pr-4 pb-4">
           <a href="{{ contributor["html_url"] }}">
             <img src="{{ contributor["avatar_url"] }}">
-            <div>@{{ contributor["login"] }}</div>
+            <div class="pt-1">@{{ contributor["login"] }}</div>
           </a>
         </li>
       {% endfor %}
