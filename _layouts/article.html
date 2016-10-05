@@ -25,7 +25,7 @@ layout: default
           {% endif %}
 
           {% if page.following %}
-          <div class="border-top border-bottom py-4 my-7">
+          <div class="border-top border-bottom py-4 my-4">
             {% assign next = site.articles | where: "path", page.following | first %}
             <div><small>Up Next:</small></div>
             <div class="text-gamma"><a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma">{{ next.title }}</a></div>
@@ -34,21 +34,23 @@ layout: default
           {% endif %}
 
           {% if page.more %}
-            <h2>Further reading</h2>
+            <div class="border-bottom mb-4 pb-4">
+              <h2>Further reading</h2>
 
-            <ul class="mb-7">
-              {% for ref in page.more %}
-                <li>
-                  <a href="{{ ref.href }}">{{ ref.title }}</a>
-                  {% if ref.description %}{{ ref.description }}{% endif %}
-                  {% if ref.from %} from <em>{{ ref.from }}</em>{% endif %}
-                  {% if ref.by %} by {{ ref.by }}{% endif %}
-                </li>
-              {% endfor %}
-            </ul>
+              <ul>
+                {% for ref in page.more %}
+                  <li>
+                    <a href="{{ ref.href }}">{{ ref.title }}</a>
+                    {% if ref.description %}{{ ref.description }}{% endif %}
+                    {% if ref.from %} from <em>{{ ref.from }}</em>{% endif %}
+                    {% if ref.by %} by {{ ref.by }}{% endif %}
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
           {% endif %}
 
-          <div class="border-top my-md-7 py-3">
+          <div class="my-md-4 py-3">
             <div class="clearfix">
               <div class="float-left">
                 {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
