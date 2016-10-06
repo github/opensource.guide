@@ -1,5 +1,15 @@
 ---
 title: Finding community consensus
+more:
+- title: Avoiding Common Pitfalls
+  href: http://producingoss.com/en/producingoss.html#common-pitfalls)
+  from: Producing Open Source Software
+  by: "@kfogel"
+- title: "Wikipedia: Consensus-seeking decision-making"
+  href: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
+- title: Why Atom doesn't have a voting system
+  href: https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2?u=leedohm
+  by: "@lee-dohm"
 ---
 
 In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
@@ -58,9 +68,3 @@ If the issue does not represent the broader needs of your community, you may jus
 With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, you should identify an individual or group of people that can serve as a tiebreaker. A tiebreaker could be the primary maintainer of the project, or it could be a small group of people who make a decision based on voting. Ideally, you've identified a tiebreaker and the associated process in your GOVERNANCE file before you ever have to use it.
 
 Your tiebreaker should be a last resort. Divisive issues are an opportunity for your community to grow and learn. Embrace these opportunities and use a collaborative process to move to a resolution wherever possible.
-
-## Further reading
-
-* [Avoiding Common Pitfalls](http://producingoss.com/en/producingoss.html#common-pitfalls) from _Producing Open Source Software_ by @kfogel
-* Wikipedia: [Consensus-seeking decision-making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)
-* [Why Atom doesn't have a voting system](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2?u=leedohm) by @lee-dohm

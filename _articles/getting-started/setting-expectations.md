@@ -1,6 +1,32 @@
 ---
 title: Setting expectations
 following: _articles/getting-started/branding.md
+more:
+- title: Personas and Pathways for Growing Communities
+  description: "This activity is designed to help you identify potential users and contributors, understand their goals and motivations, help them find a way into your project, and grow them into strong, committed community members."
+  href: http://mozillascience.github.io/working-open-workshop/personas_pathways/
+- title: Readme Driven Development
+  href: http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
+  by: "@mojombo"
+- title: Contributing to Open Source
+  href: https://guides.github.com/activities/contributing-to-open-source/
+- title: First Timers Only
+  href: http://www.firsttimersonly.com/
+  by: "@kentcdodds and @shanselman"
+- title: Your First PR
+  href: https://yourfirstpr.github.io/
+  by: "@charlotteis"
+- title: Readme Driven Development
+  href: http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
+  by: "@mojombo"
+- title: Contributing to Open Source
+  href: https://guides.github.com/activities/contributing-to-open-source/
+- title: First Timers Only
+  href: http://www.firsttimersonly.com/
+  by: "@kentcdodds and @shanselman"
+- title: Your First PR
+  href: https://yourfirstpr.github.io/
+  by: "@charlotteis"
 ---
 
 There are many reasons to open source a project. It's a good idea to figure out yours before going public with your project. What you want to get out of the experience will guide how you manage your project and help you figure out where to say yes (and no!). We'll help you think through a few important questions about the goals of your project.

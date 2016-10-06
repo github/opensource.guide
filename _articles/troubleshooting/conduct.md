@@ -1,5 +1,17 @@
 ---
 title: Enforcing your code of conduct
+more:
+- title: Django Code of Conduct - Enforcement Manual
+  href: https://www.djangoproject.com/conduct/enforcement-manual/
+- title: Enforcing Your Code of Conduct
+  href: http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response
+  description: presentation by Audrey Eschright
+- title: The Rust Code of Conduct
+  href: https://www.rust-lang.org/en-US/conduct.html
+- title: Difficult People
+  href: http://producingoss.com/en/producingoss.html#difficult-people
+  from: Producing Open Source Software
+  by: "@kfogel"
 ---
 
 Your code of conduct helps create a healthy and constructive social atmosphere for your project's community. Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
@@ -52,10 +64,3 @@ Sometimes, a resolution cannot be reached. The person in question may become agg
 Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
 
 It's not always easy to enforce your code of conduct, but this type of work is necessary to maintain a healthy and active community. When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by the rest of the community, you risk losing the contributions of many others, some of whom you may never even meet.
-
-## Further reading
-
-* [Django Code of Conduct - Enforcement Manual](https://www.djangoproject.com/conduct/enforcement-manual/)
-* [Enforcing Your Code of Conduct](http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response) presentation by Audrey Eschright
-* [The Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
-* [Difficult People](http://producingoss.com/en/producingoss.html#difficult-people) from _Producing Open Source Software_ by @kfogel

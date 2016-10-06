@@ -1,6 +1,45 @@
 ---
 title: Preparing for launch
 following: _articles/marketing.md
+more:
+- title: ChooseALicense.com
+  href: http://choosealicense.com
+- title: Readme Driven Development
+  href: http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
+  by: "@mojombo"
+- title: Awesome README
+  href: https://github.com/matiassingers/awesome-readme
+- title: 18F Open Source Style Guide
+  href: https://pages.18f.gov/open-source-guide/making-readmes-readable/
+- title: A Beginner's Guide to Creating a README
+  href: https://changelog.com/a-beginners-guide-to-creating-a-readme/
+  by: "@beverlynelson"
+- title: README.md template
+  href: https://gist.github.com/jxson/1784669
+  by: "@jxson"
+- title: Contributing Guidelines
+  href: https://github.com/blog/1184-contributing-guidelines
+  by: "@vinbarnes"
+- title: Contributing to Open Source Projects
+  href: http://www.contribution-guide.org/
+  by: "@bitprophet"
+- title: "Contributing Guides: A Template"
+  href: https://github.com/nayafia/contributing-template
+  by: "@nayafia"
+- title: "Wrangling Web Contributions: How to Build a CONTRIBUTING.md"
+  href: http://mozillascience.github.io/working-open-workshop/contributing/
+- title: Code of conduct evaluations
+  href: http://geekfeminism.wikia.com/wiki/Code_of_conduct_evaluations
+  from: the Geek Feminism wiki
+- title: Contributor Covenant
+  href: http://contributor-covenant.org/
+- title: Django Code of Conduct
+  href: https://github.com/django/code-of-conduct
+- title: HOWTO design a code of conduct for your community
+  href: https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/
+  by: "Valerie Aurora"
+- title: Docker community guidelines
+  href: https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines
 ---
 
 You've written down your goals, you've chosen a name and an idea, and hopefully you've been hard at work building your project. (Haven't started yet? [Create a repository!](https://help.github.com/articles/create-a-repo/))
@@ -112,25 +151,3 @@ Now that you have these four files in the root directory of your project, you're
 Launching your project is only the first step. If one of your goals is for people to discover and use your project, you'll want to make sure they know about it.
 
 Sometimes, it takes a long time before people notice your open source project. Your project will likely go through multiple phases of activity. That's okay! Some of the most popular projects today took years to reach high levels of activity. The rest of this handbook is designed to help you manage your project every step of the way.
-
-## Further reading
-
-* Licenses
-  * [ChooseALicense.com](http://choosealicense.com)
-* READMEs
-  * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) by @mojombo
-  * [Awesome README](https://github.com/matiassingers/awesome-readme)
-  * [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/making-readmes-readable/)
-  * [A Beginner's Guide to Creating a README](https://changelog.com/a-beginners-guide-to-creating-a-readme/) by @beverlynelson
-  * [README.md template](https://gist.github.com/jxson/1784669) from @jxson
-* Contributing guides
-  * [Contributing Guidelines](https://github.com/blog/1184-contributing-guidelines) by @vinbarnes
-  * [Contributing to Open Source Projects](http://www.contribution-guide.org/) by @bitprophet
-  * [Contributing Guides: A Template](https://github.com/nayafia/contributing-template) by @nayafia
-  * [Wrangling Web Contributions: How to Build a CONTRIBUTING.md](http://mozillascience.github.io/working-open-workshop/contributing/)
-* Codes of conduct
-  * [Code of conduct evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct_evaluations) from the Geek Feminism wiki
-  * [Contributor Covenant](http://contributor-covenant.org/)
-  * [Django Code of Conduct](https://github.com/django/code-of-conduct)
-  * [HOWTO design a code of conduct for your community](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) by Valerie Aurora
-  * [Docker community guidelines](https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines)

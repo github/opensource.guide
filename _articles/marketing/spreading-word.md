@@ -1,6 +1,27 @@
 ---
 title: Spreading the word
 following: _articles/marketing/building-community.md
+more:
+- title: How to Spread The Word About Your Code
+  href: https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/
+  by: "@peterc and @robnyman"
+- title: Tips for public speaking
+  href: http://speaking.io/
+  by: "@holman"
+- title: How to prepare and write a tech conference talk
+  href: http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk
+  by: "Lena Reinhard"
+- title: Open-Source Projects Need More Than Good Code—They Need Marketing
+  href: http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz/
+  by: "@mjasay"
+- title: How to make your open-source project thrive
+  href: https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540
+  by: "@shazow"
+- title: Marketing for open-source projects
+  href: http://radek.io/2015/09/14/marketing-for-open-source-projects-1/
+  by: "@pazdera"
+- title: GitHub Pages inspiration
+  href: https://github.com/showcases/github-pages-examples
 ---
 
 You've just published your project–what's next? It's time to tell everybody about your hard work!

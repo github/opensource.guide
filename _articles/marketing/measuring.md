@@ -1,6 +1,22 @@
 ---
 title: Measuring success
 following: _articles/sustaining.md
+more:
+- title: Measuring Success in an Open Source Project
+  href: http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/
+  by: "@sjvn"
+- title: Using Pirate Metrics to measure success of open source projects
+  href: https://opensource.com/business/16/6/pirate-metrics
+  by: "@gfachler"
+- title: The Open Source Contributor Funnel
+  href: https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel
+  by: "@MikeMcQuaid"
+- title: The shape of open source
+  href: https://github.com/blog/2195-the-shape-of-open-source
+  by: "@arfon"
+- title: Libraries.io
+  href: http://libraries.io
+  by: "@andrew"
 ---
 
 Your project is starting to grow. 🌱 Well, you think it's growing. Is it growing? Let's talk about how to measure and track the success of your open source project.
@@ -74,12 +90,3 @@ Unresponsive maintainers can become a bottleneck for open source projects. If so
 Consider tracking how long it takes for you (or another maintainer) to respond to contributions, whether an issue or a pull request. Responding doesn't require taking action: it can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
 
 You could also measure the time it takes to move between stages in the contribution process, such as average amount of time an issue remains open, or time from issue to PR.
-
-## Further reading
-
-* [Measuring Success in an Open Source Project](http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/) by @sjvn
-* [Using Pirate Metrics to measure success of open source projects](https://opensource.com/business/16/6/pirate-metrics) by @gfachler
-* [
-The Open Source Contributor Funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel) by @MikeMcQuaid
-* [The shape of open source](https://github.com/blog/2195-the-shape-of-open-source) by @arfon
-* [Libraries.io](http://libraries.io) by @andrew

@@ -1,5 +1,15 @@
 ---
 title: Feeling guilty or burned out
+more:
+- title: Leadership, Guilt, and Pull Requests
+  href: http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/
+  by: "@progrium"
+- title: Why I Haven't Fixed Your Issue Yet
+  href: https://archive.is/j8zAk
+  by: "@michaelbromley"
+- title: The Open Source Maintainer's Dilemma
+  href: https://publicobject.com/2016/05/03/the-open-source-maintainers-dilemma/
+  by: "@swankjesse"
 ---
 
 Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty. Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
@@ -56,9 +66,3 @@ If you're looking for others to pitch in, start by asking around. @vishnubob add
 > Hi there! I wrote wait-for-it in order to help me orchestrate containers I operate at my day job. I thought it was a neat little script, so I published it. I assumed I would be its only user, but that's not what happened! wait-for-it has received more stars then all of my other public repositories put together. I had no idea this tool would solicit such an audience, and I was equally unprepared to carve out the time required to address my user's issues and patches. I would like to solicit a volunteer from the community who would be willing to be a co-maintainer of this repository.
 
 If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you. If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's a compliment that so many people want your project to live on!
-
-Further reading:
-
-* [Leadership, Guilt, and Pull Requests](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) by @progrium
-* [Why I Haven't Fixed Your Issue Yet](https://archive.is/j8zAk) by @michaelbromley
-* [The Open Source Maintainer's Dilemma](https://publicobject.com/2016/05/03/the-open-source-maintainers-dilemma/) by @swankjesse
