@@ -24,9 +24,7 @@ more:
   href: https://github.com/showcases/github-pages-examples
 ---
 
-You've just published your project–what's next? It's time to tell everybody about your hard work!
-
-We'll go through some of the most effective ways that people promote their open source projects. But before we do, let's start with a few tips that will help you make the most of your outreach.
+You've just published your project–what's next? It's time to tell everybody about your hard work! Let's go through some of the most effective ways that people promote their open source projects.
 
 * TOC
 {:toc}
