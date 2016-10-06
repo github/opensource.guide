@@ -46,6 +46,8 @@ If nobody pays attention or responds to your initial outreach, don't get discour
 
 ## Go where your project's audience is (offline)
 
+![public speaking](/assets/images/marketing/public_speaking.png)
+
 Look for meetups and conferences that are relevant to your work. Offline outreach is a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers. @mitchellh [attributes](https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md) [Vagrant](https://github.com/mitchellh/vagrant)'s growth and popularity to the talks he gave about the project.
 
 If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project. If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work. As you design your talk, remember to focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
