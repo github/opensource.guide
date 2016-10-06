@@ -27,9 +27,7 @@ Your project's community is extremely powerful. That power can be a blessing or 
 
 The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. Sometimes these are also called ["drive-through contributors"](https://lwn.net/Articles/688560/).
 
-A casual contributor may not have time to get fully up to speed with your project. Nearly half of contributors on popular GitHub projects, for example, [only made one contribution](http://gustavopinto.org/lost+found/saner2016.pdf). This level of noise can be overwhelming at first. But [the more people feel ownership](https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5) of your project, the more work can be distributed. It will be less stressful than trying to do everything yourself.
-
-Here are some ways you can empower your biggest fans to run with the work they're excited about.
+A casual contributor may not have time to get fully up to speed with your project. Nearly half of contributors on popular GitHub projects, for example, [only made one contribution](http://gustavopinto.org/lost+found/saner2016.pdf). This level of noise can be overwhelming at first. But [the more people feel ownership](https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5) of your project, the more work can be distributed. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
 
 * TOC
 {:toc}

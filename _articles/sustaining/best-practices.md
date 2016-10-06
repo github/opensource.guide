@@ -24,9 +24,7 @@ more:
 
 We spend plenty of time talking about how to make other people happy. But first and foremost, make yourself happy. Maintainer happiness is a non-negotiable requirement for the survival of any open source project.
 
-As you've probably noticed, a major part of maintaining an active open source project is managing other people. While that can be a lot less fun than coding or writing, there are things you can do to make your life easier.
-
-Let's talk about how to set up your projects in a way that helps you maintain your sanity.
+As you've probably noticed, a major part of maintaining an active open source project is managing other people. While that can be a lot less fun than coding or writing, there are things you can do to make your life easier. You should feel empowered to say no, set and enforce rules, and take breaks when you need them.
 
 * TOC
 {:toc}
@@ -109,5 +107,3 @@ If you're not sure which tools to use, sometimes it helps to look at what other 
 ## Let others help out
 
 You don't have to do everything yourself. As your project's community grows, you may find that others are making substantial contributions to your project. Recognizing their contributions explicitly and [formalizing their role](../leadership/#how-do-i-formalize-leadership-roles-in-my-project) in your project can help reduce your burden. Make it clear early on in your CONTRIBUTING file how others can grow into leadership roles if they wish.
-
-Hopefully, you're feeling more empowered to say no, set and enforce rules, and take breaks when you need them.

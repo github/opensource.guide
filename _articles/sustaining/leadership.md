@@ -7,7 +7,7 @@ Your project is growing, people are engaged, and you're committed to keeping thi
 
 Maybe you want to give commit access to a community member who's made significant contributions. Maybe you've gotten into a debate with your community and realized you didn't know how to resolve it.
 
-Got questions about leadership and governance for open source projects? We've got answers.
+If you have questions about leadership and governance for open source projects, we've got answers.
 
 * TOC
 {:toc}
@@ -77,9 +77,3 @@ You don't need a legal entity to support your open source project unless you're 
 If you want to accept donations for your open source project, you can set up a donation button (using PayPal or Stripe, for example), but the money won't be tax-deductible unless you are a qualifying nonprofit (a 501c3, if you're in the US). Many projects don't wish to go through the trouble of setting up a nonprofit, so they find a nonprofit fiscal sponsor instead. A fiscal sponsor accepts donations on your behalf, usually in exchange for a percentage of the donation. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](http://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), and [Open Collective](https://opencollective.com/opensource) are examples of organizations that serve as fiscal sponsors for open source projects.
 
 If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.python.org/pypi), the Python package manager, and the [Node.js Foundation](https://nodejs.org/en/foundation/) helps support [Express.js](http://expressjs.com/), a Node-based framework.
-
-## What's next?
-
-Congratulations on making it this far, and welcome to the ranks of open source maintainership! We hope your project continues to thrive and that we've helped you along the way.
-
-As you grow into your leadership role, you'll inevitably come across some tough situations. Check out our [Troubleshooting](../../troubleshooting/) section for help when you need it. And from the bottom of our hearts, thank you for sharing your work and making a positive contribution to the world. 💕
