@@ -35,15 +35,13 @@ layout: default
                 </div>
               {% endfor %}
             </div>
-          {% endif %}
-
-          {% if page.following %}
-          <div class="border-top border-bottom py-4 my-7">
-            {% assign next = site.articles | where: "path", page.following | first %}
-            <div><small>Up Next:</small></div>
-            <div class="text-gamma"><a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma">{{ next.title }}</a></div>
-            <p class="mb-0">{{ next.excerpt | strip_html }}</p>
-          </div>
+          {% elsif page.following %}
+            <div class="border-top border-bottom py-4 my-7">
+              {% assign next = site.articles | where: "path", page.following | first %}
+              <div><small>Up Next:</small></div>
+              <div class="text-gamma"><a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma">{{ next.title }}</a></div>
+              <p class="mb-0">{{ next.excerpt | strip_html }}</p>
+            </div>
           {% endif %}
 
           {% if page.more %}
