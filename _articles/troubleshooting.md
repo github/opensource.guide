@@ -8,7 +8,7 @@ contents:
 - _articles/troubleshooting/getting-paid.md
 ---
 
-Congratulations on making it this far as an open source maintainer! As you grow into a leadership role, you'll inevitably come across some tough situations.
+As you grow into a maintainer leadership role, you'll inevitably come across some tough situations.
 
 These topics aren't fun. They may feel unfamiliar or force you out of your comfort zone. No matter what you decide, people may get upset or criticize how you handled the situation.
 
