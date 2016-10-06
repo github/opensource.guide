@@ -58,8 +58,6 @@ Beyond how you write words, your coding style may also become part of your proje
 
 It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
 
-We're almost there! Next, we'll walk you through a few components that every open source project should include before launch.
-
 ## Further reading
 
 * [Choose a Good Name](http://producingoss.com/en/getting-started.html#choosing-a-name) from _Producing Open Source Software_ by @kfogel

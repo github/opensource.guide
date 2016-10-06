@@ -144,10 +144,10 @@ Codes of conduct help protect not just your participants, but yourself. As you m
 
 A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when [someone violates the code of conduct](../../troubleshooting/conduct/).
 
-## What's next?
+## It's time to launch!
 
-Now that you have these four files in the root directory of your project, you're ready to open source your project! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back. Then continue on to the next section. We've got work to do.
+Now that you have these four files in the root directory of your project, you're ready to open source your project! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
 
-Launching your project is only the first step. If one of your goals is for people to discover and use your project, you'll want to make sure they know about it.
+Launching your project is only the first step. If one of your goals is for people to discover and use your project, you'll want to [make sure they know about it](../../marketing/).
 
-Sometimes, it takes a long time before people notice your open source project. Your project will likely go through multiple phases of activity. That's okay! Some of the most popular projects today took years to reach high levels of activity. The rest of this handbook is designed to help you manage your project every step of the way.
+Sometimes, it takes a long time before people notice your open source project. Your project will likely go through multiple phases of activity. That's okay! Some of the most popular projects today took years to reach high levels of activity. Be patient and keep [spreading the word](../../marketing/spreading-word/).
