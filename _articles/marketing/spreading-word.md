@@ -26,6 +26,8 @@ more:
 
 You've just published your project–what's next? It's time to tell everybody about your hard work! Let's go through some of the most effective ways that people promote their open source projects.
 
+Spreading the word is an important step in growing the popularity of your project. It can be scary to share your creativity with the world, so give yourself a high five for making it this far. 👌 💯 🙌
+
 * TOC
 {:toc}
 
@@ -72,10 +74,6 @@ Look for meetups and conferences that are relevant to your work. Offline outreac
 If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project. If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work. As you design your talk, remember to focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
 When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world. Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference beforehand to tailor your talk to its attendees and increase your chances of getting accepted. You can often get a sense of a conference's audience by looking at its speakers.
-
-Spreading the word is an important step in growing the popularity of your project. It can be scary to share your creativity with the world, so give yourself a high five for making it this far! 👌 💯 🙌
-
-In the next section, we'll talk about how to retain those early enthusiasts and grow an engaged community around your project.
 
 ## Build your reputation
 
