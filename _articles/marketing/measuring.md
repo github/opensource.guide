@@ -66,7 +66,7 @@ People are finding your project and they're using it. The next question you'll w
 
 This is a big one. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is popular (many people use it) but not supported (not enough maintainer time to meet demand). Retention also requires an inflow of new contributors, as previously active contributors will eventually move on to other things. It's never too early to start thinking about contributors!
 
-Here are a few types of contributor metrics you may want to regularly track:
+Examples of contributor metrics that you may want to regularly track include:
 
 * **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Graphs" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
 

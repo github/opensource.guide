@@ -22,7 +22,7 @@ more:
   by: "@kentcdodds"
 ---
 
-You've launched your project, you're spreading the word, and people are checking out your project. Awesome! Now, how do you get them to stick around? In this section, we'll discuss ways to encourage people to use, contribute to, and evangelize your project.
+You've launched your project, you're spreading the word, and people are checking out your project. Awesome! Now, how do you get them to stick around? There are all sorts of ways to encourage people to use, contribute to, and evangelize your project.
 
 * TOC
 {:toc}
@@ -37,17 +37,17 @@ The second reason is for you. If you don't give people a public place to talk ab
 
 If your project is on GitHub, public communication can be as simple as directing people to use [GitHub Issues](https://guides.github.com/features/issues/) instead of emailing you directly. You could also set up a mailing list (such as [Google Groups](https://groups.google.com/forum/#!overview)) or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
 
+Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal communication channels, set up a separate email address for this purpose.
+
 ## Make people feel welcome
 
 A welcoming community is an investment into your project's future and reputation. When someone new lands on your project, make sure to thank them for their interest! Show them around and help them get started. Point them to resources, like onboarding materials or past mailing list threads, that you think might be helpful. It only takes one negative experience to make someone not want to come back.
 
 ![django new contributors page](/assets/images/marketing/django_new_contributors.png)
 
-You don't have to overdo it, or put others' needs in front of your own. Be honest about your project's needs, but do so with an assertive attitude. You can stand up for yourself without being rude, flippant, or unhelpful.
-
 ## Document everything
 
-When you start an open source project, it may feel natural to keep your ideas and workflows private. But open source projects thrive when you document your process in public. That way, more people can participate at every step of the way. Not only will they know _what_ to contribute, but they'll also know _how_. You might get help on something you didn't even know you needed.
+When you start an open source project, it may feel natural to keep your ideas and workflows private. But open source projects thrive when you [document your process](http://www.writethedocs.org/) in public. That way, more people can participate at every step of the way. Not only will they know _what_ to contribute, but they'll also know _how_. You might get help on something you didn't even know you needed.
 
 Documenting your open source project means more than just technical documentation. Be transparent about your project's roadmap, your timeline for completing new features, the types of contributions you're looking for, how contributions are reviewed and accepted, or why you made certain decisions. If there are certain types of contributions that you won't accept, explain so in your CONTRIBUTING.md file. If you get frequent questions or notice users running into the same problem, document the answers in the README. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public. For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
 
