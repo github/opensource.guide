@@ -5,7 +5,7 @@ following: _articles/getting-started/setting-expectations.md
 
 So you're interested in making your project open source? Congratulations! 🎉 The world appreciates your contribution.
 
-Let's start by talking about what it means to open source your work.
+Let's talk about what it means to open source your work.
 
 ## What is open source?
 
@@ -31,7 +31,9 @@ Because an open source project lets anyone view, use, and distribute the project
 
 ## Open source is more than just a license
 
-That's the legal side of it. In terms of culture, open sourcing a project has come to mean much more. There are many reasons why a person or organization might want to open source a project. Some examples include:
+That's the legal side of it. In terms of culture, open sourcing a project has come to mean much more. When you open source a project, you're inviting feedback and suggestions from other people who are engaged with your work.
+
+There are many reasons why a person or organization might want to open source a project. Some examples include:
 
 * **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
 
@@ -52,12 +54,6 @@ Public repositories on GitHub are covered by [GitHub's Terms of Service](https:/
 **A public repository is not open source** unless you choose an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so. (You can learn more about the legal side of open source [here](../legal/).)
 
 It's easy to add a license. You'll be [asked to add one](https://help.github.com/articles/open-source-licensing/) when you create a new repository.
-
----
-
-When you open source a project, you open yourself to feedback and suggestions from other people who are engaged with your work. It might feel intimidating to open source a project for the first time, but remember that you're not alone.
-
-In the next section, we'll help you figure out your goals around open sourcing your project. Understanding your goals beforehand will make it easier to manage your and others' expectations later on.
 
 ## Further reading
 
