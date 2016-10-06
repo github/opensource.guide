@@ -65,4 +65,3 @@ We're almost there! Next, we'll walk you through a few components that every ope
 * [Choose a Good Name](http://producingoss.com/en/getting-started.html#choosing-a-name) from _Producing Open Source Software_ by @kfogel
 * [Hemingway](http://www.hemingwayapp.com/): tool to help you write in simple, clear prose
 * [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) to check for trademark conflicts
->>>>>>> edits-from-bkeepers
