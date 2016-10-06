@@ -23,9 +23,9 @@ more:
   by: "@kfogel"
 ---
 
-Your project's community is extremely powerful. That power can be a blessing or a curse, depending on how you wield it. In this section, we'll look at ways to structure your community to become a force of construction, not destruction.
+Your project's community is extremely powerful. That power can be a blessing or a curse, depending on how you wield it. But there are ways to help your community become a force of construction, not destruction.
 
-If you're starting an open source project today, the vast majority of contributors will be "casual contributors": people who contribute to a project only occasionally. Sometimes these are also called ["drive-through contributors"](https://lwn.net/Articles/688560/).
+The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. Sometimes these are also called ["drive-through contributors"](https://lwn.net/Articles/688560/).
 
 A casual contributor may not have time to get fully up to speed with your project. Nearly half of contributors on popular GitHub projects, for example, [only made one contribution](http://gustavopinto.org/lost+found/saner2016.pdf). This level of noise can be overwhelming at first. But [the more people feel ownership](https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5) of your project, the more work can be distributed. It will be less stressful than trying to do everything yourself.
 
@@ -42,7 +42,7 @@ Do your best to adopt a zero-tolerance policy towards these types of people. If 
 
 Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../../troubleshooting/conduct/). Your code of conduct can be a constructive guide for these conversations.
+When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../../troubleshooting/conduct/). Your [code of conduct](../../getting-started/preparing/#establishing-a-code-of-conduct) can be a constructive guide for these conversations.
 
 ## Meet contributors where they're at
 
@@ -66,13 +66,13 @@ People are excited to contribute to projects when they feel as sense of ownershi
 
 > Understanding motivations, encouraging ownership and accommodating multiple viewpoints are vital parts of anyone who wants to make a project bigger than themselves. There [are lots of times](https://github.com/danger/danger/graphs/contributors) when I'm not the lead developer on Danger.
 
-See if you can find ways to give credit to your community as much as possible. Here are some ideas:
+See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
 
 * **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
 
 ![cookiecutter issue](/assets/images/sustaining/cookiecutter_submit_pr.png)
 
-* **Start a CONTRIBUTORS file** in your project to recognize everyone who's contributed to your project. @shazow made a [simple list](https://github.com/shazow/urllib3/blob/master/CONTRIBUTORS.txt) for his project, [urllib3](https://github.com/shazow/urllib3).
+* Start a CONTRIBUTORS or AUTHORS file in your project that lists everyone who's contributed to your project. Here's an example that @shazow made for his project, [urllib3](https://github.com/shazow/urllib3/blob/master/CONTRIBUTORS.txt).
 
 * If you've got a sizeable community, consider **sending out a newsletter or writing a blog post** that thanks contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
 
