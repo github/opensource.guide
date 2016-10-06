@@ -3,9 +3,10 @@ title: What it means to open source
 following: _articles/getting-started/setting-expectations.md
 ---
 
-So you're interested in making your project open source? Congratulations! 🎉 The world appreciates your contribution.
+So you're thinking about making your project open source? Congratulations! 🎉 The world appreciates your contribution. Let's talk about what "open source" is, how to make a project open source, and why people do it.
 
-Let's talk about what it means to open source your work.
+* TOC
+{:toc}
 
 ## What is open source?
 
@@ -19,13 +20,13 @@ By comparison, if you were to use a closed source language to build your website
 
 Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly, and because the production process is open to the public.
 
-## Does open source mean free of charge?
+## Does open source mean "free of charge"?
 
 One of open source's biggest draws is that it does not cost money, but that is just a byproduct of its value.
 
 Open source is defined by its license. There are many open source licenses, but all of them grant permission for anyone to use, modify, and share licensed software for any purpose, subject to certain conditions.
 
-When you "open source" a project, it means you've added the above [legal protections and freedoms](https://opensource.org/osd) that allow others to interact with your project.
+When you "open source" a project, it means you've added a license containing the above [legal protections and freedoms](https://opensource.org/osd), which allow others to interact with your project.
 
 Because an open source project lets anyone view, use, and distribute the project, they tend to be free of cost. If the project cost money to use, anyone could legally make a copy and use the free version instead. That's why most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
 
