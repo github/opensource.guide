@@ -9,8 +9,18 @@ contents:
 following:
   type: String
 
-nav:
-  type: String
-
-seo_title:
-  type: String
+more:
+  type: Array
+  fields:
+    title:
+      type: String
+      required: true
+    href:
+      type: String
+      required: true
+    by:
+      type: String
+    from:
+      type: String
+    description:
+      type: String

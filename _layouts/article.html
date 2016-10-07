@@ -17,43 +17,65 @@ layout: default
 
           <h1 class="mb-3 mb-lg-4 pt-md-3 pt-lg-8">{{ page.title }}</h1>
 
-          {{ content }}
+          {% if page.excerpt %}
+            <div class="lead">{{ page.excerpt }}</div>
+            {{ page.content | remove: page.excerpt }}
+          {% else %}
+            {{ content }}
+          {% endif %}
 
-          <div class="border mb-0 my-4 my-md-7 p-3 p-md-4">
+          {% if page.contents %}
+            <div class="mt-6 border-bottom">
+              {% for path in page.contents %}
+                {% assign article = site.articles | where: "path", path | first %}
+
+                <div class="border-top pt-4 my-4">
+                  <h2><a href="{{ article.url }}">{{ article.title }}</a></h2>
+                  {{ article.excerpt }}
+                </div>
+              {% endfor %}
+            </div>
+          {% elsif page.following %}
+            <div class="border-top border-bottom py-4 my-4">
+              {% assign next = site.articles | where: "path", page.following | first %}
+              <div><small>Up Next:</small></div>
+              <div class="text-gamma"><a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma">{{ next.title }}</a></div>
+              <p class="mb-0">{{ next.excerpt | strip_html }}</p>
+            </div>
+          {% endif %}
+
+          {% if page.more %}
+            <div class="border-bottom mb-4 pb-4">
+              <h2>Further reading</h2>
+
+              <ul>
+                {% for ref in page.more %}
+                  <li>
+                    <a href="{{ ref.href }}">{{ ref.title }}</a>
+                    {% if ref.description %}{{ ref.description }}{% endif %}
+                    {% if ref.from %} from <em>{{ ref.from }}</em>{% endif %}
+                    {% if ref.by %} by {{ ref.by }}{% endif %}
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
+
+          <div class="my-md-4 py-3">
             <div class="clearfix">
               <div class="float-left">
                 {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
               </div>
               <div class="overflow-hidden">
                 <span class="d-block d-md-inline">This content is open source.</span>
-                <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
+                <a href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
                   Please help improve it.
                 </a>
               </div>
             </div>
           </div>
 
-          {% assign previous = site.articles | where: "following", page.path | first %}
-          <div class="clearfix py-3 py-md-6">
-            <div class="col-md-6 mb-3">
-              {% if previous == null %}
-                <span class="d-block">&nbsp;</span>
-              {% endif %}
-              {% if previous %}
-                <p class="mb-1">Previous</p>
-                <a href="{{ previous.url | prepend: site.baseurl }}" class="text-gamma">{{ previous.title }}</a>
-              {% endif %}
-            </div>
-            <div class="col-md-6 text-md-right">
-              {% if page.following %}
-                {% assign next = site.articles | where: "path", page.following | first %}
-                <p class="mb-1">Next</p>
-                <a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma">{{ next.title }}</a>
-              {% endif %}
-            </div>
-          </div>
         </div>
-
       </article>
 
       <footer class="bg-taupe-dark">

@@ -5,4 +5,4 @@ _site/
 .sass-cache/
 bin
 node_modules
-vendor
+/vendor
