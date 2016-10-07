@@ -11,17 +11,6 @@ a.user-mention {
   color: $black;
 }
 
-#further-reading {
-  border-top: $border;
-  margin-top: $spacer4;
-  padding-top: $spacer4;
-
-  @include breakpoint(md) {
-    margin-top: $spacer6;
-    padding-top: $spacer5;
-  }
-}
-
 .footnotes {
   margin-top: $spacer4;
 
@@ -47,7 +36,7 @@ a.user-mention {
 
 .bg-squares {
   background-color: $taupe;
-  background-image: url("{{ site.baseurl }}/img/bg.svg");
+  background-image: url("{{ site.baseurl }}/assets/bg.svg");
   background-repeat: no-repeat;
   background-size: 175%;
   background-position: center -20px;
@@ -60,7 +49,7 @@ a.user-mention {
 
 .bg-squares {
   background-color: $taupe;
-  background-image: url("{{ site.baseurl }}/img/bg.svg");
+  background-image: url("{{ site.baseurl }}/assets/bg.svg");
   background-repeat: no-repeat;
   background-size: 175%;
   background-position: center -20px;
@@ -74,7 +63,7 @@ a.user-mention {
 .bg-nav {
   @media screen and (min-width: 992px) and (min-height: 730px) {
     //background-color: darken($taupe, 5%);
-    background-image: url("{{ site.baseurl }}/img/bg-bottom-left.svg");
+    background-image: url("{{ site.baseurl }}/assets/bg-bottom-left.svg");
     background-repeat: no-repeat;
     background-size: 96%;
     background-position: -10px 91%;
@@ -102,5 +91,17 @@ a.user-mention {
   }
   @include breakpoint(xl) {
     height: auto;
+  }
+}
+
+.anchorjs-link, .anchorjs-link:hover {
+  float: left;
+  margin-left: -1.4em;
+  width: 1.4em;
+  text-decoration: none;
+  color: inherit;
+
+  *:hover > & {
+    opacity: 0.75;
   }
 }

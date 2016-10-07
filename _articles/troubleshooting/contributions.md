@@ -1,10 +1,17 @@
 ---
 title: Handling contributions you don't want to accept
+more:
+- title: Kindly closing pull requests
+  href: https://github.com/blog/2124-kindly-closing-pull-requests
+  by: "@mikemcquaid"
+- title: The art of closing
+  href: https://blog.jessfraz.com/post/the-art-of-closing/
+  by: "@jfrazelle"
 ---
 
 As a maintainer of an open source project, you'll inevitably receive contributions that you don't want to accept. Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
 
-Regardless of the reason, here are some strategies to tactfully handle contributions that don't meet your project's standards.
+Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
 
 * TOC
 {:toc}
@@ -40,8 +47,3 @@ Ultimately, if a contribution isn't good enough, remember that you are under no 
 ## Encourage people to work on their own versions
 
 If a potential contributor has a very different opinion on what your project should do, you may want to gently encourage them to work on their own fork. Forking a project doesn't have to be a bad thing - it's one of the best things about open source! Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
-
-## Further reading
-
-* [Kindly closing pull requests](https://github.com/blog/2124-kindly-closing-pull-requests ) by @mikemcquaid
-* [The art of closing](https://blog.jessfraz.com/post/the-art-of-closing/) by @jfrazelle

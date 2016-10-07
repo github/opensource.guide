@@ -1,5 +1,18 @@
 ---
 title: Getting paid for open source work
+more:
+- title: For Love and For Money
+  href: http://lifeofaudrey.com/essays/love_and_money.html
+  by: "@aeschright"
+- title: Why we don't accept donations
+  href: http://blog.cocoapods.org/Why-we-dont-accept-donations/
+  by: "@alloy"
+- title: More Money For Better Open-Source Software
+  href: http://marijnhaverbeke.nl/blog/sustainable-maintenance.html
+  by: "@marijnh"
+- title: Money and Open Source
+  href: https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.nyk44wmm1
+  by: "@isaacs"
 ---
 
 If you make regular, substantial contributions to open source, or you're just considering your first contribution, you may start to wonder whether anybody gets paid to work on open source.
@@ -18,7 +31,7 @@ Paid work also enables people from different walks of life to make meaningful co
 
 As open source's popularity increases, availability of funding has not yet caught up to the need. If you are interested in finding funding for your open source work, [there are some options](https://github.com/nayafia/lemonade-stand) available to you. Here are some examples:
 
-* Raise money for your work through crowdfunding campaigns or donations. This works well if you have a strong audience or reputation already.
+* Raise money for your work through crowdfunding campaigns or donations. This strategy works well if you have a strong audience or reputation already.
 
 * Find a company to hire you to work on your idea, or ask your current employer for dedicated work time.
 
@@ -27,10 +40,3 @@ As open source's popularity increases, availability of funding has not yet caugh
 * If you have a large project, raise sponsorships from companies and individual donors through a software foundation. Or start a business to support the project.
 
 Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
-
-## Further reading
-
-* [For Love and For Money](http://lifeofaudrey.com/essays/love_and_money.html) by @aeschright
-* [Why we don't accept donations](http://blog.cocoapods.org/Why-we-dont-accept-donations/) by @alloy
-* [More Money For Better Open-Source Software](http://marijnhaverbeke.nl/blog/sustainable-maintenance.html) by @marijnh
-* [Money and Open Source](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.nyk44wmm1) by @isaacs

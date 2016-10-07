@@ -1,10 +1,28 @@
 ---
 title: The legal side of open source
+more:
+- title: ChooseALicense.com
+  href: http://choosealicense.com
+- title: Over 70 approved licenses
+  href: https://opensource.org/licenses/alphabetical
+  description: that conform with the generally accepted definition of open source
+- title: A Model IP and Open Source Contribution Policy
+  href: https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/
+  by: "@vanl"
+- title: Broadening Node.js Contributions
+  href: https://www.joyent.com/blog/broadening-node-js-contributions
+  by: "@bcantrill"
+- title: FOSSmarks
+  href: http://fossmarks.org/
+  description: a practical guide to understanding trademarks in the context of Free and Open Source projects.
+- title: Everything a government attorney needs to know about open source software licensing
+  href: http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/
+  by: "@benbalter"
 ---
 
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about.
 
-Thankfully, you don't have to start from scratch. This section will make sure you've got all your legal needs covered. Before you dive in, be sure to read our [disclaimer](../../disclaimer/).
+Thankfully, you don't have to start from scratch. We've got your legal needs covered. Before you dive in, be sure to read our [disclaimer](../../notices/).
 
 * TOC
 {:toc}
@@ -47,7 +65,7 @@ Contributor agreements can create additional administrative work for project mai
 
 In addition, contributor agreements are sometimes perceived as not friendly to the project's community. They can also increase the barrier to community participation by adding more paperwork than some believe is necessary.
 
-Here are some situations where you may want to consider an additional contribution agreement for your project:
+Some situations where you may want to consider an additional contribution agreement for your project include:
 
 * Your lawyers want all contributors to expressly accept (_sign_, online or offline) contribution terms, perhaps because they feel the open source license itself is not enough (even though it is!). If this is the only concern, a contributor agreement that affirms the project's open source license should be enough. The [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) is a good example of a lightweight additional contributor agreement. For some projects, a [Developer Certificate of Origin](http://developercertificate.org/) can be an even simpler alternative.
 * Your project uses an open source license that does not include an express patent grant (such as MIT), and you need a patent grant from all contributors, some of whom may work for companies with large patent portfolios that could be used to target you or the project's other contributors and users. The [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.txt) is a commonly used additional contributor agreement that has a patent grant mirroring the one found in the Apache License 2.0.
@@ -78,12 +96,3 @@ Longer term your legal team can do more to help the company get more from its in
 * **Compliance:** Even if your company doesn't release any open source projects, it uses others' open source software. [Awareness and process](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) can prevent headaches, product delays, and lawsuits.
 * **Patents:** Your company may wish to join the [Open Invention Network](http://www.openinventionnetwork.com/), a shared defensive patent pool to protect members' use of major open source projects, or explore other [alternative patent licensing](https://www.eff.org/document/hacking-patent-system-2016).
 * **Governance:** Especially if and when it makes sense to move a project to a [legal entity outside of the company](../../sustaining/leadership/#do-i-need-a-legal-entity-to-support-my-project).
-
-## Further reading
-
-* [ChooseALicense.com](http://choosealicense.com)
-* [Over 70 approved licenses](https://opensource.org/licenses/alphabetical) that conform with the generally accepted definition of open source
-* [A Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) by @vanl
-* [Broadening Node.js Contributions](https://www.joyent.com/blog/broadening-node-js-contributions) by @bcantrill
-* [FOSSmarks](http://fossmarks.org/) is "a practical guide to understanding trademarks in the context of Free and Open Source projects."
-* [Everything a government attorney needs to know about open source software licensing](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/) by @benbalter

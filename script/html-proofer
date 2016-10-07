@@ -4,7 +4,7 @@ require "bundler/setup"
 require "html-proofer"
 
 url_ignores = [
-  /tldrlegal\.com/ # mis-configured SSL certificate
+  /github\.com\/github\/open-source-handbook/ # not yet public
 ]
 
 HTMLProofer::Runner.new(["_site"],

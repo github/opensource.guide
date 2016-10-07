@@ -8,16 +8,8 @@ contents:
 - _articles/troubleshooting/getting-paid.md
 ---
 
-Some common situations or questions may come up as you maintain your open source project.
+As you grow into a maintainer leadership role, you'll inevitably come across some tough situations.
 
 These topics aren't fun. They may feel unfamiliar or force you out of your comfort zone. No matter what you decide, people may get upset or criticize how you handled the situation.
 
-Sometimes, being a maintainer is a thankless job. The lessons you learn from this experience are important steps towards becoming a leader. Hang in there! ❤️
-
-## Troubleshooting topics
-
-* [Enforcing your code of conduct](conduct/)
-* [Feeling guilty or burned out](burnout/)
-* [Finding community consensus](finding-consensus/)
-* [Handling contributions you don't want to accept](contributions/)
-* [Getting paid for open source work](getting-paid/)
+Sometimes, being a maintainer is a thankless job. If you're reading this section, however, you've taken a difficult but important first step towards leadership. From the bottom of our hearts, thank you for sharing your work and making a positive contribution to the world. 💕
