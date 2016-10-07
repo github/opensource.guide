@@ -84,13 +84,3 @@ When you feel ready, consider speaking at a conference to promote your project. 
 The best way to invite people to share and contribute to your project is to share and contribute to their projects. Helping newcomers, sharing resources, and making thoughtful contributions to others' work will help you build a positive reputation. Then, people will have context for your work and be more likely to pay attention and share what you're doing.
 
 It's never too early, or too late, to start! Even if you've launched your own project already, continue looking for find ways to be helpful to others. There is no magical formula to building an audience and reputation. Gaining the trust and respect of others takes time.
-
-## Further reading
-
-* [How to Spread The Word About Your Code](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/) by @peterc and @robnyman
-* [Tips for public speaking](http://speaking.io/) by @holman
-* [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk) by Lena Reinhard
-* [Open-Source Projects Need More Than Good Code—They Need Marketing](http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz/) by @mjasay
-* [How to make your open-source project thrive](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540) with @shazow
-* [Marketing for open-source projects](http://radek.io/2015/09/14/marketing-for-open-source-projects-1/) by @pazdera
-* [GitHub Pages inspiration](https://github.com/showcases/github-pages-examples)

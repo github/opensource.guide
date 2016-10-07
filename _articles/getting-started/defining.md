@@ -55,8 +55,3 @@ Public repositories on GitHub are covered by [GitHub's Terms of Service](https:/
 **A public repository is not open source** unless you choose an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so. (You can learn more about the legal side of open source [here](../legal/).)
 
 It's easy to add a license. You'll be [asked to add one](https://help.github.com/articles/open-source-licensing/) when you create a new repository.
-
-## Further reading
-
-* [Why open source](http://ben.balter.com/2015/11/23/why-open-source/) by @benbalter
-* [The Open Source Definition](https://opensource.org/osd)

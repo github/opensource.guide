@@ -69,10 +69,3 @@ On the other hand, if you are building a community project, you may be actively 
 If you're looking for contributions, remember that as your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project. While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
 
 If you're part of a company open sourcing a project, make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintainer-related tasks after launch, and how you want to share those tasks with your community. If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
-
-## Further reading
-
-* [Personas and Pathways for Growing Communities](http://mozillascience.github.io/working-open-workshop/personas_pathways/)
-* [Contributing to Open Source](https://guides.github.com/activities/contributing-to-open-source/)
-* [First Timers Only](http://www.firsttimersonly.com/) by @kentcdodds and @shanselman
-* [Your First PR](https://yourfirstpr.github.io/) by @charlotteis
