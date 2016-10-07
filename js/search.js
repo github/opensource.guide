@@ -1,17 +1,59 @@
 ---
-layout: false
+layout:
 ---
 
-var searchWorker = new Worker("{{ "/js/search_worker.js" | prepend: site.baseurl }}");
+var searchURL = "{{ "/search/" | prepend: site.baseurl }}";
+var replaceState = false;
+var replaceStateTimeout;
 
-searchWorker.addEventListener("message", function(e) {
-  displaySearchResults(e.data);
+window.addEventListener("popstate", function (event) {
+  if(!event.state) {
+    unsetSearchingState();
+  } else if (event.state.search) {
+    search(event.state.search);
+  }
 });
 
-var searchTerm = getQueryVariable('q');
-if (searchTerm) {
-  // Set value of search box to search parameter
-  document.getElementById('search-box').setAttribute("value", searchTerm);
+document.addEventListener("DOMContentLoaded", function(event) {
+  var searchBox = document.getElementById('search-box');
+  var searchQuery = getQueryVariable('q');
+
+  // Search term was provided in URL
+  if (searchQuery) {
+    // Set value of search box to search parameter
+    searchBox.setAttribute("value", searchQuery);
+    search(searchQuery);
+  }
+
+  // Listen for changes to search box
+  searchBox.addEventListener('keyup', function(e) {
+    search(searchBox.value);
+  });
+});
+
+var searchWorker;
+function search(searchTerm) {
+  var newURL = searchURL + "?q=" + encodeURIComponent(searchTerm);
+
+  if (replaceState) {
+    history.replaceState({search: searchTerm}, "", newURL);
+  } else {
+    history.pushState({search: searchTerm}, "", newURL);
+    replaceState = true;
+    clearTimeout(replaceStateTimeout)
+    replaceStateTimeout = setTimeout(function() { replaceState = false; }, 5000);
+  }
+
+  setSearchingState();
+
+  if(!searchWorker) {
+    searchWorker = new Worker("{{ "/js/search_worker.js" | prepend: site.baseurl }}");
+
+    searchWorker.addEventListener("message", function(e) {
+      displaySearchResults(e.data);
+    });
+  }
+
   searchWorker.postMessage(searchTerm);
 }
 
@@ -36,4 +78,12 @@ function getQueryVariable(variable) {
       return decodeURIComponent(pair[1].replace(/\+/g, '%20'));
     }
   }
+}
+
+function setSearchingState() {
+  document.body.classList.add("searching");
+}
+
+function unsetSearchingState() {
+  document.body.classList.remove("searching");
 }

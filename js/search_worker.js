@@ -1,5 +1,5 @@
 ---
-layout: false
+layout:
 ---
 // http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/
 

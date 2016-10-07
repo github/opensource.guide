@@ -3,34 +3,4 @@ layout: default
 ---
 <div class="">
 
-    <nav class="">
-      <div class="nav d-lg-block navigation bg-nav">
-        {% include contents.html %}
-      </div>
-    </nav>
-
-    <div class="main-col">
-
-      <article>
-
-        <div class="container-narrow pt-4 pt-lg-8">
-          <h1 class="mb-3 mb-lg-4 pt-md-3 pt-lg-8">{{ page.title }}</h1>
-
-          <div class="mb-8" id="search-results">
-          </div>
-        </div>
-      </article>
-
-      <footer class="bg-taupe-dark">
-        <div class="container-narrow">
-          <div class="pl-lg-4">
-            {% include footer.html %}
-          </div>
-        </div>
-      </footer>
-
-    </div>
-
 </div>
-
-<script src="{{ "/js/search.js" | prepend: site.baseurl }}?{{ site.time | date: "%s" }}"></script>
