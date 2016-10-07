@@ -13,6 +13,7 @@ var stringify = require('remark-stringify');
 var english = require('retext-english');
 var sentenceSpacing = require('retext-sentence-spacing');
 var quotes = require('retext-quotes');
+var words = require('retext-words');
 var repeated = require('retext-repeated-words');
 
 // Util stuff
@@ -31,6 +32,13 @@ var prose = unified()
   .use(english)
   .use(sentenceSpacing, {preferred: 1})
   .use(quotes, {preferred: 'straight'})
+  .use(words, {
+    "patterns": {
+      "this section": { omit: true },
+      "next section": { omit: true },
+      "this handbook": { omit: true },
+    }
+  })
   .use(repeated)
 
 // Check rigorously if `FULL_PROSE_CHECK` is in env.
@@ -87,7 +95,7 @@ var markdown = unified()
   .use(remark2retext, prose)
   .use(stringify);
 
-async.map(ignore.filter(glob.sync('**/*.md')), function(filePath, callback) {
+async.map(ignore.filter(glob.sync('_articles/**/*.md')), function(filePath, callback) {
   vfile.read(filePath, function(err, file) {
     if(err) return callback(err);
     markdown.process(file, {footnotes: true}, callback);
