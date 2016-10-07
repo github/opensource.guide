@@ -75,6 +75,10 @@ If you're [new to public speaking](http://speaking.io/), start by finding a loca
 
 When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world. Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference beforehand to tailor your talk to its attendees and increase your chances of getting accepted. You can often get a sense of a conference's audience by looking at its speakers.
 
+@ry, initial author of Node.js, [was terrified](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s) to present his work at @JSConf:
+
+> I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU....I was extremely scared, presenting this thing that I had been working on for six months....The whole time I was just thinking, oh my God. What am I doing here? I have to get out of here. This is going terribly....I've got my stupid project that doesn't even work, and what if I just walked out of this room....I don't even know these people. It wouldn't be so bad. I can just go back home, and it will be ok.
+
 ## Build your reputation
 
 The best way to invite people to share and contribute to your project is to share and contribute to their projects. Helping newcomers, sharing resources, and making thoughtful contributions to others' work will help you build a positive reputation. Then, people will have context for your work and be more likely to pay attention and share what you're doing.
