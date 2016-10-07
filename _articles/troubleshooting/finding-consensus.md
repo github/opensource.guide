@@ -16,7 +16,7 @@ In the early stages of your project, making major decisions is easy. When you wa
 
 As your project becomes more popular, more people will take interest in the decisions you make. Even if you don't have a big community of contributors, if your project has a lot of users, you'll find people weighing in on decisions or raising issues of their own.
 
-For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find a resolution. But sometimes you run into an issue that's a little bit harder to address. Here are some strategies to reach consensus.
+For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find a resolution. But sometimes you run into an issue that's a bit harder to address.
 
 * TOC
 {:toc}
