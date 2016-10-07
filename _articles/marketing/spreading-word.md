@@ -77,7 +77,7 @@ When you feel ready, consider speaking at a conference to promote your project. 
 
 @ry, initial author of Node.js, [was terrified](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s) to present his work at @JSConf:
 
-> I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU....I was extremely scared, presenting this thing that I had been working on for six months....The whole time I was just thinking 'Oh my God. What am I doing here? I have to get out of here. This is going terribly....I've got my stupid project that doesn't even work, and what if I just walked out of this room....I don't even know these people. It wouldn't be so bad. I can just go back home, and it will be ok.
+> I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU....I was extremely scared, presenting this thing that I had been working on for six months....The whole time I was just thinking, oh my God. What am I doing here? I have to get out of here. This is going terribly....I've got my stupid project that doesn't even work, and what if I just walked out of this room....I don't even know these people. It wouldn't be so bad. I can just go back home, and it will be ok.
 
 ## Build your reputation
 
