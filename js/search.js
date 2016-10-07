@@ -2,26 +2,22 @@
 layout:
 ---
 
+(function() {
+
+var searchWorker;
 var searchURL = "{{ "/search/" | prepend: site.baseurl }}";
 var replaceState = false;
 var replaceStateTimeout;
+var searchBox = document.getElementById('search-box');
 
-window.addEventListener("popstate", function (event) {
-  if(!event.state) {
-    unsetSearchingState();
-  } else if (event.state.search) {
-    search(event.state.search);
-  }
-});
+document.addEventListener("DOMContentLoaded", setup);
+window.addEventListener("popstate", maintainHistoryState);
 
-document.addEventListener("DOMContentLoaded", function(event) {
-  var searchBox = document.getElementById('search-box');
+function setup() {
   var searchQuery = getQueryVariable('q');
 
   // Search term was provided in URL
   if (searchQuery) {
-    // Set value of search box to search parameter
-    searchBox.setAttribute("value", searchQuery);
     search(searchQuery);
   }
 
@@ -29,22 +25,14 @@ document.addEventListener("DOMContentLoaded", function(event) {
   searchBox.addEventListener('keyup', function(e) {
     search(searchBox.value);
   });
-});
+}
 
-var searchWorker;
 function search(searchTerm) {
-  var newURL = searchURL + "?q=" + encodeURIComponent(searchTerm);
-
-  if (replaceState) {
-    history.replaceState({search: searchTerm}, "", newURL);
-  } else {
-    history.pushState({search: searchTerm}, "", newURL);
-    replaceState = true;
-    clearTimeout(replaceStateTimeout)
-    replaceStateTimeout = setTimeout(function() { replaceState = false; }, 5000);
-  }
-
+  updateHistory(searchTerm);
   setSearchingState();
+
+  // Set value of search box to search parameter
+  searchBox.setAttribute("value", searchTerm);
 
   if(!searchWorker) {
     searchWorker = new Worker("{{ "/js/search_worker.js" | prepend: site.baseurl }}");
@@ -87,3 +75,27 @@ function setSearchingState() {
 function unsetSearchingState() {
   document.body.classList.remove("searching");
 }
+
+function updateHistory(searchTerm) {
+  var newURL = searchURL + "?q=" + encodeURIComponent(searchTerm);
+
+  if (replaceState) {
+    history.replaceState({search: searchTerm}, "", newURL);
+  } else {
+    history.pushState({search: searchTerm}, "", newURL);
+    replaceState = true;
+    clearTimeout(replaceStateTimeout)
+    replaceStateTimeout = setTimeout(function() { replaceState = false; }, 5000);
+  }
+}
+
+// event handler for the "popstate" event
+function maintainHistoryState(event) {
+  if(!event.state) {
+    unsetSearchingState();
+  } else if (event.state.search) {
+    search(event.state.search);
+  }
+}
+
+})();

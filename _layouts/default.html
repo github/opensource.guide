@@ -22,6 +22,9 @@
                   <a href="https://github.com/{{ site.github.repository_nwo }}" class="text-small">
                     View on GitHub {% octicon arrow-right height:20 class:"v-align-middle ml-1 fill-white" aria-label:hi %}
                   </a>
+                  <a id="search-toggle" href="#search">
+                    {% octicon search height:20 class:"v-align-middle fill-white" aria-label:"Search" %}
+                  </a>
                   <form id="search-form" action="{{ "/search/" | prepend:site.baseurl }}" data-content-url="{{ "/search/content.json" | prepend:site.baseurl }}" method="get">
                     <input type="text" id="search-box" name="q" placeholder="Search…">
                   </form>
