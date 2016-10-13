@@ -40,7 +40,7 @@ There are many reasons why a person or organization might want to open source a 
 
 * **Collaboration:** Open source projects can accept changes and updates from anybody, which means they benefit from multiple skill sets and experiences. Collaboration matters to those who want to build their projects with a community, like [Hoodie](https://github.com/hoodiehq) and [Rust](https://github.com/rust-lang/rust).
 
-* **Adoption and remixing:** Open source projects can be used by anyone for any purpose. They can be shared and reused (like [React](https://github.com/facebook/react)) to reach more people, or they can be used to build something else (like [WordPress and b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md)).
+* **Adoption and remixing:** Open source projects can be used by anyone for any purpose. That means more people can use your project, or even build something else with it. For example, [WordPress](https://github.com/WordPress) is based off of a project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
 Remember: open source isn't just for software! You can open source everything from data sets to websites to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
 
