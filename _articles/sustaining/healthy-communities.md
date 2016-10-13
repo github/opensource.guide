@@ -19,7 +19,7 @@ more:
   by: "@pazdera"
 - title: Difficult People
   href: http://producingoss.com/en/producingoss.html#difficult-people
-  from: _Producing Open Source Software
+  from: Producing Open Source Software
   by: "@kfogel"
 ---
 
