@@ -63,6 +63,8 @@ No matter which stage you decide to open source your project, every project shou
 
 If your project is on GitHub, putting these in your root directory with the recommended filenames will help GitHub recognize these as special files and automatically surface them to your readers.
 
+(Why do we write important files, like README, in all caps? Many command line environments use [ASCIIbetical ordering](https://en.wikipedia.org/wiki/ASCII#Character_order), which means upper-case files appear first in a list.)
+
 As a maintainer, these components will help you communicate expectations, manage contributions, protect your, contributors', and users' legal rights, and make sure that you and your contributors have a positive experience. The more you can document for your readers up front, the less work you'll have to do later on.
 
 ## Choosing a license
@@ -139,7 +141,7 @@ In addition to communicating your expectations, your code of conduct should desc
 
 Place the CODE_OF_CONDUCT file in your project's root directory so it's easy to find.
 
-The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that has been adopted by [thousands of open source projects](http://contributor-covenant.org/adopters/). The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Angular Code of Conduct](https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md) are also two good code of conduct examples.
+The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](http://contributor-covenant.org/adopters/), including Kubernetes, Rails, and Swift. The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Angular Code of Conduct](https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md) are also two good code of conduct examples.
 
 Codes of conduct help protect not just your participants, but yourself. As you maintain your project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work.
 
