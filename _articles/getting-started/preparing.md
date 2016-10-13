@@ -9,6 +9,7 @@ more:
   by: "@mojombo"
 - title: Awesome README
   href: https://github.com/matiassingers/awesome-readme
+  by: "@matiassingers"
 - title: 18F Open Source Style Guide
   href: https://pages.18f.gov/open-source-guide/making-readmes-readable/
 - title: A Beginner's Guide to Creating a README

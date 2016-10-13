@@ -10,6 +10,9 @@ more:
 - title: The Open Source Maintainer's Dilemma
   href: https://publicobject.com/2016/05/03/the-open-source-maintainers-dilemma/
   by: "@swankjesse"
+- title: Software Maintenance and Self-Restraint
+  href: https://ariya.io/2013/01/software-maintenance-and-self-restraint/
+  by: "@ariya"
 ---
 
 Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty. Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
