@@ -14,8 +14,8 @@ We started by focusing on open source creators, because they play a critical rol
 
 ### 2017: Contributors & Consumers
 
-* [ ] Move the [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/) guide to the guide, and expand it to include community best practices for contributors.
-* [ ] Expand the guide to include content for open source consumers.
+* [ ] Move [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/) to the guide, and expand it to include community best practices for contributors.
+* [ ] Expand the Open Source Guide to include content for open source consumers.
 
 ### Beyond
 
