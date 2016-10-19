@@ -36,7 +36,7 @@ var prose = unified()
     "patterns": {
       "this section": { omit: true },
       "next section": { omit: true },
-      "this handbook": { omit: true },
+      "this guide": { omit: true },
     }
   })
   .use(repeated)

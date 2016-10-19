@@ -1,6 +1,6 @@
-# Contributing to this Handbook
+# Contributing to this Guide
 
-Thanks for checking out the Open Source Handbook! We're excited to hear and learn from you. Your experiences will benefit others who are reading and using this Handbook.
+Thanks for checking out the Open Source Guide! We're excited to hear and learn from you. Your experiences will benefit others who are reading and using this Guide.
 
 We've put together the following guidelines to help you figure out where you can best be helpful.
 
@@ -14,13 +14,13 @@ We've put together the following guidelines to help you figure out where you can
 0. [Community](#community)
 
 ## Types of contributions we're looking for
-First and foremost, this project is a forum to discuss open source best practices, then document them in the Handbook when we've found consensus. Your first contribution might be starting a new conversation, or adding to an existing conversation, around best practices. You can do so under [Issues](https://github.com/github/open-source-handbook/issues).
+First and foremost, this project is a forum to discuss open source best practices, then document them in the Guide when we've found consensus. Your first contribution might be starting a new conversation, or adding to an existing conversation, around best practices. You can do so under [Issues](https://github.com/github/open-source-handbook/issues).
 
-There are also many ways you can contribute to the Handbook directly:
+There are also many ways you can contribute to the Guide directly:
 
 * Fix editorial inconsistencies or inaccuracies
 * Revise language to be more approachable and friendly
-* Translate the Handbook into other languages
+* Translate the Guide into other languages
 * Add links to other case studies or examples that help illustrate a point (either inline, or under "Further Reading")
 * Write a new article (please open an issue to discuss before writing!)
 
@@ -31,14 +31,14 @@ Interested in making a contribution? Read on!
 Before we get started, here are a few things we expect from you (and that you should expect from others):
 
 * Be kind and thoughtful in your conversations around this project. We all come from different backgrounds and projects, which means we likely have different perspectives on "how open source is done." Try to listen to others rather than convince them that your way is correct.
-* This Handbook is released with a [Contributor Code of Conduct](./CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
+* This Guide is released with a [Contributor Code of Conduct](./CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
 * If you open a pull request, please ensure that your contribution passes all tests. If there are test failures, you will need to address them before we can merge your contribution.
 
 ## How to contribute
 
 If you'd like to contribute, start by searching through the [issues](https://github.com/github/open-source-handbook/issues) and [pull requests](https://github.com/github/open-source-handbook/pulls) to see whether someone else has raised a similar idea or question.
 
-If you don't see your idea listed, and you think it fits into the goals of this handbook, do one of the following:
+If you don't see your idea listed, and you think it fits into the goals of this guide, do one of the following:
 * **If your contribution is minor,** such as a typo fix, you can make the change and open a pull request.
 * **If your contribution is major,** such as a new article or case study, start by opening an issue first. That way, other people can weigh in on the discussion before you do any work.
 
@@ -63,7 +63,7 @@ If you've been active on this project (such as writing helpful content, answerin
 
 ## Community
 
-Handbook discussions take place on this repository's [Issues](https://github.com/github/open-source-handbook/issues) and [Pull Requests](https://github.com/github/open-source-handbook/pulls) sections. Anybody is welcome to join these conversations. There is also a [mailing list](
+Discussions about this guide take place on this repository's [Issues](https://github.com/github/open-source-handbook/issues) and [Pull Requests](https://github.com/github/open-source-handbook/pulls) sections. Anybody is welcome to join these conversations. There is also a [mailing list](
 http://eepurl.com/cecpnT) for regular updates.
 
 Wherever possible, do not take these conversations to private channels, including contacting the maintainers directly. Keeping communication public means everybody can benefit and learn from the conversation.
