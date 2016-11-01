@@ -1,4 +1,5 @@
-title: "Open Source Handbook"
+title: "Open Source Guide"
+description: "A community guide for open source creators."
 
 exclude:
   - bin
@@ -31,6 +32,7 @@ gems:
   - jekyll-mentions
   - jekyll-octicons
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 branch: gh-pages
 

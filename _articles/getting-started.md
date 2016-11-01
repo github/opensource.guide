@@ -1,6 +1,5 @@
 ---
-title: How to start an open source project
-nav: Getting started
+title: Getting started
 following: _articles/getting-started/defining.md
 contents:
   - _articles/getting-started/defining.md
@@ -33,7 +32,7 @@ For you, the best part about open source is _collaboration_. You're excited to w
 
 If community is important to you, keep an eye out for resources such as ["Building a community"](../marketing/building-community/) and ["Sustaining healthy communities"](../sustaining/healthy-communities/).
 
-## You're a company open sourcing a project
+## You work at a company open sourcing a project
 
 Your company is about to open source a previously internal project. You want to do it without breaking any laws or upsetting anyone who will interact with your project.
 
@@ -41,6 +40,6 @@ If you're hoping to become a good corporate citizen, ["The legal side of open so
 
 ---
 
-One more thing: we can give you advice on running an open source project, but we're not lawyers. Be sure to read our [disclaimer](../disclaimer/) before you dive in.
+One more thing: we can give you advice on running an open source project, but we're not lawyers. Be sure to read our [disclaimer](../notices/) before you dive in.
 
 Ready to go? Let's get started!

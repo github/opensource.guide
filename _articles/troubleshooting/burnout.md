@@ -1,6 +1,18 @@
 ---
-title: Open source project burnout
-nav: Feeling guilty or burned out
+title: Feeling guilty or burned out
+more:
+- title: Leadership, Guilt, and Pull Requests
+  href: http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/
+  by: "@progrium"
+- title: Why I Haven't Fixed Your Issue Yet
+  href: https://archive.is/j8zAk
+  by: "@michaelbromley"
+- title: The Open Source Maintainer's Dilemma
+  href: https://publicobject.com/2016/05/03/the-open-source-maintainers-dilemma/
+  by: "@swankjesse"
+- title: Software Maintenance and Self-Restraint
+  href: https://ariya.io/2013/01/software-maintenance-and-self-restraint/
+  by: "@ariya"
 ---
 
 Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty. Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
@@ -17,6 +29,10 @@ Most people who come across your project don't know anything about you or your c
 Maybe at one point you put a lot of time into your project but now circumstances have changed. You're juggling a new family and a full-time job, and you just don't have that much time to spend on open source work anymore. That's perfectly okay! Make sure other people know what's changed.
 
 Write your time constraints directly into your README. [Say no to contributions](../contributions/) you don't want to accept. If your time is purely volunteered, make sure that people are aware of your circumstances. You can even tell them exactly how many hours, or which days, you spend on the project per week. If your project is completely unmaintained or a low priority in your life, tell people that, too. [Cultivating best practices](../../sustaining/best-practices/) as a maintainer will help you protect your boundaries.
+
+[PhantomJS](https://github.com/ariya/phantomjs) used Issues to [communicate the time constraints](https://github.com/ariya/phantomjs/issues/14541) of their maintainers:
+
+> The team behind PhantomJS (@ariya @Vitallium @zackw and other occasional contributors) is committed, yet we remain a small team. None of us is paid to work on PhantomJS, thus we carry out the contribution during our spare time. For the sake of discussion, let's say that our estimated total effort is 4 hours/week.
 
 ## Write an agreement for maintainers and contributors
 
@@ -48,10 +64,8 @@ Sometimes, someone who uses your project really wants a solution that you simply
 
 If your project has other regular contributors, don't be afraid to ask them for help in reducing your workload. For example, Jekyll is experimenting with the idea of [affinity team captains](https://github.com/jekyll/jekyll/pull/5273) to triage issues and review pull requests. Affinity teams help distribute the work, while captains ensure that someone is responsible and decisions are made efficiently.
 
+If you're looking for others to pitch in, start by asking around. @vishnubob added a "Help Needed" section to the README of his project, [wait-for-it](https://github.com/vishnubob/wait-for-it#help-needed), once the work became more than he could handle:
+
+> Hi there! I wrote wait-for-it in order to help me orchestrate containers I operate at my day job. I thought it was a neat little script, so I published it. I assumed I would be its only user, but that's not what happened! wait-for-it has received more stars then all of my other public repositories put together. I had no idea this tool would solicit such an audience, and I was equally unprepared to carve out the time required to address my user's issues and patches. I would like to solicit a volunteer from the community who would be willing to be a co-maintainer of this repository.
+
 If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you. If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's a compliment that so many people want your project to live on!
-
-Further reading:
-
-* [Leadership, Guilt, and Pull Requests](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) by @progrium
-* [Why I Haven't Fixed Your Issue Yet](https://archive.is/j8zAk) by @michaelbromley
-* [The Open Source Maintainer's Dilemma](https://publicobject.com/2016/05/03/the-open-source-maintainers-dilemma/) by @swankjesse
