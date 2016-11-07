@@ -37,7 +37,7 @@ gems:
 branch: gh-pages
 
 github:
-  repository_nwo: github/open-source-handbook
+  repository_nwo: github/open-source-guide
 
 twitter:
   username: github

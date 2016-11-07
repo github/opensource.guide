@@ -1,5 +1,5 @@
 {
-  "name": "open-source-handbook",
+  "name": "open-source-guide",
   "private": true,
   "scripts": {
     "test": "script/test"

@@ -4,5 +4,5 @@ set -e
 
 script/build --config _config.yml,test/_config.yml
 bundle exec rake
-script/html-proofer -url-ignore "/github\.com\/github\/open-source-handbook/"
+script/html-proofer -url-ignore "/github\.com\/github\/open-source-guide/"
 script/test-prose

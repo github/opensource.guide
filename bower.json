@@ -1,5 +1,5 @@
 {
-  "name": "open-source-handbook",
+  "name": "open-source-guide",
   "description": "This guide is a collection of resources to help individuals, communities, and companies sustainably embrace open source software. It explains not only how to accomplish a task, but why you'd want to, and how that task fits into the larger story of consuming, contributing to, and producing open source software.",
   "main": "script/server",
   "authors": [
@@ -7,7 +7,7 @@
     "Inc. <opensource@github.com>"
   ],
   "license": "CC-BY",
-  "homepage": "https://github.com/github/open-source-handbook",
+  "homepage": "https://github.com/github/open-source-guide",
   "dependencies": {
     "anchor-js": "^3.2.1"
   }
