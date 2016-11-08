@@ -1,6 +1,6 @@
-# Contributing to this Guide
+# Contributing to Open Source Guides
 
-Thanks for checking out the Open Source Guide! We're excited to hear and learn from you. Your experiences will benefit others who are reading and using this Guide.
+Thanks for checking out the Open Source Guides! We're excited to hear and learn from you. Your experiences will benefit others who read and use these guides.
 
 We've put together the following guidelines to help you figure out where you can best be helpful.
 
@@ -14,9 +14,9 @@ We've put together the following guidelines to help you figure out where you can
 0. [Community](#community)
 
 ## Types of contributions we're looking for
-First and foremost, this project is a forum to discuss open source best practices, then document them in the guide when we've found consensus. Your first contribution might be starting a new conversation, or adding to an existing conversation, around best practices. You can do so under [Issues](https://github.com/github/open-source-guide/issues).
+First and foremost, this project is a forum to discuss open source best practices, then document them in a guide when we've found consensus. Your first contribution might be starting a new conversation, or adding to an existing conversation, around best practices. You can do so under [Issues](https://github.com/github/open-source-guide/issues).
 
-There are also many ways you can contribute to the guide directly:
+There are also many ways you can directly contribute to the guides:
 
 * Fix editorial inconsistencies or inaccuracies
 * Revise language to be more approachable and friendly
@@ -63,7 +63,7 @@ If you've been active on this project (such as writing helpful content, answerin
 
 ## Community
 
-Discussions about this guide take place on this repository's [Issues](https://github.com/github/open-source-guide/issues) and [Pull Requests](https://github.com/github/open-source-guide/pulls) sections. Anybody is welcome to join these conversations. There is also a [mailing list](
+Discussions about the Open Source Guides take place on this repository's [Issues](https://github.com/github/open-source-guide/issues) and [Pull Requests](https://github.com/github/open-source-guide/pulls) sections. Anybody is welcome to join these conversations. There is also a [mailing list](
 http://eepurl.com/cecpnT) for regular updates.
 
 Wherever possible, do not take these conversations to private channels, including contacting the maintainers directly. Keeping communication public means everybody can benefit and learn from the conversation.
