@@ -4,7 +4,7 @@ Community guides for open source creators. **[Check it out…](http://opensource
 
 ## Goals
 
-Open Source Guides are a collection of resources for individuals, communities, and companies who want to learn how to run an open source project. It gives readers enough information to get started, but it doesn't attempt to answer everything in detail.
+Open Source Guides are a collection of resources for individuals, communities, and companies who want to learn how to run an open source project. They give readers enough information to get started, but it doesn't attempt to answer everything in detail.
 
 The guides follow these principles:
 
