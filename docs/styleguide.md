@@ -19,8 +19,8 @@ When referring to people that use GitHub, use @mentions of their username instea
 
 ## Capitalization
 
-"Guide" is capitalized when referring to the "Open Source Guide", but not when saying "the guide" or "this guide".
+"Guides" is capitalized when referring to the "Open Source Guides", but not when saying "the guide" or "this guide".
 
-- :smile: Welcome to the Open Source Guide!
+- :smile: Welcome to Open Source Guides!
 - :smile: The guide is meant to..
 - :cry: The goal of this Guide is to...
