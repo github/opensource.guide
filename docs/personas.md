@@ -118,7 +118,7 @@
 
     * Can we use language that applies to both code- and non-code-centric projects?
 
-    * If we don't tailor the guide to them, will they feel isolated or ignored? Is there anything we'd miss about their experience?
+    * If we don't tailor a guide to them, will they feel isolated or ignored? Is there anything we'd miss about their experience?
 
 * Student developer
 

@@ -1,8 +1,8 @@
 # Content Model
 
-The Open Source Guide helps individuals, communities, and companies embrace open source software. It explains not only how to accomplish a task, but why you'd want to, and how that task fits into the larger story of consuming, contributing to, and producing open source software.
+Open Source Guides help individuals, communities, and companies embrace open source software. It explains not only how to accomplish a task, but why you'd want to, and how that task fits into the larger story of consuming, contributing to, and producing open source software.
 
-This content is created and curated by GitHub, and covers topics that are very relevant to GitHub users, but it is not specific to GitHub products.
+This content was originally created and curated by GitHub, and covers topics that are very relevant to GitHub users, but it is not specific to GitHub products.
 
 For content that is specific to GitHub products, see:
 
@@ -61,7 +61,7 @@ We never want to leave a user at a dead end, especially in situations where we l
 
 ### Credits
 
-In the spirit of open source, this guide aims to reuse good content that already exists and is licensed for reuse, even if it requires heavy editing to match the structure and style of the guide.
+In the spirit of open source, the guides aim to reuse good content that already exists and is licensed for reuse, even if it requires heavy editing to match the structure and style of a guide.
 
 Each piece of content should include attribution for any content that it was inspired by or derived from. The content must be published with an explicit license that allows reuse for commercial purposes (CC0, CC-BY, CC-BY-SA are all acceptable).
 
@@ -88,7 +88,7 @@ Conceptual content is structured as:
 
 ### Tactical Content
 
-Tactical content answers the question "How?". This is arguably the most common type of content developed for the guide because it is meant to describe best practices in open source. This content should explain the steps necessary to achieve a single goal. If there is not a community best practice, it should give an overview of a few approaches and reference other tactical content for details.
+Tactical content answers the question "How?". This is arguably the most common type of content developed for the guides because it is meant to describe best practices in open source. This content should explain the steps necessary to achieve a single goal. If there is not a community best practice, it should give an overview of a few approaches and reference other tactical content for details.
 
 Tactical content is structured as:
 
