@@ -1,5 +1,5 @@
 ---
-title: The legal side of open source
+title: The Legal Side of Open Source
 more:
 - title: ChooseALicense.com
   href: http://choosealicense.com
@@ -22,20 +22,39 @@ more:
 
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about.
 
-Thankfully, you don't have to start from scratch. We've got your legal needs covered. Before you dive in, be sure to read our [disclaimer](../../notices/).
+Thankfully, you don't have to start from scratch. We’ve got your legal needs covered.
 
-* TOC
-{:toc}
+Before you dig in, be sure to read our [disclaimer](../../notices/).
 
-## Why does my project need an open source license?
+## Why do people care so much about the legal side of open source?
 
-When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation. Once the work has other contributors (each a copyright holder), "nobody" starts including you.
+Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
 
-An open source license guarantees that everyone can use, modify, and share your project. It protects both you and anybody else who might interact with your project.
+In general, that’s a good thing. It means that nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
 
-Making your GitHub project public is not the same as licensing your project. Public GitHub projects allow others to view and fork your project, but your work otherwise comes with no permissions unless you add an open source license.
+Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
 
-Also, the licenses of your project's dependencies, the communities you hope will use your project, or your employer's policies may effectively require your project to use an open source license, even a specific open source license. We'll cover these situations below.
+If you don’t apply an open source license, everybody who contributes to your project also becomes an exclusive copyright holder of their work. That means nobody can use, copy, distribute, or modify their contributions -- and that "nobody" includes you.
+
+Finally, your project may have dependencies with license requirements that you weren’t aware of. Your project’s community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
+
+## Are public GitHub projects open source?
+
+When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
+
+![create repository](/assets/images/getting-started/repo-create-name.png)
+
+Making your GitHub project public is not the same as licensing your project. Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+
+If you want others to use, copy, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
+
+## I don’t want to learn all this legal stuff. Just give me the TL;DR on what I need to protect my project.
+
+You’re in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
+
+[MIT](http://choosealicense.com/licenses/mit/), [Apache 2.0](http://choosealicense.com/licenses/apache-2.0/), and [GPLv3](http://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](http://choosealicense.com/).
+
+When you create a new project on GitHub, you’ll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
 
 ## Which open source license is appropriate for my project?
 
@@ -59,15 +78,14 @@ When you create a new project on GitHub, you are given the option to select a li
 
 ## What if I want to change the license of my project?
 
-Most projects never need to change licenses. But occasionally circumstances change, e.g., as your project grows it adds dependencies or users, or your company changes strategies, any of which could require or want a different license. Also, if you neglected to license your project from the start, adding a license is effectively the same as changing licenses. There are three fundamental things to consider when adding or changing a your project's license.
+Most projects never need to change licenses. But occasionally circumstances change. For example, as your project grows it adds dependencies or users, or your company changes strategies, any of which could require or want a different license. Also, if you neglected to license your project from the start, adding a license is effectively the same as changing licenses. There are three fundamental things to consider when adding or changing a your project's license.
 
 **It's complicated.** Determining license compatibility and compliance and who holds copyright can get complicated and confusing very quickly. Switching to a new but compatible license for new releases and contributions is different from relicensing all existing contributions. Involve your legal team the first hint of any desire to change licenses. Even if you have or can obtain permission from your project's copyright holders for a license change, consider the impact of the change on your project's other users and contributors. Think of a license change as a "governance event" for your project that will more likely go smoothly with clear communications and consultation with your project's stakeholders. All the more reason to choose and use an appropriate license for your project from its inception!
-
 **Your project's existing license.** If your project's existing license is compatible with the license you want to change to, you could just start using the new license. That's because if license A is compatible with license B, you'll comply with the terms of A while complying with the terms of B (but not necessarily vice versa). So if you're currently using a permissive license (e.g., MIT), you could change to a license with more conditions, so long as you retain a copy of the MIT license and any associated copyright notices (i.e., continue to comply with the MIT license's minimal conditions). But if your current license is not permissive (e.g., copyleft, or you don't have a license) and you aren't the sole copyright holder, you couldn't just change your project's license to MIT. Essentially, with a permissive license the project's copyright holders have given permission in advance to change licenses.
 
 **Your project's existing copyright holders.** If you're the sole contributor to your project then either you or your company is the project's sole copyright holder. You can add or change to whatever license you or your company wants to. Otherwise there may be other copyright holders that you need agreement from in order to change licenses. Who are they? People who have commits in your project is a good place to start. But in some cases copyright will be held by those people's employers. In some cases people will have only made _de minimis_ contributions, but there's no hard and fast rule that contributions under some number of lines of code are not subject to copyright. What to do? It depends. For a relatively small and young project, it may be feasible to get all existing contributors to agree to a license change in an issue or pull request. For large and long-lived projects, you may have to seek out many contributors and even their heirs. Mozilla took years (2001-2006) to relicense Firefox, Thunderbird, and related software.
 
-Alternatively, you can have contributors agree in advance (via an additional contributor agreement, see below) to certain license changes under certain conditions, beyond those allowed by your existing open source license. This shifts the complexity of changing licenses a bit. You'll need more help from your lawyers up front, and you'll still want to clearly communicate with your project's stakeholders when executing a license change.
+Alternatively, you can have contributors agree in advance (via an additional contributor agreement - see below) to certain license changes under certain conditions, beyond those allowed by your existing open source license. This shifts the complexity of changing licenses a bit. You'll need more help from your lawyers up front, and you'll still want to clearly communicate with your project's stakeholders when executing a license change.
 
 ## Does my project need an additional contributor agreement?
 
@@ -88,7 +106,7 @@ If you do need to use an additional contributor agreement with your project, con
 
 ## What does my company's legal team need to know?
 
-First, they should know that you're open sourcing a project.
+If you’re releasing an open source project as a company employee, first, your legal team should know that you're open sourcing a project.
 
 For better or worse, consider letting them know even if it's a personal project. You probably have an "employee IP agreement" with your company that gives them some control of your projects, especially if they are at all related to the company's business or you use any company resources to develop the project. Your company _should_ easily give you permission, and maybe already has through an employee-friendly IP agreement or a company policy. If not, you can negotiate (for example, explain that your project serves the company' professional learning and development objectives for you), or avoid working on your project until you find a better company.
 

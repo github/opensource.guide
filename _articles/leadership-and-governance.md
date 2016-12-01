@@ -1,16 +1,12 @@
 ---
-title: Leadership & governance
-following: _articles/troubleshooting.md
+title: Leadership and Governance
 ---
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you're probably starting to wonder how to formalize your processes.
+Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow.
 
-Maybe you want to give commit access to a community member who's made significant contributions. Maybe you've gotten into a debate with your community and realized you didn't know how to resolve it.
+Maybe you want to give commit access to someone who's made significant contributions. Maybe you got into a debate with a community member and realized you didn't know how to resolve it.
 
 If you have questions about leadership and governance for open source projects, we've got answers.
-
-* TOC
-{:toc}
 
 ## What are examples of formal roles used in open source projects?
 
@@ -22,19 +18,21 @@ Here are some common roles that you might have heard of for open source projects
 
 * Committer
 
-[Node.js](https://github.com/nodejs), for example, [defines a "contributor"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951) as anyone who comments on an issue or pull request, whereas other projects would define a contributor as somebody whose pull request was accepted.
-
 For some projects, "maintainers" are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
 
 A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project (like @janl did for [CouchDB](https://github.com/apache/couchdb)) or written documentation that made the project more accessible to others (like @orta [did for CocoaPods](https://realm.io/news/orta-therox-moving-to-oss-by-default/)). Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
 
+A “contributor” could be defined as anyone who comments on an issue or pull request, as [Node.js](https://github.com/nodejs) [defines it](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951), whereas other projects would define a contributor as somebody whose pull request was accepted. The term “committer” might be used to distinguish commit access from other forms of contribution.
+
 Use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill. @jacobian, one of [Django](https://github.com/django/django)'s former BDFLs, [once told a crowd at PyCon](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s) that he is actually a mediocre programmer who joined the project a year after it started, though he's often mistaken as the "inventor" of Django.
 
-## How do I formalize leadership roles in my project?
+## How do I formalize these leadership roles?
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help. For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file. If your project has a website, you can create a team page or list your project leaders there.
+Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help. For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
 
-If your project is bigger, you may have a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas. [Rust](https://github.com/rust-lang/rust) is an example of a project that [moved from having one core team](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md) to multiple teams. For example, you could have subcommittees focused on security, issue triaging, or community conduct. Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+For a bigger project, if you have a website, create a team page or list your project leaders there. For inspiration, [PostgreSQL](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+
+If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas. For example, you could have subcommittees focused on security, issue triaging, or community conduct. [Rust](https://github.com/rust-lang/rust) is an example of a project that [moved from having one core team](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md) to multiple teams. Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
 
 Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
 
@@ -45,6 +43,8 @@ Finally, if your project is on GitHub, consider moving your project from your pe
 ## When should I give someone commit access?
 
 Some people think you should give commit access to [everybody who makes a contribution](http://felixge.de/2013/03/11/the-pull-request-hack.html). Doing so could encourage more people to feel ownership of your project. On the other hand, especially for big community projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+
+If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
 
 ## What are some of the common governance structures for open source projects?
 

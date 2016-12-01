@@ -1,6 +1,5 @@
 ---
-title: Spreading the word
-following: _articles/marketing/building-community.md
+title: Finding Users For Your Open Source Project
 more:
 - title: How to Spread The Word About Your Code
   href: https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/
@@ -24,14 +23,13 @@ more:
   href: https://github.com/showcases/github-pages-examples
 ---
 
-You've just published your project–what's next? It's time to tell everybody about your hard work! Let's go through some of the most effective ways that people promote their open source projects.
+You've just published an open source project. What's next? It's time to tell everybody about your hard work!
 
-Spreading the word is an important step in growing the popularity of your project. It can be scary to share your creativity with the world, so give yourself a high five for making it this far. 👌 💯 🙌
+There’s no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you don’t want a lot of people to discover or use your project, close this guide and keep being your awesome self.
 
-* TOC
-{:toc}
+If you are hoping that other people find and use your project, read on for the most effective ways that people promote their work.
 
-## Be able to convey who your project is for
+## Figure out your message
 
 Before you start the hard work of promoting your project, you should be able to explain what it does, and why it matters. What makes your project different or interesting? Why did you create it? Answering these questions for yourself will make it easier to convince others.
 
@@ -49,7 +47,7 @@ If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.gi
 
 **Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. They also give your project's growing community a place to convene. If you don't wish to set up these channels for your project yet, promote your own Twitter or GitHub handle in everything you do. For example, make sure it is included in your bio or slides if you speak at a meetup or event. That way, people know how to reach you or follow your work.
 
-Now that you have a marketing message for your project, and easy ways for people to reach you, let's get out there and talk to your audience!
+Now that you have a message for your project, and easy ways for people to reach you, let's get out there and talk to your audience!
 
 ## Go where your project's audience is (online)
 
@@ -69,18 +67,22 @@ If nobody pays attention or responds to your initial outreach, don't get discour
 
 ![public speaking](/assets/images/marketing/public_speaking.png)
 
-Look for meetups and conferences that are relevant to your work. Offline outreach is a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers. @mitchellh [attributes](https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md) [Vagrant](https://github.com/mitchellh/vagrant)'s growth and popularity to the talks he gave about the project.
+Offline events are a popular strategy for promoting new projects. It’s a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers. @mitchellh [attributes](https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md) [Vagrant](https://github.com/mitchellh/vagrant)'s growth and popularity to the talks he gave about the project.
 
-If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project. If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work. As you design your talk, remember to focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project. If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work. When you write your talk, remember to focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
 When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world. Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference beforehand to tailor your talk to its attendees and increase your chances of getting accepted. You can often get a sense of a conference's audience by looking at its speakers.
 
-@ry, initial author of Node.js, [was terrified](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s) to present his work at @JSConf:
+@ry, author of [Node.js](https://github.com/nodejs), [was nervous](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s) about presenting his ideas for the first time at @JSConf:
 
-> I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU....I was extremely scared, presenting this thing that I had been working on for six months....The whole time I was just thinking, oh my God. What am I doing here? I have to get out of here. This is going terribly....I've got my stupid project that doesn't even work, and what if I just walked out of this room....I don't even know these people. It wouldn't be so bad. I can just go back home, and it will be ok.
+> I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU....I was extremely scared, presenting this thing that I had been working on for six months....The whole time I was just thinking, oh my God. What am I doing here?
 
-## Build your reputation
+## Build a reputation
 
-The best way to invite people to share and contribute to your project is to share and contribute to their projects. Helping newcomers, sharing resources, and making thoughtful contributions to others' work will help you build a positive reputation. Then, people will have context for your work and be more likely to pay attention and share what you're doing.
+In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects. Helping newcomers, sharing resources, and making thoughtful contributions to others' work will help you build a positive reputation. Then, people will have context for your work and be more likely to pay attention and share what you're doing.
 
-It's never too early, or too late, to start! Even if you've launched your own project already, continue looking for find ways to be helpful to others. There is no magical formula to building an audience and reputation. Gaining the trust and respect of others takes time.
+It's never too early, or too late, to start! Even if you've launched your own project already, continue looking for find ways to be helpful to others. There is no magic formula to building an audience and reputation. Gaining the trust and respect of others takes time, and reputation building work never ends.
+
+Spreading the word is an important step in growing the popularity of your project. It can be scary to share your creativity with the world, so give yourself a high five for making it this far.
+
+Sometimes, it takes a long time before people notice your open source project. Your project will likely go through multiple phases of activity. That’s okay! Some of the most popular projects today took years to reach high levels of activity. Be patient and keep spreading the word.

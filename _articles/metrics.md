@@ -1,6 +1,5 @@
 ---
-title: Measuring success
-following: _articles/sustaining.md
+title: Open Source Metrics
 more:
 - title: Measuring Success in an Open Source Project
   href: http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/
@@ -19,16 +18,26 @@ more:
   by: "@andrew"
 ---
 
-Your project is starting to grow. 🌱 Well, you think it's growing. Is it growing? Let's talk about how to measure and track the success of your open source project.
+Your project is starting to grow. 🌱  Well, you think it's growing. Is it growing? Let's talk about how to measure and track the success of your open source project.
 
-Popularity isn't everything. Everybody gets into open source for different reasons. If [your goal](../../getting-started/setting-expectations/) was to show off your portfolio work, be transparent about your code, or just have fun, don't feel pressured to grow your project through the metrics outlined below.
+## Why measure anything?
 
-If you _are_ interested in growing your project, the following metrics will give you a framework for analyzing and tracking your progress.
+Data, when used wisely, can help you make better decisions as an open source maintainer. For example, data can help you:
 
-* TOC
-{:toc}
+* Understand how users respond to a new feature
+* Figure out where new users come from
+* Convey your project’s popularity
+* Raise money from sponsorships
 
-## Discoverability
+@mikemcquaid explained [Homebrew’s decision](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) to use Google Analytics as such:
+
+> Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
+
+On the other hand, popularity isn't everything. Everybody gets into open source for different reasons. If your goal as an open source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
+
+If you _are_ interested in understanding your project on a deeper level, the following metrics will help you analyze your work.
+
+## Discovery
 
 Before anybody can use or contribute back to your project, they need to know it exists. The first question you'll want to ask yourself, then, is: _are people finding my project?_
 
@@ -48,7 +57,7 @@ If your project is hosted on GitHub, [you can view](https://help.github.com/arti
 
 You may also want to track discoverability in specific places: for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
 
-## Usage
+## Use
 
 People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using my project?_
 
@@ -72,7 +81,7 @@ Examples of contributor metrics that you may want to regularly track include:
 
 ![contributor graph](/assets/images/marketing/repo_contributors_specific_graph.png)
 
-* **Casual contributors:** This is defined as contributors with only low number of commits. Whether that's one commit, less than five commits, or something else is up to you.
+* **Casual contributors:** This is defined as contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.
 
 * **First time vs. repeat contributors:** Helps you track whether you're getting new contributors in. Without new contributors, your project's community can become stagnant.
 

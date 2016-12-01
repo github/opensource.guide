@@ -1,23 +1,47 @@
 ---
-title: Enforcing your code of conduct
+title: Your Code of Conduct
 more:
-- title: Django Code of Conduct - Enforcement Manual
-  href: https://www.djangoproject.com/conduct/enforcement-manual/
 - title: Enforcing Your Code of Conduct
   href: http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response
   description: presentation by Audrey Eschright
-- title: The Rust Code of Conduct
-  href: https://www.rust-lang.org/en-US/conduct.html
 - title: Difficult People
   href: http://producingoss.com/en/producingoss.html#difficult-people
   from: Producing Open Source Software
   by: "@kfogel"
+- title: Code of conduct evaluations
+  href: http://geekfeminism.wikia.com/wiki/Code_of_conduct_evaluations
+  from: the Geek Feminism wiki
+- title: HOWTO design a code of conduct for your community
+  href: https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/
+  by: "Valerie Aurora"
+- title: The Rust Code of Conduct
+  href: https://www.rust-lang.org/en-US/conduct.html
+- title: Django Code of Conduct - Enforcement Manual
+  href: https://www.djangoproject.com/conduct/enforcement-manual/
+- title: Docker community guidelines
+  href: https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines
 ---
 
-Your code of conduct helps create a healthy and constructive social atmosphere for your project's community. Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a healthy and constructive social atmosphere for your community.
 
-* TOC
-{:toc}
+Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+
+A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don’t agree with.
+
+## Establishing a code of conduct
+
+In addition to communicating your expectations, a code of conduct tends to describe the following:
+
+* Where the code of conduct takes effect (only on issues and pull requests, or related community activities like events?)
+* Who the code of conduct applies to (community members and maintainers, but what about sponsors?)
+* What happens if someone violates the code of conduct
+* How someone can report violations
+
+The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](http://contributor-covenant.org/adopters/), including Kubernetes, Rails, and Swift.
+
+The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Angular Code of Conduct](https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md) are also two good code of conduct examples.
+
+Place a CODE_OF_CONDUCT file in your project's root directory, and link to it from your README, so it's visible to your community.
 
 ## Write down how you'll enforce your code of conduct
 
@@ -35,7 +59,11 @@ Don't forget that someone might want to report a violation about someone who usu
 
 > Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
 
-## Gather information about the situation
+## Enforcing your code of conduct
+
+Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+
+### Gather information about the situation
 
 Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
 
@@ -43,7 +71,7 @@ The community member in question may be a repeat offender who consistently makes
 
 Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
 
-## Take appropriate action
+### Take appropriate action
 
 After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
 
