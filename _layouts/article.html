@@ -2,47 +2,13 @@
 layout: default
 ---
 <div class="">
-
-    <nav class="">
-      <div class="nav d-lg-block navigation bg-nav">
-        {% include contents.html %}
-      </div>
-    </nav>
-
     <div class="main-col">
-
       <article>
-
         <div class="container-narrow pt-4 pt-lg-8">
 
           <h1 class="mb-3 mb-lg-4 pt-md-3 pt-lg-8">{{ page.title }}</h1>
 
-          {% if page.excerpt %}
-            <div class="lead">{{ page.excerpt }}</div>
-            {{ page.content | remove: page.excerpt }}
-          {% else %}
-            {{ content }}
-          {% endif %}
-
-          {% if page.contents %}
-            <div class="mt-6 border-bottom">
-              {% for path in page.contents %}
-                {% assign article = site.articles | where: "path", path | first %}
-
-                <div class="border-top pt-4 my-4">
-                  <h2><a href="{{ article.url }}">{{ article.title }}</a></h2>
-                  {{ article.excerpt }}
-                </div>
-              {% endfor %}
-            </div>
-          {% elsif page.following %}
-            <div class="border-top border-bottom py-4 my-4">
-              {% assign next = site.articles | where: "path", page.following | first %}
-              <div><small>Up Next:</small></div>
-              <div class="text-gamma"><a href="{{ next.url | prepend: site.baseurl }}" class="text-gamma">{{ next.title }}</a></div>
-              <p class="mb-0">{{ next.excerpt | strip_html }}</p>
-            </div>
-          {% endif %}
+          {{ content }}
 
           {% if page.more %}
             <div class="border-bottom mb-4 pb-4">
@@ -85,7 +51,5 @@ layout: default
           </div>
         </div>
       </footer>
-
     </div>
-
 </div>
