@@ -13,9 +13,9 @@ layout: landing
 
 <div class="container-wide">
   <div class="clearfix gut-3 card-landing">
-    <div class="col-md-6 mt-4 mt-lg-7">
 
       {% for article in site.articles %}
+    <div class="col-md-4 mt-4 mt-lg-7">
         <div class="card p-4">
           <h3>
             <a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a>
@@ -24,9 +24,9 @@ layout: landing
           {{ article.description }}
           </p>
         </div>
+    </div>
       {% endfor %}
 
-    </div>
   </div>
 </div><!--end container-wide-->
 
