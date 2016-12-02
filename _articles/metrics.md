@@ -1,5 +1,6 @@
 ---
 title: Open Source Metrics
+description: Cupcake ipsum dolor. Sit amet fruitcake lollipop toffee. Sweet roll muffin cupcake jelly liquorice I love muffin. Croissant I love sweet roll. Chupa chups lemon drops halvah fruitcake. Croissant pie dessert sesame snaps bear claw liquorice I love.
 more:
 - title: Measuring Success in an Open Source Project
   href: http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/

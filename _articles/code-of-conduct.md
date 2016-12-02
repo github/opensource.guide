@@ -1,5 +1,6 @@
 ---
 title: Your Code of Conduct
+description: Cupcake ipsum dolor. Sit amet chocolate bar halvah fruitcake gummi bears. Bear claw cupcake cake brownie I love. Liquorice jelly beans I love. Dragée ice cream cupcake apple pie macaroon candy canes bonbon caramels jelly beans. Caramels cake bonbon croissant. Tootsie roll topping soufflé. Sugar plum apple pie jujubes donut candy lemon drops bonbon caramels. Candy chocolate sugar plum topping cheesecake bonbon cake jelly beans.
 more:
 - title: Enforcing Your Code of Conduct
   href: http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response

@@ -1,5 +1,6 @@
 ---
 title: Getting Paid for Open Source Work
+description: Cupcake ipsum dolor sit amet cupcake liquorice. Muffin danish candy bonbon tart oat cake muffin chocolate cake. Cookie sesame snaps pudding pudding lemon drops I love jelly beans I love. Dessert jelly beans bear claw jelly-o candy pastry pie I love jelly. Dessert oat cake cheesecake carrot cake pudding I love. Ice cream pudding jujubes chocolate cake caramels bear claw marzipan lemon drops jujubes. Chocolate cake oat cake cake dragée jelly.
 more:
 - title: For Love and For Money
   href: http://lifeofaudrey.com/essays/love_and_money.html

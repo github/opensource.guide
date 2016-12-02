@@ -1,5 +1,6 @@
 ---
 title: The Beginner’s Guide to Open Source
+description: Cupcake ipsum dolor. Sit amet lollipop icing I love wafer. Dessert donut pudding chocolate cake liquorice icing. Candy cupcake I love croissant I love cake gingerbread. Biscuit gummi bears sesame snaps muffin pie jelly. Sweet bonbon tart. Topping topping chupa chups halvah fruitcake I love. Sesame snaps I love oat cake. Marzipan toffee dragée I love carrot cake pastry cheesecake.
 more:
 - title: Personas and Pathways for Growing Communities
   description: "This activity is designed to help you identify potential users and contributors, understand their goals and motivations, help them find a way into your project, and grow them into strong, committed community members."

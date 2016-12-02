@@ -1,5 +1,6 @@
 ---
 title: The Legal Side of Open Source
+description: Cupcake ipsum dolor sit amet muffin. Macaroon jelly tootsie roll cheesecake I love dessert biscuit. Tart liquorice candy canes soufflé. Sesame snaps pie pie. I love cotton candy cookie topping liquorice pastry dragée gummi bears liquorice. I love oat cake liquorice danish chocolate cake. Jujubes dessert tootsie roll I love cheesecake. Jujubes caramels jelly-o dragée tart jujubes. Jujubes I love I love I love. Pastry cotton candy jelly beans I love toffee jelly marzipan muffin.
 more:
 - title: ChooseALicense.com
   href: http://choosealicense.com

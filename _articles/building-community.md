@@ -1,5 +1,6 @@
 ---
 title: Building Welcoming Communities
+description: Cupcake ipsum dolor sit amet. Muffin chocolate topping. Biscuit toffee jelly beans cheesecake lollipop. Sweet roll oat cake candy canes pudding oat cake I love macaroon. Gummi bears sugar plum caramels soufflé danish cake. Cake tiramisu jelly-o. Chupa chups cupcake bonbon.
 more:
 - title: Growing a contributor base in modern open source
   href: https://opensource.com/life/16/5/growing-contributor-base-modern-open-source
