@@ -1,27 +1,6 @@
 ---
 title: Finding Users For Your Open Source Project
 description: Cupcake ipsum dolor sit amet toffee I love. Cookie topping lemon drops cookie jelly beans cake sweet roll. Dessert sesame snaps brownie candy candy canes. Lemon drops brownie cupcake powder chocolate topping I love danish. Tootsie roll biscuit I love. Cheesecake carrot cake carrot cake dessert lemon drops cheesecake. Sweet lemon drops cupcake gummi bears pastry soufflé donut chupa chups bonbon. Tiramisu cupcake bear claw soufflé pie gingerbread ice cream chocolate. Cheesecake jujubes tootsie roll bear claw liquorice cake I love pudding jelly.
-more:
-- title: How to Spread The Word About Your Code
-  href: https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/
-  by: "@peterc and @robnyman"
-- title: Tips for public speaking
-  href: http://speaking.io/
-  by: "@holman"
-- title: How to prepare and write a tech conference talk
-  href: http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk
-  by: "Lena Reinhard"
-- title: Open-Source Projects Need More Than Good Code—They Need Marketing
-  href: http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz/
-  by: "@mjasay"
-- title: How to make your open-source project thrive
-  href: https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540
-  by: "@shazow"
-- title: Marketing for open-source projects
-  href: http://radek.io/2015/09/14/marketing-for-open-source-projects-1/
-  by: "@pazdera"
-- title: GitHub Pages inspiration
-  href: https://github.com/showcases/github-pages-examples
 ---
 
 You've just published an open source project. What's next? It's time to tell everybody about your hard work!
@@ -38,21 +17,27 @@ If you're hoping people will use and contribute to your project, remember that p
 
 ## Help people find and follow your project
 
+> You ideally need a single ‘home’ URL that you can promote and point people to in relation to your project. You don’t need to splash out on a fancy template or even a domain name, but your project needs a focal point. - Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+
 You can help people find and remember your project by pointing them to your project's namespace—a website, Twitter handle, or IRC channel, for example.
 
 **Consider creating a website for your project.** [According to @adrianholovaty](https://news.ycombinator.com/item?id=7531689), a website was _"by far the best thing we did with Django in the early days"_. A website makes your project friendlier and easier to navigate, especially paired with clear documentation and tutorials. It also suggests that your project is active, which will make your audience feel more comfortable using it. Use examples to give people ideas for how to use your project.
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are a few more examples of excellent, comprehensive websites.
+If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
 
 ![vagrant homepage](/assets/images/marketing/vagrant_homepage.png)
 
 **Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. They also give your project's growing community a place to convene. If you don't wish to set up these channels for your project yet, promote your own Twitter or GitHub handle in everything you do. For example, make sure it is included in your bio or slides if you speak at a meetup or event. That way, people know how to reach you or follow your work.
+
+> A mistake I made in those early days was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project. - Nathan Marz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
 
 Now that you have a message for your project, and easy ways for people to reach you, let's get out there and talk to your audience!
 
 ## Go where your project's audience is (online)
 
 Take advantage of existing online communities and platforms to reach your audience. Online outreach is a great way to share and spread the word quickly, and you have the potential to reach a very wide audience.
+
+> Each program has very specific functions that only a fraction of users will find useful. Don’t spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project. - Radek Pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
 
 If your open source project is a software project, you can probably find your audience on [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work. Some ideas for sharing your project include:
 
@@ -72,6 +57,8 @@ Offline events are a popular strategy for promoting new projects. It’s a great
 
 If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project. If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work. When you write your talk, remember to focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
+> When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people. - Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+
 When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world. Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference beforehand to tailor your talk to its attendees and increase your chances of getting accepted. You can often get a sense of a conference's audience by looking at its speakers.
 
 @ry, author of [Node.js](https://github.com/nodejs), [was nervous](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s) about presenting his ideas for the first time at @JSConf:
@@ -81,6 +68,10 @@ When you feel ready, consider speaking at a conference to promote your project. 
 ## Build a reputation
 
 In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects. Helping newcomers, sharing resources, and making thoughtful contributions to others' work will help you build a positive reputation. Then, people will have context for your work and be more likely to pay attention and share what you're doing.
+
+Sometimes, these relationships can even lead to official partnerships with the wider ecosystem.
+
+> “The only reason urllib3 is the most popular third-party Python library today is because it’s part of requests.” - Andrey Petrov, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
 
 It's never too early, or too late, to start! Even if you've launched your own project already, continue looking for find ways to be helpful to others. There is no magic formula to building an audience and reputation. Gaining the trust and respect of others takes time, and reputation building work never ends.
 
