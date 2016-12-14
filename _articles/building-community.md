@@ -1,49 +1,6 @@
 ---
 title: Building Welcoming Communities
 description: Cupcake ipsum dolor sit amet. Muffin chocolate topping. Biscuit toffee jelly beans cheesecake lollipop. Sweet roll oat cake candy canes pudding oat cake I love macaroon. Gummi bears sugar plum caramels soufflé danish cake. Cake tiramisu jelly-o. Chupa chups cupcake bonbon.
-more:
-- title: Growing a contributor base in modern open source
-  href: https://opensource.com/life/16/5/growing-contributor-base-modern-open-source
-  by: "@mikeal"
-- title: Sustainable Open Source
-  href: http://writing.jan.io/2015/11/20/sustainable-open-source.html
-  by: "@janl"
-- title: How the Moya org handles contributions
-  href: https://github.com/Moya/contributors
-- title: How to use Github issues to attract new contributors
-  href: http://radek.io/2015/08/24/github-issues/
-  by: "@pazdera"
-- title: Growing the community around your open-source project
-  href: http://radek.io/2015/10/12/marketing-for-open-source-projects-5/
-  by: "@pazdera"
-- title: Welcoming Communities
-  href: http://hood.ie/blog/welcoming-communities.html
-  by: "@gr2m"
-- title: Building Popular Projects
-  href: https://ashfurrow.com/blog/building-popular-projects/
-  by: "@ashfurrow"
-- title: What makes a good community?
-  href: http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/
-  by: "@sarahsharp"
-- title: Lowering the barriers
-  href: https://the-pastry-box-project.net/charlotte-spencer/2015-september-16
-  by: "@charlotteis"
-- title: First Timers Only
-  href: https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.f0i87x7us
-  by: "@kentcdodds"
-- title: Difficult People
-  href: http://producingoss.com/en/producingoss.html#difficult-people
-  from: Producing Open Source Software
-  by: "@kfogel"
-- title: Avoiding Common Pitfalls
-  href: http://producingoss.com/en/producingoss.html#common-pitfalls)
-  from: Producing Open Source Software
-  by: "@kfogel"
-- title: "Wikipedia: Consensus-seeking decision-making"
-  href: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
-- title: Why Atom doesn't have a voting system
-  href: https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2?u=leedohm
-  by: "@lee-dohm"
 ---
 
 You've launched your project, you're spreading the word, and people are checking out your project. Awesome! Now, how do you get them to stick around? Building a welcoming community will encourage people to use, contribute to, and evangelize your project.
