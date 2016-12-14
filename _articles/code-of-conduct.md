@@ -56,7 +56,7 @@ The community member in question may be a repeat offender who consistently makes
 
 Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
 
-> Start gathering notes on the patterns you see. Make sure to include references to public archives. Once you've got a good case built, start having private conversations with other project participants. Don't tell them what you've observed; instead, first ask them what they've observed. - Karl Fogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#difficult-people)
+> Start gathering notes on the patterns you see. Make sure to include references to public archives. Once you've got a good case built, start having private conversations with other project participants. Don't tell them what you've observed; instead, first ask them what they've observed. - @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#difficult-people)
 
 ### Take appropriate action
 

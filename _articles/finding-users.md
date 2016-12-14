@@ -29,7 +29,7 @@ If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.gi
 
 **Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. They also give your project's growing community a place to convene. If you don't wish to set up these channels for your project yet, promote your own Twitter or GitHub handle in everything you do. For example, make sure it is included in your bio or slides if you speak at a meetup or event. That way, people know how to reach you or follow your work.
 
-> A mistake I made in those early days was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project. - Nathan Marz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+> A mistake I made in those early days was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project. - @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
 
 Now that you have a message for your project, and easy ways for people to reach you, let's get out there and talk to your audience!
 
@@ -37,7 +37,7 @@ Now that you have a message for your project, and easy ways for people to reach 
 
 Take advantage of existing online communities and platforms to reach your audience. Online outreach is a great way to share and spread the word quickly, and you have the potential to reach a very wide audience.
 
-> Each program has very specific functions that only a fraction of users will find useful. Don’t spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project. - Radek Pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+> Each program has very specific functions that only a fraction of users will find useful. Don’t spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project. - @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
 
 If your open source project is a software project, you can probably find your audience on [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work. Some ideas for sharing your project include:
 
@@ -71,7 +71,7 @@ In addition to the strategies outlined above, the best way to invite people to s
 
 Sometimes, these relationships can even lead to official partnerships with the wider ecosystem.
 
-> “The only reason urllib3 is the most popular third-party Python library today is because it’s part of requests.” - Andrey Petrov, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+> “The only reason urllib3 is the most popular third-party Python library today is because it’s part of requests.” - @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
 
 It's never too early, or too late, to start! Even if you've launched your own project already, continue looking for find ways to be helpful to others. There is no magic formula to building an audience and reputation. Gaining the trust and respect of others takes time, and reputation building work never ends.
 
