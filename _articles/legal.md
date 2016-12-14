@@ -53,6 +53,8 @@ If you want others to use, copy, modify, or contribute back to your project, you
 
 You’re in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
 
+> A standardized license serves as a proxy for those without legal training to know precisely what they can and can’t do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code. - @benbalter, ["Everything a government attorney needs to know about open source software licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+
 [MIT](http://choosealicense.com/licenses/mit/), [Apache 2.0](http://choosealicense.com/licenses/apache-2.0/), and [GPLv3](http://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](http://choosealicense.com/).
 
 When you create a new project on GitHub, you’ll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
@@ -75,7 +77,7 @@ You may also want to consider the **communities** you hope will use and contribu
 
 Your **company** may have specific licensing requirements for its open source projects. For example, it may require a permissive license so that the company can use your project in the company's closed source product. Or your company may require a strong copyleft license and an additional contributor agreement (see below) so that only your company, and nobody else, can use your project in closed source software. Or your company may have certain needs related to standards, social responsibility, or transparency, any of which could require a particular licensing strategy. Talk to your company's legal department (also see below).
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you'd like to see other options, check out [ChooseALicense.com](http://choosealicense.com) to find the right license for your project, even if it [isn't software](http://choosealicense.com/non-software/).
+When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you'd like to see other options, check out [choosealicense.com](http://choosealicense.com) to find the right license for your project, even if it [isn't software](http://choosealicense.com/non-software/).
 
 ## What if I want to change the license of my project?
 
@@ -95,6 +97,8 @@ Probably not. For the vast majority of open source projects, an open source lice
 Contributor agreements can create additional administrative work for project maintainers. How much work these agreements add depends on the project and implementation. A simple agreement might require that contributors confirm, with a click, that they have the rights necessary to contribute under the project open source license. A more complicated agreement might require legal review and sign-off from contributors' employers.
 
 In addition, contributor agreements are sometimes perceived as not friendly to the project's community. They can also increase the barrier to community participation by adding more paperwork than some believe is necessary.
+
+> We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base. - Bryan Cantrill, ["Brodening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
 
 Some situations where you may want to consider an additional contribution agreement for your project include:
 
@@ -116,7 +120,7 @@ If you're open sourcing a project for your company, then definitely let them kno
 * **Third party material:** Does your project have dependencies created by others or otherwise include or use others' code? If these are open source, you'll need to comply with the materials' open source licenses. That starts with choosing a license that works with the third party open source licenses (see above). If your project modifies or distributes third party open source material, then your legal team will also want to know that you're meeting other conditions of the third party open source licenses such as retaining copyright notices. If your project uses others' code that does't have an open source license, you'll probably have to ask the third party maintainers to [add an open source license](http://choosealicense.com/no-license/#for-users), and if you can't get one, stop using their code in your project.
 * **Trade secrets:** Consider whether there is anything in the project that the company does not want to make available to the general public. If so, you could open source the rest of your project, after extracting the material the you want to keep private.
 * **Patents:** Is your company applying for a patent of which open sourcing your project would constitute [public disclosure](https://en.wikipedia.org/wiki/Public_disclosure)? Sadly, you might be asked to wait (or maybe the company will reconsider the wisdom of the application). If you're expecting contributions to your project from employees of companies with large patent portfolios, your legal team may want you to use a license with an express patent grant from contributors (such as Apache 2.0 or GPLv3), or an additional contributor agreement (see above).
-* **Trademarks:** Double check that your project's name [does not conflict with any existing trademarks](../branding/#avoiding-name-conflicts). If you use your own company trademarks in the project, check that it does not cause any conflicts.
+* **Trademarks:** Double check that your project's name [does not conflict with any existing trademarks](../branding/#avoiding-name-conflicts). If you use your own company trademarks in the project, check that it does not cause any conflicts. [FOSSmarks](http://fossmarks.org/) is a practical guide to understanding trademarks in the context of free and open source projects.
 * **Privacy:** Does your project collect data on users? "Phone home" to company servers? Your legal team can help you comply with company policies and external regulations.
 
 If you're releasing your company's first open source project, the above is more than enough to get through (but don't worry, most projects shouldn't raise any major concerns).
@@ -124,6 +128,9 @@ If you're releasing your company's first open source project, the above is more 
 Longer term your legal team can do more to help the company get more from its involvement in open source, and stay safe:
 
 * **Employee contribution policies:** Consider developing a corporate policy that specifies how your employees contribute to open source projects. A clear policy will reduce confusion among your employees and help them contribute to open source projects in the company's best interest, whether as part of their jobs or in their free time. A good example is Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
+
+> Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention. - @vanl, ["A Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/))
+
 * **What to release:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) If your legal team understands and is invested in your company's open source strategy, they'll be best able to help rather than hinder your efforts.
 * **Compliance:** Even if your company doesn't release any open source projects, it uses others' open source software. [Awareness and process](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) can prevent headaches, product delays, and lawsuits.
 * **Patents:** Your company may wish to join the [Open Invention Network](http://www.openinventionnetwork.com/), a shared defensive patent pool to protect members' use of major open source projects, or explore other [alternative patent licensing](https://www.eff.org/document/hacking-patent-system-2016).
