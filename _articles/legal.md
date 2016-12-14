@@ -1,24 +1,6 @@
 ---
 title: The Legal Side of Open Source
 description: Cupcake ipsum dolor sit amet muffin. Macaroon jelly tootsie roll cheesecake I love dessert biscuit. Tart liquorice candy canes soufflé. Sesame snaps pie pie. I love cotton candy cookie topping liquorice pastry dragée gummi bears liquorice. I love oat cake liquorice danish chocolate cake. Jujubes dessert tootsie roll I love cheesecake. Jujubes caramels jelly-o dragée tart jujubes. Jujubes I love I love I love. Pastry cotton candy jelly beans I love toffee jelly marzipan muffin.
-more:
-- title: ChooseALicense.com
-  href: http://choosealicense.com
-- title: Over 70 approved licenses
-  href: https://opensource.org/licenses/alphabetical
-  description: that conform with the generally accepted definition of open source
-- title: A Model IP and Open Source Contribution Policy
-  href: https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/
-  by: "@vanl"
-- title: Broadening Node.js Contributions
-  href: https://www.joyent.com/blog/broadening-node-js-contributions
-  by: "@bcantrill"
-- title: FOSSmarks
-  href: http://fossmarks.org/
-  description: a practical guide to understanding trademarks in the context of Free and Open Source projects.
-- title: Everything a government attorney needs to know about open source software licensing
-  href: http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/
-  by: "@benbalter"
 ---
 
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about.
