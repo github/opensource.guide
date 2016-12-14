@@ -1,26 +1,6 @@
 ---
 title: Your Code of Conduct
 description: Cupcake ipsum dolor. Sit amet chocolate bar halvah fruitcake gummi bears. Bear claw cupcake cake brownie I love. Liquorice jelly beans I love. Dragée ice cream cupcake apple pie macaroon candy canes bonbon caramels jelly beans. Caramels cake bonbon croissant. Tootsie roll topping soufflé. Sugar plum apple pie jujubes donut candy lemon drops bonbon caramels. Candy chocolate sugar plum topping cheesecake bonbon cake jelly beans.
-more:
-- title: Enforcing Your Code of Conduct
-  href: http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response
-  description: presentation by Audrey Eschright
-- title: Difficult People
-  href: http://producingoss.com/en/producingoss.html#difficult-people
-  from: Producing Open Source Software
-  by: "@kfogel"
-- title: Code of conduct evaluations
-  href: http://geekfeminism.wikia.com/wiki/Code_of_conduct_evaluations
-  from: the Geek Feminism wiki
-- title: HOWTO design a code of conduct for your community
-  href: https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/
-  by: "Valerie Aurora"
-- title: The Rust Code of Conduct
-  href: https://www.rust-lang.org/en-US/conduct.html
-- title: Django Code of Conduct - Enforcement Manual
-  href: https://www.djangoproject.com/conduct/enforcement-manual/
-- title: Docker community guidelines
-  href: https://github.com/docker/docker/blob/master/CONTRIBUTING.md#docker-community-guidelines
 ---
 
 A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a healthy and constructive social atmosphere for your community.
@@ -40,11 +20,13 @@ In addition to communicating your expectations, a code of conduct tends to descr
 
 The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](http://contributor-covenant.org/adopters/), including Kubernetes, Rails, and Swift.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Angular Code of Conduct](https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md) are also two good code of conduct examples.
+The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html) are also two good code of conduct examples.
 
 Place a CODE_OF_CONDUCT file in your project's root directory, and link to it from your README, so it's visible to your community.
 
 ## Write down how you'll enforce your code of conduct
+
+> A code of conduct that isn’t (or can’t be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren’t actually important or respected in your community. - [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
 
 You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
 
@@ -60,6 +42,8 @@ Don't forget that someone might want to report a violation about someone who usu
 
 > Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
 
+For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+
 ## Enforcing your code of conduct
 
 Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
@@ -71,6 +55,8 @@ Treat each community member's voice as important as your own. If you receive a r
 The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
 
 Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+
+> Start gathering notes on the patterns you see. Make sure to include references to public archives. Once you've got a good case built, start having private conversations with other project participants. Don't tell them what you've observed; instead, first ask them what they've observed. - Karl Fogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#difficult-people)
 
 ### Take appropriate action
 
