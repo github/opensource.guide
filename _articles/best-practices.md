@@ -1,43 +1,6 @@
 ---
 title: Best Practices for Maintainers
 description: Cupcake ipsum dolor sit amet. Muffin tiramisu jelly marzipan danish pudding cookie cake. Bonbon dragée macaroon. Tart I love jelly-o jujubes toffee halvah. I love lemon drops jelly-o biscuit marzipan icing oat cake powder. I love danish marzipan soufflé chupa chups brownie pudding. Muffin dessert tootsie roll pie. Lollipop I love tootsie roll.
-more:
-- title: Leadership, Guilt, and Pull Requests
-  href: http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/
-  by: "@progrium"
-- title: Why I Haven't Fixed Your Issue Yet
-  href: https://archive.is/j8zAk
-  by: "@michaelbromley"
-- title: The Open Source Maintainer's Dilemma
-  href: https://publicobject.com/2016/05/03/the-open-source-maintainers-dilemma/
-  by: "@swankjesse"
-- title: Be Cordial or Be on Your Way
-  href: http://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way
-  by: "@kennethreitz"
-- title: A Plea for Better Open Source Etiquette
-  href: https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/
-  by: "@benilovj"
-- title: How to be an open source gardener
-  href: http://words.steveklabnik.com/how-to-be-an-open-source-gardener
-  by: "@steveklabnik"
-- title: Kindly Closing Pull Requests
-  href: https://github.com/blog/2124-kindly-closing-pull-requests
-  by: "@MikeMcQuaid"
-- title: My condolences, you're now the maintainer of a popular open source project
-  href: https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/
-  by: "@danielbachhuber"
-- title: Handling Large OSS Projects Defensively
-  href: http://artsy.github.io/blog/2016/07/03/handling-big-projects/
-  by: "@orta"
-- title: The art of closing
-  href: https://blog.jessfraz.com/post/the-art-of-closing/
-  by: "@jfrazelle"
-- title: Software Maintenance and Self-Restraint
-  href: https://ariya.io/2013/01/software-maintenance-and-self-restraint/
-  by: "@ariya"
-- title: Maintainer’s Guide to Staying Positive
-  href: https://github.com/jonschlinkert/maintainers-guide-to-staying-positive
-  by: “@jonschlinkert”
 ---
 
 If you maintain an open source project that a lot of people use, you may have noticed a lot of your work is administrative: triaging issues, responding to questions, managing a roadmap.
@@ -112,17 +75,21 @@ Regardless of the reason, it is possible to tactfully handle contributions that 
 
 If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Contributing to an open source project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, be sure to respond to their submission. Acknowledge the person behind it and thank them for their interest. It's a big compliment!
+> If you or your company are keen to benefit from community contributions, a bunch of unacknowledged year-old PRs lying around probably isn’t the best way to achieve that. - @benilovj, ["A Plea for Better Open Source Etiquette"](https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/)
+
+Don't leave an unwanted contribution open because you feel guilty or want to be nice. Firstly, over time, your unanswered issues and PRs will accumulate and make working on your project feel that much more stressful and intimidating. It's better to immediately close the contributions you know you don't want to accept. (If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage those issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).)
+
+Secondly, contributing to an open source project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, be sure to respond to their submission. Acknowledge the person behind it and thank them for their interest. It's a big compliment!
 
 If you don't want to accept the contribution, explain why and offer clear suggestions for improvement, if you're able. Be kind, but firm. Thank them for their contribution and explain why it doesn't fit into the scope of the project. Link to relevant documentation, if you have it. Then close the request.
 
-For example, when a user of [celery]() reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
 
-(link to screenshot - needs uploading)
+![celery screenshot](/assets/images/sustaining/celery.png)
 
 If you notice repeated requests for things you don't want to accept, consider adding them into your contribution policy or modifying your project's scope, so you don't have to keep repeating yourself.
 
-If the thought of saying no terrifies you, you're not alone. As @jfrazelle [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
 
 > I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
 
@@ -131,7 +98,12 @@ Don't feel guilty about not wanting to accept someone's contribution. The first 
 ### Be proactive
 
 To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide. Many projects specify that if someone is proposing a major change, that they open an issue first before doing any work. This approach reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And, if someone does make an unexpected pull request, you can point to your policy and explain that major changes need to be discussed first.
-Your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, take steps to diffuse the situation or even remove them from your community, if they're not willing to collaborate constructively.
+
+> Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work. - @mikemcquaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+
+Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, take steps to diffuse the situation or even remove them from your community, if they're not willing to collaborate constructively.
+
+> When you find yourself repeatedly dealing with a troll, there is no shame in permanently shedding the negativity by blocking the user completely. Moreover, you are under no obligation to explain yourself to the user. - @jonschlinkert, ["Maintainer's Guide to Staying Positive"](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
 
 ### Embrace mentorship
 
@@ -154,6 +126,10 @@ If you're looking for others to pitch in, start by asking around. @vishnubob add
 > Hi there! I wrote wait-for-it in order to help me orchestrate containers I operate at my day job. I thought it was a neat little script, so I published it. I assumed I would be its only user, but that's not what happened! wait-for-it has received more stars then all of my other public repositories put together. I had no idea this tool would solicit such an audience, and I was equally unprepared to carve out the time required to address my user's issues and patches. I would like to solicit a volunteer from the community who would be willing to be a co-maintainer of this repository.
 
 If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you. If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+
+@progrium [found that](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
+
+>  I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
 
 ### Let others build the solutions they need
 
@@ -192,6 +168,8 @@ For bug reports and other common contributions, GitHub has [Issue Templates and 
 
 If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept. However, if your standards are too complicated, they can increase the barriers to contribution, so make sure you're only adding enough rules to make everyone's lives easier.
 
+> There’s a fine line between using labels well and overusing them. When there’s too many or the system is too complex, people will just ignore them. - @pazdera, ["How to use Github issues to attract new contributors"](http://radek.io/2015/08/24/github-issues/)
+
 If you're not sure which tools to use, sometimes it helps to look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to potential contributors.
 
 ## It’s okay to hit pause
@@ -200,14 +178,12 @@ Open source work once brought you joy. Maybe now it's starting to make you feel 
 
 Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
 
-Although it should go without saying, take a break! You shouldn’t have to wait until you feel burned out to take a vacation. Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
-
-@brettcannon, a Python core developer, [decided to take](https://twitter.com/brettsky/status/782336211469733888) a month-long vacation from volunteer OSS work:
-
-> Month vacation from OSS volunteering starts today; no helping w/ OSS on personal time, some MLs only checked weekly, prioritize MS work
+Although it should go without saying, take a break! You shouldn’t have to wait until you feel burned out to take a vacation. Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work. For example, @brettcannon, a Python core developer, decided to take [a month-long vacation]((http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering)) after 14 years of volunteer OSS work.
 
 Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
 
 Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
 
 Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+
+> In maintaining WP-CLI, I’ve discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I’ve found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I’m working on, I can make regular progress on what I think is most important. - @danielbachhuber, ["My condolences, you’re now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)

@@ -144,6 +144,8 @@ When your community is grappling with a difficult issue, tempers may rise. Peopl
 
 Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../../sustaining/healthy-communities/#dont-tolerate-bad-actors) to keep discussions civil and productive.
 
+> As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally. - @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+
 Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly. Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you. 🙏
 
 ### Treat your README as a constitution
