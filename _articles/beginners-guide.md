@@ -13,9 +13,9 @@ When a project is open source, that means that **anybody can view, use, modify, 
 
 Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly, and because the production process is open to the public.
 
-For example, imagine you're having a picnic. Your friend Lisa makes a cherry pie and sets it out on the picnic blanket (**view**). Everybody tries the pie (**use**). It's a hit. They ask Lisa for the recipe, which she gladly provides. One friend, Joe, asks if he can use it for a dinner next week (**distribute**), to which Lisa exclaims, "Of course!". Another friend, Alex, who's a pastry chef, looks at the recipe and suggests increasing the amount of butter to make a flakier crust. (**modify**) Lisa says she'll try that next time.
+For example, imagine you're having a picnic. Your friend Lisa makes a cherry pie to share. Everybody tries the pie (**use**). It's a hit. They ask Lisa for the recipe, which she gladly provides (**view**). One friend, Joe, asks if he can use it for a dinner next week (**distribute**), to which Lisa exclaims, _"Of course!"_. Another friend, Alex, who's a pastry chef, looks at the recipe and suggests increasing the amount of butter to make a flakier crust. (**modify**) Lisa says she'll try that next time.
 
-By comparison, a closed source process would be going to a restaurant and ordering a slide of cherry pie. You must pay a fee to eat the pie, and the restaurant won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant might take action against you.
+By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant might take action against you.
 
 ### Why do people open source their work?
 
@@ -23,7 +23,9 @@ There are many reasons why a person or organization might want to open source a 
 
 * **Collaboration:** Open source projects can accept changes and updates from anybody, which means they benefit from multiple skill sets and experiences. Collaboration matters to those who want to build their projects with a community, like [Hoodie](https://github.com/hoodiehq) and [Rust](https://github.com/rust-lang/rust).
 
-* **Adoption and remixing:** Open source projects can be used by anyone for any purpose. That means more people are likely to use your project, or even build something else with it. For example, [WordPress](https://github.com/WordPress) is based off of a project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adoption and remixing:** Open source projects can be used by anyone for any purpose. That means more people are likely to use your project, or even build something else with it.
+
+> [WordPress](https://github.com/WordPress) started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
 * **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
 
@@ -92,7 +94,7 @@ As a maintainer, these components will help you communicate expectations, manage
 
 If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
 
-(Why do we write important files, like README, in all caps? Many command line environments use [ASCIIbetical ordering](https://en.wikipedia.org/wiki/ASCII#Character_order), which means upper-case files appear first in a list.)
+> Why do we write important files, like README, in all caps? Many command line environments use [ASCIIbetical ordering](https://en.wikipedia.org/wiki/ASCII#Character_order), which means upper-case files appear first in a list.
 
 ### Choosing a license
 
