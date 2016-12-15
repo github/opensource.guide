@@ -1,49 +1,6 @@
 ---
 title: Building Welcoming Communities
 description: Cupcake ipsum dolor sit amet. Muffin chocolate topping. Biscuit toffee jelly beans cheesecake lollipop. Sweet roll oat cake candy canes pudding oat cake I love macaroon. Gummi bears sugar plum caramels soufflé danish cake. Cake tiramisu jelly-o. Chupa chups cupcake bonbon.
-more:
-- title: Growing a contributor base in modern open source
-  href: https://opensource.com/life/16/5/growing-contributor-base-modern-open-source
-  by: "@mikeal"
-- title: Sustainable Open Source
-  href: http://writing.jan.io/2015/11/20/sustainable-open-source.html
-  by: "@janl"
-- title: How the Moya org handles contributions
-  href: https://github.com/Moya/contributors
-- title: How to use Github issues to attract new contributors
-  href: http://radek.io/2015/08/24/github-issues/
-  by: "@pazdera"
-- title: Growing the community around your open-source project
-  href: http://radek.io/2015/10/12/marketing-for-open-source-projects-5/
-  by: "@pazdera"
-- title: Welcoming Communities
-  href: http://hood.ie/blog/welcoming-communities.html
-  by: "@gr2m"
-- title: Building Popular Projects
-  href: https://ashfurrow.com/blog/building-popular-projects/
-  by: "@ashfurrow"
-- title: What makes a good community?
-  href: http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/
-  by: "@sarahsharp"
-- title: Lowering the barriers
-  href: https://the-pastry-box-project.net/charlotte-spencer/2015-september-16
-  by: "@charlotteis"
-- title: First Timers Only
-  href: https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.f0i87x7us
-  by: "@kentcdodds"
-- title: Difficult People
-  href: http://producingoss.com/en/producingoss.html#difficult-people
-  from: Producing Open Source Software
-  by: "@kfogel"
-- title: Avoiding Common Pitfalls
-  href: http://producingoss.com/en/producingoss.html#common-pitfalls)
-  from: Producing Open Source Software
-  by: "@kfogel"
-- title: "Wikipedia: Consensus-seeking decision-making"
-  href: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
-- title: Why Atom doesn't have a voting system
-  href: https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2?u=leedohm
-  by: "@lee-dohm"
 ---
 
 You've launched your project, you're spreading the word, and people are checking out your project. Awesome! Now, how do you get them to stick around? Building a welcoming community will encourage people to use, contribute to, and evangelize your project.
@@ -82,11 +39,16 @@ As you build your community, consider how someone at the top of the funnel (a po
 
 Start by making it easy for someone to use your project. Tutorials, clear code examples, good documentation, and a friendly README will make it easier for anyone who lands on your project to grasp its value and get started. Don't forget to document processes for non-code contributions as well, such as triaging, community management, or design.
 
+> Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns. - @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+
 For casual or first-time contributors, be open-minded about the types of contributions you'll accept. Your pool of contributors includes much more than just developers. Many contributors start with a bug report or small fix. A new contributor might write a tutorial or improve your project's documentation, because newer users notice things that more experienced users might not. Let people help how they want to help.
 
 If there's a contribution you disagree with, thank them for their idea and [explain why](../../troubleshooting/contributions/) it doesn't fit into the scope of the project. Link to existing documentation on the types of contributions you are looking for and encourage them to stay involved.
 
 ### Document everything
+
+> Have you ever been to a (tech-) event where you didn’t know anyone, but everyone else seemed to stand in groups and chat like old friends? Now imagine you want to contribute to an open source project, but you don’t see why or how this is happening and where people talk about things. - @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+
 
 When you start an open source project, it may feel natural to keep your ideas and workflows private. But open source projects thrive when you [document your process](http://www.writethedocs.org/) in public. That way, more people can participate at every step of the way. Not only will they know _what_ to contribute, but they'll also know _how_. You might get help on something you didn't even know you needed.
 
@@ -124,6 +86,8 @@ Regular debates over trivial aspects of your project distracts others, including
 
 When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../../troubleshooting/conduct/). Your [code of conduct](../../getting-started/preparing/#establishing-a-code-of-conduct) can be a constructive guide for these conversations.
 
+For inspiration, @sarahsharp [created a framework](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/) for understanding where your community is at in terms of encouraging welcoming behavior, and how you can bring your project to the next level.
+
 ### Meet contributors where they're at
 
 You started documenting your project’s needs and workflow in the early stages. Clear, comprehensive documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, use documentation to quickly get the context they need.
@@ -132,13 +96,15 @@ In your CONTRIBUTING file, explicitly tell new contributors how to get started. 
 
 > If you want to deep dive and help out with development on Read the Docs, then first get the project installed locally according to the Installation Guide. After that is done we suggest you have a look at tickets in our issue tracker that are labelled Good First Bug. These are meant to be a great way to get a smooth start and won't put you in front of the most complex parts of the system.
 
-In Issues, label bugs that are suitable for beginners: for example, _"good first bug"_, or _"first timers only"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
+In Issues, label bugs that are suitable for beginners: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05) or _"good first bug"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
 
 Finally, use your documentation to make people feel welcome at every step of the way. Remember that you will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Do your best to reduce your chances of someone leaving your project in frustration. Even a few kind words can help. For example, here's how [Rubinius](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md) starts its contributing guide:
 
 > We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
 
 ### Share ownership of your project
+
+> The biggest existential threat to your library is this: you get burned out and stop working on it – and no one else contributes to it – so it doesn’t get maintained, and your users leave. - @ashfurrow, ["Building Popular Projects"](https://ashfurrow.com/blog/building-popular-projects/)
 
 People are excited to contribute to projects when they feel as sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you can give credit to others, the more likely they are to stick around.
 
@@ -162,6 +128,8 @@ The bigger your project, and the bigger your community, the easier it is to find
 
 The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. While you may not always find someone to answer the call, putting a Batsignal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
 
+> It's in your best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it. - @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+
 ## Resolving conflicts
 
 In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
@@ -176,6 +144,8 @@ When your community is grappling with a difficult issue, tempers may rise. Peopl
 
 Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../../sustaining/healthy-communities/#dont-tolerate-bad-actors) to keep discussions civil and productive.
 
+> As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally. - @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+
 Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly. Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you. 🙏
 
 ### Treat your README as a constitution
@@ -188,7 +158,9 @@ Some projects use a voting process to make major decisions. While sensible at fi
 
 Voting can become political, where community members feel pressured to do each other favors or vote a certain way. Not everybody votes, either, whether it's the [silent majority](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in your community, or current users who didn't know a vote was taking place.
 
-Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize "consensus seeking" rather than consensus. Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
+Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) rather than consensus. Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
+
+> Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. What I can offer and pledge to do is that it is my job to listen to the community. - [@lee-dohm](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
 
 Even if you don't actually adopt a consensus seeking process, as the maintainer of your project, it's important to make sure that people know you are listening. Making other people feel heard, and committing to resolving their concerns, can go a long way in diffusing a sensitive situation. Then, follow up on your words with actions.
 
@@ -201,6 +173,8 @@ Discussion is important, but there is a difference between productive and unprod
 Allowing these conversations to continue is not only bad for the issue at hand, but bad for the health of your community. It sends a message that these types of conversations are permitted or even encouraged, and it can discourage people from raising or resolving future issues.
 
 With every point made by you or by others, ask yourself, _"How does this bring us closer to a resolution?"_ If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
+
+> Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct. - @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
 
 If a conversation clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the issue and explain why it has been closed.
 

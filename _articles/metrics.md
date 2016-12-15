@@ -1,22 +1,6 @@
 ---
 title: Open Source Metrics
 description: Cupcake ipsum dolor. Sit amet fruitcake lollipop toffee. Sweet roll muffin cupcake jelly liquorice I love muffin. Croissant I love sweet roll. Chupa chups lemon drops halvah fruitcake. Croissant pie dessert sesame snaps bear claw liquorice I love.
-more:
-- title: Measuring Success in an Open Source Project
-  href: http://blog.smartbear.com/news/measuring-success-in-an-open-source-project/
-  by: "@sjvn"
-- title: Using Pirate Metrics to measure success of open source projects
-  href: https://opensource.com/business/16/6/pirate-metrics
-  by: "@gfachler"
-- title: The Open Source Contributor Funnel
-  href: https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel
-  by: "@MikeMcQuaid"
-- title: The shape of open source
-  href: https://github.com/blog/2195-the-shape-of-open-source
-  by: "@arfon"
-- title: Libraries.io
-  href: http://libraries.io
-  by: "@andrew"
 ---
 
 Your project is starting to grow. 🌱  Well, you think it's growing. Is it growing? Let's talk about how to measure and track the success of your open source project.
@@ -28,7 +12,7 @@ Data, when used wisely, can help you make better decisions as an open source mai
 * Understand how users respond to a new feature
 * Figure out where new users come from
 * Convey your project’s popularity
-* Raise money from sponsorships
+* Raise money through sponsorships
 
 @mikemcquaid explained [Homebrew’s decision](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) to use Google Analytics as such:
 
@@ -40,7 +24,7 @@ If you _are_ interested in understanding your project on a deeper level, the fol
 
 ## Discovery
 
-Before anybody can use or contribute back to your project, they need to know it exists. The first question you'll want to ask yourself, then, is: _are people finding my project?_
+Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding my project?_
 
 ![traffic graph](/assets/images/marketing/repo_traffic_graphs_tooltip.png)
 
@@ -58,11 +42,13 @@ If your project is hosted on GitHub, [you can view](https://help.github.com/arti
 
 You may also want to track discoverability in specific places: for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
 
+> Each week, we look at multiple metrics in each level of engagement and document the data (e.g., number of downloads). We document the unique outreach activities that we did during that same week (e.g., blog posts or new releases) in parallel. This way, we are able to actively measure ourselves each week and learn about which activities are effective in increasing engagement in our project. - Gaby Fachler, ["Using Pirate Metrics to Measure Success of Open Source Projects"](https://opensource.com/business/16/6/pirate-metrics)
+
 ## Use
 
 People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using my project?_
 
-If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project's downloads. Each package manager may use a slightly different definition of "download", and downloads do not necessarily correlate to installs or use, but it provides some baseline for comparison.
+If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project's downloads. Each package manager may use a slightly different definition of "download", and downloads do not necessarily correlate to installs or use, but it provides some baseline for comparison. You can use [Libraries.io](https://libraries.io/) to track usage statistics across many popular package managers.
 
 If your project is on GitHub, navigate again to the "Traffic" page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
 
@@ -74,7 +60,7 @@ If usage is low compared to the number of people discovering your project, there
 
 People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to my project?_
 
-This is a big one. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is popular (many people use it) but not supported (not enough maintainer time to meet demand). Retention also requires an inflow of new contributors, as previously active contributors will eventually move on to other things. It's never too early to start thinking about contributors!
+This is a big one. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is popular (many people use it) but not supported (not enough maintainer time to meet demand). Retention also requires an [inflow of new contributors](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel), as previously active contributors will eventually move on to other things. It's never too early to start thinking about contributors!
 
 Examples of contributor metrics that you may want to regularly track include:
 
@@ -90,6 +76,8 @@ Examples of contributor metrics that you may want to regularly track include:
 * **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
 
 * **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
+
+> Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes. - @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Maintainer Health
 
