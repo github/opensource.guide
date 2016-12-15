@@ -6,9 +6,6 @@ title:
 contents:
   type: Array
 
-following:
-  type: String
-
 more:
   type: Array
   fields:
