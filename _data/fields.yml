@@ -5,19 +5,3 @@ title:
 
 contents:
   type: Array
-
-more:
-  type: Array
-  fields:
-    title:
-      type: String
-      required: true
-    href:
-      type: String
-      required: true
-    by:
-      type: String
-    from:
-      type: String
-    description:
-      type: String
