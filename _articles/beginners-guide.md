@@ -1,46 +1,6 @@
 ---
 title: The Beginner’s Guide to Open Source
 description: Cupcake ipsum dolor. Sit amet lollipop icing I love wafer. Dessert donut pudding chocolate cake liquorice icing. Candy cupcake I love croissant I love cake gingerbread. Biscuit gummi bears sesame snaps muffin pie jelly. Sweet bonbon tart. Topping topping chupa chups halvah fruitcake I love. Sesame snaps I love oat cake. Marzipan toffee dragée I love carrot cake pastry cheesecake.
-more:
-- title: Personas and Pathways for Growing Communities
-  description: "This activity is designed to help you identify potential users and contributors, understand their goals and motivations, help them find a way into your project, and grow them into strong, committed community members."
-  href: http://mozillascience.github.io/working-open-workshop/personas_pathways/
-- title: Readme Driven Development
-  href: http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
-  by: "@mojombo"
-- title: Contributing to Open Source
-  href: https://guides.github.com/activities/contributing-to-open-source/
-- title: Choose a Good Name
-  href: http://producingoss.com/en/getting-started.html#choosing-a-name
-  from: Producing Open Source Software
-  by: "@kfogel"
-- title: Hemingway
-  href: http://www.hemingwayapp.com/
-  description: tool to help you write in simple, clear prose
-- title: ChooseALicense.com
-  href: http://choosealicense.com
-- title: Awesome README
-  href: https://github.com/matiassingers/awesome-readme
-  by: "@matiassingers"
-- title: 18F Open Source Style Guide
-  href: https://pages.18f.gov/open-source-guide/making-readmes-readable/
-- title: A Beginner's Guide to Creating a README
-  href: https://changelog.com/a-beginners-guide-to-creating-a-readme/
-  by: "@beverlynelson"
-- title: README.md template
-  href: https://gist.github.com/jxson/1784669
-  by: "@jxson"
-- title: Contributing Guidelines
-  href: https://github.com/blog/1184-contributing-guidelines
-  by: "@vinbarnes"
-- title: Contributing to Open Source Projects
-  href: http://www.contribution-guide.org/
-  by: "@bitprophet"
-- title: "Contributing Guides: A Template"
-  href: https://github.com/nayafia/contributing-template
-  by: "@nayafia"
-- title: "Wrangling Web Contributions: How to Build a CONTRIBUTING.md"
-  href: http://mozillascience.github.io/working-open-workshop/contributing/
 ---
 
 So you're thinking about making your project open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is, why people do it, and how to launch your own open source project.
@@ -115,7 +75,7 @@ If you’re not sure which project you’d like to contribute to, there are many
 
 ## Launching your own open source project
 
-You've written down your goals, you've [chosen a name](link to naming section) and an idea, and hopefully you've been hard at work building your project. (Haven't started yet? [Create a repository!](https://help.github.com/articles/create-a-repo/))
+You've written down your goals, you've chosen a name and an idea, and hopefully you've been hard at work building your project. (Haven't started yet? [Create a repository!](https://help.github.com/articles/create-a-repo/))
 
 Feel ready to launch? Let's talk about what to include in an open source project before sharing it with the world.
 
@@ -152,7 +112,7 @@ If you have other questions or concerns around the legal aspects of managing an 
 
 ### Writing a README
 
-READMEs do more than explain how to use your project. It should also explain why your project matters and what your users can do with it.
+READMEs [do more than explain](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) how to use your project. It should also explain why your project matters and what your users can do with it.
 
 In your README, try to answer the following questions:
 
@@ -162,11 +122,14 @@ In your README, try to answer the following questions:
 * Where can I get more help, if I need it?
 
 For example, @sindresorhus uses the [Pageres](https://github.com/sindresorhus/pageres) README to explain not just *what* the project is, but also *why* it’s useful:
-> Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive. It's speedy and generates 100 screenshots from 10 different websites in just over a minute. It can also be used to render SVG images.
+
+>Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive. It's speedy and generates 100 screenshots from 10 different websites in just over a minute. It can also be used to render SVG images.
 
 You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
 
 Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+
+@18F's ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) is a template you can use to write a complete README. For more inspiration, check out @matiassingers' list of [awesome READMEs](https://github.com/matiassingers/awesome-readme).
 
 When you include a README file in the root directory, GitHub will automatically display it on your project repository's homepage. It will be the first thing someone sees when they arrive.
 
@@ -195,6 +158,8 @@ For example, [Active Admin](https://github.com/activeadmin/activeadmin/blob/mast
 In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
 
 Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+
+For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/).
 
 Link to your CONTRIBUTING file from your README, so more people see it.  If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
 
@@ -230,6 +195,8 @@ If you're building upon an existing project, using their name as a prefix can he
 
 Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. For example, some of your potential users might be company employees; you don't want to make them uncomfortable when they explain your project at work!
 
+For more tips on naming, check out @kfogel's section in _Producing OSS_ on [choosing a project name](http://producingoss.com/en/getting-started.html#choosing-a-name).
+
 ### Avoiding name conflicts
 
 You'll [also want to check](http://ivantomic.com/projects/ospnc/) for open source projects with a similar name, especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
@@ -250,7 +217,7 @@ Throughout the life of your project, you'll do a lot of writing: READMEs, tutori
 >
 > Every time I join and read, I see the culture that I helped plant there seven years ago and it makes me very proud.
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Also consider using simple language when writing, as many of your readers may not be native English speakers.
+Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Also consider using simple language when writing, as many of your readers may not be native English speakers. You can use [Hemingway](http://www.hemingwayapp.com/) to find quick ways to simplify your language.
 
 Beyond how you write words, your coding style may also become part of your project's brand. For example, [Angular](https://github.com/johnpapa/angular-styleguide) and [jQuery](http://contribute.jquery.org/style-guide/js/) are two projects with rigorous coding styles and guidelines.
 

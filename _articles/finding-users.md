@@ -15,6 +15,8 @@ Before you start the hard work of promoting your project, you should be able to 
 
 If you're hoping people will use and contribute to your project, remember that people get involved because it solves a problem for them. As you think about your project's message and value, try to view it through the lens of what _they_ might want.
 
+Mozilla offers [some helpful exercises](http://mozillascience.github.io/working-open-workshop/personas_pathways/) for thinking about your community's user personas.
+
 ## Help people find and follow your project
 
 > You ideally need a single ‘home’ URL that you can promote and point people to in relation to your project. You don’t need to splash out on a fancy template or even a domain name, but your project needs a focal point. - Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
