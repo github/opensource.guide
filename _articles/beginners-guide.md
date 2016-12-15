@@ -13,11 +13,9 @@ When a project is open source, that means that **anybody can view, use, modify, 
 
 Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly, and because the production process is open to the public.
 
-For example, imagine you want to make a website. You will need a programming language to write it.
+For example, imagine you're having a picnic. Your friend Lisa makes a cherry pie and sets it out on the picnic blanket (**view**). Everybody tries the pie (**use**). It's a hit. They ask Lisa for the recipe, which she gladly provides. One friend, Joe, asks if he can use it for a dinner next week (**distribute**), to which Lisa exclaims, "Of course!". Another friend, Alex, who's a pastry chef, looks at the recipe and suggests increasing the amount of butter to make a flakier crust. (**modify**) Lisa says she'll try that next time.
 
-Many commonly used programming languages, such as [Ruby](https://github.com/ruby/ruby), are open source. Because they're open source, you're free to download and use them as you wish. You can use Ruby to teach classes, or build a website that makes money. You can view the code that powers Ruby, so you know exactly what you're putting into your website. You can even contribute changes back to the Ruby language, or modify it for your own purposes.
-
-By comparison, if you were to use a closed source language to build your website, you couldn't change or inspect the code, because it is under exclusive copyright. You might have to pay to use it, or be prevented from using it for commercial purposes.
+By comparison, a closed source process would be going to a restaurant and ordering a slide of cherry pie. You must pay a fee to eat the pie, and the restaurant won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant might take action against you.
 
 ### Why do people open source their work?
 
