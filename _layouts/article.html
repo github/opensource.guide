@@ -10,23 +10,6 @@ layout: default
 
           {{ content }}
 
-          {% if page.more %}
-            <div class="border-bottom mb-4 pb-4">
-              <h2>Further reading</h2>
-
-              <ul>
-                {% for ref in page.more %}
-                  <li>
-                    <a href="{{ ref.href }}">{{ ref.title }}</a>
-                    {% if ref.description %}{{ ref.description }}{% endif %}
-                    {% if ref.from %} from <em>{{ ref.from }}</em>{% endif %}
-                    {% if ref.by %} by {{ ref.by }}{% endif %}
-                  </li>
-                {% endfor %}
-              </ul>
-            </div>
-          {% endif %}
-
           <div class="my-md-4 py-3">
             <div class="clearfix">
               <div class="float-left">
