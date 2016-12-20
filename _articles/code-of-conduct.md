@@ -7,7 +7,7 @@ A code of conduct is a document that establishes expectations for behavior for y
 
 Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don’t agree with.
+A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
 
 ## Establishing a code of conduct
 
@@ -26,7 +26,7 @@ Place a CODE_OF_CONDUCT file in your project's root directory, and link to it fr
 
 ## Write down how you'll enforce your code of conduct
 
-> A code of conduct that isn’t (or can’t be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren’t actually important or respected in your community. - [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+> A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community. - [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
 
 You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
 

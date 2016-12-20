@@ -43,12 +43,11 @@ Start by making it easy for someone to use your project. Tutorials, clear code e
 
 For casual or first-time contributors, be open-minded about the types of contributions you'll accept. Your pool of contributors includes much more than just developers. Many contributors start with a bug report or small fix. A new contributor might write a tutorial or improve your project's documentation, because newer users notice things that more experienced users might not. Let people help how they want to help.
 
-If there's a contribution you disagree with, thank them for their idea and [explain why](../../troubleshooting/contributions/) it doesn't fit into the scope of the project. Link to existing documentation on the types of contributions you are looking for and encourage them to stay involved.
+If there's a contribution you disagree with, thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project. Link to existing documentation on the types of contributions you are looking for and encourage them to stay involved.
 
 ### Document everything
 
-> Have you ever been to a (tech-) event where you didn’t know anyone, but everyone else seemed to stand in groups and chat like old friends? Now imagine you want to contribute to an open source project, but you don’t see why or how this is happening and where people talk about things. - @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
-
+> Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? Now imagine you want to contribute to an open source project, but you don't see why or how this is happening and where people talk about things. - @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 When you start an open source project, it may feel natural to keep your ideas and workflows private. But open source projects thrive when you [document your process](http://www.writethedocs.org/) in public. That way, more people can participate at every step of the way. Not only will they know _what_ to contribute, but they'll also know _how_. You might get help on something you didn't even know you needed.
 
@@ -70,7 +69,7 @@ Notable exceptions to public communication are: 1) security issues and 2) sensit
 
 ## Growing your community
 
-Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. But as your project’s community grows, there are ways to help it become a force of construction, not destruction.
+Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. But as your project's community grows, there are ways to help it become a force of construction, not destruction.
 
 The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. Sometimes these are also called ["drive-through contributors"](https://lwn.net/Articles/688560/).
 
@@ -84,15 +83,15 @@ Do your best to adopt a zero-tolerance policy towards these types of people. If 
 
 Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../../troubleshooting/conduct/). Your [code of conduct](../../getting-started/preparing/#establishing-a-code-of-conduct) can be a constructive guide for these conversations.
+When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
 
 For inspiration, @sarahsharp [created a framework](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/) for understanding where your community is at in terms of encouraging welcoming behavior, and how you can bring your project to the next level.
 
 ### Meet contributors where they're at
 
-You started documenting your project’s needs and workflow in the early stages. Clear, comprehensive documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, use documentation to quickly get the context they need.
+You started documenting your project's needs and workflow in the early stages. Clear, comprehensive documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, use documentation to quickly get the context they need.
 
-In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. For example, [Read the Docs](http://docs.readthedocs.io/en/latest/contribute.html#contributing-to-development) tells its readers:
+In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. For example, [Read the Docs](https://github.com/rtfd/readthedocs.org/blob/master/docs/contribute.rst#contributing-to-development) tells its readers:
 
 > If you want to deep dive and help out with development on Read the Docs, then first get the project installed locally according to the Installation Guide. After that is done we suggest you have a look at tickets in our issue tracker that are labelled Good First Bug. These are meant to be a great way to get a smooth start and won't put you in front of the most complex parts of the system.
 
@@ -104,7 +103,7 @@ Finally, use your documentation to make people feel welcome at every step of the
 
 ### Share ownership of your project
 
-> The biggest existential threat to your library is this: you get burned out and stop working on it – and no one else contributes to it – so it doesn’t get maintained, and your users leave. - @ashfurrow, ["Building Popular Projects"](https://ashfurrow.com/blog/building-popular-projects/)
+> The biggest existential threat to your library is this: you get burned out and stop working on it – and no one else contributes to it – so it doesn't get maintained, and your users leave. - @ashfurrow, ["Building Popular Projects"](https://ashfurrow.com/blog/building-popular-projects/)
 
 People are excited to contribute to projects when they feel as sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you can give credit to others, the more likely they are to stick around.
 
@@ -124,7 +123,7 @@ See if you can find ways to share ownership with your community as much as possi
 
 * **Consider giving every contributor commit access.** @felixge found that this made people [more excited to polish their patches](http://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
 
-The bigger your project, and the bigger your community, the easier it is to find help. [Django](https://github.com/django/django)'s original BDFLs ([benevolent dictators for life](../../sustaining/leadership/#what-are-some-of-the-common-governance-structures-for-open-source-projects)), @adrianholovaty and @jacobian, [both](http://www.holovaty.com/writing/bdfls-retiring/) [retired](https://jacobian.org/writing/retiring-as-bdfls/) after 9 years when they felt the community had outgrown them.
+The bigger your project, and the bigger your community, the easier it is to find help. [Django](https://github.com/django/django)'s original BDFLs ([benevolent dictators for life](../leadership-and-governance/#what-are-some-of-the-common-governance-structures-for-open-source-projects)), @adrianholovaty and @jacobian, [both](http://www.holovaty.com/writing/bdfls-retiring/) [retired](https://jacobian.org/writing/retiring-as-bdfls/) after 9 years when they felt the community had outgrown them.
 
 The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. While you may not always find someone to answer the call, putting a Batsignal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
 
@@ -142,7 +141,7 @@ For the most part, if you've cultivated a friendly, respectful community and doc
 
 When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../../sustaining/healthy-communities/#dont-tolerate-bad-actors) to keep discussions civil and productive.
+Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
 
 > As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally. - @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
 
@@ -150,7 +149,7 @@ Other people are looking to you for guidance. Set a good example. You can still 
 
 ### Treat your README as a constitution
 
-Your README is [more than just a set of instructions](../../getting-started/preparing/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people become overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher goals and vision of your project. Focusing on the README can also help depersonalize the conversation around a specific idea, so you can have a constructive discussion.
+Your README is [more than just a set of instructions](../beginners-guide/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people become overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher goals and vision of your project. Focusing on the README can also help depersonalize the conversation around a specific idea, so you can have a constructive discussion.
 
 ### Focus on the journey, not the destination
 

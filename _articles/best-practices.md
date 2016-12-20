@@ -9,11 +9,11 @@ While these tasks can be less fun than coding or writing, there are ways to make
 
 ## Documenting your processes
 
-Writing documentation is one of the most important things you can do as a maintainer. Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask. Even if you don’t use full paragraphs, jotting down bullet points is better than not writing at all.
+Writing documentation is one of the most important things you can do as a maintainer. Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask. Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
 
 These types of exercises may seem trivial, but the more you know yourself and your limits (not just abilities!), the easier it is to say no when something doesn't fit into your scope, or you feel overwhelmed by requests. Defining your project's scope also makes closing pull requests with "scope creep" easier.
 
-### Write down your project’s vision
+### Write down your project's vision
 
 Start by writing down the goals of your project. Add them to your README. If there are other artifacts that could help, like a project roadmap, make those public as well.
 
@@ -41,9 +41,9 @@ For example, as a maintainer, you might promise to acknowledge every contributio
 
 ### Keep communication public
 
-Don’t forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
 
-If you meet with other maintainers, or make a major decision in private, be sure to write about these conversations in public, even if it’s just posting your notes. That way, anybody who joins your community will have access to the same information as someone who’s been there for years.
+If you meet with other maintainers, or make a major decision in private, be sure to write about these conversations in public, even if it's just posting your notes. That way, anybody who joins your community will have access to the same information as someone who's been there for years.
 
 ### Be transparent about your circumstances
 
@@ -53,7 +53,7 @@ Maybe at one point you put a lot of time into your project, but now circumstance
 
 If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
 
-Write your time constraints directly into your README, and make them public so others understand your priorities, too. You can even explain exactly how many hours, or which days, you spend on the project per week. If your project is completely unmaintained or a low priority in your life, tell people that, too. [Cultivating best practices](../../sustaining/best-practices/) as a maintainer will help you protect your boundaries.
+Write your time constraints directly into your README, and make them public so others understand your priorities, too. You can even explain exactly how many hours, or which days, you spend on the project per week. If your project is completely unmaintained or a low priority in your life, tell people that, too.
 
 [PhantomJS](https://github.com/ariya/phantomjs) used Issues to [communicate the time constraints](https://github.com/ariya/phantomjs/issues/14541) of their maintainers:
 
@@ -61,9 +61,9 @@ Write your time constraints directly into your README, and make them public so o
 
 ## Learning to say no
 
-You’ve written down your rules. Ideally, everybody would read your documentation, but in reality, you will probably have to remind others that this knowledge exists.
+You've written down your rules. Ideally, everybody would read your documentation, but in reality, you will probably have to remind others that this knowledge exists.
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules. Saying no isn’t fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+Having everything written down, however, helps depersonalize situations when you do need to enforce your rules. Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
 
 Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
 
@@ -75,7 +75,7 @@ Regardless of the reason, it is possible to tactfully handle contributions that 
 
 If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
 
-> If you or your company are keen to benefit from community contributions, a bunch of unacknowledged year-old PRs lying around probably isn’t the best way to achieve that. - @benilovj, ["A Plea for Better Open Source Etiquette"](https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/)
+> If you or your company are keen to benefit from community contributions, a bunch of unacknowledged year-old PRs lying around probably isn't the best way to achieve that. - @benilovj, ["A Plea for Better Open Source Etiquette"](https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/)
 
 Don't leave an unwanted contribution open because you feel guilty or want to be nice. Firstly, over time, your unanswered issues and PRs will accumulate and make working on your project feel that much more stressful and intimidating. It's better to immediately close the contributions you know you don't want to accept. (If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage those issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).)
 
@@ -113,7 +113,7 @@ If you see that someone is enthusiastic about your project, but needs a bit of p
 
 ## Leverage your community
 
-You don’t have to do everything yourself. Your project’s community exists for a reason! Even if you don’t yet have an active contributor community, if you have a lot of users, put them to work.
+You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
 
 ### Share the workload
 
@@ -129,7 +129,7 @@ If you need to step away from your project, either on hiatus or permanently, the
 
 @progrium [found that](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
 
->  I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
+> I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
 
 ### Let others build the solutions they need
 
@@ -168,17 +168,17 @@ For bug reports and other common contributions, GitHub has [Issue Templates and 
 
 If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept. However, if your standards are too complicated, they can increase the barriers to contribution, so make sure you're only adding enough rules to make everyone's lives easier.
 
-> There’s a fine line between using labels well and overusing them. When there’s too many or the system is too complex, people will just ignore them. - @pazdera, ["How to use Github issues to attract new contributors"](http://radek.io/2015/08/24/github-issues/)
+> There's a fine line between using labels well and overusing them. When there's too many or the system is too complex, people will just ignore them. - @pazdera, ["How to use Github issues to attract new contributors"](http://radek.io/2015/08/24/github-issues/)
 
 If you're not sure which tools to use, sometimes it helps to look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to potential contributors.
 
-## It’s okay to hit pause
+## It's okay to hit pause
 
 Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty. Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
 
 Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
 
-Although it should go without saying, take a break! You shouldn’t have to wait until you feel burned out to take a vacation. Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work. For example, @brettcannon, a Python core developer, decided to take [a month-long vacation]((http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering)) after 14 years of volunteer OSS work.
+Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work. For example, @brettcannon, a Python core developer, decided to take [a month-long vacation](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering) after 14 years of volunteer OSS work.
 
 Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
 
@@ -186,4 +186,4 @@ Do your best to find support for your users and community while you're away from
 
 Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
 
-> In maintaining WP-CLI, I’ve discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I’ve found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I’m working on, I can make regular progress on what I think is most important. - @danielbachhuber, ["My condolences, you’re now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+> In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important. - @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)

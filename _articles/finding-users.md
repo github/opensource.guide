@@ -3,11 +3,9 @@ title: Finding Users For Your Open Source Project
 description: Cupcake ipsum dolor sit amet toffee I love. Cookie topping lemon drops cookie jelly beans cake sweet roll. Dessert sesame snaps brownie candy candy canes. Lemon drops brownie cupcake powder chocolate topping I love danish. Tootsie roll biscuit I love. Cheesecake carrot cake carrot cake dessert lemon drops cheesecake. Sweet lemon drops cupcake gummi bears pastry soufflé donut chupa chups bonbon. Tiramisu cupcake bear claw soufflé pie gingerbread ice cream chocolate. Cheesecake jujubes tootsie roll bear claw liquorice cake I love pudding jelly.
 ---
 
-You've just published an open source project. What's next? It's time to tell everybody about your hard work!
+You've just published an open source project. If you are hoping that other people find and use your project, then it's time to tell everybody about your hard work!
 
-There’s no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you don’t want a lot of people to discover or use your project, close this guide and keep being your awesome self.
-
-If you are hoping that other people find and use your project, read on for the most effective ways that people promote their work.
+There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you don't want a lot of people to discover or use your project, then go on and keep being your awesome self.
 
 ## Figure out your message
 
@@ -19,7 +17,7 @@ Mozilla offers [some helpful exercises](http://mozillascience.github.io/working-
 
 ## Help people find and follow your project
 
-> You ideally need a single ‘home’ URL that you can promote and point people to in relation to your project. You don’t need to splash out on a fancy template or even a domain name, but your project needs a focal point. - Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+> You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point. - Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
 
 You can help people find and remember your project by pointing them to your project's namespace—a website, Twitter handle, or IRC channel, for example.
 
@@ -39,7 +37,7 @@ Now that you have a message for your project, and easy ways for people to reach 
 
 Take advantage of existing online communities and platforms to reach your audience. Online outreach is a great way to share and spread the word quickly, and you have the potential to reach a very wide audience.
 
-> Each program has very specific functions that only a fraction of users will find useful. Don’t spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project. - @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+> Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project. - @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
 
 If your open source project is a software project, you can probably find your audience on [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work. Some ideas for sharing your project include:
 
@@ -55,7 +53,7 @@ If nobody pays attention or responds to your initial outreach, don't get discour
 
 ![public speaking](/assets/images/marketing/public_speaking.png)
 
-Offline events are a popular strategy for promoting new projects. It’s a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers. @mitchellh [attributes](https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md) [Vagrant](https://github.com/mitchellh/vagrant)'s growth and popularity to the talks he gave about the project.
+Offline events are a popular strategy for promoting new projects. It's a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers. @mitchellh [attributes](https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md) [Vagrant](https://github.com/mitchellh/vagrant)'s growth and popularity to the talks he gave about the project.
 
 If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project. If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work. When you write your talk, remember to focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
@@ -73,10 +71,10 @@ In addition to the strategies outlined above, the best way to invite people to s
 
 Sometimes, these relationships can even lead to official partnerships with the wider ecosystem.
 
-> “The only reason urllib3 is the most popular third-party Python library today is because it’s part of requests.” - @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+> "The only reason urllib3 is the most popular third-party Python library today is because it's part of requests." - @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
 
 It's never too early, or too late, to start! Even if you've launched your own project already, continue looking for find ways to be helpful to others. There is no magic formula to building an audience and reputation. Gaining the trust and respect of others takes time, and reputation building work never ends.
 
 Spreading the word is an important step in growing the popularity of your project. It can be scary to share your creativity with the world, so give yourself a high five for making it this far.
 
-Sometimes, it takes a long time before people notice your open source project. Your project will likely go through multiple phases of activity. That’s okay! Some of the most popular projects today took years to reach high levels of activity. Be patient and keep spreading the word.
+Sometimes, it takes a long time before people notice your open source project. Your project will likely go through multiple phases of activity. That's okay! Some of the most popular projects today took years to reach high levels of activity. Be patient and keep spreading the word.
