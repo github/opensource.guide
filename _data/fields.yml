@@ -1,7 +1,11 @@
 # Each piece of content has YAML front matter with these properties:
 
 title:
+  type: String
   required: true
 
 contents:
   type: Array
+
+description:
+  type: String
