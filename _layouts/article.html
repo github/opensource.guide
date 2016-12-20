@@ -1,23 +1,38 @@
 ---
 layout: default
 ---
+<div class="">
+    <div class="main-col">
+      <article>
+        <div class="container-narrow pt-4 pt-lg-8">
 
-<h1>{{ page.title }}</h1>
+          <h1 class="mb-3 mb-lg-4 pt-md-3 pt-lg-8">{{ page.title }}</h1>
 
-<a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}">
-  Suggest edits
-</a>
+          {{ content }}
 
-{{ content }}
+          <div class="my-md-4 py-3">
+            <div class="clearfix">
+              <div class="float-left">
+                {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
+              </div>
+              <div class="overflow-hidden">
+                <span class="d-block d-md-inline">This content is open source.</span>
+                <a href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
+                  Please help improve it.
+                </a>
+              </div>
+            </div>
+          </div>
 
-<p>
-  {% assign previous = site.pages | where: "next", page.path | first %}
-  {% if previous %}
-    Previous: <a href="{{ previous.url | prepend: site.baseurl }}">{{ previous.title }}</a> |
-  {% endif %}
+        </div>
+      </article>
 
-  {% if page.next %}
-    {% assign next = site.pages | where: "path", page.next | first %}
-    Next: <a href="{{ next.url | prepend: site.baseurl }}">{{ next.title }}</a>
-  {% endif %}
-</p>
+      <footer class="bg-taupe-dark">
+        <div class="container-narrow">
+          <div class="pl-lg-4">
+            {% include footer.html %}
+          </div>
+        </div>
+      </footer>
+    </div>
+</div>

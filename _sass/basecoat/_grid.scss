@@ -1,0 +1,126 @@
+// GRID
+
+// Container widths
+//
+// Set the container width, and override it for fixed navbars in media queries.
+
+[class*="container"] {
+  width: 100%;
+  padding-left: $container-padding;
+  padding-right: $container-padding;
+
+  @include breakpoint(md) {
+    padding-left: $container-padding*2;
+    padding-right: $container-padding*2;
+  }
+
+  @include breakpoint(lg) {
+    padding-left: $container-padding*3;
+    padding-right: $container-padding*3;
+  }
+}
+
+.container {
+  max-width: $container-width + ($container-padding*2);
+  margin: 0 auto;
+}
+
+.container-narrow {
+  max-width: $container-narrow-width + ($container-padding*2);
+  margin: 0 auto;
+}
+
+.container-wide {
+  max-width: $container-wide-width + ($container-padding*2);
+  margin: 0 auto;
+}
+
+// Gutters
+
+@mixin gutters ($gutter-width: $spacer3) {
+  margin-right: -$gutter-width;
+  margin-left: -$gutter-width;
+
+  >[class*="col-"]{
+    padding-right: $gutter-width !important;
+    padding-left: $gutter-width !important;
+  }
+}
+
+.gut-1 { @include gutters($spacer1); }
+.gut-2 { @include gutters($spacer2); }
+.gut-3 { @include gutters($spacer3); }
+
+// Columns
+
+.cols-left {
+  >[class*="col-"]{
+    float: left !important;
+  }
+}
+
+.cols-right {
+  >[class*="col-"]{
+    float: right !important;
+  }
+}
+
+.col-1 { width: calc(1/12 * 100%) !important; float: left;}
+.col-2 { width: calc(2/12 * 100%) !important; float: left;}
+.col-3 { width: calc(3/12 * 100%) !important; float: left; }
+.col-4 { width: calc(4/12 * 100%) !important; float: left; }
+.col-5 { width: calc(5/12 * 100%) !important; float: left; }
+.col-6 { width: calc(6/12 * 100%) !important; float: left; }
+.col-7 { width: calc(7/12 * 100%) !important; float: left; }
+.col-8 { width: calc(8/12 * 100%) !important; float: left; }
+.col-9 { width: calc(9/12 * 100%) !important; float: left; }
+.col-10 { width: calc(10/12 * 100%) !important; float: left; }
+.col-11 { width: calc(11/12 * 100%) !important; float: left; }
+.col-12 { width: 100% !important; float: left; }
+
+@each $breakpoint in map-keys($breakpoints) {
+  @include breakpoint($breakpoint) {
+    .col-#{$breakpoint}-1 { width: calc(1/12 * 100%) !important; float: left;}
+    .col-#{$breakpoint}-2 { width: calc(2/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-3 { width: calc(3/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-4 { width: calc(4/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-5 { width: calc(5/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-6 { width: calc(6/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-7 { width: calc(7/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-8 { width: calc(8/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-9 { width: calc(9/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-10 { width: calc(10/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-11 { width: calc(11/12 * 100%) !important; float: left; }
+    .col-#{$breakpoint}-12 { width: 100% !important; float: left; }
+  }
+}
+
+// Offset Columns
+
+.offset-1 { margin-left: calc(1/12 * 100%);}
+.offset-2 { margin-left: calc(2/12 * 100%); }
+.offset-3 { margin-left: calc(3/12 * 100%); }
+.offset-4 { margin-left: calc(4/12 * 100%); }
+.offset-5 { margin-left: calc(5/12 * 100%); }
+.offset-6 { margin-left: calc(6/12 * 100%); }
+.offset-7 { margin-left: calc(7/12 * 100%); }
+.offset-8 { margin-left: calc(8/12 * 100%); }
+.offset-9 { margin-left: calc(9/12 * 100%); }
+.offset-10 { margin-left: calc(10/12 * 100%); }
+.offset-11 { margin-left: calc(11/12 * 100%); }
+
+@each $breakpoint in map-keys($breakpoints) {
+  @include breakpoint($breakpoint) {
+    .offset-#{$breakpoint}-1 { margin-left: calc(1/12 * 100%); }
+    .offset-#{$breakpoint}-2 { margin-left: calc(2/12 * 100%); }
+    .offset-#{$breakpoint}-3 { margin-left: calc(3/12 * 100%); }
+    .offset-#{$breakpoint}-4 { margin-left: calc(4/12 * 100%); }
+    .offset-#{$breakpoint}-5 { margin-left: calc(5/12 * 100%); }
+    .offset-#{$breakpoint}-6 { margin-left: calc(6/12 * 100%); }
+    .offset-#{$breakpoint}-7 { margin-left: calc(7/12 * 100%); }
+    .offset-#{$breakpoint}-8 { margin-left: calc(8/12 * 100%); }
+    .offset-#{$breakpoint}-9 { margin-left: calc(9/12 * 100%); }
+    .offset-#{$breakpoint}-10 { margin-left: calc(10/12 * 100%); }
+    .offset-#{$breakpoint}-11 { margin-left: calc(11/12 * 100%); }
+  }
+}

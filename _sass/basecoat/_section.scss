@@ -1,0 +1,9 @@
+// Styles for page sections
+.page-section {
+  padding: $spacer4 0;
+  margin-top: 0;
+
+  @include breakpoint(md) {
+    padding: $spacer6 0;
+  }
+}

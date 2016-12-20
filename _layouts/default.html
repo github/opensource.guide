@@ -1,21 +1,41 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-
-    <link rel="stylesheet" href="{{ "/css/typebase.css" | prepend: site.baseurl }}">
-    <style media="screen">
-      #content {
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 2em 1em;
-      }
-    </style>
-  </head>
+  {% include head.html %}
   <body>
-    <div id="content">
-      {{ content }}
+    <div class="site-wrapper">
+      <div class="site-canvas">
+        <div class="site-canvas-mask"></div>
+        <header class="fixed-header">
+          <div class="clearfix bg-maroon">
+            <div class="container-narrow ml-lg-0 pl-lg-4 py-2 py-md-3 clearfix">
+              <div class="d-table">
+                <div class="d-table-cell v-align-middle">
+                  <div class="toggle-nav fill-white v-align-middle ml-2 py-3 mr-4 d-lg-none">
+                    {% octicon three-bars height:32 class:"octicon-list mt-1" aria-label:hi %}
+                    {% octicon x height:32 class:"octicon-x" aria-label:hi %}
+                  </div>
+                </div>
+                <div class="d-table-cell v-align-middle text-white">
+                  <h1 class="m-0 my-md-3 pr-3 d-sm-inline-block text-gamma">
+                    <a href='{{ "/" | prepend: site.baseurl }}' class="link-unstyled">Open Source Guide</a>
+                  </h1>
+                  <a href="https://github.com/{{ site.github.repository_nwo }}" class="text-small">
+                    View on GitHub {% octicon arrow-right height:20 class:"v-align-middle ml-1 fill-white" aria-label:hi %}
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+        <main>
+          <div id="content">
+            {{ content }}
+          </div>
+        </main>
+      </div>
     </div>
+
+    <script src="{{ site.baseurl }}/js/vendor/anchor-js/anchor.min.js"></script>
+    <script>anchors.add('#content h2, #content h3, #content h4, #content h5');</script>
   </body>
 </html>

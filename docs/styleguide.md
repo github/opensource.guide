@@ -16,3 +16,11 @@ When referring to people that use GitHub, use @mentions of their username instea
 - :cry: As [Jess Frazelle](https://github.com/jfrazelle) put it…
 
 [^1]: TODO: copy over relevant content if this is not publicly available by the time we're ready to release this project.
+
+## Capitalization
+
+"Guides" is capitalized when referring to the "Open Source Guides", but not when saying "the guide" or "this guide".
+
+- :smile: Welcome to Open Source Guides!
+- :smile: The guide is meant to..
+- :cry: The goal of this Guide is to...

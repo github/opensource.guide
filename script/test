@@ -4,5 +4,7 @@ set -e
 
 script/build --config _config.yml,test/_config.yml
 bundle exec rake
-script/html-proofer
+# FIXME: Remove readthedocs once https://github.com/rtfd/readthedocs.org/issues/2558 is fixed
+script/html-proofer -url-ignore "/github\.com\/github\/open-source-guide/,/docs\.readthedocs\.io/"
+
 script/test-prose

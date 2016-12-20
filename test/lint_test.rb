@@ -14,25 +14,36 @@ describe "lint test" do
           @data = SafeYAML.load_file(page["path"])
         end
 
-        it "contains supported fields" do
-          extra_fields = @data.keys - site.data["fields"].keys
-          assert extra_fields.empty?, "Unexpected metadata in #{page["path"]}: #{extra_fields.inspect}"
+        it "has valid fields" do
+          assert_valid_fields @data, site.data["fields"]
         end
 
-        site.data["fields"].each do |name, attrs|
-          it "#{name} is required" do
-            assert @data.key?(name), "#{name} is required"
-          end if attrs["required"]
+        it "`following` points to a page that exists" do
+          assert pages.detect {|p| p["path"] == page["following"] },
+            "Could not find page with path #{page["following"]}"
+        end if page["following"]
+      end
+    end
+  end
 
-          it "#{name} should be of type #{attrs["type"]}" do
-            assert_kind_of Kernel.const_get(attrs["type"]), @data[name] if @data[name]
-          end if attrs["type"]
+  def assert_valid_fields(data, fields)
+    extra_fields = data.keys - fields.keys
+    assert extra_fields.empty?, "Unexpected metadata: #{extra_fields.inspect}"
+
+    fields.each do |name, attrs|
+      if attrs["required"]
+        assert data.key?(name), "#{name} is required"
+      end
+
+      if attrs["type"] && @data[name]
+        assert_kind_of Kernel.const_get(attrs["type"]), @data[name]
+      end
+
+      # Check subfields
+      if attrs["fields"] && @data[name]
+        @data[name].each do |d|
+          assert_valid_fields(d, attrs["fields"])
         end
-
-        it "`next` points to a page that exists" do
-          assert pages.detect {|p| p["path"] == page["next"] },
-            "Could not find page with path #{page["next"]}"
-        end if page["next"]
       end
     end
   end

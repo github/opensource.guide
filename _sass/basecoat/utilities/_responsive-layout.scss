@@ -1,0 +1,98 @@
+// scss-lint:disable SpaceBeforeBrace
+// Position utilites
+.position-static   { position: static !important; }
+.position-relative { position: relative !important; }
+.position-absolute { position: absolute !important; }
+.position-fixed    { position: fixed !important; }
+
+.top-0    { top: 0 !important; }
+.right-0  { right: 0 !important; }
+.bottom-0 { bottom: 0 !important; }
+.left-0   { left: 0 !important; }
+
+// Display utilites
+.d-block        { display: block !important; }
+.d-inline       { display: inline !important; }
+.d-inline-block { display: inline-block !important; }
+.d-table { display: table !important; }
+.d-table-cell { display: table-cell !important; }
+.hidden, // legacy
+.d-none         { display: none !important; }
+
+// Responsive display utlities
+// .d-sm-none, .d-lg-inline, ...
+@each $breakpoint in map-keys($breakpoints) {
+  @include breakpoint($breakpoint) {
+    .d-#{$breakpoint}-block  { display: block !important; }
+    .d-#{$breakpoint}-inline  { display: inline !important; }
+    .d-#{$breakpoint}-inline-block  { display: inline-block !important; }
+    .d-#{$breakpoint}-table  { display: table !important; }
+    .d-#{$breakpoint}-table-cell  { display: table-cell !important; }
+    .d-#{$breakpoint}-none  { display: none !important; }
+  }
+}
+
+// Overflow utilities
+// overflow-hidden can also be used to create a new
+// block formatting context or clear floats.
+.overflow-hidden { overflow: hidden !important; }
+.overflow-scroll { overflow: scroll !important; }
+.overflow-auto   { overflow: auto !important; }
+
+// Vertical alignment
+.v-align-top { vertical-align: top !important; }
+.v-align-middle { vertical-align: middle !important; }
+
+// Whitespace
+.ws-normal { white-space: normal !important; }
+.ws-nowrap { white-space: nowrap !important; }
+
+// Clear floats
+.clearfix {
+  @include clearfix;
+}
+
+// Floats
+.right, // legacy
+.float-right { float: right !important; }
+
+@each $breakpoint in map-keys($breakpoints) {
+  @include breakpoint($breakpoint) {
+    .float-#{$breakpoint}-right  { float: right !important; }
+  }
+}
+
+.left, // legacy
+.float-left { float: left !important; }
+
+@each $breakpoint in map-keys($breakpoints) {
+  @include breakpoint($breakpoint) {
+    .float-#{$breakpoint}-left  { float: left !important; }
+  }
+}
+
+.float-none {
+  float: none !important;
+}
+
+// Visually hidden
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  border: 0;
+
+  &.focusable:active,
+  &.focusable:focus {
+    position: static;
+    width: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    clip: auto;
+  }
+}

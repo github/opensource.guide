@@ -1,7 +1,9 @@
-baseurl: "/open-source-handbook"
+title: "Open Source Guide"
+description: "A community guide for open source creators."
 
 exclude:
   - bin
+  - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
   - docs
   - Gemfile*
@@ -15,6 +17,11 @@ exclude:
 
 permalink: /:path/
 
+collections:
+  articles:
+    output: true
+    permalink: /:path/
+
 defaults:
   - scope:
       path: ""
@@ -23,8 +30,17 @@ defaults:
 
 gems:
   - jekyll-mentions
+  - jekyll-octicons
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 branch: gh-pages
 
 github:
-  repository_nwo: github/open-source-handbook
+  repository_nwo: github/open-source-guide
+
+twitter:
+  username: github
+
+facebook:
+  publisher: https://www.facebook.com/GitHub/

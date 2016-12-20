@@ -15,8 +15,12 @@ def config
   Helper.config ||= Jekyll.configuration("source" => source)
 end
 
+def docs
+  (site.pages + site.collections["articles"].docs)
+end
+
 def pages
-  site.pages.map { |doc| doc.to_liquid }
+  docs.map { |doc| doc.to_liquid }
 end
 
 def site
