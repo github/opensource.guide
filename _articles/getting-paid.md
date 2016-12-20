@@ -15,7 +15,7 @@ There are plenty of reasons why a person or project would not want to be paid fo
 * They enjoy thinking of open source as a hobby or creative escape and don't want to feel financially obligated to work on their projects
 * They get important social benefits from contributing to open source, such as building their reputation or portfolio, learning a new skill, or feeling closer to a community
 
-> Financial donations do add a feeling of responsibility, for some. It’s important for us, in the globally connected, fast-paced world we live in, to be able to say “not now, I feel like doing something completely different”. - Eloy Durán, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
+> Financial donations do add a feeling of responsibility, for some. It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different". - Eloy Durán, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
 
 For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can afford to do so. Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
 
@@ -23,7 +23,7 @@ For others, especially when contributions are ongoing or require significant tim
 
 Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time.
 
-> OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. However, if the only people who can focus on it are the lucky and the obsessed, then there’s a huge untapped potential. - Issac Schlueter, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+> OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential. - Issac Schlueter, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
 
 ## Finding financial support
 
@@ -46,16 +46,17 @@ As open source's popularity increases, availability of funding has not yet caugh
 For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
 
 ## Building a case for financial support
+
 Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case. That means thinking about:
 
 * **Impact:** Why is this project useful? Where will it be in five years?
-* **Traction:** Try to collect evidence that your project matters, whether it’s metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+* **Traction:** Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
 * **Value to funder:** Funders are frequently approached with opportunities. Why should they fund your project over any other opportunity? How do they personally benefit?
 * **Use of funds:** What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
-* **How you’ll receive the funds:** Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+* **How you'll receive the funds:** Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
 
 For his Kickstarter campaign, @davegandy [made a video](https://www.kickstarter.com/projects/232193852/font-awesome-5) to explain why he raised funds for his project, [Font Awesome](https://github.com/FortAwesome/Font-Awesome). The video not only included concrete examples of traction, but explained why he was raising money and what it would be used for:
 
-> For years, we’ve been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. Version 4 was three years ago. Web tech’s changed a lot since then, and frankly, Font Awesome’s gotten a bit stale. That’s why we’re introducing Font Awesome 5, a completely redesigned version...we’re modernizing and rewriting the CSS and redesigning every icon from top to bottom. We’re talking better design, better consistency, and better readability.
+> For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. That's why we're introducing Font Awesome 5, a completely redesigned version...we're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
 
-Raising money isn’t easy, whether you’re an open source project or a software startup. Identifying your target funder, doing your research, and putting yourself in their shoes to create a personalized pitch will help you build a convincing case for funding.
+Raising money isn't easy, whether you're an open source project or a software startup. Identifying your target funder, doing your research, and putting yourself in their shoes to create a personalized pitch will help you build a convincing case for funding.

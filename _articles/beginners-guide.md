@@ -1,13 +1,13 @@
 ---
-title: The Beginner’s Guide to Open Source
+title: The Beginner's Guide to Open Source
 description: Cupcake ipsum dolor. Sit amet lollipop icing I love wafer. Dessert donut pudding chocolate cake liquorice icing. Candy cupcake I love croissant I love cake gingerbread. Biscuit gummi bears sesame snaps muffin pie jelly. Sweet bonbon tart. Topping topping chupa chups halvah fruitcake I love. Sesame snaps I love oat cake. Marzipan toffee dragée I love carrot cake pastry cheesecake.
 ---
 
 So you're thinking about making your project open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is, why people do it, and how to launch your own open source project.
 
-## The “what” and “why” of open source
+## The "what" and "why" of open source
 
-### What does “open source” mean?
+### What does "open source" mean?
 
 When a project is open source, that means that **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
 
@@ -71,7 +71,7 @@ If you're part of a company open sourcing a project, make sure your project has 
 
 If your goal is to learn how to collaborate with others or understand how open source works, you should also consider [contributing to an existing open source project](https://guides.github.com/activities/contributing-to-open-source/). Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
 
-If you’re not sure which project you’d like to contribute to, there are many active community projects who would love to help you! [First Timers Only](http://www.firsttimersonly.com/) and [Your First PR](https://yourfirstpr.github.io/) are a few resources that can help you get started.
+If you're not sure which project you'd like to contribute to, there are many active community projects who would love to help you! [First Timers Only](http://www.firsttimersonly.com/) and [Your First PR](https://yourfirstpr.github.io/) are a few resources that can help you get started.
 
 ## Launching your own open source project
 
@@ -90,7 +90,7 @@ No matter which stage you decide to open source your project, every project shou
 * [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) (CONTRIBUTING)
 * Code of conduct (CODE_OF_CONDUCT)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, protect everyone’s legal rights (including your own). They significantly increase your chances of having a positive experience.
+As a maintainer, these components will help you communicate expectations, manage contributions, protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
 
 If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
 
@@ -121,9 +121,9 @@ In your README, try to answer the following questions:
 * How do I get started?
 * Where can I get more help, if I need it?
 
-For example, @sindresorhus uses the [Pageres](https://github.com/sindresorhus/pageres) README to explain not just *what* the project is, but also *why* it’s useful:
+For example, @sindresorhus uses the [Pageres](https://github.com/sindresorhus/pageres) README to explain not just _what_ the project is, but also _why_ it's useful:
 
->Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive. It's speedy and generates 100 screenshots from 10 different websites in just over a minute. It can also be used to render SVG images.
+> Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive. It's speedy and generates 100 screenshots from 10 different websites in just over a minute. It can also be used to render SVG images.
 
 You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
 
@@ -161,7 +161,7 @@ Over time, you might add other frequently asked questions to your CONTRIBUTING f
 
 For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/).
 
-Link to your CONTRIBUTING file from your README, so more people see it.  If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
 
 ![contributing guidelines](/assets/images/getting-started/Contributing-guidelines.jpg)
 
@@ -169,11 +169,11 @@ Link to your CONTRIBUTING file from your README, so more people see it.  If you 
 
 Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
 
-In addition to communicating *how* you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don’t have to write your own. The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](http://contributor-covenant.org/adopters/), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](http://contributor-covenant.org/adopters/), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
 
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project’s root directory so it’s easy to find, and link to it from your README.
+Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
 
 ### It's time to launch!
 
@@ -181,7 +181,7 @@ Now that you have these four files in the root directory of your project, you're
 
 ## Extra credit: Naming and branding your project
 
-You’ve read the basics on how to set your project up for success. If you’re ready for more, we have a few tips on how to make your project stand out from the crowd, by leveraging the power of brand.
+You've read the basics on how to set your project up for success. If you're ready for more, we have a few tips on how to make your project stand out from the crowd, by leveraging the power of brand.
 
 Branding may sound like a waste of time. After all, there are plenty of popular open source projects that have never thought about their brand at all.
 
@@ -201,9 +201,9 @@ For more tips on naming, check out @kfogel's section in _Producing OSS_ on [choo
 
 You'll [also want to check](http://ivantomic.com/projects/ospnc/) for open source projects with a similar name, especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don’t intend to use them just yet.
+If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk. You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](link to legal).
+Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk. You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
 
 Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
 

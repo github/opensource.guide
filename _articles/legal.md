@@ -5,21 +5,21 @@ description: Cupcake ipsum dolor sit amet muffin. Macaroon jelly tootsie roll ch
 
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about.
 
-Thankfully, you don't have to start from scratch. We’ve got your legal needs covered.
+Thankfully, you don't have to start from scratch. We've got your legal needs covered.
 
-Before you dig in, be sure to read our [disclaimer](../../notices/).
+Before you dig in, be sure to read our [disclaimer](../notices/).
 
 ## Why do people care so much about the legal side of open source?
 
 Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
 
-In general, that’s a good thing. It means that nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
+In general, that's a good thing. It means that nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
 
 Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
 
-If you don’t apply an open source license, everybody who contributes to your project also becomes an exclusive copyright holder of their work. That means nobody can use, copy, distribute, or modify their contributions -- and that "nobody" includes you.
+If you don't apply an open source license, everybody who contributes to your project also becomes an exclusive copyright holder of their work. That means nobody can use, copy, distribute, or modify their contributions -- and that "nobody" includes you.
 
-Finally, your project may have dependencies with license requirements that you weren’t aware of. Your project’s community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
+Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
 
 ## Are public GitHub projects open source?
 
@@ -31,15 +31,15 @@ Making your GitHub project public is not the same as licensing your project. Pub
 
 If you want others to use, copy, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
 
-## I don’t want to learn all this legal stuff. Just give me the TL;DR on what I need to protect my project.
+## Just give me the TL;DR on what I need to protect my project.
 
-You’re in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
+You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
 
-> A standardized license serves as a proxy for those without legal training to know precisely what they can and can’t do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code. - @benbalter, ["Everything a government attorney needs to know about open source software licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+> A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code. - @benbalter, ["Everything a government attorney needs to know about open source software licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
 
 [MIT](http://choosealicense.com/licenses/mit/), [Apache 2.0](http://choosealicense.com/licenses/apache-2.0/), and [GPLv3](http://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](http://choosealicense.com/).
 
-When you create a new project on GitHub, you’ll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
+When you create a new project on GitHub, you'll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
 
 ## Which open source license is appropriate for my project?
 
@@ -93,7 +93,7 @@ If you do need to use an additional contributor agreement with your project, con
 
 ## What does my company's legal team need to know?
 
-If you’re releasing an open source project as a company employee, first, your legal team should know that you're open sourcing a project.
+If you're releasing an open source project as a company employee, first, your legal team should know that you're open sourcing a project.
 
 For better or worse, consider letting them know even if it's a personal project. You probably have an "employee IP agreement" with your company that gives them some control of your projects, especially if they are at all related to the company's business or you use any company resources to develop the project. Your company _should_ easily give you permission, and maybe already has through an employee-friendly IP agreement or a company policy. If not, you can negotiate (for example, explain that your project serves the company' professional learning and development objectives for you), or avoid working on your project until you find a better company.
 
@@ -102,7 +102,7 @@ If you're open sourcing a project for your company, then definitely let them kno
 * **Third party material:** Does your project have dependencies created by others or otherwise include or use others' code? If these are open source, you'll need to comply with the materials' open source licenses. That starts with choosing a license that works with the third party open source licenses (see above). If your project modifies or distributes third party open source material, then your legal team will also want to know that you're meeting other conditions of the third party open source licenses such as retaining copyright notices. If your project uses others' code that does't have an open source license, you'll probably have to ask the third party maintainers to [add an open source license](http://choosealicense.com/no-license/#for-users), and if you can't get one, stop using their code in your project.
 * **Trade secrets:** Consider whether there is anything in the project that the company does not want to make available to the general public. If so, you could open source the rest of your project, after extracting the material the you want to keep private.
 * **Patents:** Is your company applying for a patent of which open sourcing your project would constitute [public disclosure](https://en.wikipedia.org/wiki/Public_disclosure)? Sadly, you might be asked to wait (or maybe the company will reconsider the wisdom of the application). If you're expecting contributions to your project from employees of companies with large patent portfolios, your legal team may want you to use a license with an express patent grant from contributors (such as Apache 2.0 or GPLv3), or an additional contributor agreement (see above).
-* **Trademarks:** Double check that your project's name [does not conflict with any existing trademarks](../branding/#avoiding-name-conflicts). If you use your own company trademarks in the project, check that it does not cause any conflicts. [FOSSmarks](http://fossmarks.org/) is a practical guide to understanding trademarks in the context of free and open source projects.
+* **Trademarks:** Double check that your project's name [does not conflict with any existing trademarks](../beginners-guide/#avoiding-name-conflicts). If you use your own company trademarks in the project, check that it does not cause any conflicts. [FOSSmarks](http://fossmarks.org/) is a practical guide to understanding trademarks in the context of free and open source projects.
 * **Privacy:** Does your project collect data on users? "Phone home" to company servers? Your legal team can help you comply with company policies and external regulations.
 
 If you're releasing your company's first open source project, the above is more than enough to get through (but don't worry, most projects shouldn't raise any major concerns).
@@ -116,4 +116,4 @@ Longer term your legal team can do more to help the company get more from its in
 * **What to release:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) If your legal team understands and is invested in your company's open source strategy, they'll be best able to help rather than hinder your efforts.
 * **Compliance:** Even if your company doesn't release any open source projects, it uses others' open source software. [Awareness and process](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) can prevent headaches, product delays, and lawsuits.
 * **Patents:** Your company may wish to join the [Open Invention Network](http://www.openinventionnetwork.com/), a shared defensive patent pool to protect members' use of major open source projects, or explore other [alternative patent licensing](https://www.eff.org/document/hacking-patent-system-2016).
-* **Governance:** Especially if and when it makes sense to move a project to a [legal entity outside of the company](../../sustaining/leadership/#do-i-need-a-legal-entity-to-support-my-project).
+* **Governance:** Especially if and when it makes sense to move a project to a [legal entity outside of the company](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).

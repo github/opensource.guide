@@ -11,10 +11,10 @@ Data, when used wisely, can help you make better decisions as an open source mai
 
 * Understand how users respond to a new feature
 * Figure out where new users come from
-* Convey your project’s popularity
+* Convey your project's popularity
 * Raise money through sponsorships
 
-@mikemcquaid explained [Homebrew’s decision](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) to use Google Analytics as such:
+@mikemcquaid explained [Homebrew's decision](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) to use Google Analytics as such:
 
 > Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
 
