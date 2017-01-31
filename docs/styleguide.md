@@ -1,6 +1,6 @@
 # Style Guide
 
-From the [GitHub Manual of Style](https://manual-of-style.githubapp.com/)[^1], which this style guide inherits from:
+From the GitHub Manual of Style, which this style guide inherits from:
 
 > Words are an important part of how software works. Just as we have a style guide for our code, we have a style guide for our tone and our voice. Even though there may be dozens of people creating a product, it should still sound like we speak in one consistent voice.
 >
@@ -8,14 +8,26 @@ From the [GitHub Manual of Style](https://manual-of-style.githubapp.com/)[^1], w
 
 Where possible, [automated tests](../test/test-prose) enforce style rules.
 
+## Content Principles
+All written content should follow these principles:
+
+* **Approachability:** Don't assume reader has prior knowledge
+* **Brevity:** Keep it simple, link to outside content for deeper dives
+* **Curation:** Amplify community best practices vs. any individual's point of view
+
+Content should maintain a light-hearted, but wise (think classy, not overly excited) tone. Open source is fun! Readers should inspired, not discouraged, by the tone of your writing, and they should trust you to help them get started.
+
 ## Mentions
 
 When referring to people that use GitHub, use @mentions of their username instead of their full name.
 
-- :smile: As @jfrazelle put it…
-- :cry: As [Jess Frazelle](https://github.com/jfrazelle) put it…
+- :smile: As @jessfraz put it...
+- :cry: As [Jess Frazelle](https://github.com/jessfraz) put it...
 
-[^1]: TODO: copy over relevant content if this is not publicly available by the time we're ready to release this project.
+When referring to a project on GitHub, link to the repository so others can dive deeper, if they choose.
+
+- :smile: @maxogden took a similar approach to [Dat](https://github.com/datproject/dat)...
+- :cry: @maxogden took a similar approach to Dat...
 
 ## Capitalization
 

@@ -109,17 +109,3 @@
     * (For corporate: adhering to company policies)
 
 * Making sure people know about the project
-
-## 5. Other personas not included
-
-* Non-developers (individual, student, community, corporate)
-
-    * People who are open sourcing projects that don't involve code (ex. books, documents, templates)
-
-    * Can we use language that applies to both code- and non-code-centric projects?
-
-    * If we don't tailor a guide to them, will they feel isolated or ignored? Is there anything we'd miss about their experience?
-
-* Student developer
-
-    * Likely more interested in learning how to contribute vs. how to start their own project. Set this aside for v1 (we're primarily focusing on who produces open source projects)
