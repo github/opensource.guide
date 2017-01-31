@@ -48,8 +48,6 @@ Each piece of content should contain an *introduction*, which is similar to a th
 - :smile: "Pull requests are a lightweight way to work on actual files collaboratively without introducing errors to production."
 - :cry: "This article should introduce you to the benefits pull requests can introduce to your workflow on GitHub."
 
-Introductions are a delicate balance between showing and telling. Don't *tell* the user what they should learn, let the fact that they learned a new thing be implied.
-
 ### References
 
 We never want to leave a user at a dead end, especially in situations where we leave out nuance in pursuit of accessibility. Every piece of content should link to any related information. If another good resource exists on the internet, link to it. Some examples include:
@@ -123,4 +121,4 @@ Referential content is structured as:
 
 - **Title** - should begin with a noun describing the information that's being referenced, followed by how you'd use that thing. For example, "Countries that support SMS for two-factor authentication".
 
-It's always a good idea to link a referential article to a tactical or conceptual article, even if that's in the **Further reading** section at the end of the article.
+It's always a good idea to link a referential article to a tactical or conceptual article.
