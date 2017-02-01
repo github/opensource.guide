@@ -1,6 +1,6 @@
 ---
 title: The Beginner's Guide to Open Source
-description: Cupcake ipsum dolor. Sit amet lollipop icing I love wafer. Dessert donut pudding chocolate cake liquorice icing. Candy cupcake I love croissant I love cake gingerbread. Biscuit gummi bears sesame snaps muffin pie jelly. Sweet bonbon tart. Topping topping chupa chups halvah fruitcake I love. Sesame snaps I love oat cake. Marzipan toffee dragée I love carrot cake pastry cheesecake.
+description: Cupcake ipsum dolor. Sit amet lollipop icing I love wafer. Dessert donut pudding chocolate cake liquorice icing. 
 ---
 
 So you're thinking about making your project open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is, why people do it, and how to launch your own open source project.
