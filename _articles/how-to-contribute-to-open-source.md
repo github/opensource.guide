@@ -8,6 +8,8 @@ Contributing to open source can be a rewarding way to learn, teach, and build ex
 In this guide, you’ll learn why people contribute, how they contribute, and strategies for finding and making your first contribution.
 
 ## Why contribute to open source?
+> Working on [freenode] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project! -@errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+
 There are many reasons why people contribute to open source, including:
 
 * **Improve existing skills:** Whether it’s coding, graphic design, writing, or organizing, if you’re looking for practice, there’s a task for you on an open source project.
@@ -23,15 +25,14 @@ If you’re a new open source contributor, the process might seem intimidating. 
 Not to worry! There are all sorts of ways to get involved with an open source project, and a few strategies will help you get the most out of your experience.
 
 ### You don’t have to contribute code
+
+> Seriously, documentation is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated. - @kittens, ["Call for contributors!"](https://github.com/babel/babel/issues/1347)
+
 A common misconception about contributing to open source is that you need to contribute code. In fact, it’s often the non-code parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You’ll do the project a _huge_ favor by offering to pitch in with non-code contributions!
-
-For example, when @kittens made a [call for contributions](https://github.com/babel/babel/issues/1347) to a project called [Babel](https://github.com/babel/babel), he asked for help with documentation, responding to people’s questions, and answering issues:
-
-> Seriously, documentation is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
 
 Even if you are a developer, non-code contributions (for example, writing documentation) are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
 
-@brettcannon, a [Python](https://github.com/python) core developer, explains that [he got his start](https://github.com/open-source/stories/brett-cannon) by offering to curate the Python mailing list:
+@brettcannon, a [Python](https://github.com/python) core developer, [got his start](https://github.com/open-source/stories/brett-cannon) by offering to curate the Python mailing list:
 
 > I decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
 
@@ -84,7 +85,7 @@ For example:
 * @sindresorhus curates a [list of “awesome” lists](https://github.com/sindresorhus/awesome)
 * @jwasham created a [study plan](https://github.com/jwasham/google-interview-university) for self-taught developers to get a corporate software engineer interview
 * @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins!](https://github.com/stuartlynn/puffin_facts)
+* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
 
 Even if you’re a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don’t involve code, and the process of collaboration will build your confidence and experience.
 
