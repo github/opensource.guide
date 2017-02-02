@@ -162,19 +162,19 @@ Start by looking at commit activity on the master branch. On GitHub, you can see
   - [ ] How many contributors does the project have?
   - [ ] How often do people commit? (On GitHub, you can find this by clicking “Commits” in the top bar and scrolling through the commits.)
 
-Next, look at the issues. On GitHub you can find this by clicking on a project's “Issues” tab.)
+Next, look at the project's issues.
   - [ ] How many open issues are there?
   - [ ] Do maintainers respond quickly to issues when they are opened?
   - [ ] Is there active discussion on the issues? (On GitHub, the chat bubble next to each issue tells you how many comments it's received).
   - [ ] Are the issues recent?
-  - [ ] Are issues getting closed? (On GitHub, click the “closed” tab on the Issues page to see closed issues, and scroll through the dates.)
+  - [ ] Are issues getting closed? (On GitHub, click the “closed” tab on the Issues page to see closed issues.)
  
-Now do the same for pull requests. On GitHub, you can find this by clicking on a project's “Pull Requests” tab.
+Now do the same for the project's pull requests.
   - [ ] How many open pull requests are there?
   - [ ] Do maintainers respond quickly to pull requests when they are opened?
   - [ ] Is there active discussion on the pull requests?
   - [ ] Are the pull requests recent?
-  - [ ] How recently were any pull requests merged? (On GitHub, click the “closed” tab on the Pull Requests page to see closed PRs, and scroll through the dates.)
+  - [ ] How recently were any pull requests merged? (On GitHub, click the “closed” tab on the Pull Requests page to see closed PRs.)
 
 
 #### Project is welcoming
