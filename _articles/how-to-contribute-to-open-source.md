@@ -1,6 +1,6 @@
 ---
 title: How to Contribute to Open Source
-description: Cupcake ipsum dolor. Sit amet lollipop icing I love wafer. Dessert donut pudding chocolate cake liquorice icing. Candy cupcake I love croissant I love cake gingerbread. Biscuit gummi bears sesame snaps muffin pie jelly. Sweet bonbon tart. Topping topping chupa chups halvah fruitcake I love. Sesame snaps I love oat cake. Marzipan toffee dragée I love carrot cake pastry cheesecake.
+description: Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine. A brief overiew of why people contribute, how they contribute, and strategies for finding and making your first contribution.
 ---
 
 Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
@@ -43,7 +43,7 @@ Here are a few ideas for how you can contribute to an open source project.
 ### Do you like planning events?
 
 * Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
+* Organize the project’s conference (if they have one)
 * Help community members find the right conferences and submit proposals for speaking
 
 ### Do you like to design?
@@ -167,8 +167,6 @@ Here's a handy checklist to evaluate whether a project is good for new contribut
 
 #### Meets the definition of open source
 
-If the project doesn't have an [open source license](https://choosealicense.com/), you are playing with legal :fire:. Find a different project. You may want to open an issue to suggest the project adds an open source license.
-
 * [ ] Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
 
 #### Project actively accepts contributions
@@ -275,7 +273,7 @@ Usually, you should open an issue in the following situations:
 Tips for communicating on issues:
 
 * **Be clear about what problem is occurring** and how someone can recreate that problem or why your proposed solution will help.
-If you see an open issue that you want to tackle, comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
+* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
 * **If an issue was opened awhile ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment on the issue to ask for confirmation before starting work.
 * **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
