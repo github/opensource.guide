@@ -160,12 +160,12 @@ If the project doesn’t have an [open source license](https://choosealicense.co
 Start by looking at commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
   - [ ] When was the latest commit?
   - [ ] How many contributors does the project have?
-  - [ ] How often do people commit? (On GitHub, you can find this by clicking “Commits” in the top bar and scrolling through the commits.)
+  - [ ] How often do people commit? (On GitHub, you can find this by clicking “Commits” in the top bar.)
 
 Next, look at the project's issues.
   - [ ] How many open issues are there?
   - [ ] Do maintainers respond quickly to issues when they are opened?
-  - [ ] Is there active discussion on the issues? (On GitHub, the chat bubble next to each issue tells you how many comments it's received).
+  - [ ] Is there active discussion on the issues?
   - [ ] Are the issues recent?
   - [ ] Are issues getting closed? (On GitHub, click the “closed” tab on the Issues page to see closed issues.)
  
