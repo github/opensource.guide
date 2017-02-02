@@ -1,13 +1,14 @@
 .article-header {
-  background: #eee; //to be replaced with illustration
-  padding: 100px 0;
-}
-
-.container-lg {
-  padding-left: $spacer-3;
-  padding-right: $spacer-3;
+  padding: 50px 0;
+  @include breakpoint(sm) {
+    padding: 100px 0;
+  }
 }
 
 .border-sm-0 {
   @include breakpoint(sm) { border-bottom: none !important;}
+}
+
+.bg-gray-light {
+  background-color: #F3F3F3 !important;;
 }

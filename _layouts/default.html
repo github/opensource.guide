@@ -2,18 +2,11 @@
 <html>
   {% include head.html %}
   <body>
-    <div class="site-wrapper">
-      <div class="site-canvas">
-        <div class="site-canvas-mask"></div>
-        
-        <main>
-          <div id="content">
-            {{ content }}
-          </div>
-        </main>
+    <main>
+      <div id="content">
+        {{ content }}
       </div>
-    </div>
-
+    </main>
     <script src="{{ site.baseurl }}/js/vendor/anchor-js/anchor.min.js"></script>
     <script>anchors.add('#content h2, #content h3, #content h4, #content h5');</script>
   </body>

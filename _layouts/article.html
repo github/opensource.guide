@@ -3,65 +3,58 @@ layout: default
 ---
 
 <header class="article-nav">
-  <div class="">
-    <ul class="border-left border-bottom border-sm-0 list-style-none float-sm-right">
-      <li class="d-inline-block border-right">
-        <a class="d-block p-3 p-sm-4" href="">About</a>
-      </li>
-      <li class="d-inline-block border-right">
-        <a class="d-block p-3 p-sm-4" href="">Contribute</a>
-      </li>
-      <li class="d-inline-block border-right">
-        <a class="d-block p-3 p-sm-4" href="">{% octicon search height:16 class:"mr-2 fill-gray" aria-label:hi %}Search</a>
-      </li>
-    </ul>
-  </div>
-  <div class="container-lg mx-auto">
-    <p class="my-0 py-3 py-sm-4 text-gray float-sm-left">
-      <a href="" class="text-gray">Open Source Guides</a>  /
-    </p>
+  <div class="container-lg edged mx-auto clearfix">
+    <div class="float-sm-right">
+      <ul class="border-left border-bottom border-sm-0 list-style-none">
+        <li class="d-inline-block border-right">
+          <a class="d-block p-3 p-sm-4" href="">About</a>
+        </li>
+        <li class="d-inline-block border-right">
+          <a class="d-block p-3 p-sm-4" href="">Contribute</a>
+        </li>
+        <li class="d-inline-block border-right">
+          <a class="d-block p-3 p-sm-4" href="">{% octicon search height:16 class:"mr-2 fill-gray" aria-label:hi %}Search</a>
+        </li>
+      </ul>
+    </div>
+    <div class="float-sm-left pl-3">
+      <p class="my-0 py-3 py-sm-4 text-gray">
+        <a href="" class="text-gray">Open Source Guides</a>  /
+      </p>
+    </div>
   </div>
 </header>
 
-<header class="article-header mx-auto">
-  <div class="container-lg">
-    <h1 class="alt-h1 text-center">{{ page.title }}</h1>
+<header class="article-header bg-gray-light">
+  <div class="container-lg mx-auto px-3">
+    <h1 class="alt-h1 lh-condensed text-center">{{ page.title }}</h1>
     <p class="alt-lead text-center text-gray col-md-8 mx-auto">{{ page.description }}</p>
   </div>
 </header>
 
-
-<div class="">
-      <article>
-        <div class="container-lg mx-auto pt-4 pt-lg-8">
-
-          <h1 class="mb-3 mb-lg-4 pt-md-3 pt-lg-8">{{ page.title }}</h1>
-
-          {{ content }}
-
-          <div class="my-md-4 py-3">
-            <div class="clearfix">
-              <div class="float-left">
-                {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
-              </div>
-              <div class="overflow-hidden">
-                <span class="d-block d-md-inline">This content is open source.</span>
-                <a href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
-                  Please help improve it.
-                </a>
-              </div>
-            </div>
-          </div>
-
+<article>
+  <div class="container-lg mx-auto px-3 pt-4 pt-lg-8">
+    {{ content }}
+    <div class="my-md-4 py-3">
+      <div class="clearfix">
+        <div class="float-left">
+          {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
         </div>
-      </article>
-
-      <footer class="bg-taupe-dark">
-        <div class="container-narrow">
-          <div class="pl-lg-4">
-            {% include footer.html %}
-          </div>
+        <div class="overflow-hidden">
+          <span class="d-block d-md-inline">This content is open source.</span>
+          <a href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
+            Please help improve it.
+          </a>
         </div>
-      </footer>
+      </div>
+    </div>
+  </div>
+</article>
 
-</div>
+  <footer class="">
+    <div class="container-lg">
+      <div class="pl-lg-4">
+        {% include footer.html %}
+      </div>
+    </div>
+  </footer>
