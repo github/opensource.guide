@@ -241,9 +241,7 @@ Before you open an issue or pull request, check the project’s contributing doc
 
 If you want to make a substantial contribution, open an issue to ask before working on it. It’s helpful to watch the project for awhile (on GitHub, [you can click “Watch”](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted into the project.
 
-As @gaearon, who helps maintain [React](https://github.com/facebook/react), [suggests](https://twitter.com/dan_abramov/status/819555257055322112):
-
-> You’ll learn *a lot* from taking a single project you actively use, “watching” it on GitHub and reading every issue and PR.
+> You’ll learn *a lot* from taking a single project you actively use, “watching” it on GitHub and reading every issue and PR. - @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
 
 ### Opening an issue
 Usually, you should open an issue in the following situations:
