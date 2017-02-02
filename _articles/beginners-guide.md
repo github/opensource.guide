@@ -1,6 +1,11 @@
 ---
 title: The Beginner's Guide to Open Source
-description: Cupcake ipsum dolor. Sit amet lollipop icing I love wafer. Dessert donut pudding chocolate cake liquorice icing. 
+description: Cupcake ipsum dolor. Sit amet lollipop icing I love wafer. Dessert donut pudding chocolate cake liquorice icing.
+toc:
+  the-what-and-why-of-open-source: "The what and why of open source"
+  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
+  launching-your-own-open-source-project: "Launching your own open source project"
+  extra-credit-naming-and-branding-your-project: "Extra credit&#58; Naming and branding your project"
 ---
 
 So you're thinking about making your project open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is, why people do it, and how to launch your own open source project.

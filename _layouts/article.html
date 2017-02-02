@@ -28,7 +28,21 @@ layout: default
 <header class="article-header bg-gray-light">
   <div class="container-lg mx-auto px-3">
     <h1 class="alt-h1 lh-condensed text-center">{{ page.title }}</h1>
-    <p class="alt-lead text-center text-gray col-md-8 mx-auto">{{ page.description }}</p>
+    <p class="alt-lead text-center text-gray col-md-8 mx-auto mb-4">{{ page.description }}</p>
+
+    <nav class="toc">
+      <div class="card col-lg-4 mx-auto">
+        <a href="" class="toc-trigger d-block text-center p-3 text-black">
+          Table of Contents {% octicon chevron-down height:16 class:"ml-2 fill-gray" aria-label:open %}
+        </a>
+        <ol class="toc-list list-style-none">
+            {% for section in page.toc %}
+            <li><a href="#{{ section[0] }}">{{ section[1] }}</a></li>
+            {% endfor %}
+        </ol>
+      </div>
+    </nav>
+
   </div>
 </header>
 

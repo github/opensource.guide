@@ -1,3 +1,7 @@
+a {
+  transition: all 0.2s ease-in-out;
+}
+
 .article-header {
   padding: 50px 0;
   @include breakpoint(sm) {
@@ -11,4 +15,11 @@
 
 .bg-gray-light {
   background-color: #F3F3F3 !important;;
+}
+
+.guide-cover {
+  &:hover {
+    box-shadow: $box-shadow-large;
+    text-decoration: none;
+  }
 }

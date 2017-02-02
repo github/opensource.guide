@@ -34,6 +34,7 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+markdown: kramdown
 
 sass:
   style: :compressed
