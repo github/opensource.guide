@@ -18,43 +18,37 @@ layout: landing
         </li>
       </ul>
     </div>
-    <div class="float-sm-left pl-3">
-      <p class="my-0 py-3 py-sm-4 text-gray">
-        <a href="" class="text-gray">Open Source Guides</a>  /
-      </p>
-    </div>
   </div>
 </nav>
 
 <div class="bg-gray-light">
 
   <header class="py-6">
-    <div class="container-lg mx-auto text-center landing-intro">
-      <h1>Welcome to the Open Source Guide!</h1>
-      <p class="mb-md-5 lead">
+    <div class="container-lg mx-auto text-center px-3 pt-6">
+      <h1 class="alt-h1">Open Source Guides</h1>
+      <p class="alt-lead text-gray mb-md-5 col-md-8 mx-auto">
         If you're interested in launching and growing your own open source project, this is the guide for you.
       </p>
-      <a href="https://github.com/{{ site.github.repository_nwo }}">View on GitHub {% octicon arrow-right height:26 class:"v-align-middle ml-2 fill-maroon" aria-label:hi %}</a>
     </div>
   </header>
 
   <div class="container-lg px-3">
-    <div class="clearfix gut-md d-flex flex-wrap flex-items-stretch">
+    <div class="clearfix gut-sm d-flex flex-wrap flex-items-stretch">
       {% for article in site.articles %}
-      <div class="card col-md-4 mt-4 mt-lg-7">
-          <div class="p-4">
-            <h3>
-              <a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a>
-            </h3>
-            <p class="mb-0">
-            {{ article.description }}
-            </p>
-          </div>
+      <div class="col-sm-6 col-md-4 mt-4 mt-lg-7">
+        <a href="{{ site.baseurl }}{{ article.url }}" class="card height-full d-block p-4">
+          <h3 class="alt-h3 lh-condensed mb-3 text-black">
+            {{ article.title }}
+          </h3>
+          <p class="mb-0 text-gray">
+          {{ article.description }}
+          </p>
+        </a>
       </div>
       {% endfor %}
     </div>
   </div>
-  
+
 </div>
 
 <div class="container-narrow mb-0 my-4 my-md-7">
