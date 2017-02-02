@@ -1,9 +1,9 @@
 ---
 title: Building Welcoming Communities
-description: Cupcake ipsum dolor sit amet. Muffin chocolate topping. Biscuit toffee jelly beans cheesecake lollipop. Sweet roll oat cake candy canes pudding oat cake I love macaroon. Gummi bears sugar plum caramels soufflé danish cake. Cake tiramisu jelly-o. Chupa chups cupcake bonbon.
+description: Building a welcoming community will encourage people to use, contribute to, and evangelize your project.
 ---
 
-You've launched your project, you're spreading the word, and people are checking out your project. Awesome! Now, how do you get them to stick around? Building a welcoming community will encourage people to use, contribute to, and evangelize your project.
+You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around? Building a welcoming community will encourage people to use, contribute to, and evangelize your project.
 
 ## Setting your project up for success
 
