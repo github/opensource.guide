@@ -145,29 +145,40 @@ You can also use one of the following resources to help you discover new project
 [24 Pull Requests](https://24pullrequests.com/)
 [Up For Grabs](http://up-for-grabs.net/)
 
-### Finding a project to contribute to
+### A checklist before you contribute
 When you’ve found a project you’d like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
 
 Here’s a handy checklist to evaluate whether a project is good for new contributors:
 
-- [ ] Meets the definition of open source
-  - [ ] Does it have a license? Usually, this is a file called LICENSE in the root of the repository. If the project doesn’t have an [open source license](https://choosealicense.com/), you are playing with legal :fire:. Find a different project. You may want to open an issue to suggest the project adds an open source license.
-- [ ] Project actively accepts contributions
-  - Look at the list of commits on the master branch. On GitHub, from a project’s homepage, you can find this by clicking “Commits” in the top bar. (show a photo of this with Atom as an example)
-    - When was the most recent commit?
-    - How often do people commit?
-    - How many contributors does it have?
-  - Look at the issues. On GitHub, from a project’s homepage, you can find this by clicking the “Issues” tab.
-    - How many open issues are there? If there are many open issues, that’s okay, but it’s more important that issues are actively discussed.
-    - Is there active discussion on the issues?
-    - Are the issues recent?
-    - How recently was an issue closed? On GitHub, click the “closed” link above the open issues page to see closed issues.
-  - Look at the pull requests. On GitHub, from a project’s homepage, you can find this by clicking the “Pull Requests” tab.
-    - How many open pull requests are there?
-    - Is there active discussion on the pull requests?
-    - How recently were any pull requests merged?
-  - If there are no recent updates to any of the above, that might be okay. It could mean that the project is stable. Instead, take a look at the most recent issues or pull requests. How quickly did the maintainers respond?
-- [ ] Project is welcoming
+#### Meets the definition of open source
+If the project doesn’t have an [open source license](https://choosealicense.com/), you are playing with legal :fire:. Find a different project. You may want to open an issue to suggest the project adds an open source license.
+
+  - [ ] Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+ 
+ 
+#### Project actively accepts contributions
+Start by looking at commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+  - [ ] When was the latest commit?
+  - [ ] How many contributors does the project have?
+  - [ ] How often do people commit? (On GitHub, you can find this by clicking “Commits” in the top bar and scrolling through the commits.)
+
+Next, look at the issues. On GitHub you can find this by clicking on a project's “Issues” tab.)
+  - [ ] How many open issues are there?
+  - [ ] Do maintainers respond quickly to issues when they are opened?
+  - [ ] Is there active discussion on the issues? (On GitHub, the chat bubble next to each issue tells you how many comments it's received).
+  - [ ] Are the issues recent?
+  - [ ] Are issues getting closed? (On GitHub, click the “closed” tab on the Issues page to see closed issues, and scroll through the dates.)
+ 
+Now do the same for pull requests. On GitHub, you can find this by clicking on a project's “Pull Requests” tab.
+  - [ ] How many open pull requests are there?
+  - [ ] Do maintainers respond quickly to pull requests when they are opened?
+  - [ ] Is there active discussion on the pull requests?
+  - [ ] Are the pull requests recent?
+  - [ ] How recently were any pull requests merged? (On GitHub, click the “closed” tab on the Pull Requests page to see closed PRs, and scroll through the dates.)
+
+
+#### Project is welcoming
+A project that is friendly and welcoming signals that they will be receptive to new contributors.
   - [ ] Do the maintainers respond helpfully to questions in issues?
   - [ ] Are people friendly in the issues, discussion forum, and chat (ex. IRC or Slack)?
   - [ ] Do pull requests get reviewed?
