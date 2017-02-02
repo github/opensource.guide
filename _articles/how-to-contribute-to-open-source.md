@@ -43,7 +43,7 @@ Here are a few ideas for how you can contribute to an open source project.
 ### Do you like planning events?
 
 * Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project’s conference (if they have one)
+* Organize the project's conference (if they have one)
 * Help community members find the right conferences and submit proposals for speaking
 
 ### Do you like to design?
