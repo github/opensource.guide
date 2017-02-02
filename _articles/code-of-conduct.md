@@ -1,9 +1,9 @@
 ---
 title: Your Code of Conduct
-description: Cupcake ipsum dolor. Sit amet chocolate bar halvah fruitcake gummi bears. Bear claw cupcake cake brownie I love. Liquorice jelly beans I love. Dragée ice cream cupcake apple pie macaroon candy canes bonbon caramels jelly beans. Caramels cake bonbon croissant. Tootsie roll topping soufflé. Sugar plum apple pie jujubes donut candy lemon drops bonbon caramels. Candy chocolate sugar plum topping cheesecake bonbon cake jelly beans.
+description: Adopting, and enforcing, a code of conduct empowers you to facilitate healthy, constructive community behavior.
 ---
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a healthy and constructive social atmosphere for your community.
+A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
 
 Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
 

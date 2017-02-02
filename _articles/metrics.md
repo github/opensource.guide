@@ -1,6 +1,6 @@
 ---
 title: Open Source Metrics
-description: Cupcake ipsum dolor. Sit amet fruitcake lollipop toffee. Sweet roll muffin cupcake jelly liquorice I love muffin. Croissant I love sweet roll. Chupa chups lemon drops halvah fruitcake. Croissant pie dessert sesame snaps bear claw liquorice I love.
+description: Your project is starting to grow. Well, you think it's growing. Is it growing? A guide to to measuring and tracking the success of your open source project.
 ---
 
 Your project is starting to grow. 🌱  Well, you think it's growing. Is it growing? Let's talk about how to measure and track the success of your open source project.
@@ -24,7 +24,7 @@ If you _are_ interested in understanding your project on a deeper level, the fol
 
 ## Discovery
 
-Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding my project?_
+Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding the project?_
 
 ![traffic graph](/assets/images/marketing/repo_traffic_graphs_tooltip.png)
 
@@ -46,7 +46,7 @@ You may also want to track discoverability in specific places: for example, Goog
 
 ## Use
 
-People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using my project?_
+People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using the project?_
 
 If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project's downloads. Each package manager may use a slightly different definition of "download", and downloads do not necessarily correlate to installs or use, but it provides some baseline for comparison. You can use [Libraries.io](https://libraries.io/) to track usage statistics across many popular package managers.
 
@@ -58,11 +58,11 @@ If usage is low compared to the number of people discovering your project, there
 
 ## Retention
 
-People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to my project?_
+People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to the project?_
 
 This is a big one. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is popular (many people use it) but not supported (not enough maintainer time to meet demand). Retention also requires an [inflow of new contributors](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel), as previously active contributors will eventually move on to other things. It's never too early to start thinking about contributors!
 
-Examples of contributor metrics that you may want to regularly track include:
+Examples of community metrics that you may want to regularly track include:
 
 * **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Graphs" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
 
