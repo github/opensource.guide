@@ -32,20 +32,20 @@ A common misconception about contributing to open source is that you need to con
 
 Even if you are a developer, non-code contributions (for example, writing documentation) are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
 
-@brettcannon, a [Python](https://github.com/python) core developer, [got his start](https://github.com/open-source/stories/brett-cannon) by offering to curate the Python mailing list:
+@brettcannon, a [Python](https://github.com/python) core developer, got his start by offering to curate the Python mailing list:
 
 > I decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
 
 Here are a few ideas for how you can contribute to an open source project.
 
 ### Do you like planning events?
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406) 
+* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
 * Organize the project’s conference (if they have one)
 * Help community members find the right conferences and submit proposals for speaking
 
 ### Do you like to design?
 * Improve the website’s layout or visual design
-* Make a new logo for the project, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68) 
+* Make a new logo for the project, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
 * Rethink the project’s onboarding experience, for new users or contributors
 * Redesign the newsletter
 
@@ -53,7 +53,7 @@ Here are a few ideas for how you can contribute to an open source project.
 * Write and improve the project’s documentation
 * Curate a folder of examples showing how the project is used
 * Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like pypa's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194) 
+* Write tutorials for the project, [like pypa's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
 * Write a translation for the project’s documentation
 
 ### Do you like organizing?
@@ -62,7 +62,7 @@ Here are a few ideas for how you can contribute to an open source project.
 * Ask clarifying questions on recently opened issues to move the discussion forward
 
 ### Do you like to code?
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560) 
+* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
 * Ask if you can help write a new feature
 * Automate project setup
 * Improve tooling and testing
@@ -75,7 +75,7 @@ Here are a few ideas for how you can contribute to an open source project.
 ### Do you like helping others code?
 * Review code on other people’s submissions
 * Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666) 
+* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
 ### You don’t just have to work on software projects!
 While “open source” often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
@@ -155,8 +155,8 @@ Here’s a handy checklist to evaluate whether a project is good for new contrib
 If the project doesn’t have an [open source license](https://choosealicense.com/), you are playing with legal :fire:. Find a different project. You may want to open an issue to suggest the project adds an open source license.
 
   - [ ] Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
- 
- 
+
+
 #### Project actively accepts contributions
 Start by looking at commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
   - [ ] When was the latest commit?
@@ -169,7 +169,7 @@ Next, look at the project's issues.
   - [ ] Is there active discussion on the issues?
   - [ ] Are the issues recent?
   - [ ] Are issues getting closed? (On GitHub, click the “closed” tab on the Issues page to see closed issues.)
- 
+
 Now do the same for the project's pull requests.
   - [ ] How many open pull requests are there?
   - [ ] Do maintainers respond quickly to pull requests when they are opened?
@@ -237,7 +237,7 @@ If you can’t find your idea elsewhere, you’re ready to make a move. If the p
 * **Pull requests** are for starting work on a solution
 * **For lightweight communication,** such as a clarifying or how-to question, try asking a question on Stack Overflow, IRC, Slack, or other chat channels for the project
 
-Before you open an issue or pull request, check the project’s contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests. 
+Before you open an issue or pull request, check the project’s contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
 
 If you want to make a substantial contribution, open an issue to ask before working on it. It’s helpful to watch the project for awhile (on GitHub, [you can click “Watch”](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted into the project.
 
@@ -253,7 +253,7 @@ Usually, you should open an issue in the following situations:
 Tips for communicating on issues:
 
 * **Be clear about what problem is occurring** and how someone can recreate that problem or why your proposed solution will help.
-If you see an open issue that you want to tackle, comment on the issue to let people know you’re on it. That way, people are less likely to duplicate your work. 
+If you see an open issue that you want to tackle, comment on the issue to let people know you’re on it. That way, people are less likely to duplicate your work.
 * **If an issue was opened awhile ago,** it’s possible that it’s being addressed somewhere else, or has already been resolved, so comment on the issue to ask for confirmation before starting work.
 * **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
