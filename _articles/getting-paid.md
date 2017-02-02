@@ -1,9 +1,9 @@
 ---
 title: Getting Paid for Open Source Work
-description: Cupcake ipsum dolor sit amet cupcake liquorice. Muffin danish candy bonbon tart oat cake muffin chocolate cake. Cookie sesame snaps pudding pudding lemon drops I love jelly beans I love. Dessert jelly beans bear claw jelly-o candy pastry pie I love jelly. Dessert oat cake cheesecake carrot cake pudding I love. Ice cream pudding jujubes chocolate cake caramels bear claw marzipan lemon drops jujubes. Chocolate cake oat cake cake dragée jelly.
+description: Whether you make regular, substantial contributions to open source, or you're just considering your first contribution, you may start to wonder whether anybody gets paid to work on open source.
 ---
 
-If you make regular, substantial contributions to open source, or you're just considering your first contribution, you may start to wonder whether anybody gets paid to work on open source.
+Whether you make regular, substantial contributions to open source, or you're just considering your first contribution, you may start to wonder whether anybody gets paid to work on open source.
 
 ## Why some people seek financial support
 

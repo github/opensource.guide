@@ -1,9 +1,9 @@
 ---
 title: Finding Users For Your Open Source Project
-description: Cupcake ipsum dolor sit amet toffee I love. Cookie topping lemon drops cookie jelly beans cake sweet roll. Dessert sesame snaps brownie candy candy canes. Lemon drops brownie cupcake powder chocolate topping I love danish. Tootsie roll biscuit I love. Cheesecake carrot cake carrot cake dessert lemon drops cheesecake. Sweet lemon drops cupcake gummi bears pastry soufflé donut chupa chups bonbon. Tiramisu cupcake bear claw soufflé pie gingerbread ice cream chocolate. Cheesecake jujubes tootsie roll bear claw liquorice cake I love pudding jelly.
+description: Want others to find and use your project? It's time to tell everybody about your hard work!
 ---
 
-You've just published an open source project. If you are hoping that other people find and use your project, then it's time to tell everybody about your hard work!
+You've just published an open source project. If you'd like others to find and use your project, then it's time to tell everybody about your hard work!
 
 There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you don't want a lot of people to discover or use your project, then go on and keep being your awesome self.
 

@@ -1,6 +1,6 @@
 ---
 title: Leadership and Governance
-description: Cupcake ipsum dolor sit amet powder sesame snaps croissant dragée. Cake chocolate cake gummi bears topping chocolate bar. I love carrot cake sesame snaps cake pie. Gummies chupa chups cupcake gummi bears ice cream lemon drops cake dessert. Powder pie macaroon chocolate cake I love. Caramels pastry donut I love I love donut. Biscuit cake soufflé. Wafer cake fruitcake pudding bonbon.
+description: Answers to commonly asked questions about leadership and governance for growing open source projects.
 ---
 
 Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow.
