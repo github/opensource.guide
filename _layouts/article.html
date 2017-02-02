@@ -2,7 +2,28 @@
 layout: default
 ---
 
-<header class="article-header">
+<header class="article-nav">
+  <div class="">
+    <ul class="border-left border-bottom border-sm-0 list-style-none float-sm-right">
+      <li class="d-inline-block border-right">
+        <a class="d-block p-3 p-sm-4" href="">About</a>
+      </li>
+      <li class="d-inline-block border-right">
+        <a class="d-block p-3 p-sm-4" href="">Contribute</a>
+      </li>
+      <li class="d-inline-block border-right">
+        <a class="d-block p-3 p-sm-4" href="">{% octicon search height:16 class:"mr-2 fill-gray" aria-label:hi %}Search</a>
+      </li>
+    </ul>
+  </div>
+  <div class="container-lg mx-auto">
+    <p class="my-0 py-3 py-sm-4 text-gray float-sm-left">
+      <a href="" class="text-gray">Open Source Guides</a>  /
+    </p>
+  </div>
+</header>
+
+<header class="article-header mx-auto">
   <div class="container-lg">
     <h1 class="alt-h1 text-center">{{ page.title }}</h1>
     <p class="alt-lead text-center text-gray col-md-8 mx-auto">{{ page.description }}</p>
