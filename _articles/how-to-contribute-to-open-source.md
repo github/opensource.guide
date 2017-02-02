@@ -31,7 +31,7 @@ For example, when @kittens made a [call for contributions](https://github.com/ba
 
 Even if you are a developer, non-code contributions (for example, writing documentation) are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
 
-@brettcannon, a [Python](https://github.com/python) core developer, explains that [he got his start](link when stories page goes up) by offering to curate the Python mailing list:
+@brettcannon, a [Python](https://github.com/python) core developer, explains that [he got his start](https://github.com/open-source/stories/brett-cannon) by offering to curate the Python mailing list:
 
 > I decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
 
@@ -110,7 +110,7 @@ Larger projects may also have subcommittees or working groups focused on differe
 
 A project also has documentation. These files are usually listed in the top level of a repository.
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, [it is not open source](link to other guides about this).
+* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
 * **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful, how to get started, and may point to other important links, such as the license or contributing docs.
 * **CONTRIBUTING:** Whereas READMES help people use the project, contributing docs help people contribute to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence is a signal that this is a welcoming project to contribute to.
 * **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants’ behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence is a signal that this is a welcoming project to contribute to.
