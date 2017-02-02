@@ -171,7 +171,6 @@ If the project doesn't have an [open source license](https://choosealicense.com/
 
 * [ ] Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
 
-
 #### Project actively accepts contributions
 
 Start by looking at commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
@@ -211,6 +210,8 @@ You've found a project you like, and you're ready to make a contribution. Finall
 
 ### Communicating effectively
 
+> As a new contributor, I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed. - Shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+
 Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
 
 Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
@@ -239,8 +240,6 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 
 > :smile: _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
 > :cry: _"Why can't you fix my problem? Isn't this your project?"_
-
-> As a new contributor, I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed. - Shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
 
 **Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers likely have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
 
