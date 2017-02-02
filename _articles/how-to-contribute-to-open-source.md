@@ -38,13 +38,13 @@ Even if you are a developer, non-code contributions (for example, writing docume
 Here are a few ideas for how you can contribute to an open source project.
 
 ### Do you like planning events?
-* [Organize workshops or meetups about the project](https://github.com/nodeschool/organizers/issues/406) 
+* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406) 
 * Organize the project’s conference (if they have one)
 * Help community members find the right conferences and submit proposals for speaking
 
 ### Do you like to design?
 * Improve the website’s layout or visual design
-* [Make a new logo for the project](https://github.com/hapijs/contrib/issues/68) 
+* Make a new logo for the project, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68) 
 * Rethink the project’s onboarding experience, for new users or contributors
 * Redesign the newsletter
 
@@ -52,29 +52,29 @@ Here are a few ideas for how you can contribute to an open source project.
 * Write and improve the project’s documentation
 * Curate a folder of examples showing how the project is used
 * Start a newsletter for the project, or curate highlights from the mailing list
-* [Write tutorials for the project](https://github.com/pypa/python-packaging-user-guide/issues/194) 
+* Write tutorials for the project, [like pypa's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194) 
 * Write a translation for the project’s documentation
 
 ### Do you like organizing?
 * Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and [suggest closing old ones](https://github.com/eslint/eslint/issues/6765)
+* Go through open issues and suggest closing old ones, [like @nzakas did for eslint](https://github.com/eslint/eslint/issues/6765)
 * Ask clarifying questions on recently opened issues to move the discussion forward
 
 ### Do you like to code?
-* [Find an open issue to tackle](https://github.com/Leaflet/Leaflet/issues/4528) 
+* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560) 
 * Ask if you can help write a new feature
 * Automate project setup
 * Improve tooling and testing
 
 ### Do you like helping people?
-* [Answer questions about the project on e.g., Stack Overflow or reddit](http://stackoverflow.com/questions/41963535/calling-authentication-middleware-through-app-use) 
+* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or reddit
 * Answer questions for people on open issues
 * Help moderate the discussion boards or conversation channels
 
 ### Do you like helping others code?
 * Review code on other people’s submissions
 * Write tutorials for how a project can be used
-* [Offer to mentor another contributor](https://github.com/rust-lang/book/issues/123#issuecomment-238049666) 
+* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666) 
 
 ### You don’t just have to work on software projects!
 While “open source” often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
