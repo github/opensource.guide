@@ -26,9 +26,9 @@ Not to worry! There are all sorts of ways to get involved with an open source pr
 
 ### You don’t have to contribute code
 
-> Seriously, documentation is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated. - @kittens, ["Call for contributors!"](https://github.com/babel/babel/issues/1347)
-
 A common misconception about contributing to open source is that you need to contribute code. In fact, it’s often the non-code parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You’ll do the project a _huge_ favor by offering to pitch in with non-code contributions!
+
+> Seriously, documentation is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated. - @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
 
 Even if you are a developer, non-code contributions (for example, writing documentation) are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
 
