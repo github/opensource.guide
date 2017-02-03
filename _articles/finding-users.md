@@ -1,6 +1,12 @@
 ---
 title: Finding Users For Your Open Source Project
 description: Want others to find and use your project? It's time to tell everybody about your hard work!
+toc:
+  figure-out-your-message: "Figure out your message"
+  help-people-find-and-follow-your-project: "Help people find and follow your project"
+  go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
+  go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
+  build-a-reputation: "Build a reputation"
 ---
 
 You've just published an open source project. If you'd like others to find and use your project, then it's time to tell everybody about your hard work!

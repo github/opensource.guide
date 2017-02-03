@@ -1,6 +1,10 @@
 ---
 title: Your Code of Conduct
 description: Adopting, and enforcing, a code of conduct empowers you to facilitate healthy, constructive community behavior.
+toc:
+  establishing-a-code-of-conduct: "Establishing a code of conduct"
+  write-down-how-youll-enforce-your-code-of-conduct: "Write down how you’ll enforce your code of conduct"
+  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
 ---
 
 A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.

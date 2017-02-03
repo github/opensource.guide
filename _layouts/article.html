@@ -31,14 +31,14 @@ layout: default
     <p class="lead text-center text-gray col-md-8 mx-auto mb-4">{{ page.description }}</p>
 
     <nav class="toc">
-      <div class="card col-sm-8 col-md-4 col-lg-3 mx-auto">
-        <a href="" class="toc-trigger d-block text-center p-3 text-black">
-          Table of Contents {% octicon chevron-down height:16 class:"ml-2 fill-gray" aria-label:open %}
+      <div class="card col-sm-8 col-md-4 col-lg-3 mx-auto py-3">
+        <a class="toc-trigger d-block text-center px-3">
+          <span class="text-black">Table of Contents</span>{% octicon triangle-down height:18 class:"ml-2 fill-blue v-align-middle" aria-label:open %}
         </a>
         <ol class="toc-list list-style-none">
-            {% for section in page.toc %}
-            <li><a href="#{{ section[0] }}">{{ section[1] }}</a></li>
-            {% endfor %}
+          {% for section in page.toc %}
+          <li class="border-top mt-2 pt-2 px-3"><a href="#{{ section[0] }}">{{ section[1] }}</a></li>
+          {% endfor %}
         </ol>
       </div>
     </nav>

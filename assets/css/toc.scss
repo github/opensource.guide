@@ -1,8 +1,18 @@
 .toc-trigger {
-  //display: block;
-  //text-align: center;
+  &.toc-open {
+    padding-bottom: $spacer-2;
+  }
 }
 
 .toc-list {
   display: none;
+
+  &.is-shown {
+    display: block;
+  }
+
+  ul {
+    border-bottom: $border;
+    margin-bottom: $spacer-2;
+  }
 }

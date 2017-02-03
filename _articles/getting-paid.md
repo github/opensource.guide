@@ -1,6 +1,10 @@
 ---
 title: Getting Paid for Open Source Work
 description: Whether you make regular, substantial contributions to open source, or you're just considering your first contribution, you may start to wonder whether anybody gets paid to work on open source.
+toc:
+  why-some-people-seek-financial-support: "Why some people seek financial support"
+  finding-financial-support: "Finding financial support"
+  building-a-case-for-financial-support: "Building a case for financial support"
 ---
 
 Whether you make regular, substantial contributions to open source, or you're just considering your first contribution, you may start to wonder whether anybody gets paid to work on open source.

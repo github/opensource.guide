@@ -6,7 +6,6 @@ toc:
   should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
   launching-your-own-open-source-project: "Launching your own open source project"
   extra-credit-naming-and-branding-your-project: "Extra credit&#58; Naming and branding your project"
-
 ---
 
 ## The "what" and "why" of open source

@@ -1,6 +1,14 @@
 ---
 title: The Legal Side of Open Source
 description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+toc:
+  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"
+  are-public-github-projects-open-source: "Are public GitHub projects open source?"
+  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Just give me the TL;DR on what I need to protect my project"
+  which-open-source-license-is-appropriate-for-my-project: "Which open source license is appropriate for my project?"
+  what-if-i-want-to-change-the-license-of-my-project: "What if I want to change the license of my project?"
+  does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
+  what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
 ---
 
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about.
