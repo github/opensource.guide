@@ -1,6 +1,6 @@
 ---
 title: Best Practices for Maintainers
-description: How to make your life easier as an open source maintainer, from documenting processes to leveraging your community.
+description: A guide to making your life easier as an open source maintainer, from documenting processes to leveraging your community.
 toc:
   documenting-your-processes: "Documenting your processes"
   communicate-your-expectations: "Communicate your expectations"
