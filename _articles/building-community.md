@@ -1,14 +1,12 @@
 ---
 title: Building Welcoming Communities
-description: Building a welcoming community will encourage people to use, contribute to, and evangelize your project.
+description: You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around? Building a welcoming community will encourage people to use, contribute to, and evangelize your project.
 toc:
   setting-your-project-up-for-success: "Setting your project up for success"
   give-your-community-a-place-to-congregate: "Give your community a place to congregate"
   growing-your-community: "Growing your community"
   resolving-conflicts: "Resolving conflicts"
 ---
-
-You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around? Building a welcoming community will encourage people to use, contribute to, and evangelize your project.
 
 ## Setting your project up for success
 

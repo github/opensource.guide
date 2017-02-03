@@ -7,6 +7,8 @@ toc:
   enforcing-your-code-of-conduct: "Enforcing your code of conduct"
 ---
 
+## Why do I need a code of conduct?
+
 A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
 
 Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.

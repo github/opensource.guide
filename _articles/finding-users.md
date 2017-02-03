@@ -9,6 +9,8 @@ toc:
   build-a-reputation: "Build a reputation"
 ---
 
+## Spreading the word
+
 You've just published an open source project. If you'd like others to find and use your project, then it's time to tell everybody about your hard work!
 
 There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you don't want a lot of people to discover or use your project, then go on and keep being your awesome self.

@@ -11,6 +11,8 @@ toc:
   what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
 ---
 
+## Understanding the legal implications of open source
+
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about.
 
 Thankfully, you don't have to start from scratch. We've got your legal needs covered.

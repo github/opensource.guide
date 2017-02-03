@@ -1,6 +1,6 @@
 ---
 title: Best Practices for Maintainers
-description: How to make your life easier as an open source maintainer, from documenting processes to leveraging your community.
+description: A guide to making your life easier as an open source maintainer, from documenting processes to leveraging your community.
 toc:
   documenting-your-processes: "Documenting your processes"
   communicate-your-expectations: "Communicate your expectations"
@@ -9,6 +9,8 @@ toc:
   bring-in-the-robots: "Bring in the robots"
   its-okay-to-hit-pause: "It’s okay to hit pause"
 ---
+
+## Maintaining a project requires more than code
 
 If you maintain an open source project that a lot of people use, you may have noticed a lot of your work is administrative: triaging issues, responding to questions, managing a roadmap.
 
