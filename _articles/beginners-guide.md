@@ -1,5 +1,5 @@
 ---
-title: The Beginner's Guide to Open Sourcing a Project
+title: The Beginner's Guide to Open Sourcing&nbsp;a&nbsp;Project
 description: A brief overview of what open source is, why people do it, and how to launch your own open source project.
 toc:
   the-what-and-why-of-open-source: "The what and why of open source"
@@ -9,9 +9,9 @@ toc:
 
 ---
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is, why people do it, and how to launch your own open source project.
-
 ## The "what" and "why" of open source
+
+So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is, why people do it, and how to launch your own open source project.
 
 ### What does "open source" mean?
 
