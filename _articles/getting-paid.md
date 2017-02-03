@@ -7,8 +7,6 @@ toc:
   building-a-case-for-financial-support: "Building a case for financial support"
 ---
 
-Whether you make regular, substantial contributions to open source, or you're just considering your first contribution, you may start to wonder whether anybody gets paid to work on open source.
-
 ## Why some people seek financial support
 
 Much of open source work is unpaid or volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time. (Did you know that @gvanrossum started [Python](https://github.com/python) over a Christmas holiday?)

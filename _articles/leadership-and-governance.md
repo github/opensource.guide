@@ -10,6 +10,8 @@ toc:
   do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
 ---
 
+## Understanding leadership for your growing project
+
 Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow.
 
 Maybe you want to give commit access to someone who's made significant contributions. Maybe you got into a debate with a community member and realized you didn't know how to resolve it.

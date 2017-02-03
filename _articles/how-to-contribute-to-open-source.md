@@ -10,10 +10,6 @@ toc:
   what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 ---
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
-
-In this guide, you’ll learn why people contribute, how they contribute, and strategies for finding and making your first contribution.
-
 ## Why contribute to open source?
 > Working on [freenode] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project! -@errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
 

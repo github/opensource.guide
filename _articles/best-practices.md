@@ -10,6 +10,8 @@ toc:
   its-okay-to-hit-pause: "It’s okay to hit pause"
 ---
 
+## Maintaining a project requires more than code
+
 If you maintain an open source project that a lot of people use, you may have noticed a lot of your work is administrative: triaging issues, responding to questions, managing a roadmap.
 
 While these tasks can be less fun than coding or writing, there are ways to make your life easier, from documenting processes to leveraging your community.

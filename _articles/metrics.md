@@ -9,8 +9,6 @@ toc:
   maintainer-health: "Maintainer Health"
 ---
 
-Your project is starting to grow. 🌱  Well, you think it's growing. Is it growing? Let's talk about how to measure and track the success of your open source project.
-
 ## Why measure anything?
 
 Data, when used wisely, can help you make better decisions as an open source maintainer. For example, data can help you:
