@@ -6,8 +6,18 @@
       <div id="content">
         {{ content }}
       </div>
+      <div id="search">
+          <div class="main-col">
+            <div class="container-narrow pt-4 pt-lg-8">
+              <div class="mb-8" id="search-results">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </main>
     <script src="{{ site.baseurl }}/js/vendor/anchor-js/anchor.min.js"></script>
+    <script src="{{ "/js/search.js" | prepend: site.baseurl }}"></script>
     <script>
       anchors.add('#content h2, #content h3, #content h4, #content h5');
     </script>
