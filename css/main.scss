@@ -105,3 +105,17 @@ a.user-mention {
     opacity: 0.75;
   }
 }
+
+#search {
+  display: none;
+}
+
+.searching {
+  #content {
+    display: none;
+  }
+
+  #search {
+    display: block;
+  }
+}
