@@ -12,21 +12,12 @@ layout: landing
         If you're interested in launching and growing your own open source project, this is the guide for you.
       </p>
     </div>
-  </header> 
+  </header>
 
   <div class="container-lg px-3">
     <div class="clearfix gut-sm d-flex flex-wrap flex-items-stretch">
       {% for article in site.articles %}
-      <div class="col-sm-6 col-md-4 mt-4 mt-lg-7">
-        <a href="{{ site.baseurl }}{{ article.url }}" class="guide-cover card height-full d-block p-4">
-          <h3 class="alt-h3 lh-condensed mb-3 text-black">
-            {{ article.title }}
-          </h3>
-          <p class="mb-0 text-gray">
-          {{ article.description }}
-          </p>
-        </a>
-      </div>
+        {% include card.html article=article %}
       {% endfor %}
     </div>
   </div>

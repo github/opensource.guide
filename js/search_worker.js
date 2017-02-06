@@ -7,7 +7,7 @@ importScripts("{{ "/js/lunr.min.js" | prepend: site.baseurl }}");
 
 var store = {
 {% for article in site.articles %}
-  {% capture html %}{% include search-result.html article=article %}{% endcapture %}
+  {% capture html %}{% include card.html article=article %}{% endcapture %}
   "{{ article.url | xml_escape }}": {
     "title": "{{ article.title | xml_escape }}",
     "content": {{ article.content | markdownify | strip_html | strip_newlines | jsonify }},
