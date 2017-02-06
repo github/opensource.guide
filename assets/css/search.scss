@@ -11,3 +11,13 @@
     display: block;
   }
 }
+
+.form-control-borderless {
+  border: none;
+  background: transparent;
+  box-shadow: none;
+
+  &:focus {
+    box-shadow: none;
+  }
+}
