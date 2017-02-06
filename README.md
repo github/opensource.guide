@@ -39,7 +39,7 @@ Screenshots in the guide are used according to [various permissions](notices.md#
 
 The initial release of these guides were authored by **@nayafia, @bkeepers, @stephbwills,** and **@mlinksva**.
 
-Thanks to **@aitchabee, @benbalter, @brettcannon, @coralineada, @dmleong, @ericholscher, @gr2m, @janl, @jfrazelle, @joshsimmons, @kytrinyx, @lee-dohm, @mikeal, @mikemcquaid, @nathansobo, @nsqe, @orta, @parkr, @shazow, @steveklabnik,** and **@wooorm** for lending their valuable input and expertise leading up to the initial release, and to **@sophshep** and **@jeejkang** for designing and illustrating the guides.
+Thanks to **@aitchabee, @benbalter, @brettcannon, @caabernathy, @coralineada, @dmleong, @ericholscher, @gr2m, @janl, @jfrazelle, @joshsimmons, @kytrinyx, @lee-dohm, @mikeal, @mikemcquaid, @nathansobo, @nruff, @nsqe, @orta, @parkr, @shazow, @steveklabnik,** and **@wooorm** for lending their valuable input and expertise leading up to the initial release, and to **@sophshep** and **@jeejkang** for designing and illustrating the guides.
 
 ## Disclaimer
 While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.
