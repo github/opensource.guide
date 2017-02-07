@@ -71,7 +71,7 @@ If you're part of a company open sourcing a project, make sure your project has 
 
 If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing open source project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
 
-If you're not sure how to get started, check out our [How to Contribute to Open Source guide](../how-to-contribute-to-open-source/)).
+If you're not sure how to get started, check out our [How to Contribute to Open Source guide](../how-to-contribute/)).
 
 ## Launching your own open source project
 
