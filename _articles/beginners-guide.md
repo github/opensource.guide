@@ -218,23 +218,28 @@ It isn't necessary to write a style guide for your project when you're just star
 Ready to open source your project? Here's a checklist before you do:
 
 **Documentation**
-- [ ] Project has an open source license
-- [ ] Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
-- [ ] The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+
+* [ ] Project has an open source license
+* [ ] Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+* [ ] The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
 
 **Code**
-- [ ] Project uses consistent code conventions and clear function/method/variable names
-- [ ] The code is clearly commented, documenting intentions and edge cases
-- [ ] There are no sensitive materials in the revision history, issues, or pull requests
+
+* [ ] Project uses consistent code conventions and clear function/method/variable names
+* [ ] The code is clearly commented, documenting intentions and edge cases
+* [ ] There are no sensitive materials in the revision history, issues, or pull requests
 
 **People**
+
 If you're an individual:
-- [ ] You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+
+* [ ] You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
 
 If you're a company or organization:
-- [ ] You've talked to your legal department
-- [ ] You have a marketing plan for announcing and promoting the project
-- [ ] Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
-- [ ] At least two people have administrative access to the project
+
+* [ ] You've talked to your legal department
+* [ ] You have a marketing plan for announcing and promoting the project
+* [ ] Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+* [ ] At least two people have administrative access to the project
 
 Checked all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
