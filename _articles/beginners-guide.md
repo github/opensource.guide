@@ -219,7 +219,7 @@ Ready to open source your project? Here's a checklist before you do:
 
 **Documentation**
 
-* [ ] Project has an open source license
+* [ ] Project has an open source LICENSE file
 * [ ] Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
 * [ ] The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
 * [ ] The issue queue is up-to-date, with issues clearly organized and labeled
@@ -228,7 +228,7 @@ Ready to open source your project? Here's a checklist before you do:
 
 * [ ] Project uses consistent code conventions and clear function/method/variable names
 * [ ] The code is clearly commented, documenting intentions and edge cases
-* [ ] There are no sensitive materials in the revision history, issues, or pull requests
+* [ ] There are no sensitive materials in the revision history, issues, or pull requests (ex. passwords or other non-public information)
 
 **People**
 
