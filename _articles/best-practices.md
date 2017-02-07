@@ -131,6 +131,8 @@ If you need to step away from your project, either on hiatus or permanently, the
 
 ### Let others build the solutions they need
 
+> I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it. - @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+
 If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
 
 Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
@@ -155,14 +157,17 @@ Set up automatic tests that will run on all incoming contributions, and ensure t
 
 ### Use tools to automate basic maintenance tasks
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues! There are a [variety of tools available](https://github.com/integrations) to help automate some aspects of maintenance work. For example:
+The good news about maintaining a popular project is that other maintainers have probably faced similar issues! There are a [variety of tools available](https://github.com/integrations) to help automate some aspects of maintenance work. A few examples:
 
 * [Greenkeeper](https://github.com/greenkeeperio/greenkeeper) monitors your project's dependencies
 * [Coveralls](https://coveralls.io/) checks for test coverage
-* [Vossibility](https://github.com/icecrime/vossibility-stack) pulls stats on your project
 * [mention-bot](https://github.com/facebook/mention-bot) automatically mentions potential reviewers for pull requests
 * [PullApprove](https://about.pullapprove.com/) helps you manage pull requests
 * [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
+
+@KrauseFx uses a bot to manage issues on his project, [fastlane](https://github.com/fastlane/fastlane):
+
+> The key to handle support for large-scale open source projects is to keep issues moving. Having a bot can ensure that issues are still relevant and reproducible. The fastlane-bot automatically asks if an issue is still relevant with the most recent fastlane release after just 2 months. If no participant of the issue replies to the bot within a month, the issue gets auto-closed. About a month after closing the issue, the bot locks the conversation to repository admins only.
 
 For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. You can also set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to manage your email notifications.
 
