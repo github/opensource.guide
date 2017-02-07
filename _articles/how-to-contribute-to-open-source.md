@@ -202,6 +202,8 @@ A project that is friendly and welcoming signals that they will be receptive to 
 * [ ] Do pull requests get reviewed?
 * [ ] Do maintainers thank people for their contributions?
 
+> Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development. - @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+
 ## How to submit a contribution
 
 You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
