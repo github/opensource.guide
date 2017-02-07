@@ -1,6 +1,6 @@
 ---
 title: Finding Users For Your Open Source Project
-description: Want others to find and use your project? It's time to tell everybody about your hard work!
+description: Help others find and use your project by telling them about your hard work.
 ---
 
 You've just published an open source project. If you'd like others to find and use your project, then it's time to tell everybody about your hard work!

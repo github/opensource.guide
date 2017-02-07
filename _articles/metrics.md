@@ -1,6 +1,6 @@
 ---
 title: Open Source Metrics
-description: Your project is starting to grow. Well, you think it's growing. Is it growing? A guide to to measuring and tracking the success of your open source project.
+description: Measuring and tracking the contributor and user activity of your open source project.
 ---
 
 Your project is starting to grow. 🌱  Well, you think it's growing. Is it growing? Let's talk about how to measure and track the success of your open source project.

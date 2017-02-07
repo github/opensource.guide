@@ -1,6 +1,6 @@
 ---
 title: How to Contribute to Open Source
-description: Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine. A brief overiew of why people contribute, how they contribute, and strategies for finding and making your first contribution.
+description: Why people contribute, how they contribute, and how to find and make your first contribution.
 ---
 
 Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.

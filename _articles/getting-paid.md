@@ -1,6 +1,6 @@
 ---
 title: Getting Paid for Open Source Work
-description: Whether you make regular, substantial contributions to open source, or you're just considering your first contribution, you may start to wonder whether anybody gets paid to work on open source.
+description: Ways to think about the relationship between money and open source.
 ---
 
 Whether you make regular, substantial contributions to open source, or you're just considering your first contribution, you may start to wonder whether anybody gets paid to work on open source.
