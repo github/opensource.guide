@@ -1,15 +1,17 @@
 ---
 title: Finding Users For Your Open Source Project
-description: Want others to find and use your project? It's time to tell everybody about your hard work!
+description: Tactics to help others find and use your project.
 ---
 
-You've just published an open source project. If you'd like others to find and use your project, then it's time to tell everybody about your hard work!
+You've just published an open source project. How do you spread the word?
 
 There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you don't want a lot of people to discover or use your project, then go on and keep being your awesome self.
 
+If you are hoping that others will find and use your project, then it's time to tell everybody about your hard work!
+
 ## Figure out your message
 
-Before you start the hard work of promoting your project, you should be able to explain what it does, and why it matters. What makes your project different or interesting? Why did you create it? Answering these questions for yourself will make it easier to convince others.
+Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters. What makes your project different or interesting? Why did you create it? Answering these questions for yourself will make it easier to convince others.
 
 If you're hoping people will use and contribute to your project, remember that people get involved because it solves a problem for them. As you think about your project's message and value, try to view it through the lens of what _they_ might want.
 
@@ -19,7 +21,7 @@ Mozilla offers [some helpful exercises](http://mozillascience.github.io/working-
 
 > You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point. - Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
 
-You can help people find and remember your project by pointing them to your project's namespace—a website, Twitter handle, or IRC channel, for example.
+You can help people find and remember your project by pointing them to your project's namespace: for example, a website, Twitter handle, or IRC channel.
 
 **Consider creating a website for your project.** [According to @adrianholovaty](https://news.ycombinator.com/item?id=7531689), a website was _"by far the best thing we did with Django in the early days"_. A website makes your project friendlier and easier to navigate, especially paired with clear documentation and tutorials. It also suggests that your project is active, which will make your audience feel more comfortable using it. Use examples to give people ideas for how to use your project.
 
@@ -53,9 +55,11 @@ If nobody pays attention or responds to your initial outreach, don't get discour
 
 ![public speaking](/assets/images/marketing/public_speaking.png)
 
-Offline events are a popular strategy for promoting new projects. It's a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers. @mitchellh [attributes](https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md) [Vagrant](https://github.com/mitchellh/vagrant)'s growth and popularity to the talks he gave about the project.
+Offline events are a popular strategy for promoting new projects. It's a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers. @mitchellh [directly attributes](https://github.com/swinton/codeconf/blob/master/the-hashicorp-formula-to-open-source.md) [Vagrant](https://github.com/mitchellh/vagrant)'s growth and popularity to the talks he gave about the project.
 
-If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project. If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work. When you write your talk, remember to focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project. If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
+
+As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
 > When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people. - Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
 
@@ -63,7 +67,7 @@ When you feel ready, consider speaking at a conference to promote your project. 
 
 @ry, author of [Node.js](https://github.com/nodejs), [was nervous](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s) about presenting his ideas for the first time at @JSConf:
 
-> I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU....I was extremely scared, presenting this thing that I had been working on for six months....The whole time I was just thinking, oh my God. What am I doing here?
+> I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. I was extremely scared, presenting this thing that I had been working on for six months. The whole time I was just thinking, oh my God. What am I doing here?
 
 ## Build a reputation
 
@@ -73,8 +77,16 @@ Sometimes, these relationships can even lead to official partnerships with the w
 
 > "The only reason urllib3 is the most popular third-party Python library today is because it's part of requests." - @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
 
-It's never too early, or too late, to start! Even if you've launched your own project already, continue looking for find ways to be helpful to others. There is no magic formula to building an audience and reputation. Gaining the trust and respect of others takes time, and reputation building work never ends.
+It's never too early, or too late, to start building your reputation! Even if you've launched your own project already, continue looking for find ways to help others. There is no magic formula to building an audience and reputation. Gaining the trust and respect of others takes time, and reputation building work never ends.
 
-Spreading the word is an important step in growing the popularity of your project. It can be scary to share your creativity with the world, so give yourself a high five for making it this far.
+## Keep at it
 
-Sometimes, it takes a long time before people notice your open source project. Your project will likely go through multiple phases of activity. That's okay! Some of the most popular projects today took years to reach high levels of activity. Be patient and keep spreading the word.
+Spreading the word is an important step to growing the popularity of your project. It can be scary to share your creativity with the world, so give yourself a high five for making it this far.
+
+Sometimes, it takes a long time before people notice your open source project. Your project will likely go through multiple phases of activity. That's okay!
+
+Some of the most popular projects today took years to reach high levels of activity. For example, @ariya [spent years talking](https://github.com/open-source/stories/ariya) about [PhantomJS](https://github.com/ariya/phantomjs) before it became a well-known project:
+
+> PhantomJS was released for the first time in the beginning of 2011. I spread the word about PhantomJS in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
+
+Try to focus on building long-term relationships instead of finding a magic bullet. Be patient and keep sharing the work you do with those who will appreciate it.

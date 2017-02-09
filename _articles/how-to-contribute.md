@@ -1,11 +1,11 @@
 ---
 title: How to Contribute to Open Source
-description: Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine. A brief overiew of why people contribute, how they contribute, and strategies for finding and making your first contribution.
+description: Why people contribute, how they contribute, and strategies to find and make your first contribution.
 ---
 
 Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
 
-Read on to learn why people contribute, how they contribute, and strategies for finding and making your first contribution.
+Let's talk about why and how people contribute, plus strategies to find and make your first contribution.
 
 ## Why contribute to open source?
 
@@ -131,10 +131,10 @@ A project also has documentation. These files are usually listed in the top leve
 
 Finally, open source projects tend to use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
 
-* Issue tracker
-* Pull requests
-* Mailing list
-* A synchronous chat channel, such as Slack or IRC
+* **Issue tracker:** Where people discuss issues related to the project.
+* **Pull requests:** Where people discuss and review changes that are in progress.
+* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (ex. "how do I..." or "what do you think about..." instead of bug reports or feature requests). Others use the issue tracker for all conversations.
+* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 
 ## Finding a project to contribute to
 
@@ -152,12 +152,12 @@ You might scan a README and find a broken link or a typo. Or you're a new user a
 
 You can also use one of the following resources to help you discover new projects:
 
-[GitHub Explore](https://github.com/explore/)
-[First Timers Only](http://www.firsttimersonly.com/)
-[Your First PR](https://yourfirstpr.github.io/)
-[CodeTriage](https://www.codetriage.com/)
-[24 Pull Requests](https://24pullrequests.com/)
-[Up For Grabs](http://up-for-grabs.net/)
+* [GitHub Explore](https://github.com/explore/)
+* [First Timers Only](http://www.firsttimersonly.com/)
+* [Your First PR](https://yourfirstpr.github.io/)
+* [CodeTriage](https://www.codetriage.com/)
+* [24 Pull Requests](https://24pullrequests.com/)
+* [Up For Grabs](http://up-for-grabs.net/)
 
 ### A checklist before you contribute
 
@@ -165,42 +165,42 @@ When you've found a project you'd like to contribute to, do a quick scan to make
 
 Here's a handy checklist to evaluate whether a project is good for new contributors:
 
-#### Meets the definition of open source
+**Meets the definition of open source**
 
-* [ ] Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+* ☑️ Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
 
-#### Project actively accepts contributions
+**Project actively accepts contributions**
 
 Start by looking at commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
 
-* [ ] When was the latest commit?
-* [ ] How many contributors does the project have?
-* [ ] How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+* ☑️ When was the latest commit?
+* ☑️ How many contributors does the project have?
+* ☑️ How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
 
 Next, look at the project's issues.
 
-* [ ] How many open issues are there?
-* [ ] Do maintainers respond quickly to issues when they are opened?
-* [ ] Is there active discussion on the issues?
-* [ ] Are the issues recent?
-* [ ] Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+* ☑️ How many open issues are there?
+* ☑️ Do maintainers respond quickly to issues when they are opened?
+* ☑️ Is there active discussion on the issues?
+* ☑️ Are the issues recent?
+* ☑️ Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
 
 Now do the same for the project's pull requests.
 
-* [ ] How many open pull requests are there?
-* [ ] Do maintainers respond quickly to pull requests when they are opened?
-* [ ] Is there active discussion on the pull requests?
-* [ ] Are the pull requests recent?
-* [ ] How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+* ☑️ How many open pull requests are there?
+* ☑️ Do maintainers respond quickly to pull requests when they are opened?
+* ☑️ Is there active discussion on the pull requests?
+* ☑️ Are the pull requests recent?
+* ☑️ How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
 
-#### Project is welcoming
+**Project is welcoming**
 
 A project that is friendly and welcoming signals that they will be receptive to new contributors.
 
-* [ ] Do the maintainers respond helpfully to questions in issues?
-* [ ] Are people friendly in the issues, discussion forum, and chat (ex. IRC or Slack)?
-* [ ] Do pull requests get reviewed?
-* [ ] Do maintainers thank people for their contributions?
+* ☑️ Do the maintainers respond helpfully to questions in issues?
+* ☑️ Are people friendly in the issues, discussion forum, and chat (ex. IRC or Slack)?
+* ☑️ Do pull requests get reviewed?
+* ☑️ Do maintainers thank people for their contributions?
 
 > Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development. - @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
 
@@ -218,33 +218,39 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 
 **Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
 
-> :smile: _"X doesn't happen when I do Y"_
-> :cry: _"X is broken! Please fix it."_
+> 😇 _"X doesn't happen when I do Y"_
+
+> 😢 _"X is broken! Please fix it."_
 
 **Do your homework beforehand.** It's ok not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
 
-> :smile: _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
-> :cry: _"How do I X?"_
+> 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
+
+> 😢 _"How do I X?"_
 
 **Keep requests simple and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
 
-> :smile: _"I'd like to write an API tutorial."_
-> :cry: _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
+> 😇 _"I'd like to write an API tutorial."_
+
+> 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
 
 **Keep all communication public.** Although it's tempting, don't reach out to maintainers privately. (There are two exceptions: 1) if you're reporting a security issue, or 2) you need to share sensitive information, such as a serious CoC violation.) When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
 
-> :smile: _"(as a comment) @maintainer Hi there! How should we proceed on this PR?"_
-> :cry: _"(as an email) Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
+> 😇 _(as a comment) "@maintainer Hi there! How should we proceed on this PR?"_
+
+> 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
 
 **It's ok to ask questions (but be patient!).** It's okay to be new and ask questions! Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
 
-> :smile: _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
-> :cry: _"Why can't you fix my problem? Isn't this your project?"_
+> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
+
+> 😢 _"Why can't you fix my problem? Isn't this your project?"_
 
 **Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers likely have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
 
-> :smile: _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
-> :cry: _"Why won't you support my use case? This is unacceptable!"_
+> 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
+
+> 😢 _"Why won't you support my use case? This is unacceptable!"_
 
 **Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
 
@@ -256,7 +262,7 @@ If you can't find your idea elsewhere, you're ready to make a move. If the proje
 
 * **Issues** are like starting a conversation or discussion
 * **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking a question on Stack Overflow, IRC, Slack, or other chat channels for the project
+* **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
 
 Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
 
@@ -305,7 +311,7 @@ You did it! Congratulations on becoming an open source contributor. We hope it's
 
 After you submit a contribution, one of the following will happen:
 
-### :sob: You don't get a response.
+### 😭 You don't get a response.
 
 Hopefully you checked the project for signs of activity before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
 
@@ -313,7 +319,7 @@ If you haven't gotten a response in over a week, it's fair to politely respond i
 
 If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone, and there are many reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
 
-### :construction: Someone requests changes to your contribution.
+### 🚧 Someone requests changes to your contribution.
 
 It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
 
@@ -321,12 +327,14 @@ When someone requests changes, be responsive. They've taken the time to review y
 
 If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
 
-### :-1: Your contribution doesn't get accepted.
+### 👎 Your contribution doesn't get accepted.
 
 Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to work on your own version if you disagree!
 
-### :tada: Your contribution is accepted.
+### 🎉 Your contribution gets accepted.
 
 Hooray! You've successfully made an open source contribution!
 
-**No matter the outcome,** don't forget to say thanks when a maintainer put effort into helping you, even if your contribution wasn't accepted. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+## You did it!
+
+Whether you just made your first open source contribution, or you're inspired to think of new ways to contribute, we hope you've had a good experience. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
