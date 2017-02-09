@@ -131,11 +131,10 @@ A project also has documentation. These files are usually listed in the top leve
 
 Finally, open source projects tend to use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
 
-* Issue tracker
-* Pull requests
-* Discussion forums
-* Mailing list
-* A synchronous chat channel, such as Slack or IRC
+* **Issue tracker:** Where people discuss issues related to the project.
+* **Pull requests:** Where people discuss and review changes that are in progress.
+* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (ex. "how do I..." or "what do you think about..." instead of bug reports or feature requests). Others use the issue tracker for all conversations.
+* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 
 ## Finding a project to contribute to
 
@@ -153,12 +152,12 @@ You might scan a README and find a broken link or a typo. Or you're a new user a
 
 You can also use one of the following resources to help you discover new projects:
 
-[GitHub Explore](https://github.com/explore/)
-[First Timers Only](http://www.firsttimersonly.com/)
-[Your First PR](https://yourfirstpr.github.io/)
-[CodeTriage](https://www.codetriage.com/)
-[24 Pull Requests](https://24pullrequests.com/)
-[Up For Grabs](http://up-for-grabs.net/)
+* [GitHub Explore](https://github.com/explore/)
+* [First Timers Only](http://www.firsttimersonly.com/)
+* [Your First PR](https://yourfirstpr.github.io/)
+* [CodeTriage](https://www.codetriage.com/)
+* [24 Pull Requests](https://24pullrequests.com/)
+* [Up For Grabs](http://up-for-grabs.net/)
 
 ### A checklist before you contribute
 
@@ -263,7 +262,7 @@ If you can't find your idea elsewhere, you're ready to make a move. If the proje
 
 * **Issues** are like starting a conversation or discussion
 * **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking a question on Stack Overflow, IRC, Slack, or other chat channels for the project
+* **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
 
 Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
 
