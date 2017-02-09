@@ -23,16 +23,16 @@ If you have questions about leadership and governance for open source projects, 
 Here are some common roles that you might have heard of for open source projects. What these roles actually mean, though, is entirely up to you.
 
 * Maintainer
-
 * Contributor
-
 * Committer
 
 For some projects, "maintainers" are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
 
 A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project (like @janl did for [CouchDB](https://github.com/apache/couchdb)) or written documentation that made the project more accessible to others (like @orta [did for CocoaPods](https://realm.io/news/orta-therox-moving-to-oss-by-default/)). Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
 
-A "contributor" could be defined as anyone who comments on an issue or pull request, as [Node.js](https://github.com/nodejs) [defines it](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951), whereas other projects would define a contributor as somebody whose pull request was accepted. The term "committer" might be used to distinguish commit access from other forms of contribution.
+Similarly, how you define a "contributor" is up to you. Contributors could be anyone who comments on an issue or pull request, as [Node.js](https://github.com/nodejs) [defines it](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951), people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
+
+While how you define a contributor is your decision, [consider using a broader definition](../how-to-contribute/#what-it-means-to-contribute) to encourage more forms of contribution. The term "committer" might be used to distinguish commit access from other forms of contribution.
 
 Use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill. @jacobian, one of [Django](https://github.com/django/django)'s former BDFLs, [once told a crowd at PyCon](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s) that he is actually a mediocre programmer who joined the project a year after it started, though he's often mistaken as the "inventor" of Django.
 
@@ -40,7 +40,7 @@ Use leadership roles to formally recognize people who have made outstanding cont
 
 Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help. For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For inspiration, [PostgreSQL](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [PostgreSQL](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
 
 If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas. For example, you could have subcommittees focused on security, issue triaging, or community conduct. [Rust](https://github.com/rust-lang/rust) is an example of a project that [moved from having one core team](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md) to multiple teams. Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
 
