@@ -1,6 +1,7 @@
 ---
 title: Open Source Metrics
 description: Your project is starting to grow. Well, you think it's growing. Is it growing? A guide to to measuring and tracking the success of your open source project.
+class: metrics
 toc:
   why-measure-anything: "Why measure anything?"
   discovery: "Discovery"

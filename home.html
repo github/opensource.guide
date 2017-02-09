@@ -11,7 +11,7 @@ layout: landing
           <a class="d-block p-3 p-sm-4" href="">About</a>
         </li>
         <li class="d-inline-block border-right">
-          <a class="d-block p-3 p-sm-4" href="">Contribute</a>
+          <a class="d-block p-3 p-sm-4" href="https://github.com/github/open-source-guide/blob/gh-pages/CONTRIBUTING.md">Contribute</a>
         </li>
         <li class="d-inline-block border-right">
           <a class="d-block p-3 p-sm-4" href="">{% octicon search height:16 class:"mr-2 fill-gray" aria-label:hi %}Search</a>
@@ -30,13 +30,13 @@ layout: landing
         If you're interested in launching and growing your own open source project, this is the guide for you.
       </p>
     </div>
-  </header> 
+  </header>
 
   <div class="container-lg px-3">
     <div class="clearfix gut-sm d-flex flex-wrap flex-items-stretch">
       {% for article in site.articles %}
       <div class="col-sm-6 col-md-4 mt-4 mt-lg-7">
-        <a href="{{ site.baseurl }}{{ article.url }}" class="guide-cover card height-full d-block p-4">
+        <a href="{{ site.baseurl }}{{ article.url }}" class="{{ article.class }} guide-cover card height-full d-block p-4">
           <h3 class="alt-h3 lh-condensed mb-3 text-black">
             {{ article.title }}
           </h3>

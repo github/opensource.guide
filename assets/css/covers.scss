@@ -1,0 +1,9 @@
+.article-header.metrics {
+  padding: 50px 0 0;
+  @include breakpoint(sm) {
+    padding: 100px 0 0;
+  }
+  img {
+    margin-bottom: -5px;
+  }
+}

@@ -67,21 +67,27 @@ img {
     text-align: center;
     margin-bottom: $spacer-3;
     line-height: 1.25;
-    margin-top: 40px;
-
-    @include breakpoint(md) {
-      margin-top: 100px;
-    }
 
     &:before {
       display: block;
       font-size: 17px;
       font-weight: 700;
       margin-bottom: $spacer-4;
+      margin-top: 40px;
+
+      @include breakpoint(md) {
+        margin-top: 120px;
+      }
+
     }
   }
 
-  h2:nth-of-type(1):before { content: "Section 1"; }
+  h2:nth-of-type(1):before {
+    content: "Section 1";
+    @include breakpoint(md) {
+      margin-top: 60px;
+    }
+  }
   h2:nth-of-type(2):before { content: "Section 2"; }
   h2:nth-of-type(3):before { content: "Section 3"; }
   h2:nth-of-type(4):before { content: "Section 4"; }
@@ -139,127 +145,5 @@ img {
   &:hover {
     box-shadow: $box-shadow-large;
     text-decoration: none;
-  }
-}
-
-
-
-
-
-
-
-
-
-a.user-mention {
-  font-weight: 700;
-  color: #000;
-}
-
-.footnotes {
-  margin-top: $spacer-4;
-
-  &:before {
-    content: "Footnotes:";
-    display: inline-block;
-    margin-bottom: $spacer-3;
-    //color: $heading-color;
-    font-size: 18px;
-    font-weight: 400;
-
-    @include breakpoint(md) { font-size: 20px; }
-    @include breakpoint(lg) { font-size: 22px; }
-  }
-}
-
-.landing-intro {
-  padding-top: 28%;
-  @include breakpoint(xl) {
-    padding-top: 20%;
-  }
-}
-
-.bg-squares {
-  //background-color: $taupe;
-  background-image: url("{{ site.baseurl }}/assets/bg.svg");
-  background-repeat: no-repeat;
-  background-size: 175%;
-  background-position: center -20px;
-
-  @include breakpoint(sm) {
-    background-size: 102%;
-    background-position: center -10px;
-  }
-}
-
-.bg-squares {
-  //background-color: $taupe;
-  background-image: url("{{ site.baseurl }}/assets/bg.svg");
-  background-repeat: no-repeat;
-  background-size: 175%;
-  background-position: center -20px;
-
-  @include breakpoint(sm) {
-    background-size: 102%;
-    background-position: center -10px;
-  }
-}
-
-.bg-nav {
-  @media screen and (min-width: 992px) and (min-height: 730px) {
-    //background-color: darken($taupe, 5%);
-    background-image: url("{{ site.baseurl }}/assets/bg-bottom-left.svg");
-    background-repeat: no-repeat;
-    background-size: 96%;
-    background-position: -10px 91%;
-  }
-}
-
-.form-input {
-  border: $border;
-  height: 36px;
-}
-
-#mc_embed_signup div.mce_inline_error {
-  background-color: inherit !important;
-  //color: $maroon !important;
-  font-weight: normal !important;
-  font-size: 16px;
-}
-
-.card-landing .card {
-  @include breakpoint(md) {
-    height: 196px;
-  }
-  @include breakpoint(lg) {
-    height: 172px;
-  }
-  @include breakpoint(xl) {
-    height: auto;
-  }
-}
-
-.anchorjs-link, .anchorjs-link:hover {
-  float: left;
-  margin-left: -1.4em;
-  width: 1.4em;
-  text-decoration: none;
-  color: inherit;
-
-  *:hover > & {
-    opacity: 0.75;
-  }
-}
-
-#search {
-  display: none;
-}
-
-.searching {
-  #content {
-    display: none;
-  }
-
-  #search {
-    display: block;
   }
 }
