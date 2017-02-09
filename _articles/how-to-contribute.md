@@ -335,4 +335,6 @@ Your contribution may or may not be accepted in the end. Hopefully you didn't pu
 
 Hooray! You've successfully made an open source contribution!
 
-**No matter the outcome,** don't forget to say thanks when a maintainer put effort into helping you, even if your contribution wasn't accepted. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+## You did it!
+
+Whether you just made your first open source contribution, or you're inspired to think of new ways to contribute, we hope you've had a good experience. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.

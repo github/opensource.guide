@@ -91,6 +91,6 @@ For his Kickstarter campaign, @davegandy [made a video](https://www.kickstarter.
 
 > For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. That's why we're introducing Font Awesome 5, a completely redesigned version...we're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
 
-## Keep at it!
+## Experiment and don't give up
 
 Raising money isn't easy, whether you're an open source project or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes to create a personalized pitch will help you build a convincing case for funding.

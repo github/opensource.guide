@@ -3,7 +3,7 @@ title: The Beginner's Guide to Open Sourcing a Project
 description: What open source is, why people do it, and how to launch your own open source project.
 ---
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is, why people do it, and how to launch your own open source project.
+So you're thinking about getting started with open source? Awesome! The world appreciates your contribution. Let's talk about what open source is, why people do it, and how to launch your own open source project.
 
 ## The "what" and "why" of open source
 
@@ -213,7 +213,7 @@ Beyond how you write words, your coding style may also become part of your proje
 
 It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
 
-## It's time to launch!
+## Your pre-launch checklist
 
 Ready to open source your project? Here's a checklist before you do:
 
@@ -244,3 +244,7 @@ If you're a company or organization:
 * ☑️ At least two people have administrative access to the project
 
 Checked all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+
+## You did it!
+
+Congratulations on open sourcing your first project. No matter the outcome, the act of working in public is an important community contribution. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.

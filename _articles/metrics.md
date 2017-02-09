@@ -45,7 +45,7 @@ You may also want to track discoverability in specific places: for example, Goog
 
 > Each week, we look at multiple metrics in each level of engagement and document the data (e.g., number of downloads). We document the unique outreach activities that we did during that same week (e.g., blog posts or new releases) in parallel. This way, we are able to actively measure ourselves each week and learn about which activities are effective in increasing engagement in our project. - Gaby Fachler, ["Using Pirate Metrics to Measure Success of Open Source Projects"](https://opensource.com/business/16/6/pirate-metrics)
 
-## Use
+## Usage
 
 People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using this project?_
 
@@ -81,7 +81,7 @@ Examples of community metrics that you may want to regularly track include:
 
 > Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes. - @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
-## Maintainer Health
+## Maintainer activity
 
 Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
 
@@ -90,3 +90,7 @@ Unresponsive maintainers can become a bottleneck for open source projects. If so
 Consider tracking how long it takes for you (or another maintainer) to respond to contributions, whether an issue or a pull request. Responding doesn't require taking action. It can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
 
 You could also measure the time it takes to move between stages in the contribution process, such as average amount of time an issue remains open, or time from issue to PR.
+
+## Numbers help people understand behavior
+
+Understanding open source metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
