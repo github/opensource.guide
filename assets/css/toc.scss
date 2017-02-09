@@ -1,11 +1,19 @@
 .toc-trigger {
-  &.toc-open {
-    padding-bottom: $spacer-2;
+  &:hover {
+    text-decoration: none;
   }
+}
+
+.icon-flip {
+  transition: all 0.5s ease-in-out;
+}
+.toc-open .icon-flip {
+  transform: rotate(180deg);
 }
 
 .toc-list {
   display: none;
+  transition: all 0.5s ease-in-out;
 
   &.is-shown {
     display: block;
@@ -14,5 +22,13 @@
   ul {
     border-bottom: $border;
     margin-bottom: $spacer-2;
+  }
+
+  a {
+    &:hover {
+      color: #333;
+      border-left: 3px solid $blue;
+      text-decoration: none;
+    }
   }
 }

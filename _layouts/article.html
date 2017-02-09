@@ -31,13 +31,15 @@ layout: default
     <p class="lead text-center text-gray col-md-8 mx-auto mb-4">{{ page.description }}</p>
 
     <nav class="toc">
-      <div class="card col-sm-8 col-md-4 col-lg-3 mx-auto py-3">
-        <a class="toc-trigger d-block text-center px-3">
-          <span class="text-black">Table of Contents</span>{% octicon triangle-down height:18 class:"ml-2 fill-blue v-align-middle" aria-label:open %}
+      <div class="card col-sm-8 col-md-4 col-lg-3 mx-auto ">
+        <a class="toc-trigger d-block text-center p-3">
+          <span class="text-black">Table of Contents</span>{% octicon triangle-down height:18 class:"ml-2 fill-blue v-align-middle icon-flip" aria-label:open %}
         </a>
         <ol class="toc-list list-style-none">
           {% for section in page.toc %}
-          <li class="border-top mt-2 pt-2 px-3"><a href="#{{ section[0] }}">{{ section[1] }}</a></li>
+          <li class="border-top">
+            <a href="#{{ section[0] }}" class="d-block py-3 px-3">{{ section[1] }}</a>
+          </li>
           {% endfor %}
         </ol>
       </div>
