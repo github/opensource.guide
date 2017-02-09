@@ -10,6 +10,14 @@ img {
   line-height: 0;
 }
 
+.breadcrumb {
+  background: #F3F3F3;
+
+  @include breakpoint(sm){
+    background: $bg-white;
+  }
+}
+
 // Big opening paragraphs
 .lead {
   -webkit-font-smoothing: antialiased;
@@ -20,8 +28,11 @@ img {
 }
 
 .article-header {
-  padding: 50px 0;
+  padding: 20px 0;
   @include breakpoint(sm) {
+    padding: 50px 0;
+  }
+  @include breakpoint(md) {
     padding: 100px 0;
   }
 }
