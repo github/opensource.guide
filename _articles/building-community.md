@@ -1,9 +1,11 @@
 ---
 title: Building Welcoming Communities
-description: Building a welcoming community will encourage people to use, contribute to, and evangelize your project.
+description: Building a welcoming community that encourages people to use, contribute to, and evangelize your project.
 ---
 
-You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around? Building a welcoming community will encourage people to use, contribute to, and evangelize your project.
+You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
+
+Building a welcoming community will encourage people to use, contribute to, and evangelize your project. Read on for advice about managing communities at every stage of your project.
 
 ## Setting your project up for success
 
@@ -11,9 +13,39 @@ If your project is just starting to see its first contributions, start by giving
 
 ### Make people feel welcome
 
-A welcoming community is an investment into your project's future and reputation. When someone new lands on your project, make sure to thank them for their interest! Show them around and help them get started. Point them to resources, like onboarding materials or past mailing list threads, that you think might be helpful. It only takes one negative experience to make someone not want to come back.
+A welcoming community is an investment into your project's future and reputation. When someone new lands on your project, make sure to thank them for their interest! It only takes one negative experience to make someone not want to come back.
 
 ![django new contributors page](/assets/images/marketing/django_new_contributors.png)
+
+One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
+
+![contributor funnel](/assets/images/marketing/contributor_funnel_mikemcquaid.png)
+
+As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
+
+Start by making it easy for someone to use your project. Tutorials, clear code examples, good documentation, and a friendly README will make it easier for anyone who lands on your project to grasp its value and get started. Do the same for contributors, linking them to resources and keeping the issues up-to-date.
+
+Be open-minded about the types of contributions you'll accept. Your pool of contributors includes much more than just developers. Many contributors start with a bug report or small fix. A new contributor might write a tutorial or improve your project's documentation, because newer users notice things that more experienced users might not. Let people help how they want to help.
+
+> Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns. - @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+
+The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. Sometimes these are also called ["drive-through contributors"](https://lwn.net/Articles/688560/).
+
+A casual contributor may not have time to get fully up to speed with your project. Nearly half of contributors on popular GitHub projects, for example, [only made one contribution](http://gustavopinto.org/lost+found/saner2016.pdf). This level of noise can be overwhelming at first. But [the more people feel ownership](https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5) of your project, the more work can be distributed. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
+
+If there's a contribution you disagree with, thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project. Link to existing documentation on the types of contributions you are looking for and encourage them to stay involved.
+
+### Document everything
+
+> Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? Now imagine you want to contribute to an open source project, but you don't see why or how this is happening and where people talk about things. - @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+
+When you start a new project, it may feel natural to keep your ideas and workflows private. But open source projects thrive when you [document your process](http://www.writethedocs.org/) in public. That way, more people can participate at every step of the way. Not only will they know _what_ to contribute, but they'll also know _how_ to contribute. You might get help on something you didn't even know you needed.
+
+Documenting your open source project means more than just technical documentation. Be transparent about your project's roadmap, your timeline for completing new features, the types of contributions you're looking for, how contributions are reviewed and accepted, or why you made certain decisions.
+
+If there are certain types of contributions that you won't accept, explain so in your CONTRIBUTING.md file. If you get frequent questions or notice users running into the same problem, document the answers in the README. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public. For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+
+Writing things down isn't just for meetings and technical documentation, either. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
 
 ### Be responsive
 
@@ -29,33 +61,7 @@ When Mozilla studied its community and engagement in 2014, [they found that](htt
 
 Conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
 
-### Make it easy for people to use and contribute
-
-One way to think about your project's community is what @MikeMcQuaid calls the [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
-
-![contributor funnel](/assets/images/marketing/contributor_funnel_mikemcquaid.png)
-
-As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
-
-Start by making it easy for someone to use your project. Tutorials, clear code examples, good documentation, and a friendly README will make it easier for anyone who lands on your project to grasp its value and get started. Don't forget to document processes for non-code contributions as well, such as triaging, community management, or design.
-
-> Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns. - @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
-
-For casual or first-time contributors, be open-minded about the types of contributions you'll accept. Your pool of contributors includes much more than just developers. Many contributors start with a bug report or small fix. A new contributor might write a tutorial or improve your project's documentation, because newer users notice things that more experienced users might not. Let people help how they want to help.
-
-If there's a contribution you disagree with, thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project. Link to existing documentation on the types of contributions you are looking for and encourage them to stay involved.
-
-### Document everything
-
-> Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? Now imagine you want to contribute to an open source project, but you don't see why or how this is happening and where people talk about things. - @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
-
-When you start an open source project, it may feel natural to keep your ideas and workflows private. But open source projects thrive when you [document your process](http://www.writethedocs.org/) in public. That way, more people can participate at every step of the way. Not only will they know _what_ to contribute, but they'll also know _how_. You might get help on something you didn't even know you needed.
-
-Documenting your open source project means more than just technical documentation. Be transparent about your project's roadmap, your timeline for completing new features, the types of contributions you're looking for, how contributions are reviewed and accepted, or why you made certain decisions. If there are certain types of contributions that you won't accept, explain so in your CONTRIBUTING.md file. If you get frequent questions or notice users running into the same problem, document the answers in the README. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public. For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
-
-Writing things down isn't just for meetings and technical documentation, either. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
-
-## Give your community a place to congregate
+### Give your community a place to congregate
 
 There are two reasons to give your community a place to congregate.
 
@@ -63,7 +69,7 @@ The first reason is for them. People with common interests will inevitably want 
 
 The second reason is for you. If you don't give people a public place to talk about your project, they will likely contact you directly. In the beginning, it may seem easy enough to respond to private messages "just this once". But over time, especially if your project becomes popular, you will feel exhausted. Resist the temptation to communicate with people about your project in private. Instead, direct them to a designated public channel.
 
-If your project is on GitHub, public communication can be as simple as directing people to use [GitHub Issues](https://guides.github.com/features/issues/) instead of emailing you directly. You could also set up a mailing list (such as [Google Groups](https://groups.google.com/forum/#!overview)) or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
+Public communication can be as simple as directing people to open an issue instead of emailing you directly or commenting on your blog. You could also set up a mailing list (such as [Google Groups](https://groups.google.com/forum/#!overview)) or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
 
 [Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) sets aside office hours every other week to help community members:
 
@@ -73,11 +79,7 @@ Notable exceptions to public communication are: 1) security issues and 2) sensit
 
 ## Growing your community
 
-Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. But as your project's community grows, there are ways to help it become a force of construction, not destruction.
-
-The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. Sometimes these are also called ["drive-through contributors"](https://lwn.net/Articles/688560/).
-
-A casual contributor may not have time to get fully up to speed with your project. Nearly half of contributors on popular GitHub projects, for example, [only made one contribution](http://gustavopinto.org/lost+found/saner2016.pdf). This level of noise can be overwhelming at first. But [the more people feel ownership](https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5) of your project, the more work can be distributed. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
+Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
 
 ### Don't tolerate bad actors
 
@@ -93,15 +95,17 @@ For inspiration, @sarahsharp [created a framework](http://sarah.thesharps.us/201
 
 ### Meet contributors where they're at
 
-You started documenting your project's needs and workflow in the early stages. Clear, comprehensive documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, use documentation to quickly get the context they need.
+You started documenting your project's needs and workflow in the early stages. Clear, comprehensive documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
 
 In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. For example, [Read the Docs](https://github.com/rtfd/readthedocs.org/blob/master/docs/contribute.rst#contributing-to-development) tells its readers:
 
 > If you want to deep dive and help out with development on Read the Docs, then first get the project installed locally according to the Installation Guide. After that is done we suggest you have a look at tickets in our issue tracker that are labelled Good First Bug. These are meant to be a great way to get a smooth start and won't put you in front of the most complex parts of the system.
 
-In Issues, label bugs that are suitable for beginners: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05) or _"good first bug"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
+In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first bug"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
 
-Finally, use your documentation to make people feel welcome at every step of the way. Remember that you will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Do your best to reduce your chances of someone leaving your project in frustration. Even a few kind words can help. For example, here's how [Rubinius](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md) starts its contributing guide:
+Finally, use your documentation to make people feel welcome at every step of the way. Remember that you will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Do your best to reduce your chances of someone leaving your project in frustration. Even a few kind words can help.
+
+For example, here's how [Rubinius](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md) starts its contributing guide:
 
 > We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
 
@@ -129,7 +133,7 @@ See if you can find ways to share ownership with your community as much as possi
 
 The bigger your project, and the bigger your community, the easier it is to find help. [Django](https://github.com/django/django)'s original BDFLs ([benevolent dictators for life](../leadership-and-governance/#what-are-some-of-the-common-governance-structures-for-open-source-projects)), @adrianholovaty and @jacobian, [both](http://www.holovaty.com/writing/bdfls-retiring/) [retired](https://jacobian.org/writing/retiring-as-bdfls/) after 9 years when they felt the community had outgrown them.
 
-The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. While you may not always find someone to answer the call, putting a Batsignal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
+The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
 
 > It's in your best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it. - @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
 
@@ -191,6 +195,10 @@ If the issue does not represent the broader needs of your community, you may jus
 
 ### Identify a community tiebreaker
 
-With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, you should identify an individual or group of people that can serve as a tiebreaker. A tiebreaker could be the primary maintainer of the project, or it could be a small group of people who make a decision based on voting. Ideally, you've identified a tiebreaker and the associated process in your GOVERNANCE file before you ever have to use it.
+With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, you should identify an individual or group of people that can serve as a tiebreaker. A tiebreaker could be the primary maintainer of the project, or it could be a small group of people who make a decision based on voting. Ideally, you've identified a tiebreaker and the associated process in a GOVERNANCE file before you ever have to use it.
 
 Your tiebreaker should be a last resort. Divisive issues are an opportunity for your community to grow and learn. Embrace these opportunities and use a collaborative process to move to a resolution wherever possible.
+
+## Community is the ❤️ of open source
+
+Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone else out there have an unforgettable open source experience.

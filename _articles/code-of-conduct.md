@@ -1,6 +1,6 @@
 ---
 title: Your Code of Conduct
-description: Adopting, and enforcing, a code of conduct empowers you to facilitate healthy, constructive community behavior.
+description: Empowering healthy, constructive community behavior through a code of conduct.
 ---
 
 A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
@@ -78,4 +78,6 @@ Sometimes, a resolution cannot be reached. The person in question may become agg
 
 Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
 
-It's not always easy to enforce your code of conduct, but this type of work is necessary to maintain a healthy and active community. When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by the rest of the community, you risk losing the contributions of many others, some of whom you may never even meet.
+## Help encourage the behavior your want to see in the world
+
+It's not always easy to implement or enforce your code of conduct, but this type of work can help encourage a healthy and active community. When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by the rest of the community, you risk losing the contributions of many others, some of whom you may never even meet. By adopting a code of conduct, you're helping make your community a better place. 🙏
