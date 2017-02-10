@@ -67,6 +67,8 @@ If you hope to get contributions, remember that as your project grows, your comm
 
 If you're part of a company open sourcing a project, make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintainer-related tasks after launch, and how you want to share those tasks with your community. If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
 
+> As you begin to open source the project, it’s important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don’t be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors. - @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+
 ### Contributing to other projects
 
 If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing open source project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
@@ -203,9 +205,7 @@ Throughout the life of your project, you'll do a lot of writing: READMEs, tutori
 
 @janl discovered that the way he spoke to others [helped create a positive brand](http://writing.jan.io/2015/11/20/sustainable-open-source.html) for [CouchDB](https://github.com/apache/couchdb):
 
-> I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style. \[...\]
->
-> Every time I join and read, I see the culture that I helped plant there seven years ago and it makes me very proud.
+> I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
 
 Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Also consider using simple language when writing, as many of your readers may not be native English speakers. You can use [Hemingway](http://www.hemingwayapp.com/) to find quick ways to simplify your language.
 
@@ -246,5 +246,4 @@ If you're a company or organization:
 Checked all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
 
 ## You did it!
-
 Congratulations on open sourcing your first project. No matter the outcome, the act of working in public is an important community contribution. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.

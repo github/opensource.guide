@@ -9,7 +9,7 @@ Let's talk about why and how people contribute, plus strategies to find and make
 
 ## Why contribute to open source?
 
-> Working on freenode helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project! -@errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+> Working on freenode helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project! - @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
 
 There are many reasons why people contribute to open source, including:
 
@@ -100,6 +100,8 @@ For example:
 Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
 
 ## Orienting yourself to a new project
+
+> “If you go to an issue tracker and things seem confusing, it’s not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.” - @shaunagm, ["How to Contribute to Open Source"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
 
 For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
 
@@ -210,7 +212,7 @@ You've found a project you like, and you're ready to make a contribution. Finall
 
 ### Communicating effectively
 
-> As a new contributor, I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed. - Shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+> As a new contributor, I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed. - @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
 
 Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
 

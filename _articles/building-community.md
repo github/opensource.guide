@@ -83,6 +83,8 @@ Communities are extremely powerful. That power can be a blessing or a curse, dep
 
 ### Don't tolerate bad actors
 
+> The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. Don't settle for less. Don't settle for assholes. - @karissa, ["How to Run a FOSS Project"](http://karissa.github.io/post/okf-deç)
+
 Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
 
 Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave.
@@ -90,8 +92,6 @@ Do your best to adopt a zero-tolerance policy towards these types of people. If 
 Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
 
 When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
-
-For inspiration, @sarahsharp [created a framework](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/) for understanding where your community is at in terms of encouraging welcoming behavior, and how you can bring your project to the next level.
 
 ### Meet contributors where they're at
 
@@ -111,13 +111,9 @@ For example, here's how [Rubinius](https://github.com/rubinius/rubinius/blob/mas
 
 ### Share ownership of your project
 
-> The biggest existential threat to your library is this: you get burned out and stop working on it – and no one else contributes to it – so it doesn't get maintained, and your users leave. - @ashfurrow, ["Building Popular Projects"](https://ashfurrow.com/blog/building-popular-projects/)
+> Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn’t always win by tiring people out, and that less prominent and minority voices are heard. - @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
 
 People are excited to contribute to projects when they feel as sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you can give credit to others, the more likely they are to stick around.
-
-@orta found this approach to ownership [helped him succeed](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) with his open source projects, including [Danger](https://github.com/danger/danger/):
-
-> Understanding motivations, encouraging ownership and accommodating multiple viewpoints are vital parts of anyone who wants to make a project bigger than themselves. There [are lots of times](https://github.com/danger/danger/graphs/contributors) when I'm not the lead developer on Danger.
 
 See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
 
@@ -167,7 +163,9 @@ Voting can become political, where community members feel pressured to do each o
 
 Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) rather than consensus. Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
 
-> Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. What I can offer and pledge to do is that it is my job to listen to the community. - [@lee-dohm](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+[Atom](https://github.com/atom), for example, [prioritizes consensus seeking](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2) over a voting system:
+
+> Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. What I [@lee-dohm] can offer and pledge to do is that it is my job to listen to the community.
 
 Even if you don't actually adopt a consensus seeking process, as the maintainer of your project, it's important to make sure that people know you are listening. Making other people feel heard, and committing to resolving their concerns, can go a long way in diffusing a sensitive situation. Then, follow up on your words with actions.
 
