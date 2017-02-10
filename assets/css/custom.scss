@@ -86,16 +86,6 @@ blockquote {
   @include breakpoint(lg) { font-size: 26px; }
 }
 
-.article-header {
-  padding: 20px 0;
-  @include breakpoint(sm) {
-    padding: 50px 0;
-  }
-  @include breakpoint(md) {
-    padding: 100px 0;
-  }
-}
-
 .article-body {
   font-size: 16px;
   padding-top: 100px;

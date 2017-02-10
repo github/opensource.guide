@@ -1,12 +1,20 @@
 .article-header {
+  padding: 20px 0;
+
   nav {z-index: 1;}
   .cover-img {z-index: -1;}
+
+  @include breakpoint(sm) {
+    padding: 50px 0 0;
+  }
+
+  @include breakpoint(md) {
+    padding: 100px 0 0;
+  }
 }
 
 .article-header.metrics {
-  padding-bottom: 0;
   @include breakpoint(sm) {
-    padding-bottom: 0;
     .cover-img {
       max-width: 650px;
       margin-top: -115px;
@@ -15,9 +23,7 @@
 }
 
 .article-header.finding {
-  padding-bottom: 0;
   @include breakpoint(sm) {
-    padding-bottom: 0;
     .cover-img {
       margin-top: -100px;
     }
@@ -25,19 +31,44 @@
 }
 
 .article-header.building {
-  padding-bottom: 0;
   @include breakpoint(md) {
-    padding-bottom: 0;
     .cover-img {
       margin-top: -100px;
     }
   }
 }
 
-.article-header.best-practices {
-  padding-bottom: 0;
+.article-header.contribute {
   @include breakpoint(md) {
-    padding-bottom: 0;
+    .cover-img {
+      margin-top: -10px;
+      margin-bottom: -100px;
+    }
+  }
+}
+
+.article-header.beginners {
+  @include breakpoint(md) {
+    .cover-img {
+      margin-top: -20px;
+      margin-bottom: -50px;
+      max-width: 720px;
+    }
+  }
+}
+
+.article-header.legal {
+  @include breakpoint(md) {
+    .cover-img {
+      margin-top: -110px;
+      margin-bottom: -50px;
+      max-width: 720px;
+    }
+  }
+}
+
+.article-header.best-practices {
+  @include breakpoint(md) {
     .cover-img {
       max-width: 600px;
       margin-top: -100px;
@@ -53,9 +84,7 @@
 }
 
 .article-header.getting-paid {
-  padding-bottom: 0;
   @include breakpoint(md) {
-    padding-bottom: 0;
     .cover-img {
       max-width: 600px;
       margin-top: -40px;
