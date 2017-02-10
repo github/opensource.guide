@@ -111,7 +111,7 @@ For example, here's how [Rubinius](https://github.com/rubinius/rubinius/blob/mas
 
 ### Share ownership of your project
 
-> Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn’t always win by tiring people out, and that less prominent and minority voices are heard. - @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+> Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard. - @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
 
 People are excited to contribute to projects when they feel as sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you can give credit to others, the more likely they are to stick around.
 
@@ -165,7 +165,7 @@ Sometimes, voting is a necessary tiebreaker. As much as you are able, however, e
 
 [Atom](https://github.com/atom), for example, [prioritizes consensus seeking](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2) over a voting system:
 
-> Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. What I [@lee-dohm] can offer and pledge to do is that it is my job to listen to the community.
+> Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. What I (@lee-dohm) can offer and pledge to do is that it is my job to listen to the community.
 
 Even if you don't actually adopt a consensus seeking process, as the maintainer of your project, it's important to make sure that people know you are listening. Making other people feel heard, and committing to resolving their concerns, can go a long way in diffusing a sensitive situation. Then, follow up on your words with actions.
 

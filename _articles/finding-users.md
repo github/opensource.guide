@@ -59,7 +59,7 @@ Offline events are a popular strategy for promoting new projects. It's a great w
 
 If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project. If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
 
-> I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. Also, I was a bit unsure of what to expect in terms of the social climate. I shouldn’t have worried, though. PyCon was phenomenally awesome! Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people! - @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+> I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. Also, I was a bit unsure of what to expect in terms of the social climate. I shouldn't have worried, though. PyCon was phenomenally awesome! Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people! - @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
 
 As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 

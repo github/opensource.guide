@@ -73,7 +73,7 @@ Regardless of the reason, it is possible to tactfully handle contributions that 
 
 If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
 
-> The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you’re an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS. - @KrauseFX, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
+> The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS. - @KrauseFX, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
 
 Don't leave an unwanted contribution open because you feel guilty or want to be nice. Firstly, over time, your unanswered issues and PRs will accumulate and make working on your project feel that much more stressful and intimidating. It's better to immediately close the contributions you know you don't want to accept. (If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage those issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).)
 
@@ -119,7 +119,7 @@ For example, Jekyll is experimenting with the idea of [affinity team captains](h
 
 If you're looking for others to pitch in, start by asking around. @lmccart found that she could get other [p5.js](https://github.com/processing/p5.js) contributors to help each other, [instead of doing it all herself](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p):
 
-> We had this contributor’s conference at Carnegie Mellon. Up to that point, I’d been saying, _“Yeah, anyone can be involved, you don’t have to have a lot of coding expertise, this is really important to me.”_ [But] that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them, one at a time. But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+> We had this contributor's conference at Carnegie Mellon. Up to that point, I'd been saying, _"Yeah, anyone can be involved, you don't have to have a lot of coding expertise, this is really important to me."_ [But] that's when I was really wondering: is this true, what I've been saying? There are gonna be 40 people who show up, and it's not like I can sit with each of them, one at a time. But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
 
 If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you. If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
 
@@ -145,7 +145,7 @@ Just as there are tasks that other people can help you with, there are also task
 
 ### Require tests and other checks to improve the quality of your code
 
-> I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn’t need changes – we only write code when something is wrong, whether that’s “It crashes” or “It lacks such-and-such a feature”. And regardless of the changes you’re making, tests are essential for catching any regressions you might accidentally introduce. - @edunham, ["Rust's Community Automation"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
+> I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce. - @edunham, ["Rust's Community Automation"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
 
 One of the most important ways you can automate your project is by adding tests. Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
 
