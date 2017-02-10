@@ -225,29 +225,97 @@ Ready to open source your project? Here's a checklist before you do:
 
 **Documentation**
 
-* ☑️ Project has a LICENSE file of the open source license
-* ☑️ Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
-* ☑️ The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
-* ☑️ The issue queue is up-to-date, with issues clearly organized and labeled
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox1" class="overflow-hidden d-block text-normal">
+    Project has a LICENSE file of the open source license
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox2" class="overflow-hidden d-block text-normal">
+    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox3" class="overflow-hidden d-block text-normal">
+    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+  </label>
+</div>
+
+<div class="clearfix mb-4">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox4" class="overflow-hidden d-block text-normal">
+    The issue queue is up-to-date, with issues clearly organized and labeled
+  </label>
+</div>
 
 **Code**
 
-* ☑️ Project uses consistent code conventions and clear function/method/variable names
-* ☑️ The code is clearly commented, documenting intentions and edge cases
-* ☑️ There are no sensitive materials in the revision history, issues, or pull requests (ex. passwords or other non-public information)
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox5" class="overflow-hidden d-block text-normal">
+    Project uses consistent code conventions and clear function/method/variable names
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox6" class="overflow-hidden d-block text-normal">
+    The code is clearly commented, documenting intentions and edge cases
+  </label>
+</div>
+
+<div class="clearfix mb-4">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox7" class="overflow-hidden d-block text-normal">
+    There are no sensitive materials in the revision history, issues, or pull requests (ex. passwords or other non-public information)
+  </label>
+</div>
 
 **People**
 
 If you're an individual:
 
-* ☑️ You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+<div class="clearfix mb-4">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox8" class="overflow-hidden d-block text-normal">
+  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  </label>
+</div>
 
 If you're a company or organization:
 
-* ☑️ You've talked to your legal department
-* ☑️ You have a marketing plan for announcing and promoting the project
-* ☑️ Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
-* ☑️ At least two people have administrative access to the project
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox9" class="overflow-hidden d-block text-normal">
+    You've talked to your legal department
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox10" class="overflow-hidden d-block text-normal">
+    You have a marketing plan for announcing and promoting the project
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox11" class="overflow-hidden d-block text-normal">
+    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+  </label>
+</div>
+
+<div class="clearfix mb-4">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox12" class="overflow-hidden d-block text-normal">
+    At least two people have administrative access to the project
+  </label>
+</div>
 
 Checked all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
 
