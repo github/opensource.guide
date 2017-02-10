@@ -10,12 +10,13 @@ blockquote {
   font-style: italic;
   border-left: $border;
   border-width: 4px;
-  padding-left: $spacer-2;
-  padding-top: $spacer-2;
-  padding-bottom: $spacer-1;
+  padding: $spacer-1 0 0 $spacer-2;
+  margin-top: $spacer-2;
   margin-bottom: $spacer-2;
   @include breakpoint(md) {
-    padding-left: $spacer-3;
+    padding: $spacer-1 0 $spacer-1 $spacer-3;
+    margin-top: $spacer-3;
+    margin-bottom: $spacer-3;
   }
 }
 
