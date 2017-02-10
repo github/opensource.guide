@@ -1,7 +1,35 @@
-.article-header.metrics,
+.article-header {
+  nav {z-index: 1;}
+  .cover-img {z-index: -1;}
+}
+
+.article-header.metrics {
+  padding-bottom: 0;
+  @include breakpoint(sm) {
+    padding-bottom: 0;
+    .cover-img {
+      max-width: 650px;
+      margin-top: -115px;
+    }
+  }
+}
+
 .article-header.finding {
   padding-bottom: 0;
   @include breakpoint(sm) {
     padding-bottom: 0;
+    .cover-img {
+      margin-top: -100px;
+    }
+  }
+}
+
+.article-header.building {
+  padding-bottom: 0;
+  @include breakpoint(md) {
+    padding-bottom: 0;
+    .cover-img {
+      margin-top: -100px;
+    }
   }
 }
