@@ -46,7 +46,7 @@ If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.gi
 **Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. They also give your project's growing community a place to convene. If you don't wish to set up these channels for your project yet, promote your own Twitter or GitHub handle in everything you do. For example, make sure it is included in your bio or slides if you speak at a meetup or event. That way, people know how to reach you or follow your work.
 
 <aside class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar">
+  <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
   A mistake I made in those early days was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
@@ -60,7 +60,7 @@ Now that you have a message for your project, and easy ways for people to reach 
 Take advantage of existing online communities and platforms to reach your audience. Online outreach is a great way to share and spread the word quickly, and you have the potential to reach a very wide audience.
 
 <aside class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar">
+  <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
   Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
@@ -88,7 +88,7 @@ If you're [new to public speaking](http://speaking.io/), start by finding a loca
 As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
 <aside class="pquote">
-  <img src="/assets/images/finding/lena.jpg" class="pquote-avatar">
+  <img src="/assets/images/finding/lena.jpg" class="pquote-avatar" alt="avatar">
   When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
@@ -108,7 +108,7 @@ In addition to the strategies outlined above, the best way to invite people to s
 Sometimes, these relationships can even lead to official partnerships with the wider ecosystem.
 
 <aside class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar">
+  <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar" alt="avatar">
   The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)

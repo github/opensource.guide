@@ -30,7 +30,7 @@ Start by making it easy for someone to use your project. Tutorials, clear code e
 Be open-minded about the types of contributions you'll accept. Your pool of contributors includes much more than just developers. Many contributors start with a bug report or small fix. A new contributor might write a tutorial or improve your project's documentation, because newer users notice things that more experienced users might not. Let people help how they want to help.
 
 <aside class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar">
+  <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">
   Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
@@ -46,7 +46,7 @@ If there's a contribution you disagree with, thank them for their idea and [expl
 ### Document everything
 
 <aside class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/11321?v=3&s=400" class="pquote-avatar">
+  <img src="https://avatars2.githubusercontent.com/u/11321?v=3&s=400" class="pquote-avatar" alt="avatar">
   Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? Now imagine you want to contribute to an open source project, but you don't see why or how this is happening and where people talk about things.
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
@@ -126,7 +126,7 @@ For example, here's how [Rubinius](https://github.com/rubinius/rubinius/blob/mas
 ### Share ownership of your project
 
 <aside class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/498212?v=3&s=400" class="pquote-avatar">
+  <img src="https://avatars1.githubusercontent.com/u/498212?v=3&s=400" class="pquote-avatar" alt="avatar">
   The biggest existential threat to your library is this: you get burned out and stop working on it – and no one else contributes to it – so it doesn't get maintained, and your users leave.
   <p markdown="1" class="pquote-credit">
 — @ashfurrow, ["Building Popular Projects"](https://ashfurrow.com/blog/building-popular-projects/)
@@ -156,7 +156,7 @@ The bigger your project, and the bigger your community, the easier it is to find
 The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
 
 <aside class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/39992?v=3&s=400" class="pquote-avatar">
+  <img src="https://avatars0.githubusercontent.com/u/39992?v=3&s=400" class="pquote-avatar" alt="avatar">
   It's in your best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
@@ -178,7 +178,7 @@ When your community is grappling with a difficult issue, tempers may rise. Peopl
 Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
 
 <aside class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/119893?v=3&s=400" class="pquote-avatar">
+  <img src="https://avatars2.githubusercontent.com/u/119893?v=3&s=400" class="pquote-avatar" alt="avatar">
   As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
@@ -201,7 +201,7 @@ Voting can become political, where community members feel pressured to do each o
 Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) rather than consensus. Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
 
 <aside class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/1038121?v=3&s=400" class="pquote-avatar">
+  <img src="https://avatars1.githubusercontent.com/u/1038121?v=3&s=400" class="pquote-avatar" alt="avatar">
   Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. What I can offer and pledge to do is that it is my job to listen to the community.
   <p markdown="1" class="pquote-credit">
 — [@lee-dohm](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
@@ -221,7 +221,7 @@ Allowing these conversations to continue is not only bad for the issue at hand, 
 With every point made by you or by others, ask yourself, _"How does this bring us closer to a resolution?"_ If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
 
 <aside class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar">
+  <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
   Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.  
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)

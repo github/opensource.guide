@@ -47,7 +47,7 @@ If you want others to use, copy, modify, or contribute back to your project, you
 You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
 
 <aside class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/282759?v=3&s=400" class="pquote-avatar">
+  <img src="https://avatars2.githubusercontent.com/u/282759?v=3&s=400" class="pquote-avatar" alt="avatar">
   A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
@@ -134,7 +134,7 @@ Longer term your legal team can do more to help the company get more from its in
 * **Employee contribution policies:** Consider developing a corporate policy that specifies how your employees contribute to open source projects. A clear policy will reduce confusion among your employees and help them contribute to open source projects in the company's best interest, whether as part of their jobs or in their free time. A good example is Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
 <aside class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/214698?v=3&s=400" class="pquote-avatar">
+  <img src="https://avatars3.githubusercontent.com/u/214698?v=3&s=400" class="pquote-avatar" alt="avatar">
   Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention.
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/))

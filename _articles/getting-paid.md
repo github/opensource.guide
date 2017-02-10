@@ -19,7 +19,7 @@ There are plenty of reasons why a person would not want to be paid for open sour
 * They get other benefits from contributing to open source, such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
 
 <aside class="pquote">
-  <img src="/assets/images/getting-paid/eloy.png" class="pquote-avatar">
+  <img src="/assets/images/getting-paid/eloy.png" class="pquote-avatar" alt="avatar">
   Financial donations do add a feeling of responsibility, for some. It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
   <p markdown="1" class="pquote-credit">
 — Eloy Durán, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
@@ -29,7 +29,7 @@ There are plenty of reasons why a person would not want to be paid for open sour
 For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can afford to do so. Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
 
 <aside class="pquote">
-  <img src="/assets/images/getting-paid/ashe.jpg" class="pquote-avatar">
+  <img src="/assets/images/getting-paid/ashe.jpg" class="pquote-avatar" alt="avatar">
   Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
   <p markdown="1" class="pquote-credit">
 — Ashe Dryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)

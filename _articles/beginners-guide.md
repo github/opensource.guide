@@ -6,7 +6,8 @@ toc:
   the-what-and-why-of-open-source: "The what and why of open source"
   should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
   launching-your-own-open-source-project: "Launching your own open source project"
-  extra-credit-naming-and-branding-your-project: "Extra credit&#58; Naming and branding your project"
+  naming-and-branding-your-project: "Naming and branding your project"
+  your-pre-launch-checklist: "Your pre-launch checklist"
 ---
 
 ## The "what" and "why" of open source
