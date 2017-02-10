@@ -3,10 +3,10 @@ title: Welcome
 layout: landing
 ---
 
-<nav class="article-nav">
+<nav class="main-nav">
   <div class="container-lg edged mx-auto clearfix">
     <div class="float-sm-right">
-      <ul class="border-left border-bottom border-sm-0 list-style-none">
+      <ul class="main-links border-left border-bottom border-sm-0 list-style-none">
         <li class="d-inline-block border-right">
           <a class="d-block p-3 p-sm-4" href="">About</a>
         </li>
@@ -32,7 +32,7 @@ layout: landing
     </div>
   </header>
 
-  <div class="container-lg px-3">
+  <div class="container-lg px-3 pb-6">
     <div class="clearfix gut-sm d-flex flex-wrap flex-items-stretch">
       {% for article in site.articles %}
       <div class="col-sm-6 col-md-4 mt-4 mt-lg-7">
@@ -54,13 +54,4 @@ layout: landing
 
 </div>
 
-<div class="container-narrow mb-0 my-4 my-md-7">
-  <div class="border text-center p-3 p-md-4">
-    {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
-    <span class="d-block d-md-inline">This content is open source.</span>
-    <a href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
-      Please help improve it.
-    </a>
-  </div>
-  {% include footer.html %}
-</div>
+{% include footer.html %}

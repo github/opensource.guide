@@ -1,4 +1,5 @@
-.article-header.metrics {
+.article-header.metrics,
+.article-header.finding {
   padding-bottom: 0;
   @include breakpoint(sm) {
     padding-bottom: 0;

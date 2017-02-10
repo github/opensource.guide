@@ -1,6 +1,7 @@
 ---
 title: Finding Users For Your Open Source Project
 description: Want others to find and use your project? It's time to tell everybody about your hard work!
+class: finding
 toc:
   figure-out-your-message: "Figure out your message"
   help-people-find-and-follow-your-project: "Help people find and follow your project"

@@ -10,6 +10,14 @@ img {
   line-height: 0;
 }
 
+.main-links a {
+  &:hover {
+    background: $bg-gray-light;
+    text-decoration: none;
+    color: $gray-dark;
+  }
+}
+
 .breadcrumb {
   background: #F3F3F3;
 
@@ -109,6 +117,8 @@ img {
   h2:nth-of-type(5):before { content: "Section 5"; }
   h2:nth-of-type(6):before { content: "Section 6"; }
   h2:nth-of-type(7):before { content: "Section 7"; }
+  h2:nth-of-type(8):before { content: "Section 8"; }
+  h2:nth-of-type(9):before { content: "Section 9"; }
 
   h2 + p {
     text-align: center;
@@ -160,5 +170,18 @@ img {
   &:hover {
     box-shadow: $box-shadow-large;
     text-decoration: none;
+  }
+}
+
+.mc-field-group {
+
+  .form-input{
+    height: 40px;
+  }
+  .btn {
+    height: 40px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    margin-left: -1px;
   }
 }

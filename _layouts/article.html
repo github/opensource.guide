@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<header class="article-nav">
+<nav class="main-nav">
   <div class="container-lg edged mx-auto clearfix">
     <div class="float-sm-right">
-      <ul class="border-left border-bottom border-sm-0 list-style-none">
+      <ul class="main-links border-left border-bottom border-sm-0 list-style-none">
         <li class="d-inline-block border-right">
           <a class="d-block p-3 p-sm-4" href="">About</a>
         </li>
@@ -23,7 +23,7 @@ layout: default
       </p>
     </div>
   </div>
-</header>
+</nav>
 
 <header class="article-header {{ page.class }} bg-gray-light">
   <div class="container-lg mx-auto px-3">
@@ -44,7 +44,7 @@ layout: default
         </ol>
       </div>
     </nav>
-    <div class="col-10 col-md-8 col-lg-6 mx-auto lh-none">
+    <div class="col-10 col-md-8 mx-auto lh-none">
       <img src="{{ site.baseurl }}/assets/images/illos/{{ page.class }}.svg">
     </div>
 
@@ -52,28 +52,9 @@ layout: default
 </header>
 
 <article>
-  <div class="article-body mx-auto px-3 pt-4 pt-lg-8 col-md-10 col-lg-8 col-xl-6">
+  <div class="article-body mx-auto px-3 pt-4 pt-lg-6 pb-6 col-md-10 col-lg-8 col-xl-6">
     {{ content }}
-    <div class="my-md-4 py-3">
-      <div class="clearfix">
-        <div class="float-left">
-          {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
-        </div>
-        <div class="overflow-hidden">
-          <span class="d-block d-md-inline">This content is open source.</span>
-          <a href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
-            Please help improve it.
-          </a>
-        </div>
-      </div>
-    </div>
   </div>
 </article>
 
-  <footer class="">
-    <div class="container-lg">
-      <div class="pl-lg-4">
-        {% include footer.html %}
-      </div>
-    </div>
-  </footer>
+{% include footer.html %}
