@@ -183,40 +183,143 @@ Here's a handy checklist to evaluate whether a project is good for new contribut
 
 **Meets the definition of open source**
 
-* ☑️ Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox1" class="overflow-hidden d-block text-normal">
+  Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+  </label>
+</div>
 
 **Project actively accepts contributions**
 
 Start by looking at commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
 
-* ☑️ When was the latest commit?
-* ☑️ How many contributors does the project have?
-* ☑️ How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox2" class="overflow-hidden d-block text-normal">
+  When was the latest commit?
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox3" class="overflow-hidden d-block text-normal">
+  How many contributors does the project have?
+  </label>
+</div>
+
+<div class="clearfix mb-4">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox4" class="overflow-hidden d-block text-normal">
+  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+  </label>
+</div>
 
 Next, look at the project's issues.
 
-* ☑️ How many open issues are there?
-* ☑️ Do maintainers respond quickly to issues when they are opened?
-* ☑️ Is there active discussion on the issues?
-* ☑️ Are the issues recent?
-* ☑️ Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox5" class="overflow-hidden d-block text-normal">
+    How many open issues are there?
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox6" class="overflow-hidden d-block text-normal">
+    Do maintainers respond quickly to issues when they are opened?
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox7" class="overflow-hidden d-block text-normal">
+    Is there active discussion on the issues?
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox8" class="overflow-hidden d-block text-normal">
+    Are the issues recent?
+  </label>
+</div>
+
+<div class="clearfix mb-4">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox9" class="overflow-hidden d-block text-normal">
+    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+  </label>
+</div>
 
 Now do the same for the project's pull requests.
 
-* ☑️ How many open pull requests are there?
-* ☑️ Do maintainers respond quickly to pull requests when they are opened?
-* ☑️ Is there active discussion on the pull requests?
-* ☑️ Are the pull requests recent?
-* ☑️ How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox8" class="overflow-hidden d-block text-normal">
+    How many open pull requests are there?
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox8" class="overflow-hidden d-block text-normal">
+    Do maintainers respond quickly to pull requests when they are opened?
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox11" class="overflow-hidden d-block text-normal">
+    Is there active discussion on the pull requests?
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox12" class="overflow-hidden d-block text-normal">
+    Are the pull requests recent?
+  </label>
+</div>
+
+<div class="clearfix mb-4">
+  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox13" class="overflow-hidden d-block text-normal">
+    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+  </label>
+</div>
 
 **Project is welcoming**
 
 A project that is friendly and welcoming signals that they will be receptive to new contributors.
 
-* ☑️ Do the maintainers respond helpfully to questions in issues?
-* ☑️ Are people friendly in the issues, discussion forum, and chat (ex. IRC or Slack)?
-* ☑️ Do pull requests get reviewed?
-* ☑️ Do maintainers thank people for their contributions?
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox14" class="overflow-hidden d-block text-normal">
+    Do the maintainers respond helpfully to questions in issues?
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox15" class="overflow-hidden d-block text-normal">
+    Are people friendly in the issues, discussion forum, and chat (ex. IRC or Slack)?
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox16" class="overflow-hidden d-block text-normal">
+    Do pull requests get reviewed?
+  </label>
+</div>
+
+<div class="clearfix mb-4">
+  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox17" class="overflow-hidden d-block text-normal">
+    Do maintainers thank people for their contributions?
+  </label>
+</div>
 
 <aside class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar">
