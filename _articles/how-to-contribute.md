@@ -12,7 +12,13 @@ toc:
 
 ## Why contribute to open source?
 
-> Working on freenode helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project! -@errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+<aside class="pquote">
+  <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar">
+  Working on freenode helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  <p markdown="1" class="pquote-credit">
+— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+  </p>
+</aside>
 
 There are many reasons why people contribute to open source, including:
 
@@ -33,7 +39,13 @@ Not to worry! There are all sorts of ways to get involved with an open source pr
 
 A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the non-code parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with non-code contributions!
 
-> Seriously, documentation is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated. - @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
+<aside class="pquote">
+  <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar">
+  Seriously, documentation is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  <p markdown="1" class="pquote-credit">
+— @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
+  </p>
+</aside>
 
 Even if you are a developer, non-code contributions (for example, writing documentation) are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
 
@@ -205,7 +217,13 @@ A project that is friendly and welcoming signals that they will be receptive to 
 * ☑️ Do pull requests get reviewed?
 * ☑️ Do maintainers thank people for their contributions?
 
-> Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development. - @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+<aside class="pquote">
+  <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar">
+  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+  <p markdown="1" class="pquote-credit">
+— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+  </p>
+</aside>
 
 ## How to submit a contribution
 
@@ -213,7 +231,13 @@ You've found a project you like, and you're ready to make a contribution. Finall
 
 ### Communicating effectively
 
-> As a new contributor, I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed. - Shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+<aside class="pquote">
+  <img src="/assets/images/contribute/shubheksha.jpg" class="pquote-avatar">
+  As a new contributor, I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+  <p markdown="1" class="pquote-credit">
+— Shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+  </p>
+</aside>
 
 Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
 
@@ -271,7 +295,14 @@ Before you open an issue or pull request, check the project's contributing docs 
 
 If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for awhile (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted into the project.
 
-> You'll learn _a lot_ from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR. - @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+<aside class="pquote">
+  <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar">
+  You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+<p markdown="1" class="pquote-credit">
+— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+  </p>
+</aside>
+
 
 ### Opening an issue
 
