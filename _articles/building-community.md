@@ -83,7 +83,7 @@ Communities are extremely powerful. That power can be a blessing or a curse, dep
 
 ### Don't tolerate bad actors
 
-> The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. Don't settle for less. Don't settle for assholes. - @karissa, ["How to Run a FOSS Project"](http://karissa.github.io/)
+> The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. Don't settle for less. Don't settle for assholes. - @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
 
 Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
 
