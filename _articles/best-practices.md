@@ -1,6 +1,7 @@
 ---
 title: Best Practices for Maintainers
 description: A guide to making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+class: best-practices
 toc:
   documenting-your-processes: "Documenting your processes"
   communicate-your-expectations: "Communicate your expectations"

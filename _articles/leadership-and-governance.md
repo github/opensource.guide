@@ -1,6 +1,7 @@
 ---
 title: Leadership and Governance
 description: Answers to commonly asked questions about leadership and governance for growing open source projects.
+class: leadership
 toc:
   what-are-examples-of-formal-roles-used-in-open-source-projects: "What are examples of formal roles used in open source projects?"
   how-do-i-formalize-these-leadership-roles: "How do I formalize these leadership roles?"
