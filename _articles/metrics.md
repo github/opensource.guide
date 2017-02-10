@@ -15,7 +15,7 @@ Data, when used wisely, can help you make better decisions as an open source mai
 * Quantify your project's popularity
 * Raise money through sponsorships
 
-@mikemcquaid explained [Homebrew's decision](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) to use Google Analytics as such:
+For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
 
 > Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
 
@@ -41,9 +41,7 @@ If your project is hosted on GitHub, [you can view](https://help.github.com/arti
 
 [GitHub stars](https://github.com/blog/1204-notifications-stars) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
 
-You may also want to track discoverability in specific places: for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
-
-> Each week, we look at multiple metrics in each level of engagement and document the data (e.g., number of downloads). We document the unique outreach activities that we did during that same week (e.g., blog posts or new releases) in parallel. This way, we are able to actively measure ourselves each week and learn about which activities are effective in increasing engagement in our project. - Gaby Fachler, ["Using Pirate Metrics to Measure Success of Open Source Projects"](https://opensource.com/business/16/6/pirate-metrics)
+You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
 
 ## Usage
 
@@ -63,7 +61,7 @@ People are finding your project and they're using it. The next question you'll w
 
 This is a big one. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is popular (many people use it) but not supported (not enough maintainer time to meet demand).
 
-Retention also requires an [inflow of new contributors](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel), as previously active contributors will eventually move on to other things. It's never too early to start thinking about contributors!
+Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things. It's never too early to start thinking about contributors!
 
 Examples of community metrics that you may want to regularly track include:
 

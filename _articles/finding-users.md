@@ -59,6 +59,8 @@ Offline events are a popular strategy for promoting new projects. It's a great w
 
 If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project. If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
 
+> I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. Also, I was a bit unsure of what to expect in terms of the social climate. I shouldn't have worried, though. PyCon was phenomenally awesome! Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people! - @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+
 As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
 > When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people. - Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
@@ -85,8 +87,4 @@ Spreading the word is an important step to growing the popularity of your projec
 
 Sometimes, it takes a long time before people notice your open source project. Your project will likely go through multiple phases of activity. That's okay!
 
-Some of the most popular projects today took years to reach high levels of activity. For example, @ariya [spent years talking](https://github.com/open-source/stories/ariya) about [PhantomJS](https://github.com/ariya/phantomjs) before it became a well-known project:
-
-> PhantomJS was released for the first time in the beginning of 2011. I spread the word about PhantomJS in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
-
-Try to focus on building long-term relationships instead of finding a magic bullet. Be patient and keep sharing the work you do with those who will appreciate it.
+Some of the most popular projects today took years to reach high levels of activity. ßTry to focus on building long-term relationships instead of finding a magic bullet. Be patient and keep sharing the work you do with those who will appreciate it.
