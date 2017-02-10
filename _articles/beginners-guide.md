@@ -30,7 +30,7 @@ There are many reasons why a person or organization would want to open source a 
 
 * **Adoption and remixing:** Open source projects can be used by anyone for any purpose. That means more people are likely to use your project, or even build something else with it.
 
-> [WordPress](https://github.com/WordPress) started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+[WordPress](https://github.com/WordPress) started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
 * **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
 

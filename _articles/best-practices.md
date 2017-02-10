@@ -84,7 +84,13 @@ Regardless of the reason, it is possible to tactfully handle contributions that 
 
 If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
 
-> If you or your company are keen to benefit from community contributions, a bunch of unacknowledged year-old PRs lying around probably isn't the best way to achieve that. - @benilovj, ["A Plea for Better Open Source Etiquette"](https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/)
+<aside class="pquote">
+  <img src="https://avatars2.githubusercontent.com/u/23801" class="pquote-avatar">
+  If you or your company are keen to benefit from community contributions, a bunch of unacknowledged year-old PRs lying around probably isn't the best way to achieve that.
+  <p markdown="1" class="pquote-credit">
+— @benilovj, ["A Plea for Better Open Source Etiquette"](https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/)
+  </p>
+</aside>
 
 Don't leave an unwanted contribution open because you feel guilty or want to be nice. Firstly, over time, your unanswered issues and PRs will accumulate and make working on your project feel that much more stressful and intimidating. It's better to immediately close the contributions you know you don't want to accept. (If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage those issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).)
 
@@ -108,11 +114,23 @@ Don't feel guilty about not wanting to accept someone's contribution. The first 
 
 To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide. Many projects specify that if someone is proposing a major change, that they open an issue first before doing any work. This approach reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And, if someone does make an unexpected pull request, you can point to your policy and explain that major changes need to be discussed first.
 
-> Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work. - @mikemcquaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+<aside class="pquote">
+  <img src="https://avatars0.githubusercontent.com/u/125011" class="pquote-avatar">
+  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+  <p markdown="1" class="pquote-credit">
+— @mikemcquaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+  </p>
+</aside>
 
 Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, take steps to diffuse the situation or even remove them from your community, if they're not willing to collaborate constructively.
 
-> When you find yourself repeatedly dealing with a troll, there is no shame in permanently shedding the negativity by blocking the user completely. Moreover, you are under no obligation to explain yourself to the user. - @jonschlinkert, ["Maintainer's Guide to Staying Positive"](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
+<aside class="pquote">
+  <img src="https://avatars3.githubusercontent.com/u/383994?v=3&s=400" class="pquote-avatar">
+  When you find yourself repeatedly dealing with a troll, there is no shame in permanently shedding the negativity by blocking the user completely. Moreover, you are under no obligation to explain yourself to the user.
+  <p markdown="1" class="pquote-credit">
+— @jonschlinkert, ["Maintainer's Guide to Staying Positive"](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
+  </p>
+</aside>
 
 ### Embrace mentorship
 
@@ -142,7 +160,13 @@ If you need to step away from your project, either on hiatus or permanently, the
 
 ### Let others build the solutions they need
 
-> I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it. - @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+<aside class="pquote">
+  <img src="https://avatars1.githubusercontent.com/u/481677?v=3&s=400" class="pquote-avatar">
+  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+  <p markdown="1" class="pquote-credit">
+— @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+  </p>
+</aside>
 
 If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
 
@@ -184,7 +208,13 @@ For bug reports and other common contributions, GitHub has [Issue Templates and 
 
 If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept. However, if your standards are too complicated, they can increase the barriers to contribution, so make sure you're only adding enough rules to make everyone's lives easier.
 
-> There's a fine line between using labels well and overusing them. When there's too many or the system is too complex, people will just ignore them. - @pazdera, ["How to use Github issues to attract new contributors"](http://radek.io/2015/08/24/github-issues/)
+<aside class="pquote">
+  <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar">
+  There's a fine line between using labels well and overusing them. When there's too many or the system is too complex, people will just ignore them.
+  <p markdown="1" class="pquote-credit">
+— @pazdera, ["How to use Github issues to attract new contributors"](http://radek.io/2015/08/24/github-issues/)
+  </p>
+</aside>
 
 If you're not sure which tools to use, sometimes it helps to look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to potential contributors.
 
@@ -202,7 +232,13 @@ Do your best to find support for your users and community while you're away from
 
 Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
 
-> In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important. - @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+<aside class="pquote">
+  <img src="https://avatars1.githubusercontent.com/u/36432?v=3&s=400" class="pquote-avatar">
+  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+  <p markdown="1" class="pquote-credit">
+— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+  </p>
+</aside>
 
 ## Take care of yourself first!
 

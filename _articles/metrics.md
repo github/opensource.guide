@@ -48,7 +48,13 @@ If your project is hosted on GitHub, [you can view](https://help.github.com/arti
 
 You may also want to track discoverability in specific places: for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
 
-> Each week, we look at multiple metrics in each level of engagement and document the data (e.g., number of downloads). We document the unique outreach activities that we did during that same week (e.g., blog posts or new releases) in parallel. This way, we are able to actively measure ourselves each week and learn about which activities are effective in increasing engagement in our project. - Gaby Fachler, ["Using Pirate Metrics to Measure Success of Open Source Projects"](https://opensource.com/business/16/6/pirate-metrics)
+<aside class="pquote">
+  Each week, we look at multiple metrics in each level of engagement and document the data (e.g., number of downloads). We document the unique outreach activities that we did during that same week (e.g., blog posts or new releases) in parallel. This way, we are able to actively measure ourselves each week and learn about which activities are effective in increasing engagement in our project.
+  <p markdown="1" class="pquote-credit">
+— Gaby Fachler, ["Using Pirate Metrics to Measure Success of Open Source Projects"](https://opensource.com/business/16/6/pirate-metrics)
+  </p>
+</aside>
+
 
 ## Usage
 
@@ -84,7 +90,13 @@ Examples of community metrics that you may want to regularly track include:
 
 * **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
 
-> Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes. - @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
+<aside class="pquote">
+  <img src="https://avatars1.githubusercontent.com/u/4483" class="pquote-avatar">
+  Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+  <p markdown="1" class="pquote-credit">
+— @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
+  </p>
+</aside>
 
 ## Maintainer activity
 

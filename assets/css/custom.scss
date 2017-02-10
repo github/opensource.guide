@@ -6,6 +6,56 @@ img {
   max-width: 100%;
 }
 
+blockquote {
+  font-style: italic;
+  border-left: $border;
+  border-width: 4px;
+  padding-left: $spacer-2;
+  padding-top: $spacer-2;
+  padding-bottom: $spacer-1;
+  margin-bottom: $spacer-2;
+  @include breakpoint(md) {
+    padding-left: $spacer-3;
+  }
+}
+
+.pquote {
+  border: $border;
+  padding: $spacer-3;
+  margin-top: $spacer-4;
+  text-align: center;
+  font-weight: 300;
+
+  @include breakpoint(md) {
+    font-size: 18px;
+    margin: $spacer-6 -10%;
+    padding: 10%;
+  }
+
+  img.pquote-avatar {
+    border-radius: 50px;
+    border: 3px solid #F3F3F3;
+    height: 90px;
+    width: 90px;
+    display: block;
+    margin: 0 auto $spacer-2;
+    @include breakpoint(md) {
+      margin: 0 auto $spacer-4;
+    }
+  }
+
+}
+
+.pquote-credit {
+  margin-top: $spacer-3;
+  font-size: 14px;
+}
+
+.user-mention {
+  color: #333;
+  font-weight: 700;
+}
+
 .lh-none {
   line-height: 0;
 }
