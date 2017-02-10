@@ -7,7 +7,6 @@ exclude:
   - CONTRIBUTING.md
   - docs
   - Gemfile*
-  - node_modules
   - package.json
   - Rakefile
   - README.md
