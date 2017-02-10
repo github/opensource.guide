@@ -73,7 +73,7 @@ If you're part of a company launching an open source project, it's worth having 
 
 ## What happens if corporate employees start submitting contributions?
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams indirectly tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
 
 As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
 
