@@ -33,3 +33,39 @@
     }
   }
 }
+
+.article-header.best-practices {
+  padding-bottom: 0;
+  @include breakpoint(md) {
+    padding-bottom: 0;
+    .cover-img {
+      max-width: 600px;
+      margin-top: -100px;
+      margin-bottom: -30px;
+    }
+  }
+}
+
+.guide-cover.best-practices {
+  img {
+    padding: $spacer-4 $spacer-6;
+  }
+}
+
+.article-header.getting-paid {
+  padding-bottom: 0;
+  @include breakpoint(md) {
+    padding-bottom: 0;
+    .cover-img {
+      max-width: 600px;
+      margin-top: -40px;
+      margin-bottom: -20px;
+    }
+  }
+}
+
+.guide-cover.getting-paid {
+  img {
+    padding: $spacer-4 60px;
+  }
+}

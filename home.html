@@ -36,10 +36,10 @@ layout: landing
     <div class="clearfix gut-lg d-flex flex-wrap flex-items-stretch pb-md-6">
       {% for article in site.articles %}
       <div class="col-md-6 mt-4 mt-lg-7">
-        <a href="{{ site.baseurl }}{{ article.url }}" class="{{ article.class }} guide-cover card height-full d-block">
+        <a href="{{ site.baseurl }}{{ article.url }}" class="guide-cover {{ article.class }} card height-full d-block">
 
           <div class="lh-none border-bottom bg-gray-light">
-            <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class="mt-4">
+            <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class="">
           </div>
 
           <div class="flex-self-end p-4">
