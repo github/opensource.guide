@@ -3,6 +3,7 @@ title: Best Practices for Maintainers
 description: A guide to making your life easier as an open source maintainer, from documenting processes to leveraging your community.
 class: best-practices
 toc:
+  maintaining-a-project-requires-more-than-code: "Maintaining a project requires more than code"
   documenting-your-processes: "Documenting your processes"
   communicate-your-expectations: "Communicate your expectations"
   learning-to-say-no: "Learning to say no"
@@ -15,7 +16,7 @@ toc:
 
 If you maintain an open source project that a lot of people use, you may have noticed a lot of your work is administrative: triaging issues, responding to questions, managing a roadmap.
 
-While these tasks can be less fun than coding or writing, there are ways to make your life easier, from documenting processes to leveraging your community.
+These tasks are often unexpected and less frequently talked about than writing code, but they're just as important to a growing project. Read on for ways to make your life easier, from documenting processes to leveraging your community.
 
 ## Documenting your processes
 
@@ -25,7 +26,7 @@ These types of exercises may seem trivial, but the more you know yourself and yo
 
 ### Write down your project's vision
 
-Start by writing down the goals of your project. Add them to your README. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
 
 @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, [he regretted](https://lord.io/blog/2014/oss-tips/) not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate):
 
@@ -33,19 +34,17 @@ Start by writing down the goals of your project. Add them to your README. If the
 
 ### Write down your policies
 
-Policies are your chance to explain how you want to manage your project. They prevent you from getting dragged into doing things you don't want to do. Some examples of rules that are worth writing down:
+Policies are your chance to explain how you want to manage your project. They prevent you from getting dragged into doing things you don't want to do.
+
+Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun. Written and enforced fairly, however, good rules empower maintainers.
+
+Some examples of rules that are worth writing down:
 
 * How a contribution is reviewed and accepted
 * The types of contributions you'll accept
 * How long someone should expect for you to respond, and when it's appropriate to follow up (ex. _"You can expect a response from maintainers within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
 * How people can (and can't) contact you
-* How much time you spend on the project (ex. _"I only work on this project on weekends"_ or _"I spend 10 percent of my employer's time on this project, usually Wednesdays through Fridays"_)
-
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun. Written and enforced fairly, however, good rules empower maintainers.
-
-## Communicate your expectations
-
-For example, as a maintainer, you might promise to acknowledge every contribution, even if you don't accept them. You might ask contributors to promise that their code passes all tests before they submit it.
+* How much time you spend on the project (ex. _"I only work on this project on weekends"_ or _"I spend 10 percent of my work time on this project, usually on Fridays"_)
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects that have ground rules for maintainers and contributors.
 
@@ -55,7 +54,7 @@ Don't forget to document your interactions, too. Wherever you can, keep communic
 
 If you meet with other maintainers, or make a major decision in private, be sure to write about these conversations in public, even if it's just posting your notes. That way, anybody who joins your community will have access to the same information as someone who's been there for years.
 
-### Be transparent about your circumstances
+## Communicating expectations
 
 Most people who come across your project don't know anything about you or your circumstances. They may even think that you get paid to work on the project, especially if it's something they regularly use and depend on.
 
@@ -86,16 +85,16 @@ Regardless of the reason, it is possible to tactfully handle contributions that 
 If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
 
 <aside class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/23801" class="pquote-avatar" alt="avatar" alt="@benilovj avatar">
-  If you or your company are keen to benefit from community contributions, a bunch of unacknowledged year-old PRs lying around probably isn't the best way to achieve that.
+  <img src="https://avatars3.githubusercontent.com/u/869950?v=3&s=400" class="pquote-avatar" alt="avatar" alt="@benilovj avatar">
+  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
   <p markdown="1" class="pquote-credit">
-— @benilovj, ["A Plea for Better Open Source Etiquette"](https://blog.quickpeople.co.uk/2013/04/14/a-plea-for-better-open-source-etiquette/)
+— @KrauseFX, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
 Don't leave an unwanted contribution open because you feel guilty or want to be nice. Firstly, over time, your unanswered issues and PRs will accumulate and make working on your project feel that much more stressful and intimidating. It's better to immediately close the contributions you know you don't want to accept. (If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage those issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).)
 
-Secondly, contributing to an open source project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, be sure to respond to their submission. Acknowledge the person behind it and thank them for their interest. It's a big compliment!
+Secondly, contributing to an open source project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, be sure to acknowledge the person behind it and thank them for their interest. It's a big compliment!
 
 If you don't want to accept the contribution, explain why and offer clear suggestions for improvement, if you're able. Be kind, but firm. Thank them for their contribution and explain why it doesn't fit into the scope of the project. Link to relevant documentation, if you have it. Then close the request.
 
@@ -123,21 +122,14 @@ To reduce the volume of unwanted contributions in the first place, explain your 
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, take steps to diffuse the situation or even remove them from your community, if they're not willing to collaborate constructively.
+Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to diffuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
 
-<aside class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/383994?v=3&s=400" class="pquote-avatar" alt="avatar">
-  When you find yourself repeatedly dealing with a troll, there is no shame in permanently shedding the negativity by blocking the user completely. Moreover, you are under no obligation to explain yourself to the user.
-  <p markdown="1" class="pquote-credit">
-— @jonschlinkert, ["Maintainer's Guide to Staying Positive"](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
-  </p>
-</aside>
 
 ### Embrace mentorship
 
 Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first bug,"_ to get their feet wet. If you have time, you can even mentor them through their first contribution, or find someone else in your community who might be willing to mentor them.
+If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first bug,"_ to get their feet wet. If you have time, you consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
 
 ## Leverage your community
 
@@ -145,13 +137,13 @@ You don't have to do everything yourself. Your project's community exists for a 
 
 ### Share the workload
 
-If your project has other regular contributors, ask them for help in reducing your workload. Recognize regular contributors and formalize their roles in your project. Make it clear early on in your CONTRIBUTING file how others can grow into leadership roles if they wish.
+If your project has other regular contributors, ask them for the help you need. Recognize regular contributors and formalize their roles in your project. Make it clear early on in your CONTRIBUTING file how others can grow into leadership roles if they wish.
 
 For example, Jekyll is experimenting with the idea of [affinity team captains](https://github.com/jekyll/jekyll/pull/5273) to triage issues and review pull requests. Affinity teams help distribute the work, while captains ensure that someone is responsible and decisions are made efficiently.
 
-If you're looking for others to pitch in, start by asking around. @vishnubob added a "Help Needed" section to the README of his project, [wait-for-it](https://github.com/vishnubob/wait-for-it#help-needed), once the work became more than he could handle:
+If you're looking for others to pitch in, start by asking around. @lmccart found that she could get other [p5.js](https://github.com/processing/p5.js) contributors to help each other, [instead of doing it all herself](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p):
 
-> Hi there! I wrote wait-for-it in order to help me orchestrate containers I operate at my day job. I thought it was a neat little script, so I published it. I assumed I would be its only user, but that's not what happened! wait-for-it has received more stars then all of my other public repositories put together. I had no idea this tool would solicit such an audience, and I was equally unprepared to carve out the time required to address my user's issues and patches. I would like to solicit a volunteer from the community who would be willing to be a co-maintainer of this repository.
+> We had this contributor's conference at Carnegie Mellon. Up to that point, I'd been saying, _"Yeah, anyone can be involved, you don't have to have a lot of coding expertise, this is really important to me."_ But that's when I was really wondering: is this true, what I've been saying? There are gonna be 40 people who show up, and it's not like I can sit with each of them, one at a time. But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
 
 If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you. If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
 
@@ -173,19 +165,17 @@ If a potential contributor has a different opinion on what your project should d
 
 Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [describes his strategy](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) for building open source "defensively" in the iOS ecosystem:
+The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
 
 > It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
->
-> Some of the most interesting ideas in the CocoaPods ecosystem come from plugins.
->
-> I wanted plugins to be a first class citizen within Danger from day one. It's in the VISION file, and it's applied into how I've designed a lot of the user-facing site. I was torn after a few months of development where things should go. Now the core of Danger is built as plugins.
 
 ## Bring in the robots
 
 Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
 
 ### Require tests and other checks to improve the quality of your code
+
+> I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce. - @edunham, ["Rust's Community Automation"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
 
 One of the most important ways you can automate your project is by adding tests. Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
 
@@ -201,21 +191,9 @@ The good news about maintaining a popular project is that other maintainers have
 * [PullApprove](https://about.pullapprove.com/) helps you manage pull requests
 * [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
 
-@KrauseFx uses a bot to manage issues on his project, [fastlane](https://github.com/fastlane/fastlane):
-
-> The key to handle support for large-scale open source projects is to keep issues moving. Having a bot can ensure that issues are still relevant and reproducible. The fastlane-bot automatically asks if an issue is still relevant with the most recent fastlane release after just 2 months. If no participant of the issue replies to the bot within a month, the issue gets auto-closed. About a month after closing the issue, the bot locks the conversation to repository admins only.
-
 For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. You can also set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to manage your email notifications.
 
 If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept. However, if your standards are too complicated, they can increase the barriers to contribution, so make sure you're only adding enough rules to make everyone's lives easier.
-
-<aside class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
-  There's a fine line between using labels well and overusing them. When there's too many or the system is too complex, people will just ignore them.
-  <p markdown="1" class="pquote-credit">
-— @pazdera, ["How to use Github issues to attract new contributors"](http://radek.io/2015/08/24/github-issues/)
-  </p>
-</aside>
 
 If you're not sure which tools to use, sometimes it helps to look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to potential contributors.
 

@@ -53,7 +53,7 @@ There are two ways to think about getting paid for open source work: 1) funding 
 
 Today, many people get paid to work part- or full-time to work on open source. The most common way to get paid for your time is to talk to your employer.
 
-@hzoo, a maintainer of [Babel](https://github.com/babel/babel), was able to make open source work part of his job at Adobe:
+@hzoo, a maintainer of [Babel](https://github.com/babel/babel), was able to make open source work [part of his job at Adobe](https://github.com/open-source/stories/hzoo):
 
 > Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
 
@@ -61,7 +61,7 @@ It's easier to make a case for open source work if your employer actually uses t
 
 If you don't have an existing open source project you're hoping to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
 
-Many companies are developing open source programs to build their brand and recruit quality talent. For example, @hueniverse outlined the financial reasons for [Wal-Mart's investment in open source](https://hueniverse.com/2014/08/15/open-source-aint-charity/), and @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
+Many companies are developing open source programs to build their brand and recruit quality talent. For example, @hueniverse outlined the financial reasons for [Walmart's investment in open source](https://hueniverse.com/2014/08/15/open-source-aint-charity/), and @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
 
 > It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
 

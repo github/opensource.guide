@@ -117,6 +117,8 @@ Even if you're a software developer, working on a documentation project can help
 
 ## Orienting yourself to a new project
 
+> "If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions." - @shaunagm, ["How to Contribute to Open Source"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+
 For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
 
 Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
@@ -339,7 +341,7 @@ You've found a project you like, and you're ready to make a contribution. Finall
   <img src="/assets/images/contribute/shubheksha.jpg" class="pquote-avatar" alt="avatar">
   As a new contributor, I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
   <p markdown="1" class="pquote-credit">
-— Shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
 </aside>
 
@@ -350,37 +352,37 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 **Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
 
 > 😇 _"X doesn't happen when I do Y"_
-
+>
 > 😢 _"X is broken! Please fix it."_
 
 **Do your homework beforehand.** It's ok not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
 
 > 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
-
+>
 > 😢 _"How do I X?"_
 
 **Keep requests simple and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
 
 > 😇 _"I'd like to write an API tutorial."_
-
+>
 > 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
 
 **Keep all communication public.** Although it's tempting, don't reach out to maintainers privately. (There are two exceptions: 1) if you're reporting a security issue, or 2) you need to share sensitive information, such as a serious CoC violation.) When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
 
 > 😇 _(as a comment) "@maintainer Hi there! How should we proceed on this PR?"_
-
+>
 > 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
 
 **It's ok to ask questions (but be patient!).** It's okay to be new and ask questions! Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
 
 > 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
-
+>
 > 😢 _"Why can't you fix my problem? Isn't this your project?"_
 
 **Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers likely have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
 
 > 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
-
+>
 > 😢 _"Why won't you support my use case? This is unacceptable!"_
 
 **Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
