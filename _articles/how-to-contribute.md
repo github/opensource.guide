@@ -262,8 +262,8 @@ Now do the same for the project's pull requests.
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
+  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox20" class="overflow-hidden d-block text-normal">
     Do maintainers respond quickly to pull requests when they are opened?
   </label>
 </div>

@@ -25,7 +25,10 @@
 .article-header.finding {
   @include breakpoint(sm) {
     .cover-img {
-      margin-top: -100px;
+      width: 900px;
+      margin-top: -110px;
+      margin-left: -50px;
+      margin-right: -50px;
     }
   }
 }
@@ -39,6 +42,11 @@
 }
 
 .article-header.contribute {
+  @include breakpoint(sm) {
+    .cover-img {
+      margin-bottom: -50px;
+    }
+  }
   @include breakpoint(md) {
     .cover-img {
       margin-top: -10px;
@@ -58,6 +66,9 @@
 }
 
 .article-header.legal {
+  .cover-img {
+    margin-bottom: -50px;
+  }
   @include breakpoint(md) {
     .cover-img {
       margin-top: -110px;
@@ -86,7 +97,7 @@
 .article-header.getting-paid {
   @include breakpoint(md) {
     .cover-img {
-      max-width: 600px;
+      max-width: 660px;
       margin-top: -40px;
       margin-bottom: -20px;
     }

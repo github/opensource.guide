@@ -5,9 +5,10 @@ class: metrics
 toc:
   why-measure-anything: "Why measure anything?"
   discovery: "Discovery"
-  use: "Use"
+  usage: "Usage"
   retention: "Retention"
-  maintainer-health: "Maintainer Health"
+  maintainer-activity: "Maintainer activity"
+  numbers-help-people-understand-behavior: "Numbers help people understand behavior"
 ---
 
 ## Why measure anything?
