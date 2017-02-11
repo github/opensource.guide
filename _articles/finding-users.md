@@ -1,9 +1,18 @@
 ---
-title: Finding Users For Your Open Source Project
-description: Tactics to help others find and use your project.
+title: Finding Users For Your Open Source&nbsp;Project
+description: Want others to find and use your project? It's time to tell everybody about your hard work!
+class: finding
+toc:
+  figure-out-your-message: "Figure out your message"
+  help-people-find-and-follow-your-project: "Help people find and follow your project"
+  go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
+  go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
+  build-a-reputation: "Build a reputation"
 ---
 
-You've just published an open source project. How do you spread the word?
+## Spreading the word
+
+You've just published an open source project. If you'd like others to find and use your project, then it's time to tell everybody about your hard work!
 
 There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you don't want a lot of people to discover or use your project, then go on and keep being your awesome self.
 
@@ -19,7 +28,12 @@ Mozilla offers [some helpful exercises](http://mozillascience.github.io/working-
 
 ## Help people find and follow your project
 
-> You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point. - Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+<aside class="pquote">
+  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+  <p markdown="1" class="pquote-credit">
+— Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+  </p>
+</aside>
 
 You can help people find and remember your project by pointing them to your project's namespace: for example, a website, Twitter handle, or IRC channel.
 
@@ -31,7 +45,13 @@ If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.gi
 
 **Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. They also give your project's growing community a place to convene. If you don't wish to set up these channels for your project yet, promote your own Twitter or GitHub handle in everything you do. For example, make sure it is included in your bio or slides if you speak at a meetup or event. That way, people know how to reach you or follow your work.
 
-> A mistake I made in those early days was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project. - @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+<aside class="pquote">
+  <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
+  A mistake I made in those early days was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  <p markdown="1" class="pquote-credit">
+— @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+  </p>
+</aside>
 
 Now that you have a message for your project, and easy ways for people to reach you, let's get out there and talk to your audience!
 
@@ -39,7 +59,13 @@ Now that you have a message for your project, and easy ways for people to reach 
 
 Take advantage of existing online communities and platforms to reach your audience. Online outreach is a great way to share and spread the word quickly, and you have the potential to reach a very wide audience.
 
-> Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project. - @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+<aside class="pquote">
+  <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
+  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+  <p markdown="1" class="pquote-credit">
+— @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+  </p>
+</aside>
 
 If your open source project is a software project, you can probably find your audience on [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work. Some ideas for sharing your project include:
 
@@ -63,7 +89,13 @@ If you're [new to public speaking](http://speaking.io/), start by finding a loca
 
 As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
-> When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people. - Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+<aside class="pquote">
+  <img src="/assets/images/finding/lena.jpg" class="pquote-avatar" alt="avatar">
+  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+  <p markdown="1" class="pquote-credit">
+— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+  </p>
+</aside>
 
 When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world. Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference beforehand to tailor your talk to its attendees and increase your chances of getting accepted. You can often get a sense of a conference's audience by looking at its speakers.
 
@@ -77,7 +109,13 @@ In addition to the strategies outlined above, the best way to invite people to s
 
 Sometimes, these relationships can even lead to official partnerships with the wider ecosystem.
 
-> "The only reason urllib3 is the most popular third-party Python library today is because it's part of requests." - @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+<aside class="pquote">
+  <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar" alt="avatar">
+  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+  <p markdown="1" class="pquote-credit">
+— @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+  </p>
+</aside>
 
 It's never too early, or too late, to start building your reputation! Even if you've launched your own project already, continue looking for find ways to help others. There is no magic formula to building an audience and reputation. Gaining the trust and respect of others takes time, and reputation building work never ends.
 

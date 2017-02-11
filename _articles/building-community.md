@@ -1,11 +1,13 @@
 ---
 title: Building Welcoming Communities
-description: Building a welcoming community that encourages people to use, contribute to, and evangelize your project.
+description: You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around? Building a welcoming community will encourage people to use, contribute to, and evangelize your project.
+class: building
+toc:
+  setting-your-project-up-for-success: "Setting your project up for success"
+  give-your-community-a-place-to-congregate: "Give your community a place to congregate"
+  growing-your-community: "Growing your community"
+  resolving-conflicts: "Resolving conflicts"
 ---
-
-You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
-
-Building a welcoming community will encourage people to use, contribute to, and evangelize your project. Read on for advice about managing communities at every stage of your project.
 
 ## Setting your project up for success
 
@@ -27,7 +29,13 @@ Start by making it easy for someone to use your project. Tutorials, clear code e
 
 Be open-minded about the types of contributions you'll accept. Your pool of contributors includes much more than just developers. Many contributors start with a bug report or small fix. A new contributor might write a tutorial or improve your project's documentation, because newer users notice things that more experienced users might not. Let people help how they want to help.
 
-> Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns. - @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+<aside class="pquote">
+  <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">
+  Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
+  <p markdown="1" class="pquote-credit">
+— @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+  </p>
+</aside>
 
 The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. Sometimes these are also called ["drive-through contributors"](https://lwn.net/Articles/688560/).
 
@@ -37,7 +45,13 @@ If there's a contribution you disagree with, thank them for their idea and [expl
 
 ### Document everything
 
-> Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? Now imagine you want to contribute to an open source project, but you don't see why or how this is happening and where people talk about things. - @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+<aside class="pquote">
+  <img src="https://avatars2.githubusercontent.com/u/11321?v=3&s=400" class="pquote-avatar" alt="avatar">
+  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? Now imagine you want to contribute to an open source project, but you don't see why or how this is happening and where people talk about things.
+  <p markdown="1" class="pquote-credit">
+— @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+  </p>
+</aside>
 
 When you start a new project, it may feel natural to keep your ideas and workflows private. But open source projects thrive when you [document your process](http://www.writethedocs.org/) in public. That way, more people can participate at every step of the way. Not only will they know _what_ to contribute, but they'll also know _how_ to contribute. You might get help on something you didn't even know you needed.
 
@@ -111,7 +125,13 @@ For example, here's how [Rubinius](https://github.com/rubinius/rubinius/blob/mas
 
 ### Share ownership of your project
 
-> Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard. - @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+<aside class="pquote">
+  <img src="https://avatars3.githubusercontent.com/u/270108?v=3&s=400" class="pquote-avatar" alt="avatar">
+  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
+  <p markdown="1" class="pquote-credit">
+— @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+  </p>
+</aside>
 
 People are excited to contribute to projects when they feel as sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you can give credit to others, the more likely they are to stick around.
 
@@ -133,7 +153,13 @@ The bigger your project, and the bigger your community, the easier it is to find
 
 The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
 
-> It's in your best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it. - @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+<aside class="pquote">
+  <img src="https://avatars0.githubusercontent.com/u/39992?v=3&s=400" class="pquote-avatar" alt="avatar">
+  It's in your best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
+  <p markdown="1" class="pquote-credit">
+— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+  </p>
+</aside>
 
 ## Resolving conflicts
 
@@ -149,7 +175,13 @@ When your community is grappling with a difficult issue, tempers may rise. Peopl
 
 Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
 
-> As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally. - @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+<aside class="pquote">
+  <img src="https://avatars2.githubusercontent.com/u/119893?v=3&s=400" class="pquote-avatar" alt="avatar">
+  As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
+  <p markdown="1" class="pquote-credit">
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+  </p>
+</aside>
 
 Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly. Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you. 🙏
 
@@ -181,7 +213,13 @@ Allowing these conversations to continue is not only bad for the issue at hand, 
 
 With every point made by you or by others, ask yourself, _"How does this bring us closer to a resolution?"_ If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
 
-> Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct. - @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+<aside class="pquote">
+  <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
+  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.  
+  <p markdown="1" class="pquote-credit">
+— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+  </p>
+</aside>
 
 If a conversation clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the issue and explain why it has been closed.
 

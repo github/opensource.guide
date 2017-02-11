@@ -6,3 +6,5 @@ _site/
 bin
 node_modules
 /vendor
+
+css/main.scss

@@ -1,38 +1,59 @@
 ---
 layout: default
 ---
-<div class="">
-    <div class="main-col">
-      <article>
-        <div class="container-narrow pt-4 pt-lg-8">
 
-          <h1 class="mb-3 mb-lg-4 pt-md-3 pt-lg-8">{{ page.title }}</h1>
-
-          {{ content }}
-
-          <div class="my-md-4 py-3">
-            <div class="clearfix">
-              <div class="float-left">
-                {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
-              </div>
-              <div class="overflow-hidden">
-                <span class="d-block d-md-inline">This content is open source.</span>
-                <a href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
-                  Please help improve it.
-                </a>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </article>
-
-      <footer class="bg-taupe-dark">
-        <div class="container-narrow">
-          <div class="pl-lg-4">
-            {% include footer.html %}
-          </div>
-        </div>
-      </footer>
+<nav class="main-nav">
+  <div class="container-lg edged mx-auto clearfix">
+    <div class="float-sm-right">
+      <ul class="main-links border-left border-bottom border-sm-0 list-style-none">
+        <li class="d-inline-block border-right">
+          <a class="d-block p-3 p-sm-4" href="">About</a>
+        </li>
+        <li class="d-inline-block border-right">
+          <a class="d-block p-3 p-sm-4" href="https://github.com/github/open-source-guide/blob/gh-pages/CONTRIBUTING.md">Contribute</a>
+        </li>
+        <li class="d-inline-block border-right">
+          <a class="d-block p-3 p-sm-4" href="">{% octicon search height:16 class:"mr-2 fill-gray" aria-label:hi %}Search</a>
+        </li>
+      </ul>
     </div>
-</div>
+    <div class="float-sm-left pl-3 breadcrumb">
+      <p class="my-0 py-3 py-sm-4 text-gray">
+        <a href="" class="text-gray">Open Source Guides</a>  /
+      </p>
+    </div>
+  </div>
+</nav>
+
+<header class="article-header {{ page.class }} bg-gray-light">
+  <div class="container-lg mx-auto px-3">
+
+    <h1 class="alt-h1 lh-condensed text-center mb-3">{{ page.title }}</h1>
+    <p class="lead text-center text-gray col-md-8 mx-auto mb-4 position-relative">{{ page.description }}</p>
+    <nav class="toc mb-4 mb-md-6 position-relative">
+      <div class="card col-sm-8 col-md-4 col-lg-3 mx-auto ">
+        <a class="toc-trigger d-block text-center p-3">
+          <span class="text-black">Table of Contents</span>{% octicon triangle-down height:18 class:"ml-2 fill-blue v-align-middle icon-flip" aria-label:open %}
+        </a>
+        <ol class="toc-list list-style-none">
+          {% for section in page.toc %}
+          <li class="border-top">
+            <a href="#{{ section[0] }}" class="d-block py-3 px-3">{{ section[1] }}</a>
+          </li>
+          {% endfor %}
+        </ol>
+      </div>
+    </nav>
+    <div class="col-sm-10 mx-auto lh-none cover-img">
+      <img src="{{ site.baseurl }}/assets/images/illos/{{ page.class }}.svg" alt="{{ page.title }} Illustration">
+    </div>
+  </div>
+</header>
+
+<article class="pb-md-6">
+  <div class="article-body mx-auto px-3 pt-4 pt-lg-6 pb-6 col-md-10 col-lg-8 col-xl-6">
+    {{ content }}
+  </div>
+</article>
+
+{% include footer.html %}

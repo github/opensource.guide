@@ -1,9 +1,12 @@
 ---
 title: Getting Paid for Open Source Work
-description: Ways to think about the relationship between money and open source.
+description: Whether you make regular, substantial contributions to open source, or you're just considering your first contribution, you may start to wonder whether anybody gets paid to work on open source.
+class: getting-paid
+toc:
+  why-some-people-seek-financial-support: "Why some people seek financial support"
+  finding-financial-support: "Finding financial support"
+  building-a-case-for-financial-support: "Building a case for financial support"
 ---
-
-Whether you make regular, substantial contributions to open source, or you're just considering your first contribution, you may start to wonder whether anybody gets paid to work on open source.
 
 ## Why some people seek financial support
 
@@ -15,15 +18,32 @@ There are plenty of reasons why a person would not want to be paid for open sour
 * They enjoy thinking of open source as a hobby or creative escape and don't want to feel financially obligated to work on their projects.
 * They get other benefits from contributing to open source, such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
 
-> Financial donations do add a feeling of responsibility, for some. It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different". - Eloy Durán, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
+<aside class="pquote">
+  <img src="/assets/images/getting-paid/eloy.png" class="pquote-avatar" alt="avatar">
+  Financial donations do add a feeling of responsibility, for some. It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  <p markdown="1" class="pquote-credit">
+— Eloy Durán, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
+  </p>
+</aside>
 
 For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can afford to do so. Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
 
-> Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time. - Ashe Dryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
+<aside class="pquote">
+  <img src="/assets/images/getting-paid/ashe.jpg" class="pquote-avatar" alt="avatar">
+  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  <p markdown="1" class="pquote-credit">
+— Ashe Dryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
+  </p>
+</aside>
 
 Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time.
 
-> OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential. - Issac Schlueter, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+<aside class="pquote">
+   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+  <p markdown="1" class="pquote-credit">
+— Issac Schlueter, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+  </p>
+</aside>
 
 ## Finding financial support
 

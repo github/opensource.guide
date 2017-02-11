@@ -1,9 +1,20 @@
 ---
 title: Best Practices for Maintainers
-description: How to make your life easier as an open source maintainer, from documenting processes to leveraging your community.
+description: A guide to making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+class: best-practices
+toc:
+  maintaining-a-project-requires-more-than-code: "Maintaining a project requires more than code"
+  documenting-your-processes: "Documenting your processes"
+  communicating-expectations: "Communicating expectations"
+  learning-to-say-no: "Learning to say no"
+  leverage-your-community: "Leverage your community"
+  bring-in-the-robots: "Bring in the robots"
+  its-okay-to-hit-pause: "It’s okay to hit pause"
 ---
 
-If you maintain an open source project that a lot of people use, you may have noticed you're doing a lot of non-coding work: triaging issues, responding to questions, managing a roadmap.
+## Maintaining a project requires more than code
+
+If you maintain an open source project that a lot of people use, you may have noticed a lot of your work is administrative: triaging issues, responding to questions, managing a roadmap.
 
 These tasks are often unexpected and less frequently talked about than writing code, but they're just as important to a growing project. Read on for ways to make your life easier, from documenting processes to leveraging your community.
 
@@ -73,7 +84,13 @@ Regardless of the reason, it is possible to tactfully handle contributions that 
 
 If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
 
-> The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS. - @KrauseFX, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
+<aside class="pquote">
+  <img src="https://avatars3.githubusercontent.com/u/869950?v=3&s=400" class="pquote-avatar" alt="avatar" alt="@benilovj avatar">
+  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  <p markdown="1" class="pquote-credit">
+— @KrauseFX, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
+  </p>
+</aside>
 
 Don't leave an unwanted contribution open because you feel guilty or want to be nice. Firstly, over time, your unanswered issues and PRs will accumulate and make working on your project feel that much more stressful and intimidating. It's better to immediately close the contributions you know you don't want to accept. (If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage those issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).)
 
@@ -97,7 +114,13 @@ Don't feel guilty about not wanting to accept someone's contribution. The first 
 
 To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide. Many projects specify that if someone is proposing a major change, that they open an issue first before doing any work. This approach reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And, if someone does make an unexpected pull request, you can point to your policy and explain that major changes need to be discussed first.
 
-> Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work. - @mikemcquaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+<aside class="pquote">
+  <img src="https://avatars0.githubusercontent.com/u/125011" class="pquote-avatar" alt="avatar">
+  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+  <p markdown="1" class="pquote-credit">
+— @mikemcquaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+  </p>
+</aside>
 
 Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to diffuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
 
@@ -129,7 +152,13 @@ If you need to step away from your project, either on hiatus or permanently, the
 
 ### Let others build the solutions they need
 
-> I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it. - @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+<aside class="pquote">
+  <img src="https://avatars1.githubusercontent.com/u/481677?v=3&s=400" class="pquote-avatar" alt="avatar">
+  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+  <p markdown="1" class="pquote-credit">
+— @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+  </p>
+</aside>
 
 If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
 
@@ -181,7 +210,13 @@ Do your best to find support for your users and community while you're away from
 
 Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
 
-> In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important. - @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+<aside class="pquote">
+  <img src="https://avatars1.githubusercontent.com/u/36432?v=3&s=400" class="pquote-avatar" alt="avatar">
+  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+  <p markdown="1" class="pquote-credit">
+— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+  </p>
+</aside>
 
 ## Take care of yourself first!
 

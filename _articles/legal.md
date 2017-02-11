@@ -1,7 +1,18 @@
 ---
 title: The Legal Side of Open Source
 description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+class: legal
+toc:
+  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"
+  are-public-github-projects-open-source: "Are public GitHub projects open source?"
+  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Just give me the TL;DR on what I need to protect my project"
+  which-open-source-license-is-appropriate-for-my-project: "Which open source license is appropriate for my project?"
+  what-if-i-want-to-change-the-license-of-my-project: "What if I want to change the license of my project?"
+  does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
+  what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
 ---
+
+## Understanding the legal implications of open source
 
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about.
 
@@ -35,7 +46,13 @@ If you want others to use, copy, modify, or contribute back to your project, you
 
 You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
 
-> A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code. - @benbalter, ["Everything a government attorney needs to know about open source software licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+<aside class="pquote">
+  <img src="https://avatars2.githubusercontent.com/u/282759?v=3&s=400" class="pquote-avatar" alt="avatar">
+  A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
+  <p markdown="1" class="pquote-credit">
+— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+  </p>
+</aside>
 
 [MIT](http://choosealicense.com/licenses/mit/), [Apache 2.0](http://choosealicense.com/licenses/apache-2.0/), and [GPLv3](http://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](http://choosealicense.com/).
 
@@ -80,7 +97,12 @@ Contributor agreements can create additional administrative work for project mai
 
 In addition, contributor agreements are sometimes perceived as not friendly to the project's community. They can also increase the barrier to community participation by adding more paperwork than some believe is necessary.
 
-> We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base. - Bryan Cantrill, ["Brodening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+<aside class="pquote">
+  We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base.
+  <p markdown="1" class="pquote-credit">
+— Bryan Cantrill, ["Brodening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+  </p>
+</aside>
 
 Some situations where you may want to consider an additional contribution agreement for your project include:
 
@@ -111,7 +133,13 @@ Longer term your legal team can do more to help the company get more from its in
 
 * **Employee contribution policies:** Consider developing a corporate policy that specifies how your employees contribute to open source projects. A clear policy will reduce confusion among your employees and help them contribute to open source projects in the company's best interest, whether as part of their jobs or in their free time. A good example is Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
-> Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention. - @vanl, ["A Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/))
+<aside class="pquote">
+  <img src="https://avatars3.githubusercontent.com/u/214698?v=3&s=400" class="pquote-avatar" alt="avatar">
+  Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention.
+  <p markdown="1" class="pquote-credit">
+— @vanl, ["A Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/))
+  </p>
+</aside>
 
 * **What to release:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) If your legal team understands and is invested in your company's open source strategy, they'll be best able to help rather than hinder your efforts.
 * **Compliance:** Even if your company doesn't release any open source projects, it uses others' open source software. [Awareness and process](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) can prevent headaches, product delays, and lawsuits.

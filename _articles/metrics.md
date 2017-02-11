@@ -1,9 +1,15 @@
 ---
 title: Open Source Metrics
-description: Measuring and tracking the contributor and user activity of your open source project.
+description: Your project is starting to grow. Well, you think it's growing. Is it growing? A guide to to measuring and tracking the success of your open source project.
+class: metrics
+toc:
+  why-measure-anything: "Why measure anything?"
+  discovery: "Discovery"
+  usage: "Usage"
+  retention: "Retention"
+  maintainer-activity: "Maintainer activity"
+  numbers-help-people-understand-behavior: "Numbers help people understand behavior"
 ---
-
-Your project is starting to grow. 🌱  Well, you think it's growing. Is it growing? Let's talk about how to measure and track the success of your open source project.
 
 ## Why measure anything?
 
@@ -77,7 +83,13 @@ Examples of community metrics that you may want to regularly track include:
 
 * **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
 
-> Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes. - @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
+<aside class="pquote">
+  <img src="https://avatars1.githubusercontent.com/u/4483" class="pquote-avatar" alt="avatar">
+  Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+  <p markdown="1" class="pquote-credit">
+— @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
+  </p>
+</aside>
 
 ## Maintainer activity
 

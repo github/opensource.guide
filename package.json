@@ -25,5 +25,8 @@
     "unified": "^5.0.0",
     "vfile-reporter": "^3.0.0",
     "vfile-statistics": "^1.0.0"
+  },
+  "dependencies": {
+    "primer-css": "^4.7.0"
   }
 }

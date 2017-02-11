@@ -1,7 +1,14 @@
 ---
 title: Your Code of Conduct
-description: Empowering healthy, constructive community behavior through a code of conduct.
+description: Adopting, and enforcing, a code of conduct empowers you to facilitate healthy, constructive community behavior.
+class: coc
+toc:
+  establishing-a-code-of-conduct: "Establishing a code of conduct"
+  write-down-how-youll-enforce-your-code-of-conduct: "Write down how you’ll enforce your code of conduct"
+  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
 ---
+
+## Why do I need a code of conduct?
 
 A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
 
@@ -26,7 +33,12 @@ Place a CODE_OF_CONDUCT file in your project's root directory, and link to it fr
 
 ## Write down how you'll enforce your code of conduct
 
-> A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community. - [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+<aside class="pquote">
+  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  <p markdown="1" class="pquote-credit">
+— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+  </p>
+</aside>
 
 You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
 
@@ -56,7 +68,13 @@ The community member in question may be a repeat offender who consistently makes
 
 Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
 
-> Start gathering notes on the patterns you see. Make sure to include references to public archives. Once you've got a good case built, start having private conversations with other project participants. Don't tell them what you've observed; instead, first ask them what they've observed. - @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#difficult-people)
+<aside class="pquote">
+  <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
+  Start gathering notes on the patterns you see. Make sure to include references to public archives. Once you've got a good case built, start having private conversations with other project participants. Don't tell them what you've observed; instead, first ask them what they've observed.
+  <p markdown="1" class="pquote-credit">
+— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#difficult-people)
+  </p>
+</aside>
 
 ### Take appropriate action
 

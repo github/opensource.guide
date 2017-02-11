@@ -1,11 +1,18 @@
 ---
-title: The Beginner's Guide to Open Sourcing a Project
-description: What open source is, why people do it, and how to launch your own open source project.
+title: The Beginner's Guide to Open Sourcing&nbsp;a&nbsp;Project
+description: A brief overview of what open source is, why people do it, and how to launch your own open source project.
+class: beginners
+toc:
+  the-what-and-why-of-open-source: "The what and why of open source"
+  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
+  launching-your-own-open-source-project: "Launching your own open source project"
+  naming-and-branding-your-project: "Naming and branding your project"
+  your-pre-launch-checklist: "Your pre-launch checklist"
 ---
 
-So you're thinking about getting started with open source? Awesome! The world appreciates your contribution. Let's talk about what open source is, why people do it, and how to launch your own open source project.
-
 ## The "what" and "why" of open source
+
+So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is, why people do it, and how to launch your own open source project.
 
 ### What does "open source" mean?
 
@@ -25,7 +32,7 @@ There are many reasons why a person or organization would want to open source a 
 
 * **Adoption and remixing:** Open source projects can be used by anyone for any purpose. That means more people are likely to use your project, or even build something else with it.
 
-> [WordPress](https://github.com/WordPress) started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+[WordPress](https://github.com/WordPress) started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
 * **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
 
@@ -219,29 +226,97 @@ Ready to open source your project? Here's a checklist before you do:
 
 **Documentation**
 
-* ☑️ Project has a LICENSE file of the open source license
-* ☑️ Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
-* ☑️ The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
-* ☑️ The issue queue is up-to-date, with issues clearly organized and labeled
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox1" class="overflow-hidden d-block text-normal">
+    Project has a LICENSE file of the open source license
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox2" class="overflow-hidden d-block text-normal">
+    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox3" class="overflow-hidden d-block text-normal">
+    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+  </label>
+</div>
+
+<div class="clearfix mb-4">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox4" class="overflow-hidden d-block text-normal">
+    The issue queue is up-to-date, with issues clearly organized and labeled
+  </label>
+</div>
 
 **Code**
 
-* ☑️ Project uses consistent code conventions and clear function/method/variable names
-* ☑️ The code is clearly commented, documenting intentions and edge cases
-* ☑️ There are no sensitive materials in the revision history, issues, or pull requests (ex. passwords or other non-public information)
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox5" class="overflow-hidden d-block text-normal">
+    Project uses consistent code conventions and clear function/method/variable names
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox6" class="overflow-hidden d-block text-normal">
+    The code is clearly commented, documenting intentions and edge cases
+  </label>
+</div>
+
+<div class="clearfix mb-4">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox7" class="overflow-hidden d-block text-normal">
+    There are no sensitive materials in the revision history, issues, or pull requests (ex. passwords or other non-public information)
+  </label>
+</div>
 
 **People**
 
 If you're an individual:
 
-* ☑️ You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+<div class="clearfix mb-4">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox8" class="overflow-hidden d-block text-normal">
+  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  </label>
+</div>
 
 If you're a company or organization:
 
-* ☑️ You've talked to your legal department
-* ☑️ You have a marketing plan for announcing and promoting the project
-* ☑️ Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
-* ☑️ At least two people have administrative access to the project
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox9" class="overflow-hidden d-block text-normal">
+    You've talked to your legal department
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox10" class="overflow-hidden d-block text-normal">
+    You have a marketing plan for announcing and promoting the project
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox11" class="overflow-hidden d-block text-normal">
+    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+  </label>
+</div>
+
+<div class="clearfix mb-4">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox12" class="overflow-hidden d-block text-normal">
+    At least two people have administrative access to the project
+  </label>
+</div>
 
 Checked all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
 

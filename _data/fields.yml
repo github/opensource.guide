@@ -9,3 +9,9 @@ contents:
 
 description:
   type: String
+
+class:
+  type: String
+
+toc:
+  type: Hash
