@@ -109,7 +109,7 @@ An open source license guarantees that others can use, copy, modify, and contrib
 
 Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
 
-[MIT](http://choosealicense.com/licenses/mit/), [Apache 2.0](http://choosealicense.com/licenses/apache-2.0/), and [GPLv3](http://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](http://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
 
 When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
 
