@@ -127,6 +127,8 @@ See if you can find ways to share ownership with your community as much as possi
 
 * **Consider giving every contributor commit access.** @felixge found that this made people [more excited to polish their patches](http://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
 
+* If your project is on GitHub, consider moving your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/) and adding at least one backup admin.
+
 The bigger your project, and the bigger your community, the easier it is to find help. [Django](https://github.com/django/django)'s original BDFLs ([benevolent dictators for life](../leadership-and-governance/#what-are-some-of-the-common-governance-structures-for-open-source-projects)), @adrianholovaty and @jacobian, [both](http://www.holovaty.com/writing/bdfls-retiring/) [retired](https://jacobian.org/writing/retiring-as-bdfls/) after 9 years when they felt the community had outgrown them.
 
 The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
