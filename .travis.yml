@@ -1,0 +1,15 @@
+sudo: false
+language: node_js
+node_js:
+  - 6
+before_install:
+  - rvm install 2.3.3
+install:
+  - npm install
+  - bundle install
+script: script/test
+notifications:
+  email: false
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
