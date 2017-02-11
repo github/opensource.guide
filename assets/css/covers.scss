@@ -17,7 +17,7 @@
   @include breakpoint(sm) {
     .cover-img {
       max-width: 650px;
-      margin-top: -115px;
+      margin-top: -35px;
     }
   }
 }
@@ -26,7 +26,7 @@
   @include breakpoint(sm) {
     .cover-img {
       width: 900px;
-      margin-top: -110px;
+      margin-top: -50px;
       margin-left: -50px;
       margin-right: -50px;
     }
@@ -36,20 +36,15 @@
 .article-header.building {
   @include breakpoint(md) {
     .cover-img {
-      margin-top: -100px;
+      margin-top: -20px;
     }
   }
 }
 
 .article-header.contribute {
-  @include breakpoint(sm) {
-    .cover-img {
-      margin-bottom: -50px;
-    }
-  }
   @include breakpoint(md) {
     .cover-img {
-      margin-top: -10px;
+      margin-top: 50px;
       margin-bottom: -100px;
     }
   }
@@ -58,7 +53,7 @@
 .article-header.beginners {
   @include breakpoint(md) {
     .cover-img {
-      margin-top: -20px;
+      margin-top: 100px;
       margin-bottom: -50px;
       max-width: 720px;
     }
@@ -67,11 +62,12 @@
 
 .article-header.legal {
   .cover-img {
+    margin-top: -20px;
     margin-bottom: -50px;
   }
   @include breakpoint(md) {
     .cover-img {
-      margin-top: -110px;
+      margin-top: -20px;
       margin-bottom: -50px;
       max-width: 720px;
     }
@@ -82,7 +78,7 @@
   @include breakpoint(md) {
     .cover-img {
       max-width: 600px;
-      margin-top: -100px;
+      margin-top: -30px;
       margin-bottom: -30px;
     }
   }
@@ -98,7 +94,7 @@
   @include breakpoint(md) {
     .cover-img {
       max-width: 660px;
-      margin-top: -40px;
+      margin-top: 60px;
       margin-bottom: -20px;
     }
   }
