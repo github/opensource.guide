@@ -5,7 +5,7 @@ class: best-practices
 toc:
   maintaining-a-project-requires-more-than-code: "Maintaining a project requires more than code"
   documenting-your-processes: "Documenting your processes"
-  communicate-your-expectations: "Communicate your expectations"
+  communicating-expectations: "Communicating expectations"
   learning-to-say-no: "Learning to say no"
   leverage-your-community: "Leverage your community"
   bring-in-the-robots: "Bring in the robots"
