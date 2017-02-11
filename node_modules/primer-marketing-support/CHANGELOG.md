@@ -1,0 +1,15 @@
+# v0.1.0
+
+ * Getting rid of as much as possible - Sophie Shepherd [github/github@e2e5de4](https://github.com/github/github/commit/e2e5de4)
+ * Hella cleanup - Sophie Shepherd [github/github@5e0716b](https://github.com/github/github/commit/5e0716b)
+ * Clean up more type css - Sophie Shepherd [github/github@cbf356a](https://github.com/github/github/commit/cbf356a)
+ * Heading & variable cleanup - Sophie Shepherd [github/github@0778b8b](https://github.com/github/github/commit/0778b8b)
+ * Fix broken paths - Patrick Marsceill [github/github@b5dc395](https://github.com/github/github/commit/b5dc395)
+ * Update the names in the README files - Patrick Marsceill [github/github@75fed58](https://github.com/github/github/commit/75fed58)
+ * Update names for npm publising - Patrick Marsceill [github/github@451f97a](https://github.com/github/github/commit/451f97a)
+ * update docs - Patrick Marsceill [github/github@d5ef0e4](https://github.com/github/github/commit/d5ef0e4)
+ * Add marketing support to docs - Sophie Shepherd [github/github@ed62442](https://github.com/github/github/commit/ed62442)
+ * Fix variable collisions and add basecoat to site to test sass compilation errors - Patrick Marsceill [github/github@c73eee3](https://github.com/github/github/commit/c73eee3)
+ * Remove basecoat - Patrick Marsceill [github/github@1b1503d](https://github.com/github/github/commit/1b1503d)
+ * prefix bc => marketing - Patrick Marsceill [github/github@04d509a](https://github.com/github/github/commit/04d509a)
+ * Support - Patrick Marsceill [github/github@9bbf59b](https://github.com/github/github/commit/9bbf59b)
