@@ -1,6 +1,6 @@
 ---
 title: Best Practices for Maintainers
-description: A guide to making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+description: Make your life easier as an open source maintainer, from documenting processes to leveraging your community.
 class: best-practices
 toc:
   maintaining-a-project-requires-more-than-code: "Maintaining a project requires more than code"

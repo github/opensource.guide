@@ -1,6 +1,6 @@
 ---
 title: Building Welcoming Communities
-description: You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around? Building a welcoming community will encourage people to use, contribute to, and evangelize your project.
+description: Encourage people to use, contribute to, and evangelize your project by making it easy and rewarding to get involved.
 class: building
 toc:
   setting-your-project-up-for-success: "Setting your project up for success"

@@ -1,6 +1,6 @@
 ---
 title: The Beginner's Guide to Open Sourcing&nbsp;a&nbsp;Project
-description: A brief overview of what open source is, why people do it, and how to launch your own open source project.
+description: Learn more about what open source is, why people do it, and how to launch your own open source project.
 class: beginners
 toc:
   the-what-and-why-of-open-source: "The what and why of open source"

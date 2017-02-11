@@ -1,6 +1,6 @@
 ---
 title: Your Code of Conduct
-description: Adopting, and enforcing, a code of conduct empowers you to facilitate healthy, constructive community behavior.
+description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
 class: coc
 toc:
   establishing-a-code-of-conduct: "Establishing a code of conduct"
