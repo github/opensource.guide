@@ -181,7 +181,6 @@ Your job as a maintainer is to keep these situations from escalating. Even if yo
   </p>
 </aside>
 
-
 Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly. Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you. 🙏
 
 ### Treat your README as a constitution

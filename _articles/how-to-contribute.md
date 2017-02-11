@@ -409,7 +409,6 @@ If you want to make a substantial contribution, open an issue to ask before work
   </p>
 </aside>
 
-
 ### Opening an issue
 
 Usually, you should open an issue in the following situations:
