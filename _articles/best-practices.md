@@ -14,13 +14,15 @@ toc:
 
 ## Maintaining a project requires more than code
 
-If you maintain an open source project that a lot of people use, you may have noticed a lot of your work is administrative: triaging issues, responding to questions, managing a roadmap.
+If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
 
-These tasks are often unexpected and less frequently talked about than writing code, but they're just as important to a growing project. Read on for ways to make your life easier, from documenting processes to leveraging your community.
+These tasks are often unexpected, but they're just as important to a growing project. Read on for ways to make your life easier, from documenting processes to leveraging your community.
 
 ## Documenting your processes
 
-Writing documentation is one of the most important things you can do as a maintainer. Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask. Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+Writing documentation is one of the most important things you can do as a maintainer. Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+
+Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
 
 These types of exercises may seem trivial, but the more you know yourself and your limits (not just abilities!), the easier it is to say no when something doesn't fit into your scope, or you feel overwhelmed by requests. Defining your project's scope also makes closing pull requests with "scope creep" easier.
 
@@ -56,15 +58,17 @@ If you meet with other maintainers, or make a major decision in private, be sure
 
 ## Communicating expectations
 
-Most people who come across your project don't know anything about you or your circumstances. They may even think that you get paid to work on the project, especially if it's something they regularly use and depend on.
+Most people who come across your project don't know anything about you or your circumstances.
 
-Maybe at one point you put a lot of time into your project, but now circumstances have changed. You're juggling a new family and a full-time job, and you just don't have that much time to spend on open source work anymore. That's perfectly okay! Make sure other people know what's changed.
+They may assume you get paid to work on the project, especially if it's something they regularly use and depend on. Even if open source work is part of your full-time job, you'll inevitably still have competing priorities.
+
+Maybe at one point you put a lot of time into your project, but now circumstances have changed. You're juggling a new family and a full-time job, and you just don't have that much time to spend on the project anymore. That's perfectly okay! Make sure other people know what's changed.
 
 If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
 
 Write your time constraints directly into your README, and make them public so others understand your priorities, too. You can even explain exactly how many hours, or which days, you spend on the project per week. If your project is completely unmaintained or a low priority in your life, tell people that, too.
 
-[PhantomJS](https://github.com/ariya/phantomjs) used Issues to [communicate the time constraints](https://github.com/ariya/phantomjs/issues/14541) of their maintainers:
+[PhantomJS](https://github.com/ariya/phantomjs) used issues to [communicate the time constraints](https://github.com/ariya/phantomjs/issues/14541) of their maintainers:
 
 > The team behind PhantomJS (@ariya @Vitallium @zackw and other occasional contributors) is committed, yet we remain a small team. None of us is paid to work on PhantomJS, thus we carry out the contribution during our spare time. For the sake of discussion, let's say that our estimated total effort is 4 hours/week.
 
@@ -85,14 +89,14 @@ Regardless of the reason, it is possible to tactfully handle contributions that 
 If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
 
 <aside class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/869950?v=3&s=400" class="pquote-avatar" alt="avatar" alt="@benilovj avatar">
+  <img src="https://avatars3.githubusercontent.com/u/869950?v=3&s=400" class="pquote-avatar" alt="avatar" alt="@KrauseFX avatar">
   The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
   <p markdown="1" class="pquote-credit">
 — @KrauseFX, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Firstly, over time, your unanswered issues and PRs will accumulate and make working on your project feel that much more stressful and intimidating. It's better to immediately close the contributions you know you don't want to accept. (If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage those issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).)
+Don't leave an unwanted contribution open because you feel guilty or want to be nice. Firstly, over time, your unanswered issues and PRs will accumulate and make working on your project feel that much more stressful and intimidating. It's better to immediately close the contributions you know you don't want to accept. (If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).)
 
 Secondly, contributing to an open source project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, be sure to acknowledge the person behind it and thank them for their interest. It's a big compliment!
 
@@ -170,7 +174,9 @@ The same applies to a user who really wants a solution that you simply don't hav
 
 ## Bring in the robots
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do.
+
+Robots are your friend. Use them to make your life as a maintainer easier.
 
 ### Require tests and other checks to improve the quality of your code
 
