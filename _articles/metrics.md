@@ -8,7 +8,6 @@ toc:
   usage: "Usage"
   retention: "Retention"
   maintainer-activity: "Maintainer activity"
-  numbers-help-people-understand-behavior: "Numbers help people understand behavior"
 ---
 
 ## Why measure anything?
@@ -35,7 +34,7 @@ If you _are_ interested in understanding your project on a deeper level, read on
 
 Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
 
-![traffic graph](/assets/images/marketing/repo_traffic_graphs_tooltip.png)
+![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
 If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Graphs", then "Traffic". On this page, you can see:
 
@@ -61,7 +60,7 @@ Each package manager may use a slightly different definition of "download", and 
 
 If your project is on GitHub, navigate again to the "Traffic" page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
 
-![clone graph](/assets/images/marketing/clone_graph.png)
+![clone graph](/assets/images/metrics/clone_graph.png)
 
 If usage is low compared to the number of people discovering your project, there are two issues to consider. Either:
 
@@ -84,7 +83,7 @@ Examples of community metrics that you may want to regularly track include:
 
 * **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Graphs" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
 
-![contributor graph](/assets/images/marketing/repo_contributors_specific_graph.png)
+![contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
 
@@ -119,6 +118,6 @@ You could also measure the time it takes to move between stages in the contribut
 * Whether stale issues get closed
 * Average time to merge a pull request
 
-## Numbers help people understand behavior
+## Use 📊 to learn about people
 
 Understanding metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.

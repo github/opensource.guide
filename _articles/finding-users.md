@@ -3,6 +3,7 @@ title: Finding Users For Your Open Source Project
 description: A guide to getting your project in the hands of happy users.
 class: finding
 toc:
+  spreading-the-word: "Spreading the word"
   figure-out-your-message: "Figure out your message"
   help-people-find-and-follow-your-project: "Help people find and follow your project"
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
@@ -12,11 +13,7 @@ toc:
 
 ## Spreading the word
 
-There's no rule that says you have to promote an open source project when you launch.
-
-There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you don't want a lot of people to discover or use your project, then go on being your awesome self.
-
-If you are hoping others will find and use your open source project, however, it's time to tell everybody about your hard work!
+There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you are hoping others will find and use your open source project, however, it's time to tell everybody about your hard work!
 
 ## Figure out your message
 
@@ -26,7 +23,11 @@ What makes your project different or interesting? Why did you create it? Answeri
 
 Remember that people get involved as users, and eventually contributors, because it solves a problem for them. As you think about your project's message and value, try to view it through the lens of what _they_ might want.
 
-Mozilla offers [some helpful exercises](http://mozillascience.github.io/working-open-workshop/personas_pathways/) for thinking about your community's user personas.
+For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+
+![cartography readme](/assets/images/finding-users/cartography.jpg)
+
+For a deeper diver into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
 
 ## Help people find and follow your project
 
@@ -57,13 +58,15 @@ If you don't wish to set up these channels for your project yet, promote your ow
 
 If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
 
-![vagrant homepage](/assets/images/marketing/vagrant_homepage.png)
+![vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
 Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
 
 ## Go where your project's audience is (online)
 
 Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
+
+Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
 
 <aside class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -73,11 +76,9 @@ Online outreach is a great way to share and spread the word quickly. Using onlin
   </p>
 </aside>
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
-
 See if you can find ways to share your project in relevant ways:
 
-* **Get to know related open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about your work. Those people might promote your work to their audience through newsletters or forums, or you might be asked to write a blog post or speak at an event.
+* **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
 * **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
 * **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
 
@@ -87,20 +88,26 @@ If nobody pays attention or responds to your initial outreach, don't get discour
 
 ## Go where your project's audience is (offline)
 
-![public speaking](/assets/images/marketing/public_speaking.png)
+![public speaking](/assets/images/finding-users/public_speaking.png)
 
 Offline events are a popular way to promote new projects. It's a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
 
 If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
 
-> I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. Also, I was a bit unsure of what to expect in terms of the social climate. I shouldn't have worried, though. PyCon was phenomenally awesome! Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people! - @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+<aside class="pquote">
+  <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
+  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. I shouldn't have worried, though. PyCon was phenomenally awesome! Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+  <p markdown="1" class="pquote-credit">
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+  </p>
+</aside>
 
 If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
 
 As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
 <aside class="pquote">
-  <img src="/assets/images/finding/lena.jpg" class="pquote-avatar" alt="avatar">
+  <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
@@ -135,14 +142,18 @@ Sometimes, these relationships can even lead to official partnerships with the w
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation! Even if you've launched your own project already, continue looking for find ways to help others.
+It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue looking for find ways to help others.
 
-There is no magic formula to building an audience. Gaining the trust and respect of others takes time, and reputation building work never ends.
+There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and reputation building work never ends.
 
-## Keep at it
+<aside class="pquote">
+  <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
+  PhantomJS was released for the first time in the beginning of 2011. I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
+  <p markdown="1" class="pquote-credit">
+— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
+  </p>
+</aside>
 
-Spreading the word is an important step to growing the popularity of your project. It can be scary to share your creativity with the world, so give yourself a high five for making it this far.
+## Keep at it!
 
-Sometimes, it takes a long time before people notice your open source project. Your project will likely go through multiple phases of activity. That's okay!
-
-Some of the most popular projects today took years to reach high levels of activity. Focus on building long-term relationships instead of finding a magic bullet. Be patient, and keep sharing your work with those who appreciate it.
+Sometimes, it takes a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of a magic bullet. Be patient, and keep sharing your work with those who appreciate it.

@@ -25,12 +25,30 @@ Contributing to open source can be a rewarding way to learn, teach, and build ex
 
 Why do people contribute to open source? Plenty of reasons!
 
-* **Improve existing skills:** Whether it's coding, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
-* **Meet people who are interested in similar things:** Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or discussing burritos late night over chat.
-* **Find mentors and teach others:** Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
-* **Build public artifacts that help you grow a reputation (and a career).** By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
-* **Learn people skills:** Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
-* **It's empowering to be able to make changes, even small ones.** You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+### Improve existing skills
+
+Whether it's coding, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+
+### Meet people who are interested in similar things
+
+Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or discussing burritos late night over chat.
+
+### Find mentors and teach others
+
+Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+
+### Build public artifacts that help you grow a reputation (and a career)
+
+By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+
+### Learn people skills
+
+Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+
+
+### It's empowering to be able to make changes, even small ones
+
+You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
 
 ## What it means to contribute
 
@@ -43,10 +61,10 @@ Not to worry! There are all sorts of ways to get involved with an open source pr
 A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the non-code parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with non-code contributions!
 
 <aside class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Seriously, documentation is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
+  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
   <p markdown="1" class="pquote-credit">
-— @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
+— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -59,8 +77,6 @@ Even if you are a developer, non-code contributions are a great way to get invol
 — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
-
-Here are a few ideas for how you can contribute to an open source project.
 
 ### Do you like planning events?
 
@@ -82,6 +98,14 @@ Here are a few ideas for how you can contribute to an open source project.
 * Start a newsletter for the project, or curate highlights from the mailing list
 * Write tutorials for the project, [like pypa's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
 * Write a translation for the project's documentation
+
+<aside class="pquote">
+  <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
+  Seriously, documentation is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  <p markdown="1" class="pquote-credit">
+— @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
+  </p>
+</aside>
 
 ### Do you like organizing?
 
@@ -115,7 +139,6 @@ While "open source" often refers to software, you can collaborate on just about 
 For example:
 
 * @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
-* @jwasham created a [study plan](https://github.com/jwasham/google-interview-university) for self-taught developers to get a corporate software engineer interview
 * @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
 * @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
 
@@ -358,7 +381,7 @@ You've found a project you like, and you're ready to make a contribution. Finall
 Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
 
 <aside class="pquote">
-  <img src="/assets/images/contribute/shubheksha.jpg" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars2.githubusercontent.com/u/7693422?v=3&s=460" class="pquote-avatar" alt="avatar">
   As a new contributor, I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)

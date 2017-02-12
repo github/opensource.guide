@@ -1,6 +1,6 @@
 ---
 title: Building Welcoming Communities
-description: A guide to building a community that encourages people to use, contribute to, and evangelize your project.
+description: Building a community that encourages people to use, contribute to, and evangelize your project.
 class: building
 toc:
   setting-your-project-up-for-success: "Setting your project up for success"
@@ -12,27 +12,27 @@ toc:
 
 You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
 
-A welcoming community is an investment into your project's future and reputation. If your project is just starting to see its first contributions, start by giving early contributors a positive experience and make it easy for them to keep coming back.
+A welcoming community is an investment into your project's future and reputation. If your project is just starting to see its first contributions, start by giving early contributors a positive experience, and make it easy for them to keep coming back.
 
 ### Make people feel welcome
 
 One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
 
-![contributor funnel](/assets/images/marketing/contributor_funnel_mikemcquaid.png)
+![contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
 As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
 
-Start by making it easy for someone to use your project. Tutorials, clear code examples, good documentation, and a friendly README will make it easier for anyone who lands on your project to grasp its value and get started.
+Start with your documentation:
 
-Do the same for contributors, linking them to resources and keeping the issues up-to-date.
+* **Make it easy for someone to use your project.** [A friendly README](../beginners-guide/#writing-a-readme) and clear code examples will make it easier for anyone who lands on your project to get started.
+* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../beginners-guide/#writing-your-contributing-guidelines) and keeping your issues up-to-date.
 
-[Django](https://github.com/django/django) has a special landing page to welcome new contributors, but even if you don't have a website, you could try something similar on your project's README.
+Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
 
-![django new contributors page](/assets/images/marketing/django_new_contributors.png)
-
-When someone new lands on your project, make sure to thank them for their interest! It only takes one negative experience to make someone not want to come back.
-
-Be open-minded about the types of contributions you'll accept. Many contributors start with a bug report or small fix. A new contributor might write a tutorial or improve your project's documentation, because newer users notice things that more experienced users might not. Let people help how they want to help.
+* **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
+* **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
+* **Be open-minded about the types of contributions you'll accept.** Many contributors start with a bug report or small fix. There are [many ways to contribute](../how-to-contribute/#what-it-means-to-contribute) to a project. Let people help how they want to help.
+* **If there's a contribution you disagree with,** thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project, linking to relevant documentation if you have it.
 
 <aside class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -46,31 +46,31 @@ The majority of open source contributors are "casual contributors": people who c
 
 A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
 
-This level of noise can be overwhelming at first. But [the more people feel ownership](https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5) of your project, the more work can be distributed. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
-
-If there's a contribution you disagree with, thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project. Link to existing documentation on the types of contributions you are looking for and encourage them to stay involved.
+Encouraging other contributors is an investment in yourself, too. [When you empower your biggest fans](https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5) to run with the work they're excited about, there's less pressure to do everything yourself.
 
 ### Document everything
 
 <aside class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/11321?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? Now imagine you want to contribute to an open source project, but you don't see why or how this is happening and where people talk about things.
+  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-When you start a new project, it may feel natural to keep your work private. But open source projects thrive when you [document your process](http://www.writethedocs.org/) in public.
+When you start a new project, it may feel natural to keep your work private. But open source projects thrive when you document your process in public.
 
-When your work is publicly documented, more people can participate at every step of the way. Not only will they know _what_ to contribute, but they'll also know _how_ to contribute. You might get help on something you didn't even know you needed.
+When you write things down, more people can participate at every step of the way. You might get help on something you didn't even know you needed.
 
-Documenting your open source project means more than just technical documentation. Be transparent about your project's roadmap, the types of contributions you're looking for, how contributions are reviewed, or why you made certain decisions.
+Writing things down means more than just technical documentation. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public.
 
-If there are certain types of contributions that you won't accept, explain so in your CONTRIBUTING.md file. If you get frequent questions or notice users running into the same problem, document the answers in the README.
+Be transparent about your project's roadmap, the types of contributions you're looking for, how contributions are reviewed, or why you made certain decisions.
 
-Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public. For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+If you notice multiple users running into the same problem, document the answers in the README.
 
-Writing things down isn't just for meetings and technical documentation, either. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
+For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+
+Documenting everything applies to the work you do, too. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
 
 ### Be responsive
 
@@ -80,7 +80,7 @@ Try to be responsive when someone files an issue, submits a pull request, or ask
 
 Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
 
-![middleman pull request](/assets/images/marketing/middleman_pr.png)
+![middleman pull request](/assets/images/building-community/middleman_pr.png)
 
 [A Mozilla study found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
 
@@ -108,11 +108,17 @@ Communities are extremely powerful. That power can be a blessing or a curse, dep
 
 ### Don't tolerate bad actors
 
-> The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. Don't settle for less. Don't settle for assholes. - @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
-
 Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
 
 Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave.
+
+<aside class="pquote">
+  <img src="https://avatars0.githubusercontent.com/u/633012?v=3&s=460" class="pquote-avatar" alt="avatar">
+  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. Don't settle for less. Don't settle for assholes.
+  <p markdown="1" class="pquote-credit">
+— @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
+  </p>
+</aside>
 
 Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
 
@@ -122,9 +128,9 @@ When you see negative behavior happening on your project, call it out publicly. 
 
 Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
 
-In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. For example, [Read the Docs](https://github.com/rtfd/readthedocs.org/blob/master/docs/contribute.rst#contributing-to-development) tells its readers:
+In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. [Django](https://github.com/django/django), for example, has a special landing page to welcome new contributors.
 
-> If you want to deep dive and help out with development on Read the Docs, then first get the project installed locally according to the Installation Guide. After that is done we suggest you have a look at tickets in our issue tracker that are labelled Good First Bug. These are meant to be a great way to get a smooth start and won't put you in front of the most complex parts of the system.
+![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
 In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first bug"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
 
@@ -132,7 +138,7 @@ Finally, use your documentation to make people feel welcome at every step of the
 
 You will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Even a few kind words can keep someone from leaving your project in frustration.
 
-For example, here's how [Rubinius](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md) starts its contributing guide:
+For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts [its contributing guide](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
 
 > We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
 
@@ -152,7 +158,7 @@ See if you can find ways to share ownership with your community as much as possi
 
 * **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
 
-![cookiecutter issue](/assets/images/sustaining/cookiecutter_submit_pr.png)
+![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
 * **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) does.
 
@@ -196,7 +202,9 @@ Your job as a maintainer is to keep these situations from escalating. Even if yo
   </p>
 </aside>
 
-Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly. Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you. 🙏
+Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly.
+
+Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you.
 
 ### Treat your README as a constitution
 
@@ -212,9 +220,14 @@ Sometimes, voting is a necessary tiebreaker. As much as you are able, however, e
 
 Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
 
-[Atom](https://github.com/atom), for example, [prioritizes consensus seeking](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2) over a voting system:
+<aside class="pquote">
+  <img src="https://avatars3.githubusercontent.com/u/1038121?v=3&s=460" class="pquote-avatar" alt="avatar">
+  Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. What I can offer and pledge to do is that it is my job to listen to the community.
+  <p markdown="1" class="pquote-credit">
+— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+  </p>
+</aside>
 
-> Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. What I (@lee-dohm) can offer and pledge to do is that it is my job to listen to the community.
 
 Even if you don't actually adopt a consensus seeking process, as a project maintainer, it's important that people know you are listening. Making other people feel heard, and committing to resolving their concerns, goes a long way to diffuse sensitive situations. Then, follow up on your words with actions.
 
@@ -232,6 +245,8 @@ With every point made by you or by others, ask yourself, _"How does this bring u
 
 If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
 
+If a conversation clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the issue and explain why you closed it.
+
 <aside class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
   Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.  
@@ -239,8 +254,6 @@ If the conversation is starting to unravel, ask the group, _"Which steps should 
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
-
-If a conversation clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the issue and explain why you closed it.
 
 ### Pick your battles wisely
 

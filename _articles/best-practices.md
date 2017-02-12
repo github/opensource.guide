@@ -1,9 +1,9 @@
 ---
 title: Best Practices for Maintainers
-description: A guide to making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
 class: best-practices
 toc:
-  maintaining-a-project-requires-more-than-code: "Maintaining a project requires more than code"
+  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
   documenting-your-processes: "Documenting your processes"
   learning-to-say-no: "Learning to say no"
   leverage-your-community: "Leverage your community"
@@ -14,6 +14,8 @@ toc:
 ## What does it mean to be a maintainer?
 
 If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+
+In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
 
 Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
 
@@ -62,7 +64,7 @@ Here are a few rules that are worth writing down:
 * When it's appropriate to follow up (_ex. "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
 * How much time you spend on the project (_ex. "We only spend about 5 hours per week on this project"_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects that have ground rules for maintainers and contributors.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
 
 ### Keep communication public
 
@@ -115,7 +117,7 @@ If you don't want to accept a contribution:
 
 You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
 
-![celery screenshot](/assets/images/sustaining/celery.png)
+![celery screenshot](/assets/images/best-practices/celery.png)
 
 If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
 

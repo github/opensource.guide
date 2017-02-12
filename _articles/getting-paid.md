@@ -4,7 +4,8 @@ description: Whether you make regular, substantial contributions to open source,
 class: getting-paid
 toc:
   why-some-people-seek-financial-support: "Why some people seek financial support"
-  finding-financial-support: "Finding financial support"
+  funding-your-own-time: "Funding your own time"
+  finding-funding-for-your-project: "Finding funding for your project"
   building-a-case-for-financial-support: "Building a case for financial support"
 ---
 
@@ -27,10 +28,10 @@ There are many reasons why a person would not want to be paid for their open sou
 * **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
 
 <aside class="pquote">
-  <img src="/assets/images/getting-paid/eloy.png" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars1.githubusercontent.com/u/2320?v=3&s=460" class="pquote-avatar" alt="avatar">
   Financial donations do add a feeling of responsibility, for some. It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
   <p markdown="1" class="pquote-credit">
-— Eloy Durán, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
+— @alloy, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
@@ -39,7 +40,7 @@ For others, especially when contributions are ongoing or require significant tim
 Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
 
 <aside class="pquote">
-  <img src="/assets/images/getting-paid/ashe.jpg" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
   Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
@@ -127,18 +128,38 @@ For more detailed options and case studies, @nayafia [wrote a guide](https://git
 
 Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions:
+Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
 
-* **Impact:** Why is this project useful? Where will it be in five years?
-* **Traction:** Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
-* **Value to funder:** Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
-* **Use of funds:** What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
-* **How you'll receive the funds:** Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+### Impact
 
-For his Kickstarter campaign, @davegandy [made a video](https://www.kickstarter.com/projects/232193852/font-awesome-5) to explain why he raised funds for his project, [Font Awesome](https://github.com/FortAwesome/Font-Awesome). The video not only included concrete examples of traction, but explained why he was raising money and what it would be used for:
+Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
 
-> For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+### Traction
+
+Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+
+### Value to funder
+
+Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+
+### Use of funds
+
+What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+
+### How you'll receive the funds
+
+Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+
+<aside class="pquote">
+  <img src="https://avatars1.githubusercontent.com/u/1076721?v=3&s=460" class="pquote-avatar" alt="avatar">
+  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  <p markdown="1" class="pquote-credit">
+— @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
+  </p>
+</aside>
 
 ## Experiment and don't give up
 
 Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+
+>

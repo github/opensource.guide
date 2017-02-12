@@ -31,6 +31,14 @@ By comparison, a closed source process would be going to a restaurant and orderi
 
 ### Why do people open source their work?
 
+<aside class="pquote">
+  <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
+  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+  <p markdown="1" class="pquote-credit">
+— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
+  </p>
+</aside>
+
 [There are many reasons](http://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
 
 * **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
@@ -53,7 +61,7 @@ As a result, most open source projects are free, but "free of charge" is not par
 
 The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, don't worry!
+If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
 
 Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
 
@@ -69,7 +77,7 @@ If your only goal is to show off your work, you may not even want contributions,
 
 <aside class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using to my projects and I decided to make it open source. So I modified it, to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+  At some point I created a custom UIAlertView that I was using and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
@@ -93,7 +101,7 @@ If you need a dedicated budget or staffing for promotion, operations and maintai
 
 ### Contributing to other projects
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing open source project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
 
 If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
 
@@ -124,7 +132,7 @@ Legal work is no fun. The good news is that you can copy and paste an existing l
 
 When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
 
-![pick a license](/assets/images/getting-started/repository-license-picker.png)
+![pick a license](/assets/images/beginners-guide/repository-license-picker.png)
 
 If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
 
@@ -171,7 +179,7 @@ In addition to technical details, a CONTRIBUTING file is an opportunity to commu
 
 Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) starts its contributing guide with:
+For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with:
 
 > First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
 
@@ -183,7 +191,7 @@ For more help with writing your CONTRIBUTING file, check out @nayafia's [contrib
 
 Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
 
-![contributing guidelines](/assets/images/getting-started/Contributing-guidelines.jpg)
+![contributing guidelines](/assets/images/beginners-guide/Contributing-guidelines.jpg)
 
 ### Establishing a code of conduct
 

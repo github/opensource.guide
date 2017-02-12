@@ -3,8 +3,9 @@ title: Your Code of Conduct
 description: Adopting, and enforcing, a code of conduct empowers you to facilitate healthy, constructive community behavior.
 class: coc
 toc:
+  why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
   establishing-a-code-of-conduct: "Establishing a code of conduct"
-  write-down-how-youll-enforce-your-code-of-conduct: "Write down how you’ll enforce your code of conduct"
+  deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
   enforcing-your-code-of-conduct: "Enforcing your code of conduct"
 ---
 
