@@ -91,7 +91,6 @@ If your company goes down this route, it's important to keep the boundaries betw
   </p>
 </aside>
 
-
 If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
 
 * [Ghost](https://ghost.org/) is a company built around [an open source project](https://github.com/tryghost/ghost)
