@@ -17,11 +17,6 @@ describe "lint test" do
         it "has valid fields" do
           assert_valid_fields @data, site.data["fields"]
         end
-
-        it "`following` points to a page that exists" do
-          assert pages.detect {|p| p["path"] == page["following"] },
-            "Could not find page with path #{page["following"]}"
-        end if page["following"]
       end
     end
   end
