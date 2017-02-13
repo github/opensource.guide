@@ -25,28 +25,10 @@ layout: default
   </div>
 </nav>
 
-<header class="article-header {{ page.class }} bg-gray-light">
+<header class="bg-gray-light">
   <div class="container-lg mx-auto px-3">
-
-    <h1 class="alt-h1 lh-condensed text-center mb-3">{{ page.title }}</h1>
+    <h1 class="alt-h1 lh-condensed text-center my-6 py-md-6">{{ page.title }}</h1>
     <p class="lead text-center text-gray col-md-8 mx-auto mb-4 position-relative">{{ page.description }}</p>
-    <nav class="toc mb-4 mb-md-6">
-      <div class="card col-sm-8 col-md-4 col-lg-3 mx-auto">
-        <a class="toc-trigger d-block text-center p-3">
-          <span class="text-black">Table of Contents</span>{% octicon triangle-down height:18 class:"ml-2 fill-blue v-align-middle icon-flip" aria-label:open %}
-        </a>
-        <ol class="toc-list list-style-none">
-          {% for section in page.toc %}
-          <li class="border-top">
-            <a href="#{{ section[0] }}" class="d-block py-3 px-3">{{ section[1] }}</a>
-          </li>
-          {% endfor %}
-        </ol>
-      </div>
-    </nav>
-    <div class="col-sm-10 mx-auto lh-none cover-img">
-      <img src="{{ site.baseurl }}/assets/images/illos/{{ page.class }}.svg" alt="{{ page.title }} Illustration">
-    </div>
   </div>
 </header>
 
