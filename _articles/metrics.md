@@ -9,6 +9,8 @@ toc:
   retention: "Retention"
   maintainer-activity: "Maintainer activity"
 order: 9
+image:
+  twitter: {{ site.baseurl }}/assets/images/cards/metrics.png"
 ---
 
 ## Why measure anything?

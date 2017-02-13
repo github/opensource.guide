@@ -11,7 +11,7 @@ toc:
   its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
 image:
-  twitter: /img/twitter.png
+  twitter: {{ site.baseurl }}/assets/images/cards/best-practices.png"
 ---
 
 ## What does it mean to be a maintainer?

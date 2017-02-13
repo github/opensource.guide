@@ -8,6 +8,8 @@ toc:
   deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
   enforcing-your-code-of-conduct: "Enforcing your code of conduct"
 order: 8
+image:
+  twitter: {{ site.baseurl }}/assets/images/cards/coc.png"
 ---
 
 ## Why do I need a code of conduct?
