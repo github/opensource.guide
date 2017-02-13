@@ -8,6 +8,7 @@ toc:
   when-should-i-give-someone-commit-access: "When should I give someone commit access?"
   what-are-some-of-the-common-governance-structures-for-open-source-projects: "What are some of the common governance structures for open source projects?"
   do-i-need-governance-docs-when-i-launch-my-project: "Do I need governance docs when I launch my project?"
+  what-happens-if-corporate-employees-start-submitting-contributions: "What happens if corporate employees start submitting contributions?"
   do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
 ---
 
