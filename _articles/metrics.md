@@ -9,6 +9,7 @@ toc:
   retention: "Retention"
   maintainer-activity: "Maintainer activity"
 order: 9
+image: /assets/images/cards/metrics.png
 ---
 
 ## Why measure anything?

@@ -11,6 +11,7 @@ toc:
   what-happens-if-corporate-employees-start-submitting-contributions: "What happens if corporate employees start submitting contributions?"
   do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
 order: 6
+image: /assets/images/cards/leadership.png
 ---
 
 ## Understanding governance for your growing project

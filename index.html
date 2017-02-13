@@ -12,9 +12,6 @@ layout: landing
         <li class="d-inline-block border-right">
           <a class="d-block p-3 p-sm-4" href="https://github.com/github/open-source-guide/blob/gh-pages/CONTRIBUTING.md">Contribute</a>
         </li>
-        <li class="d-inline-block border-right">
-          <a class="d-block p-3 p-sm-4" href="">{% octicon search height:16 class:"mr-2 fill-gray" aria-label:hi %}Search</a>
-        </li>
       </ul>
     </div>
   </div>
@@ -32,13 +29,13 @@ layout: landing
   </header>
 
   <div class="container-lg px-3 pb-6">
-    <div class="clearfix gut-md d-flex flex-wrap flex-items-stretch pb-md-6">
+    <div class="gut-md d-flex flex-wrap flex-items-stretch pb-md-6">
       {% assign articles = site.articles | sort: 'order' %}
       {% for article in articles %}
       <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">
         <a href="{{ site.baseurl }}{{ article.url }}" class="guide-cover {{ article.class }} card height-full d-block">
 
-          <div class="lh-none guide-cover-img pt-4">
+          <div class="lh-none guide-cover-img text-center pt-4">
             <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class="" alt="{{ article.title }} illustration">
           </div>
 

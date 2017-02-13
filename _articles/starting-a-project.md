@@ -9,6 +9,7 @@ toc:
   naming-and-branding-your-project: "Naming and branding your project"
   your-pre-launch-checklist: "Your pre-launch checklist"
 order: 2
+image: /assets/images/cards/beginner.png
 ---
 
 ## The "what" and "why" of open source

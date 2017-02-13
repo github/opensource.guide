@@ -11,6 +11,7 @@ toc:
   does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
   what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
 order: 10
+image: /assets/images/cards/legal.png
 ---
 
 ## Understanding the legal implications of open source
