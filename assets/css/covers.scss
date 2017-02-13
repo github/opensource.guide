@@ -16,11 +16,8 @@
 .home-cover-img {
   height: 200px;
 
-  @include breakpoint(sm) {
-    height: 200px;
-  }
   @include breakpoint(lg) {
-    height: 300px;
+    height: 270px;
   }
   img {
     max-height: 100%;
@@ -83,6 +80,13 @@
   }
 }
 
+.guide-cover.beginners {
+  img {
+    padding-left: $spacer-5;
+    padding-right: $spacer-5;
+  }
+}
+
 .article-header.legal {
   .cover-img {
     margin-top: -20px;
@@ -94,6 +98,13 @@
       margin-bottom: -70px;
       max-width: 720px;
     }
+  }
+}
+
+.guide-cover.legal {
+  img {
+    padding-left: $spacer-5;
+    padding-right: $spacer-5;
   }
 }
 
@@ -144,6 +155,13 @@
   }
 }
 
+.guide-cover.coc {
+  img {
+    padding-left: $spacer-5;
+    padding-right: $spacer-5;
+  }
+}
+
 .article-header.leadership {
   .cover-img {
     margin-bottom: -60px;
@@ -157,5 +175,12 @@
         margin-left: -60px;
       }
     }
+  }
+}
+
+.guide-cover.leadership {
+  img {
+    padding-left: $spacer-5;
+    padding-right: $spacer-5;
   }
 }
