@@ -12,6 +12,12 @@
   }
 }
 
+#no-results-notice { display: none; }
+.no-search-results {
+  #search-results { display: none; }
+  #no-results-notice { display: block; }
+}
+
 .form-control-borderless {
   border: none;
   background: transparent;

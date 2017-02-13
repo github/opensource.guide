@@ -47,11 +47,12 @@ function search(searchTerm) {
 
 function displaySearchResults(results) {
   var searchResults = document.getElementById('search-results');
+  searchResults.innerHTML = results.join("");
 
   if (results.length) {
-    searchResults.innerHTML = results.join("");
+    document.body.classList.remove('no-search-results');
   } else {
-    searchResults.innerHTML = '<li>No results found</li>';
+    document.body.classList.add('no-search-results');
   }
 }
 
