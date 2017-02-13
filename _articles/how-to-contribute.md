@@ -16,7 +16,7 @@ order: 1
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Working on freenode helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
@@ -101,7 +101,7 @@ Even if you are a developer, non-code contributions are a great way to get invol
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Seriously, documentation is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
@@ -382,7 +382,7 @@ Whether you're a one-time contributor or trying to join a community, working wit
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/7693422?v=3&s=460" class="pquote-avatar" alt="avatar">
-  As a new contributor, I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+  \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>

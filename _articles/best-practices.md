@@ -171,7 +171,7 @@ Encouraging others to [share ownership of the project](../building-community/#sh
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
-  We had this contributor's conference at Carnegie Mellon. Up to that point, I'd been saying, "Yeah, anyone can be involved, you don't have to have a lot of coding expertise." But that's when I was really wondering: is this true, what I've been saying? There are gonna be 40 people, and it's not like I can sit with each of them. But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+  I’d been saying, “Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...].” We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does “Open Source” Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
   </p>

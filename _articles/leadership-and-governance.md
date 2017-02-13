@@ -35,7 +35,7 @@ A maintainer doesn't necessarily have to be someone who writes code for your pro
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/579?v=3&s=460" class="pquote-avatar" alt="avatar">
-  [For Node.js,] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
+  \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
@@ -47,7 +47,7 @@ While you can define your project roles any way you'd like, [consider using broa
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/21148?v=3&s=460" class="pquote-avatar" alt="avatar">
-  You might know me as the "inventor" of Django, but really I'm the guy who got hired to work on a thing a year after it was already made. People suspect that I'm successful because of my programming skill, but I'm at best an average programmer.
+  You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
@@ -64,7 +64,7 @@ For a bigger project, if you have a website, create a team page or list your pro
 If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (ex. security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
 
 <aside markdown="1" class="pquote">
-  [We] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+  \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
   </p>
@@ -88,7 +88,7 @@ If your project is on GitHub, you can use [protected branches](https://help.gith
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/15000?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. Once people have commit access, they are no longer worried that their patch might go unmerged, causing them to put much more work into it.
+  Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>

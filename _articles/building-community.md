@@ -37,7 +37,7 @@ Good documentation invites people to interact with your project. Eventually, som
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
+  Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
@@ -53,7 +53,7 @@ Encouraging other contributors is an investment in yourself, too. [When you empo
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/11321?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
+  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
@@ -115,7 +115,7 @@ Do your best to adopt a zero-tolerance policy towards these types of people. If 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/633012?v=3&s=460" class="pquote-avatar" alt="avatar">
-  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. Don't settle for less. Don't settle for assholes.
+  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
   <p markdown="1" class="pquote-credit">
 — @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
   </p>
@@ -175,7 +175,7 @@ While you may not always find someone to answer the call, putting a signal out t
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/39992?v=3&s=400" class="pquote-avatar" alt="avatar">
-  It's in your best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
+  \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
   </p>
@@ -223,7 +223,7 @@ Under a consensus seeking process, community members discuss major concerns unti
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/1038121?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. What I can offer and pledge to do is that it is my job to listen to the community.
+  Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
@@ -249,7 +249,7 @@ If a conversation clearly isn't going anywhere, there are no clear actions to be
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.  
+  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.  
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>

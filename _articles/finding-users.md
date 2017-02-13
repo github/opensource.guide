@@ -47,7 +47,7 @@ If you don't wish to set up these channels for your project yet, promote your ow
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
-  A mistake I made in those early days was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
@@ -97,7 +97,7 @@ If you're [new to public speaking](http://speaking.io/), start by finding a loca
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. I shouldn't have worried, though. PyCon was phenomenally awesome! Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
@@ -121,7 +121,7 @@ Look for conferences that are specific to your language or ecosystem. Before you
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/80?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. I was extremely scared, presenting this thing that I had been working on for six months. The whole time I was just thinking, oh my God. What am I doing here?
+  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
@@ -149,7 +149,7 @@ There is no overnight solution to building an audience. Gaining the trust and re
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
-  PhantomJS was released for the first time in the beginning of 2011. I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
+  PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
   </p>
