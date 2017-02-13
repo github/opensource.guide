@@ -16,7 +16,7 @@ Much of open source work is volunteered. For example, someone might come across 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/2894642?v=3&s=460" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. I chose Python as a working title.
+I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
@@ -30,7 +30,7 @@ There are many reasons why a person would not want to be paid for their open sou
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/2320?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
@@ -52,7 +52,7 @@ Paid work also enables people from different walks of life to make meaningful co
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
   </p>
@@ -68,7 +68,7 @@ It's easier to make a case for open source work if your employer actually uses t
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
@@ -152,7 +152,7 @@ Does the funder have any requirements around disbursal? For example, you may nee
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1076721?v=3&s=460" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>

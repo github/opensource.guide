@@ -78,7 +78,7 @@ If your only goal is to show off your work, you may not even want contributions,
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
@@ -152,7 +152,7 @@ You can use your README to answer other questions, like how you handle contribut
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/168572?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
   <p markdown="1" class="pquote-credit">
 — @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
@@ -198,7 +198,7 @@ Link to your CONTRIBUTING file from your README, so more people see it. If you [
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/11214?v=3&s=460" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user asking a simple question. A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
@@ -206,7 +206,7 @@ Link to your CONTRIBUTING file from your README, so more people see it. If you [
 
 Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
 
-For more information, check out our ["Code of Conduct" guide](../code-of-conduct/).
+For more information, check out our [Code of Conduct guide](../code-of-conduct/).
 
 In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
 
