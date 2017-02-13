@@ -10,6 +10,7 @@ toc:
   go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
   build-a-reputation: "Build a reputation"
 order: 3
+image: /assets/images/cards/finding.png
 ---
 
 ## Spreading the word

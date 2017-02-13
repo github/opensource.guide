@@ -7,6 +7,7 @@ toc:
   growing-your-community: "Growing your community"
   resolving-conflicts: "Resolving conflicts"
 order: 4
+image: /assets/images/cards/building.png
 ---
 
 ## Setting your project up for success
