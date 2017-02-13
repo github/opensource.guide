@@ -43,11 +43,9 @@ Good documentation invites people to interact with your project. Eventually, som
   </p>
 </aside>
 
-The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. Sometimes these are also called ["drive-through contributors"](https://lwn.net/Articles/688560/).
+The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
 
-A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
-
-Encouraging other contributors is an investment in yourself, too. [When you empower your biggest fans](https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5) to run with the work they're excited about, there's less pressure to do everything yourself.
+Encouraging other contributors is an investment in yourself, too. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
 
 ### Document everything
 
