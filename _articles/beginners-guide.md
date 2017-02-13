@@ -1,5 +1,5 @@
 ---
-title: The Beginner's Guide to Open Sourcing a Project
+title: The Beginner's Guide to Open Sourcing&nbsp;a&nbsp;Project
 description: An brief introduction to the world of open source, and how to launch your own project.
 class: beginners
 toc:
