@@ -212,13 +212,6 @@ blockquote {
   fill: $blue !important;
 }
 
-.guide-cover {
-  &:hover {
-    box-shadow: $box-shadow-large;
-    text-decoration: none;
-  }
-}
-
 .mc-field-group {
   .form-input {
     border: $border;

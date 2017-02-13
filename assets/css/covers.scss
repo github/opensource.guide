@@ -13,7 +13,7 @@
   }
 }
 
-.home-cover-img {
+.guide-cover-img {
   height: 200px;
 
   @include breakpoint(lg) {
@@ -24,6 +24,15 @@
     padding: $spacer-3 0;
   }
 }
+
+.guide-cover {
+  &:hover {
+    box-shadow: $box-shadow-large;
+    text-decoration: none;
+  }
+}
+
+// Custom tweaking for each illustration:
 
 .article-header.metrics {
   padding-bottom: 0;
