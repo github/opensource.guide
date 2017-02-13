@@ -32,7 +32,7 @@ For a deeper diver into messaging, check out Mozilla's ["Personas and Pathways"]
 
 ## Help people find and follow your project
 
-<aside class="pquote">
+<aside markdown="1" class="pquote">
   You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
@@ -45,7 +45,7 @@ Help people find and remember your project by pointing them to a single namespac
 
 If you don't wish to set up these channels for your project yet, promote your own Twitter or GitHub handle in everything you do. For example, make sure it is included in your bio or slides if you speak at a meetup or event. That way, people know how to reach you or follow your work.
 
-<aside class="pquote">
+<aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
   A mistake I made in those early days was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
   <p markdown="1" class="pquote-credit">
@@ -69,7 +69,7 @@ Online outreach is a great way to share and spread the word quickly. Using onlin
 
 Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
 
-<aside class="pquote">
+<aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
   Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
   <p markdown="1" class="pquote-credit">
@@ -95,7 +95,7 @@ Offline events are a popular way to promote new projects. It's a great way to re
 
 If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
 
-<aside class="pquote">
+<aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
   I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. I shouldn't have worried, though. PyCon was phenomenally awesome! Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
   <p markdown="1" class="pquote-credit">
@@ -107,7 +107,7 @@ If you've never spoken at an event before, it's perfectly normal to feel nervous
 
 As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
-<aside class="pquote">
+<aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
   <p markdown="1" class="pquote-credit">
@@ -119,7 +119,7 @@ When you feel ready, consider speaking at a conference to promote your project. 
 
 Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference beforehand to tailor your talk to its attendees and increase your chances of getting accepted. You can often get a sense of a conference's audience by looking at its speakers.
 
-<aside class="pquote">
+<aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/80?v=3&s=460" class="pquote-avatar" alt="avatar">
   I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. I was extremely scared, presenting this thing that I had been working on for six months. The whole time I was just thinking, oh my God. What am I doing here?
   <p markdown="1" class="pquote-credit">
@@ -135,7 +135,7 @@ Helping newcomers, sharing resources, and making thoughtful contributions to oth
 
 Sometimes, these relationships can even lead to official partnerships with the wider ecosystem.
 
-<aside class="pquote">
+<aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar" alt="avatar">
   The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
   <p markdown="1" class="pquote-credit">
@@ -147,7 +147,7 @@ It's never too early, or too late, to start building your reputation. Even if yo
 
 There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and reputation building work never ends.
 
-<aside class="pquote">
+<aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
   PhantomJS was released for the first time in the beginning of 2011. I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
   <p markdown="1" class="pquote-credit">
