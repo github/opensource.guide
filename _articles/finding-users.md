@@ -89,7 +89,7 @@ If nobody pays attention or responds to your initial outreach, don't get discour
 
 ## Go where your project's audience is (offline)
 
-![public speaking](/assets/images/finding-users/public_speaking.png)
+![public speaking](/assets/images/finding-users/public_speaking.jpg)
 
 Offline events are a popular way to promote new projects. It's a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
 
