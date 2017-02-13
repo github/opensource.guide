@@ -1,6 +1,6 @@
 ---
 title: Leadership and Governance
-description: Answers to commonly asked questions about leadership and governance for growing open source projects.
+description: Growing open source projects can benefit from formal rules for making decisions.
 class: leadership
 toc:
   what-are-examples-of-formal-roles-used-in-open-source-projects: "What are examples of formal roles used in open source projects?"

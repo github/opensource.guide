@@ -1,6 +1,6 @@
 ---
 title: Finding Users For Your Open Source&nbsp;Project
-description: A guide to getting your project in the hands of happy users.
+description: Help your open source project grow by getting it in the hands of happy users.
 class: finding
 toc:
   spreading-the-word: "Spreading the word"

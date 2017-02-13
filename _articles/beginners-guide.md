@@ -1,6 +1,6 @@
 ---
 title: The Beginner's Guide to Open Sourcing&nbsp;a&nbsp;Project
-description: An brief introduction to the world of open source, and how to launch your own project.
+description: Learn more about the world of open source and get ready to launch your own project.
 class: beginners
 toc:
   the-what-and-why-of-open-source: "The what and why of open source"
