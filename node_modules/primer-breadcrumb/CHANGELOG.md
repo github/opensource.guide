@@ -1,0 +1,30 @@
+# v0.1.1
+
+ * bumping the version - Jon Rohan [github/github@4a72b25](https://github.com/github/github/commit/4a72b25)
+ * Pointing main js file to build - Jon Rohan [github/github@3575651](https://github.com/github/github/commit/3575651)
+ * don't change the versions yet - Jon Rohan [github/github@6bebcff](https://github.com/github/github/commit/6bebcff)
+ * Mark breadcrumbs as navigation ref: http://w3c.github.io/aria-practices/examples/breadcrumb/index.html - Mu-An Chiou [github/github@697312d](https://github.com/github/github/commit/697312d)
+ * Bumping version - Jon Rohan [github/github@df8b91c](https://github.com/github/github/commit/df8b91c)
+ * Cleaning up devDependencies versions and simplifying npm scripts - Jon Rohan [github/github@2c42571](https://github.com/github/github/commit/2c42571)
+ * Sorting and table objects. We also don't need homepage - Jon Rohan [github/github@798629d](https://github.com/github/github/commit/798629d)
+ * Removing duplicate headers - Jon Rohan [github/github@225cee1](https://github.com/github/github/commit/225cee1)
+
+# v0.1.0
+
+ * Rename repository with prefix primer- - Jon Rohan [github/github@ec8774a](https://github.com/github/github/commit/ec8774a)
+ * update example markdown - Patrick Marsceill [github/github@601fe9d](https://github.com/github/github/commit/601fe9d)
+ * Clean this up - Patrick Marsceill [github/github@c858d66](https://github.com/github/github/commit/c858d66)
+ * refactor breadcrumb to be better - Patrick Marsceill [github/github@30b6eaa](https://github.com/github/github/commit/30b6eaa)
+ * Update the names in the README files - Patrick Marsceill [github/github@75fed58](https://github.com/github/github/commit/75fed58)
+ * Update names for npm publising - Patrick Marsceill [github/github@451f97a](https://github.com/github/github/commit/451f97a)
+ * Fix import path across all scss files - Patrick Marsceill [github/github@a566f31](https://github.com/github/github/commit/a566f31)
+ * Smart quote :( - Patrick Marsceill [github/github@3e116ad](https://github.com/github/github/commit/3e116ad)
+ * Breadcrumb docs - Patrick Marsceill [github/github@9547e46](https://github.com/github/github/commit/9547e46)
+ * Tweak breadcrumb spacing - Patrick Marsceill [github/github@b32a8b1](https://github.com/github/github/commit/b32a8b1)
+ * Add breadcrumb docs - Patrick Marsceill [github/github@40a1743](https://github.com/github/github/commit/40a1743)
+ * Tweak breadcrumb spacing and color - Patrick Marsceill [github/github@57fd94b](https://github.com/github/github/commit/57fd94b)
+ * Test data for breadcrumb docs - Patrick Marsceill [github/github@9db2182](https://github.com/github/github/commit/9db2182)
+ * Fix variable collisions and add basecoat to site to test sass compilation errors - Patrick Marsceill [github/github@c73eee3](https://github.com/github/github/commit/c73eee3)
+ * Remove basecoat - Patrick Marsceill [github/github@1b1503d](https://github.com/github/github/commit/1b1503d)
+ * prefix bc => marketing - Patrick Marsceill [github/github@04d509a](https://github.com/github/github/commit/04d509a)
+ * Add breadcrumbs - Patrick Marsceill [github/github@7edec21](https://github.com/github/github/commit/7edec21)

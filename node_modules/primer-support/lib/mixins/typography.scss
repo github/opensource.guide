@@ -1,0 +1,76 @@
+// Text hiding for image based text replacement.
+// Higher performance than -9999px because it only renders
+// the size of the actual text, not a full 9999px box.
+@mixin hide-text() {
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+}
+
+// Heading mixins for use within components
+// These match heading utilities in utilities/typography
+@mixin h1 {
+  font-size: $h1-size;
+  font-weight: $font-weight-bold;
+}
+
+@mixin h2 {
+  font-size: $h2-size;
+  font-weight: $font-weight-bold;
+}
+
+@mixin h3 {
+  font-size: $h3-size;
+  font-weight: $font-weight-bold;
+}
+
+@mixin h4 {
+  font-size: $h4-size;
+  font-weight: $font-weight-bold;
+}
+
+@mixin h5 {
+  font-size: $h5-size;
+  font-weight: $font-weight-bold;
+}
+
+@mixin h6 {
+  font-size: $h6-size;
+  font-weight: $font-weight-bold;
+}
+
+// Responsive heading mixins
+// There are no responsive mixins for h5 and h6 because they are small
+// and don't need to be smaller on mobile.
+@mixin h1-reponsive {
+  font-size: 26px;
+  font-weight: $font-weight-bold;
+
+  // Up to 32px in future
+  @include breakpoint(md) { font-size: 30px; }
+
+}
+
+@mixin h2-responsive {
+  font-size: 20px;
+  font-weight: $font-weight-bold;
+
+  // Up to 22px or 24px in future
+  @include breakpoint(md) { font-size: 21px; }
+}
+
+@mixin h3-responsive {
+  font-size: 14px;
+  font-weight: $font-weight-bold;
+
+  @include breakpoint(md) { font-size: 16px; }
+
+}
+
+@mixin h4-responsive {
+  font-size: 13px;
+  font-weight: $font-weight-bold;
+
+  @include breakpoint(md) { font-size: 14px; }
+
+}

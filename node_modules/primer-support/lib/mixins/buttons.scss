@@ -1,0 +1,137 @@
+// Button color generator for primary and themed buttons
+
+@mixin solid-btn($foreground: $text-gray-dark, $background: #eee) {
+  color: $foreground;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.15);
+  background-color: $background;
+  background-image: linear-gradient(saturate(lighten($background, 13%), 8%), saturate(darken($background, 9%), 5%));
+  border: 1px solid darken($background, 8%);
+
+  .counter {
+    color: saturate(darken($background, 9%), 5%);
+    background: $foreground;
+  }
+
+  &:hover,
+  &:active,
+  &.zeroclipboard-is-hover,
+  &.zeroclipboard-is-active {
+    background-color: darken($background, 10%);
+    background-image: linear-gradient(lighten($background, 8%), darken($background, 13%));
+    border-color: darken($background, 12%);
+  }
+
+  &:active,
+  &.selected,
+  &.zeroclipboard-is-active {
+    background-color: darken($background, 15%);
+    background-image: none;
+    border-color: darken($background, 20%);
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15);
+  }
+
+  &.selected:hover {
+    background-color: darken($background, 20%);
+  }
+
+  &:disabled,
+  &.disabled {
+    &,
+    &:hover {
+      color: $foreground;
+      cursor: default;
+      background-color: mix(#fff, $background, 50%);
+      background-image: linear-gradient(mix(#fff, $background, 60%), mix(#fff, darken($background, 5%), 45%));
+      border-color: mix(#fff, $background, 40%);
+      box-shadow: none;
+    }
+  }
+}
+
+// Button color generator for default-y buttons with grey bgs and colored text, like btn-danger
+
+@mixin inverse-hover-btn($foreground: $text-gray-dark) {
+  color: $foreground;
+
+  &:hover {
+    color: $text-white;
+    background-color: $foreground;
+    background-image: linear-gradient(lighten($foreground, 30%), lighten($foreground, 10%));
+    border-color: $foreground;
+  }
+
+  &:active,
+  &.selected {
+    color: $text-white;
+    background-color: darken($foreground, 5%);
+    background-image: none;
+    border-color: darken($foreground, 8%);
+  }
+
+  &.selected:hover {
+    background-color: darken($foreground, 5%);
+  }
+
+  &:disabled,
+  &.disabled {
+    &,
+    &:hover {
+      color: mix(#fff, $foreground, 50%);
+      background-color: #efefef;
+      background-image: linear-gradient(#fefefe, #efefef);
+      border-color: #e1e1e1;
+    }
+  }
+
+  &:hover,
+  &:active,
+  &.selected {
+    .counter {
+      color: $text-white;
+    }
+  }
+}
+
+// Outline color generator for btn-outline to make the hover state inverse the text and bg colors.
+
+@mixin outline-btn($text-color: $text-blue, $bg-color: $bg-white) {
+  color: $text-color;
+  background-color: $bg-color;
+  background-image: none;
+  border: 1px solid $border-gray;
+
+  .counter {
+    background-color: rgba(0, 0, 0, 0.07);
+  }
+
+  &:hover,
+  &:active,
+  &.selected,
+  &.zeroclipboard-is-hover,
+  &.zeroclipboard-is-active {
+    color: $bg-color;
+    background-color: $text-color;
+    background-image: none;
+    border-color: $text-color;
+
+    .counter {
+      color: $text-color;
+      background-color: $bg-color;
+    }
+  }
+
+  &.selected:hover {
+    background-color: darken($text-color, 5%);
+  }
+
+  &:disabled,
+  &.disabled {
+    &,
+    &:hover {
+      color: $text-gray;
+      background-color: $bg-white;
+      background-image: none;
+      border-color: $border-gray;
+    }
+  }
+}

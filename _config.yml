@@ -14,6 +14,7 @@ exclude:
   - script
   - test
   - vendor
+  - node_modules
 
 permalink: /:path/
 
@@ -34,6 +35,15 @@ gems:
   - jekyll-octicons
   - jekyll-seo-tag
   - jekyll-sitemap
+
+markdown: kramdown
+
+sass:
+  style: :compressed
+  sass_dir: assets/css/
+  load_paths:
+    - node_modules
+    - node_modules/**/*/node_modules
 
 branch: gh-pages
 

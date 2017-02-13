@@ -1,5 +1,8 @@
 # Each piece of content has YAML front matter with these properties:
 
+layout:
+  type: String
+
 title:
   type: String
   required: true
@@ -9,3 +12,9 @@ contents:
 
 description:
   type: String
+
+class:
+  type: String
+
+toc:
+  type: Hash

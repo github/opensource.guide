@@ -1,42 +1,62 @@
 ---
-title: Welcome
+title: Welcome to Open Source Guides
 layout: landing
 ---
 
-<div class="container-narrow text-center landing-intro">
-  <h1>Welcome to the Open Source Guide!</h1>
-  <p class="mb-md-5 lead">
-    If you're interested in launching and growing your own open source project, this is the guide for you.
-  </p>
-  <a href="https://github.com/{{ site.github.repository_nwo }}">View on GitHub {% octicon arrow-right height:26 class:"v-align-middle ml-2 fill-maroon" aria-label:hi %}</a>
-</div>
-
-<div class="container-wide">
-  <div class="clearfix gut-3 card-landing">
-
-      {% for article in site.articles %}
-    <div class="col-md-4 mt-4 mt-lg-7">
-        <div class="card p-4">
-          <h3>
-            <a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a>
-          </h3>
-          <p class="mb-0">
-          {{ article.description }}
-          </p>
-        </div>
+<nav class="main-nav">
+  <div class="container-lg edged mx-auto clearfix">
+    <div class="float-sm-right">
+      <ul class="main-links border-left border-bottom border-sm-0 list-style-none">
+        <li class="d-inline-block border-right">
+          <a class="d-block p-3 p-sm-4" href="https://github.com/github/open-source-guide#open-source-guides">About</a>
+        </li>
+        <li class="d-inline-block border-right">
+          <a class="d-block p-3 p-sm-4" href="https://github.com/github/open-source-guide/blob/gh-pages/CONTRIBUTING.md">Contribute</a>
+        </li>
+        <li class="d-inline-block border-right">
+          <a class="d-block p-3 p-sm-4" href="">{% octicon search height:16 class:"mr-2 fill-gray" aria-label:hi %}Search</a>
+        </li>
+      </ul>
     </div>
+  </div>
+</nav>
+
+<div class="bg-gray-light">
+
+  <header class="py-4 py-md-6">
+    <div class="container-lg mx-auto text-center px-3 pt-6">
+      <h1 class="alt-h1">Open Source Guides</h1>
+      <p class="alt-lead text-gray mb-md-5 col-md-8 mx-auto">
+        Open source software is made by people just like you. Learn how to launch and grow your project.
+      </p>
+    </div>
+  </header>
+
+  <div class="container-lg px-3 pb-6">
+    <div class="clearfix gut-md d-flex flex-wrap flex-items-stretch pb-md-6">
+      {% for article in site.articles %}
+      <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">
+        <a href="{{ site.baseurl }}{{ article.url }}" class="guide-cover {{ article.class }} card height-full d-block">
+
+          <div class="lh-none guide-cover-img pt-4">
+            <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class="" alt="{{ article.title }} illustration">
+          </div>
+
+          <div class="flex-self-end p-4 text-center p-lg-5">
+            <h3 class="alt-h3 text-bold lh-condensed mb-2 text-black">
+              {{ article.title }}
+            </h3>
+            <p class="mb-0 text-gray">
+              {{ article.description }}
+            </p>
+          </div>
+
+        </a>
+      </div>
       {% endfor %}
-
+    </div>
   </div>
-</div><!--end container-wide-->
 
-<div class="container-narrow mb-0 my-4 my-md-7">
-  <div class="border text-center p-3 p-md-4">
-    {% octicon pencil height:22 class:"mr-3 fill-gray" aria-label:hi %}
-    <span class="d-block d-md-inline">This content is open source.</span>
-    <a href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="d-block d-md-inline">
-      Please help improve it.
-    </a>
-  </div>
-  {% include footer.html %}
 </div>
+
+{% include footer.html %}

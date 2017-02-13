@@ -1,0 +1,45 @@
+.toc .card {
+  @include breakpoint(md) {
+    position: absolute;
+    left: 0;
+    right: 0;
+    max-width: 350px;
+  }
+}
+
+.toc-trigger {
+  &:hover {
+    text-decoration: none;
+    cursor: pointer;
+  }
+}
+
+.icon-flip {
+  transition: all 0.5s ease-in-out;
+}
+
+.toc-open .icon-flip {
+  transform: rotate(180deg);
+}
+
+.toc-list {
+  display: none;
+  transition: all 0.5s ease-in-out;
+
+  &.is-shown {
+    display: block;
+  }
+
+  ul {
+    border-bottom: $border;
+    margin-bottom: $spacer-2;
+  }
+
+  a {
+    &:hover {
+      color: #333;
+      border-left: 3px solid $blue;
+      text-decoration: none;
+    }
+  }
+}

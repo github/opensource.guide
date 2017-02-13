@@ -1,7 +1,15 @@
 ---
 title: Your Code of Conduct
-description: Empowering healthy, constructive community behavior through a code of conduct.
+description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+class: coc
+toc:
+  why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
+  establishing-a-code-of-conduct: "Establishing a code of conduct"
+  deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
+  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
 ---
+
+## Why do I need a code of conduct?
 
 A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
 
@@ -11,22 +19,29 @@ A code of conduct empowers you to facilitate healthy, constructive community beh
 
 ## Establishing a code of conduct
 
-In addition to communicating your expectations, a code of conduct tends to describe the following:
+Try to establish a code of conduct as early as possible: ideally, when you first create your project.
 
-* Where the code of conduct takes effect (only on issues and pull requests, or related community activities like events?)
-* Who the code of conduct applies to (community members and maintainers, but what about sponsors?)
+In addition to communicating your expectations, a code of conduct describes the following:
+
+* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
+* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
 * What happens if someone violates the code of conduct
 * How someone can report violations
 
-The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](http://contributor-covenant.org/adopters/), including Kubernetes, Rails, and Swift.
+Wherever you can, use prior art. The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
 
 The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html) are also two good code of conduct examples.
 
 Place a CODE_OF_CONDUCT file in your project's root directory, and link to it from your README, so it's visible to your community.
 
-## Write down how you'll enforce your code of conduct
+## Deciding how you'll enforce your code of conduct
 
-> A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community. - [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+<aside class="pquote">
+  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  <p markdown="1" class="pquote-credit">
+— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+  </p>
+</aside>
 
 You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
 
@@ -38,7 +53,7 @@ You should explain how your code of conduct will be enforced **_before_** a viol
 
 You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
 
-Don't forget that someone might want to report a violation about someone who usually receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
 > Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
 
@@ -56,7 +71,12 @@ The community member in question may be a repeat offender who consistently makes
 
 Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
 
-> Start gathering notes on the patterns you see. Make sure to include references to public archives. Once you've got a good case built, start having private conversations with other project participants. Don't tell them what you've observed; instead, first ask them what they've observed. - @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#difficult-people)
+<aside class="pquote">
+  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  <p markdown="1" class="pquote-credit">
+— Stephanie Zven, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
+  </p>
+</aside>
 
 ### Take appropriate action
 
@@ -68,7 +88,7 @@ There are a few ways you might respond to a code of conduct violation:
 
 * **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent first before CCing them.
+* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
 
 Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
 
@@ -78,6 +98,6 @@ Sometimes, a resolution cannot be reached. The person in question may become agg
 
 Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
 
-## Help encourage the behavior your want to see in the world
+## Encourage the behavior you want to see in the world 🌎
 
-It's not always easy to implement or enforce your code of conduct, but this type of work can help encourage a healthy and active community. When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by the rest of the community, you risk losing the contributions of many others, some of whom you may never even meet. By adopting a code of conduct, you're helping make your community a better place. 🙏
+When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
