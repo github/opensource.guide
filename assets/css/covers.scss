@@ -15,8 +15,16 @@
 
 .home-cover-img {
   height: 200px;
+
+  @include breakpoint(sm) {
+    height: 200px;
+  }
+  @include breakpoint(lg) {
+    height: 300px;
+  }
   img {
     max-height: 100%;
+    padding: $spacer-3 0;
   }
 }
 
@@ -103,7 +111,7 @@
 
 .guide-cover.best-practices {
   img {
-    padding: $spacer-4 $spacer-6;
+
   }
 }
 
@@ -119,7 +127,7 @@
 
 .guide-cover.getting-paid {
   img {
-    padding: $spacer-4 60px;
+
   }
 }
 

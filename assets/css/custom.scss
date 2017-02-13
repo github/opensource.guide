@@ -220,7 +220,12 @@ blockquote {
 }
 
 .mc-field-group {
-  .form-input{
+  .form-input {
+    border: $border;
     height: 40px;
   }
+}
+
+.little-illo {
+  max-height: 50px;
 }
