@@ -206,7 +206,7 @@ Link to your CONTRIBUTING file from your README, so more people see it. If you [
 
 Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
 
-For more information, check out our ["Code of Conduct" guide](../code-of-conduct/).
+For more information, check out our [Code of Conduct guide](../code-of-conduct/).
 
 In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
 
