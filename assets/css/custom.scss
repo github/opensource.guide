@@ -87,6 +87,10 @@ blockquote {
   @include breakpoint(lg) { font-size: 26px; }
 }
 
+.p-large {
+  font-size: 16px;
+}
+
 .article-body {
   font-size: 16px;
   padding-top: 100px;

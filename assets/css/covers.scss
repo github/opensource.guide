@@ -13,6 +13,13 @@
   }
 }
 
+.home-cover-img {
+  height: 200px;
+  img {
+    max-height: 100%;
+  }
+}
+
 .article-header.metrics {
   padding-bottom: 0;
   .cover-img {
