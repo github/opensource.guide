@@ -1,5 +1,5 @@
 ---
-title: The Beginner's Guide to Open Sourcing&nbsp;a&nbsp;Project
+title: Starting an Open Source Project
 description: Learn more about the world of open source and get ready to launch your own project.
 class: beginners
 toc:
@@ -132,7 +132,7 @@ Legal work is no fun. The good news is that you can copy and paste an existing l
 
 When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
 
-![pick a license](/assets/images/beginners-guide/repository-license-picker.png)
+![pick a license](/assets/images/starting-a-project/repository-license-picker.png)
 
 If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
 
@@ -191,7 +191,7 @@ For more help with writing your CONTRIBUTING file, check out @nayafia's [contrib
 
 Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
 
-![contributing guidelines](/assets/images/beginners-guide/Contributing-guidelines.jpg)
+![contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
 ### Establishing a code of conduct
 
