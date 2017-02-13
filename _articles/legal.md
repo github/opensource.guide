@@ -21,7 +21,7 @@ Sharing your creative work with the world can be an exciting and rewarding exper
 
 Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
 
-In general, that's a good thing. It means that nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
+In general, that means nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
 
 Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
 
