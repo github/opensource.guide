@@ -94,7 +94,7 @@ Examples of community metrics that you may want to regularly track include:
 
 * **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
 
-<aside class="pquote">
+<aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/4483" class="pquote-avatar" alt="avatar">
   Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
   <p markdown="1" class="pquote-credit">
