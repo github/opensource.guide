@@ -5,7 +5,7 @@ layout: landing
 
 {% include nav.html %}
 
-<div class="bg-gray-light">
+<div id="content" class="bg-gray-light">
 
   <header class="py-4 py-md-6">
     <div class="container-lg mx-auto text-center px-3 pt-6">
@@ -24,7 +24,8 @@ layout: landing
       {% endfor %}
     </div>
   </div>
-
 </div>
+
+{% include search-results.html %}
 
 {% include footer.html %}

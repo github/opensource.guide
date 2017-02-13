@@ -8,6 +8,7 @@
       <div id="content">
         {{ content }}
       </div>
+      {% include search-results.html %}
     </main>
     {% include footer.html %}
     <script src="{{ "/js/search.js" | prepend: site.baseurl }}"></script>
