@@ -6,6 +6,7 @@ toc:
   setting-your-project-up-for-success: "Setting your project up for success"
   growing-your-community: "Growing your community"
   resolving-conflicts: "Resolving conflicts"
+order: 4
 ---
 
 ## Setting your project up for success

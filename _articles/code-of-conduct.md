@@ -7,6 +7,7 @@ toc:
   establishing-a-code-of-conduct: "Establishing a code of conduct"
   deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
   enforcing-your-code-of-conduct: "Enforcing your code of conduct"
+order: 8
 ---
 
 ## Why do I need a code of conduct?
