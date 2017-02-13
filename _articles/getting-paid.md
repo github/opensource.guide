@@ -8,8 +8,7 @@ toc:
   finding-funding-for-your-project: "Finding funding for your project"
   building-a-case-for-financial-support: "Building a case for financial support"
 order: 7
-image:
-  twitter: {{ site.baseurl }}/assets/images/cards/getting-paid.png"
+image: /assets/images/cards/getting-paid.png
 ---
 
 ## Why some people seek financial support

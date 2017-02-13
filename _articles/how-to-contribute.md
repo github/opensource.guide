@@ -10,8 +10,7 @@ toc:
   how-to-submit-a-contribution: "How to submit a contribution"
   what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 order: 1
-image:
-  twitter: {{ site.baseurl }}/assets/images/cards/contribute.png"
+image: /assets/images/cards/contribute.png
 ---
 
 ## Why contribute to open source?
