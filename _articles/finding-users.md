@@ -1,5 +1,5 @@
 ---
-title: Finding Users For Your Open Source Project
+title: Finding Users For Your Open Source&nbsp;Project
 description: A guide to getting your project in the hands of happy users.
 class: finding
 toc:
