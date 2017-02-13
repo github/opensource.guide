@@ -9,6 +9,7 @@ toc:
   leverage-your-community: "Leverage your community"
   bring-in-the-robots: "Bring in the robots"
   its-okay-to-hit-pause: "It’s okay to hit pause"
+order: 5
 ---
 
 ## What does it mean to be a maintainer?

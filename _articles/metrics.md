@@ -8,6 +8,7 @@ toc:
   usage: "Usage"
   retention: "Retention"
   maintainer-activity: "Maintainer activity"
+order: 9
 ---
 
 ## Why measure anything?

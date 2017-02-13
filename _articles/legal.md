@@ -10,6 +10,7 @@ toc:
   what-if-i-want-to-change-the-license-of-my-project: "What if I want to change the license of my project?"
   does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
   what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
+order: 10
 ---
 
 ## Understanding the legal implications of open source

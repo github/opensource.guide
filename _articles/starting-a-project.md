@@ -8,6 +8,7 @@ toc:
   launching-your-own-open-source-project: "Launching your own open source project"
   naming-and-branding-your-project: "Naming and branding your project"
   your-pre-launch-checklist: "Your pre-launch checklist"
+order: 2
 ---
 
 ## The "what" and "why" of open source

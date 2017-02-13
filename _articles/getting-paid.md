@@ -7,6 +7,7 @@ toc:
   funding-your-own-time: "Funding your own time"
   finding-funding-for-your-project: "Finding funding for your project"
   building-a-case-for-financial-support: "Building a case for financial support"
+order: 7
 ---
 
 ## Why some people seek financial support
