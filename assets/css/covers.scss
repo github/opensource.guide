@@ -17,7 +17,7 @@
   height: 200px;
 
   @include breakpoint(lg) {
-    height: 270px;
+    height: 250px;
   }
   img {
     max-height: 100%;
