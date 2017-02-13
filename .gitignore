@@ -6,5 +6,6 @@ _site/
 bin
 node_modules
 /vendor
+Gemfile.lock
 
 css/main.scss

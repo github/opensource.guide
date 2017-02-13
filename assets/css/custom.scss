@@ -24,6 +24,7 @@ blockquote {
   border: $border;
   padding: $spacer-3;
   margin-top: $spacer-4;
+  margin-bottom: $spacer-4;
   text-align: center;
   font-weight: 300;
 
@@ -84,6 +85,10 @@ blockquote {
   font-weight: $font-weight-light;
   @include breakpoint(md) { font-size: 24px; }
   @include breakpoint(lg) { font-size: 26px; }
+}
+
+.p-large {
+  font-size: 16px;
 }
 
 .article-body {
@@ -180,7 +185,7 @@ blockquote {
     }
   }
 
-  ul {
+  ul, ol {
     padding-left: 1em;
     margin-bottom: $spacer-3;
   }
@@ -207,15 +212,13 @@ blockquote {
   fill: $blue !important;
 }
 
-.guide-cover {
-  &:hover {
-    box-shadow: $box-shadow-large;
-    text-decoration: none;
+.mc-field-group {
+  .form-input {
+    border: $border;
+    height: 40px;
   }
 }
 
-.mc-field-group {
-  .form-input{
-    height: 40px;
-  }
+.little-illo {
+  max-height: 50px;
 }

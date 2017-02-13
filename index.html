@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Welcome to Open Source Guides
 layout: landing
 ---
 
@@ -8,7 +8,7 @@ layout: landing
     <div class="float-sm-right">
       <ul class="main-links border-left border-bottom border-sm-0 list-style-none">
         <li class="d-inline-block border-right">
-          <a class="d-block p-3 p-sm-4" href="">About</a>
+          <a class="d-block p-3 p-sm-4" href="https://github.com/github/open-source-guide#open-source-guides">About</a>
         </li>
         <li class="d-inline-block border-right">
           <a class="d-block p-3 p-sm-4" href="https://github.com/github/open-source-guide/blob/gh-pages/CONTRIBUTING.md">Contribute</a>
@@ -23,31 +23,32 @@ layout: landing
 
 <div class="bg-gray-light">
 
-  <header class="py-6">
+  <header class="py-4 py-md-6">
     <div class="container-lg mx-auto text-center px-3 pt-6">
       <h1 class="alt-h1">Open Source Guides</h1>
       <p class="alt-lead text-gray mb-md-5 col-md-8 mx-auto">
-        If you're interested in launching and growing your own open source project, this is the guide for you.
+        Open source software is made by people just like you. Learn how to launch and grow your project.
       </p>
     </div>
   </header>
 
   <div class="container-lg px-3 pb-6">
-    <div class="clearfix gut-lg d-flex flex-wrap flex-items-stretch pb-md-6">
-      {% for article in site.articles %}
-      <div class="col-md-6 mt-4 mt-lg-7">
+    <div class="clearfix gut-md d-flex flex-wrap flex-items-stretch pb-md-6">
+      {% assign articles = site.articles | sort: 'order' %}
+      {% for article in articles %}
+      <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">
         <a href="{{ site.baseurl }}{{ article.url }}" class="guide-cover {{ article.class }} card height-full d-block">
 
-          <div class="lh-none border-bottom bg-gray-light">
+          <div class="lh-none guide-cover-img pt-4">
             <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class="" alt="{{ article.title }} illustration">
           </div>
 
-          <div class="flex-self-end p-4">
-            <h3 class="alt-h3 lh-condensed mb-3 text-black">
+          <div class="flex-self-end p-4 text-center p-lg-5">
+            <h3 class="alt-h3 text-bold lh-condensed mb-2 text-black">
               {{ article.title }}
             </h3>
             <p class="mb-0 text-gray">
-            {{ article.description }}
+              {{ article.description }}
             </p>
           </div>
 
