@@ -22,6 +22,7 @@ With more information, you can:
 * Figure out where new users come from
 * Identify, and decide whether to support, an outlier use case or functionality
 * Quantify your project's popularity
+* Understand how project is used
 * Raise money through sponsorships
 
 For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
@@ -72,6 +73,10 @@ If usage is low compared to the number of people discovering your project, there
 For example, if your project lands on the front page of Hacker News, you'll probably see a spike in discovery (traffic), but a lower conversion rate, because you're reaching everyone on Hacker News. If your Ruby project is featured at a Ruby conference, however, you're more likely to see a high conversion rate from a targeted audience.
 
 Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you're facing.
+
+Once you know that people are using your project, you might want to try to figure out what they are doing with it.  Are they building on it by forking your code and adding features?  Are they using it for science or business?
+
+In order to determine this, you can use tools like [depsy](http://depsy.org), or you can [publish your software and make it citable](https://guides.github.com/activities/citable-code/).  Then if you also ask users to cite your code, particularly in academia, you can use existing citation tools (such as [Google Scholar](https://scholar.google.com)) to understand what users say they are doing with it.
 
 ## Retention
 
