@@ -76,9 +76,18 @@ Your **company** may have specific licensing requirements for its open source pr
 
 When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you'd like to see other options, check out [choosealicense.com](https://choosealicense.com) to find the right license for your project, even if it [isn't software](https://choosealicense.com/non-software/).
 
+
 ## What if I want to change the license of my project?
 
 Most projects never need to change licenses. But occasionally circumstances change.
+
+<aside markdown="1" class="pquote">
+  <img src="https://ischool.illinois.edu/sites/default/files/styles/resize-1800w/public/mturk.png" height="400" class="pquote-avatar" alt="avatar">
+  Changing a license can be complicated, but sometimes, it's needed.
+  <p markdown="1" class="pquote-credit">
+— Matt Turk, ["Relicensing yt from GPLv3 to BSD"](https://blog.yt-project.org/post/Relicensing/)
+  </p>
+</aside>
 
 For example, as your project grows it adds dependencies or users, or your company changes strategies, any of which could require or want a different license. Also, if you neglected to license your project from the start, adding a license is effectively the same as changing licenses. There are three fundamental things to consider when adding or changing a your project's license:
 
