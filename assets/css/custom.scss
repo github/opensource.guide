@@ -192,7 +192,7 @@ blockquote {
     li { margin-bottom: $spacer-2; }
 
     @include breakpoint(md) {
-      padding-left: $spacer-4;
+      padding-left: 2em;
     }
   }
 
