@@ -105,6 +105,8 @@ Finally, depending on your personal circumstances, you can try raising money ind
 * @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](http://redux.js.org/)
 * @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
+For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+
 ## Finding funding for your project
 
 Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
@@ -123,7 +125,7 @@ As open source's popularity increases, finding funding for projects is still exp
 * **Apply for grant funding.** Some software foundations and companies offer grants for open source work, such as the [Python Software Foundation](https://www.python.org/psf/grants/), [Mozilla Foundation](https://www.mozilla.org/en-US/grants/), and [Stripe](https://stripe.com/blog/open-source-retreat-2016).
 * **Raise sponsorships from companies and individual donors** through a software foundation. Or **start a business** to support the project.
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+For more detailed options and case studies, @danielskatz built off @nayafia's [guide](https://github.com/nayafia/lemonade-stand) to [describe sustainability models](https://github.com/danielskatz/sustaining-research-projects) for how projects can find the resources (people, funding) needed to continue their open source work over time. Different models are probably more or less appropriate for different types of projects, or projects that are at different points in their lifecycle, so consider where your project is and what would best support it to figure out which option works best for it.
 
 ## Building a case for financial support
 
