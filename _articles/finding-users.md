@@ -144,7 +144,7 @@ Sometimes, these relationships can even lead to official partnerships with the w
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue looking for find ways to help others.
+It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue looking for ways to help others.
 
 There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and reputation building work never ends.
 
