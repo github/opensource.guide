@@ -11,6 +11,7 @@ toc:
   does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
   what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
 order: 10
+image: /assets/images/cards/legal.png
 ---
 
 ## Understanding the legal implications of open source
@@ -47,7 +48,7 @@ You're in luck, because today, open source licenses are standardized and easy to
 
 When you create a new project on GitHub, you'll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
 
-<aside class="pquote">
+<aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/282759?v=3&s=400" class="pquote-avatar" alt="avatar">
   A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
   <p markdown="1" class="pquote-credit">
@@ -97,7 +98,7 @@ Contributor agreements can create additional administrative work for project mai
 
 In addition, contributor agreements are sometimes perceived as not friendly to the project's community. They can also increase the barrier to community participation by adding more paperwork than some believe is necessary.
 
-<aside class="pquote">
+<aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/328614?v=3&s=460" class="pquote-avatar" alt="avatar">
     We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base.
   <p markdown="1" class="pquote-credit">
@@ -138,7 +139,7 @@ Longer term, your legal team can do more to help the company get more from its i
 
 * **Employee contribution policies:** Consider developing a corporate policy that specifies how your employees contribute to open source projects. A clear policy will reduce confusion among your employees and help them contribute to open source projects in the company's best interest, whether as part of their jobs or in their free time. A good example is Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
-<aside class="pquote">
+<aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/214698?v=3&s=400" class="pquote-avatar" alt="avatar">
   Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention.
   <p markdown="1" class="pquote-credit">
@@ -149,9 +150,8 @@ Longer term, your legal team can do more to help the company get more from its i
 * **What to release:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) If your legal team understands and is invested in your company's open source strategy, they'll be best able to help rather than hinder your efforts.
 * **Compliance:** Even if your company doesn't release any open source projects, it uses others' open source software. [Awareness and process](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) can prevent headaches, product delays, and lawsuits.
 
-<aside class="pquote">
-  <img src="/assets/images/legal/heathermeeker.jpg" class="pquote-avatar" alt="avatar">
-  Organizations must have a license and compliance strategy in place that fits both "permissive" and "copyleft" categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
+<aside markdown="1" class="pquote">
+  Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>

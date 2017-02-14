@@ -8,6 +8,7 @@ toc:
   deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
   enforcing-your-code-of-conduct: "Enforcing your code of conduct"
 order: 8
+image: /assets/images/cards/coc.png
 ---
 
 ## Why do I need a code of conduct?
@@ -37,7 +38,7 @@ Place a CODE_OF_CONDUCT file in your project's root directory, and link to it fr
 
 ## Deciding how you'll enforce your code of conduct
 
-<aside class="pquote">
+<aside markdown="1" class="pquote">
   A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
@@ -72,7 +73,7 @@ The community member in question may be a repeat offender who consistently makes
 
 Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
 
-<aside class="pquote">
+<aside markdown="1" class="pquote">
   Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zven, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)

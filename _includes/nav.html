@@ -1,5 +1,12 @@
 <nav class="main-nav">
-  <div class="container-lg edged mx-auto clearfix">
+  <div class="search border-bottom">
+    <div class="container-lg">
+      <form id="search-form" class="d-inline-block" action="{{ "/search/" | prepend:site.baseurl }}" data-content-url="{{ "/search/content.json" | prepend:site.baseurl }}" method="get">
+        <input class="form-control form-control-borderless py-3 py-sm-4" type="text" id="search-box" name="q" placeholder="Search…">
+      </form>
+    </div>
+  </div>
+  <div class="container-lg mx-auto clearfix">
     <div class="float-sm-right">
       <ul class="main-links border-left border-bottom border-sm-0 list-style-none">
         <li class="d-inline-block border-right">
@@ -8,16 +15,17 @@
         <li class="d-inline-block border-right">
           <a class="d-block p-3 p-sm-4" href="https://github.com/github/open-source-guide/blob/gh-pages/CONTRIBUTING.md">Contribute</a>
         </li>
+        <li class="d-inline-block border-right">
+          <a class="d-block p-3 p-sm-4" href="#">
+            {% octicon search height:16 class:"mr-2 fill-gray d-inline" aria-label:mag-glass %} Search
+          </a>
+        </li>
       </ul>
     </div>
     <div class="float-sm-left pl-3 breadcrumb">
       <p class="d-inline-block my-0 py-3 py-sm-4 text-gray">
         <a href="{{ site.baseurl }}" class="text-gray">Open Source Guides</a>  /
       </p>
-      <form id="search-form" class="d-inline-block" action="{{ "/search/" | prepend:site.baseurl }}" data-content-url="{{ "/search/content.json" | prepend:site.baseurl }}" method="get">
-        {% octicon search height:16 class:"ml-2 fill-gray" aria-label:hi %}
-        <input class="form-control form-control-borderless py-3 py-sm-4" type="text" id="search-box" name="q" placeholder="Search…">
-      </form>
     </div>
   </div>
 </nav>

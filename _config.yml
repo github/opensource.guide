@@ -26,6 +26,10 @@ collections:
 defaults:
   - scope:
       path: ""
+    values:
+      image: /assets/images/cards/default.png
+  - scope:
+      path: ""
       type: articles
     values:
       layout: article
