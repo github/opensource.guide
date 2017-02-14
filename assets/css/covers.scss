@@ -13,44 +13,68 @@
   }
 }
 
+.guide-cover-img {
+  height: 200px;
+
+  @include breakpoint(lg) {
+    height: 250px;
+  }
+  img {
+    max-height: 100%;
+    padding: $spacer-3 0;
+  }
+}
+
+.guide-cover {
+  &:hover {
+    box-shadow: $box-shadow-large;
+    text-decoration: none;
+  }
+}
+
+// Custom tweaking for each illustration:
+
 .article-header.metrics {
+  padding-bottom: 0;
+  .cover-img {
+    margin-bottom: -25px;
+  }
   @include breakpoint(sm) {
     .cover-img {
-      max-width: 650px;
-      margin-top: -115px;
+      max-width: 600px;
+      margin-top: -35px;
+      margin-bottom: -43px;
     }
   }
 }
 
 .article-header.finding {
+  padding-bottom: 0;
   @include breakpoint(sm) {
     .cover-img {
-      width: 900px;
-      margin-top: -110px;
-      margin-left: -50px;
-      margin-right: -50px;
+      margin-top: -30px;
     }
   }
 }
 
 .article-header.building {
+  padding-bottom: 0;
   @include breakpoint(md) {
     .cover-img {
-      margin-top: -100px;
+      margin-top: -10px;
     }
   }
 }
 
 .article-header.contribute {
-  @include breakpoint(sm) {
-    .cover-img {
-      margin-bottom: -50px;
-    }
+  .cover-img {
+    margin-bottom: -80px;
   }
   @include breakpoint(md) {
     .cover-img {
-      margin-top: -10px;
-      margin-bottom: -100px;
+      max-width: 700px;
+      margin-top: 80px;
+      margin-bottom: -90px;
     }
   }
 }
@@ -58,31 +82,48 @@
 .article-header.beginners {
   @include breakpoint(md) {
     .cover-img {
-      margin-top: -20px;
-      margin-bottom: -50px;
+      margin-top: 100px;
+      margin-bottom: -80px;
       max-width: 720px;
     }
+  }
+}
+
+.guide-cover.beginners {
+  img {
+    padding-left: $spacer-5;
+    padding-right: $spacer-5;
   }
 }
 
 .article-header.legal {
   .cover-img {
-    margin-bottom: -50px;
+    margin-top: -20px;
+    margin-bottom: -70px;
   }
   @include breakpoint(md) {
     .cover-img {
-      margin-top: -110px;
-      margin-bottom: -50px;
+      margin-top: -20px;
+      margin-bottom: -70px;
       max-width: 720px;
     }
   }
 }
 
+.guide-cover.legal {
+  img {
+    padding-left: $spacer-5;
+    padding-right: $spacer-5;
+  }
+}
+
 .article-header.best-practices {
+  .cover-img {
+    max-width: 500px;
+  }
   @include breakpoint(md) {
     .cover-img {
-      max-width: 600px;
-      margin-top: -100px;
+      margin-top: -20px;
       margin-bottom: -30px;
     }
   }
@@ -90,22 +131,65 @@
 
 .guide-cover.best-practices {
   img {
-    padding: $spacer-4 $spacer-6;
+
   }
 }
 
 .article-header.getting-paid {
   @include breakpoint(md) {
     .cover-img {
-      max-width: 660px;
-      margin-top: -40px;
-      margin-bottom: -20px;
+      max-width: 550px;
+      margin-top: 120px;
+      margin-bottom: -40px;
     }
   }
 }
 
 .guide-cover.getting-paid {
   img {
-    padding: $spacer-4 60px;
+
+  }
+}
+
+.article-header.coc {
+  .cover-img {
+    margin-bottom: -70px;
+  }
+  @include breakpoint(md) {
+    .cover-img {
+      max-width: 650px;
+      margin-top: 120px;
+      margin-bottom: -91px;
+    }
+  }
+}
+
+.guide-cover.coc {
+  img {
+    padding-left: $spacer-5;
+    padding-right: $spacer-5;
+  }
+}
+
+.article-header.leadership {
+  .cover-img {
+    margin-bottom: -60px;
+  }
+  @include breakpoint(md) {
+    .cover-img {
+      max-width: 650px;
+      margin-top: 80px;
+      margin-bottom: -60px;
+      img {
+        margin-left: -60px;
+      }
+    }
+  }
+}
+
+.guide-cover.leadership {
+  img {
+    padding-left: $spacer-5;
+    padding-right: $spacer-5;
   }
 }
