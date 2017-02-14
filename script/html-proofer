@@ -4,8 +4,9 @@ require "bundler/setup"
 require "html-proofer"
 
 url_ignores = [
-  /github\.com\/github\/open-source-guide/, # not yet public
-  'https://karissa.github.io/post/okf-de'
+  'https://karissa.github.io/post/okf-de',
+  'https://this-week-in-rust.org/',
+  'https://www.vagrantup.com/'
 ]
 
 HTMLProofer::Runner.new(["_site"],
