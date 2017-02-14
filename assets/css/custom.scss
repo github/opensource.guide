@@ -228,3 +228,11 @@ blockquote {
 .little-illo {
   max-height: 50px;
 }
+
+// Navbar spacing fix
+nav li:first-of-type {
+  margin-left: 0;
+}
+nav li {
+  margin-left: -4px;
+}
