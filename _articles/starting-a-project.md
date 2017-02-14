@@ -53,7 +53,7 @@ Open source isn't just for software, either. You can open source everything from
 
 ### Does open source mean "free of charge"?
 
-One of open source's biggest draws is that it does not cost money. "Free of charge". however, is a byproduct of open source's overall value.
+One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
 
 Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
 
