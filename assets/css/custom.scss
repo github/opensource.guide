@@ -188,6 +188,12 @@ blockquote {
   ul, ol {
     padding-left: 1em;
     margin-bottom: $spacer-3;
+
+    li { margin-bottom: $spacer-2; }
+
+    @include breakpoint(md) {
+      padding-left: $spacer-4;
+    }
   }
 
   img {
