@@ -111,6 +111,13 @@ Beyond arrangements for individual contributors, sometimes projects raise money 
 
 Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
 
+A number of platforms exist to help fund Open Source contributors:
+
+* **[Gratipay](https://gratipay.com/),** offers tools that are 100% focused on supporting open teams to build open source
+* **[Open Collective](https://opencollective.com/),** lets you create open group projects and fund them with transparency
+* **[Bounty Source](https://www.bountysource.com/),** has issue-based rewards for contributors and crowdfunding tools for open source
+* **[Patreon](https://www.patreon.com/),** is a platform for funding creators and allows you to repay your supporters with unique rewards
+
 A few examples of projects with organizational funding include:
 
 * **[webpack](https://github.com/webpack),** which raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
