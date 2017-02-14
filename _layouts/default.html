@@ -3,10 +3,15 @@
   {% include head.html %}
   <body>
     <main>
+      {% include nav.html %}
+
       <div id="content">
         {{ content }}
       </div>
+      {% include search-results.html %}
     </main>
+    {% include footer.html %}
+    <script src="{{ "/js/search.js" | prepend: site.baseurl }}"></script>
     <script src="{{ site.baseurl }}/js/vendor/anchor-js/anchor.min.js"></script>
     <script>
       anchors.options = {

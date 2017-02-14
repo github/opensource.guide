@@ -22,9 +22,9 @@ function setup() {
   }
 
   // Listen for changes to search box
-  searchBox.addEventListener('keyup', function(e) {
+  searchBox.addEventListener('keyup', debounce(function(e) {
     search(searchBox.value);
-  });
+  }, 250));
 }
 
 function search(searchTerm) {
@@ -47,11 +47,12 @@ function search(searchTerm) {
 
 function displaySearchResults(results) {
   var searchResults = document.getElementById('search-results');
+  searchResults.innerHTML = results.join("");
 
   if (results.length) {
-    searchResults.innerHTML = results.join("");
+    document.body.classList.remove('no-search-results');
   } else {
-    searchResults.innerHTML = '<li>No results found</li>';
+    document.body.classList.add('no-search-results');
   }
 }
 
@@ -97,5 +98,20 @@ function maintainHistoryState(event) {
     search(event.state.search);
   }
 }
+
+function debounce(func, wait, immediate) {
+	var timeout;
+	return function() {
+		var context = this, args = arguments;
+		var later = function() {
+			timeout = null;
+			if (!immediate) func.apply(context, args);
+		};
+		var callNow = immediate && !timeout;
+		clearTimeout(timeout);
+		timeout = setTimeout(later, wait);
+		if (callNow) func.apply(context, args);
+	};
+};
 
 })();
