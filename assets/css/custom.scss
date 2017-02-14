@@ -230,6 +230,9 @@ blockquote {
 }
 
 // Navbar spacing fix
+nav li:first-of-type {
+  margin-left: 0;
+}
 nav li {
-  float: left;
+  margin-left: -4px;
 }
