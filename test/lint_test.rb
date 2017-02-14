@@ -4,6 +4,7 @@ describe "lint test" do
 
   pages.each do |page|
     next unless page["path"].match(/\.md$/)
+    next if page["path"] == 'index.md'
 
     describe page["path"] do
 

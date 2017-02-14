@@ -43,7 +43,7 @@ layout: landing
             <h3 class="alt-h3 text-bold lh-condensed mb-2 text-black">
               {{ article.title }}
             </h3>
-            <p class="mb-0 text-gray">
+            <p markdown="1" class="mb-0 text-gray">
               {{ article.description }}
             </p>
           </div>
