@@ -13,3 +13,7 @@ notifications:
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+cache:
+  bundler: true
+  directories:
+    - node_modules
