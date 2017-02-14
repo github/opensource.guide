@@ -19,7 +19,7 @@ Our goal is for this project to reflect community best practices, so we'd love y
 
 ## Licenses
 
-Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), which gives you permission to use content for almost any purpose but does not grant you any trademark permissions, so long as you note the license and give credit, such as follows:
+Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), which gives you permission to use content for almost any purpose (but does not grant you any trademark permissions), so long as you note the license and give credit, such as follows:
 
 > Content based on
 > <a href="https://github.com/github/open-source-guide">github.com/github/open-source-guide</a>
