@@ -44,7 +44,7 @@ layout: landing
               {{ article.title }}
             </h3>
             <p class="mb-0 text-gray">
-              {{ article.description }}
+              {{ article.description | markdownify }}
             </p>
           </div>
 
