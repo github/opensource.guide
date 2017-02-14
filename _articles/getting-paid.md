@@ -59,7 +59,7 @@ Paid work also enables people from different walks of life to make meaningful co
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as an contributor, or you can find organizational funding for the project.
+If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
 
 ## Funding your own time
 
