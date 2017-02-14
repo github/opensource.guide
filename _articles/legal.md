@@ -83,7 +83,7 @@ Most projects never need to change licenses. But occasionally circumstances chan
 
 <aside markdown="1" class="pquote">
   <img src="https://ischool.illinois.edu/sites/default/files/styles/resize-1800w/public/mturk.png" height="400" class="pquote-avatar" alt="avatar">
-  Changing a license can be complicated, but sometimes, it's needed.
+   ... we can do more to support goals of open science, open source, and build a stronger community by this relicensing.
   <p markdown="1" class="pquote-credit">
 — Matt Turk, ["Relicensing yt from GPLv3 to BSD"](https://blog.yt-project.org/post/Relicensing/)
   </p>
