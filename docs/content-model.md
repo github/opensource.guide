@@ -16,7 +16,7 @@ Concept guides dive deep into a specific topic (ex. "Building a community", "Mea
 
 ## FAQ
 
-An FAQ tackles a complex topic where a reader is likely coming in with specific questions (ex. "The legal side of open source", "Leadership & governance"). Whereas concept guides aim to teach the entire concept, an FAQ respects a reader's desire to jump around, get the information they need, and leave. The table of contents is especially important in an FAQ, because the page isn't meant to be read from beginning to end. FAQs might also be longer than a concept guide, because of the jump-around nagivation.
+An FAQ tackles a complex topic where a reader is likely coming in with specific questions (ex. "The legal side of open source", "Leadership & governance"). Whereas concept guides aim to teach the entire concept, an FAQ respects a reader's desire to jump around, get the information they need, and leave. The table of contents is especially important in an FAQ, because the page isn't meant to be read from beginning to end. FAQs might also be longer than a concept guide, because of the jump-around navigation.
 
 ## Design Elements
 
