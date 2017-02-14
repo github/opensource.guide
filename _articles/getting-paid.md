@@ -63,7 +63,7 @@ If you're looking for financial support, there are two paths to consider. You ca
 
 ## Funding your own time
 
-Today, many people get paid to work part- or full-time to work on open source. The most common way to get paid for your time is to talk to your employer.
+Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
 
 It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
 
