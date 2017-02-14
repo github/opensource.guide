@@ -17,7 +17,7 @@ var store = {
 {% endfor %}
 };
 
-// Initalize lunr
+// Initialize lunr
 var idx = lunr(function () {
   this.ref('url');
   this.field('title', { boost: 10 });
