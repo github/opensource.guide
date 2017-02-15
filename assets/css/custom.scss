@@ -206,6 +206,10 @@ blockquote {
   @include breakpoint(sm) { border-bottom: none !important;}
 }
 
+.col-border {
+  @include breakpoint(sm) { border-right: 1px #e5e5e5 solid !important; }
+}
+
 .bg-gray-light {
   background-color: #F3F3F3 !important;;
 }
