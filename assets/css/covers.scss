@@ -129,12 +129,6 @@
   }
 }
 
-.guide-cover.best-practices {
-  img {
-
-  }
-}
-
 .article-header.getting-paid {
   @include breakpoint(md) {
     .cover-img {
@@ -142,12 +136,6 @@
       margin-top: 120px;
       margin-bottom: -40px;
     }
-  }
-}
-
-.guide-cover.getting-paid {
-  img {
-
   }
 }
 
