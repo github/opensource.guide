@@ -32,7 +32,7 @@ In addition to communicating your expectations, a code of conduct describes the 
 
 Wherever you can, use prior art. The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html) are also two good code of conduct examples.
+The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
 
 Place a CODE_OF_CONDUCT file in your project's root directory, and link to it from your README, so it's visible to your community.
 
