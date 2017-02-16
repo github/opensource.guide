@@ -52,7 +52,7 @@ If you're writing content, see the [style guide](./docs/styleguide.md) to help y
 
 ## Setting up your environment
 
-This site is powered by [Jekyll](jekyllrb.com). Running it on your local machine requires a working [Ruby](https://www.ruby-lang.org/en/) installation with [Bundler](http://bundler.io/).
+This site is powered by [Jekyll](https://jekyllrb.com/). Running it on your local machine requires a working [Ruby](https://www.ruby-lang.org/en/) installation with [Bundler](http://bundler.io/).
 
 Once you have that set up, run:
 
