@@ -33,7 +33,7 @@ Whether it's coding, user interface design, graphic design, writing, or organizi
 
 ### Meet people who are interested in similar things
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or eating burritos late night over chat.
+Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
 
 ### Find mentors and teach others
 
