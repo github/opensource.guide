@@ -14,11 +14,12 @@ layout: default
         </li>
       </ul>
     </div>
-    <div class="float-sm-left pl-3 breadcrumb">
-      <p class="my-0 py-3 py-sm-4 text-gray">
-        <a href="/" class="text-gray">Open Source Guides</a>  /
-      </p>
-    </div>
+    <nav class="float-sm-left pl-3 breadcrumb" aria-label="Breadcrumb">
+      <ol class="my-0 py-3 py-sm-4 text-gray">
+        <li class="breadcrumb-item"><a href="/" class="text-gray">Open Source Guides</a></li>
+        <li class="breadcrumb-item breadcrumb-item-selected text-gray" aria-current="page">{{ page.title }}</li>
+      </ol>
+    </nav>
   </div>
 </nav>
 
