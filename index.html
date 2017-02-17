@@ -17,7 +17,7 @@ layout: landing
 
   <div class="container-lg px-3 pb-6">
     <div class="gut-md d-flex flex-wrap flex-items-stretch pb-md-6">
-      {% assign articles = site.articles | sort: 'order' %}
+      {% assign articles = site.articles | where: 'locale', site.locale | sort: 'order' %}
       {% for article in articles %}
       <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">
         <a href="{{ site.baseurl }}{{ article.url }}" class="guide-cover {{ article.class }} card height-full d-block">

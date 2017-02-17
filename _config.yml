@@ -28,7 +28,7 @@ permalink: /:path/
 collections:
   articles:
     output: true
-    permalink: /:path/
+    permalink: /:name/
 
 defaults:
   - scope:
