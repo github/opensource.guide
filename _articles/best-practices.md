@@ -214,7 +214,7 @@ One of the most important ways you can automate your project is by adding tests.
 
 Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Here](https://vimeo.com/183360439/e1cd516159) is an example video on how you can use GitHub's [Protected Branches] feature to ensure no change can get merged without your tests passing.
+Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Here](https://vimeo.com/183360439/e1cd516159) is an example video on how you can use GitHub's [Protected Branches](https://github.com/blog/2051-protected-branches-and-required-status-checks) feature to ensure no change can get merged without your tests passing.
 
 If you add tests, make sure to explain how they work in your CONTRIBUTING file.
 
