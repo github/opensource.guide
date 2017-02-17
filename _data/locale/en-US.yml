@@ -2,9 +2,11 @@ nav:
   about: About
   contribute: Contribute
 
-page:
-  index:
-    lead: Open source software is made by people just like you. Learn how to launch and grow your project.
+index:
+  lead: Open source software is made by people just like you. Learn how to launch and grow your project.
+
+article:
+  table_of_contents: Table of Contents
 
 footer:
   contribute:
