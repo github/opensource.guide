@@ -5,13 +5,11 @@
       <div class="col-12 col-sm-6 mb-4 col-border">
         <div class="height-full p-5">
           <img src="{{ site.baseurl }}/assets/images/illos/squirrel.svg" class="little-illo mb-3" alt="squirrel illustration">
-          <h3 class="alt-h3 mb-3">Contribute</h3>
-          <p class="mb-3 p-large">
-            Want to make a suggestion? This content is open source. Help us improve it.
-          </p>
+          <h3 class="alt-h3 mb-3">{{ site.data.locale[site.locale].footer.contribute.heading }}</h3>
+          <p class="mb-3 p-large">{{ site.data.locale[site.locale].footer.contribute.description }}</p>
           <p>
             <a href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}" class="btn btn-outline">
-              Contribute
+              {{ site.data.locale[site.locale].footer.contribute.button }}
             </a>
           </p>
         </div>
@@ -22,12 +20,12 @@
           <form action="//github.us11.list-manage.com/subscribe/post?u=9d7ced8c4bbd6c2f238673f0f&amp;id=b514344ba3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
               <div id="mc_embed_signup_scroll">
                 <img src="{{ site.baseurl }}/assets/images/illos/bird.svg" class="little-illo mb-3" alt="bird illustration">
-              <h3 class="alt-h3 mb-3">Subscribe to updates</h3>
+              <h3 class="alt-h3 mb-3">{{ site.data.locale[site.locale].footer.subscribe.heading }}</h3>
 
               <div class="mc-field-group col-12">
-                  <label for="mce-EMAIL" class="d-none">Email Address</label>
-                  <input type="email" placeholder="Email Address" name="EMAIL" class="form-input required email d-block col-10 mx-auto py-2 px-3 mb-3" id="mce-EMAIL" autocomplete="home email">
-                  <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-outline">
+                  <label for="mce-EMAIL" class="d-none">{{ site.data.locale[site.locale].footer.subscribe.label }}</label>
+                  <input type="email" placeholder="{{ site.data.locale[site.locale].footer.subscribe.label }}" name="EMAIL" class="form-input required email d-block col-10 mx-auto py-2 px-3 mb-3" id="mce-EMAIL" autocomplete="home email">
+                  <input type="submit" value="{{ site.data.locale[site.locale].footer.subscribe.button }}" name="subscribe" id="mc-embedded-subscribe" class="btn btn-outline">
               </div>
               <div id="mce-responses" class="clear">
                   <div class="" id="mce-error-response" style="display:none"></div>

@@ -1,0 +1,17 @@
+nav:
+  about: About
+  contribute: Contribute
+
+page:
+  index:
+    lead: Open source software is made by people just like you. Learn how to launch and grow your project.
+
+footer:
+  contribute:
+    heading: Contribute
+    description: Want to make a suggestion? This content is open source. Help us improve it.
+    button: Contribute
+  subscribe:
+    heading: Subscribe to updates
+    label: Email Address
+    button: Subscribe

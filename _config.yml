@@ -1,5 +1,6 @@
-title: "Open Source Guide"
+title: "Open Source Guides"
 description: "A community guide for open source creators."
+locale: en-US
 
 exclude:
   - bin
@@ -59,3 +60,9 @@ twitter:
 
 facebook:
   publisher: https://www.facebook.com/GitHub/
+
+# See: docs/translations.md
+translations:
+  - locale: en-US
+    name: English (US)
+    repository: github/open-source-guide
