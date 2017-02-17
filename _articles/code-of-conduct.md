@@ -108,7 +108,7 @@ As a maintainer you establish the guidelines for your community and enforce thos
 
 A report of behavior that doesn't *technically* violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
 
-In the end, as a maintainer, it's your community and you set and enforce the standards for acceptable behavior. You have the ability to shape your community values, and participants in your project will expect you to enforce those values in whatever way you see fit.
+In the end, as a maintainer, it's your community and you set and enforce the standards for acceptable behavior. You have the ability to shape your community values, and participants in your project will expect you to enforce those values in a fair and even-handed way.
 
 ## Encourage the behavior you want to see in the world 🌎
 
