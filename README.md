@@ -1,5 +1,7 @@
 # Open Source Guides
 
+[![Build Status](https://travis-ci.org/github/open-source-guide.svg?branch=gh-pages)](https://travis-ci.org/github/open-source-guide)
+
 Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
 
 ## Background
