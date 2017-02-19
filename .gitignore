@@ -1,4 +1,5 @@
 _site/
+build
 .bundle
 .DS_Store
 .jekyll-metadata
@@ -7,5 +8,4 @@ bin
 node_modules
 /vendor
 Gemfile.lock
-
 css/main.scss
