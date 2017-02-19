@@ -21,8 +21,7 @@ const processor = unified()
   .use(replaceCheckboxes)
   .use(fixImages)
   .use(downloadImages)
-  .use(stringify)
-;
+  .use(stringify);
 
 buildBooks([
   '_articles/how-to-contribute.md',
@@ -40,20 +39,19 @@ buildBooks([
 function buildBooks(files) {
   const out = 'assets/ebooks/open-source-guide';
   const tempFile = '_ebook.md';
-  
+
   mkdirp.sync('assets/ebooks');
   mkdirp.sync('.asset-downloads');
 
   let source = files.map(readFile).join('\n\n');
   const { text, promises } = downloadImages(source);
   fs.writeFileSync(tempFile, text);
-  
+
   promises
     .then(() => markdownToEpub(tempFile, `${out}.epub`))
     .then(() => epubToMobi(`${out}.epub`, `${out}.mobi`))
     .then(() => fs.unlinkSync(tempFile))
-    .catch(err => console.error(err))
-  ;
+    .catch(err => console.error(err));
 }
 
 function readFile(file) {
@@ -86,8 +84,7 @@ function markdownToEpub(mdFile, epubFile) {
       fs.unlinkSync(manifestFile);
       if (err) {
         reject(err.stack || err);
-      }
-      else {
+      } else {
         resolve();
       }
     });
@@ -102,8 +99,7 @@ function epubToMobi(epubFile, mobiFile) {
     exec(`${kindlegen} ${epubFile} -c2 -verbose -o ${path.basename(mobiFile)}`, (err, stdout) => {
       if (err && stdout.includes('MOBI file could not be generated because of errors!')) {
         reject(stdout);
-      }
-      else {
+      } else {
         resolve();
       }
     });
@@ -120,13 +116,11 @@ function downloadImages(text) {
         node.url = filepath;
         if (fs.existsSync(filepath)) {
           promises.push(Promise.resolve());
-        }
-        else {
+        } else {
           const promise = download(url)
             .then(data => {
               fs.writeFileSync(filepath, data);
-            })
-          ;
+            });
           promises.push(promise);
         }
       }
@@ -137,8 +131,7 @@ function downloadImages(text) {
   const processor = unified()
     .use(parse)
     .use(image)
-    .use(stringify)
-  ;
+    .use(stringify);
 
   text = processor.process(text).contents;
 
@@ -159,15 +152,14 @@ Replace asides with Markdown blockquotes:
 </aside>
 */
 function replaceAsides(processor) {
-	return ast => visit(ast, 'html', node => {
-		if (node.value.startsWith('<aside')) {
+  return ast => visit(ast, 'html', node => {
+    if (node.value.startsWith('<aside')) {
       node.value = node.value
         .replace(/  <img src="(.*?)"[^>]*>/, '![]($1)\n')
         .replace(/\(\/assets\//, '(./assets/')
         .replace(/<\/?(aside|p).*?>/g, '')
         .trim()
-        .replace(/(^|\n) */g, '\n> ')
-      ;
+        .replace(/(^|\n) */g, '\n> ');
     }
   });
 }
@@ -182,13 +174,12 @@ Replace checkboxes with unordered lists:
 </div>
 */
 function replaceCheckboxes(processor) {
-	return ast => visit(ast, 'html', node => {
-		if (node.value.startsWith('<div')) {
+  return ast => visit(ast, 'html', node => {
+    if (node.value.startsWith('<div')) {
       node.value = node.value
         .replace(/<\/?.*?>/g, '')
         .trim()
-        .replace(/^/, '* ')
-      ;
+        .replace(/^/, '* ');
     }
   });
 }
@@ -198,7 +189,7 @@ function replaceCheckboxes(processor) {
 2. Fix asset paths
 */
 function fixImages(processor) {
-	return ast => visit(ast, 'image', node => {
+  return ast => visit(ast, 'image', node => {
     node.alt = null;
     node.url = node.url.replace(/^\/assets\//, './assets/');
   });
