@@ -15,6 +15,8 @@ var sentenceSpacing = require('retext-sentence-spacing');
 var quotes = require('retext-quotes');
 var words = require('retext-words');
 var repeated = require('retext-repeated-words');
+var spell = require('retext-spell');
+var dictionary = require('dictionary-en-us');
 
 // Util stuff
 var vfile = require('to-vfile');
@@ -30,6 +32,7 @@ var ignore = require('ignore')().add(jekyllConfig.exclude)
 // Prose checking pipeline
 var prose = unified()
   .use(english)
+  .use(spell, dictionary)
   .use(sentenceSpacing, {preferred: 1})
   .use(quotes, {preferred: 'straight'})
   .use(words, {
