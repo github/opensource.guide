@@ -2,7 +2,7 @@
 
 Our vision for Open Source Guides is to provide a jumping off point for individuals, communities, and companies to sustainably embrace open source.
 
-### H1 2017
+### Q1 2017
 
 We started by focusing on open source creators, because they play a critical role in growing healthy projects. Creators help set good examples for contributors and consumers of open source. We also noticed there were very few comprehensive resources aimed at helping creators.
 
@@ -11,7 +11,7 @@ We started by focusing on open source creators, because they play a critical rol
 * [x] Expand [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/) to include community best practices for contributors, and move it to Open Source Guides
 * [ ] Foster healthy community dynamics so the guides become a place to codify community best practices
 
-### H2 2017
+### Q2 2017
 
 We'll improve upon existing content and start to focus on additional content for open source consumers and contributors.
 
