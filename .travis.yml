@@ -17,3 +17,9 @@ cache:
   bundler: true
   directories:
     - node_modules
+# Tell Travis to build gh-pages branch
+# https://docs.travis-ci.com/user/customizing-the-build#Safelisting-or-blocklisting-branches
+branches:
+  only:
+    - gh-pages
+    - /.*/
