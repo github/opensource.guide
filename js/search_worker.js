@@ -3,7 +3,7 @@ layout:
 ---
 // http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/
 
-importScripts("{{ "/js/lunr.min.js" | prepend: site.baseurl }}");
+importScripts("{{ "/js/lunr.min.js" | relative_url }}");
 
 var store = {
 {% for article in site.articles %}
