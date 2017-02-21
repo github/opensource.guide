@@ -17,15 +17,18 @@ Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.
 
 > Content based on [github.com/github/open-source-guide](https://github.com/github/open-source-guide) used under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
-Code, including source files and code samples if any in the content, is released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+Code, including source files and code samples if any in the content, is released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/), with the following exceptions:
 
-This means you can use the code and content in this repository except for GitHub trademarks in your own projects.
+* The primer components in `node_modules` are under the MIT license; see `LICENSE` in each component's directory
+* The [Octicons images](https://octicons.github.com) are under the [SIL OFL 1.1](http://scripts.sil.org/OFL)
+
+This means you can use the code and content in this repository except for GitHub trademarks in your own projects. When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
 
 When you contribute to this repository you are doing so under the above licenses.
 
 ## Permissions
 
-Screenshots are used with permissions below.
+Screenshots and images from other projects are used with permissions below.
 
 **Django:**
 
