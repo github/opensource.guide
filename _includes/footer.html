@@ -41,7 +41,20 @@
     </div>
 
     <div class="border-top text-gray py-5">
-      {% octicon code height:20 class:"v-align-middle fill-gray mr-1" aria-label:code %} with {% octicon heart height:20 class:"v-align-middle fill-gray mx-1" aria-label:love %} by <a href="https://github.com">{% octicon mark-github height:20 class:"v-align-middle fill-gray mx-1" aria-label:GitHub %}</a> (and you!)
+      {% capture code %}
+        {% assign code_label = site.data.locale[site.locale].footer.byline.code_label %}
+        {% octicon code height:20 class:"v-align-middle fill-gray mr-1" aria-label:{{ code_label }} %}
+      {% endcapture %}
+      {% capture love %}
+        {% assign love_label = site.data.locale[site.locale].footer.byline.love_label %}
+        {% octicon heart height:20 class:"v-align-middle fill-gray mr-1" aria-label:{{love_label}} %}
+      {% endcapture %}
+      {% capture github %}
+        <a href="https://github.com">{% octicon mark-github height:20 class:"v-align-middle fill-gray mx-1" aria-label:GitHub %}</a>
+      {% endcapture %}
+
+      {% assign byline = site.data.locale[site.locale].footer.byline.format %}
+      {{ byline | replace: "[code]", code | replace: "[love]", love | replace: "[github]", github }}
     </div>
 
   </div>

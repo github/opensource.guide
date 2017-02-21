@@ -17,3 +17,10 @@ footer:
     heading: Subscribe to updates
     label: Email Address
     button: Subscribe
+  byline:
+    # [code], [love], and [github] will be replaced by octicons
+    format: "[code] with [love] by [github]"
+    # Label for code octicon
+    code_label: code
+    # Label for love octicon
+    love_label: love
