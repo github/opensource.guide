@@ -80,7 +80,7 @@ People are finding your project and they're using it. The next question you'll w
 
 It's never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is _popular_ (many people use it) but not _supported_ (not enough maintainer time to meet demand).
 
-The ratio of experienced, long-term contributors to recent ones also tells you about the quality of the code and need to support contributors. [Measuring your open source community’s demography](https://www.oreilly.com/ideas/measure-your-open-source-communitys-age-to-keep-it-healthy) gives an overview of the project retention/engagement capability over time.
+The ratio of experienced, long-term contributors to recent ones also tells you about the quality of the code and need to support contributors. [Measuring your open source community's demography](https://www.oreilly.com/ideas/measure-your-open-source-communitys-age-to-keep-it-healthy) gives an overview of the project retention/engagement capability over time.
 
 Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
 
@@ -145,7 +145,6 @@ But diversity metrics could also be used to check project sustainability. Some e
   * **BUFCoF (Bitergia United Fruit Co. Factor)**: defined as "The lowest number of organizations or companies whose committers code constitutes the majority of the current codebase"
 
 Generally, projects with higher APF (ASF Pony factor) and/or BEF (Bitergia Elephant factor) are usually considered more sustainable, since they are not _owned_ by an small group or a single company or organization.
-
 
 ## Use 📊 to learn about people
 
