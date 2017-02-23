@@ -5,7 +5,7 @@ export CC=gcc
 
 echo "==> Installing gem dependencies…"
 bundle check --path vendor/gems 2>&1 > /dev/null || {
-  time bundle update --binstubs bin --path vendor/gems
+  time bundle install --binstubs bin --path vendor/gems
 }
 
 echo "==> Installing node dependencies…"
