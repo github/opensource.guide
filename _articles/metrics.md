@@ -123,7 +123,7 @@ You could also measure the time it takes to move between stages in the contribut
 * Whether stale issues get closed
 * Average time to merge a pull request
 
-You could also track your project Backlog Management Index (BMI), as the ratio of number of closed, or solved, issues or pull requests to number of issues or pull requests arrivals during the month. If BMI is larger than 100, it means the backlog is reduced
+You could also track your project Backlog Management Index (BMI), as the ratio of number of closed, or solved, issues or pull requests to number of issues or pull requests arrivals during the month. If BMI is larger than 100, it means the backlog is reduced.
 
 Finally you can track activity trends. By checking _moving averages_ you could highlight longer-term trends or cycles.
 
@@ -140,7 +140,7 @@ But diversity metrics could also be used to check project sustainability. Some e
 * **Contributors dependency**, to show how many people the activity of your project depends on. Some example metrics are:
   * **APF (Apache Software Foundation Pony Factor)**: [from Apache Software Foundation](https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/), defined as "The lowest number of committers whose total contribution constitutes the majority of the codebase".
   * **BZF (Bitergia Zapata Factor):** defined as "The lowest number of comitters whose code constitutes the majority of the current codebase".
-* **Organizations dependecy**, similar to _contributors dependecy_, but based on [contributors organizations membership](https://github.com/blog/674-introducing-organizations) or companies
+* **Organizations dependency**, similar to _contributors dependecy_, but based on [contributors organizations membership](https://github.com/blog/674-introducing-organizations) or companies
   * **BEF (Bitergia Elephant Factor)**: defined as "The lowest number of organizations or companies whose total members contribution constitutes the majority of the codebase"
   * **BUFCoF (Bitergia United Fruit Co. Factor)**: defined as "The lowest number of organizations or companies whose committers code constitutes the majority of the current codebase"
 
