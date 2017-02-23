@@ -8,6 +8,7 @@ toc:
   usage: "Usage"
   retention: "Retention"
   maintainer-activity: "Maintainer activity"
+  diversity: "Diversity"
 order: 9
 image: /assets/images/cards/metrics.png
 ---
@@ -79,6 +80,8 @@ People are finding your project and they're using it. The next question you'll w
 
 It's never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is _popular_ (many people use it) but not _supported_ (not enough maintainer time to meet demand).
 
+The ratio of experienced, long-term contributors to recent ones also tells you about the quality of the code and need to support contributors. [Measuring your open source community’s demography](https://www.oreilly.com/ideas/measure-your-open-source-communitys-age-to-keep-it-healthy) gives an overview of the project retention/engagement capability over time.
+
 Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
 
 Examples of community metrics that you may want to regularly track include:
@@ -119,6 +122,30 @@ You could also measure the time it takes to move between stages in the contribut
 * Whether issues get closed by PRs
 * Whether stale issues get closed
 * Average time to merge a pull request
+
+You could also track your project Backlog Management Index (BMI), as the ratio of number of closed, or solved, issues or pull requests to number of issues or pull requests arrivals during the month. If BMI is larger than 100, it means the backlog is reduced
+
+Finally you can track activity trends. By checking _moving averages_ you could highlight longer-term trends or cycles.
+
+## Diversity
+
+It is well known that diversity is benefitial for any teamwork and sometimes it is considered an indication of _healthy_ open source project. Diversity metrics usually show how inclusive the projects are.
+
+For example, [gender diversity metrics](https://opensource.com/business/16/4/openstack-summit-interview-daniel-izquierdo-bitergia) are being currently used by some open source projects to give visibility to women contributions and reduce the _gender gap_.
+
+Geographical diversity can be measured using [users information fom GitHub API](https://developer.github.com/v3/users/) or timezone information in git commits, helping community managers also on planning meetups or actions for new areas identified in the maps or timezones.
+
+But diversity metrics could also be used to check project sustainability. Some examples of metrics related with this topic are:
+
+* **Contributors dependency**, to show how many people the activity of your project depends on. Some example metrics are:
+  * **APF (Apache Software Foundation Pony Factor)**: [from Apache Software Foundation](https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/), defined as "The lowest number of committers whose total contribution constitutes the majority of the codebase".
+  * **BZF (Bitergia Zapata Factor):** defined as "The lowest number of comitters whose code constitutes the majority of the current codebase".
+* **Organizations dependecy**, similar to _contributors dependecy_, but based on [contributors organizations membership](https://github.com/blog/674-introducing-organizations) or companies
+  * **BEF (Bitergia Elephant Factor)**: defined as "The lowest number of organizations or companies whose total members contribution constitutes the majority of the codebase"
+  * **BUFCoF (Bitergia United Fruit Co. Factor)**: defined as "The lowest number of organizations or companies whose committers code constitutes the majority of the current codebase"
+
+Generally, projects with higher APF (ASF Pony factor) and/or BEF (Bitergia Elephant factor) are usually considered more sustainable, since they are not _owned_ by an small group or a single company or organization.
+
 
 ## Use 📊 to learn about people
 
