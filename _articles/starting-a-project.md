@@ -105,7 +105,7 @@ If you need a dedicated budget or staffing for promotion, operations and maintai
 
 If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](/how-to-contribute/).
+If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](how-to-contribute.md).
 
 ## Launching your own open source project
 
@@ -118,7 +118,7 @@ No matter which stage you decide to open source your project, every project shou
 * [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
 * [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](/code-of-conduct/)
+* [Code of conduct](code-of-conduct.md)
 
 As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
 
@@ -136,7 +136,7 @@ When you create a new project on GitHub, you are given the option to select a li
 
 ![pick a license](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](/legal/).
+If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](legal.md).
 
 ### Writing a README
 
@@ -207,7 +207,7 @@ Link to your CONTRIBUTING file from your README, so more people see it. If you [
 
 Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
 
-For more information, check out our [Code of Conduct guide](/code-of-conduct/).
+For more information, check out our [Code of Conduct guide](code-of-conduct.md).
 
 In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
 
@@ -238,7 +238,7 @@ If you want a website, Twitter handle, or other properties to represent your pro
 
 Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](/legal/).
+You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](legal.md).
 
 Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
 
