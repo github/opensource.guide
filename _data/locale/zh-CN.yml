@@ -1,0 +1,26 @@
+nav:
+  about: 关于 
+  contribute: 贡献
+
+index:
+  lead: 开放源代码软件就是由你这样的人所打造，这里只是为了节省你的学习时间而设，从这里开启你的开源项目之旅吧！
+
+article:
+  table_of_contents: 目录
+
+footer:
+  contribute:
+    heading: 贡献
+    description: 对项目由意见和建议提？本站内容遵循开放源代码写作，请帮助我们继续完善！
+    button: 贡献
+  subscribe:
+    heading: 订阅更新
+    label: 电子邮箱地址
+    button: 提交
+  byline:
+    # [code], [love], and [github] will be replaced by octicons
+    format: "[code] with [love] by [github]"
+    # Label for code octicon
+    code_label: 代码
+    # Label for love octicon
+    love_label: 爱心

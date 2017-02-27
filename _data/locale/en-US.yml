@@ -1,0 +1,26 @@
+nav:
+  about: About
+  contribute: Contribute
+
+index:
+  lead: Open source software is made by people just like you. Learn how to launch and grow your project.
+
+article:
+  table_of_contents: Table of Contents
+
+footer:
+  contribute:
+    heading: Contribute
+    description: Want to make a suggestion? This content is open source. Help us improve it.
+    button: Contribute
+  subscribe:
+    heading: Subscribe to updates
+    label: Email Address
+    button: Subscribe
+  byline:
+    # [code], [love], and [github] will be replaced by octicons
+    format: "[code] with [love] by [github]"
+    # Label for code octicon
+    code_label: code
+    # Label for love octicon
+    love_label: love
