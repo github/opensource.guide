@@ -13,7 +13,7 @@ Running an open source project, like any human endeavor, involves uncertainty an
 
 ## Licenses
 
-Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), which gives you permission to use content for almost any purpose (but does not grant you any trademark permissions), so long as you note the license and give credit, such as follows:
+Content is copyright (c) Open Source Guides authors, released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), which gives you permission to use content for almost any purpose (but does not grant you any trademark permissions), so long as you note the license and give credit, such as follows:
 
 > Content based on [github.com/github/open-source-guide](https://github.com/github/open-source-guide) used under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
