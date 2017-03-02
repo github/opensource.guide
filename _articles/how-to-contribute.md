@@ -88,7 +88,7 @@ Even if you are a developer, non-code contributions are a great way to get invol
 ### Do you like to design?
 
 * Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus
+* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * Put together a style guide to help the project have a consistent visual design
 * Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
 
