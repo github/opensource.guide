@@ -22,7 +22,7 @@ With more information, you can:
 * Figure out where new users come from
 * Identify, and decide whether to support, an outlier use case or functionality
 * Quantify your project's popularity
-* Understand how project is used
+* Understand how your project is used
 * Raise money through sponsorships
 
 For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
