@@ -76,8 +76,6 @@ Try to figure out where your audience is coming from and ask others for feedback
 
 Once you know that people are using your project, you might want to try to figure out what they are doing with it.  Are they building on it by forking your code and adding features?  Are they using it for science or business?
 
-In order to determine this, you can use tools like [depsy](http://depsy.org), or you can [publish your software and make it citable](https://guides.github.com/activities/citable-code/).  Then if you also ask users to cite your code, particularly in academia, you can use existing citation tools (such as [Google Scholar](https://scholar.google.com)) to understand what users say they are doing with it.
-
 ## Retention
 
 People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to this project?_
