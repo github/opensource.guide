@@ -29,7 +29,7 @@ layout: default
     <p class="lead text-center text-gray col-md-8 mx-auto mb-4 position-relative">{{ page.description }}</p>
     <nav class="toc mb-4 mb-md-6">
       <div class="card col-sm-8 col-md-4 col-lg-3 mx-auto">
-        <a class="toc-trigger d-block text-center p-3">
+        <a data-proofer-ignore class="toc-trigger d-block text-center p-3">
           <span class="text-black">Table of Contents</span>{% octicon triangle-down height:18 class:"ml-2 fill-blue v-align-middle icon-flip" aria-label:open %}
         </a>
         <ol class="toc-list list-style-none">
@@ -42,7 +42,7 @@ layout: default
       </div>
     </nav>
     <div class="col-sm-10 mx-auto lh-none cover-img">
-      <img src="{{ site.baseurl }}/assets/images/illos/{{ page.class }}.svg" alt="{{ page.title }} Illustration">
+      <img src="/assets/images/illos/{{ page.class }}.svg" alt="{{ page.title }} Illustration">
     </div>
   </div>
 </header>
