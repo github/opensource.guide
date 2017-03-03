@@ -74,7 +74,7 @@ For example, if your project lands on the front page of Hacker News, you'll prob
 
 Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you're facing.
 
-Once you know that people are using your project, you might want to try to figure out what they are doing with it.  Are they building on it by forking your code and adding features?  Are they using it for science or business?
+Once you know that people are using your project, you might want to try to figure out what they are doing with it. Are they building on it by forking your code and adding features?  Are they using it for science or business?
 
 ## Retention
 
