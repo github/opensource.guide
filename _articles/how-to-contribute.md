@@ -29,11 +29,11 @@ Why do people contribute to open source? Plenty of reasons!
 
 ### Improve existing skills
 
-Whether it's coding, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
 
 ### Meet people who are interested in similar things
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or discussing burritos late night over chat.
+Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
 
 ### Find mentors and teach others
 
@@ -87,10 +87,10 @@ Even if you are a developer, non-code contributions are a great way to get invol
 
 ### Do you like to design?
 
-* Improve the website's layout or visual design
-* Make a new logo for the project, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
-* Rethink the project's onboarding experience, for new users or contributors
-* Redesign the newsletter
+* Restructure layouts to improve the project's usability
+* Conduct user research to reorganize and refine the project's navigation or menus
+* Put together a style guide to help the project have a consistent visual design
+* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
 
 ### Do you like to write?
 
@@ -218,6 +218,7 @@ You can also use one of the following resources to help you discover new project
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)
+* [Contributor-ninja](https://contributor.ninja)
 
 ### A checklist before you contribute
 

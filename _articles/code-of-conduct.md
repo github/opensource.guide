@@ -32,7 +32,7 @@ In addition to communicating your expectations, a code of conduct describes the 
 
 Wherever you can, use prior art. The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html) are also two good code of conduct examples.
+The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
 
 Place a CODE_OF_CONDUCT file in your project's root directory, and link to it from your README, so it's visible to your community.
 
@@ -99,6 +99,16 @@ Sometimes, a resolution cannot be reached. The person in question may become agg
 * **Permanently ban** the person from the project
 
 Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+
+## Your responsibilities as a maintainer
+
+A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
+
+As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+
+A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+
+In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
 
 ## Encourage the behavior you want to see in the world 🌎
 

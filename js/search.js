@@ -5,7 +5,7 @@ layout:
 (function() {
 
 var searchWorker;
-var searchURL = "{{ "/search/" | prepend: site.baseurl }}";
+var searchURL = "{{ "/search/" | relative_url }}";
 var replaceState = false;
 var replaceStateTimeout;
 var searchBox = document.getElementById('search-box');
@@ -35,7 +35,7 @@ function search(searchTerm) {
   searchBox.setAttribute("value", searchTerm);
 
   if(!searchWorker) {
-    searchWorker = new Worker("{{ "/js/search_worker.js" | prepend: site.baseurl }}");
+    searchWorker = new Worker("{{ "/js/search_worker.js" | relative_url }}");
 
     searchWorker.addEventListener("message", function(e) {
       displaySearchResults(e.data);

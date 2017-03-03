@@ -73,8 +73,8 @@
   @include breakpoint(md) {
     .cover-img {
       max-width: 700px;
-      margin-top: 80px;
-      margin-bottom: -90px;
+      margin-top: 100px;
+      margin-bottom: -70px;
     }
   }
 }
@@ -129,12 +129,6 @@
   }
 }
 
-.guide-cover.best-practices {
-  img {
-
-  }
-}
-
 .article-header.getting-paid {
   @include breakpoint(md) {
     .cover-img {
@@ -142,12 +136,6 @@
       margin-top: 120px;
       margin-bottom: -40px;
     }
-  }
-}
-
-.guide-cover.getting-paid {
-  img {
-
   }
 }
 

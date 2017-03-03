@@ -49,7 +49,7 @@ Maintaining popular projects can be a significant responsibility, taking up 10 o
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time.
+Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time. This has ethical implications, as @ashedryden [has described](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), since work that is done is biased in favor of those who already have advantages in life, who then gain additional advantages based on their volunteer contributions, while others who are not able to volunteer then don't get later opportunities, which reinforces the current lack of diversity in the open source community.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -59,11 +59,11 @@ Paid work also enables people from different walks of life to make meaningful co
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as an contributor, or you can find organizational funding for the project.
+If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
 
 ## Funding your own time
 
-Today, many people get paid to work part- or full-time to work on open source. The most common way to get paid for your time is to talk to your employer.
+Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
 
 It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
 

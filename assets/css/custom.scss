@@ -7,7 +7,7 @@ img {
 }
 
 blockquote {
-  font-style: italic;
+  color: $gray;
   border-left: $border;
   border-width: 4px;
   padding: $spacer-1 0 0 $spacer-2;
@@ -204,6 +204,10 @@ blockquote {
 
 .border-sm-0 {
   @include breakpoint(sm) { border-bottom: none !important;}
+}
+
+.col-border {
+  @include breakpoint(sm) { border-right: 1px #e5e5e5 solid !important; }
 }
 
 .bg-gray-light {
