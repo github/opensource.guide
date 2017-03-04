@@ -19,8 +19,4 @@ We'll improve upon existing content and start to focus on additional content for
 * [ ] Improve guide discoverability for open source creators
 * [ ] Expand the Open Source Guides to include content for open source consumers
 
-### Beyond
-
-Open source is complicated, especially for newcomers. Experienced contributors have learned many lessons about the best way to use, contribute to, and produce open source software. Everyone shouldn't have to learn those lessons the hard way. To give it more prominence, we want to move it from https://opensource.guide to a permanent home on https://github.com/open-source, where it will live alongside features and programs that help individuals, communities, and companies sustainably embrace open source. The content will remain open source for anyone to use.
-
 This is our current plan. As with everything in the Open Source Guides project, it is open to community feedback.

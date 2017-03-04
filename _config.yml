@@ -43,7 +43,6 @@ defaults:
 
 gems:
   - jekyll-mentions
-  - jekyll-octicons
   - jekyll-seo-tag
   - jekyll-sitemap
 

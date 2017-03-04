@@ -13,7 +13,7 @@ We've put together the following guidelines to help you figure out where you can
 0. [Types of contributions we're looking for](#types-of-contributions-were-looking-for)
 0. [Ground rules & expectations](#ground-rules--expectations)
 0. [How to contribute](#how-to-contribute)
-0. [Style guide](#style--guide)
+0. [Style guide](#style-guide)
 0. [Setting up your environment](#setting-up-your-environment)
 0. [Contribution review process](#contribution-review-process)
 0. [Community](#community)
@@ -38,6 +38,7 @@ Before we get started, here are a few things we expect from you (and that you sh
 * Be kind and thoughtful in your conversations around this project. We all come from different backgrounds and projects, which means we likely have different perspectives on "how open source is done." Try to listen to others rather than convince them that your way is correct.
 * Open Source Guides are released with a [Contributor Code of Conduct](./CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
 * If you open a pull request, please ensure that your contribution passes all tests. If there are test failures, you will need to address them before we can merge your contribution.
+* When adding content, please consider if is widely valuable. Please don't add references or links to things you or your employer have created as others will do so if they appreciate it.
 
 ## How to contribute
 
