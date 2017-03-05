@@ -12,7 +12,7 @@ layout: default
     <nav class="toc mb-4 mb-md-6">
       <div class="card col-sm-8 col-md-4 col-lg-3 mx-auto">
         <a class="toc-trigger d-block text-center p-3">
-          <span class="text-black">{{ site.data.locale[site.locale].article.table_of_contents }}</span>{% octicon triangle-down height:18 class:"ml-2 fill-blue v-align-middle icon-flip" %}
+          <span class="text-black">{{ site.data.locale[site.locale].article.table_of_contents }}</span><svg height="18" class="octicon octicon-triangle-down ml-2 fill-blue v-align-middle icon-flip" viewBox="0 0 12 16" version="1.1" width="13" role="img"><path fill-rule="evenodd" d="M0 5l6 6 6-6z"></path></svg>
         </a>
         <ol class="toc-list list-style-none">
           {% for section in page.toc %}
