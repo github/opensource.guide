@@ -7,7 +7,6 @@ translations:
     name: 简体中文 (zh-CN)
     repository: github/open-source-guide
 
-
 exclude:
   - bin
   - CODE_OF_CONDUCT.md
@@ -28,7 +27,7 @@ permalink: /:path/
 collections:
   articles:
     output: true
-    permalink: /:path/
+    permalink: /:name/
 
 defaults:
   - scope:

@@ -2,25 +2,7 @@
 layout: default
 ---
 
-<nav class="main-nav">
-  <div class="container-lg edged mx-auto clearfix">
-    <div class="float-sm-right">
-      <ul class="main-links d-flex flex-wrap flex-items-stretch border-left border-bottom border-sm-0 list-style-none">
-        <li class="d-inline-block border-right">
-          <a class="d-block p-3 p-sm-4" href="https://github.com/github/open-source-guide#open-source-guides">About</a>
-        </li>
-        <li class="d-inline-block border-right">
-          <a class="d-block p-3 p-sm-4" href="https://github.com/github/open-source-guide/blob/gh-pages/CONTRIBUTING.md">Contribute</a>
-        </li>
-      </ul>
-    </div>
-    <div class="float-sm-left pl-3 breadcrumb">
-      <p class="my-0 py-3 py-sm-4 text-gray">
-        <a href="/" class="text-gray">Open Source Guides</a>
-      </p>
-    </div>
-  </div>
-</nav>
+{% include nav.html %}
 
 <header class="article-header {{ page.class }} bg-gray-light">
   <div class="container-lg mx-auto px-3">
@@ -30,7 +12,7 @@ layout: default
     <nav class="toc mb-4 mb-md-6">
       <div class="card col-sm-8 col-md-4 col-lg-3 mx-auto">
         <a class="toc-trigger d-block text-center p-3">
-          <span class="text-black">Table of Contents</span>{% octicon triangle-down height:18 class:"ml-2 fill-blue v-align-middle icon-flip" aria-label:open %}
+          <span class="text-black">{{ site.data.locale[site.locale].article.table_of_contents }}</span>{% octicon triangle-down height:18 class:"ml-2 fill-blue v-align-middle icon-flip" %}
         </a>
         <ol class="toc-list list-style-none">
           {% for section in page.toc %}
@@ -42,7 +24,7 @@ layout: default
       </div>
     </nav>
     <div class="col-sm-10 mx-auto lh-none cover-img">
-      <img src="{{ site.baseurl }}/assets/images/illos/{{ page.class }}.svg" alt="{{ page.title }} Illustration">
+      <img src="{{ site.baseurl }}/assets/images/illos/{{ page.class }}.svg" alt="{{ page.title }}">
     </div>
   </div>
 </header>
