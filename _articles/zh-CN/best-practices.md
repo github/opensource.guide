@@ -1,4 +1,5 @@
 ---
+locale: zh-CN
 title: 维护者最佳实践
 description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
 class: best-practices
