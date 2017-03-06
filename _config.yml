@@ -51,7 +51,7 @@ sass:
 branch: gh-pages
 
 github:
-  repository_nwo: github/open-source-guide
+  repository_nwo: github/opensource.guide
 
 twitter:
   username: github
