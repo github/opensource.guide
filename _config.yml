@@ -1,5 +1,12 @@
-title: "Open Source Guide"
-description: "A community guide for open source creators."
+title: Open Source Guides
+description: A community guide for open source creators.
+
+# See: docs/translations.md
+locale: en-US
+translations:
+  - locale: en-US
+    name: English (US)
+    repository: github/open-source-guide
 
 exclude:
   - bin
@@ -21,7 +28,7 @@ permalink: /:path/
 collections:
   articles:
     output: true
-    permalink: /:path/
+    permalink: /:name/
 
 defaults:
   - scope:
