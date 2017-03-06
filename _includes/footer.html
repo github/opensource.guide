@@ -60,7 +60,9 @@
 
       <div class="text-small my-6">
         {% for translation in site.translations %}
-          <a class="locale-chooser text-gray-light d-inline-block px-1" data-locale="{{ translation.locale }}" href="{{ translation.url }}?l={{ translation.locale }}">{{ translation.name }}</a>
+          <a class="locale-chooser text-gray-light d-inline-block px-1"
+            lang="{{ translation[0] }}"
+            href="{{ page.url | prepend: translation[1].url }}?l={{ translation[0] }}">{{ translation[1].name }}</a>
         {% endfor %}
       </div>
     </div>
