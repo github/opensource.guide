@@ -4,9 +4,9 @@ description: A community guide for open source creators.
 # See: docs/translations.md
 locale: en-US
 translations:
-  - locale: en-US
+  en-US:
     name: English (US)
-    repository: github/open-source-guide
+    url: https://opensource.guide
 
 exclude:
   - bin
