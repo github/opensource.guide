@@ -1,7 +1,7 @@
 ---
 locale: zh-CN
 title: 开源的法律保护
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+description: 对于开源你应该了解的所有法律知识。
 class: legal
 toc:
   why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"

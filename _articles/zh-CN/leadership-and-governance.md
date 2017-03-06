@@ -1,7 +1,7 @@
 ---
 locale: zh-CN
 title: 领导力和治理
-description: Growing open source projects can benefit from formal rules for making decisions.
+description: 决策有了较正式的规则，可让开源项目野蛮生长。
 class: leadership
 toc:
   what-are-examples-of-formal-roles-used-in-open-source-projects: "What are examples of formal roles used in open source projects?"

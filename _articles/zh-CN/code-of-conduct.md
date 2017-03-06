@@ -1,7 +1,7 @@
 ---
 locale: zh-CN
 title: 行为准则
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+description: 社区的长远发展和健康成长，离不开一些行为准则，需要遵守并执行。
 class: coc
 toc:
   why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"

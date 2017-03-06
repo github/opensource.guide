@@ -1,7 +1,7 @@
 ---
 locale: zh-CN
 title: 通过为开源工作获得报酬
-description: Sustain your work in open source by getting financial support for your time or your project.
+description: 为了让你能够持续的为开源项目，理应得到相应的经济上的报酬。
 class: getting-paid
 toc:
   why-some-people-seek-financial-support: "Why some people seek financial support"

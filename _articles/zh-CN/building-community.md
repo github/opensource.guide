@@ -1,17 +1,17 @@
 ---
 locale: zh-CN
 title: 打造受欢迎的社区
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
+description: 打造人们愿意使用、贡献、并主动宣传的人气社区。
 class: building
 toc:
-  setting-your-project-up-for-success: "Setting your project up for success"
-  growing-your-community: "Growing your community"
-  resolving-conflicts: "Resolving conflicts"
+  setting-your-project-up-for-success: "设置项目"
+  growing-your-community: "社区生长"
+  resolving-conflicts: "解决冲突"
 order: 4
 image: /assets/images/cards/building.png
 ---
 
-## Setting your project up for success
+## 设置项目
 
 You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
 
@@ -103,7 +103,7 @@ Public communication can be as simple as directing people to open an issue inste
 
 Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
 
-## Growing your community
+## 社区生长
 
 Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
 
@@ -181,7 +181,7 @@ While you may not always find someone to answer the call, putting a signal out t
   </p>
 </aside>
 
-## Resolving conflicts
+## 解决冲突
 
 In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
 

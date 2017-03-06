@@ -1,20 +1,20 @@
 ---
 locale: zh-CN
 title: 维护者最佳实践
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+description: 身为开源的维护者，如何轻松驾驭项目？本指南从文档流程到有效利用社区来展开。
 class: best-practices
 toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
-  documenting-your-processes: "Documenting your processes"
-  learning-to-say-no: "Learning to say no"
-  leverage-your-community: "Leverage your community"
+  what-does-it-mean-to-be-a-maintainer: "身为一名维护者意味着什么？"
+  documenting-your-processes: "将流程撰文档化"
+  learning-to-say-no: "学会拒绝他人"
+  leverage-your-community: "有效利用社区"
   bring-in-the-robots: "Bring in the robots"
   its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
 image: /assets/images/cards/best-practices.png
 ---
 
-## What does it mean to be a maintainer?
+## 身为一名维护者意味着什么？
 
 If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
 
@@ -22,7 +22,7 @@ In the early stages of a project, you're experimenting with new ideas and making
 
 Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
 
-## Documenting your processes
+## 将流程撰文档化
 
 Writing things down is one of the most important things you can do as a maintainer.
 
@@ -77,7 +77,7 @@ If you meet with other maintainers, or make a major decision in private, documen
 
 That way, anybody who joins your community will have access to the same information as someone who's been there for years.
 
-## Learning to say no
+## 学会拒绝他人
 
 You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
 
@@ -159,7 +159,7 @@ Maybe someone in your community regularly submits contributions that don't meet 
 
 If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first bug,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
 
-## Leverage your community
+## 有效利用社区
 
 You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
 

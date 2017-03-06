@@ -1,7 +1,7 @@
 ---
 locale: zh-CN
 title: 开源衡量标准
-description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
+description: 通过持续的追踪项目，帮助你作出最佳决策，以让开源项目更成功。
 class: metrics
 toc:
   why-measure-anything: "Why measure anything?"
