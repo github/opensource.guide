@@ -7,17 +7,9 @@
         {{ content }}
       </div>
     </main>
-    <script src="{{ "/js/vendor/anchor-js/anchor.min.js" | relative_url }}"></script>
-    <script>
-      var selector = '#content h2, #content h3, #content h4, #content h5';
 
-      anchors.options = {
-        //visible: 'always',
-        placement: 'left'
-      };
-      anchors.add(selector);
-
-      $(selector).wrapInner('<span/>');
-    </script>
+    <script src="{{ "/assets/js/index.js" | relative_url }}"></script>
+    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+    <script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
   </body>
 </html>

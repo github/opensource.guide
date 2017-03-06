@@ -35,12 +35,13 @@
               </div>
           </form>
           </div>
-          <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
         </div>
       </div>
     </div>
 
     <div class="border-top text-gray py-5">
+      <p class="float-md-right"><a class="text-gray-light text-small" href="{{ "/notices/" | relative_url }}">fine print</a></p>
+
       <div>
         {% capture code %}
           {% assign code_label = site.data.locale[site.locale].footer.byline.code_label %}

@@ -1,6 +1,3 @@
----
----
-
 $(document).ready(function() {
   var currentLocale = $('html').attr('lang');
 
