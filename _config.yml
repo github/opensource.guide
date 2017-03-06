@@ -1,12 +1,15 @@
-title: Open Source Guides
-description: A community guide for open source creators.
+title: 오픈소스 가이
+description: 오픈소스 제작자를 위한 커뮤니티 가이드
 
 # See: docs/translations.md
-locale: en-US
+locale: ko-KR
 translations:
   - locale: en-US
     name: English (US)
     repository: github/open-source-guide
+  - locale: ko-KR
+    name: Korean (KR)
+    repository: 2korean/open-source-guide
 
 exclude:
   - bin

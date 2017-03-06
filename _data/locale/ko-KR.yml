@@ -1,0 +1,26 @@
+nav:
+  about: About
+  contribute: Contribute
+
+index:
+  lead: 오픈소스 소프트웨어는 바로 당신과 같은 사람에 의해 만들어 집니다. 프로젝트를 어떻게 시작하고 키워나가는지 배우세요.
+
+article:
+  table_of_contents: 목차
+
+footer:
+  contribute:
+    heading: Contribute
+    description: 제안할 것이 있나요? 이 내용은 오픈소스입니다. 여기를 개선하기 위해 우리를 도와주세요.
+    button: Contribute
+  subscribe:
+    heading: 구독하기
+    label: Email Address
+    button: Subscribe
+  byline:
+    # [code], [love], and [github] will be replaced by octicons
+    format: "[code] with [love] by [github]"
+    # Label for code octicon
+    code_label: code
+    # Label for love octicon
+    love_label: love
