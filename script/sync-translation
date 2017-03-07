@@ -32,6 +32,7 @@ BRANCH="sync-${HEAD_SHA:0:8}"
 TRANSLATABLE_FILES="
   _articles
   _data/locale/en-US.yml
+  _config
 "
 
 ## Create a new branch and merge in the changes from upstream.
