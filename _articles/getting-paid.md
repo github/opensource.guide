@@ -95,7 +95,7 @@ If your company goes down this route, it's important to keep the boundaries betw
 
 If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
 
-* [Ghost](https://ghost.org/) is a company built around [an open source project](https://github.com/tryghost/ghost)
+* Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](http://paypal.github.io/), have websites that highlight their involvement in open source
 * [Rackspace](https://www.rackspace.com/en-us) published its [open source contribution policy](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) for employees
 
 Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
@@ -111,17 +111,35 @@ Beyond arrangements for individual contributors, sometimes projects raise money 
 
 Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
 
-A few examples of projects with organizational funding include:
+As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
 
-* **[webpack](https://github.com/webpack),** which raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue),** created by @yyx990803, which is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization created by @indirect that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+### Raise money for your work through crowdfunding campaigns or sponsorships
 
-As open source's popularity increases, finding funding for projects is still experimental. A few current options include:
+Finding sponsorships works well if you have a strong audience or reputation already, or your project is very popular.
+A few examples of sponsored projects include:
 
-* **Raise money for your work through crowdfunding campaigns or donations.** This strategy works well if you have a strong audience or reputation already, or your project is very popular.
-* **Apply for grant funding.** Some software foundations and companies offer grants for open source work, such as the [Python Software Foundation](https://www.python.org/psf/grants/), [Mozilla Foundation](https://www.mozilla.org/en-US/grants/), and [Stripe](https://stripe.com/blog/open-source-retreat-2016).
-* **Raise sponsorships from companies and individual donors** through a software foundation. Or **start a business** to support the project.
+* **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
+* **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
+* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+
+### Create a revenue stream
+
+Depending on your project, you may be able to charge for commercial support, hosted options, or additional features. A few examples include:
+
+* **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
+* **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
+* **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
+
+Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+
+### Apply for grant funding
+
+Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
+
+* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
+* **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
+* **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
+* The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
 
 For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
 
