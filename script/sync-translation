@@ -2,7 +2,59 @@
 #
 # Sync changes from up stream
 #
+#   Usage: script/sync-upstream [remote]
+#
 # TODO:
-# - create branch and merge upstream changes
-# - get diff of changes to notable files
-# - open PR with checkboxes for changes to translatable files
+# - [x] create branch and merge upstream changes
+# - [x] get diff of changes to notable files
+# - [ ] open PR with checkboxes for changes to translatable files
+# - [ ] handle merge conflicts with `git merge --continue`
+# - [ ] remove all the TODOs
+
+set -e
+
+# If there's not an upstream remote, set it.
+if ! git remote show | grep -q upstream; then
+  git remote add upstream https://github.com/github/open-source-guide.git
+fi
+
+git fetch upstream
+
+REMOTE=${1:-"origin"}
+
+# BASE=$(git rev-parse $REMOTE/gh-pages)
+# TODO: replace v with ^
+BASE=0fc50236af4da7a5a339f9681f7c30634f415120 # randomly selected old commit for testing
+HEAD=$(git rev-parse upstream/i18n)
+BRANCH="sync-${HEAD:0:8}"
+
+TRANSLATABLE_FILES="
+  _articles/en-US
+  _data/locale/en-US.yml
+"
+
+## Create a new branch and merge in the changes from upstream.
+# TODO: remove echos
+echo git co -b $BRANCH $BASE
+echo git merge --no-edit $HEAD
+
+CHANGED_FILES=$(git diff --name-only $BASE $HEAD -- $TRANSLATABLE_FILES)
+
+TEMPLATE="This pull request syncs changes from upstream.
+
+[View changes](https://github.com/github/open-source-guide/compare/$BASE...$HEAD)
+
+Check the changes in each of these files and update the translation accordingly:
+"
+
+if [ -z "$CHANGED_FILES" ]; then
+  TEMPLATE="$TEMPLATE\nNo translatable files were changed upstream."
+fi
+
+for file in $CHANGED_FILES; do
+  TEMPLATE="$TEMPLATE\n- [ ] $file"
+done
+
+# TODO: remove echos
+echo "$TEMPLATE"
+echo $TEMPLATE | echo hub pull-request -o -F - -h $BRANCH -b gh-pages
