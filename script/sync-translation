@@ -41,10 +41,7 @@ git push $REMOTE $BRANCH
 
 CHANGED_FILES=$(git diff --name-only $BASE_SHA $HEAD_SHA -- $TRANSLATABLE_FILES)
 
-TEMPLATE="Sync changes from upstream
-\n
-\n[View changes](https://github.com/github/opensource.guide/compare/$BASE_SHA...$HEAD_SHA)
-"
+TEMPLATE="Sync changes from upstream\n\n"
 
 if [ -z "$CHANGED_FILES" ]; then
   TEMPLATE="$TEMPLATE\nNo files that need translation were changed upstream."
