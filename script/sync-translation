@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Sync changes from up stream
+# Sync changes from upstream and open a pull request
 #
 #   Usage: script/sync-upstream [remote]
 #
@@ -9,6 +9,8 @@
 
 set -e
 
+which -s hub || (echo "This script requires the 'hub' command: http://hub.github.com/" && exit 1)
+
 # If there's not an upstream remote, set it.
 if ! git remote show | grep -q upstream; then
   git remote add upstream https://github.com/github/opensource.guide.git
@@ -16,9 +18,9 @@ fi
 
 REMOTE=${1:-"origin"}
 BASE="$REMOTE/gh-pages"
-# TODO: remove once script is working
-BASE=42b97f47d15422a27a7ac7acd1e3153efc98dc46 # randomly selected old commit for testing
-HEAD="upstream/gh-pages"
+# FIXME: switch to upstream/gh-pages before this is merged:
+# https://github.com/github/open-source-guide/pull/295
+HEAD="upstream/i18n"
 
 git fetch upstream
 git fetch $REMOTE
