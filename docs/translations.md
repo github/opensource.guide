@@ -14,6 +14,13 @@ If there's not, then today is your day to lead this effort! Here's how to start:
 
 ## Keeping a translation updated
 
-TODO
+Git is pretty good at making it easy to see what files have changed. We'll try to make it as easy as possible for you to keep your translation up to date. Here is the recommended process.
 
-should be easy to merge in changes from upstream without conflicts
+> These directions assume you have two [remotes](https://git-scm.com/docs/git-remote) configured for your local clone of this repository.
+>
+> 1. `origin` - the translation fork. If you didn't originally clone this from the fork, you can update it with `git remote set-url origin https://github.com/[yourname]/open-source-guide.git`
+> 2. `upstream` - `git remote add upstream https://github.com/github/open-source-guide.git`
+
+0. Run `$ script/sync-translation` to merge the latest changes from upstream and open a Pull Request on your fork.
+0. If files requiring translation have been modified, they will be added to a checklist in the Pull Request.
+0. Once all files have been updated, merge the pull request.
