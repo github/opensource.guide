@@ -5,56 +5,57 @@
 #   Usage: script/sync-upstream [remote]
 #
 # TODO:
-# - [x] create branch and merge upstream changes
-# - [x] get diff of changes to notable files
-# - [ ] open PR with checkboxes for changes to translatable files
 # - [ ] handle merge conflicts with `git merge --continue`
-# - [ ] remove all the TODOs
 
 set -e
 
 # If there's not an upstream remote, set it.
 if ! git remote show | grep -q upstream; then
-  git remote add upstream https://github.com/github/open-source-guide.git
+  git remote add upstream https://github.com/github/opensource.guide.git
 fi
 
-git fetch upstream
-
 REMOTE=${1:-"origin"}
+BASE="$REMOTE/gh-pages"
+# TODO: remove once script is working
+BASE=42b97f47d15422a27a7ac7acd1e3153efc98dc46 # randomly selected old commit for testing
+HEAD="upstream/gh-pages"
 
-# BASE=$(git rev-parse $REMOTE/gh-pages)
-# TODO: replace v with ^
-BASE=0fc50236af4da7a5a339f9681f7c30634f415120 # randomly selected old commit for testing
-HEAD=$(git rev-parse upstream/i18n)
-BRANCH="sync-${HEAD:0:8}"
+git fetch upstream
+git fetch $REMOTE
+
+BASE_SHA=$(git rev-parse $BASE)
+HEAD_SHA=$(git rev-parse $HEAD)
+BRANCH="sync-${HEAD_SHA:0:8}"
 
 TRANSLATABLE_FILES="
-  _articles/en-US
+  _articles
   _data/locale/en-US.yml
 "
 
 ## Create a new branch and merge in the changes from upstream.
-# TODO: remove echos
-echo git checkout -b $BRANCH $BASE
-echo git merge --no-edit $HEAD
+echo "Creating branch $BRANCH based off $BASE"
+git checkout -B $BRANCH $BASE
+echo "Merging in latest changes from $HEAD"
+git merge -q --no-edit $HEAD
+git push $REMOTE $BRANCH
 
-CHANGED_FILES=$(git diff --name-only $BASE $HEAD -- $TRANSLATABLE_FILES)
+CHANGED_FILES=$(git diff --name-only $BASE_SHA $HEAD_SHA -- $TRANSLATABLE_FILES)
 
-TEMPLATE="This pull request syncs changes from upstream.
-
-[View changes](https://github.com/github/open-source-guide/compare/$BASE...$HEAD)
-
-Check the changes in each of these files and update the translation accordingly:
+TEMPLATE="Sync changes from upstream
+\n
+\n[View changes](https://github.com/github/opensource.guide/compare/$BASE_SHA...$HEAD_SHA)
 "
 
 if [ -z "$CHANGED_FILES" ]; then
-  TEMPLATE="$TEMPLATE\nNo translatable files were changed upstream."
+  TEMPLATE="$TEMPLATE\nNo files that need translation were changed upstream."
+else
+  TEMPLATE="$TEMPLATE\nCheck the changes in each of these files and update the translation accordingly:\n"
+
+  for file in $CHANGED_FILES; do
+    TEMPLATE="$TEMPLATE\n- [ ] \`$file\`"
+  done
 fi
 
-for file in $CHANGED_FILES; do
-  TEMPLATE="$TEMPLATE\n- [ ] $file"
-done
+OWNER=$(git config --get remote.$REMOTE.url | sed -Ene 's#.*github.com[/:]([^/]*)/.*#\1#p')
 
-# TODO: remove echos
-echo "$TEMPLATE"
-echo $TEMPLATE | echo hub pull-request -o -F - -h $BRANCH -b gh-pages
+echo $TEMPLATE | hub pull-request -o -F - -b $OWNER:gh-pages -h $OWNER:$BRANCH
