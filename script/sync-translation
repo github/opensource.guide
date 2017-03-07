@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+# Sync changes from up stream
+#
+# TODO:
+# - create branch and merge upstream changes
+# - get diff of changes to notable files
+# - open PR with checkboxes for changes to translatable files
