@@ -35,7 +35,7 @@ TRANSLATABLE_FILES="
 
 ## Create a new branch and merge in the changes from upstream.
 # TODO: remove echos
-echo git co -b $BRANCH $BASE
+echo git checkout -b $BRANCH $BASE
 echo git merge --no-edit $HEAD
 
 CHANGED_FILES=$(git diff --name-only $BASE $HEAD -- $TRANSLATABLE_FILES)
