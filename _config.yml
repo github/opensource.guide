@@ -1,5 +1,5 @@
-title: "Open Source Guide"
-description: "A community guide for open source creators."
+title: "Open Source Guides"
+description: "Learn how to launch and grow your project."
 
 exclude:
   - bin
@@ -51,7 +51,7 @@ sass:
 branch: gh-pages
 
 github:
-  repository_nwo: github/open-source-guide
+  repository_nwo: github/opensource.guide
 
 twitter:
   username: github
