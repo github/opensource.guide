@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 title: "开源指南"
 description: "为开放源代码的初学者提供的向导，基于社区合著的形式存在。"
 
@@ -7,10 +6,6 @@ translations:
   - locale: zh-CN
     name: 简体中文 (zh-CN)
     repository: github/open-source-guide
-=======
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
->>>>>>> upstream/gh-pages
 
 exclude:
   - bin
