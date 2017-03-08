@@ -18,37 +18,37 @@ image: /assets/images/cards/contribute.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  在 \[自由代码\] 下工作，让我学习到了职业生涯中非常重要的技能，无论是大学还是实际的工作，我以为我从开源项目中获益的远超于我的回馈！
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["我为何是如此的热衷于为开源软件贡献力量"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+为开源贡献力量，得到的回报就是能够学习到很多、受教很多、且能够锻炼任何你能够想到的经验。
 
-Why do people contribute to open source? Plenty of reasons!
+为什么会有人为开源做贡献？这可能是很多人都不明白的地方，这里不妨列出一些！
 
-### Improve existing skills
+### 巩固现有技能
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+无论是撰写代码、设计用户界面、图形设计、撰写文档、亦或是组织活动，假如你有实践的愿望，你总能在开源项目中找到自己的位置。
 
-### Meet people who are interested in similar things
+### 遇见那些和你“臭味相投”的人
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+开源项目一般都会有一个和谐、热心的社区，以让大家团结一致。实际上，开源界经常发生这样的情形，很多人的深厚友谊都是通过共同参与开源所建立起来的，至于具体的方式，可能是在一次技术研讨会上相谈甚欢，也可能是一直在聊天室中探讨问题。
 
-### Find mentors and teach others
+### 寻找导师，并且尝试帮助他人
 
 Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### 在公众间建立你的声誉（职业口碑）
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+根据开源的定义，你在开源下所有的工作都是公开的，这也就意味着开源项目是一个很好展示你实力的地方。
 
-### Learn people skills
+### 学习领导和管理的艺术
 
 Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
 
-### It's empowering to be able to make changes, even small ones
+### 鼓励作出改变，哪怕改变是很微小的
 
 You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
 
@@ -58,7 +58,7 @@ If you're a new open source contributor, the process can be intimidating. How do
 
 Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
 
-### You don't have to contribute code
+### 你不具备编码的能力
 
 A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the non-code parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with non-code contributions!
 
@@ -80,22 +80,22 @@ Even if you are a developer, non-code contributions are a great way to get invol
   </p>
 </aside>
 
-### Do you like planning events?
+### 是否热衷于规划事件？
 
 * Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
 * Organize the project's conference (if they have one)
 * Help community members find the right conferences and submit proposals for speaking
 
-### Do you like to design?
+### 是否偏向于设计？
 
 * Restructure layouts to improve the project's usability
 * Conduct user research to reorganize and refine the project's navigation or menus
 * Put together a style guide to help the project have a consistent visual design
 * Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
 
-### Do you like to write?
+### 你是否热衷于写作？
 
-* Write and improve the project's documentation
+* 撰写和改进项目的文档
 * Curate a folder of examples showing how the project is used
 * Start a newsletter for the project, or curate highlights from the mailing list
 * Write tutorials for the project, [like pypa's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
@@ -109,36 +109,36 @@ Even if you are a developer, non-code contributions are a great way to get invol
   </p>
 </aside>
 
-### Do you like organizing?
+### 你喜欢组织活动吗？
 
 * Link to duplicate issues, and suggest new issue labels, to keep things organized
 * Go through open issues and suggest closing old ones, [like @nzakas did for eslint](https://github.com/eslint/eslint/issues/6765)
 * Ask clarifying questions on recently opened issues to move the discussion forward
 
-### Do you like to code?
+### 享受编码的乐趣？
 
 * Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
 * Ask if you can help write a new feature
 * Automate project setup
 * Improve tooling and testing
 
-### Do you like helping people?
+### 热衷于帮助他人？
 
 * Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or reddit
 * Answer questions for people on open issues
 * Help moderate the discussion boards or conversation channels
 
-### Do you like helping others code?
+### 在编码方面是否喜欢帮助他人？
 
 * Review code on other people's submissions
 * Write tutorials for how a project can be used
 * Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### 其实不必一定是软件项目！
 
 While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
 
-For example:
+举例来说：
 
 * @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
 * @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
@@ -160,9 +160,9 @@ For anything more than a typo fix, contributing to open source is like walking u
 
 Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
 
-### Anatomy of an open source project
+### 分析感兴趣的开源项目
 
-Every open source community is different.
+每一个开源社区都是不一样的。
 
 Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
 
@@ -170,11 +170,11 @@ That said, many open source projects follow a similar organizational structure. 
 
 A typical open source project has the following types of people:
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project.
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
+* **作者:** The person/s or organization that created the project
+* **归属者:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
+* **维护者:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
+* **贡献者:** Everyone who has contributed something back to the project.
+* **社区成员:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
 
 Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
 
@@ -221,7 +221,7 @@ You can also use one of the following resources to help you discover new project
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
-### A checklist before you contribute
+### 提交贡献之前应做的检查列表
 
 When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
 
@@ -379,7 +379,7 @@ A project that is friendly and welcoming signals that they will be receptive to 
 
 You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
 
-### Communicating effectively
+### 有效沟通
 
 Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
 
@@ -431,7 +431,7 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 
 **Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
 
-### Gathering context
+### 收集上下文
 
 Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
 
@@ -453,7 +453,7 @@ If you want to make a substantial contribution, open an issue to ask before work
   </p>
 </aside>
 
-### Opening an issue
+### 创建 issue
 
 You should usually open an issue in the following situations:
 
@@ -467,7 +467,7 @@ Tips for communicating on issues:
 * **If an issue was opened awhile ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
 * **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
-### Opening a pull request
+### 创建 pull request
 
 You should usually open a pull request in the following situations:
 
@@ -491,9 +491,9 @@ If this is your first pull request, check out [Make a Pull Request](http://makea
 
 You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
 
-After you submit a contribution, one of the following will happen:
+在你提交了贡献之后，下面集中情形中的某种是可能发生的：
 
-### 😭 You don't get a response.
+### 😭 没有人响应你。
 
 Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
 
@@ -503,7 +503,7 @@ If you haven't gotten a response in over a week, it's fair to politely respond i
 
 If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 其他人的要求变更了你的贡献。
 
 It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
 
@@ -511,14 +511,14 @@ When someone requests changes, be responsive. They've taken the time to review y
 
 If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 你的贡献没有获得通过。
 
 Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
 
-### 🎉 Your contribution gets accepted.
+### 🎉 你的贡献被接收。
 
 Hooray! You've successfully made an open source contribution!
 
-## You did it!
+## 你已经做到了!
 
 Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
