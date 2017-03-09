@@ -82,9 +82,9 @@ Even if you are a developer, non-code contributions are a great way to get invol
 
 ### 是否热衷于规划事件？
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* 为项目组织研讨会或线下分享，[一如 @fzamperin 为 NodeSchool 所做的那样](https://github.com/nodeschool/organizers/issues/406)
+* 为项目组织大型会议（假如它有的话）
+* 帮助社区成员寻找合适的技术会议，且帮助有实力的成员提交演讲的拟稿
 
 ### 是否偏向于设计？
 
@@ -130,35 +130,35 @@ Even if you are a developer, non-code contributions are a great way to get invol
 
 ### 在编码方面是否喜欢帮助他人？
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* 为他人的提交审核代码
+* 为如何利用项目撰写教程
+* 为其他贡献者做导师， [正如 @ereichert 为 @bronzdoc 所做的那样，哦，是 Rust 项目](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
 ### 其实不必一定是软件项目！
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+尽管人们一提起“开源”二字，默认就是指开源软件，其实不尽然，开源可以是任何事情的修饰，而不仅仅是指软件而言的。比如图书、食谱、列表、以及任何可以开源的项目类。
 
 举例来说：
 
-* @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
-* @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
+* @sindresorhus 创建了 ["惊奇" 列表](https://github.com/sindresorhus/awesome)
+* @h5bp 维护了针对前端开发者的[面试题](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* @stuartlynn 和 @nicole-a-tesla 制作了[收集关于海雀的有趣的事实](https://github.com/stuartlynn/puffin_facts)
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
+尽管你是一名软件开发者，也可以去撰写一些文档去帮助新的入门者。其实项目中那些看起来令人生畏的项目并不是写代码，做开发者总得挑战自己，其实在做得过程中可以增强信心和获得全新的体验。
 
 ## 根据项目定位自我
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
-  If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+  如果你跟着了一条issue，还发现了令人感到困惑的事情，这很正常，不是你一个人这样。这些工具需要大量的隐式的知识，但是总会有人带着你熟悉这些，当然你要找他们问对的问题。
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["How to Contribute to Open Source"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["如何为开源做贡献"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
-For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
+为开源做贡献，除了单词拼写错误之外，大多数时候就像是走在陌生人中间，浑身上下不适。这就像人们已经在西边讨论的非常深入了，你突然开始讲东，肯定会让人感到不舒服。
 
-Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
+与其盲目的在项目中游荡，不如静下心来学习规则。这样反而会让你的想法被注意到，也会有人听到你的声音。
 
 ### 分析感兴趣的开源项目
 
@@ -211,15 +211,15 @@ You might scan a README and find a broken link or a typo. Or you're a new user a
 
 > [28% of casual contributions](http://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
-You can also use one of the following resources to help you discover new projects:
+你也可以利用如下列出的资源来找到合适的新项目：
 
-* [GitHub Explore](https://github.com/explore/)
+* [GitHub 探索](https://github.com/explore/)
 * [First Timers Only](http://www.firsttimersonly.com/)
-* [Your First PR](https://yourfirstpr.github.io/)
+* [你的第一个 PR](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
+* [像忍者一样贡献](https://contributor.ninja)
 
 ### 提交贡献之前应做的检查列表
 
@@ -227,143 +227,144 @@ When you've found a project you'd like to contribute to, do a quick scan to make
 
 Here's a handy checklist to evaluate whether a project is good for new contributors.
 
-**Meets the definition of open source**
+**符合开源的定义**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+  有许可协议吗？通常情况下，会在根目录有一个叫做 LICENSE 的文件。
   </label>
 </div>
 
-**Project actively accepts contributions**
+**项目被接收的提交活跃度**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+在主干上确认提交的活跃度。在GitHub上托管的开源项目，你可以在仓库主页上看到这些信息。
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
+  最后一次提交是在什么时候？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
+  项目目前有多少贡献者？
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+  人们提交的频繁吗？ (在 GitHub，可以在顶栏里点击“commits”来展现。）
   </label>
 </div>
 
-Next, look at the project's issues.
+接下来，就是看项目的 issue 数量。
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+    目前有多少个还处于开放状态的 issue？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
+    项目的维护者对于处于开放状态的issue响应是否迅速？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+    是否有讨论很活跃的issue？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+    issue 均是近期产生的吗？
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+    有没有关闭的issue？ (在 GitHub, 点击 "closed" 标签就可以看到所有已经关闭的issue。)
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+同样再来看看 PR的情形。
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+    现下有多少处于开放状态的PR？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+    当提交了PR后，维护者响应是否迅速？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+    是否有活跃讨论的 PR？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+    均是近期的RP吗？
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+    最近有多少PR合并？ (在 GitHub, 点击 RP页面的 "closed" 的标签页来查看已经关闭的标签页。)
   </label>
 </div>
 
-**Project is welcoming**
+**项目的受欢迎程度**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+一个项目的友好程度和受欢迎意味着更能吸引新的贡献者。
+
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
+    在issue的问题中，维护者的回答是否非常有帮助？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (ex. IRC or Slack)?
+    人们在issue的讨论中、在线聊天室、论坛是否很友好？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
+    PR是否被review？
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
+    维护者是否对做贡献的人们道声”谢谢”？
   </label>
 </div>
 
@@ -371,7 +372,7 @@ A project that is friendly and welcoming signals that they will be receptive to 
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
   Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_开源软件生产力_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
