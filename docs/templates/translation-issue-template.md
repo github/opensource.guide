@@ -23,4 +23,4 @@ On the `gh-pages` branch of your fork:
 
 Once a translation is completed:
 
-- [ ] Open a Pull Request on the [upstream repository](https://github.com/github/open-source-guide) to add your fork to `translations` in `_config.yml`
+- [ ] Open a Pull Request on the [upstream repository](https://github.com/github/opensource.guide) to add your fork to `translations` in `_config.yml`
