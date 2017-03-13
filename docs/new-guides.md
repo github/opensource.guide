@@ -12,12 +12,17 @@ Thanks for your interest in suggesting a new Open Source Guide! Your suggestions
 
 At this point, we may decide the topic doesn't warrant a new guide and close the issue, or we may recommend adding the information to an existing guide. That's okay! All suggestions are welcomed contributions, because they help us understand what our community is thinking.
 
-## If we decide to move forward on a new guide:
+## If we decide to move forward on a new guide, we will:
 
-1. We'll add a ```research``` label to your issue.
-2. We'll start using your issue to collect existing community resources (links, blog posts, projects). Everybody is welcome to contribute.
-3. We'll open a PR with an outline for the new guide. Anyone is welcome to give feedback.
-4. After general consensus has been reached, your issue will be marked ```in progress```. We'll add the guide to our editorial schedule and estimate a date for 1st draft completion. We'll also put in a request with Design for illustrations.
-5. The PR will be updated with the 1st draft. Your issue will be marked ```1st draft```. Anyone is welcome to give feedback.
-6. Final edits made, with an estimated date for completion.
-7. Release the new guide! 🎉
+- [ ] Label your issue ```research```
+- [ ] Collect existing community resources (links, blog posts, projects) on your issue. Everybody is welcome to contribute.
+  * What else has been written on this topic?
+  * What projects do this well?
+  * Who might be people with valuable experience that we should talk to?
+- [ ] Open a PR with an outline for the new guide. Anyone is welcome to give feedback until we reach general consensus.
+- [ ] Label your issue ```in progress```
+  - [ ] Add the guide to our editorial schedule with estimated date for 1st draft completion
+  - [ ] Request assets from Design for illustrations, Twitter cards, and anything else needed
+- [ ] Label your issue ```draft``` and update PR with the 1st draft. Anyone is welcome to give feedback.
+- [ ] Make final edits and add estimated date for completion
+- [ ] Release the new guide! 🎉
