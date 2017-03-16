@@ -38,7 +38,7 @@ image: /assets/images/cards/contribute.png
 
 ### 寻找导师，并且尝试帮助他人
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+和他人共同在一个共享的项目下工作，这意味着需要向他人解释清楚自己是如何做的，同理，也需要向他人求助，询问别人是如何做的。相互学习和彼此教学对于每位参与者都能满载而归。
 
 ### 在公众间建立你的声誉（职业口碑）
 
@@ -46,37 +46,37 @@ Working with others on a shared project means you'll have to explain how you do 
 
 ### 学习领导和管理的艺术
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+开源为实践领导力和管理技能提供了很好的机会，比如解决冲突、组织团队、工作的优先级排列。
 
 ### 鼓励作出改变，哪怕改变是很微小的
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+在开源的世界里，作出贡献的不一定非得是花了很长时间拥有大量经验的人。你是否遇到过浏览某些网站发现有拼写错误，希望有人能修改它？其实，在开源的项目中，你只需要做就可以了。没有那么多的顾忌，开源让人们在很舒服的状态做事，而这才是这个世界应有的体验。
 
 ## 贡献的具体含义是什么
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+如果你是一名开源界的新手，可能会对贡献的流程心生畏惧。比如：该如何找到正确的项目？不懂编码又想参与怎么办？万一做错事情了怎么办？
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+其实没有关系的啦！条条大路通罗马，开源项目有太多的路径可以参与！以下是一些实用的技巧，帮助你快速的获得经验。
 
 ### 你不具备编码的能力
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the non-code parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with non-code contributions!
+对于为开源做贡献常见的误解就是：为开源做贡献必须得提交代码。事实上，代码固然重要，但是项目中不需编码的重要部分[经常被忽视](https://github.com/blog/2195-the-shape-of-open-source)。你若做了这部分，对于项目来说可是莫大的贡献，而这根本就不需要什么撰写代码！
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+  我被大家所熟知是因为为 CocoaPods 做了一些事, 其实大伙并不知道我实际并没有为 CocoaPods本身做了什么，我大多数的工作是诸如撰写文档、品牌宣传之类的。
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["默认迁移到开源软件"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Even if you are a developer, non-code contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+即使你是以为开发者，非代码的贡献对于项目来说也是举足轻重的，尤其是对于社区的其他成员来说。用心维系这些关系能够让你有工作到项目其它部分的机会。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+  我第一次接触Python开发团队（简称 python-dev)是在 2002年6月17日，当时我是向其邮件列表发送了一份邮件，是关于请求通过我的补丁的。我很快就又发现了开源的bug，于是决定开始为小组收集邮件摘要，然后他们给了我一个澄清问题的理由，但是更加重要的是，我能够捕获到某人指出需要修复的问题。
   <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
+— @brettcannon, ["维护者的故事"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
@@ -96,16 +96,16 @@ Even if you are a developer, non-code contributions are a great way to get invol
 ### 你是否热衷于写作？
 
 * 撰写和改进项目的文档
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like pypa's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Write a translation for the project's documentation
+* 能够以实例来展示项目该如何使用的
+* 为项目撰写新闻稿，或者到邮件列表高调布道
+* 为项目撰写教程， [一如 pypa 的贡献者所做的](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* 翻译项目的文档为本土语言
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  说真心话， \[文档\] 是非常重要的. 目前Babel的文档已经很棒了，这也是其杀手锏的特性之一。当然，还有一些章节需要大家的完善，即使是随便在哪儿增加一个段落都很感激。
   <p markdown="1" class="pquote-credit">
-— @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
+— @kittens, ["贡献者召集令"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
