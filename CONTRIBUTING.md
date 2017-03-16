@@ -26,8 +26,8 @@ There are also many ways you can directly contribute to the guides (in descendin
 * Fix editorial inconsistencies or inaccuracies
 * Add stories, examples, or anecdotes that help illustrate a point
 * Revise language to be more approachable and friendly
-* [Translate guides into other languages](docs/translations.md)
-* Propose a new guide (please open an issue to discuss before writing!)
+* Translate guides into other languages
+* Propose a new guide ([here's how](./docs/new-guides.md))
 
 Interested in making a contribution? Read on!
 
