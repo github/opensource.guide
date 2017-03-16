@@ -87,11 +87,10 @@ image: /assets/images/cards/contribute.png
 * 帮助社区成员寻找合适的技术会议，且帮助有实力的成员提交演讲的拟稿
 
 ### 是否偏向于设计？
-
-* Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus
-* Put together a style guide to help the project have a consistent visual design
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+* 重新布置布局以提高项目的可用性
+* 进行用户研究以重新组织和完善项目的导航或菜单
+* 整理一个风格指南，以帮助项目有一致的视觉设计
+* 创建t恤的艺术或一个新的标志，[就像 hapi.js 的贡献者那样](https://github.com/hapijs/contrib/issues/68)
 
 ### 你是否热衷于写作？
 
@@ -110,23 +109,22 @@ image: /assets/images/cards/contribute.png
 </aside>
 
 ### 你喜欢组织活动吗？
-
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and suggest closing old ones, [like @nzakas did for eslint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* 链接重复的问题，并建议新的问题标签，使事物井井有条
+* 通过开放的问题，并建议关闭旧的，[就像 @nzakas 为 eslint 做的](https://github.com/eslint/eslint/issues/6765)
+* 把最近开放的问题阐述清晰，以推动讨论
 
 ### 享受编码的乐趣？
 
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* 找到一个开放的问题并解决它，[就像 @dianjin 为 Leaflet 做的](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* 想一想你是否可以帮忙写一个新的功能
+* 自动化项目设置
+* 改进工具和测试
 
 ### 热衷于帮助他人？
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+* 回答关于项目的问题，例如在 Stack Overflow（[像 Postgres 的这个示例](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-to-ge)）或者 reddit 上
+* 为人们解答公开的问题
+* 帮助缓和讨论板或对话渠道
 
 ### 在编码方面是否喜欢帮助他人？
 
