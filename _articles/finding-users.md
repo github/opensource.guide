@@ -29,7 +29,7 @@ For example, @robb uses code examples to clearly communicate why his project, [C
 
 ![cartography readme](/assets/images/finding-users/cartography.jpg)
 
-For a deeper diver into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
 
 ## Help people find and follow your project
 
