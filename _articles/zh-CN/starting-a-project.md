@@ -18,7 +18,7 @@ image: /assets/images/cards/beginner.png
 
 所以你在考虑开始参与开源？恭喜！世界赞赏你的贡献。让我们来谈谈开源是什么，以及人们这样做。
 
-### What does "open source" mean?
+### “开源”是什么意思？
 
 当一个项目被开源，这意味着**任何人都可以出于任何目的查看，使用，修改和分发你的项目**。 这些权限通过[开源许可](https://opensource.org/licenses)强制实施。
 
@@ -53,61 +53,61 @@ image: /assets/images/cards/beginner.png
 
 开源并不仅仅限于软件。您可以开源任何事物，从数据集到书本。查看 [GitHub Explore](https://github.com/explore) 开找找有什么是你可以开源的。
 
-### Does open source mean "free of charge"?
+### 开源是指“免费”吗？
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+开源最大的吸引之一是它不花钱。 但是，“免费”只是开源的总体价值的一个副产品。
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+因为[开源许可证要求](https://opensource.org/osd-annotated)任何人可以几乎出于任何目使用，修改和共享您的项目，项目本身往往是免费的。 如果该项目花钱使用，任何人也都可以合法地复制和使用免费版本。
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+因此，大多数开源项目是免费的，但“免费”不是开源定义的一部分。 有些方法可以通过双重许可或有限功能间接地为开源项目收费，同时仍然遵守开源的官方定义。
 
-## 我有必要去发起开源项目?
+## 我是否应该发起我自己的开源项目?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+简单来说，答案是肯定的，因为无论结果如何，启动您自己的项目来了解开源的工作原理是一个好方法。
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+如果你从来没有创建过一个项目，你可能会担心人们会说什么，或者是否有人会注意到。 如果这听起来像你现在的状态，别担心，你并不孤独！
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+开源工作就像任何其他充满创意的活动，无论是写作还是绘画。 向世界分享你的作品会让你提心吊胆，但唯有练习能够让你的感觉变好的方法 - 即使你没有观众。
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+如果你还不确信，请花一点时间思考你的目标可能是什么。
 
-### Setting your goals
+### 设置你的目标
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+目标可以帮助你弄清该做什么，不应该说什么，以及你在哪方面需要其他人的帮助。 首先问自己，_我是为什么开源这个项目？_
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+这个问题没有标准答案。 对于一个项目你可以有多个目标，或者具有不同目标的不同项目。
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+如果你唯一的目标是炫耀你的工作，你甚至可能不需要他人的贡献，甚至在你的README中说明这点。但另一方面，如果你需要贡献者，你会投入时间来使文档清晰，好让新的参与者感到欢迎。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+在某些时候，我创建了一个自己正在使用的自定义 UIAlertView，我决定将它开源。所以我修改它使其更有活力，并把它上传到了 GitHub。我还写了我的第一个文档，解释给其他开发人员如何在他们的项目中使用它。很可能没有人会去使用它，因为它是一个简单的项目，但我的贡献让我感觉很好。 
   <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+— @mavris, [“自学的软件开发者：为什么开源对我们那么重要”](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+随着你的项目增长，你的社区可能不仅需要你的代码。回应问题，审查代码和传播你的项目都会成为开源项目中的重要任务。
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+而你在非编码的任务上花费的时间将取决于项目的大小和范围，你应该准备好作为维护者来自己解决或找人帮助你。
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**如果你是公司开源项目的一部分，**确保你的项目有它需要茁壮成长的内部资源。 你需要确定谁在启动后负责维护项目，以及如何与你的社区共享这些任务。
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+如果你需要专门的预算或人员来促进，操作和维护项目，请尽早提出。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1857993?v=3&s=460" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+当你开始开源一个项目时，确保您的管理流程考虑到您项目周围社区的贡献和能力很重要。不要害怕让那些没有在你的企业中受雇的贡献者参与项目的关键部分 - 尤其如果他们是频繁的贡献者的话。
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, [“所以你想开源一个项目，是吗？”](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
   </p>
 </aside>
 
-### Contributing to other projects
+###加入其他项目
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+如果你的目标是学习如何与他人合作或了解开源的工作方式，请考虑为现有项目做出贡献。从你已经使用并喜欢的项目开始。像修复拼写错误或更新文档简单的事也能为项目做出贡献。
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+如果你不知道如何开始作为贡献者，请查看我们的[如何贡献开源指南](../how-to-contribute/)。
 
 ## 发起自己的开源项目
 
