@@ -162,52 +162,52 @@ image: /assets/images/cards/contribute.png
 
 每一个开源社区都是不一样的。
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+在某一个开源项目扎根多年，这意味着你只是对这一个开源项目无比的熟悉。若是切换到不同的项目，可能会发现完全是另外一回事，所谓的使用词汇、习惯用语、沟通方式都发生了变化。
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+然而，很多的开源项目还是遵循类似的组织结构的。理解不同的社区角色和全部的流程，可以很好的帮助你快速的切入新的项目。
 
-A typical open source project has the following types of people:
+一个典型的开源项目均会有如下类型的人：
 
-* **作者:** The person/s or organization that created the project
-* **归属者:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **维护者:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
-* **贡献者:** Everyone who has contributed something back to the project.
-* **社区成员:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
+* **作者:** 项目的创始人或创始组织
+* **归属者:** 代码仓库或组织的管理员（不一定和作者是同一个人）
+* **维护者:** 贡献者，负责项目的未来走向和组织的管理（他们通常也是项目的作者或归属者。）
+* **贡献者:** 只要是为项目做出了贡献，就算。
+* **社区成员:** 那些实用项目的人们。他们或许是积极的讨论者，又或者是为项目的方向提出意见的人。
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+一个较大的项目，可能下面还会细分子社区，或者是针对不同的任务分成不同的小组，比如工具小组、分流、社区事务、以及活动组织等。径直到项目到web站点，找到“团队”页面，或者是查看治理文档，从而获得类似到信息。
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+靠谱的开源项目，一般都会有一个文档的，这些文档文件通常会在代码仓库的顶级目录列出。
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
-* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMES help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+* **许可协议:** 根据开源软件的定义，每一个开源项目必须是有[开源许可协议](https://choosealicense.com)的. 可以这么认为：假如说某个项目源码开放，但是没有任何的许可协议，那么它就不能叫做开源。
+* **README:**  README 是一个介绍性的说明文件，对初次光临社区对人们表示欢迎，它通常会解释项目有何用处，为何发起，以及如何快速入门等。
+* **贡献:**  READMES 帮助人们来认识项目，贡献这个文件则是帮助对项目如何做贡献。它解释了目前项目需要什么样类型对贡献者，社区对流程是啥样的。并非所有的项目都会有这个文件，它某种程度上也是展示项目对于贡献者的友好程度。
+* **行为准则:** 顾名思义，即是一些参与社区时的一些礼仪、说话方式、行为等，帮助形成一种友好的氛围，不是所有的项目都会撰写行为准则文件，它某种程度上也是展示项目对于贡献者的友好程度。
+* **其它文档:** 有些项目也许还有其它文档，例如教程、导游，或者是治理规则，这在大型项目中常见。
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+此外，开源项目还会利用如下一些工具来进行组织讨论，阅读这些归档对于理解社区的想法、是如何工作的有非常大的作用。
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (ex. _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+* **问题追踪:** 这里是人们讨论项目相关问题的地方。
+* **Pull requests:** 审核代码、以及相关的问题讨论。
+* **论坛或邮件列表:** 一些项目会实用会话式的主题（例如 _"How do I..."_ 或 _"What do you think about..."_ 来替代Bug报告或特性请求）。然而有一些项目关于讨论全部实用问题追踪。
+* **即时在线聊天:** 有一些项目会实用聊天频道（诸如 Slack 或 IRC），从而能够随意的谈话、协作和快速交流。
 
 ## 寻找打算做贡献的项目
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+你读到这里，说明已经对于一个开源项目如何运作的有了清晰的认识，是该找一个合适的项目做贡献的时候了！
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
+假如你之前从来都没有为开源做过贡献的话，那么请记住来自美国总统约翰 F.肯尼迪的这段话：**不要问你的国家能为你做什么，要问你能为国家做什么。**
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+开源项目的方方面面都需要贡献者，你先不要通盘考虑该往哪里贡献，或者是它将如何看。
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+相反，从你已经使用到的或者打算用到项目开启贡献之路，在你积极的贡献过程中，项目也会反馈给你，让你更好的定位自己。
 
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+一旦进入某项目，不论何时，你都要听从自己的直觉，做你认为更好或者不同的事情。
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+开源并不是高级俱乐部；它就是由你这样的人所浇铸和打造。**“开源”只是针对这个世界的需要修复的问题的一个梦幻术语罢了。**
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+你或许在查看 README的时候，发现了损坏的链接，又或者拼写错误。又或者是你是一名新手，使用的过程中发现了问题，又或者是某问题应该在文档中注明。请不要坐视不理，径直绕开，或者是请求他人修复，伸出你的援助之手，解决这些你能看到的问题。而这正是开源的精髓之所在！
 
-> [28% of casual contributions](http://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> [28% 的随意贡献](http://www.igor.pro.br/publica/papers/saner2016.pdf) 就是说明了文档的开源，诸如拼写错误，段落语句调整、或者是翻译。
 
 你也可以利用如下列出的资源来找到合适的新项目：
 
@@ -221,9 +221,9 @@ You might scan a README and find a broken link or a typo. Or you're a new user a
 
 ### 提交贡献之前应做的检查列表
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+当你找到了你打算贡献的项目时，在进一步行动之前，作一个快速的扫描工作，以确保项目是否接受贡献的。否则，你煞费苦心的工作可能没有任何的回报。
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+这是一个简易的检查表，用来评估一个项目是否适合新的贡献者。
 
 **符合开源的定义**
 
@@ -368,7 +368,7 @@ Here's a handy checklist to evaluate whether a project is good for new contribut
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+  当你看到一个很长当对话时，来自核心开发者的零星的响应排在列表的后面。你就得考虑，他们在作建设性的总结？是否保持风度的情况下做出最后的决定？如果你看到的是更多的口水仗，而且还在继续，这通常意味着社区的能量重心已经不在开发上了。
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_开源软件生产力_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
@@ -376,7 +376,7 @@ Here's a handy checklist to evaluate whether a project is good for new contribut
 
 ## 如何提交成果
 
-You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
+你已经找到了你喜爱的项目，也已准备好贡献了，迫不及待、跃跃欲试了。好吧！以下就是带领你如何以正确的姿势作贡献。
 
 ### 有效沟通
 
@@ -436,7 +436,7 @@ Before doing anything, do a quick check to make sure your idea hasn't been discu
 
 If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by opening an issue or pull request:
 
-* **Issues** are like starting a conversation or discussion
+* **Issues** 开启一次对话或讨论
 * **Pull requests** are for starting work on a solution
 * **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
 
@@ -446,7 +446,7 @@ If you want to make a substantial contribution, open an issue to ask before work
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
-  You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+  你能够从单个的项目学习到 <em>很多</em> ，只要你踊跃的去实用，在GitHub上密切观察项目，并阅读每一个 issue 和 PR。
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
@@ -460,7 +460,7 @@ You should usually open an issue in the following situations:
 * Discuss a high-level topic or idea (ex. community, vision, policies)
 * Propose a new feature or other project idea
 
-Tips for communicating on issues:
+在issue的沟通中几点实用的技巧:
 
 * **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
 * **If an issue was opened awhile ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
@@ -488,7 +488,7 @@ If this is your first pull request, check out [Make a Pull Request](http://makea
 
 ## 在提交完之后需要善后事宜
 
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+很不错，你做到了！恭贺你成为开源贡献者。我们希望这是一个良好的开端。
 
 在你提交了贡献之后，下面集中情形中的某种是可能发生的：
 
@@ -516,7 +516,7 @@ Your contribution may or may not be accepted in the end. Hopefully you didn't pu
 
 ### 🎉 你的贡献被接收。
 
-Hooray! You've successfully made an open source contribution!
+太棒了！你已经成功的做到了，为开源做贡献也不过如此！
 
 ## 你已经做到了!
 
