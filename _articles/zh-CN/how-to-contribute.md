@@ -380,85 +380,85 @@ image: /assets/images/cards/contribute.png
 
 ### 有效沟通
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+无论你处于什么样的目的：仅仅是一次性的贡献，亦或是永久性的加入社区，都的和他人进行沟通和交往，这是你要在开源圈发展必须修炼的技能。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/7693422?v=3&s=460" class="pquote-avatar" alt="avatar">
-  \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+  \[作为一名新手,\] 我很快的就意识到，我若是要关闭一条issue时，我不得不问更多的问题。我浏览了代码库，一旦我觉得有什么问题的时候，我就得需要更多的指点，瞧！ 在我得到所有的所需要的信息后，我就可以解决这个问题！
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [一名菜鸟进入开源世界的坎坷之旅](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
 </aside>
 
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+在你开启一个isse或PR之前，或者是在聊天室问问题之前，请牢记下面所列出的几点建议，会让你的工作更加的高效。
 
-**Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
+**给出上下文** 以便于让其他人能够快速的理解。比方说你运行程序时遇到一个错误，要解释你是如何做的，并描述如何才能再现错误现象。又比方说你是提交一个新的想法，要解释你为什么这么想，对于项目有用处吗（不仅仅是只有你！）
 
-> 😇 _"X doesn't happen when I do Y"_
+> 😇 _"当我做 Y 的时候 X 不能工作"_
 >
-> 😢 _"X is broken! Please fix it."_
+> 😢 _"X 出问题! 请修复它。"_
 
-**Do your homework beforehand.** It's ok not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**在进一步行动前，做好准备工作。** 不知道没关系，但是要展现你尝试过、努力过。在寻求帮助之前，请确认阅读了项目的 README、文档、问题（开放的和关闭的）、邮件列表，并搜索了网络。当你表现出很强烈的求知欲的时候，人们是非常欣赏这点的，会很乐意的帮助你。
 
-> 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
+> 😇 _"我不确定 X 是如何实现的，我查阅了相关的帮助文档，然而毫无所获。"_
 >
-> 😢 _"How do I X?"_
+> 😢 _"我该怎么做 X ?"_
 
-**Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
+**保持请求内容短小而直接。** 正如发送一份邮件，每一次的贡献，无论是多么的简单，都是需要他人去查阅的。很多项目都是请求的人多，提供帮助的人少。相信我，保持简洁，你能得到他人帮助的机会会大大的增加。
 
-> 😇 _"I'd like to write an API tutorial."_
+> 😇 _"我很乐意写 API 的教程。"_
 >
-> 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
+> 😢 _" 有一天我驾驶汽车行驶在高速公路上，在某个加油站加油的时候，突发奇想，我们应该这么做，不过在我进一步解释之前，我先和大家展示一下。。。"_
 
-**Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
+**让所有的沟通都是在公开场合下进行。** 哪怕是很不起眼的小事，也不要去给维护者发私信，除非是你要分享一些敏感信息（诸如安全问题或严重的过失）。你若能够保持谈话是公开的，很多人可以你们交换的意见中学习和受益。
 
-> 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
+> 😇 _(评论) "@维护者 你好！我们该如何处理这个PR？"_
 >
-> 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
+> 😢 _(邮件) "你好，非常抱歉给发信，但是我实在很希望你能看一下我提交的PR。"_
 
-**It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
+**大胆的提问（但是要谨慎！）。** 每个人参与社区，开始的时候都是新手，哪怕是非常有经验的贡献者也一样，在刚进入一个新的项目的时候，也是新手。出于同样的原因,甚至长期维护人员并不总是熟悉一个项目的每一部分。给他们同样的耐心,你也会得到同样的回报。
 
-> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
+> 😇 _"感谢查看了这个错误，我按照您的建议做了，这是输出结果。"_
 >
-> 😢 _"Why can't you fix my problem? Isn't this your project?"_
+> 😢 _"你为什么不修复我的问题？这难道不是你的项目吗？"_
 
-**Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+**尊重社区的决定。** 你的想法可能会和社区的优先级、愿景等有差异，他们可能对于你的想法提供了反馈和最后的决定的理由，这时你应该去积极的讨论，并寻求妥协的办法，维护者必须慎重的考虑你的想法。但是如果你实在是不能同意社区的做法，你可以坚持自己！保持自己的分支，或者另起炉灶。
 
-> 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
+> 😇 _"你不能支持我的用例，我蛮失望，但是你的解释仅仅是对一小部分用户起作用，我理解是为什么。感谢你的耐心倾听。"_
 >
-> 😢 _"Why won't you support my use case? This is unacceptable!"_
+> 😢 _"你为什么不支持我的用例？这是不可接受的！"_
 
-**Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
+**以上几点，要铭记在心。** 开源是由来自世界各地的人们共同协作实现的。面临的问题是跨语言、跨文化、不同的地理为止、不同的时区，另外，撰写文字的沟通更是难上加难，无法传达语气和情绪。请让这些会话都充满善意吧！在以下情形中请保持礼貌：推动一个想法、请求更多的上下文、进一步澄清你的立场。既然你在互联网找到了自己的所需，那么请尝试让它变得更好！
 
 ### 收集上下文
 
-Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+在正是开始之前，做一些快速的检查项，以确保你的想法是没有被讨论过的。遍历项目的 README、问题（开放的和关闭的都算）、邮件列表、Stack Overflow。毋需去花好几个小时去全部折腾一遍，但是使用几个关键的词汇来搜索一下是必要的。
 
-If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by opening an issue or pull request:
+如果你没有找到和你想法一样的内容，你就可以继续了。如果项目是在 GitHub上的话，你可以通过开启一个issue或PR：
 
 * **Issues** 开启一次对话或讨论
-* **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
+* **Pull requests** 请求接受自己的解决方法
+* **少量的沟通，** 诸如澄清或how-to的问题，尝试到 Stack Overflow 、IRC、Slack或其它聊天频道。
 
-Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
+在你创建issue和PR之前，请检查项目的贡献者文档（文件名通常叫做 CONTRIBUTING，或者就直接包含在README中），找一些你需要的较具体的东西，例如，他们会要求你遵循某个模版，或者是要求你使用某个测试。
 
-If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for awhile (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+如果你做的是一个非常实际的贡献，在正式开启之前，先创建一个issue。监视项目是很有帮助的（在GitHub，[点击 "Watch"](https://help.github.com/articles/watching-repositories/)，所有的对话都会通知到你），要让社区的成员们知道你要做的工作，免得你做了之后，再让他们知道，他们不同意，就浪费了。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
-  你能够从单个的项目学习到 <em>很多</em> ，只要你踊跃的去实用，在GitHub上密切观察项目，并阅读每一个 issue 和 PR。
+  你能够从单个的项目学习到 <em>很多</em> ，只要你踊跃的去使用，在GitHub上密切观察项目，并阅读每一个 issue 和 PR。
 <p markdown="1" class="pquote-credit">
-— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+— @gaearon [参与项目](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
 ### 创建 issue
 
-You should usually open an issue in the following situations:
+你应该在遇到下列情况下，去创建一个 issue：
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (ex. community, vision, policies)
-* Propose a new feature or other project idea
+* 报告你自己无法解决的错误
+* 讨论一个高级主题或想法(例如. 社区、远景、政策等)
+* 期望实现某新的特性，或者其它项目的想法
 
 在issue的沟通中几点实用的技巧:
 
