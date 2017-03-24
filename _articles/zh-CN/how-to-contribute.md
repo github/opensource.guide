@@ -462,29 +462,29 @@ image: /assets/images/cards/contribute.png
 
 在issue的沟通中几点实用的技巧:
 
-* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
-* **If an issue was opened awhile ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-* **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+* **如果你刚好看到一个开放的issue，恰是你打算解决的，** 添加评论，告诉他人你将负责这个。这样的话，可以避免他人重复劳动。
+* **如果说某个issue已经开放很久了，** 这可能是已经有人正在解决中，又或者是早已经解决过了，所以也请添加评论，在打算开启工作之前，最好是确认一下。
+* **如果你创建了一issue，但是没多久自己解决了，** 也要添加评论，让其他人知道，然后关闭该issue。记录本身就是为社区的贡献。
 
 ### 创建 pull request
 
-You should usually open a pull request in the following situations:
+在下面的情形时，请你务必使用PR：
 
-* Submit trivial fixes (ex. a typo, broken link, or obvious error)
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+* 提交补丁 (例如，纠正拼写错误、损坏的链接、或者是其它较明显的错误）
+* 开始一项别人请求的任务，或者是过去在issue中早就讨论过的
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+一个 PR 并不代表着工作已经完成。它通常是尽早的开启一个PR，是为了其他人可以观看或者给作者反馈意见。只需要在子标题标记为“WIP”（正在进行中）。作者可以在后面添加很多评论。
 
-If the project is on GitHub, here's how to submit a pull request:
+如果说项目是托管在 GitHub上的，以下是我们总结出的提交RP的建议：
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
-* **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
-* **Reference any relevant issues** or supporting documentation in your PR (ex. "Closes #37.")
-* **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
-* **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+* **[Fork 代码仓库](https://guides.github.com/activities/forking/)** 并克隆到本地，在本地的仓库配置“上游”为远端仓库。这样你可以在提交你的PR时保持和“上游”同步，会减少很多解决冲突的时间。(更多关于同步的说明，请参考[这里](https://help.github.com/articles/syncing-a-fork/).)
+* **[创建一个分支](https://guides.github.com/introduction/flow/)** 用于自己编辑。
+* **参考任何相关的issue** 或者在你的RP中支持文档(比如. "Closes #37.")
+* **包含之前和之后的快照** 如果你的改动是包含了不同的 HTML/CSS。在你的PR中拖拉相应的图片。
+* **测试你的改动！** 若测试用例存在的话，跑一遍，以覆盖你的更改，若没有的话，则创建相应的用例。无论测试是否存在，一定要确保你的改动不会破坏掉现有的项目。
+* **和项目现有的风格保持一致** 尽你最大的努力，这也就是意味着在使用缩进、分号、以及注释很可能和你自己的风格大相径庭，但是为了节省维护者的精力，以及未来他人更好的理解和维护，还请你容忍一下。
 
-If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a free walkthrough resource.
+如果这是你第一次提交PR。可以浏览[PR制造](http://makeapullrequest.com/)的文档，这是 @kentcdodds 专门为初次创建PR的人写的公开的资料。
 
 ## 在提交完之后需要善后事宜
 
@@ -520,4 +520,6 @@ Your contribution may or may not be accepted in the end. Hopefully you didn't pu
 
 ## 你已经做到了!
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+你刚刚完成了自己的开源贡献处女秀，接下来，你可能打算寻找另外的方法来做贡献，希望本文给你提供了灵感和实践。即使是你的贡献没有被采纳或接收，也不要有失风度，请对帮助过你的维护者表示感谢！
+
+开源就是由你这样的人所铸造：开启一个issue，在提交PR，评论、讨论、收集反馈，直到被接收。就是这么简单。
