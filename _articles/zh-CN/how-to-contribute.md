@@ -490,29 +490,29 @@ image: /assets/images/cards/contribute.png
 
 很不错，你做到了！恭贺你成为开源贡献者。我们希望这是一个良好的开端。
 
-在你提交了贡献之后，下面集中情形中的某种是可能发生的：
+在你提交了贡献之后，下面几种情形中的某种是可能发生的：
 
 ### 😭 没有人响应你。
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+希望你确认在开始工作之前[检查过了项目的活跃度](#a-checklist-before-you-contribute)，不过即使检查过了，也不保证一个活跃的项目，没有人理会你的贡献也是很正常的。
 
-If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+如果过去了一周，依旧没有人响应，请心平气和的在后面跟帖，询求他人帮助你审核下。如果你熟悉某个人可以审核你的贡献，你可以使用@+名字，直接提醒他一下。
 
-**Don't** reach out to that person privately; remember that public communication is vital to open source projects.
+**千万不要** 私下里去联系他人；一定要记住，开源项目所有的沟通都应该是公开的。
 
-If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+如果你做了所有该做的事情，还是没有人理你，那就是真的没有人对你的贡献做出响应。这可能感觉上不太好受，但是千万不要灰心。每个人都会遇到这样的情况。其实有太多种原因没有人响应你的提交了，包括很多个人情形都是不在你控制范围的。再接再厉，换一种方法去提交，或者换一个项目。这年头，很多社区成员都在积极的参与和响应他人，都在抢夺优秀的人才，若没有人搭理你，你换地方是没有任何不对的地方的。
 
-### 🚧 其他人的要求变更了你的贡献。
+### 🚧 其他人的要求你对自己的提交做出变更。
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+对于自己的提交作出变更这件事非常的普遍，可能是你获得了反馈，也可能是变更了代码。
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+当有人提出变更时，请表现出大度的地方，要及时响应。他们花时间审核了你的提交，要尊重他们。开启了PR，然后一走了之，是一种恶习。如果你不知道如何修改，请花时间深入研究问题的所在，如果还是没有想到好的办法，那么是该向他人求助的时候了。
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+如果你因为没有时间而无法继续在此issue继续工作（举例来说，如果对话已经过去了一个月了，没有任何的回复和进度，环境肯定变得不一样了），那么请向维护者告知你无法在及时的响应了，肯定有人非常乐意接替你的工作的。
 
 ### 👎 你的贡献没有获得通过。
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
+你的提交最后可能没有被接受。真心希望你没有在此作出过多的努力。如果你不确定为什么没有被接收的话，这正是一个很好的询问维护者反馈和澄清的机会。最终，无论如何，你都要对他们的决定表示尊重。不要去做过多无谓的争论或者是充满敌意的谩骂。如果你坚持自己，你可以随意的fork项目，按照自己的思路发展出分支来。
 
 ### 🎉 你的贡献被接收。
 
