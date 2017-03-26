@@ -111,53 +111,53 @@ image: /assets/images/cards/beginner.png
 
 ## 发起自己的开源项目
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+即使你没有很好的时间来开源你的工作。你也可以开源一个想法，正在进行中的工作，或是关闭了多年的源码。
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+一般来说，如果你乐意于他人对你工作的查看和反馈，你就应该开源你的项目。
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+无论您决定开展项目的哪个阶段，每个项目都应包括以下文档：
 
 * [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
 * [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 * [Code of conduct](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+作为维护者，这些组件将帮助你交流你的期望，管理贡献并保护每个人的合法权益（也包括您自己的）。他们能够大大增加你积极体验的机会。
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+如果您的项目在 GitHub 上，则将这些文件放在您的根目录中，并使用推荐的文件名将有助于 GitHub 识别并自动将其显示给读者。
 
-### Choosing a license
+### 选择一个许可证 (license)
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+开源许可证保证其他人可以使用，复制，修改和贡献给您的项目，而不会产生不良后果。 它也可以保护您免受繁琐的法律影响。**启动开源项目时，请务必包含许可证。**
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+法律工作是非常无趣的。但好消息是，您可以将现有许可证复制并粘贴到存储库中。只需要花这么一点时间，就能保护你的辛苦工作。
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),  和 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 都是非常流行的开源许可证， 但你可以选择[其他选项](https://choosealicense.com).
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+当你在GitHub上创建新项目时，你可以选择许可证。包括开源许可证将使你的GitHub项目成为开源。
 
-![pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![挑选一个许可证](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+如果您在管理开放源码项目的法律方面有其他问题或疑虑，我们已经[在这里](../legal/)介绍了。
 
-### Writing a README
+### 编写自述文件 (README)
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+自述文件不仅仅是用于说明如何使用你的项目。他们还可以解释你的项目为什么重要，以及它可以为你的用户做什么。
 
-In your README, try to answer the following questions:
+在您的自述文件中，尝试回答以下问题：
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* 这个项目做什么？
+* 为什么这个项目有用？
+* 如何开始？
+* 如果需要，我可以在哪里获得更多的帮助？
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+您可以使用自己的README回答其他问题，例如处理贡献，项目的目标以及许可证和归属信息。 如果您不想接受他人的贡献，或者您的项目尚未准备好作为产品提供使用，请将这些信息写下来。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/168572?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+更好的文档意味着更多的用户，更少的求助和更多的贡献者，等等。要记住你的读者不是你自己。来到项目中的每个人可能有着截然不同的经历。
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @limedaring, ["这样写给他人看（视频）"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
