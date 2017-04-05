@@ -1,0 +1,37 @@
+---
+layout: default
+title: Contributors
+---
+
+<div class="">
+  <nav class="">
+    <div class="nav d-lg-block navigation bg-nav">
+      {% include contents.html %}
+    </div>
+  </nav>
+
+  <div class="main-col">
+    <div class="container pt-4 pt-lg-8">
+
+      <h1 class="mb-3 mb-lg-4 pt-md-2 pt-lg-4">{{ page.title }}</h1>
+
+      <p class="lead">
+        Every contribution is meaningful, so thank you to everyone who has played a part in improving this handbook.
+      </p>
+
+      <ul class="list-unstyled cols-left text-center mt-4">
+      {% for contributor in site.data.contributors %}
+        <li class="col-2 col-lg-3 col-md-4 col-sm-6 pr-4 pb-2">
+            <a href="{{ contributor["html_url"] }}">
+              <img alt="avatar of @{{ contributor["login"] }}" src="{{ contributor["avatar_url"] }}">
+            </a>
+            <div class="mt-2">
+              <a class="user-mention" href="{{ contributor["html_url"] }}">@{{ contributor["login"] }}</a>
+            </div>
+          </a>
+        </li>
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
