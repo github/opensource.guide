@@ -230,7 +230,7 @@ If you add tests, make sure to explain how they work in your CONTRIBUTING file.
 
 The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
 
-There are a [variety of tools available](https://github.com/integrations) to help automate some aspects of maintenance work. A few examples:
+There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
 
 * [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
 * [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
