@@ -24,6 +24,7 @@ image: /assets/images/cards/contribute.png
 </aside>
 
 Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+Contribuir con el código abierto puede ser una forma recompensadora de aprender, enseñar y conseguir experiencia sobre cualquier experiencia que puedas imaginarte.
 
 Why do people contribute to open source? Plenty of reasons!
 
