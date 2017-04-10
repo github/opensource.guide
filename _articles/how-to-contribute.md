@@ -3,7 +3,7 @@ title: Cómo contribuir al código abierto
 description: ¿Quieres contribuir al código abierto? Una guía para hacer contribuiciones al código abierto, para novatos y veteranos.
 class: contribute
 toc:
-  why-contribute-to-open-source: "¿Para qué contribuir?"
+  para-que-contribuir: "¿Para qué contribuir?"
   what-it-means-to-contribute: "Que significa contribuir"
   orienting-yourself-to-a-new-project: "Orientándote a un nuevo proyecto"
   finding-a-project-to-contribute-to: "Encontrando un proyecto al que contribuir"
@@ -13,20 +13,19 @@ order: 1
 image: /assets/images/cards/contribute.png
 ---
 
-## Why contribute to open source?
+## ¿Para qué contribuir?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  Trabajar en \[freenode\] me ha ayudado a conseguir muchas de las habilidades que luego he usado en mis estudios en la universidad y en mi actual trabajo. ¡Creo que trabajar en proyectos de código abierto me ayuda tanto como ayuda al proyecto!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
-Contribuir con el código abierto puede ser una provechosa forma de aprender, enseñar y conseguir experiencia sobre cualquier experiencia que puedas imaginarte.
+Contribuir en proyectos de código abierto puede ser una provechosa manera de aprender, enseñar, y conseguir experiencia en cualquier habilidad que puedas imaginar.
 
-Why do people contribute to open source? Plenty of reasons!
+¿Para qué contribuye la gente en proyectos de código abierto? ¡Por muchas razones!
 
 ### Improve existing skills
 
