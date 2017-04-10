@@ -23,7 +23,7 @@ image: /assets/images/cards/contribute.png
   </p>
 </aside>
 
-Contribuir en proyectos de código abierto puede ser una provechosa manera de aprender, enseñar, y conseguir experiencia en cualquier habilidad que puedas imaginar.
+Contribuir en proyectos de c&oacute;digo abierto puede ser una provechosa manera de aprender, enseñar, y conseguir experiencia en cualquier habilidad que puedas imaginar.
 
 ¿Para qué contribuye la gente en proyectos de código abierto? ¡Por muchas razones!
 
