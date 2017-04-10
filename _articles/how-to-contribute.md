@@ -1,14 +1,14 @@
 ---
-title: Cómo contribuir al código abierto
-description: ¿Quieres contribuir al código abierto? Una guía para hacer contribuiciones al código abierto, para novatos y veteranos.
+title: C&oacute;mo contribuir al c&oacute;digo abierto
+description: ¿Quieres contribuir al c&oacute;digo abierto? Una gu&iacute;a para hacer contribuiciones al c&oacute;digo abierto, para novatos y veteranos.
 class: contribute
 toc:
-  para-que-contribuir: "¿Para qué contribuir?"
-  what-it-means-to-contribute: "Que significa contribuir"
-  orienting-yourself-to-a-new-project: "Orientándote a un nuevo proyecto"
+  para-que-contribuir: "¿Para qu&eacute; contribuir?"
+  what-it-means-to-contribute: "Qu&eacute; significa contribuir"
+  orienting-yourself-to-a-new-project: "Orient&aacute;ndote a un nuevo proyecto"
   finding-a-project-to-contribute-to: "Encontrando un proyecto al que contribuir"
-  how-to-submit-a-contribution: "Cómo contribuir"
-  what-happens-after-you-submit-a-contribution: "Qué pasa después de contribuir"
+  how-to-submit-a-contribution: "C&oacute;mo contribuir"
+  what-happens-after-you-submit-a-contribution: "Qu&eacute; pasa despu&eacute;s de contribuir"
 order: 1
 image: /assets/images/cards/contribute.png
 ---
@@ -25,7 +25,7 @@ image: /assets/images/cards/contribute.png
 
 Contribuir en proyectos de c&oacute;digo abierto puede ser una provechosa manera de aprender, enseñar, y conseguir experiencia en cualquier habilidad que puedas imaginar.
 
-¿Para qué contribuye la gente en proyectos de código abierto? ¡Por muchas razones!
+¿Para qu&eacute; contribuye la gente en proyectos de c&oacute;digo abierto? ¡Por muchas razones!
 
 ### Improve existing skills
 
