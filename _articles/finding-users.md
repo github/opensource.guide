@@ -3,8 +3,8 @@ title: Finding Users For Your Project
 description: Help your open source project grow by getting it in the hands of happy users.
 class: finding
 toc:
-  spreading-the-word: "Spreading the word"
-  figure-out-your-message: "Figure out your message"
+  spreading-the-word: "Pasando la voz"
+  figure-out-your-message: "Pensando tu mensaje"
   help-people-find-and-follow-your-project: "Help people find and follow your project"
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
   go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
@@ -13,23 +13,26 @@ order: 3
 image: /assets/images/cards/finding.png
 ---
 
-## Spreading the word
+## Pasando la voz
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you are hoping others will find and use your open source project, however, it's time to tell everybody about your hard work!
+No existe ninguna regla que diga que debes fomentar un proyecto open source cuando lo comienzas. Existen muchas razones satisfactorias para trabajar en c&oacute;digo abierto que no tienen nada relacionado con la popularidad. Si esperas que otros encuentren y usen tu proyecto open source, sin embargo, ¡es momento para decirles a todos acerca de tu arduo trabajo!
 
-## Figure out your message
+## Pensando tu mensaje
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+Antes de comenzar el trabajo actual de promover tu proyecto, deberías ser capaz de explicar qu&eacute; es lo que hace, y porqu&eacute; importa.
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will make it easier to convince others.
+¿Qu&eacute; hace a tu proyecto diferente o interesante? ¿Porqu&eacute; lo creaste? Respondiendo estas preguntas para t&iacute; mismo har&aacute; más f&aacute;cil convencer a los dem&aacute;s.
 
-Remember that people get involved as users, and eventually contributors, because it solves a problem for them. As you think about your project's message and value, try to view it through the lens of what _they_ might want.
+Recuerda que las personas se involucra como usuarios, y eventualmente como contribuidores, porque resuelve un problema para ellos. Mientras piensas sobre el mensaje para tu proyecto y su valor, trata de verlo a trav&eacute;s de la lente qu&eacute;_es_lo_que_ellos_querr&iacute;an.
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+<!--For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:-->
+Por ejemplo, @robb utiliza códigos de ejemplo para comunicar claramente porqué su proyecto, [Cartography](https://github.com/robb/Cartography), es útil:
 
 ![cartography readme](/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+<!--For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.-->
+Para una vista más profunda sobre cómo comunicar tu mensaje, puedes ver el ejercicio en Mozilla ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) para el desarrollo de personas usuario.
+
 
 ## Help people find and follow your project
 
