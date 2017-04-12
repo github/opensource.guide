@@ -35,35 +35,35 @@ Para una vista más profunda sobre cómo comunicar tu mensaje, puedes ver el eje
 ## Ayuda a las personas a encontrar y seguir tu proyecto
 
 <aside markdown="1" class="pquote">
-  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+ Idealmente solo necesitas una URL "home" que puedas promover e indicar a las personas en relaciíon a tu proyecto. No es necesario gastar en una plantilla de lujo o incluso un nombre de dominio, pero su proyecto necesita un punto focal. 
   <p markdown="1" class="pquote-credit">
-— Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+— Peter Cooper & Robert Nyman, ["C&oacute;mo pasar la voz acerca de su c&oacute;digo"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+Ayude a las personas a encontrar y recordar su proyecto indicándoles un solo espacio de nombres
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. They also give your project's growing community a place to convene.
+<!--**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. They also give your project's growing community a place to convene.-->
+**Tenga un gestor claro para promover su trabajo.** Un usuario de Twitter, una URL de GitHub o un canal de IRC son maneras f&aacute;ciles de indicar a las personas sobre su proyecto. Tambi&eacute;n le da a la creciente comunidad de su proyecto un lugar donde reunirse.
 
-If you don't wish to set up these channels for your project yet, promote your own Twitter or GitHub handle in everything you do. For example, make sure it is included in your bio or slides if you speak at a meetup or event. That way, people know how to reach you or follow your work.
+Si todav&iacute;a  no desea configurar estos canales para su proyecto, promueva en su usuario personal de Twitter o su cuenta personal de GitHub todo lo que haga. Por ejemplo, aseg&uacute;rese que est&eacute; inclu&iacute;do en su biograf&iacute;a o sus diapositivas si le toca disertar en una reuni&oacute;n o evento. De esa manera, las personas sabr&aacute;n c&oacute;mo llegar hasta usted o seguir su trabajo.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
   A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
   <p markdown="1" class="pquote-credit">
-— @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+— @nathanmarz, ["Historia de Apache Storm y las lecciones aprendidas"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially paired with clear documentation and tutorials. It also suggests that your project is active, which will make your audience feel more comfortable using it. Use examples to give people ideas for how to use your project.
+**Considere crear un sitio web para su proyecto.** Un sitio web hace más amigable a su proyecto y más fácil de navegar, especialmente cuando se acompaña de documentación clara y de tutoriales. También sugiere que su proyecto está activo, lo que hará que su audiencia se sienta más confortable usándolo. Utilice ejemplos para dar a las personas ideas de cómo usar su proyecto.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creador of Django, dijo que un sitio web fue _"por lejos lo mejor que hicimos con Django en los promeros días"_.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
-
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+Si si proyecto está alojadoen GitHub, puede utilizar [GitHub Pages](https://pages.github.com/) para construir un sitio web facilmente.[Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), y [Middleman](https://middlemanapp.com/) son  [algunos ejemplos](https://github.com/showcases/github-pages-examples) de excelentes y completos sitios web.
 
 ![vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
-Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
+Ahora que ya tiene un mensaje para su proyecto, y una manera sencilla para que las personas encuentren su proyecto, ¡vayamos a hablar con su audiencia!
 
 ## Go where your project's audience is (online)
 
