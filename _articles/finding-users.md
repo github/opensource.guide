@@ -1,14 +1,14 @@
 ---
-title: Finding Users For Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+title: C&oacute;mo encontrar usuarios para su proyecto
+description: Ayude a que crezca su proyecto open source poni&eacute;ndolo en manos de usuarios satisfechos.
 class: finding
 toc:
   spreading-the-word: "Pasando la voz"
   figure-out-your-message: "Pensando tu mensaje"
-  help-people-find-and-follow-your-project: "Help people find and follow your project"
-  go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
-  go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
-  build-a-reputation: "Build a reputation"
+  help-people-find-and-follow-your-project: "Ayuda a las personas a encontrar y seguir tu proyecto"
+  go-where-your-projects-audience-is-online: "Ve donde est&aacute la audiencia de tu proyecto ; (en l&iacute;nea)"
+  go-where-your-projects-audience-is-offline: "Ve donde est&aacute la audiencia de tu proyecto (fuera de l&iacute;nea)"
+  build-a-reputation: "Construye una reputaci&oacute;n"
 order: 3
 image: /assets/images/cards/finding.png
 ---
@@ -25,16 +25,14 @@ Antes de comenzar el trabajo actual de promover tu proyecto, deberías ser capaz
 
 Recuerda que las personas se involucra como usuarios, y eventualmente como contribuidores, porque resuelve un problema para ellos. Mientras piensas sobre el mensaje para tu proyecto y su valor, trata de verlo a trav&eacute;s de la lente qu&eacute;_es_lo_que_ellos_querr&iacute;an.
 
-<!--For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:-->
 Por ejemplo, @robb utiliza códigos de ejemplo para comunicar claramente porqué su proyecto, [Cartography](https://github.com/robb/Cartography), es útil:
 
 ![cartography readme](/assets/images/finding-users/cartography.jpg)
 
-<!--For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.-->
 Para una vista más profunda sobre cómo comunicar tu mensaje, puedes ver el ejercicio en Mozilla ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) para el desarrollo de personas usuario.
 
 
-## Help people find and follow your project
+## Ayuda a las personas a encontrar y seguir tu proyecto
 
 <aside markdown="1" class="pquote">
   You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
