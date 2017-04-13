@@ -35,13 +35,13 @@ Para una vista más profunda sobre cómo comunicar tu mensaje, puedes ver el eje
 ## Ayuda a las personas a encontrar y seguir tu proyecto
 
 <aside markdown="1" class="pquote">
- Idealmente solo necesitas una URL "home" que puedas promover e indicar a las personas en relaciíon a tu proyecto. No es necesario gastar en una plantilla de lujo o incluso un nombre de dominio, pero su proyecto necesita un punto focal. 
+ Idealmente solo necesitas una URL "home" que puedas promover e indicar a las personas en relaci&oacute;n a tu proyecto. No es necesario gastar en una plantilla de lujo o incluso un nombre de dominio, pero su proyecto necesita un punto focal. 
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["C&oacute;mo pasar la voz acerca de su c&oacute;digo"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Ayude a las personas a encontrar y recordar su proyecto indicándoles un solo espacio de nombres
+Ayude a las personas a encontrar y recordar su proyecto indicándoles un solo espacio de nombres.
 
 <!--**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. They also give your project's growing community a place to convene.-->
 **Tenga un gestor claro para promover su trabajo.** Un usuario de Twitter, una URL de GitHub o un canal de IRC son maneras f&aacute;ciles de indicar a las personas sobre su proyecto. Tambi&eacute;n le da a la creciente comunidad de su proyecto un lugar donde reunirse.
@@ -51,6 +51,7 @@ Si todav&iacute;a  no desea configurar estos canales para su proyecto, promueva 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
   A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  Un error que comet&iacute; en los primeros días (...) fue no suscribir una cuenta de Twitter para el proyecto. Twitter es una gran manera de mantener a la gente al día sobre un proyecto, así como exponer constantemente a las personas al proyecto.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["Historia de Apache Storm y las lecciones aprendidas"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
@@ -59,11 +60,11 @@ Si todav&iacute;a  no desea configurar estos canales para su proyecto, promueva 
 **Considere crear un sitio web para su proyecto.** Un sitio web hace más amigable a su proyecto y más fácil de navegar, especialmente cuando se acompaña de documentación clara y de tutoriales. También sugiere que su proyecto está activo, lo que hará que su audiencia se sienta más confortable usándolo. Utilice ejemplos para dar a las personas ideas de cómo usar su proyecto.
 [@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creador of Django, dijo que un sitio web fue _"por lejos lo mejor que hicimos con Django en los promeros días"_.
 
-Si si proyecto está alojadoen GitHub, puede utilizar [GitHub Pages](https://pages.github.com/) para construir un sitio web facilmente.[Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), y [Middleman](https://middlemanapp.com/) son  [algunos ejemplos](https://github.com/showcases/github-pages-examples) de excelentes y completos sitios web.
+Si el proyecto está alojado en GitHub, puede utilizar [GitHub Pages](https://pages.github.com/) para construir un sitio web facilmente.[Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), y [Middleman](https://middlemanapp.com/) son  [algunos ejemplos](https://github.com/showcases/github-pages-examples) de excelentes y completos sitios web.
 
 ![vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
-Ahora que ya tiene un mensaje para su proyecto, y una manera sencilla para que las personas encuentren su proyecto, ¡vayamos a hablar con su audiencia!
+Ahora que ya tiene un mensaje para su proyecto, y una manera sencilla para que las personas encuentren su proyecto, ¡v&aacute;ya a hablar con su audiencia!
 
 ## Go where your project's audience is (online)
 
