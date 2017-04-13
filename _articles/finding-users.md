@@ -6,8 +6,8 @@ toc:
   spreading-the-word: "Pasando la voz"
   figure-out-your-message: "Pensando tu mensaje"
   help-people-find-and-follow-your-project: "Ayuda a las personas a encontrar y seguir tu proyecto"
-  go-where-your-projects-audience-is-online: "Ve donde est&aacute la audiencia de tu proyecto ; (en l&iacute;nea)"
-  go-where-your-projects-audience-is-offline: "Ve donde est&aacute la audiencia de tu proyecto (fuera de l&iacute;nea)"
+  go-where-your-projects-audience-is-online: "Vaya donde est&aacute la audiencia de tu proyecto ; (en l&iacute;nea)"
+  go-where-your-projects-audience-is-offline: "Vaya donde est&aacute la audiencia de tu proyecto (fuera de l&iacute;nea)"
   build-a-reputation: "Construye una reputaci&oacute;n"
 order: 3
 image: /assets/images/cards/finding.png
@@ -43,15 +43,13 @@ Para una vista más profunda sobre cómo comunicar tu mensaje, puedes ver el eje
 
 Ayude a las personas a encontrar y recordar su proyecto indicándoles un solo espacio de nombres.
 
-<!--**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. They also give your project's growing community a place to convene.-->
 **Tenga un gestor claro para promover su trabajo.** Un usuario de Twitter, una URL de GitHub o un canal de IRC son maneras f&aacute;ciles de indicar a las personas sobre su proyecto. Tambi&eacute;n le da a la creciente comunidad de su proyecto un lugar donde reunirse.
 
 Si todav&iacute;a  no desea configurar estos canales para su proyecto, promueva en su usuario personal de Twitter o su cuenta personal de GitHub todo lo que haga. Por ejemplo, aseg&uacute;rese que est&eacute; inclu&iacute;do en su biograf&iacute;a o sus diapositivas si le toca disertar en una reuni&oacute;n o evento. De esa manera, las personas sabr&aacute;n c&oacute;mo llegar hasta usted o seguir su trabajo.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
-  Un error que comet&iacute; en los primeros días (...) fue no suscribir una cuenta de Twitter para el proyecto. Twitter es una gran manera de mantener a la gente al día sobre un proyecto, así como exponer constantemente a las personas al proyecto.
+ Un error que comet&iacute; en los primeros días (...) fue no suscribir una cuenta de Twitter para el proyecto. Twitter es una gran manera de mantener a la gente al día sobre un proyecto, así como exponer constantemente a las personas al proyecto.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["Historia de Apache Storm y las lecciones aprendidas"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
@@ -66,29 +64,31 @@ Si el proyecto está alojado en GitHub, puede utilizar [GitHub Pages](https://pa
 
 Ahora que ya tiene un mensaje para su proyecto, y una manera sencilla para que las personas encuentren su proyecto, ¡v&aacute;ya a hablar con su audiencia!
 
-## Go where your project's audience is (online)
+## Vaya donde est&aacute; la audiencia de tu proyecto (en l&iacute;nea)
 
-Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
+El alcance en l&iacute;nea es una gran manera de compartir y diseminar la palabra r&aacute;pidamente
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+Saque ventaja de las comunidades en l&iacute;nea existentes y sus plataformas para alcanzar su audiencia. Si su proyecto open source es un proyecto de software, probablemente pueda encontrar su audiencia en [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), o [Quora](https://www.quora.com/). Encuentre los canales donde piense que las personas obtendrán los mayores beneficios o se sentir&aacute;n más entusiasmados acerca de su trabajo.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+Cada programa tiene funciones muy espec&iacute;ficas, que solamente una fracci&oacute;n de los usuarios encontra &uacute;til. No env&iacute;e masivamente su correo a todas las personas posibles.En su lugar, enfoque sus esfuerzos en comunidades que se beneficiar&aacute;n de conocer sobre su trabajo.
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["Marketing para proyectos open source"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
-See if you can find ways to share your project in relevant ways:
+Vea si puede encontrar formas de compartir su proyecto en maneras relevantes:
 
-* **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
+* **Conozca proyectos open source relevantes y comunidades.** Algunas veces, no necesita promocionar su proyecto directamente. Si su proyecto es indicado para cient&iacute;ficos de datos que utilizan Python, conozca a la comunidad de cient&iacute;ficos de datos de Python. A medida que las personas lo conozcan, llegarán oportunidades de conversar y de compartir su trabajo de manera natural.
 * **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-* **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
+* **Encuentre personas que est&eacute;n experimentando problemas como el que resuelve su proyecto.** Busque en foros relacionados con personas que caen en la audiencia de tu proyecto. Responda sus preguntas y encuentre una forma diplom&aacute;tica, cuando sea apropiado, de sugerir su proyecto como una soluci&oacute;n.
+* **Pida comentarios.** Pres&eacute;ntese y presente su trabajo a una audiencia lo que encuentre relevante e interesante. Sea espec&iacute;fico acerca de qui&eacute;nes cree usted que se beneficiar&aacute;n de su proyecto. Trate de finalizar la oración: _"Creo que mi proyecto realmente ayudar&aacute; a X, quien está tratando de hacer Y_". Escuche y responda los comentarios, en lugar de simplemente promover su trabajo.
 
-Generally speaking, focus on helping others before asking for things in return. Because it is easy for anybody to promote a project online, there will be a lot of noise. Give people context for who you are, not just what you want, to stand out from the crowd.
+En t&eacute;rminos generales, enf&oacute;quese en ayudar a los demás antes de solicitar cosas a cambio. Ya que es sencillo para cualquiera promover un proyecto en l&iacute;nea. habr&aacute; mucho ruido. De a las personas el contexto de lo que eres, no solo de lo que quieres, para destacarte entre la multitud.
 
 If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. These things take time and dedication.
+Si nadie presta atenci&oacute;n o responde a tu alcance inicial, ¡no te desanimes! La mayor&iacute;a de los lanzamientos de proyectos son un proceso iterativo que puede llevar meses o a&ntilde;os. Si no consigue una respuesta la primera vez, pruebe con una t&aacute;ctica diferente, o busque maneras de agregar valor al trabajo de los demás primero. Estas cosas llevan tiempo y dedicaci&oacute;n.
 
 ## Go where your project's audience is (offline)
 
