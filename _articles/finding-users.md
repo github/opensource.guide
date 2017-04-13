@@ -1,13 +1,13 @@
 ---
 title: C&oacute;mo encontrar usuarios para su proyecto
-description: Ayude a que crezca su proyecto open source poni&eacute;ndolo en manos de usuarios satisfechos.
+description: Ayuda a que crezca tu proyecto open source poni&eacute;ndolo en manos de usuarios satisfechos.
 class: finding
 toc:
   spreading-the-word: "Pasando la voz"
   figure-out-your-message: "Pensando tu mensaje"
   help-people-find-and-follow-your-project: "Ayuda a las personas a encontrar y seguir tu proyecto"
-  go-where-your-projects-audience-is-online: "Vaya donde est&aacute la audiencia de tu proyecto ; (en l&iacute;nea)"
-  go-where-your-projects-audience-is-offline: "Vaya donde est&aacute la audiencia de tu proyecto (fuera de l&iacute;nea)"
+  go-where-your-projects-audience-is-online: "Ve donde est&aacute la audiencia de tu proyecto ; (en l&iacute;nea)"
+  go-where-your-projects-audience-is-offline: "Ve donde est&aacute la audiencia de tu proyecto (fuera de l&iacute;nea)"
   build-a-reputation: "Construye una reputaci&oacute;n"
 order: 3
 image: /assets/images/cards/finding.png
@@ -23,7 +23,7 @@ Antes de comenzar el trabajo actual de promover tu proyecto, deberías ser capaz
 
 ¿Qu&eacute; hace a tu proyecto diferente o interesante? ¿Porqu&eacute; lo creaste? Respondiendo estas preguntas para t&iacute; mismo har&aacute; más f&aacute;cil convencer a los dem&aacute;s.
 
-Recuerda que las personas se involucra como usuarios, y eventualmente como contribuidores, porque resuelve un problema para ellos. Mientras piensas sobre el mensaje para tu proyecto y su valor, trata de verlo a trav&eacute;s de la lente qu&eacute;_es_lo_que_ellos_querr&iacute;an.
+Recuerda que las personas se involucran como usuarios, y eventualmente como contribuyentes, porque resuelve un problema para ellos. Mientras piensas sobre el mensaje para tu proyecto y su valor, trata de verlo a trav&eacute;s de la lente qu&eacute;_es_lo_que_ellos_querr&iacute;an.
 
 Por ejemplo, @robb utiliza códigos de ejemplo para comunicar claramente porqué su proyecto, [Cartography](https://github.com/robb/Cartography), es útil:
 
@@ -35,17 +35,17 @@ Para una vista más profunda sobre cómo comunicar tu mensaje, puedes ver el eje
 ## Ayuda a las personas a encontrar y seguir tu proyecto
 
 <aside markdown="1" class="pquote">
- Idealmente solo necesitas una URL "home" que puedas promover e indicar a las personas en relaci&oacute;n a tu proyecto. No es necesario gastar en una plantilla de lujo o incluso un nombre de dominio, pero su proyecto necesita un punto focal. 
+ Idealmente solo necesitas una URL "home" que puedas promover e indicar a las personas en relaci&oacute;n a tu proyecto. No es necesario gastar en una plantilla de lujo o incluso un nombre de dominio, pero tu proyecto necesita un punto focal. 
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["C&oacute;mo pasar la voz acerca de su c&oacute;digo"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Ayude a las personas a encontrar y recordar su proyecto indicándoles un solo espacio de nombres.
+Ayuda a las personas a encontrar y recordar su proyecto indicándoles un solo espacio de nombres.
 
-**Tenga un gestor claro para promover su trabajo.** Un usuario de Twitter, una URL de GitHub o un canal de IRC son maneras f&aacute;ciles de indicar a las personas sobre su proyecto. Tambi&eacute;n le da a la creciente comunidad de su proyecto un lugar donde reunirse.
+**Consigue un gestor claro para promover su trabajo.** Un usuario de Twitter, una URL de GitHub o un canal de IRC son maneras f&aacute;ciles de indicar a las personas sobre su proyecto. Tambi&eacute;n le da a la creciente comunidad de tu proyecto un lugar donde reunirse.
 
-Si todav&iacute;a  no desea configurar estos canales para su proyecto, promueva en su usuario personal de Twitter o su cuenta personal de GitHub todo lo que haga. Por ejemplo, aseg&uacute;rese que est&eacute; inclu&iacute;do en su biograf&iacute;a o sus diapositivas si le toca disertar en una reuni&oacute;n o evento. De esa manera, las personas sabr&aacute;n c&oacute;mo llegar hasta usted o seguir su trabajo.
+Si todav&iacute;a  no deseas configurar estos canales para tu proyecto, promociona en tu usuario personal de Twitter o tu cuenta personal de GitHub todo lo que haga. Por ejemplo, aseg&uacute;rate que est&eacute; inclu&iacute;do en tu biograf&iacute;a o tus diapositivas si te toca disertar en una reuni&oacute;n o evento. De esa manera, las personas sabr&aacute;n c&oacute;mo llegar hasta ti o seguir tu trabajo.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -55,78 +55,76 @@ Si todav&iacute;a  no desea configurar estos canales para su proyecto, promueva 
   </p>
 </aside>
 
-**Considere crear un sitio web para su proyecto.** Un sitio web hace más amigable a su proyecto y más fácil de navegar, especialmente cuando se acompaña de documentación clara y de tutoriales. También sugiere que su proyecto está activo, lo que hará que su audiencia se sienta más confortable usándolo. Utilice ejemplos para dar a las personas ideas de cómo usar su proyecto.
+**Considera crear un sitio web para tu proyecto.** Un sitio web hace más amigable a tu proyecto y más fácil de navegar, especialmente cuando se acompaña de documentación clara y de tutoriales. También sugiere que tu proyecto está activo, lo que hará que su audiencia se sienta más confortable usándolo. Utiliza ejemplos para dar a las personas ideas de cómo usar tu proyecto.
 [@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creador of Django, dijo que un sitio web fue _"por lejos lo mejor que hicimos con Django en los promeros días"_.
 
-Si el proyecto está alojado en GitHub, puede utilizar [GitHub Pages](https://pages.github.com/) para construir un sitio web facilmente.[Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), y [Middleman](https://middlemanapp.com/) son  [algunos ejemplos](https://github.com/showcases/github-pages-examples) de excelentes y completos sitios web.
+Si el proyecto está alojado en GitHub, puedes utilizar [GitHub Pages](https://pages.github.com/) para construir un sitio web facilmente.[Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), y [Middleman](https://middlemanapp.com/) son [algunos ejemplos](https://github.com/showcases/github-pages-examples) de excelentes y completos sitios web.
 
 ![vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
-Ahora que ya tiene un mensaje para su proyecto, y una manera sencilla para que las personas encuentren su proyecto, ¡v&aacute;ya a hablar con su audiencia!
+Ahora que ya tienes un mensaje para tu proyecto, y una manera sencilla para que las personas encuentren su proyecto, ¡ve a hablar con tu audiencia!
 
-## Vaya donde est&aacute; la audiencia de tu proyecto (en l&iacute;nea)
+## Ve donde est&aacute; la audiencia de tu proyecto (en l&iacute;nea)
 
 El alcance en l&iacute;nea es una gran manera de compartir y diseminar la palabra r&aacute;pidamente
 
-Saque ventaja de las comunidades en l&iacute;nea existentes y sus plataformas para alcanzar su audiencia. Si su proyecto open source es un proyecto de software, probablemente pueda encontrar su audiencia en [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), o [Quora](https://www.quora.com/). Encuentre los canales donde piense que las personas obtendrán los mayores beneficios o se sentir&aacute;n más entusiasmados acerca de su trabajo.
+Saca ventaja de las comunidades en l&iacute;nea existentes y sus plataformas para alcanzar tu audiencia. Si tu proyecto open source es un proyecto de software, probablemente puedas encontrar tu audiencia en [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), o [Quora](https://www.quora.com/). Encuentra los canales donde pienses que las personas obtendrán los mayores beneficios o se sentir&aacute;n más entusiasmadas acerca de tu trabajo.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
-Cada programa tiene funciones muy espec&iacute;ficas, que solamente una fracci&oacute;n de los usuarios encontra &uacute;til. No env&iacute;e masivamente su correo a todas las personas posibles.En su lugar, enfoque sus esfuerzos en comunidades que se beneficiar&aacute;n de conocer sobre su trabajo.
+Cada programa tiene funciones muy espec&iacute;ficas, que solamente una fracci&oacute;n de los usuarios encontra &uacute;til. No env&iacute;es masivamente correo a todas las personas posibles. En su lugar, enfoca tus esfuerzos en comunidades que se beneficiar&aacute;n de conocer sobre tu trabajo.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing para proyectos open source"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
-Vea si puede encontrar formas de compartir su proyecto en maneras relevantes:
+Ve si puedes encontrar formas de compartir tu proyecto en maneras relevantes:
 
-* **Conozca proyectos open source relevantes y comunidades.** Algunas veces, no necesita promocionar su proyecto directamente. Si su proyecto es indicado para cient&iacute;ficos de datos que utilizan Python, conozca a la comunidad de cient&iacute;ficos de datos de Python. A medida que las personas lo conozcan, llegarán oportunidades de conversar y de compartir su trabajo de manera natural.
-* **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-* **Encuentre personas que est&eacute;n experimentando problemas como el que resuelve su proyecto.** Busque en foros relacionados con personas que caen en la audiencia de tu proyecto. Responda sus preguntas y encuentre una forma diplom&aacute;tica, cuando sea apropiado, de sugerir su proyecto como una soluci&oacute;n.
-* **Pida comentarios.** Pres&eacute;ntese y presente su trabajo a una audiencia lo que encuentre relevante e interesante. Sea espec&iacute;fico acerca de qui&eacute;nes cree usted que se beneficiar&aacute;n de su proyecto. Trate de finalizar la oración: _"Creo que mi proyecto realmente ayudar&aacute; a X, quien está tratando de hacer Y_". Escuche y responda los comentarios, en lugar de simplemente promover su trabajo.
+* **Conoce proyectos open source relevantes y comunidades.** Algunas veces, no necesitas promocionar tu proyecto directamente. Si tu proyecto es indicado para cient&iacute;ficos de datos que utilizan Python, conoce a la comunidad de cient&iacute;ficos de datos de Python. A medida que las personas lo conozcan, llegarán oportunidades de conversar y de compartir tu trabajo de manera natural.
+* **Encuentra personas que est&eacute;n experimentando problemas como el que resuelve tu proyecto.** Busca en foros relacionados con personas que caen en la audiencia de tu proyecto. Responde sus preguntas y encuentra una forma diplom&aacute;tica, cuando sea apropiado, de sugerir tu proyecto como una soluci&oacute;n.
+* **Pide comentarios.** Pres&eacute;ntate y presenta tu trabajo a una audiencia que lo encuentre relevante e interesante. Se espec&iacute;fico acerca de qui&eacute;nes crees que se beneficiar&aacute;n de tu proyecto. Trata de finalizar la oración: _"Creo que mi proyecto realmente ayudar&aacute; a X, quien está tratando de hacer Y_". Escucha y responde los comentarios, en lugar de simplemente promover tu trabajo.
 
-En t&eacute;rminos generales, enf&oacute;quese en ayudar a los demás antes de solicitar cosas a cambio. Ya que es sencillo para cualquiera promover un proyecto en l&iacute;nea. habr&aacute; mucho ruido. De a las personas el contexto de lo que eres, no solo de lo que quieres, para destacarte entre la multitud.
+En t&eacute;rminos generales, enf&oacute;cate en ayudar a los demás antes de solicitar cosas a cambio. Ya que es sencillo para cualquiera promover un proyecto en l&iacute;nea. habr&aacute; mucho ruido. Da a las personas el contexto de lo que eres, no solo de lo que quieres, para destacarte entre la multitud.
 
-If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. These things take time and dedication.
-Si nadie presta atenci&oacute;n o responde a tu alcance inicial, ¡no te desanimes! La mayor&iacute;a de los lanzamientos de proyectos son un proceso iterativo que puede llevar meses o a&ntilde;os. Si no consigue una respuesta la primera vez, pruebe con una t&aacute;ctica diferente, o busque maneras de agregar valor al trabajo de los demás primero. Estas cosas llevan tiempo y dedicaci&oacute;n.
+Si nadie presta atenci&oacute;n o responde a tu alcance inicial, ¡no te desanimes! La mayor&iacute;a de los lanzamientos de proyectos son un proceso iterativo que puede llevar meses o a&ntilde;os. Si no consigues una respuesta la primera vez, prueba con una t&aacute;ctica diferente, o busqua maneras de agregar valor al trabajo de los demás primero. Estas cosas llevan tiempo y dedicaci&oacute;n.
 
-## Go where your project's audience is (offline)
+## Ve donde est&aacute; la audiencia de tu proyecto (fuera de l&iacute;nea)
 
 ![public speaking](/assets/images/finding-users/public_speaking.jpg)
 
-Offline events are a popular way to promote new projects. It's a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
+Los eventos fuera de l&iacute;nea son una manera popular de promocionar nuevos proyectos. Es una gran manera de alcanzar una audiencia comprometida y de construir conexiones personales m&aacute;s profundas, especialmente si estás interesado en llegar a los desarrolladores.
 
-If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
+Si eres [nuevo para hablar en p&uacute;blico](http://speaking.io/), comienza por encontrar una comunidad local de personas que est&eacute;n relacionados con el lenguaje o ecosistema de tu proyecto.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+Estaba muy nerviosa acerca de ir a Pycon. Estaba dando una charla, solo iba a conocer a un par de personas ah&iacute;, me iba por una semana entera. (...) No deber&iacute;a haberme preocupado, sin embargo. ¡Pycon fue fenomenalmente incre&iacute;ble! (...). ¡Todos eran incre&iacute;blemente amigables y extrovertidos, tanto que rara vez encontraba tiempo para no hablar con la gente!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["C&oacute;mo aprend&iacute; a no preocuparme y a amar Pycon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
-If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
+Si nunca hablaste en un evento anteriormente, es perfectamente normal sentirte nervioso. Recuerda que tu audiencia est&aacute; all&iacute; porque genuinamente quieren escuchar acerca de tu trabajo.
 
-As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+Mientras escribes tu charla, enf&oacute;cate en lo que el p&uacute;blico encontrar&aacute; interesante y valioso. Mant&eacute;n tu lenguaje amigable y accesible. Sonr&iacute;e, respira y divi&eacute;rtete.
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+ Cuando comienzas a escribir tu charla, sin importar cu&aacute;l sea tu t&oacute;pico, puede ayudar si ves tu charla como una historia que le cuentas a la gente.
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["C&oacute;mo preparar y escribir una charla de conferencia tecnol&oacute;gica"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
-When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
+Cuando te sientas listo, considera dar una charla en una conferencia para promover tu proyecto. Las conferencias pueden ayudar a alcanzar a m&aacute;s personas, algunas veces de todo el mundo.
 
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference beforehand to tailor your talk to its attendees and increase your chances of getting accepted. You can often get a sense of a conference's audience by looking at its speakers.
+Busca conferencias que sean espec&iacute;ficas de tu lenguaje o ecosistema. Antes que enviar tu charla, investiga la conferencia de antemano, para adaptar tu charla a sus asistentes e incrementar tus oportunidades de ser aceptado. A menudo puedes tener una idea de la audiencia de una conferencia mirando a sus disertantes.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/80?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
+  Escribí muy amablemente a la gente de JSConf y les supliqué que me dieran un espacio donde pudiera presentarme en la JSConf EU. (...) Estaba extremadamente asustada, presentando esta cosa en la que había estado trabajando por seis meses. (...) Todo el tiempo estaba pensando ¡Oh Di&oacute;s m&iacute;o! ¿Qu&eacute; estoy haciendo aqu&iacute;?
   <p markdown="1" class="pquote-credit">
-— @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
+— @ry, ["Historia de Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
 </aside>
 
