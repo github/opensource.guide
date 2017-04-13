@@ -116,7 +116,7 @@ Mientras escribes tu charla, enf&oacute;cate en lo que el p&uacute;blico encontr
   </p>
 </aside>
 
-Cuando te sientas listo, considera dar una charla en una conferencia para promover tu proyecto. Las conferencias pueden ayudar a alcanzar a m&aacute;s personas, algunas veces de todo el mundo.
+Cuando te sientas listo/a, considera dar una charla en una conferencia para promover tu proyecto. Las conferencias pueden ayudar a alcanzar a m&aacute;s personas, algunas veces de todo el mundo.
 
 Busca conferencias que sean espec&iacute;ficas de tu lenguaje o ecosistema. Antes que enviar tu charla, investiga la conferencia de antemano, para adaptar tu charla a sus asistentes e incrementar tus oportunidades de ser aceptado. A menudo puedes tener una idea de la audiencia de una conferencia mirando a sus disertantes.
 
@@ -128,34 +128,35 @@ Busca conferencias que sean espec&iacute;ficas de tu lenguaje o ecosistema. Ante
   </p>
 </aside>
 
-## Build a reputation
+## Construye una reputaci&oacute;n
 
-In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
+Además de las estrategias mencionadas anteriormente, la mejor forma de invitar a las personas a compartir y contribuir con tu proyecto es compartir y contribuir con sus proyectos.
 
-Helping newcomers, sharing resources, and making thoughtful contributions to others' work will help you build a positive reputation. Then, people will have context for your work and be more likely to pay attention and share what you're doing.
+Ayudar a los reci&eacute;n llegados, compartir recursos y hacer contribuciones meditadas al trabajo de los dem&aacute;s ayudará a que construyas una reputaci&oacute;n positiva. Entonces, la gente tendr&aacute; contexto para su trabajo y ser&aacute; más probable que preste atenci&oacute;n y comparta lo que tu est&aacutes haciendo.
 
-Sometimes, these relationships can even lead to official partnerships with the wider ecosystem.
+Algunas veces, esas relaciones pueden llevar incluso a asociaciones oficiales con el ecosistema m&aacute;s amplio.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar" alt="avatar">
-  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+  La &uacute;nica raz&oacute;n por la que urllib3 es la librer&iacute;a de Python de terceros m&aacute;s popular es porque es parte de las solicitudes.
   <p markdown="1" class="pquote-credit">
-— @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+— @shazow, ["C&oacute;mo hacer que tu proyecto open source prospere"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue looking for ways to help others.
+Nunca es demasiado temprano, o muy tarde, para comenzar a construir tu reputaci&oacute;n. Incluso si ya lanzaste tu propio proyecto, continúa buscando las formas de ayudar a los demás.
 
-There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and reputation building work never ends.
+No hay una soluci&oacute;n para construir una audiencia en una noche. Ganarse la confianza y el respeto de los dem&aacute;s lleva tiempo, y el trabajo de construir la reputaci&oacute;n no termina nunca.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
-  PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
+  PhantomJS fue lanzado por primera vez a comienzos del 2011. (...)  Yo pas&eacute; la voz de las maneras usuales: envi&eacute; posts en Tweeter sobre el mismo, escrib&iacute; posts en blogs sobre cosas que pod&iacute;an hacerse con &eacute;l, lo nombr&eacute; durante varios en encuentros. Cuando me hice más conocido en el 2014, comenc&eacute; a hacer presentaciones sobre &eacute;l.
   <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
+— @ariya, ["Historias de mantenimiento"](https://github.com/open-source/stories/ariya)
   </p>
 </aside>
 
-## Keep at it!
+## S&iacute;guelo!
 
 Sometimes, it takes a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of a magic bullet. Be patient, and keep sharing your work with those who appreciate it.
+Algunas veces, lleva mucho tiempo antes de que la gente note tu proyecto open source. ¡Eso está bien! Algunos de los proyectos más populares hoy en día llevan años en alcanzar altos niveles de actividad. Enfócate en construir relaciones en lugar de una bala mágica. S&eacute; paciente, y continua compartiendo tu trabajo con aquellos que lo aprecian.
