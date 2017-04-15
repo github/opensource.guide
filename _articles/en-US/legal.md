@@ -1,4 +1,5 @@
 ---
+locale: en-US
 title: The Legal Side of Open Source
 description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
 class: legal

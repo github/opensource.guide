@@ -1,6 +1,7 @@
 ---
-title: C&oacute;mo encontrar usuarios para su proyecto
-description: Ayuda a que crezca tu proyecto open source poni&eacute;ndolo en manos de usuarios satisfechos.
+locale: es-AR
+title: Finding Users For Your Project
+description: Help your open source project grow by getting it in the hands of happy users.
 class: finding
 toc:
   spreading-the-word: "Pasando la voz"

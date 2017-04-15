@@ -1,9 +1,10 @@
 ---
-title: Comenzando un proyecto c&oactue;digo abierto
+locale: en-US
+title: Starting an Open Source Project
 description: Learn more about the world of open source and get ready to launch your own project.
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "El cómo y el porqué del código abierto"
+  the-what-and-why-of-open-source: "The what and why of open source"
   should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
   launching-your-own-open-source-project: "Launching your own open source project"
   naming-and-branding-your-project: "Naming and branding your project"
@@ -12,15 +13,13 @@ order: 2
 image: /assets/images/cards/beginner.png
 ---
 
-## El cómo y el porqué del código abierto
+## The "what" and "why" of open source
 
-//So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
-¿Estás pensando c&oacute;mo comenzar un proyecto de c&oacut;digo abierto? ¡Felicitaciones! El mundo aprecia tu contribuci&oacute;n. Hablemos sobre lo que es un proyecto de c&oacute;digo abierto y porqu&eacute; la gente lo lleva adelante
+So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
 
 ### What does "open source" mean?
 
-//When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
-Cuando un proyecto es de c&oacute;digo abierto, significa que **cualquier persona puede ver, modificar, usar o distribuir tu proyecto para cualquier fin.** Estos permisos est&aacute;n reforzados a trav&eacute;s de [una licencia de c&oacute;digo abierto](https://opensource.org/licenses).
+When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
 
 Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
 
@@ -234,7 +233,7 @@ Consider clarity above all. Puns are fun, but remember that some jokes might not
 
 ### Avoiding name conflicts
 
-Check for open source projects with a similar name, especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
 
 If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
 

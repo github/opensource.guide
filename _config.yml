@@ -1,5 +1,12 @@
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
+title: "Gu&iacute;as de C&oacute;digo Abierto"
+description: "Aprende c&oacute;mo crear y hacer que tu proyecto crezca."
+
+# See: docs/translations.md
+locale: es-AR
+translations:
+  en-US:
+    name: English (US)
+    url: https://opensource.guide
 
 exclude:
   - bin
@@ -21,7 +28,7 @@ permalink: /:path/
 collections:
   articles:
     output: true
-    permalink: /:path/
+    permalink: /:name/
 
 defaults:
   - scope:

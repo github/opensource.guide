@@ -1,31 +1,32 @@
 ---
-title: C&oacute;mo contribuir al c&oacute;digo abierto
-description: ¿Quieres contribuir al c&oacute;digo abierto? Una gu&iacute;a para hacer contribuiciones al c&oacute;digo abierto, para novatos y veteranos.
+locale: en-US
+title: How to Contribute to Open Source
+description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
 class: contribute
 toc:
-  para-que-contribuir: "¿Para qu&eacute; contribuir?"
-  what-it-means-to-contribute: "Qu&eacute; significa contribuir"
-  orienting-yourself-to-a-new-project: "Orient&aacute;ndote a un nuevo proyecto"
-  finding-a-project-to-contribute-to: "Encontrando un proyecto al que contribuir"
-  how-to-submit-a-contribution: "C&oacute;mo contribuir"
-  what-happens-after-you-submit-a-contribution: "Qu&eacute; pasa despu&eacute;s de contribuir"
+  why-contribute-to-open-source: "Why contribute to open source?"
+  what-it-means-to-contribute: "What it means to contribute"
+  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
+  finding-a-project-to-contribute-to: "Finding a project to contribute to"
+  how-to-submit-a-contribution: "How to submit a contribution"
+  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 order: 1
 image: /assets/images/cards/contribute.png
 ---
 
-## ¿Para qué contribuir?
+## Why contribute to open source?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Trabajar en \[freenode\] me ha ayudado a conseguir muchas de las habilidades que luego he usado en mis estudios en la universidad y en mi actual trabajo. ¡Creo que trabajar en proyectos de código abierto me ayuda tanto como ayuda al proyecto!
+  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contribuir en proyectos de c&oacute;digo abierto puede ser una provechosa manera de aprender, enseñar, y conseguir experiencia en cualquier habilidad que puedas imaginar.
+Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
 
-¿Para qu&eacute; contribuye la gente en proyectos de c&oacute;digo abierto? ¡Por muchas razones!
+Why do people contribute to open source? Plenty of reasons!
 
 ### Improve existing skills
 
@@ -59,7 +60,7 @@ Not to worry! There are all sorts of ways to get involved with an open source pr
 
 ### You don't have to contribute code
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the non-code parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with non-code contributions!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -69,7 +70,7 @@ A common misconception about contributing to open source is that you need to con
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+Even if you are a developer, non-code contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -88,7 +89,7 @@ Even if you like to write code, other types of contributions are a great way to 
 ### Do you like to design?
 
 * Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
+* Conduct user research to reorganize and refine the project's navigation or menus
 * Put together a style guide to help the project have a consistent visual design
 * Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
 
@@ -442,7 +443,7 @@ If you can't find your idea elsewhere, you're ready to make a move. If the proje
 
 Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
 
-If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for awhile (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
