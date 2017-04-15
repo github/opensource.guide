@@ -1,9 +1,9 @@
 ---
-title: Starting an Open Source Project
+title: Comenzando un proyecto c&oactue;digo abierto
 description: Learn more about the world of open source and get ready to launch your own project.
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "The what and why of open source"
+  the-what-and-why-of-open-source: "El cómo y el porqué del código abierto"
   should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
   launching-your-own-open-source-project: "Launching your own open source project"
   naming-and-branding-your-project: "Naming and branding your project"
@@ -12,9 +12,10 @@ order: 2
 image: /assets/images/cards/beginner.png
 ---
 
-## The "what" and "why" of open source
+## El cómo y el porqué del código abierto
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+//So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+¿Estás pensando c&oacute;mo comenzar un proyecto de c&oacut;digo abierto? ¡Felicitaciones! El mundo aprecia tu contribuci&oacute;n. Hablemos sobre lo que es un proyecto de c&oacute;digo abierto y porqu&eacute; la gente lo lleva adelante
 
 ### What does "open source" mean?
 
