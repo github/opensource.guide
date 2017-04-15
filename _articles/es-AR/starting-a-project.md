@@ -18,23 +18,31 @@ image: /assets/images/cards/beginner.png
 //So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
 ¿Estás pensando c&oacute;mo comenzar un proyecto de c&oacut;digo abierto? ¡Felicitaciones! El mundo aprecia tu contribuci&oacute;n. Hablemos sobre lo que es un proyecto de c&oacute;digo abierto y porqu&eacute; la gente lo lleva adelante
 
-### What does "open source" mean?
+### ¿Qué significa "Código Abierto"?
 
 //When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
 Cuando un proyecto es de c&oacute;digo abierto, significa que **cualquier persona puede ver, modificar, usar o distribuir tu proyecto para cualquier fin.** Estos permisos est&aacute;n reforzados a trav&eacute;s de [una licencia de c&oacute;digo abierto](https://opensource.org/licenses).
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+//Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+"Código Abierto" es poderoso debido a que reduce las dificultades de adopción, permitiendo que las ideas se esparzan rápidamente.
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
+//To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
+Para entender cómo funciona, imagina a un amigo que organiza una comida, te invita, y llevas una torta.
 
-* Everybody tries the pie (_use_)
-* The pie is a hit! They ask you for the recipe, which you provide (_view_)
-* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
-* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
+//* Everybody tries the pie (_use_)
+//* The pie is a hit! They ask you for the recipe, which you provide (_view_)
+//* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
+//* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
+* Todos prueban la torta (_usarlo_)
+* ¡La torta es un éxito! Te piden la receta, la cúal tú das.  (_estudiarlo/verlo_)
+* Un amigo, Pedro, es cocinero, y te sugiere colocar menos azúcar (_modificarlo_)
+* Otro amigo, Juan, te pide permiso para usarlo en una cena que tendrá la próxima semana (_distribuirlo_)
 
-By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
+//By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
+Realicemos una comparación: un proceso de código cerrado sería ir a un restaurante y pedir una porción de torta. Para ello tendrías que pagar por la misma, y el restaurante muy probablemente no te dará su receta. Si decidieras copiar su torta y venderla bajo otro nombre, el restaurante podría recurrir a acciones legales en contra.
 
-### Why do people open source their work?
+//### Why do people open source their work?
+### ¿Por qué las personas utilizan el "Código Abierto"?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
