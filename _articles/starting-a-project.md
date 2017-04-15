@@ -19,7 +19,8 @@ image: /assets/images/cards/beginner.png
 
 ### What does "open source" mean?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+//When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+Cuando un proyecto es de c&oacute;digo abierto, significa que **cualquier persona puede ver, modificar, usar o distribuir tu proyecto para cualquier fin.** Estos permisos est&aacute;n reforzados a trav&eacute;s de [una licencia de c&oacute;digo abierto](https://opensource.org/licenses).
 
 Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
 
