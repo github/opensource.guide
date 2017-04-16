@@ -105,7 +105,6 @@ Las excepciones notables a la comunicaci&oacute;n pública son: 1) cuestiones de
 
 ## Haciendo crecer tu comunidad
 
-Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
 Las comunidades son extremadamente poderosas. Ese poder puede ser una bendición o una maldicióni, dependiendo de cómo lo maneje. A medida que la comunidad de tu proyecto crece, existen maneras para ayudar a que se convierta en una fuerza de construcción, no de destrucción.
 
 ### No toleres a los malos actores
@@ -143,7 +142,6 @@ Finalmente, utiliza tu documentación para hacer que las personas se sientan bie
 You will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Even a few kind words can keep someone from leaving your project in frustration.
 
 
-For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts [its contributing guide](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):/
 Por ejemplo, así es como [Rubinius](https://github.com/rubinius/rubinius/) comienza su  [guía de contribuciones](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):/
 
 > Queremos comenzar agradeciendo por utilizar Rubinius. Este proyecto es un trabajo de amor, y apreciamos a todos los usuarios que detectan errores, hacen mejoras al rendimiento, y ayudan con su documentación. Cada contribucióin es significagiva, así que gracias por participar. Dicho esto, aquí dejamos algunas pautas que pedimos que sigan para que podamos abordar con éxito su problema.

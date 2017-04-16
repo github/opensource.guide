@@ -1,4 +1,5 @@
 _site/
+build
 .bundle
 .DS_Store
 .jekyll-metadata
