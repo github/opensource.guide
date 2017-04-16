@@ -1,7 +1,7 @@
 ---
 locale: es-AR
-title: Encontrando Usuarios Para Tu Proyecto
-description: Atuda a tu proyecto de c&oacute;digo abierto a crecer poni&eacute;ndolo en manos de usuarios satisfechos.
+title: Encontrando usuarios para tu proyecto
+description: Ayuda a tu proyecto de c&oacute;digo abierto a crecer poni&oacute;ndolo en manos de usuarios satisfechos.
 class: finding
 toc:
   spreading-the-word: "Pasando la voz"
@@ -133,7 +133,7 @@ Busca conferencias que sean espec&iacute;ficas de tu lenguaje o ecosistema. Ante
 
 Además de las estrategias mencionadas anteriormente, la mejor forma de invitar a las personas a compartir y contribuir con tu proyecto es compartir y contribuir con sus proyectos.
 
-Ayudar a los reci&eacute;n llegados, compartir recursos y hacer contribuciones meditadas al trabajo de los dem&aacute;s ayudará a que construyas una reputaci&oacute;n positiva. Entonces, la gente tendr&aacute; contexto para su trabajo y ser&aacute; más probable que preste atenci&oacute;n y comparta lo que tu est&aacutes haciendo.
+Ayudar a los reci&eacute;n llegados, compartir recursos y hacer contribuciones meditadas al trabajo de los dem&aacute;s ayudará a que construyas una reputaci&oacute;n positiva. Entonces, la gente tendr&aacute; contexto para su trabajo y ser&aacute; más probable que preste atenci&oacute;n y comparta lo que tu est&aacute;s haciendo.
 
 Algunas veces, esas relaciones pueden llevar incluso a asociaciones oficiales con el ecosistema m&aacute;s amplio.
 
@@ -159,5 +159,4 @@ No hay una soluci&oacute;n para construir una audiencia en una noche. Ganarse la
 
 ## S&iacute;guelo!
 
-Sometimes, it takes a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of a magic bullet. Be patient, and keep sharing your work with those who appreciate it.
 Algunas veces, lleva mucho tiempo antes de que la gente note tu proyecto open source. ¡Eso está bien! Algunos de los proyectos más populares hoy en día llevan años en alcanzar altos niveles de actividad. Enfócate en construir relaciones en lugar de una bala mágica. S&eacute; paciente, y continua compartiendo tu trabajo con aquellos que lo aprecian.
