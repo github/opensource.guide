@@ -23,9 +23,8 @@ Estaba buscando un proyecto de programacion para tenerlo como "hobby" y que me m
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
 Hay muchas razones por las cuales a una persona no le gustar&iacute;a que le pagaran por su trabajo en c&oacute;digo abierto.  
-* **Ellos pueden llegar a tener ya un trabajo de tiempo completo que amen, **que los habilita a contribuir al c&oacute;digo abierto en su tiempo libre.
+* **Ellos pueden llegar a tener ya un trabajo de tiempo completo que amen**, que los habilita a contribuir al c&oacute;digo abierto en su tiempo libre.
 * **Les gusta contribuir a los proyectos de c&oacute;digo abierto como un hobby** o escape creativo y no quieren sentise financieramente obligados a trabajar. 
 * **Reciben otros beneficios al contribuir al c&oacute;digo abierto,** como construir su portfolio de reputaci&oacute;n, aprender nuevas habilidades, o sentirse cercanos a una comunidad.
 
@@ -43,7 +42,7 @@ Mantener proyectos populares puede ser una responsabilidad significativa, tomand
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  Preguntale a cualquier responsable de proyecto de código abierto, y le informarán sobre la realidad de la cantidad de trabajo que se dedica a la gestión de un proyecto. Tienes clientes. Estas arreglando los problemas para ellos. Estas creando nuevas funciones. Esto se convierte en una demanda real de tu tiempo.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
@@ -69,8 +68,7 @@ Es mas f&aacute;cil establecer un trabajo en c&oacute;digo abierto si tu emplead
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
-  Como muchos desarrolladores en proyectos de c&oacute;digo abierto, yo estaba esforzandome por seguir manteniendo uno. Cuando por primera vez comenc&eacute; a aportar a un proyecto, sol&iacute;a quedarme despierto hasta tarde o me pon&iacute;a a trabajar ni bien llegaba a mi hogar. (...) 
+  Como muchos desarrolladores en proyectos de c&oacute;digo abierto, yo estaba esforzandome por seguir manteniendo uno. Cuando por primera vez comenc&eacute; a aportar a un proyecto, sol&iacute;a quedarme despierto hasta tarde o me pon&iacute;a a trabajar ni bien llegaba a mi hogar. (...) Fui capaz de discutir con mi jefe los problemas que estaba enfrentando y nos surgieron ideas sobre cómo podríamos incorporar las tareas de código abierto dado nuestro propio uso de Babel.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
@@ -180,6 +178,6 @@ What, exactly, will you accomplish with the proposed funding? Focus on project m
 
 ## Experimenta y no te rindas
 
-Recaudar dinero no es f&aacute;cil, ya sea un proyecto de c&oacute;digo abierto, una organizaci&oacute;n sin fines de lucro, o un inicio de software, y en la mayor&iacute;a de los casos requieren que se haga creativo. La identificaci&oacute;n de c&oacute;mo usted desea ser pago, haciendo su investigaci&oacute;n, y ponerse en los zapatos de su financiador le ayudar&aacute; a construir un caso convincente para la financiaci&oacute;n.
+Recaudar dinero no es f&aacute;cil, ya sea un proyecto de c&oacute;digo abierto, una organizaci&oacute;n sin fines de lucro, o un inicio de software, y en la mayor&iacute;a de los casos requieren que se haga creativo. La identificaci&oacute;n de c&oacute;mo deseas ser pago, haciendo tu investigaci&oacute;n, y ponerte en los zapatos de tu financiador te ayudar&aacute; a construir un caso convincente para la financiaci&oacute;n.
 
 >
