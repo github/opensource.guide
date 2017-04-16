@@ -15,15 +15,15 @@ image: /assets/images/cards/building.png
 
 Acabas de lanzar tu proyecto, est&aacute;s pasando la voz, y la gente lo est&aacute; siguiendo. ¡Genial! Ahora, ¿c&oacute;mo haces que se queden?
 
-Una comunidad de bienvenida es una inversi&oacute;n a futuro a tu proyecto y a tu reputaci&oacute;n. Si tu proyecto est&aacute; reci&eacute;n comenzando a ver sus primeras contribuciones, comienza por dar a los primeros contribuyentes una experiencia positiva, y facil&iacute;tales continuar regresando.
+Una comunidad de bienvenida es una inversi&oacute;n a futuro a tu proyecto y a tu reputaci&oacute;n. Si tu proyecto est&aacute; reci&eacute;n comenzando a ver sus primeras contribuciones, comienza por dar a los primeros colaboradores una experiencia positiva, y facil&iacute;tales continuar regresando.
 
 ### Haz que la gente se sienta bienvenida
 
-Una manera de pensar acerca de la comunidad del proyecto es a trav&eacute;s de lo que @MikeMcQuaid llama [embudo de contribuyente](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
+Una manera de pensar acerca de la comunidad del proyecto es a trav&eacute;s de lo que @MikeMcQuaid llama [embudo de colaborador](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
 
-![embudo de contribuyente](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
+![embudo de colaborador](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-A medida que construyes tu comunidad, considera c&oacute;mo &aacute;lguien que se encuentra en la parte superior del embudo (un usuario potencial) puede te&oacute;ricamente hacer su camino hacia abajo (un mantenedor activo). Tu objetivo es reducir la fricci&oacute;n en cada etapa de la experiencia del contribuyente. Cuando las personas  obtienen victorias f&aacute;ciles, se sentir&aacute;n incentivadas a hacer m&aacute;s. 
+A medida que construyes tu comunidad, considera c&oacute;mo &aacute;lguien que se encuentra en la parte superior del embudo (un usuario potencial) puede te&oacute;ricamente hacer su camino hacia abajo (un mantenedor activo). Tu objetivo es reducir la fricci&oacute;n en cada etapa de la experiencia del colaborador. Cuando las personas  obtienen victorias f&aacute;ciles, se sentir&aacute;n incentivadas a hacer m&aacute;s. 
 
 Comienza con tu documentaci&oacute;n:
 
@@ -34,20 +34,20 @@ Una buena documentaci&oacute;n invita a las personas a interactuar con tu proyec
 
 * **¡Cuando &aacute;lguien nuevo aterrice en tu proyecto, agrad&eacute;cele por su inter&eacute;s!** Es suficiente una sola experiencia negativa para que &aacute;lguien no quiera regresar.
 * **Comp&oacute;rtate de manera sensible.** Si no respondes a sus problemas por un mes, lo m&aacute;s probable es que ya se hayan olvidado de tu proyecto.
-* **Tener la mente abierta acerca de los tipos de contribuciones que aceptar&aacute;.** Muchos contribuyentes comienzan reportando un error o con un arreglo peque&ntilde;o. Hay [muchas maneras de contribuir](../how-to-contribute/#what-it-means-to-contribute) con un proyecto. Permite que las personas ayuden de la manera que ellos quieran ayudar.
+* **Tener la mente abierta acerca de los tipos de contribuciones que aceptar&aacute;.** Muchos colaboradores comienzan reportando un error o con un arreglo peque&ntilde;o. Hay [muchas maneras de contribuir](../how-to-contribute/#what-it-means-to-contribute) con un proyecto. Permite que las personas ayuden de la manera que ellos quieran ayudar.
 * **Si existe alguna contribuci&oacute;n con la que est&aacute;s en desacuerdo,** agrad&eacute;cele por su idea y [expl&iacute;cale porqu&eacute;](../best-practices/#learning-to-say-no) no encaja en la incumbencia del proyecto, enlazando con documentaci&oacute;n relevante si la tienes.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Contribuir con c&oacute;digo abierto es m&aacute;s f&aacute;cil para algunos que para otros. Hay mucho miedo de recibir un alarido por no haber hecho algo bien o simplemente por no encajar. (...) Al dar a los contribuyentes un lugar para contribuir con aspectos de muy baja competencia t&eacute;cnica (documentaci&oacute;n, reducci&oacute;n del contenido web, etc) puedes ayudar a reducir esas preocupaciones significat&iacute;vamente.
+  Contribuir con c&oacute;digo abierto es m&aacute;s f&aacute;cil para algunos que para otros. Hay mucho miedo de recibir un alarido por no haber hecho algo bien o simplemente por no encajar. (...) Al dar a los colaboradores un lugar para contribuir con aspectos de muy baja competencia t&eacute;cnica (documentaci&oacute;n, reducci&oacute;n del contenido web, etc) puedes ayudar a reducir esas preocupaciones significat&iacute;vamente.
   <p markdown="1" class="pquote-credit">
-— @mikeal, ["Consolidando una base de contribuyentes en el c&oacute;digo abierto moderno"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+— @mikeal, ["Consolidando una base de colaboradores en el c&oacute;digo abierto moderno"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
 
-La mayor&iacute;a de los contribuyentes con el c&oacute;digo abierto son "contribuyentes casuales": personas que contribuyen con un proyecto solo ocasionalmente. Un contribuyente casual probablemente no disponga del tiempo para dedicarse a tiempo completo a tu proyecto, por lo que tu trabajo es el de hacer que sea m&aacute;s sencillo para ellos contribuir.
+La mayor&iacute;a de los colaboradores con el c&oacute;digo abierto son "colaboradores casuales": personas que contribuyen con un proyecto solo ocasionalmente. Un colaborador casual probablemente no disponga del tiempo para dedicarse a tiempo completo a tu proyecto, por lo que tu trabajo es el de hacer que sea m&aacute;s sencillo para ellos contribuir.
 
-Animar a otros contribuyentes es invertir en t&iacute; mismo tambi&eacute;n. Cuando da poder a sus m&aacute;s grandes seguidores a continuar con el trabajo que los mantiene entusiasmados, hay menos presi&oacute;n para que tu hagas todo el trabajo solo.
+Animar a otros colaboradores es invertir en t&iacute; mismo tambi&eacute;n. Cuando da poder a sus m&aacute;s grandes seguidores a continuar con el trabajo que los mantiene entusiasmados, hay menos presi&oacute;n para que tu hagas todo el trabajo solo.
 
 ### Documenta todo
 
@@ -83,7 +83,7 @@ Incluso si no puedes revisar su solicitud inmediatamente, con solo agradecer su 
 
 ![Pull request de un intermediario](/assets/images/building-community/middleman_pr.png)
 
-Un [estudio de Mozilla ](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) encontr&oacute; que los contribuyentes que reciben una revisi&oacute;n de su c&oacute;digo dentro de las 48 horas tienen una significativa mayor tasa de retornar y de repetir alguna contribuci&oacute;n.
+Un [estudio de Mozilla ](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) encontr&oacute; que los colaboradores que reciben una revisi&oacute;n de su c&oacute;digo dentro de las 48 horas tienen una significativa mayor tasa de retornar y de repetir alguna contribuci&oacute;n.
 
 Las conversaciones acerca de tu proyecto pueden tambi&eacute;n ocurrir en otros lugares a lo largo de la internet, como en Stack Overflow, Twitter o reddit. Puedes configurar tus notificaciones en cualquiera de esos tres lugares de manera de ser alertado cuando &aacute;lguien mencione tu proyecto.
 
@@ -127,20 +127,19 @@ Los debates regulares sobre aspectos triviales de tu proyecto distrae a otros, i
 
 Cuando ves que ocurrre algún comportamiento negativo, haz la observación correspondiente de manera pública. Explícale, en un tono amable, porqué dicho comportamiento no es aceptable. Si el problema persiste, puedes necesitar [solicitarle que se retire](../code-of-conduct/#enforcing-your-code-of-conduct). Tu [código de conducta](../code-of-conduct/) puede ser una guía constructiva para estas conversaciones. 
 
-### Reúnete con los contribuyentes donde ellos están
+### Reúnete con los colaboradores donde ellos están
 
-La buena documentación solo se vuelve importante a medida que tu comunidad crece. Los contribuyentes casuales, quienes no estarían familiarizados con tu proyecto de otra manera, leen tu documentación para entender rápidamente el contexto de lo que necesitas. 
+La buena documentación solo se vuelve importante a medida que tu comunidad crece. Los colaboradores casuales, quienes no estarían familiarizados con tu proyecto de otra manera, leen tu documentación para entender rápidamente el contexto de lo que necesitas. 
 
-En tu archivo CONTRIBUTING, indica de manera explícita a los nuevos contribuyentes cómo pueden comenzar. Tal vez quieras dedicar incluso una sección para tal propósito. [Django](https://github.com/django/django), por ejemplo, tiene una página especial para dar la bienvenida a los nuevos contribuyentes.
+En tu archivo CONTRIBUTING, indica de manera explícita a los nuevos colaboradores cómo pueden comenzar. Tal vez quieras dedicar incluso una sección para tal propósito. [Django](https://github.com/django/django), por ejemplo, tiene una página especial para dar la bienvenida a los nuevos colaboradores.
 
-![Página de nuevos contribuyentes de django](/assets/images/building-community/django_new_contributors.png)
+![Página de nuevos colaboradores de django](/assets/images/building-community/django_new_contributors.png)
 
-En tu cola de asuntos, etiqueta errores que son convenientes para diferentes tipos de contribuyentes: por ejemplo, [_"solo principiantes"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), "conveniente para quienes resuelven su primer bug", o "documentación".  [Estas etiquetas](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) hacen que sea más fácil buscar problemas a resolver para alguien nuevo en el proyecto y así poder comenzar
+En tu cola de asuntos, etiqueta errores que son convenientes para diferentes tipos de colaboradores: por ejemplo, [_"solo principiantes"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), "conveniente para quienes resuelven su primer bug", o "documentación".  [Estas etiquetas](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) hacen que sea más fácil buscar problemas a resolver para alguien nuevo en el proyecto y así poder comenzar
 
 Finalmente, utiliza tu documentación para hacer que las personas se sientan bienvenidas en cada etapa del camino.
 
-Nunca vas a interactuar con la mayoría de las personas que se acercan a tu proyecto. Puede haber contribuyentes que no recibiste porque álguien se sintió intimidado o no supo cómo comenzar. Incluso algunas palabras amables pueden evitar que esas personas abandonen tu proyecto por verse frustradas
-
+Nunca vas a interactuar con la mayoría de las personas que se acercan a tu proyecto. Puede haber colaboradores que no recibiste porque álguien se sintió intimidado o no supo cómo comenzar. Incluso algunas palabras amables pueden evitar que esas personas abandonen tu proyecto por verse frustradas
 
 Por ejemplo, así es como [Rubinius](https://github.com/rubinius/rubinius/) comienza su  [guía de contribuciones](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):/
 
@@ -150,37 +149,40 @@ Por ejemplo, así es como [Rubinius](https://github.com/rubinius/rubinius/) comi
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/270108?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doe't always win by tiring people out, and that less prominent and minority voices are heard.
+ Los líderes tendrán diferentes opiniones, como debería ocurrir en todas las comunidades saludables. De todos modos, necesitas tomar algunas medidas para asegurar que las voces más potentes ganen siempre por haber cansado a los demás, y que también se escuchen las voces menos potentes y minoritarias.
+
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sarahsharp, ["¿Qué hace a una buena comunidad?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-People are excited to contribute to projects when they feel a sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you give credit to others, the more they'll stick around.
+Las personas se entusiasmas por contribuir con proyectos cuando perciben un sentido de pertenencia. Eso no significa que tengas que cambiar la visión de tu proyecto o aceptar contribuciones que no quieres. Pero cuanto más crédito les des a los otros, más se quedarán.
 
-See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
+Observa si puedes encntrar maneras de compartir la propiedad de tu comunidad tanto como te sea posible. Aquí hay algunas ideas:
 
-* **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
+* **Evita corregir errores sencillos (no críticos).** En su lugar, utilizalos como oportunidades para reclutar nuevos colaboradores, o mentorear a álguien que quiere contribuir. Puede parecer antinatural al principio, pero tu inversión se verá compensada en el tiempo. Por ejemplo,  @michaeljoseph le preguntó a colaborador que enviara un pull request de un problema detallado a continuación en lugar de arreglarlo él mismo.
 
 ![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) does.
+* **Inicia un archivo de COLABORADORES o AUTORES en tu proyecto** que liste a todos los que colaboraron con tu proyecto, como lo hace [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
 
-* If you've got a sizeable community, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+* Si tienes una comunidad considerable, **envía un boletín o escribe un post en un blog** agradeciendo a los colaboradores. Rust's [This Week in Rust](https://this-week-in-rust.org/) y Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) son dos buenos ejemplos.
 
-* **Give every contributor commit access.** @felixge found that this made people [more excited to polish their patches](http://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
+* **Da a cada colaborador permiso para hacer commit.** @felixge encontró que esto hizo que las personas [se entusiasmaran por pulir sus parches](http://felixge.de/2013/03/11/the-pull-request-hack.html), e incluso encontró nuevas personas para mantener proyectosen los que no había trabajado en tiempo.
 
-* If your project is on GitHub, **move your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. Organizations make it easier to work on projects with external collaborators.
 
-The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. The bigger your project, and the bigger your community, the easier it is to find help.
+* Si tu proyecto está alojado en GitHub, **mueve tu proyecto desde tu cuenta personal hacia una [Organizacióin](https://help.github.com/articles/creating-a-new-organization-account/)** y agrega al menos un administrador de respaldo. Las Organizaciones hacen que sea más fácil trabajar en proyectos con colaboradores externos.
 
-While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
+La realidad es que [la mayoría de los proyectos solo tienen](https://peerj.com/preprints/1233.pdf) una o dos personas que lo mantengan y que hacen la mayoría del trabajo. Mientras más grande sea tu proyecto, y mientras más grande sea tu comunidad, más fácil es encontrar ayuda.
+
+Aunque no siempre encuentres quien responda tu pedido, poner una se&ntilde;al por fuera incrementa las probabilidades de que otras personas se presenten. Y mientras más temprano comiences, más pronto las personas podrán ayudar.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/39992?v=3&s=400" class="pquote-avatar" alt="avatar">
-  \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
+  \[Está entre\] tus mayores intereses son los de reclutar colaboradores que disfruten y que sean capaces de hacer las cosas que tu no puedes. ¿Te gusta escribir código, pero no responder a los problemas? Entonces identifica aquellos individuos en tu comunidad que lo hacen y permiteles hacer lo suyo.
+
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Dando la Bienvenida a las comunidades"](http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 
