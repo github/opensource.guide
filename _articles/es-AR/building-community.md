@@ -83,26 +83,25 @@ Incluso si no puedes revisar su solicitud inmediatamente, con solo agradecer su 
 
 ![Pull request de un intermediario](/assets/images/building-community/middleman_pr.png)
 
-[Un estudio de Mozilla encontró que](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) los contribuyentes que reciben una revisión de su código dentro de las 48 horas tienen una significativa mayor tasa de retornar y de repetir alguna contribución.
+Un [estudio de Mozilla ](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) encontró que los contribuyentes que reciben una revisión de su código dentro de las 48 horas tienen una significativa mayor tasa de retornar y de repetir alguna contribución.
 
-Las conversaciones acerca de tu proyecto pueden también ocurrir en otros lugares a lo largo de la internet, como en Stack Overflow, Twitter o reddit. PUedes configurar tus notificaciones en cualquiera de esos tres lugares de manera de ser alertado cuando álguien mencione tu proyecto.
+Las conversaciones acerca de tu proyecto pueden también ocurrir en otros lugares a lo largo de la internet, como en Stack Overflow, Twitter o reddit. Puedes configurar tus notificaciones en cualquiera de esos tres lugares de manera de ser alertado cuando álguien mencione tu proyecto.
 
 ### Brinda a tu comunidad un lugar para congregarse
 
 Existen dos razones para brindar a tu comunidad un lugar para congregarse.
 
-The first reason is for them. Help people get to know each other. People with common interests will inevitably want a place to talk about it. And when communication is public and accessible, anybody can read past archives to get up to speed and participate.
+La primera razón es para ellos. Ayuda a las personas a conocerse. Las personas con intereses comunes querrán inevitablemente  un lugar para hablar de ello. Y cuando la comunicación es pública y accesible, cualquiera puede leer los archivos pasados para ponerse al día y participar.
 
+La segunda razón es para tí. Si no brindas a las personas un lugar público para conversar acerca de tu proyecto, probablemente te contactarán directamente. Al comienzo puede no parecer demasiado responder a mensajes privados "sólo por ésta vez". Pero con el tiempo, especialmente si tu proyecto se hace conocido, te sentirás agotado. Evita la tentación de comunicarte con las personas acerca de tu proyecto en privado. En su lugar, dirígelos al canal público designado.
 
-The second reason is for you. If you don't give people a public place to talk about your project, they will likely contact you directly. In the beginning, it may seem easy enough to respond to private messages "just this once". But over time, especially if your project becomes popular, you will feel exhausted. Resist the temptation to communicate with people about your project in private. Instead, direct them to a designated public channel.
+La comunicación pública puede ser tan simple como dirigir a las personas a abrir un tema en lugar de enviarle un correo electrónico a usted directamente o comentar en su blog. Podrías incluso configurar una lista de correos electrónicos, o crear una cuenta en Twitter, Slack o un canal IRC para que las personas puedan comentar sobre tu proyecto. ¡O prueba todo lo anterior!
 
-Public communication can be as simple as directing people to open an issue instead of emailing you directly or commenting on your blog. You could also set up a mailing list, or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
+[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) tiene tiempo reservado de las horas de oficina para ayudar a los miembros de la comunidad cada dos semanas :
 
-[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) sets aside office hours every other week to help community members:
+> Kops también tiene tiempo reservado cada dos semanas para ofrecer ayuda y guía a la comunidad. Los mantenedores de Kops han acordado reservar tiempo dedicado específicamente a trabajar con los recién llegados, ayudando con PRs y discutiendo nuevas características. 
 
-> Kops also has time set aside every other week to offer help and guidance to the community. Kops maintainers have agreed to set aside time specifically dedicated to working with newcomers, helping with PRs, and discussing new features.
-
-Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
+Las excepciones notables a la comunicación pública son: 1) cuestiones de seguridad y 2) infracciones sensibles al código de conducta. Siempre deberías encontrar la manera para que las personas reporten estos aspectos de manera privada. Si no quieres utilizar tu correo electrónico provado, configura una cuenta de correo electrónico dedicada.
 
 ## Growing your community
 
