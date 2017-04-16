@@ -64,23 +64,24 @@ Esto es debido a que [una licencia open source requiere](https://opensource.org/
 
 El resultado es que la mayor parte de los proyectos de este tipo son gratuitos, pero "gratuito" no forma parte de la definición del "Código Abierto". Hay formas de cobrar por estos proyectos en forma indirecta a través de licencias duales o funcionalidad limitada, y al mismo tiempo cumplir con la definición oficial del "Código Abierto".
 
-## Should I launch my own open source project?
+## ¿Debería comenzar mis propios proyectos de código abierto?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+La respuesta corta es "Sí", debido a que, sin importar lo que suceda, lanzar tu propio proyecto es una buena forma de aprender acerca de cómo funciona el código abierto.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+Si nunca has utilizado este concepto en el pasado, probablemente estés preocupado de lo que otras personas digan, o que no digan nada. Si esto es así, debes saber que no estás solo.
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+El código abierto funciona como cualquier otra actividad creativa, ya sea escribir o pintar. Puede dar miedo de compartir algo con el mundo, pero la única forma de mejorar es practicar (aún si no tienes una audiencia).
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+Si no estas convencido todavía, toma un momento para pensar acerca de cuáles serán tus objetivos.
 
-### Setting your goals
+### Definiendo tus objetivos
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+Los objetivos pueden ayudarte a detectar puntos en los que continuar trabajando, a qué decirle que no, y a dónde recurrir por ayuda. Comienza preguntándote, _¿Por qué estoy haciendo "código abierto" a mi proyecto?_
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+No hay nunca una respuesta correcta a la ésta pregunta. Puedes tener múltiples objetivos para un solo proyecto, o diferentes proyectos con diferentes objetivos.
+
+Si tu único objetivo es mostrar al mundo tu trabajo, quizás no necesites ni quieras contribución, y quizás digas eso en el README. Por otra parte, si quieres ayuda, invertirás tiempo en clarificar la documentación y en hacer sentir a los recién llegados bienvenidos.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
