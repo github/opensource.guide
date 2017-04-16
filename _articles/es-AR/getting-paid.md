@@ -1,13 +1,13 @@
 ---
 locale: es-AR
-title: Getting Paid for Open Source Work
-description: Sustain your work in open source by getting financial support for your time or your project.
+title: Recibir pagos por trabajos en c&oacute;digo abierto
+description: Mantiene tu trabajo de c&oacute;digo abierto al encontrar apoyo financiero por tu tiempo o tu proyecto.
 class: getting-paid
 toc:
-  why-some-people-seek-financial-support: "Why some people seek financial support"
-  funding-your-own-time: "Funding your own time"
-  finding-funding-for-your-project: "Finding funding for your project"
-  building-a-case-for-financial-support: "Building a case for financial support"
+  why-some-people-seek-financial-support: "Porqu&eacute; algunas personas buscan apoyo financiero"
+  funding-your-own-time: "Financiando tu propio tiempo"
+  finding-funding-for-your-project: "Encontrando financiaci&oacute;n para tu proyecto"
+  building-a-case-for-financial-support: "Creando un caso de apoyo financiero"
 order: 7
 image: /assets/images/cards/getting-paid.png
 ---
@@ -42,7 +42,7 @@ Mantener proyectos populares puede ser una responsabilidad significativa, tomand
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Preguntale a cualquier responsable de proyecto de código abierto, y le informarán sobre la realidad de la cantidad de trabajo que se dedica a la gestión de un proyecto. Tienes clientes. Estas arreglando los problemas para ellos. Estas creando nuevas funciones. Esto se convierte en una demanda real de tu tiempo.
+  Preguntale a cualquier responsable de proyecto de c&oacutedigo abierto, y le informar&aacuten sobre la realidad de la cantidad de trabajo que se dedica a la gesti&oacuten de un proyecto. Tienes clientes. Estas arreglando los problemas para ellos. Estas creando nuevas funciones. Esto se convierte en una demanda real de tu tiempo.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
@@ -68,7 +68,7 @@ Es mas f&aacute;cil establecer un trabajo en c&oacute;digo abierto si tu emplead
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Como muchos desarrolladores en proyectos de c&oacute;digo abierto, yo estaba esforzandome por seguir manteniendo uno. Cuando por primera vez comenc&eacute; a aportar a un proyecto, sol&iacute;a quedarme despierto hasta tarde o me pon&iacute;a a trabajar ni bien llegaba a mi hogar. (...) Fui capaz de discutir con mi jefe los problemas que estaba enfrentando y nos surgieron ideas sobre cómo podríamos incorporar las tareas de código abierto dado nuestro propio uso de Babel.
+  Como muchos desarrolladores en proyectos de c&oacute;digo abierto, yo estaba esforzandome por seguir manteniendo uno. Cuando por primera vez comenc&eacute; a aportar a un proyecto, sol&iacute;a quedarme despierto hasta tarde o me pon&iacute;a a trabajar ni bien llegaba a mi hogar. (...) Fui capaz de discutir con mi jefe los problemas que estaba enfrentando y nos surgieron ideas sobre c&oacutemo podr&iacuteamos incorporar las tareas de c&oacutedigo abierto dado nuestro propio uso de Babel.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
