@@ -28,7 +28,7 @@ Para entender cómo funciona, imagina a un amigo que organiza una comida, te inv
 
 
 * Todos prueban la torta (_usarlo_)
-* ¡La torta es un éxito! Te piden la receta, la cúal tú das.  (_estudiarlo/verlo_)
+* ¡La torta es un éxito! Te piden la receta, la cuál tú das.  (_estudiarlo/verlo_)
 * Un amigo, Pedro, es cocinero, y te sugiere colocar menos azúcar (_modificarlo_)
 * Otro amigo, Juan, te pide permiso para usarlo en una cena que tendrá la próxima semana (_distribuirlo_)
 
@@ -39,29 +39,30 @@ Realicemos una comparación: un proceso de código cerrado sería ir a un restau
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+  Una de las experiencias más gratificantes que obtengo de usar y colaborar en "Código abierto" proviene de las relaciones que construyo con cada uno de los desarrolladores que se encuentran enfrentando los mismos problemas que yo.
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
   </p>
 </aside>
 
-[There are many reasons](http://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+[Hay muchas razones](http://ben.balter.com/2015/11/23/why-open-source/) por las cuales una persona u organización querrían involucrarse en un proyecto de código abierto. Algunos ejemplos son:
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **Colaboración:** Los proyectos de código abierto pueden aceptar cambios efectuados por cualquier persona alrededor del mundo. [Exercism](https://github.com/exercism/), por ejemplo, una plataforma para ejercicios de programación con más de 350 colaboradores.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adopción y remezcla:** Los proyectos de código abierto puedne ser usados por cualquiera para casi cualquier própósito. Las personas pueden usarlos hasta para construir otras cosas. [WordPress](https://github.com/WordPress), por ejemplo, comenzaron como un "fork" de un proyecto existente llamado [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparencia:** Cualquiera puede inspeccionar un proyecto de este tipo, ya sea para encontrar errores como inconsistencias. La transparencia es de importancia para gobiernos como el de [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) o [United States](https://sourcecode.cio.gov/), para industrias reguladas como la bancaria o la del cuidado de la salud, y para la seguridad del software como [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source isn't just for software, either. You can open source everything from datasets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
 
-### Does open source mean "free of charge"?
+Código abierto no es solamente software. Uno puede "abrir" cualquier cosa, desde conjuntos de datos, hasta libros. Mira esto [GitHub Explore](https://github.com/explore) para tener otros ejemplos.
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+### ¿"Código Abierto" significa gratis?
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+Una de las cosas que causa confusión es el que el código abierto no cuesta dinero, es decir, es gratuito. Sin embargo, es un subproducto del valor general del "Código abierto".
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+Esto es debido a que [una licencia open source requiere](https://opensource.org/osd-annotated) que cualquiera pueda usar, modificar, y compartir sus proyectos para casi cualquier propósito, y los proyectos en sí mismos suelen ser gratuitos. Si el uso del proyecto cuesta dinero, cualquiera puede legalmente hacer una copia del mismo y usar la versión gratuita en su lugar.
+
+El resultado es que la mayor parte de los proyectos de este tipo son gratuitos, pero "gratuito" no forma parte de la definición del "Código Abierto". Hay formas de cobrar por estos proyectos en forma indirecta a través de licencias duales o funcionalidad limitada, y al mismo tiempo cumplir con la definición oficial del "Código Abierto".
 
 ## Should I launch my own open source project?
 
