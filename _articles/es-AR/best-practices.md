@@ -8,7 +8,7 @@ toc:
   documenting-your-processes: "Documentando tus procesos"
   learning-to-say-no: "Aprendiendo a decir no"
   leverage-your-community: "Aprovechando la comunidad"
-  bring-in-the-robots: "Traigan a los robots"
+  traigan-a-los-robots: "Traigan a los robots"
   its-okay-to-hit-pause: "Está bien poner pausa"
 order: 5
 image: /assets/images/cards/best-practices.png
