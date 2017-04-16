@@ -1,97 +1,99 @@
 ---
-locale: en-US
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+locale: es-AR
+title: Buenas pr&aacute;cticas para mantenedores de c&oacute;digo.
+description: Haciéndote la vida más fácil como un mantenedor de código abierto, desde el proceso de documentación hasta sacar el máximo provecho de la comunidad.
 class: best-practices
 toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
-  documenting-your-processes: "Documenting your processes"
-  learning-to-say-no: "Learning to say no"
-  leverage-your-community: "Leverage your community"
-  bring-in-the-robots: "Bring in the robots"
-  its-okay-to-hit-pause: "It’s okay to hit pause"
+  what-does-it-mean-to-be-a-maintainer: "¿Qué significa ser un mantenedor de código?"
+  documenting-your-processes: "Documentando tus procesos"
+  learning-to-say-no: "Aprendiendo a decir no"
+  leverage-your-community: "Aprovechando la comunidad"
+  bring-in-the-robots: "Traigan a los robots"
+  its-okay-to-hit-pause: "Está bien poner pausa"
 order: 5
 image: /assets/images/cards/best-practices.png
 ---
 
-## What does it mean to be a maintainer?
+## ¿Qué significa ser un mantenedor de código?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+Si tu trabajo es mantener un proyecto de código abierto que mucha gente usa, probablemente te hayas percatado que pasas más tiempo respondiendo issues que programando.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+En etapas tempranas de un proyecto, pasas tiempo experimentando con ideas nuevas y tomando decisiones en base a lo que te gusta. A medida que tu proyecto crece en popularidad, te encontrarás en una situación en la que trabajarás con tus usuarios y colaboradores cada vez más.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+Mantener un proyecto requiere más que solamente código. Estas tareas no suelen ser tenidas en cuenta, pero son igual de importantes para un proyecto en crecimiento. Hemos reunido algunas ideas que harán tu vida más fácil, desde el proceso de documentación hasta sacar el máximo provecho de la comunidad.
 
-## Documenting your processes
+## Documentando tus procesos
 
-Writing things down is one of the most important things you can do as a maintainer.
+Tomar nota de los procedimientos es una de las mejores prácticas que puedes llevar a cabo como mantenedor de código.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+Documentar no sólo aclara tu pensamiento, sino que también ayuda a otros a entender lo que necesitas o estás esperando, sin siquiera tener que preguntar.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+Tomar nota de los procesimientos facilita el hecho de decir que no cuando la propuesta de alguien no encaja en tu contexto. Asi como también hace más fácil que otras personas puedan sumarse y ayudar. Nunca sabes quien podría estar leyendo o usando tu proyecto.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+Aunque no seas del tipo de persona que escribe párrafos completos, tener los puntos claves anotados es mejor que no tener nada.
 
-### Write down your project's vision
+### Dejando en claro la visión de tu proyecto
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Comienza escribiendo los objetivos de tu proyecto. Agrégalos a tu archivo README, o crea un archivo separado llamado VISION. Si existen otros artefactos que puedan ayudar, como un mapa del proyecto, házlos públicos también
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+Llevando una clara, documentada visión te mantiene en foco y ayuda a evitar el mal entendimiento del alcance por parte de otros colaboradores.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+Por ejemplo, @lord descubrió que tener la visión de un proyecto lo ayudó a darse cuenta que peticiones priorizar. Como un mantenedor de código novato, se lamentó de no ser fiel al alcance del proyecto cuando recibió su primer pedido de funcionalidad por [Slate](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1976330?v=3&s=460" class="pquote-avatar" alt="avatar" alt="@lord avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  Lo intenté. No le puse el esfuerzo necesario para salir adelante con una solución completa. En lugar de una solución a medias, hubiera deseado haber dicho "En este momento no tengo tiempo para eso, pero voy a agregar la funcionalidad a la lista de pendientes a desarrollar en el futuro."
   <p markdown="1" class="pquote-credit">
-— @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
+— @lord, ["Tips para mantenedores de código abierto"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
-### Communicate your expectations
+### Comunicar tus expectativas
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+Algunas veces puede que sea complicado detallar las reglas para que otra gente pueda contribuir. Puedes llegar a sentir que estás comportándote como un policia o arruinando la diversión para los demás.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+Escritas y aplicadas de manera justa, sin embargo, las buenas reglas dan poder a los mantenedores de código. Evitan que te arrastren a hacer cosas que no quieres hacer.
 
-All of this is perfectly okay! Just make sure other people know about it.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+La mayoría de las personas que se encuentran con tu proyecto no saben nada sobre ti o tus circunstancias. Pueden asumir que te pagan para trabajar en él, especialmente si es algo que usan y dependen regularmente. Tal vez en un momento ponías mucho tiempo en tu proyecto, pero ahora estás ocupado con un nuevo trabajo o algún miembro de la familia.
 
-Here are a few rules that are worth writing down:
+¡Está perfectamente bien! Sólo asegúrate de que la gente lo sepa.
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_ex. "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_ex. "We only spend about 5 hours per week on this project"_)
+Si el mantenimiento de tu proyecto es a tiempo parcial o simplemente ser voluntario, se honesto acerca de cuánto tiempo tienes. Esto no es lo mismo que cuánto tiempo piensas que el proyecto requiere, o cuánto tiempo otros quieren que gastes.
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+Aquí hay algunas reglas que vale la pena anotar:
 
-### Keep communication public
+* Cómo se revisa y acepta una contribución (_¿Necesitan hacer testing? ¿Alguna plantilla que deban utilizar para las issues?_)
+* Los tipos de contribuciones que acepatarás (_¿Sólo quieres ayuda con una parte del código?_)
+* Cuando es apropieado hacer seguimiento (_eg. "Puede esperar una respuesta de un mantenedor de código dentro de los próximos 7 días. Si no ha oído nada para entonces, no dude en hacer ping al hilo."_)
+* Cuanto tiempo dedicas al proyecto (_eg. "Sólo invertimos unas 5 horas semanales en este proyecto"_)
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), y [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) son algunos ejemplos de proyectos con reglas claras para mantenedores y colaboradores.
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+### Mantener la comunicación pública
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+No olvides documentar tus interacciones, también. Dondequiera que puedas, mantén la comunicación sobre tu proyecto pública. Si alguien intenta ponerse en contacto contigo en privado para discutir una solicitud de funcionalidad o una necesidad de soporte, hágalo dirigirse educadamente a un canal de comunicación público, como una lista de correo o un rastreador de issues.
 
-## Learning to say no
+Si te reúnes con otros mantenedores, o tomas alguna decisión importante en privado, documenta estas conversaciones de manera pública, incluso si sólo estás publicando tus notas.
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+De esa manera, cualquiera que se una a tu comunidad tendrá acceso a la misma información que alguien que ha estado allí durante años.
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+## Aprender a decir no
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+Has escrito las cosas. Lo ideal sería que todo el mundo lea tu documentación, pero en realidad, tendrás que recordar a los demás que este conocimiento existe.
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+Tener todo escrito, sin embargo, ayuda a despersonalizar las situaciones cuando necesitas hacer cumplir tus reglas.
 
-### Keep the conversation friendly
+Decir que no, no es divertido, pero  _"Tu contribución no coincide con los criterios de este proyecto"_ se siente menos personal que _"No me gusta tu contribución"_.
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+Decir que no, se aplica a muchas situaciones que encontrarás como un mantenedor de código: solicitudes de funcionalidades que no encajan en el alcance, alguien que descarrila una discusión, hacer algún trabajo innecesario para otros.
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+### Mantener la conversación amistosa
+
+Uno de los lugares más importantes en los que practicarás el decir que no, es en tu cola de issues y pull request. Como responsable del proyecto, inevitablemente recibirás sugerencias que no desearás aceptar.
+
+Tal vez la contribución cambie el alcance de tu proyecto o no coincida con tu visión. Tal vez la idea es buena, pero la implementación es mala.
 
 Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
 
