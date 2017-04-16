@@ -1,5 +1,5 @@
 ---
-locale: en-US
+locale: es-AR
 title: Getting Paid for Open Source Work
 description: Sustain your work in open source by getting financial support for your time or your project.
 class: getting-paid
@@ -12,35 +12,34 @@ order: 7
 image: /assets/images/cards/getting-paid.png
 ---
 
-## Why some people seek financial support
+## ¿Porqué algunas personas buscan apoyo financiero?
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
-
+La mayor parte del trabajo realizado en proyectos de código abierto es voluntario. Por ejemplo, alguien puede encontrarse con un error en un proyecto que usan y aplican una corrección rápida, o simplemente les puede gustar corregir proyectos de código abierto en su tiempo libre. 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/2894642?v=3&s=460" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+Estaba buscando un proyecto de programacion para tenerlo como "hobby" y que me mantuviese ocupado en la semana de navidad. (...) Tenía una computadora de hogar y no mucho más. Decidí escribir un interpretador para un nuevo lenguaje en el que he estado pensando últimamente. (...) Elegí Python como título de mi trabajo. 
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
 There are many reasons why a person would not want to be paid for their open source work.
-
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+Hay muchas razones por las cuales a una persona no le gustaría que le pagaran por su trabajo en código abierto.  
+* **Ellos pueden llegar a tener ya un trabajo de tiempo completo que amen, **que los habilita a contribuir al código abierto en su tiempo libre.
+* **Les gusta contribuir a los proyectos de código abierto como un hobby** o escape creativo y no quieren sentise financieramente obligados a trabajar. 
+* **Reciben otros beneficios al contribuir al código abierto,** como construir su portfolio de reputación, aprender nuevas habilidades, o sentirse cercanos a una comunidad.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/2320?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  Las donaciones financieras agregan un sentimiento de responsabilidad, para algunos. (...) Es importante para nosotros, en un mundo globalmente conectado y apresurado en el que vivimos, ser capaces de decir: "Espera, no ahora, quiero hacer algo completamente diferente".
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
+Para otros, especialemente cuando las contribuciones están en proceso o requieren tiempo significativo, recibir dinero al contribuir al código abierto es la única manera en la que pueden participar. Porque el proyecto lo requiere o por razones personales. 
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+Mantener proyectos populares puede ser una responsabilidad significativa, tomando de 10 a 20 horas por semana en vez de un par de horas por mes.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -50,23 +49,23 @@ Maintaining popular projects can be a significant responsibility, taking up 10 o
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time. This has ethical implications, as @ashedryden [has described](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), since work that is done is biased in favor of those who already have advantages in life, who then gain additional advantages based on their volunteer contributions, while others who are not able to volunteer then don't get later opportunities, which reinforces the current lack of diversity in the open source community.
+El trabajo pago también habilita a todo tipo de personas a aportar significativamente. Algunas no pueden afrontar un trabajo ad-honoren en proyectos de código abierto, por su posición financiera, deudas, familia u otras responsabilidades. Eso significa que el mundo nunca ve contribuciones de personas talentosas que no pueden donar horas de trabajo. Estas implicaciones éticas como @ashedryden [ha descripto](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), desde que el trabajo hecho es parcialmente en favor de las personas que tienen ventajas en su vida, quienes de vuelta ganan ventajas adicionales basadas en sus contribuciones voluntarias, mientras que otros que no pueden ofrecerse voluntariamente no obtiene nuevas oportunidades, lo cual refuerza la actual falta de diversidad en la comunidad de código abierto. 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+   OSS obtiene beneficios masívos de la industria de la tecnología, que, al mismo tiempo, significa beneficios para todas las industrias. (...) Por otro lado, si las únicas personas que pueden concentrarse en ello son los suertudos y obsesionados, entonces hay un gran potencial no explotado.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+Si tu estas buscando apoyo financiero, hay dos posibles caminos a seguir. Puedes pagar por tu propio tiempo como contribuyente, o puedes encontrar organizaciones que aporten a tu proyecto.  
 
-## Funding your own time
+## Pagando por tu propio tiempo.
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
+Hoy en dia, muchas personas reciben pagas por trabajo part- o full-time  en código abierto. El modo mas común de recibir una paga por tu tiempo es hablar con tu empleador.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+Es mas fácil establecer un trabajo en código abierto si tu empleador usa el proyecto, pero ponte creativo. Puede que tu empleador no use el proyecto, pero usan Python, y mantener un proyecto popular de Python puede atraer nuevos desarrolladores de Python. También puede que haga que tu empleador se vea más desarrollador-amigable en general. 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
