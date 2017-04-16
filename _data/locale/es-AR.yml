@@ -19,7 +19,7 @@ footer:
     button: Suscribirse
   byline:
     # [code], [love], and [github] will be replaced by octicons
-    format: "[code] con [love] hecho por [github] y [friends]"
+    format: "[code] con [love] hecho por [github] y [amigos]"
     # Label for code octicon
     code_label: code
     # Label for love octicon
