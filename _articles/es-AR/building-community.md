@@ -1,11 +1,11 @@
 ---
-locale: en-US
+locale: es-AR
 title: Construyendo comunidades de bienvenida
-description: Construyendo una comunidad que anume a al gente a usar, contribuir y predicar con su proyecto
+description: Construyendo una comunidad que anime a al gente a usar, contribuir y predicar con su proyecto
 class: building
 toc:
-  setting-your-project-up-for-success: "Configurando su proyecto para el éxito"
-  growing-your-community: "Haciendo crecer su comunidad"
+  setting-your-project-up-for-success: "Configurando tu proyecto para el éxito"
+  growing-your-community: "Haciendo crecer tu comunidad"
   resolving-conflicts: "Resolviendo conflictos"
 order: 4
 image: /assets/images/cards/building.png
@@ -39,7 +39,7 @@ Una buena documentación invita a las personas a interactuar con tu proyecto. Ev
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Contribuir con código abierto es más fácil para algunos que para otros. Hay mucho miedo de recibir un alarido por no haber hecho algo bien o simplemente por no encajar. (...) Al dar a los contribuyentes un lugar para contribuir con aspecto de muy baja competencia técnica (documentación, reducción del contenido web, etc) puedes ayudar a reducir esas preocupaciones significatívamente.
+  Contribuir con código abierto es más fácil para algunos que para otros. Hay mucho miedo de recibir un alarido por no haber hecho algo bien o simplemente por no encajar. (...) Al dar a los contribuyentes un lugar para contribuir con aspectos de muy baja competencia técnica (documentación, reducción del contenido web, etc) puedes ayudar a reducir esas preocupaciones significatívamente.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Consolidando una base de contribuyentes en el código abierto moderno"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
@@ -55,37 +55,38 @@ Animar a otros contribuyentes es invertir en tí mismo también. Cuando da poder
   <img src="https://avatars2.githubusercontent.com/u/11321?v=3&s=400" class="pquote-avatar" alt="avatar">
   ¿Alguna vez viste un evento (técnico) en donde no conozcas a nadie, pero todos los demás parece que se encuentran en grupos y conversan como viejos amigos? (...) Ahora imagínate queriendo contribuir con un proyecto de código abierto, pero no distingues porqué o cómo esto está sucediendo.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Código abierto sosteniboe"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Código abierto sostenible"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-When you start a new project, it may feel natural to keep your work private. But open source projects thrive when you document your process in public.
+Cuando comienzas un proyecto, mantener tu trabajo en privado puede sentirse natural. Pero los proyectos de código abierto van mucho mejor cuando procesas tu documento en público.
 
-When you write things down, more people can participate at every step of the way. You might get help on something you didn't even know you needed.
+Cuando escribes las cosas, más personas pueden participar en cada paso del camino. Puedes necesitar ayuda o algo que todavía no sabes que necesitas.
 
-Writing things down means more than just technical documentation. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public.
+Escribir las cosas significa más que la documentación técnica. Cada vez que sientas la necesidad de escribir algo o de discutir tu proyecto de manera privada, pregúntate si puedes hacerlo públicamente.
 
-Be transparent about your project's roadmap, the types of contributions you're looking for, how contributions are reviewed, or why you made certain decisions.
+Mantente transparente acerca de la hoja de ruta de tu proyecto, los tipos de contribuciones que estás buscando, cómo se revisa el trabajo de quienes contribuyan o porqué tomas determinadas decisiones.
 
-If you notice multiple users running into the same problem, document the answers in the README.
+Si ves que varios usiarios están trabajando en el mismo problema, documenta sus respuestas en el README.
 
-For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+Para las reuniones, considera publicar tus notas o carteles en un asunto relevante. La retroalimentación que obtendrás de este nivel de transparencia te sorprenderá
 
-Documenting everything applies to the work you do, too. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
+Documentar todo también se aplica al trabajo que tu haces también. Si estás trabajando en una actualización sustancial de tu proyecto, ponlo en un pull request y márcalo como trabajo en proceso (WIP, work in progress por sus siglas en inglés). De esa manera, otras personasse pueden sentir involucradas en el proceso desde temprano
 
-### Be responsive
+### Compórtate de manera sensible
 
-As you [promote your project](../finding-users), people will have feedback for you. They may have questions about how things work, or need help getting started.
+A medida que [promocionas tu proyecto](../finding-users),las personas te hará llegar sus comentarios. Pueden tener preguntas acerca de cómo funcionan las cosas, o necesitar ayuda para comenzar
 
-Try to be responsive when someone files an issue, submits a pull request, or asks a question about your project. When you respond quickly, people will feel they are part of a dialogue, and they'll be more enthusiastic about participating.
+Trata de responder cuando álguien presenta un problema, envía un pull request o pregunta una pregunta acerca de tu proyecto. Cuando respondes rápidamente, logras que las personas se sientan parte del diálogo, y estarán más entusiasmadas acerca de participar.
 
 Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
+Incluso si no puedes revisar su solicitud inmediatamente, con solo agradecer su temprana ayuda incrementará su compromiso. Así es como @tdreyno respondió a un pull request en [Intermediario](https://github.com/middleman/middleman/pull/1466):
 
-![middleman pull request](/assets/images/building-community/middleman_pr.png)
+![Pull request de un intermediario](/assets/images/building-community/middleman_pr.png)
 
-[A Mozilla study found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
+[Un estudio de Mozilla encontró que](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) los contribuyentes que reciben una revisión de su código dentro de las 48 horas tienen una significativa mayotr tasa de retornar y de repetir alguna contribución.
 
-Conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
+Las conversaciones acerca de tu proyecto pueden también ocurrir en otros lugares a lo largo de la internet, como en Stack Overflow, Twitter o reddit. PUedes configurar tus notificaciones en cualquiera de esos tres lugares de manera de ser alertado cuando álguien mencione tu proyecto.
 
 ### Give your community a place to congregate
 
@@ -147,7 +148,7 @@ For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/270108?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
+  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doe't always win by tiring people out, and that less prominent and minority voices are heard.
   <p markdown="1" class="pquote-credit">
 — @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
