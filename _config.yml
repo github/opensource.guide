@@ -22,6 +22,7 @@ exclude:
   - test
   - vendor
   - node_modules
+  - build
 
 permalink: /:path/
 
@@ -45,6 +46,7 @@ gems:
   - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-relative-links
 
 markdown: kramdown
 

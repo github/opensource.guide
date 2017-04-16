@@ -11,8 +11,13 @@ layout: default
     <p class="lead text-center text-gray col-md-8 mx-auto mb-4 position-relative">{{ page.description }}</p>
     <nav class="toc mb-4 mb-md-6">
       <div class="card col-sm-8 col-md-4 col-lg-3 mx-auto">
+<<<<<<< HEAD
         <a class="toc-trigger d-block text-center p-3">
           <span class="text-black">{{ site.data.locale[site.locale].article.table_of_contents }}</span><svg height="18" class="octicon octicon-triangle-down ml-2 fill-blue v-align-middle icon-flip" viewBox="0 0 12 16" version="1.1" width="13" role="img"><path fill-rule="evenodd" d="M0 5l6 6 6-6z"></path></svg>
+=======
+        <a data-proofer-ignore class="toc-trigger d-block text-center p-3">
+          <span class="text-black">Table of Contents</span>{% octicon triangle-down height:18 class:"ml-2 fill-blue v-align-middle icon-flip" aria-label:open %}
+>>>>>>> 29c0537cb5b9513edd7617e2c563b2350acc6d2a
         </a>
         <ol class="toc-list list-style-none">
           {% for section in page.toc %}
@@ -24,7 +29,11 @@ layout: default
       </div>
     </nav>
     <div class="col-sm-10 mx-auto lh-none cover-img">
+<<<<<<< HEAD
       <img src="{{ site.baseurl }}/assets/images/illos/{{ page.class }}.svg" alt="{{ page.title }}">
+=======
+      <img src="/assets/images/illos/{{ page.class }}.svg" alt="{{ page.title }} Illustration">
+>>>>>>> 29c0537cb5b9513edd7617e2c563b2350acc6d2a
     </div>
   </div>
 </header>
