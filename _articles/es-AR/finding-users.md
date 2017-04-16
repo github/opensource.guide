@@ -1,7 +1,11 @@
 ---
 locale: es-AR
 title: Encontrando usuarios para tu proyecto
+<<<<<<< HEAD
 description: Ayuda a tu proyecto de c&oacute;digo abierto a crecer poni&oacute;ndolo en manos de usuarios satisfechos.
+=======
+description: Ayuda a tu proyecto de código abierto a crecer poniéndolo en manos de usuarios satisfechos.
+>>>>>>> 3527b33e4762b257b276a89b7dcdaa3809e917e2
 class: finding
 toc:
   spreading-the-word: "Pasando la voz"
