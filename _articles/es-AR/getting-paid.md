@@ -59,13 +59,13 @@ El trabajo pago también habilita a todo tipo de personas a aportar significativ
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+Si tu estas buscando apoyo financiero, hay dos posibles caminos a seguir. Puedes pagar por tu propio tiempo como contribuyente, o puedes encontrar organizaciones que aporten a tu proyecto.  
 
-## Funding your own time
+## Pagando por tu propio tiempo.
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
+Hoy en dia, muchas personas reciben pagas por trabajo part- o full-time  en código abierto. El modo mas común de recibir una paga por tu tiempo es hablar con tu empleador.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+Es mas fácil establecer un trabajo en código abierto si tu empleador usa el proyecto, pero ponte creativo. Puede que tu empleador no use el proyecto, pero usan Python, y mantener un proyecto popular de Python puede atraer nuevos desarrolladores de Python. También puede que haga que tu empleador se vea más desarrollador-amigable en general. 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
