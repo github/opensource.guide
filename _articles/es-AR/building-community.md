@@ -67,11 +67,11 @@ Escribir las cosas significa más que la documentación técnica. Cada vez que s
 
 Mantente transparente acerca de la hoja de ruta de tu proyecto, los tipos de contribuciones que estás buscando, cómo se revisa el trabajo de quienes contribuyan o porqué tomas determinadas decisiones.
 
-Si ves que varios usiarios están trabajando en el mismo problema, documenta sus respuestas en el README.
+Si ves que varios usuarios están trabajando en el mismo problema, documenta sus respuestas en el README.
 
 Para las reuniones, considera publicar tus notas o carteles en un asunto relevante. La retroalimentación que obtendrás de este nivel de transparencia te sorprenderá
 
-Documentar todo también se aplica al trabajo que tu haces también. Si estás trabajando en una actualización sustancial de tu proyecto, ponlo en un pull request y márcalo como trabajo en proceso (WIP, work in progress por sus siglas en inglés). De esa manera, otras personasse pueden sentir involucradas en el proceso desde temprano
+Documentar todo también se aplica al trabajo que tu haces también. Si estás trabajando en una actualización sustancial de tu proyecto, ponlo en un pull request y márcalo como trabajo en proceso (WIP, work in progress por sus siglas en inglés). De esa manera, otras personas se pueden sentir involucradas en el proceso desde temprano
 
 ### Compórtate de manera sensible
 
@@ -79,20 +79,20 @@ A medida que [promocionas tu proyecto](../finding-users),las personas te hará l
 
 Trata de responder cuando álguien presenta un problema, envía un pull request o pregunta una pregunta acerca de tu proyecto. Cuando respondes rápidamente, logras que las personas se sientan parte del diálogo, y estarán más entusiasmadas acerca de participar.
 
-Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
 Incluso si no puedes revisar su solicitud inmediatamente, con solo agradecer su temprana ayuda incrementará su compromiso. Así es como @tdreyno respondió a un pull request en [Intermediario](https://github.com/middleman/middleman/pull/1466):
 
 ![Pull request de un intermediario](/assets/images/building-community/middleman_pr.png)
 
-[Un estudio de Mozilla encontró que](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) los contribuyentes que reciben una revisión de su código dentro de las 48 horas tienen una significativa mayotr tasa de retornar y de repetir alguna contribución.
+[Un estudio de Mozilla encontró que](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) los contribuyentes que reciben una revisión de su código dentro de las 48 horas tienen una significativa mayor tasa de retornar y de repetir alguna contribución.
 
 Las conversaciones acerca de tu proyecto pueden también ocurrir en otros lugares a lo largo de la internet, como en Stack Overflow, Twitter o reddit. PUedes configurar tus notificaciones en cualquiera de esos tres lugares de manera de ser alertado cuando álguien mencione tu proyecto.
 
-### Give your community a place to congregate
+### Brinda a tu comunidad un lugar para congregarse
 
-There are two reasons to give your community a place to congregate.
+Existen dos razones para brindar a tu comunidad un lugar para congregarse.
 
 The first reason is for them. Help people get to know each other. People with common interests will inevitably want a place to talk about it. And when communication is public and accessible, anybody can read past archives to get up to speed and participate.
+
 
 The second reason is for you. If you don't give people a public place to talk about your project, they will likely contact you directly. In the beginning, it may seem easy enough to respond to private messages "just this once". But over time, especially if your project becomes popular, you will feel exhausted. Resist the temptation to communicate with people about your project in private. Instead, direct them to a designated public channel.
 
