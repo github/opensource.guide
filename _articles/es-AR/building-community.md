@@ -1,6 +1,6 @@
 ---
 locale: es-AR
-title: Construyendo comunidades de bienvenida
+title: Construyendo Comunidades de Bienvenida
 description: Construyendo una comunidad que anime a al gente a usar, contribuir y predicar con su proyecto
 class: building
 toc:
@@ -139,14 +139,14 @@ En tu cola de asuntos, etiqueta errores que son convenientes para diferentes tip
 
 Finalmente, utiliza tu documentación para hacer que las personas se sientan bienvenidas en cada etapa del camino.
 
-You will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Even a few kind words can keep someone from leaving your project in frustration.
+Nunca vas a interactuar con la mayoría de las personas que se acercan a tu proyecto. Puede haber contribuyentes que no recibiste porque álguien se sintió intimidado o no supo cómo comenzar. Incluso algunas palabras amables pueden evitar que esas personas abandonen tu proyecto por verse frustradas
 
 
 Por ejemplo, así es como [Rubinius](https://github.com/rubinius/rubinius/) comienza su  [guía de contribuciones](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):/
 
 > Queremos comenzar agradeciendo por utilizar Rubinius. Este proyecto es un trabajo de amor, y apreciamos a todos los usuarios que detectan errores, hacen mejoras al rendimiento, y ayudan con su documentación. Cada contribucióin es significagiva, así que gracias por participar. Dicho esto, aquí dejamos algunas pautas que pedimos que sigan para que podamos abordar con éxito su problema.
 
-### Comparta la propiedad de su proyecto
+### Comparte la propiedad de tu proyecto
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/270108?v=3&s=400" class="pquote-avatar" alt="avatar">
