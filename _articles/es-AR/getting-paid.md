@@ -1,7 +1,7 @@
 ---
 locale: es-AR
-title: Recibir pagos por trabajos en c&oacute;digo abierto
-description: Mantiene tu trabajo de c&oacute;digo abierto al encontrar apoyo financiero por tu tiempo o tu proyecto.
+title: Recibir Pagos por Trabajos en C&oacute;digo Abierto
+description: Manten tu trabajo de c&oacute;digo abierto al encontrar apoyo financiero por tu tiempo o tu proyecto.
 class: getting-paid
 toc:
   why-some-people-seek-financial-support: "Porqu&eacute; algunas personas buscan apoyo financiero"

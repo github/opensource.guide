@@ -1,6 +1,6 @@
 ---
 locale: es-AR
-title: Encontrando usuarios para tu proyecto
+title: Encontrando Usuarios Para Tu Proyecto
 description: Ayuda a tu proyecto de c&oacute;digo abierto a crecer poni&oacute;ndolo en manos de usuarios satisfechos.
 class: finding
 toc:
