@@ -63,7 +63,7 @@ Cuando comienzas un proyecto, mantener tu trabajo en privado puede sentirse natu
 
 Cuando escribes las cosas, m&aacute;s personas pueden participar en cada paso del camino. Puedes necesitar ayuda o algo que todav&iacute;a no sabes que necesitas.
 
-Escribir las cosas significa m&aacute;s que la documentaci&oacute;n t&eacute;cnica. Cada vez que sientas la necesidad de escribir algo o de discutir tu proyecto de manera privada, pregúntate si puedes hacerlo públicamente.
+Escribir las cosas significa m&aacute;s que la documentaci&oacute;n t&eacute;cnica. Cada vez que sientas la necesidad de escribir algo o de discutir tu proyecto de manera privada, preg&uacute;ntate si puedes hacerlo p&uacute;blicamente.
 
 Mantente transparente acerca de la hoja de ruta de tu proyecto, los tipos de contribuciones que est&aacute;s buscando, c&oacute;mo se revisa el trabajo de quienes contribuyan o porqu&eacute; tomas determinadas decisiones.
 
@@ -91,95 +91,95 @@ Las conversaciones acerca de tu proyecto pueden tambi&eacute;n ocurrir en otros 
 
 Existen dos razones para brindar a tu comunidad un lugar para congregarse.
 
-La primera raz&oacute;n es para ellos. Ayuda a las personas a conocerse. Las personas con intereses comunes querr&aacute;n inevitablemente  un lugar para hablar de ello. Y cuando la comunicaci&oacute;n es pública y accesible, cualquiera puede leer los archivos pasados para ponerse al d&iacute;a y participar.
+La primera raz&oacute;n es para ellos. Ayuda a las personas a conocerse. Las personas con intereses comunes querr&aacute;n inevitablemente  un lugar para hablar de ello. Y cuando la comunicaci&oacute;n es p&uacute;blica y accesible, cualquiera puede leer los archivos pasados para ponerse al d&iacute;a y participar.
 
-La segunda raz&oacute;n es para t&iacute;. Si no brindas a las personas un lugar público para conversar acerca de tu proyecto, probablemente te contactar&aacute;n directamente. Al comienzo puede no parecer demasiado responder a mensajes privados "s&oacute;lo por &eacute;sta vez". Pero con el tiempo, especialmente si tu proyecto se hace conocido, te sentir&aacute;s agotado. Evita la tentaci&oacute;n de comunicarte con las personas acerca de tu proyecto en privado. En su lugar, dir&iacute;gelos al canal público designado.
+La segunda raz&oacute;n es para t&iacute;. Si no brindas a las personas un lugar p&uacute;blico para conversar acerca de tu proyecto, probablemente te contactar&aacute;n directamente. Al comienzo puede no parecer demasiado responder a mensajes privados "s&oacute;lo por &eacute;sta vez". Pero con el tiempo, especialmente si tu proyecto se hace conocido, te sentir&aacute;s agotado. Evita la tentaci&oacute;n de comunicarte con las personas acerca de tu proyecto en privado. En su lugar, dir&iacute;gelos al canal p&uacute;blico designado.
 
-La comunicaci&oacute;n pública puede ser tan simple como dirigir a las personas a abrir un tema en lugar de enviarle un correo electr&oacute;nico a usted directamente o comentar en su blog. Podr&iacute;as incluso configurar una lista de correos electr&oacute;nicos, o crear una cuenta en Twitter, Slack o un canal IRC para que las personas puedan comentar sobre tu proyecto. ¡O prueba todo lo anterior!
+La comunicaci&oacute;n p&uacute;blica puede ser tan simple como dirigir a las personas a abrir un tema en lugar de enviarle un correo electr&oacute;nico a usted directamente o comentar en su blog. Podr&iacute;as incluso configurar una lista de correos electr&oacute;nicos, o crear una cuenta en Twitter, Slack o un canal IRC para que las personas puedan comentar sobre tu proyecto. ¡O prueba todo lo anterior!
 
 [Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) tiene tiempo reservado de las horas de oficina para ayudar a los miembros de la comunidad cada dos semanas :
 
 > Kops tambi&eacute;n tiene tiempo reservado cada dos semanas para ofrecer ayuda y gu&iacute;a a la comunidad. Los mantenedores de Kops han acordado reservar tiempo dedicado espec&iacute;ficamente a trabajar con los reci&eacute;n llegados, ayudando con PRs y discutiendo nuevas caracter&iacute;sticas. 
 
-Las excepciones notables a la comunicaci&oacute;n pública son: 1) cuestiones de seguridad y 2) infracciones sensibles al c&oacute;digo de conducta. Siempre deber&iacute;as encontrar la manera para que las personas reporten estos aspectos de manera privada. Si no quieres utilizar tu correo electr&oacute;nico provado, configura una cuenta de correo electr&oacute;nico dedicada.
+Las excepciones notables a la comunicaci&oacute;n p&uacute;blica son: 1) cuestiones de seguridad y 2) infracciones sensibles al c&oacute;digo de conducta. Siempre deber&iacute;as encontrar la manera para que las personas reporten estos aspectos de manera privada. Si no quieres utilizar tu correo electr&oacute;nico provado, configura una cuenta de correo electr&oacute;nico dedicada.
 
 ## Haciendo crecer tu comunidad
 
-Las comunidades son extremadamente poderosas. Ese poder puede ser una bendición o una maldicióni, dependiendo de cómo lo maneje. A medida que la comunidad de tu proyecto crece, existen maneras para ayudar a que se convierta en una fuerza de construcción, no de destrucción.
+Las comunidades son extremadamente poderosas. Ese poder puede ser una bendici&oacute;n o una maldici&oacute;ni, dependiendo de c&oacute;mo lo maneje. A medida que la comunidad de tu proyecto crece, existen maneras para ayudar a que se convierta en una fuerza de construcci&oacute;n, no de destrucci&oacute;n.
 
 ### No toleres a los malos actores
 
-Cualquier proyecto popular inevitablemente atraerá a personas que perjudican a tu comunidad, en lugar de ayudarla. Pueden comenzar discusiones innecesarias, discutir sobre rasgos triviales o burlarse de otros.
+Cualquier proyecto popular inevitablemente atraer&aacute; a personas que perjudican a tu comunidad, en lugar de ayudarla. Pueden comenzar discusiones innecesarias, discutir sobre rasgos triviales o burlarse de otros.
 
-Haz todo lo posible para adoptar una política de tolerancia cero hacia este tipo de personas. Si no se controla, las personas negativas harán que otras personas de tu comunidad se sientan incómodas. Incluso pueden irse.
+Haz todo lo posible para adoptar una pol&iacute;tica de tolerancia cero hacia este tipo de personas. Si no se controla, las personas negativas har&aacute;n que otras personas de tu comunidad se sientan inc&oacute;modas. Incluso pueden irse.
 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/633012?v=3&s=460" class="pquote-avatar" alt="avatar">
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
-  La verdad es que tener una comunidad de apoyo es clave. Nunca hubiera sido capaz de realizar este trabajo sin la ayuda de mis colegas, los extraños de internet que fueron amigables y los canales IRC de conversación. (...) No te conformes con menos. No te conformes con los idiotas.
+  La verdad es que tener una comunidad de apoyo es clave. Nunca hubiera sido capaz de realizar este trabajo sin la ayuda de mis colegas, los extra&ntilde;os de internet que fueron amigables y los canales IRC de conversaci&oacute;n. (...) No te conformes con menos. No te conformes con los idiotas.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["Cómo llevar adelante un proyecto FOSS"](https://karissa.github.io/post/okf-de)
+— @karissa, ["C&oacute;mo llevar adelante un proyecto FOSS"](https://karissa.github.io/post/okf-de)
   </p>
 </aside>
 
-Los debates regulares sobre aspectos triviales de tu proyecto distrae a otros, incluyéndote también a tí, de enfocarte en tareas importantes. Las nuevas personas que llegan a tu proyecto pueden ver estas conversaciones y puedeno no querer participar.
+Los debates regulares sobre aspectos triviales de tu proyecto distrae a otros, incluy&eacute;ndote tambi&eacute;n a t&iacute;, de enfocarte en tareas importantes. Las nuevas personas que llegan a tu proyecto pueden ver estas conversaciones y puedeno no querer participar.
 
-Cuando ves que ocurrre algún comportamiento negativo, haz la observación correspondiente de manera pública. Explícale, en un tono amable, porqué dicho comportamiento no es aceptable. Si el problema persiste, puedes necesitar [solicitarle que se retire](../code-of-conduct/#enforcing-your-code-of-conduct). Tu [código de conducta](../code-of-conduct/) puede ser una guía constructiva para estas conversaciones. 
+Cuando ves que ocurrre alg&uacute;n comportamiento negativo, haz la observaci&oacute;n correspondiente de manera p&uacute;blica. Expl&iacute;cale, en un tono amable, porqu&eacute; dicho comportamiento no es aceptable. Si el problema persiste, puedes necesitar [solicitarle que se retire](../code-of-conduct/#enforcing-your-code-of-conduct). Tu [c&oacute;digo de conducta](../code-of-conduct/) puede ser una gu&iacute;a constructiva para estas conversaciones. 
 
-### Reúnete con los colaboradores donde ellos están
+### Re&uacute;nete con los colaboradores donde ellos est&aacute;n
 
-La buena documentación solo se vuelve importante a medida que tu comunidad crece. Los colaboradores casuales, quienes no estarían familiarizados con tu proyecto de otra manera, leen tu documentación para entender rápidamente el contexto de lo que necesitas. 
+La buena documentaci&oacute;n solo se vuelve importante a medida que tu comunidad crece. Los colaboradores casuales, quienes no estar&iacute;an familiarizados con tu proyecto de otra manera, leen tu documentaci&oacute;n para entender r&aacute;pidamente el contexto de lo que necesitas. 
 
-En tu archivo CONTRIBUTING, indica de manera explícita a los nuevos colaboradores cómo pueden comenzar. Tal vez quieras dedicar incluso una sección para tal propósito. [Django](https://github.com/django/django), por ejemplo, tiene una página especial para dar la bienvenida a los nuevos colaboradores.
+En tu archivo CONTRIBUTING, indica de manera expl&iacute;cita a los nuevos colaboradores c&oacute;mo pueden comenzar. Tal vez quieras dedicar incluso una secci&oacute;n para tal prop&oacute;sito. [Django](https://github.com/django/django), por ejemplo, tiene una p&aacute;gina especial para dar la bienvenida a los nuevos colaboradores.
 
-![Página de nuevos colaboradores de django](/assets/images/building-community/django_new_contributors.png)
+![P&aacute;gina de nuevos colaboradores de django](/assets/images/building-community/django_new_contributors.png)
 
-En tu cola de asuntos, etiqueta errores que son convenientes para diferentes tipos de colaboradores: por ejemplo, [_"solo principiantes"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), "conveniente para quienes resuelven su primer bug", o "documentación".  [Estas etiquetas](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) hacen que sea más fácil buscar problemas a resolver para alguien nuevo en el proyecto y así poder comenzar
+En tu cola de asuntos, etiqueta errores que son convenientes para diferentes tipos de colaboradores: por ejemplo, [_"solo principiantes"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), "conveniente para quienes resuelven su primer bug", o "documentaci&oacute;n".  [Estas etiquetas](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) hacen que sea m&aacute;s f&aacute;cil buscar problemas a resolver para alguien nuevo en el proyecto y as&iacute; poder comenzar
 
-Finalmente, utiliza tu documentación para hacer que las personas se sientan bienvenidas en cada etapa del camino.
+Finalmente, utiliza tu documentaci&oacute;n para hacer que las personas se sientan bienvenidas en cada etapa del camino.
 
-Nunca vas a interactuar con la mayoría de las personas que se acercan a tu proyecto. Puede haber colaboradores que no recibiste porque álguien se sintió intimidado o no supo cómo comenzar. Incluso algunas palabras amables pueden evitar que esas personas abandonen tu proyecto por verse frustradas
+Nunca vas a interactuar con la mayor&iacute;a de las personas que se acercan a tu proyecto. Puede haber colaboradores que no recibiste porque &aacute;lguien se sinti&oacute; intimidado o no supo c&oacute;mo comenzar. Incluso algunas palabras amables pueden evitar que esas personas abandonen tu proyecto por verse frustradas
 
-Por ejemplo, así es como [Rubinius](https://github.com/rubinius/rubinius/) comienza su  [guía de contribuciones](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):/
+Por ejemplo, as&iacute; es como [Rubinius](https://github.com/rubinius/rubinius/) comienza su  [gu&iacute;a de contribuciones](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):/
 
-> Queremos comenzar agradeciendo por utilizar Rubinius. Este proyecto es un trabajo de amor, y apreciamos a todos los usuarios que detectan errores, hacen mejoras al rendimiento, y ayudan con su documentación. Cada contribucióin es significagiva, así que gracias por participar. Dicho esto, aquí dejamos algunas pautas que pedimos que sigan para que podamos abordar con éxito su problema.
+> Queremos comenzar agradeciendo por utilizar Rubinius. Este proyecto es un trabajo de amor, y apreciamos a todos los usuarios que detectan errores, hacen mejoras al rendimiento, y ayudan con su documentaci&oacute;n. Cada contribuci&oacute;in es significagiva, as&iacute; que gracias por participar. Dicho esto, aqu&iacute; dejamos algunas pautas que pedimos que sigan para que podamos abordar con &eacute;xito su problema.
 
 ### Comparte la propiedad de tu proyecto
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/270108?v=3&s=400" class="pquote-avatar" alt="avatar">
- Los líderes tendrán diferentes opiniones, como debería ocurrir en todas las comunidades saludables. De todos modos, necesitas tomar algunas medidas para asegurar que las voces más potentes no ganen siempre por haber cansado a los demás, y que también se escuchen las voces menos potentes y minoritarias.
+ Los l&iacute;deres tendr&aacute;n diferentes opiniones, como deber&iacute;a ocurrir en todas las comunidades saludables. De todos modos, necesitas tomar algunas medidas para asegurar que las voces m&aacute;s potentes no ganen siempre por haber cansado a los dem&aacute;s, y que tambi&eacute;n se escuchen las voces menos potentes y minoritarias.
 
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["¿Qué hace a una buena comunidad?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sarahsharp, ["¿Qu&eacute; hace a una buena comunidad?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-Las personas se entusiasman por contribuir con proyectos cuando perciben un sentido de pertenencia. Eso no significa que tengas que cambiar la visión de tu proyecto o aceptar contribuciones que no quieres. Pero cuanto más crédito les des a los otros, más se quedarán.
+Las personas se entusiasman por contribuir con proyectos cuando perciben un sentido de pertenencia. Eso no significa que tengas que cambiar la visi&oacute;n de tu proyecto o aceptar contribuciones que no quieres. Pero cuanto m&aacute;s cr&eacute;dito les des a los otros, m&aacute;s se quedar&aacute;n.
 
-Observa si puedes encontrar maneras de compartir la propiedad de tu comunidad tanto como te sea posible. Aquí hay algunas ideas:
+Observa si puedes encontrar maneras de compartir la propiedad de tu comunidad tanto como te sea posible. Aqu&iacute; hay algunas ideas:
 
-* **Evita corregir errores sencillos (no críticos).** En su lugar, utilizalos como oportunidades para reclutar nuevos colaboradores, o mentorear a álguien que quiere contribuir. Puede parecer antinatural al principio, pero tu inversión se verá compensada en el tiempo. Por ejemplo,  @michaeljoseph le preguntó a colaborador que enviara un pull request de un problema detallado a continuación en lugar de arreglarlo él mismo.
+* **Evita corregir errores sencillos (no cr&iacute;ticos).** En su lugar, utilizalos como oportunidades para reclutar nuevos colaboradores, o mentorear a &aacute;lguien que quiere contribuir. Puede parecer antinatural al principio, pero tu inversi&oacute;n se ver&aacute; compensada en el tiempo. Por ejemplo,  @michaeljoseph le pregunt&oacute; a colaborador que enviara un pull request de un problema detallado a continuaci&oacute;n en lugar de arreglarlo &eacute;l mismo.
 
 ![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
 * **Inicia un archivo de COLABORADORES o AUTORES en tu proyecto** que liste a todos los que colaboraron con tu proyecto, como lo hace [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
 
-* Si tienes una comunidad considerable, **envía un boletín o escribe un post en un blog** agradeciendo a los colaboradores. Rust's [This Week in Rust](https://this-week-in-rust.org/) y Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) son dos buenos ejemplos.
+* Si tienes una comunidad considerable, **env&iacute;a un bolet&iacute;n o escribe un post en un blog** agradeciendo a los colaboradores. Rust's [This Week in Rust](https://this-week-in-rust.org/) y Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) son dos buenos ejemplos.
 
-* **Da a cada colaborador permiso para hacer commit.** @felixge encontró con esto que las personas [se entusiasmaran por pulir sus parches](http://felixge.de/2013/03/11/the-pull-request-hack.html), e incluso encontró nuevas personas para mantener proyectos en los que no había trabajado en tiempo.
+* **Da a cada colaborador permiso para hacer commit.** @felixge encontr&oacute; con esto que las personas [se entusiasmaran por pulir sus parches](http://felixge.de/2013/03/11/the-pull-request-hack.html), e incluso encontr&oacute; nuevas personas para mantener proyectos en los que no hab&iacute;a trabajado en tiempo.
 
 
-* Si tu proyecto está alojado en GitHub, **mueve tu proyecto desde tu cuenta personal hacia una [Organización](https://help.github.com/articles/creating-a-new-organization-account/)** y agrega al menos un administrador de respaldo. Las Organizaciones hacen que sea más fácil trabajar en proyectos con colaboradores externos.
+* Si tu proyecto est&aacute; alojado en GitHub, **mueve tu proyecto desde tu cuenta personal hacia una [Organizaci&oacute;n](https://help.github.com/articles/creating-a-new-organization-account/)** y agrega al menos un administrador de respaldo. Las Organizaciones hacen que sea m&aacute;s f&aacute;cil trabajar en proyectos con colaboradores externos.
 
-La realidad es que [la mayoría de los proyectos solo tienen](https://peerj.com/preprints/1233.pdf) una o dos personas que lo mantengan y que hacen la mayoría del trabajo. Mientras más grande sea tu proyecto, y mientras más grande sea tu comunidad, más fácil es encontrar ayuda.
+La realidad es que [la mayor&iacute;a de los proyectos solo tienen](https://peerj.com/preprints/1233.pdf) una o dos personas que lo mantengan y que hacen la mayor&iacute;a del trabajo. Mientras m&aacute;s grande sea tu proyecto, y mientras m&aacute;s grande sea tu comunidad, m&aacute;s f&aacute;cil es encontrar ayuda.
 
-Aunque no siempre encuentres quien responda tu pedido, poner una se&ntilde;al por fuera incrementa las probabilidades de que otras personas se presenten. Y mientras más temprano comiences, más pronto las personas podrán ayudar.
+Aunque no siempre encuentres quien responda tu pedido, poner una se&ntilde;al por fuera incrementa las probabilidades de que otras personas se presenten. Y mientras m&aacute;s temprano comiences, m&aacute;s pronto las personas podr&aacute;n ayudar.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/39992?v=3&s=400" class="pquote-avatar" alt="avatar">
-  \[Está entre\] tus mayores intereses son los de reclutar colaboradores que disfruten y que sean capaces de hacer las cosas que tu no puedes. ¿Te gusta escribir código, pero no responder a los problemas? Entonces identifica aquellos individuos en tu comunidad que lo hacen y permiteles hacer lo suyo.
+  \[Est&aacute; entre\] tus mayores intereses son los de reclutar colaboradores que disfruten y que sean capaces de hacer las cosas que tu no puedes. ¿Te gusta escribir c&oacute;digo, pero no responder a los problemas? Entonces identifica aquellos individuos en tu comunidad que lo hacen y permiteles hacer lo suyo.
 
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Dando la Bienvenida a las comunidades"](http://hood.ie/blog/welcoming-communities.html)
@@ -188,75 +188,75 @@ Aunque no siempre encuentres quien responda tu pedido, poner una se&ntilde;al po
 
 ## Resolviendo conflictos
 
-En las primeras etapas de tu proyecto, es bastante fácil tomar decisiones importantes. Cuando quieres hacer algo, simplemente lo haces.
+En las primeras etapas de tu proyecto, es bastante f&aacute;cil tomar decisiones importantes. Cuando quieres hacer algo, simplemente lo haces.
 
-A medida que tu proyecto se hace más conocido, más personas tendrán interés en las decisiones que tomes. Incluso si no tienes una gran comunidad de colaboradores, si tu proyecto tiene muchos usuarios, encontrarás personas que pesan en las decisiones o plantean cuestiones propias.
+A medida que tu proyecto se hace m&aacute;s conocido, m&aacute;s personas tendr&aacute;n inter&eacute;s en las decisiones que tomes. Incluso si no tienes una gran comunidad de colaboradores, si tu proyecto tiene muchos usuarios, encontrar&aacute;s personas que pesan en las decisiones o plantean cuestiones propias.
 
-En su mayor parte, si has cultivado una comunidad amistosa y que se maneja con respeto y has documentado tu proceso de manera abierta, tu propia comunidad debería tener la habilidad para encontrar una solución. Pero algunas veces te encontrarás con problemas un poco más difíciles de abordar.
+En su mayor parte, si has cultivado una comunidad amistosa y que se maneja con respeto y has documentado tu proceso de manera abierta, tu propia comunidad deber&iacute;a tener la habilidad para encontrar una soluci&oacute;n. Pero algunas veces te encontrar&aacute;s con problemas un poco m&aacute;s dif&iacute;ciles de abordar.
 
 ### Fijando la vara para la amabilidad
 
-Cuando tu comunidad se encuentre lidiando con una cuestión difícil, los ánimos pueden subir. Las personas pueden enojarse o verse frustradas y tomar las críticas como algo personal, incluso provenientes de tí.
+Cuando tu comunidad se encuentre lidiando con una cuesti&oacute;n dif&iacute;cil, los &aacute;nimos pueden subir. Las personas pueden enojarse o verse frustradas y tomar las cr&iacute;ticas como algo personal, incluso provenientes de t&iacute;.
 
-Tu trabajo como encargado es evitar que estas situaciones escalen. Incluso si tienes una fuerte opinión sobre un tema, trata de mantener una posición de moderador o de facilitador, en lugar de ir a la lucha y empujar tus propios puntos de vista. Si álguien está comportándose de manera poco educada o monopolizando la conversación, [actúa inmediatamente](../building-community/#dont-tolerate-bad-actors) para mantener una discusión civilizada y productiva.
+Tu trabajo como encargado es evitar que estas situaciones escalen. Incluso si tienes una fuerte opini&oacute;n sobre un tema, trata de mantener una posici&oacute;n de moderador o de facilitador, en lugar de ir a la lucha y empujar tus propios puntos de vista. Si &aacute;lguien est&aacute; comport&aacute;ndose de manera poco educada o monopolizando la conversaci&oacute;n, [act&uacute;a inmediatamente](../building-community/#dont-tolerate-bad-actors) para mantener una discusi&oacute;n civilizada y productiva.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/119893?v=3&s=400" class="pquote-avatar" alt="avatar">
   Como responsable de un proyecto, es estremadamente importante ser respetuoso con los colaboradores. A menudo toman lo que les dices de manera personal.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Sea Cordial o póngase a trabajar en ello"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Sea Cordial o p&oacute;ngase a trabajar en ello"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
-Algunas otras personas te mirarán como un guía. Da un buen ejemplo. Todavía puedes expresar desacuerdo, tristeza o preocupación, pero de manera calmada.
+Algunas otras personas te mirar&aacute;n como un gu&iacute;a. Da un buen ejemplo. Todav&iacute;a puedes expresar desacuerdo, tristeza o preocupaci&oacute;n, pero de manera calmada.
 
-Mantener la calma no es fácil, pero demostrar liderazco mejora la salud de tu comunidad. Internet te agradece.
+Mantener la calma no es f&aacute;cil, pero demostrar liderazco mejora la salud de tu comunidad. Internet te agradece.
 
-### Trata a tu README como una constitución
+### Trata a tu README como una constituci&oacute;n
 
-Tu README es [más que un conjunto de instrucciones](../starting-a-project/#writing-a-readme). También es un lugar para hablar acerca de tus objetivos, visión del producto, y un mapa de ruta. Si las personas están muy centradas en debatir el mérito de un aspecto en particular, puede revisar el README y conversar de una visión más alta de tu proyecto. Centrarse en el README también despersonaliza la conversación, para tener una discusión más constructiva.
+Tu README es [m&aacute;s que un conjunto de instrucciones](../starting-a-project/#writing-a-readme). Tambi&eacute;n es un lugar para hablar acerca de tus objetivos, visi&oacute;n del producto, y un mapa de ruta. Si las personas est&aacute;n muy centradas en debatir el m&eacute;rito de un aspecto en particular, puede revisar el README y conversar de una visi&oacute;n m&aacute;s alta de tu proyecto. Centrarse en el README tambi&eacute;n despersonaliza la conversaci&oacute;n, para tener una discusi&oacute;n m&aacute;s constructiva.
 
-### Enfócate en el viaje, no en el destino
+### Enf&oacute;cate en el viaje, no en el destino
 
-Algunos proyectos utilizan un proceso de votación para tomar decisiones importantes. Si bien parece sensato a primera vista, la votación pone hincapié en una "respuesta", más que en escuchar y tratar las preocupaciones de cada uno.
+Algunos proyectos utilizan un proceso de votaci&oacute;n para tomar decisiones importantes. Si bien parece sensato a primera vista, la votaci&oacute;n pone hincapi&eacute; en una "respuesta", m&aacute;s que en escuchar y tratar las preocupaciones de cada uno.
 
-La votación se puede volver política, cuando los miembros de la comunidad se sienten presionados para hacerse favores entre ellos o a votar de determinada manera. No todos votan, si existe una [mayoría silenciosa](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) en tu comunidad, o existían usuarios que no se enteraron que se estaba llevando a cabo una votación. 
+La votaci&oacute;n se puede volver pol&iacute;tica, cuando los miembros de la comunidad se sienten presionados para hacerse favores entre ellos o a votar de determinada manera. No todos votan, si existe una [mayor&iacute;a silenciosa](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) en tu comunidad, o exist&iacute;an usuarios que no se enteraron que se estaba llevando a cabo una votaci&oacute;n. 
 
-Algunas veces, la votación se vuelve un desempate necesario. En la medida de lo posible, sin embargo, pone énfasis en la ["búsqueda de concenso"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) más que en concensuar.
+Algunas veces, la votaci&oacute;n se vuelve un desempate necesario. En la medida de lo posible, sin embargo, pone &eacute;nfasis en la ["b&uacute;squeda de concenso"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) m&aacute;s que en concensuar.
 
-Bajo un proceso de búsqueda de concenso, los miembros de la comunidad discuten las principales preocupaciones hasta que sienten que fueron escuchadas adecuadamente. Cuando solo quedan preocupaciones menores, la comunidad avanza. La "Búsqueda de Concenso" reconoce que una comunidad puede no ser capaz de alcanzar una respuesta perfecta. En su lugar prioriza el escuchar y la discusión.
+Bajo un proceso de b&uacute;squeda de concenso, los miembros de la comunidad discuten las principales preocupaciones hasta que sienten que fueron escuchadas adecuadamente. Cuando solo quedan preocupaciones menores, la comunidad avanza. La "B&uacute;squeda de Concenso" reconoce que una comunidad puede no ser capaz de alcanzar una respuesta perfecta. En su lugar prioriza el escuchar y la discusi&oacute;n.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/1038121?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Parte de la razón por la que la votación no existe para Cuestiones Atómicas es porque un Grupo Atómico no llevará adelante un sistema de votacíon en todos los casos. Algunas veces tenemos que elegir lo que nos parece correcto incluso aunque no sea popular. (...) Lo pque puedo ofrecer y prometo hacer... es escuchar a la comunidad
+  Parte de la raz&oacute;n por la que la votaci&oacute;n no existe para Cuestiones At&oacute;micas es porque un Grupo At&oacute;mico no llevar&aacute; adelante un sistema de votac&iacute;on en todos los casos. Algunas veces tenemos que elegir lo que nos parece correcto incluso aunque no sea popular. (...) Lo pque puedo ofrecer y prometo hacer... es escuchar a la comunidad
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Proceso de toma de decisiones Atómicas](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on [Proceso de toma de decisiones At&oacute;micas](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
 </aside>
 
-Incluso si en realidad no adopta un proceso de búsqueda de concenso, como responsable del proyecto, es importante que las personas sepan que estás escuchando. Hacer que las personas se sientan escuchadas y comprometerte a resolver sus preocupaciones, hace un largo camino para difundir situaciones delicadas. Luego, continúa tus palabras con acciones.
+Incluso si en realidad no adopta un proceso de b&uacute;squeda de concenso, como responsable del proyecto, es importante que las personas sepan que est&aacute;s escuchando. Hacer que las personas se sientan escuchadas y comprometerte a resolver sus preocupaciones, hace un largo camino para difundir situaciones delicadas. Luego, contin&uacute;a tus palabras con acciones.
 
 Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
-No te apresures a tomar una decisión por el bien de tener una solución. Asegúrate de que todos se sientan escuchados y que toda la información se ha hecho pública antes de avanzar hacia una solución.
+No te apresures a tomar una decisi&oacute;n por el bien de tener una soluci&oacute;n. Aseg&uacute;rate de que todos se sientan escuchados y que toda la informaci&oacute;n se ha hecho p&uacute;blica antes de avanzar hacia una soluci&oacute;n.
 
-### Mantén la conversación centrada en la acción
+### Mant&eacute;n la conversaci&oacute;n centrada en la acci&oacute;n
 
-La discusión es importante, pero hay una diferencia entre conversaciones productivas e improductivas.
+La discusi&oacute;n es importante, pero hay una diferencia entre conversaciones productivas e improductivas.
 
-Fomenta la discusión siempre y cuando se mueva hacia una solución. Si está claro que la conversación se está extinguiendo o yéndose por las ramas, que las cosas se están haciendo personales o que están discutiendo sobre detalles menores, es tiempo de cerrarla.
+Fomenta la discusi&oacute;n siempre y cuando se mueva hacia una soluci&oacute;n. Si est&aacute; claro que la conversaci&oacute;n se est&aacute; extinguiendo o y&eacute;ndose por las ramas, que las cosas se est&aacute;n haciendo personales o que est&aacute;n discutiendo sobre detalles menores, es tiempo de cerrarla.
 
-Permitir que continúen estas conversaciones no solo es malo para un tema en cuestión, sino también para la salud de la comunidad. Envía el mensaje que este tipo de conversaciones están permitidas e incluso fomentadas, y puede desalentar a las personas a plantear o resolver problemas futuros.
+Permitir que contin&uacute;en estas conversaciones no solo es malo para un tema en cuesti&oacute;n, sino tambi&eacute;n para la salud de la comunidad. Env&iacute;a el mensaje que este tipo de conversaciones est&aacute;n permitidas e incluso fomentadas, y puede desalentar a las personas a plantear o resolver problemas futuros.
 
-Con cada aspecto que hayas hecho o que hayan hecho otros, pregúntate, _"¿Cómo nos acerca ésto a una solución?"_
+Con cada aspecto que hayas hecho o que hayan hecho otros, preg&uacute;ntate, _"¿C&oacute;mo nos acerca &eacute;sto a una soluci&oacute;n?"_
 
 If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
-Si la conversación comienza a desenredarse, pregunta al grupo, _"¿Qué pasos deberíamos tomar?"_ para reorientar la conversación.
+Si la conversaci&oacute;n comienza a desenredarse, pregunta al grupo, _"¿Qu&eacute; pasos deber&iacute;amos tomar?"_ para reorientar la conversaci&oacute;n.
 
-Si la conversación claramente on va a ningún lado, no existen acciones claras para tomar, o las acciones correctas ya se llevaron adelante, cierra el tema y explica porqué lo cerraste.
+Si la conversaci&oacute;n claramente on va a ning&uacute;n lado, no existen acciones claras para tomar, o las acciones correctas ya se llevaron adelante, cierra el tema y explica porqu&eacute; lo cerraste.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Guiar un hilo hacia algo útil sin ser agresivo es un arte. No funcionará simplemente con llamar la atención a las personas para impedir que continúen perdiendo tiempo, ni pedirles que no publiquen a menos que tengan algo constructivo que decir. (...) En su lugar, debes sugerir condiciones para continuar progresando: da la las personas una ruta, un camino a seguir que los lleve al resultato que quieres, pero sin aparentar que les estás dictando una conducta.
+  Guiar un hilo hacia algo &uacute;til sin ser agresivo es un arte. No funcionar&aacute; simplemente con llamar la atenci&oacute;n a las personas para impedir que contin&uacute;en perdiendo tiempo, ni pedirles que no publiquen a menos que tengan algo constructivo que decir. (...) En su lugar, debes sugerir condiciones para continuar progresando: da la las personas una ruta, un camino a seguir que los lleve al resultato que quieres, pero sin aparentar que les est&aacute;s dictando una conducta.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
@@ -264,20 +264,20 @@ Si la conversación claramente on va a ningún lado, no existen acciones claras 
 
 ### Elige tus batallas sabiamente
 
-El contexto es importante. Considera quién está involucrado en una discusión y cómo representa al resto de la comunidad.
+El contexto es importante. Considera qui&eacute;n est&aacute; involucrado en una discusi&oacute;n y c&oacute;mo representa al resto de la comunidad.
 
-¿Están todos en la comunidad molestos, o incluso comprometidos con un problema? ¿O es un provocador solitario? No te olvides de considerar a los miembros silenciosos de la comunidad, no solo a las voces activas.
+¿Est&aacute;n todos en la comunidad molestos, o incluso comprometidos con un problema? ¿O es un provocador solitario? No te olvides de considerar a los miembros silenciosos de la comunidad, no solo a las voces activas.
 
-Si el problema no representa las necesidades más amplias de tu comunidad, tal vez solo necesites agradecer las preocupaciones de algunas personas. Si se trata de un problema recurrente sin una solución clara, dirige el foco a discusiones previas y cierra el hilo de discusión.
+Si el problema no representa las necesidades m&aacute;s amplias de tu comunidad, tal vez solo necesites agradecer las preocupaciones de algunas personas. Si se trata de un problema recurrente sin una soluci&oacute;n clara, dirige el foco a discusiones previas y cierra el hilo de discusi&oacute;n.
 
-### Identify a community tiebreaker
+### Identifica el decisor de la comunidad
 
-With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, identify an individual or group of people that can serve as a tiebreaker.
+Con una buena actitud y una clara comunicaci&oacute;n, es posible resolver la mayor&iacute;a de las situaciones dif&iacute;ciles. Sin embargo, incluso en una discusi&oacute;n productiva, simplemente pueden haber diferencias de opini&oacute;n sobre c&oacute;mo proceder. En esos casos, identifica un individuo o un grupo de personas que puedan actuar como decisivas.
 
-A tiebreaker could be the primary maintainer of the project, or it could be a small group of people who make a decision based on voting. Ideally, you've identified a tiebreaker and the associated process in a GOVERNANCE file before you ever have to use it.
+Un decisor puede ser un responsable primario del proyecto, o podr&iacute;a ser un peque&ntilde;o grupo de personas que toman una decisi&oacute;n en base a votaci&oacute;n. Idealmente, habr&aacute;s identificado un decisor y el proceso asociado en un archivo llamado GOVERNANCE antes de que necesites utilizarlo.
 
-Your tiebreaker should be a last resort. Divisive issues are an opportunity for your community to grow and learn. Embrace these opportunities and use a collaborative process to move to a resolution wherever possible.
+Tu decisor deber&iacute;a ser tu &uacute;ltimo recurso. Los temas que dividen son una oportunidad para tu comunidad de crecer y aprender. Aprovecha esas oportunidades y utiliza un proceso colaborativo para moverse hacia una soluci&oacute;n cada vez que sea posible
 
-## Community is the ❤️ of open source
+## La comunidad es el ❤️ del c&oacute;digo abierto
 
-Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone out there have an unforgettable open source experience.
+Las comunidades sanas y pr&oacute;speras alimentan las miles de horas que se producen cada semana de c&oacute;digo abierto. Muchos colaboradores se&ntilde;alan a otras personas como la raz&oacute;n para trabajar -o para no trabajar- en c&oacute;digo abierto. Al aprender a aprovechar ese poder de manera constructiva, ayudar&aacute;s a que &aacute;lguien tenga una inolvidable experiencia con el c&oacute;digo abierto.
