@@ -10,9 +10,7 @@ url_ignores = [
   'https://www.vagrantup.com/'
 ]
 
-dir = ARGV[0] || "_site"
-
-HTMLProofer::Runner.new([dir],
+HTMLProofer::Runner.new(["_site"],
   :type => :directory,
   :url_ignore => url_ignores,
   :verbose => !!ENV["VERBOSE"],
