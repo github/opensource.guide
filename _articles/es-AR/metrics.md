@@ -56,36 +56,37 @@ Quizás también quieras [rastrear la forma que te descubren desde lugares espec
 
 ## Uso
 
-People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using this project?_
+Las personas hallan tu proyecto en ese lugar salvaje y loco llamado Internet. Lo mejor sería que, cuando vean tu proyecto, se sientan obligados o atraídos a hacer algo. La segunda pregunta que queremos hacer es: _¿Las personas están usando tu proyecto?_
 
-If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project's downloads.
+Si usas un administrador de paquetes, como npm o Rubygems.org para distribuir tu proyecto, quizás quieras rastrear las descargas del mismo
 
-Each package manager may use a slightly different definition of "download", and downloads do not necessarily correlate to installs or use, but it provides some baseline for comparison. Try using [Libraries.io](https://libraries.io/) to track usage statistics across many popular package managers.
+Cada administrador de paquetes usa diferentes definiciones de "descarga", y las descargas no están necesariamente relacionadas con la instalación o el uso, pero provee una línea base para la comparación. Trata de usar [Libraries.io](https://libraries.io/) para rastrear el uso de estadísticas a través de algunos de los administradores de paquetes más populares.
 
-If your project is on GitHub, navigate again to the "Traffic" page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
+Si tu proyecto está en GitHub, navega nuevamente a "Traffic". Puedes usar [clone graph](https://github.com/blog/1873-clone-graphs) para ver cuántas veces tu proyecto ha sido clonado en un día determinado.
 
 ![clone graph](/assets/images/metrics/clone_graph.png)
 
-If usage is low compared to the number of people discovering your project, there are two issues to consider. Either:
+Si el uso es bajo comparado con el número de personas descubriendo tu proyecto, debes considerar que estás enfrentando uno de dos problemas:
 
-* Your project isn't successfully converting your audience, or
-* You're attracting the wrong audience
+* Tu proyecto no está atrayendo exitosamente a la audiencia, o
+* estás atrayendo a la audiencia incorrecta
 
-For example, if your project lands on the front page of Hacker News, you'll probably see a spike in discovery (traffic), but a lower conversion rate, because you're reaching everyone on Hacker News. If your Ruby project is featured at a Ruby conference, however, you're more likely to see a high conversion rate from a targeted audience.
+Por ejemplo, si tu proyecto figura en la página principal de Hacker New, muy probablmente vas a ver un salto en "Traffic", pero una tasa de conversión baja, porque estás alcanzando a todos en Hacker News. En cambio, si tu proyecto en Ruby está siendo publicitado en una conferencia de Ruby, muy probablmente verás una tasa de conversión mayor. 
 
-Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you're facing.
+Trata de deducir de dónde proviene tu audiencia, y pide feedback a otros para saber cuál de los dos problemas estás enfrentando.
 
-Once you know that people are using your project, you might want to try to figure out what they are doing with it. Are they building on it by forking your code and adding features? Are they using it for science or business?
+Una vez que sepas que las personas usan tu proyecto, quizás quieras probar determinar qué es lo que hacen con él. ¿Lo usan para proyectos de investigación o negocios? ¿Realizan "fork" al mismo y están agregando nuevas características?
 
-## Retention
+## Retener
 
-People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to this project?_
+La gente está hallando tu proyecto y lo están usando. La siguiente pregunta que debes hacerte es: _¿Las personas están contribuyendo al proyecto?_
 
-It's never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is _popular_ (many people use it) but not _supported_ (not enough maintainer time to meet demand).
+Nunca es demasiado temprano para comenzar a pensar en los contribuyentes. Sin otras personas te arriesgas a enfrentar una situación donde tu proyecto es _popular_ (muchas personas lo usan) pero no _soportado_ (no hay tiempo suficiente para mantener el proyecto y afrontar la demanda).
 
+Retener también requiere un 
 Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
 
-Examples of community metrics that you may want to regularly track include:
+Ejemplos de métricas de comunidad que quieres rastrear incluyen:
 
 * **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Graphs" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
 
