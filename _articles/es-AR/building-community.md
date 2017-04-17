@@ -1,7 +1,7 @@
 ---
 locale: es-AR
 title: Construyendo Comunidades de Bienvenida
-description: Construyendo una comunidad que anime a al gente a usar, contribuir y predicar con su proyecto
+description: Construyendo una comunidad que anime a al gente a usar, contribuir y educar con su proyecto
 class: building
 toc:
   setting-your-project-up-for-success: "Configurando tu proyecto para el &eacute;xito"
@@ -210,7 +210,7 @@ Tu trabajo como encargado es evitar que estas situaciones escalen. Incluso si ti
 
 Algunas otras personas te mirar&aacute;n como un gu&iacute;a. Da un buen ejemplo. Todav&iacute;a puedes expresar desacuerdo, tristeza o preocupaci&oacute;n, pero de manera calmada.
 
-Mantener la calma no es f&aacute;cil, pero demostrar liderazco mejora la salud de tu comunidad. Internet te agradece.
+Mantener la calma no es f&aacute;cil, pero demostrar liderazgo mejora la salud de tu comunidad. Internet te agradece.
 
 ### Trata a tu README como una constituci&oacute;n
 
@@ -220,21 +220,21 @@ Tu README es [m&aacute;s que un conjunto de instrucciones](../starting-a-project
 
 Algunos proyectos utilizan un proceso de votaci&oacute;n para tomar decisiones importantes. Si bien parece sensato a primera vista, la votaci&oacute;n pone hincapi&eacute; en una "respuesta", m&aacute;s que en escuchar y tratar las preocupaciones de cada uno.
 
-La votaci&oacute;n se puede volver pol&iacute;tica, cuando los miembros de la comunidad se sienten presionados para hacerse favores entre ellos o a votar de determinada manera. No todos votan, si existe una [mayor&iacute;a silenciosa](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) en tu comunidad, o exist&iacute;an usuarios que no se enteraron que se estaba llevando a cabo una votaci&oacute;n. 
+La votaci&oacute;n se puede volver pol&iacute;tica, cuando los miembros de la comunidad se sienten presionados para hacerse favores entre ellos o a votar de determinada manera. No todos votan, si existe una [mayor&iacute;a silenciosa](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) en tu comunidad, o existen usuarios que no se enteraron que se estaba llevando a cabo una votaci&oacute;n. 
 
-Algunas veces, la votaci&oacute;n se vuelve un desempate necesario. En la medida de lo posible, sin embargo, pone &eacute;nfasis en la ["b&uacute;squeda de concenso"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) m&aacute;s que en concensuar.
+Algunas veces, la votaci&oacute;n se vuelve un desempate necesario. La mayoría de las veces, sin embargo, pone &eacute;nfasis en la ["b&uacute;squeda de concenso"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) m&aacute;s que en concensuar.
 
 Bajo un proceso de b&uacute;squeda de concenso, los miembros de la comunidad discuten las principales preocupaciones hasta que sienten que fueron escuchadas adecuadamente. Cuando solo quedan preocupaciones menores, la comunidad avanza. La "B&uacute;squeda de Concenso" reconoce que una comunidad puede no ser capaz de alcanzar una respuesta perfecta. En su lugar prioriza el escuchar y la discusi&oacute;n.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/1038121?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Parte de la raz&oacute;n por la que la votaci&oacute;n no existe para Cuestiones At&oacute;micas es porque un Grupo At&oacute;mico no llevar&aacute; adelante un sistema de votac&iacute;on en todos los casos. Algunas veces tenemos que elegir lo que nos parece correcto incluso aunque no sea popular. (...) Lo pque puedo ofrecer y prometo hacer... es escuchar a la comunidad
+  Parte de la raz&oacute;n por la que la votaci&oacute;n no existe para Cuestiones At&oacute;micas es porque un Grupo At&oacute;mico no llevar&aacute; adelante un sistema de votac&iacute;on en todos los casos. Algunas veces tenemos que elegir lo que nos parece correcto incluso aunque no sea popular. (...) Lo que puedo ofrecer y prometo hacer... es escuchar a la comunidad.
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on [Proceso de toma de decisiones At&oacute;micas](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
 </aside>
 
-Incluso si en realidad no adopta un proceso de b&uacute;squeda de concenso, como responsable del proyecto, es importante que las personas sepan que est&aacute;s escuchando. Hacer que las personas se sientan escuchadas y comprometerte a resolver sus preocupaciones, hace un largo camino para difundir situaciones delicadas. Luego, contin&uacute;a tus palabras con acciones.
+Incluso si en realidad no adopta un proceso de b&uacute;squeda de concenso, como responsable del proyecto, es importante que las personas sepan que est&aacute;s escuchando. Hacer que las personas se sientan escuchadas y comprometerte a resolver sus preocupaciones, hace gran parte del camino para resolver situaciones delicadas. Luego, contin&uacute;a tus palabras con acciones.
 
 Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
 No te apresures a tomar una decisi&oacute;n por el bien de tener una soluci&oacute;n. Aseg&uacute;rate de que todos se sientan escuchados y que toda la informaci&oacute;n se ha hecho p&uacute;blica antes de avanzar hacia una soluci&oacute;n.
@@ -249,34 +249,33 @@ Permitir que contin&uacute;en estas conversaciones no solo es malo para un tema 
 
 Con cada aspecto que hayas hecho o que hayan hecho otros, preg&uacute;ntate, _"¿C&oacute;mo nos acerca &eacute;sto a una soluci&oacute;n?"_
 
-If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
 Si la conversaci&oacute;n comienza a desenredarse, pregunta al grupo, _"¿Qu&eacute; pasos deber&iacute;amos tomar?"_ para reorientar la conversaci&oacute;n.
 
-Si la conversaci&oacute;n claramente on va a ning&uacute;n lado, no existen acciones claras para tomar, o las acciones correctas ya se llevaron adelante, cierra el tema y explica porqu&eacute; lo cerraste.
+Si la conversaci&oacute;n claramente no va a ning&uacute;n lado, no existen acciones claras para tomar, o las acciones correctas ya se llevaron adelante, cierra el tema y explica porqu&eacute; lo cerraste.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Guiar un hilo hacia algo &uacute;til sin ser agresivo es un arte. No funcionar&aacute; simplemente con llamar la atenci&oacute;n a las personas para impedir que contin&uacute;en perdiendo tiempo, ni pedirles que no publiquen a menos que tengan algo constructivo que decir. (...) En su lugar, debes sugerir condiciones para continuar progresando: da la las personas una ruta, un camino a seguir que los lleve al resultato que quieres, pero sin aparentar que les est&aacute;s dictando una conducta.
+  Guiar un hilo hacia algo &uacute;til sin ser agresivo es un arte. No funcionar&aacute; simplemente con llamar la atenci&oacute;n a las personas para impedir que contin&uacute;en perdiendo tiempo, ni pedirles que no publiquen a menos que tengan algo constructivo que decir. (...) En su lugar, debes sugerir condiciones para continuar progresando: da la las personas una ruta, un camino a seguir que los lleve al resultado que quieres, pero sin aparentar que les est&aacute;s dictando una conducta.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_Produciendo OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 
 ### Elige tus batallas sabiamente
 
-El contexto es importante. Considera qui&eacute;n est&aacute; involucrado en una discusi&oacute;n y c&oacute;mo representa al resto de la comunidad.
+El contexto es importante. Considera qui&eacute;n est&aacute; involucrado en una discusi&oacute;n y c&oacute;mo representa &eacute;sta al resto de la comunidad.
 
 ¿Est&aacute;n todos en la comunidad molestos, o incluso comprometidos con un problema? ¿O es un provocador solitario? No te olvides de considerar a los miembros silenciosos de la comunidad, no solo a las voces activas.
 
 Si el problema no representa las necesidades m&aacute;s amplias de tu comunidad, tal vez solo necesites agradecer las preocupaciones de algunas personas. Si se trata de un problema recurrente sin una soluci&oacute;n clara, dirige el foco a discusiones previas y cierra el hilo de discusi&oacute;n.
 
-### Identifica el decisor de la comunidad
+### Identifica a un decisor de la comunidad
 
 Con una buena actitud y una clara comunicaci&oacute;n, es posible resolver la mayor&iacute;a de las situaciones dif&iacute;ciles. Sin embargo, incluso en una discusi&oacute;n productiva, simplemente pueden haber diferencias de opini&oacute;n sobre c&oacute;mo proceder. En esos casos, identifica un individuo o un grupo de personas que puedan actuar como decisivas.
 
 Un decisor puede ser un responsable primario del proyecto, o podr&iacute;a ser un peque&ntilde;o grupo de personas que toman una decisi&oacute;n en base a votaci&oacute;n. Idealmente, habr&aacute;s identificado un decisor y el proceso asociado en un archivo llamado GOVERNANCE antes de que necesites utilizarlo.
 
-Tu decisor deber&iacute;a ser tu &uacute;ltimo recurso. Los temas que dividen son una oportunidad para tu comunidad de crecer y aprender. Aprovecha esas oportunidades y utiliza un proceso colaborativo para moverse hacia una soluci&oacute;n cada vez que sea posible
+Tu decisor deber&iacute;a ser tu &uacute;ltimo recurso. Los temas que dividen son una oportunidad para tu comunidad de crecer y aprender. Aprovecha esas oportunidades y utiliza un proceso colaborativo para moverte hacia una soluci&oacute;n cada vez que sea posible.
 
 ## La comunidad es el ❤️ del c&oacute;digo abierto
 
