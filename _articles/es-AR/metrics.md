@@ -13,48 +13,48 @@ order: 9
 image: /assets/images/cards/metrics.png
 ---
 
-## Why measure anything?
+## ¿Para qué medir algo?
 
-Data, when used wisely, can help you make better decisions as an open source maintainer.
+Los datos, usados de forma sabia, pueden ayudarte a tomar mejores decisiones.
 
-With more information, you can:
+Con más información puedes:
 
-* Understand how users respond to a new feature
-* Figure out where new users come from
-* Identify, and decide whether to support, an outlier use case or functionality
-* Quantify your project's popularity
-* Understand how your project is used
-* Raise money through sponsorships and grants
+* Entender cómo los usuarios responden a una nueva característica
+* Determinar de dónde provienen nuevos usuarios
+* Identificar y decidir si conviene brindar soporte a una parte separada de funcionalidad
+* Cuantificar la popularidad de tu proyecto
+* Entender cómo es usado tu proyecto
+* Obtener dinero a través de publicidad, donaciones, entre otros
 
-For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
+Por ejemplo, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) descubrió que Google Analytics los ayuda a priorizar el trabajo
 
-> Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
+> Homebrew es gratuito y lo trabajan por completo voluntarios con algo de tiempo libre. Como resultado, no tenemos los recursos para obtener estudios detallados de usuarios, y así determinar cómo diseñar características y priorizar nuestro trabajo actual. Análisis de usuarios anónimos nos permiten priorizar arreglos y características basadas en cómo, dónde y cuándo las personas utilizan Homebrew.
 
-Popularity isn't everything. Everybody gets into open source for different reasons. If your goal as an open source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
+La popularidad no lo es todo. Todos se involucran en el Código Abierto por diferentes razones. Si tu meta como encargado de mantener un proyecto es mostrar tu trabajo, mantener transparente el código, o simplemente divertirte, las métricas quizás no sean tan importantes.
 
-If you _are_ interested in understanding your project on a deeper level, read on for ways to analyze your project's activity.
+Si tu _estás_ interesado en entender tu proyecto a un nivel más profundo, debes leer formas de analizar la actividad del mismo.
 
-## Discovery
+## Descubrimiento
 
-Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
+Antes de que alguien pueda usar o contribuir a tu proyecto, quizás necesiten saber que el mismo existe. Debes preguntarte: _¿las personas pueden encontrar el proyecto?_
 
 ![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Graphs", then "Traffic". On this page, you can see:
+Si tu proyecto está hospedado en GitHub, [puedes ver](https://help.github.com/articles/about-repository-graphs/#traffic) cuántas personas lo visitan, y de dónde vienen. En la página de tu proyecto haz click en "Graphs", y luego "Traffic". En esta página puedes ver:
 
-* **Total pageviews:** Tells you how many times your project was viewed
+* **Total de vistas:** Informa la cantidad de veces que tu página fue vista
 
-* **Total unique visitors:** Tells you how many people viewed your project
+* **Total de visitantes únicos:** Te dice la cantidad de personas que vieron tu proyecto
 
-* **Referring sites:** Tells you where visitors came from. This metric can help you figure out where to reach your audience and whether your promotion efforts are working.
+* **Sitios de referencia:** Te dice de dónde vienen las visitas. Puede ayudar a detectar el público al cual apuntar, o para determinar si tu publicidad está dando resultado.
 
-* **Popular content:** Tells you where visitors go on your project, broken down by pageviews and unique visitors.
+* **Contenido popular:** Te informa sobre las partes del proyecto que la gente más visita.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
+[GitHub stars](https://help.github.com/articles/about-stars/) puede brindarte una línea base para medir popularidad. No necesariamente tiene que ver con uso o cantidad de decargas, si no más bien según la cantidad de notoriedad de tu proyecto.
 
-You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
+Quizás también quieras [rastrear la forma que te descubren desde lugares específicos](https://opensource.com/business/16/6/pirate-metrics): por ejemplo, Google PageRank, tráfico que hace referencia a tu página web del proyecto, o referencias desde otros proyectos.
 
-## Usage
+## Uso
 
 People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using this project?_
 
