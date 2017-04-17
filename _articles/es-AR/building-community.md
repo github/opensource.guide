@@ -212,31 +212,32 @@ Algunas otras personas te mirarán como un guía. Da un buen ejemplo. Todavía p
 
 Mantener la calma no es fácil, pero demostrar liderazco mejora la salud de tu comunidad. Internet te agradece.
 
-### Treat your README as a constitution
+### Trata a tu README como una constitución
 
-Your README is [more than just a set of instructions](../starting-a-project/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people are overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher vision of your project. Focusing on your README also depersonalizes the conversation, so you can have a constructive discussion.
+Tu README es [más que un conjunto de instrucciones](../starting-a-project/#writing-a-readme). También es un lugar para hablar acerca de tus objetivos, visión del producto, y un mapa de ruta. Si las personas están muy centradas en debatir el mérito de un aspecto en particular, puede revisar el README y conversar de una visión más alta de tu proyecto. Centrarse en el README también despersonaliza la conversación, para tener una discusión más constructiva.
 
-### Focus on the journey, not the destination
+### Enfócate en el viaje, no en el destino
 
-Some projects use a voting process to make major decisions. While sensible at first glance, voting emphasizes getting to an "answer," rather than listening to and addressing each other's concerns.
+Algunos proyectos utilizan un proceso de votación para tomar decisiones importantes. Si bien parece sensato a primera vista, la votación pone hincapié en una "respuesta", más que en escuchar y tratar las preocupaciones de cada uno.
 
-Voting can become political, where community members feel pressured to do each other favors or vote a certain way. Not everybody votes, either, whether it's the [silent majority](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in your community, or current users who didn't know a vote was taking place.
+La votación se puede volver política, cuando los miembros de la comunidad se sienten presionados para hacerse favores entre ellos o a votar de determinada manera. No todos votan, si existe una [mayoría silenciosa](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) en tu comunidad, o existían usuarios que no se enteraron que se estaba llevando a cabo una votación. 
 
-Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) rather than consensus.
+Algunas veces, la votación se vuelve un desempate necesario. En la medida de lo posible, sin embargo, pone énfasis en la ["búsqueda de concenso"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) más que en concensuar.
 
-Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
+Bajo un proceso de búsqueda de concenso, los miembros de la comunidad discuten las principales preocupaciones hasta que sienten que fueron escuchadas adecuadamente. Cuando solo quedan preocupaciones menores, la comunidad avanza. La "Búsqueda de Concenso" reconoce que una comunidad puede no ser capaz de alcanzar una respuesta perfecta. En su lugar prioriza el escuchar y la discusión.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/1038121?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
+  Parte de la razón por la que la votación no existe para Cuestiones Atómicas es porque un Grupo Atómico no llevará adelante un sistema de votacíon en todos los casos. Algunas veces tenemos que elegir lo que nos parece correcto incluso aunque no sea popular. (...) Lo pque puedo ofrecer y prometo hacer... es escuchar a la comunidad
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on [Proceso de toma de decisiones Atómicas](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
 </aside>
 
-Even if you don't actually adopt a consensus seeking process, as a project maintainer, it's important that people know you are listening. Making other people feel heard, and committing to resolving their concerns, goes a long way to diffuse sensitive situations. Then, follow up on your words with actions.
+Incluso si en realidad no adopta un proceso de búsqueda de concenso, como responsable del proyecto, es importante que las personas sepan que estás escuchando. Hacer que las personas se sientan escuchadas y comprometerte a resolver sus preocupaciones, hace un largo camino para difundir situaciones delicadas. Luego, continúa tus palabras con acciones.
 
 Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
+No te apresures a tomar una decisión por el bien de tener una solución. Asegúrate de que todos se sientan escuchados y que toda la información se ha hecho pública antes de avanzar hacia una solución.
 
 ### Keep the conversation focused on action
 
