@@ -142,8 +142,7 @@ Cuando creas un nuevo proyecto en GitHub, te dan la opción de seleccionar una l
 
 ![¡Debes elegir una licencia!](/assets/images/starting-a-project/repository-license-picker.png)
 
-Si tienes otras preguntas acerca del aspecto legal al manejar proyectos de este tipo, te tenemos 
-If you have other questions or concerns around the legal aspects of managing an open source project, [te tenemos cubierto](../legal/).
+Si tienes otras preguntas acerca del aspecto legal al manejar proyectos de este tipo, [te tenemos cubierto](../legal/).
 
 ### Escribiendo un README
 
@@ -206,15 +205,15 @@ Vincula tu CONTRIBUTING desde tu README, así más personas pueden verlo.Si tu [
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/11214?v=3&s=460" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+  Todos hemos experimentado cierta sensación de abuso cuando nos han tratado de explicar por qué algo tiene que ser de determinada forma, o como usuarios al hacer una pregunta simple. (...) Un código de conducta se vuelve una forma sencilla (referenciable y vinculable) de documento que nos indica que un equipo toma las críticas constructivas seriamente.
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+Finalmente, un código de conducta ayuda a establecer reglas base de comportamiento para los participantes de tus proyectos. Esto es muy deseable si estás lanzando un nuevo proyecto de código abierto para una compañía o comunidad. Un código de conducta facilita un comportamiento en comunidad sano y constructivo, reduciendo tu estrés como encargado de mantenimiento.
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+Para más información, entra a [Code of Conduct guide](../code-of-conduct/).
 
 In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
 
