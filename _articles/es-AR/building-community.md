@@ -149,16 +149,16 @@ Por ejemplo, así es como [Rubinius](https://github.com/rubinius/rubinius/) comi
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/270108?v=3&s=400" class="pquote-avatar" alt="avatar">
- Los líderes tendrán diferentes opiniones, como debería ocurrir en todas las comunidades saludables. De todos modos, necesitas tomar algunas medidas para asegurar que las voces más potentes ganen siempre por haber cansado a los demás, y que también se escuchen las voces menos potentes y minoritarias.
+ Los líderes tendrán diferentes opiniones, como debería ocurrir en todas las comunidades saludables. De todos modos, necesitas tomar algunas medidas para asegurar que las voces más potentes no ganen siempre por haber cansado a los demás, y que también se escuchen las voces menos potentes y minoritarias.
 
   <p markdown="1" class="pquote-credit">
 — @sarahsharp, ["¿Qué hace a una buena comunidad?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-Las personas se entusiasmas por contribuir con proyectos cuando perciben un sentido de pertenencia. Eso no significa que tengas que cambiar la visión de tu proyecto o aceptar contribuciones que no quieres. Pero cuanto más crédito les des a los otros, más se quedarán.
+Las personas se entusiasman por contribuir con proyectos cuando perciben un sentido de pertenencia. Eso no significa que tengas que cambiar la visión de tu proyecto o aceptar contribuciones que no quieres. Pero cuanto más crédito les des a los otros, más se quedarán.
 
-Observa si puedes encntrar maneras de compartir la propiedad de tu comunidad tanto como te sea posible. Aquí hay algunas ideas:
+Observa si puedes encontrar maneras de compartir la propiedad de tu comunidad tanto como te sea posible. Aquí hay algunas ideas:
 
 * **Evita corregir errores sencillos (no críticos).** En su lugar, utilizalos como oportunidades para reclutar nuevos colaboradores, o mentorear a álguien que quiere contribuir. Puede parecer antinatural al principio, pero tu inversión se verá compensada en el tiempo. Por ejemplo,  @michaeljoseph le preguntó a colaborador que enviara un pull request de un problema detallado a continuación en lugar de arreglarlo él mismo.
 
@@ -168,10 +168,10 @@ Observa si puedes encntrar maneras de compartir la propiedad de tu comunidad tan
 
 * Si tienes una comunidad considerable, **envía un boletín o escribe un post en un blog** agradeciendo a los colaboradores. Rust's [This Week in Rust](https://this-week-in-rust.org/) y Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) son dos buenos ejemplos.
 
-* **Da a cada colaborador permiso para hacer commit.** @felixge encontró que esto hizo que las personas [se entusiasmaran por pulir sus parches](http://felixge.de/2013/03/11/the-pull-request-hack.html), e incluso encontró nuevas personas para mantener proyectosen los que no había trabajado en tiempo.
+* **Da a cada colaborador permiso para hacer commit.** @felixge encontró con esto que las personas [se entusiasmaran por pulir sus parches](http://felixge.de/2013/03/11/the-pull-request-hack.html), e incluso encontró nuevas personas para mantener proyectos en los que no había trabajado en tiempo.
 
 
-* Si tu proyecto está alojado en GitHub, **mueve tu proyecto desde tu cuenta personal hacia una [Organizacióin](https://help.github.com/articles/creating-a-new-organization-account/)** y agrega al menos un administrador de respaldo. Las Organizaciones hacen que sea más fácil trabajar en proyectos con colaboradores externos.
+* Si tu proyecto está alojado en GitHub, **mueve tu proyecto desde tu cuenta personal hacia una [Organización](https://help.github.com/articles/creating-a-new-organization-account/)** y agrega al menos un administrador de respaldo. Las Organizaciones hacen que sea más fácil trabajar en proyectos con colaboradores externos.
 
 La realidad es que [la mayoría de los proyectos solo tienen](https://peerj.com/preprints/1233.pdf) una o dos personas que lo mantengan y que hacen la mayoría del trabajo. Mientras más grande sea tu proyecto, y mientras más grande sea tu comunidad, más fácil es encontrar ayuda.
 
@@ -190,27 +190,27 @@ Aunque no siempre encuentres quien responda tu pedido, poner una se&ntilde;al po
 
 En las primeras etapas de tu proyecto, es bastante fácil tomar decisiones importantes. Cuando quieres hacer algo, simplemente lo haces.
 
-A medida que tu proyecto se hace más conocido, más personas tendrán interés en las decisiones que tomes. Inclusi si no tienes una gran comunidad de colaboradores, si tu proyecto tiene muchos usuarios, encontrarás personas que pesan en las decisiones o plantean cuestiones propias.
+A medida que tu proyecto se hace más conocido, más personas tendrán interés en las decisiones que tomes. Incluso si no tienes una gran comunidad de colaboradores, si tu proyecto tiene muchos usuarios, encontrarás personas que pesan en las decisiones o plantean cuestiones propias.
 
 En su mayor parte, si has cultivado una comunidad amistosa y que se maneja con respeto y has documentado tu proceso de manera abierta, tu propia comunidad debería tener la habilidad para encontrar una solución. Pero algunas veces te encontrarás con problemas un poco más difíciles de abordar.
 
-### Set the bar for kindness
+### Fijando la vara para la amabilidad
 
-When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
+Cuando tu comunidad se encuentre lidiando con una cuestión difícil, los ánimos pueden subir. Las personas pueden enojarse o verse frustradas y tomar las críticas como algo personal, incluso provenientes de tí.
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
+Tu trabajo como encargado es evitar que estas situaciones escalen. Incluso si tienes una fuerte opinión sobre un tema, trata de mantener una posición de moderador o de facilitador, en lugar de ir a la lucha y empujar tus propios puntos de vista. Si álguien está comportándose de manera poco educada o monopolizando la conversación, [actúa inmediatamente](../building-community/#dont-tolerate-bad-actors) para mantener una discusión civilizada y productiva.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/119893?v=3&s=400" class="pquote-avatar" alt="avatar">
-  As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
+  Como responsable de un proyecto, es estremadamente importante ser respetuoso con los colaboradores. A menudo toman lo que les dices de manera personal.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Sea Cordial o póngase a trabajar en ello"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
-Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly.
+Algunas otras personas te mirarán como un guía. Da un buen ejemplo. Todavía puedes expresar desacuerdo, tristeza o preocupación, pero de manera calmada.
 
-Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you.
+Mantener la calma no es fácil, pero demostrar liderazco mejora la salud de tu comunidad. Internet te agradece.
 
 ### Treat your README as a constitution
 
