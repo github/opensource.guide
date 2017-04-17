@@ -2,10 +2,7 @@
 
 set -e
 
-script/test-prose
-
-rm -rf build
-mkdir build
-script/build --config _config.yml,test/_config.yml -d build/test
+script/build --config _config.yml,test/_config.yml
 bundle exec rake
-script/html-proofer build
+script/html-proofer
+script/test-prose
