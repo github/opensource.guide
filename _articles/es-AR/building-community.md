@@ -239,35 +239,36 @@ Incluso si en realidad no adopta un proceso de búsqueda de concenso, como respo
 Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
 No te apresures a tomar una decisión por el bien de tener una solución. Asegúrate de que todos se sientan escuchados y que toda la información se ha hecho pública antes de avanzar hacia una solución.
 
-### Keep the conversation focused on action
+### Mantén la conversación centrada en la acción
 
-Discussion is important, but there is a difference between productive and unproductive conversations.
+La discusión es importante, pero hay una diferencia entre conversaciones productivas e improductivas.
 
-Encourage discussion so long as it is actively moving towards resolution. If it's clear that conversation is languishing or going off-topic, jabs are getting personal, or people are quibbling about minor details, it's time to shut it down.
+Fomenta la discusión siempre y cuando se mueva hacia una solución. Si está claro que la conversación se está extinguiendo o yéndose por las ramas, que las cosas se están haciendo personales o que están discutiendo sobre detalles menores, es tiempo de cerrarla.
 
-Allowing these conversations to continue is not only bad for the issue at hand, but bad for the health of your community. It sends a message that these types of conversations are permitted or even encouraged, and it can discourage people from raising or resolving future issues.
+Permitir que continúen estas conversaciones no solo es malo para un tema en cuestión, sino también para la salud de la comunidad. Envía el mensaje que este tipo de conversaciones están permitidas e incluso fomentadas, y puede desalentar a las personas a plantear o resolver problemas futuros.
 
-With every point made by you or by others, ask yourself, _"How does this bring us closer to a resolution?"_
+Con cada aspecto que hayas hecho o que hayan hecho otros, pregúntate, _"¿Cómo nos acerca ésto a una solución?"_
 
 If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
+Si la conversación comienza a desenredarse, pregunta al grupo, _"¿Qué pasos deberíamos tomar?"_ para reorientar la conversación.
 
-If a conversation clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the issue and explain why you closed it.
+Si la conversación claramente on va a ningún lado, no existen acciones claras para tomar, o las acciones correctas ya se llevaron adelante, cierra el tema y explica porqué lo cerraste.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.  
+  Guiar un hilo hacia algo útil sin ser agresivo es un arte. No funcionará simplemente con llamar la atención a las personas para impedir que continúen perdiendo tiempo, ni pedirles que no publiquen a menos que tengan algo constructivo que decir. (...) En su lugar, debes sugerir condiciones para continuar progresando: da la las personas una ruta, un camino a seguir que los lleve al resultato que quieres, pero sin aparentar que les estás dictando una conducta.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 
-### Pick your battles wisely
+### Elige tus batallas sabiamente
 
-Context is important. Consider who is involved in the discussion and how they represent the rest of the community.
+El contexto es importante. Considera quién está involucrado en una discusión y cómo representa al resto de la comunidad.
 
-Is everybody in the community upset about, or even engaged with, this issue? Or is a lone troublemaker? Don't forget to consider your silent community members, not just the active voices.
+¿Están todos en la comunidad molestos, o incluso comprometidos con un problema? ¿O es un provocador solitario? No te olvides de considerar a los miembros silenciosos de la comunidad, no solo a las voces activas.
 
-If the issue does not represent the broader needs of your community, you may just need to acknowledge the concerns of a few people. If this is a recurring issue without a clear resolution, point them to previous discussions on the topic and close the thread.
+Si el problema no representa las necesidades más amplias de tu comunidad, tal vez solo necesites agradecer las preocupaciones de algunas personas. Si se trata de un problema recurrente sin una solución clara, dirige el foco a discusiones previas y cierra el hilo de discusión.
 
 ### Identify a community tiebreaker
 
