@@ -80,118 +80,118 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
   </p>
 </aside>
 
-### Do you like planning events?
+### ¿Te gusta planificar eventos?
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* Organiza workshops o reuniones acerca del proyecto, [como hizo @fzamperin para NodeSchool](https://github.com/nodeschool/organizers/issues/406)
+* Organiza la conferencia del proyecto (si es que tienen una)
+* Ayuda a la comunidad de miembros a encontrar las conferencias apropiadas y a presentar propuestas para disertar
 
-### Do you like to design?
+### ¿Te gusta diseñar?
 
-* Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Put together a style guide to help the project have a consistent visual design
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+* Reestructura los diseños para mejorar la usabilidad del proyecto
+* Dirige la investigación de los usuarios para reorganizar y refinar la navegación del proyecto o sus menús, [como lo sugiere Drupal ](https://www.drupal.org/community-initiatives/drupal-core/usability)
+* Reúne una guía de estilos para ayudar al proyecto a tener un diseño con consistencia visual
+* Crea diseños para las remeras o un nuevo logo, [como hicieron los colaboradores de hapi.js's](https://github.comhapijs/contrib/issues/68)
 
-### Do you like to write?
+### ¿Te gusta escribir
 
-* Write and improve the project's documentation
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like pypa's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Write a translation for the project's documentation
+* Escribe y mejora la documentación del proyecto
+* Sanea la carpeta de ejemplos para mostrar cómo se usa el proyecto
+* Inicia el boletín informativo para el proyecto, o aspectos más destacados a enviar a la lista de correos
+* Escribe tutoriales para el proyecto, [como hicieron los colaboradores de pypa's](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Escribe una traducción de la documentación del proyecto
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  De verdad, \[documentation\] es super-importante. Por lejos la documentación ha sido enorme y fue el factor que terminó con la torre de Babel. Hay secciones que ciertamente podrían mejorar con algo de trabajo e incluso la adición de un párrafo aquí o allá es extremadamente apreciada.
   <p markdown="1" class="pquote-credit">
-— @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
+— @kittens, ["Llamado a los colaboradores"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
-### Do you like organizing?
+### ¿Te gusta organizar?
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and suggest closing old ones, [like @nzakas did for eslint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* Vincula los problemas duplicados, y sugiere nuevas etiquetas para los problemas, para mantener todo organizado
+* Recorre los problemas abiertos y sugiere cerrar los más antiguos, [como hizo @nzakas para eslint](https://github.com/eslint/eslint/issues/6765)
+* Realiza preguntas clarificadoras en los problemas recientemente abiertos para hacer que la discusión avance
 
-### Do you like to code?
+### ¿Te gusta codificar?
 
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* Encuentra un problema abierto para entrar, [como  lo hizo @dianjin para Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* Pregunta si puedes ayudar a escribir alguna nueva funcionalidad
+* Automatiza la configuración del proyecto
+* Mejora las herramientas y las pruebas
 
-### Do you like helping people?
+### ¿Te gusta ayudar a las personas?
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+* Responde las preguntas acerca del proyecto en, por ejemplo, Stack Overflow ([como este ejemplo Postgres ](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) o en reddit
+* Repsonde preguntas a las personas en los problemas abiertos
+* Ayuda a moderar los foros de discusión o canales de conversación
 
-### Do you like helping others code?
+### ¿Te gusta ayudar a otros a codificar?
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* Revisa el código que otras personas presentan
+* Escribe tutoriales sobre cómo puede usarse un proyecto
+* Ofrécete a mentorear a otro colaborador, [como lo hizo @ereichert para @bronzdocen on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### ¡No tienes que trabajar solamente en proyectos de software!
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+Mientras que el "código abierto" a menudo se refiere a software, puedes colaborar en casi cualquier cosa. Existen libros, recetas, listas y clases que se desarrollan como proyectos de código abierto.
 
-For example:
+Por ejemplo:
 
-* @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
-* @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
+* @sindresorhus sanea una [lista de "asombrosos"](https://github.com/sindresorhus/awesome)
+* @h5bp mantiene una [lista de preguntas potenciales para entrevistas](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
+* @stuartlynn y @nicole-a-tesla hicieron una [colección de hechos graciosos sobre puffins](https://github.com/stuartlynn/puffin_facts)
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
+Incluso si no eres un desarrollador de software, trabajar en la documentación de un proyecto puede ayudar a comenzar en el código abierto. Es con frecuencia menos intimidante trabajar en proyectos que no involucran código, y ese proceso de colaboracón te dará confianza y experiencia.
 
-## Orienting yourself to a new project
+## Orientándote a un nuevo proyecto
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
-  If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+  Si vas tras un rastreador de problemas y las cosas parecen confusas, no eres solo tu. Esas herramientas requieren mucho conocimiento implícito, pero las personas puede ayudarte a navegarlo y tu puedes hacerles preguntas.
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["How to Contribute to Open Source"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["Cómo Contribuir con el Código Abierto"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
-For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
+Para cualquier otra cosa distinta de una correción de error tipográfico, contribuir con el código abierto es como caminar hacia un grupo de extraños en una fiesta. Si comienzas a hablar sobre las llamas, mientras ellos están muy involucrados en una discusión sobre el pez dorado, es probable que te miren de manera un poco extraña.
 
-Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
+Antes de lanzarte con los ojos cerrados con tus propias sugerencias, comienza aprendiendo cómo leer a la sala. Si lo haces, aumentan las probabilidades de que tus ideas se noten y sean escuchadas.
 
-### Anatomy of an open source project
+### Anatomía de un proyecto de código abierto
 
-Every open source community is different.
+Todas las comunidades de código abieto son diferentes.
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+Luego de pasar años en un proyecto de código abierto significa que aprendiste a conocer un proyecto de código abierto. Si te mueves a un proyecto diferente encontrarás que el vocabulario, las normas, y los estilos de comunicación son completamente diferentes.
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+Dicho ésto, muchos proyectos de código abierto siguen una estructura organizacional similar. Entender los roles de las  diferentes comunidades y el proceso en general te ayudará a estar rapidamente orientado para cualquier proyecto nuevo.
 
-A typical open source project has the following types of people:
+Un proyecto de código abierto tiene los siguentes tipos de personas:
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project.
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
+* **Autor:** La/s persona/s u organización que creó/crearon el proyecto.
+* **Dueño:** La/s persona/s que tiene/n la propiedad administrativa sobre la organización o el repositorio(no siempre es la misma que el autor original)
+* **Encargados:** Colaboradores que son responsables de dirigir la visión y la administrar aspectos organizacionales del proyecto. (Pueden también ser autores o dueños del proyecto.)
+* **Colaboradores:** Cualquiera que haya contribuído con algo al proyecto.
+* **Miembros de la comunidad:** Las personas que utilizan al proyecto. Pueden tener un rol activo en las conversaciones o expresar su opinión sobre la dirección que toma el proyecto.
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+Los proyectos más grandes pueden tener también subcomisiones o grupos de trabajo enfocados en tareas diferentes, como herramientas, priorización de urgencias, moderación de la comunidad, y organización de eventos. Busca en el sitio web del proyecto una página del "equipo", o en su repositorio para encontrar la documentación política de gobierno, para encontrar ésta documentación.
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+Un proyecto también tiene documentación. Estos archivos están normalmente listados en un nivel alto del repositorio.
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
-* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMES help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+* **LICENSE:** Por definición, cada proyecto de código abierto debe tener una [licencia open source](https://choosealicense.com). Si el proyecto no tiene una licencia, entonces no es de código abierto.
+* **README:** El archivo README es un manual de instrucción que da la bienvenida al proyecto a los nuevos miembros de la comunidad. Explica porqué el proyecto es útil y cómo comenzar.
+* **CONTRIBUTING:** Mientras que el archivo READMES ayuda a las personas a _usar_ el proyecto, el archivo contributing ayuda a las personas a _contribuir_ con el proyecto. Explica qué tipo de contribuciones son necesarias y cómo llevar adelante el trabajo. Si bien no todos los proyectos tienen un archivo CONTRIBUTING, su presencia señala que se trata de un buen proyecto para contribuir.
+* **CODE_OF_CONDUCT:** Sienta sólidas reglas sobre la conducta de los participantes asociados y ayuda a facilitar un entorno acogedor y amistoso. Si bien no todos los proyectos tienen un archivo CODE_OF_CONDUCT, su presencia señala que se trata de un buen proyecto para contribuir.
+* **Otra documentación:** Puede haber documentación adicional, como tutoriales, recorridos o políticas de gobierno, especialmente en proyectos de mayor envergadura.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+Finalmente, los proyectos de código abierto utilizan las siguientes herramientas para organizar la discusión. La lectura de estos archivos te darán una buena imagen de cómo piensa y trabaja la comunidad.
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (ex. _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+* **Seguidor de problemas (Issue tracker):** Es donde las personas discuten los problemas relacionados con el proyecto.
+* **Pull requests:** Es donde las personas discuten y revisan los cambios que están en progreso.
+* **Foros de discusión o lista de correos electrónicos:** Some projects may use these channels for conversational topics (ex. _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
+* **Canal de chat síncrono:** Algunos proyectos utilizan canales de chat (como Slack o IRC) para conversaciones casuales, colaboración e intercambios rápidos.
 
 ## Finding a project to contribute to
 
