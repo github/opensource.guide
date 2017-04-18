@@ -193,25 +193,25 @@ Finalmente, los proyectos de código abierto utilizan las siguientes herramienta
 * **Foros de discusión o lista de correos electrónicos:** Some projects may use these channels for conversational topics (ex. _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 * **Canal de chat síncrono:** Algunos proyectos utilizan canales de chat (como Slack o IRC) para conversaciones casuales, colaboración e intercambios rápidos.
 
-## Finding a project to contribute to
+## Encontrando un proyecto donde contribuir
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+¡Ahora que ya has descubierto cómo funcionan los proyectos de código abierto, es tiempo de encontrar un proyecto con el que contribuir! 
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
+Si nunca antes contribuíste al código abierto, acepta algunos consejos del presidente de los Estados UNidos, John F. Kennedy, quien una vez dijo, _"No preguntes qué es lo que tu país puede hacer por tí, pregúntate qué es lo que tu puedes hacer por él"_
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+Las contribuciones al código abierto ocurren en todos los niveles a lo largo de los proyectos. No necesitas pensar demasiado cuál será tu primera colaboración, o cómo se verá.
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+En su lugar, comienza pensando sobre el proyecto que ya estás utilizando o que quisieras utilizar. Los proyectos con los que contribuirás activamente son aquellos a los que volverás.
 
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+En esos proyectos, cuando te encuentres pensando que algo podría hacerse mejor o diferente, actúa siguiendo tu instinto.
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+El código abierto no es un un club exclusivo; está hecho de personas igual a tí. El término de fantasía  "Código abierto" es solo un nombre para tratar a los problemas del mundo como resolubles.
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+Puedes recorre un archivo README y encontrar un vínculo roto o un error tipográfico. O tal vez eres un nuevo usuario y te diste cuenta de que algo está roto, o hay un problema que crees que realmente debería estar en la documentacíon. En lugar de ignorarlo y continuar, o solicitar que álguien lo solucione, observa si puedes ayudar lanzándote sobre él. ¡De eso se trata el código abierto!
 
-> [28% of casual contributions](http://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> [El 28% de las contribuciones casuales](http://www.igor.pro.br/publica/papers/saner2016.pdf) a la documentación del código abierto se trata de documentación, como correcciones tipográficas, reformateos o redacción de una traducción.
 
-You can also use one of the following resources to help you discover new projects:
+Puedes también utilizar algunos de los siguientes recursos para ayudarte a descubrir nuevos proyectos:
 
 * [GitHub Explore](https://github.com/explore/)
 * [First Timers Only](http://www.firsttimersonly.com/)
@@ -221,215 +221,220 @@ You can also use one of the following resources to help you discover new project
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
-### A checklist before you contribute
+### Una lista de verificación antes de que contribuyas
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+Una vez que hayas encontrado un proyecto con el que quisieras contribuir, realiza un recorrido rápido para asegurarte de que el proyecto es adecuado para aceptar contribuciones.De otra manera, tu duro trabajo puede no tener nunca una respuesta.
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+Aquí tienes una lista práctica para evaluar si un proyecto es conveniente para nuevos colaboradores.
 
-**Meets the definition of open source**
+**Satisface la definición de código abierto**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+  ¿Tiene una licencia? Usualmente, es un archivo ubicado LCENSE en la raíz del repositorio.
   </label>
 </div>
 
-**Project actively accepts contributions**
+**El proyecto acepta contribuciones activamente**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+Observa la actividad de los commit en la rama principal. En GitHub, puedes ver esta información en la página del repositorio.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
+  ¿Cuándo ocurrió el último commit?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
+  ¿Cuántos colaboradores tiene el proyecto?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+  ¿Con qué frecuencia las personas hacen un commit? (En GitHub, puedes encontrar esta información haciendo click en "Commits", en la barra superior.)
   </label>
 </div>
 
-Next, look at the project's issues.
+Luego, busca en los problemas del proyecto.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+    ¿Cuántos problemas abiertos existen?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
+    ¿Los responsables responden rápidamente a los problemas cuando son abiertos?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+    ¿Existe una discusión activa en los problemas?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+    ¿Se abrieron recientemente nuevos problemas?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+    ¿Se están cerrando los problemas? (En GitHub, haz click en el vínculo "closed" de la página de problemas para ver los problemas cerrados.)
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+Ahora haz lo mismo para los pull requests del proyecto.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+    ¿Cuántos pull requests existen?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+    ¿Los responsables responden rápidamente a los pull requests cuando se abren?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+    ¿Existe una discusióni activa en los pull requests?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+    ¿Existen pull requests recientes?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+    ¿Cuán recientemente ocurrió la entrada (merge) de un pull request? (En GitHub, haz click en el vínculo "closed" en la página de pull requests para ver los PRs cerrados.)
   </label>
 </div>
 
-**Project is welcoming**
+**El proyecto es acogedor**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+Un proyecto que es amigable y acogedor indica que será receptivo de nuevos colaboradores. 
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
+    ¿Los encargados responden de manera colaborativa a las preguntas en los problemas?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (ex. IRC or Slack)?
+    Las personas son amigables en los problemas, foros de discusión y chat (por ejemplo IRC o Slack)?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
+    ¿Los pull requestes son revisados?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
+    ¿Los encargados agradecen a las personas por sus contribuciones?
   </label>
 </div>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+  Siempre que veas un hilo largo, comprueba las respuestas de los principales desarrolladores que llegan más tarde al hilo. ¿Están resumiendo de forma constructiva y tomando medidas para llevar el hilo hacia una decisión y al mismo tiempo continuan siendo educados? Si ves que se agitan banderas de guerra pasando en frente, frecuentemente indica que la energía se está encaminando a discutir más que en desarrollar. 
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Produciendo Software de código abierto_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
-## How to submit a contribution
+## Cómo enviar una contribución
 
-You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
+Ya encontraste un proyecto que te gustaba, y estás listo para hacer una contribucíon.¡Por fin! A continuación de mostramos cómo hacer que tu contribución siga por el buen camino.
 
-### Communicating effectively
+### Comunicándote de manera efectiva
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+Sin importar si eres un colaborador para una sola vez o estás intentando unirte a una comunidad, trabajar con otras personas es una de las habilidades más importantes que desarrollarás en un proyecto de código abierto.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/7693422?v=3&s=460" class="pquote-avatar" alt="avatar">
-  \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+  \[Como un nuevo colaborador,\] me di cuenta rápidamente que necesitaba hacer preguntas si quería poder cerrar el problema. Recorrí el código base. Una vez que comprendí lo que estaba ocurriendo, pregunté que me orientaran. ¡Y voilà! Pude resolver el problema luego de conseguir todos los detalles relevantes que necesitaba.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [El Muy Accidentado Viaje de un Principiante a través del Mundo del Código Abierto](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
 </aside>
 
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+Antes de abrir un problema o un pull request, o de hacer una pregunta en un chat, ten en cuenta los siguientes puntos para ayudar a que tus ideas lleguen a buen puerto de manera efectiva.
 
-**Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
+**Da contexto.** Ayuda a los demás a ponerse al día rápidamente. Si tienes un error, explica lo que estás tratando de hacer y cómo reproducirlo. Si estás sugiriendo una nueva idea, explica porqué crees que sería útil para el proyecto (¡no solamente para tí¡).
 
-> 😇 _"X doesn't happen when I do Y"_
+> 😇 _"No ocurre X cuando yo hago Y"_
 >
-> 😢 _"X is broken! Please fix it."_
+> 😢 _"¡X se ha roto! Por favor repárenlo."_
 
-**Do your homework beforehand.** It's ok not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**Haz tu tarea de antemano.** Está bien desconocer cosas, pero mostrando que lo intentaste. Antes de solicitar ayuda, asegúrate de comprobar el README, la documentación, los problemas (abiertos o cerrados), la lista de correos, y de buscar en internet por una respuesta. Las personas agradecerán cuando demuestres que estás tratando de aprender.
 
-> 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
+> 😇 _"No estoy seguro de cómo implementar X. Verifiqué en los documentos de ayuda y no encontré ninguna mención."_
 >
-> 😢 _"How do I X?"_
+> 😢 _"¿Cómo soluciono X?"_
 
-**Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
+**Manten tus solicitudes cortas y directas.** Al igual que el envío de un correo, cualquier contribución, sin importar lo simple o útil que sea, requiere la revisión de parte de otra persona. Muchos proyectos tienen más solicitudes de entrada que personas disponibles para ayudar. Se conciso. Aumentarás las probabilidades de que álguien pueda ayudarte.
 
-> 😇 _"I'd like to write an API tutorial."_
+> 😇 _"Me gustaría escribir un tutorial para una API."_
 >
-> 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
+> 😢 _"Días atrás estaba manejando por la autopista y me detuve para cargar combustible, y entonces tuve la gran idea de algo que deberíamos estar haciendo pero antes de explicarlo, permítanme mostrarles..."_
 
-**Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
+**Manten todas las comunicaciones públicas.** Pese a que es tentador, no te dirijas a los responsables de manera privada a menos que necesites compartir información sensible (como un problema de seguridad o violaciones a la conducta serias). Cuando mantienes las conversaciones públicas, más personas pueden aprender y verse beneficiadas de tu intercambio. La discusión puede ser, en sí misma, una contribución.
 
-> 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
+> 😇 _(como un comentario) "@-responsable ¡Qué tal! ¿Cómo deberíamos proceder con éste PR?"_
 >
-> 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
+> 😢 _(como un correo electrónico) "Que tal, disculpa que te moleste con un correo electrónico, pero me estaba preguntando si tendrás la oportunidad de revisar mi PR"_
 
-**It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
+**Está bien hacer preguntas (¡pero se paciente!).** Todos fueron nuevos en el proyecto en algún momento, e incluso los colaboradores experimentados necesitan ponerse al día cuando miran un nuevo proyecto. Por lo mismo, incluso responsables de mucha antig&uuml;edad no están siempre familiarizados con todas las partes del proyecto. Muéstrales la misma paciencia que quieres que ellos tengan contigo.
 
-> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
+> 😇 _"Gracias por estudiar éste error. Seguí tus sugerencias. Esta es la salida."_
 >
-> 😢 _"Why can't you fix my problem? Isn't this your project?"_
+> 😢 _"¿Porqué no pueden solucionar mi problema? ¿No es este acaso su proyecto?"_
 
-**Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+**Respeta las decisiones de la comunidad.** Tus ideas pueden ser diferentes a las prioridades de la comunidad o a la visión. Pueden devolverte alguna retroalimentación o decidir no continuar con tu idea. Mientras que tu buscas atención y compromiso, los responsables deben convivir con tu decisión por más tiempo que tu. Si no estás de acuerdo con la dirección tomada, siempore puedes trabajar en tu propio fork o comenzar tu propio proyecto.
 
-> 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
+> 😇 _"Lamento que no puedan dar soporte a mi situación, pero como lo explicas solo afecta a una minoría de usuarios, y lo entiendo. Gracias por escuchar."_
 >
-> 😢 _"Why won't you support my use case? This is unacceptable!"_
+> 😢 _"¿Porqué no dan soporte a mi situación? ¡Es inaceptable!"_
 
-**Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
+**Por encima de todo mantenlo con clase.** El código abierto está formado por colaboradores de todo el mundo. El contexto se pierde a través de idiomas, culturas, geografías y zonas horarias. Además, la comunicación escrita hace más difícil transmitir un tono o estado de ánimo. Asume buenas intenciones en esas conversaciones. Está bien, tratando de volver a una idea, solicitar más contexto, o aclarar más tu posición. Trata de dejar a Internet como un lugar mejor del que tu lo encontraste.
+
+
+
+
+
 
 ### Gathering context
 
