@@ -1,7 +1,7 @@
 ---
-locale: en-US
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+locale: es-AR
+title: C&oacute;mo Contribuir con el C&oacute;digo Abierto
+description: ¿Quieres colaborar con el c&oacute;digo abierto? Una gu&iacute;a para hacer contribuciones al c&oacute;digo abierto, para principiantes y veteranos.
 class: contribute
 toc:
   para-que-contribuir: "¿Para qu&eacute; contribuir?"
