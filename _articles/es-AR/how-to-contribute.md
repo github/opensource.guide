@@ -431,30 +431,25 @@ Antes de abrir un problema o un pull request, o de hacer una pregunta en un chat
 
 **Por encima de todo mantenlo con clase.** El código abierto está formado por colaboradores de todo el mundo. El contexto se pierde a través de idiomas, culturas, geografías y zonas horarias. Además, la comunicación escrita hace más difícil transmitir un tono o estado de ánimo. Asume buenas intenciones en esas conversaciones. Está bien, tratando de volver a una idea, solicitar más contexto, o aclarar más tu posición. Trata de dejar a Internet como un lugar mejor del que tu lo encontraste.
 
+### Dando contexto
 
+Antes de hacer nada, haz una rápida verificación para asegurarte que tu idea no se haya discutido anteriormente. Navega por el README del proyecto, los problemas (abiertos y cerrados), lista de correos electrónicos, y en Stack Overflow. No necesitas dedicar horas para todo esto, pero una mirada rápida buscando algunas palabras clave resolverá gran parte de la tarea.
 
+Si no puedes encontrar tu idea en ningún otro lado, estás listo para dar el paso. Si el proyecto está en GitHub, es probable que lo comuniques abriendo un problema o un pull request:
 
+* **Problemas (Issues)** son como comenzar una conversación o discusión
+* **Pull requests** son para comenzar a trabajar en una solución
+* **Para una comunicación ligera,** como una explicación o una pregunta de "cómo", trata preguntando en Stack Overflow, IRC, Slack u otro canal de chat, si el proyecto tiene alguno
 
+Antes de abrir un problema o un pull request, verifica los documentos de verificación del proyecto (comunmente es un archivo que se llama CONTRIBUTING), para ver si se necesitan incluir algo específico, puede ser que soliciten que respetes un modelo, o requerir que utilices pruebas.
 
-### Gathering context
-
-Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
-
-If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by opening an issue or pull request:
-
-* **Issues** are like starting a conversation or discussion
-* **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
-
-Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
-
-If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+Si quieres hacer una contribución sustancial, abre un problema para preguntar antes de ponerte a trabajar en ello. Es de gran ayuda observar el proyecto por un tiempo (en GitHub, [puedes hacer click en "Watch"](https://help.github.com/articles/watching-repositories/) para ser notificado de todas las conversaciones), y conocer a los miembros de la comunidad, antes de realizar trabajo alguno que pueda no ser aceptado.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
-  You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+    Aprenderás <em>mucho</em> tomando un proyecto que utilizas activamente, "observarlo" en GitHub y leyendo cada problema y PR.
 <p markdown="1" class="pquote-credit">
-— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+— @gaearon [sobre la adhesión a proyectos](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
