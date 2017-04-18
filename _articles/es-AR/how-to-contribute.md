@@ -467,58 +467,59 @@ Consejos para comunicar los problemas:
 * **Si un problema fue abierto hace mucho tiempo,** es posible que se esté tratando en otro lugar o que ya haya sido resuelto, de modo que primero pregunta por una confirmación antes de ponerte a trabajar.
 * **Si abriste un problema, pero más tarde descubriste que estaba resuelto,** comenta en tu propio problema, para que las personas lo sepan, y luego cierra el problema. Incluso documentar ese resultado es una contribución al proyecto.
 
-### Opening a pull request
+### Abriendo un pull request
 
-You should usually open a pull request in the following situations:
+Usualmente deberías abrir un pull request en las siguientes situaciones:
 
-* Submit trivial fixes (ex. a typo, broken link, or obvious error)
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+* Enciar arreglos triviales (por ejemplo una corrercción tipográfica, un link caído o un error obvio)
+* Comenzar a trabajar en una contribución que ya fue solicitada, o que ya discutiste en un problema
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+Un pull request no representa trabajo terminado. Usualmente es mejor abrir un pull request de forma temprana, de manera que otros puedan observar o dar retroalimentacíon a tu progreso. Solo márcalo como "trabajo en proceso" (WIP por sus siglas en ingles, wordk in progress) en la lína del tema. Siempre puedes agregar más commits después.
 
-If the project is on GitHub, here's how to submit a pull request:
+Si el proyecto está alojado en GITHUb, acá te explicamos los pasos para enviar un pull request:
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
-* **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
-* **Reference any relevant issues** or supporting documentation in your PR (ex. "Closes #37.")
-* **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
-* **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+* **[Abre un fork del repositorio](https://guides.github.com/activities/forking/)** y haz un clon local. Conecta tu repositorio local con el repositorio "superior" original agregándolo como remoto. Descarga los cambios desde el repositorio superior con frecuencia de manera que puedas mantener al día, de forma que cuando tu envíes tu pull request, sea menos probable que haya conflictos. (ver más instrucciones detalladas [aquí](https://help.github.com/articles/syncing-a-fork/).)
+* **[Crea una rama](https://guides.github.com/introduction/flow/)** para tus ediciones.
+* **Haz referencia a cualquier problema relevante** o documentación de soporte en yu PR (por ejemplo "Cierra #37.")
+* **Incluye capturas de pantalla del antes y del después** si tus cambios incluyen diferencias en el HTML o CSS.  Arrastra y suelta las imágenes en el cuerpo de tu pull request.
+* **¡Has pruebas de tus cambios!** Corre tus cambios contra las pruebas existentes si realmente existen, y crea nuevas pruebas si es necesario. Sin importar que existan o no las pruebas, asegúrate que tus cambios no produzcan roturas del proyecto existente.
+* **Contribuye con el estilo del proyecto** con el máximo de tus capacidades. Esto significa utilizar indentación, punto y comas o comentarios de manera diferente a lo que harías en tu repositorio, pero que hacen más sencillo para los responsables combinar y para otros de entender y mantener el proyecto en el futuro.
 
-If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a free walkthrough resource.
+Si se trata de tu primer pull request, verifica [Haz un Pull Request](http://makeapullrequest.com/), que fue creado por @kentcdodds como un recurso de recorrido gratuito.
 
-## What happens after you submit a contribution
+## Qué pasa luego de que enviaste una contribución
 
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+¡Lo hiciste! Felicitaciones por convertirte en un colaborador open source. Esperamos que ésta sea la primera de muchas.
 
-After you submit a contribution, one of the following will happen:
+Luego de que enviaste tu contribución, una de las siguientes situaciones puede ocurrir:
 
-### 😭 You don't get a response.
+### 😭 No tienes una respuesta.
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+Ojalá que  [hayas verificado el proyecto buscando signos de actividad](#a-checklist-before-you-contribute) antes de hacer cualquier contribución. Incluso en proyectos activos, de cualquier manera, es posible que tu contribución no tenga una respuesta.
 
-If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+Si no tuviste una respesta en más de una semana, es justo responder en el mismo hilo, preguntando a álguien por una revisión. Si conoces el nombre de la persona correcta para que revise tu contribución, puedes hacer una @-mencióm en ese hilo.
 
-**Don't** reach out to that person privately; remember that public communication is vital to open source projects.
+**No contactes a esa persona** de manera privada; recuerda que las comunicaciones públicas son vitales para los proyectos de código abierto.
 
-If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+Si haces una llamada educada y todavía nadie responde, es posible que nadie te responda jamás. No es un sentimiento agradable, pero no dejes que de desanime. ¡Les pasa a todos! Existen muchas razones posibles por las que no tuviste tu respuesta, incluyendo circunstancias personales que pueden estar fuera de control. Trata de encontrar otro proyecto u otra forma de contribuir. En todo caso, ésta es una buena razón para no invertir mucho tiempo en hacer contribuciones antes de ver que existen otros miembros en la comunidad que están comprometidos y responden.
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 Alguien pide cambios a tu colaboración.
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+Es común que te pidan hacer cambios a tu contribución, ya sea una retroalimentación sobre el alcance de tu idea, o cambios en tu código.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+Cuando álguien te pide cambios, compórtate de manera sensible, Se tomaron el tiempo necesario para revisar tu contribución. Abrir un pull request y luego alejarse es de malos molales. Si no sabes cómo hacer los cambios, investiga el problema, y luego pregunta por ayuda si la necesitas.
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+Si no tienes el tiempo para volver a trabajar en ese problema (por ejemplo, si la conversación tuvo lugar durante meses, y tus circunstancias cambiaron), permite que el responsable lo sepa, de manera que no quede a la espera de una respuesta. Alguien puede sentirse complacido de hacerse cargo.
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 Tu contribución no es aceptada.
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
 
-### 🎉 Your contribution gets accepted.
+Al final tu contribución puede o no ser aceptada. Con suerte, no hayas necesitado poner demasiado esfuerzo en ella. Si no estás seguro de porqué no fue aceptada, es completamente razonable preguntar al responsable por retroalimentación y esclarecimiento. De cualquier manera, al final debes aceptar que se trata de su decisión. No discutas ni adoptes una postura hostil. ¡Siempre serás bienvenido a hacer un fork y trabajar en tu propia versión si no estás de acuerdo!
 
-Hooray! You've successfully made an open source contribution!
+### 🎉 Tu contribución es aceptada.
 
-## You did it!
+¡Hurra! ¡Hiciste una contribucíon al código abierto exitosamente!
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+## ¡Lo hiciste!
+
+Si acabas de hacer tu primera contribución al código abierto, o si estás buscando nuevas formas de contribuir, esperamos que esté inspirado para continuar la acción. Si tu contribución no fue aceptada, no te olvides de dar las gracias cuando un responsable puso esfuerzo en ayudarte. El código abierto es llevado adelante por personas como tu: un problema, un pull request, un comentario o choca esos cinco por vez.
