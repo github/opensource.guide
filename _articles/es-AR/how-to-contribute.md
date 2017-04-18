@@ -14,13 +14,13 @@ order: 1
 image: /assets/images/cards/contribute.png
 ---
 
-## ¿Para qué contribuir?
+## ¿Para qu&eacute; contribuir?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Trabajar en \[freenode\] me ha ayudado a conseguir muchas de las habilidades que luego he usado en mis estudios en la universidad y en mi actual trabajo. ¡Creo que trabajar en proyectos de código abierto me ayuda tanto como ayuda al proyecto!
+  Trabajar en \[freenode\] me ha ayudado a conseguir muchas de las habilidades que luego he usado en mis estudios en la universidad y en mi actual trabajo. ¡Creo que trabajar en proyectos de c&oacute;digo abierto me ayuda tanto como ayuda al proyecto!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Porqué me gusta contribuir con el software de código abierto"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Porqu&eacute; me gusta contribuir con el software de c&oacute;digo abierto"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -30,51 +30,51 @@ Contribuir en proyectos de c&oacute;digo abierto puede ser una provechosa manera
 
 ### Mejora tus habilidades existentes
 
-Ya sea codificación, diseño interfaces de usuario, diseño gráfico, redacción u organización, si lo que estás buscando es práctica, hay una tarea esperándote en un proyecto de código abierto.
+Ya sea codificaci&oacute;n, diseño interfaces de usuario, dise&ntilde;o gr&aacute;fico, redacci&oacute;n u organizaci&oacute;n, si lo que est&aacute;s buscando es pr&aacute;ctica, hay una tarea esper&aacute;ndote en un proyecto de c&oacute;digo abierto.
 
 ### Conoce personas qeu estan interesadas en temas similares
 
-Los proyectos de código abierto con comunidades cálidas y acogedoras hace que la gente regrese a través de los años. Muchas personas forman amistades de por vida a través de su participación en el código abierto, ya sea para presenciar exposiciones en conferencias entre pares o largas conversaciones nocturnas sobre burritos.
+Los proyectos de c&oacute;digo abierto con comunidades c&aacute;lidas y acogedoras hace que la gente regrese a trav&eacute;s de los años. Muchas personas forman amistades de por vida a trav&eacute;s de su participaci&oacute;n en el c&oacute;digo abierto, ya sea para presenciar exposiciones en conferencias entre pares o largas conversaciones nocturnas sobre burritos.
 
 ### Encuentra mentores y enseña a otros
 
-Trabajar con otros en un proyecto compartido significa que tendrás que explicar cómo haces las cosas, así como pedir ayuda. Los momentos de aprendizaje y enseñanza pueden ser actividades satisfactorias para todos los involucrados.
+Trabajar con otros en un proyecto compartido significa que tendr&aacute;s que explicar c&oacute;mo haces las cosas, as&iacute; como pedir ayuda. Los momentos de aprendizaje y enseñanza pueden ser actividades satisfactorias para todos los involucrados.
 
-### Construye artefactos públicos que te ayudarán a construir una reputación (y una carrera)
+### Construye artefactos p&uacute;blicos que te ayudar&aacute;n a construir una reputaci&oacute;n (y una carrera)
 
-Por definición, todo tu código abierto es público, lo que significa que consigues ejemplos de manera gratuita para llevar a cualquier lugar como una demostración de lo que haces.
+Por definici&oacute;n, todo tu c&oacute;digo abierto es p&uacute;blico, lo que significa que consigues ejemplos de manera gratuita para llevar a cualquier lugar como una demostraci&oacute;n de lo que haces.
 
 ### Conoce las habilidades de las personas
 
-El código abierto ofrece oportunidades para practicar habilidades de liderazco y gestión, a resolver conflictos, organizar equipos  y a priorizar el trabajo.
+El c&oacute;digo abierto ofrece oportunidades para practicar habilidades de liderazco y gesti&oacute;n, a resolver conflictos, organizar equipos  y a priorizar el trabajo.
 
 ### Es poderoso ser capaz de hacer cambios, incluso pequeños
 
-No necesitas convertirte en un colaborador de toda la vida para disfrutar la participación con el código abierto. ¿Alguna vez viste un error de tipografía, y deseaste que álguien pudiera corregirlo? En un proyecto de código abierto, es justamente lo que puedes hacer. El código abierto ayuda a las personas a sentir acción en sus vidas, en la forma en que experimentan al mundo y eso en si mismo es gratificante.
+No necesitas convertirte en un colaborador de toda la vida para disfrutar la participaci&oacute;n con el c&oacute;digo abierto. ¿Alguna vez viste un error de tipograf&iacute;a, y deseaste que &aacute;lguien pudiera corregirlo? En un proyecto de c&oacute;digo abierto, es justamente lo que puedes hacer. El c&oacute;digo abierto ayuda a las personas a sentir acci&oacute;n en sus vidas, en la forma en que experimentan al mundo y eso en si mismo es gratificante.
 
 ## Lo que significa contribuir
 
-Si eres un colaborador de código abierto nuevo, el proceso puede ser intimidatorio. ¿Cómo encontrar el proyecto adecuado? ¿Qué hacer si no sabes cómo codificar? ¿Qué pasa si álgo sale mal?
+Si eres un colaborador de c&oacute;digo abierto nuevo, el proceso puede ser intimidatorio. ¿C&oacute;mo encontrar el proyecto adecuado? ¿Qu&eacute; hacer si no sabes c&oacute;mo codificar? ¿Qu&eacute; pasa si &aacute;lgo sale mal?
 
-¡No debes preocuparte! Hay todo tipo de fomras de involucrarse con un proyecto de código abierto, y unos pocos consejos te ayudarán a sacar el máximo provecho de tu experiencia.
+¡No debes preocuparte! Hay todo tipo de fomras de involucrarse con un proyecto de c&oacute;digo abierto, y unos pocos consejos te ayudar&aacute;n a sacar el m&aacute;ximo provecho de tu experiencia.
 
-### No necesitas contribuir con código
+### No necesitas contribuir con c&oacute;digo
 
-Un error conceptual común acerca de contribuir con el código abierto es que debes contribuir con código. De hecho, son a menudo las otras partes de un proyecto las [más descuidadas o pasadas por alto](https://github.com/blog/2195-the-shape-of-open-source). ¡Le harás un _enorme_ favor al proyecto si te ofreces a trabajar en este tipo de contribuciones!
+Un error conceptual com&uacute;n acerca de contribuir con el c&oacute;digo abierto es que debes contribuir con c&oacute;digo. De hecho, son a menudo las otras partes de un proyecto las [m&aacute;s descuidadas o pasadas por alto](https://github.com/blog/2195-the-shape-of-open-source). ¡Le har&aacute;s un _enorme_ favor al proyecto si te ofreces a trabajar en este tipo de contribuciones!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Me han reconocido por mi trabajo en CocoaPods, pero la mayoría de las personas no conoceu que en realidad yo no realizo ningún trabajo real en la propia herramienta CocoaPods. Mi tiempo en el proyecto se dedica principalmente a hacer cosas como documentar y a trabajar en la marca.
+  Me han reconocido por mi trabajo en CocoaPods, pero la mayor&iacute;a de las personas no conoceu que en realidad yo no realizo ning&uacute;n trabajo real en la propia herramienta CocoaPods. Mi tiempo en el proyecto se dedica principalmente a hacer cosas como documentar y a trabajar en la marca.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moviéndose al Software de código abierto por defecto"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Movi&eacute;ndose al Software de c&oacute;digo abierto por defecto"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera de involucrarse con un proyecto y conocer a otros miembros de la comunidad. Construir esas relaciones te dará oportunidades de trabajar en otras partes del proyecto.
+Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera de involucrarse con un proyecto y conocer a otros miembros de la comunidad. Construir esas relaciones te dar&aacute; oportunidades de trabajar en otras partes del proyecto.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Llegué por primera vez al equipo de desarrollo de Python (alias python-dev) cuando envié un correo electrónico a su lista de correos el 17 de junio de 2002, aceptando mi parche. Rápidamente me encontré con un error de código abierto, y decidí comenzar a limpiar el resumen de correos electrónicos para el grupo. Me dieron una gran excusa para pedir aclaraciones sobre un tema, pero principalmente pude notar cuándo álguien señalaba algo que necesitaba ser reparado. 
+  Llegu&eacute; por primera vez al equipo de desarrollo de Python (alias python-dev) cuando envi&eacute; un correo electr&oacute;nico a su lista de correos el 17 de junio de 2002, aceptando mi parche. R&aacute;pidamente me encontr&eacute; con un error de c&oacute;digo abierto, y decid&iacute; comenzar a limpiar el resumen de correos electr&oacute;nicos para el grupo. Me dieron una gran excusa para pedir aclaraciones sobre un tema, pero principalmente pude notar cu&aacute;ndo &aacute;lguien señalaba algo que necesitaba ser reparado. 
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Hostorias de un encargado"](https://github.com/open-source/stories/brettcannon)
   </p>
@@ -89,21 +89,21 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
 ### ¿Te gusta diseñar?
 
 * Reestructura los diseños para mejorar la usabilidad del proyecto
-* Dirige la investigación de los usuarios para reorganizar y refinar la navegación del proyecto o sus menús, [como lo sugiere Drupal ](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Reúne una guía de estilos para ayudar al proyecto a tener un diseño con consistencia visual
+* Dirige la investigaci&oacute;n de los usuarios para reorganizar y refinar la navegaci&oacute;n del proyecto o sus men&uacute;s, [como lo sugiere Drupal ](https://www.drupal.org/community-initiatives/drupal-core/usability)
+* Re&uacute;ne una gu&iacute;a de estilos para ayudar al proyecto a tener un diseño con consistencia visual
 * Crea diseños para las remeras o un nuevo logo, [como hicieron los colaboradores de hapi.js's](https://github.comhapijs/contrib/issues/68)
 
 ### ¿Te gusta escribir
 
-* Escribe y mejora la documentación del proyecto
-* Sanea la carpeta de ejemplos para mostrar cómo se usa el proyecto
-* Inicia el boletín informativo para el proyecto, o aspectos más destacados a enviar a la lista de correos
+* Escribe y mejora la documentaci&oacute;n del proyecto
+* Sanea la carpeta de ejemplos para mostrar c&oacute;mo se usa el proyecto
+* Inicia el bolet&iacute;n informativo para el proyecto, o aspectos m&aacute;s destacados a enviar a la lista de correos
 * Escribe tutoriales para el proyecto, [como hicieron los colaboradores de pypa's](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Escribe una traducción de la documentación del proyecto
+* Escribe una traducci&oacute;n de la documentaci&oacute;n del proyecto
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
-  De verdad, \[documentation\] es super-importante. Por lejos la documentación ha sido enorme y fue el factor que terminó con la torre de Babel. Hay secciones que ciertamente podrían mejorar con algo de trabajo e incluso la adición de un párrafo aquí o allá es extremadamente apreciada.
+  De verdad, \[documentation\] es super-importante. Por lejos la documentaci&oacute;n ha sido enorme y fue el factor que termin&oacute; con la torre de Babel. Hay secciones que ciertamente podr&iacute;an mejorar con algo de trabajo e incluso la adici&oacute;n de un p&aacute;rrafo aqu&iacute; o all&aacute; es extremadamente apreciada.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Llamado a los colaboradores"](https://github.com/babel/babel/issues/1347)
   </p>
@@ -112,106 +112,106 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
 ### ¿Te gusta organizar?
 
 * Vincula los problemas duplicados, y sugiere nuevas etiquetas para los problemas, para mantener todo organizado
-* Recorre los problemas abiertos y sugiere cerrar los más antiguos, [como hizo @nzakas para eslint](https://github.com/eslint/eslint/issues/6765)
-* Realiza preguntas clarificadoras en los problemas recientemente abiertos para hacer que la discusión avance
+* Recorre los problemas abiertos y sugiere cerrar los m&aacute;s antiguos, [como hizo @nzakas para eslint](https://github.com/eslint/eslint/issues/6765)
+* Realiza preguntas clarificadoras en los problemas recientemente abiertos para hacer que la discusi&oacute;n avance
 
 ### ¿Te gusta codificar?
 
 * Encuentra un problema abierto para entrar, [como  lo hizo @dianjin para Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
 * Pregunta si puedes ayudar a escribir alguna nueva funcionalidad
-* Automatiza la configuración del proyecto
+* Automatiza la configuraci&oacute;n del proyecto
 * Mejora las herramientas y las pruebas
 
 ### ¿Te gusta ayudar a las personas?
 
 * Responde las preguntas acerca del proyecto en, por ejemplo, Stack Overflow ([como este ejemplo Postgres ](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) o en reddit
 * Repsonde preguntas a las personas en los problemas abiertos
-* Ayuda a moderar los foros de discusión o canales de conversación
+* Ayuda a moderar los foros de discusi&oacute;n o canales de conversaci&oacute;n
 
 ### ¿Te gusta ayudar a otros a codificar?
 
-* Revisa el código que otras personas presentan
-* Escribe tutoriales sobre cómo puede usarse un proyecto
-* Ofrécete a mentorear a otro colaborador, [como lo hizo @ereichert para @bronzdocen on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* Revisa el c&oacute;digo que otras personas presentan
+* Escribe tutoriales sobre c&oacute;mo puede usarse un proyecto
+* Ofr&eacute;cete a mentorear a otro colaborador, [como lo hizo @ereichert para @bronzdocen on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
 ### ¡No tienes que trabajar solamente en proyectos de software!
 
-Mientras que el "código abierto" a menudo se refiere a software, puedes colaborar en casi cualquier cosa. Existen libros, recetas, listas y clases que se desarrollan como proyectos de código abierto.
+Mientras que el "c&oacute;digo abierto" a menudo se refiere a software, puedes colaborar en casi cualquier cosa. Existen libros, recetas, listas y clases que se desarrollan como proyectos de c&oacute;digo abierto.
 
 Por ejemplo:
 
 * @sindresorhus sanea una [lista de "asombrosos"](https://github.com/sindresorhus/awesome)
 * @h5bp mantiene una [lista de preguntas potenciales para entrevistas](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn y @nicole-a-tesla hicieron una [colección de hechos graciosos sobre puffins](https://github.com/stuartlynn/puffin_facts)
+* @stuartlynn y @nicole-a-tesla hicieron una [colecci&oacute;n de hechos graciosos sobre puffins](https://github.com/stuartlynn/puffin_facts)
 
-Incluso si no eres un desarrollador de software, trabajar en la documentación de un proyecto puede ayudar a comenzar en el código abierto. Es con frecuencia menos intimidante trabajar en proyectos que no involucran código, y ese proceso de colaboracón te dará confianza y experiencia.
+Incluso si no eres un desarrollador de software, trabajar en la documentaci&oacute;n de un proyecto puede ayudar a comenzar en el c&oacute;digo abierto. Es con frecuencia menos intimidante trabajar en proyectos que no involucran c&oacute;digo, y ese proceso de colaborac&oacute;n te dar&aacute; confianza y experiencia.
 
-## Orientándote a un nuevo proyecto
+## Orient&aacute;ndote a un nuevo proyecto
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Si vas tras un rastreador de problemas y las cosas parecen confusas, no eres solo tu. Esas herramientas requieren mucho conocimiento implícito, pero las personas puede ayudarte a navegarlo y tu puedes hacerles preguntas.
+  Si vas tras un rastreador de problemas y las cosas parecen confusas, no eres solo tu. Esas herramientas requieren mucho conocimiento impl&iacute;cito, pero las personas puede ayudarte a navegarlo y tu puedes hacerles preguntas.
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["Cómo Contribuir con el Código Abierto"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["C&oacute;mo Contribuir con el C&oacute;digo Abierto"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
-Para cualquier otra cosa distinta de una correción de error tipográfico, contribuir con el código abierto es como caminar hacia un grupo de extraños en una fiesta. Si comienzas a hablar sobre las llamas, mientras ellos están muy involucrados en una discusión sobre el pez dorado, es probable que te miren de manera un poco extraña.
+Para cualquier otra cosa distinta de una correci&oacute;n de error tipogr&aacute;fico, contribuir con el c&oacute;digo abierto es como caminar hacia un grupo de extraños en una fiesta. Si comienzas a hablar sobre las llamas, mientras ellos est&aacute;n muy involucrados en una discusi&oacute;n sobre el pez dorado, es probable que te miren de manera un poco extraña.
 
-Antes de lanzarte con los ojos cerrados con tus propias sugerencias, comienza aprendiendo cómo leer a la sala. Si lo haces, aumentan las probabilidades de que tus ideas se noten y sean escuchadas.
+Antes de lanzarte con los ojos cerrados con tus propias sugerencias, comienza aprendiendo c&oacute;mo leer a la sala. Si lo haces, aumentan las probabilidades de que tus ideas se noten y sean escuchadas.
 
-### Anatomía de un proyecto de código abierto
+### Anatom&iacute;a de un proyecto de c&oacute;digo abierto
 
-Todas las comunidades de código abieto son diferentes.
+Todas las comunidades de c&oacute;digo abieto son diferentes.
 
-Luego de pasar años en un proyecto de código abierto significa que aprendiste a conocer un proyecto de código abierto. Si te mueves a un proyecto diferente encontrarás que el vocabulario, las normas, y los estilos de comunicación son completamente diferentes.
+Luego de pasar años en un proyecto de c&oacute;digo abierto significa que aprendiste a conocer un proyecto de c&oacute;digo abierto. Si te mueves a un proyecto diferente encontrar&aacute;s que el vocabulario, las normas, y los estilos de comunicaci&oacute;n son completamente diferentes.
 
-Dicho ésto, muchos proyectos de código abierto siguen una estructura organizacional similar. Entender los roles de las  diferentes comunidades y el proceso en general te ayudará a estar rapidamente orientado para cualquier proyecto nuevo.
+Dicho &eacute;sto, muchos proyectos de c&oacute;digo abierto siguen una estructura organizacional similar. Entender los roles de las  diferentes comunidades y el proceso en general te ayudar&aacute; a estar rapidamente orientado para cualquier proyecto nuevo.
 
-Un proyecto de código abierto tiene los siguentes tipos de personas:
+Un proyecto de c&oacute;digo abierto tiene los siguentes tipos de personas:
 
-* **Autor:** La/s persona/s u organización que creó/crearon el proyecto.
-* **Dueño:** La/s persona/s que tiene/n la propiedad administrativa sobre la organización o el repositorio(no siempre es la misma que el autor original)
-* **Encargados:** Colaboradores que son responsables de dirigir la visión y la administrar aspectos organizacionales del proyecto. (Pueden también ser autores o dueños del proyecto.)
-* **Colaboradores:** Cualquiera que haya contribuído con algo al proyecto.
-* **Miembros de la comunidad:** Las personas que utilizan al proyecto. Pueden tener un rol activo en las conversaciones o expresar su opinión sobre la dirección que toma el proyecto.
+* **Autor:** La/s persona/s u organizaci&oacute;n que cre&oacute;/crearon el proyecto.
+* **Dueño:** La/s persona/s que tiene/n la propiedad administrativa sobre la organizaci&oacute;n o el repositorio(no siempre es la misma que el autor original)
+* **Encargados:** Colaboradores que son responsables de dirigir la visi&oacute;n y la administrar aspectos organizacionales del proyecto. (Pueden tambi&eacute;n ser autores o dueños del proyecto.)
+* **Colaboradores:** Cualquiera que haya contribu&iacute;do con algo al proyecto.
+* **Miembros de la comunidad:** Las personas que utilizan al proyecto. Pueden tener un rol activo en las conversaciones o expresar su opini&oacute;n sobre la direcci&oacute;n que toma el proyecto.
 
-Los proyectos más grandes pueden tener también subcomisiones o grupos de trabajo enfocados en tareas diferentes, como herramientas, priorización de urgencias, moderación de la comunidad, y organización de eventos. Busca en el sitio web del proyecto una página del "equipo", o en su repositorio para encontrar la documentación política de gobierno, para encontrar ésta documentación.
+Los proyectos m&aacute;s grandes pueden tener tambi&eacute;n subcomisiones o grupos de trabajo enfocados en tareas diferentes, como herramientas, priorizaci&oacute;n de urgencias, moderaci&oacute;n de la comunidad, y organizaci&oacute;n de eventos. Busca en el sitio web del proyecto una p&aacute;gina del "equipo", o en su repositorio para encontrar la documentaci&oacute;n pol&iacute;tica de gobierno, para encontrar &eacute;sta documentaci&oacute;n.
 
-Un proyecto también tiene documentación. Estos archivos están normalmente listados en un nivel alto del repositorio.
+Un proyecto tambi&eacute;n tiene documentaci&oacute;n. Estos archivos est&aacute;n normalmente listados en un nivel alto del repositorio.
 
-* **LICENSE:** Por definición, cada proyecto de código abierto debe tener una [licencia open source](https://choosealicense.com). Si el proyecto no tiene una licencia, entonces no es de código abierto.
-* **README:** El archivo README es un manual de instrucción que da la bienvenida al proyecto a los nuevos miembros de la comunidad. Explica porqué el proyecto es útil y cómo comenzar.
-* **CONTRIBUTING:** Mientras que el archivo READMES ayuda a las personas a _usar_ el proyecto, el archivo contributing ayuda a las personas a _contribuir_ con el proyecto. Explica qué tipo de contribuciones son necesarias y cómo llevar adelante el trabajo. Si bien no todos los proyectos tienen un archivo CONTRIBUTING, su presencia señala que se trata de un buen proyecto para contribuir.
-* **CODE_OF_CONDUCT:** Sienta sólidas reglas sobre la conducta de los participantes asociados y ayuda a facilitar un entorno acogedor y amistoso. Si bien no todos los proyectos tienen un archivo CODE_OF_CONDUCT, su presencia señala que se trata de un buen proyecto para contribuir.
-* **Otra documentación:** Puede haber documentación adicional, como tutoriales, recorridos o políticas de gobierno, especialmente en proyectos de mayor envergadura.
+* **LICENSE:** Por definici&oacute;n, cada proyecto de c&oacute;digo abierto debe tener una [licencia open source](https://choosealicense.com). Si el proyecto no tiene una licencia, entonces no es de c&oacute;digo abierto.
+* **README:** El archivo README es un manual de instrucci&oacute;n que da la bienvenida al proyecto a los nuevos miembros de la comunidad. Explica porqu&eacute; el proyecto es &uacute;til y c&oacute;mo comenzar.
+* **CONTRIBUTING:** Mientras que el archivo READMES ayuda a las personas a _usar_ el proyecto, el archivo contributing ayuda a las personas a _contribuir_ con el proyecto. Explica qu&eacute; tipo de contribuciones son necesarias y c&oacute;mo llevar adelante el trabajo. Si bien no todos los proyectos tienen un archivo CONTRIBUTING, su presencia señala que se trata de un buen proyecto para contribuir.
+* **CODE_OF_CONDUCT:** Sienta s&oacute;lidas reglas sobre la conducta de los participantes asociados y ayuda a facilitar un entorno acogedor y amistoso. Si bien no todos los proyectos tienen un archivo CODE_OF_CONDUCT, su presencia señala que se trata de un buen proyecto para contribuir.
+* **Otra documentaci&oacute;n:** Puede haber documentaci&oacute;n adicional, como tutoriales, recorridos o pol&iacute;ticas de gobierno, especialmente en proyectos de mayor envergadura.
 
-Finalmente, los proyectos de código abierto utilizan las siguientes herramientas para organizar la discusión. La lectura de estos archivos te darán una buena imagen de cómo piensa y trabaja la comunidad.
+Finalmente, los proyectos de c&oacute;digo abierto utilizan las siguientes herramientas para organizar la discusi&oacute;n. La lectura de estos archivos te dar&aacute;n una buena imagen de c&oacute;mo piensa y trabaja la comunidad.
 
 * **Seguidor de problemas (Issue tracker):** Es donde las personas discuten los problemas relacionados con el proyecto.
-* **Pull requests:** Es donde las personas discuten y revisan los cambios que están en progreso.
-* **Foros de discusión o lista de correos electrónicos:** Some projects may use these channels for conversational topics (ex. _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Canal de chat síncrono:** Algunos proyectos utilizan canales de chat (como Slack o IRC) para conversaciones casuales, colaboración e intercambios rápidos.
+* **Pull requests:** Es donde las personas discuten y revisan los cambios que est&aacute;n en progreso.
+* **Foros de discusi&oacute;n o lista de correos electr&oacute;nicos:** Some projects may use these channels for conversational topics (ex. _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
+* **Canal de chat s&iacute;ncrono:** Algunos proyectos utilizan canales de chat (como Slack o IRC) para conversaciones casuales, colaboraci&oacute;n e intercambios r&aacute;pidos.
 
 ## Encontrando un proyecto donde contribuir
 
-¡Ahora que ya has descubierto cómo funcionan los proyectos de código abierto, es tiempo de encontrar un proyecto con el que contribuir! 
+¡Ahora que ya has descubierto c&oacute;mo funcionan los proyectos de c&oacute;digo abierto, es tiempo de encontrar un proyecto con el que contribuir! 
 
-Si nunca antes contribuíste al código abierto, acepta algunos consejos del presidente de los Estados UNidos, John F. Kennedy, quien una vez dijo, _"No preguntes qué es lo que tu país puede hacer por tí, pregúntate qué es lo que tu puedes hacer por él"_
+Si nunca antes contribu&iacute;ste al c&oacute;digo abierto, acepta algunos consejos del presidente de los Estados UNidos, John F. Kennedy, quien una vez dijo, _"No preguntes qu&eacute; es lo que tu pa&iacute;s puede hacer por t&iacute;, preg&uacute;ntate qu&eacute; es lo que tu puedes hacer por &eacute;l"_
 
-Las contribuciones al código abierto ocurren en todos los niveles a lo largo de los proyectos. No necesitas pensar demasiado cuál será tu primera colaboración, o cómo se verá.
+Las contribuciones al c&oacute;digo abierto ocurren en todos los niveles a lo largo de los proyectos. No necesitas pensar demasiado cu&aacute;l ser&aacute; tu primera colaboraci&oacute;n, o c&oacute;mo se ver&aacute;.
 
-En su lugar, comienza pensando sobre el proyecto que ya estás utilizando o que quisieras utilizar. Los proyectos con los que contribuirás activamente son aquellos a los que volverás.
+En su lugar, comienza pensando sobre el proyecto que ya est&aacute;s utilizando o que quisieras utilizar. Los proyectos con los que contribuir&aacute;s activamente son aquellos a los que volver&aacute;s.
 
-En esos proyectos, cuando te encuentres pensando que algo podría hacerse mejor o diferente, actúa siguiendo tu instinto.
+En esos proyectos, cuando te encuentres pensando que algo podr&iacute;a hacerse mejor o diferente, act&uacute;a siguiendo tu instinto.
 
-El código abierto no es un un club exclusivo; está hecho de personas igual a tí. El término de fantasía  "Código abierto" es solo un nombre para tratar a los problemas del mundo como resolubles.
+El c&oacute;digo abierto no es un un club exclusivo; est&aacute; hecho de personas igual a t&iacute;. El t&eacute;rmino de fantas&iacute;a  "C&oacute;digo abierto" es solo un nombre para tratar a los problemas del mundo como resolubles.
 
-Puedes recorre un archivo README y encontrar un vínculo roto o un error tipográfico. O tal vez eres un nuevo usuario y te diste cuenta de que algo está roto, o hay un problema que crees que realmente debería estar en la documentacíon. En lugar de ignorarlo y continuar, o solicitar que álguien lo solucione, observa si puedes ayudar lanzándote sobre él. ¡De eso se trata el código abierto!
+Puedes recorre un archivo README y encontrar un v&iacute;nculo roto o un error tipogr&aacute;fico. O tal vez eres un nuevo usuario y te diste cuenta de que algo est&aacute; roto, o hay un problema que crees que realmente deber&iacute;a estar en la documentac&iacute;on. En lugar de ignorarlo y continuar, o solicitar que &aacute;lguien lo solucione, observa si puedes ayudar lanz&aacute;ndote sobre &eacute;l. ¡De eso se trata el c&oacute;digo abierto!
 
-> [El 28% de las contribuciones casuales](http://www.igor.pro.br/publica/papers/saner2016.pdf) a la documentación del código abierto se trata de documentación, como correcciones tipográficas, reformateos o redacción de una traducción.
+> [El 28% de las contribuciones casuales](http://www.igor.pro.br/publica/papers/saner2016.pdf) a la documentaci&oacute;n del c&oacute;digo abierto se trata de documentaci&oacute;n, como correcciones tipogr&aacute;ficas, reformateos o redacci&oacute;n de una traducci&oacute;n.
 
-Puedes también utilizar algunos de los siguientes recursos para ayudarte a descubrir nuevos proyectos:
+Puedes tambi&eacute;n utilizar algunos de los siguientes recursos para ayudarte a descubrir nuevos proyectos:
 
 * [GitHub Explore](https://github.com/explore/)
 * [First Timers Only](http://www.firsttimersonly.com/)
@@ -221,43 +221,43 @@ Puedes también utilizar algunos de los siguientes recursos para ayudarte a desc
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
-### Una lista de verificación antes de que contribuyas
+### Una lista de verificaci&oacute;n antes de que contribuyas
 
-Una vez que hayas encontrado un proyecto con el que quisieras contribuir, realiza un recorrido rápido para asegurarte de que el proyecto es adecuado para aceptar contribuciones.De otra manera, tu duro trabajo puede no tener nunca una respuesta.
+Una vez que hayas encontrado un proyecto con el que quisieras contribuir, realiza un recorrido r&aacute;pido para asegurarte de que el proyecto es adecuado para aceptar contribuciones.De otra manera, tu duro trabajo puede no tener nunca una respuesta.
 
-Aquí tienes una lista práctica para evaluar si un proyecto es conveniente para nuevos colaboradores.
+Aqu&iacute; tienes una lista pr&aacute;ctica para evaluar si un proyecto es conveniente para nuevos colaboradores.
 
-**Satisface la definición de código abierto**
+**Satisface la definici&oacute;n de c&oacute;digo abierto**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  ¿Tiene una licencia? Usualmente, es un archivo ubicado LCENSE en la raíz del repositorio.
+  ¿Tiene una licencia? Usualmente, es un archivo ubicado LCENSE en la ra&iacute;z del repositorio.
   </label>
 </div>
 
 **El proyecto acepta contribuciones activamente**
 
-Observa la actividad de los commit en la rama principal. En GitHub, puedes ver esta información en la página del repositorio.
+Observa la actividad de los commit en la rama principal. En GitHub, puedes ver esta informaci&oacute;n en la p&aacute;gina del repositorio.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  ¿Cuándo ocurrió el último commit?
+  ¿Cu&aacute;ndo ocurri&oacute; el &uacute;ltimo commit?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  ¿Cuántos colaboradores tiene el proyecto?
+  ¿Cu&aacute;ntos colaboradores tiene el proyecto?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  ¿Con qué frecuencia las personas hacen un commit? (En GitHub, puedes encontrar esta información haciendo click en "Commits", en la barra superior.)
+  ¿Con qu&eacute; frecuencia las personas hacen un commit? (En GitHub, puedes encontrar esta informaci&oacute;n haciendo click en "Commits", en la barra superior.)
   </label>
 </div>
 
@@ -266,21 +266,21 @@ Luego, busca en los problemas del proyecto.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    ¿Cuántos problemas abiertos existen?
+    ¿Cu&aacute;ntos problemas abiertos existen?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    ¿Los responsables responden rápidamente a los problemas cuando son abiertos?
+    ¿Los responsables responden r&aacute;pidamente a los problemas cuando son abiertos?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    ¿Existe una discusión activa en los problemas?
+    ¿Existe una discusi&oacute;n activa en los problemas?
   </label>
 </div>
 
@@ -294,7 +294,7 @@ Luego, busca en los problemas del proyecto.
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    ¿Se están cerrando los problemas? (En GitHub, haz click en el vínculo "closed" de la página de problemas para ver los problemas cerrados.)
+    ¿Se est&aacute;n cerrando los problemas? (En GitHub, haz click en el v&iacute;nculo "closed" de la p&aacute;gina de problemas para ver los problemas cerrados.)
   </label>
 </div>
 
@@ -303,21 +303,21 @@ Ahora haz lo mismo para los pull requests del proyecto.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    ¿Cuántos pull requests existen?
+    ¿Cu&aacute;ntos pull requests existen?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    ¿Los responsables responden rápidamente a los pull requests cuando se abren?
+    ¿Los responsables responden r&aacute;pidamente a los pull requests cuando se abren?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    ¿Existe una discusióni activa en los pull requests?
+    ¿Existe una discusi&oacute;ni activa en los pull requests?
   </label>
 </div>
 
@@ -331,13 +331,13 @@ Ahora haz lo mismo para los pull requests del proyecto.
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    ¿Cuán recientemente ocurrió la entrada (merge) de un pull request? (En GitHub, haz click en el vínculo "closed" en la página de pull requests para ver los PRs cerrados.)
+    ¿Cu&aacute;n recientemente ocurri&oacute; la entrada (merge) de un pull request? (En GitHub, haz click en el v&iacute;nculo "closed" en la p&aacute;gina de pull requests para ver los PRs cerrados.)
   </label>
 </div>
 
 **El proyecto es acogedor**
 
-Un proyecto que es amigable y acogedor indica que será receptivo de nuevos colaboradores. 
+Un proyecto que es amigable y acogedor indica que ser&aacute; receptivo de nuevos colaboradores. 
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -349,7 +349,7 @@ Un proyecto que es amigable y acogedor indica que será receptivo de nuevos cola
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Las personas son amigables en los problemas, foros de discusión y chat (por ejemplo IRC o Slack)?
+    Las personas son amigables en los problemas, foros de discusi&oacute;n y chat (por ejemplo IRC o Slack)?
   </label>
 </div>
 
@@ -369,157 +369,157 @@ Un proyecto que es amigable y acogedor indica que será receptivo de nuevos cola
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Siempre que veas un hilo largo, comprueba las respuestas de los principales desarrolladores que llegan más tarde al hilo. ¿Están resumiendo de forma constructiva y tomando medidas para llevar el hilo hacia una decisión y al mismo tiempo continuan siendo educados? Si ves que se agitan banderas de guerra pasando en frente, frecuentemente indica que la energía se está encaminando a discutir más que en desarrollar. 
+  Siempre que veas un hilo largo, comprueba las respuestas de los principales desarrolladores que llegan m&aacute;s tarde al hilo. ¿Est&aacute;n resumiendo de forma constructiva y tomando medidas para llevar el hilo hacia una decisi&oacute;n y al mismo tiempo continuan siendo educados? Si ves que se agitan banderas de guerra pasando en frente, frecuentemente indica que la energ&iacute;a se est&aacute; encaminando a discutir m&aacute;s que en desarrollar. 
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Produciendo Software de código abierto_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Produciendo Software de c&oacute;digo abierto_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
-## Cómo enviar una contribución
+## C&oacute;mo enviar una contribuci&oacute;n
 
-Ya encontraste un proyecto que te gustaba, y estás listo para hacer una contribucíon.¡Por fin! A continuación de mostramos cómo hacer que tu contribución siga por el buen camino.
+Ya encontraste un proyecto que te gustaba, y est&aacute;s listo para hacer una contribuc&iacute;on.¡Por fin! A continuaci&oacute;n de mostramos c&oacute;mo hacer que tu contribuci&oacute;n siga por el buen camino.
 
-### Comunicándote de manera efectiva
+### Comunic&aacute;ndote de manera efectiva
 
-Sin importar si eres un colaborador para una sola vez o estás intentando unirte a una comunidad, trabajar con otras personas es una de las habilidades más importantes que desarrollarás en un proyecto de código abierto.
+Sin importar si eres un colaborador para una sola vez o est&aacute;s intentando unirte a una comunidad, trabajar con otras personas es una de las habilidades m&aacute;s importantes que desarrollar&aacute;s en un proyecto de c&oacute;digo abierto.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/7693422?v=3&s=460" class="pquote-avatar" alt="avatar">
-  \[Como un nuevo colaborador,\] me di cuenta rápidamente que necesitaba hacer preguntas si quería poder cerrar el problema. Recorrí el código base. Una vez que comprendí lo que estaba ocurriendo, pregunté que me orientaran. ¡Y voilà! Pude resolver el problema luego de conseguir todos los detalles relevantes que necesitaba.
+  \[Como un nuevo colaborador,\] me di cuenta r&aacute;pidamente que necesitaba hacer preguntas si quer&iacute;a poder cerrar el problema. Recorr&iacute; el c&oacute;digo base. Una vez que comprend&iacute; lo que estaba ocurriendo, pregunt&eacute; que me orientaran. ¡Y voilà! Pude resolver el problema luego de conseguir todos los detalles relevantes que necesitaba.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [El Muy Accidentado Viaje de un Principiante a través del Mundo del Código Abierto](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [El Muy Accidentado Viaje de un Principiante a trav&eacute;s del Mundo del C&oacute;digo Abierto](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
 </aside>
 
 Antes de abrir un problema o un pull request, o de hacer una pregunta en un chat, ten en cuenta los siguientes puntos para ayudar a que tus ideas lleguen a buen puerto de manera efectiva.
 
-**Da contexto.** Ayuda a los demás a ponerse al día rápidamente. Si tienes un error, explica lo que estás tratando de hacer y cómo reproducirlo. Si estás sugiriendo una nueva idea, explica porqué crees que sería útil para el proyecto (¡no solamente para tí¡).
+**Da contexto.** Ayuda a los dem&aacute;s a ponerse al d&iacute;a r&aacute;pidamente. Si tienes un error, explica lo que est&aacute;s tratando de hacer y c&oacute;mo reproducirlo. Si est&aacute;s sugiriendo una nueva idea, explica porqu&eacute; crees que ser&iacute;a &uacute;til para el proyecto (¡no solamente para t&iacute;¡).
 
 > 😇 _"No ocurre X cuando yo hago Y"_
 >
-> 😢 _"¡X se ha roto! Por favor repárenlo."_
+> 😢 _"¡X se ha roto! Por favor rep&aacute;renlo."_
 
-**Haz tu tarea de antemano.** Está bien desconocer cosas, pero mostrando que lo intentaste. Antes de solicitar ayuda, asegúrate de comprobar el README, la documentación, los problemas (abiertos o cerrados), la lista de correos, y de buscar en internet por una respuesta. Las personas agradecerán cuando demuestres que estás tratando de aprender.
+**Haz tu tarea de antemano.** Est&aacute; bien desconocer cosas, pero mostrando que lo intentaste. Antes de solicitar ayuda, aseg&uacute;rate de comprobar el README, la documentaci&oacute;n, los problemas (abiertos o cerrados), la lista de correos, y de buscar en internet por una respuesta. Las personas agradecer&aacute;n cuando demuestres que est&aacute;s tratando de aprender.
 
-> 😇 _"No estoy seguro de cómo implementar X. Verifiqué en los documentos de ayuda y no encontré ninguna mención."_
+> 😇 _"No estoy seguro de c&oacute;mo implementar X. Verifiqu&eacute; en los documentos de ayuda y no encontr&eacute; ninguna menci&oacute;n."_
 >
-> 😢 _"¿Cómo soluciono X?"_
+> 😢 _"¿C&oacute;mo soluciono X?"_
 
-**Manten tus solicitudes cortas y directas.** Al igual que el envío de un correo, cualquier contribución, sin importar lo simple o útil que sea, requiere la revisión de parte de otra persona. Muchos proyectos tienen más solicitudes de entrada que personas disponibles para ayudar. Se conciso. Aumentarás las probabilidades de que álguien pueda ayudarte.
+**Manten tus solicitudes cortas y directas.** Al igual que el env&iacute;o de un correo, cualquier contribuci&oacute;n, sin importar lo simple o &uacute;til que sea, requiere la revisi&oacute;n de parte de otra persona. Muchos proyectos tienen m&aacute;s solicitudes de entrada que personas disponibles para ayudar. Se conciso. Aumentar&aacute;s las probabilidades de que &aacute;lguien pueda ayudarte.
 
-> 😇 _"Me gustaría escribir un tutorial para una API."_
+> 😇 _"Me gustar&iacute;a escribir un tutorial para una API."_
 >
-> 😢 _"Días atrás estaba manejando por la autopista y me detuve para cargar combustible, y entonces tuve la gran idea de algo que deberíamos estar haciendo pero antes de explicarlo, permítanme mostrarles..."_
+> 😢 _"D&iacute;as atr&aacute;s estaba manejando por la autopista y me detuve para cargar combustible, y entonces tuve la gran idea de algo que deber&iacute;amos estar haciendo pero antes de explicarlo, perm&iacute;tanme mostrarles..."_
 
-**Manten todas las comunicaciones públicas.** Pese a que es tentador, no te dirijas a los responsables de manera privada a menos que necesites compartir información sensible (como un problema de seguridad o violaciones a la conducta serias). Cuando mantienes las conversaciones públicas, más personas pueden aprender y verse beneficiadas de tu intercambio. La discusión puede ser, en sí misma, una contribución.
+**Manten todas las comunicaciones p&uacute;blicas.** Pese a que es tentador, no te dirijas a los responsables de manera privada a menos que necesites compartir informaci&oacute;n sensible (como un problema de seguridad o violaciones a la conducta serias). Cuando mantienes las conversaciones p&uacute;blicas, m&aacute;s personas pueden aprender y verse beneficiadas de tu intercambio. La discusi&oacute;n puede ser, en s&iacute; misma, una contribuci&oacute;n.
 
-> 😇 _(como un comentario) "@-responsable ¡Qué tal! ¿Cómo deberíamos proceder con éste PR?"_
+> 😇 _(como un comentario) "@-responsable ¡Qu&eacute; tal! ¿C&oacute;mo deber&iacute;amos proceder con &eacute;ste PR?"_
 >
-> 😢 _(como un correo electrónico) "Que tal, disculpa que te moleste con un correo electrónico, pero me estaba preguntando si tendrás la oportunidad de revisar mi PR"_
+> 😢 _(como un correo electr&oacute;nico) "Que tal, disculpa que te moleste con un correo electr&oacute;nico, pero me estaba preguntando si tendr&aacute;s la oportunidad de revisar mi PR"_
 
-**Está bien hacer preguntas (¡pero se paciente!).** Todos fueron nuevos en el proyecto en algún momento, e incluso los colaboradores experimentados necesitan ponerse al día cuando miran un nuevo proyecto. Por lo mismo, incluso responsables de mucha antig&uuml;edad no están siempre familiarizados con todas las partes del proyecto. Muéstrales la misma paciencia que quieres que ellos tengan contigo.
+**Est&aacute; bien hacer preguntas (¡pero se paciente!).** Todos fueron nuevos en el proyecto en alg&uacute;n momento, e incluso los colaboradores experimentados necesitan ponerse al d&iacute;a cuando miran un nuevo proyecto. Por lo mismo, incluso responsables de mucha antig&uuml;edad no est&aacute;n siempre familiarizados con todas las partes del proyecto. Mu&eacute;strales la misma paciencia que quieres que ellos tengan contigo.
 
-> 😇 _"Gracias por estudiar éste error. Seguí tus sugerencias. Esta es la salida."_
+> 😇 _"Gracias por estudiar &eacute;ste error. Segu&iacute; tus sugerencias. Esta es la salida."_
 >
-> 😢 _"¿Porqué no pueden solucionar mi problema? ¿No es este acaso su proyecto?"_
+> 😢 _"¿Porqu&eacute; no pueden solucionar mi problema? ¿No es este acaso su proyecto?"_
 
-**Respeta las decisiones de la comunidad.** Tus ideas pueden ser diferentes a las prioridades de la comunidad o a la visión. Pueden devolverte alguna retroalimentación o decidir no continuar con tu idea. Mientras que tu buscas atención y compromiso, los responsables deben convivir con tu decisión por más tiempo que tu. Si no estás de acuerdo con la dirección tomada, siempore puedes trabajar en tu propio fork o comenzar tu propio proyecto.
+**Respeta las decisiones de la comunidad.** Tus ideas pueden ser diferentes a las prioridades de la comunidad o a la visi&oacute;n. Pueden devolverte alguna retroalimentaci&oacute;n o decidir no continuar con tu idea. Mientras que tu buscas atenci&oacute;n y compromiso, los responsables deben convivir con tu decisi&oacute;n por m&aacute;s tiempo que tu. Si no est&aacute;s de acuerdo con la direcci&oacute;n tomada, siempore puedes trabajar en tu propio fork o comenzar tu propio proyecto.
 
-> 😇 _"Lamento que no puedan dar soporte a mi situación, pero como lo explicas solo afecta a una minoría de usuarios, y lo entiendo. Gracias por escuchar."_
+> 😇 _"Lamento que no puedan dar soporte a mi situaci&oacute;n, pero como lo explicas solo afecta a una minor&iacute;a de usuarios, y lo entiendo. Gracias por escuchar."_
 >
-> 😢 _"¿Porqué no dan soporte a mi situación? ¡Es inaceptable!"_
+> 😢 _"¿Porqu&eacute; no dan soporte a mi situaci&oacute;n? ¡Es inaceptable!"_
 
-**Por encima de todo mantenlo con clase.** El código abierto está formado por colaboradores de todo el mundo. El contexto se pierde a través de idiomas, culturas, geografías y zonas horarias. Además, la comunicación escrita hace más difícil transmitir un tono o estado de ánimo. Asume buenas intenciones en esas conversaciones. Está bien, tratando de volver a una idea, solicitar más contexto, o aclarar más tu posición. Trata de dejar a Internet como un lugar mejor del que tu lo encontraste.
+**Por encima de todo mantenlo con clase.** El c&oacute;digo abierto est&aacute; formado por colaboradores de todo el mundo. El contexto se pierde a trav&eacute;s de idiomas, culturas, geograf&iacute;as y zonas horarias. Adem&aacute;s, la comunicaci&oacute;n escrita hace m&aacute;s dif&iacute;cil transmitir un tono o estado de &aacute;nimo. Asume buenas intenciones en esas conversaciones. Est&aacute; bien, tratando de volver a una idea, solicitar m&aacute;s contexto, o aclarar m&aacute;s tu posici&oacute;n. Trata de dejar a Internet como un lugar mejor del que tu lo encontraste.
 
 ### Dando contexto
 
-Antes de hacer nada, haz una rápida verificación para asegurarte que tu idea no se haya discutido anteriormente. Navega por el README del proyecto, los problemas (abiertos y cerrados), lista de correos electrónicos, y en Stack Overflow. No necesitas dedicar horas para todo esto, pero una mirada rápida buscando algunas palabras clave resolverá gran parte de la tarea.
+Antes de hacer nada, haz una r&aacute;pida verificaci&oacute;n para asegurarte que tu idea no se haya discutido anteriormente. Navega por el README del proyecto, los problemas (abiertos y cerrados), lista de correos electr&oacute;nicos, y en Stack Overflow. No necesitas dedicar horas para todo esto, pero una mirada r&aacute;pida buscando algunas palabras clave resolver&aacute; gran parte de la tarea.
 
-Si no puedes encontrar tu idea en ningún otro lado, estás listo para dar el paso. Si el proyecto está en GitHub, es probable que lo comuniques abriendo un problema o un pull request:
+Si no puedes encontrar tu idea en ning&uacute;n otro lado, est&aacute;s listo para dar el paso. Si el proyecto est&aacute; en GitHub, es probable que lo comuniques abriendo un problema o un pull request:
 
-* **Problemas (Issues)** son como comenzar una conversación o discusión
-* **Pull requests** son para comenzar a trabajar en una solución
-* **Para una comunicación ligera,** como una explicación o una pregunta de "cómo", trata preguntando en Stack Overflow, IRC, Slack u otro canal de chat, si el proyecto tiene alguno
+* **Problemas (Issues)** son como comenzar una conversaci&oacute;n o discusi&oacute;n
+* **Pull requests** son para comenzar a trabajar en una soluci&oacute;n
+* **Para una comunicaci&oacute;n ligera,** como una explicaci&oacute;n o una pregunta de "c&oacute;mo", trata preguntando en Stack Overflow, IRC, Slack u otro canal de chat, si el proyecto tiene alguno
 
-Antes de abrir un problema o un pull request, verifica los documentos de verificación del proyecto (comunmente es un archivo que se llama CONTRIBUTING), para ver si se necesitan incluir algo específico, puede ser que soliciten que respetes un modelo, o requerir que utilices pruebas.
+Antes de abrir un problema o un pull request, verifica los documentos de verificaci&oacute;n del proyecto (comunmente es un archivo que se llama CONTRIBUTING), para ver si se necesitan incluir algo espec&iacute;fico, puede ser que soliciten que respetes un modelo, o requerir que utilices pruebas.
 
-Si quieres hacer una contribución sustancial, abre un problema para preguntar antes de ponerte a trabajar en ello. Es de gran ayuda observar el proyecto por un tiempo (en GitHub, [puedes hacer click en "Watch"](https://help.github.com/articles/watching-repositories/) para ser notificado de todas las conversaciones), y conocer a los miembros de la comunidad, antes de realizar trabajo alguno que pueda no ser aceptado.
+Si quieres hacer una contribuci&oacute;n sustancial, abre un problema para preguntar antes de ponerte a trabajar en ello. Es de gran ayuda observar el proyecto por un tiempo (en GitHub, [puedes hacer click en "Watch"](https://help.github.com/articles/watching-repositories/) para ser notificado de todas las conversaciones), y conocer a los miembros de la comunidad, antes de realizar trabajo alguno que pueda no ser aceptado.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
-    Aprenderás <em>mucho</em> tomando un proyecto que utilizas activamente, "observarlo" en GitHub y leyendo cada problema y PR.
+    Aprender&aacute;s <em>mucho</em> tomando un proyecto que utilizas activamente, "observarlo" en GitHub y leyendo cada problema y PR.
 <p markdown="1" class="pquote-credit">
-— @gaearon [sobre la adhesión a proyectos](https://twitter.com/dan_abramov/status/819555257055322112)
+— @gaearon [sobre la adhesi&oacute;n a proyectos](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
 ### Abriendo un problema
 
-Frecuentemente deberías abrir un problema en las siguientes situaciones:
+Frecuentemente deber&iacute;as abrir un problema en las siguientes situaciones:
 
 * Reportar un error que tu no puedes resolver
-* Discutir un tópico o idea de alto nivel (por ejemplo sobre la comunidad, la visión o políticas)
-* Proponer una nueva característica u otra idea del proyecto
+* Discutir un t&oacute;pico o idea de alto nivel (por ejemplo sobre la comunidad, la visi&oacute;n o pol&iacute;ticas)
+* Proponer una nueva caracter&iacute;stica u otra idea del proyecto
 
 Consejos para comunicar los problemas:
 
-* **Si ves un problema abierto en el que quieres entrar,** coméntalo en el problema, para permitir que las personas sepan que te preocupa. De esa manera, es menos probable que se duplique el trabajo en la comunidad.
-* **Si un problema fue abierto hace mucho tiempo,** es posible que se esté tratando en otro lugar o que ya haya sido resuelto, de modo que primero pregunta por una confirmación antes de ponerte a trabajar.
-* **Si abriste un problema, pero más tarde descubriste que estaba resuelto,** comenta en tu propio problema, para que las personas lo sepan, y luego cierra el problema. Incluso documentar ese resultado es una contribución al proyecto.
+* **Si ves un problema abierto en el que quieres entrar,** com&eacute;ntalo en el problema, para permitir que las personas sepan que te preocupa. De esa manera, es menos probable que se duplique el trabajo en la comunidad.
+* **Si un problema fue abierto hace mucho tiempo,** es posible que se est&eacute; tratando en otro lugar o que ya haya sido resuelto, de modo que primero pregunta por una confirmaci&oacute;n antes de ponerte a trabajar.
+* **Si abriste un problema, pero m&aacute;s tarde descubriste que estaba resuelto,** comenta en tu propio problema, para que las personas lo sepan, y luego cierra el problema. Incluso documentar ese resultado es una contribuci&oacute;n al proyecto.
 
 ### Abriendo un pull request
 
-Usualmente deberías abrir un pull request en las siguientes situaciones:
+Usualmente deber&iacute;as abrir un pull request en las siguientes situaciones:
 
-* Enciar arreglos triviales (por ejemplo una corrercción tipográfica, un link caído o un error obvio)
-* Comenzar a trabajar en una contribución que ya fue solicitada, o que ya discutiste en un problema
+* Enciar arreglos triviales (por ejemplo una corrercci&oacute;n tipogr&aacute;fica, un link ca&iacute;do o un error obvio)
+* Comenzar a trabajar en una contribuci&oacute;n que ya fue solicitada, o que ya discutiste en un problema
 
-Un pull request no representa trabajo terminado. Usualmente es mejor abrir un pull request de forma temprana, de manera que otros puedan observar o dar retroalimentacíon a tu progreso. Solo márcalo como "trabajo en proceso" (WIP por sus siglas en ingles, wordk in progress) en la lína del tema. Siempre puedes agregar más commits después.
+Un pull request no representa trabajo terminado. Usualmente es mejor abrir un pull request de forma temprana, de manera que otros puedan observar o dar retroalimentac&iacute;on a tu progreso. Solo m&aacute;rcalo como "trabajo en proceso" (WIP por sus siglas en ingles, wordk in progress) en la l&iacute;na del tema. Siempre puedes agregar m&aacute;s commits despu&eacute;s.
 
-Si el proyecto está alojado en GITHUb, acá te explicamos los pasos para enviar un pull request:
+Si el proyecto est&aacute; alojado en GITHUb, ac&aacute; te explicamos los pasos para enviar un pull request:
 
-* **[Abre un fork del repositorio](https://guides.github.com/activities/forking/)** y haz un clon local. Conecta tu repositorio local con el repositorio "superior" original agregándolo como remoto. Descarga los cambios desde el repositorio superior con frecuencia de manera que puedas mantener al día, de forma que cuando tu envíes tu pull request, sea menos probable que haya conflictos. (ver más instrucciones detalladas [aquí](https://help.github.com/articles/syncing-a-fork/).)
+* **[Abre un fork del repositorio](https://guides.github.com/activities/forking/)** y haz un clon local. Conecta tu repositorio local con el repositorio "superior" original agreg&aacute;ndolo como remoto. Descarga los cambios desde el repositorio superior con frecuencia de manera que puedas mantener al d&iacute;a, de forma que cuando tu env&iacute;es tu pull request, sea menos probable que haya conflictos. (ver m&aacute;s instrucciones detalladas [aqu&iacute;](https://help.github.com/articles/syncing-a-fork/).)
 * **[Crea una rama](https://guides.github.com/introduction/flow/)** para tus ediciones.
-* **Haz referencia a cualquier problema relevante** o documentación de soporte en yu PR (por ejemplo "Cierra #37.")
-* **Incluye capturas de pantalla del antes y del después** si tus cambios incluyen diferencias en el HTML o CSS.  Arrastra y suelta las imágenes en el cuerpo de tu pull request.
-* **¡Has pruebas de tus cambios!** Corre tus cambios contra las pruebas existentes si realmente existen, y crea nuevas pruebas si es necesario. Sin importar que existan o no las pruebas, asegúrate que tus cambios no produzcan roturas del proyecto existente.
-* **Contribuye con el estilo del proyecto** con el máximo de tus capacidades. Esto significa utilizar indentación, punto y comas o comentarios de manera diferente a lo que harías en tu repositorio, pero que hacen más sencillo para los responsables combinar y para otros de entender y mantener el proyecto en el futuro.
+* **Haz referencia a cualquier problema relevante** o documentaci&oacute;n de soporte en yu PR (por ejemplo "Cierra #37.")
+* **Incluye capturas de pantalla del antes y del despu&eacute;s** si tus cambios incluyen diferencias en el HTML o CSS.  Arrastra y suelta las im&aacute;genes en el cuerpo de tu pull request.
+* **¡Has pruebas de tus cambios!** Corre tus cambios contra las pruebas existentes si realmente existen, y crea nuevas pruebas si es necesario. Sin importar que existan o no las pruebas, aseg&uacute;rate que tus cambios no produzcan roturas del proyecto existente.
+* **Contribuye con el estilo del proyecto** con el m&aacute;ximo de tus capacidades. Esto significa utilizar indentaci&oacute;n, punto y comas o comentarios de manera diferente a lo que har&iacute;as en tu repositorio, pero que hacen m&aacute;s sencillo para los responsables combinar y para otros de entender y mantener el proyecto en el futuro.
 
 Si se trata de tu primer pull request, verifica [Haz un Pull Request](http://makeapullrequest.com/), que fue creado por @kentcdodds como un recurso de recorrido gratuito.
 
-## Qué pasa luego de que enviaste una contribución
+## Qu&eacute; pasa luego de que enviaste una contribuci&oacute;n
 
-¡Lo hiciste! Felicitaciones por convertirte en un colaborador open source. Esperamos que ésta sea la primera de muchas.
+¡Lo hiciste! Felicitaciones por convertirte en un colaborador open source. Esperamos que &eacute;sta sea la primera de muchas.
 
-Luego de que enviaste tu contribución, una de las siguientes situaciones puede ocurrir:
+Luego de que enviaste tu contribuci&oacute;n, una de las siguientes situaciones puede ocurrir:
 
 ### 😭 No tienes una respuesta.
 
-Ojalá que  [hayas verificado el proyecto buscando signos de actividad](#a-checklist-before-you-contribute) antes de hacer cualquier contribución. Incluso en proyectos activos, de cualquier manera, es posible que tu contribución no tenga una respuesta.
+Ojal&aacute; que  [hayas verificado el proyecto buscando signos de actividad](#a-checklist-before-you-contribute) antes de hacer cualquier contribuci&oacute;n. Incluso en proyectos activos, de cualquier manera, es posible que tu contribuci&oacute;n no tenga una respuesta.
 
-Si no tuviste una respesta en más de una semana, es justo responder en el mismo hilo, preguntando a álguien por una revisión. Si conoces el nombre de la persona correcta para que revise tu contribución, puedes hacer una @-mencióm en ese hilo.
+Si no tuviste una respesta en m&aacute;s de una semana, es justo responder en el mismo hilo, preguntando a &aacute;lguien por una revisi&oacute;n. Si conoces el nombre de la persona correcta para que revise tu contribuci&oacute;n, puedes hacer una @-menci&oacute;m en ese hilo.
 
-**No contactes a esa persona** de manera privada; recuerda que las comunicaciones públicas son vitales para los proyectos de código abierto.
+**No contactes a esa persona** de manera privada; recuerda que las comunicaciones p&uacute;blicas son vitales para los proyectos de c&oacute;digo abierto.
 
-Si haces una llamada educada y todavía nadie responde, es posible que nadie te responda jamás. No es un sentimiento agradable, pero no dejes que de desanime. ¡Les pasa a todos! Existen muchas razones posibles por las que no tuviste tu respuesta, incluyendo circunstancias personales que pueden estar fuera de control. Trata de encontrar otro proyecto u otra forma de contribuir. En todo caso, ésta es una buena razón para no invertir mucho tiempo en hacer contribuciones antes de ver que existen otros miembros en la comunidad que están comprometidos y responden.
+Si haces una llamada educada y todav&iacute;a nadie responde, es posible que nadie te responda jam&aacute;s. No es un sentimiento agradable, pero no dejes que de desanime. ¡Les pasa a todos! Existen muchas razones posibles por las que no tuviste tu respuesta, incluyendo circunstancias personales que pueden estar fuera de control. Trata de encontrar otro proyecto u otra forma de contribuir. En todo caso, &eacute;sta es una buena raz&oacute;n para no invertir mucho tiempo en hacer contribuciones antes de ver que existen otros miembros en la comunidad que est&aacute;n comprometidos y responden.
 
-### 🚧 Alguien pide cambios a tu colaboración.
+### 🚧 Alguien pide cambios a tu colaboraci&oacute;n.
 
-Es común que te pidan hacer cambios a tu contribución, ya sea una retroalimentación sobre el alcance de tu idea, o cambios en tu código.
+Es com&uacute;n que te pidan hacer cambios a tu contribuci&oacute;n, ya sea una retroalimentaci&oacute;n sobre el alcance de tu idea, o cambios en tu c&oacute;digo.
 
-Cuando álguien te pide cambios, compórtate de manera sensible, Se tomaron el tiempo necesario para revisar tu contribución. Abrir un pull request y luego alejarse es de malos molales. Si no sabes cómo hacer los cambios, investiga el problema, y luego pregunta por ayuda si la necesitas.
+Cuando &aacute;lguien te pide cambios, comp&oacute;rtate de manera sensible, Se tomaron el tiempo necesario para revisar tu contribuci&oacute;n. Abrir un pull request y luego alejarse es de malos molales. Si no sabes c&oacute;mo hacer los cambios, investiga el problema, y luego pregunta por ayuda si la necesitas.
 
-Si no tienes el tiempo para volver a trabajar en ese problema (por ejemplo, si la conversación tuvo lugar durante meses, y tus circunstancias cambiaron), permite que el responsable lo sepa, de manera que no quede a la espera de una respuesta. Alguien puede sentirse complacido de hacerse cargo.
+Si no tienes el tiempo para volver a trabajar en ese problema (por ejemplo, si la conversaci&oacute;n tuvo lugar durante meses, y tus circunstancias cambiaron), permite que el responsable lo sepa, de manera que no quede a la espera de una respuesta. Alguien puede sentirse complacido de hacerse cargo.
 
-### 👎 Tu contribución no es aceptada.
+### 👎 Tu contribuci&oacute;n no es aceptada.
 
 
-Al final tu contribución puede o no ser aceptada. Con suerte, no hayas necesitado poner demasiado esfuerzo en ella. Si no estás seguro de porqué no fue aceptada, es completamente razonable preguntar al responsable por retroalimentación y esclarecimiento. De cualquier manera, al final debes aceptar que se trata de su decisión. No discutas ni adoptes una postura hostil. ¡Siempre serás bienvenido a hacer un fork y trabajar en tu propia versión si no estás de acuerdo!
+Al final tu contribuci&oacute;n puede o no ser aceptada. Con suerte, no hayas necesitado poner demasiado esfuerzo en ella. Si no est&aacute;s seguro de porqu&eacute; no fue aceptada, es completamente razonable preguntar al responsable por retroalimentaci&oacute;n y esclarecimiento. De cualquier manera, al final debes aceptar que se trata de su decisi&oacute;n. No discutas ni adoptes una postura hostil. ¡Siempre ser&aacute;s bienvenido a hacer un fork y trabajar en tu propia versi&oacute;n si no est&aacute;s de acuerdo!
 
-### 🎉 Tu contribución es aceptada.
+### 🎉 Tu contribuci&oacute;n es aceptada.
 
-¡Hurra! ¡Hiciste una contribucíon al código abierto exitosamente!
+¡Hurra! ¡Hiciste una contribuc&iacute;on al c&oacute;digo abierto exitosamente!
 
 ## ¡Lo hiciste!
 
-Si acabas de hacer tu primera contribución al código abierto, o si estás buscando nuevas formas de contribuir, esperamos que esté inspirado para continuar la acción. Si tu contribución no fue aceptada, no te olvides de dar las gracias cuando un responsable puso esfuerzo en ayudarte. El código abierto es llevado adelante por personas como tu: un problema, un pull request, un comentario o choca esos cinco por vez.
+Si acabas de hacer tu primera contribuci&oacute;n al c&oacute;digo abierto, o si est&aacute;s buscando nuevas formas de contribuir, esperamos que est&eacute; inspirado para continuar la acci&oacute;n. Si tu contribuci&oacute;n no fue aceptada, no te olvides de dar las gracias cuando un responsable puso esfuerzo en ayudarte. El c&oacute;digo abierto es llevado adelante por personas como tu: un problema, un pull request, un comentario o choca esos cinco por vez.
