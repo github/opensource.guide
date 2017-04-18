@@ -453,19 +453,19 @@ Si quieres hacer una contribución sustancial, abre un problema para preguntar a
   </p>
 </aside>
 
-### Opening an issue
+### Abriendo un problema
 
-You should usually open an issue in the following situations:
+Frecuentemente deberías abrir un problema en las siguientes situaciones:
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (ex. community, vision, policies)
-* Propose a new feature or other project idea
+* Reportar un error que tu no puedes resolver
+* Discutir un tópico o idea de alto nivel (por ejemplo sobre la comunidad, la visión o políticas)
+* Proponer una nueva característica u otra idea del proyecto
 
-Tips for communicating on issues:
+Consejos para comunicar los problemas:
 
-* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
-* **If an issue was opened awhile ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-* **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+* **Si ves un problema abierto en el que quieres entrar,** coméntalo en el problema, para permitir que las personas sepan que te preocupa. De esa manera, es menos probable que se duplique el trabajo en la comunidad.
+* **Si un problema fue abierto hace mucho tiempo,** es posible que se esté tratando en otro lugar o que ya haya sido resuelto, de modo que primero pregunta por una confirmación antes de ponerte a trabajar.
+* **Si abriste un problema, pero más tarde descubriste que estaba resuelto,** comenta en tu propio problema, para que las personas lo sepan, y luego cierra el problema. Incluso documentar ese resultado es una contribución al proyecto.
 
 ### Opening a pull request
 
