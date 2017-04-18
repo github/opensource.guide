@@ -83,48 +83,48 @@ La gente está hallando tu proyecto y lo están usando. La siguiente pregunta qu
 
 Nunca es demasiado temprano para comenzar a pensar en los contribuyentes. Sin otras personas te arriesgas a enfrentar una situación donde tu proyecto es _popular_ (muchas personas lo usan) pero no _soportado_ (no hay tiempo suficiente para mantener el proyecto y afrontar la demanda).
 
-Retener también requiere un 
-Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
+Retener también requiere un [flujo de nuevos contribuyentes](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), debido a que contribuyentes activos pueden, en algún momento, continuar hacia en otros proyectos. 
 
 Ejemplos de métricas de comunidad que quieres rastrear incluyen:
 
-* **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Graphs" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
+* **El total de commits por contribuyente, y el número de ellos: ** Te informa cuántos contribuyentes tienes y quién es más o menos activo. En GitHub, pudes ver esto debajo de "Graphs" -> "Contributors". Actualmente esté gráfico solo cuenta los contribuyentes que han hecho algún commit a la rama por defecto del repositorio.
 
-![contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Gráfico de contribuyentes](/assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
+* **Contribuyentes nuevos, casuales y repetidos** Te ayuda a rastrear si estás obteniendo nuevos contribuyentes, y si vuelven. (Los casuales son aquellos con un número bajo de commits, elige tu criterio para definir dicho número). Sin nuevos contribuyentes, la comunidad de tu proyecto puede permanecer estancada.
 
-* **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
+* **Número de issues y pull requests abiertos: ** Si estos números se hacen muy grandes necesitarás ayuda para revisar el código.
 
-* **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
+* **Número de issues y pull requests que _han sido abiertos_: ** Los issues abiertos significan que alguien se preocupa lo suficiente por tu proyecto para abrir un issue. Si ese número incremente con el tiempo sugiere que las personas están interesadas en tu proyecto.
 
-* **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
+* **Tipos de contribución:** Por ejemplo commits, arreglar typos, solucionar bugs o comentando en un issue.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/4483" class="pquote-avatar" alt="avatar">
-  Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+  Código Abierto es más que solo código. Proyectos de este tipo exitosos han incluido contribuciones de código y documentación acompañados por una conversación acerca de estos cambios.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
 </aside>
 
-## Maintainer activity
+## Actividad de mantenimiento
 
-Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
+Finalmente, quizás quieras cerrar el ciclo de asegurarte si los encargados de mantener tu proyecto pueden manejar el volumen de contribuciones que se vayan a recibir. La última pregunta que quieres hacerte es: _¿Estoy/Estamos listo/s para responder a la comunidad?_
 
-Unresponsive maintainers become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave.
+Encargados de mantenimiento que no respondan pueden volverse un cuello de botella en tu proyecto. Si alguien hace una contribución pero no recibe noticia del encargado de mantenimiento, esta persona puede sentirse desmotivada y por ende abandonar el proyecto.
 
-[Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
+[Investigación de Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) sugiere que la sensibilidad y respuesta de los encargados de mantenimiento es un factor crítico a la hora de motivar nuevas contribuciones.
 
-Consider tracking how long it takes for you (or another maintainer) to respond to contributions, whether an issue or a pull request. Responding doesn't require taking action. It can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
+Considera rastrear cúanto te lleva a ti, o otro encargado, responder a contribuciones, ya sea in issue o un pull request. Responder no requiere realizar ninguna acción, puede ser tan simple cómo decir: _"Graacias por tu contribución, lo revisaré dentro de esta semana."_ 
 
-You could also measure the time it takes to move between stages in the contribution process, such as:
+También puedes medir el tiempo que te lleva el moverte entre etapas del proceso de contribución, como por ejemplo:
 
-* Average time an issue remains open
-* Whether issues get closed by PRs
-* Whether stale issues get closed
-* Average time to merge a pull request
+* Tiempo promedio en que un issue permanece abierto
+* Si los issues quedan cerrados por pull requests
+* Si los stale issues se cierran
+* Tiempo promedio de merge de un pull request
 
-## Use 📊 to learn about people
 
-Understanding metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
+## Usa 📊 para aprender acerca de las personas
+
+Entender métricas te ayudará a construir un proyecto activo y fructífero. Aunque no rastrees cada métrica en un dashboard, usa un framework que te permita enfocarte en el tipo de comportamiento que ayudará a tu proyecto a prosperar.
