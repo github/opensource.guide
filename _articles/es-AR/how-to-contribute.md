@@ -20,7 +20,7 @@ image: /assets/images/cards/contribute.png
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
   Trabajar en \[freenode\] me ha ayudado a conseguir muchas de las habilidades que luego he usado en mis estudios en la universidad y en mi actual trabajo. ¡Creo que trabajar en proyectos de código abierto me ayuda tanto como ayuda al proyecto!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Porqué me gusta contribuir con el software de código abierto"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -28,35 +28,35 @@ Contribuir en proyectos de c&oacute;digo abierto puede ser una provechosa manera
 
 ¿Para qu&eacute; contribuye la gente en proyectos de c&oacute;digo abierto? ¡Por muchas razones!
 
-### Improve existing skills
+### Mejora tus habilidades existentes
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Ya sea codificación, diseño interfaces de usuario, diseño gráfico, redacción u organización, si lo que estás buscando es práctica, hay una tarea esperándote en un proyecto de código abierto.
 
-### Meet people who are interested in similar things
+### Conoce personas qeu estan interesadas en temas similares
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+Los proyectos de código abierto con comunidades cálidas y acogedoras hace que la gente regrese a través de los años. Muchas personas forman amistades de por vida a través de su participación en el código abierto, ya sea para presenciar exposiciones en conferencias entre pares o largas conversaciones nocturnas sobre burritos.
 
-### Find mentors and teach others
+### Encuentra mentores y enseña a otros
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+Trabajar con otros en un proyecto compartido significa que tendrás que explicar cómo haces las cosas, así como pedir ayuda. Los momentos de aprendizaje y enseñanza pueden ser actividades satisfactorias para todos los involucrados.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### Construye artefactos públicos que te ayudarán a construir una reputación (y una carrera)
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+Por definición, todo tu código abierto es público, lo que significa que consigues ejemplos de manera gratuita para llevar a cualquier lugar como una demostración de lo que haces.
 
-### Learn people skills
+### Conoce las habilidades de las personas
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+El código abierto ofrece oportunidades para practicar habilidades de liderazco y gestión, a resolver conflictos, organizar equipos  y a priorizar el trabajo.
 
-### It's empowering to be able to make changes, even small ones
+### Es poderoso ser capaz de hacer cambios, incluso pequeños
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+No necesitas convertirte en un colaborador de toda la vida para disfrutar la participación con el código abierto. ¿Alguna vez viste un error de tipografía, y deseaste que álguien pudiera corregirlo? En un proyecto de código abierto, es justamente lo que puedes hacer. El código abierto ayuda a las personas a sentir acción en sus vidas, en la forma en que experimentan al mundo y eso en si mismo es gratificante.
 
-## What it means to contribute
+## Lo que significa contribuir
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+Si eres un colaborador de código abierto nuevo, el proceso puede ser intimidatorio. ¿Cómo encontrar el proyecto adecuado? ¿Qué hacer si no sabes cómo codificar? ¿Qué pasa si álgo sale mal?
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+¡No debes preocuparte! Hay todo tipo de fomras de involucrarse con un proyecto de código abierto, y unos pocos consejos te ayudarán a sacar el máximo provecho de tu experiencia.
 
 ### You don't have to contribute code
 
