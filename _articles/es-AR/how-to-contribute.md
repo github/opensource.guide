@@ -58,25 +58,25 @@ Si eres un colaborador de código abierto nuevo, el proceso puede ser intimidato
 
 ¡No debes preocuparte! Hay todo tipo de fomras de involucrarse con un proyecto de código abierto, y unos pocos consejos te ayudarán a sacar el máximo provecho de tu experiencia.
 
-### You don't have to contribute code
+### No necesitas contribuir con código
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+Un error conceptual común acerca de contribuir con el código abierto es que debes contribuir con código. De hecho, son a menudo las otras partes de un proyecto las [más descuidadas o pasadas por alto](https://github.com/blog/2195-the-shape-of-open-source). ¡Le harás un _enorme_ favor al proyecto si te ofreces a trabajar en este tipo de contribuciones!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+  Me han reconocido por mi trabajo en CocoaPods, pero la mayoría de las personas no conoceu que en realidad yo no realizo ningún trabajo real en la propia herramienta CocoaPods. Mi tiempo en el proyecto se dedica principalmente a hacer cosas como documentar y a trabajar en la marca.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moviéndose al Software de código abierto por defecto"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera de involucrarse con un proyecto y conocer a otros miembros de la comunidad. Construir esas relaciones te dará oportunidades de trabajar en otras partes del proyecto.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+  Llegué por primera vez al equipo de desarrollo de Python (alias python-dev) cuando envié un correo electrónico a su lista de correos el 17 de junio de 2002, aceptando mi parche. Rápidamente me encontré con un error de código abierto, y decidí comenzar a limpiar el resumen de correos electrónicos para el grupo. Me dieron una gran excusa para pedir aclaraciones sobre un tema, pero principalmente pude notar cuándo álguien señalaba algo que necesitaba ser reparado. 
   <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
+— @brettcannon, ["Hostorias de un encargado"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
