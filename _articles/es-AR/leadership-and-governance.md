@@ -1,6 +1,6 @@
 ---
 locale: en-AR
-title: Liderazgo y Gobernancia
+title: Liderazgo y Gobierno
 description: Los proyectos de c&oacute;digo abierto crecientes pueden beneficiarse de reglas formales para tomar decisiones.
 class: leadership
 toc:
@@ -37,7 +37,7 @@ Un mantenedor no necesariamente tiene que ser alguien que escribe c&oacute;digo 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/579?v=3&s=460" class="pquote-avatar" alt="avatar">
-  \[Para Node.js,\] cada persona que se presenta para comentar un problema o env&iacute;a c&oacute;digo es un miembro de la comunidad de un proyecto. S&oacute;lo ser capaz de verlos significa que han cruzado la l&iacute;nea de ser un usuario a ser un contribuyente.
+  Para \[Node.js\], cada persona que se presenta para comentar un problema o env&iacute;a c&oacute;digo es un miembro de la comunidad de un proyecto. S&oacute;lo ser capaz de verlos significa que han cruzado la l&iacute;nea de ser un usuario a ser un contribuyente.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
@@ -66,7 +66,7 @@ Por un proyecto mas grande, si tienes una pagina web, crea una p&aacute;gina de 
 Si tu proyecto tiene una comunidad de contribuidores muy activa, puede formar un "equipo central" de mantenedores, o incluso subcomiciones de personas que se apropian de diferentes &aacute;reas tem&aacute;ticas (por ejemplo, seguridad, clasificaci&oacute;n de temas o conducta comunitaria). Permite que la gente se auto-organice y se ofrezca como voluntaria para los papeles que m&aacute;s les entusiasman, en lugar de asignarlos.
 
 <aside markdown="1" class="pquote">
-  \[Nosotros\] complementamos el equipo central con varios "sub-grupos". Cada sub-grupo se centra en un &aacute;rea espec&iacute;fica, por ejemplo, dise&ntilde;o de lenguaje o bibliotecas. (...) Para garantizar una coordinaci&oacute;n global y una visi&oacute;n s&oacute;lida y coherente del proyecto en su conjunto, cada sub-grupo est&aacute; dirigido por un miembro del equipo central.
+  Nosotros complementamos el equipo central con varios "sub-grupos". Cada sub-grupo se centra en un &aacute;rea espec&iacute;fica, por ejemplo, dise&ntilde;o de lenguaje o bibliotecas. (...) Para garantizar una coordinaci&oacute;n global y una visi&oacute;n s&oacute;lida y coherente del proyecto en su conjunto, cada sub-grupo est&aacute; dirigido por un miembro del equipo central.
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
   </p>
