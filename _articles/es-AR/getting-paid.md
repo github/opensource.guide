@@ -4,10 +4,10 @@ title: Recibir Pagos por Trabajos en C&oacute;digo Abierto
 description: Manten tu trabajo de c&oacute;digo abierto al encontrar apoyo financiero por tu tiempo o tu proyecto.
 class: getting-paid
 toc:
-  why-some-people-seek-financial-support: "Porqu&eacute; algunas personas buscan apoyo financiero"
-  funding-your-own-time: "Financiando tu propio tiempo"
-  finding-funding-for-your-project: "Encontrando financiaci&oacute;n para tu proyecto"
-  building-a-case-for-financial-support: "Creando un caso de apoyo financiero"
+  Porqu&eacute;-algunas-personas-buscan-apoyo-financiero: "Porqu&eacute; algunas personas buscan apoyo financiero"
+  Financiando-tu-propio-tiempo: "Financiando tu propio tiempo"
+  Encontrando-financiaci&oacute;n-para-tu-proyecto: "Encontrando financiaci&oacute;n para tu proyecto"
+  Creando-un-caso-de-apoyo-financiero: "Creando un caso de apoyo financiero"
 order: 7
 image: /assets/images/cards/getting-paid.png
 ---
@@ -100,7 +100,7 @@ Proyectos que se originaron en una empresa grande, como [Go](https://github.com/
 
 Finalmente, dependiendo de tus circunstancias personales, puedes probar generar dinero independientemente para financiar tu trabajo de c&oacute;digo abierto. Por ejemplo:
 * @gaearon financio su propio trabajo [Redux](https://github.com/reactjs/redux) a trav&eacute;s de [Patreon crowdfunding campaign](http://redux.js.org/)
-* @andrewgodwin financi&oacute; su trabajo de migraci&oacute;n de esquemas de Django [a trav&eacute;s de una campaña kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* @andrewgodwin financi&oacute; su trabajo de migraci&oacute;n de esquemas de Django [a trav&eacute;s de una campa&ntilde;a kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
 ## Encontrando financiaci&oacute;n para tu proyecto.
 
@@ -110,7 +110,7 @@ La financiaci&oacute;n organizacional podr&iacute;a ir a favor de pagar a los co
 
 Mientras aumenta la popularidad de c&oacute;digo abierto, encontrar financiaci&oacute;n para proyectos sigue siendo experimental, pero hay algunas opciones que comunmente estan disponibles.
 
-### Genera dinero de tu trabajo a trav&eacute;s de campañas de crowfunding o sponsors. 
+### Genera dinero de tu trabajo a trav&eacute;s de campa&ntilde;as de crowfunding o sponsors. 
 
 Encontrar sponsors funciona si tienes una fuerte audiencia o reputaci&oacute;n ya establecida, o tu proyecto es muy popular. 
 Algunos ejemplos comunes de proyectos sponsoreados incluyen:
@@ -130,7 +130,7 @@ Algunos proyectos populares, como [npm](https://github.com/npm/npm) y [Docker](h
 
 ### Suscribete a subvenciones
 
-Algunas fundaciones de software y compañias ofrecen subvenciones por trabajo en c&oacute;digo abierto. A veces, las subvenciones puede ser pagadas a individuos sin establecer una entidad legal para el proyecto. 
+Algunas fundaciones de software y compa&ntilde;ias ofrecen subvenciones por trabajo en c&oacute;digo abierto. A veces, las subvenciones puede ser pagadas a individuos sin establecer una entidad legal para el proyecto. 
 
 * **[Lee los documentos](https://github.com/rtfd/readthedocs.org)** recibe una subvenci&oacute;n del [Soporte al c&oacute;digo abierto de Mozilla](https://www.mozilla.org/en-US/grants/)
 * **[OpenMRS](https://github.com/openmrs)** fue financiado por [un retiro de Stripe](https://stripe.com/blog/open-source-retreat-2016-grantees)
@@ -141,17 +141,17 @@ Por mas detalladas opciones y casos de estudio, @nayafia [escribi&oacute; una gu
 
 ## Estableciendo un caso de soporte de financiaci&oacute;n. 
 
-Sin importar si tu proyecto es una nueva idea, o estuvo dando vueltas por años, deber&iacute;as preveer que tendr&aacute;s que ponerle mucho esfuerzo en identificar tu financiador objetivo y construir un caso acorde. 
+Sin importar si tu proyecto es una nueva idea, o estuvo dando vueltas por a&ntilde;os, deber&iacute;as preveer que tendr&aacute;s que ponerle mucho esfuerzo en identificar tu financiador objetivo y construir un caso acorde. 
 
 Sin importar si estas buscando pagar por tu propio tiempo, o invertir-generar en un proyecto, deber&iacute;as poder responderte las siguientes preguntas:
 
 ### Impacto
 
-¿Porqu&eacute; es &uacute;til este proyecto? ¿Porqu&eacute; nuestros usuarios, o potenciales usuarios, les gusta tanto? ¿Donde se encontrar&aacute; dentro de cinco años?
+¿Porqu&eacute; es &uacute;til este proyecto? ¿Porqu&eacute; nuestros usuarios, o potenciales usuarios, les gusta tanto? ¿Donde se encontrar&aacute; dentro de cinco a&ntilde;os?
 
 ### Tracci&oacute;n
 
-Intenta recolectar evidencia de que tu proyecto importa, sin importar las metricas, anecdotas, o testimonios. ¿Hay alguna compañ&iacute;a o alg&uacute;n grupo notorio de personas usando tu proyecto ahora mismo? Si no, ¿Hubo alguna persona prominente que lo aprob&oacute;?
+Intenta recolectar evidencia de que tu proyecto importa, sin importar las metricas, anecdotas, o testimonios. ¿Hay alguna compa&ntilde;&iacute;a o alg&uacute;n grupo notorio de personas usando tu proyecto ahora mismo? Si no, ¿Hubo alguna persona prominente que lo aprob&oacute;?
 
 ### Valor para el financiador
 
@@ -169,7 +169,7 @@ What, exactly, will you accomplish with the proposed funding? Focus on project m
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1076721?v=3&s=460" class="pquote-avatar" alt="avatar">
 
-  Durante años, hemos sido el principal recurso de iconos amigables de sitios web, con una comunidad de m&aacute;s de 20 millones de personas y se ha destacado en m&aacute;s de 70 millones de sitios web, incluyendo Whitehouse.gov. (...) La versi&oacute;n 4 fue hace tres años. La tecnolog&iacute;a web ha cambiado mucho desde entonces, y francamente, Font Awesome se ha vuelto un poco obsoleto. (...) Es por eso que estamos introduciendo Font Awesome 5. Estamos modernizando y reescribiendo el CSS y rediseñando cada icono de arriba hacia abajo. Estamos hablando de mejor diseño, mejor consistencia y mejor legibilidad.
+  Durante a&ntilde;os, hemos sido el principal recurso de iconos amigables de sitios web, con una comunidad de m&aacute;s de 20 millones de personas y se ha destacado en m&aacute;s de 70 millones de sitios web, incluyendo Whitehouse.gov. (...) La versi&oacute;n 4 fue hace tres a&ntilde;os. La tecnolog&iacute;a web ha cambiado mucho desde entonces, y francamente, Font Awesome se ha vuelto un poco obsoleto. (...) Es por eso que estamos introduciendo Font Awesome 5. Estamos modernizando y reescribiendo el CSS y redise&ntilde;ando cada icono de arriba hacia abajo. Estamos hablando de mejor dise&ntilde;o, mejor consistencia y mejor legibilidad.
 
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
