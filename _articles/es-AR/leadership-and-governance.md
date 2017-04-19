@@ -37,7 +37,7 @@ Un mantenedor no necesariamente tiene que ser alguien que escribe c&oacute;digo 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/579?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Para \[Node.js\], cada persona que se presenta para comentar un problema o env&iacute;a c&oacute;digo es un miembro de la comunidad de un proyecto. S&oacute;lo ser capaz de verlos significa que han cruzado la l&iacute;nea de ser un usuario a ser un contribuyente.
+  Para **Node.js**, cada persona que se presenta para comentar un problema o env&iacute;a c&oacute;digo es un miembro de la comunidad de un proyecto. S&oacute;lo ser capaz de verlos significa que han cruzado la l&iacute;nea de ser un usuario a ser un contribuyente.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
@@ -80,7 +80,7 @@ Herramientas como [Vossibility](https://github.com/icecrime/vossibility-stack) p
 
 Por &uacute;ltimo, si su proyecto est&aacute; en GitHub, considere la posibilidad de mover su proyecto de su cuenta personal a una organizaci&oacute;n y agregar al menos un administrador de copia de seguridad. [Las organizaciones GitHub](https://help.github.com/articles/creating-a-new-organization-account/) facilitan la administraci&oacute;n de permisos y m&uacute;ltiples repositorios y protegen el legado de su proyecto mediante [propiedad compartida](./Building-community/#share-ownership-of-your-project).
 
-## ¿Cuando le puedo dar acceso a hacer commits a alguien?"
+## ¿Cu&aacute;ndo le puedo dar acceso a hacer commits a alguien?"
 
 Algunas personas piensan que debe dar acceso de commits a todos los que hacen una contribuci&oacute;n. Hacerlo podr&iacute;a alentar a m&aacute;s personas a sentirse due&ntilde;o de su proyecto.
 
