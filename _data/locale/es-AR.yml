@@ -1,9 +1,9 @@
 nav:
-  about: Sobre
+  about: Acerca de
   contribute: Contribuir
 
 index:
-  lead: El software de c&oacute;digo abierto es desarrollado por personas como vos, aprende c&oacute;mo crear y hacer que tu proyecto crezca.
+  lead: El software de c&oacute;digo abierto es desarrollado por personas como tu, aprende c&oacute;mo crear y hacer que tu proyecto crezca.
 
 article:
   table_of_contents: Tabla de contenidos
@@ -19,10 +19,8 @@ footer:
     button: Suscribirse
   byline:
     # [code], [love], and [github] will be replaced by octicons
-    format: "[code] con [love] hecho por [github] y [friends]"
+    format: "[code] con [love] hecho por [github] y amigos"
     # Label for code octicon
     code_label: code
     # Label for love octicon
     love_label: love
-    # Label for the contributors link
-    friends_label: amigos
