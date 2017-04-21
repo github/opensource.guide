@@ -1,8 +1,8 @@
 ﻿---
 locale: es-AR
-T&iacute;tulo: Aspectos legales del c&oacute;digo abierto
-Descripci&oacute;n: Todo lo que te has preguntado sobre la parte legal de c&oacute;digo abierto.
-clase: legal
+Title: Aspectos legales del c&oacute;digo abierto
+description: Todo lo que te has preguntado sobre la parte legal de c&oacute;digo abierto.
+class: legal
 toc:
   Por-qu&eacute;-la-gente-se-preocupa-tanto-acerca-de-los-aspectos-legales-del-c&oacute;digo-abierto: "¿Por qu&eacute; la gente se preocupa tanto acerca de los aspectos legales del c&oacute;digo abierto?"
   Son-de-c&oacute;digo-abierto-los-proyecto-p&uacute;blicos-de-Github: "¿Son de c&oacute;digo abierto los proyecto p&uacute;blicos de Github?"
@@ -11,7 +11,7 @@ toc:
   Y-si-quiero-cambiar-la-licencia-de-mi-proyecto: "¿Y si quiero cambiar la licencia de mi proyecto?"
   Necesita-mi-proyecto-un-acuerdo-adicional-de-contribuidores: "¿Necesita mi proyecto un acuerdo adicional de contribuidores?"
   Qu&eacute;-necesita-saber-el-equipo-legal-de-mi-empresa: "¿Qu&eacute; necesita saber el equipo legal de mi empresa?"
-orden: 10
+order: 10
 image: /assets/images/cards/legal.png
 ---
 

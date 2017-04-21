@@ -1,14 +1,14 @@
 ﻿---
 locale: es-AR
-T&iacute;tulo: C&oacute;digo de Conducta
-Descripci&oacute;n: Facilitar el comportamiento sano y constructivo, adoptando y aplicando un c&oacute;digo de conducta.
-Clase: cdc
+title: C&oacute;digo de Conducta
+description: Facilitar el comportamiento sano y constructivo, adoptando y aplicando un c&oacute;digo de conducta.
+class: coc
 toc:
   Por-qu&eacute;-es-necesario-un-c&oacute;digo-de-conducta: "¿Por qu&eacute; es necesario un c&oacute;digo de conducta?"
   Estableciendo-un-c&oacute;digo-de-conducta: "Estableciendo un c&oacute;digo de conducta"
   Decidiendo-de-qu&eacute;-manera-vas-a-aplicar-tu-c&oacute;digo-de-conducta: "Decidiendo de qu&eacute; manera vas a aplicar tu c&oacute;digo de conducta"
   Aplicando-tu-c&oacute;digo-de-conducta: " Aplicando tu c&oacute;digo de conducta"
-orden: 8
+order: 8
 imagen: /assets/images/cards/coc.png
 ---
 
