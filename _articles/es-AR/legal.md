@@ -1,6 +1,6 @@
 ﻿---
 locale: es-AR
-Title: Aspectos legales del c&oacute;digo abierto
+title: Aspectos legales del codigo abierto.
 description: Todo lo que te has preguntado sobre la parte legal de c&oacute;digo abierto.
 class: legal
 toc:
