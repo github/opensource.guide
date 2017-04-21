@@ -12,32 +12,31 @@ order: 8
 image: /assets/images/cards/coc.png
 ---
 
-## Why do I need a code of conduct?
+## ¿Por qu&eacute; es necesario un c&oacute;digo de conducta?
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+Un c&oacute;digo de conducta es un documento que establece expectativas de comportamiento para los participantes de tu proyecto. Adoptar, y aplicar, un c&oacute;digo de conducta, ayuda a crear una atmosfera social positiva para la comunidad.
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+Los c&oacute;digos de conducta ayudan a proteger no solo a tus participantes, sino tambi&eacute;n a ti mismo. Si mantienes un proyecto, sabr&aacute;s que las actitudes improductivas de otros participantes pueden hacerte sentir sin energ&iacute;a o infeliz acerca de tu trabajo.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+Un c&oacute;digo de conducta te alienta a facilitar un comportamiento saludable y constructivo por parte de la comunidad. Ser proactivo reduce la probabilidad de que tanto t&uacute;, como otros, se sientan fatigados con el proyecto, y te ayuda a tomar acci&oacute;n cuando alguien hace algo con lo que no concuerdas.
 
-## Establishing a code of conduct
+## Estableciendo un c&oacute;digo de conducta
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+Intenta establecer un c&oacute;digo de conducta tan tempranamente como sea posible: idealmente, cuando crees t&uacute; proyecto.
 
-In addition to communicating your expectations, a code of conduct describes the following:
+Adem&aacute;s de comunicar tus expectativas, un c&oacute;digo de conducta describe lo siguiente:
+*	Donde el c&oacute;digo de conducta toma efecto _(¿solamente en las issues y pull requests, o en actividades de la comunidad como eventos?)_
+*	A quien o quienes aplica el c&oacute;digo de conducta _(miembros de la comunidad y mantenedores, pero ¿Qu&eacute; hay acerca de los sponsors?)_
+*	Que sucede si alguien viola el c&oacute;digo de conducta
+*	De qu&eacute; manera alguien puede reportar una violaci&oacute;n
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+Siempre que sea posible, haga uso del art. El [Contributor Covenant](http://contributor-covenant.org/) es un c&oacute;digo de conducta usado por m&aacute;s de 40,000 proyectos de software libre, incluyendo Kubernetes, Rails, and Swift.
 
-Wherever you can, use prior art. The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+El [Django Code of Conduct](https://www.djangoproject.com/conduct/) y el [Citizen Code of Conduct](http://citizencodeofconduct.org/) son tambi&eacute;n dos ejemplos de buenos c&oacute;digos de conducta.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
+Ubica un archivo CODIGO_DE_CONDUCTA en el directorio ra&iacute;z de tu proyecto, y enl&aacute;zalo desde tu LEEME, as&iacute; el mismo se encuentra visible a tu comunidad.
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and link to it from your README, so it's visible to your community.
-
-## Deciding how you'll enforce your code of conduct
+## Decidiendo de qu&eacute; manera vas a aplicar tu c&oacute;digo de conducta
 
 <aside markdown="1" class="pquote">
   A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
