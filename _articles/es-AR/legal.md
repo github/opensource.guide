@@ -1,19 +1,18 @@
 ﻿---
-locale: es-AR
-title: Aspectos legales del codigo abierto.
-description: Todo lo que te has preguntado sobre la parte legal de c&oacute;digo abierto.
-class: legal
+locale: en-US
+title: Starting an Open Source Project
+description: Learn more about the world of open source and get ready to launch your own project.
+class: beginners
 toc:
-  Por-qu&eacute;-la-gente-se-preocupa-tanto-acerca-de-los-aspectos-legales-del-c&oacute;digo-abierto: "¿Por qu&eacute; la gente se preocupa tanto acerca de los aspectos legales del c&oacute;digo abierto?"
-  Son-de-c&oacute;digo-abierto-los-proyecto-p&uacute;blicos-de-Github: "¿Son de c&oacute;digo abierto los proyecto p&uacute;blicos de Github?"
-  Solo-dame-un-resumen-acerca-de-lo-que-necesito-para-proteger-mi-proyecto: " Solo dame un resumen acerca de lo que necesito para proteger mi proyecto"
-  Cu&aacute;l-licencia-de-c&oacute;digo-abierto-es-apropiada-para-mi-proyecto: "¿Cu&aacute;l licencia de c&oacute;digo abierto es apropiada para mi proyecto?"
-  Y-si-quiero-cambiar-la-licencia-de-mi-proyecto: "¿Y si quiero cambiar la licencia de mi proyecto?"
-  Necesita-mi-proyecto-un-acuerdo-adicional-de-contribuidores: "¿Necesita mi proyecto un acuerdo adicional de contribuidores?"
-  Qu&eacute;-necesita-saber-el-equipo-legal-de-mi-empresa: "¿Qu&eacute; necesita saber el equipo legal de mi empresa?"
-order: 10
-image: /assets/images/cards/legal.png
+  the-what-and-why-of-open-source: "El c&oacute;mo y el porqu&eacute; del c&oacute;digo abierto"
+  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
+  launching-your-own-open-source-project: "Launching your own open source project"
+  naming-and-branding-your-project: "Naming and branding your project"
+  your-pre-launch-checklist: "Your pre-launch checklist"
+order: 2
+image: /assets/images/cards/beginner.png
 ---
+
 
 ## Entendiendo las implicaciones legales del c&oacute;digo abierto
 Compartir tu trabajo creativo con el mundo puede ser una experiencia excitante y gratificante. Esto tambi&eacute;n conlleva un conjunto de aspectos legales de los cuales deber ocuparte. Afortunadamente, no tienes que empezar desde cero. Nosotros tenemos cubiertas tus necesidades legales. (Antes de continuar, aseg&uacute;rate de leer nuestro [aviso legal](../notices/).)
