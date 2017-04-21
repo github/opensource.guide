@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿---
 locale: es-AR
 title: Comenzando un Proyecto de C&oacute;digo AbiertoStarting an Open Source Project
@@ -11,6 +12,23 @@ toc:
   your-pre-launch-checklist: "Tu lista de verificaci&oacute;n antes de lanzarte"
 order: 2
 image: /assets/images/cards/beginner.png
+=======
+---
+locale: es-AR
+title: Aspectos legales del codigo abierto.
+description: Todo lo que te has preguntado sobre la parte legal de c&oacute;digo abierto.
+class: legal
+toc:
+  Por-qu&eacute;-la-gente-se-preocupa-tanto-acerca-de-los-aspectos-legales-del-c&oacute;digo-abierto: "¿Por qu&eacute; la gente se preocupa tanto acerca de los aspectos legales del c&oacute;digo abierto?"
+  Son-de-c&oacute;digo-abierto-los-proyecto-p&uacute;blicos-de-Github: "¿Son de c&oacute;digo abierto los proyecto p&uacute;blicos de Github?"
+  Solo-dame-un-resumen-acerca-de-lo-que-necesito-para-proteger-mi-proyecto: " Solo dame un resumen acerca de lo que necesito para proteger mi proyecto"
+  Cu&aacute;l-licencia-de-c&oacute;digo-abierto-es-apropiada-para-mi-proyecto: "¿Cu&aacute;l licencia de c&oacute;digo abierto es apropiada para mi proyecto?"
+  Y-si-quiero-cambiar-la-licencia-de-mi-proyecto: "¿Y si quiero cambiar la licencia de mi proyecto?"
+  Necesita-mi-proyecto-un-acuerdo-adicional-de-contribuidores: "¿Necesita mi proyecto un acuerdo adicional de contribuidores?"
+  Qu&eacute;-necesita-saber-el-equipo-legal-de-mi-empresa: "¿Qu&eacute; necesita saber el equipo legal de mi empresa?"
+order: 10
+image: /assets/images/cards/legal.png
+>>>>>>> 71f4ce4a498c601c9b05df002cbf3773365a1df2
 ---
 
 ## Entendiendo las implicaciones legales del c&oacute;digo abierto
@@ -92,47 +110,47 @@ Tambi&eacute;n, al a&ntilde;adir “papeleo” que algunos consideran innecesari
 </aside>
 
 Algunas situaciones en las cuales deber&iacute;as considerar un acuerdo adicional de contribuidores pueden ser:
-*	Tus abogados quieren que todos los contribuidores acepten expresamente (_firma_, online o offline) los t&eacute;rminos de contribuci&oacute;n, quiz&aacute;s porque sienten que una licencia de c&oacute;digo abierto no es suficiente (incluso cuando lo sea!). Si este es la &uacute;nica preocupaci&oacute;n, un acuerdo adicional de contribuidores que afirme la licencia de c&oacute;digo abierto del proyecto, deber&iacute;a ser suficiente. El [Acuerdo Adicional de Contribuidores Individual de JQuery](https://contribute.jquery.org/CLA/) es un buen ejemplo de un acuerdo adicional de contribuidores ligero. Para algunos proyectos, un [Certificado de Origen del Desarrollador](https://github.com/probot/dco) puede ser una alternativa aun mas simple.
-*	Tu proyecto usa una licencia de c&oacute;digo abierto que no incluye una concesi&oacute;n de patentes explicita (como MIT), y necesitas una concesi&oacute;n de patentes por parte de todos los contribuidores, algunos de los cuales quiz&aacute;s trabajen para empresas con grandes cantidades de patentes que podr&iacute;an utilizarse para dirigirse a usted o a otros contribuyentes y usuarios del proyecto. El [Acuerdo Adicional de Contribuidores Individual de Apache](https://www.apache.org/licenses/icla.pdf) es un acuerdo adicional de contribuidores que posee una concesi&oacute;n de patentes reflejando el que se encuentra en Apache License 2.0.
-*	Tu proyecto est&aacute; bajo una licencia copyleft, pero tambi&eacute;n necesitas distribuir una versi&oacute;n propietaria del proyecto. Necesitaras que cada contribuidor te asigne sus derechos de autor o te garantice a ti (pero no al p&uacute;blico) una licencia permisiva. El [Acuerdo de Contribuidores MongoDB](https://www.mongodb.com/legal/contributor-agreement) es un ejemplo de este tipo de acuerdo.
-*	Crees que el proyecto necesitara cambiar la licencia durante su tiempo de vida y quieres que los contribuidores acepten por adelantado esos cambios.
+* Tus abogados quieren que todos los contribuidores acepten expresamente (_firma_, online o offline) los t&eacute;rminos de contribuci&oacute;n, quiz&aacute;s porque sienten que una licencia de c&oacute;digo abierto no es suficiente (incluso cuando lo sea!). Si este es la &uacute;nica preocupaci&oacute;n, un acuerdo adicional de contribuidores que afirme la licencia de c&oacute;digo abierto del proyecto, deber&iacute;a ser suficiente. El [Acuerdo Adicional de Contribuidores Individual de JQuery](https://contribute.jquery.org/CLA/) es un buen ejemplo de un acuerdo adicional de contribuidores ligero. Para algunos proyectos, un [Certificado de Origen del Desarrollador](https://github.com/probot/dco) puede ser una alternativa aun mas simple.
+* Tu proyecto usa una licencia de c&oacute;digo abierto que no incluye una concesi&oacute;n de patentes explicita (como MIT), y necesitas una concesi&oacute;n de patentes por parte de todos los contribuidores, algunos de los cuales quiz&aacute;s trabajen para empresas con grandes cantidades de patentes que podr&iacute;an utilizarse para dirigirse a usted o a otros contribuyentes y usuarios del proyecto. El [Acuerdo Adicional de Contribuidores Individual de Apache](https://www.apache.org/licenses/icla.pdf) es un acuerdo adicional de contribuidores que posee una concesi&oacute;n de patentes reflejando el que se encuentra en Apache License 2.0.
+* Tu proyecto est&aacute; bajo una licencia copyleft, pero tambi&eacute;n necesitas distribuir una versi&oacute;n propietaria del proyecto. Necesitaras que cada contribuidor te asigne sus derechos de autor o te garantice a ti (pero no al p&uacute;blico) una licencia permisiva. El [Acuerdo de Contribuidores MongoDB](https://www.mongodb.com/legal/contributor-agreement) es un ejemplo de este tipo de acuerdo.
+* Crees que el proyecto necesitara cambiar la licencia durante su tiempo de vida y quieres que los contribuidores acepten por adelantado esos cambios.
 
 Si necesitas usar un acuerdo adicional de contribuidores para tu proyecto, considere el uso de una integraci&oacute;n como [CLA assistant](https://github.com/cla-assistant/cla-assistant) para minimizar la distracci&oacute;n de los contribuyentes.
 ## ¿Que necesita saber el equipo legal de mi empresa?
 Si vas a lanzar un proyecto de c&oacute;digo abierto como un empleado de una empresa, primero, tu equipo legal deber&iacute;a saber que est&aacute;s por lanzar un proyecto de c&oacute;digo abierto.
 Para mejor, o peor, considera comentarles incluso en el caso en que sea un proyecto personal. Probablemente tengas un “acuerdo IP de empleado” con tu empresa que les da cierto tipo de control sobre tus proyectos, especialmente si ellos est&aacute;n relacionados con el negocio de la empresa o si utilizan recursos de la empresa para desarrollar el proyecto. Tu empresa _deber&iacute;a_ brindarte f&aacute;cilmente permisos, y tal vez ya cuentes con ellos a trav&eacute;s de un acuerdo de IP amigable hacia los empleados o mediante pol&iacute;ticas empresariales. Si no es el caso, puedes negociar [por ejemplo, explicar que su proyecto posee objetivos profesionales de aprendizaje y desarrollo de la empresa para ti], o evitar trabajar en proyectos hasta que encuentres una mejor empresa.
 **Si est&aacute;s trabajando en un proyecto de c&oacute;digo abierto para tu empresa** entonces definitivamente debes hacerles saber. Tu equipo legal seguramente ya cuenta con pol&iacute;ticas para esa licencia de c&oacute;digo abierto [y puede que tambi&eacute;n un acuerdo adicional de contribuidores] para usar basado en los requisitos y pericia del negocio de la empresa para asegurar que tu proyecto cumple con la licencia de sus dependencias. De lo contrario, tanto tu como ellos, est&aacute;n de suerte! tu equipo legal deber&iacute;a estar ansioso por trabajar con usted para acordar estas cosas. Algunos aspectos a considerar:
-*	** Material de terceros**   ¿tiene tu proyecto dependencias creadas por otros o bien incluye o usa c&oacute;digos ajenos?. Esto comienza con la elecci&oacute;n de una licencia que funcione con las licencias de c&oacute;digo abierto de terceros (ver arriba). Si su proyecto modifica o distribuye c&oacute;digo abierto de terceros, su equipo legal tambi&eacute;n querr&aacute; saber si cumple con otras condiciones de las licencias de c&oacute;digo abierto de terceros, como la retenci&oacute;n de avisos de derechos de autor. Si tu proyecto utiliza c&oacute;digo de otros que no tienen una licencia de c&oacute;digo abierto, probablemente tendr&aacute;s que pedirle a los mantenedores que [agreguen una licencia de c&oacute;digo abierto](https://choosealicense.com/no-license/#for-users),y si no puedes conseguir una, deja de usar su c&oacute;digo en tu proyecto.
-*	** Secretos comerciales:**   Considera si hay algo en el proyecto que la empresa no quiere poner a disposici&oacute;n del p&uacute;blico en general. Si es as&iacute;, puedes hacer de c&oacute;digo abierto al resto del proyecto, despu&eacute;s de extraer el material que desea mantener privado.
-*	**Patentes:** ¿Esta tu empresa solicitando una patente, cuya liberaci&oacute;n del c&oacute;digo fuente del proyecto implique una [revelaci&oacute;n publica](https://en.wikipedia.org/wiki/Public_disclosure)? Tristemente, puede que te pidan que esperes (o tal vez, la empresa volver&aacute; a considerar la sabidur&iacute;a de la aplicaci&oacute;n). Si est&aacute;s esperando contribuciones a tu proyecto de los empleados de empresas con cantidades grandes de patentes, tu equipo legal puede que desee que utilices una licencia con una concesi&oacute;n de patente expresa de los contribuyentes (como Apache 2.0 o GPLv3), o un acuerdo adicional de contribuidores (ver m&aacute;s arriba).
-*	** marca comercial** Verifica que el nombre de tu proyecto [no entre en conflicto con alguna marca existente] ](../starting-a-project/#avoiding-name-conflicts). Si utilizas marcas comerciales de tu empresa en el proyecto, comprueba que no genere ning&uacute;n conflicto. [FOSSmarks](http://fossmarks.org/) es una gu&iacute;a pr&aacute;ctica para la comprensi&oacute;n de las marcas en el contexto de los proyectos de c&oacute;digo libre y abierto.
-*	**Privacidad** ¿Recolecta tu proyecto datos de sus usuarios? ¿Recopila su proyecto datos en los servidores de la empresa sin el consentimiento de los usuarios??  tu equipo legal puede ayudarte a cumplir con las pol&iacute;ticas de la empresa y las regulaciones externas.
+* ** Material de terceros**   ¿tiene tu proyecto dependencias creadas por otros o bien incluye o usa c&oacute;digos ajenos?. Esto comienza con la elecci&oacute;n de una licencia que funcione con las licencias de c&oacute;digo abierto de terceros (ver arriba). Si su proyecto modifica o distribuye c&oacute;digo abierto de terceros, su equipo legal tambi&eacute;n querr&aacute; saber si cumple con otras condiciones de las licencias de c&oacute;digo abierto de terceros, como la retenci&oacute;n de avisos de derechos de autor. Si tu proyecto utiliza c&oacute;digo de otros que no tienen una licencia de c&oacute;digo abierto, probablemente tendr&aacute;s que pedirle a los mantenedores que [agreguen una licencia de c&oacute;digo abierto](https://choosealicense.com/no-license/#for-users),y si no puedes conseguir una, deja de usar su c&oacute;digo en tu proyecto.
+* ** Secretos comerciales:**   Considera si hay algo en el proyecto que la empresa no quiere poner a disposici&oacute;n del p&uacute;blico en general. Si es as&iacute;, puedes hacer de c&oacute;digo abierto al resto del proyecto, despu&eacute;s de extraer el material que desea mantener privado.
+* **Patentes:** ¿Esta tu empresa solicitando una patente, cuya liberaci&oacute;n del c&oacute;digo fuente del proyecto implique una [revelaci&oacute;n publica](https://en.wikipedia.org/wiki/Public_disclosure)? Tristemente, puede que te pidan que esperes (o tal vez, la empresa volver&aacute; a considerar la sabidur&iacute;a de la aplicaci&oacute;n). Si est&aacute;s esperando contribuciones a tu proyecto de los empleados de empresas con cantidades grandes de patentes, tu equipo legal puede que desee que utilices una licencia con una concesi&oacute;n de patente expresa de los contribuyentes (como Apache 2.0 o GPLv3), o un acuerdo adicional de contribuidores (ver m&aacute;s arriba).
+* ** marca comercial** Verifica que el nombre de tu proyecto [no entre en conflicto con alguna marca existente] ](../starting-a-project/#avoiding-name-conflicts). Si utilizas marcas comerciales de tu empresa en el proyecto, comprueba que no genere ning&uacute;n conflicto. [FOSSmarks](http://fossmarks.org/) es una gu&iacute;a pr&aacute;ctica para la comprensi&oacute;n de las marcas en el contexto de los proyectos de c&oacute;digo libre y abierto.
+* **Privacidad** ¿Recolecta tu proyecto datos de sus usuarios? ¿Recopila su proyecto datos en los servidores de la empresa sin el consentimiento de los usuarios??  tu equipo legal puede ayudarte a cumplir con las pol&iacute;ticas de la empresa y las regulaciones externas.
 
 Si est&aacute;s lanzando el primer proyecto de c&oacute;digo abierto de tu empresa, lo anterior es m&aacute;s que suficiente para conseguirlo.
 
 A largo plazo, tu equipo legal puede hacer m&aacute;s para ayudar a la empresa a obtener su participaci&oacute;n en c&oacute;digo abierto y mantenerse a salvo:
 
-*	** Pol&iacute;ticas de contribuci&oacute;n de empleados:**  Considera la posibilidad de desarrollar una pol&iacute;tica corporativa que especifique c&oacute;mo sus empleados contribuyen a proyectos de c&oacute;digo abierto. Una pol&iacute;tica clara reducir&aacute; la confusi&oacute;n entre sus empleados y los ayudar&aacute; a contribuir a proyectos de c&oacute;digo abierto de la empresa, ya sea como parte de su trabajo o en su tiempo libre. Un buen ejemplo es Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/a-model-ip-and-open-source-contribution-policy/).
+* ** Pol&iacute;ticas de contribuci&oacute;n de empleados:**  Considera la posibilidad de desarrollar una pol&iacute;tica corporativa que especifique c&oacute;mo sus empleados contribuyen a proyectos de c&oacute;digo abierto. Una pol&iacute;tica clara reducir&aacute; la confusi&oacute;n entre sus empleados y los ayudar&aacute; a contribuir a proyectos de c&oacute;digo abierto de la empresa, ya sea como parte de su trabajo o en su tiempo libre. Un buen ejemplo es Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/214698?v=3&s=400" class="pquote-avatar" alt="avatar">
   Liberar el IP asociado con un parche genera la base de conocimientos y la reputaci&oacute;n del empleado. Demuestra que la empresa invierte en el desarrollo del empleado y crea un sentido de autonom&iacute;a y autonom&iacute;a. Todos estos beneficios tambi&eacute;n conducen a una mayor moral y mejor retenci&oacute;n de empleados.
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/a-model-ip-and-open-source-contribution-policy/)
- 		 </p>
+     </p>
 </aside>
 
-*	**Qu&eacute; liberar:** [¿(casi) todo?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si tu equipo legal entiende e invierte en la estrategia de c&oacute;digo abierto de su empresa, ser&aacute;n m&aacute;s capaces de ayudar en lugar de dificultar tus esfuerzos.
+* **Qu&eacute; liberar:** [¿(casi) todo?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si tu equipo legal entiende e invierte en la estrategia de c&oacute;digo abierto de su empresa, ser&aacute;n m&aacute;s capaces de ayudar en lugar de dificultar tus esfuerzos.
 
-*	**Conformidad:** Incluso si tu empresa no libera ning&uacute;n proyecto de c&oacute;digo abierto, utiliza otro software de c&oacute;digo abierto. La [conciencia y el proceso](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) puede prevenir dolores de cabeza, retrasos del producto, y demandas.
+* **Conformidad:** Incluso si tu empresa no libera ning&uacute;n proyecto de c&oacute;digo abierto, utiliza otro software de c&oacute;digo abierto. La [conciencia y el proceso](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) puede prevenir dolores de cabeza, retrasos del producto, y demandas.
 
 <aside markdown="1" class="pquote">
 Las organizaciones deben tener una estrategia de licencia y cumplimiento que se ajuste tanto a categor&iacute;as \["permisiva" y "copyleft"\]. Esto comienza con el mantenimiento de un registro de los t&eacute;rminos de licencia que se aplican al software de c&oacute;digo abierto que est&aacute; utilizando - incluidos subcomponentes y dependencias 
- 		 <p markdown="1" class="pquote-credit">
+     <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
 </aside>
 
-*	**Patentes:**	Es posible que su empresa desee unirse a la [Red de Invenci&oacute;n Abierta](http://www.openinventionnetwork.com/), Un conjunto de patentes defensivas compartido para proteger el uso de los miembros de los principales proyectos de c&oacute;digo abierto, o explorar otras [licencias de patentes alternativas](https://www.eff.org/document/hacking-patent-system-2016).
+* **Patentes:** Es posible que su empresa desee unirse a la [Red de Invenci&oacute;n Abierta](http://www.openinventionnetwork.com/), Un conjunto de patentes defensivas compartido para proteger el uso de los miembros de los principales proyectos de c&oacute;digo abierto, o explorar otras [licencias de patentes alternativas](https://www.eff.org/document/hacking-patent-system-2016).
 
-*	** Gobernancia:**   Especialmente si tiene sentido mover un proyecto a una [entidad jur&iacute;dica ajena a la empresa](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
+* ** Gobernancia:**   Especialmente si tiene sentido mover un proyecto a una [entidad jur&iacute;dica ajena a la empresa](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
