@@ -92,23 +92,8 @@ La expulsi&oacute;n de miembros no debe ser tomado a la ligera y representa una 
 
 Un c&oacute;digo de conducta no es una ley aplicada arbitrariamente. Tu eres quien aplica el c&oacute;digo de conducta y es tu responsabilidad seguir las reglas que el c&oacute;digo de conducta establece.
 Como mantenedor, tu estableces las directrices de tu comunidad y las aplicas de acuerdo a las reglas establecidas en tu c&oacute;digo de conducta. Esto implica considerar seriamente a cualquier violaci&oacute;n al c&oacute;digo de conducta. El reportante merece una justa y total revisi&oacute;n de su reclamo. Si determinas que el comportamiento reportado no es una violaci&oacute;n, comun&iacute;cate de manera clara con ellos y expl&iacute;cales por que no tomaras ninguna acci&oacute;n. Lo que hacen con eso depende de ellos: tolerar el comportamiento con el cual ten&iacute;an un problema, o dejar de participar en la comunidad.
-Un reporte de comportamiento que _tecnicamente_ no viola el c&oacute;digo de conducta puede indicar que hay un problema en tu comunidad, y deber&iacute;as investigar este problema potencial y actuar acorde. Esto puede incluir revisar tu c&oacute;digo de conducta para clarificar comportamientos aceptables y/o hablar con la persona cuyo comportamiento fue reportado y explicarles que si bien no han violado el c&oacute;digo de conducta, est&aacute;n rozando el borde de lo que se espera y est&aacute;n haciendo sentir incomodos a ciertos participantes.
+Un reporte de comportamiento que _t&eacute;cnicamente_ no viola el c&oacute;digo de conducta puede indicar que hay un problema en tu comunidad, y deber&iacute;as investigar este problema potencial y actuar acorde. Esto puede incluir revisar tu c&oacute;digo de conducta para clarificar comportamientos aceptables y/o hablar con la persona cuyo comportamiento fue reportado y explicarles que si bien no han violado el c&oacute;digo de conducta, est&aacute;n rozando el borde de lo que se espera y est&aacute;n haciendo sentir incomodos a ciertos participantes.
 Finalmente, como mantenedor, tu estableces y aplicas los est&aacute;ndares de comportamiento aceptable. Tienes la habilidad para moldear los valores de la comunidad del proyecto, y los participantes cuentan con que apliques dichos valores de manera justa e imparcial.
 
 ## Promover el comportamiento que quieres ver en el mundo 🌎
 Cuando un proyecto parece hostil y poco acogedor, incluso cuando se trata solamente de una persona cuyo comportamiento es tolerado por los dem&aacute;s, te arriesgas a perder mucho m&aacute;s contribuidores, algunos de los cuales quiz&aacute;s no conozcas jam&aacute;s. No siempre es f&aacute;cil adoptar o aplicar un c&oacute;digo de conducta, pero fomentar un ambiente acogedor ayudara a que tu comunidad crezca.
-
-
-
-
-<!--A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
-
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
-
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
-
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
-
-## Encourage the behavior you want to see in the world 🌎
-
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.-->
