@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿---
+---
 locale: es-AR
 title: Comenzando un Proyecto de C&oacute;digo AbiertoStarting an Open Source Project
 description: Aprende más sobre el mundo del c&oacute;digo abierto y prep&aacute;rate para lanzarte a tu propio proyecto.
@@ -12,7 +11,6 @@ toc:
   your-pre-launch-checklist: "Tu lista de verificaci&oacute;n antes de lanzarte"
 order: 2
 image: /assets/images/cards/beginner.png
-=======
 ---
 locale: es-AR
 title: Aspectos legales del codigo abierto.
