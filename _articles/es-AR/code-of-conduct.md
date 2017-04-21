@@ -72,25 +72,23 @@ Antes de que respondas, t&oacute;mate tu tiempo para entender lo que sucedi&oacu
 
 ### Tomar acciones apropiadas
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+Luego de recolectar y procesar suficiente informaci&oacute;n, necesitaras decidirte que hacer. Mientras consideras tus siguientes pasos, recuerda que tu objetivo como moderador es fomentar un ambiente seguro, respetuoso y colaborativo. Considera no solamente como tratar la situaci&oacute;n en cuesti&oacute;n, sino tambi&eacute;n como tu respuesta afectara al comportamiento y expectativas del resto de tu comunidad.
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+Cuando alguien reporta una violaci&oacute;n al c&oacute;digo de conducta, es tu trabajo ocuparte de ella, y no de otra persona. A veces, el reportante est&aacute; revelando la informaci&oacute;n con gran riesgo para su carrera, reputaci&oacute;n o integridad f&iacute;sica. Forzarlos a confrontar a su acosador puede poner en una posici&oacute;n comprometedora al reportante. Debes comunicarte de manera directa con la persona en cuesti&oacute;n, a menos que el reportante expl&iacute;citamente solicite lo contrario.
 
-There are a few ways you might respond to a code of conduct violation:
+Existen varias maneras de responder a una violaci&oacute;n del c&oacute;digo de conducta:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **Dar a la persona en cuesti&oacute;n una advertencia publica** y explicarle de que manera su comportamiento ha impactado negativamente en los dem&aacute;s, preferiblemente en el canal en donde ocurri&oacute;. Siempre que sea posible, la comunicaci&oacute;n publica transmite a la comunidad la seriedad con la que consideras al c&oacute;digo de conducta.. Se amable, pero firme, en la manera en que te comunicas.
+* **Acercarse de forma privada a la persona** en cuesti&oacute;n para explicarle de que manera su comportamiento impacto negativamente en los dem&aacute;s. Puedes usar un canal de comunicaci&oacute;n privado si la situaci&oacute;n involucra informaci&oacute;n personal. Si te comunicas de manera privada con alguien, es una buena idea realizar una copia carb&oacute;n a los primeros que hayan reportado la situaci&oacute;n, de esta manera sabr&aacute;n que tomaste acciones. P&iacute;dele consentimiento al reportante antes de enviarle una copia carb&oacute;n.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+En ocasiones, no es posible lograr una soluci&oacute;n. La persona en cuesti&oacute;n puede volverse agresiva y hostil cuando sea confrontada o puede que no cambie su comportamiento. Frente a esta situaci&oacute;n, deber&iacute;as considerar tener en cuenta medidas m&aacute;s fuertes. Por ejemplo:
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+* **Suspender a la persona** en cuesti&oacute;n del proyecto, aplicando una prohibici&oacute;n en la participaci&oacute;n en todo aspecto del proyecto.
+* **Expulsar permanentemente** a la persona del proyecto.
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+La expulsi&oacute;n de miembros no debe ser tomado a la ligera y representa una permanente e irreconciliable diferencia de perspectiva. Deber&iacute;as tomar estas medidas solamente cuando es evidente que no puede llegarse a una soluci&oacute;n.
 
-* **Permanently ban** the person from the project
-
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
-
-## Your responsibilities as a maintainer
+## Tus responsabilidades como mantenedor
 
 A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
 
