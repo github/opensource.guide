@@ -1,14 +1,14 @@
 ---
-locale: en-US
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
-class: beginners
+locale: es_AR
+title: Comenzando un proyecto de Código Abierto
+description: Aprende más acerca del mundo del Código Abierto y prepárate a lanzar tu propio proyecto.
+class: principiantes
 toc:
-  the-what-and-why-of-open-source: "El c&oacute;mo y el porqu&eacute; del c&oacute;digo abierto"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
-  naming-and-branding-your-project: "Naming and branding your project"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  the-what-and-why-of-open-source: "El c&oacute;mo y el por qu&eacute; del c&oacute;digo abierto"
+  should-i-launch-my-own-open-source-project: "¿Debería lanzar mi propio proyecto de Código abierto?"
+  launching-your-own-open-source-project: "Lanzando tu propio proyecto de código abierto"
+  naming-and-branding-your-project: "Dando un nombre y una marca a tu proyecto"
+  your-pre-launch-checklist: "Tu checklist a armar previo al lanzamiento del proyecto"
 order: 2
 image: /assets/images/cards/beginner.png
 ---
@@ -72,7 +72,7 @@ Si nunca has utilizado este concepto en el pasado, probablemente est&eacute;s pr
 
 El c&oacute;digo abierto funciona como cualquier otra actividad creativa, ya sea escribir o pintar. Puede dar miedo de compartir algo con el mundo, pero la &uacute;nica forma de mejorar es practicar (a&uacute;n si no tienes una audiencia).
 
-Si no estas convencido todav&iacute;a, toma un momento para pensar acerca de cu&aacute;les ser&aacute;n tus objetivos.
+Si no estás convencido todav&iacute;a, toma un momento para pensar acerca de cu&aacute;les ser&aacute;n tus objetivos.
 
 ### Definiendo tus objetivos
 
@@ -270,7 +270,7 @@ No es necesario escribir una "gu&iacute;a de estilo" para tus proyectos cuando r
 
 ## Tu checklist de pre-lanzamiento
 
-Est&aacute;s listo para iniciar tu propio proyecto de C&oacute;digo Abierto. Aqu&iacute; dejamos un checklist que puede ayudar. &iexcl;Una vez marcadas todas las casillas estas listo para continuar! [Clickea "publish"](https://help.github.com/articles/making-a-private-repository-public/).
+Est&aacute;s listo para iniciar tu propio proyecto de C&oacute;digo Abierto. Aqu&iacute; dejamos un checklist que puede ayudar. &iexcl;Una vez marcadas todas las casillas estás listo para continuar! [Clickea "publish"](https://help.github.com/articles/making-a-private-repository-public/).
 
 **Documentaci&oacute;n**
 
