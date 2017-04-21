@@ -1,19 +1,17 @@
-﻿|---
-
-locale: en-US
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+﻿---
+locale: es-AR
+title: Comenzando un Proyecto de C&oacute;digo AbiertoStarting an Open Source Project
+description: Aprende más sobre el mundo del c&oacute;digo abierto y prep&aacute;rate para lanzarte a tu propio proyecto.
 class: beginners
 toc:
   the-what-and-why-of-open-source: "El c&oacute;mo y el porqu&eacute; del c&oacute;digo abierto"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
-  naming-and-branding-your-project: "Naming and branding your project"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  should-i-launch-my-own-open-source-project: "¿Deber&iacute;a lanzar mi propio proyecto de c&oacute;digo abierto?"
+  launching-your-own-open-source-project: "Lanzando tu propio proyecto de c&oacute;digo abierto"
+  naming-and-branding-your-project: "Nombrando y generando una marca para tu proyecto"
+  your-pre-launch-checklist: "Tu lista de verificaci&oacute;n antes de lanzarte"
 order: 2
 image: /assets/images/cards/beginner.png
 ---
-
 
 ## Entendiendo las implicaciones legales del c&oacute;digo abierto
 Compartir tu trabajo creativo con el mundo puede ser una experiencia excitante y gratificante. Esto tambi&eacute;n conlleva un conjunto de aspectos legales de los cuales deber ocuparte. Afortunadamente, no tienes que empezar desde cero. Nosotros tenemos cubiertas tus necesidades legales. (Antes de continuar, aseg&uacute;rate de leer nuestro [aviso legal](../notices/).)
