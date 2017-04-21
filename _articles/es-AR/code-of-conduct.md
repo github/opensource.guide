@@ -1,13 +1,13 @@
 ---
-locale: en-US
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+locale: es-AR
+title: Tu Código de Conducta
+description: Facilita el comportamiento sano y constructivo, adoptando y aplicando un c&oacute;digo de conducta.
 class: coc
 toc:
-  why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
-  establishing-a-code-of-conduct: "Establishing a code of conduct"
-  deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
-  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
+  why-do-i-need-a-code-of-conduct: "Por qu&eacute; es necesario un c&oacute;digo de conducta?"
+  establishing-a-code-of-conduct: "Estableciendo un c&oacute;digo de conducta"
+  deciding-how-youll-enforce-your-code-of-conduct: "Decidiendo de qu&eacute; manera vas a aplicar tu c&oacute;digo de conducta"
+  enforcing-your-code-of-conduct: "Aplicando tu c&oacute;digo de conducta"
 order: 8
 image: /assets/images/cards/coc.png
 ---
