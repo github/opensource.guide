@@ -39,48 +39,38 @@ Ubica un archivo CODIGO_DE_CONDUCTA en el directorio ra&iacute;z de tu proyecto,
 ## Decidiendo de qu&eacute; manera vas a aplicar tu c&oacute;digo de conducta
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  Un c&oacute;digo de conducta que no es (o no puede) ser aplicado, es incluso peor que no tener un c&oacute;digo de conducta: Esto demostrar&iacute;a que los valores en el c&oacute;digo de conducta no son importantes o no son respetados en tu comunidad.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+Deber&iacute;as explicar de qu&eacute; manera tu c&oacute;digo de conducta va a ser aplicado **_antes_** de que una violaci&oacute;n ocurra. Hay varios motivos para ello:
 
-* It demonstrates that you are serious about taking action when it's needed.
+*	Esto demuestra que eres serio acerca de tomar acciones cuando sea necesario.
+*	Tu comunidad se sentir&aacute; m&aacute;s segura de que sus reclamos son realmente revisados.
+*	Brindaras a tu comunidad la seguridad de que el proceso de revisi&oacute;n es justo y transparente, en el caso en que se encuentren siendo investigados por una violaci&oacute;n.
 
-* Your community will feel more reassured that complaints actually get reviewed.
+Deber&iacute;as brindar a las personas, una manera privada (por ejemplo, mediante una direcci&oacute;n de email)de reportar una violaci&oacute;n al c&oacute;digo de conducta y explicar qui&eacute;n recibe dicho reporte. Puede ser un mantenedor, un grupo de mantenedores, o un grupo de trabajo de c&oacute;digo de conducta.
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+Recuerda que alguien puede que desee reportar una violaci&oacute;n acerca de la persona que recibe dichos reportes. En tal caso, br&iacute;ndales la posibilidad de que dichos reportes, sean revisados por alguien m&aacute;s. Por ejemplo, @ctb y @mr-c [explican en su proyecto](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
-
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
-
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
-
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
-
-## Enforcing your code of conduct
-
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
-
-### Gather information about the situation
-
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
-
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
-
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
-
+>Instancias de abuso, acoso o similares comportamientos inaceptables pueden ser reportados mandando un email a **khmer-project@idyll.org** el cual solamente se dirigir&aacute; a C. Titus Brown and Michael R. Crusoe. Para reportar una cuesti&oacute;n que involucra a ambos, por favor env&iacute;a un email a **Judi Brown Clarke, Ph.D.** el Director de Diversidad en el BEACON Center for the Study of Evolution in Action, un centro de la Fundaci&oacute;n de Ciencia Nacional para la Ciencia y Tecnologia.*
+Para inspirarte, mira el manual de ejecuci&oacute;n de Django(https://www.djangoproject.com/conduct/enforcement-manual/)  (aunque quiz&aacute;s no necesites algo tan amplio, dependiendo del tama&ntilde;o de tu proyecto).
+## Aplicando tu c&oacute;digo de conducta
+En ocasiones, a pesar de tus mayores esfuerzos, alguien har&aacute; algo que violara este c&oacute;digo. Existen diferentes maneras de abordar el comportamiento negativo o da&ntilde;ino en la pr&aacute;ctica.
+### Recolectar informaci&oacute;n acerca de la situaci&oacute;n
+Ot&oacute;rgale la importancia a lo que cada miembro de la comunidad tiene para decir como se la dar&iacute;as a lo que t&uacute; tienes para decir. Si recibes un reporte de que alguien ha violado el c&oacute;digo de conducta, t&oacute;matelo seriamente e investiga el asunto, incluso si no condice con tu experiencia con dicha persona. De esta manera, demuestras a tu comunidad que valoras su perspectiva y conf&iacute;as en su juicio.
+El miembro de la comunidad puede ser un reincidente quien constantemente hace sentir incomodos a los dem&aacute;s o puede haber hecho o dicho algo por &uacute;nica vez. En ambas situaciones podemos tomar acciones, dependiendo del contexto.
+Antes de que respondas, t&oacute;mate tu tiempo para entender lo que sucedi&oacute;. Lee los comentarios y conversaciones pasados de la persona para entender mejor quienes son y por qu&eacute; podr&iacute;an haber actuado de tal manera. Intenta recolectar perspectivas de otros acerca de dicha persona y su comportamiento.
 <aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  No entres en discusiones. No se desv&iacute;e a tratar con el comportamiento de otra persona antes de que haya terminado de tratar con el asunto en cuesti&oacute;n. Enf&oacute;cate en lo que necesitas.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
 </aside>
 
-### Take appropriate action
+### Tomar acciones apropiadas
 
 After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
 
