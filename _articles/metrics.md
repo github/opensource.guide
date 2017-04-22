@@ -82,6 +82,8 @@ People are finding your project and they're using it. The next question you'll w
 
 It's never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is _popular_ (many people use it) but not _supported_ (not enough maintainer time to meet demand).
 
+The ratio of experienced, long-term contributors to recent ones also tells you about the quality of the code and need to support contributors. [Measuring your open source community’s demography](https://www.oreilly.com/ideas/measure-your-open-source-communitys-age-to-keep-it-healthy) gives an overview of the project retention/engagement capability over time.
+
 Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
 
 Examples of community metrics that you may want to regularly track include:
@@ -91,6 +93,10 @@ Examples of community metrics that you may want to regularly track include:
 ![contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
+
+* **Contributors demography:** A demographic piramid showing attracted contributors vs active contributors by year or quarter shows how contributors join and left the project over "generations". The ratio for each generation is its retention ratio. The evolution of attracted contributors bars tells us about the evolution of attraction over time, while the evolution of active contributors bar tells us about the current age structure of the community.
+
+![Demography chart](https://d3ansictanv2wj.cloudfront.net/images/openstack-scm-aging-2014-07-e60b09908e107f080a7e0eab15eedd61.png)
 
 * **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
 
@@ -122,6 +128,24 @@ You could also measure the time it takes to move between stages in the contribut
 * Whether issues get closed by PRs
 * Whether stale issues get closed
 * Average time to merge a pull request
+
+Tools like [The Cauldron](http://cauldron.io), based in [Grimoire Lab](http://grimoirelab.github.io) a free, open source development analytics toolkit, provides several of those metrics.
+
+## Contributors dependency
+
+Your open source project depends on the contributors working on it. Analyzing who your code depends on and its evolution over time gives valuable information about the sustainability of the project. [Bitergia](http://bitergia.com) produces the following analysis about this topic:
+
+* **Onion model analysis:** for an specific period of time or the whole project, divide the contributors as core (those who have made 80% of the contributions), regular (those who have made 15% of the contributions), casual (those who have made 5% of the contributions).
+* **ASF Pony factor:** [from Apache Software Foundation](https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/), defined as "The lowest number of committers whose total contribution constitutes the majority of the codebase".
+* **Bitergia Elephant factor:** defined as "The lowest number of companies whose total employees contribution constitutes the majority of the codebase".
+* **Bitergia Zapata factor:** defined as "The lowest number of comitters whose code constitutes the majority of the current codebase". For example, for the Linux kernel, it was around [200 people in Aug. 2016](https://speakerdeck.com/jgbarah/authorship-dashboard-for-the-linux-kernel?slide=22).
+* **Bitergia United Fruit Company factor:**: defined as "The lowest number of companyes whose committers whose code constitutes the majority of the current codebase".
+
+## Diversity
+
+It is well known that diversity is benefitial for any teamwork. So it is for your open source project. For example, there are several examples of gender diversity analysis for open source projects like the [Gender-diversity Analysis of the Linux Kernel Technical Contributions](https://blog.bitergia.com/2016/10/11/gender-diversity-analysis-of-the-linux-kernel-technical-contributions/).
+
+From GitHub is easy to check [geographical diversity](https://speakerdeck.com/bitergia/data-science-for-community-managers-fosdem-2017-community-devroom?slide=38) of your community and show it in a map, but there is also timezone information stored in git commits, so you are able to check contributions by timezone.
 
 ## Use 📊 to learn about people
 
