@@ -7,8 +7,8 @@ toc:
   pasando-la-voz: "Pasando la voz"
   pensando-tu-mensaje: "Pensando tu mensaje"
   ayuda-a-las-personas-a-encontrar-y-seguir-tu-proyecto: "Ayuda a las personas a encontrar y seguir tu proyecto"
-  ve-donde-est&aacute-la-audiencia-de-tu-proyecto-(en-l&iacute;nea): "Ve donde est&aacute la audiencia de tu proyecto (en l&iacute;nea)"
-  ve-donde-est&aacute-la-audiencia-de-tu-proyecto-(fuera-de-l&iacute;nea): "Ve donde est&aacute la audiencia de tu proyecto (fuera de l&iacute;nea)"
+  ve-donde-est&aacute;-la-audiencia-de-tu-proyecto-(en-l&iacute;nea): "Ve donde est&aacute; la audiencia de tu proyecto (en l&iacute;nea)"
+  ve-donde-est&aacute;-la-audiencia-de-tu-proyecto-(fuera-de-l&iacute;nea): "Ve donde est&aacute; la audiencia de tu proyecto (fuera de l&iacute;nea)"
   construye-una-reputaci&oacute;n: "Construye una reputaci&oacute;n"
 order: 3
 image: /assets/images/cards/finding.png
@@ -65,7 +65,7 @@ Si el proyecto está alojado en GitHub, puedes utilizar [GitHub Pages](https://p
 
 Ahora que ya tienes un mensaje para tu proyecto, y una manera sencilla para que las personas encuentren su proyecto, ¡ve a hablar con tu audiencia!
 
-## Ve donde est&aacute la audiencia de tu proyecto (en l&iacute;nea)
+## Ve donde est&aacute; la audiencia de tu proyecto (en l&iacute;nea)
 
 El alcance en l&iacute;nea es una gran manera de compartir y diseminar la palabra r&aacute;pidamente
 
@@ -89,7 +89,7 @@ En t&eacute;rminos generales, enf&oacute;cate en ayudar a los demás antes de so
 
 Si nadie presta atenci&oacute;n o responde a tu alcance inicial, ¡no te desanimes! La mayor&iacute;a de los lanzamientos de proyectos son un proceso iterativo que puede llevar meses o a&ntilde;os. Si no consigues una respuesta la primera vez, prueba con una t&aacute;ctica diferente, o busqua maneras de agregar valor al trabajo de los demás primero. Estas cosas llevan tiempo y dedicaci&oacute;n.
 
-## Ve donde est&aacute la audiencia de tu proyecto (fuera de l&iacute;nea)
+## Ve donde est&aacute; la audiencia de tu proyecto (fuera de l&iacute;nea)
 
 ![public speaking](/assets/images/finding-users/public_speaking.jpg)
 
