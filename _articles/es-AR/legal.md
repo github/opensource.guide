@@ -1,38 +1,24 @@
-<<<<<<< HEAD
-﻿---
-locale: es-AR
-title: Comenzando un Proyecto de C&oacute;digo AbiertoStarting an Open Source Project
-description: Aprende más sobre el mundo del c&oacute;digo abierto y prep&aacute;rate para lanzarte a tu propio proyecto.
-class: beginners
-toc:
-  the-what-and-why-of-open-source: "El c&oacute;mo y el porqu&eacute; del c&oacute;digo abierto"
-  should-i-launch-my-own-open-source-project: "¿Deber&iacute;a lanzar mi propio proyecto de c&oacute;digo abierto?"
-  launching-your-own-open-source-project: "Lanzando tu propio proyecto de c&oacute;digo abierto"
-  naming-and-branding-your-project: "Nombrando y generando una marca para tu proyecto"
-  your-pre-launch-checklist: "Tu lista de verificaci&oacute;n antes de lanzarte"
-order: 2
-image: /assets/images/cards/beginner.png
-=======
 ---
 locale: es-AR
 title: Aspectos legales del codigo abierto.
 description: Todo lo que te has preguntado sobre la parte legal de c&oacute;digo abierto.
 class: legal
 toc:
-  Por-qu&eacute;-la-gente-se-preocupa-tanto-acerca-de-los-aspectos-legales-del-c&oacute;digo-abierto: "¿Por qu&eacute; la gente se preocupa tanto acerca de los aspectos legales del c&oacute;digo abierto?"
-  Son-de-c&oacute;digo-abierto-los-proyecto-p&uacute;blicos-de-Github: "¿Son de c&oacute;digo abierto los proyecto p&uacute;blicos de Github?"
-  Solo-dame-un-resumen-acerca-de-lo-que-necesito-para-proteger-mi-proyecto: " Solo dame un resumen acerca de lo que necesito para proteger mi proyecto"
-  Cu&aacute;l-licencia-de-c&oacute;digo-abierto-es-apropiada-para-mi-proyecto: "¿Cu&aacute;l licencia de c&oacute;digo abierto es apropiada para mi proyecto?"
-  Y-si-quiero-cambiar-la-licencia-de-mi-proyecto: "¿Y si quiero cambiar la licencia de mi proyecto?"
-  Necesita-mi-proyecto-un-acuerdo-adicional-de-contribuidores: "¿Necesita mi proyecto un acuerdo adicional de contribuidores?"
-  Qu&eacute;-necesita-saber-el-equipo-legal-de-mi-empresa: "¿Qu&eacute; necesita saber el equipo legal de mi empresa?"
+  ¿por-qu&eacute;-la-gente-se-preocupa-tanto-acerca-de-los-aspectos-legales-del-c&oacute;digo-abierto?: "¿Por qu&eacute; la gente se preocupa tanto acerca de los aspectos legales del c&oacute;digo abierto?"
+  ¿son-de-c&oacute;digo-abierto-los-proyecto-p&uacute;blicos-de-Github?: "¿Son de c&oacute;digo abierto los proyecto p&uacute;blicos de Github?"
+  solo-dame-un-resumen-acerca-de-lo-que-necesito-para-proteger-mi-proyecto: "Solo dame un resumen acerca de lo que necesito para proteger mi proyecto"
+  ¿cu&aacute;l-licencia-de-c&oacute;digo-abierto-es-apropiada-para-mi-proyecto?: "¿Cu&aacute;l licencia de c&oacute;digo abierto es apropiada para mi proyecto?"
+  ¿y-si-quiero-cambiar-la-licencia-de-mi-proyecto?: "¿Y si quiero cambiar la licencia de mi proyecto?"
+  ¿necesita-mi-proyecto-un-acuerdo-adicional-de-contribuidores?: "¿Necesita mi proyecto un acuerdo adicional de contribuidores?"
+  ¿qu&eacute;-necesita-saber-el-equipo-legal-de-mi-empresa?: "¿Qu&eacute; necesita saber el equipo legal de mi empresa?"
 order: 10
 image: /assets/images/cards/legal.png
->>>>>>> 71f4ce4a498c601c9b05df002cbf3773365a1df2
+
 ---
 
 ## Entendiendo las implicaciones legales del c&oacute;digo abierto
 Compartir tu trabajo creativo con el mundo puede ser una experiencia excitante y gratificante. Esto tambi&eacute;n conlleva un conjunto de aspectos legales de los cuales deber ocuparte. Afortunadamente, no tienes que empezar desde cero. Nosotros tenemos cubiertas tus necesidades legales. (Antes de continuar, aseg&uacute;rate de leer nuestro [aviso legal](../notices/).)
+
 ## ¿Por qu&eacute; la gente se preocupa tanto acerca de los aspectos legales del c&oacute;digo abierto?
 ¡Me alegro que lo preguntes! Cuando realizas trabajo creativo (como escritura, dibujo, o c&oacute;digo), ese trabajo se encuentra bajo derechos de autor por defecto. Es decir, la ley asume que, como autor de tu trabajo, tienes poder de decisi&oacute;n sobre lo que los otros pueden o no hacer con ello.
 En general, estoy significa que nadie m&aacute;s  puede usar, copiar, distribuir, o modificar tu trabajo sin tener riesgo de sufrir bajas, ser investigado o demandado.

@@ -11,7 +11,7 @@ order: 4
 image: /assets/images/cards/building.png
 ---
 
-## Configurando su proyecto para el &eacute;xito
+## Configurando tu proyecto para el &eacute;xito
 
 Acabas de lanzar tu proyecto, est&aacute;s pasando la voz, y la gente lo est&aacute; siguiendo. ¡Genial! Ahora, ¿c&oacute;mo haces que se queden?
 
