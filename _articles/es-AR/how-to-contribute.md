@@ -52,7 +52,7 @@ El c&oacute;digo abierto ofrece oportunidades para practicar habilidades de lide
 
 No necesitas convertirte en un colaborador de toda la vida para disfrutar la participaci&oacute;n con el c&oacute;digo abierto. ¿Alguna vez viste un error de tipograf&iacute;a, y deseaste que &aacute;lguien pudiera corregirlo? En un proyecto de c&oacute;digo abierto, es justamente lo que puedes hacer. El c&oacute;digo abierto ayuda a las personas a sentir acci&oacute;n en sus vidas, en la forma en que experimentan al mundo y eso en si mismo es gratificante.
 
-## Lo que significa contribuir
+## Qu&eacute; significa contribuir
 
 Si eres un colaborador de c&oacute;digo abierto nuevo, el proceso puede ser intimidatorio. ¿C&oacute;mo encontrar el proyecto adecuado? ¿Qu&eacute; hacer si no sabes c&oacute;mo codificar? ¿Qu&eacute; pasa si algo sale mal?
 
