@@ -1,4 +1,4 @@
-﻿---
+---
 locale: es-AR
 title: Aspectos legales del codigo abierto.
 description: Todo lo que te has preguntado sobre la parte legal de c&oacute;digo abierto.
@@ -24,7 +24,7 @@ Compartir tu trabajo creativo con el mundo puede ser una experiencia excitante y
 En general, estoy significa que nadie m&aacute;s  puede usar, copiar, distribuir, o modificar tu trabajo sin tener riesgo de sufrir bajas, ser investigado o demandado.
 Sin embargo, el c&oacute;digo abierto es una circunstancia inusual debido a que el autor espera que otros usen, modifiquen, y compartan el trabajo. Pero, debido a que legalmente por defecto los derechos de autor son exclusivos, se necesita una licencia que enuncie expl&iacute;citamente estos permisos.
 Si t&uacute; no aplicas una licencia de c&oacute;digo abierto, todo aquel que contribuya a tu proyecto tambi&eacute;n tiene derechos de autor de su trabajo. Esto significa que nadie puede usar, copiar, distribuir, o modificar sus contribuciones – y ese “nadie” te incluye a ti.
-Finalmente, tu proyecto puede tener dependencias con requisitos de licencia que no conoces. La comunidad de tu proyecto, o tus pol&iacute;ticas de empleador, pueden requerir que tu proyecto haga uso de una licencia de c&oacute;digo abierto espec&iacute;fica. Cubriremos estas situaciones a continuaci&oacute;n. 
+Finalmente, tu proyecto puede tener dependencias con requisitos de licencia que no conoces. La comunidad de tu proyecto, o tus pol&iacute;ticas de empleador, pueden requerir que tu proyecto haga uso de una licencia de c&oacute;digo abierto espec&iacute;fica. Cubriremos estas situaciones a continuaci&oacute;n.
 ## ¿Son de c&oacute;digo abierto los proyecto p&uacute;blicos de Github?
 Cuando t&uacute; [creas un nuevo proyecto](https://help.github.com/articles/creating-a-new-repository/) en Github, tienes la opci&oacute;n de hacerlo **privado** o **publico**.
 ![crear repositorio](/assets/images/legal/repo-create-name.png)
@@ -44,7 +44,7 @@ Cuando crees un nuevo proyecto en Github, se te [pedir&aacute; que agregues una 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/282759?v=3&s=400" class="pquote-avatar" alt="avatar">
   Una licencia estandarizada sirve como aproximaci&oacute;n para quienes no tengan entrenamiento legal para saber con precisi&oacute;n lo que pueden y lo que no pueden hacer con el software.
-A menos que sea absolutamente necesario, evita t&eacute;rminos personalizados, modificados o no estandarizados, lo cual te servir&aacute; como barrera para el uso posterior de la agencia de c&oacute;digo. 
+A menos que sea absolutamente necesario, evita t&eacute;rminos personalizados, modificados o no estandarizados, lo cual te servir&aacute; como barrera para el uso posterior de la agencia de c&oacute;digo.
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
@@ -131,7 +131,7 @@ A largo plazo, tu equipo legal puede hacer m&aacute;s para ayudar a la empresa a
 * **Conformidad:** Incluso si tu empresa no libera ning&uacute;n proyecto de c&oacute;digo abierto, utiliza otro software de c&oacute;digo abierto. La [conciencia y el proceso](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) puede prevenir dolores de cabeza, retrasos del producto, y demandas.
 
 <aside markdown="1" class="pquote">
-Las organizaciones deben tener una estrategia de licencia y cumplimiento que se ajuste tanto a categor&iacute;as \["permisiva" y "copyleft"\]. Esto comienza con el mantenimiento de un registro de los t&eacute;rminos de licencia que se aplican al software de c&oacute;digo abierto que est&aacute; utilizando - incluidos subcomponentes y dependencias 
+Las organizaciones deben tener una estrategia de licencia y cumplimiento que se ajuste tanto a categor&iacute;as \["permisiva" y "copyleft"\]. Esto comienza con el mantenimiento de un registro de los t&eacute;rminos de licencia que se aplican al software de c&oacute;digo abierto que est&aacute; utilizando - incluidos subcomponentes y dependencias
      <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
