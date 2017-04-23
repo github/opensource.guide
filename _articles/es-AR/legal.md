@@ -1,4 +1,4 @@
----
+﻿---
 locale: es-AR
 title: Aspectos legales del codigo abierto.
 description: Todo lo que te has preguntado sobre la parte legal de c&oacute;digo abierto.
@@ -17,7 +17,7 @@ image: /assets/images/cards/legal.png
 ---
 
 ## Entendiendo las implicaciones legales del c&oacute;digo abierto
-Compartir tu trabajo creativo con el mundo puede ser una experiencia excitante y gratificante. Esto tambi&eacute;n conlleva un conjunto de aspectos legales de los cuales deber ocuparte. Afortunadamente, no tienes que empezar desde cero. Nosotros tenemos cubiertas tus necesidades legales. (Antes de continuar, aseg&uacute;rate de leer nuestro [aviso legal](../notices/).)
+Compartir tu trabajo creativo con el mundo puede ser una experiencia excitante y gratificante. Esto tambi&eacute;n conlleva un conjunto de aspectos legales de los cuales debes ocuparte. Afortunadamente, no tienes que empezar desde cero. Nosotros tenemos cubiertas tus necesidades legales. (Antes de continuar, aseg&uacute;rate de leer nuestro [aviso legal](../notices/).)
 
 ## ¿Por qu&eacute; la gente se preocupa tanto acerca de los aspectos legales del c&oacute;digo abierto?
 ¡Me alegro que lo preguntes! Cuando realizas trabajo creativo (como escritura, dibujo, o c&oacute;digo), ese trabajo se encuentra bajo derechos de autor por defecto. Es decir, la ley asume que, como autor de tu trabajo, tienes poder de decisi&oacute;n sobre lo que los otros pueden o no hacer con ello.
@@ -26,7 +26,7 @@ Sin embargo, el c&oacute;digo abierto es una circunstancia inusual debido a que 
 Si t&uacute; no aplicas una licencia de c&oacute;digo abierto, todo aquel que contribuya a tu proyecto tambi&eacute;n tiene derechos de autor de su trabajo. Esto significa que nadie puede usar, copiar, distribuir, o modificar sus contribuciones – y ese “nadie” te incluye a ti.
 Finalmente, tu proyecto puede tener dependencias con requisitos de licencia que no conoces. La comunidad de tu proyecto, o tus pol&iacute;ticas de empleador, pueden requerir que tu proyecto haga uso de una licencia de c&oacute;digo abierto espec&iacute;fica. Cubriremos estas situaciones a continuaci&oacute;n. 
 ## ¿Son de c&oacute;digo abierto los proyecto p&uacute;blicos de Github?
-Cuando tu [creas un nuevo proyecto](https://help.github.com/articles/creating-a-new-repository/) en Github, tienes la opci&oacute;n de hacerlo **privado** o **publico**.
+Cuando t&uacute; [creas un nuevo proyecto](https://help.github.com/articles/creating-a-new-repository/) en Github, tienes la opci&oacute;n de hacerlo **privado** o **publico**.
 ![crear repositorio](/assets/images/legal/repo-create-name.png)
 
 **Hacer tu proyecto de Github p&uacute;blico, no es lo mismo que licenciar tu proyecto.** Los proyectos p&uacute;blicos son cubiertos por [Los T&eacute;rminos de Servicio de Github](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), lo que les permite a otros ver y bifurcar el proyecto, pero su trabajo viene de otra manera sin permisos.
