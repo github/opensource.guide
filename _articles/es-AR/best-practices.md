@@ -122,7 +122,7 @@ Si no quieres aceptar una contribuci&oacute;n:
 
 no deber&iacute;as necesitar m&aacute;s de 1-2 oraciones para responder. por ejemplo, cuando un usuario de [celery](https://github.com/celery/celery/) report&oacute; un error relacionado a Windows, @berkerpeksag [respondi&oacute; con](https://github.com/celery/celery/issues/3383):
 
-![celery screenshot](/assets/images/best-practices/celery.png)
+[celery screenshot](/assets/images/best-practices/celery.png)
 
 Si te aterra la idea de decir que no, no te sientas s&oacute;lo. Como @jessfraz [dice](https://blog.jessfraz.com/post/the-art-of-closing/):
 
