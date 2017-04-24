@@ -93,7 +93,7 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
 * Re&uacute;ne una gu&iacute;a de estilos para ayudar al proyecto a tener un diseño con consistencia visual
 * Crea diseños para las remeras o un nuevo logo, [como hicieron los colaboradores de hapi.js's](https://github.comhapijs/contrib/issues/68)
 
-### ¿Te gusta escribir
+### ¿Te gusta escribir?
 
 * Escribe y mejora la documentaci&oacute;n del proyecto
 * Sanea la carpeta de ejemplos para mostrar c&oacute;mo se usa el proyecto
@@ -115,7 +115,7 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
 * Recorre los problemas abiertos y sugiere cerrar los m&aacute;s antiguos, [como hizo @nzakas para eslint](https://github.com/eslint/eslint/issues/6765)
 * Realiza preguntas clarificadoras en los problemas recientemente abiertos para hacer que la discusi&oacute;n avance
 
-### ¿Te gusta codificar?
+### ¿Te gusta programar?
 
 * Encuentra un problema abierto para entrar, [como  lo hizo @dianjin para Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
 * Pregunta si puedes ayudar a escribir alguna nueva funcionalidad
@@ -128,7 +128,7 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
 * Responde preguntas a las personas en los problemas abiertos
 * Ayuda a moderar los foros de discusi&oacute;n o canales de conversaci&oacute;n
 
-### ¿Te gusta ayudar a otros a codificar?
+### ¿Te gusta ayudar a otros a programar?
 
 * Revisa el c&oacute;digo que otras personas presentan
 * Escribe tutoriales sobre c&oacute;mo puede usarse un proyecto
@@ -141,7 +141,7 @@ Mientras que el "c&oacute;digo abierto" a menudo se refiere a software, puedes c
 Por ejemplo:
 
 * @sindresorhus sanea una [lista de "asombrosos"](https://github.com/sindresorhus/awesome)
-* @h5bp mantiene una [lista de preguntas potenciales para entrevistas](https://github.com/h5bp/Front-end-Developer-Interview-Questions) para desarrolladores candidatos de for front-end
+* @h5bp mantiene una [lista de preguntas potenciales para entrevistas](https://github.com/h5bp/Front-end-Developer-Interview-Questions) para desarrolladores candidatos de front-end
 * @stuartlynn y @nicole-a-tesla hicieron una [colecci&oacute;n de hechos graciosos sobre puffins](https://github.com/stuartlynn/puffin_facts)
 
 Incluso si no eres un desarrollador de software, trabajar en la documentaci&oacute;n de un proyecto puede ayudar a comenzar en el c&oacute;digo abierto. Es con frecuencia menos intimidante trabajar en proyectos que no involucran c&oacute;digo, y ese proceso de colaboraci&oacute;n te dar&aacute; confianza y experiencia.
