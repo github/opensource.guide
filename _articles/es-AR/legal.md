@@ -8,7 +8,7 @@ toc:
   son-de-c&oacute;digo-abierto-los-proyecto-p&uacute;blicos-de-GitHub: "¿Son de c&oacute;digo abierto los proyecto p&uacute;blicos de GitHub?"
   solo-dame-un-resumen-acerca-de-lo-que-necesito-para-proteger-mi-proyecto: "Solo dame un resumen acerca de lo que necesito para proteger mi proyecto"
   cu&aacute;l-licencia-de-c&oacute;digo-abierto-es-apropiada-para-mi-proyecto: "¿Cu&aacute;l licencia de c&oacute;digo abierto es apropiada para mi proyecto?"
-  si-quieres-cambiar-la-licencia-de-tu-proyecto: "Si quieres cambiar la licencia de tu proyecto"
+  y-si-quieres-cambiar-la-licencia-de-tu-proyecto: "¿Y si quieres cambiar la licencia de tu proyecto?"
   necesita-mi-proyecto-un-acuerdo-adicional-de-colaboradores: "¿Necesita mi proyecto un acuerdo adicional de colaboradores?"
   qu&eacute;-necesita-saber-el-equipo-legal-de-mi-empresa: "¿Qu&eacute; necesita saber el equipo legal de mi empresa?"
 order: 10
@@ -55,7 +55,7 @@ A menos que sea absolutamente necesario, evita t&eacute;rminos personalizados, m
   </p>
 </aside>
 
-## ¿Cual licencia de c&oacute;digo abierto es apropiada para mi proyecto?
+## ¿Cu&aacute;l licencia de c&oacute;digo abierto es apropiada para mi proyecto?
 
 Si estas comenzando desde cero, es dif&iacute;cil equivocarse al elegir la [Licencia MIT](https://choosealicense.com/licenses/mit/). Es corta, muy f&aacute;cil de entender, y permite a cualquiera hacer lo que sea, siempre y cuando guarde una copia de la licencia, incluyendo tu aviso de derechos de autor. Tendr&aacute;s la posibilidad de lanzar el proyecto bajo otra licencia si alguna vez as&iacute; lo necesitas.
 
