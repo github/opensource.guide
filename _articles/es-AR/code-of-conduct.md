@@ -26,7 +26,7 @@ Intenta establecer un c&oacute;digo de conducta tan tempranamente como sea posib
 
 Adem&aacute;s de comunicar tus expectativas, un c&oacute;digo de conducta describe lo siguiente:
 *	Donde el c&oacute;digo de conducta toma efecto _(¿solamente en las issues y pull requests, o en actividades de la comunidad como eventos?)_
-*	A quien o quienes aplica el c&oacute;digo de conducta _(miembros de la comunidad y mantenedores, pero ¿Qu&eacute; hay acerca de los sponsors?)_
+*	A quien o quienes aplica el c&oacute;digo de conducta _(miembros de la comunidad y responsables de mantenimiento, pero ¿Qu&eacute; hay acerca de los sponsors?)_
 *	Que sucede si alguien viola el c&oacute;digo de conducta
 *	De qu&eacute; manera alguien puede reportar una violaci&oacute;n
 
@@ -53,7 +53,7 @@ Deber&iacute;as explicar de qu&eacute; manera tu c&oacute;digo de conducta va a 
 
 *	Brindaras a tu comunidad la seguridad de que el proceso de revisi&oacute;n es justo y transparente, en el caso en que se encuentren siendo investigados por una violaci&oacute;n.
 
-Deber&iacute;as brindar a las personas, una manera privada (por ejemplo, mediante una direcci&oacute;n de email) de reportar una violaci&oacute;n al c&oacute;digo de conducta y explicar qui&eacute;n recibe dicho reporte. Puede ser un mantenedor, un grupo de mantenedores, o un grupo de trabajo de c&oacute;digo de conducta.
+Deber&iacute;as brindar a las personas, una manera privada (por ejemplo, mediante una direcci&oacute;n de email) de reportar una violaci&oacute;n al c&oacute;digo de conducta y explicar qui&eacute;n recibe dicho reporte. Puede ser un responsable de mantenimiento, un grupo de tales responsables, o un grupo de trabajo de c&oacute;digo de conducta.
 
 Recuerda que alguien puede que desee reportar una violaci&oacute;n acerca de la persona que recibe dichos reportes. En tal caso, br&iacute;ndales la posibilidad de que dichos reportes, sean revisados por alguien m&aacute;s. Por ejemplo, @ctb y @mr-c [explican en su proyecto](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
@@ -100,7 +100,7 @@ En ocasiones, no es posible lograr una soluci&oacute;n. La persona en cuesti&oac
 
 La expulsi&oacute;n de miembros no debe ser tomado a la ligera y representa una permanente e irreconciliable diferencia de perspectiva. Deber&iacute;as tomar estas medidas solamente cuando es evidente que no puede llegarse a una soluci&oacute;n.
 
-## Tus responsabilidades como mantenedor
+## Tus responsabilidades como responsable de mantenimiento
 
 Un c&oacute;digo de conducta no es una ley aplicada arbitrariamente. T&uacute; eres quien aplica el c&oacute;digo de conducta y es tu responsabilidad seguir las reglas que el c&oacute;digo de conducta establece.
 
@@ -108,7 +108,7 @@ Como encargado de mantenimiento, t&uacute; estableces las directrices de tu comu
 
 Un reporte de comportamiento que _t&eacute;cnicamente_ no viola el c&oacute;digo de conducta puede indicar que hay un problema en tu comunidad, y deber&iacute;as investigar este problema potencial y actuar acorde. Esto puede incluir revisar tu c&oacute;digo de conducta para clarificar comportamientos aceptables y/o hablar con la persona cuyo comportamiento fue reportado y explicarles que si bien no han violado el c&oacute;digo de conducta, est&aacute;n rozando el borde de lo que se espera y est&aacute;n haciendo sentir incomodos a ciertos participantes.
 
-Finalmente, como mantenedor, t&uacute; estableces y aplicas los est&aacute;ndares de comportamiento aceptable. Tienes la habilidad para moldear los valores de la comunidad del proyecto, y los participantes cuentan con que apliques dichos valores de manera justa e imparcial.
+Finalmente, como responsable de mantenimiento, t&uacute; estableces y aplicas los est&aacute;ndares de comportamiento aceptable. Tienes la habilidad para moldear los valores de la comunidad del proyecto, y los participantes cuentan con que apliques dichos valores de manera justa e imparcial.
 
 ## Promover el comportamiento que quieres ver en el mundo 🌎
 Cuando un proyecto parece hostil y poco acogedor, incluso cuando se trata solamente de una persona cuyo comportamiento es tolerado por los dem&aacute;s, te arriesgas a perder mucho m&aacute;s contribuidores, algunos de los cuales quiz&aacute;s no conozcas jam&aacute;s. No siempre es f&aacute;cil adoptar o aplicar un c&oacute;digo de conducta, pero fomentar un ambiente acogedor ayudara a que tu comunidad crezca.
