@@ -4,7 +4,7 @@ title: Tu C&oacute;digo de Conducta
 description: Facilita el comportamiento sano y constructivo, adoptando y aplicando un c&oacute;digo de conducta.
 class: coc
 toc:
-  ¿por-qu&eacute;-es-necesario-un-c&oacute;digo-de-conducta?: "¿Por qu&eacute; es necesario un c&oacute;digo de conducta?"
+  por-qué-es-necesario-un-código-de-conducta: "Por qué es necesario un código de conducta"
   estableciendo-un-c&oacute;digo-de-conducta: "Estableciendo un c&oacute;digo de conducta"
   decidiendo-de-qu&eacute;-manera-vas-a-aplicar-tu-c&oacute;digo-de-conducta: "Decidiendo de qu&eacute; manera vas a aplicar tu c&oacute;digo de conducta"
   aplicando-tu-c&oacute;digo-de-conducta: "Aplicando tu c&oacute;digo de conducta"
@@ -12,7 +12,7 @@ order: 8
 image: /assets/images/cards/coc.png
 ---
 
-## ¿Por qu&eacute; es necesario un c&oacute;digo de conducta?
+## Por qué es necesario un código de conducta
 
 Un c&oacute;digo de conducta es un documento que establece expectativas de comportamiento para los participantes de tu proyecto. Adoptar, y aplicar, un c&oacute;digo de conducta, ayuda a crear una atmosfera social positiva para la comunidad.
 
