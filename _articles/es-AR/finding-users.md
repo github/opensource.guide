@@ -16,15 +16,15 @@ image: /assets/images/cards/finding.png
 
 ## Pasando la voz
 
-No existe ninguna regla que diga que debes fomentar un proyecto open source cuando lo comienzas. Existen muchas razones satisfactorias para trabajar en c&oacute;digo abierto que no tienen nada relacionado con la popularidad. Si esperas que otros encuentren y usen tu proyecto open source, sin embargo, ¡es momento para decirles a todos acerca de tu arduo trabajo!
+No existe ninguna regla que diga que debes fomentar un proyecto de c&oacute;digo abierto cuando lo comienzas. Existen muchas razones satisfactorias para trabajar en c&oacute;digo abierto que no tienen nada relacionado con la popularidad. Si esperas que otros encuentren y usen tu proyecto de c&oacute;digo abierto, sin embargo, ¡es momento para decirles a todos acerca de tu arduo trabajo!
 
 ## Pensando tu mensaje
 
-Antes de comenzar el trabajo actual de promover tu proyecto, deberías ser capaz de explicar qu&eacute; es lo que hace, y porqu&eacute; importa.
+Antes de comenzar el verdadero trabajo de promover tu proyecto, deberías ser capaz de explicar qu&eacute; es lo que hace, y porqu&eacute; importa.
 
 ¿Qu&eacute; hace a tu proyecto diferente o interesante? ¿Porqu&eacute; lo creaste? Respondiendo estas preguntas para t&iacute; mismo har&aacute; más f&aacute;cil convencer a los dem&aacute;s.
 
-Recuerda que las personas se involucran como usuarios, y eventualmente como contribuyentes, porque resuelve un problema para ellos. Mientras piensas sobre el mensaje para tu proyecto y su valor, trata de verlo a trav&eacute;s de la lente qu&eacute;_es_lo_que_ellos_querr&iacute;an.
+Recuerda que las personas se involucran como usuarios, y eventualmente como contribuyentes, porque resuelve un problema para ellos. Mientras piensas sobre el mensaje para tu proyecto y su valor, trata de verlo a trav&eacute;s de los ojos de qu&eacute;_es_lo_que_ellos_querr&iacute;an.
 
 Por ejemplo, @robb utiliza códigos de ejemplo para comunicar claramente porqué su proyecto, [Cartography](https://github.com/robb/Cartography), es útil:
 
@@ -38,13 +38,13 @@ Para una vista más profunda sobre cómo comunicar tu mensaje, puedes ver el eje
 <aside markdown="1" class="pquote">
  Idealmente solo necesitas una URL "home" que puedas promover e indicar a las personas en relaci&oacute;n a tu proyecto. No es necesario gastar en una plantilla de lujo o incluso un nombre de dominio, pero tu proyecto necesita un punto focal. 
   <p markdown="1" class="pquote-credit">
-— Peter Cooper & Robert Nyman, ["C&oacute;mo pasar la voz acerca de su c&oacute;digo"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+— Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Ayuda a las personas a encontrar y recordar su proyecto indicándoles un solo espacio de nombres.
+Ayuda a las personas a encontrar y recordar tu proyecto indicándoles un solo espacio de nombres.
 
-**Consigue un gestor claro para promover su trabajo.** Un usuario de Twitter, una URL de GitHub o un canal de IRC son maneras f&aacute;ciles de indicar a las personas sobre su proyecto. Tambi&eacute;n le da a la creciente comunidad de tu proyecto un lugar donde reunirse.
+**Consigue un gestor claro para promover su trabajo.** Un usuario de Twitter, una URL de GitHub o un canal de IRC son maneras f&aacute;ciles de indicar a las personas sobre tu proyecto. Tambi&eacute;n le da a la creciente comunidad de tu proyecto un lugar donde reunirse.
 
 Si todav&iacute;a  no deseas configurar estos canales para tu proyecto, promociona en tu usuario personal de Twitter o tu cuenta personal de GitHub todo lo que haga. Por ejemplo, aseg&uacute;rate que est&eacute; inclu&iacute;do en tu biograf&iacute;a o tus diapositivas si te toca disertar en una reuni&oacute;n o evento. De esa manera, las personas sabr&aacute;n c&oacute;mo llegar hasta ti o seguir tu trabajo.
 
@@ -52,7 +52,7 @@ Si todav&iacute;a  no deseas configurar estos canales para tu proyecto, promocio
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
  Un error que comet&iacute; en los primeros días (...) fue no suscribir una cuenta de Twitter para el proyecto. Twitter es una gran manera de mantener a la gente al día sobre un proyecto, así como exponer constantemente a las personas al proyecto.
   <p markdown="1" class="pquote-credit">
-— @nathanmarz, ["Historia de Apache Storm y las lecciones aprendidas"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+— @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
