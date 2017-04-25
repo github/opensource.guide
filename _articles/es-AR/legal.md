@@ -5,10 +5,10 @@ description: Todo lo que te has preguntado sobre la parte legal de c&oacute;digo
 class: legal
 toc:
   por-qu&eacute;-la-gente-se-preocupa-tanto-acerca-de-los-aspectos-legales-del-c&oacute;digo-abierto: "¿Por qu&eacute; la gente se preocupa tanto acerca de los aspectos legales del c&oacute;digo abierto?"
-  son-de-c&oacute;digo-abierto-los-proyectos-p&uacute;blicos-de-GitHub: "¿Son de c&oacute;digo abierto los proyectos p&uacute;blicos de GitHub?"
+  son-de-c&oacute;digo-abierto-los-proyectos-p&uacute;blicos-de-GitHub: "Son de c&oacute;digo abierto los proyectos p&uacute;blicos de GitHub"
   solo-dame-un-resumen-acerca-de-lo-que-necesito-para-proteger-mi-proyecto: "Solo dame un resumen acerca de lo que necesito para proteger mi proyecto"
   cu&aacute;l-licencia-de-c&oacute;digo-abierto-es-apropiada-para-mi-proyecto: "¿Cu&aacute;l licencia de c&oacute;digo abierto es apropiada para mi proyecto?"
-  y-si-quieres-cambiar-la-licencia-de-tu-proyecto: "¿Y si quieres cambiar la licencia de tu proyecto?"
+  y-si-quieres-cambiar-la-licencia-de-tu-proyecto: "Y si quieres cambiar la licencia de tu proyecto"
   necesita-mi-proyecto-un-acuerdo-adicional-de-colaboradores: "¿Necesita mi proyecto un acuerdo adicional de colaboradores?"
   qu&eacute;-necesita-saber-el-equipo-legal-de-mi-empresa: "¿Qu&eacute; necesita saber el equipo legal de mi empresa?"
 order: 10
@@ -30,7 +30,7 @@ Si t&uacute; no aplicas una licencia de c&oacute;digo abierto, todo aquel que co
 
 Finalmente, tu proyecto puede tener dependencias con requisitos de licencia que no conoces. La comunidad de tu proyecto, o tus pol&iacute;ticas de empleador, pueden requerir que tu proyecto haga uso de una licencia de c&oacute;digo abierto espec&iacute;fica. Cubriremos estas situaciones a continuaci&oacute;n.
 
-## ¿Son de c&oacute;digo abierto los proyectos p&uacute;blicos de GitHub?
+## Son de c&oacute;digo abierto los proyectos p&uacute;blicos de GitHub
 Cuando t&uacute; [creas un nuevo proyecto](https://help.GitHub.com/articles/creating-a-new-repository/) en GitHub, tienes la opci&oacute;n de hacerlo **privado** o **publico**.
 ![crear repositorio](/assets/images/legal/repo-create-name.png)
 
@@ -77,7 +77,7 @@ Tu **empresa** puede que tenga requisitos espec&iacute;ficos para licencias de p
 Cuando creas un Nuevo proyecto en GitHub, te son brindadas opciones para elegir una licencia. Incluir cualquiera de las licencias enunciadas anteriormente, har&aacute;n de tu proyecto de GitHub, un proyecto de c&oacute;digo abierto. Si quisieras considerar otras opciones, revisa [choosealicense.com](https://choosealicense.com) en donde encontraras licencias adecuadas para tu proyecto, incluso si el mismo [no es software](https://choosealicense.com/non-software/).
 
 
-## Si quieres cambiar la licencia de tu proyecto
+## Y si quieres cambiar la licencia de tu proyecto
 La mayor&iacute;a de los proyectos no necesitan cambios de licencias. Pero ocasionalmente las circunstancias cambian.
 
 Por ejemplo, a medida que tu proyecto crezca se a&ntilde;adir&aacute;n dependencias y usuarios, o tu empresa modifica estrategias, cualquiera de estos escenarios requerir&aacute;n diferentes licencias. Tambi&eacute;n, si te negaste a establecer una licencia a tu proyecto desde el comienzo, agregar una licencia es efectivamente lo mismo que cambiar las licencias. Hay tres aspectos fundamentales que debes considerar al a&ntilde;adir o cambiar la licencia de tu proyecto:
