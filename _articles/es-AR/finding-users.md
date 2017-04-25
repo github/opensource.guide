@@ -44,13 +44,13 @@ Para una vista más profunda sobre cómo comunicar tu mensaje, puedes ver el eje
 
 Ayuda a las personas a encontrar y recordar tu proyecto indicándoles un solo espacio de nombres.
 
-**Consigue un gestor claro para promover su trabajo.** Un usuario de Twitter, una URL de GitHub o un canal de IRC son maneras f&aacute;ciles de indicar a las personas sobre tu proyecto. Tambi&eacute;n le da a la creciente comunidad de tu proyecto un lugar donde reunirse.
+**Consigue un gestor claro para promover tu trabajo.** Un usuario de Twitter, una URL de GitHub o un canal de IRC son maneras f&aacute;ciles de indicar a las personas sobre tu proyecto. Tambi&eacute;n le da a la creciente comunidad de tu proyecto un lugar donde reunirse.
 
-Si todav&iacute;a  no deseas configurar estos canales para tu proyecto, promociona en tu usuario personal de Twitter o tu cuenta personal de GitHub todo lo que haga. Por ejemplo, aseg&uacute;rate que est&eacute; inclu&iacute;do en tu biograf&iacute;a o tus diapositivas si te toca disertar en una reuni&oacute;n o evento. De esa manera, las personas sabr&aacute;n c&oacute;mo llegar hasta ti o seguir tu trabajo.
+Si todav&iacute;a  no deseas establecer estos canales para tu proyecto, promociona en tu usuario personal de Twitter o tu cuenta personal de GitHub todo lo que hagas. Por ejemplo, aseg&uacute;rate que est&eacute; inclu&iacute;do en tu biograf&iacute;a o tus diapositivas si te toca disertar en una reuni&oacute;n o evento. De esa manera, las personas sabr&aacute;n c&oacute;mo llegar hasta ti o seguir tu trabajo.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
- Un error que comet&iacute; en los primeros días (...) fue no suscribir una cuenta de Twitter para el proyecto. Twitter es una gran manera de mantener a la gente al día sobre un proyecto, así como exponer constantemente a las personas al proyecto.
+ Un error que comet&iacute; en los primeros días (...) fue no suscribir una cuenta de Twitter para el proyecto. Twitter es una gran manera de mantener a la gente al día sobre un proyecto, así como exponer constantemente a las personas al mismo.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
@@ -69,19 +69,19 @@ Ahora que ya tienes un mensaje para tu proyecto, y una manera sencilla para que 
 
 El alcance en l&iacute;nea es una gran manera de compartir y diseminar la palabra r&aacute;pidamente
 
-Saca ventaja de las comunidades en l&iacute;nea existentes y sus plataformas para alcanzar tu audiencia. Si tu proyecto open source es un proyecto de software, probablemente puedas encontrar tu audiencia en [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), o [Quora](https://www.quora.com/). Encuentra los canales donde pienses que las personas obtendrán los mayores beneficios o se sentir&aacute;n más entusiasmadas acerca de tu trabajo.
+Saca ventaja de las comunidades en l&iacute;nea existentes y sus plataformas para alcanzar tu audiencia. Si tu proyecto es de codigo abierto es un proyecto de software, probablemente puedas encontrar tu audiencia en [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), o [Quora](https://www.quora.com/). Encuentra los canales donde pienses que las personas obtendrán los mayores beneficios o se sentir&aacute;n más entusiasmadas acerca de tu trabajo.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
 Cada programa tiene funciones muy espec&iacute;ficas, que solamente una fracci&oacute;n de los usuarios encontra &uacute;til. No env&iacute;es masivamente correo a todas las personas posibles. En su lugar, enfoca tus esfuerzos en comunidades que se beneficiar&aacute;n de conocer sobre tu trabajo.
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["Marketing para proyectos open source"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
 Ve si puedes encontrar formas de compartir tu proyecto en maneras relevantes:
 
-* **Conoce proyectos open source relevantes y comunidades.** Algunas veces, no necesitas promocionar tu proyecto directamente. Si tu proyecto es indicado para cient&iacute;ficos de datos que utilizan Python, conoce a la comunidad de cient&iacute;ficos de datos de Python. A medida que las personas lo conozcan, llegarán oportunidades de conversar y de compartir tu trabajo de manera natural.
+* **Conoce proyectos de c&oacute;digo abierto relevantes y comunidades.** Algunas veces, no necesitas promocionar tu proyecto directamente. Si tu proyecto es de inter&eacute;s para cient&iacute;ficos de datos que utilizan Python, conoce a la comunidad de cient&iacute;ficos de datos de Python. A medida que las personas lo conozcan, llegarán oportunidades de conversar y de compartir tu trabajo de manera natural.
 * **Encuentra personas que est&eacute;n experimentando problemas como el que resuelve tu proyecto.** Busca en foros relacionados con personas que caen en la audiencia de tu proyecto. Responde sus preguntas y encuentra una forma diplom&aacute;tica, cuando sea apropiado, de sugerir tu proyecto como una soluci&oacute;n.
 * **Pide comentarios.** Pres&eacute;ntate y presenta tu trabajo a una audiencia que lo encuentre relevante e interesante. Se espec&iacute;fico acerca de qui&eacute;nes crees que se beneficiar&aacute;n de tu proyecto. Trata de finalizar la oración: _"Creo que mi proyecto realmente ayudar&aacute; a X, quien está tratando de hacer Y_". Escucha y responde los comentarios, en lugar de simplemente promover tu trabajo.
 
@@ -95,25 +95,25 @@ Si nadie presta atenci&oacute;n o responde a tu alcance inicial, ¡no te desanim
 
 Los eventos fuera de l&iacute;nea son una manera popular de promocionar nuevos proyectos. Es una gran manera de alcanzar una audiencia comprometida y de construir conexiones personales m&aacute;s profundas, especialmente si estás interesado en llegar a los desarrolladores.
 
-Si eres [nuevo para hablar en p&uacute;blico](http://speaking.io/), comienza por encontrar una comunidad local de personas que est&eacute;n relacionados con el lenguaje o ecosistema de tu proyecto.
+Si no tienes [experiencia para hablar en p&uacute;blico](http://speaking.io/), comienza por encontrar una comunidad local de personas que est&eacute;n relacionados con el lenguaje o ecosistema de tu proyecto.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
 Estaba muy nerviosa acerca de ir a Pycon. Estaba dando una charla, solo iba a conocer a un par de personas ah&iacute;, me iba por una semana entera. (...) No deber&iacute;a haberme preocupado, sin embargo. ¡Pycon fue fenomenalmente incre&iacute;ble! (...). ¡Todos eran incre&iacute;blemente amigables y extrovertidos, tanto que rara vez encontraba tiempo para no hablar con la gente!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["C&oacute;mo aprend&iacute; a no preocuparme y a amar Pycon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
 Si nunca hablaste en un evento anteriormente, es perfectamente normal sentirte nervioso. Recuerda que tu audiencia est&aacute; all&iacute; porque genuinamente quieren escuchar acerca de tu trabajo.
 
-Mientras escribes tu charla, enf&oacute;cate en lo que el p&uacute;blico encontrar&aacute; interesante y valioso. Mant&eacute;n tu lenguaje amigable y accesible. Sonr&iacute;e, respira y divi&eacute;rtete.
+Mientras escribes tu charla, enf&oacute;cate en lo que el p&uacute;blico pueda encontrar interesante y valioso. Mant&eacute;n tu lenguaje amigable y accesible. Sonr&iacute;e, respira y divi&eacute;rtete.
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
- Cuando comienzas a escribir tu charla, sin importar cu&aacute;l sea tu t&oacute;pico, puede ayudar si ves tu charla como una historia que le cuentas a la gente.
+ Cuando comienzas a escribir tu charla, sin importar cu&aacute;l sea tu t&oacute;pico, puede ser de ayuda ver a tu charla como una historia que le cuentas a la gente.
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["C&oacute;mo preparar y escribir una charla de conferencia tecnol&oacute;gica"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
@@ -125,7 +125,7 @@ Busca conferencias que sean espec&iacute;ficas de tu lenguaje o ecosistema. Ante
   <img src="https://avatars2.githubusercontent.com/u/80?v=3&s=460" class="pquote-avatar" alt="avatar">
   Escribí muy amablemente a la gente de JSConf y les supliqué que me dieran un espacio donde pudiera presentarme en la JSConf EU. (...) Estaba extremadamente asustada, presentando esta cosa en la que había estado trabajando por seis meses. (...) Todo el tiempo estaba pensando ¡Oh Di&oacute;s m&iacute;o! ¿Qu&eacute; estoy haciendo aqu&iacute;?
   <p markdown="1" class="pquote-credit">
-— @ry, ["Historia de Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
+— @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
 </aside>
 
@@ -141,7 +141,7 @@ Algunas veces, esas relaciones pueden llevar incluso a asociaciones oficiales co
   <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar" alt="avatar">
   La &uacute;nica raz&oacute;n por la que urllib3 es la librer&iacute;a de Python de terceros m&aacute;s popular es porque es parte de las solicitudes.
   <p markdown="1" class="pquote-credit">
-— @shazow, ["C&oacute;mo hacer que tu proyecto open source prospere"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+— @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
   </p>
 </aside>
 
@@ -151,12 +151,12 @@ No hay una soluci&oacute;n para construir una audiencia en una noche. Ganarse la
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
-  PhantomJS fue lanzado por primera vez a comienzos del 2011. (...)  Yo pas&eacute; la voz de las maneras usuales: envi&eacute; posts en Tweeter sobre el mismo, escrib&iacute; posts en blogs sobre cosas que pod&iacute;an hacerse con &eacute;l, lo nombr&eacute; durante varios en encuentros. Cuando me hice más conocido en el 2014, comenc&eacute; a hacer presentaciones sobre &eacute;l.
+  PhantomJS fue lanzado por primera vez a comienzos del 2011. (...)  Yo pas&eacute; la voz utilizando maneras convencionales: envi&eacute; posts en Tweeter sobre el mismo, escrib&iacute; posts en blogs sobre cosas que pod&iacute;an hacerse con &eacute;l, lo nombr&eacute; durante varias discuciones en encuentros. Cuando se hizo más conocido en el 2014, comenc&eacute; a hacer presentaciones sobre &eacute;l.
   <p markdown="1" class="pquote-credit">
-— @ariya, ["Historias de mantenimiento"](https://github.com/open-source/stories/ariya)
+— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
   </p>
 </aside>
 
 ## S&iacute;guelo!
 
-Algunas veces, lleva mucho tiempo antes de que la gente note tu proyecto open source. ¡Eso está bien! Algunos de los proyectos más populares hoy en día llevan años en alcanzar altos niveles de actividad. Enfócate en construir relaciones en lugar de una bala mágica. S&eacute; paciente, y continua compartiendo tu trabajo con aquellos que lo aprecian.
+Algunas veces, lleva mucho tiempo antes de que la gente note tu proyecto de c&oacute;digo abierto. ¡Está bien! Algunos de los proyectos más populares de hoy en día, tardaron años en alcanzar altos niveles de actividad. Enfócate en construir relaciones en lugar de una bala mágica. S&eacute; paciente, y continua compartiendo tu trabajo con aquellos que lo aprecian.
