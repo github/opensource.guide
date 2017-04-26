@@ -302,7 +302,7 @@ Now do the same for the project's pull requests.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
+  <label for="cbox10" class="overflow-hidden d-block text-normal">
     How many open pull requests are there?
   </label>
 </div>
