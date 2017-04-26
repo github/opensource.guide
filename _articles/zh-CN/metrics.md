@@ -4,11 +4,11 @@ title: 开源衡量标准
 description: 通过持续的追踪项目，帮助你作出最佳决策，以让开源项目更成功。
 class: metrics
 toc:
-  why-measure-anything: "Why measure anything?"
-  discovery: "Discovery"
-  usage: "Usage"
-  retention: "Retention"
-  maintainer-activity: "Maintainer activity"
+  why-measure-anything: "为何要衡量所有？"
+  discovery: "发现"
+  usage: "使用"
+  retention: "留人"
+  maintainer-activity: "维护者活跃度"
 order: 9
 image: /assets/images/cards/metrics.png
 ---
@@ -101,17 +101,17 @@ Examples of community metrics that you may want to regularly track include:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/4483" class="pquote-avatar" alt="avatar">
-  Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+  开源不仅仅是代码，成功的开源项目包括代码和文档同时的贡献，乃至它们的任何变动的记录。
   <p markdown="1" class="pquote-credit">
-— @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
+— @arfon, ["开源的形状"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
 </aside>
 
-## Maintainer activity
+## 维护者活跃度
 
 Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
 
-Unresponsive maintainers become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave.
+不负责的维护者绝对是开源项目的瓶颈。想象一下就知道，假如一位贡献者提交了代码或其他贡献，但你从来没有得到过维护者的回应，Ta一定会感到灰心，并最终离开。
 
 [Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
 
@@ -124,6 +124,6 @@ You could also measure the time it takes to move between stages in the contribut
 * Whether stale issues get closed
 * Average time to merge a pull request
 
-## Use 📊 to learn about people
+## 使用 📊 来总结、学习人们
 
-Understanding metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
+理解一些细节能够帮助你建设活跃的、成长的开源项目。哪怕是你无法追踪每一个细节，通过使用上述的框架，将能够让你集中精力到该用力的地方，进而助项目成功！

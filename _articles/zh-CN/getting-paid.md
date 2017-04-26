@@ -54,7 +54,7 @@ image: /assets/images/cards/getting-paid.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
-   开源软件为技术领域贡献了巨大的好处，其实，更准确的说是所有的行业。(...) 然而，if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+   开源软件为技术领域贡献了巨大的好处，其实，更准确的说是所有的行业。(...) 然而，如果仅仅是靠人们自身的痴迷和兴趣所致，那么很可能就没有开源的今天。
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["金钱与开源"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
   </p>
@@ -66,69 +66,69 @@ image: /assets/images/cards/getting-paid.png
 
 在今天，有很多人在开源中获得了报酬，无论是兼职或全职。最为常见的做法就是，有些老板愿意为你付出的时间和工作成果掏腰包。
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+如果你的老板使用到了相应的项目，那么人们找到对应的开源工作就顺理成章，当然这需要你有足够的能力来担当。也有的情况是老板没有使用到相应的开源项目，但是用到了诸如Python之类的开源编程语言，那么能够维护流行的开源编程语言项目可以帮助老板吸引到相应的开发者。又或者都不是，那老板也可以获得对开发者友好的口碑。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+  就像很多开源项目的故事一样，我花了大量的时间来维护项目。当我第一次开始为开源做事情的时候，我在公司待到很晚才回家。（...)然后我就和老板谈，就开源的任务当作本来的工作来做。
   <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
+— @hzoo, ["一名维护者的故事"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
-If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
+如果你现在还没有为开源项目做工作，但是你希望你现在所做得成绩开源出来，那么你可以和你的老板讲，奉劝他将内部的软件开源。
 
-很多公司都在开发开源项目，从而能够打造自己的品牌，以及雇佣到高质量的人才。
+很多公司都在开发开源项目，从而能够打造自己的品牌，以及希望雇佣到高质量的人才。
 
-@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](https://hueniverse.com/2014/08/15/open-source-aint-charity/). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
+@hueniverse ，举例来说，有充足的证据证明 [沃尔玛对开源的投资](https://hueniverse.com/2014/08/15/open-source-aint-charity/)是合理的。 @jamesgpearce 同样，脸谱网的开源项目让它的招聘显得[与众不同](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) :
 
-> It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
+> 开源能够与我们Hacker文化密切配合，也能够和我们的组织融洽。我们询问员工：”在Facebook真的那么的在意开源软件？“ 超过2/3的人的回答是”yes“。一半的人表示，该计划对他们为我们工作的决定作出了积极的贡献。这可不是一个戏谑的数字，我们希望继续保持这样。
 
-If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
+如果你所在的公司不赞同这么做，没关系，重要的是保持社区和企业活动之间的界限清晰。你要告诉老板，开源的维持是由全球各地的人所贡献，要比任何一个公司或某一地域都大的多。老板会自己作出权衡的。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1445228?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
+  获得开源的工作是一个难得的机会，而你不应该放弃对这个过程的热情。公司应该为你的激情付相应的报酬。
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
 </aside>
 
-If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
+如果你实在无法在当前的雇主下开展相关开源的工作，那么是该考虑换老板的时候，应到找个支持想开源作贡献的老板！寻找那些致力于开源工作的公司。比如：
 
-* [Ghost](https://ghost.org/) is a company built around [an open source project](https://github.com/tryghost/ghost)
-* [Rackspace](https://www.rackspace.com/en-us) published its [open source contribution policy](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) for employees
+* [Ghost](https://ghost.org/)  就是一家围绕很多[开源项目](https://github.com/tryghost/ghost)的好公司
+* [Rackspace](https://www.rackspace.com/en-us) 甚至为其员工提供了[贡献开源守则](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/)
 
-Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
+那些大公司发起的项目，如 [Go](https://github.com/golang) 或 [React](https://github.com/facebook/react)，均希望雇佣到优秀的工程师来为他们工作。
 
-Finally, depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
+当然最终还是要看你自身的条件而定，你甚至可以利用你的开源项目来独立的进行融资。这边就有几个案例：
 
-* @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](http://redux.js.org/)
-* @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* @gaearon 通过 [Patreon crowdfunding campaign](http://redux.js.org/)为他的项目 [Redux](https://github.com/reactjs/redux)成功的融到了资金。
+* @andrewgodwin [通过 Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) 为Django schema 迁移拿到了资金
 
 ## 为你的项目寻找资助
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+除了针对个人贡献者的建议之外，还有一些项目可以从公司、独立投资方、以及其它的资金处来获得进一步的工作。
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+机构资金可能用于支付当前的贡献者，涵盖运行项目的成本（如托管费用）或投资于新功能或想法。
 
 一些获得组织资助的项目案例：
 
-* **[webpack](https://github.com/webpack),** which raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue),** created by @yyx990803, which is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization created by @indirect that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[webpack](https://github.com/webpack),**  [通过 OpenCollective](https://opencollective.com/webpack) 从公司和个人来筹集资金
+* **[Vue](https://github.com/vuejs/vue),** 由 @yyx990803 创建，[通过 Patreon](https://github.com/open-source/stories/yyx990803)获得资助
+* **[Ruby Together](https://rubytogether.org/),** 由 @indirect 创建的非盈利组织 ，为诸如 [bundler](https://github.com/bundler/bundler)、[RubyGems](https://github.com/rubygems/rubygems)、以及其它的一些 Ruby 的基础设施项目提供资金支持
 
-As open source's popularity increases, finding funding for projects is still experimental. A few current options include:
+尽管开源日渐的流行，但是为项目寻找资金仍然是处于试验中。目前所收集到的包括：
 
-* **Raise money for your work through crowdfunding campaigns or donations.** This strategy works well if you have a strong audience or reputation already, or your project is very popular.
-* **Apply for grant funding.** Some software foundations and companies offer grants for open source work, such as the [Python Software Foundation](https://www.python.org/psf/grants/), [Mozilla Foundation](https://www.mozilla.org/en-US/grants/), and [Stripe](https://stripe.com/blog/open-source-retreat-2016).
-* **Raise sponsorships from companies and individual donors** through a software foundation. Or **start a business** to support the project.
+* **通过大力宣传活动或募捐，为您的工作筹集资金** 这策略在你拥有足够的粉丝，或者是已经社区声誉良好的情况下，又或者是项目非常的受欢迎，等情况下有效。
+* **接受基金巨头的资助** 一些软件基金会和公司为开源的相关工作提供很好的机会，如[Python 软件基金会](https://www.python.org/psf/grants/), [Mozilla 基金会](https://www.mozilla.org/en-US/grants/)、以及[Stripe](https://stripe.com/blog/open-source-retreat-2016).
+* **获得公司或独立投资商的赞助** 通过软件基金会，或者是干脆 **创业** 来支撑项目。
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+更多的案例和细节， @nayafia [专门写过一个指南](https://github.com/nayafia/lemonade-stand) ，专门针对的就是如何为开源工作获得报酬。不同类型的资助需要不同的技能，所以仔细的掂量下资格，然后找个最适合自己的方式。
 
 ## 建立经济上的支持
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+无论你的项目是新的创意，还是已经运行多年，你都需要为你的资助者满意，并提出有效而合理的案例。
 
 Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
 
@@ -144,7 +144,7 @@ Try to collect evidence that your project matters, whether it's metrics, anecdot
 
 Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
 
-### Use of funds
+### 利用风投
 
 What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
 
