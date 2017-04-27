@@ -130,7 +130,7 @@ image: /assets/images/cards/getting-paid.png
 
 无论你的项目是新的创意，还是已经运行多年，你都需要为你的资助者满意，并提出有效而合理的案例。
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+不管是你自己寻找相应的工作，还是为项目融资，你都应该尝试回答下面的问题。
 
 ### 影响
 
@@ -138,25 +138,25 @@ Whether you're looking to pay for your own time, or fundraise for a project, you
 
 ### 牵引
 
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+尝试着去收集一些和你项目休戚相关的证据，比如指标、有趣的事情、还是其他人的推荐。是否有其它公司或者是业内意见领袖正在使用你的项目？如果没有的话，是不是应该去找相应的人去推荐下？
 
-### Value to funder
+### 充分利用资助者的价值
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+资助者，无论他是雇佣你的老板，还是一家获得授权的基金会，你都有机会和他们频繁的进行接触。 他们为什么会放弃其它机会而去支持你的项目？他们个人有何好处？
 
 ### 利用风投
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+您将如何用拟议的资金完成什么？专注于项目里程碑或成果，而不是支付工资。
 
-### How you'll receive the funds
+### 你将以何种方式接受资助
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+资助者是否有关于宣传的额外需求？例如，你可能需要您可能需要成为非盈利组织或拥有非营利性财政赞助商。又或者是资助者必须给到个人而不是一个组织。这些不同的需求会因为不同的资助者而异，所以请事先做好准备。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1076721?v=3&s=460" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  多年以来，我们一直都是网站友好图标资源的领先者，社区超过2千万人，并为7千万网站提供资源，其中包括 Whitehouse.gov。 (...) 3年前我们发布了Font Awesome 的第4个版本。Web技术从那时起改变了更多事情，而且坦率的说Font Awesome 都有点过时。 (...) 这也是我们刚刚发布 FontAwesome 5的原因之一，我们模块化和重写了 CSS，并从上到下重新设计了每一个图标。我们积极的探讨更好的设计、更好的一致性、以及更好的可读性。
   <p markdown="1" class="pquote-credit">
-— @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
+— @davegandy, [Font Awesome Kickstarter 众筹视频](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
