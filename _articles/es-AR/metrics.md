@@ -1,19 +1,19 @@
 ---
 locale: es-AR
-title: Open Source Metrics
-description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
+title: Métricas de código abierto
+description: Tomar decisiones informadas para ayudar a tu proyecto de código abierto a prosperar mediante la medición y el seguimiento de su éxito.
 class: metrics
 toc:
-  why-measure-anything: "Why measure anything?"
-  discovery: "Discovery"
-  usage: "Usage"
-  retention: "Retention"
-  maintainer-activity: "Maintainer activity"
+  para-qué-medir-algo: "¿Para qu&eacute; medir algo?"
+  descubrimiento: "Descubrimiento"
+  uso: "Uso"
+  retener: "Retener"
+  actividad-de-mantenimiento: "Actividad de mantenimiento"
 order: 9
 image: /assets/images/cards/metrics.png
 ---
 
-## &ordm;Para qu&eacute; medir algo?
+## ¿Para qu&eacute; medir algo?
 
 Los datos, usados de forma sabia, pueden ayudarte a tomar mejores decisiones.
 
@@ -36,7 +36,7 @@ Si tu _est&aacute;s_ interesado en entender tu proyecto a un nivel m&aacute;s pr
 
 ## Descubrimiento
 
-Antes de que alguien pueda usar o contribuir a tu proyecto, quiz&aacute;s necesiten saber que el mismo existe. Debes preguntarte: _&ordm;las personas pueden encontrar el proyecto?_
+Antes de que alguien pueda usar o contribuir a tu proyecto, quiz&aacute;s necesiten saber que el mismo existe. Debes preguntarte: _¿Las personas pueden encontrar el proyecto?_
 
 ![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
@@ -56,7 +56,7 @@ Quiz&aacute;s tambi&eacute;n quieras [rastrear la forma que te descubren desde l
 
 ## Uso
 
-Las personas hallan tu proyecto en ese lugar salvaje y loco llamado Internet. Lo mejor ser&iacute;a que, cuando vean tu proyecto, se sientan obligados o atra&iacute;dos a hacer algo. La segunda pregunta que queremos hacer es: _&ordm;Las personas est&aacute;n usando tu proyecto?_
+Las personas hallan tu proyecto en ese lugar salvaje y loco llamado Internet. Lo mejor ser&iacute;a que, cuando vean tu proyecto, se sientan obligados o atra&iacute;dos a hacer algo. La segunda pregunta que queremos hacer es: _¿Las personas est&aacute;n usando tu proyecto?_
 
 Si usas un administrador de paquetes, como npm o Rubygems.org para distribuir tu proyecto, quiz&aacute;s quieras rastrear las descargas del mismo
 
@@ -75,11 +75,11 @@ Por ejemplo, si tu proyecto figura en la p&aacute;gina principal de Hacker New, 
 
 Trata de deducir de d&oacute;nde proviene tu audiencia, y pide feedback a otros para saber cu&aacute;l de los dos problemas est&aacute;s enfrentando.
 
-Una vez que sepas que las personas usan tu proyecto, quiz&aacute;s quieras probar determinar qu&eacute; es lo que hacen con &eacute;l. &ordm;Lo usan para proyectos de investigaci&oacute;n o negocios? &ordm;Realizan "fork" al mismo y est&aacute;n agregando nuevas caracter&iacute;sticas?
+Una vez que sepas que las personas usan tu proyecto, quiz&aacute;s quieras probar determinar qu&eacute; es lo que hacen con &eacute;l. ¿Lo usan para proyectos de investigaci&oacute;n o negocios? ¿Realizan "fork" al mismo y est&aacute;n agregando nuevas caracter&iacute;sticas?
 
 ## Retener
 
-La gente est&aacute; hallando tu proyecto y lo est&aacute;n usando. La siguiente pregunta que debes hacerte es: _&ordm;Las personas est&aacute;n contribuyendo al proyecto?_
+La gente est&aacute; hallando tu proyecto y lo est&aacute;n usando. La siguiente pregunta que debes hacerte es: _¿Las personas est&aacute;n contribuyendo al proyecto?_
 
 Nunca es demasiado temprano para comenzar a pensar en los contribuyentes. Sin otras personas te arriesgas a enfrentar una situaci&oacute;n donde tu proyecto es _popular_ (muchas personas lo usan) pero no _soportado_ (no hay tiempo suficiente para mantener el proyecto y afrontar la demanda).
 
@@ -89,13 +89,13 @@ Ejemplos de m&eacute;tricas de comunidad que quieres rastrear incluyen:
 
 * **El total de commits por contribuyente, y el número de ellos: ** Te informa cu&aacute;ntos contribuyentes tienes y qui&eacute;n es m&aacute;s o menos activo. En GitHub, pudes ver esto debajo de "Graphs" -> "Contributors". Actualmente est&eacute; gr&aacute;fico solo cuenta los contribuyentes que han hecho algún commit a la rama por defecto del repositorio.
 
-![Gr&aacute;fico de contribuyentes](/assets/images/metrics/repo_contributors_specific_graph.png)
+![contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **Contribuyentes nuevos, casuales y repetidos** Te ayuda a rastrear si est&aacute;s obteniendo nuevos contribuyentes, y si vuelven. (Los casuales son aquellos con un número bajo de commits, elige tu criterio para definir dicho número). Sin nuevos contribuyentes, la comunidad de tu proyecto puede permanecer estancada.
 
-* **Número de issues y pull requests abiertos: ** Si estos números se hacen muy grandes necesitar&aacute;s ayuda para revisar el c&oacute;digo.
+* **Número de issues y pull requests abiertos:** Si estos números se hacen muy grandes necesitar&aacute;s ayuda para revisar el c&oacute;digo.
 
-* **Número de issues y pull requests que _han sido abiertos_: ** Los issues abiertos significan que alguien se preocupa lo suficiente por tu proyecto para abrir un issue. Si ese número incremente con el tiempo sugiere que las personas est&aacute;n interesadas en tu proyecto.
+* **Número de issues y pull requests que _han sido abiertos_:** Los issues abiertos significan que alguien se preocupa lo suficiente por tu proyecto para abrir un issue. Si ese número incremente con el tiempo sugiere que las personas est&aacute;n interesadas en tu proyecto.
 
 * **Tipos de contribuci&oacute;n:** Por ejemplo commits, arreglar typos, solucionar bugs o comentando en un issue.
 
@@ -109,7 +109,7 @@ Ejemplos de m&eacute;tricas de comunidad que quieres rastrear incluyen:
 
 ## Actividad de mantenimiento
 
-Finalmente, quiz&aacute;s quieras cerrar el ciclo de asegurarte si los encargados de mantener tu proyecto pueden manejar el volumen de contribuciones que se vayan a recibir. La última pregunta que quieres hacerte es: _&ordm;Estoy/Estamos listo/s para responder a la comunidad?_
+Finalmente, quiz&aacute;s quieras cerrar el ciclo de asegurarte si los encargados de mantener tu proyecto pueden manejar el volumen de contribuciones que se vayan a recibir. La última pregunta que quieres hacerte es: _¿Estoy/Estamos listo/s para responder a la comunidad?_
 
 Encargados de mantenimiento que no respondan pueden volverse un cuello de botella en tu proyecto. Si alguien hace una contribuci&oacute;n pero no recibe noticia del encargado de mantenimiento, esta persona puede sentirse desmotivada y por ende abandonar el proyecto.
 
