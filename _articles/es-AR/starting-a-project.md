@@ -1,19 +1,19 @@
 ---
-locale: es_AR
+locale: es-AR
 title: Comenzando un proyecto de C&oacute;digo Abierto
 description: Aprende m&aacute;s acerca del mundo del Código Abierto y prep&aacute;rate a lanzar tu propio proyecto.
-class: principiantes
+class: beginners
 toc:
-  the-what-and-why-of-open-source: "El c&oacute;mo y el por qu&eacute; del C&oacute;digo Abierto"
-  should-i-launch-my-own-open-source-project: "&iquest;Deber&iacute;a lanzar mi propio proyecto de C&oacute;digo Abierto?"
-  launching-your-own-open-source-project: "Lanzando tu propio proyecto de C&oacute;digo Abierto"
-  naming-and-branding-your-project: "Dando un nombre y una marca a tu proyecto"
-  your-pre-launch-checklist: "Tu checklist a armar previamente al lanzamiento del proyecto"
+  el-c&oacute;mo-y-el-por-qu&eacute;-del-c&oacute;digo-abierto: "El c&oacute;mo y el por qu&eacute; del C&oacute;digo Abierto"
+  deber&iacute;a-lanzar-mi-propio-proyecto-de-c&oacute;digo-abierto: "¿Deber&iacute;a lanzar mi propio proyecto de C&oacute;digo Abierto?"
+  lanzando-tu-propio-proyecto-de-c&oacute;digo-abierto: "Lanzando tu propio proyecto de C&oacute;digo Abierto"
+  dando-un-nombre-y-una-marca-a-tu-proyecto: "Dando un nombre y una marca a tu proyecto"
+  tu-checklist-a-armar-previamente-al-lanzamiento-del-proyecto: "Tu checklist a armar previamente al lanzamiento del proyecto"
 order: 2
 image: /assets/images/cards/beginner.png
 ---
 
-## El c&oacute;mo y el por qu&eacute; del c&oacute;digo abierto
+## El c&oacute;mo y el por qu&eacute; del C&oacute;digo Abierto
 
 &iquest;Est&aacute;s pensando c&oacute;mo comenzar un proyecto de c&oacut;digo abierto? &iexcl;Felicitaciones! El mundo aprecia tu contribuci&oacute;n. Hablemos sobre lo que es un proyecto de c&oacute;digo abierto y porqu&eacute; la gente lo lleva adelante
 
@@ -64,7 +64,7 @@ Esto es debido a que [una licencia open source requiere](https://opensource.org/
 
 El resultado es que la mayor parte de los proyectos de este tipo son gratuitos, pero "gratuito" no forma parte de la definici&oacute;n del "C&oacute;digo Abierto". Hay formas de cobrar por estos proyectos en forma indirecta a trav&eacute;s de licencias duales o funcionalidad limitada, y al mismo tiempo cumplir con la definici&oacute;n oficial del "C&oacute;digo Abierto".
 
-## &iquest;Deber&iacute;a comenzar mis propios proyectos de c&oacute;digo abierto?
+## ¿Deber&iacute;a lanzar mi propio proyecto de C&oacute;digo Abierto?
 
 La respuesta corta es "S&iacute;", debido a que, sin importar lo que suceda, lanzar tu propio proyecto es una buena forma de aprender acerca de c&oacute;mo funciona el c&oacute;digo abierto.
 
@@ -113,7 +113,7 @@ Si tu meta es aprender c&oacute;mo contribuir con otros o entender c&oacute;mo f
 
 Si no sab&eacute;s como comenzar a contribuir, mira esto [Gu&iacute;a sobre c&oacute;mo contribuir](../how-to-contribute/).
 
-## Lanzando tus propios proyectos 
+## Lanzando tu propio proyecto de C&oacute;digo Abierto 
 
 No hay momento prefecto para abrir el c&oacute;digo de tu trabajo. Puedes abrir el de una idea, el de un trabajo en progreso, o despu&eacute;s de varios a&ntilde;os de ser un proyecto cerrado.
 
@@ -221,7 +221,7 @@ Como muchas licencias de c&oacute;digo abierto, existen est&aacute;ndares emerge
 
 Copia el texto directamente en el archivo CODE_OF_CONDUCT dentro de tu repositorio, en el directorio ra&iacute;z, y vinculalo desde tu README.
 
-## Asignando nombre y la marca a tu proyecto
+## Dando un nombre y una marca a tu proyecto
 
 La marca es m&aacute;s que elegir un nombre atractivo y un buen logo. Es acerca de c&oacute;mo hablar de tu proyecto y llegar a la gente.
 
@@ -268,7 +268,7 @@ Luego de c&oacute;mo expresarte, tu estilo a la hora de codificar puede ser impo
 
 No es necesario escribir una "gu&iacute;a de estilo" para tus proyectos cuando reci&eacute;n est&aacute;s comenzando, y quiz&aacute;s hasta descubras que disfrutas al incorporar distintos estilos de codificaci&oacute;n en tu proyecto. Pero deber&iacute;as anticiparte y definir c&oacute;mo tu redacci&oacute;n y estilo de codificaci&oacute;n puede atraer o no a distintos tipos de personas. Define esto al comienzo.
 
-## Tu checklist de pre-lanzamiento
+## Tu checklist a armar previamente al lanzamiento del proyecto
 
 Est&aacute;s listo para iniciar tu propio proyecto de C&oacute;digo Abierto. Aqu&iacute; dejamos un checklist que puede ayudar. &iexcl;Una vez marcadas todas las casillas estás listo para continuar! [Clickea "publish"](https://help.github.com/articles/making-a-private-repository-public/).
 
