@@ -4,12 +4,12 @@ title: Liderazgo y Gobierno
 description: Los proyectos de c&oacute;digo abierto crecientes pueden beneficiarse de reglas formales para tomar decisiones.
 class: leadership
 toc:
-  Cu&aacute;les-son-ejemplo-de-roles-formales-utilizados-en-proyectos-de-c&oacute;digo-abierto: "¿Cu&aacute;les son ejemplos de roles formales utilizados en proyectos de c&oacute;digo abierto?"
-  c&oacute;mo-formalizo-los-roles-de-liderazgo: "¿C&oacute;mo formalizo los roles de liderazgo?"
-  cuando-le-puedo-dar-acceso-para-hacer-commits-a-alguien: ¿Cuando le puedo dar acceso a hacer commits a alguien?"
-  Cu&aacute;les-son-algunas-de-las-estructuras-de-gobierno-comunes-para-los-proyectos-de-c&oacute;digo-abierto: "¿Cu&aacute;les son algunas de las estructuras de gobierno comunes para los proyectos de c&oacute;digo abierto?"
-  Necesito-documentaci&oacute;n-de-gobierno-cuando-lanzo-mi-proyecto: "¿Necesito documentaci&oacute;n de gobierno cuando lanzo mi proyecto?"
-  que-pasa-cuando-los-empleados-de-corporaciones-comienzan-a-enviar-contribuciones: "¿Que pasa cuando los empleados de corporaciones comienzan a enviar contribuciones?"
+  Cu&aacute;les-son-ejemplo-de-roles-formales-utilizados-en-proyectos-de-c&oacute;digo-abierto: "Cu&aacute;les son ejemplos de roles formales utilizados en proyectos de c&oacute;digo abierto?"
+  c&oacute;mo-formalizo-los-roles-de-liderazgo: "C&oacute;mo formalizo los roles de liderazgo?"
+  cuando-le-puedo-dar-acceso-para-hacer-commits-a-alguien: Cuando le puedo dar acceso a hacer commits a alguien?"
+  Cu&aacute;les-son-algunas-de-las-estructuras-de-gobierno-comunes-para-los-proyectos-de-c&oacute;digo-abierto: "Cu&aacute;les son algunas de las estructuras de gobierno comunes para los proyectos de c&oacute;digo abierto?"
+  Necesito-documentaci&oacute;n-de-gobierno-cuando-lanzo-mi-proyecto: "Necesito documentaci&oacute;n de gobierno cuando lanzo mi proyecto?"
+  que-pasa-cuando-los-empleados-de-corporaciones-comienzan-a-enviar-contribuciones: "Que pasa cuando los empleados de corporaciones comienzan a enviar contribuciones?"
   necesito-una-entidad-legar-para-apoyar-a-mi-proyecto:"¿Necesito una entidad legal para apoyar a mi proyecto?"
 order: 6
 image: /assets/images/cards/leadership.png
