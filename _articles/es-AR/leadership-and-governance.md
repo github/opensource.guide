@@ -1,5 +1,5 @@
 ---
-locale: en-AR
+locale: es-AR
 title: Liderazgo y Gobierno
 description: Los proyectos de c&oacute;digo abierto crecientes pueden beneficiarse de reglas formales para tomar decisiones.
 class: leadership
