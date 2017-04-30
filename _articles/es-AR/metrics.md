@@ -1,10 +1,10 @@
 ---
 locale: es-AR
-title: Métricas de código abierto
-description: Tomar decisiones informadas para ayudar a tu proyecto de código abierto a prosperar mediante la medición y el seguimiento de su éxito.
+title: M&eacute;tricas de c&oacute;digo abierto
+description: Tomar decisiones informadas para ayudar a tu proyecto de c&oacute;digo abierto a prosperar mediante la medici&oacute;n y el seguimiento de su &eacute;xito.
 class: metrics
 toc:
-  para-qué-medir-algo: "¿Para qu&eacute; medir algo?"
+  para-qu&eacute;-medir-algo: "¿Para qu&eacute; medir algo?"
   descubrimiento: "Descubrimiento"
   uso: "Uso"
   retener: "Retener"
@@ -40,7 +40,7 @@ Antes de que alguien pueda usar o contribuir a tu proyecto, quiz&aacute;s necesi
 
 ![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Si tu proyecto est&aacute; hospedado en GitHub, [puedes ver](https://help.github.com/articles/about-repository-graphs/#traffic) cu&aacute;ntas personas lo visitan, y de d&oacute;nde vienen. En la p&aacute;gina de tu proyecto haz click en "Graphs", y luego "Traffic". En esta p&aacute;gina puedes ver:
+Si tu proyecto est&aacute; hosteado en GitHub, [puedes ver](https://help.github.com/articles/about-repository-graphs/#traffic) cu&aacute;ntas personas lo visitan, y de d&oacute;nde vienen. En la p&aacute;gina de tu proyecto haz click en "Graphs", y luego "Traffic". En esta p&aacute;gina puedes ver:
 
 * **Total de vistas:** Informa la cantidad de veces que tu p&aacute;gina fue vista
 
