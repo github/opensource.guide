@@ -14,9 +14,6 @@ order: 3
 image: /assets/images/cards/finding.png
 ---
 
-<!--ve-donde-est&aacute;-la-audiencia-de-tu-proyecto:-en-l&iacute;nea: "Ve donde est&aacute; la audiencia de tu proyecto: en l&iacute;nea"-->
-<!--ve-donde-est&aacute;-la-audiencia-de-tu-proyecto:-fuera-de-l&iacute;nea: "Ve donde est&aacute; la audiencia de tu proyecto: fuera de l&iacute;nea"-->
-
 ## Pasando la voz
 
 No existe ninguna regla que diga que debes fomentar un proyecto de c&oacute;digo abierto cuando lo comienzas. Existen muchas razones satisfactorias para trabajar en c&oacute;digo abierto que no tienen nada relacionado con la popularidad. Si esperas que otros encuentren y usen tu proyecto de c&oacute;digo abierto, sin embargo, ¡es momento para decirles a todos acerca de tu arduo trabajo!
