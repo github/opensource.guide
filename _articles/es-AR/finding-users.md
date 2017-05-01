@@ -7,7 +7,7 @@ toc:
   pasando-la-voz: "Pasando la voz"
   pensando-tu-mensaje: "Pensando tu mensaje"
   ayuda-a-las-personas-a-encontrar-y-seguir-tu-proyecto: "Ayuda a las personas a encontrar y seguir tu proyecto"  
-  en-l&iacute;nea: "en l&iacute;nea"  
+  ve-donde-est&aacute;-la-audiencia-de-tu-proyecto: "Ve donde est&aacute; la audiencia de tu proyecto"
   fuera-de-l&iacute;nea: "fuera de l&iacute;nea"
   construye-una-reputaci&oacute;n: "Construye una reputaci&oacute;n"
 order: 3
@@ -68,7 +68,7 @@ Si el proyecto está alojado en GitHub, puedes utilizar [GitHub Pages](https://p
 
 Ahora que ya tienes un mensaje para tu proyecto, y una manera sencilla para que las personas encuentren su proyecto, ¡ve a hablar con tu audiencia!
 
-## en l&iacute;nea
+## Ve donde est&aacute; la audiencia de tu proyecto
 
 El alcance en l&iacute;nea es una gran manera de compartir y diseminar la palabra r&aacute;pidamente
 
