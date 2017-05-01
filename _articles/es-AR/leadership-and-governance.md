@@ -4,12 +4,12 @@ title: Liderazgo y Gobierno
 description: Los proyectos de c&oacute;digo abierto crecientes pueden beneficiarse de reglas formales para tomar decisiones.
 class: leadership
 toc:
-  Cu&aacute;les-son-ejemplo-de-roles-formales-utilizados-en-proyectos-de-c&oacute;digo-abierto: "¿Cu&aacute;les son ejemplos de roles formales utilizados en proyectos de c&oacute;digo abierto?"
-  c&oacute;mo-formalizo-los-roles-de-liderazgo: "C&oacute;mo formalizo los roles de liderazgo?"
-  cuando-le-puedo-dar-acceso-para-hacer-commits-a-alguien: Cuando le puedo dar acceso a hacer commits a alguien?"
-  Cu&aacute;les-son-algunas-de-las-estructuras-de-gobierno-comunes-para-los-proyectos-de-c&oacute;digo-abierto: "Cu&aacute;les son algunas de las estructuras de gobierno comunes para los proyectos de c&oacute;digo abierto?"
-  Necesito-documentaci&oacute;n-de-gobierno-cuando-lanzo-mi-proyecto: "Necesito documentaci&oacute;n de gobierno cuando lanzo mi proyecto?"
-  que-pasa-cuando-los-empleados-de-corporaciones-comienzan-a-enviar-contribuciones: "Que pasa cuando los empleados de corporaciones comienzan a enviar contribuciones?"
+  Cu&aacute;les-son-ejemplo-de-roles-formales-utilizados-en-proyectos-de-c&oacute;digo-abierto: "&iquest;Cu&aacute;les son ejemplos de roles formales utilizados en proyectos de c&oacute;digo abierto?"
+  c&oacute;mo-formalizo-los-roles-de-liderazgo: "&iquest;C&oacute;mo formalizo los roles de liderazgo?"
+  cuando-le-puedo-dar-acceso-a-hacer-commits-a-alguien: "&iquest;Cuando le puedo dar acceso a hacer commits a alguien?"
+  cu&aacute;les-son-algunas-de-las-estructuras-de-gobierno-comunes-para-los-proyectos-de-c&oacute;digo-abierto: "&iquest;Cu&aacute;les son algunas de las estructuras de gobierno comunes para los proyectos de c&oacute;digo abierto?"
+  necesito-documentaci&oacute;n-de-gobierno-cuando-lanzo-mi-proyecto: "&iquest;Necesito documentaci&oacute;n de gobierno cuando lanzo mi proyecto?"
+  qu&eacute;-pasa-cuando-los-empleados-de-corporaciones-comienzan-a-enviar-contribuciones: "&iquest;Qu&eacute; pasa cuando los empleados de corporaciones comienzan a enviar contribuciones?"
 order: 6
 image: /assets/images/cards/leadership.png
 ---
@@ -18,7 +18,7 @@ image: /assets/images/cards/leadership.png
 
 Tu proyecto est&aacute; creciendo, la gente est&aacute; comprometida, y estas comprometido a mantener esto en marcha. En esta etapa, es posible que te preguntes c&oacute;mo incorporar a los contribuyentes regulares de proyectos en su flujo de trabajo, ya sea para darle a alguien el compromiso de acceso o para resolver los debates de la comunidad. Si tiene preguntas, tenemos respuestas.
 
-## ¿Cu&aacute;les son ejemplos de roles formales utilizados en proyectos de c&oacute;digo abierto?
+## &iquest;Cu&aacute;les son ejemplos de roles formales utilizados en proyectos de c&oacute;digo abierto?
 
 Muchos proyectos siguen estructuras similares para reconocer y asignar roles a los contribuyentes.
 
@@ -54,7 +54,7 @@ Mientras que puedes definir tus roles de proyecto de cualquier forma que quieras
   </p>
 </aside>
 
-## ¿C&oacute;mo formalizo los roles de liderazgo?
+## &iquest;C&oacute;mo formalizo los roles de liderazgo?
 
 La formalizaci&oacute;n de tus funciones de liderazgo ayuda a las personas a sentirse propietarias y les dice a otros miembros de la comunidad a quién deben buscar para conseguir ayuda.
 
@@ -79,7 +79,7 @@ Herramientas como [Vossibility](https://github.com/icecrime/vossibility-stack) p
 
 Por &uacute;ltimo, si su proyecto est&aacute; en GitHub, considere la posibilidad de mover su proyecto de su cuenta personal a una organizaci&oacute;n y agregar al menos un administrador de copias de seguridad. [Las organizaciones GitHub](https://help.github.com/articles/creating-a-new-organization-account/) facilitan la administraci&oacute;n de permisos y m&uacute;ltiples repositorios y protegen el legado de su proyecto mediante [la propiedad compartida](./Building-community/#share-ownership-of-your-project).
 
-## ¿Cu&aacute;ndo debería darle a una persona acceso para realizar "commits"?
+## &iquest;Cuando le puedo dar acceso a hacer commits a alguien?
 
 Algunas personas piensan que debe dar acceso de commits a todos los que hacen una contribuci&oacute;n. Hacerlo podr&iacute;a alentar a m&aacute;s personas a sentirse due&ntilde;as de su proyecto.
 
@@ -95,7 +95,7 @@ Si tu proyecto est&aacute; en GitHub, pod&eacute;s utilizar [ramas protegidas](h
   </p>
 </aside>
 
-## ¿Cu&aacute;les son algunas de las estructuras de gobierno comunes para los proyectos de c&oacute;digo abierto?
+## &iquest;Cu&aacute;les son algunas de las estructuras de gobierno comunes para los proyectos de c&oacute;digo abierto?
 
 Hay tres estructuras de gobierno comunes asociadas a los proyectos de c&oacute;digo abierto. 
 
@@ -111,7 +111,7 @@ Hay tres estructuras de gobierno comunes asociadas a los proyectos de c&oacute;d
 * [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.js's liberal contribution policy](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
 
-## ¿Necesito documentaci&oacute;n de gobierno cuando lanzo mi proyecto?
+## 
 
 No hay momento adecuado para describir el gobierno de su proyecto, pero es mucho m&aacute;s f&aacute;cil definirlo una vez que haya visto c&oacute;mo se desarrolla la din&aacute;mica de su comunidad. ¡La mejor parte (y m&aacute;s dif&iacute;cil) sobre el gobierno de c&oacute;digo abierto es que est&aacute; conformado por la comunidad!
 
@@ -127,7 +127,7 @@ Si usted es parte de una empresa lanzando un proyecto de c&oacute;digo abierto, 
   </p>
 </aside>
 
-## ¿Que pasa cuando los empleados de corporaciones comienzan a enviar contribuciones?
+## &iquest;Qu&eacute; pasa cuando los empleados de corporaciones comienzan a enviar contribuciones?
 
 Los proyectos exitosos de c&oacute;digo abierto se utilizan por muchas personas y empresas, y algunas empresas pueden eventualmente tener flujos de ingresos generalmente vinculados al proyecto. Por ejemplo, una empresa puede utilizar el c&oacute;digo del proyecto como un componente en una oferta de servicios comerciales.
 
