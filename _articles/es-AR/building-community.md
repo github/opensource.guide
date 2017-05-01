@@ -19,9 +19,9 @@ Una comunidad de bienvenida es una inversi&oacute;n a futuro a tu proyecto y a t
 
 ### Haz que la gente se sienta bienvenida
 
-Una manera de pensar acerca de la comunidad del proyecto es a trav&eacute;s de lo que @MikeMcQuaid llama [embudo de colaborador](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
+Una manera de pensar acerca de la comunidad del proyecto es a trav&eacute;s de lo que @MikeMcQuaid llama [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
 
-![embudo de colaborador](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
+![contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
 A medida que construyes tu comunidad, considera c&oacute;mo &aacute;lguien que se encuentra en la parte superior del embudo (un usuario potencial) puede te&oacute;ricamente hacer su camino hacia abajo (un mantenedor activo). Tu objetivo es reducir la fricci&oacute;n en cada etapa de la experiencia del colaborador. Cuando las personas  obtienen victorias f&aacute;ciles, se sentir&aacute;n incentivadas a hacer m&aacute;s. 
 
@@ -79,9 +79,9 @@ A medida que [promocionas tu proyecto](../finding-users),las personas te har&aac
 
 Trata de responder cuando &aacute;lguien presenta un problema, env&iacute;a un pull request o realiza una pregunta acerca de tu proyecto. Cuando respondes r&aacute;pidamente, logras que las personas se sientan parte del di&aacute;logo, y estar&aacute;n m&aacute;s entusiasmadas de participar.
 
-Incluso si no puedes revisar su solicitud inmediatamente, con solo agradecer su temprana ayuda incrementar&aacute; su compromiso. As&iacute; es como @tdreyno respondi&oacute; a un pull request en [Intermediario](https://github.com/middleman/middleman/pull/1466):
+Incluso si no puedes revisar su solicitud inmediatamente, con solo agradecer su temprana ayuda incrementar&aacute; su compromiso. As&iacute; es como @tdreyno respondi&oacute; a un pull request en [Middleman](https://github.com/middleman/middleman/pull/1466):
 
-![Pull request de un intermediario](/assets/images/building-community/middleman_pr.png)
+![middleman pull request](/assets/images/building-community/middleman_pr.png)
 
 Un [estudio de Mozilla ](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) encontr&oacute; que los colaboradores que reciben una revisi&oacute;n de su c&oacute;digo dentro de las 48 horas tienen una significativa mayor tasa de retornar y de repetir alguna contribuci&oacute;n.
 
@@ -132,7 +132,7 @@ La buena documentaci&oacute;n solo se vuelve importante a medida que tu comunida
 
 En tu archivo CONTRIBUTING, indica de manera expl&iacute;cita a los nuevos colaboradores c&oacute;mo pueden comenzar. Tal vez quieras dedicar incluso una secci&oacute;n para tal prop&oacute;sito. [Django](https://github.com/django/django), por ejemplo, tiene una p&aacute;gina especial para dar la bienvenida a los nuevos colaboradores.
 
-![P&aacute;gina de nuevos colaboradores de django](/assets/images/building-community/django_new_contributors.png)
+![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
 En tu cola de asuntos, etiqueta errores que son convenientes para diferentes tipos de colaboradores: por ejemplo, [_"solo principiantes"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), "conveniente para quienes resuelven su primer bug", o "documentaci&oacute;n".  [Estas etiquetas](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) hacen que sea m&aacute;s f&aacute;cil buscar problemas a resolver para alguien nuevo en el proyecto y as&iacute; poder comenzar
 
@@ -159,7 +159,7 @@ Las personas se entusiasman por contribuir con proyectos cuando perciben un sent
 
 Observa si puedes encontrar maneras de compartir la propiedad de tu comunidad tanto como te sea posible. Aqu&iacute; hay algunas ideas:
 
-* **Evita corregir errores sencillos (no cr&iacute;ticos).** En su lugar, utilizalos como oportunidades para reclutar nuevos colaboradores, o mentorear a &aacute;lguien que quiere contribuir. Puede parecer antinatural al principio, pero tu inversi&oacute;n se ver&aacute; compensada en el tiempo. Por ejemplo,  @michaeljoseph le pidi&oacute; a un colaborador que enviara un pull request de un problema detallado a continuaci&oacute;n en lugar de arreglarlo &eacute;l mismo.
+* **Evita corregir errores sencillos (no cr&iacute;ticos).** En su lugar, utilizalos como oportunidades para reclutar nuevos colaboradores, o mentorear a &aacute;lguien que quiere contribuir. Puede parecer antinatural al principio, pero tu inversi&oacute;n se ver&aacute; compensada en el tiempo. Por ejemplo,  @michaeljoseph le pidi&oacute; a un colaborador que enviara un pull request de un problema detallado a continuaci&oacute;n [Cookiecutter](https://github.com/audreyr/cookiecutter) en lugar de arreglarlo &eacute;l mismo.
 
 ![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
