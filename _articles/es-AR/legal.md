@@ -33,6 +33,7 @@ Finalmente, tu proyecto puede tener dependencias con requisitos de licencia que 
 ## ¿Son públicos los proyectos de código libre de GitHub?
 
 Cuando t&uacute; [creas un nuevo proyecto](https://help.GitHub.com/articles/creating-a-new-repository/) en GitHub, tienes la opci&oacute;n de hacerlo **privado** o **publico**.
+
 ![crear repositorio](/assets/images/legal/repo-create-name.png)
 
 **Hacer tu proyecto de GitHub p&uacute;blico, no es lo mismo que licenciar tu proyecto.** Los proyectos p&uacute;blicos son cubiertos por [Los T&eacute;rminos de Servicio de GitHub](https://help.GitHub.com/articles/GitHub-terms-of-service/#f-copyright-and-content-ownership), lo que les permite a otros ver y bifurcar el proyecto, pero su trabajo viene de otra manera sin permisos.
