@@ -111,7 +111,7 @@ Hay tres estructuras de gobierno comunes asociadas a los proyectos de c&oacute;d
 * [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.js's liberal contribution policy](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
 
-## 
+## &iquest;Necesito documentaci&oacute;n de gobierno cuando lanzo mi proyecto?
 
 No hay momento adecuado para describir el gobierno de su proyecto, pero es mucho m&aacute;s f&aacute;cil definirlo una vez que haya visto c&oacute;mo se desarrolla la din&aacute;mica de su comunidad. ¡La mejor parte (y m&aacute;s dif&iacute;cil) sobre el gobierno de c&oacute;digo abierto es que est&aacute; conformado por la comunidad!
 
