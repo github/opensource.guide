@@ -5,7 +5,7 @@ description: Todo lo que te has preguntado sobre la parte legal de c&oacute;digo
 class: legal
 toc:
   por-qu&eacute;-la-gente-se-preocupa-tanto-acerca-de-los-aspectos-legales-del-c&oacute;digo-abierto: "¿Por qu&eacute; la gente se preocupa tanto acerca de los aspectos legales del c&oacute;digo abierto?"
-  Son-públicos-los-proyectos-de-código-libre-de-GitHub: "Son públicos los proyectos de código libre de GitHub"
+  son-públicos-los-proyectos-de-código-libre-de-github: "Son públicos los proyectos de código libre de GitHub?"
   solo-dame-un-resumen-acerca-de-lo-que-necesito-para-proteger-mi-proyecto: "Solo dame un resumen acerca de lo que necesito para proteger mi proyecto"
   cu&aacute;l-licencia-de-c&oacute;digo-abierto-es-apropiada-para-mi-proyecto: "¿Cu&aacute;l licencia de c&oacute;digo abierto es apropiada para mi proyecto?"
   y-si-quieres-cambiar-la-licencia-de-tu-proyecto: "Y si quieres cambiar la licencia de tu proyecto"
@@ -30,7 +30,7 @@ Si t&uacute; no aplicas una licencia de c&oacute;digo abierto, todo aquel que co
 
 Finalmente, tu proyecto puede tener dependencias con requisitos de licencia que no conoces. La comunidad de tu proyecto, o tus pol&iacute;ticas de empleador, pueden requerir que tu proyecto haga uso de una licencia de c&oacute;digo abierto espec&iacute;fica. Cubriremos estas situaciones a continuaci&oacute;n.
 
-## Son públicos los proyectos de código libre de GitHub
+## Son públicos los proyectos de código libre de GitHub?
 
 Cuando t&uacute; [creas un nuevo proyecto](https://help.GitHub.com/articles/creating-a-new-repository/) en GitHub, tienes la opci&oacute;n de hacerlo **privado** o **publico**.
 ![crear repositorio](/assets/images/legal/repo-create-name.png)
