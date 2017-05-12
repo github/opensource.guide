@@ -161,7 +161,7 @@ Tal vez alguien en tu comunidad env&iacute;e regularmente contribuciones que no 
 
 Si ves que alguien est&aacute; entusiasmado con tu proyecto, pero necesita un poco de pr&aacute;ctica, ten paciencia. Explica claramente en cada situaci&oacute;n por qu&eacute; sus contribuciones no cumplen con las expectativas del proyecto. Trata de asignarles una tarea m&aacute;s f&aacute;cil o menos ambigua, como una issue marcada como _"good first bug,"_ , para entrar en calor. Si tienes tiempo, considera mentorearlos a trav&eacute;s de su primera contribuci&oacute;n, o encuentra a alguien m&aacute;s en tu comunidad que est&eacute; dispuesto a ser mentor de ellos.
 
-## Aprovechar tu comunidad
+## Aprovechando la comunidad
 
 No tienes que hacer todo tu mismo. ¡La comunidad de tu proyecto existe por una raz&oacute;n! Incluso si a&uacute;n no tienes una comunidad de contribuidores activa, si tienes muchos usuarios, que trabajen.
 

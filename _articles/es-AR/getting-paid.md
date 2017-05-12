@@ -4,15 +4,15 @@ title: Recibir Pagos por Trabajos en C&oacute;digo Abierto
 description: Manten tu trabajo de c&oacute;digo abierto al encontrar apoyo financiero por tu tiempo o tu proyecto.
 class: getting-paid
 toc:
-  Porqu&eacute;-algunas-personas-buscan-apoyo-financiero: "Porqu&eacute; algunas personas buscan apoyo financiero"
-  Financiando-tu-propio-tiempo: "Financiando tu propio tiempo"
-  Encontrando-financiaci&oacute;n-para-tu-proyecto: "Encontrando financiaci&oacute;n para tu proyecto"
-  Creando-un-caso-de-apoyo-financiero: "Creando un caso de apoyo financiero"
+  porqu&eacute;-algunas-personas-buscan-apoyo-financiero: "¿Porqu&eacute; algunas personas buscan apoyo financiero?"
+  financiando-tu-propio-tiempo: "Financiando tu propio tiempo"
+  encontrando-financiaci&oacute;n-para-tu-proyecto: "Encontrando financiaci&oacute;n para tu proyecto"
+  creando-un-caso-de-apoyo-financiero: "Creando un caso de apoyo financiero"
 order: 7
 image: /assets/images/cards/getting-paid.png
 ---
 
-## ¿Por qu&eacute; algunas personas buscan apoyo financiero?
+## ¿Porqu&eacute; algunas personas buscan apoyo financiero?
 
 La mayor parte del trabajo realizado en proyectos de c&oacute;digo abierto es voluntario. Por ejemplo, alguien puede encontrarse con un error en un proyecto que usan y aplican una correcci&oacute;n r&aacute;pida, o simplemente les puede gustar corregir proyectos de c&oacute;digo abierto en su tiempo libre. 
 <aside markdown="1" class="pquote">
@@ -60,7 +60,7 @@ El trabajo pago tambi&eacute;n habilita a todo tipo de personas a aportar signif
 
 Si tu estas buscando apoyo financiero, hay dos posibles caminos a seguir: puedes pagar por tu propio tiempo como contribuyente, o puedes encontrar organizaciones que aporten a tu proyecto.  
 
-## Pagando por tu propio tiempo.
+## Financiando tu propio tiempo
 
 Hoy en dia, muchas personas reciben pagos por trabajos part-time o full-time  en c&oacute;digo abierto. El modo mas com&uacute;n de recibir una paga por tu tiempo es hablar con tu empleador.
 
@@ -139,7 +139,7 @@ Algunas fundaciones de software y compa&ntilde;ias ofrecen subvenciones por trab
 
 Por más opciones y casos de estudio, @nayafia [escribi&oacute; una gu&iacute;a](https://github.com/nayafia/lemonade-stand) para recibir pagos por trabajos en proyectos de c&oacute;digo abierto. Diferentes tipos de financiaci&oacute;n requieren diferentes tipos de habilidades, entonces considera tus fortalezas para descubrir que opciones funcionan mejor para ti. 
 
-## Estableciendo un caso de soporte de financiaci&oacute;n. 
+## Creando un caso de apoyo financiero 
 
 Sin importar si tu proyecto es una nueva idea, o estuvo dando vueltas por a&ntilde;os, deber&iacute;as preveer que tendr&aacute;s que ponerle mucho esfuerzo en identificar a tu financiador objetivo y construir un caso acorde. 
 
