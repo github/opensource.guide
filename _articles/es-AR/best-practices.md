@@ -79,7 +79,7 @@ Si te re&uacute;nes con otros mantenedores, o tomas alguna decisi&oacute;n impor
 
 De esa manera, cualquiera que se una a tu comunidad tendr&aacute; acceso a la misma informaci&oacute;n que alguien que ha estado all&iacute; durante a&ntilde;os.
 
-## Aprender a decir no
+## Aprendiendo a decir no
 
 Has escrito las cosas. Lo ideal ser&iacute;a que todo el mundo lea tu documentaci&oacute;n, pero en realidad, tendr&aacute;s que recordar a los dem&aacute;s que este conocimiento existe.
 
