@@ -30,6 +30,10 @@ If you don't apply an open source license, everybody who contributes to your pro
 
 Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
 
+## Are you the author of your code ?
+
+This might seem trivial, but this may be discussed by another party. Maybe someone has given you some code, maybe someone contributed significant ideas (in the form of analysis documents, architecture document, etc.).  In that case you may be less alone than you think. Making sure you do own your code and the intelectual property it may be connected to is an important first step.
+
 ## Are public GitHub projects open source?
 
 When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
