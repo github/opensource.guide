@@ -227,6 +227,9 @@ blockquote {
     border: $border;
     height: 40px;
   }
+  #mc-embedded-subscribe {
+    transition: all 0.2s ease-in-out;
+  }
 }
 
 .little-illo {
