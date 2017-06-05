@@ -219,6 +219,7 @@ You can also use one of the following resources to help you discover new project
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [Open Source Help Wanted](http://opensourcehelpwanted.com)
 
 ### A checklist before you contribute
 
