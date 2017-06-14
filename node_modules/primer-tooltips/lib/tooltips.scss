@@ -197,8 +197,7 @@
   &::after {
     width: max-content;
     max-width: $tooltip-max-width;
-    word-break: break-word;
-    word-wrap: normal;
+    word-wrap: break-word;
     white-space: pre-line;
     border-collapse: separate;
   }

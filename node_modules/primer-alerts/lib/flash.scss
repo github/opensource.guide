@@ -3,9 +3,9 @@
 .flash {
   position: relative;
   padding: $spacer-3;
-  color: $flash-text-blue;
-  background-color: $flash-bg-blue;
-  border: 1px solid $flash-border-blue;
+  color: $blue-800;
+  background-color: $blue-100;
+  border: 1px solid $border-black-fade;
   border-radius: 3px;
 
   p:last-child {
@@ -49,21 +49,21 @@
 //
 
 .flash-warn {
-  color: $flash-text-yellow;
-  background-color: $flash-bg-yellow;
-  border-color: $flash-border-yellow;
+  color: $yellow-900;
+  background-color: $yellow-100;
+  border-color: $black-fade-15;
 }
 
 .flash-error {
-  color: $flash-text-red;
-  background-color: $flash-bg-red;
-  border-color: $flash-border-red;
+  color: $red-900;
+  background-color: $red-100;
+  border-color: $black-fade-15;
 }
 
 .flash-success {
-  color: $flash-text-green;
-  background-color: $flash-bg-green;
-  border-color: $flash-border-green;
+  color: $green-800;
+  background-color: $green-100;
+  border-color: $black-fade-15;
 }
 
 .flash-full {
@@ -76,5 +76,5 @@
   padding: 0.5em;
   margin-bottom: 0.8em;
   font-weight: $font-weight-bold;
-  background-color: #fffccc;
+  background-color: $yellow-100;
 }

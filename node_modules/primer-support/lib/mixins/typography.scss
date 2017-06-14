@@ -40,37 +40,45 @@
 }
 
 // Responsive heading mixins
-// There are no responsive mixins for h5 and h6 because they are small
+// There are no responsive mixins for h4—h6 because they are small
 // and don't need to be smaller on mobile.
-@mixin h1-reponsive {
-  font-size: 26px;
+@mixin f1-responsive {
+  font-size: $h1-size-mobile;
+
+  // 32px on desktop
+  @include breakpoint(md) { font-size: $h1-size; }
+
+}
+
+@mixin f2-responsive {
+  font-size: $h2-size-mobile;
+
+  // 24px on desktop
+  @include breakpoint(md) { font-size: $h2-size; }
+}
+
+@mixin f3-responsive {
+  font-size: $h3-size-mobile;
+
+  // 20px on desktop
+  @include breakpoint(md) { font-size: $h3-size; }
+
+}
+
+// These use the mixins from above for responsive heading sizes.
+// The following mixins can be used where it's convenient or necessary to
+// couple the responsive font-size with the font-weight.
+@mixin h1-responsive {
+  @include f1-responsive;
   font-weight: $font-weight-bold;
-
-  // Up to 32px in future
-  @include breakpoint(md) { font-size: 30px; }
-
 }
 
 @mixin h2-responsive {
-  font-size: 20px;
+  @include f2-responsive;
   font-weight: $font-weight-bold;
-
-  // Up to 22px or 24px in future
-  @include breakpoint(md) { font-size: 21px; }
 }
 
 @mixin h3-responsive {
-  font-size: 14px;
+  @include f3-responsive;
   font-weight: $font-weight-bold;
-
-  @include breakpoint(md) { font-size: 16px; }
-
-}
-
-@mixin h4-responsive {
-  font-size: 13px;
-  font-weight: $font-weight-bold;
-
-  @include breakpoint(md) { font-size: 14px; }
-
 }

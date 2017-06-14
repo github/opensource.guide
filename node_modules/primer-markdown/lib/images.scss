@@ -8,7 +8,7 @@
     // because we put padding on the images to hide header lines, and some people
     // specify the width of their images in their markdown.
     box-sizing: content-box;
-    background-color: #fff;
+    background-color: $bg-white;
 
     &[align=right] {
       padding-left: 20px;
@@ -40,7 +40,7 @@
       padding: 7px;
       margin: 13px 0 0;
       overflow: hidden;
-      border: 1px solid #ddd;
+      border: 1px solid lighten($gray-300, 5%);
     }
 
     span img {
@@ -52,7 +52,7 @@
       display: block;
       padding: 5px 0 0;
       clear: both;
-      color: #333;
+      color: $text-gray-dark;
     }
   }
 
