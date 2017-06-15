@@ -132,15 +132,16 @@ If you're part of a company launching an open source project, it's worth having 
 
 ## 公司员工该如何开启提交贡献之旅？
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+成功的开源项目，会有很多的用户和公司使用，而且有一些公司的主要收入和项目是绑在一起的。举例来说，某公司在其商业产品或服务中使用了开源项目的代码作为其一个组件。
 
-As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
 
-It's important to treat commercial activity as normal and as just another source of development energy. Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits. However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+一个项目越是被广泛的使用，有相关背景的专业人士的需求就会上升，**你或许就是其中之一**，那么就顺势成为继续为开源项目做事，还有一定的报酬。
 
-"Commercial" is completely compatible with "open source". "Commercial" just means there is money involved somewhere - that the software is used in commerce, which is increasingly likely as a project gains adoption. (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+将商业的活动视为正常不过的事情很重要，它也只是代码的开发方法之一。为开发者付费不应该被特殊的对待，好像代码必须是无偿开发的才行；每个贡献都必须有技术的衡量标准来进行评估。人们应该在这些商业的活动中感到非常的自在，而且针对特定的增强或功能项讨论时也应是坦荡的、自然的。
 
-Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+“商业” 是完全和“开源”相容的。“商业”仅仅是意味着某些地方有钱的参与 —— 就是说软件被用于了商业行为，也就是说项目被采用获得了认可。（当开源软件被用于非开源产品的一个部分时，这个整体的产品仍然是“专有的”软件，因为开源，它可以用于商业或非商业的目的。）
+
+和这个世界上很多的其它商业产品一样，商业能够激励开发者去积极的贡献于项目，通过他们靠谱的提交贡献。显而易见的是，一位因花了自己的时间和精力的开发者获得报酬，理应比没有获得报酬的更具持久性，当然，这对于某些圣徒是不成立的，或者这么说吧，报酬是能体现一个贡献度的众多衡量因素的其中之一。所以将你的项目讨论聚焦于贡献上，不要让人们分散精力去思考或做其它的事情。
 
 ## 我是否需要一个法律实体来支持我的项目?
 
