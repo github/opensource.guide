@@ -34,6 +34,8 @@ Wherever you can, use prior art. The [Contributor Covenant](http://contributor-c
 
 The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
 
+You can of course always use [No Code of Conduct](https://github.com/domgetter/NCoC/blob/master/CODE_OF_CONDUCT.md) if you think all members of you project are reasonable adults capable of having adult discussions.
+
 Place a CODE_OF_CONDUCT file in your project's root directory, and link to it from your README, so it's visible to your community.
 
 ## Deciding how you'll enforce your code of conduct
