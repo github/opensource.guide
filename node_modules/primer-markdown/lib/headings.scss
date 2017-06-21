@@ -15,7 +15,7 @@
     line-height: $lh-condensed;
 
     .octicon-link {
-      color: #000;
+      color: $black;
       vertical-align: middle;
       visibility: hidden;
     }
@@ -37,13 +37,13 @@
   h1 {
     padding-bottom: 0.3em;
     font-size: 2em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid lighten($gray-200, 3%);
   }
 
   h2 {
     padding-bottom: 0.3em;
     font-size: 1.5em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid lighten($gray-200, 3%);
   }
 
   h3 {
@@ -60,6 +60,6 @@
 
   h6 {
     font-size: 0.85em;
-    color: #777;
+    color: $gray-500;
   }
 }

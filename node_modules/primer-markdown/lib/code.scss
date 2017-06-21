@@ -8,7 +8,7 @@
     padding-bottom: 0.2em;
     margin: 0;
     font-size: 85%;
-    background-color: rgba(0, 0, 0, 0.04);
+    background-color: rgba($black, 0.05);
     border-radius: 3px; // don't add padding, gives scrollbars
 
     &::before,
@@ -52,7 +52,7 @@
     overflow: auto;
     font-size: 85%;
     line-height: 1.45;
-    background-color: #f7f7f7;
+    background-color: $gray-100;
     border-radius: 3px;
   }
 

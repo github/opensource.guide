@@ -65,3 +65,19 @@
     }
   }
 }
+
+// responsive padding for containers
+.p-responsive {
+  padding-right: $spacer-3 !important;
+  padding-left: $spacer-3 !important;
+
+  @include breakpoint(sm) {
+    padding-right: $spacer-6 !important;
+    padding-left: $spacer-6 !important;
+  }
+
+  @include breakpoint(lg) {
+    padding-right: $spacer-3 !important;
+    padding-left: $spacer-3 !important;
+  }
+}

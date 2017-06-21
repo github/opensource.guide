@@ -13,7 +13,6 @@
   max-width: $container-md;
   margin-right: auto;
   margin-left: auto;
-  @include clearfix;
 }
 
 // 1004px - this matches the current fixed width: 980px + padding: px-3
@@ -21,7 +20,6 @@
   max-width: $container-lg;
   margin-right: auto;
   margin-left: auto;
-  @include clearfix;
 }
 
 // 1280px
@@ -29,5 +27,4 @@
   max-width: $container-xl;
   margin-right: auto;
   margin-left: auto;
-  @include clearfix;
 }
