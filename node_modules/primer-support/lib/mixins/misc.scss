@@ -1,5 +1,5 @@
 // Generate a two-color caret for any element.
-@mixin double-caret($foreground: #fff, $background: #ddd) {
+@mixin double-caret($foreground: $text-white, $background: lighten($gray-300, 5%)) {
   &::after,
   &::before {
     position: absolute;

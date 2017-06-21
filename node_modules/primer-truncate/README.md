@@ -1,7 +1,7 @@
 # Primer CSS Truncate
 
 [![NPM version](http://img.shields.io/npm/v/primer-truncate.svg)](https://www.npmjs.org/package/primer-truncate)
-[![Build Status](https://travis-ci.org/primer/truncate.svg?branch=master)](https://travis-ci.org/primer/truncate)
+[![Build Status](https://travis-ci.org/primer/primer-truncate.svg?branch=master)](https://travis-ci.org/primer/primer-truncate)
 
 > .css-truncate will shorten text with an ellipsis. The maximum width of the truncated text can be changed by overriding the max-width of the .css-truncate-target.
 

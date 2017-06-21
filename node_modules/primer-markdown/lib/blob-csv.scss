@@ -13,7 +13,7 @@
   .blob-num {
     padding: 10px 8px 9px;
     text-align: right;
-    background: #fff;
+    background: $bg-white;
     border: 0;
   }
 
@@ -21,7 +21,7 @@
 
   th {
     font-weight: $font-weight-bold;
-    background: #f8f8f8;
+    background: $gray-100;
     border-top: 0;
   }
 }

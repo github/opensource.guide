@@ -11,15 +11,10 @@ This repository is a module of the full [primer-css][primer] repository.
 
 ## Documentation
 
-You can read more about primer-marketing-support in the [docs][docs].
-
 <!-- %docs
-title: Primer Marketing Support
-homepage: https://github.com/primer/primer-marketing-support
+title: Variables
 status: In review
 -->
-
-### Primer Marketing Support
 
 Documentation & refactor coming very soon
 
