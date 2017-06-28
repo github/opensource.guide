@@ -15,6 +15,7 @@ footer:
     button: 贡献
   subscribe:
     heading: 订阅更新
+    description: 即时了解GitHub最新的开源技巧和资源！
     label: 电子邮箱地址
     button: 提交
   byline:
