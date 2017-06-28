@@ -14,7 +14,8 @@ footer:
     description: Want to make a suggestion? This content is open source. Help us improve it.
     button: Contribute
   subscribe:
-    heading: Subscribe to updates
+    heading: Stay in touch
+    description: Be the first to hear about GitHub's latest open source tips and resources.
     label: Email Address
     button: Subscribe
   byline:
