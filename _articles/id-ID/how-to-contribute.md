@@ -20,7 +20,7 @@ image: /assets/images/cards/contribute.png
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
   Bekerja pada \[freenode\] membantu saya mendapatkan banyak ketrampilan yang saya gunakan pada pembelajaran di universitas dan pekerjaan saya nantinya. Saya pikir bekerja pada proyek open source membantu saya sebanyak saya membantu proyek itu sendiri.!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Mengapa saya suka berkontribusi pada perangkat lunak open source"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -54,97 +54,97 @@ Anda tidak perlu menjadi kontributor jangka panjang untuk menikmati partisipasi 
 
 ## Apa artinya berkontribusi
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+Jika Anda merupakan kontributor open source yang baru, proses ini bisa jadi menakutkan. Bagaimana Anda menemukan proyek yang sesuai? Bagaimana jika Anda tidak tahu bagaimana membuat kode program? Bagaimana jika terjadi kesalahan?
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+Tidak perlu khawatir! Terdapat banyak cara untuk bisa ikut terlibat pada proyek open source, dan beberapa tips akan membantu Anda memaksimalkan pengalaman Anda.
 
-### You don't have to contribute code
+### Anda tidak perlu memberikan kontribusi dalam bentuk kode
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+Kesalahpahaman yang sering terjadi tentang berkontribusi pada open source adalah Anda harus memberikan kontribusi dalam bentuk kode. Kenyataannya, seringkali banyak bagian lain dari proyek yang [seringkali terabaikan atau diabaikan](https://github.com/blog/2195-the-shape-of-open-source). Anda bisa memberikan bantuan _besar_ bagi proyek dengan menawarkan diri untuk jenis kontribusi semacam ini.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+  Saya menjadi terkenal karena pekerjaan saya pada CocoaPods, tetapi banyak orang tidak tahu bahwa saya tidak melakukan pekerjaan yang berarti pada perangkat CocoaPods itu sendiri. Waktu saya pada proyek lebih banyak dihabiskan untuk melakukan kegiatan seperti dokumentasi dan pencitraan.
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+Meskipun Anda suka untuk menulis kode program, kontribusi jenis lain merupakan cara yang baik untuk bisa berpartisipasi pada proyek dan bertemu dengan anggota komunitas lainnya. Membangun hubungan tersebut akan memberikan Anda kesempatan untuk bekerja pada bagian lain dari proyek.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+  Saya pertama kali menghubungi tim pengembang Python (python-dev) ketika saya mengirimkan pesan email kepada mailing list pada 17 Juni 2002 tentang perbaikan dari saya. Saya dengan cepat menemukan kesalahan, dan memutuskan untuk mulai memilih email dari grup. Mereka memberikan saya alasan yang baik untuk bertanya tentang klarifikasi sebuah topik, tetapi yang lebih penting lagi saya mampu mendeteksi apabila seseorang menunjukkan sesuatu yang perlu diperbaiki.
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
-### Do you like planning events?
+### Apakah Anda suka merencanakan kegiatan?
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* Mengelola workshop atau acara pertemuan tentang proyek, [seperti yang dilakukan @fzamperin untuk NodeSchool](https://github.com/nodeschool/organizers/issues/406)
+* Mengelola konferensi sebuah proyek (jika ada)
+* Membantu anggota komunitas menemukan konferensi yang sesuai dan mengirimkan proposal untuk berbicara
 
-### Do you like to design?
+### Apakah Anda suka mendesain?
 
-* Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Put together a style guide to help the project have a consistent visual design
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+* Restrukturisasi layout untuk meningkatkan usabilitas proyek
+* Melakukan penelitian pengguna untuk menata ulang dan meningkatkan navigasi atau menu proyek, [seperti yang disarankan Drupal](https://www.drupal.org/community-initiatives/drupal-core/usability)
+* Membuat panduan untuk membantu proyek memiliki desain visual yang konsisten
+* Membuat hasil seni untuk pakaian atau logo baru, [seperti kontributor hapi.js](https://github.com/hapijs/contrib/issues/68)
 
-### Do you like to write?
+### Apakah Anda suka menulis?
 
-* Write and improve the project's documentation
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like pypa's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Write a translation for the project's documentation
+* Menulis dan meningkatkan dokumentasi proyek
+* Buatlah sebuah folder contoh yang menunjukkan bagaimana proyek dapat digunakan
+* Memulai laporan berkala untuk proyek atau buat hal-hal penting dari mailing list
+* Menulis tutorial untuk proyek, [seperti kontributor pypa](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Menulis terjemahan untuk dokumentasi proyek
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  Serius, \[dokumentasi\] sangatlah penting. Dokumentasi sejauh ini sudah sangat bagus dan merupakan fitur utama dari Babel.  Terdapat beberapa bagian yang bisa dikembangkan dan bahkan penambahan sebuah paragraf disini dan disana akan sangat dihargai.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
-### Do you like organizing?
+### Apakah Anda suka mengelola?
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and suggest closing old ones, [like @nzakas did for eslint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* Menghubungkan masalah-masalah yang duplikat dan memberikan label pada masalah untuk menjaga pengelolaan
+* Menyarankan menghapus laporan masalah yang lama, [seperti yang dilakukan @nzakas untuk eslint](https://github.com/eslint/eslint/issues/6765)
+* Menanyakan pertanyaan klarifikasi pada masalah yang baru saja dibuat untuk diskusi kedepannya
 
-### Do you like to code?
+### Apakah Anda suka membua kode program?
 
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* Mencari masalah yang ingin diselesaikan, [seperti yang dilakukan @dianjin untuk Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* Bertanya jika Anda hendak membantu menuliskan fitur baru
+* Melakukan otomatisasi setup proyek
+* Meningkatkan perlengkapan dan pengujian
 
-### Do you like helping people?
+### Apakah Anda suka membantu orang lain?
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+* Menjawab pertanyaan tentang proyek, pada (misalnya) Stack Overflow ([seperti contoh Postgres ini](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) atau reddit
+* Menjawab pertanyaan pada permasalahaan terbuka
+* Membantu memoderasi halaman diskusi atau chanel diskusi
 
-### Do you like helping others code?
+### Apakah Anda suka membantu orang lain dalam membuat program?
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* Me-review kode dari pengajuan orang lain
+* Menulis tutorial bagaimana proyek bisa digunakan
+* Menawarkan diri untuk menjadi mentor bagi kontributor lainnya, [seperti yang dilakukan @ereichert untuk @bronzdoc pada Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### Anda tidak harus bekerja pada proyek perangkat lunak!
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+Meskipun "open source" seringkali merujuk pada perangkat lunak, Anda bisa berkolaborasi pada segala sesuatu. Terdapat buku, resep makanan, daftar, dan kelas yang dapat dikembangkan sebagai proyek open source.
 
-For example:
+Sebagai contoh:
 
-* @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
-* @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
+* @sindresorhus menghasilkan [daftar "awesome"](https://github.com/sindresorhus/awesome)
+* @h5bp mengelola [daftar pertanyaan potensial untuk wawancara](https://github.com/h5bp/Front-end-Developer-Interview-Questions) bagi kandidat developer front-end
+* @stuartlynn dan @nicole-a-tesla membuat [kumpulan fakta lucu tentang puffin](https://github.com/stuartlynn/puffin_facts)
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
+Meskipun Anda seorang pengembang perangkat lunak, bekerja pada proyek dokumentasi bisa membantu Anda untuk memulai pada open source. Seringkali bekerja pada proyek yang tidak melibatkan kode tidak terlalu menakutkan dan proses kolaborasi ini akan membangun rasa percaya diri dan pengalaman Anda.
 
 ## Berorientasi pada proyek baru
 
