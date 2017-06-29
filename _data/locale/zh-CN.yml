@@ -11,10 +11,11 @@ article:
 footer:
   contribute:
     heading: 贡献
-    description: 对项目由意见和建议提？本站内容遵循开放源代码写作，请帮助我们继续完善！
+    description: 对项目有想提出的建议吗？本站内容遵循开放源代码写作，请帮助我们继续完善！
     button: 贡献
   subscribe:
     heading: 订阅更新
+    description: 即时了解GitHub最新的开源技巧和资源！
     label: 电子邮箱地址
     button: 提交
   byline:

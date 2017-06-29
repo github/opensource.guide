@@ -18,7 +18,7 @@ image: /assets/images/cards/contribute.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
-  在 \[自由代码\] 下工作，让我学习到了职业生涯中非常重要的技能，无论是大学还是实际的工作，我以为我从开源项目中获益的远超于我的回馈！
+  在 \[自由代码\] 下工作，让我学习到了职业生涯中非常重要的技能，无论是大学还是实际的工作，我认为从开源项目中得到的收获的远大於我的贡献！
   <p markdown="1" class="pquote-credit">
 — @errietta, ["我为何是如此的热衷于为开源软件贡献力量"](https://www.errietta.me/blog/open-source/)
   </p>
@@ -432,7 +432,7 @@ image: /assets/images/cards/contribute.png
 
 ### 收集上下文
 
-在正是开始之前，做一些快速的检查项，以确保你的想法是没有被讨论过的。遍历项目的 README、问题（开放的和关闭的都算）、邮件列表、Stack Overflow。毋需去花好几个小时去全部折腾一遍，但是使用几个关键的词汇来搜索一下是必要的。
+在正式开始之前，做一些快速的检查项，以确保你的想法是没有被讨论过的。遍历项目的 README、问题（开放的和关闭的都算）、邮件列表、Stack Overflow。毋需去花好几个小时去全部折腾一遍，但是使用几个关键的词汇来搜索一下是必要的。
 
 如果你没有找到和你想法一样的内容，你就可以继续了。如果项目是在 GitHub上的话，你可以通过开启一个issue或PR：
 
