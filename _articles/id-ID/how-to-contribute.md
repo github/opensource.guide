@@ -1,58 +1,58 @@
 ---
-locale: en-US
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+locale: id-ID
+title: Bagaimana Berkontribusi pada Open Source
+description: Ingin berkontribusi pada open source? Sebuah panduan untuk melakukan kontribusi open source, untuk pemula dan veteran.
 class: contribute
 toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
+  mengapa-berkontribusi-pada-open-source: "Mengapa berkontribusi pada open source?"
+  apa-artinya-berkontribusi: "Apa artinya berkontribusi"
+  berorientasi-pada-proyek-baru: "Berorientasi pada proyek baru"
+  menemukan-proyek-baru-untuk-melakukan-kontribusi: "Menemukan proyek untuk melakukan kontribusi"
+  bagaimana-mengajukan-kontribusi: "Bagaimana mengajukan kontribusi"
+  apa-yang-terjadi-setelah-anda-mengajukan-sebuah-kontribusi: "Apa yang terjadi setelah Anda mengajukan sebuah kontribusi"
 order: 1
 image: /assets/images/cards/contribute.png
 ---
 
-## Why contribute to open source?
+## Mengapa berkontribusi pada open source?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  Bekerja pada \[freenode\] membantu saya mendapatkan banyak ketrampilan yang saya gunakan pada pembelajaran di universitas dan pekerjaan saya nantinya. Saya pikir bekerja pada proyek open source membantu saya sebanyak saya membantu proyek itu sendiri.!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Mengapa saya suka berkontribusi pada perangkat lunak open source"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+Berkontribusi pada open source bisa jadi merupakan cara yang bermanfaat untuk belajar, mengajar, dan membangun pengalaman pada segala ketrampilan yang dapat Anda bayangkan.
 
-Why do people contribute to open source? Plenty of reasons!
+Mengapa orang-orang berkontribusi pada open source? Banyak alasannya!
 
-### Improve existing skills
+### Meningkatkan ketrampilan yang sudah ada
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Baik pemrograman, perancangan antar muka, desain grafis, menulis, maupun mengelola, jika Anda mencari tempat berlatih, terdapat tugas bagi Anda pada proyek open source.
 
-### Meet people who are interested in similar things
+### Bertemu orang yang tertarik pada hal yang sama
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+Proyek open source dengan komunitas yang hangat membuat orang-orang kembali selama bertahun-tahun. Banyak orang membentuk pertemanan jangka panjang melalui partisipasi mereka pada open source, baik pertemuan pada konferensi atau chat tengah malam tentang burrito.
 
-### Find mentors and teach others
+### Mencari mentor dan mengajarkan ke pihak lain
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+Bekerja dengan banyak orang pada proyek berarti Anda harus menjelaskan bagaimana Anda melakukan segala sesuatu, sekaligus meminta orang lain untuk bantuan. Kegiatan belajar dan mengajar bisa menjadi aktivitas yang menyenangkan bagi semua orang yang terlibat.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### Membangun koleksi publik yang membantu Anda mengembangkan reputasi (dan karir)
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+Secara definisi, semua pekerjaan open source bersifat publik, artinya Anda mendapatkan contoh gratis untuk dibawa kemana saja sebagai demonstrasi tentang apa saja yang dapat Anda lakukan.
 
-### Learn people skills
+### Belajar ketrampilan tentang orang
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+Open source menawarkan kesempatan untuk belajar ketrampilan kepemimpinan dan manajemen, seperti menyelesaikan konflik, mengelola sekelompok orang, dan memprioritaskan pekerjaan.
 
-### It's empowering to be able to make changes, even small ones
+### Memberdayakan untuk membuat perubahan, meskipun kecil
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+Anda tidak perlu menjadi kontributor jangka panjang untuk menikmati partisipasi pada open source. Apakah Anda melihat sebuah kesalahan ketik pada website, dan berharap seseorang akan memperbaikinya? Pada proyek open source, Anda bisa melakukannya. Open source membantu orang merasa memiliki hak atas hidup mereka dan bagaimana mereka merasakan bahwa dunia, dan segala isinya sangatlah memuaskan.
 
-## What it means to contribute
+## Apa artinya berkontribusi
 
 If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
 
@@ -146,7 +146,7 @@ For example:
 
 Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
 
-## Orienting yourself to a new project
+## Berorientasi pada proyek baru
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -193,7 +193,7 @@ Finally, open source projects use the following tools to organize discussion. Re
 * **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (ex. _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 * **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 
-## Finding a project to contribute to
+## Menemukan sebuah proyek untuk melakukan kontribusi
 
 Now that you've figured out how open source projects work, it's time to find a project to contribute to!
 
@@ -376,7 +376,7 @@ A project that is friendly and welcoming signals that they will be receptive to 
   </p>
 </aside>
 
-## How to submit a contribution
+## Bagaimana mengajukan kontribusi
 
 You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
 
@@ -488,7 +488,7 @@ If the project is on GitHub, here's how to submit a pull request:
 
 If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a free walkthrough resource.
 
-## What happens after you submit a contribution
+## Apa yang terjadi setelah Anda mengajukan sebuah kontribusi
 
 You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
 
