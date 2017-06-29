@@ -1,12 +1,12 @@
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
+title: "Panduan Open Source"
+description: "Pelajari bagaimana merilis dan mengembangkan proyek Anda."
 
 # See: docs/translations.md
-locale: en-US
+locale: id-ID
 translations:
-  en-US:
-    name: English (US)
-    url: https://opensource.guide
+  id-ID:
+    name: Indonesian (ID)
+    url: https://id.opensource.guide
 
 exclude:
   - bin
