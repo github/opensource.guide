@@ -1,0 +1,28 @@
+nav:
+  about: Tentang
+  contribute: Kontribusi
+
+index:
+  lead: Perangkat lunak open source dihasilkan oleh orang-orang seperti Anda. Pelajari bagaimana merilis dan mengembangkan proyek Anda.
+
+article:
+  table_of_contents: Daftar Isi
+
+footer:
+  contribute:
+    heading: Kontribusi
+    description: Ingin memberikan masukan? Konten halaman ini bersifat terbuka. Bantu kami untuk melakukan penyempurnaan.
+    button: Kontribusi
+  subscribe:
+    heading: Berlangganan terhadap perkembangan
+    label: Alamat Email
+    button: Berlangganan
+  byline:
+    # [code], [love], and [github] will be replaced by octicons
+    format: "[code] dengan [love] oleh [github] dan [friends]"
+    # Label for code octicon
+    code_label: dihasilkan
+    # Label for love octicon
+    love_label: cinta
+    # Label for the contributors link
+    friends_label: kontributor
