@@ -113,11 +113,11 @@ Meskipun Anda suka untuk menulis kode program, kontribusi jenis lain merupakan c
 
 * Menghubungkan masalah-masalah yang duplikat dan memberikan label pada masalah untuk menjaga pengelolaan
 * Menyarankan menghapus laporan masalah yang lama, [seperti yang dilakukan @nzakas untuk eslint](https://github.com/eslint/eslint/issues/6765)
-* Menanyakan pertanyaan klarifikasi pada masalah yang baru saja dibuat untuk diskusi kedepannya
+* Menanyakan pertanyaan klarifikasi pada laporan masalah yang baru saja dibuat untuk diskusi kedepannya
 
 ### Apakah Anda suka membua kode program?
 
-* Mencari masalah yang ingin diselesaikan, [seperti yang dilakukan @dianjin untuk Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* Mencari laporan masalah yang ingin diselesaikan, [seperti yang dilakukan @dianjin untuk Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
 * Bertanya jika Anda hendak membantu menuliskan fitur baru
 * Melakukan otomatisasi setup proyek
 * Meningkatkan perlengkapan dan pengujian
@@ -188,7 +188,7 @@ Sebuah proyek juga memiliki dokumentasi. Dokumentasi ini biasanya ditempatkan pa
 
 Akhirnya, proyek open source menggunakan peralatan berikut untuk mengelola diskusi. Membaca dari arsip akan memberikan gambaran tentang bagaimana komunitas berpikir dan bekerja.
 
-* **Issue tracker:** Dimana orang-orang mendiskusikan masalah yang berkaitan dengan proyek.
+* **Issue tracker:** Dimana orang-orang mendiskusikan laporan masalah yang berkaitan dengan proyek.
 * **Pull requests:** Dimana orang-orang mendiskusikan dan me-review perubahan yang sedang dikerjakan.
 * **Forum diskusi atau mailing list:** Beberapa proyek mungkin menggunakan media ini untuk topik diskusi (misalnya. _"Bagaimana saya ..."_ atau _"Apakah pendapat Anda tentang ..."_ daripada laporan kesalahan atau pengajuan fitur baru). Beberapa proyek menggunakan _issue tracker_ untuk semua diskusi.
 * **Media chat:** Beberapa proyek menggunakan media chat (seperti Slack atau IRC) untuk diskusi sehari-hari, kolaborasi, dan pertukaran yang bersifat cepat.
@@ -262,40 +262,40 @@ Lihat pada aktivitas commit pada branch master. Pada GitHub, Anda bisa melihat i
   </label>
 </div>
 
-Berikutnya, lihat pada masalah yang dihadapi pada proyek.
+Berikutnya, lihat pada laporan masalah yang dihadapi pada proyek.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Berapa banyak masalah yang masih belum diselesaikan?
+    Berapa banyak laporan masalah yang masih belum diselesaikan?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Apakah pengelola merespon dengan cepat pada sebuah masalah baru?
+    Apakah pengelola merespon dengan cepat pada sebuah laporan masalah baru?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Apakah terdapat diskusi aktif pada setiap masalah yang ada?
+    Apakah terdapat diskusi aktif pada setiap laporan masalah yang ada?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Apakah masalah-masalah tersebut muncul baru-baru ini?
+    Apakah laporan masalah tersebut muncul baru-baru ini?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Apakah masalah yang ada diselesaikan? (Pada GitHub, klik tab "closed" pada halaman Issues untuk melihat masalah yang sudah terselesaikan.)
+    Apakah laporan masalah yang ada sudah diselesaikan? (Pada GitHub, klik tab "closed" pada halaman Issues untuk melihat laporan masalah yang sudah terselesaikan.)
   </label>
 </div>
 
@@ -343,14 +343,14 @@ Sebuah proyek yang bersahabat dan menyambut menandai bahwa mereka sangat menerim
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Apakah pengelola menanggapi pertanyaan pada masalah dengan sangat membantu?
+    Apakah pengelola menanggapi pertanyaan pada laporan masalah dengan sangat membantu?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Apakah orang-orang bersahabat pada masalah, forum diskusi, dan chat (misalnya. IRC atau Slack)?
+    Apakah orang-orang bersahabat pada laporan masalah, forum diskusi, dan chat (misalnya. IRC atau Slack)?
   </label>
 </div>
 
@@ -378,115 +378,115 @@ Sebuah proyek yang bersahabat dan menyambut menandai bahwa mereka sangat menerim
 
 ## Bagaimana mengajukan kontribusi
 
-You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
+Anda telah menemukan sebuah proyek yang Anda sukai, dan Anda siap untuk membuat sebuah kontribusi. Akhirnya! Berikut adalah langkah-langkah untuk menjadikan kontribusi Anda di jalan yang benar.
 
-### Communicating effectively
+### Berkomunikasi secara efektif
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+Apakah Anda merupakan kontributor atau mencoba untuk bergabung dengan sebuah komunitas, bekerja dengan orang lain merupakan salah satu keahlian paling penting yang perlu diasah dalam dunia open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/7693422?v=3&s=460" class="pquote-avatar" alt="avatar">
-  \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+  \[Sebagai kontributor baru,\] saya menyadari bahwa saya perlu bertanya jika ingin menutup sebuah laporan masalah. Saya mengamati kode program. Setelah saya mengetahui situasinya, saya bertanya untuk pengarahan lebih lanjut. Dan akhirnya! Saya berhasil menutup sebuah laporan masalah setelah mendapatkan semua informasi relevan yang saya butuhkan.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
 </aside>
 
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+Sebelum Anda membuka sebuah laporan masalah atau pull request, atau bertanya pada media chat, perhatikan beberapa poin berikut untuk membantu ide Anda secara efektif.
 
-**Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
+**Berikan konteks.** Bantu orang lain untuk memahami kondisinya. Jika Anda menjumpai sebuah kesalahan, jelaskan apa yang hendak Anda lakukan dan bagaimana mengulangi kesalahan tersebut. Jika Anda menyarankan sebuah ide baru, jelaskan kenapa Anda pikir itu merupakan ide yang baik untuk proyek (tidak hanya untuk Anda!).
 
-> 😇 _"X doesn't happen when I do Y"_
+> 😇 _"X tidak berfungsi ketika saya melakukan Y"_
 >
-> 😢 _"X is broken! Please fix it."_
+> 😢 _"X rusak! Tolong perbaiki."_
 
-**Do your homework beforehand.** It's ok not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**Lakukan pekerjaan rumah Anda sebelumnya.** Tidak masalah untuk tidak mengetahui beberapa hal, tetapi tunjukan bahwa Anda telah berusaha. Sebelum bertanya untuk meminta bantuan, pastikan untuk melihat dokumen README, dokumentasi, laporan masalah (terbuka atau tertutup), mailing list, dan cari Internet untuk sebuah jawaban. Orang-orang akan menghargai ketika Anda menunjukkan bahwa Anda berusaha untuk belajar.
 
-> 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
+> 😇 _"Saya tidak yakin bagaimana mengimplementasikan X. Saya telah melihat dokumen bantuan dan tidak menemukan apapun."_
 >
-> 😢 _"How do I X?"_
+> 😢 _"Bagaimana saya melakukan X?"_
 
-**Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
+**Buatlah permintaan singkat dan langsung.** Seperti halnya mengirimkan sebuah email, setiap kontribusi, sekecil apapun atau sepenting apapun, akan membutuhkan orang lain untuk me-reviewnya. Banyak proyek memiliki lebih banyak permintaan dibandingkan jumlah orang yang ada untuk membantu. Pastikan permintaan Anda jelas. Anda akan mendapatkan peluang lebih tinggi dimana seseorang akan ada untuk membantu Anda.
 
-> 😇 _"I'd like to write an API tutorial."_
+> 😇 _"Saya ingin menulis tutorial API."_
 >
-> 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
+> 😢 _"Saya sedang mengemudi di jalan tol di suatu hari dan berhenti untuk mengisi bahan bakar, lalu saya mendapatkan ide cemerlang yang seharusnya kita lakukan, tetapi sebelum saya menjelaskan hal itu, ijinkan saya untuk menunjukkan kepada Anda..."_
 
-**Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
+**Buat semua komunikasi terbuka secara publik.** Meskipun hal ini sangat menarik, hindari menghubungi pengelola secara pribadi kecuali Anda perlu membagikan informasi yang bersifat sensitif (misalnya masalah keamanan atau pelanggaran berat). Ketika Anda membuat semua komunikasi terbuka secara publik, banyak orang bisa belajar dan mendapatkan manfaat dari pertukaran informasi Anda. Diskusi itu sendiri bisa menjadi sebuah kontribusi.
 
-> 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
+> 😇 _(sebagai komentar) "@-maintainer Hallo! Bagaimana saya harus melanjutkan untuk PR ini?"_
 >
-> 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
+> 😢 _(sebagai email) "Hallo, maaf menganggu Anda melalui email, tetapi saya ingin tahu apakah Anda ingin melakukan review terhadap PR saya"_
 
-**It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
+**Tidak masalah untuk bertanya (tetapi harap sabar!).** Setiap orang pernah menjadi orang baru pada sebuah proyek, dan bahkan kontributor yang berpengalaman sekalipun perlu memahami kondisi ketika mereka melihat pada sebuah proyek baru. Dengan kondisi yang sama, bahkan pengelola yang sudah lama sekalipun tidak selalu memahami dengan setiap bagian dari proyek. Berikan kesabaran yang sama seperti Anda mengharapkan mereka sabar dengan Anda.
 
-> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
+> 😇 _"Terima kasih karena telah melihat kesalahan ini. Saya mengikuti petunjuk Anda. Berikut hasil keluarannya."_
 >
-> 😢 _"Why can't you fix my problem? Isn't this your project?"_
+> 😢 _"Kenapa Anda tidak bisa memperbaiki masalah saya? Bukankah ini proyek Anda?"_
 
-**Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+**Hargai keputusan komunitas.** Ide Anda mungkin berbeda dengan prioritas atau visi komunitas. Mereka mungkin menawarkan masukan atau memutuskan untuk tidak melanjutkan ide Anda. Meskipun sebaiknya Anda mendiskusikan dan mencoba mencari  titik temu, pengelola harus menanggung tanggung jawab atas keputusan Anda jauh lebih lama dibandingkan Anda. Jika Anda tidak setuju dengan mereka, Anda tetap bisa bekerja pada _fork_ Anda sendiri atau memulai proyek Anda sendiri.
 
-> 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
+> 😇 _"Saya kecewa Anda tidak bisa mendukung kasus saya, tetapi seperti yang telah Anda jelaskan, masalah itu hanya akan berdampak pada sebagian kecil pengguna, dan saya bisa memahami. Terima kasih telah mendengarkan."_
 >
-> 😢 _"Why won't you support my use case? This is unacceptable!"_
+> 😢 _"Kenapa Anda tidak mendukung kasus saya? Hal ini tidak bisa saya terima!"_
 
-**Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
+**Diatas itu semua, pertahankan kualitas.** Open source terbentuk dari kolaborator dari seluruh penjuru dunia. Konteks menjadi hilang dalam berbagai bahasa, budaya, geografis, dan zona waktu. Lebih dari itu, komunikasi tertulis menjadikannya lebih susah untuk menyalurkan nada atau suasana hati. Selalu asumsikan niat baik dalam percapakan. Merupakan hal yang biasa untuk menolak sebuah ide secara halus, bertanya untuk konteks yang lebih lanjut, atau mengklarifikasi posisi Anda. Harap jadikan Internet tempat yang lebih baik dibandingkan ketika Anda menemukannya.
 
-### Gathering context
+### Mengumpulkan konteks
 
-Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+Sebelum melakukan apapun, pastikan bahwa ide Anda belum pernah didiskusikan sebelumnya. Baca dokumen README, laporan masalah (terbuka dan tertutup), mailing list, dan Stack Overflow. Anda tidak perlu menghabiskan waktu berjam-jam untuk mencari semua informasi, tetapi cukup lakukan pencarian secara cepat untuk beberapa istilah kunci.
 
-If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by opening an issue or pull request:
+Jika Anda tidak bisa menemukan ide Anda dimanapun, Anda siap untuk bergerak. Jika proyek tersebut berada pada GitHub, Anda bisa berkomunikasi dengan membuka sebuah laporan masalah atau melakukan pull request:
 
-* **Issues** are like starting a conversation or discussion
-* **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
+* **Laporan masalah (Issues)** adalah seperti memulai percakapan atau diskusi
+* **Pull requests** adalah untuk memulai pekerjaan pada sebuah solusi
+* **Untuk komunikasi yang ringan,** seperti mengklarifikasi pertanyaan bagaimana, cobalah bertanya melalui Stack Overflow, IRC, Slack, atau media chat lainnya, jika ada.
 
-Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
+Sebelum Anda membuka sebuah laporan masalah atau melakukan pull request, periksa dokumen kontribusi proyek (biasanya pada dokumen bernama CONTRIBUTING, atau pada README), untuk melihat apakah Anda perlu mencantumkan informasi yang spesifik. Sebagai contoh, mereka mungkin meminta Anda untuk mengikuti sebuah template, atau mengharuskan Anda untuk menggunakan perangkat pengujian.
 
-If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+Jika Anda hendak melakukan kontribusi yang cukup substansial, buatlah sebuah laporan masalah sebelum memulai bekerja. Sangatlah bermanfaat untuk mengamati proyek dalam kurun waktu tertentu (pada Github, [Anda bisa memilih menu "Watch"](https://help.github.com/articles/watching-repositories/) untuk mendapatkan notifikasi dari semua percakapan), dan mengenal anggota komunitas, sebelum memulai pekerjaan yang belum tentu akan diterima.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
-  You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+  Anda akan belajar <em>banyak</em> dari proyek yang Anda gunakan secara aktif, "melihatnya" pada GitHub dan membaca semua laporan masalah dan PR.
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
-### Opening an issue
+### Membuka laporan masalah
 
-You should usually open an issue in the following situations:
+Anda biasanya akan membuka sebuah laporan masalah pada situasi berikut:
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (ex. community, vision, policies)
-* Propose a new feature or other project idea
+* Melaporkan kesalahan yang tidak bisa Anda selesaikan sendiri
+* Mendiskusikan topik tingkat tinggi atau ide (misalnya komunitas, visi, kebijakan)
+* Mengajukan fitur baru atau ide proyek lainnya
 
-Tips for communicating on issues:
+Tips untuk berkomunikasi pada laporan masalah:
 
-* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
-* **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-* **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+* **Jika Anda melihat laporan masalah yang masih terbuka yang hendak Anda selesaikan,** berikan komentar Anda pada laporan masalah tersebut agar orang lain tahu. Dengan cara begitu, kecil kemungkinan orang lain akan mengerjakan hal yang sama.
+* **Jika sebuah laporan masalah baru saja dibuka beberapa saat yang lalu,** ada kemungkinan bahwa laporan tersebut sedang dikerjakan oleh orang lain, atau sudah diperbaiki, sehingga berikan komentar untuk bertanya untuk konfirmasi sebelum memulai pekerjaan.
+* **Jika Anda membuka sebuah laporan masalah, tetapi menemukan jawabannya sendiri,** berikan komentar untuk menginformasikan kepada orang lain, lalu tutup laporan masalah tersebut. Bahkan mendokumentasikan hasilnya juga merupakan sebuah kontribusi pada proyek.
 
-### Opening a pull request
+### Membuka pull request
 
-You should usually open a pull request in the following situations:
+Anda biasanya akan membuka sebuah pull request pada situasi berikut:
 
-* Submit trivial fixes (ex. a typo, broken link, or obvious error)
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+* Mengajukan perbaikan sederhana (misalnya kesalahan ketik, link tidak valid, atau kesalahan yang jelas terlihat)
+* Mulai bekerja pada sebuah kontribusi yang sudah ditanyakan sebelumnya, atau yang sudah Anda diskusikan pada sebuah laporan masalah.
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+Sebuah pull request tidak harus mencerminkan sebuah pekerjaan yang sudah selesai. Biasakan untuk membuka pull request di awal, sehingga orang lain bisa melihat atau memberikan masukan untuk perkembangan Anda. Tandai dengan "WIP" (_Work in Progress_) pada baris _subject_. Anda tetap bisa menambahkan commit lainnya.
 
-If the project is on GitHub, here's how to submit a pull request:
+Jika proyek berada pada GitHub, berikut cara untuk membuka pull request:
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
-* **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
-* **Reference any relevant issues** or supporting documentation in your PR (ex. "Closes #37.")
-* **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
-* **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+* **[Fork repositori](https://guides.github.com/activities/forking/)** dan clone secara lokal. Hubungkan lokal Anda dengan repositori asli "_upstream_" dengan menambahkannya sebagai remote. Pull semua perubahan dari "upstream" secara berkala sehingga Anda selalu _up to date_ dan ketika Anda mengajukan pull request Anda, _merge conflict_ akan lebih jarang terjadi. (Lihat instruksi lebih detail [disini](https://help.github.com/articles/syncing-a-fork/).)
+* **[Membuat sebuah branch](https://guides.github.com/introduction/flow/)** untuk hasil pengeditan Anda.
+* **Referensikan laporan masalah yang berhubungan** atau dokumentasi pendukung pada PR Anda (Misalnya. "Menutup #37.")
+* **Sertakan tangkapan layar sebelum dan sesudah** jika perubahan Anda meliputi perubahan pada HTML/CSS. Tarik dan letakkan gambar citra pada bagian _body_ dari pull request Anda.
+* **Uji perubahan Anda!** Jalankan perubahan Anda terhadap pengujian jika ada dan buat uji baru jika diperlukan. Apapun kondisinya, pastikan perubahan Anda tidak merusak proyek yang sudah ada.
+* **Kontribusi sesuai dengan gaya proyek** sesuai kemampuan Anda. Hal ini berarti menggunakan indentasi, titik koma, dan komentar yang berbeda seperti yang Anda lakukan pada repositori Anda sendiri, tetapi memudahkan bagi pengelola untuk melakukan _merge_ dan orang lain untuk memahami dan mengelolanya di masa depan.
 
-If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a free walkthrough resource.
+Jika ini merupakan pull request pertama Anda, lihat [Make a Pull Request](http://makeapullrequest.com/), yang dibuat oleh @kentcdodds sebagai sumber panduan informasi gratis.
 
 ## Apa yang terjadi setelah Anda mengajukan sebuah kontribusi
 
