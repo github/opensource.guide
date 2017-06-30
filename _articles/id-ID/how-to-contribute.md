@@ -490,36 +490,36 @@ Jika ini merupakan pull request pertama Anda, lihat [Make a Pull Request](http:/
 
 ## Apa yang terjadi setelah Anda mengajukan sebuah kontribusi
 
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+Anda melakukannya! Selamat karena telah menjadi kontributor open source. Kami berharap ini yang pertama untuk banyak orang.
 
-After you submit a contribution, one of the following will happen:
+Setelah Anda mengajukan kontribusi Anda, salah satu hal berikut akan terjadi:
 
-### 😭 You don't get a response.
+### 😭 Anda tidak mendapatkan respon.
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+Semoga Anda [menguji tanda tanda aktivitas proyek](#daftar-sebelum-anda-berkontribusi) sebelum memulai sebuah kontribusi. Bahkan pada proyek yang aktif, ada kemungkinan bahwa kontribusi Anda tidak akan mendapatkan respon.
 
-If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+Jika Anda belum mendapatkan respon lebih dari satu minggu, sangatlah masuk akal untuk bertanya pada tempat yang sama, meminta orang lain untuk melakukan review. Jika Anda mengetahui orang yang tepat untuk melakukan review terhadap kontribusi Anda, Anda bisa menyebut mereka menggunakan @namapengguna.
 
-**Don't** reach out to that person privately; remember that public communication is vital to open source projects.
+**Jangan** menghubungi orang tersebut secara pribadi; harap diingat bahwa komunikasi publik sangatlah vital bagi proyek open source.
 
-If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+Jika Anda bertanya secara sopan dan masih tidak ada yang merespon, ada kemungkinan tidak akan ada yang merespon. Ini bukan perasaan yang menyenangkan, tetapi jangan sampai membuat Anda kecewa. Hal ini terjadi pada siapapun juga Terdapat banyak alasan masuk akal kenapa Anda tidak mendapatkan respon, termasuk kondisi pribadi yang diluar kendali Anda. Cobalah untuk mencari proyek atau cara lain untuk berkontribusi. Hal ini merupakan alasan yang bagus untuk tidak menginvestasikan waktu terlalu lama dalam membuat kontribusi sebelum anggota komunitas yang lain merespon Anda.
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 Seseorang meminta perubahan terhadap kontribusi Anda
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+Sangatlah normal dimana Anda diminta untuk membuat perubahan terhadap kontribusi Anda, apakah dalam bentuk masukan terhadap ruang lingkup ide Anda atau perubahan pada kode Anda.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+Ketika seseorang mengharapkan perubahan, berikan respon dengan cepat. Mereka telah meluangkan waktu untuk melakukan review terhadap kontribusi Anda. Membuka sebuah PR dan meninggalkannya merupakan contoh yang buruk. Jika Anda tidak tahu bagaimana cara membuat perubahan, lakukan pengamatan terhadap masalah, lalu bertanya jika Anda memerlukannya.
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+Jika Anda tidak memiliki waktu untuk mengerjakan laporan masalah tersebut (misalnya jika diskusi telah berjalan selama berbulan-bulan, dan kondisi Anda sudah mengalami perubahan), berikan informasi kepada pengelola sehingga mereka tidak lagi mengharapkan adanya respon dari Anda. Mungkin terdapat orang lain yang akan mengambil alih.
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 Kontribusi Anda tidak diterima.
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
+Kontribusi Anda mungkin bisa diterima atau tidak pada akhirnya. Semoga Anda tidak menghabiskan waktu terlalu banyak. Jika Anda tidak yakin kenapa tidak diterima, sangatlah masuk akal untuk menanyakan kepada pengelola untuk masukan dan klarifikasi. Meski demikian, Anda tetap harus menghargai keputusan akhir mereka. Jangan berdebat atau bahkan menyerang. Anda selalu diijinkan untuk melakukan _fork_ dan bekerja pada versi Anda sendiri jika Anda tidak setuju.
 
-### 🎉 Your contribution gets accepted.
+### 🎉 Kontribusi Anda diterima.
 
-Hooray! You've successfully made an open source contribution!
+Hooray! Anda telah membuat kontribusi open source!
 
-## You did it!
+## Anda berhasil!
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+Apakah Anda baru saja membuat kontribusi pertama Anda, atau Anda mencari cara baru untuk berkontribusi, kami berharap Anda terinsipirasi untuk mengambil sebuah tindakan. Meskipun jika kontribusi Anda tidak diterima, jangan lupa untuk mengucapkan terima kasih kepada pengelola yang meluangkan waktu untuk membantu Anda. Open source terbentuk oleh orang-orang seperti Anda: satu masalah, pull request, komentar, atau tos pada satu waktu.
