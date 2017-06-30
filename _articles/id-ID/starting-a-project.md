@@ -60,53 +60,53 @@ Karena [lisensi open source mewajibkan](https://opensource.org/osd-annotated) ba
 
 Sebagai hasilnya, sebagian besar proyek open source bersifat gratis, tetapi "bebas biaya" bukan bagian dari definisi open source. Terdapat banyak cara untuk menarik dana bagi proyek open source secara tidak langsung  melalui lisensi ganda atau fitur yang terbatas, dan masih tetap sesuai dengan definisi resmi dari open source.
 
-## Should I launch my own open source project?
+## Perlukah saya merilis proyek open source saya sendiri?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+Jawaban singkatnya adalah ya, karena apapun hasilnya, merilis proyek Anda sendiri adalah cara baik untuk belajar bagaimana open source bekerja.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+Jika Anda belum pernah membuka proyek Anda sebelumnya, Anda mungkin akan khawatir tentang apa yang akan dikatakan oleh orang lain, atau apakah orang lain akan melihat proyek Anda atau tidak. Jika hal ini sama seperti yang Anda rasakan, Anda tidak sendirian.!
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+Pekerjaan open source sama seperti aktivitas kreatif lainnya, baik itu menulis maupun melukis. Terkadang bisa menakutkan untuk mempublikasikan hasil pekerjaan Anda kepada dunia, tetapi satu-satunya cara agar lebih baik adalah dengan berlatih - meskipun Anda tidak punya pengguna.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+Jika Anda belum yakin, berikan waktu sejenak untuk memikirkan tujuan akhir Anda.
 
-### Setting your goals
+### Menentukan tujuan akhir Anda
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+Tujuan akhir bisa membantu Anda menentukan apa yang akan dikerjakan, apa yang harus ditolak, dan dimana Anda akan membutuhkan bantuan dari orang lain. Mulailah dengan menanyakan kepada dirinya Anda sendiri,  _kenapa saya membuat proyek saya menjadi open source?_
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+Tidak ada jawaban benar tunggal pada pertanyaan ini. Anda boleh memiliki banyak tujuan akhir untuk satu proyek tunggal, atau beberapa proyek dengan beberapa tujuan akhir.
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+Jika tujuan akhir Anda adalah untuk menunjukkan hasil pekerjaan Anda, Anda mungkin tidak perlu adanya kontribusi, dan mungkin bisa saja dituliskan pada dokumen README Anda. Di satu sisi, jika Anda ingin adanya kontributor, Anda harus menginvestasikan waktu untuk dokumentasi yang jelas dan membuat pendatang baru merasa disambut.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+  Pada suatu titik saya menciptakan UIAlertView hasil modifikasi yang saya gunakan...dan saya memutuskan untuk membuatnya menjadi open source. Lalu saya memodifikasinya menjadi lebih dinamis dan menyimpannya di GitHub. Saya menulis dokumentasi pertama saya dengan menjelaskan kepada pengembang lain bagaimana untuk menggunakannya pada proyek mereka. Mungkin saja tidak ada orang lain yang akan menggunakannya karena merupakan proyek sederhana, tetapi saya memiliki perasaan yang baik tentang kontribusi yang saya lakukan.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+Ketika proyek Anda berkembang, komunitas Anda mungkin membutuhkan lebih dari sekedar kode dari Anda. Merespon terhadap laporan masalah, melakukan review terhadap kode, dan mempopulerkan proyek Anda menjadi kegiatan penting dalam proyek open source.
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+Meskipun jumlah waktu yang Anda habiskan untuk kegiatan yang tidak berhubungan dengan pengembangan akan sangat bergantung dari ukuran dan batasan proyek Anda, Anda harus siap sebagai pengelola untuk menjalaninya atau cari seseorang untuk membantu Anda.
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**Jika Anda bagian dari sebuah perusahaan yang membuka proyeknya pada open source,** pastikan proyek Anda memiliki sumber daya internal yang dibutuhkan untuk berkembang. Anda perlu mengindetifikasi siapa yang bertanggung jawab untuk mengelola proyek setelah diluncurkan, dan bagaimana Anda akan mendistribusikan tugas tersebut dengan komunitas.
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+Jika Anda membutuhkan pendanaan yang permanen atau alokasi staf untuk promosi, operasi, dan pengelolaan proyek, lakukan diskusi di awal.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1857993?v=3&s=460" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+  Ketika Anda mulai untuk membuka proyek Anda pada open source, sangatlah penting untuk memastikan bahwa proses manajemen Anda memperhatikan kontribusi dan kemampuan dari komunitas disekeliling proyek Anda. Jangan takut untuk melibatkan kontributor yang bukan merupakan karyawan sebagai aspek kunci dalam proyek - terutama jika mereka adalah kontributor yang aktif.
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
   </p>
 </aside>
 
-### Contributing to other projects
+### Kontribusi ke proyek lain
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+Jika tujuan akhir Anda adalah belajar bagaimana berkolaborasi dengan orang lain atau memahami bagaimana open source bekerja, pertimbangkan untuk berkontribusi pada proyek yang sudah ada. Mulailah dengan proyek yang sudah Anda gunakan dan Anda suka. Berkontribusi pada sebuah proyek bisa semudah memperbaiki kesalahan penulisan atau memperbarui dokumentasi.
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+Jika Anda tidak yakin bagaimana memulai sebagai kontributor, silahkan lihat [Panduan Bagaimana Berkontribusi pada Open Source](../how-to-contribute/).
 
 ## Launching your own open source project
 
