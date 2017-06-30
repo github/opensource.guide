@@ -150,48 +150,48 @@ Meskipun Anda seorang pengembang perangkat lunak, bekerja pada proyek dokumentas
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
-  If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+  Jika Anda mengunjungi issue tracker dan tampaknya membingungkan, hal itu terjadi bukan hanya kepada Anda saja. Perangkat ini membutuhkan banyak pemahaman implisit, tetapi orang lain mampu membantu Anda dalam mengeksplorasi dan Anda bisa bertanya kepada mereka.
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
-For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
+Untuk aktivitas yang lebih dari sekedar kesalahan penulisan, berkontribusi pada open source seperti berjalan pada sebuah kelompok orang asing pada sebuah pesta.  Jika Anda berbicara tentang hewan llamas, sedangkan mereka sedang membicarakan tentang ikan mas, mungkin mereka akan memandang Anda dengan aneh.
 
-Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
+Sebelum memberikan masukan, pelajari bagaimana membaca situasi ruangan. Dengan melakukan hal ini akan meningkatkan peluang ide Anda akan dilihat dan didengarkan.
 
-### Anatomy of an open source project
+### Anatomi proyek open source
 
-Every open source community is different.
+Setiap komunitas open source memiliki perbedaan.
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+Menghabiskan waktu bertahun-tahun pada satu proyek open source berarti Anda terbiasa pada satu proyek open source. Dengan berpindah pada proyek yang berbeda maka Anda akan mendapati bahwa kosa kata, norma, dan gaya komunikasi yang digunakan sangatlah berbeda.
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+Meski demikian, banyak proyek open source mengikuti struktur organisasi yang sama. Memahami perbedaan peran komunitas yang berbeda-beda dan proses secara luas akan membantu Anda untuk beradaptasi dengan setiap proyek baru.
 
-A typical open source project has the following types of people:
+Proyek open source pada umumnya memiliki beberapa jenis orang sebagai berikut:
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project.
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
+* **Pencipta (Author):** Orang atau organisasi yang menciptakan proyek
+* **Pemilik (Owner):** Orang atau organisasi yang memiliki kepemilikan administratif terhadap organisasi atau repositori (tidak selalu sama dengan pencipta awal)
+* **Pengelola (Maintainers):** Kontributor yang bertanggung jawab untuk menggerakan visi dan mengelola aspek organisasi dari proyek. (Mereka juga bisa merupakan pencipta atau pemilik dari proyek.)
+* **Kontributor (Contributors):** Semua orang yang telah mengkontribusikan sesuatu kepada proyek.
+* **Anggota Komunitas (Community Members):** Orang-orang yang menggunakan proyek. Mereka mungkin aktif pada diskusi atau mengungkapkan opini mereka pada arah sebuah proyek.
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+Proyek yang lebih besar mungkin memiliki sub komite atau kelompok kerja yang berfokus pada tugas yang berbeda-beda, seperti peralatan, pengujian, moderasi komunitas, dan pengelola kegiatan. Lihat pada website proyek untuk halaman "anggota", atau pada repositori untuk dokumentasi organisasi, untuk menemukan informasi ini.
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+Sebuah proyek juga memiliki dokumentasi. Dokumentasi ini biasanya ditempatkan pada posisi teratas dari sebuah repositori.
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
-* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMES help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+* **LICENSE:** Secara definisi, setiap proyek open source harus memiliki sebuah [lisensi open source](https://choosealicense.com). Jika sebuah proyek tidak memiliki lisensi, maka proyek tersebut bukan bersifat open source.
+* **README:** Dokumen README adalah manual instruksi yang menyambut anggota komunitas baru pada sebuah proyek. Dokumen ini juga menjelaskan kenapa proyek ini berguna dan bagaimana untuk memulainya.
+* **CONTRIBUTING:** Jika README membantu orang-orang _menggunakan_ proyek, dokumentasi kontribusi membantu orang-orang untuk _berkontribusi_ pada proyek. Dokumen ini menjelaskan jenis kontribusi seperti apa yang diperlukan dan bagaimana cara kerja dari proses kontribusinya. Meskipun tidak setiap proyek memiliki dokumen CONTRIBUTING, keberadaan dokumen ini menandakan bahwa proyek ini menerima kontribusi.
+* **CODE_OF_CONDUCT:** Dokumen kode etik (_code of conduct_) menentukan aturan dasar bagi perilaku partisipan dan membantu memfasilitasi lingkungan yang kondusif dan bersahabat. Meskipun tidak setiap proyek memiliki dokumen CODE_OF_CONDUCT, keberadaan dokumen ini menandakan bahwa proyek ini menerima kontribusi.
+* **Dokumentasi lainnya:** Mungkin terdapat dokumentasi tambahan, seperti tutorial, panduan, atau kebijakan lainnya, terutama pada proyek yang lebih besar.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+Akhirnya, proyek open source menggunakan peralatan berikut untuk mengelola diskusi. Membaca dari arsip akan memberikan gambaran tentang bagaimana komunitas berpikir dan bekerja.
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (ex. _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+* **Issue tracker:** Dimana orang-orang mendiskusikan masalah yang berkaitan dengan proyek.
+* **Pull requests:** Dimana orang-orang mendiskusikan dan me-review perubahan yang sedang dikerjakan.
+* **Forum diskusi atau mailing list:** Beberapa proyek mungkin menggunakan media ini untuk topik diskusi (misalnya. _"Bagaimana saya ..."_ atau _"Apakah pendapat Anda tentang ..."_ daripada laporan kesalahan atau pengajuan fitur baru). Beberapa proyek menggunakan _issue tracker_ untuk semua diskusi.
+* **Media chat:** Beberapa proyek menggunakan media chat (seperti Slack atau IRC) untuk diskusi sehari-hari, kolaborasi, dan pertukaran yang bersifat cepat.
 
 ## Menemukan sebuah proyek untuk melakukan kontribusi
 
