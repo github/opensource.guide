@@ -1,64 +1,64 @@
 ---
-locale: en-US
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+locale: id-ID
+title: Memulai Proyek Open Source
+description: Pelajari lebih lanjut tentang dunia open source dan bersiap-siap untuk merilis proyek Anda sendiri.
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "The what and why of open source"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
-  naming-and-branding-your-project: "Naming and branding your project"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  apa-dan-kenapa-open-source: "Apa dan kenapa open source"
+  perlukah-saya-merilis-proyek-open-source-saya-sendiri: "Perlukah saya merilis proyek open source saya sendiri?"
+  merilis-proyek-open-source-anda: "Merilis proyek open source Anda"
+  penamaan-dan-pencitraan-proyek-anda: "Penamaan dan pencitraan proyek Anda"
+  daftar-checklist-pra-rilis: "Daftar checklist pra-rilis"
 order: 2
 image: /assets/images/cards/beginner.png
 ---
 
-## The "what" and "why" of open source
+## "Apa" dan "kenapa" open source
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+Anda berpikir untuk memulai pada open source? Selamat! Dunia ini menghargai kontribusi Anda. Mari kita bicarakan tentang apa itu open source dan kenapa orang-orang melakukannya.
 
-### What does "open source" mean?
+### Apa arti "open source"?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+Ketika sebuah proyek bersifat open source, hal itu berarti **setiap orang bisa melihat, menggunakan, memodifikasi, dan mendistribusikan proyek Anda untuk segala tujuan.** Hak akses ini diakui melalui [lisensi open source](https://opensource.org/licenses).
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+Open source sangatlah berkuasa karena mengurangi hambatan untuk adopsi, memungkinkan ide untuk berkembang dengan pesat.
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
+Untuk memahami bagaimana proses ini bekerja, bayangkan teman Anda sedang makan, dan Anda membawa sebuah pai berisi buah ceri.
 
-* Everybody tries the pie (_use_)
-* The pie is a hit! They ask you for the recipe, which you provide (_view_)
-* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
-* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
+* Semua orang mencoba pai (_menggunakan_)
+* Pai menjadi viral! Orang menanyakan resepnya kepada Anda, dan Anda berikan (_lihat_)
+* Salah seorang teman, Alex, seorang chef pastry, menyarankan untuk mengurangi gula (_modifikasi_)
+* Teman lain, Lisa, ingin menggunakannya untuk makan malam minggu depan (_distribusi_)
 
-By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
+Sebagai perbandingan, sebuah proses yang tertutup akan seperti dimana Anda pergi ke sebuah rumah makan dan memesan sepotong pai buah ceri. Anda harus membayar untuk memakan potongan tersebut, dan rumah makan tersebut tidak akan memberikan resepnya kepada Anda. Jika Anda membuat salinan utuh pai mereka dan menjualnya dengan nama Anda, rumah makan bisa mengambil sebuah tindakan terhadap Anda.
 
-### Why do people open source their work?
+### Kenapa orang-orang membuka hasil karya mereka?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+  Salah satu pengalaman yang paling berharga dengan menggunakan dan berkolaborasi pada open source datang dari relasi yang saya bangun dengan pengembang yang lain ketika menghadapi masalah yang sama seperti yang saya alami.
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
   </p>
 </aside>
 
-[There are many reasons](http://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+[Terdapat banyak alasan](http://ben.balter.com/2015/11/23/why-open-source/) kenapa seseorang atau sebuah organisasi ingin membuka proyek open source. Beberapa diantaranya meliputi:
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **Kolaborasi:** Proyek open source bisa menerima perubahan dari siapapun juga di seluruh dunia. [Exercism](https://github.com/exercism/), sebagai contoh, adalah kerangka latihan pemrograman dengan lebih dari 350 kontributor.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adopsi dan menggabungkan:** Proyek open source bisa digunakan oleh siapapun untuk hampir semua tujuan. Bahkan bisa digunakan untuk membangun proyek lain. [WordPress](https://github.com/WordPress), sebagai contoh, dimulai dari hasil _fork_ dari proyek yang sudah ada bernama [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparansi:** Setiap orang dapat melihat kesalahan atau inkonsistensi pada proyek open source. Transparansi sangat penting bagi pemerintah seperti [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) atau  [Amerika Serikat](https://sourcecode.cio.gov/), industri yang memiliki regulasi seperti perbankan atau kesehatan, dan perangkat lunak keamanan seperti [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source isn't just for software, either. You can open source everything from datasets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+Open source bukan hanya untuk perangkat lunak saja. Anda bisa membuka tentang apa saja mulai dari kumpulan data hingga buku. Silahkan lihat [GitHub Explore](https://github.com/explore) untuk ide yang dapat Anda buka sebagai open source.
 
-### Does open source mean "free of charge"?
+### Apakah open source berarti "bebas biaya"?
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+Salah satu hal yang menarik dari open source adalah tidak memerlukan biaya. "Bebas biaya", adalah hasil sampingan dari keseluruhan nilai open source.
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+Karena [lisensi open source mewajibkan](https://opensource.org/osd-annotated) bahwa setiap orang boleh menggunakan, memodifikasi, dan menyebarkan proyek Anda untuk segala tujuan, pada umumnya proyek tersebut bersifat bebas biaya. Jika proyek memerlukan uang untuk bisa menggunakannya, setiap orang boleh membuat salinannya secara legal dan menggunakan versi gratisnya.
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+Sebagai hasilnya, sebagian besar proyek open source bersifat gratis, tetapi "bebas biaya" bukan bagian dari definisi open source. Terdapat banyak cara untuk menarik dana bagi proyek open source secara tidak langsung  melalui lisensi ganda atau fitur yang terbatas, dan masih tetap sesuai dengan definisi resmi dari open source.
 
 ## Should I launch my own open source project?
 
