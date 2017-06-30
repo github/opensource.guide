@@ -195,23 +195,23 @@ Akhirnya, proyek open source menggunakan peralatan berikut untuk mengelola disku
 
 ## Menemukan sebuah proyek untuk melakukan kontribusi
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+Setelah Anda paham bagaimana proyek open source bekerja, sekarang saatnya untuk menemukan sebuah proyek untuk berkontribusi!
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
+Jika Anda belum pernah berkontribusi ke open source sebelumnya, ambil saran dari presin Amerika Serikat John F. Kennedy, yang mengatakan demikian , _"(Jangan tanyakan apa yang bisa dilakukan negara kepada dirimu - tanyakan apa yang bisa engkau lakukan untuk negaramu) - Ask not what your country can do for you - ask what you can do for your country."_
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+Berkontribusi ke open source bisa terjadi pada semua tingkatan, pada semua bagian proyek. Anda tidak perlu berpikir berlebihan tentang apa kontribusi pertama Anda atau bagaimana bentuknya.
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+Mulailah dengan proyek yang sudah Anda gunakan, atau ingin Anda gunakan. Proyek dimana Anda akan aktif berkontribusi didalamnya adalah proyek dimana Anda akan selalu datang kembali kepadanya.
 
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+Didalam proyek-proyek tersebut, setiap kali Anda mendapati tentang segala sesuatu yang bisa ditingkatkan atau berbeda, lakukan berdasarkan insting Anda.
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+Open source bukanlah klub ekslusif; Open source dibuat oleh orang-orang seperti Anda. "Open source" hanyalah istilah keren untuk menadai bahwa masalah yang ada di dunia sebagai sesuatu yang bisa diperbaiki.
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+Anda bisa melihat dokumen README dan menemukan tautan yang tidak valid atau kesalahan pengetikkan. Atau Anda sebagai pengguna baru dan melihat bahwa ada yang salah, atau sebuah laporan dimana Anda rasa penting untuk didokumentasikan. Daripada mengabaikannya, atau meminta orang lain untuk memperbaikinya, cari tahu apakah Anda bisa membantu dengan ikut serta didalamnya. Itulah makna sesungguhnya dari open source!
 
-> [28% of casual contributions](http://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> [28% dari kontribusi umum](http://www.igor.pro.br/publica/papers/saner2016.pdf) pada open source adalah berupa dokumentasi, seperti kesalahan pengetikkan, pemformatan ulang, atau menuliskan terjemahan.
 
-You can also use one of the following resources to help you discover and contribute to new projects:
+Anda juga bisa menggunakan salah satu dari beberapa sumber daya berikut untuk mencari dan berkontribusi pada proyek baru:
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
@@ -222,155 +222,155 @@ You can also use one of the following resources to help you discover and contrib
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
-### A checklist before you contribute
+### Daftar sebelum Anda berkontribusi
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+Ketika Anda telah menemukan sebuah proyek dimana Anda hendak melakukan kontribusi, lakukan pencarian secara cepat untuk memastikan proyek tersebut sesuai untuk menerima kontribusi. Jika tidak, usaha keras Anda mungkin tidak akan mendapatkan respon.
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+Berikut adalah daftar yang bisa digunakan untuk mengevaluasi apakah sebuah proyek sesuai untuk kontributor baru.
 
-**Meets the definition of open source**
+**Memenuhi definisi open source**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+  Apakah memiliki lisensi? Biasanya terdapat dokumen bernama LICENSE pada bagian atas dari repositori.
   </label>
 </div>
 
-**Project actively accepts contributions**
+**Proyek secara aktif menerima kontribusi**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+Lihat pada aktivitas commit pada branch master. Pada GitHub, Anda bisa melihat informasi ini pada homepage repositori.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
+  Kapan commit terakhir ?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
+  Berapa banyak kontributor yang dimiliki proyek?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+  Seberapa sering orang melakukan commit? (Pada GitHub, Anda bisa mendapatkan informasi ini dengan memilih menu "Commits" pada bagian atas.)
   </label>
 </div>
 
-Next, look at the project's issues.
+Berikutnya, lihat pada masalah yang dihadapi pada proyek.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+    Berapa banyak masalah yang masih belum diselesaikan?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
+    Apakah pengelola merespon dengan cepat pada sebuah masalah baru?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+    Apakah terdapat diskusi aktif pada setiap masalah yang ada?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+    Apakah masalah-masalah tersebut muncul baru-baru ini?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+    Apakah masalah yang ada diselesaikan? (Pada GitHub, klik tab "closed" pada halaman Issues untuk melihat masalah yang sudah terselesaikan.)
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+Sekarang lakukan hal yang sama untuk pull request pada proyek.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+    Berapa banyak pull request pada proyek?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+    Apakah pengelola merespon dengan cepat terhadap pull request baru?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+    Apakah terdapat diskusi aktif pada pull request?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+   Apakah pull request tersebut muncul baru-baru ini?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+    Kapan pull request diterima? (Pada GitHub, klik tab "closed" pada halaman Pull Requests untuk melihat PR yang sudah diselesaikan.)
   </label>
 </div>
 
-**Project is welcoming**
+**Proyek menyambut**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+Sebuah proyek yang bersahabat dan menyambut menandai bahwa mereka sangat menerima kontributor baru.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
+    Apakah pengelola menanggapi pertanyaan pada masalah dengan sangat membantu?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (ex. IRC or Slack)?
+    Apakah orang-orang bersahabat pada masalah, forum diskusi, dan chat (misalnya. IRC atau Slack)?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
+    Apakah dilakukan review terhadap pull request?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
+    Apakah pengelola berterima kasih kepada orang lain atas kontribusinya?
   </label>
 </div>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+  Setiap kali Anda melihat diskusi yang panjang, amati respon dari pengembang inti di bagian akhir dari diskusi. Apakah mereka meringkasnya secara konstruktif dan mengambil langkah-langkah untuk mendapatkan kesimpulan tanpa mengabaikan sopan santun? Jika Anda melihat banyak perdebatan yang tidak konstruktif (_flame war_), biasanya merupakan sebuah tanda bahwa energi dihabiskan untuk berargumentasi dibandingkan untuk pengembangan proyek.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
