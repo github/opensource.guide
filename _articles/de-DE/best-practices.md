@@ -20,7 +20,7 @@ Wenn du ein Open-Source Projekt betreibst, dass viele Meschen nutzen, wirst du v
 
 In den frühen Tagen eines Projekts experimentierst du viel mit neuen Ideen und machst Entscheidungen basierend auf was du möchtest. Sobald dein Projekt populär wird, wirst du dich vermehrt darin sehen, dass du mit deinen Nutzern und Beitragenden beschäftigst.
 
-Ein Projekt zu betreiben, bedeutet mehr als nur zu programmieren. Die Aufgaben sind oft ungeplant, aber sie sind wichtig für ein wachsendes Projekt. Wir haben ein paar beigetragen, vom Dokumentations-Prozess bis zum wirksamen Einsetzen deiner Community.
+Ein Projekt zu betreiben, bedeutet mehr als nur zu programmieren. Die anstehenden Arbeiten sind oft ungeplant, aber sie sind wichtig für ein wachsendes Projekt. Wir haben ein paar beigetragen, vom Dokumentations-Prozess bis zum wirksamen Einsetzen deiner Community.
 
 ## Documenting your processes
 
