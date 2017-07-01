@@ -5,7 +5,7 @@ description: Mache dein Leben als ein Open-Source Betreiber einfacher, vom Dokum
 class: best-practices
 toc:
   what-does-it-mean-to-be-a-maintainer: "Was bedeutet es, ein Betreiber zu sein?"
-  documenting-your-processes: "Deine Prozesse dokumentieren"
+  documenting-your-processes: "Dokumentiere deine Vorgänge"
   learning-to-say-no: "Lernen, nein zu sagen"
   leverage-your-community: "Setze deine Community wirksam ein"
   bring-in-the-robots: "Bring in the robots"
@@ -20,29 +20,29 @@ Wenn du ein Open-Source Projekt betreibst, dass viele Meschen nutzen, wirst du v
 
 In den frühen Tagen eines Projekts experimentierst du viel mit neuen Ideen und machst Entscheidungen basierend auf was du möchtest. Sobald dein Projekt populär wird, wirst du dich vermehrt darin sehen, dass du mit deinen Nutzern und Beitragenden beschäftigst.
 
-Ein Projekt zu betreiben, bedeutet mehr als nur zu programmieren. Die anstehenden Arbeiten sind oft ungeplant, aber sie sind wichtig für ein wachsendes Projekt. Wir haben ein paar beigetragen, vom Dokumentations-Prozess bis zum wirksamen Einsetzen deiner Community.
+Ein Projekt zu betreiben bedeutet mehr als nur zu programmieren. Die anstehenden Arbeiten sind oft ungeplant, aber sie sind wichtig für ein wachsendes Projekt. Wir haben ein paar beigetragen, vom Dokumentations-Prozess bis zum wirksamen Einsetzen deiner Community.
 
-## Documenting your processes
+## Dokumentiere deine Vorgänge
 
-Writing things down is one of the most important things you can do as a maintainer.
+Dinge aufzuschreiben ist eine der wichtigsten Dinge die du als Betreiber machen kannst.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+Dokumentation beschreibt nicht nur deine Gedanken, sondern es hilft auch anderen Leuten zu verstehen was sie erwarten oder brauchen, bevor sie überhaupt fragen.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+Dinge aufzuschreiben macht es einfacher „Nein“ zu sagen wenn etwas nicht in deinen Bereich reinpasst. Es macht es außerdem leichter für Leute einzusteigen und zu helfen. Du weißt nie wer dein Projekt liest oder benutzt.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+Wenn du keine Texte schreiben möchtest, sind Stichwörter ebenfalls besser als überhaupt nichts aufzuschreiben.
 
-### Write down your project's vision
+### Schreibe die Vision des Projekts auf
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Fange an mit dem Aufschreiben von den Zielen deines Projektes. Füge sie zu deiner README hinzu, oder erstelle eine VISION Datei. Wenn andere Artifakte helfen könnte, wie z.B. eine Roadmap, mache sie ebenfalls öffentlich.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+Eine klar-dokumentierte Vision hilft dir stets fokussiert zu sein, auf dass was du machen möchtest und vermeidet Unklarheiten von anderen Beitragenden.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+Zum Beispiel hat @lord entdeckt, dass eine Projekt Vision ihm geholfen hat herauszufinden auf welche Anfragen er sich fokussieren soll. Als ein neuer Betreiber hat er es bereut, sich nicht auf ein paar Ziele festzulegen als er seinen ersten Funktionswunsch für [Slate](https://github.com/lord/slate) hatte.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1976330?v=3&s=460" class="pquote-avatar" alt="avatar" alt="@lord avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  Ich fummelte rum. Ich habe mir nicht die Mühe gegeben, eine Komplettlösung zu fidnen. Stattdessen habe ich eine unfähige Lösung genommen. Ich wünsche ich hätte gesagt „Ich habe momentan dafür keine Zeit, aber ich werde es auf die langfristige Wunschliste setzen“.
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
