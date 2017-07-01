@@ -1,7 +1,7 @@
 ---
 locale: de-DE
 title: Optimale Vorgehensweisen für Betreiber
-description: Mache dein Leben einfacher als ein Open-Source Betreiber, vom Dokumentieren bis zum wirksamen Einsetzen deiner Community
+description: Mache dein Leben als ein Open-Source Betreiber einfacher, vom Dokumentieren bis zum wirksamen Einsetzen deiner Community
 class: best-practices
 toc:
   what-does-it-mean-to-be-a-maintainer: "Was bedeutet es, ein Betreiber zu sein?"
