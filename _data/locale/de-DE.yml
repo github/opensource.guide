@@ -19,7 +19,7 @@ footer:
     button: Anmelden
   byline:
     # [code], [love], and [github] will be replaced by octicons
-    format: "[code] mit [love] von [github] und [Freunden]"
+    format: "[code] mit [love] von [github] und Freunden"
     # Label for code octicon
     code_label: code
     # Label for love octicon
