@@ -14,13 +14,13 @@ order: 5
 image: /assets/images/cards/best-practices.png
 ---
 
-## What does it mean to be a maintainer?
+## Was bedeutet es, ein Betreiber zu sein?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+Wenn du ein Open-Source Projekt betreibst, dass viele Meschen nutzen, wirst du vielleicht merken dass du weniger programmierst und mehr auf Probleme.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+In den frühen Tagen eines Projekts experimentierst du viel mit neuen Ideen und machst Entscheidungen basierend auf was du möchtest. Sobald dein Projekt populär wird, wirst du dich vermehrt darin sehen, dass du mit deinen Nutzern und Beitragenden beschäftigst.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+Ein Projekt zu betreiben, bedeutet mehr als nur zu programmieren. Die Aufgaben sind oft ungeplant, aber sie sind wichtig für ein wachsendes Projekt. Wir haben ein paar beigetragen, vom Dokumentations-Prozess bis zum wirksamen Einsetzen deiner Community.
 
 ## Documenting your processes
 
