@@ -48,7 +48,7 @@ Zum Beispiel hat @lord entdeckt, dass eine Projekt Vision ihm geholfen hat herau
   </p>
 </aside>
 
-### Kommentiere deine Erwartungen
+### Kommuniziere deine Erwartungen
 
 Regeln aufzuschreiben kann nerv-tötend sein. Manchmal fühlst du dich vielleicht als Überwacher fremder Verhaltensweisen und als Spaßbremse.
 
