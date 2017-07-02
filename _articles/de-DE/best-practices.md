@@ -130,28 +130,28 @@ Fühl dich nicht schuldig, wenn du einen Beitag nicht akzeptieren möchtest. Die
 
 Am Schlimmsten ist es, wenn ein Beitrag nicht gut ist, und du unter keinen Umständen es akzeptieren kannst. Sei freundlich und mitfühlend wenn Leute etwas zu deinem Projekt beitragen, aber akzeptiere nur Änderungen wo du wirklich denkst, dass sie dein Projekt verbessern. Je öfter du übst „Nein“ zu sagen, desto einfacher wird es. Versprochen.
 
-### Be proactive
+### Ergreife die Initiative
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+Um die Anzahl von ungewünschten Beitragen von vorherein zu reduzieren, erkläre nach welchen Kriterien du den Prozess vom Erstellen bis zum Akzeptieren des Beitrags durchführst. Dies kannst du in deinem Contributing Guide niederschreiben.
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+Wenn du sehr viele minderwertige Beiträge erhälst, erfordere von den Beiträgern etwas Vorarbeit, zum Beispiel:
 
-* Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+* Fülle ein(e) Problem- oder Pull Request Template/-Checklist aus
+* Öffne zuerst ein Issue bevor du einen Pull Request erstellst
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+Wenn sie deinen Regeln nicht folgen, schließe sofort das Problem/den Pull Request und verweise auf die Dokumentation.
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+Während sich dieser Ansatz im ersten Moment vielleicht unhöflich anfühlt, die Initiative zu ergreifen ist eigentlich gut für den Anfragenden und für dich. Es reduziert die Chance das jemand unnötig viele Stunden in etwas investiert, was du im Vorhinein nicht akzeptierst, und es macht deine Arbeit leichter zu verwalten.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/125011" class="pquote-avatar" alt="avatar">
-  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+  Idealerweise erklärst du ihnen in einer CONTRIBUTING.md Datei auf was sie sich fokussieren müssen, damit sie wissen auf was es ankommt, bevor sie überhaupt mit der Arbeit anfangen.
   <p markdown="1" class="pquote-credit">
 — @mikemcquaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+Manchmal, wenn du „Nein“ sagst, wird dein potenzieller Beiträgern vielleicht wütend, oder kritisiert deine Entscheidung. Wenn sie ablehnend werden, [ergreife die Initative um die Lage zu beruhigen (Englisch)](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) oder entferne sie sogar aus der Community, wenn sie nicht konstruktiv mitarbeiten möchten.
 
 ### Embrace mentorship
 
