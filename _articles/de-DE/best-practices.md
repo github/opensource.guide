@@ -124,7 +124,7 @@ Du solltest nicht mehr als 1-2 Sätze brauchen. Zum Beispiel, als ein Nutzer von
 
 Wenn der Gedanke, „Nein“ zu sagen dir Angst macht, bist du nicht alleine. @jessfraz hat es [niedergeschrieben](https://blog.jessfraz.com/post/the-art-of-closing/)
 
-> Ich habe mit Beitreibern von mehreren verschiedenen Open-Source Projekten gesprochen, Mesos, Kubernetes, Chromium... Und alle haben sich auf eines geeinigt: „Nein“ zu sagen zu Patchen die du nicht möchtest.
+> Ich habe mit Beitreibern von mehreren verschiedenen Open-Source Projekten gesprochen, Mesos, Kubernetes, Chromium... Und alle haben sich auf eines geeinigt: „Nein“ zu sagen zu Patchen die du nicht möchtest ist eine schwierige Aufgabe als Betreiber.
 
 Fühl dich nicht schuldig, wenn du einen Beitag nicht akzeptieren möchtest. Die erste Regel von Open-Source, [nach](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"Nein, ist temporär, Ja ist für immer"_. Während sich mit anderen Leuten mitzufühlen gut ist, bedeutet einen Beitrag abzulehnen nicht, die Person dahinter zurückzuweisen.
 
