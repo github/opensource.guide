@@ -152,19 +152,19 @@ blockquote {
   }
 
   h2:nth-of-type(1):before {
-    content: "Section 1";
+    content: "Kapitel 1";
     @include breakpoint(md) {
       margin-top: 60px;
     }
   }
-  h2:nth-of-type(2):before { content: "Section 2"; }
-  h2:nth-of-type(3):before { content: "Section 3"; }
-  h2:nth-of-type(4):before { content: "Section 4"; }
-  h2:nth-of-type(5):before { content: "Section 5"; }
-  h2:nth-of-type(6):before { content: "Section 6"; }
-  h2:nth-of-type(7):before { content: "Section 7"; }
-  h2:nth-of-type(8):before { content: "Section 8"; }
-  h2:nth-of-type(9):before { content: "Section 9"; }
+  h2:nth-of-type(2):before { content: "Kapitel 2"; }
+  h2:nth-of-type(3):before { content: "Kapitel 3"; }
+  h2:nth-of-type(4):before { content: "Kapitel 4"; }
+  h2:nth-of-type(5):before { content: "Kapitel 5"; }
+  h2:nth-of-type(6):before { content: "Kapitel 6"; }
+  h2:nth-of-type(7):before { content: "Kapitel 7"; }
+  h2:nth-of-type(8):before { content: "Kapitel 8"; }
+  h2:nth-of-type(9):before { content: "Kapitel 9"; }
 
   h2 + p {
     text-align: center;
