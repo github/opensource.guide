@@ -118,7 +118,7 @@ Wenn du einen Beitrag nicht akzeptieren möchtest:
 * **Verlinke zu relevanter Dokumentaion**, wenn du eine hast. Wenn du merkst, dass du häufig Vorschläge hast, die du nicht annehmen möchtest, füge sie zur Dokumentation hinzu, damit du vermeidest dich selbst zu wiederholen.
 * **Schließe die Anfrage**
 
-Du solltest nicht mehr als 1-2 Sätze brauchen. Zum Beispiel, als ein Nutzer von [celery](https://github.com/celery/celery/) einen Windows-gerichteten Fehler meldete, @berkerpeksag [antwortete mit](https://github.com/celery/celery/issues/3383):
+Du solltest nicht mehr als 1-2 Sätze brauchen. Zum Beispiel, als ein Nutzer von [celery](https://github.com/celery/celery/) einen Windows-gerichteten Fehler meldete, [antwortete @berkerpeksag mit](https://github.com/celery/celery/issues/3383):
 
 ![celery screenshot](/assets/images/best-practices/celery.png)
 
