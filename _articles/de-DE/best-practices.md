@@ -16,7 +16,7 @@ image: /assets/images/cards/best-practices.png
 
 ## Was bedeutet es, ein Betreiber zu sein?
 
-Wenn du ein Open-Source Projekt betreibst, dass viele Meschen nutzen, wirst du vielleicht merken dass du weniger programmierst und mehr auf Probleme.
+Wenn du ein Open-Source Projekt betreibst, dass viele Menschen nutzen, wirst du vielleicht merken dass du weniger programmierst und mehr auf Probleme.
 
 In den frühen Tagen eines Projekts experimentierst du viel mit neuen Ideen und machst Entscheidungen basierend auf was du möchtest. Sobald dein Projekt populär wird, wirst du dich vermehrt darin sehen, dass du mit deinen Nutzern und Beitragenden beschäftigst.
 
