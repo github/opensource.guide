@@ -155,37 +155,37 @@ Manchmal, wenn du „Nein“ sagst, wird dein potenzieller Beiträger vielleicht
 
 ### Ergreife die Leitung
 
-Vielleicht erstelt jemand in deiner Community regelmäßig Beiträge, die nicht mit deinen Projektstandards vereinbar sind. Es kann für beide Seiten frustrierbar sein, wenn man immer wieder Ablehnungen durchleben muss.
+Vielleicht erstellt jemand in deiner Community regelmäßig Beiträge, die nicht mit deinen Projektstandards vereinbar sind. Es kann für beide Seiten frustierend sein, wenn man immer wieder Ablehnungen durchleben muss.
 
-Wenn du siehst, dass jemand begeistert von deinem Projekt ist, aber etwas Hilfe benötigt, sei wachsam. Erkläre klar in jeder Situation wieso seine Beiträge nicht die Erwartungen deines Projekts erfüllen. Versuche sie auf ein leichertes oder weniger anstrengende Aufgabe zu verweisen, wie z.B. auf ein Problem mit dem Label _„guter erster Bug“_, damit sie erste Erfahrungen in einem neuen Bereich machen können. Wenn du Zeit hast, überlege ob du weitere Instruktionen mitgeben kannst, oder jemand findest in deiner Community, die den Anfänger gerne unterstützt.
+Wenn du siehst, dass jemand begeistert von deinem Projekt ist, aber etwas Hilfe benötigt, sei wachsam. Erkläre klar in jeder Situation wieso seine Beiträge nicht die Erwartungen deines Projekts erfüllen. Versuche den Anfänger auf eine leicherte oder weniger anstrengende Aufgabe zu verweisen, wie z.B. auf ein Problem mit dem Label _„guter erster Bug“_, damit sie erste Erfahrungen in einem neuen Bereich machen können. Wenn du Zeit hast, überlege ob du weitere Instruktionen mitgeben kannst, oder jemand findest in deiner Community, wer den Anfänger gerne unterstützt.
 
-## Leverage your community
+## Setze deine Community wirksam ein
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+Du musst nicht alles selber machen. Deine Community existiert für einen ganz bestimmten Grund! Selbst wenn du bisher keinen aktiven Beitragenden hast, wenn du viele Nutzer hast, bringe sie zur Arbeit!
 
-### Share the workload
+### Verteile die Last
 
-If you're looking for others to pitch in, start by asking around.
+Wenn du welche suchst, die mitarbeiten, frage einfach rum.
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+Falls du siehst dass neue Beitragende wiederholt Beiträge machen, erkenne ihre Arbeit an, indem du ihnen mehr Verantwortung anbietest. Dokumentiere wie andere ebenfalls in Leiterrollen reinwachsen können, wenn sie wollen.
 
-Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js?files=1).
+Ermutige andere [die Leitung des Projekts zu übernehmen](../building-community/#share-ownership-of-your-project) kann deine eigene Last stark reudzieren, wie @lmccart in ihrem Projekt festgestellt hat: [p5.js](https://github.com/processing/p5.js?files=1).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I’d been saying, “Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...].” We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+  Ich hatte gesagt, „Ja, jeder kann teilnehmen, du brauchst nicht viel Programmiererfahrung [...]“. Wir hatten Leute, die sich angemeldet haben [auf ein Event zu kommen] und das hat mich richtig verwundert: Ist es wahr, was ich gesagt hatte? Da kommen 40 Leute, und ich kann nicht mit jedem sitzen... Aber die Leute kamen zusammen, und es wurde einfach nur gearbeitet. Sobald eine Person es verstanden hatte, konnte sie ihrem Nachbar es erklären.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does “Open Source” Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+Wenn du von deinem Projekt Abstand nehmen musst, entweder temporär oder permanent, gibt es keinen Grund sich zu schämen, wenn man fragt ob jemand anderes es übernehmen können.
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+Sofern andere Leute begeistert über die neue Richtung sind, gebe ihnen den Commit-Zugang oder reiche formal die Kontrolle weiter. Wenn jemand dein Projekt geforkt hat und es aktiv extern entwickelt, möchtest du das Projekt vielleicht in deinem Original Projekt verlinken. Es ist großartig dass soviele Leute dein Projekt am Leben haben möchten!
 
-@progrium [found that](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
+@progrium [hat rausgefunden dass](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) das Dokumentieren der Vision für sein Projekt, [Dokku](https://github.com/dokku/dokku), die Ziele lebendig wurden sogar als er vom Projekt Abstand genommen hat:
 
-> I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
+> Ich habe ein Wiki-Seite geschreiben darüber was ich möchte und wieso ich es möchte. Aus irgendeinem Grund hat es mich überrascht als die Betreiber gestartet haben, in die Richtung zu gehen, in die ich wollte. Ist es exakt so passiert wie ich es umgesetzt hätte? Nicht immer. Aber es hat das Projekt nach vorne gebracht, zudem was ich aufgeschrieben habe.
 
 ### Let others build the solutions they need
 
