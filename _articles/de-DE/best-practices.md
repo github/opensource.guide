@@ -42,7 +42,7 @@ Zum Beispiel hat @lord entdeckt, dass eine Projekt Vision ihm geholfen hat herau
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1976330?v=3&s=460" class="pquote-avatar" alt="avatar" alt="@lord avatar">
-  Ich fummelte rum. Ich habe mir nicht die Mühe gegeben, eine Komplettlösung zu fidnen. Stattdessen habe ich eine unfähige Lösung genommen. Ich wünsche ich hätte gesagt „Ich habe momentan dafür keine Zeit, aber ich werde es auf die langfristige Wunschliste setzen“.
+  Ich fummelte rum. Ich habe mir nicht die Mühe gegeben, eine Komplettlösung zu finden. Stattdessen habe ich eine unfähige Lösung genommen. Ich wünsche ich hätte gesagt „Ich habe momentan dafür keine Zeit, aber ich werde es auf die langfristige Wunschliste setzen“.
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
@@ -50,7 +50,7 @@ Zum Beispiel hat @lord entdeckt, dass eine Projekt Vision ihm geholfen hat herau
 
 ### Kommuniziere deine Erwartungen
 
-Regeln aufzuschreiben kann nerv-tötend sein. Manchmal fühlst du dich vielleicht als Überwacher fremder Verhaltensweisen und als Spaßbremse.
+Regeln aufzuschreiben kann nervtötend sein. Manchmal fühlst du dich vielleicht als Überwacher fremder Verhaltensweisen und als Spaßbremse.
 
 Aufgeschriebene und fair-durchgesetzte, gute Regeln wirken dennoch motivierend für Betreiber. Sie verhindern dass du Sachen machen musst, die du nicht tun willst.
 
@@ -71,7 +71,7 @@ Hier sind einige Regeln die es wert sind, niedergeschrieben zu werden:
 
 ### Stelle die Kommunikation öffentlich
 
-Vergesse nicht, auch deine Interaktionen zu dokumentieren. Wo auch immer du bist, lass die Kommunikation über dein Projekt öffentlich. Wenn jemand versuct, dir privat einen Vorschlag zu machen oder Hilfe möchte, verweise ihn höflich auf deine öffentlichen Kanäle, zum Beispiel eine Mailing-Liste oder ein Issue Tracker.
+Vergesse nicht, auch deine Interaktionen zu dokumentieren. Wo auch immer du bist, lass die Kommunikation über dein Projekt öffentlich. Wenn jemand versucht, dir privat einen Vorschlag zu machen oder Hilfe möchte, verweise ihn höflich auf deine öffentlichen Kanäle, zum Beispiel eine Mailing-Liste oder ein Issue Tracker.
 
 Wenn du dich mit anderen Betreibern triffst, oder privat eine große Änderung gemacht wurde, dokumentiere die Beweggründe öffentlich, zumindest wenn es nur bedeutet, deine Notizen aufzuschreiben.
 
@@ -89,9 +89,9 @@ Du wirst als Betreiber viele Situationen kennenlernen wo du „Nein“ sagen mus
 
 ### Lass die Unterhaltung freundlich
 
-Eine der wichtigsten Orte wo du „Nein“ sagen musst ist dein Probleme und Pull Request Bereich. Als ein Projektbetreiber, wirst du zwangsläufig Vorschläge bekommen die du nicht annehmen möchtest.
+Eine der wichtigsten Orte wo du „Nein“ sagen musst ist dein Probleme und Pull Request Bereich. Als ein Projektbetreiber wirst du zwangsläufig Vorschläge bekommen die du nicht annehmen möchtest.
 
-Vielleicht ändert der Beitag den Umfang, den dein Projekt abdecken soll oder es passt nicht zu deiner Vision. Vielleicht ist die Idee gut, aber schlecht umgesetzt.
+Vielleicht ändert der Beitrag den Umfang, den dein Projekt abdecken soll oder es passt nicht zu deiner Vision. Vielleicht ist die Idee gut, aber schlecht umgesetzt...
 
 Wie auch immer, es ist möglich taktisch umzugehen mit Beiträgen die deinem Projektstandard widersprechen.
 
