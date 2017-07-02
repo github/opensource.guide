@@ -165,28 +165,27 @@ Du musst nicht alles selber machen. Deine Community existiert für einen ganz be
 
 ### Verteile die Last
 
-Wenn du welche suchst, die mitarbeiten, frage einfach rum.
+Wenn du welche suchst, die mitarbeiten wollen, frage einfach rum.
 
 Falls du siehst dass neue Beitragende wiederholt Beiträge machen, erkenne ihre Arbeit an, indem du ihnen mehr Verantwortung anbietest. Dokumentiere wie andere ebenfalls in Leiterrollen reinwachsen können, wenn sie wollen.
 
-Ermutige andere [die Leitung des Projekts zu übernehmen](../building-community/#share-ownership-of-your-project) kann deine eigene Last stark reudzieren, wie @lmccart in ihrem Projekt festgestellt hat: [p5.js](https://github.com/processing/p5.js?files=1).
+Andere zu ermutigen [die Leitung des Projekts zu übernehmen](../building-community/#share-ownership-of-your-project) kann deine eigene Last stark reduzieren, wie @lmccart in ihrem Projekt festgestellt hat: [p5.js](https://github.com/processing/p5.js?files=1).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Ich hatte gesagt, „Ja, jeder kann teilnehmen, du brauchst nicht viel Programmiererfahrung [...]“. Wir hatten Leute, die sich angemeldet haben [auf ein Event zu kommen] und das hat mich richtig verwundert: Ist es wahr, was ich gesagt hatte? Da kommen 40 Leute, und ich kann nicht mit jedem sitzen... Aber die Leute kamen zusammen, und es wurde einfach nur gearbeitet. Sobald eine Person es verstanden hatte, konnte sie ihrem Nachbar es erklären.
+  Ich hatte gesagt, „Ja, jeder kann teilnehmen, du brauchst nicht viel Programmiererfahrung [...]“. Wir hatten Leute, die sich angemeldet haben [auf ein Event zu kommen] und das hat mich richtig verwundert: Ist es wahr, was ich gesagt hatte? Da kommen 40 Leute, und ich kann nicht mit jedem sitzen... Aber die Leute kamen zusammen, und es wurde einfach nur gearbeitet. Sobald eine Person es verstanden hatte, konnte sie es ihrem Nachbar es erklären.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does “Open Source” Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
   </p>
 </aside>
 
-Wenn du von deinem Projekt Abstand nehmen musst, entweder temporär oder permanent, gibt es keinen Grund sich zu schämen, wenn man fragt ob jemand anderes es übernehmen können.
+Wenn du von deinem Projekt Abstand nehmen musst, entweder temporär oder permanent, gibt es keinen Grund sich zu schämen, wenn man fragt ob jemand anderes es übernehmen könnte.
 
 Sofern andere Leute begeistert über die neue Richtung sind, gebe ihnen den Commit-Zugang oder reiche formal die Kontrolle weiter. Wenn jemand dein Projekt geforkt hat und es aktiv extern entwickelt, möchtest du das Projekt vielleicht in deinem Original Projekt verlinken. Es ist großartig dass soviele Leute dein Projekt am Leben haben möchten!
 
-@progrium [hat rausgefunden dass](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) das Dokumentieren der Vision für sein Projekt, [Dokku](https://github.com/dokku/dokku), die Ziele lebendig wurden sogar als er vom Projekt Abstand genommen hat:
+@progrium [hat rausgefunden dass (Englisch)](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) das Dokumentieren der Vision für sein Projekt, [Dokku](https://github.com/dokku/dokku), die Ziele lebendig gemacht hat, sogar als er vom Projekt Abstand genommen hat:
 
 > Ich habe ein Wiki-Seite geschreiben darüber was ich möchte und wieso ich es möchte. Aus irgendeinem Grund hat es mich überrascht als die Betreiber gestartet haben, in die Richtung zu gehen, in die ich wollte. Ist es exakt so passiert wie ich es umgesetzt hätte? Nicht immer. Aber es hat das Projekt nach vorne gebracht, zudem was ich aufgeschrieben habe.
-
 ### Let others build the solutions they need
 
 If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
