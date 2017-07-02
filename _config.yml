@@ -61,10 +61,10 @@ sass:
 branch: gh-pages
 
 github:
-  repository_nwo: github/opensource.guide
+  repository_nwo: jens1o/de-opensource.guide
 
 twitter:
-  username: github
+  username: jens1o
 
 facebook:
   publisher: https://www.facebook.com/GitHub/
