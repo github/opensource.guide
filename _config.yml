@@ -7,6 +7,9 @@ translations:
   en-US:
     name: English (US)
     url: https://opensource.guide
+  de-DE:
+    name: Deutsch (German)
+    url: https://jens1o.github.io/de-opensource.guide/
 
 exclude:
   - bin
