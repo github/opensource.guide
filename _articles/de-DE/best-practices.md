@@ -120,7 +120,7 @@ Wenn du einen Beitrag nicht akzeptieren möchtest:
 
 Du solltest nicht mehr als 1-2 Sätze brauchen. Zum Beispiel, als ein Nutzer von [celery](https://github.com/celery/celery/) einen Windows-gerichteten Fehler meldete, [antwortete @berkerpeksag mit](https://github.com/celery/celery/issues/3383):
 
-![celery screenshot](/assets/images/best-practices/celery.png)
+![celery screenshot](assets/images/best-practices/celery.png)
 
 Wenn der Gedanke, „Nein“ zu sagen dir Angst macht, bist du nicht alleine. @jessfraz hat es [niedergeschrieben](https://blog.jessfraz.com/post/the-art-of-closing/)
 
