@@ -18,7 +18,7 @@ image: /assets/images/cards/best-practices.png
 
 Wenn du ein Open-Source Projekt betreibst, dass viele Menschen nutzen, wirst du vielleicht merken dass du weniger programmierst und mehr mit Problemen arbeitest.
 
-In den frühen Tagen eines Projekts experimentierst du viel mit neuen Ideen und machst Entscheidungen basierend auf was du möchtest. Sobald dein Projekt populär wird, wirst du dich vermehrt darin sehen, dass du mit deinen Nutzern und Beitragenden beschäftigst.
+In den frühen Tagen eines Projekts experimentierst du viel mit neuen Ideen und machst Entscheidungen basierend auf was du möchtest. Sobald dein Projekt populär wird, wirst du dich vermehrt darin sehen, dass du dich mit deinen Nutzern und Beitragenden beschäftigst.
 
 Ein Projekt zu betreiben bedeutet mehr als nur zu programmieren. Die anstehenden Arbeiten sind oft ungeplant, aber sie sind wichtig für ein wachsendes Projekt. Wir haben ein paar beigetragen, vom Dokumentations-Prozess bis zum wirksamen Einsetzen deiner Community.
 
@@ -151,13 +151,13 @@ Während sich dieser Ansatz im ersten Moment vielleicht unhöflich anfühlt, die
   </p>
 </aside>
 
-Manchmal, wenn du „Nein“ sagst, wird dein potenzieller Beiträgern vielleicht wütend, oder kritisiert deine Entscheidung. Wenn sie ablehnend werden, [ergreife die Initative um die Lage zu beruhigen (Englisch)](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) oder entferne sie sogar aus der Community, wenn sie nicht konstruktiv mitarbeiten möchten.
+Manchmal, wenn du „Nein“ sagst, wird dein potenzieller Beiträger vielleicht wütend, oder kritisiert deine Entscheidung. Wenn er ablehnend wird, [ergreife die Initative um die Lage zu beruhigen (Englisch)](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) oder entferne ihn sogar aus der Community, wenn er nicht konstruktiv mitarbeiten möchten.
 
-### Embrace mentorship
+### Ergreife die Leitung
 
-Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
+Vielleicht erstelt jemand in deiner Community regelmäßig Beiträge, die nicht mit deinen Projektstandards vereinbar sind. Es kann für beide Seiten frustrierbar sein, wenn man immer wieder Ablehnungen durchleben muss.
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first bug,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
+Wenn du siehst, dass jemand begeistert von deinem Projekt ist, aber etwas Hilfe benötigt, sei wachsam. Erkläre klar in jeder Situation wieso seine Beiträge nicht die Erwartungen deines Projekts erfüllen. Versuche sie auf ein leichertes oder weniger anstrengende Aufgabe zu verweisen, wie z.B. auf ein Problem mit dem Label _„guter erster Bug“_, damit sie erste Erfahrungen in einem neuen Bereich machen können. Wenn du Zeit hast, überlege ob du weitere Instruktionen mitgeben kannst, oder jemand findest in deiner Community, die den Anfänger gerne unterstützt.
 
 ## Leverage your community
 
