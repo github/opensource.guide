@@ -99,7 +99,7 @@ Wenn du einen Beitrag erhälst den du nicht annehmen möchtest, wäre deine erst
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/869950?v=3&s=400" class="pquote-avatar" alt="avatar" alt="@KrauseFx avatar">
-  Der Schlüssel selbst bei großen Open-Source Projekten den Support reibungslos zu übernehmen ist einen Problem stets in Bewegung zu halten. Wenn du ein iOS Entwickler bist, weißt du wie schwer es ist Radare abzusenden. Zwei Jahre später hörst du erneut davon, und du sollst es erneut probieren mit der neusten Version von iOS.
+  Der Schlüssel selbst bei großen Open-Source Projekten den Support reibungslos zu durchführen zu können ist ein Problem stets in Bewegung zu halten. Wenn du ein iOS Entwickler bist, weißt du wie schwer es ist ein Radar abzusenden. Zwei Jahre später hörst du erneut davon, und du sollst es erneut probieren mit der neusten Version von iOS.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
