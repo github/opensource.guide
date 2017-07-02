@@ -105,7 +105,7 @@ Wenn du einen Beitrag erhälst den du nicht annehmen möchtest, wäre deine erst
   </p>
 </aside>
 
-Lass einen nicht-passenden Beitrag nicht offen weil du höflich sein möchtest. Über längere Zeit hast du dadurch viele unbeantwortete Probleme und Pull Requests lassen die Motivation sinken, weil du mehr Stress hast.
+Lass einen nicht-passenden Beitrag nicht offen weil du höflich sein möchtest. Über längere Zeit hast du dadurch viele unbeantwortete Probleme und Pull Requests. Dadurch sinkt gleichermaßen die Motivation, weil du mehr Stress hast.
 
 Es ist besser gleich den Beitrag zu schließen, wenn du es nicht möchtest. Wenn dein Projekt bereits einen großen Rückstau hat, hat @steveklabnik Vorschläge für dich, [wie du Probleme effizient abarbeiten kannst(Englisch)](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
