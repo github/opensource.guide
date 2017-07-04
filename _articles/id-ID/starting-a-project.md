@@ -108,113 +108,113 @@ Jika tujuan akhir Anda adalah belajar bagaimana berkolaborasi dengan orang lain 
 
 Jika Anda tidak yakin bagaimana memulai sebagai kontributor, silahkan lihat [Panduan Bagaimana Berkontribusi pada Open Source](../how-to-contribute/).
 
-## Launching your own open source project
+## Merilis proyek open source Anda
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+Tidak ada waktu yang sempurna untuk membuka proyek Anda kepada open source. Anda bisa membuat ide Anda, pekerjaan yang sedang dalam pengembangan, atau setelah sekian lama berada dalam lingkungan yang tertutup (_closed source_) menjadi open source.
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+Secara umum, Anda harus membuka proyek Anda menjadi ketika Anda merasa nyaman ketika orang lain melihat dan memberikan masukan pada pekerjaan Anda.
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+Tidak perduli pada tahap mana Anda memutuskan untuk membuka proyek Anda, setiap proyek sebaiknya menyediakan dokumentasi berikut:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [Lisensi open source](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+* [Panduan berkontribusi](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Kode etik](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+Sebagai pengelola, komponen-komponen tersebut akan membantu Anda mengkomunikasikan ekspektasi, mengelola kontribusi, dan menjaga hak legal dari setiap orang (termasuk Anda sendiri). Dokumen-dokumen tersebut akan meningkatkan peluang Anda secara signifikan untuk mendapatkan pengalaman yang positif.
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+Jika proyek Anda berada pada GitHub, meletakkan dokumen-dokumen diatas pada direktori induk dengan nama dokumen yang direkomendasikan akan membantu GitHub mengenalinya secara otomatis dan menampilkannya pada pengunjung.
 
-### Choosing a license
+### Memilih sebuah lisensi
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+Sebuah lisensi open source menjamin bahwa orang lain mampu menggunakan, menyalin, memodifikasi, dan berkontribusi kembali pada proyek Anda tanpa adanya masalah. Lisensi juga menjaga dari masalah legalitas. **Anda harus menyertakan sebuah lisensi ketika Anda merilis sebuah proyek open source.**
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+Pekerjaan hukum bukan sesuatu yang menyenangkan. Berita baiknya adalah Anda bisa menyalin dan menggunakan lisensi yang sudah ada pada repositori Anda. Proses ini hanya membutuhkan waktu satu menit untuk menjaga hasil kerja keras Anda.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), dan [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) adalah lisensi open source yang paling populer, tetapi [terdapat opsi lain](https://choosealicense.com) yang bisa Anda pilih.
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+Ketika Anda membuat proyek baru pada GitHub, Anda diberikan pilihan untuk memilih sebuah lisensi. Menyertakan sebuah lisensi open source akan membuat proyek GitHub Anda sebagai open source.
 
-![pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![memilih sebuah lisensi](https://willysr.github.io/id-opensource.guide/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+Jika Anda memiliki pertanyaan lain atau khawatir tentang aspek legalitas tentang mengelola proyek open source, [kami punya solusinya](../legal/).
 
-### Writing a README
+### Menulis dokumen README
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+README berisi lebih dari sekedar penjelasan bagaimana menggunakan proyek Anda. Dokumen ini juga menjelaskan kenapa proyek Anda penting, dan apa yang bisa dilakukan oleh pengguna Anda dengan proyek tersebut.
 
-In your README, try to answer the following questions:
+Pada dokumen README, cobalah untuk menjawab pertanyaan berikut:
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* Apa yang dilakukan proyek ini?
+* Kenapa proyek ini berguna?
+* Bagaimana saya memulainya?
+* Jika saya membutuhkan bantuan, dimana saya bisa mendapatkannya?
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+Anda bisa menggunakan README untuk menjawab pertanyaan lainnya, seperti bagaiman Anda akan menangani kontribusi, apa tujuan akhir dari proyek, dan informasi tentang lisensi. Jika Anda tidak ingin menerima kontribusi, atau proyek Anda belum siap untuk produksi, tuliskan informasi ini.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/168572?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+  Dokumentasi yang lebih baik berarti lebih banyak pengguna, lebih sedikit bantuan untuk dukungan ke pengguna, dan lebih banyak kontributor. (...) Ingatlah bahwa pembaca bukanlah Anda. Terdapat orang-orang yang datang pada sebuah proyek yang memiliki pengalaman yang sama sekali berbeda.
   <p markdown="1" class="pquote-credit">
 — @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
-Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+Seringkali, banyak orang menghindari untuk menulis README karena mereka merasa bahwa proyek belum selesai, atau mereka tidak menginginkan adanya kontribusi. Berikut ini adalah berbagai alasan bagus bagi Anda untuk menulis dokumen README.
 
-For more inspiration, try using @18F's ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+Untuk insipirasi lainnya, Silahkan coba ["Membuat README lebih Terbaca"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) milik @18F atau [Template README](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) milik @PurpleBooth untuk menulis README yang lengkap.
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+Ketika Anda menyertakan dokumen README pada direktori induk, GitHub akan secara otomatis menampilkannya pada homepage repositori.
 
-### Writing your contributing guidelines
+### Menulis panduan kontribusi Anda
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+Sebuah dokumen CONTRIBUTING menjelaskan kepada pengguna tentang bagaimana berpartisipasi pada proyek Anda. Sebagai contoh, Anda mungkin menyertakan informasi tentang:
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+* Bagaimana membuat laporan kesalahan (cobalah menggunakan [template laporan masalah dan pull request](https://github.com/blog/2111-issue-and-pull-request-templates))
+* Bagaimana menyarankan sebuah fitur baru
+* Bagaimana melakukan persiapan lingkungan pengembangan dan melakukan pengujian
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+Selain aspek teknis, dokumen CONTRIBUTING juga merupakan kesempatan untuk mengkomunikasikan harapan Anda untuk kontribusi, misalnya
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
+* Jenis kontribusi yang Anda harapkan
+* Rencana jangka panjang atau visi proyek Anda
+* Bagaimana kontribusi bisa menghubungi Anda
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+Menggunakan nada yang bersahabat dan menawarkan tawaran yang spesifik untuk kontribusi (misalnya menuliskan dokumentasi, atau membuat halaman web) bisa membuat pendatang merasa nyaman dan diterima serta tertarik untuk berpartisipasi.
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with:
+Sebagai contoh, [Active Admin](https://github.com/activeadmin/activeadmin/) memulai [panduan kontribusinya](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) dengan:
 
-> First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+> Pertama-tama, terima kasih karena Anda mempertimbangkan untuk berpartisipasi pada Active Admin. Orang-orang seperti Anda yang membuat Active Admin menjadi sebuah perangkat yang hebat.
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+Pada fase awal dari proyek Anda, dokumen CONTRIBUTING bisa sangat sederhana. Anda perlu menjelaskan bagaimana melaporkan kesalahan dan kebutuhan teknis (seperti pengujian), atau bagaimana cara berkontribusi.
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+Seiring dengan berjalannya waktu, Anda bisa menambahkan pertanyaan yang paling sering ditanyakan pada dokumen CONTRIBUTING. Menuliskan informasi ini berarti lebih sedikit orang yang akan bertanya pertanyaan yang sama kepada Anda berulang kali.
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/).
+Untuk bantuan tentang penulisan dokumen CONTRIBUTING, silahkan lihat  [template panduan berkontribusi](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) milik @nayafia atau ["Bagaimana Membangun Dokumen CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/) milik @mozilla.
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+Hubungkan dokumen CONTRIBUTING dari README, sehingga lebih banyak orang yang melihatnya. Jika Anda [meletakkan dokumen CONTRIBUTING pada repositori proyek](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub akan secara otomatis menghubungkan ke dokumen Anda ketika seorang kontributor membuat sebuah laporan masalah atau membuat pull request.
 
-![contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![panduan kontribusi](https://willysr.github.io/id-opensource.guide/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
-### Establishing a code of conduct
+### Membangun kode etik
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/11214?v=3&s=460" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+  Kita semua pernah memiliki pengalaman dimana kita dihadapkan dengan penyalahgunaan, baik sebagai pengelola yang menjelaskan kenapa sesuatu harus dilakukan dengan cara tertentu, atau sebagai pengguna...bertanya sebuah pertanyaan sederhana. (...) Kode etik merupakan dokumen yang mudah untuk dijadikan referensi yang mengindikasikan bahwa tim Anda sangat memperhatikan wacana yang bersifat membangun.
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+Akhirnya, sebuah kode etik membantu menentukan aturan perilaku dasar bagi partisipan proyek Anda. Hal ini akan sangat berguna apabila Anda merilis proyek open source untuk sebuah komunitas atau perusahaan. Kode etik memampukan Anda untuk memfasilitasi perilaku yang sehat dan konstruktif, sehingga mengurangi kadar stress Anda sebagai pengelola.
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+Untuk informasi lebih lanjut, silahkan lihat [Panduan Kode Etik](../code-of-conduct/).
 
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+Selain untuk mengkomunikasikan _bagaimana_ Anda mengharapkan partisipan Anda untuk berperilaku, kode etik juga pada umumnya menjelaskan kepada siapa ekspektasi ini berlaku, dan ketika hal itu berlaku, apa yang harus dilakukan apabila terjadi pelanggaran.
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](http://contributor-covenant.org/adopters/), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+Seperti halnya lisensi open source, terdapat banyak standar untuk kode etik, sehingga Anda tidak perlu menuliskannya sendiri. [Contributor Covenant](http://contributor-covenant.org/) adalah kode etik siap pakai yang digunakan oleh [lebih dari 40.000 proyek open source](http://contributor-covenant.org/adopters/), termasuk Kubernetes, Rails, dan Swift. Tanpa memperhatikan teks yang Anda gunakan, Anda harus selalu siap untuk menjalankan kode etik apabila diperlukan.
 
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
+Salin teks langsung pada dokumen CODE_OF_CONDUCT pada repositori Anda. Letakkan pada direktori induk pada repositori sehingga mudah ditemukan dan hubungkan dari dokumen README.
 
 ## Naming and branding your project
 
