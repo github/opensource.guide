@@ -263,101 +263,101 @@ Selain bagaimana Anda menuliskan kata-kata, gaya pemrograman Anda juga bisa menj
 
 Tidaklah penting untuk menuliskan gaya penulisan untuk proyek Anda ketika Anda baru memulainya dan Anda mungkin senang untuk mencoba beberapa gaya pemrograman pada proyek Anda. Tetapi Anda perlu mengantisipasi bagaimana penulisan dan pemrograman Anda bisa memikat orang atau malah membuat orang untuk menghindari proyek Anda. Tahap awal dari proyek Anda adalah kesempatan untuk menentukan arah yang Anda tuju.
 
-## Your pre-launch checklist
+## Daftar checklist pra-rilis
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+Sudah siap untuk membuat proyek Anda open source ? Berikut daftar checklist untuk membantu. Anda sudah menyelesaikan semua kotak? Anda sudah siap! [Klik"publish"](https://help.github.com/articles/making-a-private-repository-public/) dan tepuklah diri Anda sendiri.
 
-**Documentation**
+**Dokumentasi**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    Project memiliki dokumen LICENSE dengan lisensi open source
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    Project memiliki dokumentasi dasar (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    Nama proyek mudah diingat, memberikan ide tentang proyek, dan tidak konflik dengan proyek yang sudah ada atau melanggar merek dagang
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    Daftar masalah senantiasa baru, dengan masalah terorganisasi dengan baik dan dilabeli
   </label>
 </div>
 
-**Code**
+**Kode**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    Project menggunakan konvensi kode yang konsisten dan nama fungsi/metode/variabel yang jelas
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    Kode memiliki komentar yang lengkap, mendokumentasikan harapan dan kasus khusus
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (ex. passwords or other non-public information)
+    Tidak ada informasi sensitif pada sejarah revisi, laporan masalah, atau pull requests (misalnya kata sandi atau informasi pribadi lainnya)
   </label>
 </div>
 
-**People**
+**Orang**
 
-If you're an individual:
+Jika Anda perseorangan:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  Anda telah mengunjungi kantor hukum dan/atau membahami hak cipta dan kebijakan open source pada perusahaan Anda (jika Anda merupakan karyawan pada sebuah perusahaan)
   </label>
 </div>
 
-If you're a company or organization:
+Jika Anda merupakan perusahaan atau organisasi:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    Anda telah berbicara dengan divisi hukum Anda
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    Anda memiliki perencanaan pemasaran untuk mengumumkan dan mempromosikan proyek
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    Seseorang memiliki minat untuk mengelola interaksi komunitas (merespon terhadap laporan masalah, melakukan review, dan menggabungkan pull request)
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    Minimal terdapat dua orang yang memiliki akses admministratif pada proyek
   </label>
 </div>
 
