@@ -20,17 +20,17 @@ Tidak ada aturan yang menyebutkan bahwa Anda harus mempromosikan sebuah proyek o
 
 ## Menentukan pesan Anda
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+Sebelum Anda memulai pekerjaan tentang mempromosikan proyek Anda, Anda harus bisa menjelaskan apa yang dilakukan oleh proyek Anda dan kenapa itu penting.
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will make it easier to convince others.
+Apa yang membuat proyek Anda berbeda atau menarik? Mengapa Anda membuatnya? Menjawab pertanyaan-pertanyaan ini kepada diri sendiri akan membuat lebih mudah untuk bisa meyakinkan orang lain
 
-Remember that people get involved as users, and eventually contributors, because it solves a problem for them. As you think about your project's message and value, try to view it through the lens of what _they_ might want.
+Ingat bahwa orang-orang akan terlibat sebagai pengguna, dan kemudian kontributor, karena menyelesaikan sebuah masalah bagi mereka. Ketika Anda memikirkan tentang pesan dan nilai proyek Anda, cobalah untuk melihat dari sudut pandang apa yang _mereka_ inginkan.
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+Sebagai contoh, @robb menggunakan contoh kode program untuk menjelaskan kenapa proyeknya [Cartography](https://github.com/robb/Cartography), berguna:
 
-![cartography readme](/assets/images/finding-users/cartography.jpg)
+![cartography readme](https://willysr.github.io/id-opensource.guide/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+Untuk mendalami lebih dalam tentang penyampaian pesan, lihat panduan Mozilla ["Persona dan Jalur"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) untuk mengembangkan persona pengguna.
 
 ## Bantu orang lain menemukan dan mengikuti proyek Anda
 
@@ -61,7 +61,7 @@ If you don't wish to set up these channels for your project yet, promote your ow
 
 If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
 
-![vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
+![vagrant homepage](https://willysr.github.io/id-opensource.guide/assets/images/finding-users/vagrant_homepage.png)
 
 Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
 
@@ -91,7 +91,7 @@ If nobody pays attention or responds to your initial outreach, don't get discour
 
 ## Ketika pengguna proyek Anda (offline)
 
-![public speaking](/assets/images/finding-users/public_speaking.jpg)
+![public speaking](https://willysr.github.io/id-opensource.guide/assets/images/finding-users/public_speaking.jpg)
 
 Offline events are a popular way to promote new projects. It's a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
 
