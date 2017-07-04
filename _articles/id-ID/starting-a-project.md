@@ -361,6 +361,6 @@ Jika Anda merupakan perusahaan atau organisasi:
   </label>
 </div>
 
-## You did it!
+## Anda melakukannya!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+Selamat atas keberhasilan Anda membuka proyek open source pertama Anda. Tanpa melihat hasil akhirnya, bekerja pada lingkungan publik merupakan anugrah bagi komunitas. Dengan setiap commit, komentar, dan pull request, Anda telah menciptakan peluang bagi Anda sendiri dan orang lain untuk belajar dan berkembang.
