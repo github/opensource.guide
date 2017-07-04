@@ -1,24 +1,24 @@
 ---
-locale: en-US
-title: Finding Users For Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+locale: id-ID
+title: Menemukan Pengguna untuk Proyek Anda
+description: Membantu proyek open source Anda untuk berkembang dengan cara menyampaikannya ke pengguna yang senang dengan proyek Anda
 class: finding
 toc:
-  spreading-the-word: "Spreading the word"
-  figure-out-your-message: "Figure out your message"
-  help-people-find-and-follow-your-project: "Help people find and follow your project"
-  go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
-  go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
-  build-a-reputation: "Build a reputation"
+  menyebarkan-kata: "Menyebarkan kata"
+  menentukan-pesan-anda: "Menentukan pesan Anda"
+  bantu-orang-lain-menemukan-dan-mengikuti-proyek-anda: "Bantu orang lain menemukan dan mengikuti proyek Anda"
+  ketika-pengguna-proyek-anda-online: "Ketika pengguna proyek Anda (online)"
+  ketika-pengguna-proyek-anda-offline: "Ketika pengguna proyek Anda (offline)"
+  membangun-reputasi: "Membangun sebuah reputasi"
 order: 3
 image: /assets/images/cards/finding.png
 ---
 
-## Spreading the word
+## Menyebarkan kata
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you are hoping others will find and use your open source project, however, it's time to tell everybody about your hard work!
+Tidak ada aturan yang menyebutkan bahwa Anda harus mempromosikan sebuah proyek open source ketika Anda merilisnya. Terdapat banyak alasan untuk bekerja pada open source yang tidak berkaitan dengan popularitas. Namun jika Anda berharap orang lain akan menemukan dan menggunakan proyek open source Anda, inilah saatnya untuk memberitahukan ke semua orang tentang hasil kerja keras Anda.
 
-## Figure out your message
+## Menentukan pesan Anda
 
 Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
 
@@ -32,7 +32,7 @@ For example, @robb uses code examples to clearly communicate why his project, [C
 
 For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
 
-## Help people find and follow your project
+## Bantu orang lain menemukan dan mengikuti proyek Anda
 
 <aside markdown="1" class="pquote">
   You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
@@ -65,7 +65,7 @@ If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.gi
 
 Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
 
-## Go where your project's audience is (online)
+## Ketika pengguna proyek Anda (online)
 
 Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
 
@@ -89,7 +89,7 @@ Generally speaking, focus on helping others before asking for things in return. 
 
 If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. These things take time and dedication.
 
-## Go where your project's audience is (offline)
+## Ketika pengguna proyek Anda (offline)
 
 ![public speaking](/assets/images/finding-users/public_speaking.jpg)
 
@@ -129,7 +129,7 @@ Look for conferences that are specific to your language or ecosystem. Before you
   </p>
 </aside>
 
-## Build a reputation
+## Membangun sebuah reputasi
 
 In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
 
