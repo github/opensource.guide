@@ -216,52 +216,52 @@ Seperti halnya lisensi open source, terdapat banyak standar untuk kode etik, seh
 
 Salin teks langsung pada dokumen CODE_OF_CONDUCT pada repositori Anda. Letakkan pada direktori induk pada repositori sehingga mudah ditemukan dan hubungkan dari dokumen README.
 
-## Naming and branding your project
+## Penamaan dan pencitraan proyek Anda
 
-Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
+Pencitraan lebih dari sekedar logo yang mengkilap atau nama proyek yang mudah menarik. Pencitraan lebih tentang bagaimana Anda membicarakan proyek Anda dan siapa saja yang menjadi target pesan Anda.
 
-### Choosing the right name
+### Memilih nama yang tepat
 
-Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
+Pilihlah sebuah nama yang mudah diingat dan memberikan gambaran tentang apa yang dilakukan oleh proyek. Misalnya:
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Sentry](https://github.com/getsentry/sentry) aplikasi monitoring untuk pelaporan kerusakan sistem
+* [Thin](https://github.com/macournoyer/thin) adalah server web Ruby yang cepat dan sederhana
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (ex. [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+Jika Anda membangun berdasarkan proyek yang sudah ada, menggunakan nama proyek terdahulu sebagai awalan bisa membantu memperjelas apa yang dilakukan proyek Anda (misalnya. [node-fetch](https://github.com/bitinn/node-fetch) menghadirkan `window.fetch` pada Node.js).
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+Perhatikan masalah kejelasan. Bercanda merupakan sesuatu yang menyenangkan, tetapi perlu diingat bahwa beberapa hal mungkin tidak dapat tersampaikan dengan baik pada budaya yang lain atau orang-orang dengan pengalaman yang berbeda dengan Anda. Sebagian dari calon pengguna Anda mungkin merupakan pegawai kantor: jangan sampai Anda membuat mereka tidak nyaman ketika mereka harus menjelaskan proyek Anda pada ruang lingkup pekerjaan mereka!
 
-### Avoiding name conflicts
+### Hindari konflik nama
 
-Check for open source projects with a similar name, especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+Cari proyek open source dengan nama yang mirip, terutama jika Anda menggunakan bahasa atau ekosistem yang sama. Jika nama Anda memiliki kesamaan dengan proyek lain yang populer, Anda bisa membuat bingung pengguna Anda.
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
+Jika Anda menginginkan sebuah website, akun Twitter, atau hal lain yang merepresentasikan proyek Anda, pastikan Anda bisa mendapatkan nama yang Anda inginkan. Idealnya, [klaim nama-nama tersebut sekarang](https://instantdomainsearch.com/) agar Anda lega, meskipun Anda belum akan menggunakannya sekarang.
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
+Pastikan nama proyek Anda tidak melanggar merek dagang. Sebuah perusahaan mungkin meminta Anda untuk menghapus proyek Anda dikemudian hari, atau bahkan mengambil jalur hukum terhadap Anda. Resikonya sangatlah tidak sepadan.
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+Anda bisa melihat [Basis data Merek Global WIPO](http://www.wipo.int/branddb/en/) untuk konflik merek dagang. Jika Anda berada pada sebuah perusahaan, ini adalah satu hal dimana [tim kuasa hukum Anda bisa membantu](../legal/).
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+Akhirnya, lakukan pencarian di Google untuk nama proyek Anda. Apakah orang bisa menemukan proyek Anda dengan mudah? Apakah nama lain muncul pada hasil pencarian yang tidak Anda inginkan?
 
-### How you write (and code) affects your brand, too!
+### Bagaimana Anda menulis (dan membuat kode) bisa mempengaruhi citra Anda juga!
 
-Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
+Pada siklus hidup proyek Anda, Anda akan banyak menulis:  README, tutorial, dokumen komunitas, merespon terhadap laporan masalah, atau bahkan newsletter dan mailing list.
 
-Whether it's official documentation or a casual email, your writing style is part of your project's brand. Consider how you might come across to your audience and whether that is the tone you wish to convey.
+Baik dokumentasi resmi atau email sehari-hari, gaya penulisan Anda merupakan bagian dari citra proyek Anda. Perhatikan bagaimana Anda bisa hadir pada pengguna Anda dan apakah hal itu merupakan pesan yang ingin Anda sampaikan?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/11321?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+  Saya berusaha untuk ikut terlibat pada setiap diskusi pada mailing list, dan memberikan contoh panutan, bertindak baik kepada orang-orang, menganggap masalah mereka sebagai sesuatu yang serius, dan berusaha untuk membantu. Setelah beberapa waktu, orang-orang tidak hanya berhenti karena ada masalah, namun juga ikut membantu, dan mereka mengikuti gaya saya.
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
+Menggunakan bahasa yang hangat, inklusif (seperti "mereka", meskipun mengacu pada satu orang) bisa membuat proyek Anda lebih nyaman bagi kontributor baru. Gunakan bahasa sederhana, karena bisa jadi banyak pengguna Anda bukan merupakan pengguna yang menggunakan bahasa Inggris sehari-harinya.
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://github.com/johnpapa/angular-styleguide) and [jQuery](http://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+Selain bagaimana Anda menuliskan kata-kata, gaya pemrograman Anda juga bisa menjadi bagian dari citra proyek Anda. [Angular](https://github.com/johnpapa/angular-styleguide) dan [jQuery](http://contribute.jquery.org/style-guide/js/) adalah dua contoh proyek dengan gaya pemrograman dan panduan yang lengkap.
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+Tidaklah penting untuk menuliskan gaya penulisan untuk proyek Anda ketika Anda baru memulainya dan Anda mungkin senang untuk mencoba beberapa gaya pemrograman pada proyek Anda. Tetapi Anda perlu mengantisipasi bagaimana penulisan dan pemrograman Anda bisa memikat orang atau malah membuat orang untuk menghindari proyek Anda. Tahap awal dari proyek Anda adalah kesempatan untuk menentukan arah yang Anda tuju.
 
 ## Your pre-launch checklist
 
