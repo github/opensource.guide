@@ -1,109 +1,109 @@
 ---
-locale: en-US
-title: Building Welcoming Communities
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
+locale: id-ID
+title: Membangun Komunitas yang Ramah
+description: Membangun komunitas yang mendorong orang lain untuk menggunakan, berkontribusi, dan mempromosikan proyek Anda.
 class: building
 toc:
-  setting-your-project-up-for-success: "Setting your project up for success"
-  growing-your-community: "Growing your community"
-  resolving-conflicts: "Resolving conflicts"
+  mengarahkan-proyek-anda-untuk-kesuksesan: "Mengarahkan proyek Anda untuk kesuksesan"
+  mengembangkan-komunitas-anda: "Mengembangkan komunitas Anda"
+  menyelesaikan-konflik: "Menyelesaikan konflik"
 order: 4
 image: /assets/images/cards/building.png
 ---
 
-## Setting your project up for success
+## Mengarahkan proyek Anda untuk kesuksesan
 
-You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
+Anda telah merilis proyek Anda, Anda telah menyebarkan berita, dan orang-orang mulai melihat. Menarik! Sekarang, bagaimana membuat mereka bertahan?
 
-A welcoming community is an investment into your project's future and reputation. If your project is just starting to see its first contributions, start by giving early contributors a positive experience, and make it easy for them to keep coming back.
+Sebuah komunitas yang ramah merupakan investasi pada masa depan dan reputasi proyek Anda. Jika proyek Anda mulai menerima adanya kontribusi awal, mulailah dengan memberikan pengalaman yang positif, dan permudah akses sehingga mereka akan kembali lagi.
 
-### Make people feel welcome
+### Buatlah agar orang-orang merasa diterima
 
-One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
+Satu cara untuk memikirkan komunitas proyek Anda adalah melalui apa yang disebut @MikeMcQuaid sebagai  [saluran kontributor](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
 
-![contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
+![contributor funnel](https://willysr.github.io/id-opensource.guide/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
+Ketika Anda membangun komunitas Anda, perhatikan bagaimana orang yang berada di bagian atas (potensi pengguna) secara teori akan bergerak menuju kebawah (sebagai pengelola aktif). Tujuan Anda adalah mengurangi hambatan pada setiap tahapan pengalaman kontributor. Ketika orang tidak mengalami hambatan, mereka akan termotivasi untuk melakukan sesuatu yang lebih.
 
-Start with your documentation:
+Mulailah dengan dokumentasi Anda:
 
-* **Make it easy for someone to use your project.** [A friendly README](../starting-a-project/#writing-a-readme) and clear code examples will make it easier for anyone who lands on your project to get started.
-* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) and keeping your issues up-to-date.
+* **Permudah orang lain untuk menggunakan proyek Anda.** [README yang ramah](../starting-a-project/#writing-a-readme) dan contoh kode yang jelas akan mempermudah siapapun untuk bisa langsung menggunakan proyek Anda.
+* **Jelaskan dengan jelas bagaimana berkontribusi**, menggunakan [dokumen CONTRIBUTING Anda](../starting-a-project/#writing-your-contributing-guidelines) dan menjaga laporan permasalahan terus diperbarui.
 
-Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
+Dokumentasi yang baik akan mengundang orang untuk berinteraksi dengan proyek Anda. Pada akhirnya, seseorang akan membuat laporan permasalahan atau pull request. Gunakan interaksi ini sebagai kesempatan untuk menggiring mereka ke bagian bawah dari saluran.
 
-* **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
-* **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
-* **Be open-minded about the types of contributions you'll accept.** Many contributors start with a bug report or small fix. There are [many ways to contribute](../how-to-contribute/#what-it-means-to-contribute) to a project. Let people help how they want to help.
-* **If there's a contribution you disagree with,** thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project, linking to relevant documentation if you have it.
+* **Ketika orang baru hadir pada proyek Anda, ucapkan terima kasih!** Cukup satu pengalaman negatif untuk membuat orang tidak ingin kembali.
+* **Responsif.** Jika Anda tidak merespon laporan permasalahan selama satu bulan, kemungkinan besar mereka sudah melupakan proyek Anda.
+* **Terbuka terhadap jenis kontribusi yang Anda terima.** Banyak kontributor memulai dengan melaporkan permasalahan atau perbaikan sederhana. Terdapat [banyak cara untuk berkontribusi](../how-to-contribute/#what-it-means-to-contribute) pada sebuah proyek. Biarkan orang membantu sesuai keinginan mereka untuk membantu.
+* **Jika terdapat kontribusi yang tidak Anda setujui,** ucapkan terima kasih atas idenya dan [jelaskan kenapa](../best-practices/#learning-to-say-no) ide tersebut tidak sesuai dengan proyek, dan menghubungkan dengan dokumen yang relevan jika Anda memilikinya.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
+  Berkontribusi pada open source sangat mudah bagi sebagian orang dibandingkan orang lain. Terdapat ketakutan karena melakukan kesalahan atau tidak sesuai. (...) Dengan memberikan tempat bagi kontributor yang memiliki kemampuan kurang baik (dokumentasi, isi web, dll) Anda bisa mengurangi kecemasan tersebut.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
 
-The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
+Mayoritas dari kontributor open source adalah "kontributor umum": orang-orang yang berkontribusi pada sebuah proyek secara tidak rutin. Seorang kontributor jenis ini mungkin tidak memiliki waktu untuk terus mengikuti perkembangan proyek, sehingga tugas Anda alah mempermudah mereka untuk bisa berkontribusi.
 
-Encouraging other contributors is an investment in yourself, too. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
+Mendorong kontributor lain adalah sebuah investasi pada diri Anda juga. Ketika Anda memberdayakan fans Anda untuk mengerjakan pekerjaan yang mereka sukai, maka tekanan bagi Anda untuk mengerjakan semuanya akan berkurang.
 
-### Document everything
+### Dokumentasikan segalanya
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/11321?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
+  Apakah Anda pernah menghadiri sebuah acara dimana Anda tidak mengenal siapapun, tetapi orang lain tampak saling mengenal satu sama lain dan berbicara seperti sahabat dekat? (...) Sekarang bayangkan Anda ingin berkontribusi pada proyek open source, namun Anda tidak dapat melihat kenapa dan bagaimana ini bisa terjadi.
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-When you start a new project, it may feel natural to keep your work private. But open source projects thrive when you document your process in public.
+Ketika Anda memulai proyek baru, sangatlah umum untuk membuat proyek Anda secara privat. Tetapi proyek open source berkembang ketika Anda mendokumentasikan proses Anda secara terbuka.
 
-When you write things down, more people can participate at every step of the way. You might get help on something you didn't even know you needed.
+Ketika Anda menuliskan segala sesuatunya, banyak orang bisa berpartisipasi pada setiap langkah. Anda mungkin akan mendapatkan bantuan pada sesuatu yang mungkin tidak Anda bayangkan.
 
-Writing things down means more than just technical documentation. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public.
+Menuliskan segala sesuatunya berarti lebih dari sekedar dokumentasi teknis. Setiap kali Anda merasa perlu untuk menuliskan sesuatu atau mendiskusikan proyek Anda secara pribadi, tanyakan diri Anda apakah bisa membuatnya menjadi terbuka.
 
-Be transparent about your project's roadmap, the types of contributions you're looking for, how contributions are reviewed, or why you made certain decisions.
+Bersikap transparan terhadap perjalanan proyek Anda, jenis kontribusi yang Anda harapkan, bagaimana kontribusi akan di-review, dan mengapa Anda membuat beberapa keputusan.
 
-If you notice multiple users running into the same problem, document the answers in the README.
+Jika Anda melihat beberapa orang mengalami masalah yang sama, dokumentasikan jawabannya pada README.
 
-For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+Untuk acara rapat, pertimbangkan untuk mempublikasikan hasil catatan pada masalah yang relevan. Masukkan yang Anda dapatkan dari transparansi ini mungkin akan mengejutkan Anda.
 
-Documenting everything applies to the work you do, too. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
+Mendokumentasikan segalanya juga berlaku pada pekerjaan yang Anda lakukan juga. Jika Anda mengerjakan sebuah perubahan besar pada proyek Anda, simpan pada pull request dan tandai sebagai _work in progress_ (WIP). Dengan cara itu, orang lain bisa merasa terlibat pada fase awal.
 
-### Be responsive
+### Bersikap responsif
 
-As you [promote your project](../finding-users), people will have feedback for you. They may have questions about how things work, or need help getting started.
+Ketika Anda [mempromosikan proyek Anda](../finding-users), orang lain akan memberikan masukan untuk Anda. Mereka mungkin memiliki pertanyaan tentang bagaimana segala sesuatunya bekerja, atau membutuhkan bantuan untuk memulainya.
 
-Try to be responsive when someone files an issue, submits a pull request, or asks a question about your project. When you respond quickly, people will feel they are part of a dialogue, and they'll be more enthusiastic about participating.
+Cobalah untuk responsif ketika seseorang membuat laporan masalah, mengirimkan pull request, atau bertanya tentang proyek Anda. Ketika Anda menjawab dengan cepat, orang lain akan merasa bahwa mereka merupakan bagian dari dialog, dan akan merasa lebih berminat untuk berpartisipasi.
 
-Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
+Meskipun Anda tidak bisa melakukan review secara langsung, mengkonfirmasinya di awal akan meningkatkan hubungan. Berikut cara @tdreyno merespon terhadap pull request pada [Middleman](https://github.com/middleman/middleman/pull/1466):
 
-![middleman pull request](/assets/images/building-community/middleman_pr.png)
+![middleman pull request](https://willysr.github.io/id-opensource.guide/assets/images/building-community/middleman_pr.png)
 
-[A Mozilla study found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
+[Penelitian Mozilla menemukan bahwa](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) kontributor yang menerima review kode dalam 48 jam pertama memiliki peluang kembali dan kontribusi berkelanjutan yang lebih tinggi.
 
-Conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
+Diskusi tentang proyek Anda juga bisa terjadi pada berbagai tempat lain di Internet, seperti Stack Overflow, Twitter, atau Reddit. Anda bisa membuat notifikasi pada beberapa tempat sehingga Anda akan diberitahu apabila seseorang menyebutkan proyek Anda.
 
-### Give your community a place to congregate
+### Berikan komunitas Anda tempat untuk berkumpul
 
-There are two reasons to give your community a place to congregate.
+Terdapat dua alasan untuk memberikan komunitas Anda tempat untuk berkumpul.
 
-The first reason is for them. Help people get to know each other. People with common interests will inevitably want a place to talk about it. And when communication is public and accessible, anybody can read past archives to get up to speed and participate.
+Alasan pertama adalah untuk mereka. Bantu orang-orang untuk saling mengenal. Orang-orang dengan ketertarikan yang sama tentu membutuhkan tempat untuk berdiskusi. Ketika komunikasi terjadi secara publik dan dapat diakses, setiap orang dapat membaca arsip lama untuk bisa dengan cepat memahami kondisi terbaru dan berpartisipasi.
 
-The second reason is for you. If you don't give people a public place to talk about your project, they will likely contact you directly. In the beginning, it may seem easy enough to respond to private messages "just this once". But over time, especially if your project becomes popular, you will feel exhausted. Resist the temptation to communicate with people about your project in private. Instead, direct them to a designated public channel.
+Alasan kedua adalah untuk Anda. Jika Anda tidak memberikan orang lain sebuah tempat publik untuk berbicara tentang proyek Anda, mereka akan menghubungi Anda secara langsung. Di awal, terasa mudah untuk merespon terhadap pesan pribadi "hanya kali ini". Seiring berjalannya waktu, terutama jika proyek Anda menjadi terkenal, Anda akan merasa capek. Hindari keinginan untuk berkomunikasi dengan orang-orang tentang proyek Anda secara pribadi. Arahkan mereka untuk menggunakan media publik.
 
-Public communication can be as simple as directing people to open an issue instead of emailing you directly or commenting on your blog. You could also set up a mailing list, or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
+Komunikasi publik bisa sangat sangat sederhana seperti mengarahkan orang-orang untuk membuka laporan masalah dibandingkan mengirimkan pada Anda secara pribadi atau berkomentar pada blog Anda. Anda juga bisa membuat sebuah mailing list, atau membuat akun Twitter, Slack, atau chanel IRC untuk orang-orang bisa berbicara tentang proyek Anda. Atau coba kesemuanya!
 
-[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) sets aside office hours every other week to help community members:
+[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) menyempatkan waktu jam bekerja setiap mingguna untuk membantu anggota komunitas:
 
-> Kops also has time set aside every other week to offer help and guidance to the community. Kops maintainers have agreed to set aside time specifically dedicated to working with newcomers, helping with PRs, and discussing new features.
+> Kops juga memiliki waktu setiap minggunya untuk menawarkan bantuan dan panduan kepada komunitas. Pengelola kop sudah sepakat untuk menyediakan waktu khusus untuk membantu pengguna baru, membantu PR, dan mendiskusikan fitur baru.
 
-Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
+Pengecualian terhadap komunikasi publik adalah: 1) masalah keamanan dan 2) pelanggaran kode etik yang sensitif. Anda harus memiliki sebuah cara bagi orang lain untuk melaporkan masalah ini secara pribadi. Jika Anda tidak ingin menggunakan alamat email pribadi, gunakan alamat email yang khusus untuk hal ini.
 
-## Growing your community
+## Mengembangkan komunitas Anda
 
 Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
 
@@ -131,7 +131,7 @@ Good documentation only becomes more important as your community grows. Casual c
 
 In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. [Django](https://github.com/django/django), for example, has a special landing page to welcome new contributors.
 
-![django new contributors page](/assets/images/building-community/django_new_contributors.png)
+![django new contributors page](https://willysr.github.io/id-opensource.guide/assets/images/building-community/django_new_contributors.png)
 
 In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first bug"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
 
@@ -159,7 +159,7 @@ See if you can find ways to share ownership with your community as much as possi
 
 * **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
 
-![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
+![cookiecutter issue](https://willysr.github.io/id-opensource.guide/assets/images/building-community/cookiecutter_submit_pr.png)
 
 * **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) does.
 
@@ -181,7 +181,7 @@ While you may not always find someone to answer the call, putting a signal out t
   </p>
 </aside>
 
-## Resolving conflicts
+## Menyelesaikan konflik
 
 In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
 
