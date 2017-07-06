@@ -9,7 +9,7 @@ toc:
   bantu-orang-lain-menemukan-dan-mengikuti-proyek-anda: "Bantu orang lain menemukan dan mengikuti proyek Anda"
   ketika-pengguna-proyek-anda-online: "Ketika pengguna proyek Anda (online)"
   ketika-pengguna-proyek-anda-offline: "Ketika pengguna proyek Anda (offline)"
-  membangun-reputasi: "Membangun sebuah reputasi"
+  membangun-sebuah-reputasi: "Membangun sebuah reputasi"
 order: 3
 image: /assets/images/cards/finding.png
 ---
@@ -131,32 +131,32 @@ Carilah konferensi yang sesuai dengan bahasa atau ekosistem Anda. Sebelum Anda m
 
 ## Membangun sebuah reputasi
 
-In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
+Selain strategi yang dijelaskan diatas, cara terbaik untuk mengundang orang lain untuk berbagi dan berkontribusi pada proyek Anda adalah untuk berbagi dan berkontribusi pada proyek mereka.
 
-Helping newcomers, sharing resources, and making thoughtful contributions to others' work will help you build a positive reputation. Then, people will have context for your work and be more likely to pay attention and share what you're doing.
+Membantu pengguna baru, berbagai sumber daya, dan membuat kontribusi yang berguna pada pekerjaan orang lain akan membantu Anda membangun reputasi yang positif. Lalu orang-orang tersebut akan memiliki konteks untuk pekerjaan Anda dan akan lebih memperhatikan dan mempromosikan apa yang Anda kerjakan.
 
-Sometimes, these relationships can even lead to official partnerships with the wider ecosystem.
+Seringkali, hubungan ini bisa mengarah pada hubungan yang resmi dengan ekosistem yang lebih luas.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar" alt="avatar">
-  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+  Satu-satunya alasan kenapa urllib3 adalah pustaka Python pihak ketiga yang paling terkenal adalah karena merupakan bagian dari requests.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue looking for ways to help others.
+Tidak pernah terlalu cepat, atau terlambat untuk membangun reputasi Anda. Meskipun Anda baru saja merilis proyek Anda, selalu carilah cara untuk membantu orang lain.
 
-There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and reputation building work never ends.
+Tidak ada solusi cepat untuk membangun pengguna. Mendapatkan kepercayaan dan penghargaan membutuhkan waktu, dan proses membangun reputasi tidak pernah selesai.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
-  PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
+  PhantomJS dirilis pertama kalinya di awal 2011. (...) Saya menyebarkan dengan cara yang sederhana: Saya menuliskan tweet, saya menuliskan di blog tentang apa yang bisa Anda lakukan, saya menjelaskannya pada berbagai acara pertemuan. Ketika proyek ini mulai dikenal pada 2014, Saya mulai memberikan presentasi tentang proyek ini.
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
   </p>
 </aside>
 
-## Keep at it!
+## Teruslah Berjuang!
 
-Sometimes, it takes a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of a magic bullet. Be patient, and keep sharing your work with those who appreciate it.
+Seringkali membutuhkan waktu yang sangat lama sebelum orang lain mulai memperhatikan proyek open source Anda. Tidak masalah! Sebagian dari proyek open source yang terkenal saat ini membutuhkan waktu bertahun-tahun untuk mencapai aktivitas yang tinggi seperti saat ini. Fokus pada membangun relasi dibandingkan mencari jalan pintas.Bersabarlah dan terus berbagi pekerjaan Anda dengan mereka yang menghargainya.
