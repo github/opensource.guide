@@ -4,113 +4,121 @@ title: 行为准则
 description: 社区的长远发展和健康成长，离不开一些行为准则，需要遵守并执行。
 class: coc
 toc:
-  why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
-  establishing-a-code-of-conduct: "Establishing a code of conduct"
-  deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
-  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
+  why-do-i-need-a-code-of-conduct: "我为什么需要行为守则?"
+  establishing-a-code-of-conduct: "建立行为守则"
+  deciding-how-youll-enforce-your-code-of-conduct: "决定你们如何执行行为守则"
+  enforcing-your-code-of-conduct: "执行你们的行为守则"
 order: 8
 image: /assets/images/cards/coc.png
 ---
 
-## Why do I need a code of conduct?
+## 我为什么需要行为守则？
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+行为守则是一份确立项目参与者行为规范的文件。采用和执行行为守则可以帮助你们的社区营造积极的氛围。
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+行为守则不仅帮助保护你们的参与者，同时还有你们自己。如果你们维护一个项目，随着时间的推移，可能会发现其他参与者懒散的态度会让你们疲惫或对工作不满意。
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+一份行为守则可以帮助你们促进健康，有建设性的社区行为。积极主动减少你们或其他人在你们的项目中变得疲劳的可能性，并帮助你们在有人做出你们不同意的事情时采取行动。  
 
-## Establishing a code of conduct
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+## 建立行为守则
 
-In addition to communicating your expectations, a code of conduct describes the following:
+尽可能早地建立行为守则，当你们第一次创建项目的时候。
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+此外，说出你们的要求。行为守则的描述遵循如下几点：
 
-Wherever you can, use prior art. The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+* 行为守则在哪里有效 _(只在issues以及pull requests，或者社区活动？)_  
+* 行为守则适用于谁 _(社区成员以及维护者，那赞助商呢？)_
+* 如果有人违反了行为守则会怎样？
+* 大家如何举报违规
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
+无论你们在哪里，请使用已有的行为守则。[贡献者盟约](http://contributor-covenant.org/)是一个被超过40，000个开源项目（包括Kubernetes, Rails和Swift）所使用的行为守则。
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and link to it from your README, so it's visible to your community.
 
-## Deciding how you'll enforce your code of conduct
+[Django行为守则](https://www.djangoproject.com/conduct/)和[Citizen行为守则](http://citizencodeofconduct.org/)都是非常好的行为守则。
+
+请将CODE_OF_CONDUCT文件放在你们项目的根目录，并在README中附上其链接，这样对你们的社区是可见的。
+
+## 决定你们如何执行行为守则
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  一份行为守则没有（或者不能）执行会比没有行为守则更糟糕。它释放这样一个信息：行为守则或者尊重在你们的社区并不重要。
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+你们应该解释如何执行行为守则在违规发生**之前**。有几点理由说明为什么这么做：
 
-* It demonstrates that you are serious about taking action when it's needed.
+* 必要的时候，它表示你们处事认真谨慎。
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* 你们的社区会因为投诉确实可以得到回复而更加放心。
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* 如果他们发现自己因为违规而被调查时，你们能确保社区的审查流程是公平透明的。
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+你们可以给大家一个私有的渠道（如email地址）以便大家报告违规行为以及解释谁收到了这一的报告。它可以是维护者，一组维护者或行为守则工作组。
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+请不要忘记了有人可能想要报告某些人违规接受了这些报告。在这样的情况下，也给他们举报那些人的机会。例如，@ctb和@mr-c [在他们的项目上解释](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst)， [khmer](https://github.com/dib-lab/khmer)：
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> 对于滥用现象，扰乱或者其他不可接受的行为都可以向**khmer-project@idyll.org**（仅由C. Titus Brown和Michael R. Crusoe处理）发送邮件。要报告涉及其中任何一个的问题，请电邮**Judi Brown Clarke，Ph.D.** BEACON行动进化研究中心的多元化主任，NSF科学技术中心。
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
 
-## Enforcing your code of conduct
+为了获得灵感，可以查阅Django的[执行手册](https://www.djangoproject.com/conduct/enforcement-manual/)（你们是否需要如此详细的手册，这取决于你们的项目）。
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+## 执行你们的行为守则
 
-### Gather information about the situation
+有时，尽管你们尽了最大的努力，仍然会有人违反守则。当这样的情况发生时，有几种方法来解决消极或有害的行为。
 
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+### 搜集有关违规的信息
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+认真对待社区中每个成员的想法。如果你们收到有人违规的报告，请认真对待并调查此事，即使它不符合你们自己的经验。这样做可以向你们的社区表面，你们珍视他们的观点和信任他们的判断。
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+
+有的社区成员可能是让大家一直不舒服的惯犯，或者他们只是说了或做了一次。这都需要依据实际情况进行处理。
+
+在你们做出回应之前，请认真思考发生了什么事。通过阅读他们过去的评论和对话可以更好地理解他们为什么要那样做。尽量收集其他人对他们行为的看法。
 
 <aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  不要陷入争论。在你们处理完手头上的事情之前，不要侧重于处理别人的行为。专注于你们需要什么。
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
 </aside>
 
-### Take appropriate action
+### 采取适当的行动
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+当搜集和处理足够的信息后，你们需要决定做什么。当你们在考虑下一步的时候，请牢记你们的目的是营造一个安全，尊重和协作的社区氛围。不仅要考虑如何处理有问题的情况，还要考虑们的反应将如何影响你们社区的其他行为和期望。
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
 
-There are a few ways you might respond to a code of conduct violation:
+当有人报告违规时，处理它是你们的工作，而不是他们的。有时，报告者透露他们的信息会给他们的职业生涯，声誉和人生安全带来很大的风险。迫使报告者面对骚扰者会将他们置于妥协的位置。除非报告者有特别的要求，你们应该直接和有问题的人沟通。
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+这里有些方法帮助你们回应违规行为：
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* **向相关人员发出公开警告**以及解释他们的行为产生了怎样的负面影响，最好在发生问题的地方。在可能的情况下，公开沟通会向社区的其他人传达你们认真对待行为守则。要友善，但坚定的沟通。
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+* **私下接触相关人员**向他们解释他们的行为对其他人产生了怎样的负面影响。如果相关情况涉及到个人敏感信息，你们可能会使用私有通信方式。如果你们和一些人私下沟通，对于首先报告这个情况的CC来说是个好主意，因为他们知道你们采取了行动。在征求他们的意见之前，请向报告人征求同意。
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+有时，一个解决方案不能达到目的。有关的人可能在面对或者不改变他们的行为时变得气势汹汹或敌对。在这种情况下，你会想到考虑采用强制措施。例如：
 
-* **Permanently ban** the person from the project
+* **暂停有关人员**在项目中的工作，通过暂时禁止参与项目的任何方面执行
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+* **永久禁止**有关人员加入项目
 
-## Your responsibilities as a maintainer
+对于禁止成员的做法，你们应该非常谨慎，只有在没有其他解决方案的情况下才能使用。  
 
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
 
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+## 维护者的责任和义务
 
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+行为守则不是可以任意执行的法律。你们是行为守则的执行者，同时你们的责任是遵守行为守则确立的规矩。
 
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
 
-## Encourage the behavior you want to see in the world 🌎
+作为维护者，你们可以为社区指定准则，同时你们可以根据行为守则执行这些准则。这意味着你们需要认真处理违规行为。报告者对他们的投诉进行了彻底和认真地审查。如果你们确定他们报告的行为没有违规，你们需要他们进行沟通并解释你们为什么不进行处理。他们会怎样做，取决于他们：容忍他们认为有问题的行为，或者停止参与社区。
 
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+如果报告的行为没有_技术上_的违规，这可能表面你们的社区依然存在问题，同时你们应该调查潜在的问题以及采取相应的行动。这可能包括修改你们的行为守则，以澄清可接受的行为和/或与行为被举报的人交谈，并告诉他们，虽然他们没有违反行为守则，但是他们在期望和确定的边缘另其他参与者感到不舒服。
+
+最后，作为维护者，你们给可接受的行为建立和执行标准。你们有能力塑造项目社区的价值观，以及参与者希望你们能 公平公正地执行这些价值观。
+
+## 鼓励你们希望看见的行为 🌎
+
+当你们的社区变得似乎敌对或者不受欢迎时，即使是一个大家能容忍的个人行为，也会让你们失去很多贡献者，你们可能再也遇不到其中的一些人。虽然执行或者采用行为守则很难，但是营造一个受欢迎的环境将帮助你们社区成长。
+

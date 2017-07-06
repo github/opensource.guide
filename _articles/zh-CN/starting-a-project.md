@@ -219,149 +219,151 @@ image: /assets/images/cards/beginner.png
 
 ## 为项目命名及设立品牌
 
-Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
+品牌不仅是一个华丽的logo或者易记的项目名。它还关于你如何谈论你的项目，以及你想把信息传递给谁。
 
-### Choosing the right name
+### 选择正确的名字
 
-Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
+选择一个容易记住，有创意，能表达项目用意的名字。例如：
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Sentry](https://github.com/getsentry/sentry) 监控应用程序的崩溃报告
+* [Thin](https://github.com/macournoyer/thin) 是一个简单快速的Ruby web服务器。
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (ex. [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+如果你的项目是基于一个已存在的项目创建，那么使用他们的名字作为你项目名的前缀会帮助你阐述你项目的用途。 (例如 [node-fetch](https://github.com/bitinn/node-fetch)将`window.fetch` 添加到了 Node.js)。
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+考虑阐明所有。押韵虽然有趣，但是记住玩笑不可能转变成其它的文化，或者他人与你有不同的经历。你的一些潜在用户可能是公司员工，你不能让他们在工作中很难解释你的项目！
 
-### Avoiding name conflicts
+### 避免命名冲突
 
-[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+[查看是否有同名的开源项目](http://ivantomic.com/projects/ospnc/)，尤其是你分享的是同样的语言或者生态系统。如果你的名字与一个已存在的知名的项目有冲突，你会让你的粉丝感到困惑。
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
+如果你想要一个网站，Twitter账号或者其他特性来展示你的项目，先确保你能得到你想要的名字。理想情况下，为了美好的未来[现在保留这些名字](https://instantdomainsearch.com/)，即使你现在不想用他们。
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
+确保你的项目名没有侵权。如果有侵权，可能会有公司要求你的项目下架，或者对你采取法律措施。这样得不偿失。
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+ 你可以查阅[WIPO全球品牌数据库](http://www.wipo.int/branddb/en/)避免商标冲突。如果你是在公司工作，[法律团队会帮你做这件事](../legal/)。
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+最后，去谷歌搜索你的项目名。大家会很容易地找到你的项目吗？在搜索结果礼是否有你不想让大家看到的东西？
 
-### How you write (and code) affects your brand, too!
+### 你的写作（和代码）如何影响你的品牌
 
-Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
+在项目的整个生命周期中，你需要做很多文字工作：READMEs，教程，社区文档，回复issues，甚至肯能要处理很多来信和邮件。
 
-Whether it's official documentation or a casual email, your writing style is part of your project's brand. Consider how you might come across to your audience and whether that is the tone you wish to convey.
+是否是官方文档或者一封普通的邮件，你的书写风格都是你项目品牌的一部分。考虑你可能会拥有粉丝，以及这是你想传达的声音。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/11321?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+  我尝试处理每一个细节，包括：处理邮件，展示示例，友好待人，认真处理大家的issues以及试图帮助到大家。经过一段时间后，大家可能不再是只问问题，还会帮助我解决其他人的疑问以及给我喜悦，他们模仿我的风格。
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
+使用热情，通俗易懂的语言（如“他们”，即使是指一个人）能够让新来的贡献者感觉项目非常欢迎他们。使用简单的语言，因为你的读者可能英语不是很好。
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://github.com/johnpapa/angular-styleguide) and [jQuery](http://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+除了书写风格外，你的编码风格也是你项目品牌的一部分。 [Angular](https://github.com/johnpapa/angular-styleguide) 和 [jQuery](http://contribute.jquery.org/style-guide/js/)是两个项目代码风格严谨的示例和指南。
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+当你的项目才开始时，没有必要为项目编写一份风格指南。你可能会发现你喜欢将不同的编码风格融入到项目。但是你应该想到你的书写和编码风格会吸引或者拒绝不同类型的人。项目的早期是你建立你希望看见的先例的机会。
 
 ## 发起项目之前的检查项
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+准备好开源你的项目了吗？有一份帮助检查清单。检查所有内容？你准备开始吧！ [点击 "publish"](https://help.github.com/articles/making-a-private-repository-public/) 以及拍下自己的后背。
 
-**Documentation**
+**文档**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    需要为项目指定一个开源协议
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    项目要有基础文档 (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    易记的项目名，指出项目是做什么的，不能和已存在的项目冲突或者商标侵权
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    最新的issue队列，组织和标记清除的issues
   </label>
 </div>
 
-**Code**
+**代码**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    项目使用一致的代码风格和明确的功能/方法/可用的名字
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    注释清晰的代码，记录意图和边缘案例
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (ex. passwords or other non-public information)
+    在修改历史，issues或者 pull requests 中没有敏感的信息 (例如 密码或者其他不能公开的信息)
   </label>
 </div>
 
-**People**
+**人**
 
-If you're an individual:
+如果你是代表个人：
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  你已经告诉了你的法律部门，以及/或者理解了你公司（如果你是某一家公司的员工）的开源政策和IP
   </label>
 </div>
 
-If you're a company or organization:
+如果你有一家公司或者组织：
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    你已经告诉了你的法律部门
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    你有一个宣布和促进项目的营销计划
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    一些人被允许管理社区互动（回复issues，检查和合并pull requests）
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    至少有两人管理访问项目
   </label>
 </div>
 
-## You did it!
+## 你做到了！
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+恭喜你开源了你的首个项目。不论结果如何，对开源社区都是一份礼物。随着每次commit,comment和pull request，你正在为自己或者他人创造学习和成长的机会。
+
+
