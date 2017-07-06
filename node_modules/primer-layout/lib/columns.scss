@@ -45,21 +45,6 @@
   width: 80%;
 }
 
-// Single column hack
-.single-column {
-  padding-right: $grid-gutter;
-  padding-left: $grid-gutter;
-}
-
-// Equal width columns via table sorcery.
-.table-column {
-  display: table-cell;
-  width: 1%;
-  padding-right: $grid-gutter;
-  padding-left: $grid-gutter;
-  vertical-align: top;
-}
-
 // Centers content horizontally. Can be used inside or outside the grid.
 .centered {
   display: block;
