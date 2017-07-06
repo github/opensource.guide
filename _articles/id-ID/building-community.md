@@ -105,77 +105,77 @@ Pengecualian terhadap komunikasi publik adalah: 1) masalah keamanan dan 2) pelan
 
 ## Mengembangkan komunitas Anda
 
-Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
+Komunitas sangatlah kuat. Kekuratan itu bisa menjadi berkat atau kutukan, tergantung bagaimana Anda menggunakannya. Seiring dengan berkembangnya komunitas proyek Anda, terdapat banyak cara untuk membuatnya menjadi kekuatan yang bersifat membangun, bukan menghancurkan.
 
-### Don't tolerate bad actors
+### Tidak mentolerir aktor jahat
 
-Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
+Sembarang proyek yang terkenal akan menarik orang lain untuk merusak dibandingkan membantu komunitas Anda. Mereka mungkin memulainya dengan debat yang tidak perlu, beralasan tentang fitur yang sederhana, atau bahkan menganggu yang lain.
 
-Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave.
+Lakukan yang terbaik untuk mengadopsi kebijakan tanpa toleransi terhadap orang-orang jenis ini. Jika dibiarkan, orang-orang negatif ini akan membuat orang lain menjadi tidak nyaman. Bahkan mereka bisa meninggalkan proyek Anda.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/633012?v=3&s=460" class="pquote-avatar" alt="avatar">
-  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
+  Memiliki komunitas yang mendukung adalah kuncinya. Saya tidak akan pernah bisa melakukan pekerjaan ini tanpa rekan-rekan saya, orang asing di Internet yang ramah, dan chanel IRC yang ramai (...).
   <p markdown="1" class="pquote-credit">
 — @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
   </p>
 </aside>
 
-Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
+Debat pada hal-hal kecil bisa menganggu yang lain, termasuk Anda dari pekerjaan penting. Orang baru yang hadir pada proyek Anda mungkin melihat diskusi ini dan tidak jadi berpartisipasi.
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
+Ketika Anda melihat perilaku negatif terjadi pada proyek Anda, hentikan segera. Jelaskan dengan cara yang sopan tetapi tegas kenapa perilaku semacam ini tidak dapat diterima. Jika hal ini masih berlanjut, Anda bisa saja [meminta mereka untuk pergi](../code-of-conduct/#enforcing-your-code-of-conduct). [Kode etik](../code-of-conduct/) Anda bisa menjadi panduan yang konstruktif untuk diskusi semacam ini.
 
-### Meet contributors where they're at
+### Temui kontributor dimana mereka berada
 
-Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
+Dokumentasi yang bagus akan semakin penting ketika komunitas Anda berkembang. Kontributor umum, yang mungkin tidak fasih dengan proyek Anda akan membaca dokumentasi untuk bisa memahami konteks yang mereka perlu ketahui.
 
-In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. [Django](https://github.com/django/django), for example, has a special landing page to welcome new contributors.
+Pada dokumen CONTRIBUTING, jelaskan secara eksplisit bagaimana kontributor baru bisa memulainya. Anda mungkin bisa mempersiapkan satu bagian khusus untuk tujuan ini. Sebagai contoh, [Django](https://github.com/django/django), memiliki halaman awal khusus untuk menyambut kontributor baru.
 
 ![django new contributors page](https://willysr.github.io/id-opensource.guide/assets/images/building-community/django_new_contributors.png)
 
-In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first bug"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
+Pada daftar laporan masalah Anda, tandai masalah yang cocok untuk setiap jenis kontributor yang berbeda: misalnya, [_"hanya pemula"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"laporan kesalahan pertama"_, atau _"dokumentasi"_. [Label ini](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) mempermudah orang yang baru pada proyek Anda untuk mencari daftar laporan masalah dan mulai berkontribusi.
 
-Finally, use your documentation to make people feel welcome at every step of the way.
+Akhirnya, gunakan dokumentasi Anda untuk membuat orang lain nyaman pada setiap langkahnya.
 
-You will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Even a few kind words can keep someone from leaving your project in frustration.
+Anda tidak akan pernah berinteraksi dengan sebagian besar orang-orang yang hadir pada proyek Anda. Bisa jadi terdapat kontribusi yang tidak Anda dapatkan karena seseorang merasa terintimidasi atau tidak tahu bagaimana memulainya. Sebuah kata-kata sederhana bisa menjaga mereka untuk tetap bertahan dan bebas dari rasa frustasi.
 
-For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts [its contributing guide](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+Sebagai contoh, berikut bagaimana cara [Rubinius](https://github.com/rubinius/rubinius/) memulai [panduan kontribusinya](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
 
-> We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
+> Kita ingin memulainya dengan mengucapkan terima kasih karena menggunakan Rubinius. Proyek ini merupakan hasil cinta kami, dan kami menghargai semua pengguna yang menemukan kesalahan, membuat perbaikan performa, dan membantu dengan dokumentasi. Setiap kontribusi sangat berharga, sehingga kami mengucapkan terima kasih untuk berpartisipasi. Meski demikian, berikut adalah beberapa panduan yang kami harapkan untuk bisa diikuti sehingga kami bisa menyelesaikan permasalahan Anda dengan baik.
 
-### Share ownership of your project
+### Berbagi kepemilikan dari proyek Anda
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/270108?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
+  Pemimpin Anda akan memiliki opini  yang berbeda, seperti halnya komunitas lainnya! Namun, Anda perlu mengambil langkah-langkah untuk memastikan bahwa suara terbesar tidak selalu menang, dan suara minoritas akan selalu didengarkan.
   <p markdown="1" class="pquote-credit">
 — @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-People are excited to contribute to projects when they feel a sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you give credit to others, the more they'll stick around.
+Orang-orang tertarik untuk berkontribusi pada proyek apabila mereka merasa perasaan memiliki. Hal itu bukan berarti Anda perlu memberikan visi proyek Anda kepada mereka atau menerima kontribusi yang tidak Anda kehendaki. Tetapi semakin banyak Anda memberikan penghargaan kepada orang lain, semakin besar kemungkinan mereka akan bertahan.
 
-See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
+Cari cara untuk bisa berbagi kepemilikan dengan komunitas Anda sebanyak mungkin. Berikut beberapa ide:
 
-* **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
+* **Menahan diri memperbaiki kesalahan sederhana.** Gunakan kesempatan ini untuk merekrut kontributor baru, atau menjadi mentor bagi orang lain yang ingin berkontribusi. Hal ini tampaknya tidak biasa pada awalnya, namun investasi Anda akan berbuah hasil dikemudian hari. Sebagai contoh @michaeljoseph meminta kontributor untuk mengirimkan pull request pada masalah [Cookiecutter](https://github.com/audreyr/cookiecutter), dan tidak menyelesaikannya sendiri.
 
 ![cookiecutter issue](https://willysr.github.io/id-opensource.guide/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) does.
+* **Bualah dokumen CONTRIBUTORS atau AUTHORS pada proyek Anda** yang mendata semua orang yang berkontribusi pada proyek Anda, seperti [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
 
-* If you've got a sizeable community, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+* Jika Anda memiliki komunitas yang cukup besar, **kirimkan surat berita atau tuliskan blog** dan ucapkan terima kasih pada kontributor. [This Week in Rust](https://this-week-in-rust.org/) milik Rust dan [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) milik Hoodie adalah dua contoh bagus.
 
-* **Give every contributor commit access.** @felixge found that this made people [more excited to polish their patches](http://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
+* **Berikan setiap kontributor akses commit.** @felixge menemukan bahwa hal ini membuat orang lain [lebih tertarik untuk memperbaiki perbaikan mereka](http://felixge.de/2013/03/11/the-pull-request-hack.html), dan dia juga menemukan pengelola baru untuk proyek yang tidak dia kelola selama beberapa waktu.
 
-* If your project is on GitHub, **move your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. Organizations make it easier to work on projects with external collaborators.
+* Jika proyek Anda berada pada GitHub, **pindahkan proyek Anda dari akun personal ke [Organisasi](https://help.github.com/articles/creating-a-new-organization-account/)** dan tambahkan paling tidak satu admin cadangan. Organisasi mempermudah pekerjaan kolaborasi dengan kolaborator eksternal.
 
-The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. The bigger your project, and the bigger your community, the easier it is to find help.
+Kenyataannya adalah [sebagian besar proyek hanya memiliki ](https://peerj.com/preprints/1233.pdf) satu atau dua pengeloa yang melakukan sebagian besar pekerjaan. Semakin besar proyek Anda, dan semakin besar komunitas Anda, semakin mudah untuk menemukan bantuan.
 
-While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
+Meskipun tidak selalu mudah untuk mendapatkan orang yang memenuhi panggilan Anda, memberikan sinyal akan meningkatkan peluang dimana orang lain akan ikut terlibat. Dan semakin cepat Anda melakukannya, semakin cepat pula orang akan datang membantu.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/39992?v=3&s=400" class="pquote-avatar" alt="avatar">
-  \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
+  Pastikan untuk merekrut kontributor yang menikmati dan mampu melakukan sesuatu yang tidak Anda bisa lakukan. Apakah Anda suka membuat kode, tetapi tidak suka menjawab laporan permasalahan? Maka cari orang-orang pada komunitas Anda yang suka dengan hal itu dan biarkan mereka untuk melakukannya.
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
   </p>
