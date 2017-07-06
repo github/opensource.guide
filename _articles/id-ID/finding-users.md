@@ -67,27 +67,27 @@ Ketika Anda telah memiliki pesan untuk proyek Anda dan cara mudah bagi orang lai
 
 ## Ketika pengguna proyek Anda (online)
 
-Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
+Kegiatan outreach online merupakan cara yang bagus untuk berbagi dan menyebarkan informasi dengan cepat. Dengan menggunakan chanel online, Anda memiliki potensi untuk menjangkau jumlah pengguna yang sangat besar.
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+Ambil keuntungan dari komunitas dan platform online yang sudah ada untuk menjangkau pengguna Anda. Jika proyek open source Anda adalah proyek perangkat lunak, Anda mungkin bisa menjangkau proyek Anda melalui [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), atau [Quora](https://www.quora.com/). Temukan chanel yang Anda pikir orang-orang akan mendapatkan keuntungan dari pekerjaan Anda.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+  Setiap program memiliki fungsi yang spesifik yang dianggap penting bagi sebagian kecil pengguna. Jangan melakukan spam kepada banyak orang. Tentukan target Anda pada komunitas yang mendapatkan keuntungan dengan mengetahui proyek Anda.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
-See if you can find ways to share your project in relevant ways:
+Amati jika Anda bisa menemukan cara untuk berbagi informasi tentang proyek Anda pada cara-cara yang relevan:
 
-* **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
-* **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-* **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
+* **Berkenalan dengan proyek dan komunitas open source yang relevan.** Seringkali, Anda tidak harus secara langsung mempromosikan proyek Anda. Jika proyek Anda sesuai untuk pengolah data yang menggunakan Python, berkenalanlah dengan komunitas pengolah data Python. Dengan semakin banyak orang yang mengenal Anda, kesempatan akan hadir untuk membicarakan hasil pekerjaan Anda.
+* **Temukan orang yang memiliki masalah yang diselesaikan dengan proyek Anda.** Cari melalui forum tentang orang-orang yang menjadi target pengguna proyek Anda. Jawab pertanyaan mereka dan carilah kesempatan untuk menawarkan proyek Anda sebagai solusinya.
+* **Minta masukan.** Perkenalkan diri Anda dan pekerjaan Anda kepada pengguna yang relevan. Jelaskan secara spesifik tentang siapa saja yang Anda anggap akan mendapatkan keuntungan dari proyek Anda. Cobalah untuk mengakhiri kalimat : _"Saya pikir proyek saya akan sangat membantu X, yang sedang mencoba melakukan Y_". Dengarkan dan berikan respon terhadap masukan orang lain dibandingkan terus menerus mempromosikan hasil pekerjaan Anda.
 
-Generally speaking, focus on helping others before asking for things in return. Because it is easy for anybody to promote a project online, there will be a lot of noise. Give people context for who you are, not just what you want, to stand out from the crowd.
+Secara umum, berfokuslah pada membantu orang lain sebelum meminta. Karena sangatlah mudah bagi setiap orang untuk mempromosikan proyek, sehingga akan terjadi banyak suara-suara yang masuk. Berikan orang lain tentang konteks tentang diri Anda, bukan saja yang Anda inginkan agar Anda bisa berbeda dari yang lain.
 
-If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. These things take time and dedication.
+Jika tidak ada yang menanggapi atau merespon, jangan kecewa! Rilis proyek awal biasanya merupakan proses yang bersifat iteratif yang bisa memakan waktu berbulan-bulan atau bahkan bertahun-tahun. Jika Anda tidak mendapatkan respon untuk pertama kali, cobalah taktik yang berbeda, atau cari cara lain untuk menambahkan nilai bagi hasil pekerjaan orang lain terlebih dahulu. Hal ini memerlukan waktu dan dedikasi.
 
 ## Ketika pengguna proyek Anda (offline)
 
