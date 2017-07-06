@@ -35,35 +35,35 @@ Untuk mendalami lebih dalam tentang penyampaian pesan, lihat panduan Mozilla ["P
 ## Bantu orang lain menemukan dan mengikuti proyek Anda
 
 <aside markdown="1" class="pquote">
-  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+  Idealnya Anda membutuhkan satu URL "awal" yang bisa Anda promosikan dan mengarahkan orang-orang sehubungan dengan proyek Anda. Anda tidak harus menggunakan template atau nama domain, tetapi proyek Anda membutuhkan sebuah titik fokus.
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+Bantu orang lain untuk mencari dan mengingat proyek Anda dengan mengarahkan mereka pada sebuah nama yang tunggal.
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. They also give your project's growing community a place to convene.
+**Gunakan akun yang jelas untuk mempromosikan pekerjaan Anda.** Sebuah akun Twitter, URL GitHub, atau channel IRC merupakan cara mudah untuk menunjukkan kepada orang lain tentang proyek Anda. Akun-akun ini juga memberikan tempat untuk berdiskusi bagi komunitas proyek Anda yang senantiasa berkembang.
 
-If you don't wish to set up these channels for your project yet, promote your own Twitter or GitHub handle in everything you do. For example, make sure it is included in your bio or slides if you speak at a meetup or event. That way, people know how to reach you or follow your work.
+Jika Anda belum ingin membuat channel pada proyek Anda, promosikan akun Twitter atau GitHub pada segala pekerjaan Anda. Sebagai contoh, pastikan akun tersebut masuk pada biodata atau slide presentasi ketika Anda berbicara pada acara pertemuan. Dengan cara itu, orang lain tahu bagaimana menghubungi Anda atau mengikuti hasil pekerjaan Anda.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  Sebuah kesalahan yang saya lakukan di masa-masa awal (...) adalah dengan tidak membuat akun Twitter untuk proyek. Twitter merupakan cara yang baik untuk memberikan informasi terbaru kepada orang-orang sekaligus untuk menampilkan orang lain kepada proyek.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially paired with clear documentation and tutorials. It also suggests that your project is active, which will make your audience feel more comfortable using it. Use examples to give people ideas for how to use your project.
+**Pertimbangkan untuk membuat halaman web untuk proyek Anda.** Sebuah halaman web membuat proyek Anda terasa lebih bersahabat dan mudah untuk dieksplorasi, terutama jika dikombinasikan dengan dokumentasi dan tutorial yang jelas. Hal ini juga menjelaskan bahwa proyek Anda masih aktif, yang akan membuat pengguna Anda menjadi lebih nyaman dalam menggunakannya. Gunakan contoh untuk memberikan ide kepada orang lain tentang bagaimana menggunakan proyek Anda.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator dari Django, mengatakan bahwa halaman web merupakan _"salah satu hal terbaik yang kita lakukan dengan Django di masa-masa awal"_.
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+Jika proyek Anda berada di GitHub, Anda bisa menggunakan [GitHub Pages](https://pages.github.com/) untuk membuat halaman web dengan mudah. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), dan [Middleman](https://middlemanapp.com/) adalah [beberapa contoh](https://github.com/showcases/github-pages-examples) dari halaman web yang komprehensif.
 
 ![vagrant homepage](https://willysr.github.io/id-opensource.guide/assets/images/finding-users/vagrant_homepage.png)
 
-Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
+Ketika Anda telah memiliki pesan untuk proyek Anda dan cara mudah bagi orang lain untuk menemukan proyek Anda, sekarang bicaralah ke pengguna Anda!
 
 ## Ketika pengguna proyek Anda (online)
 
