@@ -93,37 +93,37 @@ Jika tidak ada yang menanggapi atau merespon, jangan kecewa! Rilis proyek awal b
 
 ![public speaking](https://willysr.github.io/id-opensource.guide/assets/images/finding-users/public_speaking.jpg)
 
-Offline events are a popular way to promote new projects. It's a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
+Kegiatan _offline_ adalah cara yang populer untuk mempromosikan proyek baru. Kegiatan ini merupakan cara yang baik untuk menjangkau pengguna yang sibuk dan membangun koneksi yang lebih personal, terutama jika Anda tertarik untuk menjangkau para pengembang.
 
-If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
+Jika Anda termasuk [awam pada komunikasi publik](http://speaking.io/), mulailah dengan mencari acara pertemuan lokal yang berhubungan dengan bahasa atau ekosistem dari proyek Anda.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+  Saya cukup gugup ketika hendak menghadiri PyCon. Saya memberikan ceramah, hanya kenal beberapa orang, dan acara berlangsung selama satu minggu penuh. (...) Tetapi saya tidak perlu khawatir. PyCon sudah fenomenal! (...) Semua orang sangat ramah dan aktif, bahkan sangat jarang saya mendapati waktu tidak berbicara dengan orang-orang!
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
-If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
+Jika Anda belum pernah berbicara pada acara pertemuan sebelumnya, sangatlah normal untuk cemas! Ingatlah bahwa pengguna Anda hadir karena mereka dengan tulus hendak mendengarkan tentang pekerjaan Anda.
 
-As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+Ketika Anda mulai menuliskan presentasi Anda, fokus pada apa yang akan dianggap menarik oleh pengguna Anda. Gunakan bahasa yang ramah dan mudah dipahami. Senyum, ambil nafas, dan bersenang-senanglah.
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+  Ketika Anda mulai menuliskan isi presentasi Anda, tidak perduli topiknya, hal itu bisa membantu jika Anda melihatnya seperti menceritakan sebuah cerita kepada orang lain.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
-When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
+Ketika Anda sudah merasa siap, pertimbangkan untuk berbicara pada level konferensi untuk mempromosikan proyek Anda. Acara konferensi bisa membantu Anda menjangkau lebih banyak orang, seringkali dari berbagai penjuru dunia.
 
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference beforehand to tailor your talk to its attendees and increase your chances of getting accepted. You can often get a sense of a conference's audience by looking at its speakers.
+Carilah konferensi yang sesuai dengan bahasa atau ekosistem Anda. Sebelum Anda mengumpulkan presentasi Anda, pelajari konferensi sebelumnya untuk menyesuaikan presentasi Anda dengan pengunjung dan meningkatkan peluang Anda untuk diterima. Anda seringkali bisa melihat pengunjung konferensi dengan melihat para pembicaranya.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/80?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
+  Saya menuliskan pada orang-orang JSConf dan meminta mereka untuk memberikan saya satu kesempatan dimana saya bisa mempresentasikannya pada JSConf EU. (...) Saya sangatlah takut, mempresentasikan sesuatu yang telah saya persiapkan selama enam bulan. (...) Selama acara saya hanya berpikir, ya Tuhan. Apa yang saya lakukan disini?
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
