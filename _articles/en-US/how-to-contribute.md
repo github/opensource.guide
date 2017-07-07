@@ -211,9 +211,10 @@ You might scan a README and find a broken link or a typo. Or you're a new user a
 
 > [28% of casual contributions](http://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
-You can also use one of the following resources to help you discover new projects:
+You can also use one of the following resources to help you discover and contribute to new projects:
 
 * [GitHub Explore](https://github.com/explore/)
+* [Open Source Friday](https://opensourcefriday.com)
 * [First Timers Only](http://www.firsttimersonly.com/)
 * [Your First PR](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
