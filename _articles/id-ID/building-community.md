@@ -27,14 +27,14 @@ Ketika Anda membangun komunitas Anda, perhatikan bagaimana orang yang berada di 
 
 Mulailah dengan dokumentasi Anda:
 
-* **Permudah orang lain untuk menggunakan proyek Anda.** [README yang ramah](../starting-a-project/#writing-a-readme) dan contoh kode yang jelas akan mempermudah siapapun untuk bisa langsung menggunakan proyek Anda.
-* **Jelaskan dengan jelas bagaimana berkontribusi**, menggunakan [dokumen CONTRIBUTING Anda](../starting-a-project/#writing-your-contributing-guidelines) dan menjaga laporan permasalahan terus diperbarui.
+* **Permudah orang lain untuk menggunakan proyek Anda.** [README yang ramah](../starting-a-project/#menulis-dokumen-readme) dan contoh kode yang jelas akan mempermudah siapapun untuk bisa langsung menggunakan proyek Anda.
+* **Jelaskan dengan jelas bagaimana berkontribusi**, menggunakan [dokumen CONTRIBUTING Anda](../starting-a-project/#menulis-panduan-kontribusi-anda) dan menjaga laporan permasalahan terus diperbarui.
 
 Dokumentasi yang baik akan mengundang orang untuk berinteraksi dengan proyek Anda. Pada akhirnya, seseorang akan membuat laporan permasalahan atau pull request. Gunakan interaksi ini sebagai kesempatan untuk menggiring mereka ke bagian bawah dari saluran.
 
 * **Ketika orang baru hadir pada proyek Anda, ucapkan terima kasih!** Cukup satu pengalaman negatif untuk membuat orang tidak ingin kembali.
 * **Responsif.** Jika Anda tidak merespon laporan permasalahan selama satu bulan, kemungkinan besar mereka sudah melupakan proyek Anda.
-* **Terbuka terhadap jenis kontribusi yang Anda terima.** Banyak kontributor memulai dengan melaporkan permasalahan atau perbaikan sederhana. Terdapat [banyak cara untuk berkontribusi](../how-to-contribute/#what-it-means-to-contribute) pada sebuah proyek. Biarkan orang membantu sesuai keinginan mereka untuk membantu.
+* **Terbuka terhadap jenis kontribusi yang Anda terima.** Banyak kontributor memulai dengan melaporkan permasalahan atau perbaikan sederhana. Terdapat [banyak cara untuk berkontribusi](../how-to-contribute/#apa-artinya-berkontribusi) pada sebuah proyek. Biarkan orang membantu sesuai keinginan mereka untuk membantu.
 * **Jika terdapat kontribusi yang tidak Anda setujui,** ucapkan terima kasih atas idenya dan [jelaskan kenapa](../best-practices/#learning-to-say-no) ide tersebut tidak sesuai dengan proyek, dan menghubungkan dengan dokumen yang relevan jika Anda memilikinya.
 
 <aside markdown="1" class="pquote">
@@ -183,94 +183,94 @@ Meskipun tidak selalu mudah untuk mendapatkan orang yang memenuhi panggilan Anda
 
 ## Menyelesaikan konflik
 
-In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
+Pada awal proyek, membuat keputusan besar terasa mudah. Ketika Anda hendak melakukan sesuatu, Anda langsung melakukannya.
 
-As your project becomes more popular, more people will take interest in the decisions you make. Even if you don't have a big community of contributors, if your project has a lot of users, you'll find people weighing in on decisions or raising issues of their own.
+Seiring dengan proyek Anda semakin populer, semakin banyak orang akan memperhatikan setiap keputusan yang Anda ambil. Meskipun Anda tidak memiliki komunitas kontributor yang besar sekalipun, apabila proyek Anda memiliki banyak pengguna, Anda akan mendapati bahwa orang lain akan berusaha mempengaruhi keputusan atau mengangkat masalah mereka sendiri.
 
-For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find resolution. But sometimes you run into an issue that's a bit harder to address.
+Pada sebagian besar kasus, jika Anda telah membangun komunitas yang ramah dan saling menghargai serta mendokumentasikan proses Anda secara terbuka, komunitas Anda akan mudah menemukan solusinya. Namun seringkali Anda akan menjumpai masalah yang susah diselesaikan.
 
-### Set the bar for kindness
+### Tentukan tingkat kesabaran
 
-When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
+Ketika komunitas Anda berjuang dengan masalah yang rumit, emosi bisa meningkat. Orang-orang bisa menjadi marah dan frustasi dan melimpahkannya pada orang lain, atau pada Anda.
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
+Tugas Anda sebagai pengelola adalah menjaga situasi ini agar tidak sampai memuncak. Meskipun Anda memiliki opini yang kuat pada topik tersebut, cobalah untuk membuat posisi Anda sebagai moderator atau fasilitator dan jangan memaksakan kehendak Anda. Jika seseorang mencoba memonopoli diskusi, [ambil tindakan secepatnya](../building-community/#tidak-mentolerir-aktor-jahat) untuk memastikan diskusi tetap terjaga dan produktif.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/119893?v=3&s=400" class="pquote-avatar" alt="avatar">
-  As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
+  Sebagai pengelola proyek, sangatlah penting untuk menghargai kontributor Anda. Mereka seringkali menerima apa yang Anda sampaikan secara personal.
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
-Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly.
+Orang lain melihat Anda sebagai panutan. Berikan contoh yang baik. Anda bisa mengutarakan kekecewaan, kesedihan, atau kekhawatiran, tetapi lakukan secara perlahan.
 
-Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you.
+Mempertahankan hal yang baik bukanlah sesuatu yang mudah, tetapi mendemonstrasikan kepemimpinan akan meningkatkan kesehatan dari komunitas Anda. Intrnet akan berterima kasih kepada Anda.
 
-### Treat your README as a constitution
+### Perlakukan README sebagai konstitusi
 
-Your README is [more than just a set of instructions](../starting-a-project/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people are overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher vision of your project. Focusing on your README also depersonalizes the conversation, so you can have a constructive discussion.
+Dokumen README [lebih dari sekedar sekumpulan instruksi](../starting-a-project/#menulis-dokumen-readme). Dokumen iu juga tempat untuk mendiskusikan tujuan, visi, dan peta proyek Anda.  Jika orang-orang terlalu fokus berdebat pada fitur tertentu, mungkin akan membantu untuk melihat kembali dokumen README dan diskusikan visi yang lebih jauh dari proyek Anda. Berfokus pada README juga memperdalam diskusi sehingga Anda bisa mendapatkan diskusi yang konstruktif.
 
-### Focus on the journey, not the destination
+### Fokus pada perjalanan, bukan tujuan
 
-Some projects use a voting process to make major decisions. While sensible at first glance, voting emphasizes getting to an "answer," rather than listening to and addressing each other's concerns.
+Beberapa proyek menggunakan proses pemilihan suara model voting untuk pengambilan keputusan yang besar. Meskipun masuk akal di awal, voting berfokus pada mendapatkan "jawaban", dan bukan pada mendengarkan dan menjawab kekhawatiran orang lain.
 
-Voting can become political, where community members feel pressured to do each other favors or vote a certain way. Not everybody votes, either, whether it's the [silent majority](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in your community, or current users who didn't know a vote was taking place.
+Voting bisa sangat politis, dimana anggota komunitas merasa tertekan untuk melakukannya. Tidak semua memberikan suaranya, baik sebagai [silent majority](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) pada komunitas Anda, atau pengguna yang tidak tahu bahwa terjadi voting.
 
-Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) rather than consensus.
+Seringkali voting memang diperlukan untuk memecah kebuntuan. Namun tekankan ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) daripada konsensus.
 
-Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
+Pada proses _consensus seeking_, anggota komunitas mendiskusikan masalah utama sampai mereka merasa didengarkan. Ketika tersisa masalah kecil, maka komunitas akan bergerak maju. "Consensus seeking" mengakui bahwa sebuah komunitas mungkin tidak akan mendapatkan jawaban yang sempurna. Namun proses ini memprioritaskan proses untuk mendengarkan dan diskusi.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/1038121?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
+  Salah satu alasan kenapa sistem voting tidak berlaku untuk masalah Atom adalah karena tim Atom tidak akan mengikuti sistem voting pada setiap kasusnya. Seringkali kami harus memilih apa yang kami rasa benar meskipun tidak populer. (...) Apa yang bisa saya tawarkan dan janjikan...adalah karena itu merupakan pekerjaan saya untuk mendengarkan komunitas.
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
 </aside>
 
-Even if you don't actually adopt a consensus seeking process, as a project maintainer, it's important that people know you are listening. Making other people feel heard, and committing to resolving their concerns, goes a long way to diffuse sensitive situations. Then, follow up on your words with actions.
+Meskipun Anda tidak mengadopsi proses _consensus seeking_, sebagai seorang pengelola proyek, sangatlah penting bahwa orang lain tahu bahwa Anda mendengarkan. Membuat orang lain merasa didengarkan, dan berkomitmen untuk menyelesaikan masalah mereka akan membantu menyelesaikan situasi yang sensitif. Lanjutkan ucapan Anda dengan tindakan.
 
-Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
+Jangan tergesa-gesa untuk mengambil keputusan untuk mendapatkan resolusi. Pastikan semua orang merasa didengarkan dan semua informasi sudah dipublikasikan sebelum melanjutkan pada penyelesaian.
 
-### Keep the conversation focused on action
+### Jaga diskusi agar berfokus pada tindakan
 
-Discussion is important, but there is a difference between productive and unproductive conversations.
+Diskusi penting, tetapi terdapat perbedaan antara diskusi yang produktif dan tidak produktif.
 
-Encourage discussion so long as it is actively moving towards resolution. If it's clear that conversation is languishing or going off-topic, jabs are getting personal, or people are quibbling about minor details, it's time to shut it down.
+Dorong terjadinya diskusi selama mengarah pada jawaban. Jika diskusi sudah tidak jelas dan keluar dari topik, mengarah ke individual, atau mulai memperhatikan hal-hal kecil yang tidak relevan, waktunya untuk menghentikan diskusi tersebut.
 
-Allowing these conversations to continue is not only bad for the issue at hand, but bad for the health of your community. It sends a message that these types of conversations are permitted or even encouraged, and it can discourage people from raising or resolving future issues.
+Mengijinkan diskusi semacam ini untuk terus berlanjut tidak hanya jelek untuk masalah yang dibahas, namun juga pada komunitas Anda. Diskusi semacam ini mengirimkan pesan bahwa jenis diskusi semacam ini diijinkan atau bahkan malah disarankan, dan bisa membuat orang lain untuk tidak bersedia mengirimkan atau menyelesaikan masalah di masa depan.
 
-With every point made by you or by others, ask yourself, _"How does this bring us closer to a resolution?"_
+Dengan setiap poin yang dibuat oleh Anda atau orang lain, tanyakan kepada diri Anda, _"Bagaimana hal ini bisa membawa kita lebih dekat pada penyelesaian?"_
 
-If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
+Jika diskusi sudah mulai tidak mengarah, tanyakan pada grup, _"Langkah apa yang sebaiknya kita ambil berikutnya?"_ untuk memfokuskan ulang pada diskusi.
 
-If a conversation clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the issue and explain why you closed it.
+Jika sebuah diskusi tidak mengarah kemana-mana, tidak ada tindakan yang jelas yang harus diambil, atau tindakan yang benar sudah dilakukan, tutup laporan dan jelaskan kenapa.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.  
+  Mengarahkan sebuah diskusi pada sebuah kegunaan tanpa bersifat memaksa adalah sebuah seni. Hal ini tidak semudah untuk meminta orang-orang untuk menghabiskan waktu mereka, atau meminta mereka untuk tidak memberikan komentar kecuali mereka memiliki ide yang konstruktif. (...) Anda harus menyarankan kondisi untuk peningkatan lebih lanjut: berikan rute kepada orang, jalur yang bisa diikuti yang mengarah pada hasil yang Anda inginkan, tanpa seolah-olah Anda mengatur perilaku mereka.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 
-### Pick your battles wisely
+### Tentukan perang Anda secara bijaksana
 
-Context is important. Consider who is involved in the discussion and how they represent the rest of the community.
+Konteks itu penting. Pertimbangkan siapa yang harus terlibat pada diskusi dan bagaimana mereka bisa merepresentasikan komunitas secara luas.
 
-Is everybody in the community upset about, or even engaged with, this issue? Or is a lone troublemaker? Don't forget to consider your silent community members, not just the active voices.
+Jika semua orang pada komunitas tidak suka, atau terlibat dengan masalah ini? Atau cuma individual? Jangan lupa untuk memperhatikan anggota komunitas yang hanya mendengarkan, tetapi tidak memberikan suaranya secara aktif.
 
-If the issue does not represent the broader needs of your community, you may just need to acknowledge the concerns of a few people. If this is a recurring issue without a clear resolution, point them to previous discussions on the topic and close the thread.
+Jika masalah tersebut tidak merepresentasikan kebutuhan yang lebih luas dari komunitas Anda, Anda mungkin cukup meminta pendapat dari sebagian kecil orang. Jika hal ini merupakan masalah yang terjadi berulang-ulang tanpa penyelesaian yang jelas, hubungkan dengan diskusi sebelumnya dan tutup laporan masalah.
 
-### Identify a community tiebreaker
+### Identifikasi pemecah kebuntuan pada komunitas
 
-With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, identify an individual or group of people that can serve as a tiebreaker.
+Dengan perilaku yang baik dan komunikasi yang jelas, sebagian besar situasi akan dapat terselesaikan. Meski demikian, bahkan pada diskusi yang produktif sekalipun, seringkali terdapat perbedaan pendapat tentang apa yang harus dilakukan. Pada kasus ini, identifikasi individu atau sekelompok orang yang bisa memecah kebuntuan.
 
-A tiebreaker could be the primary maintainer of the project, or it could be a small group of people who make a decision based on voting. Ideally, you've identified a tiebreaker and the associated process in a GOVERNANCE file before you ever have to use it.
+Orang ini bisa pengelola utama pada proyek, atau sekelompok orang yang mengambil keputusan berdasarkan voting. Idealnya Anda sudah mengindentifikasi orang-orang ini dan menuliskan prosesnya pada dokumen GOVERNANCE sebelum Anda harus menggunakannya.
 
-Your tiebreaker should be a last resort. Divisive issues are an opportunity for your community to grow and learn. Embrace these opportunities and use a collaborative process to move to a resolution wherever possible.
+Gunakan ini sebagai jalan terakhir. Masalah semacam ini merupakan kesempatan bagi komunitas Anda untuk berkembang dan belajar. Manfaatkan kesempatan ini dan gunakan proses kolaboratif untuk berpidah pada penyelesaian sebisa mungkin.
 
-## Community is the ❤️ of open source
+## Komunitas adalah ❤️ dari open source
 
-Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone out there have an unforgettable open source experience.
+Komunitas yang sehat dan berkembang akan mengisi ribuan jam yang dihabiskan pada open source setiap minggunya. Banyak kontributor akan menunjuk orang lain sebagai alasan ia bekerja - atau tidak bekerja - pada open source. Dengan mempelajari bagaimana menggunakan kekuatan tersebut secara positif dan konstruktif, Anda akan membantu orang-orang diluar sana untuk mendapatkan pengalaman open source yang tak terlupakan.
