@@ -9,7 +9,7 @@ toc:
   help-people-find-and-follow-your-project: "帮助人们找到并关注你的项目"
   go-where-your-projects-audience-is-online: "到项目成员线上经常去的地方"
   go-where-your-projects-audience-is-offline: "到项目成员线下经常去的地方"
-  build-a-reputation: "Build a reputation"
+  build-a-reputation: "赢得口碑"
 order: 3
 image: /assets/images/cards/finding.png
 ---
@@ -20,110 +20,111 @@ image: /assets/images/cards/finding.png
 
 ## 发出自己的声音
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+在你开始推广你的项目之前，你应该能够解释你的项目是做什么的，为什么大家需要他?
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will make it easier to convince others.
+是什么让你的项目变得不同或者有趣，在自己心中问这些问题会让你更容易说服别人。
 
-Remember that people get involved as users, and eventually contributors, because it solves a problem for them. As you think about your project's message and value, try to view it through the lens of what _they_ might want.
+牢记一件事情，别人之所以使用你的项目，甚至是为你的项目做贡献，是因为你的项目解决了他们的问题。所以你要找出他们需要什么，然后把他当成你项目的卖点或者说价值所在。
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+举个例子，[@robb](https://github.com/robb)用代码实例来清晰的阐述为什么他的项目[Cartography](https://github.com/robb/Cartography)是有用的。
 
 ![cartography readme](/assets/images/finding-users/cartography.jpg)
 
-For a deeper diver into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+如果你想深入了解如何挖掘项目的“卖点”，看一下Mozilla的["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/)，练习如何建立用户的形象。
 
 ## 帮助人们找到并关注你的项目
 
 <aside markdown="1" class="pquote">
-  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+  你最好有一个唯一的“主页”链接用来推广，引导人们关注你的项目。你不需要找一个炫酷的模板或者域名，但是你的项目确实需要一个入口。
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+通过引导他们到一个唯一的地址来帮助人们发现和记住你的项目。
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. They also give your project's growing community a place to convene.
+**要有一个推广的主阵地。**一个Twitter账号，Github链接，或者IRC频道是引导人们查看你们项目的一个简单的方式。这些方式也给你日益增长的社区一个讨论的好地方。
 
-If you don't wish to set up these channels for your project yet, promote your own Twitter or GitHub handle in everything you do. For example, make sure it is included in your bio or slides if you speak at a meetup or event. That way, people know how to reach you or follow your work.
+如果你目前还不想给你的项目搞这么多乱七八糟的东西，而且还要在有机会的时候推广你的Twitter账户和Github账户。举个例子，如果你某一个讨论会或者活动上发言要保证在你的简历或者幻灯片上包含这些信息。只有这样人们才会知道怎么找到你或者关注你的工作。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  我之前犯过的一个错误就是没有给项目开一个Twitter账户。Twitter是一个让人们知晓项目进展的好渠道，也可以让人们持续的接触到你的项目。
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially paired with clear documentation and tutorials. It also suggests that your project is active, which will make your audience feel more comfortable using it. Use examples to give people ideas for how to use your project.
+**考虑给你的项目做一个网站**一个网站可以让你的项目更加友好，而且更加容易浏览，更重要的是附上清晰的文档和教程。这也是象征着你的项目还是活跃的，这会让你的用户使用你项目的时候感觉更放心。可以用一些例子告诉人们如何使用的项目。
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), Django的协作者说，我们给Django做的网站可以说是“在早期开发Django的时候做的最好的一件事情了”。
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+如果你的项目是托管在GitHub上的，你可以用[GitHub Pages](https://pages.github.com/)简单的创建一个网站。[Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) 是一些优秀的内容详尽的网站的[例子](https://github.com/showcases/github-pages-examples) 
 
 ![vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
-Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
+现在你的项目有了“卖点”，和让人们很容易发现你项目的渠道，接下来我们谈谈如何和你的用户交流吧！
 
-## 到项目成员线上经常去的地方
+## 到你项目的受众在的地方去（线上）
 
-Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
+网上拓展是分享和快速宣传项目的一个好方法。借助一些网上的渠道，你有可能找到一大批受众。
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+利用好已有的线上社区和平台去找你的受众。如果你的开源项目是一个软件项目，你可能会在[Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), 或者[Quora](https://www.quora.com/)。找到你觉得人们会最有可能从你的项目中受益或者对你项目感兴趣的渠道。
+
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+  每个程序都会有那么一些方法只有一部分人才会用到，所以不要想着去打扰每一个人，把你的力气用在可能会从你项目受益的社区就好。
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
-See if you can find ways to share your project in relevant ways:
+来看看下面的一些方法吧，也许推广你的项目的时候用得着。
 
-* **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
-* **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-* **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
++ **快找找有没有相关的开源项目和社区。**有时候，你不需要直接的推广你的项目。如果你的项目对使用Python的数据科学家来说是无可挑剔的，那么就去找Python数据科学的社区。等他们知道你的项目之后，很自然的就会谈论然后分享你的工作成果。
++ **如果你项目尝试解决某些问题，那么找到会遇到这些问题的人。**想象你的项目受众会在哪些论坛，然后搜索这些论坛，回答他们的问题，然后找一个合适的实际，向他们建议使用你的项目来作为一种解决方案。
++ **寻求反馈。**给一个可能会用到你项目的人介绍你自己和你做的工作。对哪些人会从你的项目受益要很明确。尝试完善一下下面这句话：“我觉得我的项目能够帮助A，那些尝试做B的人”。听取和回复别人的反馈，而不是简单的推广。
 
-Generally speaking, focus on helping others before asking for things in return. Because it is easy for anybody to promote a project online, there will be a lot of noise. Give people context for who you are, not just what you want, to stand out from the crowd.
+一般来说，在你索取什么回报之前先把精力放在帮助别人上。因为在网上推广一个项目对任何人都是一个不难的事情，所以有很多人和坐着一样的事。告诉人们你是谁，而不是你想要什么，这样才能从众多推广者中脱颖而出。
 
-If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. These things take time and dedication.
+如果没有人对你的推广感兴趣，不要灰心！大部分的项目的开展都是一个要花费数月和数年的反复过程。如果你第一次没收到反应，尝试换一种策略，或者找办法给别人的项目做做贡献。这都是些需要时间和奉献精神的事情。
 
-## 到项目成员线下经常去的地方
 
-![公开演讲](/assets/images/finding-users/public_speaking.jpg)
+## 到你项目受众在的地方去（线下）
 
-Offline events are a popular way to promote new projects. It's a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
 
-If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
+![public speaking](/assets/images/finding-users/public_speaking.jpg)
+
+线下活动是一个推广项目流行的方式。这是一个接触某个忠实听众和建立深层次的联系的好方式，特别是如果你对到场的开发者感兴趣的话。
+
+如果你还是个[公中演讲的新手](http://speaking.io/)，从寻找一个和你项目使用的语言或者生态系统相关的当地的聚会开始吧。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+  我去Pycon的时候非常紧张。我要发表一个演讲，在那儿我就认识几个人，还在那儿呆了整个周。但是其实我不应该焦虑的。Pycon真是太他妈吊了！每个人都是超级友好外向，以至于我没有找到时间和人们讲话。
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
-If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
+如果你从来没在公共场合讲过话，感觉紧张那就太正常啦！记住你的听众就在哪儿，因为他们都是真正的想听你介绍你的项目。
 
-As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+当你在写你的演讲稿的时候，把重点放在你的听众会感兴趣而且能获取价值的事情上。保证你的语言要友好和和蔼可亲。笑一笑，深呼吸，幽默一点儿。
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+  当你开始写你的演讲稿的时候，不管你的主题是什么，如果你能把你的演讲当成是给别人讲故事的话，效果会更更好。
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
-When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
-
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference beforehand to tailor your talk to its attendees and increase your chances of getting accepted. You can often get a sense of a conference's audience by looking at its speakers.
+等你准备好了，考虑一下在某个会议上发言的时候推广你的项目研讨会可以帮助你接触更多人，有时候是来自全世界各地的人。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/80?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
+  我非常认真的给JSConf的人写了一封信，然后求他们给我一点时间让我JSConf上展示我的项目。同时我又非常担心，这个项目我做了六个月，要是大家不认可怎么办。那时候我就一直在想，我的天，我他妈在这里是干吗？
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
@@ -131,27 +132,27 @@ Look for conferences that are specific to your language or ecosystem. Before you
 
 ## 赢得口碑
 
-In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
+除了上面提到的策略之外，邀请人们分享和支持你的项目的最好办法就是分享和支持他们的项目。
 
-Helping newcomers, sharing resources, and making thoughtful contributions to others' work will help you build a positive reputation. Then, people will have context for your work and be more likely to pay attention and share what you're doing.
+帮助新手，分享资源，给别人的项目认真的做贡献会帮助你建立起良好的声誉。然后他们就很有可能知道你的项目而且更有可能关注和分享你在做的事情。
 
-Sometimes, these relationships can even lead to official partnerships with the wider ecosystem.
+有时候，这些关系还会进一步发展成更广阔的生态系统中的官方合作伙伴（意思即使你有可能成为那些有名社区的成员）
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar" alt="avatar">
-  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+  urllib3之所以是现在最流行的Python第三方库的唯一原因就是大家都需要他。(待修改)
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue looking for ways to help others.
+种一棵树最好的时候是十年前，其次是现在。所以啥时候开始建立你的声望都不晚。即使是你早就已经建立了自己的项目，还是要继续找办法帮助别人。
 
-There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and reputation building work never ends.
+建立用户群没有一蹴而就的方法。获取别人的新人和尊重需要时间，同样，建立声望的过程也永远不会停止。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
-  PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
+  PhantomJS公开第一个版本的时候实在2011年初。我也就是用一些常规的方法来推广：发Twitter，写博客告诉别人可以用它来做什么，在各种各样的聚会上我都提到过它。当2014年他已经广为人知的时候。我才开始做关于它的演讲。
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
   </p>
@@ -159,4 +160,6 @@ There is no overnight solution to building an audience. Gaining the trust and re
 
 ## 保持精进
 
-Sometimes, it takes a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of a magic bullet. Be patient, and keep sharing your work with those who appreciate it.
+有时候，让人么注意你的开源项目会话费很多事件。但是关系！现在很多流行的项目都是花了很多年才有今天的活跃度。把重点放在建立声望上而不是企图一夜成名。耐心一点，一如既往的和那些可能会从中受益的人们分享你的项目。
+
+
