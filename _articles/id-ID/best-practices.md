@@ -1,28 +1,28 @@
 ---
-locale: en-US
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+locale: id-ID
+title: Kiat Baik untuk Pengelola
+description: Mempermudah hidup Anda sebagai pengelola open source, mulai dari mendokumentasikan proses hingga memberdayakan komunitas Anda.
 class: best-practices
 toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
-  documenting-your-processes: "Documenting your processes"
-  learning-to-say-no: "Learning to say no"
-  leverage-your-community: "Leverage your community"
-  bring-in-the-robots: "Bring in the robots"
-  its-okay-to-hit-pause: "It’s okay to hit pause"
+  apa-artinya-menjadi-pengelola: "Apa artinya menjadi pengelola?"
+  mendokumentasikan-proses-anda: "Mendokumentasikan proses Anda"
+  belajar-untuk-mengatakan-tidak: "Belajar untuk mengatakan tidak"
+  berdayakan-komunitas-anda: "Berdayakan komunitas Anda"
+  manfaatkan-robot: "Manfaatkan robot"
+  ok-untuk-berhenti-sejenak: "OK untuk berhenti sejenak"
 order: 5
 image: /assets/images/cards/best-practices.png
 ---
 
-## What does it mean to be a maintainer?
+## Apa artinya menjadi pengelola?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+Jika Anda mengelola proyek open source yang banyak digunakan oleh orang, Anda mungkin menyadari bahwa Anda semakin sedikit melakukan pemrograman dan lebih banyak menyelesaikan permasalahan.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+Pada fase awal proyek, Anda melakukan percobaan dengan ide-ide baru dan membuat keputusan berdasarkan apa yang Anda inginkan. Seiring dengan perkembangan popularitas proyek Anda, Anda akan lebih banyak bekerja dengan pengguna dan kontributor Anda.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+Mengelola sebuah proyek membutuhkan lebih dari sekedar membuat kode. Pekerjaan ini seringkali tidak terduga, namun mereka juga sama pentingnya untuk proyek yang terus berkembang. Kami telah mengmpulkan beberapa cara untuk mempermudah hidup Anda, mulai dari mendokumentasikan proses hingga memberdayakan komunitas Anda.
 
-## Documenting your processes
+## Mendokumentasikan proses Anda
 
 Writing things down is one of the most important things you can do as a maintainer.
 
@@ -77,7 +77,7 @@ If you meet with other maintainers, or make a major decision in private, documen
 
 That way, anybody who joins your community will have access to the same information as someone who's been there for years.
 
-## Learning to say no
+## Belajar untuk mengatakan tidak
 
 You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
 
@@ -120,7 +120,7 @@ If you don't want to accept a contribution:
 
 You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
 
-![celery screenshot](/assets/images/best-practices/celery.png)
+![celery screenshot](https://willysr.github.io/id-opensource.guide/assets/images/best-practices/celery.png)
 
 If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
 
@@ -159,7 +159,7 @@ Maybe someone in your community regularly submits contributions that don't meet 
 
 If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first bug,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
 
-## Leverage your community
+## Berdayakan komunitas Anda
 
 You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
 
@@ -169,7 +169,7 @@ If you're looking for others to pitch in, start by asking around.
 
 When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
 
-Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js?files=1).
+Encouraging others to [share ownership of the project](../building-community/#berbagi-kepemilikan-dari-proyek-anda) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js?files=1).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -205,7 +205,7 @@ The same applies to a user who really wants a solution that you simply don't hav
 
 > It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
 
-## Bring in the robots
+## Manfaatkan robot
 
 Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
 
@@ -245,7 +245,7 @@ However, if your standards are too complicated, they can increase the barriers t
 
 If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
 
-## It's okay to hit pause
+## OK untuk berhenti sejenak
 
 Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
 
