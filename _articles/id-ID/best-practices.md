@@ -24,58 +24,58 @@ Mengelola sebuah proyek membutuhkan lebih dari sekedar membuat kode. Pekerjaan i
 
 ## Mendokumentasikan proses Anda
 
-Writing things down is one of the most important things you can do as a maintainer.
+Menuliskan segala sesuatunya adalah salah satu pekerjaan penting yang bisa Anda lakukan sebagai seorang pengelola.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+Dokumentasi tidak hanya mengklarifikasikan pemikiran Anda, namun juga membantu orang lain memahami apa yang Anda perlukan atau harapkan, sebelum mereka mulai bertanya.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+Menuliskan dalam bentuk dokumentasi akan mempermudah Anda untuk mengatakan tidak apabila ada yang tidak sesuai dengan ruang lingkup yang sudah ditentukan. Dokumentasi juga mempermudah orang lain untuk bergabung dan mulai membantu. Anda tidak akan pernah tahu siapa saja yang mungkin akan membaca atau menggunakan proyek Anda.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+Anda tidak perlu menuliskan dalam bentuk paragraf penuh, bahkan dengan poin-poin saja sudah jauh lebih baik daripada tidak sama sekali.
 
-### Write down your project's vision
+### menuliskan visi proyek Anda
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Mulailah dengan menuliskan tujuan akhir dari proyek Anda. Tambahkan kedalam dokumen README, atau pisahkan kedalam dokumen VISION. Jika terdapat dokumen lain yang bisa membantu seperti peta perjalanan proyek, maka pastikan dokumen tersebut bersifat publik.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+Memiliki visi yang jelas dan terdokumentasi membantu Anda untuk tetap fokus dan juga menghindari perluasan ruang lingkup dari kontribusi orang lain.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+Sebagai contoh, @lord menemukan bahwa memiliki visi proyek telah membantu dia dalam menentukan permintaan mana yang perlu ditanggapi. Sebagai seorang pengelola baru, dia menyesal karena tidak bertahan dengan ruang lingkup proyeknya ketika dia menerima feature request pertama untuk [Slate](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1976330?v=3&s=460" class="pquote-avatar" alt="avatar" alt="@lord avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  Saya hanya meraba.Saya tidak meluangkan cukup waktu untuk menghadirkan sebuah solusi lengkap. Saya berharap saya pernah menuliskan "Saya tidak punya waktu untuk ini saat ini, tetapi saya akan menambahkannya pada daftar jangka panjang."
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
-### Communicate your expectations
+### Komunikasikan ekspektasi Anda
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+Aturan bisa menggelisahkan untuk dituliskan. Seringkali Anda merasa mengatur perilaku orang lain atau merusak kesenangan orang lain.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+Aturan yang baik, tertulis, dan diterapkan dengan adil akan sangat membantu pengelola. Aturan ini akan menghindarkan Anda dari melakukan sesuatu yangg tidak ingin Anda kerjakan.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+Sebagian besar orang yang hadir pada proyek Anda tidak tahu tentang Anda atau situasi Anda. Mereka bisa jadi mengasumsikan bahwa Anda dibayar untuk mengerjakan proyek tersebut, terutama jika mereka menggunakan dan sangat bergantung pada proyek Anda. Mungkin pada suatu masa Anda banyak menghabiskan waktu Anda pada proyek Anda, namun saat ini Anda sibuk dengan pekerjaan baru atau anggota keluarga yang baru.
 
-All of this is perfectly okay! Just make sure other people know about it.
+Semuanya ini normal! Pastikan orang lain mengetahui kondisi ini.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+Jika mengelola proyek Anda merupakan pekerjaan paruh waktu atau sepenuhnya sukarela, terbukalah dengan berapa banyak waktu yang Anda miliki. Informasi ini tidak sama dengan berapa banyak waktu yang diperlukan oleh proyek atau berapa banyak waktu yang diinginkan oleh orang lain terhadap Anda.
 
-Here are a few rules that are worth writing down:
+Berikut adalah beberapa aturan yang layak untuk ditulis:
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_ex. "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_ex. "We only spend about 5 hours per week on this project"_)
+* Bagai kontribusi akan di-review dan diterima (_Apakah perlu pengujian? Template laporan masalah?_)
+* Jenis kontribusi yang Anda terima (_Apakah Anda ingin meminta bantuan pada bagian tertentu dari kode Anda?_)
+* Kapan waktu yang tepat untuk melakukan penjajakan ulang (_misalnya. "Anda bisa mengharapkan respon dari pengelola dalam 7 days. Jika Anda belum mendapatkan balasan apapun, silahkan memberikan notifikasi."_)
+* Berapa banyak waktu yang Anda habiskan pada proyek (_misalnya. "Kami hanya menghabiskan waktu sekitar 5 jam per minggu pada proyek ini"_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), dan [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) adalah beberapa contoh proyek dengan aturan yang jelas untuk pengelola dan kontributor.
 
-### Keep communication public
+### Pastikan komunikasi terbuka
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+Jangan lupa untuk mendokumentasikan interaksi Anda. Jika dimungkinkan, pastikan komunikasi terjadi secara terbuka. Jika seseorang berusaha untuk menghubungi Anda secara pribadi untuk mendiskusikan sebuah pengajuan fitur baru atau membutuhkan bantuan, arahkan mereka pada media komunikasi publik secara halus, seperti mailing list atau _issue tracker_.
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+Jika Anda berjumpa dengan pengelola lain, atau membuat keputusan besar secara pribadi, dokumentasikan hasil diskusinya secara terbuka, meskipun hanya menuliskan notulensi Anda.
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+Dengan cara itu, setiap orang yang bergabung dengan komunitas Anda akan memiliki informasi yang sama dengan orang-orang yang sudah bertahun-tahun.
 
 ## Belajar untuk mengatakan tidak
 
