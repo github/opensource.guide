@@ -79,85 +79,85 @@ Dengan cara itu, setiap orang yang bergabung dengan komunitas Anda akan memiliki
 
 ## Belajar untuk mengatakan tidak
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+Anda telah menuliskan segalanya. Idealnya semua orang akan membaca dokumentasi Anda, namun dalam kenyataannya, Anda masih harus mengingatkan orang lain bahwa informasi ini sudah tersedia.
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+Dengan menuliskan segala sesuatunya, akan sangat membantu ketika Anda perlu menerapkan aturan Anda.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+Mengatakan tidak memang tidaklah menyenangkan, tetapi  _"Kontribusi Anda tidak sesuai dengan kriteria proyek ini"_ terasa lebih manusiawi dibandingkan  _"Saya tidak suka kontribusi Anda"_.
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+Mengatakan tidak juga berlaku pada banyak situasi yang akan Anda jumpai sebagai pengelola: permintaan fitur yang tidak sesuai, seseorang mencoba mengalihkan sebuah diskusi, melakukan pekerjaan yang tidak diperlukan bagi orang lain.
 
-### Keep the conversation friendly
+### Pastikan diskusi berjalan dengan ramah
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+Salah satu tempat terbaik untuk berlatih mengatakan tidak adalah laporan masalah dan antrian pull request. Sebagai pengelola proyek, Anda pasti akan menerima saran yang tidak Anda harapkan.
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+Mungkin kontribusi tersebut akan mengubah arah proyek atau tidak sesuai dnegan visi Anda. Mungkin idenya bagus, tetapi implementasinya kurang bagus.
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+Apapun alasannya, sangatlah dimungkinkan untuk menolak kontribusi yang tidak sesuai dengan standar proyek Anda.
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+Jika Anda menerima kontribusi yang tidak Anda inginkan, reaksi pertama Anda mungkin mengabaikan atau pura-pura tidak melihatnya. Melakukan hal ini bisa melukai perasaan orang lain atau bahkan mengurangi motivasi kontributor lainnya pada komunitas Anda.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/869950?v=3&s=400" class="pquote-avatar" alt="avatar" alt="@KrauseFx avatar">
-  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  Kunci untuk menangani dukungan terhadap proyek open source skala besar adalah memastikan bahwa masalah terus diperhatikan. Cobalah untuk mencegah laporan masalah berhenti. Jika Anda merupakan pengembang ioS, Anda tahu bagaimana frustasinya untuk mengajukan radar. Anda mungkin bisa mendengar balasan 2 tahun kemudian, dan mengatakan untuk mencoba kembali dengan versi terbaru dari iOS.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+Jangan biarkan kontribusi yang tidak diinginkan tetap terbuka karena Anda merasa bersalah atau ingin bersikap baik. Pada akhirnya, masalah yang tidak terjawab dan PR akan membuat pekerjaan proyek Anda menjadi lebih berat dan mengintimidasi Anda.
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Akan lebih baik untuk langsung menutup kontribusi yang Anda tahu tidak akan diterima. Jika proyek Anda mengalami hambatan yang besar, @steveklabnik memiliki saran untuk [mengatasi laporan masalah secara efisien](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+Kedua, mengabaikan kontribusi akan mengirimkan sinyal negatif pada komunitas Anda. Berkontribusi pada sebuah proyek bisa jadi menakutkan, apalagi untuk pertama kalinya bagi orang lain. Meskipun Anda tidak menerima kontribusi mereka, akui hasil pekerjaan mereka dan ucapkan terima kasih atas minat mereka. Itu adalah sebuah pujian yang besar!
 
-If you don't want to accept a contribution:
+Jika Anda tidak ingin menerima sebuah kontribusi:
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
+* **Ucapkan terima kasih** atas kontribusi mereka
+* **Jelaskan kenapa tidak sesuai** pada ruang lingkup proyek, dan tawarkan saran untuk perbaikan, jika dimungkinkan.
+* **Hubungkan dengan dokumentasi relevan**, jika Anda memilikinya. Jika Anda mengamati permintaan yang berulang pada sesuatu yang tidak ingin Anda terima, tambahkan pada dokumentasi Anda.
+* **Tutup permintaan**
 
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+Anda tidak perlu lebih dari 1-2 kalimat untuk merespon. Sebagai contoh, ketika pengguna [celery](https://github.com/celery/celery/) melaporkan sebuah kesalahan yang berhubungan dengan sistem operasi Windows, @berkerpeksag [menjawab dengan](https://github.com/celery/celery/issues/3383):
 
 ![celery screenshot](https://willysr.github.io/id-opensource.guide/assets/images/best-practices/celery.png)
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+Jika mengatakan tidak cukup menakutkan bagi Anda, Anda tidak sendirian. Seperti [yang dialami](https://blog.jessfraz.com/post/the-art-of-closing/) @jessfraz:
 
-> I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+> Saya telah berbicara dengan beberapa pengelola open source yang berbeda: Mesos, Kubernetes, Chromium, dan mereka semua sepakat bahwa salah satu tugas berat dari pengelola adalah mengatakan "Tidak" pada perbaikan yang tidak Anda inginkan.
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+Jangan merasa bersalah karena tidak menerima kontribusi seseorang. Aturan pertama dari open source, [menurut](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"Tidak bersifat sementara, ya bersifat selamanya."_ Meskipun memberikan empati pada niat baik orang lain adalah sesuatu yang baik, menolak sebuah kontribusi tidaklah sama dengan menolak orang itu sendiri.
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+Pada akhirnya, jika sebuah kontribusi kurang baik, Anda tidak harus menerimanya. Bersikaplah baik dan responsif ketika seseorang berkontribusi pada proyek Anda, tetapi hanya menerima ketika Anda percaya bahwa kontribusi itu akan membuat proyek Anda menjadi lebih baik. Semakin sering Anda mengatakan tidak, akan menjadi semakin mudah.
 
-### Be proactive
+### Bersikaplah Proaktif
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+Untuk mengurangi jumlah kontribusi yang tidak diharapkan dari awal, jelaskan proses untuk mengajukan dan menerima kontribusi proyek Anda pada panduan kontribusi.
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+Jika Anda menerima terlalu banyak kontribusi yang kurang baik, pastikan bahwa kontributor telah melakukan beberapa pekerjaan sebelumnya, misalnya:
 
-* Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+* Mengisi template/checklist daftar laporan masalah atau PR
+* Membuka laporan permasalahan sebelum mengajukan PR
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+Jika mereka tidak mengikuti aturan Anda, tutup dengan segera dan arahkan pada dokumentasi Anda.
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+Meskipun pendekatan ini mungkin terasa tidak menyenangkan pada awalnya, bersikap proaktif sebetulnya baik untuk kedua belah pihak. Hal ini mengurangi kesempatan seseorang untuk menghabiskan terlalu banyak waktu pada pull request yang tidak akan Anda terima. Dan juga membuat beban pekerjaan Anda menjadi lebih mudah untuk dikelola.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/125011" class="pquote-avatar" alt="avatar">
-  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+  Idealnya, jelaskan kepada mereka dan pada dokumen CONTRIBUTING.md bagaimana mereka bisa mendapatkan indikasi yang lebih baik dimasa depan tentang apa yang akan Anda terima atau tolak sebelum mereka mulai bekerja.
   <p markdown="1" class="pquote-credit">
 — @mikemcquaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+Seringkali, ketika Anda mengatakan tidak, kontributor potensial Anda mungkin akan marah atau mengkritisi keputusan Anda. Jika perilaku mereka menjadi tidak menyenangkan, [ambil langkah-langkah untuk menenangkan situasinya](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) atau bahkan hapus mereka dari komunitas Anda, jika mereka tidak berkolaborasi secara konstruktif.
 
-### Embrace mentorship
+### Memberlakukan pendampingan
 
-Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
+Mungkin seseorang pada komunitas Anda secara rutin mengirimkan kontribusi yang tidak sesuai dengan standar proyek Anda. Hal ini bisa membuat frustasi bagi kedua belaj pihak untuk berada pada situasi penolakan berkali-kali.
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first bug,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
+Jika Anda melihat seseorang sangat berminat pada proyek Anda tetapi membutuhkan sedikit bantuan, bersabarlah. Jelaskan dengan jelas pada setiap situasi kenapa kontribusi mereka tidak memenuhi ekspektasi dari proyek. Cobalah untuk mengarahkan mereka pada tugas yang lebih sederhana, seperti laporan masalah yang ditandai dengan _"kesalahan baik pertama,"_ untuk mendapatkan pengalaman. Jika Anda punya waktu, pertimbangkan untuk mendampingi mereka pada kontribusi pertama mereka, atau cari orang lain pada komunitas yang bersedia mendampinginya.
 
 ## Berdayakan komunitas Anda
 
