@@ -82,7 +82,7 @@ Finally, if your project is on GitHub, consider moving your project from your pe
 ## When should I give someone commit access?
 
 Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
-
+_articles/leadership-and-governance.md
 On the other hand, especially for bigger, more complex projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
 
 If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
