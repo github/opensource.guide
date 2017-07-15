@@ -1,25 +1,25 @@
 ---
-locale: en-US
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+locale: id-ID
+title: Kepemimpinan dan Pengelolaan
+description: Mengembangkan proyek open source dapat mengambil keuntungan dari aturan resmi untuk pengambilan keputusan
 class: leadership
 toc:
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "What are examples of formal roles used in open source projects?"
-  how-do-i-formalize-these-leadership-roles: "How do I formalize these leadership roles?"
-  when-should-i-give-someone-commit-access: "When should I give someone commit access?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "What are some of the common governance structures for open source projects?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Do I need governance docs when I launch my project?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "What happens if corporate employees start submitting contributions?"
-  do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
+  apa-contoh-dari-peran-formal-yang-digunakan-pada-proyek-open-source: "Apa contoh dari peran formal yang digunakan pada proyek open source?"
+  bagaimana-saya-memformalkan-peran-kepemimpinan-ini: "Bagaimana saya memformalkan peran kepemimpinan ini?"
+  kapan-saya-harus-memberikan-akses-commit-kepada-seseorang: "Kapan saya harus memberikan akses commit kepada seseorang?"
+  apa-struktur-pengelolaan-yang-umum-untuk-proyek-open-source: "Apa struktur pengelolaan yang umum untuk proyek open source?"
+  apakah-saya-perlu-dokumentasi-pengelolaan-ketika-saya-merilis-proyek-saya: "Apakah saya perlu dokumentasi pengelolaan ketika Saya merilis proyek Saya?"
+  apa-yang-terjadi-jika-karyawan-perkantoran-mulai-mengajukan-kontribusi: "Apa yang terjadi jika karyawan perkantoran mulai mengajukan kontribusi?"
+  apakah-saya-perlu-entitas-legal-untuk-mendukung-proyek-saya: "Apakah saya perlu entitas legal untuk mendukung proyek Saya?"
 order: 6
 image: /assets/images/cards/leadership.png
 ---
 
-## Understanding governance for your growing project
+## Memahami pengelolaan untuk proyek Anda yang semakin berkembang
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
+Proyek Anda semakin berkembang, orang-orang semakin tertarik untuk bergabung, dan Anda berkomitmen untuk mempertahankan proses ini. Pada tahap ini, Anda mungkin bertanya, bagaimana melibatkan kontributor proyek Anda pada alur kerja Anda, apakah dengan memberikan akses commit pada seseoang atau menyelesaikan debat pada komunitas. Jika Anda memiliki pertanyaan, kami memiliki jawabannya.
 
-## What are examples of formal roles used in open source projects?
+## Apa contoh dari peran formal yang digunakan pada proyek open source?
 
 Many projects follow a similar structure for contributor roles and recognition.
 
@@ -55,7 +55,7 @@ While you can define your project roles any way you'd like, [consider using broa
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## Bagaimana saya memformalkan peran kepemimpinan ini?
 
 Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
 
@@ -80,7 +80,7 @@ Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help
 
 Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#share-ownership-of-your-project).
 
-## When should I give someone commit access?
+## Kapan saya harus memberikan akses commit kepada seseorang?
 
 Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
 
@@ -96,7 +96,7 @@ If your project is on GitHub, you can use [protected branches](https://help.gith
   </p>
 </aside>
 
-## What are some of the common governance structures for open source projects?
+## Apa struktur pengelolaan yang umum untuk proyek open source?
 
 There are three common governance structures associated with open source projects.
 
@@ -112,7 +112,7 @@ Which one should you use? It's up to you! Every model has advantages and tradeof
 * [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.js's liberal contribution policy](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
 
-## Do I need governance docs when I launch my project?
+## Apakah saya perlu dokumentasi pengelolaan ketika Saya merilis proyek Saya?
 
 There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
 
@@ -128,7 +128,7 @@ If you're part of a company launching an open source project, it's worth having 
   </p>
 </aside>
 
-## What happens if corporate employees start submitting contributions?
+## Apa yang terjadi jika karyawan perkantoran mulai mengajukan kontribusi?
 
 Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
 
@@ -140,7 +140,7 @@ It's important to treat commercial activity as normal and as just another source
 
 Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
 
-## Do I need a legal entity to support my project?
+## Apakah saya perlu entitas legal untuk mendukung proyek Saya?
 
 You don't need a legal entity to support your open source project unless you're handling money.
 
