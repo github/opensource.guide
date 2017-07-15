@@ -161,49 +161,49 @@ Jika Anda melihat seseorang sangat berminat pada proyek Anda tetapi membutuhkan 
 
 ## Berdayakan komunitas Anda
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+Anda tidak harus mengerjakan semuanya sendiri. Komunitas proyek Anda ada untuk sebuah alasan! Meskipun Anda belum memiliki komunitas kontributor yang aktif, jika Anda punya banyak pengguna, berdayakan mereka.
 
-### Share the workload
+### Berbagi beban pekerjaan
 
-If you're looking for others to pitch in, start by asking around.
+Jika Anda mencari orang lain untuk bergabung, mulailah dengan bertanya.
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+Ketika Anda melihat kontributor baru melakukan kontribusi secara rutin, hargai pekerjaan mereka dengan menawarkan tanggung jawab yang lebih besar. Dokumentasikan bagaimana orang lain bisa menjadi seorang pemimpin.
 
-Encouraging others to [share ownership of the project](../building-community/#berbagi-kepemilikan-dari-proyek-anda) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js?files=1).
+Doronglah orang lain untuk [berbagi kepemilikan proyek](../building-community/#berbagi-kepemilikan-dari-proyek-anda) dan hal itu bisa mengurangi beban pekerjaan Anda secara drastis, seperti yang ditemukan @lmccart pada proyeknya, [p5.js](https://github.com/processing/p5.js?files=1).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I’d been saying, “Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...].” We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+  Saya telah banyak berkata, “Ya, setiap orang bisa terlibat, Anda tidak harus memiliki pengalaman membuat code [...].” Kami mendapati banyak orang mendaftar untuk hadir [pada sebuah acara] dan pada saat itulah saya mulai bertanya: jika hal ini benar, apa yang harus saya katakan? Terdapat lebih dari 40 orang yang hadir, dan saya tidak mungkin duduk bersama-sama dengan masing-masing dari mereka. ...Tetapi orang-orang tersebut hadir, dan semuanya berjalan dengan lancar. Begitu ada satu orang yang berhasil, mereka bisa mengajarkan ke orang lain.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does “Open Source” Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+Jika Anda perlu sedikit menjauh dari proyek Anda, baik sementara atau selamanya, tidak perlu ada rasa malu untuk meminta orang lain untuk meneruskan pekerjaan Anda.
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+Jika orang lain sangat antusias dengan arah proyek Anda, berikan akses atau serahkan kendali pada orang lain. Jika seseorang melakukan _fork_ terhadap proyek Anda dan mengelolanya secara aktif di tempat lain, pertimbangkan untuk menghubungkan ke proyek tersebut melalui proyek Anda. Sangatlah hebat melihat banyak orang menginginkan proyek Anda terus hidup.!
 
-@progrium [found that](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
+@progrium [menemukan bahwa](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) dengan mendokumentasikan visi proyeknya, [Dokku](https://github.com/dokku/dokku), membantu tujuannya tetap bertahan meskipun dia sudah meninggalkan proyeknya:
 
-> I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
+> Saya menuliskan sebuah halaman wiki menjelaskan tentang apa yang saya inginkan dan kenapa. Mengejutkan bagi saya karena pengelola mulai menjalankan proyek sesuai dengan arahan tersebut! Apakah ia melakukannya sesuai dengan apa yang saya kehendaki? Tidak selalu, tetapi ia membawa proyek ini semakin dekat dengan apa yang saya tuliskan.
 
-### Let others build the solutions they need
+### Biarkan orang lain membangun solusi yang mereka perlukan
 
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
+Jika kontributor yang berpotensi memiliki opini yang berbeda tentang apa yang seharusnya dikerjakan oleh proyek Anda, Anda mungkin bisa memberikan semangat untuk mengerjakan pekerjaan mereka melalui proses _fork_.
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+Melakukan sebuah _fork_ terhadap sebuah proyek bukan berarti sesuatu yang jelek. Mampu menyalin dan memodifikasi sebuah proyek adalah salah satu hal terbaik tentang open source. Menyemangati orang lain untuk bekerja pada hasil fork mereka bisa memberikan ide kreatif yang mereka perlukan, tanpa harus menimbulkan konflik dengan visi proyek Anda.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/481677?v=3&s=400" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+  Saya melayani 80% contoh kasus. Jika Anda termasuk salah satu yang tdak setuju, silahkan _fork_ pekerjaan saya. Saya tidak akan tersinggung! Proyek publik saya selalu berusaha untuk menyelesaikan masalah yang umum; Saya berusaha untuk membuatnya mudah untuk menyelesaikan masalah yang lebih kompleks dengan cara melakukan fork atau memperluas proyek tersebut.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
+Hal yang sama juga terjadi pada pengguna yang menginginkan solusi dimana Anda tidak mampu membangunnya karena keterbatasan bandwidth. Menawarkan API dan hook bisa membantu orang lain memenuhi kebutuhan mereka, tanpa harus memodifikasi kode secara langsung. @orta [menemukan](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) bahwa mendorong plugin untuk CocoaPods mengarah pada "beberapa ide menarik":
 
-> It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
+> Sangatlah susah untuk dihindari bahwa ketika sebuah proyek sudah semakin besar, pengelola harus menjadi lebih konsevatif tentang bagaimana mereka memperkenalkan kode baru. Anda menjadi lebih pandai dalam mengatakan "tidak", tetapi banyak orang memiliki kebutuhan yang pasti. Jadi, Anda akan mengubah alat Anda menjadi sebuah platform.
 
 ## Manfaatkan robot
 
