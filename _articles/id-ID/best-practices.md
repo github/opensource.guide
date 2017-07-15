@@ -207,43 +207,43 @@ Hal yang sama juga terjadi pada pengguna yang menginginkan solusi dimana Anda ti
 
 ## Manfaatkan robot
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+Seperti halnya terdapat tugas yang bisa dikerjakan oleh orang lain, juga terdapat tugas yang tidak seharusnya dikerjakan oleh orang. Robot adalah teman Anda. Gunakan mereka untuk mempermudah hidup Anda sebagai pengelola.
 
-### Require tests and other checks to improve the quality of your code
+### Wajibkan test dan pengujian lainnya untuk meningkatkan kualitas kode Anda
 
-One of the most important ways you can automate your project is by adding tests.
+Salah satu cara penting yang bisa dilakukan untuk melakukan otomatisasi proyek Anda adalah dengan menambahkan pengujian otomatis.
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+Pengujian otomatis membantu kontributor bahwa mereka tidak merusak apapun. Pengujian otomatis juga mempermudah Anda untuk melakukan review dan menerima kontribusi dengan cepat. Semakin cepat Anda merespon, maka komunitas Anda juga akan semakin tertarik.
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Required status checks](https://help.github.com/articles/about-required-status-checks/) on GitHub can help ensure no change gets merged without your tests passing.
+Lakukan pengaturan untuk pengujian otomatis yang akan berjalan pada semua kontribusi yang masuk, dan pastikan pengujian Anda dapat dilakukan dengan mudah oleh kontributor secara lokal. Pastikan bahwa semua kontribusi kode melewati pengujian Anda sebelum mereka bisa diajukan. Anda perlu menetapkan standar minimal kualitas dari semua pengajuan. [Penggunaan pengujian status](https://help.github.com/articles/about-required-status-checks/) pada GitHub dapat membantu memastikan tidak ada perubahan yang disetujui tanpa melalui pengujian Anda.
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+Jika Anda menambahkan pengujian, pastikan untuk menjelaskan bagaimana mereka bekerja pada dokumen CONTRIBUTING.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/812892?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+  Saya percaya bahwa pengujian otomatis sangat diperlukan untuk semua kode yang dikerjakan orang-orang.  Jika kode tersebut benar, maka tidak diperlukan perubahan - kita hanya menuliskan kode apabila terjadi kesalahan, apakah "crash" atau "kurang fitur". Tanpa memperhatikan perubahan yang Anda lakukan, pengujian otomatis sangatlah penting untuk menangkap regresi kesalahan yang mungkin Anda timbulkan.
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### Gunakan perangkat untuk mengotomatisasikan tugas perawatan dasar
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
+Kabar baik tentang mengelola sebuah proyek yang terkenal adalah pengelola lain mungkin sudah mengalami masalah yang sama dan sudah membuat solusinya.
 
-There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
+Terdapat [banyak peralatan yang ada](https://github.com/showcases/tools-for-open-source) yang dapat membantu mengotomatisasikan beberapa pekerjaan perawatan. Beberapa contoh diantaranya:
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
+* [semantic-release](https://github.com/semantic-release/semantic-release) mengotomatisasikan rilis Anda
+* [mention-bot](https://github.com/facebook/mention-bot) menyebut reviewer untuk pull requests
+* [Danger](https://github.com/danger/danger) membantu otomatisasi review kode
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. You can also set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to manage your email notifications.
+Untuk laporan kesalahan dan kontribusi umum lainnya, GitHub telah membuat [template untuk Laporan Masalah dan Pull Request](https://github.com/blog/2111-issue-and-pull-request-templates), yang bisa Anda gunakan untuk meningkatkan komunikasi yang Anda terima.  Anda juga bisa mengatur [email filter](https://github.com/blog/2203-email-updates-about-your-own-activity) untuk mengelola notifikasi email Anda.
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+Jika Anda ingin sedikit lebih canggih, panduan penulisan dan penggunaan lint bisa menstandarisasi kontribusi proyek dan membuatnya lebih mudah untuk melakukan review dan menerimanya.
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
+Namun, jika standar Anda terlalu rumit, hal ini bisa meningkatkan hambatan bagi kontribusi. Pastikan Anda menambah aturan untuk mempermudah hidup orang lain.
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+Jika Anda tidak yakin harus menggunakan perangkat yang mana, lihat apa yang digunakan oleh proyek lain, terutama pada ekosistem yang sama. Sebagai contoh, apa proses kontribusi untuk modul Node yang lain? Menggunakan perangkat dan pendekatan yang sama akan membuat proses Anda lebih dikenal oleh calon kontributor Anda.
 
 ## OK untuk berhenti sejenak
 
