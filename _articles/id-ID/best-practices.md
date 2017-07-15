@@ -247,30 +247,30 @@ Jika Anda tidak yakin harus menggunakan perangkat yang mana, lihat apa yang digu
 
 ## OK untuk berhenti sejenak
 
-Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
+Pekerjaan open source pernah membawa kebahagiaan. Mungkin saat ini mulai membuat Anda merasa bersalah.
 
-Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
+Mungkin Anda merasa terlalu terbeban ketika memikirkan proyek Anda. Dan jumlah masalah dan pull request semakin menumpuk.
 
-Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
+_Burnout_ adalah masalah yang riil dan dapat terjadi pada pekerjaan open source, terutama pada pengelola. Sebagai seorang pengelola, kebahagiaan Anda adalah sebuah kebutuhan yang tidak dapat ditawar untuk kelangsungan dari proyek open source.
 
-Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. @brettcannon, a Python core developer, decided to take [a month-long vacation](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering) after 14 years of volunteer OSS work.
+Meski demikian, ambil waktu untuk istirahat! Anda tidak harus menunggu sampai Anda merasa lelah sebelum mengambil liburan. @brettcannon, seorang pengembang inti Python, memutuskan untuk mengambil [liburan satu bulan](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering) setelah menjalani 14 tahun sebagai sukarelawan OSS.
 
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+Sama halnya seperti pekerjaan lainnya, mengambil liburan secara berkala akan membuat Anda segar, bahagia, dan tertarik terhadap pekerjaan Anda.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/36432?v=3&s=400" class="pquote-avatar" alt="avatar">
-  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+  Dalam mengelola WP-CLI, Saya menemukan bahwa saya perlu membuat diri saya bahagia terlebih dahulu, dan menentukan batas keterlibatan saya dengan jelas. Keseimbangan terbaik yang saya temukan adalah 2-5 jam per minggu sebagai bagian dari jadwal pekerjaan normal saya. Hal ini menjaga keterlibatan saya sebagai sebuah gairah. Karena saya memprioritaskan masalah-masalah yang saya kerjakan, saya bisa membuat kemajuan berkala tentang apa yang saya anggap penting.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
-Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
+Seringkali, cukup susah untuk berhenti sejenak dari pekerjaan open source karena Anda merasa semua orang membutuhkan Anda. Orang lain mungkin akan membuat Anda merasa bersalah karena mengabaikan pekerjaan ini.
 
-Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
+Lakukan yang terbaik untuk mendapatkan dukungan dari pengguna dan komunitas Anda selama Anda meninggalkan proyek. Jika Anda tidak bisa menemukan dukungan yang Anda temukan, tetaplah untuk berhenti sejenak. Pastikan untuk mengkomunikasikan ketika Anda tidak ada, sehingga orang lain tidak bingung dengan tingkat responsif Anda.
 
-Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+Berhenti lebih dari sekedar liburan. Jika Anda tidak melakukan pekerjaan open source pada akhir pekan, atau pada jam kerja, komunikasikan ekspektasi tersebut pada orang lain, sehingga mereka tidak akan menganggu Anda.
 
-## Take care of yourself first!
+## Jaga dirimu terlebih dahulu!
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+Mengelola proyek yang populer membutuhkan ketrampilan yang berbeda dengan fase awal pertumbuhan proyek, tetapi tidak kalah manfaatnya. Sebagai seorang pengelola, Anda akan berlatih kepemimpinan dan ketrampilan individu pada tingkat dimana tidak banyak orang yang mendapatkan pengalaman tersebut. Meskipun hal itu tidaklah mudah, menentukan batas yang jelas dan hanya mengambil apa yang Anda rasa nyaman akan membuat Anda tetap bahagia, segar, dan produktif.
