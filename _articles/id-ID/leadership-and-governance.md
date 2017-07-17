@@ -21,35 +21,35 @@ Proyek Anda semakin berkembang, orang-orang semakin tertarik untuk bergabung, da
 
 ## Apa contoh dari peran formal yang digunakan pada proyek open source?
 
-Many projects follow a similar structure for contributor roles and recognition.
+Banyak proyek mengikuti struktur yang serupa untuk peran dan pengakuan kontributor.
 
-What these roles actually mean, though, is entirely up to you. Here are a few types of roles you may recognize:
+Arti dari peran tersebut sangat tergantung dari Anda. Berikut adalah beberapa jenis peran yang mungkin Anda kenali:
 
 * **Maintainer**
 * **Contributor**
 * **Committer**
 
-**For some projects, "maintainers"** are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
+**Untuk beberapa project, "maintainer"** adalah satu-satunya orang pada proyek yang memiliki akses commit. Pada proyek lain, mereka adalah orang-orang yang terdaftar pada README sebagai pengelola.
 
-A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project, or written documentation that made the project more accessible to others. Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
+Seorang pengelola (maintainer) tidak harus merupakan orang yang menuliskan kode pada proyek Anda. Maintainer bisa merupakan orang yang mengembangkan proyek Anda, atau menuliskan dokumentasi agar bisa diakses oleh banyak orang. Terlepas dari apa yang mereka lakukan sehari-hari, seorang pengelola merupakan orang yang bertanggung jawab terhadap arah dari proyek dan berkomitmen untuk meningkatkannya.
 
-**A "contributor" could be anyone** who comments on an issue or pull request, people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
+**Seorang "kontributor" bisa siapa saja** yang memberikan komentar pada sebuah masalah atau pull request, orang-orang yang memberikan nilai pada proyek (baik menyelesaikan masalah, menuliskan kode, atau mengelola sebuah acara), atau siapapun dengan pull request yang diterima (mungkin definisi tersingkat dari seorang kontributor).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/579?v=3&s=460" class="pquote-avatar" alt="avatar">
-  \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
+  \[Untuk Node.js,\] setiap orang yang memberikan komentar pada sebuah masalah atau mengirimkan kode adalah anggota dari komunitas proyek. Cukup dengan melihat apa yang mereka lakukan berarti mereka sudah beralih dari seorang pengguna menjadi seorang kontributor.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
 </aside>
 
-**The term "committer"** might be used to distinguish commit access, which is a specific type of responsibility, from other forms of contribution.
+**Istilah "committer"** mungkin digunakan untuk membedakan akses commit, yang merupakan tanggung jawab yang spesifik, dari jenis kontribusi lainnya.
 
-While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#what-it-means-to-contribute) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
+Walaupun Anda bisa mendefinisikan peran pada proyek Anda sesuka Anda, [pertimbangkan untuk menggunakan definisi yang lebih luas](../how-to-contribute/#apa-artinya-berkontribusi) untuk mendorong lebih banyak jenis kontribusi. Anda bisa menggunakan peran kepemimpinan untuk secara formal mengakui orang-orang yang memiliki kontribusi yang besar pada proyek Anda, terlepas dari ketrampilan teknis mereka.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/21148?v=3&s=460" class="pquote-avatar" alt="avatar">
-  You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
+  Anda mungkin mengenal saya sebagai "pencipta" dari Django...tetapi saya hanyalah orang yang dipekerjakan untuk bekerja pada sesuatu setelah satu tahun dibuat. (...) Orang menduga bahwa saya sukses karena ketrampilan pemrograman saya...tetapi saya hanyalah programmer biasa.
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
