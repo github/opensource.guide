@@ -57,28 +57,28 @@ Walaupun Anda bisa mendefinisikan peran pada proyek Anda sesuka Anda, [pertimban
 
 ## Bagaimana saya memformalkan peran kepemimpinan ini?
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
+Meresmikan peran kepemimpinan akan membantu orang lain merasa memiliki dan memberitahukan anggota kelompok lainnya bagi yang membutuhkan.
 
-For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
+Untuk proyek yang kecil, menentukan pemimpin semudah menambahkan nama-nama mereka pada berkas README atau CONTRIBUTORS.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [PostgreSQL](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+Untuk proyek yang lebih besar, jika Anda memiliki sebuah website, buatlah halaman tim atau tuliskan pemimpin proyek Anda. Sebagai contoh, [PostgreSQL](https://github.com/postgres/postgres/) memiliki [halaman tim yang lengkap](https://www.postgresql.org/community/contributors/) dengan profil singkat pada setiap kontributornya.
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (ex. security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+Jika proyek Anda memiliki komunitas kontributor yang aktif, Anda mungkin perlu membuat "tim inti" dari pengelola, atau sub komite dari orang-orang yang memiliki peran pada beberapa area yang berbeda (misalnya keamanan, laporan masalah, atau kode etik). Biarkan orang lain mengatur dirinya sendiri dan berkontribusi pada peran yang mereka sukai.
 
 <aside markdown="1" class="pquote">
-  \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+  \[Kami\] melengkapi tim inti dengan beberapa "sub tim". Setiap sub tim berfokus pada area tertentu, misalnya desain bahasa atau pustaka. (...) Untuk memastikan koordinasi yang kuat dan global, penyamaan visi pada proyek secara keseluruhan, setiap sub tim dipimpin oleh anggota dari tim inti.
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+Tim pemimpin mungkin perlu membuat chanel khusus (seperti IRC) atau bertemu secara rutin untuk mendiskusikan proyek (seperti pada Gitter atau Google Hangout). Anda bisa membuat hasil rapat tersebut secara terbuka sehingga orang lain bisa mendengarkan. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), misalnya, [mengadakan jam kerja setiap minggunya](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md.
+Setelah Anda mendefinisikan peran pemimpin Anda, jangan lupa untuk mendokumentasikan bagaimana orang lain bisa mencapai posisi tersebut! Buatlah proses yang jelas bagaimana seseorang bisa menjadi seorang pengelola atau bergabung pada sub komite pada proyek Anda, dan tuliskan pada GOVERNANCE.md.
 
-Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
+Peralatan seperti [Vossibility](https://github.com/icecrime/vossibility-stack) bisa membantu Anda melacak siapa yang (tidak) memberikan kontribusi pada proyek. Mendokumentasikan informasi ini akan menghindari persepsi komunitas bahwa pengelola mengambil keputusan secara pribadi.
 
-Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#share-ownership-of-your-project).
+Akhirnya, jika proyek Anda berada pada GitHub, pertimbangkan untuk memindahkan proyek Anda dari akun prbadi pada "Organization" dan menambahkan paling tidak satu admin cadangan. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) membuat pengelolaan hak akses dan banyak repository menjadi lebih mudah dan juga menjaga proyek Anda melalui [berbagi kepemilikan](../building-community/#berbagi-kepemilikan-dari-proyek-anda).
 
 ## Kapan saya harus memberikan akses commit kepada seseorang?
 
