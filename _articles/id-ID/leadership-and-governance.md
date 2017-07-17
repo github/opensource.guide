@@ -82,15 +82,15 @@ Akhirnya, jika proyek Anda berada pada GitHub, pertimbangkan untuk memindahkan p
 
 ## Kapan saya harus memberikan akses commit kepada seseorang?
 
-Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
+Beberapa orang berpikir bahwa Anda perlu memberikan akses commit pada semua orang yang memberikan kontribusi. Melakukan hal ini bisa mendorong lebih banyak orang untuk merasa memiliki proyek Anda.
 
-On the other hand, especially for bigger, more complex projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+Disisi lain, terutama untuk proyek yang besar dan kompleks, Anda mungkin hanya akan memberikan akses commit pada orang-orang yang mendemonstrasikan komitmen mereka Tidak ada cara yang paling benar untuk melakukan hal ini - lakukan apa yang Anda rasa paling baik!
 
-If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
+Jika proyek Anda berada pada GitHub, Anda bisa menggunakan [protected branches](https://help.github.com/articles/about-protected-branches/) untuk mengelola siapa saja yang boleh mengirimkan pada branch tertentu, dan pada kondisi apa.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/15000?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
+  Ketika seseorang mengirimkan sebuah pull request, berikan mereka akses commit pada proyek Anda. Meskipun tampaknya hal bodoh pada awalnya, menggunakan strategi ini akan memaksimalkan kekuatan utama dari GitHub. (...) Setelah orang-orang memiliki akses commit, mereka tidak lagi khawatir bahwa perubahan mereka tidak akan digunakan...hal ini akan membuat mereka bekerja lebih keras pada perubahan yang diusulkan.
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
