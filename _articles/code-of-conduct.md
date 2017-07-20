@@ -34,7 +34,7 @@ Wherever you can, use prior art. The [Contributor Covenant](http://contributor-c
 
 The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and link to it from your README, so it's visible to your community.
+Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
 
 ## Deciding how you'll enforce your code of conduct
 
