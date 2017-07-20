@@ -1,11 +1,11 @@
 # Primer marketing
 
-[![NPM version](http://img.shields.io/npm/v/primer-marketing.svg)](https://www.npmjs.org/package/primer-marketing)
+[![npm version](http://img.shields.io/npm/v/primer-marketing.svg)](https://www.npmjs.org/package/primer-marketing)
 [![Build Status](https://travis-ci.org/primer/primer-css.svg?branch=master)](https://travis-ci.org/primer/primer-css)
 
 > Primer marketing is one of 3 meta-packages that belong to the Primer CSS framework. Primer marketing contains packages that are used on GitHub marketing websites.
 
-This repository is a compilation of [several CSS packages](https://github.com/primer/primer-css). You can break it down into smaller sections using NPM.
+This repository is a compilation of [several CSS packages](https://github.com/primer/primer-css). You can break it down into smaller sections using npm.
 
 ## Install
 
@@ -27,7 +27,7 @@ You can also import specific portions of the module by importing those partials 
 
 ## Build
 
-For a compiled **css** version of this module, a NPM script is included that will output a CSS version to `build/build.css` The built CSS file is also included in the NPM package.
+For a compiled **css** version of this module, a npm script is included that will output a CSS version to `build/build.css` The built CSS file is also included in the npm package.
 
 ```
 $ npm run build

@@ -1,6 +1,6 @@
 # Primer CSS box
 
-[![NPM version](http://img.shields.io/npm/v/primer-box.svg)](https://www.npmjs.org/package/primer-box)
+[![npm version](http://img.shields.io/npm/v/primer-box.svg)](https://www.npmjs.org/package/primer-box)
 [![Build Status](https://travis-ci.org/primer/primer-css.svg?branch=master)](https://travis-ci.org/primer/primer-css)
 
 > Box is a module for creating rounded-corner boxes with a white background and gray borders. Box has optional element styles for headers, lists, and footers.

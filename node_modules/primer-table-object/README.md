@@ -1,6 +1,6 @@
 # Primer CSS table object
 
-[![NPM version](http://img.shields.io/npm/v/primer-table-object.svg)](https://www.npmjs.org/package/primer-table-object)
+[![npm version](http://img.shields.io/npm/v/primer-table-object.svg)](https://www.npmjs.org/package/primer-table-object)
 [![Build Status](https://travis-ci.org/primer/primer-css.svg?branch=master)](https://travis-ci.org/primer/primer-css)
 
 > Table object is a module for creating dynamically resizable elements that always sit on the same horizontal line (e.g., they never break to a new line). Using table styles in our CSS means it’s cross browser friendly back to at least IE9.

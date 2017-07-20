@@ -1,6 +1,6 @@
 # Primer CSS Markdown
 
-[![NPM version](http://img.shields.io/npm/v/primer-markdown.svg)](https://www.npmjs.org/package/primer-markdown)
+[![npm version](http://img.shields.io/npm/v/primer-markdown.svg)](https://www.npmjs.org/package/primer-markdown)
 [![Build Status](https://travis-ci.org/primer/primer-css.svg?branch=master)](https://travis-ci.org/primer/primer-css)
 
 > Stylesheets for rendering GitHub Flavored Markdown and syntax highlighted code snippets.
