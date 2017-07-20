@@ -186,8 +186,10 @@ Sofern andere Leute begeistert über die neue Richtung sind, gebe ihnen den Comm
 @progrium [hat rausgefunden dass (Englisch)](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) das Dokumentieren der Vision für sein Projekt, [Dokku](https://github.com/dokku/dokku), die Ziele lebendig gemacht hat, sogar als er vom Projekt Abstand genommen hat:
 
 > Ich habe ein Wiki-Seite geschreiben darüber was ich möchte und wieso ich es möchte. Aus irgendeinem Grund hat es mich überrascht als die Betreiber gestartet haben, in die Richtung zu gehen, in die ich wollte. Ist es exakt so passiert wie ich es umgesetzt hätte? Nicht immer. Aber es hat das Projekt nach vorne gebracht, zudem was ich aufgeschrieben habe.
+
 ### Let others build the solutions they need
 
+Wenn ein potenzieller Beitragender eine andere Meinung hat y
 If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
 
 Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
