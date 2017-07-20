@@ -189,11 +189,11 @@ Sofern andere Leute begeistert über die neue Richtung sind, gebe ihnen den Comm
 
 ## Lass andere die Lösungen bauen, die sie brauchen
 
-Wenn ein potenzieller Beitragender eine andere Meinung darüber hat, was der Fokus des Projekts sein soll, möchtest du sie vielleicht ermutigen auf ihren eigenem Fork weiterzuarbeiten.
+Wenn ein potenzieller Beitragender eine andere Meinung darüber hat, was der Fokus des Projekts sein sollte, möchtest du ihn vielleicht ermutigen auf seinem eigenem Fork weiterzuarbeiten.
 
 Ein Projekt zu forken muss nicht schlecht sein. Ein Projekt zu kopieren und etwas zu verändern ist einer der besten Dinge, die man mit Open-Source Software machen kann.
 
-Die Mitglieder deiner Community zu ermutigen auf ihrem Fork zu arbeiten kann die kreative Zeit bedeute, die sie brauchen, ohne mit dir über die Vision des Projekts zu diskutieren.
+Die Mitglieder deiner Community zu ermutigen auf ihrem Fork zu arbeiten kann das Bedürfnis nach Kreativität befriedigen, die sie brauchen, ohne mit dir über die Vision des Projekts zu diskutieren.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/481677?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -203,7 +203,7 @@ Die Mitglieder deiner Community zu ermutigen auf ihrem Fork zu arbeiten kann die
   </p>
 </aside>
 
-Das Selbe gilt für einen Nutzer wo du schlichtweg nicht die Kapazität hast um es zu machen. APIs anzubieten und/oder Benutzerspezifische Einstellungen kann andere helfen, ihren Bedarf zu stillen, ohne den Code direkt zu bearbeiten. @orta [hat rausgefunden(Englisch)](http://artsy.github.io/blog/2016/07/03/handling-big-projects/), dass Leute zu ermutigen Plug-Ins zu erstellen für CocoaPods zu "einigen  der interessantesten Ideen" geführt hat:
+Das Selbe gilt für einen Nutzer wo du schlichtweg nicht die Kapazität hast um es zu machen. APIs anzubieten und/oder Benutzerspezifische Einstellungen kann andere helfen, ihren Bedarf zu stillen, ohne den Code direkt zu bearbeiten. @orta [hat rausgefunden(Englisch)](http://artsy.github.io/blog/2016/07/03/handling-big-projects/), dass Leute zu ermutigen, Plug-Ins zu erstellen, für CocoaPods zu "einigen  der interessantesten Ideen" geführt hat:
 
 > Es ist fast unausweichlich dass ein Projekt groß wird, Betreiber müssen deswegen konsversativer werden darüber, wie sie neuen Code möchten. Du wirst gut mit dem „Nein“ sagen, aber viele Leute haben zu Recht Bedürfnisse. Also, hörst du damit auf, dein Werkzeug zu einer kompletten Plattform auszubauen.
 
