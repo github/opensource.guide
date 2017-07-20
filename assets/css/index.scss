@@ -7,3 +7,7 @@
 @import "custom.scss";
 @import "covers.scss";
 @import "anchor.scss";
+
+body {
+  background-color: $gray-300 !important;
+}
