@@ -203,7 +203,7 @@ Die Mitglieder deiner Community zu ermutigen auf ihrem Fork zu arbeiten kann die
   </p>
 </aside>
 
-Das Selbe gilt für einen Nutzer wo du schlichtweg nicht die Kapazität hast um es zu machen. APIs anzubieten und/oder Benutzerspezifische Einstellungen kann andere helfen, ihren Bedarf zu stillen, ohne den Code direkt zu bearbeiten. @orta [hat rausgefunden](http://artsy.github.io/blog/2016/07/03/handling-big-projects/), dass Leute zu ermutigen Plug-Ins zu erstellen für CocoaPods zu "einigen  der interessantesten Ideen" geführt hat:
+Das Selbe gilt für einen Nutzer wo du schlichtweg nicht die Kapazität hast um es zu machen. APIs anzubieten und/oder Benutzerspezifische Einstellungen kann andere helfen, ihren Bedarf zu stillen, ohne den Code direkt zu bearbeiten. @orta [hat rausgefunden(Englisch)](http://artsy.github.io/blog/2016/07/03/handling-big-projects/), dass Leute zu ermutigen Plug-Ins zu erstellen für CocoaPods zu "einigen  der interessantesten Ideen" geführt hat:
 
 > Es ist fast unausweichlich dass ein Projekt groß wird, Betreiber müssen deswegen konsversativer werden darüber, wie sie neuen Code möchten. Du wirst gut mit dem „Nein“ sagen, aber viele Leute haben zu Recht Bedürfnisse. Also, hörst du damit auf, dein Werkzeug zu einer kompletten Plattform auszubauen.
 
