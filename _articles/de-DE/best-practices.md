@@ -187,24 +187,25 @@ Sofern andere Leute begeistert über die neue Richtung sind, gebe ihnen den Comm
 
 > Ich habe ein Wiki-Seite geschreiben darüber was ich möchte und wieso ich es möchte. Aus irgendeinem Grund hat es mich überrascht als die Betreiber gestartet haben, in die Richtung zu gehen, in die ich wollte. Ist es exakt so passiert wie ich es umgesetzt hätte? Nicht immer. Aber es hat das Projekt nach vorne gebracht, zudem was ich aufgeschrieben habe.
 
-### Let others build the solutions they need
+## Lass andere die Lösungen bauen, die sie brauchen
 
-Wenn ein potenzieller Beitragender eine andere Meinung hat y
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
+Wenn ein potenzieller Beitragender eine andere Meinung darüber hat, was der Fokus des Projekts sein soll, möchtest du sie vielleicht ermutigen auf ihren eigenem Fork weiterzuarbeiten.
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+Ein Projekt zu forken muss nicht schlecht sein. Ein Projekt zu kopieren und etwas zu verändern ist einer der besten Dinge, die man mit Open-Source Software machen kann.
+
+Die Mitglieder deiner Community zu ermutigen auf ihrem Fork zu arbeiten kann die kreative Zeit bedeute, die sie brauchen, ohne mit dir über die Vision des Projekts zu diskutieren.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/481677?v=3&s=400" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+  Ich pflege die 80:20 Regel. Wenn du einer von den Speziellen bist, forke bitte meine Arbeit. Ich werde nicht wütend! Meine öffentlichen Projekte sind immer dafür gedacht die wichtigsten Probleme zu lösen; Ich versuche es einfach zu machen um weitere Bereiche abzudecken mit dem Forken meiner Arbeit oder es schlichtweg zu erweitern.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
+Das Selbe gilt für einen Nutzer wo du schlichtweg nicht die Kapazität hast um es zu machen. APIs anzubieten und/oder Benutzerspezifische Einstellungen kann andere helfen, ihren Bedarf zu stillen, ohne den Code direkt zu bearbeiten. @orta [hat rausgefunden](http://artsy.github.io/blog/2016/07/03/handling-big-projects/), dass Leute zu ermutigen Plug-Ins zu erstellen für CocoaPods zu "einigen  der interessantesten Ideen" geführt hat:
 
-> It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
+> Es ist fast unausweichlich dass ein Projekt groß wird, Betreiber müssen deswegen konsversativer werden darüber, wie sie neuen Code möchten. Du wirst gut mit dem „Nein“ sagen, aber viele Leute haben zu Recht Bedürfnisse. Also, hörst du damit auf, dein Werkzeug zu einer kompletten Plattform auszubauen.
 
 ## Bring in the robots
 
