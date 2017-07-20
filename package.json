@@ -34,6 +34,6 @@
     "vfile-statistics": "^1.0.0"
   },
   "dependencies": {
-    "primer-css": "7.0.0-2"
+    "primer-css": "9.0.0"
   }
 }
