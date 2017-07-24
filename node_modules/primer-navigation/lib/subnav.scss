@@ -8,7 +8,7 @@
 
 .subnav-bordered {
   padding-bottom: 20px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid lighten($gray-200, 3%);
 }
 
 .subnav-flush {
@@ -21,8 +21,8 @@
   padding: 6px 14px;
   font-weight: $font-weight-bold;
   line-height: 20px;
-  color: #666;
-  border: 1px solid #e5e5e5;
+  color: $gray-600;
+  border: 1px solid $gray-200;
 
   + .subnav-item {
     margin-left: -1px;
@@ -31,14 +31,14 @@
   &:hover,
   &:focus {
     text-decoration: none;
-    background-color: #f5f5f5;
+    background-color: $gray-100;
   }
 
   &.selected,
   &.selected:hover,
   &.selected:focus {
     z-index: 2;
-    color: #fff;
+    color: $text-white;
     background-color: $bg-blue;
     border-color: $blue;
   }
@@ -63,7 +63,6 @@
   width: 320px;
   padding-left: 30px;
   color: $text-gray;
-  border-color: #d5d5d5;
 }
 
 .subnav-search-input-wide {
@@ -75,14 +74,14 @@
   top: 9px;
   left: 8px;
   display: block;
-  color: #ccc;
+  color: darken($gray-300, 4%);
   text-align: center;
   pointer-events: none;
 }
 
 .subnav-search-context {
   .btn {
-    color: #555;
+    color: $gray-700;
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
 

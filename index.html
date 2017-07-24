@@ -3,7 +3,7 @@ layout: default
 ---
 
 <nav class="main-nav">
-  <div class="container-lg edged mx-auto clearfix">
+  <div class="container-lg mx-auto clearfix">
     <div class="float-sm-right">
       <ul class="main-links d-flex flex-wrap flex-items-stretch border-left border-bottom border-sm-0 list-style-none">
         <li class="d-inline-block border-right">
@@ -20,7 +20,7 @@ layout: default
 <div class="bg-gray-light">
 
   <header class="py-4 py-md-6">
-    <div class="container-lg mx-auto text-center px-3 pt-6">
+    <div class="container-lg p-responsive mx-auto text-center pt-6">
       <h1 class="alt-h1">Open Source Guides</h1>
       <p class="alt-lead text-gray mb-md-5 col-md-8 mx-auto">
         Open source software is made by people just like you. Learn how to launch and grow your project.
@@ -32,8 +32,8 @@ layout: default
     </div>
   </header>
 
-  <div class="container-lg px-3 pb-6">
-    <div class="gut-md d-flex flex-wrap flex-items-stretch pb-md-6">
+  <div class="container-lg p-responsive pb-6">
+    <div class="gutter-sm d-flex flex-wrap flex-items-stretch pb-md-6">
       {% assign articles = site.articles | sort: 'order' %}
       {% for article in articles %}
       <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">

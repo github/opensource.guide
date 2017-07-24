@@ -1,5 +1,8 @@
 // variables
-@import "./lib/variables.scss";
+@import "./lib/variables/typography.scss";
+@import "./lib/variables/colors.scss";
+@import "./lib/variables/layout.scss";
+@import "./lib/variables/misc.scss";
 
 // mixins
 @import "./lib/mixins/typography.scss";

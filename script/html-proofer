@@ -7,7 +7,8 @@ url_ignores = [
   %r{^https://github.com/github/opensource.guide},
   'https://karissa.github.io/post/okf-de',
   'https://this-week-in-rust.org/',
-  'https://www.vagrantup.com/'
+  'https://www.vagrantup.com/',
+  'https://www.quora.com/'
 ]
 
 HTMLProofer::Runner.new(["_site"],

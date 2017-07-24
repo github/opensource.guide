@@ -4,6 +4,7 @@ node_js:
   - 6
 before_install:
   - rvm install 2.3.3
+  - npm install -g npm@5
 install:
   - npm install
   - bundle install
@@ -17,6 +18,7 @@ cache:
   bundler: true
   directories:
     - node_modules
+    - test/node_modules
 # Tell Travis to build gh-pages branch
 # https://docs.travis-ci.com/user/customizing-the-build#Safelisting-or-blocklisting-branches
 branches:
