@@ -1,18 +1,18 @@
 ---
-locale: en-US
-title: Getting Paid for Open Source Work
-description: Sustain your work in open source by getting financial support for your time or your project.
+locale: id-ID
+title: Dibayar untuk Pekerjaan Open Source
+description: Pertahankan pekerjaan Anda pada open source dengan mendapatkan dukungan finansial untuk waktu Anda pada proyek.
 class: getting-paid
 toc:
-  why-some-people-seek-financial-support: "Why some people seek financial support"
-  funding-your-own-time: "Funding your own time"
-  finding-funding-for-your-project: "Finding funding for your project"
-  building-a-case-for-financial-support: "Building a case for financial support"
+  kenapa-beberapa-orang-mencari-dukungan-finansial: "Kenapa beberapa orang mencari dukungan finansial"
+  mendanai-waktu-anda-sendiri: "Mendanai waktu Anda sendiri"
+  mencari-pendanaan-untuk-proyek-anda: "Mencari pendanaan untuk proyek Anda"
+  membangun-kasus-untuk-dukungan-finansial: "Membangun kasus untuk dukungan finansial"
 order: 7
 image: /assets/images/cards/getting-paid.png
 ---
 
-## Why some people seek financial support
+## Kenapa beberapa orang mencari dukungan finansial
 
 Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
 
@@ -62,7 +62,7 @@ Paid work also enables people from different walks of life to make meaningful co
 
 If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
 
-## Funding your own time
+## Mendanai waktu Anda sendiri
 
 Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
 
@@ -106,7 +106,7 @@ Finally, depending on your personal circumstances, you can try raising money ind
 * @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](http://redux.js.org/)
 * @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-## Finding funding for your project
+## Mencari pendanaan untuk proyek Anda
 
 Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
 
@@ -144,7 +144,7 @@ Some software foundations and companies offer grants for open source work. Somet
 
 For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
 
-## Building a case for financial support
+## Membangun kasus untuk dukungan finansial
 
 Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
 
@@ -178,7 +178,7 @@ Does the funder have any requirements around disbursal? For example, you may nee
   </p>
 </aside>
 
-## Experiment and don't give up
+## Eksperimen dan jangan menyerah
 
 Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
 
