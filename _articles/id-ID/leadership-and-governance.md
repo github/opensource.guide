@@ -130,15 +130,15 @@ Jika Anda bagian dari sebuah perusahaan yang merilis proyek open source, maka ak
 
 ## Apa yang terjadi jika karyawan perkantoran mulai mengajukan kontribusi?
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+Proyek open source yang sukses akan digunakan oleh banyak orang dan perusahaan, dan beberapa perusahaan mungkin akan memberikan pendanaan pada proyek. Sebagai contoh, sebuah proyek mungkin menggunakan kode dari proyek sebagai salah satu komponen pada layanan komersialnya.
 
-As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
+Seiring dengan proyek yang semakin banyak digunakan, orang-orang yang memiliki keahlian akan menjadi kebutuhan - Anda mungkin salah satunya! - dan mungkin akan dibayar untuk pekerjaan mereka pada proyek.
 
-It's important to treat commercial activity as normal and as just another source of development energy. Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits. However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+Sangatlah penting untuk memperlakukan aktivitas komersial sebagai sesuatu yang biasa dan merupakan sumber lain dari energi pengembangan. Pengembang yang dibayar tidak perlu mendapatkan perlakuan khusus dibandingkan mereka yang tidak dibayar; tentu saja setiap kontribusi harus dievaluasi berdasarkan kelayakan teknisnya. Meski demikian, orang-orang seharusnya lebih nyaman dengan aktivitas komersial, dan merasa nyaman menyatakan kasus mereka ketika berpendapat tentang peningkatan atau fitur tertentu.
 
-"Commercial" is completely compatible with "open source". "Commercial" just means there is money involved somewhere - that the software is used in commerce, which is increasingly likely as a project gains adoption. (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+"Komersial" sangatlah kompatibel dengan "open source". "Komersial" hanya berarti ada uang yang terlibat didalamnya pada suatu titik - misalnya software yang digunakan pada perdagangan, yang kecenderungannya meningkat setelah proyek banyak diadopsi. (Ketika perangkat lunak open source digunakan sebagai bagian dari produk non open source, secara keseluruhan produk masuk terbilang "proprietary", meskipun, seperti halnya open source, bisa digunakan untuk kepentingan komersial atau non-komersial.)
 
-Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+Seperti halnya orang lain, pengembang yang termotivasi secara komersial mendapatkan pengaruh pada proyek melalui kualitas dan kuantitas dari kontribusinya. Jelas, pengembang yang dibayar untuk waktu mereka bisa melakukan lebih dari mereka yang tidak dibayar, tetapi hal itu sangatlah lumrah: pembayaran hanyalah satu dari banyak faktor yang bisa mempengaruhi seseorang. Pastikan diskusi proyek Anda berfokus pada kontribusi, bukan pada faktor eksternal yang memungkinkan orang untuk membuat kontribusi tersebut.
 
 ## Apakah saya perlu entitas legal untuk mendukung proyek Saya?
 
