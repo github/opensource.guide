@@ -98,19 +98,19 @@ Jika proyek Anda berada pada GitHub, Anda bisa menggunakan [protected branches](
 
 ## Apa struktur pengelolaan yang umum untuk proyek open source?
 
-There are three common governance structures associated with open source projects.
+Terdapat tiga struktur pengelolaan yang umumnya dipakai pada proyek open source.
 
-* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+* **BDFL:** BDFL kependekan dari "Benevolent Dictator for Life". Pada struktur ini, satu orang (biasanya pendiri proyek) memiliki keputusan final terhadap semua keputusan proyek. [Python](https://github.com/python) adalah contoh klasik. Proyek yang lebih kecil biasanya menganut model BDFL secara default, karena hanya terdapat satu atau dua pengelola. Sebuah proyek yang berawal dari sebuah perusahaan juga bisa masuk kedalam kategori BDFL.
 
-* **Meritocracy:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](http://www.apache.org/); [all Apache projects](http://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **Meritokrasi:** **(Catatan: istilah "meritokrasi" memiliki konotasi negatif pada beberapa komunitas dan [sejarah sosial dan politis yang kompleks](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Pada model meritokrasi, kontributor aktif sebuah proyek (mereka yang "layak") diberikan peran dalam pengambilan keputusan formal. Keputusan biasanya dilakukan berdasarkan konsensus voting. Konsep ini diciptakan oleh [Yayasan Apache](http://www.apache.org/); [semua proyek Apache](http://www.apache.org/index.html#projects-list) menganut model ini. Kontribusi hanya dapat dilakukan secara perseorangan mewakili dirinya sendiri, bukan untuk sebuah perusahaan.
 
-* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://nodejs.org/en/foundation/) and [Rust](https://www.rust-lang.org/en-US/).
+* **Kontribusi liberal:** Pada model ini, orang-orang yang banyak melakukan pekerjaan adalah yang dianggap berperan, namun ini berbasiskan pada pekerjaan saat ini dan bukan kontribusi yang lampau. Pengambilan keputusan pada proyek berdasarkan pada proses pencarian konsensus dibandingkan voting murni, dan mencoba melibatkan banyak pandangan dari komunitas. Contoh populer proyek yang menggunakan model ini meliputi [Node.js](https://nodejs.org/en/foundation/) dan [Rust](https://www.rust-lang.org/en-US/).
 
-Which one should you use? It's up to you! Every model has advantages and tradeoffs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
+Mana yang harus Anda gunakan? Semuanya tergantung Anda! Setiap model memiliki kelebihan dan kekurangan. Meskipun pada awalnya mereka tampak berbeda di awal, semua model memiliki banyak kesamaan. Jika Anda tertarik untuk mengadopsi salah satu model tersebut, silahkan lihat beberapa template berikut:
 
-* [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
-* [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Node.js's liberal contribution policy](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
+* [template model BDFL](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
+* [template model meritokrasi](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
+* [kebijakan kontribusi liberal Node.js](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
 
 ## Apakah saya perlu dokumentasi pengelolaan ketika Saya merilis proyek Saya?
 
