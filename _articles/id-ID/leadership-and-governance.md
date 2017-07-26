@@ -114,15 +114,15 @@ Mana yang harus Anda gunakan? Semuanya tergantung Anda! Setiap model memiliki ke
 
 ## Apakah saya perlu dokumentasi pengelolaan ketika Saya merilis proyek Saya?
 
-There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
+Tidak ada waktu terbaik kapan kita harus menuliskan pengelolaan proyek Anda, tetapi akan lebih mudah untuk mendefinisikannya apabila Anda telah melihat dinamika komunitas Anda mulai bermain. Bagian terbaik (dan tersulit) dari pengelolaan open source adalah karena pengelolaan tersebut dibentuk oleh komunitas!
 
-Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch.
+Beberapa dokumentasi awal akan membantu pengelolaan proyek Anda, sehingga mulailah menuliskannya. Sebagai contoh, Anda bisa mendefinisikan harapan yang jelas untuk perilaku, atau bagaimana proses kontributor bekerja, bahkan pada saat Anda merilis proyek Anda.
 
-If you're part of a company launching an open source project, it's worth having an internal discussion before launch about how your company expects to maintain and make decisions about the project moving forward. You may also want to publicly explain anything particular to how your company will (or won't!) be involved with the project.
+Jika Anda bagian dari sebuah perusahaan yang merilis proyek open source, maka akan sangat berguna untuk melakukan diskusi internal tentang bagaimana perusahaan Anda akan mengelola dan mengambil keputusan ketika proyek sudah mulai berkembang. Anda juga mungkin perlu menjelaskan tentang bagaimana perusahaan Anda (tidak) akan terlibat dengan proyek.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/691109?v=3&s=460" class="pquote-avatar" alt="avatar">
-  We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
+  Kami menugaskan kelompok kecil untuk mengelola proyek pada Github di Facebook. Sebagai contoh, React dikelola oleh pengembang React.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
