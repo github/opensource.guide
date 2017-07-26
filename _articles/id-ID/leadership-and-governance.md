@@ -142,20 +142,20 @@ Seperti halnya orang lain, pengembang yang termotivasi secara komersial mendapat
 
 ## Apakah saya perlu entitas legal untuk mendukung proyek Saya?
 
-You don't need a legal entity to support your open source project unless you're handling money.
+Anda tidak perlu entitas legal untuk mendukung proyek open source Anda kecuali Anda mengurusi uang.
 
-For example, if you want to create a commercial business, you'll want to set up a C Corp or LLC (if you're based in the US). If you're just doing contract work related to your open source project, you can accept money as a sole proprietor, or set up an LLC (if you're based in the US).
+Sebagai contoh, jika Anda hendak membuat bisnis komersial, Anda perlu membuat C Corp atau LLC (jika Anda berada di AS). Jika Anda hanya melakukan pekerjaan kontrak berkaitan dengan proyek open source Anda, Anda bisa menerima uang sebagai pemilik tunggal, atau membuat LLC (jika Anda berbasiskan di AS).
 
-If you want to accept donations for your open source project, you can set up a donation button (using PayPal or Stripe, for example), but the money won't be tax-deductible unless you are a qualifying nonprofit (a 501c3, if you're in the US).
+Jika Anda hendak menerima donasi untuk proyek open source Anda, Anda bisa membuat tombol donasi (menggunakan PayPal atau Stripe misalnya), tetapi uang tersebut akan dikurangi pajak kecuali Anda adalah nirlaba (501c3 jika Anda berada di AS).
 
-Many projects don't wish to go through the trouble of setting up a nonprofit, so they find a nonprofit fiscal sponsor instead. A fiscal sponsor accepts donations on your behalf, usually in exchange for a percentage of the donation. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](http://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) are examples of organizations that serve as fiscal sponsors for open source projects.
+Banyak proyek tidak ingin kerepotan untuk membuat nirlaba, sehingga mereka mencari sponsor fiskal nonprofit. Sponsor fiskal menerima donasi untuk Anda, biasanya dengan imbalan beberapa pesen dari donasi. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](http://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) dan [Open Collective](https://opencollective.com/opensource) adalah contoh organisasi yang melayani sebagai sponsor fiskal untuk proyek open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3671070?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
+  Tujuan kami adalah menyediakan infrastruktur yang bisa digunakan oleh komunitas untuk pengelolaan mandiri, sehingga menciptakan sebuah lingkungan dimana setiap orang - kontributor, pendukung, sponsor - bisa menerima keuntungan yang jelas.
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
   </p>
 </aside>
 
-If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.python.org/pypi), the Python package manager, and the [Node.js Foundation](https://nodejs.org/en/foundation/) helps support [Express.js](http://expressjs.com/), a Node-based framework.
+Jika proyek Anda sangat erat hubungannya dengan bahasa atau ekosistem tertentu, seringkali terdapat yayasan yang bisa Anda ajak kerjasama. Sebagai contoh, [Python Software Foundation](https://www.python.org/psf/) membantu [PyPI](https://pypi.python.org/pypi), Python package manager, dan [Node.js Foundation](https://nodejs.org/en/foundation/) membantu [Express.js](http://expressjs.com/), framework berbasis Node.
