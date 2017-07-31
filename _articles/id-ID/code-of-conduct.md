@@ -1,26 +1,26 @@
 ---
-locale: en-US
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+locale: id-ID
+title: Kode Etik Anda
+description: Fasilitasi perilaku komunitas yang sehat dan konstruktif dengan mengadopsi dan menerapkan kode etik.
 class: coc
 toc:
-  why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
-  establishing-a-code-of-conduct: "Establishing a code of conduct"
-  deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
-  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
+  kenapa-saya-perlu-menerapkan-kode-etik: "Kenapa saya perlu menerapkan kode etik?"
+  membuat-kode-etik: "Membuat kode etik"
+  menentukan-bagaimana-anda-akan-menerapkan-kode-etik: "Menentukan bagaimana Anda akan menerapkan kode etik"
+  menerapkan-kode-edtik: "Menerapkan kode etik"
 order: 8
 image: /assets/images/cards/coc.png
 ---
 
-## Why do I need a code of conduct?
+## Kenapa saya perlu menerapkan kode etik?
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+Sebuah kode etik adalah dokumen yang menjelaskan perilaku yang diharapkan dari partisipan proyek Anda. Mengadopsi, dan menerapkan kode etik dapat membantu membuat atmosfir sosial yang positif pada komunitas Anda.
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+Kode etik membantu tidak hanya partisipan Anda, tetapi juga Anda sendiri. Jika Anda mengelola proyek, Anda akan mendapati bahwa tingkah laku tidak produktif dari partisipan lain bisa menguras energi Anda dan Anda merasa tidak bahagia terhadap pekerjaan Anda.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+Kode etik menekankan Anda untuk memfasilitasi perilaku komunitas yang sehat dan konstruktif. Bersifat proaktif mengurangi kecenderungan bahwa Anda atau orang lain akan merasa capek dengan proyek Anda, dan membantu mengambil tindakan apabila seseorang melakukan sesuatu yang tidak Anda setujui.
 
-## Establishing a code of conduct
+## Membuat kode etik
 
 Try to establish a code of conduct as early as possible: ideally, when you first create your project.
 
@@ -62,11 +62,11 @@ Don't forget that someone might want to report a violation about a person who re
 
 For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
 
-## Enforcing your code of conduct
+## Menerapkan kode etik
 
 Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
 
-### Gather information about the situation
+### Mengumpulkan informasi tentang situasi
 
 Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
 
@@ -81,7 +81,7 @@ Before you respond, give yourself time to understand what happened. Read through
   </p>
 </aside>
 
-### Take appropriate action
+### Mengambil tindakan yang sesuai
 
 After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
 
@@ -101,7 +101,7 @@ Sometimes, a resolution cannot be reached. The person in question may become agg
 
 Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
 
-## Your responsibilities as a maintainer
+## Tanggung jawab Anda sebagai pengelola
 
 A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
 
@@ -111,6 +111,6 @@ A report of behavior that doesn't _technically_ violate the code of conduct may 
 
 In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
 
-## Encourage the behavior you want to see in the world 🌎
+## Mendorong perilaku yang Anda harapkan pada dunia 🌎
 
 When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
