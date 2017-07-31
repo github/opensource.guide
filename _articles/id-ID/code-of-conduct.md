@@ -22,20 +22,20 @@ Kode etik menekankan Anda untuk memfasilitasi perilaku komunitas yang sehat dan 
 
 ## Membuat kode etik
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+Cobalah untuk membuat kode etik sedini mungkin: idealnya ketika Anda membuat proyek pertama Anda.
 
-In addition to communicating your expectations, a code of conduct describes the following:
+Selain mengkomunikasikan ekspektasi Anda, kode etik juga menjelaskan beberapa hal berikut:
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+* Dimana kode etik berlaku _(hanya pada masalah dan pull request, atau aktivitas komunitas?)_
+* Kepada siapa kode etik berlaku _(anggota komunitas dan pengelola, tetapi bagaimana dengan sponsor?)_
+* Apa yang terjadi jika seseorang melanggar kode etik
+* Bagaimana seseorang dapat melaporkan pelanggaran
 
-Wherever you can, use prior art. The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+Apabila dimungkinkan, gunakan yang sudah ada. [Contributor Covenant](http://contributor-covenant.org/) adalah kode etik yang bisa digunakan dan sudah digunakan oleh lebih dari 40.000 proyek open source, termasuk Kubernetes, Rails, dan Swift.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
+[Kode etik Django](https://www.djangoproject.com/conduct/) dan [Kode etik Warga](http://citizencodeofconduct.org/) adalah dua contoh kode etik yang bagus.
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and link to it from your README, so it's visible to your community.
+Tempatkan dokumen CODE_OF_CONDUCT pada induk direktori proyek Anda, dan hubungkan dari dokumen README sehingga terlihat dengan jelas oleh komunitas Anda.
 
 ## Deciding how you'll enforce your code of conduct
 
