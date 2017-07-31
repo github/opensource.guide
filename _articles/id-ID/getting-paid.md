@@ -145,33 +145,33 @@ Untuk opsi lebih detail dan studi kasus, @nayafia [menuliskan panduan](https://g
 
 ## Membangun kasus untuk dukungan finansial
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+Apakah proyek Anda merupakan ide baru, atau sudah ada sejak beberapa tahun, Anda perlu menekankan tentang mengindentifikasi siapa target donatur Anda dan membuat sebuah kasus yang menarik.
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+Terlepas dari apakah Anda mencari pendanaan untuk waktu Anda sendiri atau mencari pendanaan untuk proyek, Anda harus mampu menjawab pertanyaan berikut.
 
-### Impact
+### Pengaruh
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+Kenapa proyek ini berguna? Kenapa pengguna Anda menyukainya? Akan dibawa kemana dalam lima tahun kedepan?
 
-### Traction
+### Daya tarik
 
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+Cobalah mengumpulkan barang bukti yang menunjukkan bahwa proyek Anda memang berarti, baik dalam bentuk metrik, anekdot, atau testimoni. Apakah ada perusahaan atau orang-orang yang cukup terkenal menggunakan proyek Anda saat ini? Jika tidak, apakah ada orang yang menyarankannya?
 
-### Value to funder
+### Nilai bagi donatur
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+Pemberi dana, baik perusahaan atau yayasan pemberi hibah, seringkali didekati dengan banyak kesempatan. Kenapa mereka harus mendukung proyek Anda dibandingkan proyek lain? Bagaimana mereka bisa mendapatkan keuntungan pribadi?
 
-### Use of funds
+### Penggunaan dana
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+Apa yang akan Anda raih dengan dana yang diajukan? Fokuslah pada tonggakan proyek atau hasil keluaran dibandingkan untuk membayar gaji.
 
-### How you'll receive the funds
+### Bagaimana Anda akan menerima dana
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+Apakah pemberi dana memiliki persyaratan? Misalnya Anda harus bersifat nirlaba atau memiliki sponsor dana nirlaba. Atau misalnya dana harus diberikan pada kontraktor individu dan bukan pada organisasi. Kebutuhan ini akan berbeda diantara pemberi dana, jadi pastikan Anda melakukan pekerjaan Anda terlebih dahulu.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1076721?v=3&s=460" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  Bertahun-tahun kami menjadi sumber daya unggulan untuk ikon website yang ramah, dengan jumlah komunitas lebih dari 20 juta orang dan telah ditampilkan di lebih dari 70 juta halaman web, termasuk Whitehouse.gov. (...) Versi 4 dikembangkan tiga tahun yang lalu. Teknologi web telah banyak berubah semenjak itu, dan jujur, Font Awesome tampak stagnan. (...) Itulah sebabnya kami memperkenalkan Font Awesome 5. Kami melakukan modernisasi dan menuliskan ulang CSS dan merancang ulang semua ikon dari atas ke bawah. Kami menawarkan desain  yang lebih baik, konsisten, dan mudah dibaca.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
@@ -179,6 +179,6 @@ Does the funder have any requirements around disbursal? For example, you may nee
 
 ## Eksperimen dan jangan menyerah
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+Mendapatkan pendanaan tidaklah mudah, baik untuk proyek open source, nirlaba, atau startup perangkat lunak, dan pada banyak kasus, Anda harus kreatif. mengindentifikasi bagaimana Anda hendak didanai, melakukan riset, dan menempatkan diri Anda pada penyandang dana akan membantu Anda membangun kasus yang meyakinkan untuk pendanaan.
 
 >
