@@ -64,47 +64,47 @@ Jika Anda mencari dukungan finansial, terdapat dua jalan yang bisa dipertimbangk
 
 ## Mendanai waktu Anda sendiri
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
+Saat ini, banyak orang dibayar untuk bekerja secara paruh waktu atau penuh pada open source. Cara yang paling umum untuk mendapatkan pendanaan untuk waktu Anda adalah berbicara dengan yang mempekerjakan Anda.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+Akan lebih mudah untuk mendiskusikan proyek open source jika yang mempekerjakan Anda menggunakan proyek tersebut, tetapi tetap kreatiflah dalam usaha negosiasi Anda. Mungkin mereka tidak menggunakan proyek tersebut, tetapi mereka menggunakan Python, dan mengelola proyek Python yang populer akan membantu mengundang pengembang Python yang baru. Mungkin hal ini membuat perusahaan Anda lebih ramah terhadap pengembang secara umum.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+  Seperti halnya yang lain pada open source, saya mendapatkan masalah dengan beban mengelola sebuah proyek. Ketika saya pertama kalinya melakukan open source, saya biasa lembur untuk mengerjakannya atau ketika saya pulang ke rumah. (...) Saya mampu mendiskusikannya dengan pimpinan saya tentang isu yang saya alami dan kami mendapatkan ide tentang bagaimana kami dapat menyertakan tugas open source pada penggunaan Babel kami sendiri.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
-If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
+Jika Anda tidak memiliki proyek open source yang ingin Anda kerjakan, tetapi Anda berharap pekerjaan Anda saat ini dibuat dalam bentuk open source, ajukan ke perusahaan Anda untuk membuka perangkat lunak internal mereka pada open source.
 
-Many companies are developing open source programs to build their brand and recruit quality talent.
+Banyak perusahaan mengembangkan program open source untuk membangun citra mereka dan merekrut talenta berkualitas.
 
-@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](http://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
+@hueniverse, misalnya, menemukan bahwa terdapat alasan finansial untuk mendukung [investasi Walmart pada open source](http://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). @jamesgpearce juga menemukan bahwa program open source milik Facebook [membuat perbedaan](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) dalam proses perekrutan:
 
-> It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
+> Hal ini terkait erat dengan budaya hacker kami, dan bagaimana organisasi kami dipandang. Kami menanyakan pada karyawan kami, "Apakah Anda sadar tentang program pengembang open source pada Facebook?". Dua pertiga menjawab "Ya". Setengah mengatakan bahwa program  tersebut berkontribusi positif terhadap keputusan mereka untuk bekerja pada Facebook. Itu bukan angka marginal, dan saya berharap menjadi sebuah tren yang berkelanjutan.
 
-If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
+Jika perusahaan Anda mengikuti rute ini, merupakan hal yang penting untuk menjaga batas antar aktivitas komunitas dan korporasi. Akhirnya, open source bertahan melalui kontribusi dari orang-orang diseluruh dunia, dan itu sesuatu yang lebih besar dari satu perusahaan atau lokasi.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1445228?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
+  Dibayar untuk bekerja pada open source adalah kesempatan yang langka dan indah, tetapi Anda tidak boleh menyerah pada minat Anda dalam prosesnya. Minat Anda harus menjadi alasan kenapa perusahaan mau membayar Anda.
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
 </aside>
 
-If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
+Jika Anda tidak mampu meyakinkan perusahaan untuk memprioritaskan pekerjaan open source, pertimbangkan untuk mencari perusahaan lain yang mendorong kontribusi karyawan pada open source. Cari perusahaan yang mendedikasikan pada pekerjaan open source secara eksplisit. Sebagai contoh:
 
-* Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](http://paypal.github.io/), have websites that highlight their involvement in open source
-* [Rackspace](https://www.rackspace.com/en-us) published its [open source contribution policy](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) for employees
+* Beberapa perusahaan, seperti [Netflix](https://netflix.github.io/) atau [PayPal](http://paypal.github.io/), memiliki halaman web yang menunjukan keterlibatan mereka pada open source
+* [Rackspace](https://www.rackspace.com/en-us) mempublikasikan [kebijakan kontribusi open source](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) bagi pegawai
 
-Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
+Proyek-proyek yang berasal dari perusahaan besar, seperti [Go](https://github.com/golang) atau [React](https://github.com/facebook/react), juga akan memperkerjakan orang-orang untuk bekerja pada open source.
 
-Finally, depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
+Akhirnya, melihat dari kondisi pribadi Anda, Anda bisa mencoba mengumpulkan uang secara mandiri untuk mendanai proyek open source Anda. Sebagai contoh:
 
-* @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](http://redux.js.org/)
-* @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* @gaearon mendanai pekerjaannya pada [Redux](https://github.com/reactjs/redux) melalui [kampanye Patreon crowdfunding](http://redux.js.org/)
+* @andrewgodwin mendanai pekerjaan pada migrasi skema Django [melalui kampanye Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
 ## Mencari pendanaan untuk proyek Anda
 
