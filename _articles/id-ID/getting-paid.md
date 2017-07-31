@@ -14,53 +14,53 @@ image: /assets/images/cards/getting-paid.png
 
 ## Kenapa beberapa orang mencari dukungan finansial
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+Banyak dari pekerjaan open source adalah sukarela. Sebagai contoh, seseorang mungkin menemukan sebuah kesalahan dalam sebuah proyek yang mereka gunakan dan mengirimkan sebuah perbaikan, atau mereka menikmati menggunakan proyek open source dalam waktu senggang mereka.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/2894642?v=3&s=460" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+Saya sedang mencari proyek pemrograman sebagai "hobi" yang bisa membuat saya sibuk saat menjelang Natal. (...) Saya memiliki komputer dirumah dan tidak banyak yang bisa dikerjakan. Saya memutuskan untuk menulis sebuah penterjemah untuk bahasa pemrograman script yang sudah saya pikirkan belakangan ini. (...) Saya memilih Python sebagai judul pekerjaan saya.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
+Terdapat banyak alasan kenapa seseorang tidak ingin dibayar untuk pekerjaan open source mereka.
 
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+* **Mereka sudah memiliki pekerjaan yang mereka sukai,** yang memungkinkan mereka berkontribusi pada open source di waktu senggang mereka.
+* **Mereka menikmati pemikiran open source sebagai hobi** atau pelampiasan kreatif dan tidak ingin terikat secara finansial untuk bekerja pada proyek mereka.
+* **Mereka mendapatkan keuntungan lainnya untuk berkontribusi pada open source,** seperti membangun reputasi atau portofolio mereka, mempelajari ketrampilan baru, atau merasa lebih dekat pada komunitas.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/2320?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  Donasi finansial memang menambahkan perasaan tanggung jawab untuk beberapa orang. (...) Merupakan sesuatu yang penting bagi kami yang hidup pada dunia yang sangat cepat dan terkoneksi secara global untuk bisa mengatakan "belum waktunya, saya merasa melakukan sesuatunya dengan cara yang berbeda".
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
+Bagi orang lain, terutama bagi membutuhkan waktu yang cukup signifikan untuk kontribusi mereka, mendapatkan dana untuk berkontribusi pada open source adalah satu-satunya cara mereka untuk bisa berpartisipasi, entah karena proyek tersebut membutuhkannya, atau karena alasan pribadi.
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+Mengelola proyek yang terkenal merupakan tanggung jawab besar, yang membutuhkan waktu 10 atau 20 jam per minggu dibandingkan beberapa jam setiap bulannya.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  Tanyakan kepada sembarang pengelola proyek open source, dan mereka akan memberikan informasi tentang realitas pekerjaan yang diperlukan untuk mengelola sebuah proyek. Anda memiliki klien. Anda memperbaiki masalah untuk mereka. Anda menciptakan fitur baru. Hal ini membutuhkan waktu Anda.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time. This has ethical implications, as @ashedryden [has described](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), since work that is done is biased in favor of those who already have advantages in life, who then gain additional advantages based on their volunteer contributions, while others who are not able to volunteer then don't get later opportunities, which reinforces the current lack of diversity in the open source community.
+Pekerjaan yang dibayar juga memungkinkan orang-orang dari berbagai latar belakang untuk membuat kontribusi yang berarti. Beberapa orang tidak bisa meluangkan waktu tanpa dibayar pada proyek open source, mengingat posisi finansial mereka, hutang, atau tanggung jawab mengelola keluarga. Hal ini berarti dunia tidak akan melihat kontribusi dari orang-orang bertalenta yang tidak mampu menyumbangkan waktu mereka secara sukarela. Hal ini meiliki implikasi etika, seperti [yang dijelaskan](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) @ashedryden, karena pekerjaan yang dilakukan bias terhadap mereka yang telah memiliki keuntungan dalam hidupnya, yang kemudian mendapatkan keuntungan tambahan karena kontribusi sukarela mereka, sedangkan orang lain yang tidak mampu meluangkan waktunya tidak mendapatkan kesempatan lainnya, sehingga mengakibatkan kurangnya perbedaan pada komunitas open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+   OSS menghasilkan keuntungan yang besar pada industri teknologi, yang akan menguntungkan semua industri. (...) Namun, jika satu-satunya orang yang bisa berfokus padanya adalah orang yang beruntung dan terobsesi, maka terdapat potensi yang sangat besar.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+Jika Anda mencari dukungan finansial, terdapat dua jalan yang bisa dipertimbangkan. Anda bisa mendanai sendiri sebagai kontributor, atau Anda mencari organisasi pendanaan untuk proyek Anda.
 
 ## Mendanai waktu Anda sendiri
 
