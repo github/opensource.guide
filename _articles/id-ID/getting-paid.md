@@ -108,41 +108,40 @@ Akhirnya, melihat dari kondisi pribadi Anda, Anda bisa mencoba mengumpulkan uang
 
 ## Mencari pendanaan untuk proyek Anda
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+Diluar pengelolaan untuk kontributor individual, seringkali beberapa proyek mencari pendanaan dari perusahaan, individual, atau yang lain untuk mendanai pekerjaan yang berlangsung.
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+Organisasi pendanaan mungkin akan mendanai kontributor yang ada, mulai dari pembiayaan operasional (seperti biaya hosting), atau investasi pada fitur atau ide baru.
 
-As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
+Seiring dengan popularitas open source, menemukan pendanaan untuk proyek masih bersifat eksperimental, tetapi terdapat beberapa opsi umum yang tersedia.
 
-### Raise money for your work through crowdfunding campaigns or sponsorships
+### Mencari pendanaan untuk pekerjaan Anda melalui kampanye crowdfunding atau sponsor
 
-Finding sponsorships works well if you have a strong audience or reputation already, or your project is very popular.
-A few examples of sponsored projects include:
+Mencari sponsor bisa dilakukan jika Anda memiliki pengguna atau reputasi yang kuat, atau proyek Anda sangat populer. Beberapa proyek yang disponsori meliputi:
 
-* **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[webpack](https://github.com/webpack)** mendapatkan pendanaan dari perusahaan dan perseorangan [melalui OpenCollective](https://opencollective.com/webpack)
+* **[Vue](https://github.com/vuejs/vue)** [didanai melalui Patreon](https://github.com/open-source/stories/yyx990803)
+* **[Ruby Together](https://rubytogether.org/),** organisasi nirlaba yang membayar untuk bekerja pada [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), dan proyek infrastruktur Ruby lainnya.
 
-### Create a revenue stream
+### Menciptakan pendapatan
 
-Depending on your project, you may be able to charge for commercial support, hosted options, or additional features. A few examples include:
+Anda mungkin memberikan tambahan biaya untuk dukungan komersial, opsi hosting, atau fitur tambahan lainnya, tergantung dari proyek Anda. Beberapa contoh diantaranya:
 
-* **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
-* **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
-* **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
+* **[Sidekiq](https://github.com/mperham/sidekiq)** menawarkan versi berbayar untuk dukungan tambahan
+* **[Travis CI](https://github.com/travis-ci)** menawarkan versi berbayar untuk produknya
+* **[Ghost](https://github.com/TryGhost/Ghost)** bersifat nirlaba dengan layanan pembayaran
 
-Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+Beberapa proyek yang populer, seperti [npm](https://github.com/npm/npm) dan [Docker](https://github.com/docker/docker), bahkan mengajukan pendanaan pada venture capital untuk mendukung pertumbuhan bisnisnya.
 
-### Apply for grant funding
+### Mengajukan hibah pendanaan
 
-Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
+Beberapa yayasan perangkat lunak dan perusahaan menawarkan hibah untuk pekerjaan open source. Seringkali hibah bisa dibayarkan pada individu tanpa perlu membuat entitas legal untuk proyek.
 
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
-* **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
-* The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
+* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** menerima hibah dari [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
+* **[OpenMRS](https://github.com/openmrs)** didanai oleh [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
+* **[Libraries.io](https://github.com/librariesio)** menerima hibah dari [Sloan Foundation](https://sloan.org/programs/digital-technology)
+* **[Python Software Foundation](https://www.python.org/psf/grants/)** menawarkan hibah untuk pekerjaan yang berhubungan dengan Python.
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+Untuk opsi lebih detail dan studi kasus, @nayafia [menuliskan panduan](https://github.com/nayafia/lemonade-stand) untuk mendapatkan pendanaan dari pekerjaan open source. Jenis pendanaan yang berbeda akan membutuhkan ketrampilan yang berbeda, sehingga tentukan kekuatan Anda untuk menentukan opsi mana yang paling sesuai untuk Anda.
 
 ## Membangun kasus untuk dukungan finansial
 
