@@ -37,30 +37,30 @@ Apabila dimungkinkan, gunakan yang sudah ada. [Contributor Covenant](http://cont
 
 Tempatkan dokumen CODE_OF_CONDUCT pada induk direktori proyek Anda, dan hubungkan dari dokumen README sehingga terlihat dengan jelas oleh komunitas Anda.
 
-## Deciding how you'll enforce your code of conduct
+## Menentukan bagaimana Anda akan menerapkan kode etik
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  Kode etik yang tidak (bisa) diterapkan jauh lebih jelek dibandingkan tanpa kode etik sama sekali: hal ini mengirimkan pesan bahwa nilai dari kode etik tidaklah penting atau dihargai pada komunitas Anda.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+Anda harus menjelaskan bagaimana kode etik Anda akan diterapkan **_sebelum_** pelanggaran terjadi. Terdapat beberapa alasan:
 
-* It demonstrates that you are serious about taking action when it's needed.
+* Hal ini mendemonstrasikan bahwa Anda serius untuk mengambil tindakan apabila diperlukan.
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* Komunitas Anda akan merasa lebih terjamin apabila komplain akan direview.
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* Anda meyakinkan komunitas Anda bahwa proses review berjalan dengan adil dan transparan, apabila mereka mendapati dirinya diinvestigasi terhadap sebuah pelanggaran.
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+Anda harus memberikan sebuah jalan yang pribadi (seperti alamat email) untuk melaporkan pelanggaran kode etik dan menjelaskan siapa yang menerima laporan tersebut. Penerima laporan bisa jadi pengelola, sekelompok orang pengelola, atau tim kode etik.
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Jangan lupa bahwa seseorang mungkin melaporkan pelanggaran terhadap orang yang akan menerima laporan tersebut. Pada kasus ini, berikan opsi untuk melaporkan pelanggaran pada orang lain. Misalnya, @ctb dan @mr-c [menjelaskan pada proyek mereka](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> Perilaku kasar, melecehkan, atau perilaku lainnya yang tidak dapat diterima dapat dilaporkan dengan mengirimkan email pada **khmer-project@idyll.org** yang akan sampai pada C. Titus Brown dan Michael R. Crusoe. Untuk melaporkan masalah pada salah satu dari mereka, kirimkan email pada **Judi Brown Clarke, Ph.D.** Direktur  Diversity pada BEACON Center untuk Studi Evolusi, sebuah pusat studi NSF untuk Ilmu Pengetahuan dan Teknologi.*
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+Sebagai inspirasi, lihat [manual penerapan](https://www.djangoproject.com/conduct/enforcement-manual/) Django  (meskipun Anda mungkin tidak perlu sedetail ini, tergantung dari ukuran proyek Anda).
 
 ## Menerapkan kode etik
 
