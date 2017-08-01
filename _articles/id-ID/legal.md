@@ -1,25 +1,25 @@
 ---
-locale: en-US
-title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+locale: id-ID
+title: Sisi Hukum dari Open Source
+description: Segala sesuatu yang pernah Anda tanyakan tentang sisi hukum open source, dan beberapa hal yang tidak Anda inginkan
 class: legal
 toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"
-  are-public-github-projects-open-source: "Are public GitHub projects open source?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Just give me the TL;DR on what I need to protect my project"
-  which-open-source-license-is-appropriate-for-my-project: "Which open source license is appropriate for my project?"
-  what-if-i-want-to-change-the-license-of-my-project: "What if I want to change the license of my project?"
-  does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
-  what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
+  kenapa-orang-orang-begitu-perhatian-terhadap-sisi-hukum-dari-open-source: "Kenapa orang-orang begitu perhatian terhadap sisi hukum dari open source?"
+  apakah-proyek-publik-github-open-source: "Apakah proyek publik GitHub open source?"
+  berikan-ringkasan-tentang-apa-yang-saya-perlukan-untuk-menjaga-proyek-saya: "Berikan ringkasan tentang apa yang saya perlukan untuk menjaga proyek saya"
+  lisensi-open-source-mana-yang-sesuai-untuk-proyek-saya: "Lisensi open source mana yang sesuai untuk proyek saya?"
+  bagaimana-jika-saya-hendak-mengubah-lisensi-proyek-saya: "Bagaimana jika saya hendak mengubah lisensi proyek saya?"
+  apakah-proyek-saya-membutuhkan-perjanjian-kontributor-tambahan: "Apakah proyek saya membutuhkan perjanjian kontributor tambahan?"
+  apa-yang-perlu-diketahui-tim-kuasa-hukum-perusahaan-saya: "Apa yang perlu diketahui tim kuasa hukum perusahaan saya?"
 order: 10
 image: /assets/images/cards/legal.png
 ---
 
-## Understanding the legal implications of open source
+## Memahami implikasi hukum dari open source
 
-Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about. Thankfully, you don't have to start from scratch. We've got your legal needs covered. (Before you dig in, be sure to read our [disclaimer](../notices/).)
+Membagikan pekerjaan kreatif Anda kepada dunia bisa menjadi sebuah pengalaman yang menarik dan berharga. Hal ini juga bisa berarti beberapa masalah hukum yang tidak Anda pikirkan sebelumnya. Untungnya, Anda tidak harus memulainya dari nol. Kami akan membahas beberapa masalah hukum yang Anda perlukan. (Sebelum Anda masuk lebih dalam, pastikan baca [Peringatan](../notices/).)
 
-## Why do people care so much about the legal side of open source?
+## Kenapa orang-orang begitu perhatian terhadap sisi hukum dari open source?
 
 Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
 
@@ -31,17 +31,17 @@ If you don't apply an open source license, everybody who contributes to your pro
 
 Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
 
-## Are public GitHub projects open source?
+## Apakah proyek publik GitHub open source?
 
 When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
 
-![create repository](/assets/images/legal/repo-create-name.png)
+![create repository](https://willysr.github.io/id-opensource.guide/assets/images/legal/repo-create-name.png)
 
 **Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
 
 If you want others to use, copy, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
 
-## Just give me the TL;DR on what I need to protect my project.
+## Berikan ringkasan tentang apa yang saya perlukan untuk menjaga proyek saya.
 
 You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
 
@@ -57,7 +57,7 @@ When you create a new project on GitHub, you'll be [asked to add a license](http
   </p>
 </aside>
 
-## Which open source license is appropriate for my project?
+## Lisensi open source mana yang sesuai untuk proyek saya?
 
 If you're starting from a blank slate, it's hard to go wrong with the [MIT License](https://choosealicense.com/licenses/mit/). It's short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including your copyright notice. You'll be able to release the project under a different license if you ever need to.
 
@@ -77,7 +77,7 @@ Your **company** may have specific licensing requirements for its open source pr
 
 When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you'd like to see other options, check out [choosealicense.com](https://choosealicense.com) to find the right license for your project, even if it [isn't software](https://choosealicense.com/non-software/).
 
-## What if I want to change the license of my project?
+## Bagaimana jika saya hendak mengubah lisensi proyek saya?
 
 Most projects never need to change licenses. But occasionally circumstances change.
 
@@ -87,11 +87,12 @@ For example, as your project grows it adds dependencies or users, or your compan
 
 **Your project's existing license.** If your project's existing license is compatible with the license you want to change to, you could just start using the new license. That's because if license A is compatible with license B, you'll comply with the terms of A while complying with the terms of B (but not necessarily vice versa). So if you're currently using a permissive license (e.g., MIT), you could change to a license with more conditions, so long as you retain a copy of the MIT license and any associated copyright notices (i.e., continue to comply with the MIT license's minimal conditions). But if your current license is not permissive (e.g., copyleft, or you don't have a license) and you aren't the sole copyright holder, you couldn't just change your project's license to MIT. Essentially, with a permissive license the project's copyright holders have given permission in advance to change licenses.
 
-**Your project's existing copyright holders.** If you're the sole contributor to your project then either you or your company is the project's sole copyright holder. You can add or change to whatever license you or your company wants to. Otherwise there may be other copyright holders that you need agreement from in order to change licenses. Who are they? People who have commits in your project is a good place to start. But in some cases copyright will be held by those people's employers. In some cases people will have only made _de minimis_ contributions, but there's no hard and fast rule that contributions under some number of lines of code are not subject to copyright. What to do? It depends. For a relatively small and young project, it may be feasible to get all existing contributors to agree to a license change in an issue or pull request. For large and long-lived projects, you may have to seek out many contributors and even their heirs. Mozilla took years (2001-2006) to relicense Firefox, Thunderbird, and related software.
+**Your project's existing copyright holders.** If you're the sole contributor to your project then either you or your company is the project's sole copyright holder. You can add or change to whatever license you or your company wants to. Otherwise there may be other copyright holders that you need agreement from in order to change licenses. Who are they? People who have commits in your project is a good place to start. But in some cases copyright will be held by those people's employers. In some cases people will have only made _de minimis_ contributions, but there's no hard and fast rule that contributions under some number of lines of code are not subject to copyright. What to do? It depends. For a relatively small and young project, it may be feasible to get all existing contributors to agree to a license change in an issue or pull request. For large and long-lived projects, you may have to seek out many contributors and even their heirs. Mozilla took years (2001-2006) to relicense Firefox, Thunderbird, 
+and related software.
 
 Alternatively, you can have contributors agree in advance (via an additional contributor agreement -- see below) to certain license changes under certain conditions, beyond those allowed by your existing open source license. This shifts the complexity of changing licenses a bit. You'll need more help from your lawyers up front, and you'll still want to clearly communicate with your project's stakeholders when executing a license change.
 
-## Does my project need an additional contributor agreement?
+## Apakah proyek saya membutuhkan perjanjian kontributor tambahan?
 
 Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license. If your project is on GitHub, the GitHub Terms of Service make "inbound=outbound" the [explicit default](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
 
@@ -116,7 +117,7 @@ Some situations where you may want to consider an additional contributor agreeme
 
 If you do need to use an additional contributor agreement with your project, consider using an integration such as [CLA assistant](https://github.com/cla-assistant/cla-assistant) to minimize contributor distraction.
 
-## What does my company's legal team need to know?
+## "Apa yang perlu diketahui tim kuasa hukum perusahaan saya
 
 If you're releasing an open source project as a company employee, first, your legal team should know that you're open sourcing a project.
 
