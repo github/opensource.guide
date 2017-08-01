@@ -21,15 +21,15 @@ Membagikan pekerjaan kreatif Anda kepada dunia bisa menjadi sebuah pengalaman ya
 
 ## Kenapa orang-orang begitu perhatian terhadap sisi hukum dari open source?
 
-Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
+Kami senang Anda bertanya! Ketika Anda membuat pekerjaan kreatif (seperti menulis, grafis, atau kode), hasil karya tersebut berada dibawah hak cipta eksklusif secara default. Maksudnya, hukum mengasumsikan bahwa sebagai pencipta hasil karya Anda, Anda memiliki hak untuk menentukan apa yang boleh dilakukan oleh orang lain terhadap hasil karya Anda.
 
-In general, that means nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
+Secara umum, hal itu berarti tidak ada seorangpun yang dapat menggunakan, menyalin, mendistribusikan, atau memodifikasi hasil karya Anda tanpa terkena masalah hukum.
 
-Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
+Open source adalah sebuah kondisi yang tidak lazim, karena sang pencipta justru mengharapkan bahwa orang lain akan menggunakan, memodifikasi, dan membagikan pekerjaan mereka. Tetapi karena secara dasar hukum masih hak cipta eksklusif, Anda perlu sebuah lisensi yang menjelaskan secara eksplisit tentang hak akses ini.
 
-If you don't apply an open source license, everybody who contributes to your project also becomes an exclusive copyright holder of their work. That means nobody can use, copy, distribute, or modify their contributions -- and that "nobody" includes you.
+Jika Anda tidak menerapkan sebuah lisensi open source, semua orang yang berkontribusi terhadap proyek Anda juga menjadi pemilik hak cipta eksklusif dari pekerjaan mereka. Hal itu berarti tidak ada seorangpun yang boleh menggunakan, menyalin, mendistribusikan, atau memodifikasi kontribusi mereka -- dan itu termasuk Anda.
 
-Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
+Akhirnya, proyek Anda mungkin memiliki ketergantungan dengan kebutuhan lisensi yang tidak Anda sadari sebelumnya. Komunitas proyek atau kebijakan perusahaan Anda mungkin juga memaksa proyek Anda untuk menggunakan lisensi open source yang spesifik. Kami akan membahas situasi-situasi tersebut
 
 ## Apakah proyek publik GitHub open source?
 
