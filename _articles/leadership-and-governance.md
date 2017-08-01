@@ -12,6 +12,9 @@ toc:
   do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
 order: 6
 image: /assets/images/cards/leadership.png
+related:
+  - best-practices
+  - metrics
 ---
 
 ## Understanding governance for your growing project

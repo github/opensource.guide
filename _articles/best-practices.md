@@ -12,8 +12,8 @@ toc:
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
-  - building
-  - coc
+  - metrics
+  - leadership
 ---
 
 ## What does it mean to be a maintainer?

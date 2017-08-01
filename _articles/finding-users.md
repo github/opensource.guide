@@ -11,6 +11,9 @@ toc:
   build-a-reputation: "Build a reputation"
 order: 3
 image: /assets/images/cards/finding.png
+related:
+  - beginners
+  - building
 ---
 
 ## Spreading the word

@@ -10,6 +10,9 @@ toc:
   your-pre-launch-checklist: "Your pre-launch checklist"
 order: 2
 image: /assets/images/cards/beginner.png
+related:
+  - finding
+  - building
 ---
 
 ## The "what" and "why" of open source

@@ -10,6 +10,9 @@ toc:
   maintainer-activity: "Maintainer activity"
 order: 9
 image: /assets/images/cards/metrics.png
+related:
+  - finding
+  - best-practices
 ---
 
 ## Why measure anything?
