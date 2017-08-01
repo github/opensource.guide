@@ -36,23 +36,23 @@ Jika Anda _memang_ tertarik untuk memahami proyek Anda pada level yang lebih dal
 
 ## Penemuan
 
-Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
+Sebelum setiap orang bisa menggunakan atau berkontribusi pada proyek Anda, mereka perlu tahu bahwa proyek itu ada. Tanyakan pada diri Anda: _apakah orang-orang menemukan proyek ini?_
 
 ![traffic graph](https://willysr.github.io/id-opensource.guide/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Graphs", then "Traffic". On this page, you can see:
+Jika proyek Anda berada di GitHub, [Anda dapat melihat](https://help.github.com/articles/about-repository-graphs/#traffic) berapa banyak orang yang sampai pada proyek Anda dan darimana mereka berasal. Dari halaman proyek Anda, klik "Graphs", lalu "Traffic". Pada halaman ini, Anda bisa melihat:
 
-* **Total pageviews:** Tells you how many times your project was viewed
+* **Total pageviews:** Menginformasikan berapa banyak proyek Anda dilihat
 
-* **Total unique visitors:** Tells you how many people viewed your project
+* **Total unique visitors:** Menginformasikan berapa banyak orang yang melihat proyek Anda
 
-* **Referring sites:** Tells you where visitors came from. This metric can help you figure out where to reach your audience and whether your promotion efforts are working.
+* **Referring sites:** Menginformasikan darimana pengunjung Anda berasal. Metrik ini bisa membantu Anda untuk mencari tahu dimana mencapai pengguna Anda dan apakah usaha promosi Anda berjalan dengan baik.
 
-* **Popular content:** Tells you where visitors go on your project, broken down by pageviews and unique visitors.
+* **Popular content:** Menginformasikan kemana pengunjung Anda melakuan navigasi pada proyek Anda, dilihat dari pageviews dan pengunjung unik.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
+[GitHub stars](https://help.github.com/articles/about-stars/) juga bisa membantu menyediakan pengukuran dasar dari popularitas. Meskipun GitHub stars tidak serta-merta mengkorelasikan pada jumlah download dan penggunaan, informasi dari GitHub stars dapat menginformasikan berapa banyak orang yang memperhatikan pekerjaan Anda.
 
-You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
+Anda mungkin ingin [melacak temuan pada tempat khusus](https://opensource.com/business/16/6/pirate-metrics): misalnya, Google PageRank, trafik referensi dari halaman web proyek Anda, atau referensi dari proyek open source dan website.
 
 ## Penggunaan
 
