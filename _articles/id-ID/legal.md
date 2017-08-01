@@ -43,15 +43,15 @@ Jika Anda menginginkan orang lain untuk bisa menggunakan, menyalin, memodifikasi
 
 ## Berikan ringkasan tentang apa yang saya perlukan untuk menjaga proyek saya.
 
-You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
+Anda beruntung, karena saat ini lisensi open source sudah terstandarisasi dan mudah digunakan. Anda cukup menyalin dan menggunakan lisensi yang sudah ada pada proyek Anda.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](https://choosealicense.com/).
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), dan [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) adalah lisensi open source yang paling populer, tetapi terdapat opsi lain yang dapat Anda pilih. Anda bisa menemukan teks lengkap dari lisensi tersebut, termasuk instruksi bagaimana menggunakannya pada [choosealicense.com](https://choosealicense.com/).
 
-When you create a new project on GitHub, you'll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
+Ketika Anda menciptakan proyek baru pada GitHub, Anda akan [diminta untuk menambahkan lisensi](https://help.github.com/articles/open-source-licensing/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/282759?v=3&s=400" class="pquote-avatar" alt="avatar">
-  A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
+  Sebuah lisensi yang terstandarisasi berfungsi sebagai jembatan bagi mereka yang tidak memiliki pelatihan hukum untuk tahu secara pasti apa yang mereka bisa dan tidak bisa lakukan dengan perangkat lunak. Apabila memungkinkan, hindari istilah yang aneh, modifikasi, atau tidak standar, yang akan menjadi penghambat bagi orang lain untuk menggunakan kode Anda.
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
