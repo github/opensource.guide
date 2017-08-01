@@ -103,14 +103,14 @@ Melarang anggota tidak boleh dianggap sepele dan merepresentasikan perbedaan per
 
 ## Tanggung jawab Anda sebagai pengelola
 
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
+Kode etik bukanlah hukum yang diberlakukan secara sewenang-wenang. Anda adalah orang yang memberlakukan kode etik dan hal itu merupakan tanggung jawab Anda untuk mengikuti aturan yang ditetapkan oleh kode etik.
 
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+Sebagai pengelola, Anda membuat panduan untuk komunitas Anda dan memberlakukan panduan tersebut sesuai dengan aturan yang ditetapkan pada kode etik. Hal ini berarti memproses laporan pelanggaran kode etik secara serius. Pelapor berhak mendapatkan review yang adil terhadap komplain mereka. Jika Anda menentukan bahwa perilaku yang dilaporkan bukanlah sebuah pelanggaran, komunikasikan kepada mereka dan jelaskan mengapa Anda tidak melakukan tindakan apapun. Apa yang akan mereka lakukan terhadap keputusan Anda merupakan hak mereka: mentolerasi perilaku yang tidak sesuai atau berhenti berpartisipasi pada komunitas.
 
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+Sebuah laporan tentang perilaku yang secara _teknis_ melanggar kode etik masih tetap mengindikasikan bahwa ada masalah pada komunitas Anda, dan Anda harus menginvestigasi masalah ini. Hal ini mungkin termasuk merevisi kode etik untuk mengklarifikasi perilaku yang dapat diterima dan/atau berbicara pada orang yang dilaporkan dan memberitahukan bahwa meskipun mereka tidak melanggar kode etik, mereka membuat partisipan lain menjadi tidak nyaman.
 
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
+Akhirnya, sebagai pengelola, Anda menentukan dan menerapkan standar untuk perilaku yang dapat diterima.  Anda memiliki kemampuan untuk mengubah nilai komunitas pada proyek dan partisipan mengharapkan Anda untuk menerapkan nilai-nilai tersebut dengan cara yang adil.
 
 ## Mendorong perilaku yang Anda harapkan pada dunia 🌎
 
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+Ketika sebuah proyek tampak tidak ramah, meskipun hanya satu orang yang dapat ditoleransi oleh anggota lain, Anda memiliki resiko untuk kehilangan banyak kontributor. Bukanlah perkara mudah untuk mengadopsi dan menerapkan kode etik, tetapi mengembangkan lingkungan yang ramah akan membantu komunitas Anda untuk berkembang.
