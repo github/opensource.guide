@@ -7,7 +7,7 @@ toc:
   kenapa-mengukur-segalanya: "Kenapa mengukur segalanya?"
   penemuan: "Penemuan"
   usage: "Usage"
-  penyimpanan: "Penyimpanan"
+  mempertahankan: "Mempertahankan"
   maintainer-activity: "Maintainer activity"
 order: 9
 image: /assets/images/cards/metrics.png
@@ -77,31 +77,31 @@ Cobalah untuk mencari tahu darimana asal pengguna Anda dan mintalah masukan pada
 
 Setelah Anda tahu bahwa orang-orang menggunakan proyek Anda, Anda mungkin mencoba mencari tahu apa yang mereka lakukan dengan proyek Anda. Apakah mereka membangunnya dengan melakukan fork pada kode Anda dan menambahkan fitur baru? Apakah mereka menggunakannya untuk ilmu pengetahuan atau bisnis?
 
-## Penyimpanan
+## Mempertahankan
 
-People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to this project?_
+Orang-orang menemukan proyek Anda dan menggunakannya. Pertanyaan berikutnya yang harus Anda tanyakan pada diri Anda adalah: _apakah orang-orang berkontribusi balik pada proyek?_
 
-It's never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is _popular_ (many people use it) but not _supported_ (not enough maintainer time to meet demand).
+Tidak pernah terlambat untuk mulai berpikir tentang kontributor. Tanpa mereka, Anda beresiko menempatkan posisi Anda pada situasi yang tidak sehat dimana proyek Anda _terkenal_ (banyak orang menggunakannya) tetapi tidak _didukung_ (tidak cukup jumlah pengelola untuk memenuhi kebutuhan).
 
-Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
+Mempertahankan juga membutuhkan [masukan kontributor baru](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), karena kontributor aktif sebelumnya akan berpindah pada hal yang lain.
 
-Examples of community metrics that you may want to regularly track include:
+Contoh dari metrik komunitas yang perlu Anda perhatikan secara berkala meliputi:
 
-* **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Graphs" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
+* **Jumlah total kontributor dan commit per kontributor:** Menginformasikan berapa banyak kontributor yang Anda miliki, dan siapa yang lebih atau kurang aktif. Pada GitHub, Anda bisa melihat informasi ini pada "Graphs" -> "Contributors." Saat ini, grafik ini hanya menghitung kontributor yang telah melakukan commit pada branch default dari repositori.
 
 ![contributor graph](https://willysr.github.io/id-opensource.guide/assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
+* **Kontributor perdana, umum, dan rutin:** Membantu Anda melacak apakah Anda mendapatkan kontributor baru, dan apakah mereka kembali. (Kontributor umum adalah kontributor dengan jumlah commit yang rendah. Apakah itu satu, kurang dari lima, atau jumlah commit lain sesuai definisi Anda.) Tanpa kontributor baru, komunitas proyek Anda menjadi stagnan.
 
-* **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
+* **Jumlah laporan masalah dan pull request yang masih terbuka:** Jika jumlah ini terlalu tinggi, Anda mungkin perlu bantuan untuk membereskan masalah dan review kode.
 
-* **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
+* **Jumlah laporan masalah dan pull request yang _dilaporkan_:** Laporan masalah yang dilaporkan mengindikasikan seseorang cukup perhatian terhadap proyek Anda untuk melaporkannya. Jika jumlah ini meningkat terus, hal ini mengindikasikan bahwa orang-orang tertarik dengan proyek Anda.
 
-* **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
+* **Jenis kontribusi:** Sebagai contoh, commit, memperbaiki kesalahan ketik atau kesalahan program, atau memberikan komentar pada sebuah laporan masalah.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/4483" class="pquote-avatar" alt="avatar">
-  Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+  Open source lebih dari sekedar kode. Proyek open source yang sukses meliputi kontribusi kode dan dokumentasi bersama dengan diskusi tentang perubahan ini.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
