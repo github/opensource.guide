@@ -109,21 +109,21 @@ Contoh dari metrik komunitas yang perlu Anda perhatikan secara berkala meliputi:
 
 ## Aktivitas pengelola
 
-Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
+Akhirnya, Anda ingin memastikan pengelola proyek Anda mampu menangani jumlah kontribusi yang diterima. Pertanyaan terakhir yang ingin Anda tanyakan pada diri Anda adalah: _apakah saya (atau kami) merespon terhadap komunitas kami?_
 
-Unresponsive maintainers become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave.
+Pengelola yang tidak responsif menjadi penghambat bagi proyek open source. Jika seseorang mengirimkan sebuah kontribusi tetapi tidak pernah mendapatkan respon dari pengelola, mereka mungkin merasa diabaikan dan pada akhirnya meninggalkan proyek Anda.
 
-[Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
+[Penelitian dari Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) menyarankan bahwa tingkat responsif pengelola merupakan faktor penting dalam mendorong kontributor yang berulang.
 
-Consider tracking how long it takes for you (or another maintainer) to respond to contributions, whether an issue or a pull request. Responding doesn't require taking action. It can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
+Pertimbangkan untuk melacak berapa lama bagi Anda (atau pengelola lain) untuk merespon  terhadap kontribusi, baik laporan masalah atau pull request. Merespon tidak berarti mengambil tindakan. Merespon bisa sesederhana seperti : _"Terima kasih atas kontribusi Anda! Saya akan melakukan review dalam minggu depan."_
 
-You could also measure the time it takes to move between stages in the contribution process, such as:
+Anda juga bisa mengukur waktu yang dibutuhkan untuk berpindah dari satu fase ke fase lain pada proses kontribusi, seperti:
 
-* Average time an issue remains open
-* Whether issues get closed by PRs
-* Whether stale issues get closed
-* Average time to merge a pull request
+* Waktu rata-rata sebuah laporan masalah tetap terbuka
+* Apakah laporan masalah ditutup oleh PRs
+* Apakah laporan masalah yang stagnan akhirnya ditutup
+* Waktu rata-rata untuk melakukan merge sebuah pull request
 
 ## Gunakan 📊 untuk belajar tentang orang
 
-Understanding metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
+Memahami metrik akan membantu Anda membangun proyek open source yang aktif dan berkembang. Meskipun Anda tidak melacak setiap metrik pada sebuah _dashboard_, gunakan kerangka diatas untuk memfokuskan perhatian Anda pada jenis perilaku yang akan membantu proyek Anda bertahan.
