@@ -30,7 +30,7 @@ Mulailah dengan dokumentasi Anda:
 * **Permudah orang lain untuk menggunakan proyek Anda.** [README yang ramah](../starting-a-project/#menulis-dokumen-readme) dan contoh kode yang jelas akan mempermudah siapapun untuk bisa langsung menggunakan proyek Anda.
 * **Jelaskan dengan jelas bagaimana berkontribusi**, menggunakan [dokumen CONTRIBUTING Anda](../starting-a-project/#menulis-panduan-kontribusi-anda) dan menjaga laporan permasalahan terus diperbarui.
 
-Dokumentasi yang baik akan mengundang orang untuk berinteraksi dengan proyek Anda. Pada akhirnya, seseorang akan membuat laporan permasalahan atau pull request. Gunakan interaksi ini sebagai kesempatan untuk menggiring mereka ke bagian bawah dari saluran.
+[Survei Open Source GitHub 2017](http://opensourcesurvey.org/2017/) menunjukkan dokumentasi yang tidak lengkap atau membingungkan adalah masalah terbesar bagi pengguna open source. Dokumentasi yang baik akan mengundang orang untuk berinterasi dengan proyek Anda. Akhirnya seseorang akan membuka laporan masalah atau mengirimkan pull request. Gunakan interaksi ini sebagai kesempatan untuk memindahkan mereka ke bagian bawah.
 
 * **Ketika orang baru hadir pada proyek Anda, ucapkan terima kasih!** Cukup satu pengalaman negatif untuk membuat orang tidak ingin kembali.
 * **Responsif.** Jika Anda tidak merespon laporan permasalahan selama satu bulan, kemungkinan besar mereka sudah melupakan proyek Anda.
