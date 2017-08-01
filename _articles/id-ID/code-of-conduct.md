@@ -64,18 +64,18 @@ Sebagai inspirasi, lihat [manual penerapan](https://www.djangoproject.com/conduc
 
 ## Menerapkan kode etik
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+Seringkali, terlepas dari usaha Anda, seseorang akan melakukan pelanggaran terhadap kode etik. Terdapat beberapa cara untuk menyelesaikan perilaku negatif ketika hal itu terjadi.
 
 ### Mengumpulkan informasi tentang situasi
 
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+Perlakukan setiap suara anggota komunitas sama pentingnya seperti suara Anda sendiri. Jika Anda menerima laporan bahwa seseorang melanggar kode etik, perlakukan dengan serius dan investigasi hal tersebut, meskipun hal itu tidak sesuai dengan pengalaman Anda dengan orang tersebut. Dengan melakukan hal ini, Anda memberikan tanda kepada komunitas Anda bahwa Anda menghargai perspektif dan mempercayai penilaian mereka.
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+Anggota komunitas yang melanggar mungkin orang yang melakukannya berulang-ulang dan membuat orang lain menjadi tidak nyaman, atau mereka mungkin melakukannya hanya sekali. Kedua kasus tersebut bisa menjadi dasar untuk mengambil tindakan, tergantung dari konteks.
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+Sebelum Anda merespon, berikan Anda waktu untuk memahami apa yang terjadi. Baca komentar dan percakapan orang tersebut di masa lampau untuk memahami siapa mereka dan mengapa mereka bertindak seperti itu. Cobalah untuk mendapatkan perspektif diluar perspektif Anda sendiri tentang orang ini dan perilaku mereka.
 
 <aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  Jangan terbawa pada argumentasi. Jangan terpengaruh dengan perilaku orang lain sebelum Anda menyelesaikan satu masalah. Fokus pada apa yang Anda perlukan.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
@@ -83,23 +83,23 @@ Before you respond, give yourself time to understand what happened. Read through
 
 ### Mengambil tindakan yang sesuai
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+Setelah mengumpulkan dan memproses informasi yang cukup, Anda perlu memutuskan apa yang akan Anda lakukan. Ketika Anda mempertimbangkan langkah selanjutnya, ingatlah bahwa tujuan Anda sebagai moderator adalah untuk mengembangkan lingkungan yang aman, saling menghargai, dan kolaboratif. Pertimbangkan untuk tidak hanya memikirkan kondisi yang sedang ditangani, tetapi bagaimana respon Anda akan mempengaruhi perilaku komunitas Anda dan ekspektasi untuk masa depan.
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+Ketika seseorang melaporkan pelanggaran kode etik, hal itu merupakan tugas Anda, bukan mereka untuk menanganinya. Seringkali, pelapor membuka informasi yang bisa membahayakan karir, reputasi, atau keamanan fisik mereka. Memaksa mereka untuk mengkonfrontasi pelaku bisa menempatkan pelapor pada posisi yang membahayakan. Anda harus menangani komunikasi langsung dengan pelapor, kecuali pelapor meminta secara eksplisit.
 
-There are a few ways you might respond to a code of conduct violation:
+Terdapat beberapa cara untuk merespon pada pelanggaran kode etik:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **Berikan peringatan publik** dan jelaskan bagaimana perilaku mereka mempengaruhi orang lain secara negatif pada media tempat pelanggaran itu terjadi. Ketika memungkinkan, komunikasi publik memberikan tanda pada komunitas bahwa Anda menganggap kode etik secara serius. Harap sopan, tetapi tegas pada komunikasi Anda.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* **Hubungi orang tersebut secara pribadi** untuk menjelaskan bagaimana perilaku mereka mempengaruhi orang lain secara negatif. Anda mungkin akan menggunakan media komunikasi pribadi jika situasinya melibatkan informasi pribadi. Jika Anda berkomunikasi dengan seseorang secara pribadi, merupakan ide yang bagus untuk menggunakan CC kepada mereka yang melaporkan situasinya, sehingga mereka tahu bahwa Anda mengambil tindakan. Konfirmasikan kepada pelapor sebelum memberikan CC kepada mereka.
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+Seringkali, sebuah resolusi tidak dapat tercapai. Tersangka menjadi agresif dan bertindak kasar ketika dikonfrontasi atau tidak mengubah perilakunya. Pada situasi ini, Anda mungkin bisa mempertimbangkan tindakan yang lebih tegas. Sebagai contoh:
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+* **Skorsing** dari proyek, yang dilakukan melalui larangan sementara pada setiap partisipasi aspek proyek
 
-* **Permanently ban** the person from the project
+* **Larangan permanen** dari proyek
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+Melarang anggota tidak boleh dianggap sepele dan merepresentasikan perbedaan perspektif yang permanen. Anda harus mengambil tindakan ketika resolusi tidak dapat dicapai.
 
 ## Tanggung jawab Anda sebagai pengelola
 
