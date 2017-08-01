@@ -93,28 +93,28 @@ Alternatif lain, Anda bisa mendapatkan persetujuan kontributor di awal (melalui 
 
 ## Apakah proyek saya membutuhkan perjanjian kontributor tambahan?
 
-Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license. If your project is on GitHub, the GitHub Terms of Service make "inbound=outbound" the [explicit default](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
+Kemungkinan tidak. Untuk sebagian besar proyek open source, lisensi open source secara implisit berfungsi sebagai lisensi inbound (dari kontributor) dan outbound (bagi kontributor dan pengguna lainnya). Jika proyek Anda berada pada GitHub, Perjanjian Layanan GitHub membuat aturan "inbound=outbound" [default secara eksplisit](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
 
-An additional contributor agreement -- often called a Contributor License Agreement (CLA) -- can create administrative work for project maintainers. How much work an agreement adds depends on the project and implementation. A simple agreement might require that contributors confirm, with a click, that they have the rights necessary to contribute under the project open source license. A more complicated agreement might require legal review and sign-off from contributors' employers.
+Sebuah perjanjian kontributor tambahan -- seringkali disebut Contributor License Agreement (CLA) -- bisa menimbulkan pekerjaan administratif tambahan bagi pengelola proyek. Seberapa banyak pekerjaan tersebut tergantung dari proyek dan implementasinya. Sebuah perjanjian yang sederhana mungkin meminta kontributor untuk melakukan konfirmasi dengan satu klik, bahwa mereka memiliki hak yang cukup untuk berkontribusi dibawah lisensi open source.  Perjanjian yang lebih kompleks mungkin membutuhkan review hukum dan tanda tangan dari perusahaan yang memperkerjakan kontributor tersebut.
 
-Also, by adding "paperwork" that some believe is unnecessary, hard to understand, or unfair (when the agreement recipient gets more rights than contributors or the public do via the project's open source license), an additional contributor agreement may be perceived as unfriendly to the project's community.
+Juga, dengan menambahkan "pekerjaan administratif" yang dipercaya oleh sebagian orang sebagai sesuatu yang tidak perlu, susah dipahami, atau tidak adil (ketika penerima perjanjian mendapatkan lebih banyak hak dibandingkan kontributor atau publik melalui lisensi open source), sebuah perjanjian kontributor tambahan juga dipandang sebagai sesuatu yang tidak ramah bagi komunitas proyek.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/328614?v=3&s=460" class="pquote-avatar" alt="avatar">
-    We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base.
+    Kami telah menghilangkan CLA untuk Node.js. Dengan melakukan hal ini akan mengurangi hambatan bagi kontributor Node.js untuk bergabung sehingga memperluas area basis kontributor.
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
-Some situations where you may want to consider an additional contributor agreement for your project include:
+Beberapa situasi dimana Anda ingin mempertimbangkan perjanjian kontributor tambahan pada proyek Anda meliputi:
 
-* Your lawyers want all contributors to expressly accept (_sign_, online or offline) contribution terms, perhaps because they feel the open source license itself is not enough (even though it is!). If this is the only concern, a contributor agreement that affirms the project's open source license should be enough. The [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) is a good example of a lightweight additional contributor agreement. For some projects, a [Developer Certificate of Origin](https://github.com/probot/dco) can be an even simpler alternative.
-* Your project uses an open source license that does not include an express patent grant (such as MIT), and you need a patent grant from all contributors, some of whom may work for companies with large patent portfolios that could be used to target you or the project's other contributors and users. The [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf) is a commonly used additional contributor agreement that has a patent grant mirroring the one found in the Apache License 2.0.
-* Your project is under a copyleft license, but you also need to distribute a proprietary version of the project. You'll need every contributor to assign copyright to you or grant you (but not the public) a permissive license. The [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement) is an example this type of agreement.
-* You think your project might need to change licenses over its lifetime and want contributors to agree in advance to such changes.
+* Pengacara Anda ingin semua kontributor menerima perjanjian kontribusi (_tandatangan_, online atau offline), karena mereka merasa lisensi open source tidaklah cukup (meskipun sebenarnya sudah!). Jika ini merupakan satu-satunya alasan, sebuah perjanjian kontributor yang mengakui lisensi open source sudahlah cukup. [Perjanjian Lisensi Kontributor Individual jQuery](https://contribute.jquery.org/CLA/) adalah contoh bagus dari perjanjian kontributor tambahan yang sederhana. Untuk beberapa proyek [Developer Certificate of Origin](https://github.com/probot/dco) mungkin menjadi alternatif yang lebih sederhana.
+* Proyek Anda menggunakan lisensi open source yang tidak menyertakan ijin patent (seperti MIT), dan Anda perlu pengajuan patent dari semua kontributor, beberapa diantaranya yang mungkin bekerja pada perusahaan dengan portofolio paten yang besar yang bisa digunakan untuk menyerang Anda atau kontributor atau pengguna proyek Anda. [Perjanjian Lisensi Kontributor Individual Apache](https://www.apache.org/licenses/icla.pdf) adalah perjanjian kontributor tambahan yang sering dipakai dan memiliki ijin penggunaan patent mengikuti apa yang bisa ditemukan pada lisensi Apache 2.0.
+* Proyek Anda berada dibawah lisensi copyleft, tetapi Anda juga perlu mendistribusikan versi tertutup dari proyek Anda. Anda mungkin perlu meminta setiap kontributor untuk menyatakan hak cipta kepada Anda atau memberikan ijin kepada Anda (tetapi bukan kepada publik) sebuah lisensi yang bersifat _permissive_. [Perjanjian Kontributor MongoDB](https://www.mongodb.com/legal/contributor-agreement) adalah contoh jenis perjanjian ini.
+* Anda berpikir proyek Anda perlu mengubah lisensi dikemudian hari dan ingin para kontributor untuk menyetujuinya di awal terhadap perubahan tersebut.
 
-If you do need to use an additional contributor agreement with your project, consider using an integration such as [CLA assistant](https://github.com/cla-assistant/cla-assistant) to minimize contributor distraction.
+Jika Anda membutuhkan perjanjian kontributor tambahan pada proyek Anda, pertimbangkan untuk menggunakan integrasi seperti [asisten CLA](https://github.com/cla-assistant/cla-assistant) untuk meminimalkan gangguan pada kontributor.
 
 ## "Apa yang perlu diketahui tim kuasa hukum perusahaan saya
 
