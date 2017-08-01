@@ -59,7 +59,7 @@ Ketika Anda menciptakan proyek baru pada GitHub, Anda akan [diminta untuk menamb
 
 ## Lisensi open source mana yang sesuai untuk proyek saya?
 
-Jika Anda baru memulai, disarankan untuk menggunakan[Lisensi MIT](https://choosealicense.com/licenses/mit/). Lisensi ini pendek, mudah dipahami, dan mengijinkan setiap orang untuk melakukan apapun selama mereka mempertahankan salinan dari lisensi, termasuk catatan hak cipta Anda. Anda bisa merilis proyek pada lisensi yang berbeda jika diperlukan.
+Jika Anda baru memulai, disarankan untuk menggunakan [Lisensi MIT](https://choosealicense.com/licenses/mit/). Lisensi ini pendek, mudah dipahami, dan mengijinkan setiap orang untuk melakukan apapun selama mereka mempertahankan salinan dari lisensi, termasuk catatan hak cipta Anda. Anda bisa merilis proyek pada lisensi yang berbeda jika diperlukan.
 
 Jika Anda tidak memulai dari nol, memilih lisensi open source yang sesuai sangat bergantung dari tujuan Anda.
 

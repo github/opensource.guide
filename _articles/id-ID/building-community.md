@@ -35,7 +35,7 @@ Mulailah dengan dokumentasi Anda:
 * **Ketika orang baru hadir pada proyek Anda, ucapkan terima kasih!** Cukup satu pengalaman negatif untuk membuat orang tidak ingin kembali.
 * **Responsif.** Jika Anda tidak merespon laporan permasalahan selama satu bulan, kemungkinan besar mereka sudah melupakan proyek Anda.
 * **Terbuka terhadap jenis kontribusi yang Anda terima.** Banyak kontributor memulai dengan melaporkan permasalahan atau perbaikan sederhana. Terdapat [banyak cara untuk berkontribusi](../how-to-contribute/#apa-artinya-berkontribusi) pada sebuah proyek. Biarkan orang membantu sesuai keinginan mereka untuk membantu.
-* **Jika terdapat kontribusi yang tidak Anda setujui,** ucapkan terima kasih atas idenya dan [jelaskan kenapa](../best-practices/#learning-to-say-no) ide tersebut tidak sesuai dengan proyek, dan menghubungkan dengan dokumen yang relevan jika Anda memilikinya.
+* **Jika terdapat kontribusi yang tidak Anda setujui,** ucapkan terima kasih atas idenya dan [jelaskan kenapa](../best-practices/#belajar-untuk-mengatakan-tidak) ide tersebut tidak sesuai dengan proyek, dan menghubungkan dengan dokumen yang relevan jika Anda memilikinya.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -123,7 +123,7 @@ Lakukan yang terbaik untuk mengadopsi kebijakan tanpa toleransi terhadap orang-o
 
 Debat pada hal-hal kecil bisa menganggu yang lain, termasuk Anda dari pekerjaan penting. Orang baru yang hadir pada proyek Anda mungkin melihat diskusi ini dan tidak jadi berpartisipasi.
 
-Ketika Anda melihat perilaku negatif terjadi pada proyek Anda, hentikan segera. Jelaskan dengan cara yang sopan tetapi tegas kenapa perilaku semacam ini tidak dapat diterima. Jika hal ini masih berlanjut, Anda bisa saja [meminta mereka untuk pergi](../code-of-conduct/#enforcing-your-code-of-conduct). [Kode etik](../code-of-conduct/) Anda bisa menjadi panduan yang konstruktif untuk diskusi semacam ini.
+Ketika Anda melihat perilaku negatif terjadi pada proyek Anda, hentikan segera. Jelaskan dengan cara yang sopan tetapi tegas kenapa perilaku semacam ini tidak dapat diterima. Jika hal ini masih berlanjut, Anda bisa saja [meminta mereka untuk pergi](../code-of-conduct/#menerapkan-kode-etik). [Kode etik](../code-of-conduct/) Anda bisa menjadi panduan yang konstruktif untuk diskusi semacam ini.
 
 ### Temui kontributor dimana mereka berada
 
