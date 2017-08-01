@@ -5,9 +5,38 @@ var unified = require('unified');
 
 // Remark stuff (markdown)
 var parse = require('remark-parse');
-var lint = require('remark-lint');
 var remark2retext = require('remark-retext');
 var stringify = require('remark-stringify');
+var frontmatter = require('remark-frontmatter');
+var lint = require('remark-lint');
+var headingStyle = require('remark-lint-heading-style');
+var firstHeadingLevel = require('remark-lint-first-heading-level');
+var headingIncrement = require('remark-lint-heading-increment');
+var maximumHeadingLength = require('remark-lint-maximum-heading-length');
+var noDuplicateHeadings = require('remark-lint-no-duplicate-headings');
+var noMultipleToplevelHeadings = require('remark-lint-no-multiple-toplevel-headings');
+var listItemIndent = require('remark-lint-list-item-indent');
+var listItemBulletIndent = require('remark-lint-list-item-bullet-indent');
+var listItemContentIndent = require('remark-lint-list-item-content-indent');
+var unorderedListMarkerStyle = require('remark-lint-unordered-list-marker-style');
+var orderedListMarkerStyle = require('remark-lint-ordered-list-marker-style');
+var emphasisMarker = require('remark-lint-emphasis-marker');
+var strongMarker = require('remark-lint-strong-marker');
+var blockquoteIndentation = require('remark-lint-blockquote-indentation');
+var noMissingBlankLines = require('remark-lint-no-missing-blank-lines');
+var noConsecutiveBlankLines = require('remark-lint-no-consecutive-blank-lines');
+var finalNewline = require('remark-lint-final-newline');
+var noAutoLinkWithoutProtocol = require('remark-lint-no-auto-link-without-protocol');
+var noBlockquoteWithoutMarker = require('remark-lint-no-blockquote-without-marker');
+var noLiteralUrls = require('remark-lint-no-literal-urls');
+var hardBreakSpaces = require('remark-lint-hard-break-spaces');
+var noDuplicateDefinitions = require('remark-lint-no-duplicate-definitions');
+var noHeadingContentIndent = require('remark-lint-no-heading-content-indent');
+var noInlinePadding = require('remark-lint-no-inline-padding');
+var noShortcutReferenceImage = require('remark-lint-no-shortcut-reference-image');
+var noShortcutReferenceLink = require('remark-lint-no-shortcut-reference-link');
+var noUndefinedReferences = require('remark-lint-no-undefined-references');
+var noUnusedDefinitions = require('remark-lint-no-unused-definitions');
 
 // Retext stuff (prose)
 var english = require('retext-english');
@@ -53,52 +82,56 @@ if(process.env.FULL_PROSE_CHECK) {
 
 // Markdown checking pipeline.
 var markdown = unified()
-  .use(parse)
+  .use(parse, {footnotes: true})
+  .use(stringify)
+  .use(frontmatter, 'yaml')
+
   // https://github.com/wooorm/remark-lint/blob/master/doc/rules.md
-  .use(lint, {
-    // Headings
-    headingStyle: 'atx',             // ## Headings
-    firstHeadingLevel: 2,            // Page title is h1, so start with h2
-    headingIncrement: true,
-    maximumHeadingLength: 80,        // FIXME: Eventually remove this
-    noDuplicateHeadings: true,
-    noMultipleToplevelHeadings: true,
+  .use(lint)
 
-    // Lists
-    listItemIndent: 'space',         // As the gods intended.
-    listItemBulletIndent: true,
-    listItemContentIndent: true,
-    unorderedListMarkerStyle: '*',
-    orderedListMarkerStyle: '.',
+  // Headings
+  .use(headingStyle, 'atx')       // ## Headings
+  .use(firstHeadingLevel, 2)      // Page title is h1, so start with h2
+  .use(headingIncrement)
+  .use(maximumHeadingLength, 80)  // FIXME: Eventually remove this
+  .use(noDuplicateHeadings)
+  .use(noMultipleToplevelHeadings)
 
-    // Misc
-    emphasisMarker: '_',
-    strongMarker: '*',
-    blockquoteIndentation: 2,
-    noMissingBlankLines: {exceptTightLists: true},
-    noConsecutiveBlankLines: true,
-    finalNewline: true,
-    noAutoLinkWithoutProtocol: true,
-    noBlockquoteWithoutCaret: true,
-    noLiteralUrls: true,
+  // Lists
+  .use(listItemIndent, 'space')    // As the gods intended.
+  .use(listItemBulletIndent)
+  .use(listItemContentIndent)
+  .use(unorderedListMarkerStyle, '*')
+  .use(orderedListMarkerStyle, '.')
 
-    // Mistakes
-    hardBreakSpaces: true,
-    noDuplicateDefinitions: true,
-    noHeadingContentIndent: true,
-    noInlinePadding: true,
-    noShortcutReferenceImage: true,
-    noShortcutReferenceLink: true,
-    noUndefinedReferences: true,
-    noUnusedDefinitions: true,
-  })
-  .use(remark2retext, prose)
-  .use(stringify);
+  // Misc
+  .use(emphasisMarker, '_')
+  .use(strongMarker, '*')
+  .use(blockquoteIndentation, 2)
+  .use(noMissingBlankLines, {exceptTightLists: true})
+  .use(noConsecutiveBlankLines)
+  .use(finalNewline)
+  .use(noAutoLinkWithoutProtocol)
+  .use(noBlockquoteWithoutMarker)
+  .use(noLiteralUrls)
+
+  // Mistakes
+  .use(hardBreakSpaces)
+  .use(noDuplicateDefinitions)
+  .use(noHeadingContentIndent)
+  .use(noInlinePadding)
+  .use(noShortcutReferenceImage)
+  .use(noShortcutReferenceLink)
+  .use(noUndefinedReferences)
+  .use(noUnusedDefinitions)
+
+  // Prose
+  .use(remark2retext, prose);
 
 async.map(ignore.filter(glob.sync('_articles/**/*.md')), function(filePath, callback) {
   vfile.read(filePath, function(err, file) {
     if(err) return callback(err);
-    markdown.process(file, {footnotes: true}, callback);
+    markdown.process(file, callback);
   });
 }, function (err, results) {
   console.log(report(results));
