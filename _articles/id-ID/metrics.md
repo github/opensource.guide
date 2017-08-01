@@ -28,7 +28,7 @@ Dengan informasi yang lebih banyak, Anda bisa:
 
 Sebagai contoh, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) menemukan bahwa Google Analytics membantu mereka dalam memprioritaskan pekerjaan:
 
-> Homebrew disediakan secara gratis dan dijalankan sepenuhnya oleh sukarelawan dalam waktu senggang mereka. Sebagai hasilnya, kami tidak memiliki sumber daya untuk melakukan studi pengguna dari pengguna Homebrew untuk menentukan mendesain fitur baru dan memprioritaskan pekerjaan. Analisa agregasi pengguna anonim memampukan kami untuk memprioritaskan perbaikan dan fitur berbasiskan pada bagaimana, dimana, dan kapan orang-orang menggunakan.
+> Homebrew disediakan secara gratis dan dijalankan sepenuhnya oleh sukarelawan dalam waktu senggang mereka. Sebagai hasilnya, kami tidak memiliki sumber daya untuk melakukan studi pengguna dari pengguna Homebrew untuk menentukan mendesain fitur baru dan memprioritaskan pekerjaan. Analisa agregasi pengguna anonim memampukan kami untuk memprioritaskan perbaikan dan fitur berbasiskan pada bagaimana, dimana, dan kapan orang-orang menggunakan proyek ini.
 
 Popularitas bukanlah segalanya. Semua orang masuk pada open source untuk alasan yang berbeda-beda. Jika tujuan Anda sebagai pengelola open source adalah untuk menunjukan hasil pekerjaan Anda, bersikaplah transparan tentang kode Anda, atau jika hanya untuk hiburan, metrik mungkin tidaklah penting bagi Anda.
 
@@ -56,26 +56,26 @@ Anda mungkin ingin [melacak temuan pada tempat khusus](https://opensource.com/bu
 
 ## Penggunaan
 
-People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using this project?_
+Orang-orang menemukan proyek Anda pada sesuatu yang kita sebut dengan Internet. Idealnya, ketika mereka melihat proyek Anda, mereka akan tertarik untuk melakukan sesuatu. Pertanyaan kedua yang ingin Anda tanyakan adalah: _apakah orang-orang menggunakan proyek ini?_
 
-If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project's downloads.
+Jika Anda menggunakan perangkat manajemen paket, seperti npm atau RubyGems.org, untuk mendistribusikan proyek Anda, Anda bisa melacak jumlah total download dari proyek Anda.
 
-Each package manager may use a slightly different definition of "download", and downloads do not necessarily correlate to installs or use, but it provides some baseline for comparison. Try using [Libraries.io](https://libraries.io/) to track usage statistics across many popular package managers.
+Setiap perangkat manajemen paket mungkin menggunakan definisi "download" yang berbeda, dan jumlah download tidak langsung berkorelasi dengan installasi atau penggunaan, tetapi informasi ini menyediakan dasar untuk perbandingan. Cobalah untuk menggunakan [Libraries.io](https://libraries.io/) untuk melacak statistik pada banyak perangkat manajemen paket.
 
-If your project is on GitHub, navigate again to the "Traffic" page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
+Jika proyek Anda berada pada GitHub, kunjungi halaman "Traffic". Anda bisa menggunakan [clone graph](https://github.com/blog/1873-clone-graphs) untuk melihat berapa kali proyek Anda telah di-clone pada hari tertentu, dipecah pada jumlah clone dan orang-orang yang melakukan clone secara unik.
 
 ![clone graph](https://willysr.github.io/id-opensource.guide/assets/images/metrics/clone_graph.png)
 
-If usage is low compared to the number of people discovering your project, there are two issues to consider. Either:
+Jika penggunaan ternyata rendah dibandingkan jumlah orang yang menemukan proyek Anda, terdapat dua hal yang perlu dipertimbangkan:
 
-* Your project isn't successfully converting your audience, or
-* You're attracting the wrong audience
+* Proyek Anda tidak sukses dalam mengkonversi pengguna Anda, atau
+* Anda menarik pengguna yang salah
 
-For example, if your project lands on the front page of Hacker News, you'll probably see a spike in discovery (traffic), but a lower conversion rate, because you're reaching everyone on Hacker News. If your Ruby project is featured at a Ruby conference, however, you're more likely to see a high conversion rate from a targeted audience.
+Sebagai contoh, jika proyek Anda muncul pada halaman depan dari Hacker News, Anda mungkin melihat kenaikan pada bagian traffic, tetapi nilai konversi yang rendah, karena Anda mendekati semua orang pada Hacker News. Jika proyek Ruby Anda muncul pada konferensi Ruby, Anda mungkin akan melihat nilai konversi yang tinggi dari pengguna yang ditargetkan.
 
-Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you're facing.
+Cobalah untuk mencari tahu darimana asal pengguna Anda dan mintalah masukan pada halaman proyek Anda untuk menentukan manakah diantara dua masalah tersebut yang Anda alami.
 
-Once you know that people are using your project, you might want to try to figure out what they are doing with it. Are they building on it by forking your code and adding features? Are they using it for science or business?
+Setelah Anda tahu bahwa orang-orang menggunakan proyek Anda, Anda mungkin mencoba mencari tahu apa yang mereka lakukan dengan proyek Anda. Apakah mereka membangunnya dengan melakukan fork pada kode Anda dan menambahkan fitur baru? Apakah mereka menggunakannya untuk ilmu pengetahuan atau bisnis?
 
 ## Penyimpanan
 
