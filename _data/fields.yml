@@ -23,3 +23,6 @@ order:
   type: Integer
 
 image: {}
+
+related:
+  type: Array
