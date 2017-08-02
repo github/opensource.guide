@@ -11,6 +11,9 @@ toc:
   what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 order: 1
 image: /assets/images/cards/contribute.png
+related:
+  - beginners
+  - building
 ---
 
 ## Why contribute to open source?

@@ -11,6 +11,9 @@ toc:
   its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
 image: /assets/images/cards/best-practices.png
+related:
+  - metrics
+  - leadership
 ---
 
 ## What does it mean to be a maintainer?

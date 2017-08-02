@@ -8,6 +8,9 @@ toc:
   resolving-conflicts: "Resolving conflicts"
 order: 4
 image: /assets/images/cards/building.png
+related:
+  - best-practices
+  - coc
 ---
 
 ## Setting your project up for success
