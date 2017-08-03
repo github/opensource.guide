@@ -44,6 +44,11 @@ var sentenceSpacing = require('retext-sentence-spacing');
 var quotes = require('retext-quotes');
 var words = require('retext-words');
 var repeated = require('retext-repeated-words');
+var emoji = require('retext-emoji');
+var syntaxMentions = require('retext-syntax-mentions');
+var syntaxURLs = require('retext-syntax-urls');
+var spell = require('retext-spell');
+var enUS = require('dictionary-en-us');
 
 // Util stuff
 var vfile = require('to-vfile');
@@ -51,14 +56,23 @@ var statistics = require('vfile-statistics');
 var report = require('vfile-reporter');
 var glob = require('glob');
 var fs = require('fs');
+var path = require('path');
 var async = require('async');
 var yaml = require('js-yaml');
 var jekyllConfig = yaml.safeLoad(fs.readFileSync('_config.yml'));
 var ignore = require('ignore')().add(jekyllConfig.exclude)
 
+var personal = fs
+  .readFileSync(path.join(__dirname, 'dictionary.txt'), 'utf8')
+  .replace(/#.+/gm, '');
+
 // Prose checking pipeline
 var prose = unified()
   .use(english)
+  .use(syntaxURLs)
+  .use(syntaxMentions)
+  .use(emoji)
+  .use(spell, {dictionary: enUS, personal: personal})
   .use(sentenceSpacing, {preferred: 1})
   .use(quotes, {preferred: 'straight'})
   .use(words, {
@@ -126,7 +140,7 @@ var markdown = unified()
   .use(noUnusedDefinitions)
 
   // Prose
-  .use(remark2retext, prose);
+  .use(remark2retext, prose, {ignore: ['blockquote']});
 
 async.map(ignore.filter(glob.sync('_articles/**/*.md')), function(filePath, callback) {
   vfile.read(filePath, function(err, file) {

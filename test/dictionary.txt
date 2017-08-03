@@ -1,0 +1,87 @@
+# Dictionary of some extra words that are not in the
+# default list. The stuff after the slash is a word
+# it’s modelled after.
+# More info:
+# <https://github.com/wooorm/nspell#personal-dictionary-documents>
+
+# Normal Words
+avoidant
+bundler
+caretaking
+funder
+funders
+fundraise
+grantmaking
+incentivized
+mentorship
+namespace
+roadmap
+sponsorships
+triaging
+walkthrough
+
+# Programming jargon
+AGPLv3
+APIs
+BDFL
+CLA
+CSS
+GPLv2
+GPLv3
+OSS
+PR
+PRs
+README
+READMEs
+cloners
+linters
+
+# Jargon etc.
+501c3
+CCing
+LLC
+discoverability
+pre-launch
+relicense
+relicensing
+
+# Products
+Analytics
+CocoaPods
+CodeTriage
+Cookiecutter
+Django
+Drupal
+ESLint
+Exercism
+FOSSmarks
+Gitter
+Homebrew
+Kickstarter
+Kubernetes
+MongoDB
+NodeSchool
+OpenCollective
+OpenMRS
+PageRank
+Patreon
+Postgres
+PyPA
+PyPI
+Quora
+Rackspace
+Reddit
+Redux
+Rubinius
+Shoutouts
+Sidekiq
+Vossibility
+Vue
+WIPO
+WordPress
+b2
+jQuery
+khmer
+kops
+npm
+webpack

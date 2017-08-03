@@ -37,17 +37,17 @@ If you _are_ interested in understanding your project on a deeper level, read on
 
 Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
 
-![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
 If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Graphs", then "Traffic". On this page, you can see:
 
-* **Total pageviews:** Tells you how many times your project was viewed
+* **Total page views:** Tells you how many times your project was viewed
 
 * **Total unique visitors:** Tells you how many people viewed your project
 
 * **Referring sites:** Tells you where visitors came from. This metric can help you figure out where to reach your audience and whether your promotion efforts are working.
 
-* **Popular content:** Tells you where visitors go on your project, broken down by pageviews and unique visitors.
+* **Popular content:** Tells you where visitors go on your project, broken down by page views and unique visitors.
 
 [GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
 
@@ -63,7 +63,7 @@ Each package manager may use a slightly different definition of "download", and 
 
 If your project is on GitHub, navigate again to the "Traffic" page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
 
-![clone graph](/assets/images/metrics/clone_graph.png)
+![Clone graph](/assets/images/metrics/clone_graph.png)
 
 If usage is low compared to the number of people discovering your project, there are two issues to consider. Either:
 
@@ -88,7 +88,7 @@ Examples of community metrics that you may want to regularly track include:
 
 * **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Graphs" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
 
-![contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
 
