@@ -63,7 +63,7 @@ Formalizing your leadership roles helps people feel ownership and tells other co
 
 For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [PostgreSQL](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [Postgres](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
 
 If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (ex. security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
 
@@ -108,7 +108,7 @@ There are three common governance structures associated with open source project
 
 * **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://nodejs.org/en/foundation/) and [Rust](https://www.rust-lang.org/en-US/).
 
-Which one should you use? It's up to you! Every model has advantages and tradeoffs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
+Which one should you use? It's up to you! Every model has advantages and trade-offs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
 
 * [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 * [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)

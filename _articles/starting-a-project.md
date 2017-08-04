@@ -52,7 +52,7 @@ By comparison, a closed source process would be going to a restaurant and orderi
 
 * **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source isn't just for software, either. You can open source everything from datasets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
 
 ### Does open source mean "free of charge"?
 
@@ -137,7 +137,7 @@ Legal work is no fun. The good news is that you can copy and paste an existing l
 
 When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
 
-![pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
 
 If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
 
@@ -196,7 +196,7 @@ For more help with writing your CONTRIBUTING file, check out @nayafia's [contrib
 
 Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
 
-![contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
 ### Establishing a code of conduct
 
