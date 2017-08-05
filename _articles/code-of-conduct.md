@@ -116,3 +116,4 @@ In the end, as a maintainer, you set and enforce the standards for acceptable be
 ## Encourage the behavior you want to see in the world 🌎
 
 When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+
