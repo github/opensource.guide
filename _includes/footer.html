@@ -65,6 +65,7 @@
         {{ byline | replace: "[code]", code | replace: "[love]", love | replace: "[github]", github | replace: "[friends]", friends }}
       </div>
 
+      {% if site.translations.size > 1 %}
       <div class="text-small my-6">
         {% for translation in site.translations %}
           <a class="locale-chooser text-gray-light d-inline-block px-1"
@@ -72,6 +73,7 @@
             href="{{ page.url | prepend: translation[1].url }}?l={{ translation[0] }}">{{ translation[1].name }}</a>
         {% endfor %}
       </div>
+      {% endif %}
     </div>
   </div>
 </footer>
