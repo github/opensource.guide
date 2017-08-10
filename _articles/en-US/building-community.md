@@ -1,4 +1,5 @@
 ---
+locale: en-US
 title: Building Welcoming Communities
 description: Building a community that encourages people to use, contribute to, and evangelize your project.
 class: building
