@@ -12,6 +12,9 @@ toc:
   what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 order: 1
 image: /assets/images/cards/contribute.png
+related:
+  - beginners
+  - building
 ---
 
 ## Why contribute to open source?
@@ -98,7 +101,7 @@ Even if you like to write code, other types of contributions are a great way to 
 * Write and improve the project's documentation
 * Curate a folder of examples showing how the project is used
 * Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like pypa's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
 * Write a translation for the project's documentation
 
 <aside markdown="1" class="pquote">
@@ -112,7 +115,7 @@ Even if you like to write code, other types of contributions are a great way to 
 ### Do you like organizing?
 
 * Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and suggest closing old ones, [like @nzakas did for eslint](https://github.com/eslint/eslint/issues/6765)
+* Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
 * Ask clarifying questions on recently opened issues to move the discussion forward
 
 ### Do you like to code?
@@ -124,7 +127,7 @@ Even if you like to write code, other types of contributions are a great way to 
 
 ### Do you like helping people?
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or reddit
+* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
 * Answer questions for people on open issues
 * Help moderate the discussion boards or conversation channels
 
@@ -182,7 +185,7 @@ A project also has documentation. These files are usually listed in the top leve
 
 * **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
 * **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMES help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
+* **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
 * **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
 * **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
 
@@ -211,9 +214,10 @@ You might scan a README and find a broken link or a typo. Or you're a new user a
 
 > [28% of casual contributions](http://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
-You can also use one of the following resources to help you discover new projects:
+You can also use one of the following resources to help you discover and contribute to new projects:
 
 * [GitHub Explore](https://github.com/explore/)
+* [Open Source Friday](https://opensourcefriday.com)
 * [First Timers Only](http://www.firsttimersonly.com/)
 * [Your First PR](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
@@ -302,7 +306,7 @@ Now do the same for the project's pull requests.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
+  <label for="cbox10" class="overflow-hidden d-block text-normal">
     How many open pull requests are there?
   </label>
 </div>
@@ -399,7 +403,7 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 >
 > 😢 _"X is broken! Please fix it."_
 
-**Do your homework beforehand.** It's ok not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
 
 > 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
 >
@@ -464,7 +468,7 @@ You should usually open an issue in the following situations:
 Tips for communicating on issues:
 
 * **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
-* **If an issue was opened awhile ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
+* **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
 * **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
 ### Opening a pull request

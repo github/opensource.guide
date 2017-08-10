@@ -12,6 +12,9 @@ toc:
   its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
 image: /assets/images/cards/best-practices.png
+related:
+  - metrics
+  - leadership
 ---
 
 ## What does it mean to be a maintainer?
@@ -120,7 +123,7 @@ If you don't want to accept a contribution:
 
 You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
 
-![celery screenshot](/assets/images/best-practices/celery.png)
+![Celery screenshot](/assets/images/best-practices/celery.png)
 
 If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
 
@@ -231,7 +234,7 @@ If you add tests, make sure to explain how they work in your CONTRIBUTING file.
 
 The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
 
-There are a [variety of tools available](https://github.com/integrations) to help automate some aspects of maintenance work. A few examples:
+There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
 
 * [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
 * [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests

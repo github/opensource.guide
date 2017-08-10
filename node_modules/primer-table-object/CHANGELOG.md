@@ -1,3 +1,8 @@
+# v1.0.3
+
+ * Bump all the version numbers for readme - Mu-An Chiou [github/github@a9d152f](https://github.com/github/github/commit/a9d152f)
+ * Fix all the travis badge URL - Mu-An Chiou [github/github@9cd6d84](https://github.com/github/github/commit/9cd6d84)
+
 # v1.0.2
 
  * More versions - Jon Rohan [github/github@e12ba2e](https://github.com/github/github/commit/e12ba2e)
