@@ -18,9 +18,7 @@ fi
 
 REMOTE=${1:-"origin"}
 BASE="$REMOTE/gh-pages"
-# FIXME: switch to upstream/gh-pages before this is merged:
-# https://github.com/github/open-source-guide/pull/295
-HEAD="upstream/i18n"
+HEAD="upstream/gh-pages"
 
 git fetch upstream
 git fetch $REMOTE
