@@ -154,7 +154,7 @@ image: /assets/images/cards/best-practices.png
 
 ### 成为导师
 
-可能在你的社区里有人不断提交一些不符合项目需求的贡献。对你们双方来说不停的拒绝他的提交都很尴尬。
+可能在你的社区里有人不断提交一些不符合项目需求的贡献。对你们双方来说，不停的拒绝他的提交，会令双方都很尴尬。
 
 如果你发现有人对你的项目很上心，但是就是需要调教，那就耐心一点。给他解释明白每次它的提交为什么不符合项目需求。尝试着让他先做一些简单一点的事，比如那些标有_"good first bug"_ 标签的issue，以此让他慢慢习惯。如果你有时间的话，考虑教Ta怎么完成第一次贡献，或者在社区找一个人教Ta。
 
@@ -175,29 +175,29 @@ image: /assets/images/cards/best-practices.png
   <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
   我曾经说过，“对，每个人都可以参与进来，你不需要有很多编程的经验。”当有申请来参加我们的活动的时候，我就在想，这是真的吗，我说了啥？有将近40个人来了，我虽然不可能和每个人都单独交谈，但是大家一起来了，这说明我说的没错。只要有人知道怎么做了，他们就能教他们的邻居。
   <p markdown="1" class="pquote-credit">
-—  @lmccart, ["What Does “Open Source” Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
+—  @lmccart, ["“开源” 意味着什么? p5.js 版"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
   </p>
 </aside>
 
-如果你需要暂时或者永久的离开的项目，大可找人来代替你。
+如果你需要暂时或者永久的离开的项目，请找人来代替你，这并没有什么不好意思。
 
-如果别人认同项目的发展方向，给他们提交的权限或者正式把项目所有权转移给他。如果有人fork了你的项目而且在保持活跃的维护，考虑在你的原始的仓库放上这个fork版本的链接。如果大家都希望你的项目继续的话这不失为一种好办法。
+如果别人认同项目的发展方向，给他们提交的权限或者正式把项目所有权转移给他。如果有人fork了你的项目而且在保持活跃的维护中，考虑在你的原始的仓库放上这个fork版本的链接。如果大家都希望你的项目继续的话这不失为一种好办法。
 
 [@progruim](https://github.com/progrium) [发现](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) 由于它给他的项目[Dokku](https://github.com/dokku/dokku)写一个关于项目发展方向的文档，即使在它离开这个项目后他的那些目标仍然会被实现。
 
-> 我写了一个wiki来描述我想要啥和为什么。不知道为啥，项目的维护者就开始推动项目朝那个方向发展，这对我来说还是有点惊讶的。他们会一点不差的按照我的意愿去做这个项目吗？不总是这样，但是总是会把项目推动到离我的理想状态更近的位置。
+> 我写了一个wiki来描述我想要啥和为什么。不知道为啥，项目的维护者就开始推动项目朝这个方向发展，这对我来说还是有点惊讶的。他们会丝毫不差的按照我的意愿去做这个项目吗？不总是这样，但是总是会把项目推动到离我的理想状态更近的位置。
 
 ### 让别人尝试他们自己想要的解决方案
 
 如果有贡献者关于项目有不同的意见，你可以礼貌的鼓励它在他自己fork版本上继续工作。
 
-fork一个项目不什么坏事情。能复制并且修改别人的代码是开源项目最大的好处之一。鼓励你的社区成员在他自己fork的仓库上继续工作是在不和你的项目冲突的基础上，给实现他们的想法最好的出口。
+fork一个项目不什么坏事情。能复制并且修改别人的代码是开源项目最大的好处之一。鼓励你的社区成员在他自己fork的仓库上继续工作，这是在不和你的项目冲突的基础上，给实现他们的想法最好的出口。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/481677?v=3&s=400" class="pquote-avatar" alt="avatar">
   我迎合80%的用户需求。但是如果你是那20%中的一个，那么fork我的项目吧。我不会介意的！我的公开的项目是用来解决那些最常见的问题的。我尝试着让别人fork我的项目然后在上面拓展得更加简单。
   <p markdown="1" class="pquote-credit">
-— @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+— @geerlingguy, ["为何我关闭了 PR"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
@@ -207,7 +207,7 @@ fork一个项目不什么坏事情。能复制并且修改别人的代码是开�
 
 ## 使用机器人
 
-就像很多工作别人可以帮你做一样，也有很多工作不需要人来做。机器人是你的朋友，用他们让你的维护者生活变得更容易。
+就像很多工作别人可以帮你做一样，也有很多工作不需要人来做。因为有机器可以替代人工，尤其是那些重复、无聊的工作，用好它们能够让你的维护生活变得更容易。
 
 ### 引进测试和别的检查来改善你的代码质量
 
@@ -217,13 +217,13 @@ fork一个项目不什么坏事情。能复制并且修改别人的代码是开�
 
 设置自动化的测试让所有新来的贡献者都可用，而且保证你的测试可以很容易在贡献者的本地运行。保证所有的代码贡献者在提交之前都运行你的测试。你还得为所有的提交设置一个基本的标准。
 
-如果你添加了测试，确保在CONTRIBUTING文件里面解释他们是怎么工作的。
+如果你添加了测试，确保在 CONTRIBUTING 文件里面解释他们是怎么工作的。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/812892?v=3&s=460" class="pquote-avatar" alt="avatar">
   我相信测试对所有的代码都是需要的。如果代码被完整的覆盖了测试，以后就不需要改了。我们只需要在代码崩溃或者需要某个功能的添加代码。不管你在修改什么，测试对于检查那些你可能不小心制造的问题都是必须的。
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust 社区的自动化"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
@@ -232,31 +232,30 @@ fork一个项目不什么坏事情。能复制并且修改别人的代码是开�
 
 对于维护一个流行的项目来说，一个好消息是别的维护者也可能遇到过类似的问题而且已经找到一个解决方案。
 
-这里有[各种各样的工具](https://github.com/integrations)帮你自动化一部分的维护工作。一些例子i：
+这里有[各种各样的工具](https://github.com/integrations)帮你自动化一部分的维护工作。这里仅列举一些常见的例子：
 
 * [semantic-release](https://github.com/semantic-release/semantic-release) 自动化版本发布
-* [mention-bot](https://github.com/facebook/mention-bot) @可能的贡献者来帮你复查代码
+* [mention-bot](https://github.com/facebook/mention-bot) 可能的贡献者来帮你复查代码
 * [Danger](https://github.com/danger/danger) 帮你自动复查代码
 
-对于bug报告和其他常见形式的贡献，Github有[Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), 你可以用来降低沟通成本。你也可以设置[邮件过滤](https://github.com/blog/2203-email-updates-about-your-own-activity)来管你你的邮件提醒。
+对于bug报告和其他常见形式的贡献，Github有[Issue 模版和 Pull Request 模版](https://github.com/blog/2111-issue-and-pull-request-templates), 你可以用来降低沟通成本。你也可以设置[邮件过滤](https://github.com/blog/2203-email-updates-about-your-own-activity)来管理你的邮件提醒。
 
-如果你想逼格更高，代码风格指南和linter能让你项目收到的贡献更规范，而且更同意复查和接受。
+如果你想更加的先进和高效，代码风格指南和linter能让你项目收到的贡献更加规范，而且更容易复查和被接受。
 
-当然啦，如果你的标准太复杂了，反倒会增加了贡献的难度。所以保证你只添加一个让每个人工作起来更容易的规则。
+当然啦，如果你的标准太复杂了，反倒会增加了贡献的难度。所以保证你只添加那些让每个人工作起来更容易的规则。
 
-如果你不确定用什么工具，看一看别的流行项目是怎么做的，特别是和你在一个生态系统的。比如，其他的Node模块的贡献流程是怎么样的？用想死的工具和方法会让你项目的贡献流程对贡献者更熟悉。
+如果你不确定用什么工具，看一看别的流行项目是怎么做的，特别是和你在一个生态系统的。比如，其他的Node模块的贡献流程是怎么样的？用相似的工具和方法，能够让你项目的贡献流程对于开发者来说是很熟悉的。
 
 ## 不干了也没关系
 
 开源项目曾经让你开心，但可能现在开始让你不开心了。
 
-可能当你想到你的项目的时候感觉到亚历山大。而同时，issue和PR又纷至沓来。
+可能当你想到你的项目的时候感觉到"亚历山大"。而同时，issue和PR又纷至沓来。
 
 疲倦在开源工作工作中是一个常见的问题，特别是在维护者中间。作为一个维护者，你做的开心对项目的生存来说是一个没有商量余地的条件。
 
 
-虽然你不需要跟谁请假，但是也不腰拖到自己疲倦不堪的时候才去度假。[@brettcannon](https://github.com/brettcannon)，一个python的核心开发者，决定在14年的义务劳动之后[休一个月的假](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering)
-
+虽然你不需要跟谁请假，但是也不要拖到自己疲倦不堪的时候才去度假。[@brettcannon](https://github.com/brettcannon)，一个python的核心开发者，决定在14年的义务劳动之后[休一个月的假](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering)
 
 就像其他工作一样，有规律的休息会让你对工作保持舒适愉快的心情。
 
@@ -264,17 +263,16 @@ fork一个项目不什么坏事情。能复制并且修改别人的代码是开�
   <img src="https://avatars1.githubusercontent.com/u/36432?v=3&s=400" class="pquote-avatar" alt="avatar">
   我是WP-CLI的维护者，我发现我需要首先让自己开心，在开源项目和其他事情之间设定清楚的界限。我发现最好的平衡点就是每周在日常的工作安排中花2-5小时在这上面。这会让我从感觉太累到保持持续的激情。因为我给我需要解决的issue表上了优先级，从而我能够在我认为重要的事情上有所进展。
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["我的悼文，你现在是一个非常流行的项目的维护者"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
+有时候，当你感觉大家都离不开你的时候，请假去休息是一件蛮困难的事情。甚至你自己会因为离开而感到愧疚。
 
-有时候，当你感觉大家都离不开你的时候请假去休息是一件很难的事情。甚至人们会让你因为离开而感到愧疚。
+在你离开项目的时候尽可能的在用户和社区中间寻求支持，如果你找到支持你的人，还是休息吧。在你不工作的时候还是要保持和别人交流，这样人们不会因为你的失联而感到奇怪。
 
-在你离开项目的时候尽可能的在用户和社区中间寻求支持，如果你找到支持你的人，还是休息吧。在你不工作的时候还是要保持和别人交流，这样人们不会因为你的失联感到奇怪。
-
-休息并不只是独家。如果你周末不想做开源项目的工作了，或者在本该工作的时候不想干活了，和别人说，这样他们才知道这个时候不该打扰你。
+休假不仅适用于度假。如果你周末不想做开源项目的工作了，或者在本该工作的时候不想干活了，和别人说，这样他们知道什么时候不该打扰你。
 
 ## 首先照顾好自己！
 
-维护一个大型项目需要和在项目开始成长时不同的技能。作为一个维护者，你会将自己的领导力和个人能力提示一个层次，而这是很少人能体会到的。但是与此同时，管理项目，设定清晰的界限，制作你感到舒服的事情会让你保持开心，活力，高产的状态。
+维护一个大型项目时，相比早期的增长阶段，是需要更多的不一样的技能，作为一个维护者，你会将自己的领导力和个人能力提高一个层次，而这是很少人能体会的到的。但是与此同时，要挑战管理项目，以及设定清晰的界限。只做你感到舒服的事情，能够让你保持开心，活力，高产的状态。
