@@ -207,23 +207,24 @@ Das Selbe gilt für einen Nutzer wo du schlichtweg nicht die Kapazität hast um 
 
 > Es ist fast unausweichlich dass ein Projekt groß wird, Betreiber müssen deswegen konsversativer werden darüber, wie sie neuen Code möchten. Du wirst gut mit dem „Nein“ sagen, aber viele Leute haben zu Recht Bedürfnisse. Also, hörst du damit auf, dein Werkzeug zu einer kompletten Plattform auszubauen.
 
-## Bring in the robots
+## Bringe die Roboter rein!
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+So wie es Aufgaben gibt, wo andere Leute dir helfen können, gibt es auch Aufgaben, die kein Mensch je tun mus. Roboter sind deine Freunde, also benutze sie, um dein Leben als Leitung des Projekts einfacher zu machen.
 
-### Require tests and other checks to improve the quality of your code
+### Fordere Tests und andere Überprüfungen um die Qualität des Codes zu erhöhen
 
-One of the most important ways you can automate your project is by adding tests.
+Einer der ersten Punkte, womit du dein Projekt automatisieren könntest, sind Tests.
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+Tests helfen Beitragenden sich sicher zu fühlen, dass sie nichts zerstören. Sie können außerdem es einfacher für dich machen, die Änderungen durchzuschauen und Beiträge schnell anzunehmen. Je mehr verantwortlich du bist, desto mehr kannst du deine Community ermutigen.
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Required status checks](https://help.github.com/articles/about-required-status-checks/) on GitHub can help ensure no change gets merged without your tests passing.
+Richte utomatische Tests ein, die bei allen ankommenden Beiträgen durchlaufen, und stelle sicher, dass die Tests auch lokal von den Beitragenden durchgeführt werden können.
+Setze voraus, dass alle Code Beiträge deine Tests bestehen, bevor sie abgesendet werden können. Damit hilfst du, einen Mindeststandard für Qualität aufzubauen. [Requeired Status Checks(Englisch)](https://help.github.com/articles/about-required-status-checks/) auf GitHub können sicherstellen, dass keine Änderung gemergt werden, ohne, dass die Tests abgeschlossen sind.
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+Wenn du Tests hinzufügst, erkläre auch, wie sie funktionieren in deiner CONTRIBUTING Datei.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/812892?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+  Ich glaube, dass Tests nötig sind für jeden Code, wo Menschen dran arbeiten. Wenn der Code immer vollständig und überrichtig ist, würde es keinen Änderungen bedürfen – Wir schreiben nur Code wenn etwas nicht richtig funktioniert, egal ob es heißt „Es stürzt ab“ oder „Es ist halbgar umgesetzt“. Und egal welche Änderungen du vollführst, Tests zuschreiben sind essentiell für jede Änderung die du versehentlich gemacht hast.
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
