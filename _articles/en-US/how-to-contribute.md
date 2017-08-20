@@ -193,7 +193,7 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 * **Issue tracker:** Where people discuss issues related to the project.
 * **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
+* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 * **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 
 ## Finding a project to contribute to
@@ -353,7 +353,7 @@ A project that is friendly and welcoming signals that they will be receptive to 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (for example IRC or Slack)?
+    Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
   </label>
 </div>
 
@@ -462,7 +462,7 @@ If you want to make a substantial contribution, open an issue to ask before work
 You should usually open an issue in the following situations:
 
 * Report an error you can't solve yourself
-* Discuss a high-level topic or idea (for example community, vision, policies)
+* Discuss a high-level topic or idea (for example, community, vision or policies)
 * Propose a new feature or other project idea
 
 Tips for communicating on issues:
@@ -475,7 +475,7 @@ Tips for communicating on issues:
 
 You should usually open a pull request in the following situations:
 
-* Submit trivial fixes (for example a typo, broken link, or obvious error)
+* Submit trivial fixes (for example, a typo, a broken link or an obvious error)
 * Start work on a contribution that was already asked for, or that you've already discussed, in an issue
 
 A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
