@@ -20,8 +20,10 @@ footer:
     button: Subscribe
   byline:
     # [code], [love], and [github] will be replaced by octicons
-    format: "[code] with [love] by [github]"
+    format: "[code] with [love] by [github] and [friends]"
     # Label for code octicon
     code_label: code
     # Label for love octicon
     love_label: love
+    # Label for the contributors link
+    friends_label: friends

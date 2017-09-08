@@ -10,6 +10,9 @@ toc:
   enforcing-your-code-of-conduct: "Enforcing your code of conduct"
 order: 8
 image: /assets/images/cards/coc.png
+related:
+  - building
+  - leadership
 ---
 
 ## Why do I need a code of conduct?

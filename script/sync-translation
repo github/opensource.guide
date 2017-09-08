@@ -1,0 +1,59 @@
+#!/bin/sh
+#
+# Sync changes from upstream and open a pull request
+#
+#   Usage: script/sync-upstream [remote]
+#
+# TODO:
+# - [ ] handle merge conflicts with `git merge --continue`
+
+set -e
+
+which -s hub || (echo "This script requires the 'hub' command: http://hub.github.com/" && exit 1)
+
+# If there's not an upstream remote, set it.
+if ! git remote show | grep -q upstream; then
+  git remote add upstream https://github.com/github/opensource.guide.git
+fi
+
+REMOTE=${1:-"origin"}
+BASE="$REMOTE/gh-pages"
+HEAD="upstream/gh-pages"
+
+git fetch upstream
+git fetch $REMOTE
+
+BASE_SHA=$(git rev-parse $BASE)
+HEAD_SHA=$(git rev-parse $HEAD)
+BRANCH="sync-${HEAD_SHA:0:8}"
+
+TRANSLATABLE_FILES="
+  _articles
+  _data/locale/en-US.yml
+  _config
+"
+
+## Create a new branch and merge in the changes from upstream.
+echo "Creating branch $BRANCH based off $BASE"
+git checkout -B $BRANCH $BASE
+echo "Merging in latest changes from $HEAD"
+git merge -q --no-edit $HEAD
+git push $REMOTE $BRANCH
+
+CHANGED_FILES=$(git diff --name-only $BASE_SHA $HEAD_SHA -- $TRANSLATABLE_FILES)
+
+TEMPLATE="Sync changes from upstream\n\n"
+
+if [ -z "$CHANGED_FILES" ]; then
+  TEMPLATE="$TEMPLATE\nNo files that need translation were changed upstream."
+else
+  TEMPLATE="$TEMPLATE\nCheck the changes in each of these files and update the translation accordingly:\n"
+
+  for file in $CHANGED_FILES; do
+    TEMPLATE="$TEMPLATE\n- [ ] \`$file\`"
+  done
+fi
+
+OWNER=$(git config --get remote.$REMOTE.url | sed -Ene 's#.*github.com[/:]([^/]*)/.*#\1#p')
+
+echo $TEMPLATE | hub pull-request -o -F - -b $OWNER:gh-pages -h $OWNER:$BRANCH
