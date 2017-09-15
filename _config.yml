@@ -1,12 +1,11 @@
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
+title: "开源指南"
+description: "为开放源代码的初学者提供的向导，基于社区合著的形式存在。"
 
-# See: docs/translations.md
-locale: en-US
+locale: zh-CN
 translations:
-  en-US:
-    name: English (US)
-    url: https://opensource.guide
+  - locale: zh-CN
+    name: 简体中文 (zh-CN)
+    repository: github/opensource.guide
 
 exclude:
   - bin
@@ -45,6 +44,7 @@ gems:
   - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-multiple-languages-plugin
 
 markdown: kramdown
 
