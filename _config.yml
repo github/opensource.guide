@@ -1,12 +1,12 @@
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
+title: "오픈소스 가이드"
+description: "프로젝트를 시작하고 성장시키는 방법에 대해 알아보십시오."
 
 # See: docs/translations.md
-locale: en-US
+locale: ko-KR
 translations:
-  en-US:
-    name: English (US)
-    url: https://opensource.guide
+  ko-KR:  
+    name: Korean
+    url: https://minwook-shin.github.io/open-source-guide/
 
 exclude:
   - bin
