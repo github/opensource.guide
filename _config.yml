@@ -6,7 +6,7 @@ locale: ko-KR
 translations:
   ko-KR:  
     name: Korean
-    url: https://minwook-shin.github.io/open-source-guide/
+    url: https://kr.opensource.guide
 
 exclude:
   - bin
