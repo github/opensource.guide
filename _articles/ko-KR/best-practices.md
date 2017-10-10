@@ -1,15 +1,15 @@
 ---
-locale: en-US
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
-class: best-practices
+locale: ko-KR
+title: 메인테이너를 위한 모범 사례
+description: 문서화 과정에서 커뮤니티 활용에 이르기까지 오픈 소스 메인테이너로서 여러분의 삶을 편하게 만들어줍니다.
+class: 모범-사례
 toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
-  documenting-your-processes: "Documenting your processes"
-  learning-to-say-no: "Learning to say no"
-  leverage-your-community: "Leverage your community"
-  bring-in-the-robots: "Bring in the robots"
-  its-okay-to-hit-pause: "It’s okay to hit pause"
+  what-does-it-mean-to-be-a-maintainer: "메인테이너가 된다는 것은 무엇을 의미하나요?"
+  documenting-your-processes: "진행과정을 문서화하기"
+  learning-to-say-no: "아니오라고 말하는 것을 배우기"
+  leverage-your-community: "커뮤니티 활용하기"
+  bring-in-the-robots: "로봇 가져오기"
+  its-okay-to-hit-pause: "정지를 눌러도 좋습니다"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -17,7 +17,7 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## 메인테이너가 된다는 것은 무엇을 의미하나요?
 
 If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
 
@@ -25,7 +25,7 @@ In the early stages of a project, you're experimenting with new ideas and making
 
 Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
 
-## Documenting your processes
+## 진행과정을 문서화하기
 
 Writing things down is one of the most important things you can do as a maintainer.
 
@@ -35,7 +35,7 @@ Writing things down makes it easier to say no when something doesn't fit into yo
 
 Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
 
-### Write down your project's vision
+### 프로젝트의 비전을 써내려가기
 
 Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
 
@@ -51,7 +51,7 @@ For example, @lord discovered that having a project vision helped him figure out
   </p>
 </aside>
 
-### Communicate your expectations
+### 생각을 소통하기
 
 Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
 
@@ -72,7 +72,7 @@ Here are a few rules that are worth writing down:
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
 
-### Keep communication public
+### 열린 소통을 유지하기
 
 Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
 
@@ -80,7 +80,7 @@ If you meet with other maintainers, or make a major decision in private, documen
 
 That way, anybody who joins your community will have access to the same information as someone who's been there for years.
 
-## Learning to say no
+## 아니오라고 말하는 것을 배우기
 
 You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
 
@@ -90,7 +90,7 @@ Saying no isn't fun, but  _"Your contribution doesn't match this project's crite
 
 Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
 
-### Keep the conversation friendly
+### 친근한 대화를 유지하기
 
 One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
 
@@ -133,7 +133,7 @@ Don't feel guilty about not wanting to accept someone's contribution. The first 
 
 Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
 
-### Be proactive
+### 대책 세우기
 
 To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
 
@@ -156,17 +156,17 @@ While this approach may feel unkind at first, being proactive is actually good f
 
 Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
 
-### Embrace mentorship
+### 멘토십을 포옹하기
 
 Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
 
 If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first bug,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
 
-## Leverage your community
+## 커뮤니티 활용하기
 
 You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
 
-### Share the workload
+### 작업량을 분할하기
 
 If you're looking for others to pitch in, start by asking around.
 
@@ -190,7 +190,7 @@ If other people are enthusiastic about its direction, give them commit access or
 
 > I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
 
-### Let others build the solutions they need
+### 다른 사람들이 필요한 솔루션을 구축하게하기
 
 If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
 
@@ -208,7 +208,7 @@ The same applies to a user who really wants a solution that you simply don't hav
 
 > It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
 
-## Bring in the robots
+## 로봇을 가져오기
 
 Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
 
@@ -230,7 +230,7 @@ If you add tests, make sure to explain how they work in your CONTRIBUTING file.
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### 자동적인 기본 관리 작업 도구를 사용하기
 
 The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
 
@@ -248,7 +248,7 @@ However, if your standards are too complicated, they can increase the barriers t
 
 If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
 
-## It's okay to hit pause
+## 정지를 눌러도 좋습니다
 
 Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
 
@@ -274,6 +274,6 @@ Do your best to find support for your users and community while you're away from
 
 Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
 
-## Take care of yourself first!
+## 먼저 자신을 돌보기!
 
 Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
