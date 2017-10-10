@@ -19,11 +19,11 @@ related:
 
 ## 메인테이너가 된다는 것은 무엇을 의미하나요?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+많은 사람들이 사용하는 오픈 소스 프로젝트를 유지한다면, 적은 양으로 코딩하고 더 많은 이슈에 대응할 수 있습니다.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+프로젝트 초기 단계에서 새로운 아이디어를 실험하고 원하는 것을 기반으로 의사 결정을 내리고 있습니다. 프로젝트의 인기가 높아짐에 따라 사용자와 기여자들과 더 잘 일할 수 있습니다.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+프로젝트를 유지하려면 코드 이상을 요구합니다. 이러한 작업은 예상치 못한 경우가 많지만 성장하는 프로젝트와 마찬가지로 중요합니다. 우리는 프로세스 문서화에서부터 커뮤니티 활용에 이르기까지 당신의 삶을 편하게 해주는 몇 가지 방법을 모아봤습니다.
 
 ## 진행과정을 문서화하기
 
