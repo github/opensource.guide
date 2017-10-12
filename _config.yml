@@ -44,7 +44,6 @@ gems:
   - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-multiple-languages-plugin
 
 markdown: kramdown
 
