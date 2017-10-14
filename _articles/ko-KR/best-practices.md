@@ -105,115 +105,117 @@ related:
   <img src="https://avatars3.githubusercontent.com/u/869950?v=3&s=400" class="pquote-avatar" alt="avatar" alt="@KrauseFx avatar">
   The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
   <p markdown="1" class="pquote-credit">
-— @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
+— @KrauseFx, ["오픈소스 커뮤니티 확장하기"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+죄책감을 느끼거나 좋은 사람이 되기위해 원하지 않는 기여는 하지마십시오. 시간이 지남에 귀하의 답변되지 않은 이슈와 PR은 프로젝트에 대한 작업을 훨씬 더 스트레스와 협박으로 느낄 것입니다.
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+수락하고 싶지 않은 기여는 즉시 닫는 것이 좋습니다. 프로젝트에 이미 많은 양의 백로그가있는 경우 @steveklabnik 는 [문제를 효율적으로 분류하는 방법](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)에 대한 제안 사항을 제공합니다.
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+둘째로, 기여를 무시하면 귀하의 커뮤니티에 부정적인 신호가 보내집니다. 프로젝트에 기여하는 것은 위협적일 수 있습니다. 특히 다른 사람이 처음 인 경우에는 더욱 그렇습니다. 기여를 수락하지 않더라도 그 뒤에 있는 사람을 인정하고 관심을 가져 주신 것에 감사하길 바랍니다. 큰 칭찬입니다!
 
-If you don't want to accept a contribution:
+기여를 받지 않는 경우:
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
+* 그들의 기여에 **감사합니다**
+* 가능한 경우 프로젝트의 **범위에 맞지 않는 이유를 설명하고** 개선을 위한 명확한 제안을 합니다. 친절하지만 단호하게 하십시오.
+* 필요한 경우 **관련 문서에 링크합니다**. 수락하고 싶지 않은 것에 대한 반복적인 요청을 발견 한 경우, 문서를 반복하여 반복하지 않도록 합시다.
+* **request를 닫습니다**
 
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+응답하는 데 1-2 문장 이상 필요하지 않습니다. 예시로,[celery](https://github.com/celery/celery/)의 사용자가 윈도우 관련 오류를 보고 했을때, @berkerpeksag [이렇게 반응합니다](https://github.com/celery/celery/issues/3383):
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+아무도 말을 하지않는다고 해도, @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/)처럼 혼자가 아닙니다:
 
 > I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+누군가의 기여를 받아들이지 않으려고 죄책감을 느끼지 마십시오. 오픈소스의 첫 규칙은, @shykes [에 따르면](https://twitter.com/solomonstre/status/715277134978113536): _"아니오는 일시적이며 예는 영원합니다."_ 다른 사람의 열정에 공감하는 것은 좋은 일이지만 기여를 거절하는 것은 그 뒤에있는 사람을 거절하는 것과 동일하지 않습니다.
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+궁극적으로, 기여가 충분하지 않은 경우, 기여를 수락 할 의무가 없습니다. 사람들이 프로젝트에 기여할 때 친절하고 반응적이어야 하지만, 프로젝트를 더 좋게 만들 것이라고 생각되는 변경 사항만 수락하십시오. 더 자주 아니오라고 말아는 연습을 하면 쉽게 됩니다. 약속합시다.
 
 ### 대책 세우기
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+처음에 원치 않는 기여를 줄이려면, 기여 가이드에 기여를 제출하고 수락하는 프로젝트 프로세스를 설명하십시오.
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+너무 많은 저품질 기여를 받는다면, 이와 같이 기여자들이 미리 약간의 작업을 해줄 것을 요구하십시오:
 
-* Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+* 이슈 또는 PR 템플릿/체크리스트 작성하기
+* PR을 제출하기 전에 이슈를 열기
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+만약 그들이 규칙에 따르지 않는다면, 즉시 이슈를 닫고 문서를 가리킵니다.
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+이러한 접근 방식이 처음에는 불친절하다고 느낄 수도 있지만, 사전 대책은 실제로 각자에게도 좋습니다. 그것은 누군가가 당신이 받아 들일 수 없는 pull request에 많은 시간 낭비를 초래할 가능성을 줄여줍니다. 또한 작업 부하를 보다 쉽게 ​​관리 할 수 ​​있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/125011" class="pquote-avatar" alt="avatar">
   Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
   <p markdown="1" class="pquote-credit">
-— @mikemcquaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+— @mikemcquaid, ["친절한 pull request 닫기"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+때로는 아니오라고 말하면 잠재적 기여자가 결정을 뒤집거나 비판 할 수 있습니다. 그들의 행동이 적대적이된다면, [상황을 완화시키기위한 조치를 취하십시오.](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) 또는 건설적으로 협업하지 않으려는 경우 커뮤니티에서 제거 할 수도 있습니다.
+
 
 ### 멘토십을 포옹하기
 
-Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
+커뮤니티의 누군가가 프로젝트 표준에 맞지 않는 기여를 정기적으로 제출할 수도 있습니다. 각자 당사자가 거절을 반복해서 거치는 것은 좌절 할 수 있습니다.
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first bug,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
+누군가 당신의 프로젝트에 열성적이지만 약간의 닦기가 필요하다면 인내심을 가집시다. 그들의 공헌이 프로젝트의 기대에 부합하지 않는 이유를 각 상황에서 분명하게 설명합니다. 발을 젖게하기 위해 _"good first bug,"_라고 표시된 문제와 같이 더 쉽거나 덜 모호한 작업을 가리키도록 하십시오. 시간이 있다면, 첫 번째 기여를 통해 멘토링을 고려하거나 멘토를 기꺼이 도울 수있는 다른 사람을 커뮤니티에서 찾을 수 있습니다.
 
 ## 커뮤니티 활용하기
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+당신은 모든 것을 스스로 할 필요가 없습니다. 프로젝트 공동체가 존재합니다! 적극적으로 참여한 커뮤니티가 없는 경우에도 많은 사용자가 있는 경우, 일하도록하십시오.
 
 ### 작업량을 분할하기
 
-If you're looking for others to pitch in, start by asking around.
+피치를 받을 다른 사람을 찾고 있다면 주위에 물어보십시오.
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+새로운 기여자가 반복적으로 기여를 하는 것을 보았을 때, 더 많은 책임을 제공함으로써 자신의 업무로 인정합시다. 원한다면 다른 사람들이 리더십 역할로 성장할 수 있는 방법을 문서화하십시오.
 
-Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js?files=1).
+@lmccart가 프로젝트 [p5.js](https://github.com/processing/p5.js?files=1)에서 발견한대로 [프로젝트 소유권 공유](../building-community/#share-ownership-of-your-project)를 권장하면 자신의 작업량을 크게 줄일 수 있습니다.
+
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
   I’d been saying, “Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...].” We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
   <p markdown="1" class="pquote-credit">
-—  @lmccart, ["What Does “Open Source” Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
+—  @lmccart, [""오픈 소스"란 무엇을 의미합니까? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+프로젝트가 중단되거나 영구히 중단되어야하는 경우, 다른 사람에게 자신을 대신하도록 요청하는 것은 부끄러운 일이 아닙니다.
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+다른 사람들이 그 방향에 열성적이라면, 그들에게 접근을 허용하거나 공식적으로 다른 사람에게 통제 권한을 넘겨주도록 하십시오. 다른 사람이 프로젝트를 포크하고 다른 곳에서 적극적으로 유지 관리하는 경우, 원래 프로젝트의 포크에 연결하는 것이 좋습니다. 많은 사람들이 귀하의 프로젝트가 살아가기를 원합니다!
 
-@progrium [found that](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
+@progrium은 프로젝트의 비전을 문서화 [한 것으로 밝혀지면서](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/)  [Dokku](https://github.com/dokku/dokku)가 프로젝트에서 물러 난 후에도 이러한 목표를 달성 할 수 있도록 도왔습니다.
 
 > I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
 
 ### 다른 사람들이 필요한 솔루션을 구축하게하기
 
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
+잠재적 기여자가 프로젝트에서 해야 할 일에 대해 다른 견해를 가지고 있다면, 그들을 자신의 포크로 작업하도록 부드럽게 격려하고 싶을 수 있습니다.
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+프로젝트 포킹은 나쁜 일이 아닙니다. 프로젝트를 복사하고 수정할 수 있다는 것이 오픈 소스에 관한 가장 좋은 것 중 하나입니다. 커뮤니티 회원들이 자신의 포크로 작업하도록 권장하면 프로젝트 비전과 상충하지 않고, 필요한 창의적인 판로를 제공 할 수 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/481677?v=3&s=400" class="pquote-avatar" alt="avatar">
   I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
   <p markdown="1" class="pquote-credit">
-— @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+— @geerlingguy, ["PR을 닫는 이유"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
+실제로 대역폭을 구축 할 필요가 없는 솔루션을 원하는 사용자에게도 마찬가지입니다. API 및 사용자 정의 후크를 제공하면 소스를 직접 수정하지 않고도 다른 사람들이 자신의 필요를 충족시킬 수 있습니다. @orta는 CocoaPods용 플러그인이 "가장 흥미로운 아이디어 중 일부"를 이끌어 냈다는 것을 [알게 되었습니다](http://artsy.github.io/blog/2016/07/03/handling-big-projects/)
 
 > It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
 
 ## 로봇을 가져오기
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+다른 사람들이 당신을 도울 수있는 작업이있는 것처럼, 인간도 할 일이 없어야합니다. 로봇은 당신의 친구입니다. 그것들을 사용하여 메인테이너로서의 삶을 더 쉽게 만듭니다.
 
-### Require tests and other checks to improve the quality of your code
+### 코드의 품질을 향상시키는 데 필요한 테스트 및 기타 검사
 
 One of the most important ways you can automate your project is by adding tests.
 
