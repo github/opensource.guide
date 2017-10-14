@@ -82,23 +82,24 @@ related:
 
 ## 아니오라고 말하는 것을 배우기
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+당신이 글을 썼습니다. 이상적으로 모든 사람이 당신의 문서를 읽을 것이지만, 실제로, 이 지식이 존재한다는 것을 다른 사람들에게 상기시켜야 할 것입니다.
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+그러나 모든 것을 적어두면, 규칙을 집행해야 할 상황일때 평범한 상황으로 만드는 것에 도움이 됩니다.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+아니오라고 말하는 것은 재미 없지만, _"Your contribution doesn't match this project's criteria"_ 는 _"I don't like your contribution"_ 보다 개인적인 느낌이 들었습니다.
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+당신이 메인테이너로서 만날 수 있는 많은 상황에 적용됩니다: 범위에 맞지 않는 기능 요청, 토론을 이탈한 사람, 불필요한 다른 일을 하는 사람.
+
 
 ### 친근한 대화를 유지하기
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+가장 중요한 장소 중 하나인 No라고 말하면서 이슈와 pull request 대기열을 가져옵니다. 프로젝트 메인테이너로서, 여러분은 받아들이기를 원치 않는 제안을 필연적으로 받게됩니다.
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+기여 내용이 프로젝트의 범위를 변경하거나 비전과 일치하지 않을 수 있습니다. 어쩌면 그 아이디어가 좋지만 구현도가 낮을 수 있습니다.
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+이유에 관계없이, 프로젝트 표준에 맞지 않는 기여 내용을 현명하게 처리 할 수 있습니다.
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+동의를 원하지않는 기여를 받는 경우, 첫 번째 반응은 그것을 무시하거나 보지 못했다고 가장 할 수 있습니다. 이렇게 하면 다른 사람의 감정에 해를 끼칠 수 있으며 커뮤니티 내의 다른 잠재적인 기여자의 능력을 떨어뜨릴 수도 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/869950?v=3&s=400" class="pquote-avatar" alt="avatar" alt="@KrauseFx avatar">
