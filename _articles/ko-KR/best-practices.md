@@ -27,58 +27,58 @@ related:
 
 ## 진행과정을 문서화하기
 
-Writing things down is one of the most important things you can do as a maintainer.
+글을 작성하는 것은 메인테이너가 할 수있는 가장 중요한 일 중 하나입니다.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+문서는 자신의 생각을 분명히 할 뿐만 아니라, 다른 사람들이 물어보기도 전에 필요하거나 기대하는 것을 이해하도록 도와줍니다.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+글을 쓰게되면 무언가가 당신의 범위에 맞지 않을 때 아무 말도 하지 않게됩니다. 또한 사람들이 쉽게 참여하고 도움을 줍니다. 누가 프로젝트를 읽고 사용하는지 알 수 없습니다.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+전체 단락을 사용하지 않더라도, 글 머리 기호를 적어 두는 것이 아에 작성하지 않는것보다 좋습니다.
 
 ### 프로젝트의 비전을 써내려가기
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+먼저 프로젝트의 목표를 써내려갑니다. README에 추가하거나, VISION이라 불리는 별도의 파일을 작성하십시오. 프로젝트 로드맵과 같이 도움이 될 수있는 다른 인위적인 결과물이 있는 경우, 이를 공개 할 수도 있습니다.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+명확하고, 문서화 된 비전을 가지고 있으면 집중력을 유지하고 다른 기여자로부터 "scope creep"를 피할 수 있습니다.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+예를 들어, @lord는 프로젝트 비전을 가짐으로써 시간을 보낼 요청을 파악하는 데 도움이 된다는 것을 발견했습니다. 새로운 관리자인, 그는 [Slate](https://github.com/lord/slate)에 대한 첫 번째 기능 요청을 받았을 때 프로젝트의 범위를 고수하지 않은 것을 후회했습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1976330?v=3&s=460" class="pquote-avatar" alt="avatar" alt="@lord avatar">
   I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
   <p markdown="1" class="pquote-credit">
-— @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
+— @lord, ["새로운 오픈 소스 메인테이너를 위한 팁"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
 ### 생각을 소통하기
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+규칙은 신경 쓰면 더 쓰일 수 있습니다. 때로는 다른 사람들의 행동을 감시하거나 모든 재미를 없애는 것처럼 느껴질 수도 있습니다.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+그러나 공정하게 작성되고 시행되면, 좋은 규칙은 메인테이너에게 힘을 줍니다. 그것들은 당신이 하고 싶지 않은 일을 하도록 끌리지 못하게 합니다.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+프로젝트를 직접 경험하는 대부분의 사람들은 당신 혹은 당신이 겪는 상황에 대해 알지 못합니다. 그들은 당신이 그것에 대해 일하기 위해 돈을 받는다고 가정 할 지도 모릅니다, 특히 그들이 정기적으로 사용하고 의존하는 것이지요. 어쩌면 한번에 프로젝트에다가 많은 시간을 할애하지만, 이제는 새로운 직업이나 가족 구성원으로 바쁩니다.
 
-All of this is perfectly okay! Just make sure other people know about it.
+이 모든 것은 완벽하게 괜찮습니다! 다른 사람들이 그것에 대해 알고 있는지 확인하시기 바랍니다.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+당신의 프로젝트를 파트 타임으로 유지하거나 순수하게 자원봉사하는 경우, 당신이 가진 시간에 대해 솔직하게 말하십시오. 이것은 프로젝트가 요구하는 시간, 또는 다른 사람들이 당신의 개발에 소비하기를 원하는 시간과 같지 않습니다.
 
-Here are a few rules that are worth writing down:
+다음과 같은 몇 가지 규칙을 적어 두는 것이 좋습니다:
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_ex. "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_ex. "We only spend about 5 hours per week on this project"_)
+* 기여를 검토하고 수락하는 방법 (_Do they need tests? An issue template?_)
+* 당신이 수락할 기여 유형 (_Do you only want help with a certain part of your code?_)
+* 후속 조치가 필요한 순간 (_ex. "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
+* 프로젝트에 할애하는 시간 (_ex. "We only spend about 5 hours per week on this project"_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), 및 [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md)는 메인테이너와 기여자를 위한 기본 원칙이 있는 프로젝트의 몇 가지 예시입니다.
 
 ### 열린 소통을 유지하기
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+상호 작용을 문서화하는 것을 잊지 마십시오. 가능한 모든 곳에서 프로젝트 공개에 대한 소통을 유지하십시오. 누군가가 개인적으로 연락하여 기능 요청 또는 지원 필요성에 대해 토론하려고하면, 정중하게 메일링 리스트 또는 이슈 트래커와 같은 공개 소통 채널로 안내합니다.
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+다른 관리자와 만나거나, 비공개로 중요한 결정을 내릴 경우, 또는 메모를 게시하는 경우에도 마찬가지로, 공개적으로 문서를 기록하십시오.
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+그러면, 커뮤니티에 가입 한 사람은 수년간 그 곳에 있었던 사람과 동일한 정보에 접근 할 수 있습니다.
 
 ## 아니오라고 말하는 것을 배우기
 
