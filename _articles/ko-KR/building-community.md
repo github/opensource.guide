@@ -16,29 +16,29 @@ related:
 
 ## 성공을 위한 프로젝트 설정하기
 
-You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
+프로젝트를 시작하고, 단어를 전파하면, 사람들이 그것을 확인하고 있습니다. 굉장합니다! 자, 어떻게 그들을 주변에 붙이게 할까요?
 
-A welcoming community is an investment into your project's future and reputation. If your project is just starting to see its first contributions, start by giving early contributors a positive experience, and make it easy for them to keep coming back.
+환영하는 커뮤니티는 프로젝트의 미래와 평판에 대한 투자입니다. 프로젝트가 처음으로 기여한 것을 보기 시작한 경우, 초반 참여자에게 긍정적인 경험을 제공하고, 그들이 계속해서 다시 돌아올 수 있도록 하십시오.
 
 ### 사람들이 환영받는다고 느끼게하기
 
-One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
+프로젝트 커뮤니티에 대해 생각하는 한 가지 방법은 @MikeMcQuaid는 [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel)라고 했습니다:
 
 ![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
+커뮤니티를 구축하면서 깔때기의 맨 위에 있는 누군가(잠재 사용자)가 이론적으로 맨 아래(활동중인 관리자)로 나아갈 수있는 방법을 생각해보십시오. 목표는 기여자 환경의 각 단계에서 마찰을 줄이는 것입니다. 사람들이 쉽게 이를 이겨낸다면, 더 많은 일을 하도록 동기 부여를 느낄 것입니다.
 
-Start with your documentation:
+문서화로 시작하기:
 
-* **Make it easy for someone to use your project.** [A friendly README](../starting-a-project/#writing-a-readme) and clear code examples will make it easier for anyone who lands on your project to get started.
-* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) and keeping your issues up-to-date.
+* **프로젝트를 쉽게 사용할 수 있도록하십시오.** [친숙한 README](../starting-a-project/#writing-a-readme)와 명확한 코드 예제를 사용하면 프로젝트에 착수한 모든 사람이 쉽게 시작할 수 있습니다.
+* **기여 방법을 분명히 설명하십시오.**, [CONTRIBUTING 파일](../starting-a-project/#writing-your-contributing-guidelines)를 사용하고 이슈를 최신 상태로 유지하시기바랍니다.
 
-[GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) showed incomplete or confusing documentation is the biggest problem for open source users. Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
+[깃허브의 2017 오픈소스 설문](http://opensourcesurvey.org/2017/)에 따르면 불완전하거나 혼란스러운 문서가 오픈소스 사용자에게 가장 큰 문제임이 드러났습니다. 좋은 문서는 사람들이 프로젝트와 상호 작용하도록 유도합니다. 결국 누군가가 이슈를 열거나 pull request를 합니다. 이러한 상호 작용을 통해 유입 경로로 이동할 수 있습니다.
 
-* **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
-* **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
-* **Be open-minded about the types of contributions you'll accept.** Many contributors start with a bug report or small fix. There are [many ways to contribute](../how-to-contribute/#what-it-means-to-contribute) to a project. Let people help how they want to help.
-* **If there's a contribution you disagree with,** thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project, linking to relevant documentation if you have it.
+* **누군가 새로운 프로젝트를 시작했을 때 관심을 가져주셔서 감사합니다!** 누군가가 돌아오고 싶지 않게 만드는 것은 오직 하나의 부정적인 경험을 필요로 합니다.
+* **반응합니다.** 한 달 동안 문제에 답변하지 않으면, 프로젝트에 대해 이미 잊어 버렸을 가능성이 있습니다.
+* **받아 들일 수있는 기여 유형에 대해 개방적이어야합니다.** 많은 기여자는 버그 신고 또는 작은 수정으로 시작합니다.프로젝트에 [기여 할 수 있는 많은 방법](../how-to-contribute/#what-it-means-to-contribute)이 있습니다. 사람들이 어떻게 도와주고 싶어하는지 돕도록하십시오.
+* **당신이 동의하지 않는 기여가 있다면,** 그들에게 아이디어에 대해 감사하고, 프로젝트의 범위에 맞지 않는 [이유를 설명](../best-practices/#learning-to-say-no)하고, 관련 문서에 링크하면됩니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -48,9 +48,9 @@ Start with your documentation:
   </p>
 </aside>
 
-The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
+오픈 소스 제공자의 대다수는 "임시 기여자"입니다. 때때로 프로젝트에만 기여하는 사람들입니다. 캐주얼 기여자는 프로젝트 진행 속도를 최대로 끌어 올릴 시간이 없을 수도 있기 때문에, 당신의 일은 그들이 기여하기 쉽게 만드는 것입니다.
 
-Encouraging other contributors is an investment in yourself, too. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
+다른 참여자를 격려하는 것은 자신에게도 투자입니다. 가장 열렬한 팬에게 흥분을 줄 수있는 힘을 실어 줄 때, 모든 것을 스스로 할 수있는 부담이 줄어 듭니다.
 
 ### 모든 곳에 문서화하기
 
@@ -62,19 +62,19 @@ Encouraging other contributors is an investment in yourself, too. When you empow
   </p>
 </aside>
 
-When you start a new project, it may feel natural to keep your work private. But open source projects thrive when you document your process in public.
+새로운 프로젝트를 시작하면, 작업을 비공개로 유지하는 것이 자연스럽게 느껴질 수 있습니다. 그러나 오픈소스 프로젝트는 공개적으로 프로세스를 문서화 할 때 번창합니다.
 
-When you write things down, more people can participate at every step of the way. You might get help on something you didn't even know you needed.
+당신이 일을 적을 때, 더 많은 사람들이 모든 단계에서 참여할 수 있습니다. 자신이 필요로 하지 않는 것에 대해서 도움을 받을 수도 있습니다.
 
-Writing things down means more than just technical documentation. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public.
+사물을 쓰는 것은 기술 문서 이상의 것을 의미합니다. 뭔가를 쓰거나 프로젝트에 대해 개인적으로 토론할 충동을 느낄 때마다, 공개 할 수 있는지 스스로에게 자문 해보십시오.
 
-Be transparent about your project's roadmap, the types of contributions you're looking for, how contributions are reviewed, or why you made certain decisions.
+프로젝트의 로드맵, 찾고있는 기여 유형, 기여 검토 방법 또는 특정 결정을 한 이유에 대해 투명하게 하십시오.
 
-If you notice multiple users running into the same problem, document the answers in the README.
+여러 사용자가 동일한 문제를 겪고있는 경우, README에 답변을 문서화하십시오.
 
-For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+회의의 경우, 관련 문제에 메모나 테이크아웃을 게시하는 것을 고려하십시오. 이 투명성 수준에서 얻을 수있는 피드백은 당신을 놀라게 할 수 있습니다.
 
-Documenting everything applies to the work you do, too. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
+모든 것을 문서화하는 것은 당신이 하는 일에도 적용됩니다. 프로젝트에 대한 실질적인 업데이트를 진행중인 경우, pull request에 넣고 진행중인 작업 (WIP)으로 표시합니다. 그렇게하면 다른 사람들이 조기에 프로세스에 참여할 수 있습니다.
 
 ### 반응하기
 
