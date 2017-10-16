@@ -213,70 +213,72 @@ related:
 
 ## 로봇을 가져오기
 
-다른 사람들이 당신을 도울 수있는 작업이있는 것처럼, 인간도 할 일이 없어야합니다. 로봇은 당신의 친구입니다. 그것들을 사용하여 메인테이너로서의 삶을 더 쉽게 만듭니다.
+다른 사람들이 당신을 도울 수있는 작업이 있는 것처럼, 인간도 할 일이 없어야합니다. 로봇은 당신의 친구입니다. 그것들을 사용하여 메인테이너로서의 삶을 더 쉽게 만듭니다.
 
 ### 코드의 품질을 향상시키는 데 필요한 테스트 및 기타 검사
 
-One of the most important ways you can automate your project is by adding tests.
+프로젝트를 자동화하는 가장 중요한 방법 중 하나는 테스트를 추가하는 것입니다.
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+테스트는 기여자가 아무 것도 깨뜨리지 않을 것이라고 확신하는 데 도움이 됩니다. 또한 기여를 신속하게 검토하고 수락하기가 더 쉽습니다. 반응이 좋을수록 커뮤니티의 참여도가 높아집니다.
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Required status checks](https://help.github.com/articles/about-required-status-checks/) on GitHub can help ensure no change gets merged without your tests passing.
+들어오는 모든 기여에 대해 실행할 자동 테스트를 설정하고, 기여자가 테스트를 로컬에서 쉽게 실행할 수 있도록 하십시오. 제출하기 전에 모든 코드가 테스트에 합격해야합니다. 모든 제출물에 대해 최소한의 품질 기준을 설정하는 데 도움이됩니다. GitHub의 [Required status checks](https://help.github.com/articles/about-required-status-checks/)는 테스트 통과없이 변경 사항이 병합되지 않도록 도와줍니다.
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+만약 테스트를 추가한다면, 그들이 당신의 CONTRIBUTING 파일에서 어떻게 작동하는지 설명합시다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/812892?v=3&s=460" class="pquote-avatar" alt="avatar">
   I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust'의 커뮤니티 자동화"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
 ### 자동적인 기본 관리 작업 도구를 사용하기
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
+인기있는 프로젝트를 유지하는 것에 대한 좋은 소식은 다른 메인테이너가 비슷한 문제에 직면해 있고 그에 대한 해결책을 마련한다는 것입니다.
 
-There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
+유지 보수 작업의 일부 측면을 자동화하는 데 도움이되는 [다양한 도구](https://github.com/showcases/tools-for-open-source)가 있습니다. 약간의 예시입니다:
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
+* [semantic-release](https://github.com/semantic-release/semantic-release) 릴리즈를 자동화하기
+* [mention-bot](https://github.com/facebook/mention-bot) pull requests를 위한 잠재적 검토자 언급하기
+* [Danger](https://github.com/danger/danger) 코드 리뷰 자동화를 도와주기
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. You can also set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to manage your email notifications.
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+버그 보고서 및 기타 일반적인 공헌을 위해 GitHub는 [이슈 템플랫과 Pull Request 템플랫](https://github.com/blog/2111-issue-and-pull-request-templates)를 제공합니다, 귀하가 받을 수있는 커뮤니케이션을 합리화하기 위해 만들 수 있습니다. [이메일 필터](https://github.com/blog/2203-email-updates-about-your-own-activity)를 설정하여 전자 메일 알림을 관리 할 수도 있습니다.
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
+좀 더 진보적인 스타일을 원한다면, 스타일 가이드와 linter가 프로젝트 기여를 표준화하고 검토하고 받아들이기가 쉬워질 수 있습니다.
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+그러나, 표준이 너무 복잡하면, 기여에 대한 장벽이 높아질 수 있습니다. 모든 사람의 삶을 편하게 하기위한 규칙만 추가하고 있는지 확인하십시오.
+
+어떤 도구를 사용해야하는지 잘 모르는 경우 다른 인기있는 프로젝트, 특히 생태계에 있는 프로젝트를 살펴보십시오. 예를 들어, 다른 Node 모듈에 대한 기여 프로세스는 어떻게됩니까? 유사한 도구와 접근 방식을 사용하면 프로세스가 대상 기여자에게 더 익숙하게됩니다.
 
 ## 정지를 눌러도 좋습니다
 
-Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
+오픈 소스 작업은 한 때 기쁨을 가져다주었습니다만. 어쩌면 이제는 회피하거나 죄책감을 느낄 수 있습니다.
 
-Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
+아마도 당신은 당신의 프로젝트에 대해 생각할 때 압도 당하거나 두려움에 시달리고 있습니다. 그리고 그 동안 이슈와 pull request가 늘어납니다.
 
-Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
+Burnout은 특히 메인테이너 간에 오픈소스 작업에서 실제로 발생하는 보편적인 문제입니다. 메인테이너로서 여러분의 행복은 모든 오픈소스 프로젝트의 생존을 위한 협상을 할 수 없는 요구 사항입니다.
 
-Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. @brettcannon, a Python core developer, decided to take [a month-long vacation](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering) after 14 years of volunteer OSS work.
+아무 말도하지 말고 쉬쉽시오! 휴가를 위해 번아웃될 때까지 기다릴 필요가 없습니다.
+파이썬 핵심 개발자인 @brettcannon은 14년간 OSS 자원 봉사를 한 후 [1개월간의 휴가](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering)를 하기로 결정했습니다.
 
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+다른 유형의 일과 마찬가지로 정기적인 휴식을 취하면 일에 대해 새롭고, 행복하며, 흥분을 유지할 수 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/36432?v=3&s=400" class="pquote-avatar" alt="avatar">
   In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["조의를 표합니다, 당신은 지금 인기있는 오픈소스 프로젝트의 메인테이너입니다."](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
-Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
+때때로, 모든 사람들이 당신을 필요로 할 때 오픈소스 작업에서 휴식을 취하는 것이 어려울 수 있습니다. 사람들은 심지어 당신이 발걸음을 딛고 죄책감을 갖도록하려고 할 수도 있습니다.
 
-Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
+프로젝트를 떠나려는 동안 사용자와 커뮤니티에 대한 지원을 찾으려면 최선을 다하십시오. 필요한 지원을 찾을 수 없으면 어쨌든 휴식을 취하십시오. 사용할 수 없을 때, 반드시 의사 소통을 해야하므로 응답성이 부족하게하여 사람들에게 혼동을 주지 않도록하십시오.
 
-Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+휴식을 취하는 것은 방학기간 이상 적용됩니다. 주말이나 근무 시간 중에 오픈소스 작업을 하고싶지 않다면, 그 계획을 다른 사람들에게 알려줌으로써 그들은 당신을 귀찮게하지 않을 것입니다.
 
 ## 먼저 자신을 돌보기!
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+인기있는 프로젝트를 유지하려면 성장 초기 단계와는 다른 기술이 필요하지만 그다지 보람이 없습니다. 메인테이너로서, 소수의 사람들이 경험할 수 있는 수준에서 리더십과 개인 기술을 연습하게됩니다. 관리가 항상 쉬운 것은 아니지만, 명확한 경계를 설정하고 자신이 편안하게 느끼는 것을 취하는 것만으로도 행복하고 생기 넘치며 생산적으로 머물 수 있습니다.
