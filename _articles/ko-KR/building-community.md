@@ -14,13 +14,13 @@ related:
   - coc
 ---
 
-## Setting your project up for success
+## 성공을 위한 프로젝트 설정하기
 
 You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
 
 A welcoming community is an investment into your project's future and reputation. If your project is just starting to see its first contributions, start by giving early contributors a positive experience, and make it easy for them to keep coming back.
 
-### Make people feel welcome
+### 사람들이 환영받는다고 느끼게하기
 
 One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
 
@@ -52,7 +52,7 @@ The majority of open source contributors are "casual contributors": people who c
 
 Encouraging other contributors is an investment in yourself, too. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
 
-### Document everything
+### 모든 곳에 문서화하기
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/11321?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -76,7 +76,7 @@ For meetings, consider publishing your notes or takeaways in a relevant issue. T
 
 Documenting everything applies to the work you do, too. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
 
-### Be responsive
+### 반응하기
 
 As you [promote your project](../finding-users), people will have feedback for you. They may have questions about how things work, or need help getting started.
 
@@ -90,7 +90,7 @@ Even if you can't review the request immediately, acknowledging it early helps i
 
 Conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
 
-### Give your community a place to congregate
+### 커뮤니티에 모일 곳을 제공하기
 
 There are two reasons to give your community a place to congregate.
 
@@ -106,11 +106,11 @@ Public communication can be as simple as directing people to open an issue inste
 
 Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
 
-## Growing your community
+## 커뮤니티 성장하기
 
 Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
 
-### Don't tolerate bad actors
+### 나쁜 배우를 용서하지 말기
 
 Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
 
@@ -128,7 +128,7 @@ Regular debates over trivial aspects of your project distracts others, including
 
 When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
 
-### Meet contributors where they're at
+### 장소에 있는 기여자를 만나기
 
 Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
 
@@ -146,7 +146,7 @@ For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts
 
 > We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
 
-### Share ownership of your project
+### 당신의 프로젝트의 소유권 공유하기
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/270108?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -184,7 +184,7 @@ While you may not always find someone to answer the call, putting a signal out t
   </p>
 </aside>
 
-## Resolving conflicts
+## 충돌 해결하기
 
 In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
 
@@ -192,7 +192,7 @@ As your project becomes more popular, more people will take interest in the deci
 
 For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find resolution. But sometimes you run into an issue that's a bit harder to address.
 
-### Set the bar for kindness
+### 친절에 대한 바 설정
 
 When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
 
@@ -210,11 +210,11 @@ Other people are looking to you for guidance. Set a good example. You can still 
 
 Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you.
 
-### Treat your README as a constitution
+### README를 헌법으로 다루기
 
 Your README is [more than just a set of instructions](../starting-a-project/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people are overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher vision of your project. Focusing on your README also depersonalizes the conversation, so you can have a constructive discussion.
 
-### Focus on the journey, not the destination
+### 목적지가 아닌, 여행에 집중하기
 
 Some projects use a voting process to make major decisions. While sensible at first glance, voting emphasizes getting to an "answer," rather than listening to and addressing each other's concerns.
 
@@ -236,7 +236,7 @@ Even if you don't actually adopt a consensus seeking process, as a project maint
 
 Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
 
-### Keep the conversation focused on action
+### 대화는 행동에 초점을 맞추기
 
 Discussion is important, but there is a difference between productive and unproductive conversations.
 
@@ -258,7 +258,7 @@ If a conversation clearly isn't going anywhere, there are no clear actions to be
   </p>
 </aside>
 
-### Pick your battles wisely
+### 현명하게 전투를 선택하기
 
 Context is important. Consider who is involved in the discussion and how they represent the rest of the community.
 
@@ -266,7 +266,7 @@ Is everybody in the community upset about, or even engaged with, this issue? Or 
 
 If the issue does not represent the broader needs of your community, you may just need to acknowledge the concerns of a few people. If this is a recurring issue without a clear resolution, point them to previous discussions on the topic and close the thread.
 
-### Identify a community tiebreaker
+### 커뮤니티 동점자 식별하기
 
 With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, identify an individual or group of people that can serve as a tiebreaker.
 
@@ -274,6 +274,6 @@ A tiebreaker could be the primary maintainer of the project, or it could be a sm
 
 Your tiebreaker should be a last resort. Divisive issues are an opportunity for your community to grow and learn. Embrace these opportunities and use a collaborative process to move to a resolution wherever possible.
 
-## Community is the ❤️ of open source
+## 커뮤니티는 오픈소스의  ❤️ 입니다
 
 Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone out there have an unforgettable open source experience.
