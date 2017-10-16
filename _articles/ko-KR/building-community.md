@@ -1,12 +1,12 @@
 ---
-locale: en-US
-title: Building Welcoming Communities
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
-class: building
+locale: ko-KR
+title: 환영하는 커뮤니티 구축
+description: 사람들이 프로젝트를 사용하고, 기여하고, 전파하도록 격려하는 커뮤니티를 구축합니다.
+class: 구축
 toc:
-  setting-your-project-up-for-success: "Setting your project up for success"
-  growing-your-community: "Growing your community"
-  resolving-conflicts: "Resolving conflicts"
+  setting-your-project-up-for-success: "성공을 위한 프로젝트 설정하기"
+  growing-your-community: "커뮤니티 성장하기"
+  resolving-conflicts: "충돌 해결하기"
 order: 4
 image: /assets/images/cards/building.png
 related:
