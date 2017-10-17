@@ -17,7 +17,7 @@ We've shared our vision and priorities for this project in our [roadmap](docs/ro
 
 ## Contributing
 
-Our goal is for this project to reflect community best practices, so we'd love your input! Got a question or an idea? Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
+This site is powered by [Jekyll](https://jekyllrb.com/). Our goal is for this project to reflect community best practices, so we'd love your input! Got a question or an idea? Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
 
 ## Licenses
 
