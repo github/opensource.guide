@@ -92,13 +92,13 @@ Conversations about your project could also be happening in other places around 
 
 ### 커뮤니티에 모일 곳을 제공하기
 
-There are two reasons to give your community a place to congregate.
+커뮤니티에 모일 수 있는 이유는 두 가지입니다.
 
-The first reason is for them. Help people get to know each other. People with common interests will inevitably want a place to talk about it. And when communication is public and accessible, anybody can read past archives to get up to speed and participate.
+첫번째 이유는 그들을 위한 것입니다. 사람들이 서로를 알게 도와주세요. 공통 관심사를 가진 사람들은 필연적으로 그것에 대해 이야기 할 곳을 원할 것입니다. 커뮤니케이션이 공개되고 접근이 용이할 때, 누구나 과거 아카이브를 읽어 신속하게 참여하고 참여할 수 있습니다.
 
-The second reason is for you. If you don't give people a public place to talk about your project, they will likely contact you directly. In the beginning, it may seem easy enough to respond to private messages "just this once". But over time, especially if your project becomes popular, you will feel exhausted. Resist the temptation to communicate with people about your project in private. Instead, direct them to a designated public channel.
+두 번째 이유는 당신을 위한 것입니다. 사람들에게 프로젝트에 관해 이야기 할 수 있는 공공장소를 제공하지 않으면 직접 연락을 취할 것입니다. 처음에는 개인 메시지에 "단지 한 번" 응답하는 것만큼 쉬운 것처럼 보일 수 있습니다. 그러나 시간이 지남에 따라 프로젝트가 대중화되면 특히 고갈 될 것입니다. 개인적으로 프로젝트에 대한 사람들과 소통하려는 유혹에 현혹되지 마십시오. 대신 지정된 공개 채널로 안내하십시오.
 
-Public communication can be as simple as directing people to open an issue instead of emailing you directly or commenting on your blog. You could also set up a mailing list, or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
+공개 커뮤니케이션은 사람들에게 직접 이메일을 보내거나 블로그에 댓글을다는 대신 문제를 열도록 지시하는 것처럼 간단 할 수 있습니다. 또한 메일 링리스트를 설정하거나 Twitter 계정, 슬랙 또는 IRC 채널을 만들어 사람들이 프로젝트에 관해 이야기 할 수 있습니다. 또는 위의 모든 것을 시도하십시오!
 
 [Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) sets aside office hours every other week to help community members:
 
