@@ -58,7 +58,7 @@ related:
   <img src="https://avatars2.githubusercontent.com/u/11321?v=3&s=400" class="pquote-avatar" alt="avatar">
   Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["지속가능한 오픈소스"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -78,13 +78,13 @@ related:
 
 ### 반응하기
 
-As you [promote your project](../finding-users), people will have feedback for you. They may have questions about how things work, or need help getting started.
+당신의 [프로젝트를 홍보](../finding-users)하는 것처럼, 사람들은 당신을 위해 의견을 갖습니다. 그들은 어떻게 일을하는지, 시작하는 데 도움이 필요하다는 것에 대해 질문을 할 수 있습니다.
 
-Try to be responsive when someone files an issue, submits a pull request, or asks a question about your project. When you respond quickly, people will feel they are part of a dialogue, and they'll be more enthusiastic about participating.
+누군가가 문제를 제기하거나, pull request를 제출하거나, 프로젝트에 관한 질문을 하면 반응을 좋게 하십시오. 신속하게 대처할 때, 사람들은 대화의 일부라고 느낄 것이며, 참여에 더 열렬해질 것입니다.
 
 Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
 
-![Middleman pull request](/assets/images/building-community/middleman_pr.png)
+![중개인 pull request](/assets/images/building-community/middleman_pr.png)
 
 [A Mozilla study found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
 
@@ -120,7 +120,7 @@ Do your best to adopt a zero-tolerance policy towards these types of people. If 
   <img src="https://avatars0.githubusercontent.com/u/633012?v=3&s=460" class="pquote-avatar" alt="avatar">
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
+— @karissa, ["FOSS 프로젝트를 어떻게 실행하는가"](https://karissa.github.io/post/okf-de)
   </p>
 </aside>
 
