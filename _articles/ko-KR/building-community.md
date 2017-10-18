@@ -82,13 +82,13 @@ related:
 
 누군가가 문제를 제기하거나, pull request를 제출하거나, 프로젝트에 관한 질문을 하면 반응을 좋게 하십시오. 신속하게 대처할 때, 사람들은 대화의 일부라고 느낄 것이며, 참여에 더 열렬해질 것입니다.
 
-Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
+요청을 즉시 검토 할 수 없더라도 조기에 이를 인정하면 참여를 늘리는 데 도움이됩니다. @tdreyno가 [Middleman](https://github.com/middleman/middleman/pull/1466)의 pull request에 응답 한 방법은 다음과 같습니다:
 
 ![중개인 pull request](/assets/images/building-community/middleman_pr.png)
 
-[A Mozilla study found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
+48 시간 내에 코드 리뷰를 받은 기여자들이 훨씬 더 높은 수익률과 반복 기여도를 보였습니다는 것을 [모질라 스터디가 발견했습니다](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177).
 
-Conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
+스택 오버플로우, 트위터 또는 레딧과 같은 인터넷상의 다른 장소에서도 프로젝트에 대한 토의가 발생할 수 있습니다. 이러한 장소중 일부에서 알림을 설정하여 누군가가 프로젝트를 언급 할 때 알림을받을 수 있습니다.
 
 ### 커뮤니티에 모일 곳을 제공하기
 
@@ -100,21 +100,21 @@ Conversations about your project could also be happening in other places around 
 
 공개 커뮤니케이션은 사람들에게 직접 이메일을 보내거나 블로그에 댓글을다는 대신 문제를 열도록 지시하는 것처럼 간단 할 수 있습니다. 또한 메일 링리스트를 설정하거나 Twitter 계정, 슬랙 또는 IRC 채널을 만들어 사람들이 프로젝트에 관해 이야기 할 수 있습니다. 또는 위의 모든 것을 시도하십시오!
 
-[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) sets aside office hours every other week to help community members:
+[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved)은 커뮤니티 회원들을 돕기 위해 격주로 근무 시간을 따로 지정합니다:
 
-> Kops also has time set aside every other week to offer help and guidance to the community. Kops maintainers have agreed to set aside time specifically dedicated to working with newcomers, helping with PRs, and discussing new features.
+> Kops는 또한 격주로 커뮤니티에 도움과 안내를 제공하기 위해 시간을 마련했습니다. Kops 메인테이너는 신규 이민자와의 협력, 홍보 및 새로운 기능 토론에 전념 한 시간을 별도로 마련하기로 동의했습니다.
 
-Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
+공공 커뮤니케이션에 대한 주목할만한 예외로는: 1) 보안 문제와 2) 민감한 행동 규범 위반이 있습니다. 사람들이 이러한 문제를 개인적으로 보고 할 수있는 방법을 항상 마련해야합니다. 개인 이메일을 사용하지 않으려면 전용 이메일 주소를 설정하십시오.
 
 ## 커뮤니티 성장하기
 
-Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
+커뮤니티는 매우 강력합니다. 그 힘은 어떻게 사용하는지에 따라 축복이나 저주가 될 수 있습니다. 프로젝트 공동체가 성장함에 따라, 그것이 파괴가 아닌 건설의 힘이 될 수 있도록 돕는 방법이 있습니다.
 
 ### 나쁜 배우를 용서하지 말기
 
-Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
+모든 인기있는 프로젝트는 필연적으로 커뮤니티를 돕기보다는, 해를 입는 사람들을 끌어 들일 것입니다. 그들은 불필요한 논쟁을 시작하거나, 사소한 기능을 말다툼하거나, 다른 사람들을 괴롭힐 수 있습니다.
 
-Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave.
+이러한 유형의 사람들에 대한 제로-관용 정책을 채택하기 위해 최선을 다하십시오. 선택하지 않는다면, 부정적인 사람들이 커뮤니티의 다른 사람들을 불편하게 만듭니다. 그들은 심지어 떠날지도 모릅니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/633012?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -124,27 +124,28 @@ Do your best to adopt a zero-tolerance policy towards these types of people. If 
   </p>
 </aside>
 
-Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
+프로젝트의 사소한 측면에 대한 정기적인 토의는 중요한 작업에 집중하는 것을 포함하여, 다른 사람을 혼란스럽게합니다. 프로젝트에 도착한 새로운 사람들은 이러한 대화를 보고 참여하기를 원하지 않을 수 있습니다.
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
+프로젝트에서 부정적인 행동이 발생하면, 공개적으로 말합니다. 친절하지만 확고한 어조로 왜 그들의 행동이 용납되지 않는지 설명합니다. 문제가 지속되면, [떠날 것을 요청해야 할 수도 있습니다](../code-of-conduct/#enforcing-your-code-of-conduct). [행동 규범](../code-of-conduct/)은 이 대화를 위해 건설적인 가이드가 될겁니다.
 
 ### 장소에 있는 기여자를 만나기
 
-Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
+훌륭한 문서는 커뮤니티가 성장함에 따라 중요해질 것입니다. 프로젝트에 익숙하지 않은 캐주얼 기여자는, 필요한 컨텍스트를 빨리 얻기 위해 문서를 읽습니다.
 
-In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. [Django](https://github.com/django/django), for example, has a special landing page to welcome new contributors.
+CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시오. 이러한 목적으로 전용 섹션을 만들고 싶을 수도 있습니다. [Django](https://github.com/django/django)를 예로 들어보면, 새로운 참여자를 환영 할 수 있는 특별 방문 페이지가 있습니다.
 
-![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
+![Django 새로운 기여자 페이지](/assets/images/building-community/django_new_contributors.png)
 
-In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first bug"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
+이슈 대기열에서, 기여자의 다른 유형에 적합한 버그 라벨을 붙이십시오: 예를 들어, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first bug"_, 혹은 _"documentation"_이 있습니다. [이 라벨들은](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
+프로젝트에 익숙하지 않은 사용자가 문제를 신속하게 스캔하고 시작하기가 쉽습니다.
 
-Finally, use your documentation to make people feel welcome at every step of the way.
+마지막으로, 문서를 사용하여 사람들이 모든 단계에서 환영받는다고 느끼게하십시오.
 
-You will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Even a few kind words can keep someone from leaving your project in frustration.
+프로젝트에 도착한 대부분의 사람들과 결코 상호 작용하지 않습니다. 누군가가 협박을 당하거나 어디에서 시작해야할지 모르기 때문에 당신이 받지 못한 기여가 있을 수 있습니다. 몇 가지 종류의 단어조차도 누군가가 귀하의 프로젝트에서 좌절감에서 벗어나지 못하게합니다.
 
-For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts [its contributing guide](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+예시로, 여기 [Rubinius](https://github.com/rubinius/rubinius/)가 [기여 가이드](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)를 시작하는 방법은 다음과 같습니다:
 
-> We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
+> Rubinius를 사용해 주셔서 감사드립니다. 이 프로젝트는 사랑의 노동이며, 버그를 포착하고 성능을 개선하며, 문서화에 도움이 되는 모든 사용자에게 감사드립니다. 모든 기여는 의미가 있으므로, 참여해 주셔서 감사합니다. 말하지면, 우리가 귀하의 문제를 성공적으로 해결할 수 있도록 따라야 할 몇 가지 지침이 있습니다.
 
 ### 당신의 프로젝트의 소유권 공유하기
 
@@ -152,49 +153,49 @@ For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts
   <img src="https://avatars3.githubusercontent.com/u/270108?v=3&s=400" class="pquote-avatar" alt="avatar">
   Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sarahsharp, ["좋은 커뮤니티는 어떻게 만듭니까?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-People are excited to contribute to projects when they feel a sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you give credit to others, the more they'll stick around.
+사람들은 소유권을 느낄 때 프로젝트에 기여하게 되어 기쁩니다. 그렇다고 해서 프로젝트의 비전을 뒤집거나 원하지 않는 기여를 받아 들일 필요가 있다는 것을 의미하지는 않습니다. 그러나 당신이 다른 사람에게 더 많은 것을 줄수록, 더 많이 붙어있게됩니다.
 
-See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
+가능한 커뮤니티와 소유권을 공유하는 방법을 찾을 수 있는지 확인하십시오. 다음은 몇 가지 아이디어입니다:
 
-* **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
+* **쉬운(중요하지 않은) 버그를 수정하는 것을 방지**하는 대신, 그것들로 새로운 기부자를 모집 할 기회로 사용하거나, 기여하고자 하는 사람을 멘토링하십시오. 초기에는 부자연스럽게 보일 수 있지만, 시간이 지남에 따라 투자가 이루어집니다. 예시로, @michaeljoseph가 기여자에게 직접 아래의 [Cookiecutter](https://github.com/audreyr/cookiecutter) 이슈에 대한 pull request을 제출하도록 요청했습니다.
 
-![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
+![Cookiecutter 이슈](/assets/images/building-community/cookiecutter_submit_pr.png)
 
 * **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) does.
 
-* If you've got a sizable community, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+* 만약 상당한 규모의 커뮤니티가 있다면, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
 
 * **Give every contributor commit access.** @felixge found that this made people [more excited to polish their patches](http://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
 
-* If your project is on GitHub, **move your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. Organizations make it easier to work on projects with external collaborators.
+* 만약 프로젝트가 깃허브에 있는 경우, **move your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. 조직에서는 외부 공동 작업자와 함께 프로젝트를 보다 쉽게 ​​작업 할 수 있습니다.
 
-The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. The bigger your project, and the bigger your community, the easier it is to find help.
+The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. 프로젝트가 커지고, 커뮤니티가 커질수록 쉽게 도움을 얻을 수 있습니다.
 
-While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
+전화를 받는 사람을 항상 찾지는 못하더라도, 신호를 내보내는 것은 다른 사람들이 들어올 확률을 높입니다. 그리고 일찍 시작할수록 더 빨리 사람들이 도울 수 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/39992?v=3&s=400" class="pquote-avatar" alt="avatar">
   \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["환영하는 커뮤니티"](http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 
 ## 충돌 해결하기
 
-In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
+프로젝트의 초기 단계에서, 중요한 결정을 내리는 것은 쉽습니다. 당신이 무언가를 하고 싶을 때, 그것을 합니다.
 
-As your project becomes more popular, more people will take interest in the decisions you make. Even if you don't have a big community of contributors, if your project has a lot of users, you'll find people weighing in on decisions or raising issues of their own.
+프로젝트가 인기화되면서, 더 많은 사람들이 의사 결정에 관심을 가질 것입니다. 기여자가 큰 커뮤니티에 없더라도, 프로젝트에 많은 사용자가 있는 경우 의사 결정에 중점을 두거나 자신의 문제를 제기하는 사람들을 찾을 수 있습니다.
 
-For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find resolution. But sometimes you run into an issue that's a bit harder to address.
+대부분, 친근하고 정중한 공동체를 육성하고, 공개적으로 프로세스를 문서화 한 경우, 커뮤니티는 해결책을 찾아야합니다. 그러나 때로는 문제를 해결하기가 더 어려워집니다.
 
 ### 친절에 대한 바 설정
 
-When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
+귀하의 지역 사회가 어려운 이슈로 어려움을 겪을 때, 기분이 좋아질 수 있습니다. 사람들은 화가 나거나 좌절감을 느껴 다른 사람이나 당신이 다른 사람에게 가져갈 수 있습니다.
 
 Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
 
@@ -202,13 +203,13 @@ Your job as a maintainer is to keep these situations from escalating. Even if yo
   <img src="https://avatars2.githubusercontent.com/u/119893?v=3&s=400" class="pquote-avatar" alt="avatar">
   As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["정성을 들이거나 당신의 길로 가기"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
-Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly.
+다른 사람들은 당신에게 인도를 구합니다. 좋은 모범을 보입니다. 여전히 실망, 불행 또는 염려를 표현할 수 있지만 침착하게 행동하십시오.
 
-Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you.
+시원하게 유지하는 것은 쉽지 않지만, 리더십을 입증하면 커뮤니티의 건강이 향상됩니다. 인터넷에게 감사합니다.
 
 ### README를 헌법으로 다루기
 
@@ -228,52 +229,52 @@ Under a consensus seeking process, community members discuss major concerns unti
   <img src="https://avatars3.githubusercontent.com/u/1038121?v=3&s=460" class="pquote-avatar" alt="avatar">
   Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on [Atom의 의사 결정 과정](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
 </aside>
 
-Even if you don't actually adopt a consensus seeking process, as a project maintainer, it's important that people know you are listening. Making other people feel heard, and committing to resolving their concerns, goes a long way to diffuse sensitive situations. Then, follow up on your words with actions.
+실제로 프로젝트 메인테이너로서, 합의 과정을 추구하지 않더라도 사람들이 듣고 있다는 사실을 아는 것이 중요합니다. 다른 사람들이 느끼는 것을 느끼게하고, 자신의 우려를 해결하기 위해 노력하는 것은 민감한 상황을 확산시키는 데 많은 도움이됩니다. 그런 다음, 당신의 말을 행동으로 후속 조치하십시오.
 
-Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
+결단을 내리기 위해 서두르지 마십시오. 모든 사람이 의견을 듣고 모든 정보가 공개되기 전에 공개되도록 해야합니다.
 
 ### 대화는 행동에 초점을 맞추기
 
-Discussion is important, but there is a difference between productive and unproductive conversations.
+토론은 중요하지만, 생산적 대화와 비생산적 대화의 차이점이 있습니다.
 
-Encourage discussion so long as it is actively moving towards resolution. If it's clear that conversation is languishing or going off-topic, jabs are getting personal, or people are quibbling about minor details, it's time to shut it down.
+그것이 적극적으로 결의안을 향해 움직이는 한 토론을 장려하십시오. 대화가 심해지거나 화제가되는 것이 확실하다면, 잽이 개인적으로 달라 지거나, 사람들이 사소한 세부 사항에 대해 애매한 말을 하고 있습니다.
 
-Allowing these conversations to continue is not only bad for the issue at hand, but bad for the health of your community. It sends a message that these types of conversations are permitted or even encouraged, and it can discourage people from raising or resolving future issues.
+이러한 대화를 계속하도록 허용하는 것은 당면 문제에 좋지 않을뿐 아니라 커뮤니티의 건강에 좋지 않습니다. 이러한 유형의 대화가 허용되거나 심지어 권장된다는 메시지를 보내고, 사람들이 향후 문제를 제기하거나 해결하지 못하도록 막을 수 있습니다.
 
-With every point made by you or by others, ask yourself, _"How does this bring us closer to a resolution?"_
+당신이나 다른 사람들이 만든 모든 요점으로, 자신에게 _"이것이 우리를 어떻게 결의안에 더 가까이 가게 할 수 있습니까?"_라고 물어봅니다.
 
-If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
+대화가 풀리기 시작하면, 대화에 재집중하고자 _"다음 단계는 무엇입니까?"_라고 그룹에 요청하십시오.
 
-If a conversation clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the issue and explain why you closed it.
+대화가 명확하게 어디로도 가지 않는 경우, 명확한 조치가 취해지지 않았거나 적절한 조치가 이미 취해져서, 문제를 종결하며 이유를 설명합니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
   Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.  
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_OSS 생성하기_](http://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 
 ### 현명하게 전투를 선택하기
 
-Context is important. Consider who is involved in the discussion and how they represent the rest of the community.
+상황이 중요합니다. 토론에 참여한 사람과 그들이 커뮤니티의 나머지 부분을 대표하는 방법을 고려하십시오.
 
-Is everybody in the community upset about, or even engaged with, this issue? Or is a lone troublemaker? Don't forget to consider your silent community members, not just the active voices.
+커뮤니티의 모든 사람들이 이 문제에 대해 화가 나거나, 심지어 이 이슈에 관여 했습니까? 또는 트러블메이커입니까? 적극적인 목소리가 아닌 조용한 커뮤니티 회원을 고려하는 것을 잊지 마십시오.
 
-If the issue does not represent the broader needs of your community, you may just need to acknowledge the concerns of a few people. If this is a recurring issue without a clear resolution, point them to previous discussions on the topic and close the thread.
+이 문제가 커뮤니티의 광범위한 요구를 반영하지 않는다면, 소수의 사람들의 우려를 인정할 필요가 있습니다. 명확한 해결 방법이 없는 반복되는 문제인 경우, 주제에 대한 이전 토론을 지정하고 스레드를 닫습니다.
 
 ### 커뮤니티 동점자 식별하기
 
-With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, identify an individual or group of people that can serve as a tiebreaker.
+좋은 태도와 명확한 의사 전달을 통해, 가장 어려운 상황을 해결할 수 있습니다. 그러나 생산적인 대화에서 조차, 진행 방법에 대한 견해 차이가 있을 수 있습니다. 이러한 경우에는, 동점자 역할을 할 수 있는 개인 또는 그룹을 식별하십시오.
 
-A tiebreaker could be the primary maintainer of the project, or it could be a small group of people who make a decision based on voting. Ideally, you've identified a tiebreaker and the associated process in a GOVERNANCE file before you ever have to use it.
+tiebreaker는 프로젝트의 주요 관리자가 될 수도 있고, 투표를 기반으로 결정을 내릴 수 있는 소규모 그룹 일 수도 있습니다. 이상적으로, 당신은 tiebreaker와 관련 프로세스를 GOVERNANCE 파일에서 식별하여 사용해야합니다.
 
-Your tiebreaker should be a last resort. Divisive issues are an opportunity for your community to grow and learn. Embrace these opportunities and use a collaborative process to move to a resolution wherever possible.
+당신의 tiebreaker는 최후의 수단이어야합니다. 분열적인 이슈는 커뮤니티가 성장하고 배울 수있는 기회입니다. 이러한 기회를 포용하고 협업 프로세스를 사용하여 가능하면 해결 방법으로 이동하십시오.
 
 ## 커뮤니티는 오픈소스의  ❤️ 입니다
 
-Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone out there have an unforgettable open source experience.
+건강하고, 번영하는 커뮤니티는 매주 수천 시간을 오픈소스에 쏟아 붓고 있습니다. 많은 기여자가 오픈소스에서 일하는 이유 - 또는 일하지 않는 이유 - 를 다른 사람들에게 지적합니다. 그 힘을 건설적인 방법으로 활용하는 방법을 배우면, 잊지 못할 오픈소스 경험이 있는 누군가를 도울 수 있습니다.
