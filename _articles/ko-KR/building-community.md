@@ -167,13 +167,13 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
 
 * **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) does.
 
-* 만약 상당한 규모의 커뮤니티가 있다면, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+* 만약 상당한 규모의 커뮤니티가 있다면, 기여자들에게 감사하는 **뉴스 레터를 보내거나 블로그 포스트를 작성하십시오**. Rust의 [This Week in Rust](https://this-week-in-rust.org/)와 Hoodie의 [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html)는 두개의 좋은 예시입니다.
 
-* **Give every contributor commit access.** @felixge found that this made people [more excited to polish their patches](http://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
+* **모든 참여자에게 커밋 접근 권한을 부여하십시오.** @felixge는 이것이 사람들로 하여금 [패치를 작성하는 것에 더 흥분하도록](http://felixge.de/2013/03/11/the-pull-request-hack.html) 만들었고, 잠시동안 일하지 않은 프로젝트에 대한 새로운 메인테이너를 발견했습니다.
 
-* 만약 프로젝트가 깃허브에 있는 경우, **move your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. 조직에서는 외부 공동 작업자와 함께 프로젝트를 보다 쉽게 ​​작업 할 수 있습니다.
+* 만약 프로젝트가 깃허브에 있는 경우, .**프로젝트를 개인 계정에서 [조직](https://help.github.com/articles/creating-a-new-organization-account/)으로 옮기고** 하나 이상의 백업 관리자를 추가하십시오. 조직에서는 외부 공동 작업자와 함께 프로젝트를 보다 쉽게 ​​작업 할 수 있습니다.
 
-The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. 프로젝트가 커지고, 커뮤니티가 커질수록 쉽게 도움을 얻을 수 있습니다.
+실제로 [대부분의 프로젝트](https://peerj.com/preprints/1233.pdf)는 대부분의 작업을 수행하는 1 ~ 2 명의 메인테이너만 있습니다. 프로젝트가 커지고, 커뮤니티가 커질수록 쉽게 도움을 얻을 수 있습니다.
 
 전화를 받는 사람을 항상 찾지는 못하더라도, 신호를 내보내는 것은 다른 사람들이 들어올 확률을 높입니다. 그리고 일찍 시작할수록 더 빨리 사람들이 도울 수 있습니다.
 
@@ -197,7 +197,7 @@ The reality is that [most projects only have](https://peerj.com/preprints/1233.p
 
 귀하의 지역 사회가 어려운 이슈로 어려움을 겪을 때, 기분이 좋아질 수 있습니다. 사람들은 화가 나거나 좌절감을 느껴 다른 사람이나 당신이 다른 사람에게 가져갈 수 있습니다.
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
+메인테이너로서의 당신의 임무는 이러한 상황이 악화되는 것을 막는 것입니다. 주제에 대해 강한 의견을 갖고 있다고해도, 시합에 뛰어 들고 의견을 피하는 대신 메인테이너 또는 진행자의 입장을 취하십시오. 누군가가 불친절하거나 대화를 독점한다면, 토론을 시민적이고 생산적으로 유지하기 위해 [즉시 행동하십시오](../ building-community / # dont-tolerate-bad-actors).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/119893?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -213,17 +213,17 @@ Your job as a maintainer is to keep these situations from escalating. Even if yo
 
 ### README를 헌법으로 다루기
 
-Your README is [more than just a set of instructions](../starting-a-project/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people are overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher vision of your project. Focusing on your README also depersonalizes the conversation, so you can have a constructive discussion.
+귀하의 README는 [일련의 지시 사항 이상](../starting-a-project/#writing-a-readme)입니다. 또한 목표, 제품 비전 및 로드맵에 대해 이야기 할 수 있는 장소이기도 합니다. 사람들이 특정 기능의 장점에 대해 토론하는 데 지나치게 집중한다면, README를 다시 읽고 프로젝트의 더 높은 비전에 대해 이야기하는 것이 도움이 될 수 있습니다. README에 초점을 맞추면 대화를 비 개인화하므로 건설적인 토론을 할 수 있습니다.
 
 ### 목적지가 아닌, 여행에 집중하기
 
-Some projects use a voting process to make major decisions. While sensible at first glance, voting emphasizes getting to an "answer," rather than listening to and addressing each other's concerns.
+일부 프로젝트는 주요 결정을 내리기 위해 투표 프로세스를 사용합니다. 언뜻보기에 합당한 반면, 투표는 서로의 의견을 경청하고 다루기보다 "대답"을 얻는 것을 강조합니다.
 
-Voting can become political, where community members feel pressured to do each other favors or vote a certain way. Not everybody votes, either, whether it's the [silent majority](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in your community, or current users who didn't know a vote was taking place.
+투표는 정치적으로 진행될 수 있으며, 커뮤니티 멤버들은 서로에게 호의를 베풀거나 특정 방식으로 투표하도록 압박을 느끼고 있습니다. 모든 사람이 투표를하든, [다수가 침묵][silent majority](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users)이든간에, 또는 사용자가 커뮤니티에서 투표를하지 못했거나 투표를 모르는 현재 사용자가 발생할겁니다.
 
-Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) rather than consensus.
+때로는, 투표는 필요한 동점자입니다. 그러나 합의가 아닌 당신이 할 수있는만큼 ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)를 강조합니다.
 
-Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
+합의를 추구하는 과정에서, 커뮤니티 구성원들은 그들이 적절하게 의견을 들을 때까지 주요 관심사에 대해 논의합니다. 사소한 우려가 남아있을 때, 커뮤니티는 앞으로 나아갑니다. "Consensus seeking"는 커뮤니티가 완벽한 대답에 도달하지 못할 수도 있음을 인정합니다. 대신 듣기와 토론의 우선 순위를 정합니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/1038121?v=3&s=460" class="pquote-avatar" alt="avatar">
