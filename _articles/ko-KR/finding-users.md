@@ -40,7 +40,7 @@ For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](
 <aside markdown="1" class="pquote">
   You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
   <p markdown="1" class="pquote-credit">
-— Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+— Peter Cooper & Robert Nyman, ["코드에 대한 단어 확산 방법"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
@@ -54,7 +54,7 @@ If you don't wish to set up these channels for your project yet, promote your ow
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
   A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
   <p markdown="1" class="pquote-credit">
-— @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+— @nathanmarz, ["Apache 폭풍의 역사와 교훈"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
@@ -78,7 +78,7 @@ Take advantage of existing online communities and platforms to reach your audien
   <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
   Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["오픈소스 프로젝트에서의 마케팅"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
@@ -104,7 +104,7 @@ If you're [new to public speaking](http://speaking.io/), start by finding a loca
   <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
   I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["나는 PyCon을 걱정하지않고 좋아하는 방법을 어떻게 배웠나"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
@@ -116,7 +116,7 @@ As you write your talk, focus on what your audience will find interesting and ge
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["Tech Conference Talk를 준비하고 작성하는 방법"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
@@ -128,7 +128,7 @@ Look for conferences that are specific to your language or ecosystem. Before you
   <img src="https://avatars2.githubusercontent.com/u/80?v=3&s=460" class="pquote-avatar" alt="avatar">
   I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
   <p markdown="1" class="pquote-credit">
-— @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
+— @ry, ["Node.js의 기록" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
 </aside>
 
@@ -144,7 +144,7 @@ Sometimes, these relationships can even lead to official partnerships with the w
   <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar" alt="avatar">
   The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
   <p markdown="1" class="pquote-credit">
-— @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+— @shazow, ["오픈소스 프로젝트를 번성하게 만드는 방법"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
   </p>
 </aside>
 
@@ -156,10 +156,10 @@ There is no overnight solution to building an audience. Gaining the trust and re
   <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
   PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
   <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
+— @ariya, ["메인테이너 이야기"](https://github.com/open-source/stories/ariya)
   </p>
 </aside>
 
 ## 견딥시다!
 
-Sometimes, it takes a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of a magic bullet. Be patient, and keep sharing your work with those who appreciate it.
+때로는, 사람들이 오픈소스 프로젝트에 주목하기까지는 시간이 오래 걸립니다. 괜찮습니다! 오늘날 가장 인기있는 프로젝트 중 일부는 높은 수준의 활동에 도달하기까지 수년이 걸렸습니다. 마술 총알 대신 관계를 구축하는 데에 집중하십시오. 인내심을 갖고, 감사해하는 사람들과 일하는 결과물을 계속 공유하십시오.
