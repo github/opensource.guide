@@ -1,15 +1,15 @@
 ---
-locale: en-US
-title: Finding Users for Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
-class: finding
+locale: ko-KR
+title: 프로젝트에서 사람찾기
+description: 행복한 사용자의 손에 넣어져서 오픈소스 프로젝트의 성장을 도우십시오.
+class: 찾기
 toc:
-  spreading-the-word: "Spreading the word"
-  figure-out-your-message: "Figure out your message"
-  help-people-find-and-follow-your-project: "Help people find and follow your project"
-  go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
-  go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
-  build-a-reputation: "Build a reputation"
+  spreading-the-word: "단어 확산하기"
+  figure-out-your-message: "메시지 이해하기"
+  help-people-find-and-follow-your-project: "사람들이 프로젝트를 찾고 팔로우하도록 돕기"
+  go-where-your-projects-audience-is-online: "프로젝트의 지지자가 있는 (온라인)으로 이동하기"
+  go-where-your-projects-audience-is-offline: "프로젝트의 지지자가 있는 (오프라인)으로 이동하기"
+  build-a-reputation: "평판 쌓기"
 order: 3
 image: /assets/images/cards/finding.png
 related:
@@ -17,11 +17,11 @@ related:
   - building
 ---
 
-## Spreading the word
+## 단어 확산하기
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you are hoping others will find and use your open source project, however, it's time to tell everybody about your hard work!
+출시 할 때 오픈소스 프로젝트를 홍보해야한다는 규정은 없습니다. 인기와 아무런 관련이 없는 오픈소스에서 일하는 많은 성취 이유가 있습니다. 그러나 다른 사람들이 오픈소스 프로젝트를 찾고 사용할 수 있기를 희망한다면, 이제는 모든 사람들에게 열심히 일하게 할 시간입니다!
 
-## Figure out your message
+## 매시지 이해하기
 
 Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
 
@@ -35,7 +35,7 @@ For example, @robb uses code examples to clearly communicate why his project, [C
 
 For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
 
-## Help people find and follow your project
+## 사람들이 프로젝트를 찾고 팔로우하도록 도와주기
 
 <aside markdown="1" class="pquote">
   You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
@@ -68,7 +68,7 @@ If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.gi
 
 Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
 
-## Go where your project's audience is (online)
+## 프로젝트의 지지자가 있는 (온라인)으로 이동하기
 
 Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
 
@@ -92,7 +92,7 @@ Generally speaking, focus on helping others before asking for things in return. 
 
 If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. These things take time and dedication.
 
-## Go where your project's audience is (offline)
+## 프로젝트의 지지자가 있는 (오프라인)으로 이동하기
 
 ![Public speaking](/assets/images/finding-users/public_speaking.jpg)
 
@@ -132,7 +132,7 @@ Look for conferences that are specific to your language or ecosystem. Before you
   </p>
 </aside>
 
-## Build a reputation
+## 평판 쌓기
 
 In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
 
@@ -160,6 +160,6 @@ There is no overnight solution to building an audience. Gaining the trust and re
   </p>
 </aside>
 
-## Keep at it!
+## 견딥시다!
 
 Sometimes, it takes a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of a magic bullet. Be patient, and keep sharing your work with those who appreciate it.
