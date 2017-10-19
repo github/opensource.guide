@@ -17,11 +17,11 @@ related:
 
 ## 왜 행동강령이 필요합니까?
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+행동강령은 프로젝트 참가자의 행동에 대한 기대치를 설정하는 문서입니다. 행동 강령을 채택하고, 시행하면 커뮤니티에 긍정적인 사회적 분위기를 조성하는데 도움이 될 수 있습니다.
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+행동강령은 참가자뿐만 아니라, 자신을 보호하는 데 도움이 됩니다. 프로젝트를 유지하다 보면, 다른 참가자의 비생산적인 태도로 인해 시간이 지남에 따라 업무가 없어지거나 불편해질 수 있습니다.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+행동강령은 건강하고, 건설적인 커뮤니티 행동을 촉진할 수 있도록 해줍니다. 능동적으로 행동하면 자신이나 다른 사람들이 프로젝트에 피로를 느끼게 될 가능성을 낮추고, 누군가가 동의하지 않을 때 조치를 취할 수 있도록 도와줍니다.
 
 ## 행동강령 수립하기
 
