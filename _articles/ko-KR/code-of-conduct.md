@@ -17,7 +17,7 @@ related:
 
 ## 왜 행동강령이 필요합니까?
 
-행동강령은 프로젝트 참가자의 행동에 대한 기대치를 설정하는 문서입니다. 행동 강령을 채택하고, 시행하면 커뮤니티에 긍정적인 사회적 분위기를 조성하는데 도움이 될 수 있습니다.
+행동강령은 프로젝트 참가자의 행동에 대한 기대치를 설정하는 문서입니다. 행동강령을 채택하고, 시행하면 커뮤니티에 긍정적인 사회적 분위기를 조성하는데 도움이 될 수 있습니다.
 
 행동강령은 참가자뿐만 아니라, 자신을 보호하는 데 도움이 됩니다. 프로젝트를 유지하다 보면, 다른 참가자의 비생산적인 태도로 인해 시간이 지남에 따라 업무가 없어지거나 불편해질 수 있습니다.
 
@@ -25,95 +25,95 @@ related:
 
 ## 행동강령 수립하기
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+가능한 빨리 행동강령을 수립하십시오: 이상적으로, 처음 프로젝트를 만들 때입니다.
 
-In addition to communicating your expectations, a code of conduct describes the following:
+귀하의 기대에 대한 의사 소통 이외에도, 행동강령은 다음을 설명합니다:
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+* 행동강령이 효력을 발생하는 곳 _(only on issues and pull requests, or community activities like events?)_
+* 행동강령이 누구에게 적용되는지 _(community members and maintainers, but what about sponsors?)_
+* 누군가가 행동강령을 위반하면 어떻게되는가
+* 누군가가 위반 사례를 신고 할 수 있는 방법
 
-Wherever you can, use prior art. The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+가능한 모든 곳에서 이전 기술을 사용하십시오. [기여자 규약](http://contributor-covenant.org/)은 Kubernetes, Rails 및 Swift를 포함하여 40,000 개 이상의 오픈 소스 프로젝트에서 사용되는 행동강령입니다.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
+[Django 행동강령](https://www.djangoproject.com/conduct/)과 [Citizen 행동강령](http://citizencodeofconduct.org/)은 두가지 훌륭한 행동강령입니다.
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
+프로젝트의 최상단 디렉토리에 CODE_OF_CONDUCT 파일을 놓고 CONTRIBUTING 또는 README 파일에서 링크하여 커뮤니티에 표시되게 하십시오.
 
 ## 행동강령을 어떻게 적용 할 것인지 결정하기
 
 <aside markdown="1" class="pquote">
   A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada 발의](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+위반이 발생하기 **_전에_** 귀하의 행동 규범이 어떻게 시행되는지 설명해야합니다. 이렇게해야 할 몇 가지 이유가 있습니다:
 
-* It demonstrates that you are serious about taking action when it's needed.
+* 필요한 때에 행동을 취하는 것에 대해 진지하다는 것을 보여줍니다.
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* 커뮤니티는 불만 사항이 실제로 검토 될 것이라는 것에 확신합니다.
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* 검토 프로세스가 공정하고 투명하다는 사실을 커뮤니티에 확신시켜 줄겁니다.
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+행동강령을 보고하고 누가 그 보고서를 받았는지 설명하기 위해 사람들에게 사적인 (이메일 주소같은) 방법을 제공해야합니다. 메인테이너, 그룹 메인테이너 또는 행동강령 그룹이 될 수 있습니다.
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+누군가 그 보고서를 받는 사람에 대한 위반 사항을 보고하기를 원할 수도 있다는 것을 잊지 마십시오. 이 경우, 위반 사항을 다른 사람에게 보고 할 수있는 옵션을 제공하십시오. 예시로, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer)가 있습니다:
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> 학대, 괴롭힘 또는 기타 용납 될 수없는 행동의 사례는 C.kidman Brown과 Michael R. Crusoe에게만 보내지는 **khmer-project@idyll.org** 로 이메일을 보내서 신고할 수 있습니다. 두 가지 중 하나와 관련된 문제를 신고하려면  BEACON 행동 과학 연구 센터 (NSF Center for Science and Technology)의 다양성 책임자 (Diversity Director)인 **Judi Brown Clarke 박사**에게 이메일을 보내 주시기 바랍니다
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+영감을 얻으려면, Django의 [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/)를 확인해봅니다(프로젝트의 크기에 따라 이 포괄적인 것을 필요로 하지 않을 수도 있습니다).
 
-## 행동강령 지키지
+## 행동강령 지키기
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+때로는, 최선의 노력에도 불구하고, 누군가 이 코드를 위반하는 행동을 취할 때가 있습니다. 부정적인 행동이나 유해한 행동을 해결할 수 있는 몇 가지 방법이 있습니다.
 
 ### 상황에 대한 정보 수집하기
 
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+각 커뮤니티 회원의 목소리를 자신의 목소리만큼 중요하게 생각하십시오. 누군가 행동강령을 위반했다는 보고를 받으면, 그 사람과 자신의 경험이 일치하지 않더라도, 진지하게 조사하여 문제를 조사하십시오. 그렇게함으로써 커뮤니티에 자신의 관점을 소중히 여기며 자신의 판단을 신뢰하게됩니다.
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+문제의 공동체 구성원은 일관되게 다른 사람들을 불편하게하는 반복적인 범죄자 일 수도 있고, 한번만 말했거나 했을 수도 있습니다. 두 가지 모두 상황에 따라 조치를 취할 근거가 될 수 있습니다.
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+응답하기 전에, 일어난 일을 이해 할 시간을 주십시오. 그 사람의 과거 의견과 대화를 통해 그들이 누구인지 이해하고 그런 행동을 한 이유에 대해 알아보십시오. 이 사람과 그들의 행동에 관해 자신의 관점 이외의 관점을 모아보십시오.
 
 <aside markdown="1" class="pquote">
   Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
   <p markdown="1" class="pquote-credit">
-— Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
+— Stephanie Zvan, ["그래서 당신은 스스로 정책을 가졌습니다. 지금?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
 </aside>
 
 ### 적절한 행동을 취하기
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+충분한 정보를 수집하고 처리 한 후에는, 무엇을 해야 할 지 결정해야합니다. 다음 단계를 고려할 때, 모더레이터로서의 목표는 안전하고 존중받으며 협력적인 환경을 조성하는 것임을 기억하십시오. 문제의 상황을 다루는 방법뿐만 아니라 응답이 지역 사회의 행동 및 기대 사항의 나머지 부분에 어떻게 영향을 미치는지 고려하십시오.
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+누군가가 행동강령을 위반했다는 사실을 보고하면, 그것을 처리하는 것은 당신의 것이 아닙니다. 때로는 기자가 자신의 경력, 평판 또는 신체적 안전에 큰 위험을 안고 정보를 공개하는 경우가 있습니다. 그들이 괴롭힘에 맞서도록 강요하면 기자를 타협의 입장에 놓을 수 있습니다. 기자가 명시적으로 달리 요구하지 않는 한, 문제의 사람과 직접 대화를 해야합니다.
 
-There are a few ways you might respond to a code of conduct violation:
+행동 규범 위반에 대응할 수 있는 몇 가지 방법이 있습니다:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **문제의 사람에게 공개적으로 경고를 제공**하고 자신의 행동이 다른 사람, 바람직하게는 발생한 채널의 부정적인 영향을 설명합니다. 가능하다면 공개 통신은 나머지 커뮤니티에 당신이 행동 강령을 진지하게 받아 들일 수 있도록 전달합니다. 귀하의 의사 소통은 친절하지만 확고해야합니다.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* 자신의 행동이 다른 사람들에게 어떻게 부정적 영향을 주었는지 설명하기 위해 문제의 **사람에게 개인적으로 연락**하십시오. 상황에 민감한 개인 정보가 관련된 경우, 개인 통신 채널을 사용할 수 있습니다. 사적으로 누군가와 의견을 나누는 경우, 처음 상황을 보고 한 사람들을 참조하면 행동을 취한 것입니다. 보고자에게 CC를 보내기 전에 동의 여부를 묻습니다.
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+경우에 따라, 해결 방법에 도달 할 수 없습니다. 문제의 사람은 대면 할 때 공격적이거나 적대적이되거나 행동을 바꾸지 않을 수 있습니다. 이 상황에서 더 강한 행동을 취하는 것이 좋습니다. 예시입니다:
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+* 프로젝트의 모든 측면에 대한 참여를 일시적으로 금지함으로써, 시행된 문제의 **사람을 일시 중지**합니다.
 
-* **Permanently ban** the person from the project
+* 프로젝트에서 이 사람을 **영구적으로 금지**하기
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+금지 회원은 영구적이고 회피 할 수 없는 관점의 차이를 나타나기 때문에 가볍게 생각해서는 안됩니다. 해결 방법에 도달 할 수 없다는 것이 명백 할 때만 이러한 조치를 취해야합니다.
 
-## 관리자로서의 책임지기
+## 메인테이너로서의 책임지기
 
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
+행동강령은 임의적으로 집행되는 법이 아닙니다. 귀하는 행동강령의 집행자이며 행동강령이 정하는 규칙을 준수하는 것은 귀하의 책임입니다.
 
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+메인테이너로서 귀하는 커뮤니티를 위한 지침을 수립하고 귀하의 행동 규범에 명시된 규칙에 따라 지침을 시행하십시오. 이것은 행동강령 위반 신고를 심각하게 받아들이는 것을 의미합니다. 기자는 자신의 불만을 철저하고 공정하게 검토해야합니다. 그들이 보고 한 행동이 위반 사항이 아니라고 판단되면, 그 내용을 명확하게 전달하고 그에 대한 조치를 취하지 않을 이유를 설명하십시오. 그들이 하는 일은 그들에게 달린 것입니다: 문제가 있는 행동을 용인하거나 커뮤니티 참여를 중단하십시오.
 
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+_기술적인_ 행동강령을 위반하지 않는 행동 보고서는 여전히 커뮤니티에 문제가 있음을 나타낼 수 있으므로, 이 잠재적인 문제를 조사하고 그에 따라 행동해야합니다. 여기에는 수용 가능한 행동을 명확히하고 행동이 신고된 사람과 이야기하고, 행동강령을 위반하지 않았지만 예상되는 것의 가장자리를 뛰어 넘고 있으며 특정 행동을 취하는 것으로 나타남으로써 행동강령을 개정하는 것이 참가자들은 불편함을 느끼는 것에 포함될 수 있습니다.
 
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
+결국, 메인테이너로서, 당신은 수용 가능한 행동에 대한 기준을 설정하고 시행합니다. 프로젝트의 커뮤니티 가치를 형성 할 수 있는 능력이 있으며, 참여자는 이러한 가치를 공정하고 균등하게 적용 할 것을 기대합니다.
 
 ## 세계 🌎 에서 보고 싶은 행동을 장려하기
 
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+프로젝트가 적대적이거나 환영받지 못하는 것처럼 보일 때, 다른 사람이 행동을 용인하는 사람이 한 명이라도 더 많은 기여자를 잃을 위험이 있으며, 그 중 일부는 절대 만나지 못할 수도 있습니다. 행동강령을 채택하거나 시행하는 것이 항상 쉬운 것은 아니지만, 친숙한 환경 조성은 커뮤니티 성장을 도울 것입니다.
