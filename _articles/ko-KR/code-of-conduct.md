@@ -1,13 +1,13 @@
 ---
-locale: en-US
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+locale: ko-KR
+title: 귀하의 행동강령
+description: 행동강령을 채택하고 시행함으로써 건강하고 건설적인 커뮤니티 행동을 촉진하십시오.
 class: coc
 toc:
-  why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
-  establishing-a-code-of-conduct: "Establishing a code of conduct"
-  deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
-  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
+  why-do-i-need-a-code-of-conduct: "왜 행동강령이 필요합니까?"
+  establishing-a-code-of-conduct: "행동강령 수립하기"
+  deciding-how-youll-enforce-your-code-of-conduct: "행동강령을 어떻게 적용 할 것인지 결정하기"
+  enforcing-your-code-of-conduct: "행동강령 지키기"
 order: 8
 image: /assets/images/cards/coc.png
 related:
@@ -15,7 +15,7 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## 왜 행동강령이 필요합니까?
 
 A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
 
@@ -23,7 +23,7 @@ Codes of conduct help protect not just your participants, but yourself. If you m
 
 A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
 
-## Establishing a code of conduct
+## 행동강령 수립하기
 
 Try to establish a code of conduct as early as possible: ideally, when you first create your project.
 
@@ -40,7 +40,7 @@ The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Ci
 
 Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
 
-## Deciding how you'll enforce your code of conduct
+## 행동강령을 어떻게 적용 할 것인지 결정하기
 
 <aside markdown="1" class="pquote">
   A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
@@ -65,11 +65,11 @@ Don't forget that someone might want to report a violation about a person who re
 
 For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
 
-## Enforcing your code of conduct
+## 행동강령 지키지
 
 Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
 
-### Gather information about the situation
+### 상황에 대한 정보 수집하기
 
 Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
 
@@ -84,7 +84,7 @@ Before you respond, give yourself time to understand what happened. Read through
   </p>
 </aside>
 
-### Take appropriate action
+### 적절한 행동을 취하기
 
 After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
 
@@ -104,7 +104,7 @@ Sometimes, a resolution cannot be reached. The person in question may become agg
 
 Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
 
-## Your responsibilities as a maintainer
+## 관리자로서의 책임지기
 
 A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
 
@@ -114,6 +114,6 @@ A report of behavior that doesn't _technically_ violate the code of conduct may 
 
 In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
 
-## Encourage the behavior you want to see in the world 🌎
+## 세계 🌎 에서 보고 싶은 행동을 장려하기
 
 When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
