@@ -12,6 +12,9 @@ toc:
   its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
 image: /assets/images/cards/best-practices.png
+related:
+  - metrics
+  - leadership
 ---
 
 ## What does it mean to be a maintainer?
@@ -64,8 +67,8 @@ Here are a few rules that are worth writing down:
 
 * How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
 * The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_ex. "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_ex. "We only spend about 5 hours per week on this project"_)
+* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
+* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
 
@@ -120,7 +123,7 @@ If you don't want to accept a contribution:
 
 You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
 
-![celery screenshot](/assets/images/best-practices/celery.png)
+![Celery screenshot](/assets/images/best-practices/celery.png)
 
 If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
 
@@ -237,7 +240,9 @@ There are a [variety of tools available](https://github.com/showcases/tools-for-
 * [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
 * [Danger](https://github.com/danger/danger) helps automate code review
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. You can also set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to manage your email notifications.
+For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
+
+To manage your email notifications, you can set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to organize by priority.
 
 If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
 

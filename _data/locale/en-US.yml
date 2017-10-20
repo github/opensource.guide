@@ -4,6 +4,7 @@ nav:
 
 index:
   lead: Open source software is made by people just like you. Learn how to launch and grow your project.
+  opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
 
 article:
   table_of_contents: Table of Contents
@@ -14,7 +15,8 @@ footer:
     description: Want to make a suggestion? This content is open source. Help us improve it.
     button: Contribute
   subscribe:
-    heading: Subscribe to updates
+    heading: Stay in touch
+    description: Be the first to hear about GitHub's latest open source tips and resources.
     label: Email Address
     button: Subscribe
   byline:

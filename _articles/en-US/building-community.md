@@ -9,6 +9,9 @@ toc:
   resolving-conflicts: "Resolving conflicts"
 order: 4
 image: /assets/images/cards/building.png
+related:
+  - best-practices
+  - coc
 ---
 
 ## Setting your project up for success
@@ -21,7 +24,7 @@ A welcoming community is an investment into your project's future and reputation
 
 One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
 
-![contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
+![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
 As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
 
@@ -30,7 +33,7 @@ Start with your documentation:
 * **Make it easy for someone to use your project.** [A friendly README](starting-a-project.md#writing-a-readme) and clear code examples will make it easier for anyone who lands on your project to get started.
 * **Clearly explain how to contribute**, using [your CONTRIBUTING file](starting-a-project.md#writing-your-contributing-guidelines) and keeping your issues up-to-date.
 
-Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
+[GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) showed incomplete or confusing documentation is the biggest problem for open source users. Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
 
 * **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
 * **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
@@ -81,7 +84,7 @@ Try to be responsive when someone files an issue, submits a pull request, or ask
 
 Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
 
-![middleman pull request](/assets/images/building-community/middleman_pr.png)
+![Middleman pull request](/assets/images/building-community/middleman_pr.png)
 
 [A Mozilla study found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
 
@@ -131,7 +134,7 @@ Good documentation only becomes more important as your community grows. Casual c
 
 In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. [Django](https://github.com/django/django), for example, has a special landing page to welcome new contributors.
 
-![django new contributors page](/assets/images/building-community/django_new_contributors.png)
+![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
 In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first bug"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
 
@@ -159,11 +162,11 @@ See if you can find ways to share ownership with your community as much as possi
 
 * **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
 
-![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
+![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
 * **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) does.
 
-* If you've got a sizeable community, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+* If you've got a sizable community, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
 
 * **Give every contributor commit access.** @felixge found that this made people [more excited to polish their patches](http://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
 

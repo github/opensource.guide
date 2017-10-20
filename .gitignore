@@ -4,8 +4,9 @@ _site/
 .jekyll-metadata
 .sass-cache/
 bin
-node_modules
+test/node_modules
 /vendor
 Gemfile.lock
 css/main.scss
 .asset-downloads
+package-lock.json

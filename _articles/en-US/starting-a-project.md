@@ -11,6 +11,9 @@ toc:
   your-pre-launch-checklist: "Your pre-launch checklist"
 order: 2
 image: /assets/images/cards/beginner.png
+related:
+  - finding
+  - building
 ---
 
 ## The "what" and "why" of open source
@@ -50,7 +53,7 @@ By comparison, a closed source process would be going to a restaurant and orderi
 
 * **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source isn't just for software, either. You can open source everything from datasets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
 
 ### Does open source mean "free of charge"?
 
@@ -135,7 +138,7 @@ Legal work is no fun. The good news is that you can copy and paste an existing l
 
 When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
 
-![pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
 
 If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](legal.md).
 
@@ -194,7 +197,7 @@ For more help with writing your CONTRIBUTING file, check out @nayafia's [contrib
 
 Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
 
-![contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
 ### Establishing a code of conduct
 
@@ -227,7 +230,7 @@ Pick a name that is easy to remember and, ideally, gives some idea of what the p
 * [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
 * [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (ex. [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
 
 Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
 
@@ -316,7 +319,7 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (ex. passwords or other non-public information)
+    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
   </label>
 </div>
 

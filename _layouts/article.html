@@ -5,7 +5,7 @@ layout: default
 {% include nav.html %}
 
 <header class="article-header {{ page.class }} bg-gray-light">
-  <div class="container-lg mx-auto px-3">
+  <div class="container-lg p-responsive clearfix mx-auto">
 
     <h1 class="alt-h1 lh-condensed text-center mb-3">{{ page.title }}</h1>
     <p class="lead text-center text-gray col-md-8 mx-auto mb-4 position-relative">{{ page.description }}</p>
@@ -33,6 +33,38 @@ layout: default
   <div class="article-body mx-auto px-3 pt-4 pt-lg-6 pb-6 col-md-10 col-lg-8 col-xl-6">
     {{ content }}
   </div>
+  <div class="text-center pb-4">
+    <a class="alt-h3" href="/">Back to all guides</a>
+  </div>
 </article>
+
+{% if page.related %}
+<div class="container-lg p-responsive mx-auto border-top text-center pt-5">
+  <h2 class="alt-h2">Related Guides</h2>
+  <div class="gutter-sm d-flex flex-wrap flex-items-stretch pb-md-6">
+  {% for related in page.related %}
+    {% assign article = site.articles | where: "class", related | first %}
+    <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">
+      <a href="{{ article.url | relative_url }}" class="guide-cover {{ article.class }} card height-full d-block">
+
+        <div class="lh-none guide-cover-img text-center pt-4">
+          <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class="" alt="{{ article.title }} illustration">
+        </div>
+
+        <div class="flex-self-end p-4 text-center p-lg-5">
+          <h3 class="alt-h3 text-bold lh-condensed mb-2 text-black">
+            {{ article.title }}
+          </h3>
+          <div class="mb-0 text-gray">
+            {{ article.description | markdownify }}
+          </div>
+        </div>
+
+      </a>
+    </div>
+  {% endfor %}
+  </div>
+</div>
+{% endif %}
 
 {% include footer.html %}

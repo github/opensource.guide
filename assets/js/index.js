@@ -16,3 +16,11 @@
 
   $(selector).wrapInner('<span/>');
 })();
+
+(function() {
+  var FRIDAY = 5;
+  var today = new Date();
+  if (FRIDAY == today.getDay()) {
+    $("#opensourcefriday").show();
+  }
+})();
