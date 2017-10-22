@@ -23,17 +23,17 @@ related:
 
 ## 매시지 이해하기
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+프로젝트를 홍보하기 위한 실제 작업을 시작하기 전에, 프로젝트의 기능과 중요한 이유를 설명 할 수 있어야합니다.
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will make it easier to convince others.
+무엇이 당신의 프로젝트를 다양하고 흥미롭게 만드나요? 왜 그것을 만들었습니까? 이러한 질문을 스스로 해결하면 다른 사람들을 설득하기가 더 쉬울 것입니다.
 
-Remember that people get involved as users, and eventually contributors, because it solves a problem for them. As you think about your project's message and value, try to view it through the lens of what _they_ might want.
+사람들이 문제를 해결하기 때문에, 사용자들은 궁극적으로는 참여자로서만 참여한다는 것을 기억하십시오. 프로젝트의 메시지와 가치에 대해 생각할 때 _그들이_ 무엇을 원하는 것인지에 대한 렌즈를 통해 보도록 하십시오.
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+예시로, @robb는 코드 예제를 사용하여 자신의 프로젝트, [Cartography](https://github.com/robb/Cartography),를 효율적으로 했습니다:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+메시징에 대해 더 자세히 알고 싶으면, Mozilla의 ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) 개발자용 연습 personas를 확인하십시오.
 
 ## 사람들이 프로젝트를 찾고 팔로우하도록 도와주기
 
@@ -44,11 +44,11 @@ For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+사람들이 단일 네임스페이스를 가리켜 프로젝트를 찾고 기억하도록 돕습니다.
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. They also give your project's growing community a place to convene.
+**작업을 홍보하기 위해 명확히 처리를 하기.** 트위터 핸들, GitHub URL 또는 IRC 채널을 통해 사람들을 프로젝트에 쉽게 안내 할 수 있습니다. 그들은 또한 귀하의 프로젝트가 성장하는 커뮤니티에 모일 장소를 제공합니다.
 
-If you don't wish to set up these channels for your project yet, promote your own Twitter or GitHub handle in everything you do. For example, make sure it is included in your bio or slides if you speak at a meetup or event. That way, people know how to reach you or follow your work.
+프로젝트에 이 채널을 아직 설정하고 싶지 않다면, 자신의 모든 트위터 또는 GitHub 핸들을 홍보하십시오. 예를 들어, 만남이나 행사에서 말하는 경우, 소개 또는 슬라이드에 포함되어 있는지 확인하십시오. 그런식으로 사람들은 당신에게 연락하거나 일을 수행하는 방법을 알고 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -58,21 +58,21 @@ If you don't wish to set up these channels for your project yet, promote your ow
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially paired with clear documentation and tutorials. It also suggests that your project is active, which will make your audience feel more comfortable using it. Use examples to give people ideas for how to use your project.
+**프로젝트를 위한 웹 사이트를 만드는 것을 고려하기.** 웹 사이트는 프로젝트를 보다 편리하고 쉽게 탐색 할 수 있게 해주며, 특히 명확한 문서 및 자습서와 함께 사용할 수 있습니다. 또한 프로젝트가 활성화되어있어 시청자가 더 편안하게 사용할 수 있습니다. 예시를 사용하여 사람들에게 프로젝트 사용 방법에 대한 아이디어를 제공하십시오.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), Django의 협력자가, 말하기를 웹사이트는 _"by far the best thing we did with Django in the early days"_이라고 했습니다.
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+만약 당신의 프로젝트가 깃허브에 호스팅된다면, [GitHub 페이지](https://pages.github.com/)를 통해 웹사이트를 쉽게 만드는 것을 보실 수 있습니다. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/),와 [Middleman](https://middlemanapp.com/)은 포괄적인 사이트 중, 훌륭한 [예시입니다](https://github.com/showcases/github-pages-examples).
 
 ![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
-Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
+이제 프로젝트에 대한 메시지와 사람들이 프로젝트를 쉽게 찾을 수 있는 방법을 얻었으므로, 거기서 나와서 지지자와 대화를 나눠보십시오.
 
 ## 프로젝트의 지지자가 있는 (온라인)으로 이동하기
 
-Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
+온라인 홍보는 단어를 빠르게 공유하고 전파 할 수 있는 좋은 방법입니다. 온라인 채널을 사용하면 매우 광범위한 잠재적 지지자에게 도달 할 수 있습니다.
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](http://stackoverflow.com/), [Reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+기존 온라인 커뮤니티 및 플랫폼을 활용하여 잠재 고객에게 도달하십시오. 만약 오픈소스 프로젝트가 소프트웨어 프로젝트라면, 아마도 [스택 오버플로우](http://stackoverflow.com/), [레딧](http://www.reddit.com), [해커 뉴스](https://news.ycombinator.com/), 또는 [Quora](https://www.quora.com/)에서 지지자를 찾을 수 있을 것입니다. 사람들이 당신의 작품에 대해 가장 많은 이익을 보거나 즐거워한다고 생각하는 채널을 찾으십시오.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -82,15 +82,15 @@ Take advantage of existing online communities and platforms to reach your audien
   </p>
 </aside>
 
-See if you can find ways to share your project in relevant ways:
+관련 방법으로 프로젝트를 공유하는 방법을 찾을 수 있는지 확인하십시오:
 
-* **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
-* **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-* **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
+* **관련 오픈 소스 프로젝트와 커뮤니티에 대해 알아보십시오.** 때로는 프로젝트를 직접 홍보 할 필요가 없습니다. 프로젝트가 파이썬을 사용하는 데이터 과학자에게 완벽하면, 파이썬 데이터 과학 커뮤니티에 대해 알아보십시오. 사람들이 당신을 알게되면, 자연스런 기회가 생겨 대화를 나누고 작업을 공유하게됩니다.
+* **프로젝트가 해결하는 문제를 겪고있는 사람들을 찾으십시오.** 프로젝트의 타겟층에 속한 사람들을 관련 포럼을 통해 검색하십시오. 그들의 질문에 답하고 적절한 방법으로 프로젝트를 솔루션으로 제안하십시오.
+* **피드백 요청하기.** 관련성 높고 흥미로운 청중에게 자신과 자신의 작업을 소개하십시오. 프로젝트에서 누가 이익을 얻을지 생각하는 사람에 대해 구체적으로 설명합시다. 이렇게 문장을 끝내봅니다: _"I think my project would really help X, who are trying to do Y_".단순히 귀하의 작업을 홍보하는 것이 아니라, 다른 사람들의 의견을 경청하고 이에 응답해봅니다.
 
-Generally speaking, focus on helping others before asking for things in return. Because it is easy for anybody to promote a project online, there will be a lot of noise. Give people context for who you are, not just what you want, to stand out from the crowd.
+일반적으로 말하면, 보답하기 전에 다른 사람들을 돕는 데 집중하십시오. 누구나 온라인으로 프로젝트를 홍보하기 쉽기 때문에, 많은 소음이 발생할 것입니다. 자신이 원하는 사람이 아니라, 무리에서 눈에 띄기 위해서 자신이 누구인지를 사람들에게 알릴 수 있습니다.
 
-If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. These things take time and dedication.
+아무도 주의를 기울이지 않거나 초기 봉사 활동에 응답하지 않으면, 낙심하지 마십시오! 대부분의 프로젝트 시작은 수개월 또는 수년이 걸릴 수 있는 반복 프로세스입니다. 처음으로 응답을 얻지 못하면 다른 전술을 시도하거나 다른 사람들의 작품에 가치를 더하는 방법을 먼저 찾으십시오. 이러한 일에는 시간과 헌신이 필요합니다.
 
 ## 프로젝트의 지지자가 있는 (오프라인)으로 이동하기
 
@@ -148,9 +148,9 @@ Sometimes, these relationships can even lead to official partnerships with the w
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue looking for ways to help others.
+평판을 얻기 시작하는 것이 너무 빠르거나, 혹은 너무 늦지 않았습니다. 이미 자신의 프로젝트를 시작했더라도, 다른 사람들을 도울 수 있는 방법을 모색하십시오.
 
-There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and reputation building work never ends.
+지지자를 키우는 데는 밤새도 해결책이 없습니다. 다른 사람들의 신뢰와 존경심을 얻는 데는 시간이 걸리고 명성을 쌓는 작업은 끝나지 않습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
