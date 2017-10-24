@@ -94,11 +94,11 @@ related:
 
 ## 프로젝트의 지지자가 있는 (오프라인)으로 이동하기
 
-![Public speaking](/assets/images/finding-users/public_speaking.jpg)
+![공개 연설](/assets/images/finding-users/public_speaking.jpg)
 
-Offline events are a popular way to promote new projects. It's a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
+오프라인 이벤트는 새로운 프로젝트를 홍보하는 인기있는 방법입니다. 참여한 잠재 지지자에게 도달하거나, 더 깊은 인간 관계를 구축 할 수 있는 좋은 방법입니다. 특히 개발자에게 다가가려는 경우 더욱 그렇습니다.
 
-If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
+만약 [새로운 공개 연설](http://speaking.io/)을 한다면, 프로젝트의 언어 또는 생태계와 관련된 지역 모임을 찾아보십시오.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -108,9 +108,9 @@ If you're [new to public speaking](http://speaking.io/), start by finding a loca
   </p>
 </aside>
 
-If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
+이전에 한 번도 얘기 한 적이 없다면, 긴장을 하는 것이 정상입니다! 그들이 진정으로 당신의 일에 대해 듣고 싶어하기 때문에 청중이 거기 있다는 것을 기억합시다.
 
-As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+이야기를 할 때, 청중이 흥미롭고 가치있는 것을 얻는 것에 집중합니다. 귀하의 언어를 친절하고 친근하게 유지하십시오. 웃고, 숨 쉬고, 재미있게 보내십시오.
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
@@ -120,9 +120,9 @@ As you write your talk, focus on what your audience will find interesting and ge
   </p>
 </aside>
 
-When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
+준비가 되었다면, 프로젝트 홍보를 위해 컨퍼런스에서 말하는 것을 고려하십시오. 때로는 컨퍼런스가 전 세계에서 더 많은 사람들에게 다가갈 수 있도록 도와줄겁니다.
 
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference beforehand to tailor your talk to its attendees and increase your chances of getting accepted. You can often get a sense of a conference's audience by looking at its speakers.
+귀하의 언어 또는 생태계에서 특정한 회의를 찾으십시오. 대화를 제출하기 전에, 미리 컨퍼런스를 조사하여 참석자와 대화를 나누고 수용 할 확률을 높입니다. 연사를 보면서 회의의 청중을 이해할 수 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/80?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -134,11 +134,11 @@ Look for conferences that are specific to your language or ecosystem. Before you
 
 ## 평판 쌓기
 
-In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
+위에서 설명한 전략 외에도, 사람들을 초대하여 프로젝트에 기여하도록하는 가장 좋은 방법은 프로젝트를 공유하고 기여하는 것입니다.
 
-Helping newcomers, sharing resources, and making thoughtful contributions to others' work will help you build a positive reputation. Then, people will have context for your work and be more likely to pay attention and share what you're doing.
+신입 회원을 돕고, 자원을 공유하고, 다른 사람들의 일에 사려 깊은 공헌을하는 것은 긍정적인 평판을 얻는 데 도움이 될 것입니다. 그러면 사람들은 당신의 일에 대한 맥락을 가지게 될 것이며 관심을 기울이고 자신이 하는 일을 공유 할 가능성이 높아질 것입니다.
 
-Sometimes, these relationships can even lead to official partnerships with the wider ecosystem.
+때로는, 이러한 관계가 더 넓은 생태계와의 공식 파트너십으로 이어질 수도 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar" alt="avatar">
