@@ -1,33 +1,33 @@
-# Open Source Guides
+# திறந்த மூல வழிகாட்டிகள்
 
 [![Build Status](https://travis-ci.org/github/opensource.guide.svg?branch=gh-pages)](https://travis-ci.org/github/opensource.guide)
 
-Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
+ஓப்பன் சோர்ஸ் வழிகாட்டிகள் (https://opensource.guide/) தனிநபர்கள், சமூகங்கள் மற்றும் ஓப்பன் சோர்ஸ் திட்டத்தில் எவ்வாறு இயங்குவது மற்றும் பங்களிக்க வேண்டும் என்பதை அறிய விரும்பும் நிறுவனங்களுக்கான ஆதாரங்களின் தொகுப்பாகும்.
 
-## Background
-The first set of Open Source Guides were created and curated by GitHub, along with input from outside community reviewers, but they are not exclusive to GitHub products.
+## பின்னணி
+திறந்த மூல வழிகாட்டிகளின் முதல் தொகுப்பு GitHub ஆல் உருவாக்கப்பட்டது, மேலும் சமூக விமர்சகர்கள் வெளியில் இருந்து உள்ளீடு சேர்த்து, ஆனால் அவை GitHub தயாரிப்புகளுக்கு மட்டும் அல்ல.
 
-Our goal is to aggregate community best practices, *not* what GitHub (or any other individual or entity) thinks is best. Therefore, we try to use examples and quotations from others to illustrate our points.
+எங்கள் குறிக்கோள் சமூகம் சிறந்த நடைமுறைகள், * இல்லை * என்ன GitHub (அல்லது வேறு எந்த நபர் அல்லது நிறுவனம்) சிறந்தது என்று நினைக்கிறீர்கள். எனவே, நம்முடைய புள்ளிகளை விளக்குவதற்கு மற்றவர்களிடமிருந்து உதாரணங்கள் மற்றும் மேற்கோள்களைப் பயன்படுத்த முயற்சிக்கிறோம்.
 
-**Open Source Guides are a resource and a discussion forum.** One reason we started this project is because we felt that there weren't enough resources for people creating open source projects. We made these guides open source in hopes that you'll use this space to talk about best practices, then document them when you've found consensus. We'd like this to be a safe space to talk about what's hard, what's scary, and what's simply confusing about running open source projects.
+** திறந்த மூல வழிகாட்டிகள் ஒரு வள மற்றும் விவாத மன்றமாகும். ** இந்த திட்டத்தை தொடங்குவதற்கு ஒரு காரணம், ஏனெனில் திறந்த மூல திட்டங்களை உருவாக்கும் மக்களுக்கு போதுமான ஆதாரங்கள் இல்லை என்று நாங்கள் உணர்ந்தோம். சிறந்த வழிகளைப் பற்றி பேசுவதற்கு இந்த இடத்தை நீங்கள் பயன்படுத்துவதன் மூலம் இந்த வழிகாட்டிகள் திறந்த மூலத்தை உருவாக்கியுள்ளோம், பின்னர் நீங்கள் கருத்தொன்றைக் கண்டவுடன் அவற்றை ஆவணப்படுத்தவும். இது கடினமான காரியங்களைப் பற்றி பேசுவதற்கு ஒரு பாதுகாப்பான இடமாக இருக்க விரும்புகிறோம், என்ன பயமாக இருக்கிறது, திறந்த மூல திட்டங்களை இயங்குவது பற்றி குழப்பம் என்னவென்றால்.
 
-## Roadmap
+## ரோட்மேப்
 
-We've shared our vision and priorities for this project in our [roadmap](docs/roadmap.md).
+இந்த திட்டத்திற்கான எங்கள் பார்வை மற்றும் முன்னுரிமைகள் எங்கள் [சாலை வரைபடத்தில்] (docs/roadmap.md) இல் பகிர்ந்துள்ளோம்
 
-## Contributing
+## பங்களிப்பு
 
-This site is powered by [Jekyll](https://jekyllrb.com/). Our goal is for this project to reflect community best practices, so we'd love your input! Got a question or an idea? Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
+இந்த தளம் [ஜெக்கில்] (https://jekyllrb.com/) மூலம் இயக்கப்படுகிறது. சமூகத்தின் சிறந்த நடைமுறைகளை பிரதிபலிக்கும் இந்த திட்டத்திற்கான எங்கள் இலக்கு, எனவே உங்கள் உள்ளீட்டை நாங்கள் விரும்புகிறோம்! ஒரு கேள்வி அல்லது யோசனை கிடைத்ததா? கருத்துரை வழங்க மற்றும் பங்களிக்க வழிகளுக்கான எங்கள் [பங்களிப்பு வழிகாட்டுதல்கள்] (/ CONTRIBUTING.md) என்பதைப் பார்க்கவும்.
 
-## Licenses
+## உரிமங்கள்
 
-Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
+உள்ளடக்கம் [CC-BY-4.0] (https://creativecommons.org/licenses/by/4.0/) கீழ் வெளியிடப்படுகிறது. ஆதார வழிகாட்டல்கள், பங்களிப்பு விதிமுறைகள் மற்றும் மென்பொருள் மற்றும் மூன்றாம் தரப்பு உரிமங்கள் மற்றும் அனுமதிகள் உள்ளிட்ட முழு விவரங்களுக்கான [அறிவிப்புகள்] (notices.md) ஐப் பார்க்கவும்.
 
-## Acknowledgments
+## ஒப்புக் கொள்ளுதல்
 
-The initial release of these guides were authored by **@nayafia, @bkeepers, @stephbwills,** and **@mlinksva**.
+இந்த வழிகாட்டிகளின் தொடக்க வெளியீடு எழுதப்பட்டது **@nayafia, @bkeepers, @stephbwills,** மற்றும் **@mlinksva**.
 
-Thanks to **@aitchabee, @benbalter, @brettcannon, @caabernathy, @coralineada, @dmleong, @ericholscher, @gr2m, @janl, @jessfraz, @joshsimmons, @kfogel, @kytrinyx, @lee-dohm, @mikeal, @mikemcquaid, @nathansobo, @nruff, @nsqe, @orta, @parkr, @shazow, @steveklabnik,** and **@wooorm** for lending their valuable input and expertise leading up to the initial release, and to **@sophshep** and **@jeejkang** for designing and illustrating the guides.
+நன்றி **@aitchabee, @benbalter, @brettcannon, @caabernathy, @coralineada, @dmleong, @ericholscher, @gr2m, @janl, @jessfraz, @joshsimmons, @kfogel, @kytrinyx, @lee-dohm, @mikeal, @mikemcquaid, @nathansobo, @nruff, @nsqe, @orta, @parkr, @shazow, @steveklabnik,** மற்றும் **@wooorm** தொடக்க மதிப்புக்கு வழிவகுத்த அவர்களின் மதிப்புமிக்க உள்ளீடு மற்றும் நிபுணத்துவத்தை வழங்குவதற்காகவும், மற்றும் **@sophshep** மற்றும் **@jeejkang** வழிகாட்டிகள் வடிவமைத்தல் மற்றும் விளக்குவதற்கு.
 
-## Disclaimer
-While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.
+## நிபந்தனைகள்
+நாங்கள் ஒரு திறந்த மூல திட்டத்தை இயக்கும் பற்றி ஆலோசனை கிடைத்தாலும், நாங்கள் வழக்கறிஞர்கள் அல்ல. டைவிங் செய்வதற்கு முன் எங்கள் [மறுப்பு தெரிவித்தல்](notices.md#legal-disclaimer).
