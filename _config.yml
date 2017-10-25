@@ -1,8 +1,8 @@
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
+title: "திறந்த மூல வழிகாட்டிகள்"
+description: "உங்கள் திட்டத்தை எவ்வாறு தொடங்குவது மற்றும் வளர்வது என்பதை அறிக."
 
 # See: docs/translations.md
-locale: en-US
+locale: ta-IN
 translations:
   en-US:
     name: English (US)
