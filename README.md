@@ -2,8 +2,9 @@
 
 ## :memo: 翻譯工程進度檢查表 :memo:
 - [X] 首頁及各文章的標題翻譯
-- [ ] 文章翻譯
-  - [ ] 如何為開源做貢獻？(how-to-contribute)
+- [X] 使用 opencc 對簡體中文版本做初步的轉換
+- [ ] opencc 翻譯檢查
+  - [ ] 如何為開源做貢獻？(how-to-contribute)
   - [ ] 發起一個開源專案 (starting-a-project)
   - [ ] 尋找專案的使用者 (finding-users)
   - [ ] 打造友善、受歡迎的社群 (building-community)
@@ -16,10 +17,14 @@
 
 ## 如何翻譯
 1.	文章(article)的位置在 `_articles\zh-TW\` 目錄下，檔名是用檢查表中的英文命名。
-	推薦使用 Issue 來先說明你要領哪一塊文章翻譯，
-	或是只領文章中的幾個段落翻譯，避免有兩人以上翻譯到同篇文章的同個段落。
+	推薦使用 Issue 來先說明你要領哪一塊文章檢查翻譯，
+	或是只領文章中的幾個段落檢查，避免有兩人以上對同篇文章的同個段落工作。
 
 2.	建議大標小標的前後用`**`包起來，讓大小標變粗體，不然標題跟內文看起來蠻相似的。
+
+## 銘謝
+
+[opencc](https://github.com/BYVoid/OpenCC)
 
 
 # Open Source Guides
