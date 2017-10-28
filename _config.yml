@@ -1,10 +1,10 @@
 title: "開源指南"
 description: "學習如何發起、經營一項開源專案。"
 
-locale: en-US
+locale: zh-TW
 translations:
-  - locale: en-US
-    name: 正體中文 (en-US)
+  - locale: zh-TW
+    name: 正體中文 (zh-TW)
     repository: github/open-source-guide
 
 exclude:
