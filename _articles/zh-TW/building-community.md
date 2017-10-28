@@ -1,7 +1,7 @@
 ---
 locale: zh-TW
-title: 打造受欢迎的社区
-description: 打造人们愿意使用、贡献、并主动宣传的人气社区。
+title: 打造友善、受歡迎的社群
+description: 打造一個人們願意使用、貢獻並願意主動宣傳的人氣社群。
 class: building
 toc:
   setting-your-project-up-for-success: "建立成功的项目"
