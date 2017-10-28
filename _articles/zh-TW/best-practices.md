@@ -1,5 +1,5 @@
 ---
-locale: zh-CN
+locale: zh-TW
 title: 维护者最佳实践
 description: 身为开源的维护者，如何轻松驾驭项目？本指南从文档流程到有效利用社区来展开。
 class: best-practices

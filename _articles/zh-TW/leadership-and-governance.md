@@ -1,5 +1,5 @@
 ---
-locale: zh-CN
+locale: zh-TW
 title: 领导力和治理
 description: 决策有了较正式的规则，可让开源项目野蛮生长。
 class: leadership

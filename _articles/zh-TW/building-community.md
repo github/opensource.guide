@@ -1,5 +1,5 @@
 ---
-locale: zh-CN
+locale: zh-TW
 title: 打造受欢迎的社区
 description: 打造人们愿意使用、贡献、并主动宣传的人气社区。
 class: building

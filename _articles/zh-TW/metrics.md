@@ -1,5 +1,5 @@
 ---
-locale: zh-CN
+locale: zh-TW
 title: 开源衡量标准
 description: 通过持续的追踪项目，帮助你作出最佳决策，以让开源项目更成功。
 class: metrics

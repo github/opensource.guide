@@ -1,5 +1,5 @@
 ---
-locale: zh-CN
+locale: zh-TW
 title: 行为准则
 description: 社区的长远发展和健康成长，离不开一些行为准则，需要遵守并执行。
 class: coc

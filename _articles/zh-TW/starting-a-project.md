@@ -1,5 +1,5 @@
 ---
-locale: zh-CN
+locale: zh-TW
 title: 开启一个开源项目
 description: 从开源的世界汲取智慧，然后开始准备着手发起开源项目。
 class: beginners

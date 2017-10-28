@@ -1,5 +1,5 @@
 ---
-locale: zh-CN
+locale: zh-TW
 title: 通过为开源工作获得报酬
 description: 为了让你能够持续的为开源项目，理应得到相应的经济上的报酬。
 class: getting-paid

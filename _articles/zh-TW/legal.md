@@ -1,5 +1,5 @@
 ---
-locale: zh-CN
+locale: zh-TW
 title: 开源的法律保护
 description: 对于开源你应该了解的所有法律知识。
 class: legal

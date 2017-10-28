@@ -1,5 +1,5 @@
 ---
-locale: zh-CN
+locale: zh-TW
 title: 为项目寻找适合的用户
 description: 通过找到诚心如意的用户，帮助开源项目成长。
 class: finding
