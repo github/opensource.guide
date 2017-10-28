@@ -1,7 +1,7 @@
 ---
 locale: zh-TW
-title: 维护者最佳实践
-description: 身为开源的维护者，如何轻松驾驭项目？本指南从文档流程到有效利用社区来展开。
+title: 維護者最佳實踐
+description: 身為開源的維護者，如何輕鬆駕馭專案？本指南從文件流程到有效利用社群來展開。
 class: best-practices
 toc:
   what-does-it-mean-to-be-a-maintainer: "身为一名维护者意味着什么？"
