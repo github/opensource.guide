@@ -110,37 +110,37 @@ image: /assets/images/cards/contribute.png
 
 ### 你喜歡組織活動嗎？
 * 指任出過去討論過或重複的議題、推薦一個新的議題類別，讓事物井井有序
-* 瀏覽閱讀在開放狀態﹝open﹞的議題，並建議將已經處於開放狀態很久的議題設為已結束﹝closed﹞[就像 @nzakas 在專案 eslint 做的](https://github.com/eslint/eslint/issues/6765)
-* 把最近开放的问题阐述清晰，以推动讨论
+* 瀏覽閱讀在開放狀態(open)的議題，並建議將已經處於開放狀態很久的議題設為已結束(closed)[就像 @nzakas 在專案 eslint 做的](https://github.com/eslint/eslint/issues/6765)
+* 鼓勵最近才剛提問的人將疑問闡釋清楚，加速討論的進展
 
-### 享受编码的乐趣？
+### 你喜歡寫程式？
 
-* 找到一个开放的问题并解决它，[就像 @dianjin 为 Leaflet 做的](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* 想一想你是否可以帮忙写一个新的功能
-* 自动化项目设置
-* 改进工具和测试
+* 嘗試解決一個開放狀態的議題 [就像 @dianjin 在 Leaflet 做的](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* 想想自己是否能協助開發一個新功能？
+* 將專案建置變得自動化
+* 改善工具及測試方法
 
-### 热衷于帮助他人？
+### 你喜歡幫助他人？
 
-* 回答关于项目的问题，例如在 Stack Overflow（[像 Postgres 的这个示例](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-to-ge)）或者 reddit 上
-* 为人们解答公开的问题
-* 帮助缓和讨论板或对话渠道
+* 回答有關於專案的問題，例如在 Stack Overflow([像 Postgres 的展示範例](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-to-ge))或者 reddit 上
+* 回答處於開放狀態的議題
+* 鼓勵、協助創造友善的討論區禮儀
 
-### 在编码方面是否喜欢帮助他人？
+### 你喜歡協助他人改善它的程式碼嗎？
 
-* 为他人的提交审核代码
-* 为如何利用项目撰写教程
-* 为其他贡献者做导师， [正如 @ereichert 为 @bronzdoc 所做的那样，哦，是 Rust 项目](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* 為他人貢獻的程式碼做代碼審查
+* 寫一個教學向大家介紹如何使用該專案
+* 當其他貢獻者的導師， [像在 Rust 專案中 @ereichert 為 @bronzdoc 做的](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### 其实不必一定是软件项目！
+### 其實不一定要是開源軟體的專案！
 
-尽管人们一提起“开源”二字，默认就是指开源软件，其实不尽然，开源可以是任何事情的修饰，而不仅仅是指软件而言的。比如图书、食谱、列表、以及任何可以开源的项目类。
+雖然很多人提到「開源」兩字是指「開源軟體」，其實不盡是如此，許多事物你都可以你可以開源協作，你可以開源一本書、開源食譜、開源一張你整理的清單，都可以像開源軟體一樣發展你想製作的東西。
 
-举例来说：
+舉例來說：
 
-* @sindresorhus 创建了 ["惊奇" 列表](https://github.com/sindresorhus/awesome)
+* @sindresorhus 蒐集了 [「實用」(awesome) 列表](https://github.com/sindresorhus/awesome)
 * @h5bp 维护了针对前端开发者的[面试题](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-* @stuartlynn 和 @nicole-a-tesla 制作了[收集关于海雀的有趣的事实](https://github.com/stuartlynn/puffin_facts)
+* @stuartlynn 和 @nicole-a-tesla 蒐集了[關於海雀的小知識](https://github.com/stuartlynn/puffin_facts)
 
 尽管你是一名软件开发者，也可以去撰写一些文档去帮助新的入门者。其实项目中那些看起来令人生畏的项目并不是写代码，做开发者总得挑战自己，其实在做得过程中可以增强信心和获得全新的体验。
 
