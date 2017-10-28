@@ -1,0 +1,27 @@
+nav:
+  about: 關於 
+  contribute: 貢獻
+
+index:
+  lead: 開放原始碼就是由你這樣的人所打造，這裡只是為了節省你的學習時間而設，從這裡開啟你的開源專案之旅吧！
+  
+article:
+  table_of_contents: 目錄
+
+footer:
+  contribute:
+    heading: 貢獻
+    description: 对项目有想提出的建议吗？本站内容遵循开放源代码写作，请帮助我们继续完善！
+    button: 貢獻
+  subscribe:
+    heading: 訂閱更新
+    description: 即時了解GitHub最新的開源技巧和資源！
+    label: 電子信箱地址
+    button: 訂閱
+  byline:
+    # [code], [love], and [github] will be replaced by octicons
+    format: "[code] with [love] by [github]"
+    # Label for code octicon
+    code_label: 程式
+    # Label for love octicon
+    love_label: 愛心
