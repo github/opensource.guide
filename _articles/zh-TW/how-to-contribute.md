@@ -40,7 +40,7 @@ image: /assets/images/cards/contribute.png
 
 與他人在共享的專案中工作，你會需要向他人解釋自己是如何做的，同時也需要向他人求助。每個參與開源的人都教學相長。
 
-### **在公眾間建立你的名聲﹝以及職業名聲﹞**
+### **在公眾建立你的名聲﹝以及職業名聲﹞**
 
 根據開源的定義，你在開源裡的所有工作都是公開的，這也意味開源專案是一個能好好展現你實力的地方。
 
@@ -54,23 +54,23 @@ image: /assets/images/cards/contribute.png
 
 ## **具體而言什麼是貢獻**
 
-如果你是一名开源界的新手，可能会对贡献的流程心生畏惧。比如：该如何找到正确的项目？不懂编码又想参与怎么办？万一做错事情了怎么办？
+如果你是一名開源世界的新手，可能會對貢獻的流程心生畏懼。如何找到適合彼此的專案？不會寫程式又想參與怎麼辦？萬一中間出了差錯怎麼辦？
 
-其实没有关系的啦！条条大路通罗马，开源项目有太多的路径可以参与！以下是一些实用的技巧，帮助你快速的获得经验。
+不用擔心！條條大路通羅馬，有很多能參與開源專案的方式。以下是一些實用的技巧，幫你快速的獲得經驗。
 
-### 你不具备编码的能力
+### 你不一定要會寫程式才能貢獻
 
-对于为开源做贡献常见的误解就是：为开源做贡献必须得提交代码。事实上，代码固然重要，但是项目中不需编码的重要部分[经常被忽视](https://github.com/blog/2195-the-shape-of-open-source)。你若做了这部分，对于项目来说可是莫大的贡献，而这根本就不需要什么撰写代码！
+對開源做出貢獻常見的誤解之一就是：要寫程式才算貢獻。其實專案裡不需編碼的工作也是[經常被忽視](https://github.com/blog/2195-the-shape-of-open-source)的部分。你對專案所做的非程式類貢獻，其實是對專案來說莫大的幫助！
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我被大家所熟知是因为为 CocoaPods 做了一些事, 其实大伙并不知道我实际并没有为 CocoaPods本身做了什么，我大多数的工作是诸如撰写文档、品牌宣传之类的。
+  我被大家所熟知是因為為 CocoaPods 做了一些事, 但大多數人並不知道我實際並沒有為 CocoaPods 本身做了什麼，我大多數的工作是撰寫說明文件以及品牌宣傳的事情。
   <p markdown="1" class="pquote-credit">
-— @orta, ["默认迁移到开源软件"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["將自己預設為開源軟體"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-即使你是以为开发者，非代码的贡献对于项目来说也是举足轻重的，尤其是对于社区的其他成员来说。用心维系这些关系能够让你有工作到项目其它部分的机会。
+即便你樂於寫程式，非撰寫程式的貢獻對於專案來說也是舉足輕重的，維繫這樣的關係也能讓你獲得與專案的其他成員共事的機會。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
