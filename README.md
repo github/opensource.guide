@@ -1,6 +1,6 @@
 # :wrench: 正體中文的翻譯工作正在進行中..... :wrench:
 
-## 翻譯工程進度檢查表
+## :memo: 翻譯工程進度檢查表 :memo:
 - [X] 首頁及各文章的標題翻譯
 - [ ] 文章翻譯-如何為開源做貢獻？(how-to-contribute)
 - [ ] 文章翻譯-發起一個開源專案 (starting-a-project)
