@@ -74,43 +74,43 @@ image: /assets/images/cards/contribute.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我第一次接觸 Python 開發團隊（簡稱 python-dev)是在 2002年6月17日，當時我向郵件列表寄了一份請求接受補丁的信，接著我決定開始為工作小組蒐集整理郵件摘要，後來他們甚至給了我一個機會去諮詢某個主題，這當中的關鍵是，我能注意到當有人指出有哪些東西必須要被修正。
+  我第一次接觸 Python 開發團隊﹝簡稱 python-dev﹞是在 2002年6月17日，當時我向郵件列表寄了一份請求接受補丁的信，接著我決定為工作小組蒐集整理郵件摘要，後來他們甚至給了我一個機會去諮詢某個主題，這當中的關鍵是，我能注意到當有人指出有哪些東西必須要被修正。
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["系統維護者的故事"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
-### 你是否熱衷於規劃活動？
+### **你是否熱衷於規劃活動？**
 
 * 為專案舉辦一個工作坊或線下聚會，[例如 @fzamperin 為 NodeSchool 所做的那樣](https://github.com/nodeschool/organizers/issues/406)
 * 為專案舉辦一個大型會議﹝如果它有的話﹞
 * 幫助社群成員找到合識的會議，或是協助成員找到窗口提交演講的提案。
 
-### 你是否喜愛設計？
+### **你是否喜愛設計？**
 * 重新佈置佈局以提高專案的可用性
 * 做一份使用者調查去整頓與完善專案導覽或菜單，像 [Drupal 所提出的建議](https://www.drupal.org/community-initiatives/drupal-core/usability)一樣
 * 整理一個風格指南，以幫助專案有一至的視覺設計方針。
-* 透過藝術創作設計T恤或畫一個新標誌，就像 [hapi.js 的貢獻者所做的](https://github.com/hapijs/contrib/issues/68) 那樣
+* 透過藝術創作設計T恤或畫一個新標誌，就像 [hapi.js 的貢獻者所做的](https://github.com/hapijs/contrib/issues/68) 
 
-### 你是否热衷于写作？
+### **你是否熱愛寫作？**
 
-* 撰写和改进项目的文档
-* 能够以实例来展示项目该如何使用的
-* 为项目撰写新闻稿，或者到邮件列表高调布道
-* 为项目撰写教程， [一如 pypa 的贡献者所做的](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* 翻译项目的文档为本土语言
+* 撰寫和改善專案的說明文件
+* 策劃一個資料夾來蒐集專案的實際應用案例
+* 辦一個專案的電子報，或者蒐整郵件列表的摘要
+* 寫一個專案教學，就像 [PyPA 的貢獻者做的](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* 翻譯專案的說明文件
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
-  说真心话， \[文档\] 是非常重要的. 目前Babel的文档已经很棒了，这也是其杀手锏的特性之一。当然，还有一些章节需要大家的完善，即使是随便在哪儿增加一个段落都很感激。
+  講真的， [說明文件] 是至關重要的。 目前 Babel 的說明文件已經很棒了，這也是它傑出的特色之一。有些段落還需要加強或者補上一個句子，有些段落是很值得讚賞的。
   <p markdown="1" class="pquote-credit">
-— @kittens, ["贡献者召集令"](https://github.com/babel/babel/issues/1347)
+— @kittens, ["貢獻者召集令"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
-### 你喜欢组织活动吗？
-* 链接重复的问题，并建议新的问题标签，使事物井井有条
-* 通过开放的问题，并建议关闭旧的，[就像 @nzakas 为 eslint 做的](https://github.com/eslint/eslint/issues/6765)
+### 你喜歡組織活動嗎？
+* 指任出過去討論過或重複的議題、推薦一個新的議題類別，讓事物井井有序
+* 瀏覽閱讀在開放狀態﹝open﹞的議題，並建議將已經處於開放狀態很久的議題設為已結束﹝closed﹞[就像 @nzakas 在專案 eslint 做的](https://github.com/eslint/eslint/issues/6765)
 * 把最近开放的问题阐述清晰，以推动讨论
 
 ### 享受编码的乐趣？
