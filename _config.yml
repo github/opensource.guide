@@ -1,10 +1,10 @@
 title: "開源指南"
 description: "每個人都可以為開源軟體貢獻一份心力，學習如何發起、經營一項開源專案。"
 
-locale: zh-CN
+locale: zh-TW
 translations:
-  - locale: zh-CN
-    name: 简体中文 (zh-CN)
+  - locale: zh-TW
+    name: 正體中文 (zh-TW)
     repository: github/open-source-guide
 
 exclude:
