@@ -74,23 +74,23 @@ image: /assets/images/cards/contribute.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我第一次接触Python开发团队（简称 python-dev)是在 2002年6月17日，当时我是向其邮件列表发送了一份邮件，是关于请求通过我的补丁的。我很快就又发现了开源的bug，于是决定开始为小组收集邮件摘要，然后他们给了我一个澄清问题的理由，但是更加重要的是，我能够捕获到某人指出需要修复的问题。
+  我第一次接觸 Python 開發團隊（簡稱 python-dev)是在 2002年6月17日，當時我向郵件列表寄了一份請求接受補丁的信，接著我決定開始為工作小組蒐集整理郵件摘要，後來他們甚至給了我一個機會去諮詢某個主題，這當中的關鍵是，我能注意到當有人指出有哪些東西必須要被修正。
   <p markdown="1" class="pquote-credit">
-— @brettcannon, ["维护者的故事"](https://github.com/open-source/stories/brettcannon)
+— @brettcannon, ["系統維護者的故事"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
-### 是否热衷于规划事件？
+### 你是否熱衷於規劃活動？
 
-* 为项目组织研讨会或线下分享，[一如 @fzamperin 为 NodeSchool 所做的那样](https://github.com/nodeschool/organizers/issues/406)
-* 为项目组织大型会议（假如它有的话）
-* 帮助社区成员寻找合适的技术会议，且帮助有实力的成员提交演讲的拟稿
+* 為專案舉辦一個工作坊或線下聚會，[例如 @fzamperin 為 NodeSchool 所做的那樣](https://github.com/nodeschool/organizers/issues/406)
+* 為專案舉辦一個大型會議﹝如果它有的話﹞
+* 幫助社群成員找到合識的會議，或是協助成員找到窗口提交演講的提案。
 
-### 是否偏向于设计？
-* 重新布置布局以提高项目的可用性
-* 进行用户研究以重新组织和完善项目的导航或菜单
-* 整理一个风格指南，以帮助项目有一致的视觉设计
-* 创建t恤的艺术或一个新的标志，[就像 hapi.js 的贡献者那样](https://github.com/hapijs/contrib/issues/68)
+### 你是否喜愛設計？
+* 重新佈置佈局以提高專案的可用性
+* 做一份使用者調查去整頓與完善專案導覽或菜單，像 [Drupal 所提出的建議](https://www.drupal.org/community-initiatives/drupal-core/usability)一樣
+* 整理一個風格指南，以幫助專案有一至的視覺設計方針。
+* 透過藝術創作設計T恤或畫一個新標誌，就像 [hapi.js 的貢獻者所做的](https://github.com/hapijs/contrib/issues/68) 那樣
 
 ### 你是否热衷于写作？
 
