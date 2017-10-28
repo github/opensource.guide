@@ -1,17 +1,17 @@
 # 正體中文的翻譯工作正在進行中.....
 
 ## 翻譯工程進度檢查表
-- [X] 首頁及各文章的標題翻譯
-- [] 文章翻譯-如何為開源做貢獻？(how-to-contribute)
-- [] 文章翻譯-發起一個開源專案 (starting-a-project)
-- [] 文章翻譯-尋找專案的使用者 (finding-users)
-- [] 文章翻譯-打造友善、受歡迎的社群 (building-community)
-- [] 文章翻譯-維護者最佳實踐 (best-practices)
-- [] 文章翻譯-領導與治理 (leadership-and-governance)
-- [] 文章翻譯-透過為開源專案工作而獲得報酬 (getting-paid)
-- [] 文章翻譯-建立一套行為準則 (code-of-conduct)
-- [] 文章翻譯-開源衡量準則 (metrics)
-- [] 文章翻譯-開源的法律保障 (legal)
+ [X] 首頁及各文章的標題翻譯
+ [] 文章翻譯-如何為開源做貢獻？(how-to-contribute)
+ [] 文章翻譯-發起一個開源專案 (starting-a-project)
+ [] 文章翻譯-尋找專案的使用者 (finding-users)
+ [] 文章翻譯-打造友善、受歡迎的社群 (building-community)
+ [] 文章翻譯-維護者最佳實踐 (best-practices)
+ [] 文章翻譯-領導與治理 (leadership-and-governance)
+ [] 文章翻譯-透過為開源專案工作而獲得報酬 (getting-paid)
+ [] 文章翻譯-建立一套行為準則 (code-of-conduct)
+ [] 文章翻譯-開源衡量準則 (metrics)
+ [] 文章翻譯-開源的法律保障 (legal)
 
 ## 如何翻譯
 文章(article)的位置在 `_articles\zh-TW\` 目錄下，檔名是用檢查表中的英文命名。
