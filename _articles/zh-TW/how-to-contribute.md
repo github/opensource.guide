@@ -82,13 +82,13 @@ image: /assets/images/cards/contribute.png
 
 ### **你是否熱衷於規劃活動？**
 
-* 為專案舉辦一個工作坊或線下聚會，[例如 @fzamperin 為 NodeSchool 所做的那樣](https://github.com/nodeschool/organizers/issues/406)
+* 為專案舉辦一個工作坊或線下聚會，[例如 @fzamperin 為 NodeSchool 所做的](https://github.com/nodeschool/organizers/issues/406)
 * 為專案舉辦一個大型會議﹝如果它有的話﹞
 * 幫助社群成員找到合識的會議，或是協助成員找到窗口提交演講的提案。
 
 ### **你是否喜愛設計？**
 * 重新佈置佈局以提高專案的可用性
-* 做一份使用者調查去整頓與完善專案導覽或菜單，像 [Drupal 所提出的建議](https://www.drupal.org/community-initiatives/drupal-core/usability)一樣
+* 做一份使用者調查去整頓與完善專案導覽或菜單，像 [Drupal 所提出的建議](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * 整理一個風格指南，以幫助專案有一至的視覺設計方針。
 * 透過藝術創作設計T恤或畫一個新標誌，就像 [hapi.js 的貢獻者所做的](https://github.com/hapijs/contrib/issues/68) 
 
