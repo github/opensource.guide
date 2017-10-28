@@ -1,7 +1,7 @@
 ---
 locale: zh-TW
-title: 为项目寻找适合的用户
-description: 通过找到诚心如意的用户，帮助开源项目成长。
+title: 找尋專案的使用者
+description: 透過使用者的心得來幫助你的開源專案成長。
 class: finding
 toc:
   spreading-the-word: "四处传播"

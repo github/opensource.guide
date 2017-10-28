@@ -1,7 +1,7 @@
 ---
 locale: zh-TW
-title: 如何为开源做贡献
-description: 想为开源贡献力量？本指南针为“菜鸟”和初学者而准备！
+title: 如何為開源做貢獻？
+description: 想為開源貢獻心力？一個菜鳥老手都值得一看的指南。
 class: contribute
 toc:
   why-contribute-to-open-source: "为何要为开源贡献力量？"

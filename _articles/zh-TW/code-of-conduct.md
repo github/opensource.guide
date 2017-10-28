@@ -1,7 +1,7 @@
 ---
 locale: zh-TW
-title: 行为准则
-description: 社区的长远发展和健康成长，离不开一些行为准则，需要遵守并执行。
+title: 建立一套行為準則
+description: 為了促進社群朝健康且有建設性的方向發展，必須設立一個共同遵守的行為守則。
 class: coc
 toc:
   why-do-i-need-a-code-of-conduct: "我为什么需要行为守则?"

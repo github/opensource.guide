@@ -1,7 +1,7 @@
 ---
 locale: zh-TW
-title: 开源衡量标准
-description: 通过持续的追踪项目，帮助你作出最佳决策，以让开源项目更成功。
+title: 開源衡量準則
+description: 透過持續的追蹤項目，幫助你做出最佳決策，讓開源專案更成功。
 class: metrics
 toc:
   why-measure-anything: "为什么要度量所有？"

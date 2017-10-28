@@ -1,7 +1,7 @@
 ---
 locale: zh-TW
-title: 开源的法律保护
-description: 对于开源你应该了解的所有法律知识。
+title: 開源的法律保障
+description: 對於開源你應該了解的法律知識。
 class: legal
 toc:
   why-do-people-care-so-much-about-the-legal-side-of-open-source: "为什么大家非常担心有关开源的法律问题?"

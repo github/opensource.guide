@@ -1,7 +1,7 @@
 ---
 locale: zh-TW
-title: 领导力和治理
-description: 决策有了较正式的规则，可让开源项目野蛮生长。
+title: 領導與治理
+description: 有了正式規則的決策，可讓開源專案順利的成長。
 class: leadership
 toc:
   what-are-examples-of-formal-roles-used-in-open-source-projects: "开源项目中通常都有那些角色？"

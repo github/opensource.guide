@@ -1,7 +1,7 @@
 ---
 locale: zh-TW
-title: 通过为开源工作获得报酬
-description: 为了让你能够持续的为开源项目，理应得到相应的经济上的报酬。
+title: 透過為開源專案工作而獲得報酬
+description: 透過經濟上的補助，支持你在開源專案裡的工作。
 class: getting-paid
 toc:
   why-some-people-seek-financial-support: "为何会有人寻求经济上的支持"

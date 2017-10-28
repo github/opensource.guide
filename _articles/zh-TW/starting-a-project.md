@@ -1,7 +1,7 @@
 ---
 locale: zh-TW
-title: 开启一个开源项目
-description: 从开源的世界汲取智慧，然后开始准备着手发起开源项目。
+title: 發起一個開源專案
+description: 從開源的世界汲取智慧，著手發起開源專案。
 class: beginners
 toc:
   the-what-and-why-of-open-source: "什么是开源，为什么要开源"
