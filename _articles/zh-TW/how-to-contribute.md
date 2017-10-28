@@ -18,15 +18,15 @@ image: /assets/images/cards/contribute.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
-  在 \[自由代码\] 下工作，让我学习到了职业生涯中非常重要的技能，无论是大学还是实际的工作，我认为从开源项目中得到的收获的远大於我的贡献！
+  在開源專案[freenode]的工作讓我學習到許多技能，這些技能在我往後大學研究及實際工作有許多幫助，我在開源專案的貢獻跟收穫一樣多！
   <p markdown="1" class="pquote-credit">
-— @errietta, ["我为何是如此的热衷于为开源软件贡献力量"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["為什麼我熱愛貢獻心力在開源軟體上"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-为开源贡献力量，得到的回报就是能够学习到很多、受教很多、且能够锻炼任何你能够想到的经验。
+為開源貢獻力量，能從中學習、舉辦教學並且提升相關技能的經驗 - 任何你能想像得到的技能。
 
-为什么会有人为开源做贡献？这可能是很多人都不明白的地方，这里不妨列出一些！
+為什麼會有人為開源做出貢獻？有數不清的原因！
 
 ### 巩固现有技能
 
