@@ -4,366 +4,366 @@ title: 發起一個開源專案
 description: 從開源的世界汲取智慧，著手發起開源專案。
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "什么是开源，为什么要开源"
-  should-i-launch-my-own-open-source-project: "我有必要去发起开源项目?"
-  launching-your-own-open-source-project: "发起自己的开源项目"
-  naming-and-branding-your-project: "为项目命名及设立品牌"
-  your-pre-launch-checklist: "发起项目之前的检查项"
+  the-what-and-why-of-open-source: "什麼是開源，爲什麼要開源"
+  should-i-launch-my-own-open-source-project: "我有必要去發起開源項目?"
+  launching-your-own-open-source-project: "發起自己的開源項目"
+  naming-and-branding-your-project: "爲項目命名及設立品牌"
+  your-pre-launch-checklist: "發起項目之前的檢查項"
 order: 2
 image: /assets/images/cards/beginner.png
 ---
 
-## 什么是开源，为什么要开源
+## 什麼是開源，爲什麼要開源
 
 
-所以你在考虑开始参与开源？恭喜！世界赞赏你的贡献。让我们来谈谈开源是什么，以及人们这样做。
+所以你在考慮開始參與開源？恭喜！世界讚賞你的貢獻。讓我們來談談開源是什麼，以及人們這樣做。
 
-### “开源”是什么意思？
+### “開源”是什麼意思？
 
-当一个项目被开源，这意味着**任何人都可以出于任何目的查看，使用，修改和分发你的项目**。 这些权限通过[开源许可](https://opensource.org/licenses)强制实施。
+當一個項目被開源，這意味着**任何人都可以出於任何目的查看，使用，修改和分發你的項目**。 這些權限通過[開源許可](https://opensource.org/licenses)強制實施。
 
-开源是强大的，因为它降低了事物被采纳的障碍，允许想法迅速传播。
+開源是強大的，因爲它降低了事物被採納的障礙，允許想法迅速傳播。
 
-要了解它的工作原理，想象你的朋友组织了一场聚餐，而你带去了一个樱桃派。
+要瞭解它的工作原理，想象你的朋友組織了一場聚餐，而你帶去了一個櫻桃派。
 
-* 每个人都尝了那个派（_使用_)
-* 派的味道棒极了！大家请你分享它的配方（_view_）
-* 一个叫 Alex 的朋友是个糕点师，他建议少放点糖（_modify_）
-* 一个叫 Lisa 的朋友想要用它作为下周的晚餐（_distribute_）
+* 每個人都嚐了那個派（_使用_)
+* 派的味道棒極了！大家請你分享它的配方（_view_）
+* 一個叫 Alex 的朋友是個糕點師，他建議少放點糖（_modify_）
+* 一個叫 Lisa 的朋友想要用它作爲下週的晚餐（_distribute_）
 
-相比之下，一个闭源过程就像去一家餐厅订购一个樱桃派。你必须为了吃饼支付费用，餐厅恐怕不会给你他们的食谱。如果你准确地复制了他们的馅饼，并以你自己的名义出售，餐厅可以对你采取措施。
+相比之下，一個閉源過程就像去一家餐廳訂購一個櫻桃派。你必須爲了吃餅支付費用，餐廳恐怕不會給你他們的食譜。如果你準確地複製了他們的餡餅，並以你自己的名義出售，餐廳可以對你採取措施。
 
-### 人们为什么把他们的作品开源？
+### 人們爲什麼把他們的作品開源？
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
-我从开源使用和协作中获得的最有价值的经验之一，就是在我面临许多与其他开发人员相同问题的过程中所建立的联系。
+我從開源使用和協作中獲得的最有價值的經驗之一，就是在我面臨許多與其他開發人員相同問題的過程中所建立的聯繫。
   <p markdown="1" class="pquote-credit">
-    — @kentcdodds, [“参与开源对我来说太棒了”](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
+    — @kentcdodds, [“參與開源對我來說太棒了”](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
   </p>
 </aside>
 
-个人或组织为何想要开源一个项目，[有各种各样的的原因](http://ben.balter.com/2015/11/23/why-open-source/)，例如：
+個人或組織爲何想要開源一個項目，[有各種各樣的的原因](http://ben.balter.com/2015/11/23/why-open-source/)，例如：
 
-* **协作：** 开源项目可以接受世界各地人们的修改。 例如 [Exercism](https://github.com/exercism/) 就是一个拥有350多个贡献者的练习平台。
+* **協作：** 開源項目可以接受世界各地人們的修改。 例如 [Exercism](https://github.com/exercism/) 就是一個擁有350多個貢獻者的練習平臺。
 
-* **采用和重组：** 任何人几乎可以出于任何目的使用开源项目。人们甚至可以使用它来构建其他东西。例如，[WordPress](https://github.com/WordPress) 就是派生自一个名为 [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) 的现有项目。
+* **採用和重組：** 任何人幾乎可以出於任何目的使用開源項目。人們甚至可以使用它來構建其他東西。例如，[WordPress](https://github.com/WordPress) 就是派生自一個名爲 [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) 的現有項目。
 
-* **透明度：** 任何人都可以检查开源项目是否有错误或不一致。 透明度对[保加利亚](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美国](https://sourcecode.cio.gov/)等政府，银行或医疗保健等受监管行业以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全软件都很重要。
+* **透明度：** 任何人都可以檢查開源項目是否有錯誤或不一致。 透明度對[保加利亞](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美國](https://sourcecode.cio.gov/)等政府，銀行或醫療保健等受監管行業以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全軟件都很重要。
 
-开源并不仅仅限于软件。您可以开源任何事物，从数据集到书本。查看 [GitHub Explore](https://github.com/explore) 开找找有什么是你可以开源的。
+開源並不僅僅限於軟件。您可以開源任何事物，從數據集到書本。查看 [GitHub Explore](https://github.com/explore) 開找找有什麼是你可以開源的。
 
-### 开源是指“免费”吗？
+### 開源是指“免費”嗎？
 
-开源最大的吸引之一是它不花钱。 但是，“免费”只是开源的总体价值的一个副产品。
+開源最大的吸引之一是它不花錢。 但是，“免費”只是開源的總體價值的一個副產品。
 
-因为[开源许可证要求](https://opensource.org/osd-annotated)任何人可以几乎出于任何目使用，修改和共享您的项目，项目本身往往是免费的。 如果该项目花钱使用，任何人也都可以合法地复制和使用免费版本。
+因爲[開源許可證要求](https://opensource.org/osd-annotated)任何人可以幾乎出於任何目使用，修改和共享您的項目，項目本身往往是免費的。 如果該項目花錢使用，任何人也都可以合法地複製和使用免費版本。
 
-因此，大多数开源项目是免费的，但“免费”不是开源定义的一部分。 有些方法可以通过双重许可或有限功能间接地为开源项目收费，同时仍然遵守开源的官方定义。
+因此，大多數開源項目是免費的，但“免費”不是開源定義的一部分。 有些方法可以通過雙重許可或有限功能間接地爲開源項目收費，同時仍然遵守開源的官方定義。
 
-## 我是否应该发起我自己的开源项目?
+## 我是否應該發起我自己的開源項目?
 
-简单来说，答案是肯定的，因为无论结果如何，启动您自己的项目来了解开源的工作原理是一个好方法。
+簡單來說，答案是肯定的，因爲無論結果如何，啓動您自己的項目來瞭解開源的工作原理是一個好方法。
 
-如果你从来没有创建过一个项目，你可能会担心人们会说什么，或者是否有人会注意到。 如果这听起来像你现在的状态，别担心，你并不孤独！
+如果你從來沒有創建過一個項目，你可能會擔心人們會說什麼，或者是否有人會注意到。 如果這聽起來像你現在的狀態，別擔心，你並不孤獨！
 
-开源工作就像任何其他充满创意的活动，无论是写作还是绘画。 向世界分享你的作品会让你提心吊胆，但唯有练习能够让你的感觉变好的方法 - 即使你没有观众。
+開源工作就像任何其他充滿創意的活動，無論是寫作還是繪畫。 向世界分享你的作品會讓你提心吊膽，但唯有練習能夠讓你的感覺變好的方法 - 即使你沒有觀衆。
 
-如果你还不确信，请花一点时间思考你的目标可能是什么。
+如果你還不確信，請花一點時間思考你的目標可能是什麼。
 
-### 设置你的目标
+### 設置你的目標
 
-目标可以帮助你弄清该做什么，不应该说什么，以及你在哪方面需要其他人的帮助。 首先问自己，_我是为什么开源这个项目？_
+目標可以幫助你弄清該做什麼，不應該說什麼，以及你在哪方面需要其他人的幫助。 首先問自己，_我是爲什麼開源這個項目？_
 
-这个问题没有标准答案。 对于一个项目你可以有多个目标，或者具有不同目标的不同项目。
+這個問題沒有標準答案。 對於一個項目你可以有多個目標，或者具有不同目標的不同項目。
 
-如果你唯一的目标是炫耀你的工作，你甚至可能不需要他人的贡献，甚至在你的 README 中说明这点。但另一方面，如果你需要贡献者，你会投入时间来使文档清晰，好让新的参与者感到欢迎。
+如果你唯一的目標是炫耀你的工作，你甚至可能不需要他人的貢獻，甚至在你的 README 中說明這點。但另一方面，如果你需要貢獻者，你會投入時間來使文檔清晰，好讓新的參與者感到歡迎。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
-在某些时候，我创建了一个自己正在使用的自定义 UIAlertView，我决定将它开源。所以我修改它使其更有活力，并把它上传到了 GitHub。我还写了我的第一个文档，解释给其他开发人员如何在他们的项目中使用它。很可能没有人会去使用它，因为它是一个简单的项目，但我的贡献让我感觉很好。 
+在某些時候，我創建了一個自己正在使用的自定義 UIAlertView，我決定將它開源。所以我修改它使其更有活力，並把它上傳到了 GitHub。我還寫了我的第一個文檔，解釋給其他開發人員如何在他們的項目中使用它。很可能沒有人會去使用它，因爲它是一個簡單的項目，但我的貢獻讓我感覺很好。 
   <p markdown="1" class="pquote-credit">
-— @mavris, [“自学的软件开发者：为什么开源对我们那么重要”](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+— @mavris, [“自學的軟件開發者：爲什麼開源對我們那麼重要”](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
 </aside>
 
-随着你的项目增长，你的社区可能不仅需要你的代码。回应问题，审查代码和传播你的项目都会成为开源项目中的重要任务。
+隨着你的項目增長，你的社區可能不僅需要你的代碼。迴應問題，審查代碼和傳播你的項目都會成爲開源項目中的重要任務。
 
-而你在非编码的任务上花费的时间将取决于项目的大小和范围，你应该准备好作为维护者来自己解决或找人帮助你。
+而你在非編碼的任務上花費的時間將取決於項目的大小和範圍，你應該準備好作爲維護者來自己解決或找人幫助你。
 
-**如果你是公司开源项目的一部分，** 确保你的项目有它需要茁壮成长的内部资源。 你需要确定谁在启动后负责维护项目，以及如何与你的社区共享这些任务。
+**如果你是公司開源項目的一部分，** 確保你的項目有它需要茁壯成長的內部資源。 你需要確定誰在啓動後負責維護項目，以及如何與你的社區共享這些任務。
 
-如果你需要专门的预算或人员来促进，操作和维护项目，请尽早提出。
+如果你需要專門的預算或人員來促進，操作和維護項目，請儘早提出。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1857993?v=3&s=460" class="pquote-avatar" alt="avatar">
-当你开始开源一个项目时，确保您的管理流程考虑到您项目周围社区的贡献和能力很重要。不要害怕让那些没有在你的企业中受雇的贡献者参与项目的关键部分 - 尤其如果他们是频繁的贡献者的话。
+當你開始開源一個項目時，確保您的管理流程考慮到您項目周圍社區的貢獻和能力很重要。不要害怕讓那些沒有在你的企業中受僱的貢獻者參與項目的關鍵部分 - 尤其如果他們是頻繁的貢獻者的話。
   <p markdown="1" class="pquote-credit">
-— @captainsafia, [“所以你想开源一个项目，是吗？”](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, [“所以你想開源一個項目，是嗎？”](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
   </p>
 </aside>
 
-### 加入其他项目
+### 加入其他項目
 
-如果你的目标是学习如何与他人合作或了解开源的工作方式，请考虑为现有项目做出贡献。从你已经使用并喜欢的项目开始。像修复拼写错误或更新文档简单的事也能为项目做出贡献。
+如果你的目標是學習如何與他人合作或瞭解開源的工作方式，請考慮爲現有項目做出貢獻。從你已經使用並喜歡的項目開始。像修復拼寫錯誤或更新文檔簡單的事也能爲項目做出貢獻。
 
-如果你不知道如何开始作为贡献者，请查看我们的[如何贡献开源指南](../how-to-contribute/)。
+如果你不知道如何開始作爲貢獻者，請查看我們的[如何貢獻開源指南](../how-to-contribute/)。
 
-## 发起自己的开源项目
+## 發起自己的開源項目
 
-即使你没有很好的时间来开源你的工作。你也可以开源一个想法，正在进行中的工作，或是关闭了多年的源码。
+即使你沒有很好的時間來開源你的工作。你也可以開源一個想法，正在進行中的工作，或是關閉了多年的源碼。
 
-一般来说，如果你乐意于他人对你工作的查看和反馈，你就应该开源你的项目。
+一般來說，如果你樂意於他人對你工作的查看和反饋，你就應該開源你的項目。
 
-无论您决定开展项目的哪个阶段，每个项目都应包括以下文档：
+無論您決定開展項目的哪個階段，每個項目都應包括以下文檔：
 
 * [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
 * [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 * [Code of conduct](../code-of-conduct/)
 
-作为维护者，这些组件将帮助你交流你的期望，管理贡献并保护每个人的合法权益（也包括您自己的）。他们能够大大增加你积极体验的机会。
+作爲維護者，這些組件將幫助你交流你的期望，管理貢獻並保護每個人的合法權益（也包括您自己的）。他們能夠大大增加你積極體驗的機會。
 
-如果您的项目在 GitHub 上，则将这些文件放在您的根目录中，并使用推荐的文件名将有助于 GitHub 识别并自动将其显示给读者。
+如果您的項目在 GitHub 上，則將這些文件放在您的根目錄中，並使用推薦的文件名將有助於 GitHub 識別並自動將其顯示給讀者。
 
-### 选择一个许可证 (license)
+### 選擇一個許可證 (license)
 
-开源许可证保证其他人可以使用，复制，修改和贡献给您的项目，而不会产生不良后果。 它也可以保护您免受繁琐的法律影响。**启动开源项目时，请务必包含许可证。**
+開源許可證保證其他人可以使用，複製，修改和貢獻給您的項目，而不會產生不良後果。 它也可以保護您免受繁瑣的法律影響。**啓動開源項目時，請務必包含許可證。**
 
-法律工作是非常无趣的。但好消息是，您可以将现有许可证复制并粘贴到存储库中。只需要花这么一点时间，就能保护你的辛苦工作。
+法律工作是非常無趣的。但好消息是，您可以將現有許可證複製並粘貼到存儲庫中。只需要花這麼一點時間，就能保護你的辛苦工作。
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),  和 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 都是非常流行的开源许可证， 但你可以选择[其他选项](https://choosealicense.com).
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),  和 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 都是非常流行的開源許可證， 但你可以選擇[其他選項](https://choosealicense.com).
 
-当你在GitHub上创建新项目时，你可以选择许可证。包括开源许可证将使你的GitHub项目成为开源。
+當你在GitHub上創建新項目時，你可以選擇許可證。包括開源許可證將使你的GitHub項目成爲開源。
 
-![挑选一个许可证](/assets/images/starting-a-project/repository-license-picker.png)
+![挑選一個許可證](/assets/images/starting-a-project/repository-license-picker.png)
 
-如果您在管理开放源码项目的法律方面有其他问题或疑虑，我们已经[在这里](../legal/)介绍了。
+如果您在管理開放源碼項目的法律方面有其他問題或疑慮，我們已經[在這裏](../legal/)介紹了。
 
-### 编写自述文件 (README)
+### 編寫自述文件 (README)
 
-自述文件不仅仅是用于说明如何使用你的项目。他们还可以解释你的项目为什么重要，以及它可以为你的用户做什么。
+自述文件不僅僅是用於說明如何使用你的項目。他們還可以解釋你的項目爲什麼重要，以及它可以爲你的用戶做什麼。
 
-在您的自述文件中，尝试回答以下问题：
+在您的自述文件中，嘗試回答以下問題：
 
-* 这个项目做什么？
-* 为什么这个项目有用？
-* 如何开始？
-* 如果需要，我可以在哪里获得更多的帮助？
+* 這個項目做什麼？
+* 爲什麼這個項目有用？
+* 如何開始？
+* 如果需要，我可以在哪裏獲得更多的幫助？
 
-您可以使用自己的README回答其他问题，例如处理贡献，项目的目标以及许可证和归属信息。 如果您不想接受他人的贡献，或者您的项目尚未准备好作为产品提供使用，请将这些信息写下来。
+您可以使用自己的README回答其他問題，例如處理貢獻，項目的目標以及許可證和歸屬信息。 如果您不想接受他人的貢獻，或者您的項目尚未準備好作爲產品提供使用，請將這些信息寫下來。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/168572?v=3&s=460" class="pquote-avatar" alt="avatar">
-更好的文档意味着更多的用户，更少的求助和更多的贡献者，等等。要记住你的读者不是你自己。来到项目中的每个人可能有着截然不同的经历。
+更好的文檔意味着更多的用戶，更少的求助和更多的貢獻者，等等。要記住你的讀者不是你自己。來到項目中的每個人可能有着截然不同的經歷。
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["这样写给他人看（视频）"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @limedaring, ["這樣寫給他人看（視頻）"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
-有时，人们会因为觉得项目未完成而不愿意撰写 README，或者他们不希望做出贡献。这些都是写一个 README 的很好的理由。
+有時，人們會因爲覺得項目未完成而不願意撰寫 README，或者他們不希望做出貢獻。這些都是寫一個 README 的很好的理由。
 
-想要获得更多灵感，请尝试使用 @18F 的 ["让 README 可读"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) 或者 @PurpleBooth 的 [README 模板](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) 来撰写一个完整的 README。
+想要獲得更多靈感，請嘗試使用 @18F 的 ["讓 README 可讀"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) 或者 @PurpleBooth 的 [README 模板](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) 來撰寫一個完整的 README。
 
-当你在根目录中包含一个 README 文件时，GitHub 会自动将其显示在存储库的主页上。
+當你在根目錄中包含一個 README 文件時，GitHub 會自動將其顯示在存儲庫的主頁上。
 
-### 编写你的贡献指南
+### 編寫你的貢獻指南
 
-贡献文件 (CONTRIBUTING file) 告诉你的受众如何参与你的项目. 例如，你可以包括一下信息:
+貢獻文件 (CONTRIBUTING file) 告訴你的受衆如何參與你的項目. 例如，你可以包括一下信息:
 
-* 如何提交错误报告（尝试使用[issue 和 pull request 模板](https://github.com/blog/2111-issue-and-pull-request-templates)）
-* 如何建议一个新功能
-* 如何配置你的环境和运行测试
+* 如何提交錯誤報告（嘗試使用[issue 和 pull request 模板](https://github.com/blog/2111-issue-and-pull-request-templates)）
+* 如何建議一個新功能
+* 如何配置你的環境和運行測試
 
-除了技术细节， 贡献文件也是一个供你传达对贡献期待的机会， 例如：
+除了技術細節， 貢獻文件也是一個供你傳達對貢獻期待的機會， 例如：
 
-* 你在寻求的贡献类型
-* 你项目的路线图或者版本
-* 贡献者应该（或者不应该）如何与你取得联系
+* 你在尋求的貢獻類型
+* 你項目的路線圖或者版本
+* 貢獻者應該（或者不應該）如何與你取得聯繫
 
-温柔友好的逾期和向贡献者们提供具体的建议（例如写文档或者搭建一个网页）能够有效地使新人感到受欢迎并乐于参与其中。
+溫柔友好的逾期和向貢獻者們提供具體的建議（例如寫文檔或者搭建一個網頁）能夠有效地使新人感到受歡迎並樂於參與其中。
 
-例如，[Active Admin](https://github.com/activeadmin/activeadmin/) 以这样的方式开始[它的贡献指南](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)：
+例如，[Active Admin](https://github.com/activeadmin/activeadmin/) 以這樣的方式開始[它的貢獻指南](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)：
 
-> 首先， 非常感谢你考虑为 Active Admin 贡献帮助。正式你这样的人们使得 Active Admin 成为了如此优秀的工具。
+> 首先， 非常感謝你考慮爲 Active Admin 貢獻幫助。正式你這樣的人們使得 Active Admin 成爲瞭如此優秀的工具。
 
-在你项目开始的初期，你的贡献文件可以很简单。你应该经常解释如何提交错误和文件问题，以及关于如何作出贡献的技术问题（例如测试）。
+在你項目開始的初期，你的貢獻文件可以很簡單。你應該經常解釋如何提交錯誤和文件問題，以及關於如何作出貢獻的技術問題（例如測試）。
 
-随着时间的推移，你硬弓增加其他常见问题到你的贡献文件中去。写下这些信息意味着问你相同问题的人会越来越少。
+隨着時間的推移，你硬弓增加其他常見問題到你的貢獻文件中去。寫下這些信息意味着問你相同問題的人會越來越少。
 
-想要获得更多有关编写贡献文件的方式，请查阅 @nayafia 的 [贡献指南模板](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 或者 @mozilla 的 [“如何构建 CONTRIBUTION.md”](http://mozillascience.github.io/working-open-workshop/contributing/)。
+想要獲得更多有關編寫貢獻文件的方式，請查閱 @nayafia 的 [貢獻指南模板](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 或者 @mozilla 的 [“如何構建 CONTRIBUTION.md”](http://mozillascience.github.io/working-open-workshop/contributing/)。
 
-来你的 README 中链接你的 CONTRIBUTING，这样更多人就能看到他。如果你[在你的项目中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，当一个贡献者创建 issue 或者开启一个 pull request 时，GitHub 会自动链接你的文件。
+來你的 README 中鏈接你的 CONTRIBUTING，這樣更多人就能看到他。如果你[在你的項目中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，當一個貢獻者創建 issue 或者開啓一個 pull request 時，GitHub 會自動鏈接你的文件。
 
-![贡献指南](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![貢獻指南](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
-### 建立行为规范
+### 建立行爲規範
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/11214?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我们都有过这样的关于重复劳动的经验，无论是维护者试着解释为什么某些事物必须通过某种明确的方式执行，或者是用户...提出一个简单的问题。行为规范成为一个便利的参考和可链接的文档标明你的团队会认真对待具有建设性的讨论。
+  我們都有過這樣的關於重複勞動的經驗，無論是維護者試着解釋爲什麼某些事物必須通過某種明確的方式執行，或者是用戶...提出一個簡單的問題。行爲規範成爲一個便利的參考和可鏈接的文檔標明你的團隊會認真對待具有建設性的討論。
   <p markdown="1" class="pquote-credit">
-— @mlynch, [“让开源成为一个有趣的地方”](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
+— @mlynch, [“讓開源成爲一個有趣的地方”](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
 </aside>
 
-最后，行为规范有助于为你项目的参与者车里行为规则。这在你为社区或者项目推出一个开源项目的时候尤为有价值。一份行为帮助你促进健康，有建设性的社区行为，这也会减轻你作为维护者的压力。
+最後，行爲規範有助於爲你項目的參與者車裏行爲規則。這在你爲社區或者項目推出一個開源項目的時候尤爲有價值。一份行爲幫助你促進健康，有建設性的社區行爲，這也會減輕你作爲維護者的壓力。
 
-更多信息，请参见 [行为规范指导](../code-of-conduct/)。
+更多信息，請參見 [行爲規範指導](../code-of-conduct/)。
 
-除了传达你期待参与者**如何**行动，行为规范也倾向于描述这些期待针对谁，适用于何时，以及对于违规行为的处理方法。
+除了傳達你期待參與者**如何**行動，行爲規範也傾向於描述這些期待針對誰，適用於何時，以及對於違規行爲的處理方法。
 
-就像开源许可证一样，有现成的行为规范，所以你不必自己编写。[贡献者公约](http://contributor-covenant.org/)是一个行之有效的行为规范，已经被用在[超过4000个开源项目](http://contributor-covenant.org/adopters/)，包括 Kubernetes，Rails，以及 Swift。无论你使用哪一种，你都应该准备好在必要时执行行为规范。
+就像開源許可證一樣，有現成的行爲規範，所以你不必自己編寫。[貢獻者公約](http://contributor-covenant.org/)是一個行之有效的行爲規範，已經被用在[超過4000個開源項目](http://contributor-covenant.org/adopters/)，包括 Kubernetes，Rails，以及 Swift。無論你使用哪一種，你都應該準備好在必要時執行行爲規範。
 
-将文本直接粘贴到项目存储库中的 CODE_OF_CONDUCT 文件中。将文件保存在项目的根目录中，以便轻松找到，并从 README 中链接到它。
+將文本直接粘貼到項目存儲庫中的 CODE_OF_CONDUCT 文件中。將文件保存在項目的根目錄中，以便輕鬆找到，並從 README 中鏈接到它。
 
-## 为项目命名及设立品牌
+## 爲項目命名及設立品牌
 
-品牌不仅是一个华丽的logo或者易记的项目名。它还关于你如何谈论你的项目，以及你想把信息传递给谁。
+品牌不僅是一個華麗的logo或者易記的項目名。它還關於你如何談論你的項目，以及你想把信息傳遞給誰。
 
-### 选择正确的名字
+### 選擇正確的名字
 
-选择一个容易记住，有创意，能表达项目用意的名字。例如：
+選擇一個容易記住，有創意，能表達項目用意的名字。例如：
 
-* [Sentry](https://github.com/getsentry/sentry) 监控应用程序的崩溃报告
-* [Thin](https://github.com/macournoyer/thin) 是一个简单快速的Ruby web服务器。
+* [Sentry](https://github.com/getsentry/sentry) 監控應用程序的崩潰報告
+* [Thin](https://github.com/macournoyer/thin) 是一個簡單快速的Ruby web服務器。
 
-如果你的项目是基于一个已存在的项目创建，那么使用他们的名字作为你项目名的前缀会帮助你阐述你项目的用途。 (例如 [node-fetch](https://github.com/bitinn/node-fetch)将`window.fetch` 添加到了 Node.js)。
+如果你的項目是基於一個已存在的項目創建，那麼使用他們的名字作爲你項目名的前綴會幫助你闡述你項目的用途。 (例如 [node-fetch](https://github.com/bitinn/node-fetch)將`window.fetch` 添加到了 Node.js)。
 
-考虑阐明所有。押韵虽然有趣，但是记住玩笑不可能转变成其它的文化，或者他人与你有不同的经历。你的一些潜在用户可能是公司员工，你不能让他们在工作中很难解释你的项目！
+考慮闡明所有。押韻雖然有趣，但是記住玩笑不可能轉變成其它的文化，或者他人與你有不同的經歷。你的一些潛在用戶可能是公司員工，你不能讓他們在工作中很難解釋你的項目！
 
-### 避免命名冲突
+### 避免命名衝突
 
-[查看是否有同名的开源项目](http://ivantomic.com/projects/ospnc/)，尤其是你分享的是同样的语言或者生态系统。如果你的名字与一个已存在的知名的项目有冲突，你会让你的粉丝感到困惑。
+[查看是否有同名的開源項目](http://ivantomic.com/projects/ospnc/)，尤其是你分享的是同樣的語言或者生態系統。如果你的名字與一個已存在的知名的項目有衝突，你會讓你的粉絲感到困惑。
 
-如果你想要一个网站，Twitter账号或者其他特性来展示你的项目，先确保你能得到你想要的名字。理想情况下，为了美好的未来[现在保留这些名字](https://instantdomainsearch.com/)，即使你现在不想用他们。
+如果你想要一個網站，Twitter賬號或者其他特性來展示你的項目，先確保你能得到你想要的名字。理想情況下，爲了美好的未來[現在保留這些名字](https://instantdomainsearch.com/)，即使你現在不想用他們。
 
-确保你的项目名没有侵权。如果有侵权，可能会有公司要求你的项目下架，或者对你采取法律措施。这样得不偿失。
+確保你的項目名沒有侵權。如果有侵權，可能會有公司要求你的項目下架，或者對你採取法律措施。這樣得不償失。
 
- 你可以查阅[WIPO全球品牌数据库](http://www.wipo.int/branddb/en/)避免商标冲突。如果你是在公司工作，[法律团队会帮你做这件事](../legal/)。
+ 你可以查閱[WIPO全球品牌數據庫](http://www.wipo.int/branddb/en/)避免商標衝突。如果你是在公司工作，[法律團隊會幫你做這件事](../legal/)。
 
-最后，去谷歌搜索你的项目名。大家会很容易地找到你的项目吗？在搜索结果礼是否有你不想让大家看到的东西？
+最後，去谷歌搜索你的項目名。大家會很容易地找到你的項目嗎？在搜索結果禮是否有你不想讓大家看到的東西？
 
-### 你的写作（和代码）如何影响你的品牌
+### 你的寫作（和代碼）如何影響你的品牌
 
-在项目的整个生命周期中，你需要做很多文字工作：READMEs，教程，社区文档，回复issues，甚至肯能要处理很多来信和邮件。
+在項目的整個生命週期中，你需要做很多文字工作：READMEs，教程，社區文檔，回覆issues，甚至肯能要處理很多來信和郵件。
 
-是否是官方文档或者一封普通的邮件，你的书写风格都是你项目品牌的一部分。考虑你可能会拥有粉丝，以及这是你想传达的声音。
+是否是官方文檔或者一封普通的郵件，你的書寫風格都是你項目品牌的一部分。考慮你可能會擁有粉絲，以及這是你想傳達的聲音。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/11321?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我尝试处理每一个细节，包括：处理邮件，展示示例，友好待人，认真处理大家的issues以及试图帮助到大家。经过一段时间后，大家可能不再是只问问题，还会帮助我解决其他人的疑问以及给我喜悦，他们模仿我的风格。
+  我嘗試處理每一個細節，包括：處理郵件，展示示例，友好待人，認真處理大家的issues以及試圖幫助到大家。經過一段時間後，大家可能不再是只問問題，還會幫助我解決其他人的疑問以及給我喜悅，他們模仿我的風格。
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-使用热情，通俗易懂的语言（如“他们”，即使是指一个人）能够让新来的贡献者感觉项目非常欢迎他们。使用简单的语言，因为你的读者可能英语不是很好。
+使用熱情，通俗易懂的語言（如“他們”，即使是指一個人）能夠讓新來的貢獻者感覺項目非常歡迎他們。使用簡單的語言，因爲你的讀者可能英語不是很好。
 
-除了书写风格外，你的编码风格也是你项目品牌的一部分。 [Angular](https://github.com/johnpapa/angular-styleguide) 和 [jQuery](http://contribute.jquery.org/style-guide/js/)是两个项目代码风格严谨的示例和指南。
+除了書寫風格外，你的編碼風格也是你項目品牌的一部分。 [Angular](https://github.com/johnpapa/angular-styleguide) 和 [jQuery](http://contribute.jquery.org/style-guide/js/)是兩個項目代碼風格嚴謹的示例和指南。
 
-当你的项目才开始时，没有必要为项目编写一份风格指南。你可能会发现你喜欢将不同的编码风格融入到项目。但是你应该想到你的书写和编码风格会吸引或者拒绝不同类型的人。项目的早期是你建立你希望看见的先例的机会。
+當你的項目纔開始時，沒有必要爲項目編寫一份風格指南。你可能會發現你喜歡將不同的編碼風格融入到項目。但是你應該想到你的書寫和編碼風格會吸引或者拒絕不同類型的人。項目的早期是你建立你希望看見的先例的機會。
 
-## 发起项目之前的检查项
+## 發起項目之前的檢查項
 
-准备好开源你的项目了吗？有一份帮助检查清单。检查所有内容？你准备开始吧！ [点击 "publish"](https://help.github.com/articles/making-a-private-repository-public/) 以及拍下自己的后背。
+準備好開源你的項目了嗎？有一份幫助檢查清單。檢查所有內容？你準備開始吧！ [點擊 "publish"](https://help.github.com/articles/making-a-private-repository-public/) 以及拍下自己的後背。
 
-**文档**
+**文檔**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    需要为项目指定一个开源协议
+    需要爲項目指定一個開源協議
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    项目要有基础文档 (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    項目要有基礎文檔 (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    易记的项目名，指出项目是做什么的，不能和已存在的项目冲突或者商标侵权
+    易記的項目名，指出項目是做什麼的，不能和已存在的項目衝突或者商標侵權
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    最新的issue队列，组织和标记清除的issues
+    最新的issue隊列，組織和標記清除的issues
   </label>
 </div>
 
-**代码**
+**代碼**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    项目使用一致的代码风格和明确的功能/方法/可用的名字
+    項目使用一致的代碼風格和明確的功能/方法/可用的名字
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    注释清晰的代码，记录意图和边缘案例
+    註釋清晰的代碼，記錄意圖和邊緣案例
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    在修改历史，issues或者 pull requests 中没有敏感的信息 (例如 密码或者其他不能公开的信息)
+    在修改歷史，issues或者 pull requests 中沒有敏感的信息 (例如 密碼或者其他不能公開的信息)
   </label>
 </div>
 
 **人**
 
-如果你是代表个人：
+如果你是代表個人：
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  你已经告诉了你的法律部门，以及/或者理解了你公司（如果你是某一家公司的员工）的开源政策和IP
+  你已經告訴了你的法律部門，以及/或者理解了你公司（如果你是某一家公司的員工）的開源政策和IP
   </label>
 </div>
 
-如果你有一家公司或者组织：
+如果你有一家公司或者組織：
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    你已经告诉了你的法律部门
+    你已經告訴了你的法律部門
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    你有一个宣布和促进项目的营销计划
+    你有一個宣佈和促進項目的營銷計劃
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    一些人被允许管理社区互动（回复issues，检查和合并pull requests）
+    一些人被允許管理社區互動（回覆issues，檢查和合併pull requests）
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    至少有两人管理访问项目
+    至少有兩人管理訪問項目
   </label>
 </div>
 
 ## 你做到了！
 
-恭喜你开源了你的首个项目。不论结果如何，对开源社区都是一份礼物。随着每次commit,comment和pull request，你正在为自己或者他人创造学习和成长的机会。
+恭喜你開源了你的首個項目。不論結果如何，對開源社區都是一份禮物。隨着每次commit,comment和pull request，你正在爲自己或者他人創造學習和成長的機會。
 
 

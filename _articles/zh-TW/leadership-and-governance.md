@@ -4,161 +4,161 @@ title: 領導與治理
 description: 有了正式規則的決策，可讓開源專案順利的成長。
 class: leadership
 toc:
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "开源项目中通常都有那些角色？"
-  how-do-i-formalize-these-leadership-roles: "该如何将这些领导力角色正规化？"
-  when-should-i-give-someone-commit-access: "何时该赋予提交者权限？"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "对于开源项目来说有那些常见的治理结构？"
-  do-i-need-governance-docs-when-i-launch-my-project: "当我创建开源项目时，需要专门撰写一份治理文档吗？"
-  what-happens-if-corporate-employees-start-submitting-contributions: "公司员工该如何开启提交贡献之旅？"
-  do-i-need-a-legal-entity-to-support-my-project: "我是否需要一个法律实体来支持我的项目?"
+  what-are-examples-of-formal-roles-used-in-open-source-projects: "開源項目中通常都有那些角色？"
+  how-do-i-formalize-these-leadership-roles: "該如何將這些領導力角色正規化？"
+  when-should-i-give-someone-commit-access: "何時該賦予提交者權限？"
+  what-are-some-of-the-common-governance-structures-for-open-source-projects: "對於開源項目來說有那些常見的治理結構？"
+  do-i-need-governance-docs-when-i-launch-my-project: "當我創建開源項目時，需要專門撰寫一份治理文檔嗎？"
+  what-happens-if-corporate-employees-start-submitting-contributions: "公司員工該如何開啓提交貢獻之旅？"
+  do-i-need-a-legal-entity-to-support-my-project: "我是否需要一個法律實體來支持我的項目?"
 order: 6
 image: /assets/images/cards/leadership.png
 ---
 
-## 针对增长的项目来理解治理
+## 針對增長的項目來理解治理
 
-当项目开始有条不紊的进行，人员也开始稳定，那么你就应该开始社区的治理了。对于社区的治理，你或许有一些疑问，诸如如何将常规项目的贡献者纳入你的工作流？如何才能判断应该赋予谁提交的权限？又或者是如何解决社区的债务？如果你对这些有疑问的话，我们这里会尽力帮你解决。
+當項目開始有條不紊的進行，人員也開始穩定，那麼你就應該開始社區的治理了。對於社區的治理，你或許有一些疑問，諸如如何將常規項目的貢獻者納入你的工作流？如何才能判斷應該賦予誰提交的權限？又或者是如何解決社區的債務？如果你對這些有疑問的話，我們這裏會盡力幫你解決。
 
-## 开源项目中通常都有那些角色？
+## 開源項目中通常都有那些角色？
 
-很多项目针对贡献者角色和身份均遵循相似的结构。
+很多項目針對貢獻者角色和身份均遵循相似的結構。
 
-这些角色实际上意味着什么完全取决于你。我们这里所列举的，相信你是非常熟悉的了：
+這些角色實際上意味着什麼完全取決於你。我們這裏所列舉的，相信你是非常熟悉的了：
 
-* **维护者**
-* **贡献者**
-* **修订者**
+* **維護者**
+* **貢獻者**
+* **修訂者**
 
-**对于某些项目来说， "维护者"** 就是唯一拥有提交权限的人。然而在其它的一些项目中， they're simply the people who are listed in the README as maintainers.
+**對於某些項目來說， "維護者"** 就是唯一擁有提交權限的人。然而在其它的一些項目中， they're simply the people who are listed in the README as maintainers.
 
-作为一名维护者，不一定非得一定要为项目撰写代码。Ta有可能是项目的布道师，为项目的宣传做了很多的工作，又或者是撰写文档让更多的人参与进来。不管他们每天做什么，维护者就是那些对项目方向负责的人，并致力于项目的改进。
+作爲一名維護者，不一定非得一定要爲項目撰寫代碼。Ta有可能是項目的佈道師，爲項目的宣傳做了很多的工作，又或者是撰寫文檔讓更多的人參與進來。不管他們每天做什麼，維護者就是那些對項目方向負責的人，並致力於項目的改進。
 
-**作为 "贡献者" 可以是任何人** ，只要Ta提出issue或PR 就叫做贡献者，那些为项目作出有价值的都算（无论是分类问题，编写代码还是组织会议），又或者是将他们的PR合并进主干的（或许这个定义是最接近所谓的贡献者的）。
+**作爲 "貢獻者" 可以是任何人** ，只要Ta提出issue或PR 就叫做貢獻者，那些爲項目作出有價值的都算（無論是分類問題，編寫代碼還是組織會議），又或者是將他們的PR合並進主乾的（或許這個定義是最接近所謂的貢獻者的）。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/579?v=3&s=460" class="pquote-avatar" alt="avatar">
-  \[对于 Node.js 来说\] 无论是在issue中提交评论，还是提交代码，任何人都是项目社区的成员。只要能够看到他们，就意味着他们已经实现了跨越，从路人成为一个用户，成为一个贡献者。
+  \[對於 Node.js 來說\] 無論是在issue中提交評論，還是提交代碼，任何人都是項目社區的成員。只要能夠看到他們，就意味着他們已經實現了跨越，從路人成爲一個用戶，成爲一個貢獻者。
   <p markdown="1" class="pquote-credit">
-— @mikeal, ["开源的健康衡量"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
+— @mikeal, ["開源的健康衡量"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
 </aside>
 
-**术语 "修订者"** 可能用于区分其他形式的贡献的提交访问，这是一种特定类型的责任。
+**術語 "修訂者"** 可能用於區分其他形式的貢獻的提交訪問，這是一種特定類型的責任。
 
-其实你可以根据自己喜欢的方式来定义项目的角色，[考虑使用更广泛的定义](../how-to-contribute/#what-it-means-to-contribute) 来鼓励更多的形式的贡献。无论技术技能如何，您都可以使用领导角色来正式识别为您的项目做出突出贡献的人员。
+其實你可以根據自己喜歡的方式來定義項目的角色，[考慮使用更廣泛的定義](../how-to-contribute/#what-it-means-to-contribute) 來鼓勵更多的形式的貢獻。無論技術技能如何，您都可以使用領導角色來正式識別爲您的項目做出突出貢獻的人員。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/21148?v=3&s=460" class="pquote-avatar" alt="avatar">
-  你们或许知道我是 Django 的“创始人”...其实真相是在有人雇佣了我之后一年才真正的做出来。(...) 人们猜测我的成功是因为我的编程技能够牛...但事实上我的编程水平只是一般般而已。
+  你們或許知道我是 Django 的“創始人”...其實真相是在有人僱傭了我之後一年才真正的做出來。(...) 人們猜測我的成功是因爲我的編程技能夠牛...但事實上我的編程水平只是一般般而已。
   <p markdown="1" class="pquote-credit">
-— @jacobian, ["PyCon 2015 Keynote" (视频)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
+— @jacobian, ["PyCon 2015 Keynote" (視頻)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
 </aside>
 
-## 该如何将这些领导力角色正规化？
+## 該如何將這些領導力角色正規化？
 
-将领导力角色正规化，可以帮助人们找到归属感，且可以让其它社区成员明白应该找谁能够获得帮助。
+將領導力角色正規化，可以幫助人們找到歸屬感，且可以讓其它社區成員明白應該找誰能夠獲得幫助。
 
-对于一个较小的项目来讲，指定领导者，只需要在 README 或 CONTRIBUTORS 文本文件中写上他们的名字即可。
+對於一個較小的項目來講，指定領導者，只需要在 README 或 CONTRIBUTORS 文本文件中寫上他們的名字即可。
 
-对于稍大型点的项目，如果你已经拥有了网页的话，那么请创建一个团队的页面，或者创建一个团队领导的页面。举例来说， [PostgreSQL](https://github.com/postgres/postgres/) 就拥有一个[很全面地团队页面](https://www.postgresql.org/community/contributors/) ，而且每位贡献者都拥有简短的介绍。
+對於稍大型點的項目，如果你已經擁有了網頁的話，那麼請創建一個團隊的頁面，或者創建一個團隊領導的頁面。舉例來說， [PostgreSQL](https://github.com/postgres/postgres/) 就擁有一個[很全面地團隊頁面](https://www.postgresql.org/community/contributors/) ，而且每位貢獻者都擁有簡短的介紹。
 
-如果你的项目拥有非常活跃的贡献者社区，你或许会专门建立一个维护者的“核心团队”，甚至是根据不同的话题所有者成立子的委员会（例如，安全，问题筛选，或者是社区准则）。让人们自行组织、且能够让志愿者自行找到自己喜欢的角色，而不是去分配他们。
+如果你的項目擁有非常活躍的貢獻者社區，你或許會專門建立一個維護者的“核心團隊”，甚至是根據不同的話題所有者成立子的委員會（例如，安全，問題篩選，或者是社區準則）。讓人們自行組織、且能夠讓志願者自行找到自己喜歡的角色，而不是去分配他們。
 
 <aside markdown="1" class="pquote">
-  \[我们\] 为核心团队设立多个“子团队”。每个子团队都会专门的聚焦于某个特定的领域，举例来说，语言设计或程序库(...) 为了确保全局的协调和健壮，会将整体的项目设置为同一个愿景，每个子团队是由核心团队的一员。
+  \[我們\] 爲核心團隊設立多個“子團隊”。每個子團隊都會專門的聚焦於某個特定的領域，舉例來說，語言設計或程序庫(...) 爲了確保全局的協調和健壯，會將整體的項目設置爲同一個願景，每個子團隊是由核心團隊的一員。
   <p markdown="1" class="pquote-credit">
 — ["Rust 治理 RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
   </p>
 </aside>
 
-领导者团队或许要创建一个指定的频道（如IRC），又或者是参与项目的日常讨论（如Gitter或Google Hangout）。你需要将这些会议可以公开访问，以便让人们方便倾听。举例来说，
- [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)就会[每周开一次会议，每次持续几小时](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+領導者團隊或許要創建一個指定的頻道（如IRC），又或者是參與項目的日常討論（如Gitter或Google Hangout）。你需要將這些會議可以公開訪問，以便讓人們方便傾聽。舉例來說，
+ [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)就會[每週開一次會議，每次持續幾小時](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
 
-一旦你建立了领导力角色，一定不要忘记撰写文档，告诉人们如何成为领导者！要为如何成为一名维护者或加入到项目的子委员会创建一个清晰的流程，并将之写入 GOVERNANCE.md 文件。
+一旦你建立了領導力角色，一定不要忘記撰寫文檔，告訴人們如何成爲領導者！要爲如何成爲一名維護者或加入到項目的子委員會創建一個清晰的流程，並將之寫入 GOVERNANCE.md 文件。
 
-诸如[Vossibility](https://github.com/icecrime/vossibility-stack) 这样的工具，可以帮助你追踪谁是（或不是）项目的贡献者。为这些信息作说明，以避免社区出现维护者作出私自的决定。
+諸如[Vossibility](https://github.com/icecrime/vossibility-stack) 這樣的工具，可以幫助你追蹤誰是（或不是）項目的貢獻者。爲這些信息作說明，以避免社區出現維護者作出私自的決定。
 
-另外，如果你的项目在托管在GitHub上，考虑将你的项目从个人账户迁移到某个组织，而且要为组织增加额外的一个备份的管理员。
-[GitHub 上的组织](https://help.github.com/articles/creating-a-new-organization-account/) 能够让权限管理和多仓库管理更加的轻松，而且可通过 [共享所有权](../building-community/#share-ownership-of-your-project)来保护你的项目。
+另外，如果你的項目在託管在GitHub上，考慮將你的項目從個人賬戶遷移到某個組織，而且要爲組織增加額外的一個備份的管理員。
+[GitHub 上的組織](https://help.github.com/articles/creating-a-new-organization-account/) 能夠讓權限管理和多倉庫管理更加的輕鬆，而且可通過 [共享所有權](../building-community/#share-ownership-of-your-project)來保護你的項目。
 
-## 何时该赋予提交者权限？
+## 何時該賦予提交者權限？
 
-有的人认为项目应该对所有人都开放提交访问，从而让任何人都可以做出贡献。理由是这样做的话，会让人们感到拥有这个项目，进而达到鼓励的目的。
+有的人認爲項目應該對所有人都開放提交訪問，從而讓任何人都可以做出貢獻。理由是這樣做的話，會讓人們感到擁有這個項目，進而達到鼓勵的目的。
 
-换句话说，尤其是针对那些大型的、更加复杂的项目，你或许只是会给那些证明自己有能力提交代码的人赋予权限。这个没有一个确切的衡量标准，做你认为正确的就好了，或者是最让项目成员感到舒服的方式。
+換句話說，尤其是針對那些大型的、更加複雜的項目，你或許只是會給那些證明自己有能力提交代碼的人賦予權限。這個沒有一個確切的衡量標準，做你認爲正確的就好了，或者是最讓項目成員感到舒服的方式。
 
-假如项目是托管在GitHub上，可以使用[受保护的分支](https://help.github.com/articles/about-protected-branches/)来管理那些可以提交特定的分支情况。
+假如項目是託管在GitHub上，可以使用[受保護的分支](https://help.github.com/articles/about-protected-branches/)來管理那些可以提交特定的分支情況。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/15000?v=3&s=460" class="pquote-avatar" alt="avatar">
-  无论什么时候，都会有人向你发送pull request，所以将你的项目开放提交访问。这看起来是有些不够明智，使用此策略能让你释放GitHub的真正威力。(...)一旦人们拥有了提交访问权,他们不再担心他们的补丁可能不会被合并.....这会让他们做的更多。
+  無論什麼時候，都會有人向你發送pull request，所以將你的項目開放提交訪問。這看起來是有些不夠明智，使用此策略能讓你釋放GitHub的真正威力。(...)一旦人們擁有了提交訪問權,他們不再擔心他們的補丁可能不會被合併.....這會讓他們做的更多。
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
-## 对于开源项目来说有那些常见的治理结构？
+## 對於開源項目來說有那些常見的治理結構？
 
-关于开源项目有三类通用的相关治理结构。
+關於開源項目有三類通用的相關治理結構。
 
-* **BDFL:** BDFL 是 "仁慈的独裁者生活" 的缩写. 在此结构下，有一个人（通常是项目的最初的作者）拥有项目中所有的最后决定权。[Python](https://github.com/python) 就是一个非常经典的例子。较小的项目可能默认就是 BDFL 结构，因为他一般就是一到两位维护者。若是公司组织的项目也极有可能会采用BDFL结构。
+* **BDFL:** BDFL 是 "仁慈的獨裁者生活" 的縮寫. 在此結構下，有一個人（通常是項目的最初的作者）擁有項目中所有的最後決定權。[Python](https://github.com/python) 就是一個非常經典的例子。較小的項目可能默認就是 BDFL 結構，因爲他一般就是一到兩位維護者。若是公司組織的項目也極有可能會採用BDFL結構。
 
-* **精英制:** **(注: 术语 "精英制" 对于一些社群可能具有消极的含义，其拥有较[复杂的社会和政治的历史](http://geekfeminism.wikia.com/wiki/Meritocracy).)** 在精英制下，活跃的项目贡献者（他们用行动证明自己是“精英”）给一个正式的决策作用，决定通常会基于纯粹的投票一致性。精英制的概念首次由[Apache Foundation](http://www.apache.org/)提出；[所有的Apache 项目](http://www.apache.org/index.html#projects-list) 都是基于精英制的。贡献者只能代表自己是独立的个体，不可以是公司。
+* **精英制:** **(注: 術語 "精英制" 對於一些社羣可能具有消極的含義，其擁有較[複雜的社會和政治的歷史](http://geekfeminism.wikia.com/wiki/Meritocracy).)** 在精英制下，活躍的項目貢獻者（他們用行動證明自己是“精英”）給一個正式的決策作用，決定通常會基於純粹的投票一致性。精英制的概念首次由[Apache Foundation](http://www.apache.org/)提出；[所有的Apache 項目](http://www.apache.org/index.html#projects-list) 都是基於精英制的。貢獻者只能代表自己是獨立的個體，不可以是公司。
 
-* **自由贡献:** 在自由贡献的模式下，做最多工作的人通常被认为是最具影响力的，但是是基于当前的工作，而不是历史的共享。项目的重大决策是基于寻求共识的过程（对不同的声音要讨论）而不是纯粹的投票，尽可能的努力的去囊括多的社区观点。较流行的使用自由贡献模式的项目有[Node.js](https://nodejs.org/en/foundation/) 和 [Rust](https://www.rust-lang.org/en-US/)。
+* **自由貢獻:** 在自由貢獻的模式下，做最多工作的人通常被認爲是最具影響力的，但是是基於當前的工作，而不是歷史的共享。項目的重大決策是基於尋求共識的過程（對不同的聲音要討論）而不是純粹的投票，儘可能的努力的去囊括多的社區觀點。較流行的使用自由貢獻模式的項目有[Node.js](https://nodejs.org/en/foundation/) 和 [Rust](https://www.rust-lang.org/en-US/)。
 
-应该选择哪一种模式了呢？由你自己来做决定！每个模式都有优点，也有缺点。虽然上面的描述乍一看，这三种模式有着很大的不同，其实不然，它们还是有着共同点的。如果你对上述三种模式有兴趣，可以采用下面的模版：
+應該選擇哪一種模式了呢？由你自己來做決定！每個模式都有優點，也有缺點。雖然上面的描述乍一看，這三種模式有着很大的不同，其實不然，它們還是有着共同點的。如果你對上述三種模式有興趣，可以採用下面的模版：
 
 * [BDFL 模式模版](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 * [精英模式模版](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Node.js 的自由贡献规则](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
+* [Node.js 的自由貢獻規則](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
 
-## 当我创建开源项目时，需要专门撰写一份治理文档吗？
+## 當我創建開源項目時，需要專門撰寫一份治理文檔嗎？
 
-其实没有什么合适的时间来撰写项目的治理，但是可以根据社区的动态来进行恰当的定义。开源治理最好的也是最难的部分是有社区本身来塑造！
+其實沒有什麼合適的時間來撰寫項目的治理，但是可以根據社區的動態來進行恰當的定義。開源治理最好的也是最難的部分是有社區本身來塑造！
 
-在项目的治理中，一些早期的文档将会不可避免的，然而也不必太强求，写下你所能够想到的。举例来说，你可以将某些预期的行为定义清楚，贡献的流程是如何的，或者项目是如何启动的，等等。
+在項目的治理中，一些早期的文檔將會不可避免的，然而也不必太強求，寫下你所能夠想到的。舉例來說，你可以將某些預期的行爲定義清楚，貢獻的流程是如何的，或者項目是如何啓動的，等等。
 
-如果你自己是公司所启动开源的一部分，在启动之前，应该做一些讨论，如公司将会如何维护项目，随着项目的发展，决策该如何定夺。你可以会公开的解释一下，贵公司将如何参与（或不参与）该项目。
+如果你自己是公司所啓動開源的一部分，在啓動之前，應該做一些討論，如公司將會如何維護項目，隨着項目的發展，決策該如何定奪。你可以會公開的解釋一下，貴公司將如何參與（或不參與）該項目。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/691109?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我们在GitHub上赋予一些小的团队来管理项目，实际上这些人都是在Facebook工作的，比如，React就是由React的工程师来掌管运行的。
+  我們在GitHub上賦予一些小的團隊來管理項目，實際上這些人都是在Facebook工作的，比如，React就是由React的工程師來掌管運行的。
   <p markdown="1" class="pquote-credit">
-— @caabernathy, ["Facebook内部员工如何看待开源"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
+— @caabernathy, ["Facebook內部員工如何看待開源"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
 </aside>
 
-## 公司员工该如何开启提交贡献之旅？
+## 公司員工該如何開啓提交貢獻之旅？
 
-成功的开源项目，会有很多的用户和公司使用，而且有一些公司的主要收入和项目是绑在一起的。举例来说，某公司在其商业产品或服务中使用了开源项目的代码作为其一个组件。
+成功的開源項目，會有很多的用戶和公司使用，而且有一些公司的主要收入和項目是綁在一起的。舉例來說，某公司在其商業產品或服務中使用了開源項目的代碼作爲其一個組件。
 
 
-一个项目越是被广泛的使用，有相关背景的专业人士的需求就会上升，**你或许就是其中之一**，那么就顺势成为继续为开源项目做事，还有一定的报酬。
+一個項目越是被廣泛的使用，有相關背景的專業人士的需求就會上升，**你或許就是其中之一**，那麼就順勢成爲繼續爲開源項目做事，還有一定的報酬。
 
-将商业的活动视为正常不过的事情很重要，它也只是代码的开发方法之一。为开发者付费不应该被特殊的对待，好像代码必须是无偿开发的才行；每个贡献都必须有技术的衡量标准来进行评估。人们应该在这些商业的活动中感到非常的自在，而且针对特定的增强或功能项讨论时也应是坦荡的、自然的。
+將商業的活動視爲正常不過的事情很重要，它也只是代碼的開發方法之一。爲開發者付費不應該被特殊的對待，好像代碼必須是無償開發的才行；每個貢獻都必須有技術的衡量標準來進行評估。人們應該在這些商業的活動中感到非常的自在，而且針對特定的增強或功能項討論時也應是坦蕩的、自然的。
 
-“商业” 是完全和“开源”相容的。“商业”仅仅是意味着某些地方有钱的参与 —— 就是说软件被用于了商业行为，也就是说项目被采用获得了认可。（当开源软件被用于非开源产品的一个部分时，这个整体的产品仍然是“专有的”软件，因为开源，它可以用于商业或非商业的目的。）
+“商業” 是完全和“開源”相容的。“商業”僅僅是意味着某些地方有錢的參與 —— 就是說軟件被用於了商業行爲，也就是說項目被採用獲得了認可。（當開源軟件被用於非開源產品的一個部分時，這個整體的產品仍然是“專有的”軟件，因爲開源，它可以用於商業或非商業的目的。）
 
-和这个世界上很多的其它商业产品一样，商业能够激励开发者去积极的贡献于项目，通过他们靠谱的提交贡献。显而易见的是，一位因花了自己的时间和精力的开发者获得报酬，理应比没有获得报酬的更具持久性，当然，这对于某些圣徒是不成立的，或者这么说吧，报酬是能体现一个贡献度的众多衡量因素的其中之一。所以将你的项目讨论聚焦于贡献上，不要让人们分散精力去思考或做其它的事情。
+和這個世界上很多的其它商業產品一樣，商業能夠激勵開發者去積極的貢獻於項目，通過他們靠譜的提交貢獻。顯而易見的是，一位因花了自己的時間和精力的開發者獲得報酬，理應比沒有獲得報酬的更具持久性，當然，這對於某些聖徒是不成立的，或者這麼說吧，報酬是能體現一個貢獻度的衆多衡量因素的其中之一。所以將你的項目討論聚焦於貢獻上，不要讓人們分散精力去思考或做其它的事情。
 
-## 我是否需要一个法律实体来支持我的项目?
+## 我是否需要一個法律實體來支持我的項目?
 
-除非你特别的有钱，其实你根本没有必要为开源项目而专门搞一个法律实体来支持。
+除非你特別的有錢，其實你根本沒有必要爲開源項目而專門搞一個法律實體來支持。
 
-举例来说，假如你打算创办自己的商业公司，（假如是在美国的话）你需要成立一家集团公司或有限责任公司。如果你只是为你的开源项目做一些合约的工作，你可以以投资人的身份接受钱财，或者成立一家有限责任公司（如果是在美国的话）。
+舉例來說，假如你打算創辦自己的商業公司，（假如是在美國的話）你需要成立一家集團公司或有限責任公司。如果你只是爲你的開源項目做一些合約的工作，你可以以投資人的身份接受錢財，或者成立一家有限責任公司（如果是在美國的話）。
 
-如果你打算让自己的开源项目接受捐赠的话，你可以创建一个捐赠按钮（使用PayPal或Stripe，举例来说），但是你要知道，这些钱并非是免税的，除非你是认证过的非盈利性组织（在美国的话，诸如501c3）。
+如果你打算讓自己的開源項目接受捐贈的話，你可以創建一個捐贈按鈕（使用PayPal或Stripe，舉例來說），但是你要知道，這些錢並非是免稅的，除非你是認證過的非盈利性組織（在美國的話，諸如501c3）。
 
-很多项目都不愿意成立非盈利组织那么麻烦，所以他们会以赞助商的身份寻找一个非营利性组织。财政资助代表你接受捐款,通常以换取一定比例的捐赠。针对开源项目接受财政资助的非营利性组织有很多，如[Software Freedom Conservancy](https://sfconservancy.org/), [Apache 基金会](http://www.apache.org/), [Eclipse 基金会](https://eclipse.org/org/foundation/), [Linux 基金会](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) 等等。
+很多項目都不願意成立非盈利組織那麼麻煩，所以他們會以贊助商的身份尋找一個非營利性組織。財政資助代表你接受捐款,通常以換取一定比例的捐贈。針對開源項目接受財政資助的非營利性組織有很多，如[Software Freedom Conservancy](https://sfconservancy.org/), [Apache 基金會](http://www.apache.org/), [Eclipse 基金會](https://eclipse.org/org/foundation/), [Linux 基金會](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) 等等。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3671070?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我们的目标是提供基础设施，让社区能够自我持续发展下去，每个人——贡献者、支持者、赞助商———所共同营造的环境，也让每个人得到实实在在的利益。
+  我們的目標是提供基礎設施，讓社區能夠自我持續發展下去，每個人——貢獻者、支持者、贊助商———所共同營造的環境，也讓每個人得到實實在在的利益。
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["超越 charity 框架"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
   </p>
 </aside>
 
-如果你的项目是和某特定的语言或生态系统紧密相连的，那么你可以直接在相关的软件基金会下工作。例如，[Python 软件基金会](https://www.python.org/psf/) 就帮衬着项目 [PyPI](https://pypi.python.org/pypi)，这是一块优秀的Python包管理器，又比如[Node.js 基金会](https://nodejs.org/en/foundation/) 支撑着 [Express.js](http://expressjs.com/)，一款基于Node的框架。
+如果你的項目是和某特定的語言或生態系統緊密相連的，那麼你可以直接在相關的軟件基金會下工作。例如，[Python 軟件基金會](https://www.python.org/psf/) 就幫襯着項目 [PyPI](https://pypi.python.org/pypi)，這是一塊優秀的Python包管理器，又比如[Node.js 基金會](https://nodejs.org/en/foundation/) 支撐着 [Express.js](http://expressjs.com/)，一款基於Node的框架。
