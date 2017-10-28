@@ -102,7 +102,7 @@ image: /assets/images/cards/contribute.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
-  講真的， [說明文件] 是至關重要的。 目前 Babel 的說明文件已經很棒了，這也是它傑出的特色之一。有些段落還需要加強或者補上一個句子，有些段落是很值得讚賞的。
+  講真的， [說明文件] 是至關重要的。目前 Babel 的說明文件已經很棒了，這也是它傑出的特色之一。有些段落還需要加強或者補上一個句子，有些段落是很值得讚賞的。
   <p markdown="1" class="pquote-credit">
 — @kittens, ["貢獻者召集令"](https://github.com/babel/babel/issues/1347)
   </p>
