@@ -3,7 +3,7 @@ nav:
   contribute: 貢獻
 
 index:
-  lead: 開放原始碼就是由你這樣的人所打造，這裡只是為了節省你的學習時間而設，從這裡開啟你的開源專案之旅吧！
+  lead: 開放原始碼就是由你這樣的人所打造，學習如何發起、經營你的開源專案！
   
 article:
   table_of_contents: 目錄
@@ -11,10 +11,10 @@ article:
 footer:
   contribute:
     heading: 貢獻
-    description: 想提出建議嗎？ 本站內容是開放原始碼，協助我們更加完善。
+    description: 想提出建議嗎？本站是開放原始碼，協助我們更加完善。
     button: 貢獻
   subscribe:
-    heading: 訂閱
+    heading: 訂閱最新消息
     description: 即時了解GitHub最新的開源技巧和資源！
     label: 電子信箱地址
     button: 訂閱
