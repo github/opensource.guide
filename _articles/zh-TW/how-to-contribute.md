@@ -64,7 +64,7 @@ image: /assets/images/cards/contribute.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我被大家所熟知是因為為 CocoaPods 做了一些事, 但大多數人並不知道我實際並沒有為 CocoaPods 本身做了什麼，我大多數的工作是撰寫說明文件以及品牌宣傳的事情。
+  我被大家所熟知是因為為 CocoaPods 做了一些事, 但大多數人並不知道我實際並沒有為 CocoaPods 本身做了什麼，我多數的工作是撰寫說明文件與品牌宣傳的事情。
   <p markdown="1" class="pquote-credit">
 — @orta, ["將自己預設為開源軟體"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
