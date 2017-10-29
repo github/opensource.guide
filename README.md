@@ -4,7 +4,7 @@
 - [X] 首頁及各文章的標題翻譯
 - [X] 使用 opencc 對簡體中文版本做初步的轉換
 - [ ] opencc 翻譯檢查
-  - [ ] 如何為開源做貢獻？(how-to-contribute)
+  - [ ] 如何為開源做貢獻？(how-to-contribute)
   - [ ] 發起一個開源專案 (starting-a-project)
   - [ ] 尋找專案的使用者 (finding-users)
   - [ ] 打造友善、受歡迎的社群 (building-community)
