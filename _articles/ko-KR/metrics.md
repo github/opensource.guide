@@ -1,7 +1,7 @@
 ---
 locale: ko-KR
-title: Open Source Metrics
-description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
+title: 오픈소스 측정항목
+description: 성공을 측정하고 추적함으로써 오픈소스 프로젝트가 성공할 수 있도록 정보에 입각한 의사 결정을하십시오.
 class: metrics
 toc:
   why-measure-anything: "Why measure anything?"

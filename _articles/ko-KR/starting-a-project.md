@@ -1,7 +1,7 @@
 ---
 locale: ko-KR
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+title: 오픈소스 프로젝트 시작하기
+description: 오픈소스의 세계에 대해 자세히 알아보고 자신만의 프로젝트를 시작할 준비를 하십시오.
 class: beginners
 toc:
   the-what-and-why-of-open-source: "The what and why of open source"

@@ -1,7 +1,7 @@
 ---
 locale: ko-KR
-title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+title: 오픈소스의 법적 측면
+description: 오픈소스의 법적 측면과 당신이 하지 않은 몇가지 사항에 대해 궁금해하는 모든 것.
 class: legal
 toc:
   why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"

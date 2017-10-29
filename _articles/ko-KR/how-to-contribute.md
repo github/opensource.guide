@@ -1,7 +1,7 @@
 ---
 locale: ko-KR
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+title: 오픈소스에 기여하는 방법
+description: 오픈소스에 기여하고 싶습니까? 초보자와 숙련자를 위한 오픈소스 기여에 대한 가이드입니다.
 class: contribute
 toc:
   why-contribute-to-open-source: "Why contribute to open source?"

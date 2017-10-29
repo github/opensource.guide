@@ -1,7 +1,7 @@
 ---
 locale: ko-KR
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+title: 리더십과 정치
+description: 오픈소스 프로젝트가 성장하면서 공식적인 의사 결정 규칙의 혜택을 볼 수 있습니다.
 class: leadership
 toc:
   what-are-examples-of-formal-roles-used-in-open-source-projects: "What are examples of formal roles used in open source projects?"
