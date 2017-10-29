@@ -1,5 +1,9 @@
 # :wrench: 正體中文的翻譯工作正在進行中..... :wrench:
 
+## GitHub Page 
+
+https://felixshai.github.io/open-source-guide/
+
 ## :memo: 翻譯工程進度檢查表 :memo:
 - [X] 首頁及各文章的標題翻譯
 - [X] 使用 opencc 對簡體中文版本做初步的轉換
