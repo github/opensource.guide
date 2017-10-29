@@ -2,7 +2,7 @@
 locale: ko-KR
 title: 메인테이너를 위한 모범 사례
 description: 문서화 과정에서 커뮤니티 활용에 이르기까지 오픈 소스 메인테이너로서 여러분의 삶을 편하게 만들어줍니다.
-class: 모범-사례
+class: best-practices
 toc:
   what-does-it-mean-to-be-a-maintainer: "메인테이너가 된다는 것은 무엇을 의미하나요?"
   documenting-your-processes: "진행과정을 문서화하기"

@@ -2,7 +2,7 @@
 locale: ko-KR
 title: 프로젝트에서 사람찾기
 description: 행복한 사용자의 손에 넣어져서 오픈소스 프로젝트의 성장을 도우십시오.
-class: 찾기
+class: finding
 toc:
   spreading-the-word: "단어 확산하기"
   figure-out-your-message: "메시지 이해하기"

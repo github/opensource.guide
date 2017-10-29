@@ -2,7 +2,7 @@
 locale: ko-KR
 title: 환영하는 커뮤니티 구축
 description: 사람들이 프로젝트를 사용하고, 기여하고, 전파하도록 격려하는 커뮤니티를 구축합니다.
-class: 구축
+class: building
 toc:
   setting-your-project-up-for-success: "성공을 위한 프로젝트 설정하기"
   growing-your-community: "커뮤니티 성장하기"
