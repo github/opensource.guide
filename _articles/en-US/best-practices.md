@@ -35,7 +35,7 @@ Writing things down makes it easier to say no when something doesn't fit into yo
 
 Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
 
-Dismissing outdated information or, at least, clearly identifying it as outdated is a good practice. By clearly pointing the absence or obsolescence of documents, communities can ask for help to update or create such documentation. 
+Remember to keep your documentation up-to-date. If you’re not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
 
 ### Write down your project's vision
 
