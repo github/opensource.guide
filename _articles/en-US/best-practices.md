@@ -35,6 +35,8 @@ Writing things down makes it easier to say no when something doesn't fit into yo
 
 Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
 
+Remember to keep your documentation up-to-date. If you’re not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+
 ### Write down your project's vision
 
 Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
