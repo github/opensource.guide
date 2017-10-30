@@ -138,7 +138,7 @@ image: /assets/images/cards/contribute.png
 
 舉例來說：
 
-* @sindresorhus 蒐集了 [「實用」（awesome） 列表](https://github.com/sindresorhus/awesome)
+* @sindresorhus 蒐集了 [「驚奇」（awesome） 列表](https://github.com/sindresorhus/awesome)
 * @h5bp 維護了針對前端開發者的[面試題](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * @stuartlynn 和 @nicole-a-tesla 蒐集了[關於海鸚的小知識](https://github.com/stuartlynn/puffin_facts)
 
