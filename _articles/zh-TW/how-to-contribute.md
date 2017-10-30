@@ -40,7 +40,7 @@ image: /assets/images/cards/contribute.png
 
 與他人在共享的專案中工作，你會需要向他人解釋自己是如何做的，同時也需要向他人求助。每個參與開源的人都教學相長。
 
-### **在公眾建立你的名聲﹝以及職業名聲﹞**
+### **在公眾建立你的名聲（以及職業名聲）**
 
 根據開源的定義，你在開源裡的所有工作都是公開的，這也意味開源專案是一個能好好展現你實力的地方。
 
@@ -70,7 +70,7 @@ image: /assets/images/cards/contribute.png
   </p>
 </aside>
 
-即便你樂於寫程式，非撰寫程式的貢獻對於專案來說也是舉足輕重的，維繫這樣的關係也能讓你獲得與專案的其他成員共事的機會。
+即便你樂於寫程式，撰寫程式以外的貢獻對於專案來說也是舉足輕重的，維繫這樣的關係也能讓你獲得與專案的其他成員共事的機會。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -110,7 +110,7 @@ image: /assets/images/cards/contribute.png
 
 ### 你喜歡組織活動嗎？
 * 指任出過去討論過或重複的議題、推薦一個新的議題類別，讓事物井井有序
-* 瀏覽閱讀在開放狀態(open)的議題，並建議將已經處於開放狀態很久的議題設為已結束(closed)[就像 @nzakas 在專案 eslint 做的](https://github.com/eslint/eslint/issues/6765)
+* 瀏覽閱讀在開放狀態（open）的議題，並建議將已經處於開放狀態很久的議題設為已結束（closed）[就像 @nzakas 在專案 eslint 做的](https://github.com/eslint/eslint/issues/6765)
 * 鼓勵最近才剛提問的人將疑問闡釋清楚，加速討論的進展
 
 ### 你喜歡寫程式？
@@ -122,7 +122,7 @@ image: /assets/images/cards/contribute.png
 
 ### 你喜歡幫助他人？
 
-* 回答有關於專案的問題，例如在 Stack Overflow([像 Postgres 的展示範例](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-to-ge))或者 reddit 上
+* 回答有關於專案的問題，例如在 Stack Overflow（[像 Postgres 的展示範例](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-to-ge)）或者 reddit 上
 * 回答處於開放狀態的議題
 * 鼓勵、協助創造友善的討論區禮儀
 
@@ -138,19 +138,19 @@ image: /assets/images/cards/contribute.png
 
 舉例來說：
 
-* @sindresorhus 蒐集了 [「實用」(awesome) 列表](https://github.com/sindresorhus/awesome)
+* @sindresorhus 蒐集了 [「實用」（awesome） 列表](https://github.com/sindresorhus/awesome)
 * @h5bp 維護了針對前端開發者的[面試題](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-* @stuartlynn 和 @nicole-a-tesla 蒐集了[關於海雀的小知識](https://github.com/stuartlynn/puffin_facts)
+* @stuartlynn 和 @nicole-a-tesla 蒐集了[關於海鸚的小知識](https://github.com/stuartlynn/puffin_facts)
 
-儘管你是一名軟件開發者，也可以去撰寫一些文檔去幫助新的入門者。其實項目中那些看起來令人生畏的項目並不是寫代碼，做開發者總得挑戰自己，其實在做得過程中可以增強信心和獲得全新的體驗。
+即使你是一個軟體開法者，撰寫說明文件也能幫助剛加入開源的你去更加的認識它。這通常也能讓你以一個不用接觸程式碼的方式自在的參與專案，當中協作的過程亦能建立你的信心與經驗。
 
 ## 根據項目定位自我
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
-  如果你跟着了一條issue，還發現了令人感到困惑的事情，這很正常，不是你一個人這樣。這些工具需要大量的隱式的知識，但是總會有人帶着你熟悉這些，當然你要找他們問對的問題。
+  如果你嘗試使用 Issue tracker 去了解一件 Issue，看完後還是滿腹疑惑，一定不只有你會這樣想。這些工具需要大量的隱性知識，但總會有人帶你導覽一遍，同時你也可以向他們提出你的問題。
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["如何爲開源做貢獻"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["如何為開源做貢獻"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
