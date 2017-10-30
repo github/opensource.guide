@@ -74,7 +74,7 @@ image: /assets/images/cards/contribute.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我第一次接觸 Python 開發團隊﹝簡稱 python-dev﹞是在 2002年6月17日，當時我向郵件列表寄了一份請求接受補丁的信，接著我決定為工作小組蒐集整理郵件摘要，後來他們甚至給了我一個機會去諮詢某個主題，這當中的關鍵是，我能注意到當有人指出有哪些東西必須要被修正。
+  我第一次接觸 Python 開發團隊（簡稱 python-dev）是在 2002年6月17日，當時我向郵件列表寄了一份請求接受補丁的信，接著我決定為工作小組蒐集整理郵件摘要，後來他們甚至給了我一個機會去諮詢某個主題，這當中的關鍵是，我能注意到當有人指出有哪些東西必須要被修正。
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["系統維護者的故事"](https://github.com/open-source/stories/brettcannon)
   </p>
