@@ -148,7 +148,7 @@ image: /assets/images/cards/contribute.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
-  如果你嘗試使用 Issue tracker 去了解一件 Issue，看完後還是滿腹疑惑，其他的人一定也會。這些工具需要大量的隱性知識，但總會有人帶你導覽一遍，同時你也可以向他們提出你的問題。
+  如果你嘗試使用 Issue tracker 去了解一件 Issue，看完後還是滿腹疑惑，其他的人一定也會。要能會活用這些工具有許多小訣竅，總會有人教你怎麼使用，你也可以直接向他們提出問題。
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["如何為開源做貢獻"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
