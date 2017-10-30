@@ -34,7 +34,7 @@ related:
 * 누군가가 행동강령을 위반하면 어떻게되는가
 * 누군가가 위반 사례를 신고 할 수 있는 방법
 
-가능한 모든 곳에서 이전 기술을 사용하십시오. [기여자 규약](http://contributor-covenant.org/)은 Kubernetes, Rails 및 Swift를 포함하여 40,000 개 이상의 오픈 소스 프로젝트에서 사용되는 행동강령입니다.
+가능한 모든 곳에서 이전 기술을 사용하십시오. [기여자 규약](http://contributor-covenant.org/)은 Kubernetes, Rails 및 Swift를 포함하여 40,000 개 이상의 오픈소스 프로젝트에서 사용되는 행동강령입니다.
 
 [Django 행동강령](https://www.djangoproject.com/conduct/)과 [Citizen 행동강령](http://citizencodeofconduct.org/)은 두가지 훌륭한 행동강령입니다.
 

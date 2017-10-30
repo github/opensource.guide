@@ -1,7 +1,7 @@
 ---
 locale: ko-KR
 title: 메인테이너를 위한 모범 사례
-description: 문서화 과정에서 커뮤니티 활용에 이르기까지 오픈 소스 메인테이너로서 여러분의 삶을 편하게 만들어줍니다.
+description: 문서화 과정에서 커뮤니티 활용에 이르기까지 오픈소스 메인테이너로서 여러분의 삶을 편하게 만들어줍니다.
 class: best-practices
 toc:
   what-does-it-mean-to-be-a-maintainer: "메인테이너가 된다는 것은 무엇을 의미하나요?"
@@ -19,7 +19,7 @@ related:
 
 ## 메인테이너가 된다는 것은 무엇을 의미하나요?
 
-많은 사람들이 사용하는 오픈 소스 프로젝트를 유지한다면, 적은 양으로 코딩하고 더 많은 이슈에 대응할 수 있습니다.
+많은 사람들이 사용하는 오픈소스 프로젝트를 유지한다면, 적은 양으로 코딩하고 더 많은 이슈에 대응할 수 있습니다.
 
 프로젝트 초기 단계에서 새로운 아이디어를 실험하고 원하는 것을 기반으로 의사 결정을 내리고 있습니다. 프로젝트의 인기가 높아짐에 따라 사용자와 기여자들과 더 잘 일할 수 있습니다.
 
@@ -47,7 +47,7 @@ related:
   <img src="https://avatars2.githubusercontent.com/u/1976330?v=3&s=460" class="pquote-avatar" alt="avatar" alt="@lord avatar">
   I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
   <p markdown="1" class="pquote-credit">
-— @lord, ["새로운 오픈 소스 메인테이너를 위한 팁"](https://lord.io/blog/2014/oss-tips/)
+— @lord, ["새로운 오픈소스 메인테이너를 위한 팁"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
@@ -181,7 +181,7 @@ related:
   <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
   I’d been saying, “Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...].” We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
   <p markdown="1" class="pquote-credit">
-—  @lmccart, [""오픈 소스"란 무엇을 의미합니까? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
+—  @lmccart, [""오픈소스"란 무엇을 의미합니까? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
   </p>
 </aside>
 
@@ -197,7 +197,7 @@ related:
 
 잠재적 기여자가 프로젝트에서 해야 할 일에 대해 다른 견해를 가지고 있다면, 그들을 자신의 포크로 작업하도록 부드럽게 격려하고 싶을 수 있습니다.
 
-프로젝트 포킹은 나쁜 일이 아닙니다. 프로젝트를 복사하고 수정할 수 있다는 것이 오픈 소스에 관한 가장 좋은 것 중 하나입니다. 커뮤니티 회원들이 자신의 포크로 작업하도록 권장하면 프로젝트 비전과 상충하지 않고, 필요한 창의적인 판로를 제공 할 수 있습니다.
+프로젝트 포킹은 나쁜 일이 아닙니다. 프로젝트를 복사하고 수정할 수 있다는 것이 오픈소스에 관한 가장 좋은 것 중 하나입니다. 커뮤니티 회원들이 자신의 포크로 작업하도록 권장하면 프로젝트 비전과 상충하지 않고, 필요한 창의적인 판로를 제공 할 수 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/481677?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -254,7 +254,7 @@ related:
 
 ## 정지를 눌러도 좋습니다
 
-오픈 소스 작업은 한 때 기쁨을 가져다주었습니다만. 어쩌면 이제는 회피하거나 죄책감을 느낄 수 있습니다.
+오픈소스 작업은 한 때 기쁨을 가져다주었습니다만. 어쩌면 이제는 회피하거나 죄책감을 느낄 수 있습니다.
 
 아마도 당신은 당신의 프로젝트에 대해 생각할 때 압도 당하거나 두려움에 시달리고 있습니다. 그리고 그 동안 이슈와 pull request가 늘어납니다.
 

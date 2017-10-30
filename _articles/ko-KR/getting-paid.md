@@ -1,7 +1,7 @@
 ---
 locale: ko-KR
-title: 오픈 소스 작업에 대한 비용 지불하기
-description: 시간이나 프로젝트에 대한 재정적 지원을 받음으로써 오픈 소스에서의 작업을 지속합니다.
+title: 오픈소스 작업에 대한 비용 지불하기
+description: 시간이나 프로젝트에 대한 재정적 지원을 받음으로써 오픈소스에서의 작업을 지속합니다.
 class: getting-paid
 toc:
   why-some-people-seek-financial-support: "어떤 사람들은 왜 재정 지원을 요청 하는가"
@@ -17,7 +17,7 @@ related:
 
 ## 어떤 사람들은 왜 재정 지원을 요청 하는가
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+대부분의 오픈소스 작업은 자원봉사입니다. 예를 들어, 누군가가 사용하는 프로젝트에서 버그를 발견하고 빠른 버그픽스를 제출하거나, 여가 시간에 오픈소스 프로젝트를 사용하여 재미있는 작업을 할 수 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/2894642?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -27,11 +27,11 @@ I was looking for a "hobby" programming project that would keep me occupied duri
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
+사람들이 오픈소스 작업을 위해 돈을 내고 싶어하지 않는 데에는 여러 가지 이유가 있습니다.
 
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+* **그들은 이미 좋아하는 정규직을 가질 수 있어서,** 여유 시간에 오픈소스에 기여할 수 있습니다.
+* **그들은 오픈소스를 취미** 또는 창조적인 탈출구로 생각하고 프로젝트에 대한 재정적 의무를 느끼고 싶지 않습니다.
+* **그들은 오픈소스에 기여함으로써 다른 이익을 얻고,** 자신의 평판이나 포트폴리오를 구축하고, 새로운 기술을 배우며, 커뮤니티에 더 가까이 다가가는 느낌을 주는 일을 합니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/2320?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -41,9 +41,9 @@ There are many reasons why a person would not want to be paid for their open sou
   </p>
 </aside>
 
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
+다른 사람들에게, 특히 기여가 진행 중이거나 상당한 시간이 필요한 경우, 프로젝트가 요구하거나 개인적인 이유로 참여할 수있는 유일한 방법은 오픈소스에 기여하기 위해 값을 지불하는 것입니다.
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+대중적인 프로젝트를 유지하는 것은 한 달에 몇 시간이라 하기보다는 주당 10-20시간을 소비하는 중요한 책임입니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -53,7 +53,7 @@ Maintaining popular projects can be a significant responsibility, taking up 10 o
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time. This has ethical implications, as @ashedryden [has described](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), since work that is done is biased in favor of those who already have advantages in life, who then gain additional advantages based on their volunteer contributions, while others who are not able to volunteer then don't get later opportunities, which reinforces the current lack of diversity in the open source community.
+또한 유료 작업을 통해 여러 계층의 사람들이 의미있는 기여를 할 수 있습니다. 어떤 사람들은 현재 재무 상태, 부채, 또는 가족 또는 다른 보살필 의무를 다하지않고 오픈소스 프로젝트에 시간을 보낼 여력이 없습니다. 즉, 세상은 자신의 시간을 자원봉사할 여력이없는 재능있는 사람들에게서 기여를 결코 볼 수 없다는 것을 의미합니다. @ashryden이 [설명한대로] (https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) 윤리적 함의가 있습니다. 이미 인생에 여유가 있는 사람들에게 치우친다는 것은, 자원 봉사자들의 기여에 기초하여 추가적인 이점을 얻는 반면, 자원봉사를 할 수 없는 사람들에게는 나중에 기회를 얻지 못하여, 더더욱 오픈소스의 다양성이 부족해집니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -63,13 +63,13 @@ Paid work also enables people from different walks of life to make meaningful co
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+재정 지원을 찾고 있다면, 고려해야 할 두 가지 경로가 있습니다. 기여자로서 자신의 시간을 투자하거나, 프로젝트에 대한 조직 자금을 찾을 수 있습니다.
 
 ## 시간 펀딩하기
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
+오늘날, 많은 사람들이 오픈소스에서 파트 타임 또는 풀 타임으로 일하기 위해 돈을 받습니다. 당신의 시간에 대한 대금을 받는 가장 일반적인 방법은 고용주와 상담하는 것입니다.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+고용주가 프로젝트를 실제로 사용하고 오픈소스 작업에 대한 사례를 만드는 것이 더 쉽지만, 자신의 계획대로 창의력을 발휘하십시오. 어쩌면 고용주가 프로젝트를 사용하지 않고 파이썬을 이용한 인기있는 파이썬 프로젝트를 유지한다면, 새로운 파이썬 개발자를 유치 할 수 있습니다. 어쩌면 고용주가 일반적으로 더 개발자 친화적인 것처럼 보일 수도 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -79,9 +79,9 @@ It's easier to make a case for open source work if your employer actually uses t
   </p>
 </aside>
 
-If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
+기존의 오픈소스 프로젝트가 없지만 현재 작업 결과물이 오픈소스인 경우, 고용주가 내부 소프트웨어의 일부를 소스로 오픈할 수있는 사례를 작성하십시오.
 
-Many companies are developing open source programs to build their brand and recruit quality talent.
+많은 기업들이 브랜드를 구축하고 우수한 인재를 영입하기 위해 오픈소스 프로그램을 개발하고 있습니다.
 
 @hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](http://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
 
@@ -183,5 +183,5 @@ Does the funder have any requirements around disbursal? For example, you may nee
 
 ## 실험적이고 포기하지 말기
 
-오픈 소스 프로젝트, 비영리 단체, 소프트웨어 스타트업 등 많은 돈을 모으는 것은 쉽지 않습니다. 대부분의 경우 창의력을 발휘해야합니다. 어떻게 돈을 받고, 연구를 하고, 재밌는 사람의 신발에 몸을 두는지를 확인하면 자금 지원에 대한 설득력있는 사례를 구축하는 데 도움이됩니다.
+오픈소스 프로젝트, 비영리 단체, 소프트웨어 스타트업 등 많은 돈을 모으는 것은 쉽지 않습니다. 대부분의 경우 창의력을 발휘해야합니다. 어떻게 돈을 받고, 연구를 하고, 재밌는 사람의 신발에 몸을 두는지를 확인하면 자금 지원에 대한 설득력있는 사례를 구축하는 데 도움이됩니다.
 >
