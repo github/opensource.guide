@@ -384,7 +384,7 @@ image: /assets/images/cards/contribute.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/7693422?v=3&s=460" class="pquote-avatar" alt="avatar">
-  \[作爲一名新手,\] 我很快的就注意到，若嘗試要解決一條 issue 時，我不得不向社群問題。我瀏覽了程式碼，只要我對議題有一定程度的了解後，我就會去社群徵詢一些指南，然後嘩啦！ 在我得到所有的所需要的訊息後，我就可以親自解決這個問題！
+  \[作爲一名新手,\] 我很快的就注意到，若嘗試要解決一條 issue 時，我不得不向社群提問題。我瀏覽了程式碼，只要我對議題有一定程度的了解後，我就會去社群徵詢一些指南，然後嘩啦！ 在我得到所有的所需要的訊息後，我就可以親自解決這個問題！
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [一名菜鳥進入開源世界的顛頗之旅](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
