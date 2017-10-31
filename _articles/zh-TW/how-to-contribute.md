@@ -178,7 +178,7 @@ image: /assets/images/cards/contribute.png
 
 專案也會有它一系列的說明文件，這些文件通常會在儲存程式碼與文件的根目錄上找得到清單。
 
-* **授權協議（LICENSE）:** 根據定義，每個開源專案都必須有個[開源授權協議](https://choosealicense.com)。如果專案沒有授權協議，那它不能算是個開源社群。
+* **許可協議（LICENSE）:** 根據定義，每個開源專案都必須有個[開源許可協議](https://choosealicense.com)。如果專案沒有的話，那它不能算是個開源社群。
 * **README:**  README 是一個引導手冊，對剛加入社群的人們表示歡迎，它通常會解釋專案有何用處，為何發起，以及如何快速入門等。
 * **貢獻（CONTRIBUTING）:**  READMES 幫助人認識與使用專案，「貢獻」這個文件則是針對想對專案貢獻的人寫的指南。它會說明目前專案需要怎樣類型的貢獻者，並且指引貢獻時的流程是如何進行。並非所有的專案都會有這個文件，但如果有的話某種程度上也是向有意貢獻的人表達友善的意思。
 * **行爲準則（CODE_OF_CONDUCT）:** 這份文件裡頭設立了基本規範來約束參與者的行為以及提醒應有的禮儀，並非所有的專案都會有這個文件，但如果有的話某種程度上也是向有意貢獻的人表達友善的意思。
@@ -191,25 +191,25 @@ image: /assets/images/cards/contribute.png
 * **論壇或郵件列表:** 一些專案會利用對話式的方式討論主題（例如 _"How do I..."_ 或 _"What do you think about..."_ 來替代提報 Bug 或特別的請求）。然而有一些專案討論過程都全程使用問題追蹤。
 * **即時在線聊天:** 有一些專案會使用聊天頻道（諸如 Slack 或 IRC），能夠隨意的談話、協作和快速的交換意見。
 
-## 尋找打算做貢獻的項目
+## 找尋專案開始貢獻
 
-你讀到這裏，說明已經對於一個開源項目如何運作的有了清晰的認識，是該找一個合適的項目做貢獻的時候了！
+讀到這裏，已經對開源專案如何運作有了進一步的了解，是該找一個合適的項目做貢獻的時候了！
 
-假如你之前從來都沒有爲開源做過貢獻的話，那麼請記住來自美國總統約翰 F.肯尼迪的這段話：**不要問你的國家能爲你做什麼，要問你能爲國家做什麼。**
+如果你從來都沒有爲開源做過貢獻的話，那麼請謹記來自美國總統約翰 F.肯尼迪的這段話：「**不問國家能爲你做什麼，要問你能爲國家做什麼。**」
 
-開源項目的方方面面都需要貢獻者，你先不要通盤考慮該往哪裏貢獻，或者是它將如何看。
+開源專案的每個面向與跨專案間都需要貢獻者，先不用太專牛角尖的去想你一定要先在那做貢獻，或是做得好不好。
 
-相反，從你已經使用到的或者打算用到項目開啓貢獻之路，在你積極的貢獻過程中，項目也會反饋給你，讓你更好的定位自己。
+不如從你使用過的或將來會使用到的專案開始貢獻，你特別關注的專案才會是你會自願積極參與的專案。
 
-一旦進入某項目，不論何時，你都要聽從自己的直覺，做你認爲更好或者不同的事情。
+參與的過程中，如果有任何點子，覺得可以讓專案更好或更不一樣的，就依你的直覺行事。
 
-開源並不是高級俱樂部；它就是由你這樣的人所澆鑄和打造。**“開源”只是針對這個世界的需要修復的問題的一個夢幻術語罷了。**
+開源並不是會員專屬的俱樂部；它就是由你這樣的人所打造。「開源」只是針對這個世界的需要修復的問題的一個夢幻術語罷了。
 
-你或許在查看 README的時候，發現了損壞的鏈接，又或者拼寫錯誤。又或者是你是一名新手，使用的過程中發現了問題，又或者是某問題應該在文檔中註明。請不要坐視不理，徑直繞開，或者是請求他人修復，伸出你的援助之手，解決這些你能看到的問題。而這正是開源的精髓之所在！
+你或許在查看 README 的時候，發現了失效的超連結、或發現了錯字。又或者你在使用的過程中發現了問題、某件你真的覺得該寫進說明文件的議題，與其視而不見或請別人處理，試著自己投入看看是否有你能幫上忙的地方，這就是開源的精神！
 
-> [28% 的隨意貢獻](http://www.igor.pro.br/publica/papers/saner2016.pdf) 就是說明了文檔的開源，諸如拼寫錯誤，段落語句調整、或者是翻譯。
+> 平均一個專案中有[28% 的貢獻是隨意且偶然的](http://www.igor.pro.br/publica/papers/saner2016.pdf) ，像是寫說明文件、修正錯字、調整格式或翻譯。
 
-你也可以利用如下列出的資源來找到合適的新項目：
+你也可以利用如下列的資源來找到合適的新項目：
 
 * [GitHub 探索](https://github.com/explore/)
 * [First Timers Only](http://www.firsttimersonly.com/)
@@ -217,49 +217,49 @@ image: /assets/images/cards/contribute.png
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)
-* [像忍者一樣貢獻](https://contributor.ninja)
+* [貢獻忍者](https://contributor.ninja)
 
-### 提交貢獻之前應做的檢查列表
+### 提交貢獻前應做的檢查清單
 
-當你找到了你打算貢獻的項目時，在進一步行動之前，作一個快速的掃描工作，以確保項目是否接受貢獻的。否則，你煞費苦心的工作可能沒有任何的回報。
+當你找到了你打算貢獻的項目時，在有任何行動之前，先整體做個瀏覽，確保專案是願意接受貢獻的。否則，你辛勤的工作可能沒有任何的回報。
 
-這是一個簡易的檢查表，用來評估一個項目是否適合新的貢獻者。
+以下是一個簡易的檢查表，用來評估一個專案是否適合新的貢獻者。
 
 **符合開源的定義**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  有許可協議嗎？通常情況下，會在根目錄有一個叫做 LICENSE 的文件。
+  有許可協議嗎？通常會在根目錄有一個叫做 LICENSE 的文件。
   </label>
 </div>
 
-**項目被接收的提交活躍度**
+**專案是否積極地接受各方的貢獻**
 
-在主幹上確認提交的活躍度。在GitHub上託管的開源項目，你可以在倉庫主頁上看到這些信息。
+在 master branch 上看看提交的活躍度。在GitHub上託管的開源專案，你可以在專案主頁上看到這些訊息。
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  最後一次提交是在什麼時候？
+  最近的一次提交是在什麼時候？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  項目目前有多少貢獻者？
+  專案目前有多少貢獻者？
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  人們提交的頻繁嗎？ (在 GitHub，可以在頂欄裏點擊“commits”來展現。）
+  提交的次數頻繁嗎？ （在 GitHub，你可以點擊 "commits" 來查看。）
   </label>
 </div>
 
-接下來，就是看項目的 issue 數量。
+接下來，就是看專案 issue 的數量。
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -271,106 +271,106 @@ image: /assets/images/cards/contribute.png
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    項目的維護者對於處於開放狀態的issue響應是否迅速？
+    項目的維護者對於開放狀態的 issue 回覆是否迅速？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    是否有討論很活躍的issue？
+    是否有討論很頻繁的 issue？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    issue 均是近期產生的嗎？
+    issue 都是最近提的嗎？
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    有沒有關閉的issue？ (在 GitHub, 點擊 "closed" 標籤就可以看到所有已經關閉的issue。)
+    issue 是否都會一個個地被標為結束？ （在 GitHub, 點擊 "closed" 標籤就可以看到所有已經結束的 issue。）
   </label>
 </div>
 
-同樣再來看看 PR的情形。
+同樣再來看看 PR 的情形。
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    現下有多少處於開放狀態的PR？
+    現在有多少處於開放狀態的PR？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    當提交了PR後，維護者響應是否迅速？
+    當提交了 PR 後，維護者的回覆是否迅速？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    是否有活躍討論的 PR？
+    是否有討論很熱烈的 PR？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    均是近期的RP嗎？
+    都是最近發的的 RP 嗎？
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    最近有多少PR合併？ (在 GitHub, 點擊 RP頁面的 "closed" 的標籤頁來查看已經關閉的標籤頁。)
+    最近有多少 PR 合併？ （在 GitHub, 點擊 RP頁面的 "closed" 的標籤頁來查看已經關閉的標籤頁。）
   </label>
 </div>
 
-**項目的受歡迎程度**
+**專案是友善的**
 
-一個項目的友好程度和受歡迎意味着更能吸引新的貢獻者。
+一個專案的友好程度意味着更能接納新的貢獻者。
 
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    在issue的問題中，維護者的回答是否非常有幫助？
+    在 issue 的問題中，維護者的回答是否有幫助？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    人們在issue的討論中、在線聊天室、論壇是否很友好？
+    人們在 issue 的討論中、聊天室、論壇是否親切？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    PR是否被review？
+    PR 是否被審查過？
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    維護者是否對做貢獻的人們道聲”謝謝”？
+    維護者是否對付出貢獻的人們表達謝意？
   </label>
 </div>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
-  當你看到一個很長當對話時，來自核心開發者的零星的響應排在列表的後面。你就得考慮，他們在作建設性的總結？是否保持風度的情況下做出最後的決定？如果你看到的是更多的口水仗，而且還在繼續，這通常意味着社區的能量重心已經不在開發上了。
+  當你看到一個很長的對話時，來自核心開發者的零星的回覆排在列表的後面。你就得想想，他們是否在作建設性的總結？是否保持風度的情況下做出最後的決定？如果你看到的是更多的口水仗，這通常代表社群的能量都在拿來爭論，已經不在開發上了。
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_開源軟件生產力_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_開源軟體生產力_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
