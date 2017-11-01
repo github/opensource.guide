@@ -13,22 +13,22 @@ image: /assets/images/cards/building.png
 
 ## **讓自己的專案朝成功邁進**
 
-現在的你，已經啓動了屬於自己的專案，而且正在傳播它，更重要的是現在已經有人將之下載到本地進行觀摩。這真是令人振奮！那麼你現在要做的就是，怎麼能夠讓這些有興趣的人們堅持下去，持續跟進專案。
+你已經啓動了自己的專案，正在向世界介紹它，有人對你的專案感到好奇。這真是令人振奮！接下來要考慮的是，如何讓有興趣的人持續地待在這個社群裡。
 
-一個受歡迎的社群對於專案的未來至關重要，如果你的專案是剛剛開始收到他人的首次貢獻，那麼你需要給貢獻者們一次愉悅的體驗，以鼓勵他們進一步的繼續參與。
+友善的社群對於專案的未來至關重要，如果你的專案開始有人願意貢獻，記得給這些先行者一個愉快的協作體驗，鼓勵他們持續參與。
 
-### 讓大家感到受歡迎
+### **給人們一個溫暖的歡迎**
 
-可以通過被@MikeMcQuaid稱之爲[貢獻者漏斗](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel)的方法思考專案的社群。
+@MikeMcQuaid 提供了一個思考專案社群的看法稱之為[貢獻者漏斗](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel)
 
 ![contributor funnel](https://opensource.guide/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-當建立了自己的開源社群，你需要考慮如何讓那些處在漏鬥上方的人（潛在用戶）轉移到漏斗下方（活躍的維護者）。目標是減少貢獻者們在每個階段所遇到的摩擦。當人們能夠輕易的取得成績時，他們就會樂意去做更多事。
+當你建立了自己的開源社群，想想這些處於漏斗上方的人（潛在用戶）是如何下潛到底部（活躍的維護者）。你的目標是減少貢獻者在每個階段所遇到的摩擦。當人們能從中輕易的獲得成就感時，就會樂意去做更多的事。
 
-從你的文檔開始：
+從你的說明文件開始著手：
 
-* **讓大家很容易上手。** [一份友好的 README](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#編寫readme)以及清晰的代碼示例將讓大家很容易的上手。
-* **清楚的解釋如何做貢獻**，使用[你的CONTRIBUTING file](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#編寫你的貢獻指南)以及持續更新issues。
+* **讓大家很容易上手。** [一份好讀的 README](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#編寫readme)以及清晰的程式碼範例，將讓大家很容易的上手。
+* **清楚的說明該如何做貢獻**，使用[你的CONTRIBUTING file](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#編寫你的貢獻指南)並持續持續更新 issues。
 
 好的文檔能夠邀請他人參與你們專案的互動。最終，一些人會開一個issue或者pull request。將這些互動視爲機會，將他們轉移到漏斗的下方。
 
