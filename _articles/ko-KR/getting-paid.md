@@ -53,7 +53,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
   </p>
 </aside>
 
-또한 유료 작업을 통해 여러 계층의 사람들이 의미있는 기여를 할 수 있습니다. 어떤 사람들은 현재 재무 상태, 부채, 또는 가족 또는 다른 보살필 의무를 다하지않고 오픈소스 프로젝트에 시간을 보낼 여력이 없습니다. 즉, 세상은 자신의 시간을 자원봉사할 여력이없는 재능있는 사람들에게서 기여를 결코 볼 수 없다는 것을 의미합니다. @ashryden이 [설명한대로] (https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) 윤리적 함의가 있습니다. 이미 인생에 여유가 있는 사람들에게 치우친다는 것은, 자원 봉사자들의 기여에 기초하여 추가적인 이점을 얻는 반면, 자원봉사를 할 수 없는 사람들에게는 나중에 기회를 얻지 못하여, 더더욱 오픈소스의 다양성이 부족해집니다.
+또한 유료 작업을 통해 여러 계층의 사람들이 의미있는 기여를 할 수 있습니다. 어떤 사람들은 현재 재무 상태, 부채, 또는 가족 또는 다른 보살필 의무를 다하지않고 오픈소스 프로젝트에 시간을 보낼 여력이 없습니다. 즉, 세상은 자신의 시간을 자원봉사할 여력이없는 재능있는 사람들에게서 기여를 결코 볼 수 없다는 것을 의미합니다. @ashryden이 [설명한대로](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) 윤리적 함의가 있습니다. 이미 인생에 여유가 있는 사람들에게 치우친다는 것은, 자원 봉사자들의 기여에 기초하여 추가적인 이점을 얻는 반면, 자원봉사를 할 수 없는 사람들에게는 나중에 기회를 얻지 못하여, 더더욱 오픈소스의 다양성이 부족해집니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -155,7 +155,7 @@ Whether you're looking to pay for your own time, or fundraise for a project, you
 
 ### 임펙트
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+이 프로젝트가 왜 유용한가요? 사용자 또는 잠재적 사용자가 그렇게 좋아하는 이유는 무엇입니까? 5년후에는 어디에 있을까요?
 
 ### 끌어주기
 
