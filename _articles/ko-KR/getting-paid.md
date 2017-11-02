@@ -85,9 +85,9 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 @hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](http://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
 
-> It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
+> 이는 해커 문화와 밀접하게 연계되어 있으며, 조직이 어떻게 인식되었는지를 보여줍니다. 우리는 직원들에게 "페이스북에서 쓰이는 오픈소스 소프트웨어 프로그램에 대해 알고 있었습니까?"라고 물었습니다. 3분의2가 "그렇다"고 답했습니다. 절반정도는 이 프로그램이 우리를 위해 일하기로 한 결정에 긍정적으로 기여했다고 전했습니다. 이것들은 한계적인 숫자가 아니며 희망을 말합니다.
 
-If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
+회사가 이 경로를 따라 간다면, 커뮤니티와 기업 활동의 경계를 분명하게 유지하는 것이 중요합니다. 궁극적으로 오픈소스는 전 세계 모든 사람들의 공헌을 통해 스스로를 유지하며, 이는 어느 회사의 위치보다 큽니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1445228?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -97,27 +97,27 @@ If your company goes down this route, it's important to keep the boundaries betw
   </p>
 </aside>
 
-If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
+현 고용주가 오픈소스 업무의 우선 순위를 결정할 수 없다면, 직원의 오픈소스 기여도를 높이는 새로운 고용주를 찾는 것이 좋습니다. 오픈소스 작업에 대한 헌신을 분명히 하는 회사를 찾아보십시오. 예시입니다 :
 
 * Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](http://paypal.github.io/), have websites that highlight their involvement in open source
 * [Rackspace](https://www.rackspace.com/en-us) published its [open source contribution policy](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) for employees
 
 Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
 
-Finally, depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
+마지막으로, 개인적인 상황에 따라, 오픈소스 작업을 위해 독립적으로 돈을 모으는 노력을 할 수 있습니다. 예시:
 
 * @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](http://redux.js.org/)
 * @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
 ## 프로젝트 펀딩 찾기
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+개인 기여자를 위한 준비 외에도, 때로는 프로젝트가 회사, 개인 또는 다른 사람들로부터 지속적인 자금 마련을 위해 펀드를 모으는 경우가 있습니다.
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+조직 펀딩은 현재 참여자에게 비용을 지불하거나, 프로젝트 수행 비용 (호스팅 비용 등)을 충당하거나, 새로운 기능이나 아이디어에 투자하는 쪽으로 갈 수 있습니다.
 
-As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
+오픈소스의 대중성이 높아짐에 따라, 프로젝트 펀딩은 아직 실험적이지만, 몇가지 공통적인 옵션이 있습니다.
 
-### Raise money for your work through crowdfunding campaigns or sponsorships
+### 크라우드 펀딩(crowdfunding) 캠페인이나 스폰서십을 통해 당신의 업무에 돈을 모으기
 
 Finding sponsorships works well if you have a strong audience or reputation already, or your project is very popular.
 A few examples of sponsored projects include:
