@@ -11,7 +11,7 @@ order: 4
 image: /assets/images/cards/building.png
 ---
 
-## **讓自己的專案朝成功邁進**
+## **讓專案朝成功邁進**
 
 你已經啓動了自己的專案，正在向世界介紹它，有人對你的專案感到好奇。這真是令人振奮！接下來要考慮的是，如何讓有興趣的人持續地待在這個社群裡。
 
@@ -27,25 +27,25 @@ image: /assets/images/cards/building.png
 
 從你的說明文件開始著手：
 
-* **讓大家很容易上手。** [一份好讀的 README](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#編寫readme)以及清晰的程式碼範例，將讓大家很容易的上手。
-* **清楚的說明該如何做貢獻**，使用[你的CONTRIBUTING file](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#編寫你的貢獻指南)並持續持續更新 issues。
+* **讓大家很容易上手。** [一份好讀的 README](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#編寫readme)以及清晰的程式碼範例，讓大家很容易的上手。
+* **清楚的說明該如何貢獻**，使用[你的 CONTRIBUTING file ](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#編寫你的貢獻指南)並持續更新 issues。
 
-好的文檔能夠邀請他人參與你們專案的互動。最終，一些人會開一個issue或者pull request。將這些互動視爲機會，將他們轉移到漏斗的下方。
+在 [GitHub 2017 開源調查報告](http://opensourcesurvey.org/2017/)中指出，會令人困惑或不完整的說明文件是開源使用者最大的困擾，好的說明文建會吸引人們與專案互動。總有一天，會有人開啟一個 issue 或 PR。盡量使用這些工具讓人們有機會朝漏斗的下方邁進。
 
-* **當一些人選擇了你們的專案，請對他們表示感謝！** 僅僅只是一次消極的經歷就足以讓一些人再也不想回來。
-* **及時迴應。** 如果你們一個月都沒有回答他們的問題，他們可能早已忘記了你們的專案。
-* **對你以後接受的所有貢獻者持開放態度。** 很多貢獻者是從一份bug報告或者小的修復開始的。這裏有[很多爲專案做貢獻的方式](../how-to-contribute/#what-it-means-to-contribute)。讓大家選擇他們喜歡的方式。
-* **如果你不贊成一個貢獻，** 首先你需要對他們的想法表示感謝，同時 [解釋爲什麼](../best-practices/#learning-to-say-no)它不適合專案，如果有必要的話你可以給出相關的文檔鏈接。
+* **當有人選擇了你們的專案，記得對他們表示謝意！** 因為可能只是一次在這不愉快的經歷，就足以讓一些人再也不想回來。
+* **及時回應。** 如果一個月都沒有回答他們的 issue，他們可能也早就忘記了你們的專案。
+* **以開放的態度接受各式各樣的貢獻。**很多貢獻者是從提報一份 bug 或者修一些小東西開始的。這裡有[很多爲專案做貢獻的方式](../how-to-contribute/#what-it-means-to-contribute)。讓大家選擇他們喜歡的方式。
+* **如果你不贊同一個貢獻，** 首先你需要對他們的想法表示感謝，同時 [解釋為什麼](../best-practices/#learning-to-say-no)這點子不適合專案，如果有必要的話你可以給出相關文件的超連結。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">                      
-  爲開源做貢獻對一些人來說很簡單，但對另外一些人可能就不是這樣了。有很多人因爲沒有做正確的事而害怕叫喊，或者只是不適合。（。。。）通過允許貢獻者參與一些對技術要求比底的工作（文檔，web content markdown，etc），可以極大的減少你對這些情況的關注。
+  有些人能很自在的在開源工作。也有很多人害怕在社群裡被責備做錯事，害怕自己無法融入社群。（…）通過給貢獻者參與一些技術門檻較低的工作（文件、Web Content Markdown…），能有效地消除參與者的顧慮。
   <p markdown="1" class="pquote-credit">
-— @mikeal, ["現代開源專案下如何增長貢獻者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+— @mikeal, ["現代開源專案下如何增加貢獻者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
 
-多數開源貢獻者是“臨時貢獻者”，因爲他們只是偶爾參與專案貢獻。一位臨時貢獻者可能沒有充足的時間全程跟蹤你的專案，所以你的工作是能讓他們很輕鬆地參與貢獻。
+多數開源貢獻者是「不固定的貢獻者」，因爲他們只是偶爾參與專案。一位不固定的貢獻者可能沒有充足的時間全程參與你的專案，所以你的工作是能讓他們很輕鬆地參與貢獻。
 
 鼓勵其他的貢獻者也是對專案的一種投資。當你們授權大量的粉絲做他們感興趣的工作時，壓力就會少很多。
 
