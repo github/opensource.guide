@@ -4,12 +4,12 @@ title: 如何為開源做貢獻？
 description: 想為開源貢獻心力？一個菜鳥老手都值得一看的指南。
 class: contribute
 toc:
-  why-contribute-to-open-source: "為何要為開源貢獻力量？"
+  why-contribute-to-open-source: "為何要為開源貢獻心力？"
   what-it-means-to-contribute: "具體而言什麼是貢獻"
-  orienting-yourself-to-a-new-project: "找到自己在新專案的定位"
-  finding-a-project-to-contribute-to: "尋找專案開始貢獻"
-  how-to-submit-a-contribution: "如何提交你的貢獻"
-  what-happens-after-you-submit-a-contribution: "我提交了，接下來會發生什麼事呢？"
+  orienting-yourself-to-a-new-project: "根據專案定位自我"
+  finding-a-project-to-contribute-to: "找尋專案開始貢獻"
+  how-to-submit-a-contribution: "如何提交成果"
+  what-happens-after-you-submit-a-contribution: "提交後需要善後的事宜"
 order: 1
 image: /assets/images/cards/contribute.png
 ---
