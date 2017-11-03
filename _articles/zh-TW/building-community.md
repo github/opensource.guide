@@ -49,22 +49,22 @@ image: /assets/images/cards/building.png
 
 鼓勵其他的貢獻者也是對專案的一種投資。當你們授權大量的粉絲做他們感興趣的工作時，壓力就會少很多。
 
-### 記錄一切
+### **記錄一切**
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/11321?v=3&s=400" class="pquote-avatar" alt="avatar">  
-  你是否參加過一個（技術）活動，你不認識在場的人，但是似乎每個人站在一個小組裏像老朋友一樣聊天？（。。。）現在想象下你想爲一個開源專案做貢獻，但是你不知道爲什麼或者這個是如何發生的。
+  你是否參加過一個（技術）活動，你不認識在場的人，但似乎每個人都在自己的小組裡像老朋友一樣聊天？（…）現在想像，你想為一個開源專案做貢獻，但是你不知道為什麼這樣是辦得到的。
 
   <p markdown="1" class="pquote-credit">
-— @janl, ["讓開源可持續發展"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["持續發展開源"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-當你開始一個新專案，你會覺得保持工作的私有性是正常的。但是開源專案開始於你在公共平臺記錄自己的工作進程。
+當你開始一個新專案，會覺得就私下默默地工作是很正常的。但開源專案真正開始茁壯的時候，是當你開始公開的把你的進度歷程紀錄下來的時候。
 
-當你把事情記錄下來，會有更多的人能夠按照預定的方式參與到每一個過程中。你可能會得到意想不到的幫助。
+把事情記錄下來，會更多的人參與，參與的人也方便能從歷程的每個階段著手。你甚至可能會得到意想不到的幫助。
 
-書寫東西不僅僅只是技術文檔。任何時刻，你們有寫一些東西或者私自討論專案的衝動，請詢問自己是否能將之公開。
+不僅僅只是寫技術文檔。任何時刻，你們有寫一些東西或者私自討論專案的衝動，請詢問自己是否能將之公開。
 
 保持專案透明的專案路線：你們期待什麼類型的貢獻者，如何審查貢獻，或者你們爲什麼做某些決定。
 
@@ -80,7 +80,7 @@ image: /assets/images/cards/building.png
 
 當有人列出一條issue，提交一個pull request，或者詢問專案的有關問題時，你們應該儘量回答他們。當你們快速地做出迴應時，人們將感覺到他們參與了對話，以及他們將會更熱情地參與。
 
-如果你無法及時審查請求，請儘早確認，這樣會有助於提高參與度。這裏是@tdreyno在[Middleman](https://github.com/middleman/middleman/pull/1466)上所迴應的一個pull request：
+如果你無法及時審查請求，請儘早確認，這樣會有助於提高參與度。這裡是@tdreyno在[Middleman](https://github.com/middleman/middleman/pull/1466)上所迴應的一個pull request：
 
 ![middleman pull request](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/building-community/middleman_pr.png)
 
@@ -130,11 +130,11 @@ image: /assets/images/cards/building.png
 當發現社群中有消極的行爲時，要即時、公然的指出來。特別說明的是，要用堅定的語氣解釋他們的行爲爲什麼是不可接受的。如果這種問題繼續發生，你有必要[要求他們離開](https://github.com/cnbo/open-source-guide/blob/gh-pages/_articles/code-of-conduct.md#enforcing-your-code-of-conduct)。你的[行爲準則](https://github.com/cnbo/open-source-guide/blob/gh-pages/_articles/code-of-conduct.md)是爲這些情景準備的建設性指南。
 
 
-### 知道貢獻者在哪裏
+### 知道貢獻者在哪裡
 
 隨着專案的成長，好的文檔會變得愈加重要。臨時貢獻者或路人是不可能一下子就對專案非常熟悉，一份好的文檔，能夠很快找到他們需要的。
 
-在 CONTRIBUTING 文件裏，需要明確告訴新來的貢獻者該如何開始。而且若是可能爲了想要達到這個目的，還需要準備一個專門的部分。
+在 CONTRIBUTING 文件裡，需要明確告訴新來的貢獻者該如何開始。而且若是可能爲了想要達到這個目的，還需要準備一個專門的部分。
 
 ![django new contributors page](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/building-community/django_new_contributors.png)
 
@@ -144,7 +144,7 @@ image: /assets/images/cards/building.png
 
 你不可能做到與專案中的絕大多數人產生互動，你們可能沒有收到一些貢獻，因爲有些人感到害怕或者不知道該從何處開始，有時候即使是幾個字也能阻止一些人沮喪地離開你們的專案。
 
-例如，這裏是[Rubinius](https://github.com/rubinius/rubinius/)如何開始[它的貢獻指南](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)：
+例如，這裡是[Rubinius](https://github.com/rubinius/rubinius/)如何開始[它的貢獻指南](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)：
 
 > 我們想感謝你們使用Rubinius。這個專案是一個充滿愛的工作，我們希望所有用戶查找bugs，取得性能上的提升，以及幫助完善文檔。每一個貢獻都是有意義的，所以感謝你們的參與。話雖如此，但我們還是要求你們遵守一些指南，這樣我們就能夠找到你們的issue。
 
@@ -160,7 +160,7 @@ image: /assets/images/cards/building.png
 
 當大家覺得自己就是專案的主人時，他們就會非常樂意爲專案做貢獻。但這並不意味着要去改變專案的願景，又或者接受不想要的貢獻。但是社群越信任他們，他們就會越忠實。
 
-要嘗試去儘快的找到讓人們覺得社群就是自己的路徑，這裏有一些經驗和大家分享：
+要嘗試去儘快的找到讓人們覺得社群就是自己的路徑，這裡有一些經驗和大家分享：
 
 * **不要親自去修復簡單（非關鍵）的缺陷。** 相反，將這些缺陷作爲招募新貢獻者的工具，或者指導想要參與貢獻的人。開始時可能效果不是很理想，但經過一段時間你們會得到想要的結果。例如，@michaeljoseph要求一位貢獻者提交一個pull request在一個[Cookiecutter](https://github.com/audreyr/cookiecutter) issue的下面，而不是自己修復它。
 
