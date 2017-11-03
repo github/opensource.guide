@@ -19,6 +19,19 @@ https://felixshai.github.io/open-source-guide/
   - [ ] 建立一套行為準則 (code-of-conduct)
   - [ ] 開源衡量準則 (metrics)
   - [ ] 開源的法律保障 (legal)
+  
+- [ ] 檢查文章內的超連結是否正確
+  
+  - [ ] 如何為開源做貢獻？(how-to-contribute)
+  - [ ] 發起一個開源專案 (starting-a-project)
+  - [ ] 尋找專案的使用者 (finding-users)
+  - [ ] 打造友善、溫暖的社群 (building-community)
+  - [ ] 維護者最佳實踐 (best-practices)
+  - [ ] 領導與治理 (leadership-and-governance)
+  - [ ] 透過為開源專案工作而獲得報酬 (getting-paid)
+  - [ ] 建立一套行為準則 (code-of-conduct)
+  - [ ] 開源衡量準則 (metrics)
+  - [ ] 開源的法律保障 (legal)
 
 ## 如何翻譯
 1.	文章(article)的位置在 `_articles\zh-TW\` 目錄下，檔名是用檢查表中的英文命名。
