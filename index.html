@@ -1,8 +1,4 @@
----
-layout: default
----
-
-{% include nav.html %}
+--- layout: default --- {% include nav.html %}
 
 <div class="bg-gray-light">
 
@@ -13,7 +9,7 @@ layout: default
         {{ site.data.locale[site.locale].index.lead }}
       </p>
       <p class="alt-lead" id="opensourcefriday" style="display:none">
-        It's Friday! Invest a few hours contributing to the software you use and love:
+        今天是星期五！ 花點時間為你使用過、或喜歡的專案貢獻：
         <a href='https://opensourcefriday.com'>opensourcefriday.com</a>
       </p>
     </div>
@@ -21,8 +17,7 @@ layout: default
 
   <div class="container-lg p-responsive pb-6">
     <div class="gutter-sm d-flex flex-wrap flex-items-stretch pb-md-6">
-      {% assign articles = site.articles | where: 'locale', site.locale | sort: 'order' %}
-      {% for article in articles %}
+      {% assign articles = site.articles | where: 'locale', site.locale | sort: 'order' %} {% for article in articles %}
       <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">
         <a href="{{ article.url | relative_url }}" class="guide-cover {{ article.class }} card height-full d-block">
 
