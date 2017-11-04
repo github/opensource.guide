@@ -1,0 +1,30 @@
+nav:
+  about: À Propos
+  contribute: Contribuer
+
+index:
+  lead: Le logiciel open source est fait par des gens comme vous. Apprenez à lancer et développer votre projet.
+  opensourcefriday: C'est vendredi! Investissez quelques heures en contribuant au logiciel que vous utilisez et aimez
+
+article:
+  table_of_contents: Table des matières
+
+footer:
+  contribute:
+    heading: Contribuer
+    description: Vous voulez faire une suggestion ? Ce contenu est open source. Aidez-nous à l'améliorer.
+    button: Contribuer
+  subscribe:
+    heading: Rester en contact
+    description: Soyez le premier à découvrir les dernières astuces et ressources open source de GitHub.
+    label: Adresse e-mail
+    button: S'abonner
+  byline:
+    # [code], [love], and [github] will be replaced by octicons
+    format: "[code] avec [love] pqr [github] et [friends]"
+    # Label for code octicon
+    code_label: code
+    # Label for love octicon
+    love_label: love
+    # Label for the contributors link
+    friends_label: ses amis
