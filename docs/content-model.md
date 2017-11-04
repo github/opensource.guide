@@ -12,11 +12,11 @@ Everything written in the guides should fall into one of the following categorie
 
 ## Concept Guides
 
-Concept guides dive deep into a specific topic (ex. "Building a community", "Measuring success"). They may contain visuals and anecdotes to illustrate their point. While meant to be read from beginning to end, they have a table of contents to help the reader quickly skim the content and find a relevant subsection.
+Concept guides dive deep into a specific topic (for example, "Building a community" or "Measuring success"). They may contain visuals and anecdotes to illustrate their point. While meant to be read from beginning to end, they have a table of contents to help the reader quickly skim the content and find a relevant subsection.
 
 ## FAQ
 
-An FAQ tackles a complex topic where a reader is likely coming in with specific questions (ex. "The legal side of open source", "Leadership & governance"). Whereas concept guides aim to teach the entire concept, an FAQ respects a reader's desire to jump around, get the information they need, and leave. The table of contents is especially important in an FAQ, because the page isn't meant to be read from beginning to end. FAQs might also be longer than a concept guide, because of the jump-around navigation.
+An FAQ tackles a complex topic where a reader is likely coming in with specific questions (for example, "The legal side of open source" or "Leadership & governance"). Whereas concept guides aim to teach the entire concept, an FAQ respects a reader's desire to jump around, get the information they need, and leave. The table of contents is especially important in an FAQ, because the page isn't meant to be read from beginning to end. FAQs might also be longer than a concept guide, because of the jump-around navigation.
 
 ## Design Elements
 

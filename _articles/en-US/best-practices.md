@@ -35,6 +35,8 @@ Writing things down makes it easier to say no when something doesn't fit into yo
 
 Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
 
+Remember to keep your documentation up-to-date. If you’re not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+
 ### Write down your project's vision
 
 Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
@@ -67,8 +69,8 @@ Here are a few rules that are worth writing down:
 
 * How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
 * The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_ex. "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_ex. "We only spend about 5 hours per week on this project"_)
+* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
+* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
 
@@ -240,7 +242,9 @@ There are a [variety of tools available](https://github.com/showcases/tools-for-
 * [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
 * [Danger](https://github.com/danger/danger) helps automate code review
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. You can also set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to manage your email notifications.
+For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
+
+To manage your email notifications, you can set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to organize by priority.
 
 If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
 
