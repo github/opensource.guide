@@ -4,6 +4,7 @@ nav:
 
 index:
   lead: 開放原始碼就是由你這樣的人所打造，學習如何發起、經營你的開源專案！
+  opensourcefriday: 今天是星期五！ 花一些時間去貢獻你使用過、喜愛的軟體吧！
   
 article:
   table_of_contents: 目錄
@@ -25,3 +26,5 @@ footer:
     code_label: 程式
     # Label for love octicon
     love_label: 愛心
+    # Label for the contributors link
+    friends_label: 協作朋友
