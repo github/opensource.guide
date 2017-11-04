@@ -21,7 +21,7 @@ footer:
     button: S'abonner
   byline:
     # [code], [love], and [github] will be replaced by octicons
-    format: "[code] avec [love] pqr [github] et [friends]"
+    format: "[code] avec [love] par [github] et [friends]"
     # Label for code octicon
     code_label: code
     # Label for love octicon
