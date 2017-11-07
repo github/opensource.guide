@@ -34,8 +34,8 @@ image: /assets/images/cards/building.png
 
 * **當有人選擇了你們的專案，記得對他們表示謝意！** 因為可能只是一次在這不愉快的經歷，就足以讓一些人再也不想回來。
 * **及時回應。** 如果一個月都沒有回答他們的 issue，他們可能也早就忘記了你們的專案。
-* **以開放的態度接受各式各樣的貢獻。**很多貢獻者是從提報一份 bug 或者修一些小東西開始的。這裡有[很多爲專案做貢獻的方式](../how-to-contribute/#what-it-means-to-contribute)。讓大家選擇他們喜歡的方式。
-* **如果你不贊同一個貢獻，** 首先你需要對他們的想法表示感謝，同時 [解釋為什麼](../best-practices/#learning-to-say-no)這點子不適合專案，如果有必要的話你可以給出相關文件的超連結。
+* **以開放的態度接受各式各樣的貢獻。**很多貢獻者是從提報一份 bug 或者修一些小東西開始的。這裡有[很多為專案做貢獻的方式](../how-to-contribute/#what-it-means-to-contribute)。讓大家選擇他們喜歡的方式。
+* **如果你不贊同一個貢獻，** 首先你需要對他們的想法表示感謝，同時[解釋為什麼](../best-practices/#learning-to-say-no)這點子不適合專案，如果有必要的話你可以給出相關文件的超連結。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">                      
@@ -45,7 +45,7 @@ image: /assets/images/cards/building.png
   </p>
 </aside>
 
-多數開源貢獻者是「不固定的貢獻者」，因爲他們只是偶爾參與專案。一位不固定的貢獻者可能沒有充足的時間全程參與你的專案，所以你的工作是能讓他們很輕鬆地參與貢獻。
+多數開源貢獻者是「不固定的貢獻者」，因為他們只是偶爾參與專案。一位不固定的貢獻者可能沒有充足的時間全程參與你的專案，所以你的工作是能讓他們很輕鬆地參與貢獻。
 
 鼓勵其他的貢獻者也是對專案的一種投資。當你們授權大量的粉絲做他們感興趣的工作時，壓力就會少很多。
 
@@ -72,42 +72,42 @@ image: /assets/images/cards/building.png
 
 如果是會議的內容，試著將你的筆記或重點摘要附在相關的 issue 裡頭，這樣的公開方式有時會給你意想不到的回饋。
 
-記錄一切也適用於你的工作。如果你正在進行重要的更新工作，請將它放入 pull request 並標記爲正在進行中（WIP）。讓其他人了解，能夠在該工作的初期有參與感。
+記錄一切也適用於你的工作。如果你正在進行重要的更新工作，請將它放入 pull request 並標記為正在進行中（WIP）。讓其他人了解，能夠在該工作的初期有參與感。
 
 ### **積極迴應**
 
-一旦你[推廣專案](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-03.md)，人們將會給你們反饋。他們可能會問專案是如何工作的，或者參與專案初期需要你的幫助。
+一旦你[推廣專案](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-03.md)，人們將會給你們回饋。他們可能會問專案是如何工作的，或者希望有人能幫他上手。
 
-當有人列出一條issue，提交一個pull request，或者詢問專案的有關問題時，你們應該儘量回答他們。當你們快速地做出迴應時，人們將感覺到他們參與了對話，以及他們將會更熱情地參與。
+當有人提出一條 issue ，提交一個 pull request ，或詢問專案有關的問題時，你們應該盡快回覆他們。當你們快速地做出反應時，大家會覺得有參與到對話，會有熱情去參與專案。
 
-如果你無法及時審查請求，請儘早確認，這樣會有助於提高參與度。這裡是@tdreyno在[Middleman](https://github.com/middleman/middleman/pull/1466)上所迴應的一個pull request：
+如果你無法做到及時，至少試著去及早確認，謹記著如此一來有助於提高大眾的參與度。以下是 @tdreyno 在 [Middleman](https://github.com/middleman/middleman/pull/1466) 回覆的一個 pull request：
 
 ![middleman pull request](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/building-community/middleman_pr.png)
 
-[一份Mozilla研究發現](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) 如果貢獻者在48小時內收到代碼審查，他們會有很大的回頭率，且極有可能會再次貢獻。
+[一項 Mozilla 的研究](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) 發現如果貢獻者在48小時內收到代碼審查，他們會有很高的回頭率，且極有可能會再次貢獻。
 
-與專案有關的話題也可能發生在互聯網的其它地方，例如Stack Overflow，Twitter，或者Reddit。你可以在像這樣的一些網站設置通知，這樣當有人提及專案時，可以即時的收到提醒。
+與專案有關的討論也可能發生在網路的其它地方，例如 Stack Overflow ， Twitter ，或者 Reddit 。你可以這一些網站設定通知，當有人提到你的專案時，可即時的收到提醒。
 
 
-### 爲你們的社群提供一個聚會的場所
+### **為你們社群提供一個聚會的場所**
 
-有兩個理由可以解釋爲什麼要給社群提供一個聚會的場所。
+有兩個理由可以解釋為什麼要給社群提供聚會的場所。
 
-第一個理由是爲了貢獻者。線下聚會可以幫助人們相互認識。因爲有着共同興趣的人會想要一個可以聊天的地方。同時當資訊是公開的而且是適宜的時候，任何人可以閱讀過去的檔案以至於能夠快速的追趕以及參與。
+第一個理由是為了貢獻者。讓社群的人相互認識。因為有共同興趣的人一定會想要一個可以聊天的地方。當資訊是公開且好接觸時候，任何人可以透過過去的資料，快速的跟上大家的話題。
 
-第二個理由是爲了社群本身。如果社群沒有提供一個公共的場所來談論專案，他們可能會直接與你聯繫。剛開始時，回覆私有來信可能對你來說很輕鬆。但是經過一段時間後，尤其是如果專案變得流行的時候，就會感到疲於應付。不要私下和人們談論你們的專案，而是直接指明他們去指定的公共渠道。
+第二個理由是為了你自己。如果沒有提供公共場所來談論專案，大家可能會直接與你聯繫。剛開始可能覺得回覆私訊很輕鬆。但是一段時間後，尤其是如果專案變的熱門時，就會感到疲於應付。不要私下和人們討論你們的專案，直接請他們去指定的公共渠道。
 
-公共交流和指明人們開一條issue一樣簡單，而不是直接發送電子郵件或者在博客上發表評論。你也可以爲了方便人們談論專案設置一個郵件列表，或者創建一個Twitter賬號，Slack，IRC頻道。或者嘗試上述的所有方式。
+公共交流和指明人開一條 issue 一樣簡單，而不是直接發電子郵件或者在你的部落格上留言。為了方便人們談論專案，你可以設置一個郵件列表、創一個 Twitter 賬號， Slack ， IRC 頻道。或者嘗試以上所有的方式。
 
-[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) 每隔一週抽出辦公時間幫助社群成員：
+[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) 每隔一週抽出辦公時間來協助社群成員：
 
-> Kops每隔一週都會留出時間爲社群提供幫助和指導。Kops維護者已經同意留出時間專門與新手一起工作，幫助PRs，以及討論新特性。
+> Kops 每隔一週都會提供晤談時間，為社群提供幫助和指導。 Kops 維護者約定好留出一些時間專門與新手一起工作，處理 PR，以及討論新的功能。
 
-公開交流需要特別注意的事項：1）有關安全方面的issues 2）敏感的行爲準則。應該爲大家提供一個私下報告這些issue的方式。若不想使用自己的個人郵箱，那麼就創建一個公用的郵箱。
+此外請謹記，有一些事情反而是不適合公開討論的：1）有關資安方面的 issues  2）嚴重違規準則的行為。你應該為大家提供一個私下討論這些 issue 的方式。若不想用自己的個人信箱，那麼就設一個專用的郵箱。
 
-## 社群生長
+## **社群生長**
 
-社群擁有強大的能量。這種能量可能是正面的也可能是負面的，這一切都取決於你如何駕馭它。隨着專案社群的成長，要想辦法讓之成爲建設性的力量，而不是具有破壞性的。
+社群擁有強大的能量。這種能量可能是正面的也可能是負面的，這一切都取決於你如何駕馭它。隨着專案社群的成長，要想辦法讓之成為建設性的力量，而不是具有破壞性的。
 
 ### 不要容忍糟糕的角色
 
@@ -127,14 +127,14 @@ image: /assets/images/cards/building.png
 
 對專案的微不足道的問題進行定期辯論會分散別人的注意力，包括你自己，要將精力幾種在重要的任務上，新人如果看見這樣的情景，他們可能不會加入到專案中來。
 
-當發現社群中有消極的行爲時，要即時、公然的指出來。特別說明的是，要用堅定的語氣解釋他們的行爲爲什麼是不可接受的。如果這種問題繼續發生，你有必要[要求他們離開](https://github.com/cnbo/open-source-guide/blob/gh-pages/_articles/code-of-conduct.md#enforcing-your-code-of-conduct)。你的[行爲準則](https://github.com/cnbo/open-source-guide/blob/gh-pages/_articles/code-of-conduct.md)是爲這些情景準備的建設性指南。
+當發現社群中有消極的行為時，要即時、公然的指出來。特別說明的是，要用堅定的語氣解釋他們的行為為什麼是不可接受的。如果這種問題繼續發生，你有必要[要求他們離開](https://github.com/cnbo/open-source-guide/blob/gh-pages/_articles/code-of-conduct.md#enforcing-your-code-of-conduct)。你的[行為準則](https://github.com/cnbo/open-source-guide/blob/gh-pages/_articles/code-of-conduct.md)是為這些情景準備的建設性指南。
 
 
 ### 知道貢獻者在哪裡
 
 隨着專案的成長，好的文檔會變得愈加重要。臨時貢獻者或路人是不可能一下子就對專案非常熟悉，一份好的文檔，能夠很快找到他們需要的。
 
-在 CONTRIBUTING 文件裡，需要明確告訴新來的貢獻者該如何開始。而且若是可能爲了想要達到這個目的，還需要準備一個專門的部分。
+在 CONTRIBUTING 文件裡，需要明確告訴新來的貢獻者該如何開始。而且若是可能為了想要達到這個目的，還需要準備一個專門的部分。
 
 ![django new contributors page](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/building-community/django_new_contributors.png)
 
@@ -142,7 +142,7 @@ image: /assets/images/cards/building.png
 
 最後，撰寫讓人賞心悅目的文檔，進一步讓人感到愉悅和舒服。
 
-你不可能做到與專案中的絕大多數人產生互動，你們可能沒有收到一些貢獻，因爲有些人感到害怕或者不知道該從何處開始，有時候即使是幾個字也能阻止一些人沮喪地離開你們的專案。
+你不可能做到與專案中的絕大多數人產生互動，你們可能沒有收到一些貢獻，因為有些人感到害怕或者不知道該從何處開始，有時候即使是幾個字也能阻止一些人沮喪地離開你們的專案。
 
 例如，這裡是[Rubinius](https://github.com/rubinius/rubinius/)如何開始[它的貢獻指南](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)：
 
@@ -158,11 +158,11 @@ image: /assets/images/cards/building.png
   </p>
 </aside>
 
-當大家覺得自己就是專案的主人時，他們就會非常樂意爲專案做貢獻。但這並不意味着要去改變專案的願景，又或者接受不想要的貢獻。但是社群越信任他們，他們就會越忠實。
+當大家覺得自己就是專案的主人時，他們就會非常樂意為專案做貢獻。但這並不意味着要去改變專案的願景，又或者接受不想要的貢獻。但是社群越信任他們，他們就會越忠實。
 
 要嘗試去儘快的找到讓人們覺得社群就是自己的路徑，這裡有一些經驗和大家分享：
 
-* **不要親自去修復簡單（非關鍵）的缺陷。** 相反，將這些缺陷作爲招募新貢獻者的工具，或者指導想要參與貢獻的人。開始時可能效果不是很理想，但經過一段時間你們會得到想要的結果。例如，@michaeljoseph要求一位貢獻者提交一個pull request在一個[Cookiecutter](https://github.com/audreyr/cookiecutter) issue的下面，而不是自己修復它。
+* **不要親自去修復簡單（非關鍵）的缺陷。** 相反，將這些缺陷作為招募新貢獻者的工具，或者指導想要參與貢獻的人。開始時可能效果不是很理想，但經過一段時間你們會得到想要的結果。例如，@michaeljoseph要求一位貢獻者提交一個pull request在一個[Cookiecutter](https://github.com/audreyr/cookiecutter) issue的下面，而不是自己修復它。
 
 ![cookiecutter issue](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/building-community/cookiecutter_submit_pr.png)
 
@@ -196,13 +196,13 @@ image: /assets/images/cards/building.png
 
 ### 建立友好的氛圍
 
-當社群正在討論一個很難的issue時，氣氛會很激烈。人們可能會爲此變得憤怒或者沮喪，甚至會遭到直接的人身攻擊。
+當社群正在討論一個很難的issue時，氣氛會很激烈。人們可能會為此變得憤怒或者沮喪，甚至會遭到直接的人身攻擊。
 
-作爲一名維護者的工作是不要讓這種情況出現。即使這些你對話題有很強烈的觀點，也要儘量站在一個主持者或者推動者的位置，而不是參與爭吵以及推動自己的觀點。如果有人不友好或者壟斷話題，那麼[立即採取行動](https://ocselected.github.io/open-source-guide/building-community/)，以保持有禮貌和豐富的討論。
+作為一名維護者的工作是不要讓這種情況出現。即使這些你對話題有很強烈的觀點，也要儘量站在一個主持者或者推動者的位置，而不是參與爭吵以及推動自己的觀點。如果有人不友好或者壟斷話題，那麼[立即採取行動](https://ocselected.github.io/open-source-guide/building-community/)，以保持有禮貌和豐富的討論。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/119893?v=3&s=400" class="pquote-avatar" alt="avatar">  
-  作爲一名維護者，尊重你們的貢獻者非常重要。他們經常處理一些你們描述親切的事情。
+  作為一名維護者，尊重你們的貢獻者非常重要。他們經常處理一些你們描述親切的事情。
 
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["保持和善，要麼滾蛋"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
@@ -213,7 +213,7 @@ image: /assets/images/cards/building.png
 
 保持你們的酷並不容易，但是展示領導力能促進社群健康的發展。互聯網感謝你們。
 
-### 將你們的README視爲最高法則
+### 將你們的README視為最高法則
 
 README [不僅僅是一組指令](../starting-a-project/#writing-a-readme)。它也是一個談論目標、產品願景和路線的地方。
 如果人們過分專注於討論特定功能的優點，它可能有助於重新審視您的README，並談論專案的更高的願景。關注README也會使對話變得個人化，所以可以進行建設性的討論。
@@ -230,16 +230,16 @@ README [不僅僅是一組指令](../starting-a-project/#writing-a-readme)。它
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/1038121?v=3&s=460" class="pquote-avatar" alt="avatar">  
-Atom Issues不存在投票系統的部分原因是因爲Atom團隊在所有情況下都不會遵循投票系統。有時我們必須選擇我們認爲是對的事，即使它不流行。（。。。）我能通過社群的反饋知道我能夠提供什麼以及做什麼樣的工作。
+Atom Issues不存在投票系統的部分原因是因為Atom團隊在所有情況下都不會遵循投票系統。有時我們必須選擇我們認為是對的事，即使它不流行。（。。。）我能通過社群的反饋知道我能夠提供什麼以及做什麼樣的工作。
 
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on [Atom 決策流程](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
 </aside>
 
-即使不確定是否採用尋求共識的方式，作爲維護者，讓大家知道他們正在受到關注。讓其他人知道，以及承諾解決他們的問題，這在很大程度上減少了敏感情況的發生。然後，就去堅決的執行。
+即使不確定是否採用尋求共識的方式，作為維護者，讓大家知道他們正在受到關注。讓其他人知道，以及承諾解決他們的問題，這在很大程度上減少了敏感情況的發生。然後，就去堅決的執行。
 
-**不要爲了獲得決議而急於做出決定。在做一個決議之前請確保每個人已經知道以及所有的資訊以及公開。**
+**不要為了獲得決議而急於做出決定。在做一個決議之前請確保每個人已經知道以及所有的資訊以及公開。**
 
 ### 將對話的重點聚焦於行動
 
@@ -253,11 +253,11 @@ Atom Issues不存在投票系統的部分原因是因爲Atom團隊在所有情�
 
 如果對話開始有解散的徵兆，問團隊：“我們下一步該做什麼?”才能重新對話。
 
-如果一個對話沒有清晰的方向，沒有明確的措施可以採取，或者合適的措施已經被使用，那麼關掉issue並解釋爲什麼關掉它。
+如果一個對話沒有清晰的方向，沒有明確的措施可以採取，或者合適的措施已經被使用，那麼關掉issue並解釋為什麼關掉它。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">  
-  指導一件事朝着正確的方向發展是一門藝術。它對阻止人們浪費時間或者要求他們發表有建設性的看法沒有作用。（。。。）反而，你們必須爲接下來的進展給出條件：給大家一個路線，跟隨一個可以得到你們想要的結果的途徑，這樣就不像是些無用的口頭行爲。
+  指導一件事朝着正確的方向發展是一門藝術。它對阻止人們浪費時間或者要求他們發表有建設性的看法沒有作用。（。。。）反而，你們必須為接下來的進展給出條件：給大家一個路線，跟隨一個可以得到你們想要的結果的途徑，這樣就不像是些無用的口頭行為。
 
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_打造開源軟件_](http://producingoss.com/en/producingoss.html#common-pitfalls)
@@ -268,13 +268,13 @@ Atom Issues不存在投票系統的部分原因是因爲Atom團隊在所有情�
 
 上下文很重要。考慮誰參與討論，以及他們如何代表社群的其他人。
 
-社群中的每個人都爲這個問題而煩惱，或者參與討論了嗎？或者只是一部分人感到困惑嗎？不要僅關心活躍的聲音，也請不要忘記考慮社群中保持沉默的人。
+社群中的每個人都為這個問題而煩惱，或者參與討論了嗎？或者只是一部分人感到困惑嗎？不要僅關心活躍的聲音，也請不要忘記考慮社群中保持沉默的人。
 
 如果這個問題不代表社群的更廣泛的需求，你們可能要承認只是少數人的擔心。如果這是一個反覆出現的issue，沒有一個清晰的解決方案，那麼指向他們以前討論的話題。
 
 ### 找出社群中的決策者
 
-通過一個態度端正和目標清晰的對話，很多困難都是可以解決的。即使在富有成效的對話中，對於如何進行的意見也可能存在差異。在這些情況下，確定一個人或一組人，可以作爲決策者。
+通過一個態度端正和目標清晰的對話，很多困難都是可以解決的。即使在富有成效的對話中，對於如何進行的意見也可能存在差異。在這些情況下，確定一個人或一組人，可以作為決策者。
 
 決策者可以是專案的主要維護者，或者是大家投票選出的一個小團體。理想情況下，在使用GOVERNANCE文件之前，其實已經確定了決策者和與之相關的事宜。
 
@@ -282,4 +282,4 @@ Atom Issues不存在投票系統的部分原因是因爲Atom團隊在所有情�
 
 ## 社群是開源的❤️
 
-健康，蓬勃的社群每週都會爲開源付出大量辛勤的勞動。許多貢獻者指出其他人在開源工作或不在開源工作的原因。通過學習如何建設性地利用這股力量，你們會幫助他人有一個難忘的開源體驗。
+健康，蓬勃的社群每週都會為開源付出大量辛勤的勞動。許多貢獻者指出其他人在開源工作或不在開源工作的原因。通過學習如何建設性地利用這股力量，你們會幫助他人有一個難忘的開源體驗。
