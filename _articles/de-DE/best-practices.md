@@ -249,31 +249,32 @@ Aber, wenn Standards zu kompliziert sind, erhöhen sie die Schwierigkeit, beizut
 
 Wenn du unsicher bist, welche Erweiterungen du benutzen sollst, schau dir einfach andere populäre Projekte an, besonders die, die im selben Bereich aktiv sind. Wie sieht zum Beispiel bei anderen Node Modulen der Beitrags-Prozess aus? Ähnliche Wege und Werkzeuge machen den Prozess einfacher, auch für deine Zielgruppe.
 
-## It's okay to hit pause
+## Es ist ok eine Pause einzulegen
 
-Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
+Open Source Arbeit brachte dir Freude. Vielleicht fühlst du dich jetzt dadurch ausweichend oder schuldig.
 
-Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
+Möglicherweise fühlst du dich überwältigt oder deine Furcht wächst immer weiter, wenn du an deine Projekte denkst. Und währenddessen stapeln sich die Probleme und Pull Requests.
 
-Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
+Burnout ist ein reales und um sich greifendes Problem bei der Open Source Arbeit, besonders unter den Instandhaltern. Als Entwickler ist deine Freude am Projekt ausschlaggebend für den Fortbestand jedes Open Source Projekts.
 
-Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. @brettcannon, a Python core developer, decided to take [a month-long vacation](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering) after 14 years of volunteer OSS work.
+Obwohl es selbstverständlich sein sollte: Nimm dir eine Pause! Du solltest nicht warten bis du dich erschöpfst fühlst und dir einen Urlaub nehmen musst. @brettcannon, ein Python Kern Entwickler, entschied sich einen [gesamten Monat Urlaub](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering) zu nehmen, und das nach 14 Jahren freiwilliger Arbeit in der Open Source Gemeinschaft.
 
 Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+So wie bei jeder Art von Arbeit hilft es regelmäßige Pausen einzulegen, um einen klaren Kopf zu behalten und glücklich und begeistert an deine Arbeit heran zu gehen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/36432?v=3&s=400" class="pquote-avatar" alt="avatar">
-  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+  Bei dem Instandhalten von WP-CLI, merkte ich, dass ich mich selbst glücklich machen muss und klare Grenzen meines Mitwirkens zu ziehen. Die beste Balance ist es, zwischen 2 und 5 Stunden in der Wochen, neben der regulären Arbeit, zu arbeiten. So bleibt mein Engagement eine Passion und fühlt sich nicht wie Arbeit an. Ich konzentriere mich auf die Probleme, an denen ich gerade arbeite. So kann ich regelmäßigen Fortschritt machen und zwar dort wo es am wichtigsten ist.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
-Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
+Manchmal kann es hart sein sich eine Pause zu nehmen, besonders dann, wenn man das Gefühl hat, dass jeder deine Unterstützung braucht. Manche Leute versuchen, dass du dich deswegen schuldig fühlst.
 
-Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
+Versuche dein Bestes und suche dir Unterstützer aus der Geimeinschaft während du nicht anwesend bist. Wenn du niemanden finden kannst nimm dir trotzdem eine Auszeit. Achte darauf, immer im Kontakt zu bleiben, so dass die anderen Entwickler nicht verwirrt sind. 
 
-Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+Eine Pause zu nehmen bedeuted mehr, als sich einen Urlaub zu nehmen. Wenn du am Wochenende oder währen der Arbeitszeiten nicht arbeiten willst, sprich das mit den Anderen ob, so dass sie nicht nicht stören.
 
 ## Take care of yourself first!
 
