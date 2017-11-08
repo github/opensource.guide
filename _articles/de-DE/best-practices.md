@@ -230,23 +230,24 @@ Wenn du Tests hinzufügst, erkläre auch, wie sie funktionieren in deiner CONTRI
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### Nutze Erweiterungen, um grundlegende Aufgaben zu automatisieren
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
+Die gute Nachricht über das Betreiben eines populären Projekt ist, dass andere Betreiber ähnliche Probleme hatten und Lösungen gebaut hatten.
 
-There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
+Es gibt eine [große Auswahl an Erweiterungen (Englisch)](https://github.com/showcases/tools-for-open-source) um dir zu bei grundlegenden Aspekten zu helfen. Ein paar Beispiele:
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
+* [semantic-release](https://github.com/semantic-release/semantic-release) automatisiert Versionen
+* [mention-bot](https://github.com/facebook/mention-bot) findet Betreiber heraus, die für ein Review eines Pull Requests in Frage kommen
+* [Danger](https://github.com/danger/danger) hilft beim automatischen Review von Code.
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. You can also set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to manage your email notifications.
+Für Bug Reports und andere gewöhnliche Beiträge hat GitHub [Issue und Pull Requests Templates (Englisch)](https://github.com/blog/2111-issue-and-pull-request-templates) womit du Kommunikation beeinflussen kannst. Du kannst auch [E-Mail Filter einrichten (Englisch)](https://github.com/blog/2203-email-updates-about-your-own-activity), um deine E-Mail Benachrichtungen zu verwalten.
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+Wenn du etwas tiefer in die Materie einsteigen möchtest, kannst du dir Style-Guides und Linter anschauen, die Beiträge einfacher zu reviewen und anzunehmen.
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+Aber, wenn Standards zu kompliziert sind, erhöhen sie die Schwierigkeit, beizutragen. Stelle sicher, dass du nur genug Regeln hinzufügt, die für jeden das Leben einfacher machen.
+
+Wenn du unsicher bist, welche Erweiterungen du benutzen sollst, schau dir einfach andere populäre Projekte an, besonders die, die im selben Bereich aktiv sind. Wie sieht zum Beispiel bei anderen Node Modulen der Beitrags-Prozess aus? Ähnliche Wege und Werkzeuge machen den Prozess einfacher, auch für deine Zielgruppe.
 
 ## It's okay to hit pause
 
