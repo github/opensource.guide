@@ -259,7 +259,6 @@ Burnout ist ein reales und um sich greifendes Problem bei der Open Source Arbeit
 
 Obwohl es selbstverständlich sein sollte: Nimm dir eine Pause! Du solltest nicht warten bis du dich erschöpfst fühlst und dir einen Urlaub nehmen musst. @brettcannon, ein Python Kern Entwickler, entschied sich einen [gesamten Monat Urlaub](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering) zu nehmen, und das nach 14 Jahren freiwilliger Arbeit in der Open Source Gemeinschaft.
 
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
 So wie bei jeder Art von Arbeit hilft es regelmäßige Pausen einzulegen, um einen klaren Kopf zu behalten und glücklich und begeistert an deine Arbeit heran zu gehen.
 
 <aside markdown="1" class="pquote">
