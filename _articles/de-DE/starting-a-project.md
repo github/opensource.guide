@@ -230,7 +230,7 @@ Pick a name that is easy to remember and, ideally, gives some idea of what the p
 * [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
 * [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (ex. [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
 
 Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
 
@@ -319,7 +319,7 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (ex. passwords or other non-public information)
+    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
   </label>
 </div>
 
