@@ -1,4 +1,5 @@
 ---
+locale: en-US
 title: Finding Users for Your Project
 description: Help your open source project grow by getting it in the hands of happy users.
 class: finding
@@ -11,6 +12,9 @@ toc:
   build-a-reputation: "Build a reputation"
 order: 3
 image: /assets/images/cards/finding.png
+related:
+  - beginners
+  - building
 ---
 
 ## Spreading the word
@@ -27,7 +31,7 @@ Remember that people get involved as users, and eventually contributors, because
 
 For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
 
-![cartography readme](/assets/images/finding-users/cartography.jpg)
+![Cartography README](/assets/images/finding-users/cartography.jpg)
 
 For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
 
@@ -60,7 +64,7 @@ If you don't wish to set up these channels for your project yet, promote your ow
 
 If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
 
-![vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
+![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
 Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
 
@@ -68,7 +72,7 @@ Now that you have a message for your project, and an easy way for people to find
 
 Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](http://stackoverflow.com/), [Reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -90,7 +94,7 @@ If nobody pays attention or responds to your initial outreach, don't get discour
 
 ## Go where your project's audience is (offline)
 
-![public speaking](/assets/images/finding-users/public_speaking.jpg)
+![Public speaking](/assets/images/finding-users/public_speaking.jpg)
 
 Offline events are a popular way to promote new projects. It's a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
 

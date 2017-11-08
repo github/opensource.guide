@@ -10,6 +10,9 @@ toc:
   building-a-case-for-financial-support: "Building a case for financial support"
 order: 7
 image: /assets/images/cards/getting-paid.png
+related:
+  - best-practices
+  - leadership
 ---
 
 ## Why some people seek financial support

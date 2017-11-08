@@ -1,16 +1,16 @@
 # Translations
 
-TODO
+Thanks for your interest in helping translating the guides!
 
 ## Starting a translation
 
-Thanks for your interest in translating the guides! Before you start working on a translation, look through the [open translation issues](https://github.com/github/opensource.guide/labels/translation) to see if anyone else is already working on one for your language.
+Before you start working on a translation, look through the [open translation issues](https://github.com/github/opensource.guide/labels/translation) to see if anyone else is already working on one for your language.
 
 If there's not, then today is your day to lead this effort! Here's how to start:
 
-0. [Fork this repository](https://github.com/github/opensource.guide/fork)
-0. Open an issue using [this issue template](templates/translation-issue-template.md)
-0. Start working through the checklist!
+1. [Fork this repository](https://github.com/github/opensource.guide/fork)
+1. Open an issue using [this issue template](templates/translation-issue-template.md)
+1. Start working through the checklist!
 
 ## Keeping a translation updated
 
@@ -20,8 +20,8 @@ Note: These directions assume the `origin` [remote](https://git-scm.com/docs/git
 
 Here is the recommended process:
 
-0. Run `$ script/sync-translation` to merge the latest changes from upstream and open a Pull Request on your fork.
-0. If files requiring translation have been modified, they will be added to a checklist in the Pull Request.
-0. Once all files have been updated, merge the pull request.
+1. Run `$ script/sync-translation` to merge the latest changes from upstream and open a Pull Request on your fork.
+1. If files requiring translation have been modified, they will be added to a checklist in the Pull Request.
+1. Once all files have been updated, merge the pull request.
 
 Run this script as often as you want to keep your translation up to date.

@@ -1,3 +1,9 @@
+# v1.0.0
+
+ * update primer-core version number - broccolini [github/github@6846743](https://github.com/github/github/commit/6846743)
+ * replace instances of #ddd with variable in primer-core - broccolini [github/github@4a95523](https://github.com/github/github/commit/4a95523)
+ * don't apply general link hover styles to active state - Mark Otto [github/github@4c1d4f5](https://github.com/github/github/commit/4c1d4f5)
+
 # v0.4.2
 
  * More versions - Jon Rohan [github/github@e12ba2e](https://github.com/github/github/commit/e12ba2e)
