@@ -263,7 +263,7 @@ So wie bei jeder Art von Arbeit hilft es regelmäßige Pausen einzulegen, um ein
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/36432?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Bei dem Projektleiter von WP-CLI, merkte ich, dass ich mich selbst glücklich machen muss und klare Grenzen meines Mitwirkens zu ziehen. Die beste Balance ist es, zwischen 2 und 5 Stunden in der Woche, neben der regulären Arbeit, zu arbeiten. So bleibt mein Engagement eine Passion und fühlt sich nicht wie Arbeit an. Ich konzentriere mich auf die Probleme, an denen ich gerade arbeite. So kann ich regelmäßigen Fortschritt machen und zwar dort wo es am wichtigsten ist.
+  Bei dem Pflegen von WP-CLI, merkte ich, dass ich mich selbst glücklich machen muss und klare Grenzen meines Mitwirkens zu ziehen. Die beste Balance ist es, zwischen 2 und 5 Stunden in der Woche, neben der regulären Arbeit, zu arbeiten. So bleibt mein Engagement eine Passion und fühlt sich nicht wie Arbeit an. Ich konzentriere mich auf die Probleme, an denen ich gerade arbeite. So kann ich regelmäßigen Fortschritt machen und zwar dort wo es am wichtigsten ist.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
