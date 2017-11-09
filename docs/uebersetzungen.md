@@ -6,7 +6,7 @@ Vielen Dank für dein Interesse an der Übersetzung der Leitfäden!
 
 Bevor du anfängst an einer Übersetzung zu arbeiten, schaue dir die [Offenen Übersetzungsanfragen](https://github.com/github/opensource.guide/labels/translation) an, um zu sehen, ob jemand anderes bereits an einer Übersetzung für deine Sprache arbeitet.
 
-Wenn nicht, dann ist heute dein Tag um diese Anstrengung zu führen! So startest du:
+Wenn nicht, dann ist heute dein Tag um diese Aufgabe zu übernehmen! So startest du:
 
 1. [Eine Abzweigung dieses Repository erstellen] (https://github.com/github/opensource.guide/fork)
 2. Öffne eine Anfrage mit [dieser Vorlage] (templates/translation-issue-template.md)
