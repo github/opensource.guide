@@ -271,7 +271,7 @@ So wie bei jeder Art von Arbeit hilft es regelmäßige Pausen einzulegen, um ein
 
 Manchmal kann es hart sein sich eine Pause zu nehmen, besonders dann, wenn man das Gefühl hat, dass jeder deine Unterstützung braucht. Manche Leute versuchen, dass du dich deswegen schuldig fühlst.
 
-Versuche dein Bestes und suche dir Unterstützer aus der Geimeinschaft während du nicht anwesend bist. Wenn du niemanden finden kannst nimm dir trotzdem eine Auszeit. Achte darauf, immer im Kontakt zu bleiben, so dass die anderen Entwickler nicht verwirrt sind. 
+Versuche dein Bestes und suche dir Unterstützer aus der Geimeinschaft während du nicht anwesend bist. Wenn du niemanden finden kannst nimm dir trotzdem eine Auszeit. Achte darauf, immer im Kontakt zu bleiben, so dass die anderen Entwickler nicht verwirrt sind.
 
 Eine Pause zu nehmen bedeuted mehr, als sich einen Urlaub zu nehmen. Wenn du am Wochenende oder währen der Arbeitszeiten nicht arbeiten willst, sprich das mit den Anderen ob, so dass sie nicht nicht stören.
 
