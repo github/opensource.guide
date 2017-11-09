@@ -14,7 +14,7 @@ Wenn nicht, dann ist heute dein Tag um diese Aufgabe zu übernehmen! So startest
 
 ## Eine Übersetzung aktuell halten
 
-Git ist ziemlich gut im Tracking von Dateien, die sich geändert haben. Wir werden versuchen es Ihnen so einfach wie möglich zu machen Ihre Übersetzung auf dem neuesten Stand zu halten.
+Git ist ziemlich gut im Tracking von Dateien, die sich verändert haben. Wir werden versuchen es Ihnen so einfach wie möglich zu machen Ihre Übersetzung auf dem neuesten Stand zu halten.
 
 Hinweis: In diesen Anweisungen wird davon ausgegangen, dass der `Ursprung` [remote](https://git-scm.com/docs/git-remote) die Übersetzungs-Abzweigung ist. Wenn du das Repository ursprünglich nicht aus der Abzweigung geklont hast, kannst du es mit `git remote set-url origin https://github.com/ [deinname] / opensource.guide.git` aktualisieren.
 
