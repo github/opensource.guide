@@ -22,7 +22,7 @@ Beispiele für inakzeptables Verhalten der Teilnehmer sind:
 * Veröffentlichung von privaten Informationen anderer, wie einer physischen oder elektronischen Adresse, ohne ausdrückliche Genehmigung.
 * Andere Verhaltensweisen, die in einem professionellen Umfeld als unangemessen angesehen werden könnten.
 
-## unsere Verantwortung
+## Unsere Verantwortung
 
 Projektbetreuer sind dafür verantwortlich, die Standards für akzeptables Verhalten zu klären, und es wird erwartet, dass sie angemessene und faire Korrekturmaßnahmen ergreifen, wenn ein inakzeptables Verhalten auftritt.
 
