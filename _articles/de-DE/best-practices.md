@@ -275,6 +275,7 @@ Do your best to find support for your users and community while you're away from
 
 Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
 
-## Take care of yourself first!
+## Kümmere dich zuerst um dich!
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+Ein populäres Projekt zu betreuen benötigt verschiedene Fähigkeiten als
+Ein populäres Projekt aufrechtzuerhalten, erfordert andere Fähigkeiten als die frühen Entwicklungsstadien, aber es ist nicht weniger lohnend. Als Betreiber übst du Führungs- und persönliche Fähigkeiten auf einem Level, dass nur wenige Menschen erleben können. Auch wenn es nicht immer einfach ist, aber klare Grenzen zu setzen und nur das zu übernehmen, womit du dich wohl fühlst, wird dir helfen, glücklich, erfrischt und produktiv zu bleiben.
