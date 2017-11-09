@@ -1,10 +1,10 @@
 ---
-locale: en-US
-title: Finding Users for Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+locale: de-DE
+title: Finde Nutzer für dein Projekt
+description: Hilf deinem Open-Source Projekt zu wachen um es in die Hände von glücklichen Nutzern zu geben.
 class: finding
 toc:
-  spreading-the-word: "Spreading the word"
+  spreading-the-word: "Verbreite die Nachricht"
   figure-out-your-message: "Figure out your message"
   help-people-find-and-follow-your-project: "Help people find and follow your project"
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
@@ -17,9 +17,9 @@ related:
   - building
 ---
 
-## Spreading the word
+## Verbreite die Nachricht
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you are hoping others will find and use your open source project, however, it's time to tell everybody about your hard work!
+Es gibt keine Regel die sagt dass du dein Projekt sofort nach dem Start werben musst. Es gibt viele gute Gründe in Open-Source zu arbeiten, die nichts mit Popularität zu tun haben. Wenn du hoffst dass andere das Open-Source Projekt finden und nutzen werden, muss, jedoch, die Zeit kommen, dass du jedem etwas über deine harte Arbeit erzählst.
 
 ## Figure out your message
 
