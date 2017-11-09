@@ -5,7 +5,7 @@ description: Hilf deinem Open-Source Projekt zu wachen um es in die Hände von g
 class: finding
 toc:
   spreading-the-word: "Verbreite die Nachricht"
-  figure-out-your-message: "Figure out your message"
+  figure-out-your-message: "Finde deine Botschaft heraus"
   help-people-find-and-follow-your-project: "Help people find and follow your project"
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
   go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
@@ -21,19 +21,19 @@ related:
 
 Es gibt keine Regel die sagt dass du dein Projekt sofort nach dem Start werben musst. Es gibt viele gute Gründe in Open-Source zu arbeiten, die nichts mit Popularität zu tun haben. Wenn du hoffst dass andere das Open-Source Projekt finden und nutzen werden, muss, jedoch, die Zeit kommen, dass du jedem etwas über deine harte Arbeit erzählst.
 
-## Figure out your message
+## Finde deine Botschaft heraus
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+Bevor du überhaupt mit der Werbeaktion startest, sollte es dir möglich sein, zu erklären, was es tut und warum es wichtig ist.
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will make it easier to convince others.
+Was macht dein Projekt unterschiedlich oder interessant? Wieso hast du es erstellt? Dir selber die Fragen zu beantworte wird es einfacher, andere zu überzeugen.
 
-Remember that people get involved as users, and eventually contributors, because it solves a problem for them. As you think about your project's message and value, try to view it through the lens of what _they_ might want.
+Merke dir dass Leute als neue Nutzer involviert werden und eventuell Beitragende, weil es für sie ein Problem löst. Sobald du über die Botschaft und den Wert deines Projekts nachdenkst, versuche es aus der Perspektive zu sehen, was _sie_ vielleicht wollen.
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+Zum Beispiel benutzt @robb Code-Beispiele um klar zu zeigen, wieso sein Projekt, [Cartography](https://github.com/robb/Cartogrpahy), nützlich ist:
 
-![Cartography README](/assets/images/finding-users/cartography.jpg)
+![Cartography README](assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+Wenn du tiefer in die Materie einsteigen möchtest, schau dir doch mal Mozilla ["Personas and Pathways" (Englisch)](http://mozillascience.github.io/working-open-workshop/personas_pathways/) an.
 
 ## Help people find and follow your project
 
