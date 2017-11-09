@@ -249,21 +249,21 @@ Aber, wenn Standards zu kompliziert sind, erhöhen sie die Schwierigkeit, beizut
 
 Wenn du unsicher bist, welche Erweiterungen du benutzen sollst, schau dir einfach andere populäre Projekte an, besonders die, die im selben Bereich aktiv sind. Wie sieht zum Beispiel bei anderen Node Modulen der Beitrags-Prozess aus? Ähnliche Wege und Werkzeuge machen den Prozess einfacher, auch für deine Zielgruppe.
 
-## Es ist ok eine Pause einzulegen
+## Es ist Ok eine Pause einzulegen
 
-Open Source Arbeit brachte dir Freude. Vielleicht fühlst du dich jetzt dadurch ausweichend oder schuldig.
+Open-Source Arbeit brachte dir Freude. Vielleicht fühlst du dich jetzt dadurch bedrängt oder schuldig.
 
 Möglicherweise fühlst du dich überwältigt oder deine Furcht wächst immer weiter, wenn du an deine Projekte denkst. Und währenddessen stapeln sich die Probleme und Pull Requests.
 
-Burnout ist ein reales und um sich greifendes Problem bei der Open Source Arbeit, besonders unter den Instandhaltern. Als Entwickler ist deine Freude am Projekt ausschlaggebend für den Fortbestand jedes Open Source Projekts.
+Burnout ist ein reales und um sich greifendes Problem bei der Open Source Arbeit, besonders unter den Projektleitern. Als Entwickler ist deine Freude am Projekt ausschlaggebend für den Fortbestand jedes Open Source Projekts.
 
-Obwohl es selbstverständlich sein sollte: Nimm dir eine Pause! Du solltest nicht warten bis du dich erschöpfst fühlst und dir einen Urlaub nehmen musst. @brettcannon, ein Python Kern Entwickler, entschied sich einen [gesamten Monat Urlaub](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering) zu nehmen, und das nach 14 Jahren freiwilliger Arbeit in der Open Source Gemeinschaft.
+Obwohl es selbstverständlich sein sollte: Nimm dir eine Pause! Du solltest nicht warten bis du dich erschöpfst fühlst und dir einen Urlaub nehmen musst. @brettcannon, ein Python Kern Entwickler, entschied sich einen [gesamten Monat Urlaub (Englisch)](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering) zu nehmen, und das nach 14 Jahren freiwilliger Arbeit in der Open Source Gemeinschaft.
 
 So wie bei jeder Art von Arbeit hilft es regelmäßige Pausen einzulegen, um einen klaren Kopf zu behalten und glücklich und begeistert an deine Arbeit heran zu gehen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/36432?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Bei dem Instandhalten von WP-CLI, merkte ich, dass ich mich selbst glücklich machen muss und klare Grenzen meines Mitwirkens zu ziehen. Die beste Balance ist es, zwischen 2 und 5 Stunden in der Wochen, neben der regulären Arbeit, zu arbeiten. So bleibt mein Engagement eine Passion und fühlt sich nicht wie Arbeit an. Ich konzentriere mich auf die Probleme, an denen ich gerade arbeite. So kann ich regelmäßigen Fortschritt machen und zwar dort wo es am wichtigsten ist.
+  Bei dem Projektleiter von WP-CLI, merkte ich, dass ich mich selbst glücklich machen muss und klare Grenzen meines Mitwirkens zu ziehen. Die beste Balance ist es, zwischen 2 und 5 Stunden in der Woche, neben der regulären Arbeit, zu arbeiten. So bleibt mein Engagement eine Passion und fühlt sich nicht wie Arbeit an. Ich konzentriere mich auf die Probleme, an denen ich gerade arbeite. So kann ich regelmäßigen Fortschritt machen und zwar dort wo es am wichtigsten ist.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
