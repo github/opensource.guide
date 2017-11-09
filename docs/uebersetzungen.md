@@ -12,7 +12,7 @@ Wenn nicht, dann ist heute dein Tag um diese Aufgabe zu übernehmen! So startest
 2. Öffne eine Anfrage mit [dieser Vorlage] (templates/translation-issue-template.md)
 3. Beginne mit der Durchsicht der Checkliste!
 
-## Eine Übersetzung aktualisieren
+## Eine Übersetzung aktuell halten
 
 Git ist ziemlich gut im Tracking von Dateien, die sich geändert haben. Wir werden versuchen es Ihnen so einfach wie möglich zu machen Ihre Übersetzung auf dem neuesten Stand zu halten.
 
