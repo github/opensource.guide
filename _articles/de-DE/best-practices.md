@@ -277,5 +277,4 @@ Eine Pause zu nehmen bedeuted mehr, als sich einen Urlaub zu nehmen. Wenn du am 
 
 ## Kümmere dich zuerst um dich!
 
-Ein populäres Projekt zu betreuen benötigt verschiedene Fähigkeiten als
 Ein populäres Projekt aufrechtzuerhalten, erfordert andere Fähigkeiten als die frühen Entwicklungsstadien, aber es ist nicht weniger lohnend. Als Betreiber übst du Führungs- und persönliche Fähigkeiten auf einem Level, dass nur wenige Menschen erleben können. Auch wenn es nicht immer einfach ist, aber klare Grenzen zu setzen und nur das zu übernehmen, womit du dich wohl fühlst, wird dir helfen, glücklich, erfrischt und produktiv zu bleiben.
