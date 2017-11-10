@@ -181,7 +181,7 @@ Andere zu ermutigen [die Leitung des Projekts zu übernehmen](../building-commun
 
 Wenn du von deinem Projekt Abstand nehmen musst, entweder temporär oder permanent, gibt es keinen Grund sich zu schämen wenn man fragt, ob jemand anderes es übernehmen könnte.
 
-Sofern andere Leute begeistert über die neue Richtung sind, gebe ihnen den Commit-Zugang oder reiche formal die Kontrolle weiter. Wenn jemand dein Projekt gegabelt hat und es aktiv extern entwickelt, möchtest du das Projekt vielleicht in deinem Original Projekt verlinken. Es ist großartig dass soviele Leute dein Projekt am Leben haben möchten!
+Sofern andere Leute begeistert über die neue Richtung sind, gebe ihnen den Commit-Zugang oder reiche formal die Kontrolle weiter. Wenn jemand dein Projekt geforkt (eine Verzweigung erstellt) hat und es aktiv extern entwickelt, möchtest du das Projekt vielleicht in deinem Original Projekt verlinken. Es ist großartig dass soviele Leute dein Projekt am Leben haben möchten!
 
 @progrium [hat rausgefunden dass (Englisch)](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) das Dokumentieren der Vision für sein Projekt, [Dokku](https://github.com/dokku/dokku), die Ziele lebendig gemacht hat, sogar als er vom Projekt Abstand genommen hat:
 
@@ -197,7 +197,7 @@ Die Mitglieder deiner Community zu ermutigen auf ihrem Fork zu arbeiten kann das
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/481677?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Ich pflege die 80:20 Regel. Wenn du einer von den speziellen bist, dann gabel bitte meine Arbeit. Ich werde nicht wütend! Meine öffentlichen Projekte sind immer dafür gedacht die wichtigsten Probleme zu lösen; Ich versuche es einfach zu machen um weitere Bereiche abzudecken mit dem Forken meiner Arbeit oder es schlichtweg zu erweitern.
+  Ich pflege die 80:20 Regel. Wenn du einer von den speziellen bist, dann erstelle bitte eine verzweigung meiner Arbeit. Ich werde nicht wütend! Meine öffentlichen Projekte sind immer dafür gedacht die wichtigsten Probleme zu lösen; Ich versuche es einfach zu machen um weitere Bereiche abzudecken mit dem Forken meiner Arbeit oder es schlichtweg zu erweitern.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
