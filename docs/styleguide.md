@@ -15,7 +15,7 @@ Alle schriftlichen Inhalte sollten diesen Grundsätzen folgen:
 * **Kürze:** Halte es einfach und verlinke auf fremde Inhalte für tiefere Einblicke.
 * **Pflegen:** Verstärktes setzen auf optimale Vorgehensweisen der Community anstelle des Standpunktes eines Einzelnen.
 
-Der Inhalt sollte einen unbeschwerten, aber weisen (denke elegant, nicht übermäßig aufgeregt) Ton beibehalten. Open Source macht Spaß! Leser sollten sich inspiriert fühlen, nicht entmutigt durch den Umgangston deines Schreibens, und sie sollten dir vertrauen, um einen erleichterten Einstieg zu erhalten.
+Der Inhalt sollte einen unbeschwerten, aber weisen (denke elegant, nicht übermäßig aufgeregt) Ton beibehalten. Open-Source macht Spaß! Leser sollten sich inspiriert fühlen, nicht entmutigt durch den Umgangston deines Schreibens, und sie sollten dir vertrauen, um einen erleichterten Einstieg zu erhalten.
 
 ## Erwähnungen
 
