@@ -3,7 +3,8 @@ nav:
   contribute: Beitragen
 
 index:
-  lead: Open-Source Software ist von Menschen gemacht, wie dir. Lerne wie du dein Projekt startest und wachsen lässt.
+  lead: Open-Source-Software ist von Menschen gemacht, wie dir. Lerne wie du dein Projekt startest und wachsen lässt.
+  opensourcefriday: Es ist Freitag! Investiere ein paar Stunden in die Software, die du verwendest und liebst
 
 article:
   table_of_contents: Inhaltsverzeichnis
@@ -11,7 +12,7 @@ article:
 footer:
   contribute:
     heading: Beitragen
-    description: Möchtest du einen Vorschlag machen? Dieser Inhalt ist Open-Source. Helfe uns, es zu verbessern.
+    description: Möchtest du einen Vorschlag machen? Dieser Inhalt ist Open-Source. Hilf uns, es zu verbessern.
     button: Beitragen
   subscribe:
     heading: Auf dem aktuellsten Stand sein (Englischer Newsletter)
