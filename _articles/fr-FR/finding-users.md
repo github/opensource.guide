@@ -2,7 +2,7 @@
 locale: fr-FR
 title: Trouver des utilisateurs pour votre projet
 description: Aidez votre projet open source à se développer en le mettant entre les mains d'utilisateurs satisfaits.
-class: finding
+class: découverte
 toc:
   spreading-the-word: "Spreading the word"
   figure-out-your-message: "Figure out your message"
