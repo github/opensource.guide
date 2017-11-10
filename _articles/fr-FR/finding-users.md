@@ -11,7 +11,7 @@ toc:
   go-where-your-projects-audience-is-offline: "Allez là où se trouve l'audience de votre projet (hors ligne)"
   build-a-reputation: "Construire une réputation"
 order: 3
-image: /assets/images/cards/finding.png
+image: assets/images/cards/finding.png
 related:
   - beginners
   - building
