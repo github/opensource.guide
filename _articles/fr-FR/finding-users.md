@@ -1,6 +1,6 @@
 ---
 locale: fr-FR
-title: Finding Users for Your Project
+title: Trouver des utilisateurs pour votre projet
 description: Help your open source project grow by getting it in the hands of happy users.
 class: finding
 toc:
