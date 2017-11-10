@@ -1,27 +1,27 @@
-# Translations
+# Übersetzungen
 
-Thanks for your interest in helping translating the guides!
+Vielen Dank für dein Interesse an der Übersetzung der Leitfäden!
 
-## Starting a translation
+## Eine Übersetzung starten
 
-Before you start working on a translation, look through the [open translation issues](https://github.com/github/opensource.guide/labels/translation) to see if anyone else is already working on one for your language.
+Bevor du anfängst an einer Übersetzung zu arbeiten, schaue dir die [Offenen Übersetzungsanfragen](https://github.com/github/opensource.guide/labels/translation) an, um zu sehen, ob jemand anderes bereits an einer Übersetzung für deine Sprache arbeitet.
 
-If there's not, then today is your day to lead this effort! Here's how to start:
+Wenn nicht, dann ist heute dein Tag um diese Aufgabe zu übernehmen! So startest du:
 
-1. [Fork this repository](https://github.com/github/opensource.guide/fork)
-1. Open an issue using [this issue template](templates/translation-issue-template.md)
-1. Start working through the checklist!
+1. [Eine Abzweigung dieses Repository erstellen](https://github.com/github/opensource.guide/fork)
+1. Öffne eine Anfrage mit [dieser Vorlage](templates/translation-issue-template.md)
+1. Beginne mit der Durchsicht der Checkliste!
 
-## Keeping a translation updated
+## Eine Übersetzung aktuell halten
 
-Git is pretty good at tracking files that have changed. We'll try to make it as easy as possible for you to keep your translation up to date.
+Git ist ziemlich gut im Tracking von Dateien, die sich verändert haben. Wir werden versuchen es dir so einfach wie möglich zu machen deine Übersetzung auf dem neuesten Stand zu halten.
 
-Note: These directions assume the `origin` [remote](https://git-scm.com/docs/git-remote) is the translation fork. If you didn't originally clone the repository from the fork, you can update it with `git remote set-url origin https://github.com/[yourname]/opensource.guide.git`.
+Hinweis: In diesen Anweisungen wird davon ausgegangen, dass der `Ursprung`[remote](https://git-scm.com/docs/git-remote) die Übersetzungs-Abzweigung ist. Wenn du das Repository ursprünglich nicht aus der Abzweigung geklont hast, kannst du es mit `git remote set-url origin https://github.com/[deinname]/opensource.guide.git` aktualisieren.
 
-Here is the recommended process:
+Hier ist die empfohlene Vorgehensweise:
 
-1. Run `$ script/sync-translation` to merge the latest changes from upstream and open a Pull Request on your fork.
-1. If files requiring translation have been modified, they will be added to a checklist in the Pull Request.
-1. Once all files have been updated, merge the pull request.
+1. Führe `$script/sync-translation` aus, um die letzten Änderungen aus dem Upstream zusammenzuführen und eine Pull-Anforderung für Ihre Abzweigung zu öffnen.
+1. Wenn Dateien, die übersetzt werden müssen, geändert wurden, werden sie zu einer Prüfliste in der Pull-Anforderung hinzugefügt.
+1. Nachdem alle Dateien aktualisiert wurden, führe die Pull-Anforderung zusammen.
 
-Run this script as often as you want to keep your translation up to date.
+Führe dieses Skript so oft aus, wie du möchtest, um deine Übersetzung auf dem neuesten Stand zu halten.
