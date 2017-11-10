@@ -34,7 +34,7 @@ Wenn du keine Texte schreiben möchtest, sind Stichwörter ebenfalls besser als 
 
 ### Schreibe die Vision des Projekts auf
 
-Fange an mit dem Aufschreiben von den Zielen deines Projektes. Füge sie zu deiner README hinzu, oder erstelle eine VISION Datei. Wenn andere Werkzeuge helfen können, wie z.B. ein Entwicklungsplan, mache sie ebenfalls öffentlich.
+Fange an mit dem Aufschreiben von den Zielen deines Projektes. Füge sie zu deiner README hinzu, oder erstelle eine VISION Datei. Wenn andere Werkzeuge helfen können, wie z.B. ein Entwicklungsplan(Roadmap), mache sie ebenfalls öffentlich.
 
 Eine klar dokumentierte Vision hilft dir stets fokussiert zu sein auf das was du machen möchtest und vermeidet Unklarheiten von anderen Beitragenden.
 
