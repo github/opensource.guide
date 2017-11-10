@@ -36,7 +36,7 @@
 
 * Hat einen guten Ruf in der Community.
 
-* Hat bereits ein Open Source Projekt geöffnet. Kann mehrere Projekte verwalten.
+* Hat bereits ein Open-Source Projekt geöffnet. Kann mehrere Projekte verwalten.
 
 * Verwaltet wahrscheinlich Projekte in seiner Freizeit (Freiwilligenarbeit)
 
@@ -62,7 +62,7 @@
 
 * Hat eine anständige Zielgruppe / Ruf
 
-* Hat bereits persönliche Open Source Projekte Veröffentlicht.
+* Hat bereits persönliche Open-Source Projekte Veröffentlicht.
 
 * Verwaltet wahrscheinlich Projekte in seiner Freizeit (Freiwilligenarbeit)
 
@@ -82,11 +82,11 @@
 
 * Team von Mitarbeitern, die bei derselben Firma arbeiten. In erster Linie Ingenieurwesen, aber wahrscheinlich mehrere Projektbeteiligte Funktionsübergreifend.
 
-* Wahrscheinlich spürt man ein Gefühl der Verantwortung für das Projekt ("Wir gestalten dieses Projekt Open Source für die Gemeinschaft").
+* Wahrscheinlich spürt man ein Gefühl der Verantwortung für das Projekt ("Wir gestalten dieses Projekt Open-Source für die Gemeinschaft").
 
 * Das Unternehmen spielt eine klare Rolle bei der Entscheidungsfindung.
 
-* Möglicherweise wurde vorher noch kein Projekt Open Source gestaltet.
+* Möglicherweise wurde vorher noch kein Projekt Open-Source gestaltet.
 
 * Projekte werden von bezahlten Mitarbeitern verwaltet.
 
