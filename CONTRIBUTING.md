@@ -4,7 +4,7 @@ layout: default
 
 # Zu Open-Source Leitfäden beitragen
 
-Danke, dass du dir die Open Source Leitfäden anschaust! Wir freuen uns, von dir zu hören und zu lernen. Deine Erfahrungen kommen anderen zugute, die diese Leitfäden lesen und verwenden.
+Danke, dass du dir die Open-Source Leitfäden anschaust! Wir freuen uns, von dir zu hören und zu lernen. Deine Erfahrungen kommen anderen zugute, die diese Leitfäden lesen und verwenden.
 
 Wir haben die folgenden Richtlinien zusammengestellt, damit du herausfinden kannst, wo du am besten helfen kannst.
 
@@ -19,7 +19,7 @@ Wir haben die folgenden Richtlinien zusammengestellt, damit du herausfinden kann
 0. [Gemeinschaft](#gemeinschaft)
 
 ## Die Art von Beiträgen, die wir suchen
-In erster Linie ist dieses Projekt ein Forum, um optimale Vorgehensweisen für Open Source Projekte zu diskutieren und es dann in einem Leitfaden zu dokumentieren, wenn wir einen Konsens gefunden haben. Dein erster Beitrag könnte eine neue Konversation sein oder eine vorhandene Konversation zu optimalen Vorgehensweisen ergänzen. Du kannst dies unter [Issues](https://github.com/github/opensource.guide/issues) tun.
+In erster Linie ist dieses Projekt ein Forum, um optimale Vorgehensweisen für Open-Source Projekte zu diskutieren und es dann in einem Leitfaden zu dokumentieren, wenn wir einen Konsens gefunden haben. Dein erster Beitrag könnte eine neue Konversation sein oder eine vorhandene Konversation zu optimalen Vorgehensweisen ergänzen. Du kannst dies unter [Issues](https://github.com/github/opensource.guide/issues) tun.
 Es gibt auch viele Möglichkeiten, wie du direkt zu den Leitfäden beitragen kannst (in absteigender Reihenfolge der Bedürfnisse):
 
 * Behebung von redaktionellen Inkonsistenzen und Ungenauigkeiten.
@@ -34,8 +34,8 @@ Möchtest du einen Beitrag leisten? Lies bitte weiter!
 
 Bevor wir anfangen, sind hier ein paar Dinge, die wir von dir erwarten (und die du von anderen erwarten sollten):
 
-* Sei nett und nachdenklich in deinen Gesprächen rund um dieses Projekt. Wir alle kommen aus unterschiedlichen Hintergründen und Projekten, was bedeutet, dass wir wahrscheinlich unterschiedliche Perspektiven haben, wie "Open Source" gemacht wird. Versuche anderen zuzuhören, anstatt sie davon zu überzeugen, dass dein Weg korrekt ist.
-* Open Source Leitfäden werden mit einem [Verhaltenskodex für Mitwirkende](./CODE_OF_CONDUCT.md) veröffentlicht. Durch die Teilnahme an diesem Projekt stimmst du zu, die Bedingungen einzuhalten.
+* Sei nett und nachdenklich in deinen Gesprächen rund um dieses Projekt. Wir alle kommen aus unterschiedlichen Hintergründen und Projekten, was bedeutet, dass wir wahrscheinlich unterschiedliche Perspektiven haben, wie "Open-Source" gemacht wird. Versuche anderen zuzuhören, anstatt sie davon zu überzeugen, dass dein Weg korrekt ist.
+* Open-Source Leitfäden werden mit einem [Verhaltenskodex für Mitwirkende](./CODE_OF_CONDUCT.md) veröffentlicht. Durch die Teilnahme an diesem Projekt stimmst du zu, die Bedingungen einzuhalten.
 * Wenn du eine Pull-Anfrage öffnest, stelle bitte bitte sicher, dass dein Beitrag alle Tests besteht. Wenn Testfehler auftreten, musst du diese beheben, bevor wir deinen Beitrag zusammenführen können.
 * Wenn du Inhalte hinzufügst, überlege bitte, ob sie von großem Wert sind. Bitte füge keine Verweise oder Links zu Dingen hinzu, die du oder dein Arbeitgeber erstellt haben. Andere werden dies tun, wenn sie die Inhalte zu schätzen wissen.
 
@@ -68,6 +68,6 @@ Dieses Repo wird derzeit von @jens1o und @maikksmt verwaltet, die einen Commit-Z
 
 ## Gemeinschaft
 
-Diskussionen über die Open Source Leitfäden finden in den [Issues] dieses Repositories (https://github.com/github/opensource.guide/issues) und [Pull Requests](https://github.com/github/opensource.guide/pulls) statt. Jeder ist willkommen, an diesen Gesprächen teilzunehmen. Es gibt auch eine [Mailingliste](http://eepurl.com/cecpnT) für regelmäßige Updates.
+Diskussionen über die Open-Source Leitfäden finden in den [Issues] dieses Repositories (https://github.com/github/opensource.guide/issues) und [Pull Requests](https://github.com/github/opensource.guide/pulls) statt. Jeder ist willkommen, an diesen Gesprächen teilzunehmen. Es gibt auch eine [Mailingliste](http://eepurl.com/cecpnT) für regelmäßige Updates.
 
 Wenn möglich, führe diese Gespräche nicht auf privaten Kanälen, einschließlich der direkten Kontaktaufnahme mit den Betreuern. Wenn du die Kommunikation öffentlich machst, können alle davon profitieren und von der Konversation lernen.
