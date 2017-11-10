@@ -1,38 +1,30 @@
-# Style Guide
+#  Gestaltungsrichtlinie
 
-From the GitHub Manual of Style, which this style guide inherits from:
+Aus dem GitHub Handbuch für Gestaltung, von dem diese Gestaltungsrichtlinie erbt:
 
-> Words are an important part of how software works. Just as we have a style guide for our code, we have a style guide for our tone and our voice. Even though there may be dozens of people creating a product, it should still sound like we speak in one consistent voice.
+> Wörter sind ein wichtiger Teil der Funktionsweise von Software. Genau wie wir eine Gestaltungsrichtlinie für unseren Code haben, haben wir eine Gestaltungsrichtlinie für unseren Ausdruck und Umgangston. Auch wenn es Dutzende von Leuten gibt, die ein Produkt erstellen, sollte es immer noch so klingen, als würden wir in einer einheitlichen Ausdrucksweise sprechen.
 >
-> In other words, the way we write is just as important as the way we design. Consider these things when writing copy.
+> Mit anderen Worten, ist die Art, wie wir schreiben genauso wichtig wie die Art, wie wir entwerfen. Berücksichtige diese Dinge beim Schreiben.
 
-Where possible, [automated tests](../script/test-prose) enforce style rules.
+Wo möglich, setzen [automatisierte Tests](../script/test) Stilregeln durch.
 
-## Content Principles
-All written content should follow these principles:
+## Inhaltliche Grundsätze
+Alle schriftlichen Inhalte sollten diesen Grundsätzen folgen:
 
-* **Approachability:** Don't assume reader has prior knowledge
-* **Brevity:** Keep it simple, link to outside content for deeper dives
-* **Curation:** Amplify community best practices vs. any individual's point of view
+* **Zugänglichkeit:** Gehe nicht davon aus, dass der Leser Vorkenntnisse hat.
+* **Kürze:** Halte es einfach und verlinke auf fremde Inhalte für tiefere Einblicke.
+* **Pflegen:** Verstärktes setzen auf optimale Vorgehensweisen der Community anstelle des Standpunktes eines Einzelnen.
 
-Content should maintain a light-hearted, but wise (think classy, not overly excited) tone. Open source is fun! Readers should feel inspired, not discouraged, by the tone of your writing, and they should trust you to help them get started.
+Der Inhalt sollte einen unbeschwerten, aber weisen (denke elegant, nicht übermäßig aufgeregt) Ton beibehalten. Open Source macht Spaß! Leser sollten sich inspiriert fühlen, nicht entmutigt durch den Umgangston deines Schreibens, und sie sollten dir vertrauen, um einen erleichterten Einstieg zu erhalten.
 
-## Mentions
+## Erwähnungen
 
-When referring to people that use GitHub, use @mentions of their username instead of their full name.
+Wenn du dich auf Personen beziehst, die GitHub verwenden, verwende die @erwähnungen ihres Benutzernamens anstelle ihres vollständigen Namens.
 
-- :smile: As @jessfraz put it...
-- :cry: As [Jess Frazelle](https://github.com/jessfraz) put it...
+- :smile: Wie @jessfraz es ausdrückte ..
+- :cry: Wie [Jess Frazelle](https://github.com/jessfraz) es ausdrückte...
 
-When referring to a project on GitHub, link to the repository so others can dive deeper, if they choose.
+Wenn du dich auf ein Projekt auf GitHub beziehst, verweise auf das Repository, damit andere tiefer eintauchen können, wenn sie möchten.
 
-- :smile: @maxogden took a similar approach to [Dat](https://github.com/datproject/dat)...
-- :cry: @maxogden took a similar approach to Dat...
-
-## Capitalization
-
-"Guides" is capitalized when referring to the "Open Source Guides", but not when saying "the guide" or "this guide".
-
-- :smile: Welcome to Open Source Guides!
-- :smile: The guide is meant to..
-- :cry: The goal of this Guide is to...
+- :smile: @maxogden hat eine ähnliche Herangehensweise an [Dat](https://github.com/datproject/dat) ...
+- :cry: @maxogden hat einen ähnlichen Ansatz für Dat ...
