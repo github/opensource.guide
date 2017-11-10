@@ -49,7 +49,7 @@ Si vous ne souhaitez pas encore configurer ces canaux pour votre projet, promouv
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Une erreur que j'ai commise à ces débuts (...) ne créait pas de compte Twitter pour le projet. Twitter est un excellent moyen de tenir les gens au courant d'un projet et d'exposer constamment les gens au projet.
+  Une erreur que j'ai commise à mes débuts (...) c'est ne pas creer de compte Twitter pour le projet. Twitter est un excellent moyen de tenir les gens au courant d'un projet et d'exposer constamment les gens au projet.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["Histoire de la tempête apache et des leçons apprises"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
