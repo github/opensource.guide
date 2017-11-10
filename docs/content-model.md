@@ -1,6 +1,6 @@
 # Inhaltsmodell
 
-Open-Source Leitfäden helfen Einzelpersonen, Gemeinschaften und Unternehmen bei der Nutzung von Open-Source Software. Es beschreibt nicht nur, wie man eine Aufgabe erledigt, sondern auch, warum man es möchte und wie diese Aufgabe ins große Ganze des Konsumierens und der Produktion von Open-Source Software, sowie des Beitragens zu Open-Source Software passt.
+Open-Source-Leitfäden helfen Einzelpersonen, Gemeinschaften und Unternehmen bei der Nutzung von Open-Source-Software. Es beschreibt nicht nur, wie man eine Aufgabe erledigt, sondern auch, warum man es möchte und wie diese Aufgabe ins große Ganze des Konsumierens und der Produktion von Open-Source-Software, sowie des Beitragens zu Open-Source-Software passt.
 
 Dieser Inhalt wurde ursprünglich von GitHub erstellt und kuratiert und behandelt Themen, die für GitHub-Nutzer sehr relevant sind, aber nicht nur spezifisch für GitHub-Produkte gelten.
 
