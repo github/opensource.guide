@@ -1,7 +1,7 @@
 ---
 locale: fr-FR
 title: Trouver des utilisateurs pour votre projet
-description: Help your open source project grow by getting it in the hands of happy users.
+description: Aidez votre projet open source à se développer en le mettant entre les mains d'utilisateurs satisfaits.
 class: finding
 toc:
   spreading-the-word: "Spreading the word"
