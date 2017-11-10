@@ -2,7 +2,7 @@
 locale: fr-FR
 title: Trouver des utilisateurs pour votre projet
 description: Aidez votre projet open source à se développer en le mettant entre les mains d'utilisateurs satisfaits.
-class: découverte
+class: finding
 toc:
   spreading-the-word: "Passer le mot"
   figure-out-your-message: "Déterminez votre message"
@@ -11,7 +11,7 @@ toc:
   go-where-your-projects-audience-is-offline: "Allez là où se trouve l'audience de votre projet (hors ligne)"
   build-a-reputation: "Construire une réputation"
 order: 3
-image: assets/images/cards/finding.png
+image: /assets/images/cards/finding.png
 related:
   - beginners
   - building
