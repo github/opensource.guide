@@ -68,6 +68,6 @@ Dieses Repo wird derzeit von @jens1o und @maikksmt verwaltet, die einen Commit-Z
 
 ## Gemeinschaft
 
-Diskussionen über die Open-Source Leitfäden finden in den [Issues] dieses Repositories (https://github.com/github/opensource.guide/issues) und [Pull Requests](https://github.com/github/opensource.guide/pulls) statt. Jeder ist willkommen, an diesen Gesprächen teilzunehmen. Es gibt auch eine [Mailingliste](http://eepurl.com/cecpnT) für regelmäßige Updates.
+Diskussionen über die Open-Source Leitfäden finden in den [Issues](https://github.com/github/opensource.guide/issues) dieses Repositories  und [Pull Requests](https://github.com/github/opensource.guide/pulls) statt. Jeder ist willkommen, an diesen Gesprächen teilzunehmen. Es gibt auch eine [Mailingliste](http://eepurl.com/cecpnT) für regelmäßige Updates.
 
 Wenn möglich, führe diese Gespräche nicht auf privaten Kanälen, einschließlich der direkten Kontaktaufnahme mit den Betreuern. Wenn du die Kommunikation öffentlich machst, können alle davon profitieren und von der Konversation lernen.
