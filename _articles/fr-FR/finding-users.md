@@ -1,15 +1,15 @@
 ---
 locale: fr-FR
-title: Trouver des utilisateurs pour votre projet
-description: Aidez votre projet open source à se développer en le mettant entre les mains d'utilisateurs satisfaits.
-class: découverte
+title: Finding Users for Your Project
+description: Help your open source project grow by getting it in the hands of happy users.
+class: finding
 toc:
-  spreading-the-word: "Passer le mot"
-  figure-out-your-message: "Déterminez votre message"
-  help-people-find-and-follow-your-project: "Aidez les gens à trouver et à suivre votre projet"
-  go-where-your-projects-audience-is-online: "Allez là où se trouve le public de votre projet (en ligne)"
-  go-where-your-projects-audience-is-offline: "Allez là où se trouve l'audience de votre projet (hors ligne)"
-  build-a-reputation: "Construire une réputation"
+  spreading-the-word: "Spreading the word"
+  figure-out-your-message: "Figure out your message"
+  help-people-find-and-follow-your-project: "Help people find and follow your project"
+  go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
+  go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
+  build-a-reputation: "Build a reputation"
 order: 3
 image: /assets/images/cards/finding.png
 related:
