@@ -4,12 +4,12 @@ title: Trouver des utilisateurs pour votre projet
 description: Aidez votre projet open source à se développer en le mettant entre les mains d'utilisateurs satisfaits.
 class: finding
 toc:
-  Passer le mot: "Passer le mot"
-  Déterminez votre message: "Déterminez votre message"
-  Aidez les gens à trouver et à suivre votre projet: "Aidez les gens à trouver et à suivre votre projet"
-  Allez là où se trouve le public de votre projet (en ligne): "Allez là où se trouve le public de votre projet (en ligne)"
-  Allez là où se trouve l'audience de votre projet (hors ligne): "Allez là où se trouve l'audience de votre projet (hors ligne)"
-  Construire une réputation: "Construire une réputation"
+  Passer-le-mot: "Passer le mot"
+  Déterminez-votre-message: "Déterminez votre message"
+  Aidez-les-gens-à-trouver-et-à-suivre-votre-projet: "Aidez les gens à trouver et à suivre votre projet"
+  Allez-là-où-se-trouve-le-public-de-votre-projet-en-ligne: "Allez là où se trouve le public de votre projet (en ligne)"
+  Allez-là-où-se-trouve-l'audience-de-votre-projet-hors-ligne: "Allez là où se trouve l'audience de votre projet (hors ligne)"
+  Construire-une-réputation: "Construire une réputation"
 order: 3
 image: /assets/images/cards/finding.png
 ---
