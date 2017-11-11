@@ -129,28 +129,28 @@ Wenn sich dein Projekt auf GitHub befindet, hilft es GitHub dabei die Dateien zu
 
 ### Lizenz auswählen
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+Eine Open-Source-Lizenz garantiert, dass andere, ohne Auswirkungen, auf dein Projekt zurückgreifen, es kopieren, modifizieren und als Beitrag zurückgeben können. Es schützt dich auch vor heiklen rechtlichen Situationen. **Du musst eine Lizenz einfügen, wenn du ein Open-Source-Projekt startest.**
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+Juristische Arbeit macht keinen Spaß. Die gute Nachricht ist, dass du eine bestehende Lizenz kopieren und in dein Repository einfügen kannst. Es dauert nur eine Minute, um deine harte Arbeit zu schützen.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sind die beliebtesten Open-Source-Lizenzen, aber [es gibt andere Optionen](https://choosealicense.com) zur Auswahl.
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+Wenn du ein neues Projekt auf GitHub erstellst, hast du die Möglichkeit eine Lizenz auszuwählen. Durch die Einbindung einer Open-Source-Lizenz wird dein GitHub-Projekt Open-Source.
 
-![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![Wählen Sie eine Lizenz aus](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+Wenn du andere Fragen oder Bedenken bezüglich der rechtlichen Aspekte der Verwaltung eines Open-Source-Projekts hast, [Geben wir dir Deckung](../legal/).
 
 ### Eine README schreiben
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+READMEs beinhalten mehr als die Erklärung, wie dein Projekt Verwendet wird. Sie erklären auch, warum dein Projekt wichtig ist und was die Benutzer damit machen können.
 
-In your README, try to answer the following questions:
+Versuche in Ihrer README die folgenden Fragen zu beantworten:
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* Was macht dieses Projekt?
+* Warum ist dieses Projekt nützlich?
+* Wie fange ich an?
+* Wo kann ich mehr Hilfe bekommen, wenn ich sie brauche?
 
 You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
 
