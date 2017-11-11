@@ -7,6 +7,9 @@ translations:
   en-US:
     name: English (US)
     url: https://opensource.guide
+  es-AR:
+    name: Español (AR)
+    url: https://es-ar.opensource.guide
 
 exclude:
   - bin
