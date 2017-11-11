@@ -16,21 +16,21 @@ image: /assets/images/cards/finding.png
 
 ## Passer le mot
 
-Il n'y a pas de règle qui stipule que vous devez promouvoir un projet open source lors de votre lancement. Il existe de nombreuses raisons satisfaisantes de travailler en open source qui n'ont rien à voir avec la popularité. Si vous espérez que d'autres trouveront et utiliseront votre projet open source, cependant, il est temps de parler à tout le monde de votre dur labeur!
+Il n'y a pas de règle qui stipule que vous devez promouvoir un projet open source lors de votre lancement. Il existe de nombreuses raisons satisfaisantes de travailler en open source qui n'ont rien à voir avec la popularité. Si vous espérez que d'autres trouveront et utiliseront votre projet open source, qu'à cela ne tienne. Il est temps de parler à tout le monde de votre travail acharné !
 
 ## Déterminez votre message
 
-Avant de commencer le travail de promotion de votre projet, vous devriez être en mesure d'expliquer ce qu'il fait et pourquoi c'est important.
+Avant de commencer le travail de promotion de votre projet, vous devriez être en mesure d'expliquer ce qu'il représente et pourquoi c'est important.
 
-Qu'est-ce qui rend votre projet différent ou intéressant? Pourquoi l'avez-vous créé? En répondant à ces questions par vous-même, il sera plus facile de convaincre les autres.
+Qu'est-ce qui rend votre projet différent ou intéressant ? Pourquoi l'avez-vous créé ? En répondant à ces questions pour vous-même, il vous sera plus facile de convaincre les autres.
 
 Rappelez-vous que les gens s'impliquent en tant qu'utilisateurs, et éventuellement en tant que contributeurs, car cela résout un problème pour eux. En réfléchissant au message et à la valeur de votre projet, essayez de le voir à travers l'objectif de ce qu'ils pourraient vouloir.
 
-Par exemple, @robb utilise des exemples de code pour communiquer clairement pourquoi son projet, [Cartography](https://github.com/robb/Cartography), est utile:
+Par exemple, @robb utilise des exemples de code pour communiquer clairement pourquoi son projet, [Cartography](https://github.com/robb/Cartography), est utile :
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-Pour une plongée plus profonde dans la messagerie, consultez Mozilla ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercice pour développer les utilisateurs..
+Pour une plongée plus profonde dans la messagerie, consultez l'exercice ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) de Mozilla pour développer des personnages d'utilisateur..
 
 ## Aidez les gens à trouver et à suivre votre projet
 
