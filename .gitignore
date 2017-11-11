@@ -9,4 +9,3 @@ test/node_modules
 Gemfile.lock
 css/main.scss
 .asset-downloads
-package-lock.json

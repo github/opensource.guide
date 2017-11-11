@@ -1,5 +1,5 @@
-Repository: https://github.com/[yourname]/opensource.guide
-Preview: https://[yourname].github.io/opensource.guide
+Repository: https://github/[yourname]/open-source-guide
+Preview: https://[yourname].github.io/open-source-guide/
 Locale: `xx-YY`
 
 On your fork:
