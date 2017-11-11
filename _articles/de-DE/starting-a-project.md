@@ -1,14 +1,14 @@
 ---
-locale: en-US
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
-class: beginners
+locale: de-DE
+title: Ein Open-Source-Projekt starten
+description: Erfahre mehr über die Welt von Open Source und mache dich bereit, dein eigenes Projekt zu starten.
+class: Anfänger
 toc:
-  the-what-and-why-of-open-source: "The what and why of open source"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
-  naming-and-branding-your-project: "Naming and branding your project"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  das-was-und-warum-von-open-source: "as "Was" und "Warum" von Open-Source"
+  sollte-ich-mein-eigenes-open-source-projekt-starten: "Sollte ich mein eigenes Open-Source-Projekt starten?"
+  dein-eigenes-open-source-projekt-starten: "Dein eigenes Open-Source-Projekt starten"
+  benenne-dein-projekt-und-bilde-eine-marke: "Benenne dein Projekt und bilde eine Marke"
+  deine-checkliste-vor-dem-start: "Deine Checkliste vor dem Start"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -16,119 +16,118 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## Das "Was" und "Warum" von Open-Source
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+Du denkst also darüber nach, mit Open Source zu beginnen? Glückwünsche! Die Welt schätzt deinen Beitrag. Lass uns darüber reden, was Open Source ist und warum es Leute tun.
 
-### What does "open source" mean?
+### Was bedeutet "Open-Source"?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+Wenn ein Projekt Open-Source ist, bedeutet das: **Jeder kann Ihr Projekt zu einem beliebigen Zweck anzeigen, verwenden, ändern und verteilen.** Diese Berechtigungen werden durch [eine Open-Source-Lizenz](https://opensource.org/licenses) erzwungen.
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+Open Source ist mächtig, weil es die Hürden für die Einführung senkt und Ideen schnell verbreiten kann.
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
+Um zu verstehen, wie es funktioniert: Stell dir vor, dein Freund lädt zu einem Gemeinschafts-Essen ein und du bringst einen Kirschkuchen mit.
 
-* Everybody tries the pie (_use_)
-* The pie is a hit! They ask you for the recipe, which you provide (_view_)
-* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
-* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
+* Jeder probiert den Kuchen (_use_)
+* Der Kuchen ist ein Hit! Sie fragen dich nach dem Rezept, das du ihnen dann gibst (_view_)
+* Ein Freund, der ein Konditor ist, schlägt vor, den Zucker zu reduzieren (_modify_)
+* Eine andere Freundin bittet dich darum, das Rezept für ein Abendessen nächste Woche verwenden zu dürfen. (_distribute_)
 
-By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
+Im Vergleich dazu würde man bei einem Closed-Source-Prozess in ein Restaurant gehen und ein Stück Kirschkuchen bestellen. Du müsstest eine Gebühr zahlen, um den Kuchen zu essen und das Restaurant wird dir wahrscheinlich nicht das Rezept geben. Wenn du ihren Kuchen exakt kopierst und unter deinem eigenen Namen verkaufst, könnte das Restaurant gegen dich vorgehen.
 
-### Why do people open source their work?
+### Warum machen Menschen ihre Arbeit Open-Source?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+  Eine der lohnendsten Erfahrungen, die ich bei der Verwendung und Zusammenarbeit mit Open-Source machen kann, sind die Beziehungen, die ich mit anderen Entwicklern aufbaue, die mit den gleichen Problemen konfrontiert sind wie ich.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
+— @kentcdodds, ["Wie ich zu Open-Source kam, war für mich großartig"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
   </p>
 </aside>
 
-[There are many reasons](http://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+[Es gibt viele Gründe](http://ben.balter.com/2015/11/23/why-open-source/) warum eine Person oder Organisation ein Open-Source-Projekt starten möchte. Einige Beispiele sind:
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **Zusammenarbeit:** Open-Source-Projekte können Änderungen von jedem auf der Welt akzeptieren. [Exercism] (https://github.com/exercism/) ist zum Beispiel eine Übungsplattform mit über 350 Teilnehmern.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Übernehmen und neu Mixen:** Open Source Projekte können von jedermann für fast jeden Zweck genutzt werden. Die Leute können es sogar benutzen, um andere Dinge zu bauen. [WordPress](https://github.com/WordPress) wurde zum Beispiel als ein Teil eines bestehenden Projekts namens [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) gestartet.
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparenz:** Jeder kann ein Open-Source-Projekt auf Fehler oder Inkonsistenzen untersuchen. Transparenz ist für Regierungen wie [Bulgarien](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) wichtig oder die [Vereinigten Staaten](https://sourcecode.cio.gov/), regulierte Branchen wie Banken oder das Gesundheitswesen und Sicherheitssoftware wie [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+Open-Source ist nicht nur für Software. Sie können alles, von Datensätzen bis Bücher, öffnen. Schauen Sie sich [GitHub Explore](https://github.com/explore) an, um zu erfahren, was Sie sonst noch alles tun können.
 
-### Does open source mean "free of charge"?
+### Bedeutet Open-Source "kostenlos"?
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+Einer der größten Vorteile von Open-Source ist, dass es kein Geld kostet. "Kostenlos" ist jedoch ein Nebenprodukt des Gesamtwertes von Open-Source.
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+Da [eine Open-Source-Lizenz erfordert](https://opensource.org/osd-annotated), dass jeder Ihr Projekt für fast jeden Zweck nutzen, ändern und teilen kann, sind Projekte in der Regel kostenlos. Wenn das Projekt Geld kostet, kann jeder legal eine Kopie machen und stattdessen die kostenlose Version verwenden.
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+Infolgedessen sind die meisten Open-Source-Projekte kostenlos, aber "kostenlos" ist nicht Teil der Open-Source-Definition. Es gibt Möglichkeiten, Open-Source-Projekte indirekt durch doppelte Lizenzierung oder eingeschränkte Funktionen in Rechnung zu stellen, während die offizielle Definition von Open Source eingehalten wird.
 
-## Should I launch my own open source project?
+## Sollte ich mein eigenes Open-Source-Projekt starten?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+Die kurze Antwort ist ja, denn egal wie das Ergebnis aussieht, ein eigenes Projekt zu starten ist eine großartige Möglichkeit zu lernen, wie Open-Source funktioniert.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+Wenn du noch nie zuvor ein Open-Source-Projekt gestartet hat, bist du vielleicht nervös was die Leute sagen werden, oder ob es überhaupt jemand bemerkt. Wenn das nach dir klingt, bist du nicht allein!
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+Open-Source Arbeit ist wie jede andere kreative Aktivität, egal ob geschrieben oder gemalt. Es kann beängstigend sein deine Arbeit mit der Welt zu teilen, aber der einzige Weg um besser zu werden, ist zu üben - selbst wenn du kein Publikum hast.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+Wenn du noch nicht überzeugt bist, überlegen Sie sich, was Ihre Ziele sein könnten.
 
-### Setting your goals
+### Festlegen deiner Ziele
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+Ziele können dir dabei helfen herauszufinden, woran du arbeitest, was du ablehnen solltest und wo du Hilfe von anderen benötigst. Beginne mit der Frage, _warum starte ich dieses Open-Source-Projekt?_
+Es gibt keine richtige Antwort auf diese Frage. Du kannst mehrere Ziele für ein einzelnes Projekt oder verschiedene Projekte mit unterschiedlichen Zielen haben.
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
-
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+Wenn es dein einziges Ziel ist, deine Arbeit zu zeigen, möchtest du vielleicht nicht einmal Beiträge haben und sagst es sogar in deiner README. Auf der anderen Seite, wenn du Mitwirkende haben möchtest, wirst du Zeit in eine klare Dokumentation investieren und Neuankömmlingen das Gefühl geben müssen, willkommen zu sein.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+ Irgendwann erstellte ich eine benutzerdefinierte UIAlertView, die ich verwendete ... und ich entschied mich dafür, es Open-Source zu machen. Also habe ich es etwas dynamischer gestaltet und in GitHub hochgeladen. Ich habe auch meine erste Dokumentation geschrieben, die anderen Entwicklern erklärt, wie man sie in ihren Projekten verwendet. Wahrscheinlich hat es niemand benutzt, weil es ein einfaches Projekt war, aber ich fühlte mich gut mit meinem Beitrag.
   <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+— @mavris, ["Autodidaktische Softwareentwickler: Warum Open-Source für uns wichtig ist"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+Wenn dein Projekt wächst, benötigt deine Gemeinschaft möglicherweise mehr als nur Code von dir. Die Beantwortung von Problemen, die Überprüfung von Code und Ihr Projekt zu einer Mission machen, sind wichtige Aufgaben in einem Open-Source-Projekt.
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+Während die Zeit, die du für nicht-programmierende Aufgaben aufwendest, von der Größe und dem Umfang Ihres Projekts abhängt, solltest du als Betreuer darauf vorbereitet sein diese selbst anzugehen, oder jemanden zu finden der dir hilft.
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**Wenn du Teil eines Unternehmens bist, das ein Projekt erschließt,** stelle sicher, dass dein Projekt über die internen Ressourcen verfügt, die es braucht um erfolgreich zu sein. Du solltest ermitteln, wer nach dem Start für die Verwaltung des Projekts verantwortlich ist und wie du diese Aufgaben mit deiner Gemeinschaft teilst.
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+Wenn du ein spezielles Budget oder Personal für Promotion, Betrieb und Wartung des Projekts benötigst, solltest du diese Gespräche frühzeitig beginnen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1857993?v=3&s=460" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+  Wenn du beginnst, das Open-Source-Projekt zu starten, musst du sicherstellen, dass deine Verwaltungsprozesse die Beiträge und Fähigkeiten der Gemeinschaft rund um dein Projekt berücksichtigen. Scheue dich nicht, Mitwirkende, die in deinem Unternehmen nicht angestellt sind, in Schlüsselaspekte des Projekts mit einzubeziehen - insbesondere, wenn sie häufig Beiträge leisten.
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["Du willst also ein Open-Source-Projekt starten, oder?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
   </p>
 </aside>
 
-### Contributing to other projects
+### Beitrag zu anderen Projekten
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+Wenn du lernen möchtest, wie du mit anderen zusammenarbeitest oder wie Open-Source funktioniert, solltest du einen Beitrag zu einem bestehenden Projekt leisten. Beginne mit einem Projekt das du bereits nutzt und liebst. Zu einem Projekt beizutragen kann so einfach sein, wie das Korrigieren von Tippfehlern oder das Aktualisieren der Dokumentation.
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+Wenn du dir nicht sicher bist, wie du als Mitwirkender anfangen kannst, schau dir [Wie man zur Open-Source-Anleitung beiträgt](../how-to-contribute/) an.
 
-## Launching your own open source project
+## Dein eigenes Open-Source-Projekt starten
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+Es gibt keine perfekte Zeit, um deine Arbeit Open-Source zu machen. Du kannst eine Idee, eine in Bearbeitung befindliche Arbeit oder ein jahrelang geschlossenes Projekt Open-Source machen.
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+Im Allgemeinen solltest du dein Projekt Open-Source machen, wenn du dich damit zufrieden gibst, dass andere deine Arbeit sehen und Feedback geben.
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+Unabhängig davon, in welcher Phase du dich entscheidest, dein Projekt Open-Source zu machen, sollte jedes Projekt folgende Dokumentation enthalten:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [Open-Source Lizenz](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+* [Beitragsrichtlinien](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Verhaltenskodex](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+Als Projektleiter helfen Ihnen diese Komponenten, Erwartungen zu kommunizieren, Beiträge zu verwalten und die gesetzlichen Rechte (einschließlich deiner eigenen) zu schützen. Sie erhöhen deutlich deine Chancen auf eine positive Erfahrung.
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+Wenn sich dein Projekt auf GitHub befindet, hilft es GitHub dabei die Dateien zu erkennen und automatisch an deine Leser weiterzuleiten, wenn du diese Dateien in deinem Stammverzeichnis mit den empfohlenen Dateinamen ablegst.
 
-### Choosing a license
+### Lizenz auswählen
 
 An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
 
@@ -142,7 +141,7 @@ When you create a new project on GitHub, you are given the option to select a li
 
 If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
 
-### Writing a README
+### Eine README schreiben
 
 READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
 
@@ -169,7 +168,7 @@ For more inspiration, try using @18F's ["Making READMEs Readable"](https://pages
 
 When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
 
-### Writing your contributing guidelines
+### Schreibe deine Beitragsrichtlinien
 
 A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
 
@@ -199,7 +198,7 @@ Link to your CONTRIBUTING file from your README, so more people see it. If you [
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
-### Establishing a code of conduct
+### Festlegung eines Verhaltenskodex
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/11214?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -219,11 +218,11 @@ Much like open source licenses, there are also emerging standards for codes of c
 
 Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
 
-## Naming and branding your project
+## Benenne dein Projekt und bilde eine Marke
 
 Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
 
-### Choosing the right name
+### Auswahl des richtigen Namens
 
 Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
 
@@ -234,7 +233,7 @@ If you're building upon an existing project, using their name as a prefix can he
 
 Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
 
-### Avoiding name conflicts
+### Namenskonflikte vermeiden
 
 [Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
 
@@ -246,7 +245,7 @@ You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) 
 
 Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
 
-### How you write (and code) affects your brand, too!
+### Wie du schreibst (und Programmierst) wirkt sich auf die Marke aus!
 
 Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
 
@@ -266,7 +265,7 @@ Beyond how you write words, your coding style may also become part of your proje
 
 It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
 
-## Your pre-launch checklist
+## Deine Checkliste vor dem Start
 
 Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
 
@@ -364,6 +363,6 @@ If you're a company or organization:
   </label>
 </div>
 
-## You did it!
+## Du hast es geschafft!
 
 Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
