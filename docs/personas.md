@@ -1,111 +1,111 @@
-# Personas
+# Rollen
 
-## 1. Individual developer (first-timer)
+## 1. Einzelner Entwickler (Ersttäter)
 
-### Characteristics
+### Merkmale
 
-* Moderately experienced developer
+* Moderat erfahrener Entwickler.
 
-* Feels some sense of ownership over the project ("I want to share this with the world")
+* Fühlt ein Gefühl des Besitzes über das Projekt ("Ich möchte das mit der Welt teilen").
 
-* Sees self as ultimate decisionmaker
+* Sieht sich als ultimativer Entscheidungsträger.
 
-* Still building community reputation
+* Immer weiter den Ruf der Community aufbauen.
 
-* Has never open sourced a project before
+* Hat nie zuvor ein Open Source Projekt gestartet
 
-### Primary Goals
+### Primäre Ziele
 
-* Wants people to notice their project
+* Will die Leute auf ihr Projekt aufmerksam machen.
 
-* Wants people to actually use the project and give feedback
+* Möchte, dass die Leute das Projekt tatsächlich nutzen und Feedback geben.
 
-### Frustrations/Pain Points
+### Frustrationen/Schmerzpunkte
 
-* Doesn't know how to find an audience
+* Weiß nicht, wie man eine Zielgruppe erreicht.
 
-## 2. Individual developer (multiple projects)
+## 2. Einzelner Entwickler (mehrere Projekte)
 
-### Characteristics
+### Merkmale
 
-* Experienced developer
+* Erfahrener Entwickler.
 
-* Feels some sense of ownership over the project ("I want to share this with the world")
+* Fühlt ein Gefühl des Besitzes über das Projekt ("Ich möchte das mit der Welt teilen").
 
-* Sees self as ultimate decisionmaker
+* Sieht sich als ultimativer Entscheidungsträger.
 
-* Has a decent community reputation
+* Hat einen guten Ruf in der Community.
 
-* Has open sourced a project before. May manage multiple projects
+* Hat bereits ein Open-Source Projekt geöffnet. Kann mehrere Projekte verwalten.
 
-* Likely manages projects on their own time (volunteer work)
+* Verwaltet wahrscheinlich Projekte in seiner Freizeit (Freiwilligenarbeit)
 
-### Primary Goals
+### Primäre Ziele
 
-* Manage personal time so project demands don't become overwhelming
+* Persönliche Zeit organisieren, damit die Projektanforderungen nicht überfordernd werden.
 
-* Find other contributors or maintainers to help with the project
+* Finden von weiteren Mitwirkenden oder Betreuern, um das Projekt zu unterstützen.
 
-### Frustrations/Pain Points
+### Frustrationen/Schmerzpunkte
 
-* Feeling burned out, exhausted from open source work
+* Ausgebrannt fühlen, erschöpft von Open-Source-Arbeit.
 
-## 3. Community developer
+## 3. Gemeinschafts-Entwickler
 
-### Characteristics
+### Merkmale
 
-* Experienced developer
+* Erfahrener Entwickler.
 
-* Wants to share ownership of the project ("I want to build this with others")
+* Möchte das Eigentum an dem Projekt teilen ("Ich möchte das mit anderen zusammenbauen").
 
-* Sees community, not self, as ultimate decisionmaker
+* Sieht die Gemeinschaft, nicht das Selbst, als ultimativen Entscheidungsträger.
 
-* Has a decent audience/reputation
+* Hat eine anständige Zielgruppe / Ruf
 
-* Has open sourced personal projects before
+* Hat bereits persönliche Open-Source Projekte Veröffentlicht.
 
-* Likely manages projects on their own time (volunteer work)
+* Verwaltet wahrscheinlich Projekte in seiner Freizeit (Freiwilligenarbeit)
 
-### Primary Goals
+### Primäre Ziele
 
-* Get people to participate, contribute back to the project
+* Menschen zum Mitmachen bewegen, um zum Projekt beizutragen.
 
-* Make sure everybody involved with the project is happy and has a good experience
+* Sicherstellen, dass jeder der mit dem Projekt zu tun hat, glücklich ist und gute Erfahrungen macht.
 
-### Frustrations/Pain Points
+### Frustrationen/Schmerzpunkte
 
-* Managing a community is exhausting, especially when it's volunteer work
+* Eine Gemeinschaft zu verwalten ist anstrengend, besonders wenn es ehrenamtliche Arbeit ist.
 
-## 4. Corporate entity
+## 4. Körperschaft
 
-### Characteristics
+### Merkmale
 
-* Team of employees working at the same company. Primarily engineering, but likely multiple stakeholders across functions
+* Team von Mitarbeitern, die bei derselben Firma arbeiten. In erster Linie Ingenieurwesen, aber wahrscheinlich mehrere Projektbeteiligte Funktionsübergreifend.
 
-* Likely feels some sense of ownership over the project ("We are open sourcing this project to the community")
+* Wahrscheinlich spürt man ein Gefühl der Verantwortung für das Projekt ("Wir gestalten dieses Projekt Open-Source für die Gemeinschaft").
 
-* Company plays a clear role in decisionmaking
+* Das Unternehmen spielt eine klare Rolle bei der Entscheidungsfindung.
 
-* May not have open sourced a project before
+* Möglicherweise wurde vorher noch kein Projekt Open-Source gestaltet.
 
-* Projects are managed by paid employees
+* Projekte werden von bezahlten Mitarbeitern verwaltet.
 
-* Cares about fostering a healthy community, but does not necessarily want to share ownership in a formal capacity
+* Kümmert sich darum, um eine gesunde Gemeinschaft zu fördern, wollen aber nicht unbedingt das Eigentum in einer formalen Kapazität teilen.
 
-### Primary Goals
+### Primäre Ziele
 
-* Improve brand and reputation
+* Verbesserung der Marke und des Rufs.
 
-    * Attract new technical talent for recruiting (make sure people hear about it)
+    * Neue technische Talente für die Rekrutierung gewinnen (sicherstellen, dass die Leute davon erfahren).
 
-* Grow a platform (get people to use it)
+* Eine Plattform aufbauen (Leute dazu bringen, sie zu benutzen).
 
-### Frustrations/Pain Points
+### Frustrationen/Schmerzpunkte
 
-* Balancing community + corporate needs
+* Gemeinschafts- & Unternehmensbedürfnisse in Einklang bringen.
 
-    * (For community: being a good corporate citizen, respecting cultural norms)
+    * (Für die Gemeinschaft: ein guter Unternehmer sein und kulturelle Gegebenheiten respektieren).
 
-    * (For corporate: adhering to company policies)
+    * (Für das Unternehmen: Einhaltung von Unternehmensrichtlinien).
 
-* Making sure people know about the project
+* Sicherstellen, dass die Leute über das Projekt Bescheid wissen.

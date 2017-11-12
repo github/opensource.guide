@@ -1,12 +1,15 @@
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
+title: "Open-Source Leitfaden"
+description: "Lerne wie du dein Projekt startest und wachsen lässt"
 
 # See: docs/translations.md
-locale: en-US
+locale: de-DE
 translations:
   en-US:
     name: English (US)
     url: https://opensource.guide
+  de-DE:
+    name: Deutsch (German)
+    url: https://jens1o.github.io/de-opensource.guide
 
 exclude:
   - bin
@@ -57,10 +60,10 @@ sass:
 branch: gh-pages
 
 github:
-  repository_nwo: github/opensource.guide
+  repository_nwo: jens1o/de-opensource.guide
 
 twitter:
-  username: github
+  username: jens1o
 
 facebook:
   publisher: https://www.facebook.com/GitHub/

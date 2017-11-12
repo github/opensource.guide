@@ -1,0 +1,29 @@
+nav:
+  about: Über
+  contribute: Beitragen
+
+index:
+  lead: Open-Source-Software ist von Menschen gemacht, wie dir. Lerne wie du dein Projekt startest und wachsen lässt.
+  opensourcefriday: Es ist Freitag! Investiere ein paar Stunden in die Software, die du verwendest und liebst
+
+article:
+  table_of_contents: Inhaltsverzeichnis
+
+footer:
+  contribute:
+    heading: Beitragen
+    description: Möchtest du einen Vorschlag machen? Dieser Inhalt ist Open-Source. Hilf uns, es zu verbessern.
+    button: Beitragen
+  subscribe:
+    heading: Auf dem aktuellsten Stand sein (Englischer Newsletter)
+    label: E-Mail Addresse
+    button: Anmelden
+  byline:
+    # [code], [love], and [github] will be replaced by octicons
+    format: "[code] mit [love] von [github] und [Freunden]"
+    # Label for code octicon
+    code_label: code
+    # Label for love octicon
+    love_label: love
+    # Label for the contributors link
+    friends_label: Freunden

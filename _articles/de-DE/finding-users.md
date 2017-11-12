@@ -1,11 +1,11 @@
 ---
-locale: en-US
-title: Finding Users for Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+locale: de-DE
+title: Finde Nutzer für dein Projekt
+description: Hilf deinem Open-Source Projekt zu wachen um es in die Hände von glücklichen Nutzern zu geben.
 class: finding
 toc:
-  spreading-the-word: "Spreading the word"
-  figure-out-your-message: "Figure out your message"
+  spreading-the-word: "Verbreite die Nachricht"
+  figure-out-your-message: "Finde deine Botschaft heraus"
   help-people-find-and-follow-your-project: "Help people find and follow your project"
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
   go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
@@ -17,23 +17,23 @@ related:
   - building
 ---
 
-## Spreading the word
+## Verbreite die Nachricht
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. If you are hoping others will find and use your open source project, however, it's time to tell everybody about your hard work!
+Es gibt keine Regel die sagt dass du dein Projekt sofort nach dem Start werben musst. Es gibt viele gute Gründe in Open-Source zu arbeiten, die nichts mit Popularität zu tun haben. Wenn du hoffst dass andere das Open-Source Projekt finden und nutzen werden, muss, jedoch, die Zeit kommen, dass du jedem etwas über deine harte Arbeit erzählst.
 
-## Figure out your message
+## Finde deine Botschaft heraus
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+Bevor du überhaupt mit der Werbeaktion startest, sollte es dir möglich sein, zu erklären, was es tut und warum es wichtig ist.
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will make it easier to convince others.
+Was macht dein Projekt unterschiedlich oder interessant? Wieso hast du es erstellt? Dir selber die Fragen zu beantworte wird es einfacher, andere zu überzeugen.
 
-Remember that people get involved as users, and eventually contributors, because it solves a problem for them. As you think about your project's message and value, try to view it through the lens of what _they_ might want.
+Merke dir dass Leute als neue Nutzer involviert werden und eventuell Beitragende, weil es für sie ein Problem löst. Sobald du über die Botschaft und den Wert deines Projekts nachdenkst, versuche es aus der Perspektive zu sehen, was _sie_ vielleicht wollen.
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+Zum Beispiel benutzt @robb Code-Beispiele um klar zu zeigen, wieso sein Projekt, [Cartography](https://github.com/robb/Cartogrpahy), nützlich ist:
 
-![Cartography README](/assets/images/finding-users/cartography.jpg)
+![Cartography README](assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+Wenn du tiefer in die Materie einsteigen möchtest, schau dir doch mal Mozilla ["Personas and Pathways" (Englisch)](http://mozillascience.github.io/working-open-workshop/personas_pathways/) an.
 
 ## Help people find and follow your project
 
@@ -113,7 +113,7 @@ If you've never spoken at an event before, it's perfectly normal to feel nervous
 As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
 <aside markdown="1" class="pquote">
-  <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
+  <img src="assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)

@@ -1,41 +1,42 @@
-# Content Model
-Open Source Guides help individuals, communities, and companies embrace open source software. It explains not only how to accomplish a task, but why you'd want to, and how that task fits into the larger story of consuming, contributing to, and producing open source software.
+# Inhaltsmodell
 
-This content was originally created and curated by GitHub, and covers topics that are very relevant to GitHub users, but it is not specific to GitHub products.
+Open-Source-Leitfäden helfen Einzelpersonen, Gemeinschaften und Unternehmen bei der Nutzung von Open-Source-Software. Es beschreibt nicht nur, wie man eine Aufgabe erledigt, sondern auch, warum man es möchte und wie diese Aufgabe ins große Ganze des Konsumierens und der Produktion von Open-Source-Software, sowie des Beitragens zu Open-Source-Software passt.
 
-For content that is specific to GitHub products, see:
+Dieser Inhalt wurde ursprünglich von GitHub erstellt und kuratiert und behandelt Themen, die für GitHub-Nutzer sehr relevant sind, aber nicht nur spezifisch für GitHub-Produkte gelten.
 
-- help.github.com - gets existing users unstuck and back to work.
-- guides.github.com -  tutorials about a larger idea or product feature for new users.
+Für Inhalte, die spezifisch für GitHub-Produkte sind, siehe:
 
-Everything written in the guides should fall into one of the following categories.
+- help.github.com - Hilfe für bestehende Benutzer bei Problemen, um schnell weiter Arbeiten zu können.
+- guides.github.com -  Tutorials für umfangreiche Ideen oder Produktfunktionen für neue Benutzer.
 
-## Concept Guides
+Alles, was in den Handbüchern steht, sollte in eine der folgenden Kategorien fallen.
 
-Concept guides dive deep into a specific topic (for example, "Building a community" or "Measuring success"). They may contain visuals and anecdotes to illustrate their point. While meant to be read from beginning to end, they have a table of contents to help the reader quickly skim the content and find a relevant subsection.
+## Konzeptleitfäden
+
+Konzeptleitfäden tauchen tief in ein bestimmtes Thema ein (z.B. "Community aufbauen" oder "Erfolg messen"). Sie können Bilder und Anekdoten enthalten, um ihren Standpunkt zu veranschaulichen. Obwohl sie von Anfang bis Ende gelesen werden sollten, verfügen sie über ein Inhaltsverzeichnis, das dem Leser hilft den Inhalt schnell zu überfliegen und einen relevanten Unterabschnitt zu finden.
 
 ## FAQ
 
-An FAQ tackles a complex topic where a reader is likely coming in with specific questions (for example, "The legal side of open source" or "Leadership & governance"). Whereas concept guides aim to teach the entire concept, an FAQ respects a reader's desire to jump around, get the information they need, and leave. The table of contents is especially important in an FAQ, because the page isn't meant to be read from beginning to end. FAQs might also be longer than a concept guide, because of the jump-around navigation.
+Ein FAQ befasst sich mit einem komplexen Thema, bei dem ein Leser wahrscheinlich spezifische Fragen hat (zum Beispiel "Die rechtliche Seite von Open-Source" oder "Führung"). Während Konzeptleitfäden darauf abzielen, das gesamte Konzept zu vermitteln, respektiert eine FAQ den Wunsch eines Lesers, herumzuspringen, um die benötigten Informationen zu erhalten. Das Inhaltsverzeichnis ist in einer FAQ besonders wichtig, da die Seite nicht von Anfang bis Ende gelesen werden soll. Häufig gestellte Fragen können auch länger sein als ein Konzeptleitfaden, wegen des hin- und herspringens in der Navigation.
 
-## Design Elements
+## Gestaltungselemente
 
-If you're writing a concept guide, here are some smaller design elements that enrich the content experience. We use them to draw the reader's attention and break up walls of text; therefore, they should all get some sort of visual treatment.
+Wenn Sie einen Konzeptleitfaden schreiben, finden Sie hier einige kleinere Gestaltungselemente, die das Inhalts-Erlebnis verbessern. Wir benutzen sie, um die Aufmerksamkeit des Lesers zu erregen und lange Textabschnitte aufzubrechen; Deshalb sollten sie alle einer visuelle Bearbeitung unterzogen werden.
 
-## Pull quote
+## Herausgehobene Zitate
 
-We use quotes in the guide to illustrate a point through an anecdote. Pull quotes should highlight real people and their experiences.
+Wir verwenden Zitate in der Anleitung, um einen Punkt durch eine Anekdote zu veranschaulichen. Herausgehobene Zitate sollten echte Menschen und ihre Erfahrungen hervorheben.
 
-## Image
+## Bilder
 
-Images help visually illustrate a point. Some images are instructive, such as a graph. Other images are visual, such as a webpage screenshot. We should have lots of these.
+Bilder helfen, einen Punkt visuell darzustellen. Einige Bilder sind instruktiv, z. B. ein Diagramm. Andere Bilder sind visuell, wie zum Beispiel ein Screenshot einer Webseite. Wir sollten viele davon haben.
 
-## Data vignette
+## Datenvignette
 
-Whereas pull quotes and images help ground ideas in something specific and concrete, data vignettes help connect ideas to bigger systems.
+Während Anführungszeichen und Bilder helfen, Ideen in etwas Speziellem und Konkretem zu bündeln, helfen Datenvignetten dabei, Ideen mit größeren Systemen zu verbinden.
 
-Data vignettes are limited so as not to overwhelm, but contain just enough information to help readers understand why they should pay attention to a certain idea.
+Datenvignetten sind begrenzt, um nicht zu überfordern, aber sie enthalten gerade genug Informationen, um den Lesern verständlich zu machen, warum sie auf eine bestimmte Idee achten sollten.
 
-## Historical vignette
+## Historische Vignette
 
-Historical vignettes are fun anecdotes that keep a reader's attention. They make community members the heroes of the story, and help pass down cultural knowledge.
+Historische Vignetten sind lustige Anekdoten, um die Aufmerksamkeit eines Lesers zu gewinnen. Sie machen Gemeindemitglieder zu Helden der Geschichte und helfen, kulturelles Wissen weiterzugeben.

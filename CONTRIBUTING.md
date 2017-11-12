@@ -2,72 +2,72 @@
 layout: default
 ---
 
-# Contributing to Open Source Guides
+# Zu Open-Source-Leitfäden beitragen
 
-Thanks for checking out the Open Source Guides! We're excited to hear and learn from you. Your experiences will benefit others who read and use these guides.
+Danke, dass du dir die Open-Source-Leitfäden anschaust! Wir freuen uns, von dir zu hören und zu lernen. Deine Erfahrungen kommen anderen zugute, die diese Leitfäden lesen und verwenden.
 
-We've put together the following guidelines to help you figure out where you can best be helpful.
+Wir haben die folgenden Richtlinien zusammengestellt, damit du herausfinden kannst, wo du am besten helfen kannst.
 
-## Table of Contents
+## Inhaltsverzeichnis
 
-0. [Types of contributions we're looking for](#types-of-contributions-were-looking-for)
-0. [Ground rules & expectations](#ground-rules--expectations)
-0. [How to contribute](#how-to-contribute)
-0. [Style guide](#style-guide)
-0. [Setting up your environment](#setting-up-your-environment)
-0. [Contribution review process](#contribution-review-process)
-0. [Community](#community)
+0. [Die Art von Beiträgen, die wir suchen](#die-art-von-beitraegen-die-wir-suchen)
+0. [Grunderegeln und Erwartungen](#grundregeln--erwartungen)
+0. [Wie man beiträgt](#wie-man-beitraegt)
+0. [Gestaltungsrichtlinie](#gestaltungsrichtlinie)
+0. [Einrichten deiner Umgebung](#einrichten-deiner-umgebung)
+0. [Beitragsprüfung](#beitragsprüfung)
+0. [Gemeinschaft](#gemeinschaft)
 
-## Types of contributions we're looking for
-First and foremost, this project is a forum to discuss open source best practices, then document them in a guide when we've found consensus. Your first contribution might be starting a new conversation, or adding to an existing conversation, around best practices. You can do so under [Issues](https://github.com/github/opensource.guide/issues).
+## Die Art von Beiträgen, die wir suchen
+In erster Linie ist dieses Projekt ein Forum, um optimale Vorgehensweisen für Open-Source-Projekte zu diskutieren und es dann in einem Leitfaden zu dokumentieren, wenn wir einen Konsens gefunden haben. Dein erster Beitrag könnte eine neue Konversation sein oder eine vorhandene Konversation zu optimalen Vorgehensweisen ergänzen. Du kannst dies unter [Issues](https://github.com/github/opensource.guide/issues) tun.
+Es gibt auch viele Möglichkeiten, wie du direkt zu den Leitfäden beitragen kannst (in absteigender Reihenfolge der Bedürfnisse):
 
-There are also many ways you can directly contribute to the guides (in descending order of need):
+* Behebung von redaktionellen Inkonsistenzen und Ungenauigkeiten.
+* Füge Geschichten, Beispiele und Anekdoten hinzu, die einen Punkt veranschaulichen.
+* Überarbeitung der Formulierungen, um zugänglicher und freundlicher zu sein.
+* [Leitfäden in andere Sprachen übersetzen](docs/translations.md)
+* Einen neuen Leitfaden vorschlagen ([So geht's](./docs/new-guides.md))
 
-* Fix editorial inconsistencies or inaccuracies
-* Add stories, examples, or anecdotes that help illustrate a point
-* Revise language to be more approachable and friendly
-* [Translate guides into other languages](docs/translations.md)
-* Propose a new guide ([here's how](./docs/new-guides.md))
+Möchtest du einen Beitrag leisten? Lies bitte weiter!
 
-Interested in making a contribution? Read on!
+## Grundregeln und Erwartungen
 
-## Ground rules & expectations
+Bevor wir anfangen, sind hier ein paar Dinge, die wir von dir erwarten (und die du von anderen erwarten sollten):
 
-Before we get started, here are a few things we expect from you (and that you should expect from others):
+* Sei nett und nachdenklich in deinen Gesprächen rund um dieses Projekt. Wir alle kommen aus unterschiedlichen Hintergründen und Projekten, was bedeutet, dass wir wahrscheinlich unterschiedliche Perspektiven haben, wie "Open-Source" gemacht wird. Versuche anderen zuzuhören, anstatt sie davon zu überzeugen, dass dein Weg korrekt ist.
+* Open-Source-Leitfäden werden mit einem [Verhaltenskodex für Mitwirkende](./CODE_OF_CONDUCT.md) veröffentlicht. Durch die Teilnahme an diesem Projekt stimmst du zu, die Bedingungen einzuhalten.
+* Wenn du eine Pull-Anfrage öffnest, stelle bitte bitte sicher, dass dein Beitrag alle Tests besteht. Wenn Testfehler auftreten, musst du diese beheben, bevor wir deinen Beitrag zusammenführen können.
+* Wenn du Inhalte hinzufügst, überlege bitte, ob sie von großem Wert sind. Bitte füge keine Verweise oder Links zu Dingen hinzu, die du oder dein Arbeitgeber erstellt haben. Andere werden dies tun, wenn sie die Inhalte zu schätzen wissen.
 
-* Be kind and thoughtful in your conversations around this project. We all come from different backgrounds and projects, which means we likely have different perspectives on "how open source is done." Try to listen to others rather than convince them that your way is correct.
-* Open Source Guides are released with a [Contributor Code of Conduct](./CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
-* If you open a pull request, please ensure that your contribution passes all tests. If there are test failures, you will need to address them before we can merge your contribution.
-* When adding content, please consider if it is widely valuable. Please don't add references or links to things you or your employer have created as others will do so if they appreciate it.
+## Wie man beiträgt
 
-## How to contribute
+Wenn du etwas beitragen möchtest, suche zunächst in den [Issues](https://github.com/github/opensource.guide/issues) und [Pull Requests](https://github.com/github/opensource.guide/pulls) um zu sehen, ob jemand anderes eine ähnliche Idee oder Frage gestellt hat.
 
-If you'd like to contribute, start by searching through the [issues](https://github.com/github/opensource.guide/issues) and [pull requests](https://github.com/github/opensource.guide/pulls) to see whether someone else has raised a similar idea or question.
+Wenn deine Idee nicht aufgeführt ist und du glaubst, dass sie in die Ziele dieses Leitfadens passt, führe einen der folgenden Schritte aus:
+* **Wenn dein Beitrag geringfügig ist,** wie z. B. ein Tippfehler, öffne eine Pull-Anfrage.
+* **Wenn dein Beitrag umfangreich ist,** wie ein neuer Leitfaden oder eine [Übersetzung](docs/translations.md), beginne mit dem Öffnen eines Problems. Auf diese Weise können andere Leute darüber Diskutieren, bevor du dir die Arbeit machst.
 
-If you don't see your idea listed, and you think it fits into the goals of this guide, do one of the following:
-* **If your contribution is minor,** such as a typo fix, open a pull request.
-* **If your contribution is major,** such as a new guide or a [translation](docs/translations.md), start by opening an issue first. That way, other people can weigh in on the discussion before you do any work.
+## Gestaltungsrichtlinie
 
-## Style guide
-If you're writing content, see the [style guide](./docs/styleguide.md) to help your prose match the rest of the Guides.
+Wenn du Inhalte schreibst, lies dir die [Gestaltungsrichtlinie](./docs/styleguide.md) durch, um deine Prosa mit den restlichen Leitfäden abzustimmen.
 
-## Setting up your environment
+## Einrichten deiner Umgebung
 
-This site is powered by [Jekyll](https://jekyllrb.com/). Running it on your local machine requires a working [Ruby](https://www.ruby-lang.org/en/) installation with [Bundler](http://bundler.io/).
+Diese Seite wird mit [Jekyll](https://jekyllrb.com/) betrieben. Für die Ausführung auf deinem lokalen Computer ist eine funktionierende [Ruby](https://www.ruby-lang.org/en/) Installation mit [Bundler](http://bundler.io/) erforderlich.
 
-Once you have that set up, run:
+Sobald du das eingerichtet hast, führe Folgendes aus:
 
     script/bootstrap
     script/server
 
-…and open http://localhost:4000 in your web browser.
+…und öffne http://localhost:4000 in deinem Webbrowser.
 
-## Contribution review process
+## Beitragsprüfung
 
-This repo is currently maintained by @nayafia and @bkeepers, who have commit access. They will likely review your contribution. If you haven't heard from anyone in 10 days, feel free to bump the thread or @-mention a maintainer to review your contribution.
+Dieses Repo wird derzeit von @jens1o und @maikksmt verwaltet, die einen Commit-Zugriff haben. Sie werden wahrscheinlich deinen Beitrag überprüfen. Wenn du in 10 Tagen noch nichts von jemandem gehört hast, kannst du dem Thread oder mit einer @ -erwähnung einen Projektleiter hinzufügen, um deinen Beitrag überprüfen zu lassen.
 
-## Community
+## Gemeinschaft
 
-Discussions about the Open Source Guides take place on this repository's [Issues](https://github.com/github/opensource.guide/issues) and [Pull Requests](https://github.com/github/opensource.guide/pulls) sections. Anybody is welcome to join these conversations. There is also a [mailing list](http://eepurl.com/cecpnT) for regular updates.
+Diskussionen über die Open-Source-Leitfäden finden in den [Issues](https://github.com/github/opensource.guide/issues) dieses Repositories  und [Pull Requests](https://github.com/github/opensource.guide/pulls) statt. Jeder ist willkommen, an diesen Gesprächen teilzunehmen. Es gibt auch eine [Mailingliste](http://eepurl.com/cecpnT) für regelmäßige Updates.
 
-Wherever possible, do not take these conversations to private channels, including contacting the maintainers directly. Keeping communication public means everybody can benefit and learn from the conversation.
+Wenn möglich, führe diese Gespräche nicht auf privaten Kanälen, einschließlich der direkten Kontaktaufnahme mit den Betreuern. Wenn du die Kommunikation öffentlich machst, können alle davon profitieren und von der Konversation lernen.
