@@ -12,6 +12,9 @@ toc:
   Construire-une-réputation: "Construire une réputation"
 order: 3
 image: /assets/images/cards/finding.png
+related:
+  - beginners
+  - building
 ---
 
 ## Passer le mot
