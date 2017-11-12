@@ -14,7 +14,7 @@ related:
   - coc
 ---
 
-## Définir votre projet pour le succès
+## Mise en place de votre projet pour le succès
 
 Vous avez lancé votre projet, vous passez le mot, et les gens l'examine. Impressionnant! Maintenant, comment les faites-vous rester?
 
@@ -106,7 +106,7 @@ La communication publique peut être aussi simple que de diriger les gens à ouv
 
 Les exceptions notables à la communication publique sont: 1) les problèmes de sécurité et 2) les violations de code de conduite sensibles. Vous devriez toujours avoir un moyen pour les gens de signaler ces problèmes en privé. Si vous ne souhaitez pas utiliser votre adresse e-mail personnelle, configurez une adresse e-mail dédiée.
 
-## Faire grandir votre communauté
+## Développer votre communauté
 
 Les communautés sont extrêmement puissantes. Ce pouvoir peut être une bénédiction ou une malédiction, selon la façon dont vous l'utilisez. Au fur et à mesure que la communauté de votre projet grandit, il existe des moyens de l'aider à devenir une force de construction, pas de destruction.
 
@@ -184,7 +184,7 @@ Même s'il se peut que vous ne trouviez pas toujours quelqu'un pour répondre à
   </p>
 </aside>
 
-## Résoudre les conflits
+## Résolution de conflits
 
 Au début de votre projet, prendre des décisions importantes est facile. Quand vous voulez faire quelque chose, vous le faites simplement.
 
