@@ -9,6 +9,9 @@ toc:
   résolution-de-conflits: "résolution de conflits"
 order: 4
 image: /assets/images/cards/building.png
+related:
+  - best-practices
+  - coc
 ---
 
 ## Définir votre projet pour le succès
