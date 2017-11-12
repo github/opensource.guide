@@ -5,7 +5,7 @@ description: Aidez votre projet open source à se développer en le mettant entr
 class: finding
 toc:
   passer-le-mot: "Passer le mot"
-  determinez-votre-message: "Déterminez votre message"
+  déterminez-votre-message: "Déterminez votre message"
   aidez-les-gens-à-trouver-et-a-suivre-votre-projet: "Aidez les gens à trouver et à suivre votre projet"
   allez-la-ou-se-trouve-le-public-de-votre-projet-en-ligne: "Allez là où se trouve le public de votre projet (en ligne)"
   allez-la-ou-se-trouve-laudience-de-votre-projet-hors-ligne: "Allez là où se trouve l'audience de votre projet (hors ligne)"
