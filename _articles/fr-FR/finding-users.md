@@ -8,7 +8,7 @@ toc:
   Déterminez-votre-message: "Déterminez votre message"
   Aidez-les-gens-à-trouver-et-à-suivre-votre-projet: "Aidez les gens à trouver et à suivre votre projet"
   Allez-là-où-se-trouve-le-public-de-votre-projet-en-ligne: "Allez là où se trouve le public de votre projet (en ligne)"
-  Allez-là-où-se-trouve-l'audience-de-votre-projet-hors-ligne: "Allez là où se trouve l'audience de votre projet (hors ligne)"
+  Allez-là-où-se-trouve-laudience-de-votre-projet-hors-ligne: "Allez là où se trouve l'audience de votre projet (hors ligne)"
   Construire-une-réputation: "Construire une réputation"
 order: 3
 image: /assets/images/cards/finding.png
