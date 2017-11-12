@@ -83,7 +83,9 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 많은 기업들이 브랜드를 구축하고 우수한 인재를 영입하기 위해 오픈소스 프로그램을 개발하고 있습니다.
 
-@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](http://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
+@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source]
+
+예를 들어 @hueniverse는, [Walmart의 오픈소스에 대한 투자](http://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html)를 정당화 할 재정적인 이유가 있음을 발견했습니다. 그리고 @jamesgpearce는 Facebook의 오픈 소스 프로그램이 채용에서 [차이를 만들었다](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon)는 사실을 발견했습니다:
 
 > 이는 해커 문화와 밀접하게 연계되어 있으며, 조직이 어떻게 인식되었는지를 보여줍니다. 우리는 직원들에게 "페이스북에서 쓰이는 오픈소스 소프트웨어 프로그램에 대해 알고 있었습니까?"라고 물었습니다. 3분의2가 "그렇다"고 답했습니다. 절반정도는 이 프로그램이 우리를 위해 일하기로 한 결정에 긍정적으로 기여했다고 전했습니다. 이것들은 한계적인 숫자가 아니며 희망을 말합니다.
 
@@ -99,16 +101,15 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 현 고용주가 오픈소스 업무의 우선 순위를 결정할 수 없다면, 직원의 오픈소스 기여도를 높이는 새로운 고용주를 찾는 것이 좋습니다. 오픈소스 작업에 대한 헌신을 분명히 하는 회사를 찾아보십시오. 예시입니다 :
 
-* Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](http://paypal.github.io/), have websites that highlight their involvement in open source
-* [Rackspace](https://www.rackspace.com/en-us) published its [open source contribution policy](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) for employees
+* 일부 회사는, [넷플릭스](https://netflix.github.io/)혹은 [페이팔](http://paypal.github.io/)처럼, 오픈소스에 대한 그들의 참여를 강조하는 웹 사이트를 가지고있습니다
+* [Rackspace](https://www.rackspace.com/en-us)는 직원을 위한 [오픈소스 기여 정책](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/)를 게시했습니다 
 
-Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
+[Go](https://github.com/golang)또는 [React](https://github.com/facebook/react)와 같은 대기업에서 시작된 프로젝트도, 오픈소스 작업에 사람들을 고용 할 가능성이 높습니다.
 
 마지막으로, 개인적인 상황에 따라, 오픈소스 작업을 위해 독립적으로 돈을 모으는 노력을 할 수 있습니다. 예시:
 
-* @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](http://redux.js.org/)
-* @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
-
+* @gaearon은 [Patreon crowdfunding campaign](http://redux.js.org/)을 통해 [Redux](https://github.com/reactjs/redux)에 대한 그의 작업에 펀드했습니다.
+* @andrewgodwin은 Django 스키마 마이그레이션 작업을 [Kickstarter 캠페인을 통해](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) 펀드했습니다.
 ## 프로젝트 펀딩 찾기
 
 개인 기여자를 위한 준비 외에도, 때로는 프로젝트가 회사, 개인 또는 다른 사람들로부터 지속적인 자금 마련을 위해 펀드를 모으는 경우가 있습니다.
@@ -119,12 +120,12 @@ Projects that originated at a large company, such as [Go](https://github.com/gol
 
 ### 크라우드 펀딩(crowdfunding) 캠페인이나 스폰서십을 통해 당신의 업무에 돈을 모으기
 
-Finding sponsorships works well if you have a strong audience or reputation already, or your project is very popular.
-A few examples of sponsored projects include:
+스폰서십을 찾는 것은 이미 강력한 잠재 고객이나 평판이 있거나, 프로젝트의 인기가 있는 경우에 효과적입니다.
+스폰서 프로젝트의 몇 가지 예는 다음과 같습니다.
 
-* **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[webpack](https://github.com/webpack)** 는 [OpenCollective를 통해](https://opencollective.com/webpack) 회사와 개인에게 돈을 모읍니다
+* **[Vue](https://github.com/vuejs/vue)** 는 [Patreon를 통해 펀드됩니다](https://github.com/open-source/stories/yyx990803)
+* **[Ruby Together](https://rubytogether.org/)는,** [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems) 및 기타 Ruby 인프라 프로젝트에 대한 비용을 지불하는 비영리 단체입니다.
 
 ### 수입원 만들기
 
