@@ -12,6 +12,9 @@ toc:
   C'est bon de prende une pause: "C'est bon de prende une pause"
 order: 5
 image: /assets/images/cards/best-practices.png
+related:
+  - metrics
+  - leadership
 
 ---
 
