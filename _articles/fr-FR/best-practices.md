@@ -4,12 +4,12 @@ title: Meilleures pratiques pour les mainteneurs
 description: Simplifiez-vous la vie en tant que mainteneur open source, de la documentation des processus à l'exploitation de votre communauté.
 class: best-practices
 toc:
-  Que-signifie-être-un-mainteneur: "Que signifie être un mainteneur?"
-  Documenter-vos-processus: "Documenter vos processus"
-  Apprendre-à-dire-non: "Apprendre à dire non"
-  Tirer-parti-de-votre-communauté: "Tirer parti de votre communauté"
-  Apportez-les-robots: "Apportez les robots"
-  C'est bon de prende une pause: "C'est bon de prende une pause"
+  que-signifie-être-un-mainteneur: "Que signifie être un mainteneur?"
+  documenter-vos-processus: "Documenter vos processus"
+  apprendre-à-dire-non: "Apprendre à dire non"
+  tirer-parti-de-votre-communauté: "Tirer parti de votre communauté"
+  apportez-les-robots: "Apportez les robots"
+  cest-bon-de-prende-une-pause: "C'est bon de prende une pause"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
