@@ -4,9 +4,9 @@ title: Construire des communautés accueillantes
 description: Construire une communauté qui encourage les gens à utiliser, contribuer et évangéliser votre projet.
 class: building
 toc:
-  mise en place de votre projet pour le succès: "mise en place de votre projet pour le succès"
-  développer votre communauté: "développer votre communauté"
-  résolution de conflits: "résolution de conflits"
+  mise-en-place-de-votre-projet-pour-le-succès: "mise en place de votre projet pour le succès"
+  développer-votre-communauté: "développer votre communauté"
+  résolution-de-conflits: "résolution de conflits"
 order: 4
 image: /assets/images/cards/building.png
 ---
