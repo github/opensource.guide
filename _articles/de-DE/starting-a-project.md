@@ -246,55 +246,55 @@ Zum Schluss führe eine schnelle Google-Suche nach deinem Projektnamen durch. We
 
 ### Wie du schreibst (und Programmierst) wirkt sich auf die Marke aus!
 
-Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
+Während des gesamten Lebenszyklus deines Projekts wirst du vieles schreiben: READMEs, Tutorials, Gemeinschafts-Dokumente, Antworten auf Probleme, vielleicht sogar Newsletter und Mailinglisten.
 
-Whether it's official documentation or a casual email, your writing style is part of your project's brand. Consider how you might come across to your audience and whether that is the tone you wish to convey.
+Egal ob es sich um eine offizielle Dokumentation oder eine zwanglose E-Mail handelt, dein Schreibstil ist Teil der Marke deines Projekts. Überlege gut, wie du deiner Zielgruppe begegnest und ob dies der Umgangston ist, den du vermitteln möchtest.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/11321?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+  Ich habe versucht, mich in jeden Thread auf der Mailingliste einzubringen und vorbildliches Verhalten zu zeigen, nett zu Menschen zu sein, ihre Probleme ernst zu nehmen und insgesamt hilfreich zu sein. Nach einer Weile hielten sich die Leute daran, nicht nur Fragen zu stellen, sondern auch bei der Beantwortung zu helfen, und zu meiner vollen Freude ahmten sie meinen Stil nach.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Nachhaltiges Open-Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
+Wenn Sie eine freundliche, willkommene Formulierung verwenden (wie "sie", auch wenn du sich auf eine einzelne Person beziehst), kann dies dazu beitragen, dass sich neue Mitwirkende bei deinem Projekt wohlfühlen. Halte dich an einfache Formulierungen, da viele deiner Leser nicht Muttersprachler sind.
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://github.com/johnpapa/angular-styleguide) and [jQuery](http://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+Über die Art und Weise, wie du Texte schreibst, kann auch dein Programmierstil Teil der Marke deines Projekts werden. [Angular](https://github.com/johnpapa/angular-styleguide) und [jQuery](http://contribute.jquery.org/style-guide/js/) sind zwei Beispiele für Projekte mit strengen Programmierstilen und -richtlinien.
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+Es ist nicht notwendig, eine Gestaltungsrichtlinnie für dein Projekt zu schreiben, wenndu gerade erst anfängst, und du wirst vielleicht feststellen, dass es dir Spaß macht, verschiedene Programmierstile in dein Projekt zu integrieren. Aber du solltest vorhersehen, wie dein Schreib- und Progammierstil verschiedene Arten von Menschen anziehen oder entmutigen könnte. Die frühesten Phasen deines Projekts sind deine Chance, den Präzedenzfall zu setzen, den du sehen möchtest.
 
 ## Deine Checkliste vor dem Start
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+Bist du bereit, dein Projekt Open-Source zu machen? Hier ist eine Checkliste die dir hilft. Hast du alle Punkte erledigt? Du bist bereit loszulegen! [Klicke auf "Veröffentlichen"](https://help.github.com/articles/making-a-private-repository-public/) und klopfe dir auf die Schulter.
 
-**Documentation**
+**Dokumentation**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    Projekt hat eine LICENSE-Datei mit einer Open-Source-Lizenz.
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    Projekt hat eine Basisdokumentation (README, CONTRIBUTING, CODE_OF_CONDUCT).
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    Der Name ist leicht zu merken, gibt eine Vorstellung davon, was das Projekt macht und steht nicht im Widerspruch zu einem bestehenden Projekt oder verletzt Marken.
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    Die Issue-Warteschlange ist auf dem neuesten Stand, die Probleme sind klar strukturiert und gekennzeichnet.
   </label>
 </div>
 
@@ -303,65 +303,65 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    Das Projekt verwendet konsistente Code-Konventionen und hat eindeutige Namen für Funktionen, Methoden und Variablen
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    Der Programmcode ist eindeutig kommentiert, Absichten und Randfälle sind dokumentiert.
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+    Es gibt keine vertraulichen Inhalte in der Überarbeitungshistorie, den Issues oder Pull-Anfragen (z. B. Kennwörter oder andere nicht öffentliche Informationen).
   </label>
 </div>
 
-**People**
+**Personen**
 
-If you're an individual:
+Wenn du eine Einzelperson bist:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  Du hast mit der Rechtsabteilung gesprochen und/oder die IP- und Open-Source-Richtlinien deines Unternehmens verstanden (wenn du ein Angestellter bist)
   </label>
 </div>
 
-If you're a company or organization:
+Wenn du ein Unternehmen oder eine Organisation bist:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+   Du hast mit deiner Rechtsabteilung gesprochen.
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    Du hast einen Marketingplan für die Ankündigung und Förderung des Projekts.
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    Jemand engagiert sich für die Verwaltung von Gemeinschafts-Interaktionen (Reagieren auf Probleme, Überprüfen und Zusammenführen von Pull-Anfragen).
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    Mindestens zwei Personen haben administrativen Zugriff auf das Projekt.
   </label>
 </div>
 
 ## Du hast es geschafft!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+Herzlichen Glückwunsch zum Open-Sourcing deines ersten Projekts. Unabhängig vom Ergebnis ist die Arbeit in der Öffentlichkeit ein Geschenk an die Gemeinschaft. Mit jeder Commit-, Kommentar- und Pull-Anfrage schaffst du Gelegenheiten für dich selbst und andere, um zu lernen und zu wachsen.
