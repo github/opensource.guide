@@ -152,98 +152,97 @@ Versuche in Ihrer README die folgenden Fragen zu beantworten:
 * Wie fange ich an?
 * Wo kann ich mehr Hilfe bekommen, wenn ich sie brauche?
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+Du kannst deine README verwenden, um weitere Fragen zu beantworten, z. B. wie du mit Beiträgen umgehst, was die Ziele des Projekts sind und Informationen zu Lizenzen und Zuordnungen. Wenn du keine Beiträge annehmen möchtest oder dein Projekt noch nicht für den produktiven Einsatz bereit ist, schreibe diese Informationen nieder.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/168572?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+  Eine bessere Dokumentation bedeutet mehr Nutzer, weniger Supportanfragen und mehr Mitwirkende. (...) Denke daran, dass deine Leser nicht wie du sind. Es gibt Leute, die vielleicht zu einem Projekt kommen, die ganz andere Erfahrungen haben.
   <p markdown="1" class="pquote-credit">
 — @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
-Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+Manchmal vermeiden es Leute eine README zu schreiben, weil sie das Gefühl haben, dass das Projekt unvollendet ist, oder sie wollen keine Beiträge. Das sind alles gute Gründe, eine README zu schreiben.
 
-For more inspiration, try using @18F's ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+Für weitere Anregungen kannst du @18F's ["READMEs lesbar machen"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) oder @PurpleBooth's [README-Vorlage](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) verwenden um eine komplette README zu schreiben.
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+Wenn du eine README-Datei in das Stammverzeichnis ablegst, zeigt GitHub diese automatisch auf der Repository-Homepage an.
 
 ### Schreibe deine Beitragsrichtlinien
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+Eine CONTRIBUTING-Datei teilt deinem Publikum mit, wie Sie an deinem Projekt teilnehmen können. Beispielsweise könntest du Informationen zu folgenden Themen hinzufügen:
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+* Wie man einen Fehlerbericht einreicht (Versuch es mit [Issue- und Pull-Request-Vorlagen](https://github.com/blog/2111-issue-and-pull-request-templates))
+* Wie man ein neues Feature vorschlägt
+* Einrichten der Umgebung und Ausführen von Tests
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+Zusätzlich zu technischen Details bietet eine CONTRIBUTING-Datei die Möglichkeit, deine Erwartungen an Beiträge zu kommunizieren, z.B.:
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
+* Welche Arten von Beiträgen du suchst
+* Deinen Fahrplan oder deine Vision für das Projekt
+* Wie Mitwirkende mit Ihnen in Kontakt treten sollten (oder nicht sollten)
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+Ein warmer, freundlicher Tonfall und das Angebot spezifischer Vorschläge für Beiträge (wie das Schreiben von Dokumentation oder das Erstellen einer Website) können dazu beitragen, dass Neulinge sich willkommen und begeistert fühlen.
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with:
+Beispiel: [Active Admin](https://github.com/activeadmin/activeadmin/) startet [den dazugehörigen Leitfaden](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) mit:
 
-> First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+> Zunächst einmal vielen Dank, dass Sie erwägt haben, zum Active Admin beizutragen. Es sind Leute wie Sie, die Active Admin zu einem großartigen Tool machen.
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+In den ersten Phasen deines Projekts kann Ihre CONTRIBUTING-Datei einfach sein. Du solltest immer erklären, wie Fehler oder Probleme mit Dateien gemeldet werden können und welche technischen Anforderungen (z.B. Tests) erforderlich sind, um einen Beitrag zu leisten.
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+Mit der Zeit kannst du deiner CONTRIBUTING-Datei andere häufig gestellte Fragen hinzufügen. Wenn du diese Informationen notierst, werden immer weniger Menschen dieselben Fragen immer wieder stellen.
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/).
+Weitere Hilfe beim Schreiben deiner CONTRIBUTING-Datei findest du in @nayafia's [Leitfaden-Vorlage](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) oder @mozilla's ["Wie erstellt man eine CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/).
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+Verlinke deine CONTRIBUTING-Datei aus deiner README, damit mehr Leute sie sehen. Wenn du [die CONTRIBUTING-Datei in das Repository deines Projekts einfügst](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), wird GitHub automatisch mit deiner Datei verknüpft, wenn ein Mitwirkender ein Issue erstellt oder eine Pull-Anfrage öffnet.
 
-![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![Beitragsrichtlinien](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
 ### Festlegung eines Verhaltenskodex
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/11214?v=3&s=460" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+  Wir hatten alle Erfahrungen, bei denen wir dem Missbrauch begegneten, entweder als Betreuer, der versuchte zu erklären, warum etwas auf eine bestimmte Art und Weise sein musste, oder als Benutzer, der eine einfache Frage stellte. (...) Ein Verhaltenskodex wird zu einem leicht zu referenzierenden und verknüpfbaren Dokument, das darauf hinweist, dass Ihr Team einen konstruktiven Diskurs sehr ernst nimmt.
   <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
+— @mlynch, ["Open-Source zu einem glücklicheren Ort machen"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+Schließlich hilft ein Verhaltenskodex, Verhaltensregeln für die Teilnehmer Ihres Projekts festzulegen. Dies ist besonders nützlich, wenn du ein Open-Source-Projekt für eine Gemeinschaft oder ein Unternehmen startest. Ein Verhaltenskodex ermächtigt dich, ein gesundes, konstruktives Gemeinschaftsverhalten zu fördern, welches deinen Stress als Projektleiter reduziert.
+Weitere Informationen findest du in unserem [Verhaltenskodex](../code-of-conduct/).
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+Zusätzlich zur Kommunikation darüber, _wie_ du erwartest, dass sich die Teilnehmer verhalten, beschreibt ein Verhaltenskodex auch, auf wen sich diese Erwartungen beziehen, wann sie gelten und was zu tun ist, wenn eine Verletzung dessen auftritt.
 
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+Ähnlich wie bei Open-Source-Lizenzen gibt es auch neue Standards für Verhaltenskodizes, sodass du keine eigenen schreiben musst. Der [Mitwirkenden-Bund](http://contributor-covenant.org/) ist ein Drop-In-Verhaltenskodex, der von [über 40.000 Open-Source-Projekten](http://contributor-covenant.org/adopters/) verwendet wird, einschließlich Kubernetes, Rails, and Swift. Unabhängig davon, welchen Text du verwendest, solltest du bereit sein, deinen Verhaltenskodex bei Bedarf durchzusetzen.
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](http://contributor-covenant.org/adopters/), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
-
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
+Füge den Text direkt in eine CODE_OF_CONDUCT-Datei in deinem Repository ein. Bewahre die Datei im Stammverzeichnis deines Projekts auf, damit du sie leicht finden und von deiner README darauf verlinken kannst.
 
 ## Benenne dein Projekt und bilde eine Marke
 
-Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
+Markenbildung ist mehr als ein auffälliges Logo oder ein eingängiger Projektname. Es geht darum, wie du über dein Projekt sprichst und wen du mit deiner Botschaft erreichst.
 
 ### Auswahl des richtigen Namens
 
-Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
+Wähle einen Namen aus, der leicht zu merken ist und im Idealfall eine Vorstellung davon vermittelt, was das Projekt bewirkt. Beispielsweise:
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Sentry](https://github.com/getsentry/sentry) überwacht Apps für das Crash-Reporting
+* [Thin](https://github.com/macournoyer/thin) ist ein schneller und einfacher Ruby Webserver
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+Wenn du auf ein bestehendes Projekt aufbaust, kann die Verwendung Ihres Namens als Präfix helfen zu verdeutlichen, was dein Projekt tut (zum Beispiel, [node-fetch](https://github.com/bitinn/node-fetch) bringt `window.fetch` zu Node.js).
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+Betrachte vor allem Klarheit. Wortspiele machen Spaß, aber denke daran, dass einige Witze nicht zu anderen Kulturen oder Menschen mit unterschiedlichen Erfahrungen von dir übersetzt werden können. Einige deiner potenziellen Benutzer könnten Mitarbeiter eines Unternehmens sein: Du möchtest sie nicht in Verlegenheit bringen, indem du ihnen dein Projekt bei der Arbeit erklären musst!
 
 ### Namenskonflikte vermeiden
 
-[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+[Suche nach Open-Source-Projekten mit ähnlichem Namen](http://ivantomic.com/projects/ospnc/), insbesondere wenn du dieselbe Sprache oder dasselbe Ökosystem verwendest. Wenn sich dein Name mit einem bekannten vorhandenen Projekt überschneidet, könntest du deine Zielgruppe verwirren.
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
+Wenn du eine Website, einen Twitter-Konto  oder andere Eigenschaften zur Darstellung deines Projekts wünschst, stelle sicher, dass du die gewünschten Namen erhalten kannst. Im Idealfall [reserviere diese Namen jetzt](https://instantdomainsearch.com/), damit du beruhigt sein kannst, selbst wenn du sie noch nicht verwenden willst.
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
+Vergewissere dich, dass der Name deines Projekts keine Marken verletzt. Ein Unternehmen könnte dich bitten, dein Projekt später abzubrechen oder sogar rechtliche Schritte gegen dich einleiten. Es ist einfach nicht das Risiko wert.
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+Du kannst die [WIPO Globale Markendatenbank](http://www.wipo.int/branddb/en/) auf Markenrechtskonflikte prüfen. Wenn du in einem Unternehmen bist, ist dies eines der Dinge, mit denen dein [juristisches Team dir helfen kann](../legal/).
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+Zum Schluss führe eine schnelle Google-Suche nach deinem Projektnamen durch. Werden die Leute dein Projekt leicht finden können? Erscheint etwas anderes in den Suchergebnissen, das Sie nicht sehen sollen?
 
 ### Wie du schreibst (und Programmierst) wirkt sich auf die Marke aus!
 
