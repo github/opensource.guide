@@ -4,11 +4,11 @@ title: Démarrer un projet Open Source
 description: Apprenez plus sur le monde de l'open source et préparez-vous à lancer votre propre projet.
 class: beginners
 toc:
-  le-quoi-et-le-pourquoi-de-l-open-source: "Le quoi et le pourquoi de l'open source"
+  le-quoi-et-le-pourquoi-de-lopen-source: "Le quoi et le pourquoi de l'open source"
   dois-je-lancer-mon-propre-projet-open-source: "Dois-je lancer mon propre projet open source?"
   lancer-votre-propre-projet-open-source: "Lancer votre propre projet open source"
   nommer-et-branding-de-votre-projet: "Nommer et Branding de votre projet"
-  votre-liste-de-contr-le-de-pr--lancement: "Votre liste de contrôle de pré-lancement"
+  votre-liste-de-contrôle-de-pré-lancement: "Votre liste de contrôle de pré-lancement"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -18,50 +18,50 @@ related:
 
 ## Le "quoi" et le "pourquoi" de l'open source
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+Donc, vous songez à commencer avec l'open source? Toutes nos félicitations! Le monde apprécie votre contribution. Parlons de ce qu'est l'open source et pourquoi les gens le font.
 
-### What does "open source" mean?
+### Que signifie "open source"?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+Quand un projet est open source, cela signifie que **tout le monde peut le voir, l'utiliser, le modifier et distribuez votre projet pour n'importe quel but.** Ces autorisations sont appliquées via [une licence open source](https://opensource.org/licenses).
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+L'open source est puissant parce qu'il baisse les barrières à l'adoption, permettant aux idées de se propager rapidement.
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
+Pour comprendre comment cela fonctionne, Imaginez que votre ami a un repas-partage et vous apportez une tarte aux cerises.
 
-* Everybody tries the pie (_use_)
-* The pie is a hit! They ask you for the recipe, which you provide (_view_)
-* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
-* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
+* Tout le monde essaie la tarte (_utiliser_)
+* La tarte est un succès! Ils vous demandent la recette, que vous transmettez (_regarder_)
+* Un ami, Alex, qui est un chef pâtissier, suggère de réduire le sucre (_modifier_)
+* Un autre amie, Lisa, demande de l'utiliser pour un dîner la semaine prochaine (_distribuer_)
 
-By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
+Par comparaison, un processus de source fermer (close source) irait à un restaurant et pour commander une tranche de tarte aux cerises. Vous devez payer des frais pour manger la tarte et le restaurant ne vous donnera pas probablement leur recette. Si vous avez copié leur tarte exactement et l'avez vendu sous votre propre nom, le restaurant pourrait prendre des mesures contre vous.
 
-### Why do people open source their work?
+### Pourquoi les gens ouvrent-ils leur travail?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+  Une des expériences les plus enrichissantes que je retire de l'utilisation et de la collaboration sur l'open source vient des relations que j'ai construit avec d'autres développeurs comme moi confrontés aux même et nombreux problèmes.
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
   </p>
 </aside>
 
-[There are many reasons](http://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+[Il existe de nombreuses raisons](http://ben.balter.com/2015/11/23/why-open-source/) pourquoi une personne ou une organisation voudrait ouvrir un projet. Certains exemples incluent:
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **Collaboration:** Les projets open source peuvent accepter des changements de n'importe qui dans le monde. [Exercism](https://github.com/exercism/), par exemple, est une plateforme d'exercices de programmation avec plus de 350 contributeurs.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adoption et personnalisation:** Les projets open source peuvent être utilisés par n'importe qui pour presque n'importe quel but. Les gens peuvent même l'utiliser pour construire d'autres choses. [WordPress](https://github.com/WordPress), par exemple, commencé un [fork](https://fr.wikipedia.org/wiki/Fork_%28d%C3%A9veloppement_logiciel%29) d'un projet a existant et l'appelé [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **transparence:** N'importe qui peut inspecter un projet open source pour des erreurs ou des incohérences. La transparence est importante pour les gouvernements comme la [Bulgarie](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) ou les [États Unis](https://sourcecode.cio.gov/), réglementation des industries comme la banque ou la santé et des logiciels de sécurité comme [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+L'open source n'est pas seulement pour les logiciels. Vous pouvez tout ouvrir, des ensembles de données aux livres. Consultez [GitHub Explore](https://github.com/explore) pour des idées sur quoi d'autre vous pouvez ouvrir le code.
 
-### Does open source mean "free of charge"?
+### Est-ce que l'open source signifie "gratuit"?
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+L'un des plus grands avantages de l'open source est qu'il ne coûte pas de l'argent. "gratuit", toutefois, c'est une sous-évaluation de la valeur globale de l'open source.
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+Parce qu'[une licence open source exige](https://opensource.org/osd-annotated) que n'importe qui puisse utiliser, modifier et partager votre projet pour presque n'importe quel but, les projets eux-mêmes ont tendance à être gratuits. Si le projet coût de l'argent pour l'utiliser, n'importe qui pourrait légalement faire une copie et utiliser la version gratuite à la place.
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+Par conséquent, la plupart des projets open source sont gratuits, mais "gratuit" ne fait pas partie de la définition de l'open source. Il existe des moyens de facturer les projets open source indirectement grâce à une double licence ou limitées les fonctionnalités, tout en respectant la définition officielle de l'open source.
 
 ## Dois-je lancer mon propre projet open source?
 
