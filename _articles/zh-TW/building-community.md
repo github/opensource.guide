@@ -103,40 +103,43 @@ image: /assets/images/cards/building.png
 
 > Kops 每隔一週都會提供晤談時間，為社群提供幫助和指導。 Kops 維護者約定好留出一些時間專門與新手一起工作，處理 PR，以及討論新的功能。
 
-此外請謹記，有一些事情反而是不適合公開討論的：1）有關資安方面的 issues  2）嚴重違規準則的行為。你應該為大家提供一個私下討論這些 issue 的方式。若不想用自己的個人信箱，那麼就設一個專用的郵箱。
+此外請謹記，有一些事情反而是不適合公開討論的：
+一、 有關資安方面的 issues  
+二、 嚴重違規準則的行為。
+你應該為大家提供一個私下討論這些 issue 的方式。若不想用自己的個人信箱，那麼就設一個專用的郵箱。
 
 ## **社群生長**
 
-社群擁有強大的能量。這種能量可能是正面的也可能是負面的，這一切都取決於你如何駕馭它。隨着專案社群的成長，要想辦法讓之成為建設性的力量，而不是具有破壞性的。
+社群擁有強大的能量。這種能量可能是正面的也可能是負面的，一切都取決於你如何駕馭它。隨着社群的成長，要想辦法讓之成為建設性的力量，而非具有破壞性的。
 
-### 不要容忍糟糕的角色
+### 不要容忍來著不善的人
 
-一些流行的專案將不可避免地會吸引到一些破壞它們的人。這些人可能會從一些沒必要的爭論開始，對一些細枝末節進行糾纏不清，甚或用語言傷及他人。
+熱門的專案都不可避免地會吸引到想破壞社群的人。他們可能會從一些不必要的爭論開始，對一些細枝末節糾纏不清，或用語言傷害他人。
 
-對於這類人，必須採取零容忍的政策。一旦猶豫不決，那麼這些消極的人會給社群的其他人帶來不愉快的感覺。那時就會出現劣幣驅逐良幣的現象。
+對於這些人，必須採取零容忍的政策。一旦猶豫不決，那麼這些負面的人會給社群的其他人帶來不愉快的感覺。甚至出現劣幣驅逐良幣的現象。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/633012?v=3&s=460" class="pquote-avatar" alt="avatar">   
 
-  事實上是，擁有一個支持性社群纔是專案成功的關鍵。如果沒有來自我的同事，互聯網上一些友好的陌生人，以及聊天渠道IRC的幫助，我不可能做好這些工作。（。。。）不要退而求其次。不要滿足於混蛋。
+  專案成功的關鍵在於擁有一個能互相支持的社群。如果沒有我的同事、網路上友善的陌生人以及聊天頻道 IRC 的幫助，我不可能做好這些工作。（。。。）不要退而求其次。不要容忍來搗亂的人。
 
   <p markdown="1" class="pquote-credit">
 — @karissa, ["如何運營一個 FOSS 專案"](https://karissa.github.io/post/okf-de)
   </p>
 </aside>
 
-對專案的微不足道的問題進行定期辯論會分散別人的注意力，包括你自己，要將精力幾種在重要的任務上，新人如果看見這樣的情景，他們可能不會加入到專案中來。
+對專案的顯而易見的問題進行定期辯論，會分散別人的注意力，包括你自己，新人如果看見這樣的情景，他們可能不會加入到專案中來。記得要將精力放在重要的任務上。
 
-當發現社群中有消極的行為時，要即時、公然的指出來。特別說明的是，要用堅定的語氣解釋他們的行為為什麼是不可接受的。如果這種問題繼續發生，你有必要[要求他們離開](https://github.com/cnbo/open-source-guide/blob/gh-pages/_articles/code-of-conduct.md#enforcing-your-code-of-conduct)。你的[行為準則](https://github.com/cnbo/open-source-guide/blob/gh-pages/_articles/code-of-conduct.md)是為這些情景準備的建設性指南。
+當發現社群中有負面的行為時，要即時、公開的指出來。要用堅定的語氣解釋他們的行為為什麼是不可接受的。如果問題持續發生，你有必要[請他們離開](https://github.com/cnbo/open-source-guide/blob/gh-pages/_articles/code-of-conduct.md#enforcing-your-code-of-conduct)。你的[行為準則](https://github.com/cnbo/open-source-guide/blob/gh-pages/_articles/code-of-conduct.md)是為這些情境準備的建設性指南。
 
 
 ### 知道貢獻者在哪裡
 
-隨着專案的成長，好的文檔會變得愈加重要。臨時貢獻者或路人是不可能一下子就對專案非常熟悉，一份好的文檔，能夠很快找到他們需要的。
+隨着專案的成長，好的說明文件會變得愈加重要。不固定貢獻者或路人不可能一下子就對專案非常熟悉，一份好的文建，能讓他們很快地找到他們需要的資訊。
 
 在 CONTRIBUTING 文件裡，需要明確告訴新來的貢獻者該如何開始。而且若是可能為了想要達到這個目的，還需要準備一個專門的部分。
 
-![django new contributors page](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/building-community/django_new_contributors.png)
+![django new contributors page](https://opensource.guide/assets/images/building-community/django_new_contributors.png)
 
 在issue列表中，缺陷的標籤需要做到適合不同類型的貢獻者：例如，[_"僅供入門者"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"優質Bug首秀"_, 或者 _"文檔"_. [這些標籤](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能夠幫助新人快速瀏覽issues以及開始。
 
