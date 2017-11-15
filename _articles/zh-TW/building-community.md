@@ -141,13 +141,13 @@ image: /assets/images/cards/building.png
 
 ![django new contributors page](https://opensource.guide/assets/images/building-community/django_new_contributors.png)
 
-在 issue 列表中，試著對每個 bug 標上適合不同類型貢獻者的標籤：例如，[_"僅供入門者"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"適合新手的好 Bug"_, 或者 _"說明文件"_. [這些標籤](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能夠幫助新人快速瀏覽 issues 著手開始。
+試著對每個 issue 標上標籤，為不同類型的貢獻者做指引：例如，[_"僅供入門者"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"適合新手的好 Bug"_, 或者 _"說明文件"_. [這些標籤](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能夠幫助新人快速瀏覽 issues 著手開始。
 
 最後，撰寫易讀的說明文件讓人們在每一步的過程中都很順暢。
 
 你不可能與專案中大多數的人互動，因為有些人怕犯錯，或不知道該從何處開始，結果就可能會錯失獲得貢獻的機會。但有時候也只是幾個字，就能避免一些人沮喪地離開你們的專案。
 
-例如[Rubinius](https://github.com/rubinius/rubinius/)在[它的貢獻指南]開頭寫的(https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)：
+例如 [Rubinius](https://github.com/rubinius/rubinius/) 在[它的貢獻指南]開頭寫的(https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)：
 
 > 我們感謝你們使用Rubinius。這個專案是一個充滿愛的工作，我們感激所有參與的人，不論是為我們抓 bug 、提升性能或完善說明文件。每一個貢獻都是有意義的，感謝你們的參與。話雖如此，但我們還是要求參與者遵守一些指南，如此一來我們也才能夠處理你們的 issue 。
 
