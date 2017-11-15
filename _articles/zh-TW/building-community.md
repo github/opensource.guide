@@ -147,11 +147,11 @@ image: /assets/images/cards/building.png
 
 你不可能與專案中大多數的人互動，因為有些人怕犯錯，或不知道該從何處開始，結果就可能會錯失獲得貢獻的機會。但有時候也只是幾個字，就能避免一些人沮喪地離開你們的專案。
 
-例如 [Rubinius](https://github.com/rubinius/rubinius/) 在[它的貢獻指南]開頭寫的(https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)：
+例如 [Rubinius](https://github.com/rubinius/rubinius/) 在[它的貢獻指南](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)開頭寫的：
 
 > 我們感謝你們使用Rubinius。這個專案是一個充滿愛的工作，我們感激所有參與的人，不論是為我們抓 bug 、提升性能或完善說明文件。每一個貢獻都是有意義的，感謝你們的參與。話雖如此，但我們還是要求參與者遵守一些指南，如此一來我們也才能夠處理你們的 issue 。
 
-### 分享專案的所有權
+### **分享專案的所有權**
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/270108?v=3&s=400" class="pquote-avatar" alt="avatar">  
@@ -169,17 +169,17 @@ image: /assets/images/cards/building.png
 
 ![cookiecutter issue](https://opensource.guide/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **在專案中添加一個貢獻者或者作者文件** 用於記錄每一個參與貢獻的人。
+* **在專案中添加一個貢獻者列表或者作者列表** 記錄每一個參與貢獻的人。
 
-* 如果社群有了一定的規模，那麼 **發送一封信或者發表一篇博客** 感謝貢獻者們。Rust的[Rust週報](https://this-week-in-rust.org/)和Hoodie的[Shoutouts](http://hood.ie/blog/shoutouts-week-24.html)就是兩個非常好的範例。
+* 如果社群有了一定的規模，就 **發送一封信或者發表一篇文章** 感謝貢獻者們。 [Rust 週報](https://this-week-in-rust.org/)和 Hoodie 的 [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) 就是兩個非常好的範例。
 
-* **給每個貢獻者提交的通道。**@felixge發現這樣會使大家[越發樂意斟酌他們的補丁](http://felixge.de/2013/03/11/the-pull-request-hack.html)，以及他甚至發現，在他沒有工作的一段時間，專案依然有新的維護者進來。
+* **給每個貢獻者提交的權限。** @felixge 發現這樣會使大家[越來越樂意發表他們的補丁](http://felixge.de/2013/03/11/the-pull-request-hack.html)，甚至找到人手來協助維護他已很久沒處裡的專案。
 
-* 如果專案是託管在GitHub上，那麼 **將專案從你們的個人賬號轉移到一個組織**，以及添加至少一個備份管理員。組織能讓與其他人一起工作在同一個專案在變得更加容易。
+* 如果專案是放在 GitHub 上，那麼 **將專案從你們的個人賬號轉移到一個[組織](https://help.github.com/articles/collaborating-with-groups-in-organizations/)**，加入至少一個備份管理員。組織能讓專案與來自外界的貢獻，彼此協作的工作變得更加容易。
 
-事實上很多專案只有一個或者兩個做大量工作的維護者。隨著專案以及社群越來越大，就會有更多的人參與進來。
+事實上很多專案[只有一個或者兩個維護者](https://peerj.com/preprints/1233.pdf)去做大部分的工作。隨著社群變得越來越大，就會有更多的人參與進來。
 
-雖然並不是一直都有人在回答問題，但是你可以去增加一些信號，以讓他人有能夠接觸的機會，越是儘早開始，越是能夠獲得幫助。
+雖然並不是一直都有人在回答問題，但是你可以去試著增加一些機會，讓他人有能夠參與的機會，越是儘早開始，越是能夠獲得幫助。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/39992?v=3&s=400" class="pquote-avatar" alt="avatar">  
