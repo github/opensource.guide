@@ -5,7 +5,7 @@ description: 打造個人們願意使用、貢獻並願意主動宣傳的人氣�
 class: building
 toc:
   讓專案朝成功邁進: "讓專案朝成功邁進"
-  growing-your-community: "社群生長"
+  growing-your-community: "讓社群成長茁壯"
   resolving-conflicts: "解決衝突"
 order: 4
 image: /assets/images/cards/building.png
@@ -108,7 +108,7 @@ image: /assets/images/cards/building.png
 二、 嚴重違規準則的行為。
 你應該為大家提供一個私下討論這些 issue 的方式。若不想用自己的個人信箱，那麼就設一個專用的郵箱。
 
-## **社群生長**
+## **讓社群成長茁壯**
 
 社群擁有強大的能量。這種能量可能是正面的也可能是負面的，一切都取決於你如何駕馭它。隨著社群的成長，要想辦法讓之成為建設性的力量，而非具有破壞性的。
 
@@ -143,7 +143,7 @@ image: /assets/images/cards/building.png
 
 試著對每個 issue 標上標籤，為不同類型的貢獻者做指引：例如，[_"僅供入門者"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"適合新手的好 Bug"_, 或者 _"說明文件"_. [這些標籤](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能夠幫助新人快速瀏覽 issues 著手開始。
 
-最後，撰寫易讀的說明文件讓人們在每一步的過程中都很順暢。
+最後，撰寫易讀的說明文件讓人們在每一步的過程中都很流暢。
 
 你不可能與專案中大多數的人互動，因為有些人怕犯錯，或不知道該從何處開始，結果就可能會錯失獲得貢獻的機會。但有時候也只是幾個字，就能避免一些人沮喪地離開你們的專案。
 
@@ -155,19 +155,19 @@ image: /assets/images/cards/building.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/270108?v=3&s=400" class="pquote-avatar" alt="avatar">  
-  社群的領導者們有著不一樣的意見，而這也是所有健康社群能夠成長的原因之所在！終究你會明白，粗暴魯莽的做法不能得到大家的認同，謙虛低調的做法更容易讓大家接受，纔是王道。
+  社群的領導者們有著不一樣的意見，這也是所有健康的社群能夠成長的原因！然而，你也必須在每個環節確保，大多數人的意見不會總是蓋過其他見解，讓傑出的、少數人的意見也能被聽見。
   <p markdown="1" class="pquote-credit">
 — @sarahsharp, ["是什麼成就一個好的社群？"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-當大家覺得自己就是專案的主人時，他們就會非常樂意為專案做貢獻。但這並不意味著要去改變專案的願景，又或者接受不想要的貢獻。但是社群越信任他們，他們就會越忠實。
+當大家覺得自己也是專案的主人之一時，就會非常樂意為專案付出。這並不代表就要去調整專案的願景，又或者代表要接受你不要的貢獻。但是社群越信任他們，他們就會越樂意待在這。
 
-要嘗試去儘快的找到讓人們覺得社群就是自己的路徑，這裡有一些經驗和大家分享：
+試著找一些方法向社群分享你的所有權，這裡有一些經驗和大家分享：
 
-* **不要親自去修復簡單（非關鍵）的缺陷。** 相反，將這些缺陷作為招募新貢獻者的工具，或者指導想要參與貢獻的人。開始時可能效果不是很理想，但經過一段時間你們會得到想要的結果。例如，@michaeljoseph要求一位貢獻者提交一個pull request在一個[Cookiecutter](https://github.com/audreyr/cookiecutter) issue的下面，而不是自己修復它。
+* **不要親自去修簡單（不嚴重）的錯誤。** 相反，將這些錯誤作為招募新貢獻者的工具，或指導有意貢獻付出的人。剛開始可能會覺得過程很不自然，但一段時間你會得到想要的結果。例如，在 [Cookiecutter](https://github.com/audreyr/cookiecutter) 的一則 issue 下面， @michaeljoseph 要求貢獻者提交一個 pull request ，而不是親自處理它。
 
-![cookiecutter issue](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/building-community/cookiecutter_submit_pr.png)
+![cookiecutter issue](https://opensource.guide/assets/images/building-community/cookiecutter_submit_pr.png)
 
 * **在專案中添加一個貢獻者或者作者文件** 用於記錄每一個參與貢獻的人。
 
