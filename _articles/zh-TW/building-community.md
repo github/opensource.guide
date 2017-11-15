@@ -82,7 +82,7 @@ image: /assets/images/cards/building.png
 
 如果你無法做到及時，至少試著去及早確認，謹記著如此一來有助於提高大眾的參與度。以下是 @tdreyno 在 [Middleman](https://github.com/middleman/middleman/pull/1466) 回覆的一個 pull request：
 
-![middleman pull request](/assets/images/building-community/middleman_pr.png)
+![middleman pull request](https://opensource.guide/assets/images/building-community/middleman_pr.png)
 
 [一項 Mozilla 的研究](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) 發現如果貢獻者在48小時內收到代碼審查，他們會有很高的回頭率，且極有可能會再次貢獻。
 
