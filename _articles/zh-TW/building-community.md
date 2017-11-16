@@ -135,21 +135,21 @@ image: /assets/images/cards/building.png
 
 ### **知道貢獻者在哪裡**
 
-隨著專案的成長，好的說明文件會變得愈加重要。不固定貢獻者或路人不可能一下子就對專案非常熟悉，一份好的文建，能讓他們很快地找到他們需要的資訊。
+隨著專案的成長，好的說明文件會變得愈加重要。不固定的貢獻者或路人不可能一下子就對專案非常熟悉，一份好的文件，能讓他們很快地找到他們需要的資訊。
 
-在 CONTRIBUTING 文件裡，需要明確告訴新來的貢獻者該如何開始。而且若是可能為了想要達到這個目的，還需要準備一個專門的部分。
+在 CONTRIBUTING 文件裡，需要明確告訴新來的貢獻者該如何使用。為了想要達到這個目的，你也許會想要設立一個專區說明。 舉例來說，專案 [Django](https://github.com/django/django) 準備了一個頁面給新人。
 
 ![django new contributors page](https://opensource.guide/assets/images/building-community/django_new_contributors.png)
 
-試著對每個 issue 標上標籤，為不同類型的貢獻者做指引：例如，[_"僅供入門者"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"適合新手的好 Bug"_, 或者 _"說明文件"_. [這些標籤](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能夠幫助新人快速瀏覽 issues 著手開始。
+試著對每個 issue 標上標籤，為不同類型的貢獻者做指引：例如，[_"僅供入門者"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"適合新手的好 Bug"_, 或者 _"說明文件"_. [這些標籤](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能夠幫助新人快速瀏覽 issues 並且著手開始。
 
-最後，撰寫易讀的說明文件讓人們在每一步的過程中都很流暢。
+最後，試著撰寫易讀的說明文件讓人們在每一步的過程中都很流暢。
 
-你不可能與專案中大多數的人互動，因為有些人怕犯錯，或不知道該從何處開始，結果就可能會錯失獲得貢獻的機會。但有時候也只是幾個字，就能避免一些人沮喪地離開你們的專案。
+你不可能與專案中大多數的人互動，因為有些人怕犯錯，或不知道該從何處開始，結果就可能讓你錯失獲得貢獻的機會。但有時候也只是幾個字，就能避免一些人沮喪地離開你們的專案。
 
 例如 [Rubinius](https://github.com/rubinius/rubinius/) 在[它的貢獻指南](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)開頭寫的：
 
-> 我們感謝你們使用Rubinius。這個專案是一個充滿愛的工作，我們感激所有參與的人，不論是為我們抓 bug 、提升性能或完善說明文件。每一個貢獻都是有意義的，感謝你們的參與。話雖如此，但我們還是要求參與者遵守一些指南，如此一來我們也才能夠處理你們的 issue 。
+> 我們感謝你們使用 Rubinius 。這專案是個充滿愛的工作，我們感激所有參與的人，不論是為我們抓 bug 、提升性能或完善說明文件。每一個貢獻都是有意義的，感謝你們的參與。話雖如此，我們還是要求參與者遵守一些指南，如此一來我們也才能夠回覆你們的 issue 。
 
 ### **分享專案的所有權**
 
@@ -173,7 +173,7 @@ image: /assets/images/cards/building.png
 
 * 如果社群有了一定的規模，就 **發送一封信或者發表一篇文章** 感謝貢獻者們。 [Rust 週報](https://this-week-in-rust.org/)和 Hoodie 的 [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) 就是兩個非常好的範例。
 
-* **給每個貢獻者提交的權限。** @felixge 發現這樣會使大家[越來越樂意發表他們的補丁](http://felixge.de/2013/03/11/the-pull-request-hack.html)，甚至找到人手來協助維護他已很久沒處裡的專案。
+* **給每個貢獻者提交的權限。** @felixge 發現這樣會使大家[越來越樂意發表他們的補丁](http://felixge.de/2013/03/11/the-pull-request-hack.html)，甚至找到人手來協助維護他已很久沒處理的專案。
 
 * 如果專案是放在 GitHub 上，那麼 **將專案從你們的個人賬號轉移到一個[組織](https://help.github.com/articles/collaborating-with-groups-in-organizations/)**，加入至少一個備份管理員。組織能讓社群與來自外界的貢獻，彼此協作的工作變得更加容易。
 
@@ -183,7 +183,7 @@ image: /assets/images/cards/building.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/39992?v=3&s=400" class="pquote-avatar" alt="avatar">  
-  對社群最有利的做法是招募喜歡你們專案的人，而且他還能夠做你們做不到的事情。你是否喜歡寫程式，但不喜歡回覆 issue ？ 那麼就讓社群裡能做這件事的人去做。
+  對社群最有利的做法是招募喜歡你們專案的人，而且這個人還能夠做你們做不到的事情。你是否喜歡寫程式，但不喜歡回覆 issue ？ 那麼就讓社群裡能做這件事的人去做。
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["打造溫暖的社群"](http://hood.ie/blog/welcoming-communities.html)
   </p>
@@ -191,7 +191,7 @@ image: /assets/images/cards/building.png
 
 ## **化解衝突**
 
-在專案的一開始，做決定是蠻容易的事。想做什麼，就放手去做吧。
+在專案的一開始，做決定是蠻容易的事。想做什麼就放手去做吧。
 
 隨著專案變得熱門，會有更多人對社群的決策感興趣。如果專案有很多使用者，你會發現大家都很關心決策，或者踴躍的提交他們的 issue ，即使社群沒有很多貢獻者。
 
@@ -227,13 +227,13 @@ README [不僅僅是指導手冊](../starting-a-project/#writing-a-readme)。它
 
 投票會變成政治，不論是在往後互助的過程中，或是投票時，社群成員都會備感壓力。而且不是每個人會參與投票，可能你們的社群[保持沉默的人佔多數](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users)，或甚至使用者根本不知道投票這件事正在發生。
 
-有時投票是必要的手段。盡你們所能的強調["尋求共識"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)而不是要擁有共識本身。
+有時投票是必要的手段。盡你們所能的強調[「尋求共識」](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)而不是要獲得共識本身。
 
 尋求共識的過程中，社群成員討論關心在乎的事，直到他們覺得意見已經獲得充分的表達。當僅剩下一些次要的議題時，社群就往前邁進。「尋求共識」不能確保社群能得到一個完美的解答。而是側重聆聽和討論。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/1038121?v=3&s=460" class="pquote-avatar" alt="avatar">  
-Atom 專案的 Issues 沒有投票機制，因為 Atom 團隊在不會遵循投票的結果。有時我們必須選擇我們認為是對的事，即使它不是主流看法。（。。。）我能做的是傾聽社群的意見，這也是我能保證提供的服務。
+Atom 專案的 Issues 沒有投票機制，因為 Atom 團隊並不會遵循投票的結果。有時我們必須選擇我們認為是對的事，即使它不是主流看法。（。。。）我能做的是傾聽社群的意見，這也是我能保證提供的服務。
 
   <p markdown="1" class="pquote-credit">
 — @lee-dohm [Atom 決策流程](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
@@ -248,7 +248,7 @@ Atom 專案的 Issues 沒有投票機制，因為 Atom 團隊在不會遵循投�
 
 討論很重要，但是有成效和沒有效果的對話是有很大區別的。
 
-鼓勵討論，只要它正積極地朝著解決問題的方向前進。如果你很清楚地發現對話已經漸漸停滯下來、偏離主題，溝通開始對人對不對事或在小細節上鑽牛角尖，那就是時候該結束對話了。
+鼓勵討論，只要它正積極地朝著解決問題的方向前進。如果你很清楚地發現對話已經漸漸停滯下來、偏離主題、溝通開始對人對不對事或在小細節上鑽牛角尖，那就是時候該結束對話了。
 
 允許上述的這些對話進行下去，不僅無法解決問題，還不利於社群的健康發展。這樣讓大家認為這類的對話是被允許甚至是被鼓勵的，它可能阻礙了人們往後提問的意願或者在解決之後的問題上產生困擾。
 
@@ -267,22 +267,22 @@ Atom 專案的 Issues 沒有投票機制，因為 Atom 團隊在不會遵循投�
   </p>
 </aside>
 
-### 謹言慎行
+### **謹言慎行**
 
 了解來龍去脈很重要。想想誰正在參與討論，以及這些人如何代表社群的其他人。
 
-社群的每個人都是否參與了討論？大家是否對這個議題感到困擾？還是有人在搗亂？記得不僅要關心有發言的人，也要記得為社群中保持沉默的人考量。
+社群的每個人都是否參與討論？大家是否對這個議題感到困擾？還是有人在搗亂？記得不僅要關心有發言的人，也要記得為社群中保持沉默的人考量。
 
 如果這個議題不代表社群普遍的需求，你們可能要理解這只是少數人的疑慮。如果這是一個反覆出現的 issue ，而且直到現在還是沒有一個明確的解決辦法，那麼指引他們去看看以前討論的內容，並結束這個討論串。
 
-### 找出社群中的決策者
+### **找出社群中的決策者**
 
 保持態度良善，維持目標清晰的對話，很多困難都可以被解決。但即便在富有建設性的對話中，還是可能會對該如何執行有不同的意見。在這樣的情況下，你要找找看是否有一個人或一組人，可以擔任決策者。
 
 負責做出決策的人可能是專案的主要維護者，或者是大家投票選出的一個團體。理想情況下，事前要先確定決策者是誰和與之相關的事宜，寫在 GOVERNANCE 文件以便不時之需。
 
-使用決策者應該是你們最後才能採取的手段。區分這些 issues 是一個社群成長和學習的機會。利用這些機會協作，儘量找出問題的解決辦法。
+使用決策者應該是你們最後的手段。區分這些 issues 是一個社群成長和學習的機會。利用這些機會協作，儘量找出問題的解決辦法。
 
-## 社群是開源的❤️
+## **社群是開源的❤️**
 
-健康，蓬勃的社群每週都會為開源注入大量的動力。許多貢獻者指出，開源專案的其他成員才是促成他們參與（或導致不參與）的主要因素。通過學習如何建設性地利用這股力量，你會在協助的過程中讓他人有一個難忘的開源體驗。
+健康，蓬勃的社群每週都會為開源注入大量的動力。許多貢獻者指出，開源專案的其他成員是促成他們參與（或導致不參與）的主要因素。通過學習如何建設性地利用這股力量，你會在協助的過程中讓他人有個難忘的開源體驗。
