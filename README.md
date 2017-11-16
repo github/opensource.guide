@@ -12,7 +12,7 @@ https://felixshai.github.io/open-source-guide/
   - [X] 如何為開源做貢獻？(how-to-contribute)
   - [ ] 發起一個開源專案 (starting-a-project)
   - [ ] 尋找專案的使用者 (finding-users)
-  - [ ] 打造友善、溫暖的社群 (building-community)
+  - [X] 打造友善、溫暖的社群 (building-community)
   - [ ] 維護者最佳實踐 (best-practices)
   - [ ] 領導與治理 (leadership-and-governance)
   - [ ] 透過為開源專案工作而獲得報酬 (getting-paid)
