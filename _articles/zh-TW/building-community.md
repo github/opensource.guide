@@ -27,15 +27,15 @@ image: /assets/images/cards/building.png
 
 從你的說明文件開始著手：
 
-* **讓大家很容易上手。** [一份好讀的 README](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#編寫readme)以及清晰的程式碼範例，讓大家很容易的上手。
+* **讓大家很容易上手。** [一份好讀的 README](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#編寫readme) 以及清晰的程式碼範例，讓大家很容易的上手。
 * **清楚的說明該如何貢獻**，使用[你的 CONTRIBUTING file ](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#編寫你的貢獻指南)並持續更新 issues。
 
-在 [GitHub 2017 開源調查報告](http://opensourcesurvey.org/2017/)中指出，會令人困惑或不完整的說明文件是開源使用者最大的困擾，好的說明文建會吸引人們與專案互動。總有一天，會有人開啟一個 issue 或 PR。盡量使用這些工具讓人們有機會朝漏斗的下方邁進。
+在 [GitHub 2017 開源調查報告](http://opensourcesurvey.org/2017/)中指出，令人困惑或不完整的說明文件是開源使用者最大的困擾，好的說明文建會吸引人們與專案互動。總有一天，會有人開啟一個 issue 或 PR。盡量使用這些工具讓人們有機會朝漏斗的下方邁進。
 
-* **當有人選擇了你們的專案，記得對他們表示謝意！** 因為可能只是一次在這不愉快的經歷，就足以讓一些人再也不想回來。
+* **當有人選擇了你們的專案，記得對他們表示謝意！** 因為可能只是一次不愉快的經歷，就足以讓一些人再也不想回來。
 * **及時回應。** 如果一個月都沒有回答他們的 issue，他們可能也早就忘記了你們的專案。
 * **以開放的態度接受各式各樣的貢獻。**很多貢獻者是從提報一份 bug 或者修一些小東西開始的。這裡有[很多為專案做貢獻的方式](../how-to-contribute/#what-it-means-to-contribute)。讓大家選擇他們喜歡的方式。
-* **如果你不贊同一個貢獻，** 首先你需要對他們的想法表示感謝，同時[解釋為什麼](../best-practices/#learning-to-say-no)這點子不適合專案，如果有必要的話你可以給出相關文件的超連結。
+* **如果你不贊同一個貢獻。** 首先你需要對他們的想法表示感謝，同時[解釋為什麼](../best-practices/#learning-to-say-no)這點子不適合專案，如果有必要的話你可以給出相關文件的超連結。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">                      
@@ -45,7 +45,7 @@ image: /assets/images/cards/building.png
   </p>
 </aside>
 
-多數開源貢獻者是「不固定的貢獻者」，因為他們只是偶爾參與專案。一位不固定的貢獻者可能沒有充足的時間全程參與你的專案，所以你的工作是能讓他們很輕鬆地參與貢獻。
+多數開源貢獻者是「不固定的貢獻者」，因為他們只是偶爾參與專案。一位不固定的貢獻者可能沒有充裕的時間全程參與你的專案，所以你的工作是能讓他們很輕鬆地參與貢獻。
 
 鼓勵其他的貢獻者也是對專案的一種投資。當你們授權大量的粉絲做他們感興趣的工作時，壓力就會少很多。
 
@@ -76,36 +76,36 @@ image: /assets/images/cards/building.png
 
 ### **積極迴應**
 
-一旦你[推廣專案](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-03.md)，人們將會給你們回饋。他們可能會問專案是如何工作的，或者希望有人能幫他上手。
+一旦你[推廣專案](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-03.md)，人們將會給你們回饋。他們可能會問專案是如何工作的，或者希望有人教他怎麼使用。
 
 當有人提出一條 issue ，提交一個 pull request ，或詢問專案有關的問題時，你們應該盡快回覆他們。當你們快速地做出反應時，大家會覺得有參與到對話，會有熱情去參與專案。
 
-如果你無法做到及時，至少試著去及早確認，謹記著如此一來有助於提高大眾的參與度。以下是 @tdreyno 在 [Middleman](https://github.com/middleman/middleman/pull/1466) 回覆的一個 pull request：
+如果你無法做到及時，至少試著去及早確認，如此一來有助於提高大眾的參與度。以下是 @tdreyno 在 [Middleman](https://github.com/middleman/middleman/pull/1466) 回覆的一個 pull request：
 
 ![middleman pull request](https://opensource.guide/assets/images/building-community/middleman_pr.png)
 
 [一項 Mozilla 的研究](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) 發現如果貢獻者在48小時內收到代碼審查，他們會有很高的回頭率，且極有可能會再次貢獻。
 
-與專案有關的討論也可能發生在網路的其它地方，例如 Stack Overflow ， Twitter ，或者 Reddit 。你可以這一些網站設定通知，當有人提到你的專案時，可即時的收到提醒。
+與專案有關的討論也可能發生在網路的其它地方，例如 Stack Overflow ， Twitter ，或者 Reddit 。你可以在這些網站設定通知，當有人提到你的專案時，可即時的收到提醒。
 
 
 ### **為你們社群提供一個聚會的場所**
 
 有兩個理由可以解釋為什麼要給社群提供聚會的場所。
 
-第一個理由是為了貢獻者。讓社群的人相互認識。因為有共同興趣的人一定會想要一個可以聊天的地方。當資訊是公開且好接觸時候，任何人可以透過過去的資料，快速的跟上大家的話題。
+第一個理由是為了貢獻者。讓社群的人相互認識。因為有共同興趣的人一定會想要一個可以聊天的地方。當資訊是公開的而且容易接觸時候，任何人可以透過過去的資料，快速的跟上大家的話題。
 
 第二個理由是為了你自己。如果沒有提供公共場所來談論專案，大家可能會直接與你聯繫。剛開始可能覺得回覆私訊很輕鬆。但是一段時間後，尤其是如果專案變的熱門時，就會感到疲於應付。不要私下和人們討論你們的專案，直接請他們去指定的公共渠道。
 
-公共交流和指明人開一條 issue 一樣簡單，而不是直接發電子郵件或者在你的部落格上留言。為了方便人們談論專案，你可以設置一個郵件列表、創一個 Twitter 賬號， Slack ， IRC 頻道。或者嘗試以上所有的方式。
+公共交流和指引人開一條 issue 一樣簡單，而不是直接發電子郵件或者在你的部落格上留言。為了方便人們談論專案，你可以設置一個郵件列表、創一個 Twitter 賬號， Slack ， IRC 頻道。或者嘗試以上所有的方式。
 
 [Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) 每隔一週抽出辦公時間來協助社群成員：
 
 > Kops 每隔一週都會提供晤談時間，為社群提供幫助和指導。 Kops 維護者約定好留出一些時間專門與新手一起工作，處理 PR，以及討論新的功能。
 
 此外請謹記，有一些事情反而是不適合公開討論的：
-一、 有關資安方面的 issues  
-二、 嚴重違規準則的行為。
+1. 有關資安方面的 issues  
+2. 嚴重違規準則的行為。
 你應該為大家提供一個私下討論這些 issue 的方式。若不想用自己的個人信箱，那麼就設一個專用的郵箱。
 
 ## **讓社群成長茁壯**
