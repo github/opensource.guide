@@ -129,7 +129,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 ### 수입원 만들기
 
-Depending on your project, you may be able to charge for commercial support, hosted options, or additional features. A few examples include:
+프로젝트에 따라 상업적 지원, 호스팅 옵션 또는 추가 기능에 대해 요금을 부과할 수 있습니다. 몇 가지 예는 다음과 같습니다:
 
 * **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
 * **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
@@ -139,7 +139,7 @@ Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https
 
 ### 보조금 신청하기
 
-Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
+일부 소프트웨어 재단 및 회사는 오픈소스 작업에 대한 보조금을 제공합니다. 때로는 프로젝트에 대한 법적 주체를 설정하지 않고 개인에게 보조금을 지급할 수 있습니다.
 
 * **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
 * **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
@@ -150,9 +150,9 @@ For more detailed options and case studies, @nayafia [wrote a guide](https://git
 
 ## 재정 지원 사례 구축하기
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+프로젝트가 새로운 아이디어이든, 수년간 지속되어 왔든 타겟 기금 제공자를 파악하고 중요한 사건을 만드는데 중요하게 고려되야합니다.
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+자신의 시간에 돈을 내거나, 프로젝트 기금 모금을 원하는 경우 다음 질문에 답할 수 있어야합니다.
 
 ### 임펙트
 
@@ -164,15 +164,15 @@ Whether you're looking to pay for your own time, or fundraise for a project, you
 
 ### 자금 제공자에 주는 가치
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+기금 제공자는 고용주 또는 보조금 재단에 관계없이 자주 기회를 제공받습니다. 다른 어떤 기회보다 프로젝트를 지원해야하는 이유는 무엇입니까? 그들은 개인적으로 어떻게 이익을 얻습니까?
 
 ### 펀드 사용
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+제안된 자금으로 정확히 무엇을 달성 할 수 있습니까? 급여를 지급하기보다는 프로젝트 이정표 또는 결과에 중점을 둡니다.
 
 ### 펀드로 송금하기
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+기금 제공자는 출산 관련 요구 사항이 있습니까? 예를 들어 비영리 단체 또는 비영리 단체 재정 보증인이 필요할 수 있습니다. 또는 자금을 조직이 아닌 개별 계약자에게 제공해야합니다. 이러한 요구 사항은 자금 제공자마다 다르므로 사전에 연구해야합니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1076721?v=3&s=460" class="pquote-avatar" alt="avatar">
