@@ -489,7 +489,7 @@ If the project is on GitHub, here's how to submit a pull request:
 * **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
 * **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
 
-If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial on making a pull request. You can practice making a pull request in [First Contributions](https://github.com/Roshanjossey/first-contributions) created by @Roshanjossey which has a tutorial and repository on how to submit pull request.
+If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
 
 ## What happens after you submit a contribution
 
