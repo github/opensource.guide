@@ -224,7 +224,7 @@ You can also use one of the following resources to help you discover and contrib
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
-
+* [First Contribution in 5 minutes](https://roshanjossey.github.io/first-contributions)
 ### A checklist before you contribute
 
 When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
