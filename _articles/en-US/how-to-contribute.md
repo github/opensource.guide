@@ -224,6 +224,7 @@ You can also use one of the following resources to help you discover and contrib
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [OSS Finder](https://ossfinder.netlify.com/)
 
 ### A checklist before you contribute
 
