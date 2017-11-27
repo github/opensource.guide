@@ -8,7 +8,7 @@ toc:
   dois-je-lancer-mon-propre-projet-open-source: "Dois-je lancer mon propre projet open source?"
   lancer-votre-propre-projet-open-source: "Lancer votre propre projet open source"
   nommer-et-branding-de-votre-projet: "Nommer et Branding de votre projet"
-  votre-liste-de-contrôle-de-pré-lancement: "Votre liste de contrôle de pré-lancement"
+  votre-check-list-de-pré-lancement: "Votre check-list de pré-lancement"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -65,51 +65,51 @@ Par conséquent, la plupart des projets open source sont gratuits, mais "gratuit
 
 ## Dois-je lancer mon propre projet open source?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+La réponse courte est oui, parce qu'importe le résultat, lancer votre propre projet est un excellent moyen d'apprendre comment fonctionne l'open source.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+Si vous n'avez jamais ouvert un projet auparavant, vous pourriez être inquiets au sujet de ce que les gens diront, ou de toute remarque de n'importe qui. Si cela vous ressemble, vous n'êtes pas seul!
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+Le travail open source est comme toute autre activité créative, que ce soit l'écriture ou la peinture. Cela peut être effrayant de partager votre travail avec le monde, mais la seule façon de s'améliorer est de pratiquer - même si vous n'avez pas d'audience.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+Si vous n'êtes pas encore convaincu, prenez un moment pour penser à vos objectifs.
 
-### Setting your goals
+### Définir vos objectifs
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+Les objectifs peuvent vous aider à déterminer ce sur quoi vous devez travailler, ce que vous devez dire non et où vous avez besoin de l'aide des autres. Commencer par vous demander,  _pourquoi je rends ce projet open source?_
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+Il n'y a pas une bonne réponse à cette question. Vous pouvez avoir plusieurs objectifs pour un même projet ou différents projets avec des objectifs différents.
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+Si votre seul but est de mettre en valeur votre travail, vous ne voulez peut-être même pas de contributions et encore dites-le dans votre fichier README. D'un autre côté, si vous voulez vraiment des contributeurs, vous allez investir du temps dans une documentation claire et faire en sorte que les nouveaux arrivants se sentent les bienvenus.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+  À un moment donné, j'ai créé un UIAlertView a personnalisé que j'utilisais... Et j'ai décidé de le rendre open source. Alors, je l'ai modifié pour être plus dynamique et l'ai téléchargé sur GitHub. J'ai également écrit ma première documentation expliquant aux autres développeurs comment l'utiliser sur leurs projets. Probablement personne ne l'a jamais utilisé parce que c'était un projet simple mais, je me sentais bien au sujet de ma contribution.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+Au fur et à mesure que votre projet grandit, votre communauté peut avoir besoin de plus que du code de votre part. Répondre aux problèmes, passer en revue le code et évangéliser sur votre projet, sont des tâches toutes aussi importantes dans un projet open source.
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+Bien que le temps que vous consacrez à des tâches de non-codage dépende de la taille et de la portée de votre projet, vous devez être préparé en tant que mainteneur (responsable) pour les résoudre vous-même ou trouver quelqu'un pour vous aider.
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**Si vous faites partie d'une entreprise qui ouvre un projet,** assurez-vous que votre projet à des ressources internes dont il a besoin pour prospérer. Vous voudrez identifier qui est responsable de maintenir le projet après le lancement et comment vous partagerez ces tâches avec votre communauté.
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+Si vous avez besoin d'un budget ou d'un personnel dédié pour la promotion, les opérations et la maintenance du projet, commencez ces conversations plus tôt.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1857993?v=3&s=460" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+  Lorsque vous commencez à ouvrir le projet, il est important de s'assurer que vos processus de gestion prennent en considération les contributions et les compétences de la communauté autour de votre projet. N'ayez pas peur d'impliquer des collaborateurs qui ne sont pas employés dans votre entreprise, dans les aspects clés du projet — surtout s'ils sont des contributeurs fréquents.
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
   </p>
 </aside>
 
-### Contributing to other projects
+### Contribuer à d'autres projets
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+Si votre objectif est d'apprendre à collaborer avec les autres ou à comprendre comment fonctionne l'open source, envisagez de contribuer à un projet existant. Commencez avec un projet que vous utilisez déjà et aimez. Contribuer à un projet peut être aussi simple que la correction de coquilles, des fautes de frappe ou  la mise à jour de la documentation.
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+Si vous n'êtes pas sûrs de savoir comment commencer en tant que contributeur, consultez [Comment contribuer au guide Open Source](../how-to-contribute/).
 
 ## Lancer votre propre projet open source
 
@@ -266,7 +266,7 @@ Beyond how you write words, your coding style may also become part of your proje
 
 It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
 
-## Votre liste de contrôle de pré-lancement
+## Votre check-list de pré-lancement
 
 Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
 
