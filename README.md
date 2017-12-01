@@ -12,7 +12,7 @@ https://felixshai.github.io/open-source-guide/
   - [X] 如何為開源做貢獻？(how-to-contribute)
   - [ ] 發起一個開源專案 (starting-a-project)
   - [ ] 尋找專案的使用者 (finding-users)
-  - [ ] 打造友善、溫暖的社群 (building-community)
+  - [X] 打造友善、溫暖的社群 (building-community)
   - [ ] 維護者最佳實踐 (best-practices)
   - [ ] 領導與治理 (leadership-and-governance)
   - [ ] 透過為開源專案工作而獲得報酬 (getting-paid)
@@ -42,6 +42,16 @@ https://felixshai.github.io/open-source-guide/
 	不然點選目錄的選項，頁面不能正確的對準到該段落。
 
 4.	建議大標小標的前後用`**`包起來，讓大小標變粗體，不然標題跟內文看起來蠻相似的。
+
+## 翻譯規則
+
+|規則名稱|翻譯方式|
+|:-|:-|
+|引號轉換 quotation change|原作中引句使用雙引號`""`部分改為`「」`|
+|小括號轉全形 fullwidth parentheses|原作中`()` 換成 `（）`，使用新注音可透過按 \` 後 `shift`+`(` 輸入全形小括號|
+|大小標轉粗體 Bold the title|因為字的格式相同，導致標題與內文視覺上分不出來，所以需要將大小標轉為粗體|
+|中英文之間加空格 whitespace between languages|為使排版易讀，中英文字之間需用半形空格格開|
+|引文省略時表達方式|簡中使用（。。。）但應該保留(...)|
 
 ## 銘謝
 
