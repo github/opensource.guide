@@ -183,7 +183,7 @@ image: /assets/images/cards/building.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/39992?v=3&s=400" class="pquote-avatar" alt="avatar">  
-  對社群最有利的做法是招募喜歡你們專案的人，而且這個人還能夠做你們做不到的事情。你是否喜歡寫程式，但不喜歡回覆 issue ？ 那麼就讓社群裡能做這件事的人去做。
+  對社群最有利的做法是招募喜歡你們專案的人，而且這個人還能夠做你們做不到的事情。你是否喜歡寫程式，但不喜歡回覆 issue ？ 那就讓社群裡能做這件事的人去做。
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["打造溫暖的社群"](http://hood.ie/blog/welcoming-communities.html)
   </p>
