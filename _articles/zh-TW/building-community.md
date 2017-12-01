@@ -201,7 +201,7 @@ image: /assets/images/cards/building.png
 
 當社群正熱烈討論一個困難的 issue 時，火氣可能會不小。人們可能會為此憤怒或者沮喪，甚至會做出直接的人身攻擊。
 
-身為一名維護者的工作就是別讓這種情況惡化。即使這些你對該話題有自己強烈的看法，也要盡量擔任一個仲裁者或推動者的角色，而非跳下去參與爭論以及推動自己的觀點。如果有人態度不好或者嘗試壟斷話題，那麼請[立即採取行動](https://ocselected.github.io/open-source-guide/building-community/)，讓討論保持它應有的禮節，讓討論是有意義的。
+身為一名維護者的工作就是別讓這種情況惡化。即使你對該話題有自己強烈的看法，也要盡量擔任一個仲裁者或推動者的角色，而非跳下去參與爭論以及推動自己的觀點。如果有人態度不好或者嘗試壟斷話題，那麼請[立即採取行動](https://ocselected.github.io/open-source-guide/building-community/)，讓討論保持它應有的禮節，讓討論是有意義的。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/119893?v=3&s=400" class="pquote-avatar" alt="avatar">  
