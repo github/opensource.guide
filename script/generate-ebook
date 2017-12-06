@@ -1,0 +1,42 @@
+#/bin/env bash
+
+# Author: #elbaulp
+
+mkdir tmp
+cd tmp
+cp ../../_articles/en-US/*.md .
+
+## Remove the front matter
+perl -i -p0e 's/---.*?-{3}//s' *.md
+
+## Decrease sections by one level
+# perl -i -pe 's/^\#{2}/#/s' *.md
+
+# Correcting path for assets
+perl -i -pe 's/\/assets/\.\.\/\.\.\/assets/s' *.md
+
+# Generate title
+echo """
+---
+title: Opensource Guide
+author: Github
+rights: Attribution 4.0 International
+language: en-US
+---""" > title.txt
+
+## Generate epub
+pandoc -S -o opensource.guide.epub title.txt \
+how-to-contribute.md \
+starting-a-project.md \
+finding-users.md building-community.md \
+best-practices.md \
+leadership-and-governance.md \
+getting-paid.md \
+code-of-conduct.md \
+metrics.md \
+legal.md
+
+mkdir ../../ebook/
+cp opensource.guide.epub ../../ebook/
+cd ../
+rm -rf tmp
