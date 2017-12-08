@@ -1,15 +1,15 @@
 ---
-locale: fr-FR
-title: Comment contribuer en Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
-class: contribute
+langue: fr-FR
+titre: Comment contribuer en Open Source
+description: Vous voulez contribuer en open source? Un guide pour faire des contributions open source, pour les debutants et pour les plus experimentes.
+cours: contribuer
 toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
+  why-contribute-to-open-source: "Pourquoi contribuer en open source?"
+  what-it-means-to-contribute: "Que veut dire contribuer?"
+  orienting-yourself-to-a-new-project: "S'orienter vers un nouveau projet"
+  finding-a-project-to-contribute-to: "Trouver un projet auquel contribuer"
+  how-to-submit-a-contribution: "Comment soumettre une contribution"
+  what-happens-after-you-submit-a-contribution: "Qu'est se passe apres avoir soumis une contribution"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -17,29 +17,29 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## Pourquoi contribuer en open source?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  Travailler en \[freenode\] m'a permis de gagner assez de competences que j'ai, plus tard utilise pour mes etudes a l'universite et pour mon travail actuel. Je pense que travailler sur des projets opensource m'aide autant que ca aide le projet!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Pourquoi j'aime contribue au logiciel open source"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+Contribuer en open source peut ouvrir la voie a apprendre, enseigner et construire une solide experience autour de toute competence que vous pouvez imaginer.
 
-Why do people contribute to open source? Plenty of reasons!
+Pourquoi les gens contribuent ils en open source? Pour tas de raisons!
 
-### Improve existing skills
+### Ameliorer les competences existantes
 
 Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
 
-### Meet people who are interested in similar things
+### Rencontrer des personnes ayant des choses en commun avec vous
 
 Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
 
-### Find mentors and teach others
+### Trouver des mentors et enseigner d'autres
 
 Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
@@ -47,21 +47,21 @@ Working with others on a shared project means you'll have to explain how you do 
 
 By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
 
-### Learn people skills
+### Apprendre des competences des autres
 
 Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
 
-### It's empowering to be able to make changes, even small ones
+### C'est motivant d'etre capable d'effectuer des changements aussi minimes soient ils
 
 You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
 
-## What it means to contribute
+## Que veut dire contribuer?
 
 If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
 
 Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
 
-### You don't have to contribute code
+### Vous n'avez pas a contribuer du code
 
 A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
 
@@ -83,20 +83,20 @@ Even if you like to write code, other types of contributions are a great way to 
   </p>
 </aside>
 
-### Do you like planning events?
+### Aimez-vous planifier des evenements?
 
 * Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
 * Organize the project's conference (if they have one)
 * Help community members find the right conferences and submit proposals for speaking
 
-### Do you like to design?
+### Aimez-vous faire du design?
 
 * Restructure layouts to improve the project's usability
 * Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * Put together a style guide to help the project have a consistent visual design
 * Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
 
-### Do you like to write?
+### Aimez-vous ecrire?
 
 * Write and improve the project's documentation
 * Curate a folder of examples showing how the project is used
@@ -112,32 +112,32 @@ Even if you like to write code, other types of contributions are a great way to 
   </p>
 </aside>
 
-### Do you like organizing?
+### Aimez-vous organiser?
 
 * Link to duplicate issues, and suggest new issue labels, to keep things organized
 * Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
 * Ask clarifying questions on recently opened issues to move the discussion forward
 
-### Do you like to code?
+### Aimez-vous coder?
 
 * Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
 * Ask if you can help write a new feature
 * Automate project setup
 * Improve tooling and testing
 
-### Do you like helping people?
+### Aimez-vous aider des gens?
 
 * Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
 * Answer questions for people on open issues
 * Help moderate the discussion boards or conversation channels
 
-### Do you like helping others code?
+### Aimez-vous aider d'autres a coder?
 
 * Review code on other people's submissions
 * Write tutorials for how a project can be used
 * Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### Vous n'avez pas juste qu'a travailler sur des projets logiciels!
 
 While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
 
@@ -149,7 +149,7 @@ For example:
 
 Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
 
-## Orienting yourself to a new project
+## S'orienter vers un nouveau projet
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -163,7 +163,7 @@ For anything more than a typo fix, contributing to open source is like walking u
 
 Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
 
-### Anatomy of an open source project
+### Anatomie d'un projet open source
 
 Every open source community is different.
 
@@ -196,7 +196,7 @@ Finally, open source projects use the following tools to organize discussion. Re
 * **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 * **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 
-## Finding a project to contribute to
+## Trouver un projet auquel contribuer
 
 Now that you've figured out how open source projects work, it's time to find a project to contribute to!
 
@@ -225,7 +225,7 @@ You can also use one of the following resources to help you discover and contrib
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
-### A checklist before you contribute
+### Un checklist (liste de controle) avant de contribuer
 
 When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
 
@@ -379,12 +379,11 @@ A project that is friendly and welcoming signals that they will be receptive to 
   </p>
 </aside>
 
-## How to submit a contribution
+## Comment soumettre une contribution
 
 You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
 
-### Communicating effectively
-
+### Communiquer effectivement
 Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
 
 <aside markdown="1" class="pquote">
@@ -471,7 +470,7 @@ Tips for communicating on issues:
 * **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
 * **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
-### Opening a pull request
+### Ouvrir une pull request
 
 You should usually open a pull request in the following situations:
 
@@ -491,13 +490,13 @@ If the project is on GitHub, here's how to submit a pull request:
 
 If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a free walkthrough resource.
 
-## What happens after you submit a contribution
+## Que se passe-t-il apres avoir soumis une contribution?
 
 You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
 
 After you submit a contribution, one of the following will happen:
 
-### 😭 You don't get a response.
+### 😭 Vous n'avez pas eu de reponses.
 
 Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
 
@@ -507,7 +506,7 @@ If you haven't gotten a response in over a week, it's fair to politely respond i
 
 If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 Les requetes de quelqu'un changes votre contribution.
 
 It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
 
@@ -515,14 +514,14 @@ When someone requests changes, be responsive. They've taken the time to review y
 
 If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 Votre contribution n'a pas ete acceptee.
 
 Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
 
-### 🎉 Your contribution gets accepted.
+### 🎉 Votre contribution a ete acceptee.
 
 Hooray! You've successfully made an open source contribution!
 
-## You did it!
+## Vous l'avez fait!
 
 Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
