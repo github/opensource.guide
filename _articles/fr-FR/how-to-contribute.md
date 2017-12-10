@@ -41,15 +41,15 @@ Open source projects with warm, welcoming communities keep people coming back fo
 
 ### Trouver des mentors et enseigner d'autres
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+Travailler avec des gens sur des projets partages voudrait dire que vous aurez a expliquer comment vous faites les choses, aussi bien que vous pourrez aussi demander de l'aide venant d'eux. Les actes d'apprentissage et d'enseignement peuvent être une activité d'accomplissement pour toute personne impliquée.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### Construisez des artefacts publics qui vous aident à cultiver une réputation (et une carrière)
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+Par définition, tout votre travail open source est public, qui signifie que vous faites des exemples libres(gratuits) peu importe comme une démonstration(manifestation) de ce que vous pouvez faire.
 
 ### Apprendre des competences des autres
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+Le code source libre offre des occasions de pratiquer un leadership et des compétences de gestion, comme la resolution de conflits, l'organisation des équipes de gens et la priorisation au travail.
 
 ### C'est motivant d'etre capable d'effectuer des changements aussi minimes soient ils
 
@@ -57,17 +57,18 @@ You don't have to become a lifelong contributor to enjoy participating in open s
 
 ## Que veut dire contribuer?
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+Si vous etes un nouveau contributeur open source, le processus peut etre intimidant. Comment avez vous trouve le bon projet? Si vous ne savez pas coder? Si quelque chose tourne mal (ne marche pas)?
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+Pas d'inquietude! Il y a toutes sortes de façons de s'impliquer avec un projet open source, et de petites astuces vous aideront à obtenir le meilleur de votre expérience.
 
 ### Vous n'avez pas a contribuer du code
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+Une idée fausse commune de l'aide au code source libre est que vous devez contribuer le code. En fait, c'est souvent les autres parties d'un projet qui sont [plus négligé ou négligé](https://github.com/blog/2195-the-shape-of-open-source).
+Vous ferez une large faveur au projet en y offrant des types de contributions differentes!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+  J'ai été renommé pour mon travail sur CocoaPods, mais la plupart des personnes ne savent pas que je ne fais pas en réalité de travail réel(vrai) sur l'outil CocoaPods lui-même. Mon temps passé sur le projet consistait a faire des choses comme la documentation et travailler sur la marque.
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
