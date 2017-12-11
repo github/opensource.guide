@@ -4,10 +4,10 @@ title: 透過為開源專案工作而獲得報酬
 description: 透過經濟上的補助，支持你在開源專案裡的工作。
 class: getting-paid
 toc:
-  why-some-people-seek-financial-support: "爲何會有人尋求經濟上的支持"
-  funding-your-own-time: "你的時間是最寶貴的，理應得到資助"
-  finding-funding-for-your-project: "爲你的專案尋找資助"
-  building-a-case-for-financial-support: "建立經濟上的支持"
+  為何有人尋求經濟上的支持: "為何有人尋求經濟上的支持"
+  你的時間是最寶貴的，理應得到資助: "你的時間是最寶貴的，理應得到資助"
+  為你的專案尋找資助: "為你的專案尋找資助"
+  建立經濟上的支持: "建立經濟上的支持"
 order: 7
 image: /assets/images/cards/getting-paid.png
 ---
