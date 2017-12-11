@@ -12,7 +12,7 @@ order: 7
 image: /assets/images/cards/getting-paid.png
 ---
 
-## 爲何會有人尋求經濟上的支持
+## **為何有人尋求經濟上的支持**
 
 很多開源的工作都是來自志願者的辛勤付出。例如，有些人在使用專案的過程中遇到了問題，然後快速的修復了；也有些人是利用他們的業餘時間在開源專案中需求挑戰。
 
@@ -62,7 +62,7 @@ image: /assets/images/cards/getting-paid.png
 
 如果你在尋找金錢上的支持，可以考慮兩條路徑。你可以作爲貢獻者來將你的時間作爲資金，或者是找一家能夠爲專案提供資金的組織。
 
-## 你的時間是最寶貴的，理應得到資助
+## **你的時間是最寶貴的，理應得到資助**
 
 在今天，有很多人在開源中獲得了報酬，無論是兼職或全職。最爲常見的做法就是，有些老闆願意爲你付出的時間和工作成果掏腰包。
 
@@ -106,7 +106,7 @@ image: /assets/images/cards/getting-paid.png
 * @gaearon 通過 [Patreon crowdfunding campaign](http://redux.js.org/)爲他的專案 [Redux](https://github.com/reactjs/redux)成功的融到了資金。
 * @andrewgodwin [通過 Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) 爲Django schema 遷移拿到了資金
 
-## 爲你的專案尋找資助
+## **為你的專案尋找資助**
 
 除了針對個人貢獻者的建議之外，還有一些專案可以從公司、獨立投資方、以及其它的資金處來獲得進一步的工作。
 
@@ -126,7 +126,7 @@ image: /assets/images/cards/getting-paid.png
 
 更多的案例和細節， @nayafia [專門寫過一個指南](https://github.com/nayafia/lemonade-stand) ，專門針對的就是如何爲開源工作獲得報酬。不同類型的資助需要不同的技能，所以仔細的掂量下資格，然後找個最適合自己的方式。
 
-## 建立經濟上的支持
+## **建立經濟上的支持**
 
 無論你的專案是新的創意，還是已經運行多年，你都需要爲你的資助者滿意，並提出有效而合理的案例。
 
