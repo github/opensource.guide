@@ -85,7 +85,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 @hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source]
 
-예를 들어 @hueniverse는, [Walmart의 오픈소스에 대한 투자](http://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html)를 정당화 할 재정적인 이유가 있음을 발견했습니다. 그리고 @jamesgpearce는 Facebook의 오픈 소스 프로그램이 채용에서 [차이를 만들었다](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon)는 사실을 발견했습니다:
+예를 들어 @hueniverse는, [Walmart의 오픈소스에 대한 투자](http://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html)를 정당화 할 재정적인 이유가 있음을 발견했습니다. 그리고 @jamesgpearce는 Facebook의 오픈소스 프로그램이 채용에서 [차이를 만들었다](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon)는 사실을 발견했습니다:
 
 > 이는 해커 문화와 밀접하게 연계되어 있으며, 조직이 어떻게 인식되었는지를 보여줍니다. 우리는 직원들에게 "페이스북에서 쓰이는 오픈소스 소프트웨어 프로그램에 대해 알고 있었습니까?"라고 물었습니다. 3분의2가 "그렇다"고 답했습니다. 절반정도는 이 프로그램이 우리를 위해 일하기로 한 결정에 긍정적으로 기여했다고 전했습니다. 이것들은 한계적인 숫자가 아니며 희망을 말합니다.
 
