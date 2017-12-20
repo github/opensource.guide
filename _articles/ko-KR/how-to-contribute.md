@@ -4,7 +4,7 @@ title: 오픈소스에 기여하는 방법
 description: 오픈소스에 기여하고 싶습니까? 초보자와 숙련자를 위한 오픈소스 기여에 대한 가이드입니다.
 class: contribute
 toc:
-  why-contribute-to-open-source: "왜 오픈 소스에 기여 하나요?"
+  why-contribute-to-open-source: "왜 오픈소스에 기여 하나요?"
   what-it-means-to-contribute: "기여한다는 것의 의미"
   orienting-yourself-to-a-new-project: "새로운 프로젝트에 동참하기"
   finding-a-project-to-contribute-to: "기여할 프로젝트 찾기"
@@ -63,7 +63,7 @@ related:
 
 ### 코드를 제공할 필요가 없습니다
 
-오픈 소스에 기여하는 것에 대한 일반적인 오해는 코드를 작성해야한다는 것입니다. 실제로 대부분 프로젝트에서 [무시되거나 간과되는 부분](https://github.com/blog/2195-the-shape-of-open-source)입니다 . 이러한 유형의 기여를 제공하도록 제안함으로써 프로젝트에 큰 도움을 줄 것입니다!
+오픈소스에 기여하는 것에 대한 일반적인 오해는 코드를 작성해야한다는 것입니다. 실제로 대부분 프로젝트에서 [무시되거나 간과되는 부분](https://github.com/blog/2195-the-shape-of-open-source)입니다 . 이러한 유형의 기여를 제공하도록 제안함으로써 프로젝트에 큰 도움을 줄 것입니다!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -159,29 +159,29 @@ While "open source" often refers to software, you can collaborate on just about 
   </p>
 </aside>
 
-For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
+오타를 수정하는 이상의 것, 오픈소스에 기여하는 것은 파티에서 낯선 사람들에게 다가가는 것과 같습니다. 라마에 대해 이야기하기 시작하면, 금붕어에 관한 토론이 깊어지면서 아마 당신을 조금 이상하게 보게 될 것입니다.
 
-Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
+자신의 제안으로 맹목적으로 뛰어 들기 전에, 먼저 방을 읽는 법을 배우십시오. 그렇게하면 아이디어가 눈에 띄고 들리게 될 확률이 높아집니다.
 
 ### 오픈소스 프로젝트의 해부학
 
 모든 오픈소스 커뮤니티는 다릅니다.
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+하나의 오픈소스 프로젝트에 수년을 보내다 보면 하나의 오픈소스 프로젝트를 알게되었다는 것을 의미합니다. 다른 프로젝트로 이동하면 어휘, 규범 및 의사 소통 스타일이 완전히 다른 것을 알 수 있습니다.
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+즉, 많은 오픈소스 프로젝트는 비슷한 조직 구조를 따릅니다. 서로 다른 커뮤니티 역할과 전반적인 프로세스를 이해하면 새로운 프로젝트를 신속하게 수행할 수 있습니다.
 
-A typical open source project has the following types of people:
+일반적인 오픈소스 프로젝트에는 다음 유형의 사람들이 있습니다:
 
-* **작성자:** The person/s or organization that created the project
-* **소유자:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **메인테이너:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
-* **기여자:** Everyone who has contributed something back to the project.
-* **커뮤니티 맴버:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
+* **작성자:** 이 프로젝트를 만든 사람 혹은 조직
+* **소유자:** 조직 또는 저장소에 대한 관리 권한을 가진 사람 (항상 원래 작성자와 동일하지는 않음)
+* **메인테이너:** 비전을 주도하고 프로젝트의 조직 측면을 관리하는 책임이 있는 기여자. (그들은 프로젝트의 저자 또는 소유자일 수도 있습니다.)
+* **기여자:** 프로젝트에 다시 기여한 모든 사람.
+* **커뮤니티 맴버:** 프로젝트를 사용하는 사람들. 대화에서 적극적이거나 프로젝트 방향에 대한 의견을 표명할 수 있습니다.
 
 Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+프로젝트에도 문서가 있습니다. 이러한 파일은 대개 저장소의 최상위 레벨에 나열됩니다.
 
 * **라이선스:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
 * **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
@@ -198,23 +198,23 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 ## 기여할 프로젝트 찾기
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+이제 오픈소스 프로젝트가 어떻게 작동하는지 알게 되었으니, 이제는 기여할 프로젝트를 찾아야 할 때입니다!
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
+이전에 오픈소스에 기여한 적이 없다면, John F. Kennedy 미국 대통령의 _"Ask not what your country can do for you - ask what you can do for your country."_ 발언에서 조언을 구하십시오.
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+오픈소스에 기여하는 것은 프로젝트 전반에 걸쳐 모든 수준에서 발생합니다. 첫 번째 기여가 정확히 무엇인지 또는 어떻게 보일지를 생각할 필요가 없습니다.
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+대신, 이미 사용하고 있거나 사용하고 싶은 프로젝트에 대해 생각해보십시오. 적극적으로 기여할 프로젝트는 자신이 다시 찾아 오는 프로젝트입니다.
 
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+그 프로젝트 내에서, 뭔가가 더 좋거나 다를 수 있다고 생각할 때마다 본능에 따라 행동하십시오.
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+오픈소스는 독점적인 클럽이 아닙니다; 그것은 당신 같은 사람들에 의해 만들어졌습니다. "오픈소스"는 전세계 문제를 유연하게 해결할 수 있는 멋진 용어입니다.
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+README를 스캔하여 깨진 링크 또는 오타를 찾을 수 있습니다. 또는 새로운 사용자이고 무언가가 고장 났거나, 실제로 문서에 있어야한다고 생각되는 문제를 발견했습니다. 그것을 무시하고 계속 나아가거나, 다른 사람에게 그것을 고치라고 요구하는 대신, 피칭을 통해 도움을 줄 수 있는지 확인하십시오. 오픈소스가 무엇인지 알아보십시오!
 
-> [28% of casual contributions](http://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> [일반적인 기여의 28%](http://www.igor.pro.br/publica/papers/saner2016.pdf)는 오타 수정, 서식 재 지정 또는 번역 작성과 같은 문서입니다.
 
-You can also use one of the following resources to help you discover and contribute to new projects:
+또한 다음 리소스 중 하나를 사용하여 새 프로젝트를 찾고 기여할 수 있습니다.
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
@@ -403,49 +403,49 @@ You can also use one of the following resources to help you discover and contrib
 >
 > 😢 _"X 가 망가졌네요! 이거 고쳐주세요."_
 
-**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**미리 과제하기.** 무언가 알지는 못하지만 시도한 것을 보여주십시오. 도움을 요청하기 전에 프로젝트의 README, 문서, 이슈 (공개 또는 비공개), 메일링 리스트를 확인하고 인터넷에서 답변을 검색하십시오. 사람들은 당신이 배우려고한다는 것을 증명할 때 감사해할 것입니다.
 
 > 😇 _"X를 구현하는 방법을 잘 모르겠네요. 도움말 문서를 확인했고 모든 멘션도 찾지 못했습니다."_
 >
 > 😢 _"X는 어떻게 해요?"_
 
-**Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
+**요청을 짧고 직접적으로 유지하기.** 이메일을 보내는 것과 마찬가지로 모든 기여는 아무리 간단하거나 도움이된다 하더라도, 다른 사람의 검토가 필요합니다. 많은 프로젝트는 도움을 줄 수있는 사람들보다 많은 요청을 받고 있습니다. 간결하게 하십시오. 누군가가 당신을 도울 수있는 기회를 증가시킬 것입니다.
 
 > 😇 _"API 튜토리얼을 작성하고 싶습니다."_
 >
-> 😢 _"저는 다른 날 고속도로를 몰고 가스로 달려 들었어요. 그리고 나서 저는 우리가 해야 할 일에 대해 이 놀라운 생각을 가지고 있었고요. 그렇지만 제가가 설명하기 전에, 님께 보여주기 위해서..."_
+> 😢 _"저는 다른 날 고속도로를 몰고 가스로 달려 들었어요. 그리고 나서 저는 우리가 해야 할 일에 대해 이 놀라운 생각을 가지고 있었고요. 그렇지만 제가 설명하기 전에, 님께 보여주기 위해서..."_
 
-**Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
+**모든 커뮤니케이션을 공개하기.** 유혹스러운 일이긴하지만, 중요한 정보(예 : 보안 문제 또는 심각한 행동 위반)를 공유해야하는 경우가 아니면 메인테이너에게 개인적으로 연락하지 마십시오. 대화를 공개 할 때 더 많은 사람들이 귀하의 교류를 통해 배우고 이익을 얻을 수 있습니다. 토론은 그 자체로 기여할 수 있습니다.
 
 > 😇 _(댓글로) "@-메인테이너 안녕하세요! 이 PR은 어떻게 진행되고 있나요?"_
 >
 > 😢 _(이메일로) "안녕하세요, 이메일을 보내서 죄송합니다만.제 PR을 검토할 기회가 있었는지 궁금합니다."_
 
-**It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
+**질문을 하는 것은 괜찮습니다(그러나 참을성 있으십시오!).** 누구나 프로젝트를 처음 접했을뿐 아니라 경험 많은 공헌자도 새로운 프로젝트를 볼 때 속도를 높여야 합니다. 마찬가지로, 오랜 기간의 메인테이너가 프로젝트의 모든 부분을 항상 잘 알고있는 것은 아닙니다. 그들에게 당신이 보여주기를 바라는 것과 같은 인내심을 보여주십시오.
 
 > 😇 _"이 오류 찾아주셔서 고맙습니다. 저는 이 제안에 따를게요. 이렇게 출력되네요."_
 >
 > 😢 _"왜 내 문제를 해결할 수 없어요? 이 프로젝트는 님이 만든게 아닌가요?"_
 
-**Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+**커뮤니티의 의사 결정을 존중하기.** 귀하의 아이디어는 커뮤니티의 우선 순위 또는 비전과 다를 수 있습니다. 그들은 의견을 제시하거나 아이디어를 추구하지 않기로 결정할 수 있습니다. 토론하고 타협을 찾아야하지만, 메인테이너는 당신보다 더 오래 결정을 내리지 않고 살아야합니다. 당신이 그들의 방향에 동의하지 않으면, 당신은 항상 자신의 포크에서 일하거나 자신의 프로젝트를 시작할 수 있습니다.
 
 > 😇 _"제 use case를 지원할 수 없다는 점에 실망했지만, 사용자의 작은 부분에만 영향을 주었다고 설명하셨으니 이해됩니다. 들어주셔서 감사합니다."_
 >
 > 😢 _"왜 use case를 지원하지 않나요? 납득할 수 없네요!"_
 
-**Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
+**무엇보다도 고급스러움을 유지하기.** 오픈소스는 전 세계의 공동 작업자로 구성됩니다. 컨텍스트는 언어, 문화, 지역 및 시간대에 걸쳐 손실됩니다. 또한 서면 의사 소통을 통해 분위기 나 분위기를 전달하기가 더 어려워집니다. 이 대화에서 좋은 의도를 가정하십시오. 정중하게 생각을 뒤로 밀거나, 더 많은 맥락을 묻거나, 더 자세하게 설명하는 것은 좋습니다. 인터넷을 찾은 때보다 더 나은 곳을 떠나보십시오.
 
-### Gathering context
+### 컨텍스트 수집
 
 Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
 
 If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by opening an issue or pull request:
 
-* **Issues** are like starting a conversation or discussion
-* **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
+* **이슈**는 대화나 토론을 시작하는 것과 같습니다
+* **Pull requests** 는 솔루션에서 일을 시작하기 위한 것입니다
+* 명확한 질문이나 How-To 질문과 같은 **간단한 커뮤니케이션의 경우,** 프로젝트에 하나의 채팅 채널이있으면 스택 오버플로우, IRC, 슬랙 또는 다른 채팅 채널을 요청합니다
 
-Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
+이슈를 열거나 pull request을 요청하기 전에, 프로젝트의 기여 문서(일반적으로 CONTRIBUTING 또는 README 파일)를 확인하여 구체적인 내용을 포함해야하는지 확인하십시오. 예를 들어, 템플릿을 따르거나 테스트를 사용하도록 요청할 수 있습니다.
 
 If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
 
@@ -459,13 +459,13 @@ If you want to make a substantial contribution, open an issue to ask before work
 
 ### 이슈 열기
 
-You should usually open an issue in the following situations:
+일반적으로 다음과 같은 상황에서 이슈를 열어야합니다:
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (ex. community, vision, policies)
-* Propose a new feature or other project idea
+* 스스로 해결할 수 없는 오류를 보고
+* 높은 수준의 주제 또는 아이디어 (예시. 커뮤니티, 비전, 정책) 토론
+* 새로운 기능이나 다른 프로젝트 아이디어 제안
 
-Tips for communicating on issues:
+이슈에서 의사소통을 위한 팁:
 
 * **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
 * **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
@@ -473,14 +473,14 @@ Tips for communicating on issues:
 
 ### pull request 열기
 
-You should usually open a pull request in the following situations:
+일반적으로 다음 상황에서 pull request를 열어야합니다:
 
 * Submit trivial fixes (ex. a typo, broken link, or obvious error)
 * Start work on a contribution that was already asked for, or that you've already discussed, in an issue
 
 A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
 
-If the project is on GitHub, here's how to submit a pull request:
+프로젝트가 GitHub에 있는 경우, pull request을 제출하는 방법은 다음과 같습니다:
 
 * **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
 * **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
@@ -505,15 +505,15 @@ If you haven't gotten a response in over a week, it's fair to politely respond i
 
 **Don't** reach out to that person privately; remember that public communication is vital to open source projects.
 
-If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+정중한 충돌을 하고도 아직 아무도 응답하지 않으면, 아무도 응답하지 않을 가능성이 있습니다. 그것은 큰 감정이 아니지만, 그것이 당신을 낙담하게 하지마십시오. 모두에게 일어난 일입니다! 귀하가 통제 할 수 없는 개인적 상황을 포함하여 응답을 받지 못한 이유는 여러 가지가 있을 수 있습니다. 다른 프로젝트나 기여 방법을 찾으십시오. 다른 커뮤니티 구성원들이 참여하고 반응하기 전에 기여에 많은 시간을 투자하지 않는 것이 좋은 이유입니다.
 
 ### 🚧 누군가 기여를 변경 요청해야합니다.
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+아이디어의 범위에 대한 피드백이든 코드의 변경 사항이든, 기여 내용을 변경하라는 메시지가 표시되는 것이 일반적입니다.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+누군가 변경 사항을 요청하면, 반응적입니다. 그들은 당신의 기여를 검토할 시간을 가졌습니다. PR을 열고 멀리두는 것은 나쁜 형태입니다. 만약 변경 방법을 모르는 경우, 문제를 조사한 다음 필요한 경우 도움을 요청하십시오.
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+만약 더 이상 문제를 해결할 시간이 없다면 (예를 들어, 대화가 몇 달 동안 계속되고 상황이 변경된 경우), 메인테이너에게 알려서 응답을 기대하지 않도록 하십시오. 다른 사람이 기꺼이 받아 들일 수 있습니다.
 
 ### 👎 귀하의 기여가 받아지지 않았습니다.
 
