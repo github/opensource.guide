@@ -57,10 +57,6 @@ related:
 
 ## 기여한다는 것의 의미
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
-
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
-
 새로운 오픈소스 기여자라면, 기여하는 과정이 위협적일 수 있습니다. 올바른 프로젝트를 어떻게 찾을 수 있습니까? 코딩 방법을 모르는 경우에는 어떻게 해야합니까? 뭔가 잘못되면 어떡하죠?
 
 걱정 마세요! 오픈소스 프로젝트에 참여하는 데는 여러 가지 방법이 있으며, 몇 가지 팁을 통해 경험을 최대한 활용할 수 있습니다.
@@ -87,20 +83,20 @@ Not to worry! There are all sorts of ways to get involved with an open source pr
   </p>
 </aside>
 
-### Do you like planning events?
+### 기획 행사가 마음에 드십니까?
 
 * Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
 * Organize the project's conference (if they have one)
 * Help community members find the right conferences and submit proposals for speaking
 
-### Do you like to design?
+### 디자인하고 싶습니까?
 
 * Restructure layouts to improve the project's usability
 * Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * Put together a style guide to help the project have a consistent visual design
 * Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
 
-### Do you like to write?
+### 글 쓰고 싶습니까?
 
 * Write and improve the project's documentation
 * Curate a folder of examples showing how the project is used
@@ -116,44 +112,44 @@ Not to worry! There are all sorts of ways to get involved with an open source pr
   </p>
 </aside>
 
-### Do you like organizing?
+### 조직하는 것을 좋아합니까?
 
 * Link to duplicate issues, and suggest new issue labels, to keep things organized
 * Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
 * Ask clarifying questions on recently opened issues to move the discussion forward
 
-### Do you like to code?
+### 코드 작성하고 싶습니까?
 
 * Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
 * Ask if you can help write a new feature
 * Automate project setup
 * Improve tooling and testing
 
-### Do you like helping people?
+### 사람들을 돕는 것을 좋아합니까?
 
 * Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
 * Answer questions for people on open issues
 * Help moderate the discussion boards or conversation channels
 
-### Do you like helping others code?
+### 다른 사람들의 코드를 돕는 것을 좋아합니까?
 
 * Review code on other people's submissions
 * Write tutorials for how a project can be used
 * Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### 소프트웨어 프로젝트만으로 작업할 필요는 없습니다!
 
 While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
 
-For example:
+예시로 아래와 같습니다:
 
 * @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
 * @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
 * @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
+비록 당신이 소프트웨어 개발자일지라도, 문서 프로젝트 작업은 오픈소스에서 시작하는 데 도움이 될 수 있습니다. 코드를 포함하지 않는 프로젝트에서 작업하는 것이 종종 위협적이지 않으며, 협업 프로세스가 자신감과 경험을 쌓을 수 있습니다.
 
-## Orienting yourself to a new project
+## 새로운 프로젝트에 동참하기
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -167,9 +163,9 @@ For anything more than a typo fix, contributing to open source is like walking u
 
 Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
 
-### Anatomy of an open source project
+### 오픈소스 프로젝트의 해부학
 
-Every open source community is different.
+모든 오픈소스 커뮤니티는 다릅니다.
 
 Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
 
@@ -177,21 +173,21 @@ That said, many open source projects follow a similar organizational structure. 
 
 A typical open source project has the following types of people:
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project.
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
+* **작성자:** The person/s or organization that created the project
+* **소유자:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
+* **메인테이너:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
+* **기여자:** Everyone who has contributed something back to the project.
+* **커뮤니티 맴버:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
 
 Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
 
 A project also has documentation. These files are usually listed in the top level of a repository.
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
+* **라이선스:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
 * **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
 * **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
 * **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+* **다른 문서:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
 
 Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
 
@@ -200,7 +196,7 @@ Finally, open source projects use the following tools to organize discussion. Re
 * **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (ex. _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 * **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 
-## Finding a project to contribute to
+## 기여할 프로젝트 찾기
 
 Now that you've figured out how open source projects work, it's time to find a project to contribute to!
 
@@ -229,149 +225,149 @@ You can also use one of the following resources to help you discover and contrib
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
-### A checklist before you contribute
+### 기여하기 전 체크리스트
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+기여하고 싶은 프로젝트를 찾았으면, 프로젝트가 기여를 받기에 적합한 지 빠르게 확인하십시오. 그렇지 않으면, 노력이 절대로 응답을 받지 못할 수도 있습니다.
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+다음은 프로젝트가 새로운 기여자에게 좋은가에 대한 여부를 평가하는 편리한 체크리스트입니다.
 
-**Meets the definition of open source**
+**오픈소스의 정의를 충족시킵니다**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+  라이선스가 있습니까? 대부분, 저장소의 최상단에 있는 LICENSE라 불리는 파일입니다.
   </label>
 </div>
 
-**Project actively accepts contributions**
+**프로젝트가 적극적으로 기여를 받습니다**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+마스터 브랜치에서 커밋 활동을 살펴보십시오. GitHub에서는 이 정보를 저장소의 홈페이지에서 볼 수 있습니다.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
+  최신 커밋은 언제 있습니까?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
+  프로젝트에 참여한 기여자가 몇 명입니까?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+  얼마나 사람들 자주 커밋합니까? (깃허브에서는, 상단 바에 있는 "Commits"을 클릭하여 찾을 수 있습니다.)
   </label>
 </div>
 
-Next, look at the project's issues.
+다음으로, issues 프로젝트의 이슈를 봅시다.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+    얼마나 많은 공개 이슈가 있습니까?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
+    메인테이너가 열린 이슈에 신속하게 대응합니까?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+    이슈에 대한 활발한 토론이 있습니까?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+    최근에 이슈가 있습니까?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+    이슈가 닫히고 있습니까? (깃허브에서는, 이슈 페이지에서 닫힌 이슈를 "closed" 탭을 눌러 볼 수 있습니다.)
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+이제 프로젝트의 pull requests에 대해 동일한 작업을 수행하십시오.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+    얼마나 많은 pull requests가 열리고 있습니까?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+    메인테이너가 열린 pull requests에 신속하게 대응합니까?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+    pull requests에서 활발히 토론이 나옵니까?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+    최근 pull requests가 있습니까?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+    최근 모든 pull requests가 병합되고 있습니까? (깃허브에서는,pull requests 페이지에서 "closed" 탭을 눌러 닫힌 PR을 볼 수 있습니다.)
   </label>
 </div>
 
-**Project is welcoming**
+**프로젝트가 환영합니다**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+프로젝트가 친근하게 환영한다는 신호로 새로운 기여자를 받아 들일 것입니다.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
+    관리자가 이슈의 질문에 도움이 됩니까?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (ex. IRC or Slack)?
+    이슈, 토론 포럼 및 채팅(예를 들어. IRC 혹은 Slack)에 있는 사람들이 친절합니까?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
+    pull requests가 리뷰를 받고 있습니까?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
+    메인테이너가 기여자들에게 고마워합니까?
   </label>
 </div>
 
@@ -379,63 +375,63 @@ A project that is friendly and welcoming signals that they will be receptive to 
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
   Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_OSS 생산_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
-## How to submit a contribution
+## 기여 제출 방법
 
-You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
+원하는 프로젝트를 찾았으면 기꺼이 기여할 준비가되었습니다. 마침내! 올바른 방법으로 기여를 받는 방법은 다음과 같습니다.
 
-### Communicating effectively
+### 효과적으로 의사 소통하기
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+일회 기여자이든 커뮤니티에 참여하려고하든, 관계없이 다른 사람들과 협력하는 것은 오픈소스에서 개발할 가장 중요한 기술 중 하나입니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/7693422?v=3&s=460" class="pquote-avatar" alt="avatar">
   \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [초보자가 오픈소스 세계를 통해 즐기는 매우 울퉁불퉁한 여정](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
 </aside>
 
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+이슈를 열거나 pull request를 하기 전에, 또는 채팅에서 질문을 하기 전에, 아이디어를 효과적으로 전달할 수 있도록 이러한 점을 명심하십시오.
 
-**Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
+**context 제공하기.** 다른 사람들이 신속하게 속도를 낼 수 있도록 도와주십시오. 오류가 발생하는 경우, 수행하려는 작업과 오류를 재현하는 방법을 설명하십시오. 새로운 아이디어를 제안하는 경우, 프로젝트에 유용하다고 생각하는 이유를 설명하십시오 (귀하뿐 아니라!).
 
-> 😇 _"X doesn't happen when I do Y"_
+> 😇 _"제가 Y를 하려면 X가 안됩니다"_
 >
-> 😢 _"X is broken! Please fix it."_
+> 😢 _"X 가 망가졌네요! 이거 고쳐주세요."_
 
 **Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
 
-> 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
+> 😇 _"X를 구현하는 방법을 잘 모르겠네요. 도움말 문서를 확인했고 모든 멘션도 찾지 못했습니다."_
 >
-> 😢 _"How do I X?"_
+> 😢 _"X는 어떻게 해요?"_
 
 **Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
 
-> 😇 _"I'd like to write an API tutorial."_
+> 😇 _"API 튜토리얼을 작성하고 싶습니다."_
 >
-> 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
+> 😢 _"저는 다른 날 고속도로를 몰고 가스로 달려 들었어요. 그리고 나서 저는 우리가 해야 할 일에 대해 이 놀라운 생각을 가지고 있었고요. 그렇지만 제가가 설명하기 전에, 님께 보여주기 위해서..."_
 
 **Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
 
-> 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
+> 😇 _(댓글로) "@-메인테이너 안녕하세요! 이 PR은 어떻게 진행되고 있나요?"_
 >
-> 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
+> 😢 _(이메일로) "안녕하세요, 이메일을 보내서 죄송합니다만.제 PR을 검토할 기회가 있었는지 궁금합니다."_
 
 **It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
 
-> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
+> 😇 _"이 오류 찾아주셔서 고맙습니다. 저는 이 제안에 따를게요. 이렇게 출력되네요."_
 >
-> 😢 _"Why can't you fix my problem? Isn't this your project?"_
+> 😢 _"왜 내 문제를 해결할 수 없어요? 이 프로젝트는 님이 만든게 아닌가요?"_
 
 **Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
 
-> 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
+> 😇 _"제 use case를 지원할 수 없다는 점에 실망했지만, 사용자의 작은 부분에만 영향을 주었다고 설명하셨으니 이해됩니다. 들어주셔서 감사합니다."_
 >
-> 😢 _"Why won't you support my use case? This is unacceptable!"_
+> 😢 _"왜 use case를 지원하지 않나요? 납득할 수 없네요!"_
 
 **Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
 
@@ -457,11 +453,11 @@ If you want to make a substantial contribution, open an issue to ask before work
   <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
   You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
 <p markdown="1" class="pquote-credit">
-— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+— @gaearon [프로젝트 합류](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
-### Opening an issue
+### 이슈 열기
 
 You should usually open an issue in the following situations:
 
@@ -475,7 +471,7 @@ Tips for communicating on issues:
 * **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
 * **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
-### Opening a pull request
+### pull request 열기
 
 You should usually open a pull request in the following situations:
 
@@ -495,13 +491,13 @@ If the project is on GitHub, here's how to submit a pull request:
 
 If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a free walkthrough resource.
 
-## What happens after you submit a contribution
+## 기여를 제출하면 어떻게됩니까?
 
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+훌륭합니다! 오픈소스 기여자가 되신 것을 축하드립니다. 우리는 그것이 많은 사람들 중 첫번째가 되기를 바랍니다.
 
-After you submit a contribution, one of the following will happen:
+기여를 제출하면 다음 중 하나가 발생합니다.
 
-### 😭 You don't get a response.
+### 😭 당신은 응답을 얻지 못합니다.
 
 Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
 
@@ -511,7 +507,7 @@ If you haven't gotten a response in over a week, it's fair to politely respond i
 
 If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 누군가 기여를 변경 요청해야합니다.
 
 It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
 
@@ -519,13 +515,13 @@ When someone requests changes, be responsive. They've taken the time to review y
 
 If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 귀하의 기여가 받아지지 않았습니다.
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
+귀하의 기여는 결국 받아지거나 수락되지 않을 수도 있습니다. 다행히도 이미 너무 많은 작업을 하지 않았으면 합니다. 왜 그것이 받아들여지지 않았는지 확신할 수 없다면, 메인테이너 담당자에게 피드백과 설명을 요청하는 것이 합리적입니다. 그러나 궁극적으로 이것이 자신의 결정임을 존중해야합니다. 논쟁하거나 적대적인 태도를 취하지 마십시오. 동의하지 않으면, 항상 자신의 버전을 포크하고 작업할 수 있습니다!
 
-### 🎉 Your contribution gets accepted.
+### 🎉 귀하의 기여가 받아졌습니다.
 
-Hooray! You've successfully made an open source contribution!
+만세! 성공적으로 오픈소스 기여를 만들었습니다!
 
 ## 훌륭합니다!
 
