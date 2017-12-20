@@ -94,7 +94,7 @@ related:
 
 ## 프로젝트의 지지자가 있는 (오프라인)으로 이동하기
 
-![공개 연설](/assets/images/finding-users/public_speaking.jpg)
+![Public speaking](/assets/images/finding-users/public_speaking.jpg)
 
 오프라인 이벤트는 새로운 프로젝트를 홍보하는 인기있는 방법입니다. 참여한 잠재 지지자에게 도달하거나, 더 깊은 인간 관계를 구축 할 수 있는 좋은 방법입니다. 특히 개발자에게 다가가려는 경우 더욱 그렇습니다.
 
