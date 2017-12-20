@@ -31,29 +31,29 @@ related:
 
 왜 사람들은 오픈소스에 기여합니까? 이에는 많은 이유가 있습니다!
 
-### Improve existing skills
+### 기존 기술 향상
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+코딩, 사용자 인터페이스 디자인, 그래픽 디자인, 글쓰기 또는 조직화등의 실습을 원한다면 오픈소스 프로젝트에 대한 작업이 있습니다.
 
-### Meet people who are interested in similar things
+### 비슷한 것에 관심이있는 사람들을 만나십시오
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+따뜻하고 환영하는 커뮤니티가 있는 오픈소스 프로젝트는 사람들이 수년간 돌아오도록합니다. 많은 사람들이 부리토에 관한 회의나 심야 온라인 채팅를 가지고 서로를 실행하고 있든간에 오픈소스에 참여함으로써 평생동안 우정을 나누고 있습니다.
 
-### Find mentors and teach others
+### 멘토를 찾고 다른 사람들을 가르치십시오
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+공유 프로젝트에서 다른 사람들과 함께 일한다는 것은 당신이 일을 어떻게하는지 설명하고, 다른 사람들에게 도움을 요청해야 함을 의미합니다. 학습하고 가르치는 행위는 관련된 모든 사람들에게 성취감있는 활동이 될 수 있습니다.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### 평판(및 경력)을 키우는 데 도움이 되는 공공 예제 만들기
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+정의에 따르면, 모든 오픈소스 저작물은 공개되어 있으므로, 어디서나 할 수 있는 무료 예제를 얻을 수 있습니다.
 
-### Learn people skills
+### 사람들의 기술 습득
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+오픈소스는 충돌 해결, 사람들의 팀 구성 및 작업 우선순위 지정과 같은 리더십 및 관리 기술을 연습 할 수있는 기회를 제공합니다.
 
-### It's empowering to be able to make changes, even small ones
+### 작은 것조차도 변경할 수 있는 힘이 있습니다
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+오픈소스에 참여하는 것을 즐기는 평생 기여자가 될 필요는 없습니다. 웹 사이트에 오타가 있는 것을 본 적이 있고, 누군가 그것을 고치기를 바랬습니까? 오픈소스 프로젝트에서 여러분은 그렇게 할 수 있습니다. 오픈소스는 사람들이 삶에 대해 어떻게 대처하고 그들이 세상을 경험하는지를 느끼도록 도와줍니다.
 
 ## 기여한다는 것의 의미
 
@@ -61,25 +61,29 @@ If you're a new open source contributor, the process can be intimidating. How do
 
 Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
 
-### You don't have to contribute code
+새로운 오픈소스 기여자라면, 기여하는 과정이 위협적일 수 있습니다. 올바른 프로젝트를 어떻게 찾을 수 있습니까? 코딩 방법을 모르는 경우에는 어떻게 해야합니까? 뭔가 잘못되면 어떡하죠?
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+걱정 마세요! 오픈소스 프로젝트에 참여하는 데는 여러 가지 방법이 있으며, 몇 가지 팁을 통해 경험을 최대한 활용할 수 있습니다.
+
+### 코드를 제공할 필요가 없습니다
+
+오픈 소스에 기여하는 것에 대한 일반적인 오해는 코드를 작성해야한다는 것입니다. 실제로 대부분 프로젝트에서 [무시되거나 간과되는 부분](https://github.com/blog/2195-the-shape-of-open-source)입니다 . 이러한 유형의 기여를 제공하도록 제안함으로써 프로젝트에 큰 도움을 줄 것입니다!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
   I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["기본적으로 OSS으로 이동하기"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+코드 작성을 원한다고해도, 다른 유형의 기여는 프로젝트에 참여하고 다른 커뮤니티 회원을 만날 수 있는 좋은 방법입니다. 이러한 관계를 구축하면 프로젝트의 다른 부분에서 작업 할 수있는 기회가 주어집니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
   I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
   <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
+— @brettcannon, ["메인테이너 이야기"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
