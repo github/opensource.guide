@@ -135,18 +135,18 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 * **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
 * **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
 
-Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+[npm](https://github.com/npm/npm) 및 [Docker](https://github.com/docker/docker)와 같은 일부 인기있는 프로젝트는, 사업 성장을 지원하기 위해 벤처 캐피탈을 조성하기까지 합니다.
 
 ### 보조금 신청하기
 
 일부 소프트웨어 재단 및 회사는 오픈소스 작업에 대한 보조금을 제공합니다. 때로는 프로젝트에 대한 법적 주체를 설정하지 않고 개인에게 보조금을 지급할 수 있습니다.
 
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
-* **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
-* The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
+* **[Read the Docs](https://github.com/rtfd/readthedocs.org)**는 [Mozilla 오픈소스 지원](https://www.mozilla.org/en-US/grants/)으로부터 보조금을 받았습니다
+* **[OpenMRS](https://github.com/openmrs)** work는 [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)으로부터 펀드받았습니다
+* **[Libraries.io](https://github.com/librariesio)**는 [Sloan 재단](https://sloan.org/programs/digital-technology)으로부터 보조금을 받았습니다
+* **[Python 소프트웨어 재단](https://www.python.org/psf/grants/)**은 파이썬 관련 작업에 대한 보조금을 제공합니다
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+보다 자세한 옵션과 사례 연구를 원할 경우, @nayafia [가이드 작성](https://github.com/nayafia/lemonade-stand)을 통해 오픈소스 저작물에 대한 대가를 받을 수 있습니다. 다른 유형의 기금에는 여러 가지 기술이 필요하기 때문에 어떤 옵션이 가장 적합한 지 알아 내려면 장점을 고려하십시오.
 
 ## 재정 지원 사례 구축하기
 
