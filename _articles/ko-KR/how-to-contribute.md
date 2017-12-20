@@ -4,12 +4,12 @@ title: 오픈소스에 기여하는 방법
 description: 오픈소스에 기여하고 싶습니까? 초보자와 숙련자를 위한 오픈소스 기여에 대한 가이드입니다.
 class: contribute
 toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
+  why-contribute-to-open-source: "왜 오픈 소스에 기여 하나요?"
+  what-it-means-to-contribute: "기여한다는 것의 의미"
+  orienting-yourself-to-a-new-project: "새로운 프로젝트에 동참하기"
+  finding-a-project-to-contribute-to: "기여할 프로젝트 찾기"
+  how-to-submit-a-contribution: "기여 제출 방법"
+  what-happens-after-you-submit-a-contribution: "기여를 제출하면 어떻게됩니까?"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -17,19 +17,19 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## 왜 오픈소스에 기여 하나요?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
   Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["왜 나는 오프소스 소프트웨어에 기여하는 것을 좋아하는가"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+오픈소스에 기여하는 것은 당신이 상상할 수 있는 모든 기술을 배우고, 가르치고, 구축하는 보람찬 방법이 될 수 있습니다.
 
-Why do people contribute to open source? Plenty of reasons!
+왜 사람들은 오픈소스에 기여합니까? 이에는 많은 이유가 있습니다!
 
 ### Improve existing skills
 
@@ -55,7 +55,7 @@ Open source offers opportunities to practice leadership and management skills, s
 
 You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
 
-## What it means to contribute
+## 기여한다는 것의 의미
 
 If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
 
@@ -523,6 +523,6 @@ Your contribution may or may not be accepted in the end. Hopefully you didn't pu
 
 Hooray! You've successfully made an open source contribution!
 
-## You did it!
+## 훌륭합니다!
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+처음으로 오픈소스에 기여한 사람이든, 새로운 방식으로 기여할 사람을 찾고 있든, 우리는 이 행동에 영감을 얻으시기 바랍니다. 기여가 승인되지 않더라도, 관리자가 당신을 돕기 위해 노력할 때 감사하다는 말을 잊지 마십시오. 오픈소스는 당신과 같은 사람들이 만듭니다: one issue, pull request, comment, or high-five at a time.
