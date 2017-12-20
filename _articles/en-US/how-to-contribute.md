@@ -114,7 +114,7 @@ Even if you like to write code, other types of contributions are a great way to 
 
 ### Do you like organizing?
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
+* Link two duplicate issues, and suggest new issue labels, to keep things organized
 * Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
 * Ask clarifying questions on recently opened issues to move the discussion forward
 
