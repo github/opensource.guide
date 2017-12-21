@@ -29,19 +29,19 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 사람들이 오픈소스 작업을 위해 돈을 내고 싶어하지 않는 데에는 여러 가지 이유가 있습니다.
 
-* **그들은 이미 좋아하는 정규직을 가질 수 있어서,** 여유 시간에 오픈소스에 기여할 수 있습니다.
+* **그들은 이미 좋아하는 정규직 직업을 가질 예정이여서,** 여유 시간에 오픈소스에 기여할 수 있습니다.
 * **그들은 오픈소스를 취미** 또는 창조적인 탈출구로 생각하고 프로젝트에 대한 재정적 의무를 느끼고 싶지 않습니다.
-* **그들은 오픈소스에 기여함으로써 다른 이익을 얻고,** 자신의 평판이나 포트폴리오를 구축하고, 새로운 기술을 배우며, 커뮤니티에 더 가까이 다가가는 느낌을 주는 일을 합니다.
+* **그들은 오픈소스에 기여함으로써 사적인 이익을 얻고,** 자신의 평판이나 포트폴리오를 구축하고, 새로운 기술을 배우며, 커뮤니티에 더 가까이 다가가는 느낌을 주는 일을 합니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/2320?v=3&s=460" class="pquote-avatar" alt="avatar">
   Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
   <p markdown="1" class="pquote-credit">
-— @alloy, ["우리가 왜 기부를 허락하면 안되는가"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
+— @alloy, ["우리가 왜 기여를 허락하면 안되는가"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-다른 사람들에게, 특히 기여가 진행 중이거나 상당한 시간이 필요한 경우, 프로젝트가 요구하거나 개인적인 이유로 참여할 수있는 유일한 방법은 오픈소스에 기여하기 위해 값을 지불하는 것입니다.
+다른 사람들에게, 특히 기여가 진행 중이거나 상당한 시간이 필요한 경우, 프로젝트가 요구하거나 개인적인 이유로 참여할 수 있는 유일한 방법은 오픈소스에 기여하기 위해 값을 지불하는 것입니다.
 
 대중적인 프로젝트를 유지하는 것은 한 달에 몇 시간이라 하기보다는 주당 10-20시간을 소비하는 중요한 책임입니다.
 
@@ -69,7 +69,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 오늘날, 많은 사람들이 오픈소스에서 파트 타임 또는 풀 타임으로 일하기 위해 돈을 받습니다. 당신의 시간에 대한 대금을 받는 가장 일반적인 방법은 고용주와 상담하는 것입니다.
 
-고용주가 프로젝트를 실제로 사용하고 오픈소스 작업에 대한 사례를 만드는 것이 더 쉽지만, 자신의 계획대로 창의력을 발휘하십시오. 어쩌면 고용주가 프로젝트를 사용하지 않고 파이썬을 이용한 인기있는 파이썬 프로젝트를 유지한다면, 새로운 파이썬 개발자를 유치 할 수 있습니다. 어쩌면 고용주가 일반적으로 더 개발자 친화적인 것처럼 보일 수도 있습니다.
+고용주가 프로젝트를 실제로 사용하고 오픈소스 작업에 대한 사례를 만드는 것이 더 쉽지만, 자신의 계획대로 창의력을 발휘하십시오. 어쩌면 고용주가 프로젝트를 사용하지 않고 파이썬을 이용한 인기있는 파이썬 프로젝트를 유지한다면, 새로운 파이썬 개발자를 유치할 수 있습니다. 어쩌면 고용주가 일반적으로 더 개발자 친화적인 것처럼 보일 수도 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -79,11 +79,9 @@ I was looking for a "hobby" programming project that would keep me occupied duri
   </p>
 </aside>
 
-기존의 오픈소스 프로젝트가 없지만 현재 작업 결과물이 오픈소스인 경우, 고용주가 내부 소프트웨어의 일부를 소스로 오픈할 수있는 사례를 작성하십시오.
+기존의 오픈소스 프로젝트가 없지만 현재 작업 결과물이 오픈소스인 경우, 고용주가 내부 소프트웨어의 일부를 스스로 오픈할 수 있는 사례를 작성하십시오.
 
 많은 기업들이 브랜드를 구축하고 우수한 인재를 영입하기 위해 오픈소스 프로그램을 개발하고 있습니다.
-
-@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source]
 
 예를 들어 @hueniverse는, [Walmart의 오픈소스에 대한 투자](http://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html)를 정당화 할 재정적인 이유가 있음을 발견했습니다. 그리고 @jamesgpearce는 Facebook의 오픈소스 프로그램이 채용에서 [차이를 만들었다](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon)는 사실을 발견했습니다:
 
@@ -102,7 +100,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 현 고용주가 오픈소스 업무의 우선 순위를 결정할 수 없다면, 직원의 오픈소스 기여도를 높이는 새로운 고용주를 찾는 것이 좋습니다. 오픈소스 작업에 대한 헌신을 분명히 하는 회사를 찾아보십시오. 예시입니다 :
 
 * 일부 회사는, [넷플릭스](https://netflix.github.io/)혹은 [페이팔](http://paypal.github.io/)처럼, 오픈소스에 대한 그들의 참여를 강조하는 웹 사이트를 가지고있습니다
-* [Rackspace](https://www.rackspace.com/en-us)는 직원을 위한 [오픈소스 기여 정책](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/)를 게시했습니다 
+* [Rackspace](https://www.rackspace.com/en-us)는 직원을 위한 [오픈소스 기여 정책](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/)을 게시했습니다 
 
 [Go](https://github.com/golang)또는 [React](https://github.com/facebook/react)와 같은 대기업에서 시작된 프로젝트도, 오픈소스 작업에 사람들을 고용 할 가능성이 높습니다.
 
@@ -114,7 +112,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 개인 기여자를 위한 준비 외에도, 때로는 프로젝트가 회사, 개인 또는 다른 사람들로부터 지속적인 자금 마련을 위해 펀드를 모으는 경우가 있습니다.
 
-조직 펀딩은 현재 참여자에게 비용을 지불하거나, 프로젝트 수행 비용 (호스팅 비용 등)을 충당하거나, 새로운 기능이나 아이디어에 투자하는 쪽으로 갈 수 있습니다.
+조직 펀딩은 현재 참여자에게 비용을 지불하거나, 프로젝트 수행 비용(호스팅 비용 등)을 충당하거나, 새로운 기능이나 아이디어에 투자하는 쪽으로 갈 수 있습니다.
 
 오픈소스의 대중성이 높아짐에 따라, 프로젝트 펀딩은 아직 실험적이지만, 몇가지 공통적인 옵션이 있습니다.
 
@@ -131,9 +129,9 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 프로젝트에 따라 상업적 지원, 호스팅 옵션 또는 추가 기능에 대해 요금을 부과할 수 있습니다. 몇 가지 예는 다음과 같습니다:
 
-* **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
-* **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
-* **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
+* **[Sidekiq](https://github.com/mperham/sidekiq)** 은 추가 지원을 위해 유료 버전을 제공합니다
+* **[Travis CI](https://github.com/travis-ci)** 는 제품의 유료 버전을 제공합니다
+* **[Ghost](https://github.com/TryGhost/Ghost)** 는 유료 관리 서비스가 있는 비영리 단체입니다
 
 [npm](https://github.com/npm/npm) 및 [Docker](https://github.com/docker/docker)와 같은 일부 인기있는 프로젝트는, 사업 성장을 지원하기 위해 벤처 캐피탈을 조성하기까지 합니다.
 
@@ -168,11 +166,11 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 ### 펀드 사용
 
-제안된 자금으로 정확히 무엇을 달성 할 수 있습니까? 급여를 지급하기보다는 프로젝트 이정표 또는 결과에 중점을 둡니다.
+제안된 자금으로 정확히 무엇을 달성할 수 있습니까? 급여를 지급하기보다는 프로젝트 이정표 또는 결과에 중점을 둡니다.
 
 ### 펀드로 송금하기
 
-기금 제공자는 출산 관련 요구 사항이 있습니까? 예를 들어 비영리 단체 또는 비영리 단체 재정 보증인이 필요할 수 있습니다. 또는 자금을 조직이 아닌 개별 계약자에게 제공해야합니다. 이러한 요구 사항은 자금 제공자마다 다르므로 사전에 연구해야합니다.
+기금 제공자의 관련 요구 사항이 있습니까? 예를 들어 비영리 단체 또는 비영리 단체 재정 보증인이 필요할 수 있습니다. 또는 자금을 조직이 아닌 개별 계약자에게 제공해야합니다. 이러한 요구 사항은 자금 제공자마다 다르므로 사전에 연구해야합니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1076721?v=3&s=460" class="pquote-avatar" alt="avatar">
