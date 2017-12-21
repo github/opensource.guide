@@ -85,13 +85,13 @@ related:
 
 ### 기획 행사가 마음에 드십니까?
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* [@fzamperin이 NodeSchool에 대했던 것처럼](https://github.com/nodeschool/organizers/issues/406), 프로젝트에 관한 워크샵이나 모임을 조직하기
+* 프로젝트 컨퍼런스 구성하기 (있는 경우)
+* 커뮤니티 구성원들이 적절한 회의를 찾고 말하기에 대한 제안서 제출하기
 
 ### 디자인하고 싶습니까?
 
-* Restructure layouts to improve the project's usability
+* 프로젝트의 유용성을 높이기 위해 레이아웃 재구성하기
 * Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * Put together a style guide to help the project have a consistent visual design
 * Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
@@ -114,9 +114,9 @@ related:
 
 ### 조직하는 것을 좋아합니까?
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
+* 중복된 이슈에 대한 링크 및 새로운 이슈 라벨 제안, 정리된 상태 유지하기
 * Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* 최근 열린 이슈에 대한 질문을 명확히 하여 토론으로 나아가게하기
 
 ### 코드 작성하고 싶습니까?
 
@@ -139,13 +139,13 @@ related:
 
 ### 소프트웨어 프로젝트만으로 작업할 필요는 없습니다!
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+"오픈소스"는 종종 소프트웨어를 의미하지만, 무엇이든간에 거의 협력 할 수 있습니다. 오픈소스 프로젝트로 개발되는 책, 요리법, 목록 및 수업이 있습니다.
 
 예시로 아래와 같습니다:
 
-* @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
-* @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
+* @sindresorhus는 [list of "awesome" lists](https://github.com/sindresorhus/awesome)를 만들었습니다
+* @h5bp는 프론트엔드 개발자 후보군용 [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)을 관리하고 있습니다
+* @stuartlynn과 @nicole-a-tesla는 [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)를 만들었습니다
 
 비록 당신이 소프트웨어 개발자일지라도, 문서 프로젝트 작업은 오픈소스에서 시작하는 데 도움이 될 수 있습니다. 코드를 포함하지 않는 프로젝트에서 작업하는 것이 종종 위협적이지 않으며, 협업 프로세스가 자신감과 경험을 쌓을 수 있습니다.
 
@@ -155,7 +155,7 @@ While "open source" often refers to software, you can collaborate on just about 
   <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
   If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["How to Contribute to Open Source"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["어떻게 오픈소스에 기여하는가"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
@@ -179,22 +179,22 @@ While "open source" often refers to software, you can collaborate on just about 
 * **기여자:** 프로젝트에 다시 기여한 모든 사람.
 * **커뮤니티 맴버:** 프로젝트를 사용하는 사람들. 대화에서 적극적이거나 프로젝트 방향에 대한 의견을 표명할 수 있습니다.
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+더 큰 프로젝트에는 툴링, 선별, 커뮤니티 중재 및 이벤트 조직과 같은 다양한 업무에 초점을 둔 소위원회 또는 실무 그룹이 있을 수도 있습니다. 프로젝트 웹 사이트에서 "팀" 페이지를 찾거나 거버넌스 문서 저장소에 이 정보를 찾으십시오.
 
 프로젝트에도 문서가 있습니다. 이러한 파일은 대개 저장소의 최상위 레벨에 나열됩니다.
 
 * **라이선스:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
-* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
+* **README:** README는 새로운 커뮤니티 구성원을 프로젝트에 환영하게 하는 지침서입니다. 왜 프로젝트가 유용하고 시작하는 방법을 설명합니다.
 * **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
 * **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
 * **다른 문서:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+마지막으로 오픈소스 프로젝트는 다음 도구를 사용하여 토론을 구성합니다. 기록 보관소를 읽으면 커뮤니티가 어떻게 사고하고 작동하는지 잘 알 수 있습니다.
 
 * **Issue tracker:** Where people discuss issues related to the project.
 * **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (ex. _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+* **토론 포럼 혹은 메일링 리스트:** 일부 프로젝트는 회화 주제(ex. _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests)에 대해 이러한 채널을 사용할 수 있습니다. 다른 사람들은 모든 대화에 이슈 트래커를 사용합니다.
+* **동기식 채널 채팅:** 일부 프로젝트에서는 일상 회화, 공동 작업 및 빠른 교환을 위해 채팅 채널 (예 : 슬랙 또는 IRC)을 사용합니다.
 
 ## 기여할 프로젝트 찾기
 
@@ -437,9 +437,9 @@ README를 스캔하여 깨진 링크 또는 오타를 찾을 수 있습니다. �
 
 ### 컨텍스트 수집
 
-Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+어떤 일을 하기 전에, 빠른 시일내에 당신의 아이디어가 다른 곳에서 논의되지 않았는지 확인하십시오. 프로젝트의 README, 이슈(공개 및 폐쇄), 메일링 리스트 및 스택 오버플로우를 생략하십시오. 모든 것을 처리하는 데 몇 시간을 허비하지 않아도 되지만, 핵심 용어에 대한 빠른 검색은 먼 길을 가집니다.
 
-If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by opening an issue or pull request:
+다른 곳에서 아이디어를 찾을 수 없다면, 움직일 준비가 된 것입니다. 프로젝트가 GitHub에 있다면, 이슈를 열거나 pull request을 열어 소통할 수 있습니다:
 
 * **이슈**는 대화나 토론을 시작하는 것과 같습니다
 * **Pull requests** 는 솔루션에서 일을 시작하기 위한 것입니다
@@ -447,7 +447,7 @@ If you can't find your idea elsewhere, you're ready to make a move. If the proje
 
 이슈를 열거나 pull request을 요청하기 전에, 프로젝트의 기여 문서(일반적으로 CONTRIBUTING 또는 README 파일)를 확인하여 구체적인 내용을 포함해야하는지 확인하십시오. 예를 들어, 템플릿을 따르거나 테스트를 사용하도록 요청할 수 있습니다.
 
-If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+실질적인 기여를 하고 싶다면, 이슈를 열고 작업하십시오. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -475,10 +475,10 @@ If you want to make a substantial contribution, open an issue to ask before work
 
 일반적으로 다음 상황에서 pull request를 열어야합니다:
 
-* Submit trivial fixes (ex. a typo, broken link, or obvious error)
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+* 사소한 수정 사항 제출 (예 : 오타, 깨진 링크 또는 분명한 오류)
+* 이미 이슈를 열었거나 이미 논의한 내용을 기여로 시작하기
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+pull request은 완료된 작업을 나타내지 않아도됩니다. 일반적으로 초기에 pull request을 열면 다른 사람이 진행 상황을 보거나 피드백을 줄 수 있습니다. 제목 줄에 "WIP"(진행중인 작업)이라고 표시하십시오. 나중에 커밋을 더 추가 할 수 있습니다.
 
 프로젝트가 GitHub에 있는 경우, pull request을 제출하는 방법은 다음과 같습니다:
 
@@ -501,9 +501,9 @@ If this is your first pull request, check out [Make a Pull Request](http://makea
 
 Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
 
-If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+1주일 이내에 응답을 받지 못했다면, 같은 쓰레드에서 정중하게 응답하여 누군가에게 검토를 요청하는 것이 좋습니다. 기여자를 검토할 수있는 적절한 사람의 이름을 아는 경우, 해당 스레드에서 이름을 @로 표기할 수 있습니다.
 
-**Don't** reach out to that person privately; remember that public communication is vital to open source projects.
+**절대** 그 사람에게 개인적으로 연락하지 마세요; 공개적인 의사소통은 오픈소스 프로젝트에서 필수적이라는 것을 기억하십시오.
 
 정중한 충돌을 하고도 아직 아무도 응답하지 않으면, 아무도 응답하지 않을 가능성이 있습니다. 그것은 큰 감정이 아니지만, 그것이 당신을 낙담하게 하지마십시오. 모두에게 일어난 일입니다! 귀하가 통제 할 수 없는 개인적 상황을 포함하여 응답을 받지 못한 이유는 여러 가지가 있을 수 있습니다. 다른 프로젝트나 기여 방법을 찾으십시오. 다른 커뮤니티 구성원들이 참여하고 반응하기 전에 기여에 많은 시간을 투자하지 않는 것이 좋은 이유입니다.
 
