@@ -92,50 +92,50 @@ related:
 ### 디자인하고 싶습니까?
 
 * 프로젝트의 유용성을 높이기 위해 레이아웃 재구성하기
-* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Put together a style guide to help the project have a consistent visual design
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+* [Drupal 제안처럼](https://www.drupal.org/community-initiatives/drupal-core/usability),사용자 조사를 통해, 프로젝트의 네비게이션 또는 메뉴를 재구성하고 수정하기 
+* 프로젝트가 일관성있는 시각적 디자인을 가질 수 있도록, 스타일 가이드를 작성하기
+* [hapi.js의 기여처럼](https://github.com/hapijs/contrib/issues/68), 티셔츠 혹은 새로운 로고를 위한 예슐 작품 만들기
 
 ### 글 쓰고 싶습니까?
 
-* Write and improve the project's documentation
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Write a translation for the project's documentation
+* 프로젝트의 문서 작성 및 개선하기
+* 프로젝트 사용법을 보여주는 예제 폴더를 선별하기
+* 프로젝트의 뉴스 레터를 시작하거나 메일링 리스트의 하이라이트를 관리하십시오.
+* [PyPA의 기여처럼](https://github.com/pypa/python-packaging-user-guide/issues/194), 프로젝트의 튜토리얼을 작성하기.
+* 프로젝트의 문서의 번역문 작성하기
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
   Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
   <p markdown="1" class="pquote-credit">
-— @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
+— @kittens, ["기여자 부르기"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
 ### 조직하는 것을 좋아합니까?
 
 * 중복된 이슈에 대한 링크 및 새로운 이슈 라벨 제안, 정리된 상태 유지하기
-* Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
+* [@nzakas가 ESLint에 했던것처럼](https://github.com/eslint/eslint/issues/6765), 열려있는 이슈를 검토하고, 오래된 이슈를 닫을 것을 제안하기 
 * 최근 열린 이슈에 대한 질문을 명확히 하여 토론으로 나아가게하기
 
 ### 코드 작성하고 싶습니까?
 
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* [@dianjin이 Leaflet 했던것처럼](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560), 해결할 문제를 찾기
+* 새로운 기능을 작성하는 데 도움을 줄 수 있는지 물어보기
+* 프로젝트 설정 자동화하기
+* 툴링 및 테스트 개선하기
 
 ### 사람들을 돕는 것을 좋아합니까?
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+* 예를 들어, Stack Overflow의 ([Postgres 예시](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) 혹은 Reddit과 관련된 질문에 대답해주기
+* 열린 이슈에서 사람들의 질문에 대답해주기
+* 토론 보드나 대화 채널의 관리 돕기
 
 ### 다른 사람들의 코드를 돕는 것을 좋아합니까?
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* 다른 사람들의 제출한 코드를 리뷰하기
+* 프로젝트를 어떻게 쓰는가에 대한 튜토리얼 작성하기
+* [@ereichert처럼 Rust에서 @bronzdoc을 사용하고](https://github.com/rust-lang/book/issues/123#issuecomment-238049666), 다른 기여자를 멘토로 초대하기
 
 ### 소프트웨어 프로젝트만으로 작업할 필요는 없습니다!
 
@@ -183,11 +183,11 @@ related:
 
 프로젝트에도 문서가 있습니다. 이러한 파일은 대개 저장소의 최상위 레벨에 나열됩니다.
 
-* **라이선스:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
+* **라이선스:** 정의에 의하면, 모든 오픈소스 프로젝트는 반드시 [오픈소스 라이선스를 가져야 합니다](https://choosealicense.com). 만약 프로젝트가 라이선스를 가지지 않는다면, 이건  오픈소스가 아닙니다.
 * **README:** README는 새로운 커뮤니티 구성원을 프로젝트에 환영하게 하는 지침서입니다. 왜 프로젝트가 유용하고 시작하는 방법을 설명합니다.
-* **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **다른 문서:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+* **CONTRIBUTING:** README는 사람들이 프로젝트를 사용하는 데 도움이되지만, CONTRIBUTING 문서는 사람들이 프로젝트에 _기여_하는 데 도움이됩니다. 필요한 기여 유형과 프로세스 작동 방식을 설명합니다. 모든 프로젝트가 CONTRIBUTING 파일을 갖고있는 것은 아니지만, 공존하는 환영 프로젝트임을 알립니다.
+* **CODE_OF_CONDUCT:** code of conduct는 참가자의 행동에 대한 기본 원칙을 설정하고, 친절하고 환영할만한 환경을 조성하는 데 도움이 됩니다. 모든 프로젝트가 CODE_OF_CONDUCT 파일을 가지고있는 것은 아니지만, 그 존재가 기여할 수 있는 환영 프로젝트임을 알립니다.
+* **다른 문서:** (특히 큰 프로젝트의 경우) 튜토리얼, 연습장 또는 거버넌스 정책과 같은 추가 문서가 있을 수 있습니다.
 
 마지막으로 오픈소스 프로젝트는 다음 도구를 사용하여 토론을 구성합니다. 기록 보관소를 읽으면 커뮤니티가 어떻게 사고하고 작동하는지 잘 알 수 있습니다.
 
@@ -447,7 +447,7 @@ README를 스캔하여 깨진 링크 또는 오타를 찾을 수 있습니다. �
 
 이슈를 열거나 pull request을 요청하기 전에, 프로젝트의 기여 문서(일반적으로 CONTRIBUTING 또는 README 파일)를 확인하여 구체적인 내용을 포함해야하는지 확인하십시오. 예를 들어, 템플릿을 따르거나 테스트를 사용하도록 요청할 수 있습니다.
 
-실질적인 기여를 하고 싶다면, 이슈를 열고 작업하십시오. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+실질적인 기여를 하고 싶다면, 이슈를 열고 작업하십시오. 수락되지 않을 수 있는 일을 하기 전에(깃허브에서는, ["Watch"를 클릭](https://help.github.com/articles/watching-repositories/)하여 토론을 알림 받을 수 있습니다), 잠시동안 프로젝트를 보고 커뮤니티 멤버를 알게되면 도움이됩니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -467,9 +467,9 @@ README를 스캔하여 깨진 링크 또는 오타를 찾을 수 있습니다. �
 
 이슈에서 의사소통을 위한 팁:
 
-* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
-* **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-* **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+* **해결하려는 이슈가 공개적으로 보이면,** 사람들이 당신이 그것에 대해 알 수 있도록 이슈에 대해 의견을 말하십시오. 그렇게하면 사람들은 중복으로 작업할 가능성이 줄어 듭니다.
+* **이슈가 조금 전에 열렸다면,** 다른 곳에서 해결되었거나, 이미 해결되었기 때문에 작업을 시작하기 전에 확인을 요청하십시오.
+* **이슈를 열었지만 나중에 대답을 알아 낸 경우,** 사람들에게 알리고 이슈를 해결할 수 있도록 이슈에 대한 의견을 말하십시오. 그 결과를 문서화하는 것조차도 프로젝트에 대한 기여입니다.
 
 ### pull request 열기
 
@@ -482,14 +482,14 @@ pull request은 완료된 작업을 나타내지 않아도됩니다. 일반적�
 
 프로젝트가 GitHub에 있는 경우, pull request을 제출하는 방법은 다음과 같습니다:
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
-* **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
-* **Reference any relevant issues** or supporting documentation in your PR (ex. "Closes #37.")
-* **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
-* **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+* **[저장소를 포크하고](https://guides.github.com/activities/forking/)** 로컬에 클론합니다. 리모트로 추가하여 로컬을 원래의 "업스트림"저장소에 연결하십시오. "업스트림"의 변경 사항을 자주 가져 와서 최신 상태로 유지하면 pull request을 제출할 때, 병합 충돌이 덜 발생할 수 있습니다. ([이 곳](https://help.github.com/articles/syncing-a-fork/)에서 더 자세한 지침보기.)
+* 수정을 위한 **[브랜치 생성하기](https://guides.github.com/introduction/flow/)**.
+* **모든 관련있는 이슈** 혹은 PR에서 지원중인 문서 참조하기 (ex. "#37 닫음.")
+* **전후의 스크린 샷 포함합니다** 변경 사항에 HTML/CSS의 차이가 포함되어있는 경우, pull request의 본문에 이미지를 끌어다 놓습니다.
+* **변경점을 테스트합니다!** 기존 테스트가 있는 경우 변경 사항을 실행하고 필요한 경우 새 테스트를 작성하십시오. 테스트의 존재 여부와 상관없이 변경 사항이 기존 프로젝트를 손상시키지 않는지 확인하십시오.
+* 당신의 능력을 최대한 발휘하여 **프로젝트 스타일에 기여하십시오.** 이는 들여 쓰기, 세미콜론 또는 주석을 자신의 저장소에서와 다르게 사용하는 것을 의미 할 수 있지만, 메인테이너가 병합하기 쉽고, 다른 사람들이 나중에 이해하고 유지할 수 있게 해줍니다.
 
-If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a free walkthrough resource.
+만약 이것이 첫 pull request 라면, @kentcdodds가 무료 walkthrough 리소스로 생성한 [Make a Pull Request](http://makeapullrequest.com/)를 확인하십시오.
 
 ## 기여를 제출하면 어떻게됩니까?
 
@@ -499,7 +499,7 @@ If this is your first pull request, check out [Make a Pull Request](http://makea
 
 ### 😭 당신은 응답을 얻지 못합니다.
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+기여를 하기 전에, [활동의 징조가 있는지 프로젝트를 확인](#a-checklist-before-you-contribute)했기를 바랍니다. 그러나 활발한 프로젝트에서도 기여가 응답을 받지 못할 수도 있습니다.
 
 1주일 이내에 응답을 받지 못했다면, 같은 쓰레드에서 정중하게 응답하여 누군가에게 검토를 요청하는 것이 좋습니다. 기여자를 검토할 수있는 적절한 사람의 이름을 아는 경우, 해당 스레드에서 이름을 @로 표기할 수 있습니다.
 
