@@ -64,9 +64,9 @@ related:
 
 소규모 프로젝트의 경우, 리더 지정은 README 또는 CONTRIBUTORS 텍스트 파일에 이름을 추가하는 것처럼 간단할 수 있습니다.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [Postgres](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+대규모 프로젝트의 경우,만약 웹사이트를 가지고있다면, 팀 페이지를 만들거나 거기에 프로젝트 리더를 나열하십시오. 예시로, [Postgres](https://github.com/postgres/postgres/)는 각각 기여자를 위한 짧은 프로필을 [포괄적인 팀 페이지](https://www.postgresql.org/community/contributors/)에 넣었습니다.
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (ex. security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+만약 프로젝트에 매우 활발하게 기여한 커뮤니티가 있는 경우, 메인테이너 또는 다른 이슈 영역(예시. 보안, 이슈 security, 시위, 커뮤니티 행동)의 소유권을 가진 사람들의 소위원회로 "핵심 팀"을 구성 할 수 있습니다. 사람들이 자신을 할당하는 것이 아니라, 가장 흥분되는 역할에 대해 스스로 조직하고 자원 봉사하게 하십시오.
 
 <aside markdown="1" class="pquote">
   \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
@@ -77,7 +77,7 @@ If your project has a very active contributor community, you might form a "core 
 
 Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md.
+리더십 역할을 확립한 후에는 사람들이 어떻게 달성할 수 있는지 문서화하는 것을 잊지 마십시오! 누군가가 어떻게 메인테이너나 프로젝트의 소위원회에 참여할 수 있는지에 대한 명확한 프로세스를 수립하고 GOVERNANCE.md에 기록합시다.
 
 Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
 
@@ -85,11 +85,11 @@ Finally, if your project is on GitHub, consider moving your project from your pe
 
 ## 누군가에게 언제 커밋 권한을 부여해야합니까?
 
-Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
+어떤 사람들은 당신이 기여하는 모든 사람에게 헌신적으로 접근해야한다고 생각합니다. 그렇게하면 더 많은 사람들이 프로젝트 소유권을 느낄 수 있습니다.
 
-On the other hand, especially for bigger, more complex projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+반면에, 특히 더 크고 복잡한 프로젝트의 경우, 자신의 의지를 입증한 사람들에게만 커밋 액세스 권한을 부여할 수 있습니다. 그렇게하는 데 올바른 방법이 없습니다 - 당신을 가장 편안하게 만드는 것은 무엇입니까!
 
-If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
+만약 GitHub에 프로젝트가 있다면, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/15000?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -101,27 +101,27 @@ If your project is on GitHub, you can use [protected branches](https://help.gith
 
 ## 오픈소스 프로젝트의 공통적인 관리 구조에는 어떤 것들이 있습니까?
 
-There are three common governance structures associated with open source projects.
+오픈소스 프로젝트와 관련된 세 가지 공통 관리 구조가 있습니다.
 
 * **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
 
-* **Meritocracy:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](http://www.apache.org/); [all Apache projects](http://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **실력주의:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](http://www.apache.org/); [all Apache projects](http://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
 
-* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://nodejs.org/en/foundation/) and [Rust](https://www.rust-lang.org/en-US/).
+* **자유주의 기여:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://nodejs.org/en/foundation/) and [Rust](https://www.rust-lang.org/en-US/).
 
-Which one should you use? It's up to you! Every model has advantages and trade-offs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
+어느 것을 사용해야합니까? 그것은 당신에게 달렸습니다! 모든 모델에는 장점과 절충점이 있습니다. 처음에는 전혀 다른 것처럼 보일 수 있지만, 세 모델 모두 공통적으로 보입니다. 이 모델 중 하나를 채택하는 데 관심이 있다면 다음 템플릿을 확인하십시오:
 
-* [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
-* [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Node.js's liberal contribution policy](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
+* [BDFL 모델 템플릿](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
+* [실력주의 모델 템플릿](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
+* [Node.js의 자유주의 기여 정책](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
 
 ## 프로젝트를 시작할 때 거버넌스 문서가 필요합니까?
 
-There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
+프로젝트 관리 방식을 작성할 적절한 시기는 없지만, 커뮤니티 역학 관계가 성립했다면 정의하는 것이 훨씬 쉽습니다. 오픈소스 관리에 대한 가장 좋은(그리고 가장 어려운) 부분은 그것이 커뮤니티에 의해 형성된다는 것입니다!
 
-Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch.
+일부 초기 문서는 필연적으로 프로젝트 관리에 기여할 것이므로, 가능하다면 글을 써내려가는 것을 시작하십시오. 예를 들어, 프로젝트 시작시에도 동작에 대한 명확한 기대치 또는 기여 프로세스가 어떻게 작동하는지 정의할 수 있습니다.
 
-If you're part of a company launching an open source project, it's worth having an internal discussion before launch about how your company expects to maintain and make decisions about the project moving forward. You may also want to publicly explain anything particular to how your company will (or won't!) be involved with the project.
+오픈소스 프로젝트를 시작한 회사의 일원이라면, 회사가 앞으로 나아갈 프로젝트에 대한 결정을 유지하고 결정할 방법에 대해 공개하기 전에 내부 토론을 가질 필요가 있습니다. 귀사가 프로젝트에 참여하는 방법에 대해 공개적으로 설명하고 싶을 수도 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/691109?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -133,25 +133,25 @@ If you're part of a company launching an open source project, it's worth having 
 
 ## 기업 직원이 기여를 제출하기 시작하면 어떻게됩니까?
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+성공적인 오픈소스 프로젝트는 많은 사람들과 회사에서 사용되며, 결국 일부 회사는 궁극적으로 프로젝트에 묶인 수익원을 갖게 될 것입니다. 예를 들어, 회사는 상용 서비스에서 프로젝트 코드를 하나의 구성 요소로 사용할 수 있습니다.
 
-As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
+프로젝트가 널리 사용됨에 따라 전문 지식을 보유한 사람들은 더 많은 수요가 생깁니다. - 때로는 프로젝트에서 수행하는 일에 대해 보수를 받습니다.
 
-It's important to treat commercial activity as normal and as just another source of development energy. Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits. However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+상업 활동을 평범하고 또 다른 개발 에너지 원으로 간주하는 것이 중요합니다. 유료 개발자는 물론 지불하지 않은 애플리케이션에 대해서는 특별한 대우를 받아서는 안됩니다. 각 기부금은 기술적 장점으로 평가되어야합니다. 그러나 사람들은 상업 활동에 익숙해져야하며, 특정 향상이나 기능을 선호할 때 자신의 use cases에 대해 쉽게 알 수 있어야합니다.
 
-"Commercial" is completely compatible with "open source". "Commercial" just means there is money involved somewhere - that the software is used in commerce, which is increasingly likely as a project gains adoption. (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+"상용"은 "오픈소스"와 완전히 호환됩니다. "상업적"이란 말은 어딘가에 돈이 들어 있다는 의미입니다. 소프트웨어가 상용으로 사용되고 있다는 것이고, 프로젝트가 채택되면서 점점 더 많이 이용 될 가능성이 높습니다. 오픈소스 소프트웨어가 비 오픈소스 제품의 일부로 사용될 때, 전체 제품은 여전히 ​​"독점"소프트웨어이지만, 오픈소스와 마찬가지로 상업적 또는 비상업적 용도로 사용될 수 있습니다.
 
-Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+다른 사람들과 마찬가지로, 상업적 동기를 부여받은 개발자는 기여도의 질과 양을 통해 프로젝트에 영향력을 행사합니다. 분명히 일정한 시간동안 돈을 지불한 개발자는 돈을 지불하지 않은 사람보다 더 많은 것을 할 수 있지만, 괜찮습니다. 지불은 누군가가 얼마나 많은 영향을 줄 수 있는지에 대한 많은 요인 중 하나일뿐입니다. 사람들이 그 기여를 할 수 있게 해주는 외적 요인이 아닌, 기여에 초점을 맞춘 프로젝트 토론을 유지하십시오.
 
 ## 내 프로젝트를 지원하기 위해 법인이 필요합니까?
 
-You don't need a legal entity to support your open source project unless you're handling money.
+돈을 처리할 필요가 없다면, 오픈소스 프로젝트를 지원하는 법인이 필요하지 않습니다.
 
-For example, if you want to create a commercial business, you'll want to set up a C Corp or LLC (if you're based in the US). If you're just doing contract work related to your open source project, you can accept money as a sole proprietor, or set up an LLC (if you're based in the US).
+예시로, 상업용 비즈니스를 만들고 싶다면 C Corp 또는 LLC(미국에 거주하는 경우)를 설정해야합니다. 오픈소스 프로젝트와 관련된 계약 업무를 수행하는 중이라면, 독점 주인으로 돈을 받거나 LLC (미국에있는 경우)를 설립할 수 있습니다.
 
-If you want to accept donations for your open source project, you can set up a donation button (using PayPal or Stripe, for example), but the money won't be tax-deductible unless you are a qualifying nonprofit (a 501c3, if you're in the US).
+만약 오픈소스 프로젝트에 대한 기부를 받고 싶다면, (예를 들어 PayPal 또는 Stripe을 사용하여)기부 버튼을 설정할 수 있지만, 하지만 자격이 되는 비영리 단체(미국에 거주하는 경우 501c3)가 아닌 이상 돈은 세금 공제되지 않습니다.
 
-Many projects don't wish to go through the trouble of setting up a nonprofit, so they find a nonprofit fiscal sponsor instead. A fiscal sponsor accepts donations on your behalf, usually in exchange for a percentage of the donation. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](http://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) are examples of organizations that serve as fiscal sponsors for open source projects.
+많은 프로젝트가 비영리 단체를 설립하는 문제를 겪고 싶어하지 않으므로, 대신 비영리 재정 스폰서를 찾습니다. 재정 보증인은 귀하를 대신하여 기부금을 수령합니다. [Software Freedom Conservancy](https://sfconservancy.org/), [아파치 재단](http://www.apache.org/), [이클립스 재단](https://eclipse.org/org/foundation/), [리눅스 재단](https://www.linuxfoundation.org/projects) 그리고 [Open Collective](https://opencollective.com/opensource)는 오픈소스 프로젝트를 위한 회계 스폰서 역할을하는 조직의 예시입니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3671070?v=3&s=460" class="pquote-avatar" alt="avatar">
