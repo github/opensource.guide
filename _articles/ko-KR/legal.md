@@ -4,13 +4,13 @@ title: 오픈소스의 법적 측면
 description: 오픈소스의 법적 측면과 당신이 하지 않은 몇가지 사항에 대해 궁금해하는 모든 것입니다.
 class: legal
 toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"
-  are-public-github-projects-open-source: "Are public GitHub projects open source?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Just give me the TL;DR on what I need to protect my project"
-  which-open-source-license-is-appropriate-for-my-project: "Which open source license is appropriate for my project?"
-  what-if-i-want-to-change-the-license-of-my-project: "What if I want to change the license of my project?"
-  does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
-  what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
+  why-do-people-care-so-much-about-the-legal-side-of-open-source: "왜 사람들은 오픈소스의 법적 측면에 많은 관심을 보이고 있습니까?"
+  are-public-github-projects-open-source: "공개 GitHub 프로젝트는 오픈소스입니까?"
+  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "내 프로젝트를 보호하기 위해 필요한 DR;TL 제공해주기"
+  which-open-source-license-is-appropriate-for-my-project: "내 프로젝트에 적합한 오픈소스 라이선스는 무엇입니까?"
+  what-if-i-want-to-change-the-license-of-my-project: "프로젝트 라이센스를 변경하려면 어떻게해야합니까?"
+  does-my-project-need-an-additional-contributor-agreement: "내 프로젝트에 추가 기여자 계약이 필요합니까?"
+  what-does-my-companys-legal-team-need-to-know: "우리 회사의 법률 팀은 무엇을 알아야합니까?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -18,49 +18,49 @@ related:
   - leadership
 ---
 
-## Understanding the legal implications of open source
+## 오픈소스의 법적 영향에 대한 이해
 
-Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about. Thankfully, you don't have to start from scratch. We've got your legal needs covered. (Before you dig in, be sure to read our [disclaimer](../notices/).)
+세계와 창의적인 작업을 공유하는 것은 흥미롭고 보람있는 경험이 될 수 있습니다. 그것은 또한 당신이 모른다고 걱정해야한다는 것을 합법적이라는 걸로 의미 할 수 있습니다. 고맙게도 처음부터 다시 시작할 필요는 없습니다. 귀하의 법적 요구 사항이 있습니다. (이 내용을 파기전에, [면책조항](../notices/)을 읽으십시오.)
 
-## Why do people care so much about the legal side of open source?
+## 왜 사람들은 오픈소스의 법적 측면에 많은 관심을 보이고 있습니까?
 
-Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
+물어봤다는건 다행입니다! 창의적인 작업(작성, 그래픽 또는 코드)을 할 때, 그 저작물은 기본적으로 독점적인 저작권하에 있습니다. 즉, 법은 귀하의 저작물의 작성자로서 다른 사람들이 할 수 있는 것에 대해 귀하가 말하고있는 것으로 간주합니다.
 
-In general, that means nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
+일반적으로, 이는 타인이 인계, 훼손 또는 소송의 위험이 없이 작업을 사용, 복사, 배포 또는 수정할 수 있음을 의미합니다.
 
-Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
+그러나 오픈소스는 다른 사람들이 작업을 사용, 수정 및 공유하기를 기대하기 때문에 드문 경우입니다. 그러나 법적 기본값은 독점적인 저작권이므로 명시적으로 이러한 사용 권한을 명시한 사용권이 필요합니다.
 
-If you don't apply an open source license, everybody who contributes to your project also becomes an exclusive copyright holder of their work. That means nobody can use, copy, distribute, or modify their contributions -- and that "nobody" includes you.
+오픈소스 라이선스를 신청하지 않으면, 프로젝트에 기여한 모든 사람도 자신의 저작물의 독점적인 저작권자가 됩니다. 즉, 아무도 자신의 기여를 사용, 복사, 배포 또는 수정할 수 없으며 "아무도"에서는 귀하를 포함하지 않는다는 의미입니다.
 
-Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
+마지막으로, 프로젝트는 사용자가 알지 못하는 라이선스 요구 사항과의 종속성을 가질 수 있습니다. 프로젝트의 커뮤니티 또는 고용주의 정책에 따라 프로젝트에서 특정 오픈소스 라이선스를 사용해야 할 수도 있습니다. 아래에서 이러한 상황을 다룰 것입니다.
 
-## Are public GitHub projects open source?
+## 공개 GitHub 프로젝트는 오픈소스입니까?
 
-When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
+깃허브에서 [새로운 프로젝트를 만들려고](https://help.github.com/articles/creating-a-new-repository/) 할 때, **비공개** 또는 **공개** 저장소로 만드는 옵션을 선택할 수 있습니다.
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+**GitHub 프로젝트를 공개하는 것은 프로젝트 라이센싱과 동일하지 않습니다.** 공개 프로젝트는 [GitHub의 서비스 약관](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership)에 명시되어 있으며, 다른 사람들이 프로젝트를 포크화할 수는 있지만, 그렇지 않은 경우에는 권한이 없습니다.
 
-If you want others to use, copy, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
+다른 사람들이 프로젝트를 사용, 복사, 수정 또는 다시 사용할 수 있게하려면, 오픈소스 라이선스를 포함해야합니다. 예를 들어, 권한을 부여하지 않는다는 조건에서는 공개적으로 GitHub 프로젝트의 일부를 코드에 명시적으로 사용할 수는 없습니다.
 
-## Just give me the TL;DR on what I need to protect my project.
+## 내 프로젝트를 보호하기 위해 필요한 DR;TL 제공해주기.
 
-You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
+운이 좋았습니다. 오늘날 오픈소스 라이선스는 표준화되어 있고 사용하기 쉽기 때문입니다. 기존 라이선스를 프로젝트에 직접 복사하여 붙여넣을 수 있습니다.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](https://choosealicense.com/).
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), 그리고 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)는 가장 인기있는 오픈소스 라이선스입니다, 그러나 선택할 수 있는 다른 옵션도 있습니다. [choosealicense.com](https://choosealicense.com/)에서 이러한 라이선스의 전체 텍스트 및 사용 방법에 대한 지침을 찾을 수 있습니다.
 
-When you create a new project on GitHub, you'll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
+GitHub에서 새로운 프로젝트를 만들 때, [라이선스를 추가할 것인지 물어봅니다](https://help.github.com/articles/open-source-licensing/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/282759?v=3&s=400" class="pquote-avatar" alt="avatar">
   A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
   <p markdown="1" class="pquote-credit">
-— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+— @benbalter, ["정부 변호인이 오픈소스 소프트웨어&nbsp;라이선스에 대해 알아야할 모든 것"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 
-## Which open source license is appropriate for my project?
+## 내 프로젝트에 적합한 오픈소스 라이선스는 무엇입니까?
 
 If you're starting from a blank slate, it's hard to go wrong with the [MIT License](https://choosealicense.com/licenses/mit/). It's short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including your copyright notice. You'll be able to release the project under a different license if you ever need to.
 
@@ -80,7 +80,7 @@ Your **company** may have specific licensing requirements for its open source pr
 
 When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you'd like to see other options, check out [choosealicense.com](https://choosealicense.com) to find the right license for your project, even if it [isn't software](https://choosealicense.com/non-software/).
 
-## What if I want to change the license of my project?
+## 프로젝트 라이센스를 변경하려면 어떻게해야합니까?
 
 Most projects never need to change licenses. But occasionally circumstances change.
 
@@ -94,7 +94,7 @@ For example, as your project grows it adds dependencies or users, or your compan
 
 Alternatively, you can have contributors agree in advance (via an additional contributor agreement -- see below) to certain license changes under certain conditions, beyond those allowed by your existing open source license. This shifts the complexity of changing licenses a bit. You'll need more help from your lawyers up front, and you'll still want to clearly communicate with your project's stakeholders when executing a license change.
 
-## Does my project need an additional contributor agreement?
+## 내 프로젝트에 추가 기여자 계약이 필요합니까?
 
 Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license. If your project is on GitHub, the GitHub Terms of Service make "inbound=outbound" the [explicit default](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
 
@@ -119,7 +119,7 @@ Some situations where you may want to consider an additional contributor agreeme
 
 If you do need to use an additional contributor agreement with your project, consider using an integration such as [CLA assistant](https://github.com/cla-assistant/cla-assistant) to minimize contributor distraction.
 
-## What does my company's legal team need to know?
+## 우리 회사의 법률 팀은 무엇을 알아야합니까?
 
 If you're releasing an open source project as a company employee, first, your legal team should know that you're open sourcing a project.
 
