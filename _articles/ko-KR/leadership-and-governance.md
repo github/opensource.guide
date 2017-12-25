@@ -75,13 +75,14 @@ related:
   </p>
 </aside>
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+리더십 팀은 IRC와 같이 지정된 채널을 만들거나 프로젝트를 토론하기 위해 정기적으로 (Gitter 또는 Google 행 아웃과 같은)모임을 갖기를 원할 수 있습니다. 다른 사람들이 들을 수 있도록 그 모임을 공개할 수도 있습니다. 
+예시로, [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)는, [매주 근무 시간에 가졌습니다](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
 
 리더십 역할을 확립한 후에는 사람들이 어떻게 달성할 수 있는지 문서화하는 것을 잊지 마십시오! 누군가가 어떻게 메인테이너나 프로젝트의 소위원회에 참여할 수 있는지에 대한 명확한 프로세스를 수립하고 GOVERNANCE.md에 기록합시다.
 
-Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
+[Vossibility](https://github.com/icecrime/vossibility-stack)와 같은 도구는 프로젝트에 기여한 사람(또는 참여하지 않은 사람)을 공개적으로 추적하는 데 도움이 될 수 있습니다. 이 정보를 문서화하면, 메인테이너가 사적인 결정을 내리는 그들만의 커뮤니티라는 인식을 피할 수 있습니다.
 
-Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#share-ownership-of-your-project).
+마지막으로, 프로젝트가 GitHub에 있을 경우, 프로젝트를 개인 계정에서 조직으로 옮기고 적어도 하나의 백업 관리자를 추가하는 것을 고려하십시오. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/)에서는 권한 및 여러 저장소를 쉽게 관리하고 [공유 소유권](../building-community/#share-ownership-of-your-project)을 통해 프로젝트의 유산을 보호합니다.
 
 ## 누군가에게 언제 커밋 권한을 부여해야합니까?
 
@@ -89,7 +90,7 @@ Finally, if your project is on GitHub, consider moving your project from your pe
 
 반면에, 특히 더 크고 복잡한 프로젝트의 경우, 자신의 의지를 입증한 사람들에게만 커밋 액세스 권한을 부여할 수 있습니다. 그렇게하는 데 올바른 방법이 없습니다 - 당신을 가장 편안하게 만드는 것은 무엇입니까!
 
-만약 GitHub에 프로젝트가 있다면, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
+만약 GitHub에 프로젝트가 있다면, [protected branches](https://help.github.com/articles/about-protected-branches/)를 사용하여 특정 브랜치로 푸시 할 수있는 사람과 상황을 관리할 수 ​​있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/15000?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -103,11 +104,11 @@ Finally, if your project is on GitHub, consider moving your project from your pe
 
 오픈소스 프로젝트와 관련된 세 가지 공통 관리 구조가 있습니다.
 
-* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+* **BDFL:** BDFL은 "생명을 위한 자비로운 독재자"(Benevolent Dictator for Life)의 약자입니다. 이 구조하에서 한 사람(보통 프로젝트의 초기 저자)은 모든 주요 프로젝트 결정에 대해 최종 결정권을 갖습니다. [파이썬](https://github.com/python)은 고전적인 예시입니다. 작은 프로젝트는 한명 또는 두명의 관리자가 있기 때문에 기본적으로 BDFL일 것입니다. 한 회사에서 시작된 프로젝트도 BDFL 범주에 속할 수도 있습니다.
 
-* **실력주의:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](http://www.apache.org/); [all Apache projects](http://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **실력주의:** **(Note: "능력주의"라는 용어는 일부 지역 사회에 부정적인 의미를 지니며 [복잡한 사회 정치적 역사](http://geekfeminism.wikia.com/wiki/Meritocracy)를 가지고있습니다.)** 능력있는 사회에서 활동적인 프로젝트 기여가 ("공로"를 입증하는 사람들)에게 공식적인 의사 결정 역할이 부여됩니다. 결정은 일반적으로 순수한 투표 컨센서스를 기반으로합니다. 실력주의 개념은 [Apache Foundation](http://www.apache.org/)에 의해 개척되었습니다; [모든 아파치 프로젝트](http://www.apache.org/index.html#projects-list)는 장점이 있습니다. 기여는 회사가 아니라 집단을 대표하는 개인이 할 수 있습니다.
 
-* **자유주의 기여:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://nodejs.org/en/foundation/) and [Rust](https://www.rust-lang.org/en-US/).
+* **자유주의 기여:** 자유주의 기여 모델하에서, 가장 많은 일을 하는 사람들이 가장 영향력있는 사람으로 인식되지만, 이것은 역사적인 기여가 아니라 현재의 일을 기반으로합니다. 주요 프로젝트 결정은 순수한 표결보다는 합의를 모색하는 과정(주요 불만 사항을 논의)을 토대로 이루어지며, 가능한 많은 공동체 관점을 포함하기 위해 노력합니다. 프로젝트의 인기있는 예제는 [Node.js](https://nodejs.org/en/foundation/)와 [Rust](https://www.rust-lang.org/en-US/)에 포함된 자유주의 기여 모델을 사용합니다.
 
 어느 것을 사용해야합니까? 그것은 당신에게 달렸습니다! 모든 모델에는 장점과 절충점이 있습니다. 처음에는 전혀 다른 것처럼 보일 수 있지만, 세 모델 모두 공통적으로 보입니다. 이 모델 중 하나를 채택하는 데 관심이 있다면 다음 템플릿을 확인하십시오:
 
