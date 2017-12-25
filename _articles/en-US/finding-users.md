@@ -33,7 +33,7 @@ For example, @robb uses code examples to clearly communicate why his project, [C
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
 
 ## Help people find and follow your project
 
@@ -72,7 +72,7 @@ Now that you have a message for your project, and an easy way for people to find
 
 Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](http://stackoverflow.com/), [Reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
