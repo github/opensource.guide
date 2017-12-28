@@ -110,7 +110,7 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
   </p>
 </aside>
 
-Some situations where you may want to consider an additional contributor agreement for your project include:
+프로젝트에 대한 추가 기여자 계약을 고려할 수 있는 몇 가지 상황은 다음과 같습니다:
 
 * Your lawyers want all contributors to expressly accept (_sign_, online or offline) contribution terms, perhaps because they feel the open source license itself is not enough (even though it is!). If this is the only concern, a contributor agreement that affirms the project's open source license should be enough. The [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) is a good example of a lightweight additional contributor agreement. For some projects, a [Developer Certificate of Origin](https://github.com/probot/dco) can be an alternative.
 * Your project uses an open source license that does not include an express patent grant (such as MIT), and you need a patent grant from all contributors, some of whom may work for companies with large patent portfolios that could be used to target you or the project's other contributors and users. The [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf) is a commonly used additional contributor agreement that has a patent grant mirroring the one found in the Apache License 2.0.
