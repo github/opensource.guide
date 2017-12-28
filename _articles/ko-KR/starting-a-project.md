@@ -18,13 +18,13 @@ related:
 
 ## 오픈소스의 "목적" 및 "이유"
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+따라서 오픈소스를 시작하는 것에 대해 생각하고 있습니까? 축하합니다! 세상은 당신의 기여를 높이 평가합니다. 오픈소스란 무엇이며, 왜 사람들이 그렇게하는지 이야기해 봅시다.
 
 ### "오픈소스"란 무엇을 의미합니까?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+프로젝트가 오픈소스일 때,, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+오픈소스는 채택의 장벽을 낮추어 아이디어가 빠르게 확산될 수 있기 때문에 강력합니다.
 
 To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
 
@@ -41,7 +41,7 @@ By comparison, a closed source process would be going to a restaurant and orderi
   <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
   One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
+— @kentcdodds, ["어떻게 오픈 소스에 빠져야 나에게 멋진가?"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
   </p>
 </aside>
 
@@ -85,7 +85,7 @@ If your only goal is to show off your work, you may not even want contributions,
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
   At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
   <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+— @mavris, ["독학 소프트웨어 개발자: 오픈소스가 우리에게 중요한 이유"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
 </aside>
 
@@ -101,7 +101,7 @@ If you need a dedicated budget or staffing for promotion, operations and maintai
   <img src="https://avatars2.githubusercontent.com/u/1857993?v=3&s=460" class="pquote-avatar" alt="avatar">
   As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["그래서 당신은 프로젝트를 오픈소스화하고 싶습니까?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
   </p>
 </aside>
 
@@ -205,7 +205,7 @@ Link to your CONTRIBUTING file from your README, so more people see it. If you [
   <img src="https://avatars3.githubusercontent.com/u/11214?v=3&s=460" class="pquote-avatar" alt="avatar">
   We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
   <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
+— @mlynch, ["오픈소스를 보다 행복한 곳으로 만들기"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
 </aside>
 
@@ -256,7 +256,7 @@ Whether it's official documentation or a casual email, your writing style is par
   <img src="https://avatars0.githubusercontent.com/u/11321?v=3&s=460" class="pquote-avatar" alt="avatar">
   I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["지속 가능한 오픈소스"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
