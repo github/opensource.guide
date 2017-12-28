@@ -4,11 +4,11 @@ title: 오픈소스 프로젝트 시작하기
 description: 오픈소스의 세계에 대해 자세히 알아보고 자신만의 프로젝트를 시작할 준비를 하십시오.
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "The what and why of open source"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
-  naming-and-branding-your-project: "Naming and branding your project"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  the-what-and-why-of-open-source: "오픈소스의 목적 및 이유"
+  should-i-launch-my-own-open-source-project: "나 자신의 오픈소스 프로젝트를 시작해야합니까?"
+  launching-your-own-open-source-project: "나만의 오픈소스 프로젝트 시작하기"
+  naming-and-branding-your-project: "프로젝트 네이밍 및 브랜딩"
+  your-pre-launch-checklist: "출시 전 체크리스트"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -16,11 +16,11 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## 오픈소스의 "목적" 및 "이유"
 
 So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
 
-### What does "open source" mean?
+### "오픈소스"란 무엇을 의미합니까?
 
 When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
 
@@ -35,7 +35,7 @@ To understand how it works, imagine your friend is having a potluck, and you bri
 
 By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
 
-### Why do people open source their work?
+### 왜 사람들은 자신의 작업을 오픈소스로 공개합니까?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -55,7 +55,7 @@ By comparison, a closed source process would be going to a restaurant and orderi
 
 Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
 
-### Does open source mean "free of charge"?
+### 오픈소스는 "무료"를 의미합니까?
 
 One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
 
@@ -63,7 +63,7 @@ Because [an open source license requires](https://opensource.org/osd-annotated) 
 
 As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
 
-## Should I launch my own open source project?
+## 나 자신의 오픈소스 프로젝트를 시작해야합니까?
 
 The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
 
@@ -73,7 +73,7 @@ Open source work is like any other creative activity, whether it's writing or pa
 
 If you're not yet convinced, take a moment to think about what your goals might be.
 
-### Setting your goals
+### 목표 설정하기
 
 Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
 
@@ -105,13 +105,13 @@ If you need a dedicated budget or staffing for promotion, operations and maintai
   </p>
 </aside>
 
-### Contributing to other projects
+### 다른 프로젝트에 기여하기
 
 If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
 
 If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
 
-## Launching your own open source project
+## 나만의 오픈소스 프로젝트 시작하기
 
 There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
 
@@ -128,7 +128,7 @@ As a maintainer, these components will help you communicate expectations, manage
 
 If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
 
-### Choosing a license
+### 라이선스 선택하기
 
 An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
 
@@ -142,7 +142,7 @@ When you create a new project on GitHub, you are given the option to select a li
 
 If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
 
-### Writing a README
+### README 쓰기
 
 READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
 
@@ -169,7 +169,7 @@ For more inspiration, try using @18F's ["Making READMEs Readable"](https://pages
 
 When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
 
-### Writing your contributing guidelines
+### 기여 가이드라인 쓰기
 
 A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
 
@@ -199,7 +199,7 @@ Link to your CONTRIBUTING file from your README, so more people see it. If you [
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
-### Establishing a code of conduct
+### 행동강령 세우기
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/11214?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -219,11 +219,11 @@ Much like open source licenses, there are also emerging standards for codes of c
 
 Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
 
-## Naming and branding your project
+## 프로젝트 네이밍 및 브랜딩
 
 Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
 
-### Choosing the right name
+### 올바른 이름 고르기
 
 Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
 
@@ -234,7 +234,7 @@ If you're building upon an existing project, using their name as a prefix can he
 
 Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
 
-### Avoiding name conflicts
+### 이름 충돌 방지하기
 
 [Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
 
@@ -246,7 +246,7 @@ You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) 
 
 Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
 
-### How you write (and code) affects your brand, too!
+### 당신이 쓰는 방법(그리고 코드)은 당신의 브랜드에도 영향을 미칩니다!
 
 Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
 
@@ -266,37 +266,37 @@ Beyond how you write words, your coding style may also become part of your proje
 
 It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
 
-## Your pre-launch checklist
+## 출시 전 체크리스트
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+프로젝트를 오픈소스로 할 준비가 되셨습니까? 다음은 도움이 되는 체크리스트입니다. 모든 체크박스를 확인하시겠습니까? 이제 갈 준비가 되었습니다! ["공개"를 클릭](https://help.github.com/articles/making-a-private-repository-public/)하고 등 뒤에서 몸을 담그십시오.
 
 **Documentation**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    프로젝트에는 오픈소스 라이선스가 있는 LICENSE 파일이 있습니다
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    프로젝트는 기본적인 문서가 있습니다 (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    이름은 기억하기 쉽고, 프로젝트가 하는 일에 대한 아이디어를 제공하며, 기존 프로젝트와 충돌하거나 상표를 침해하지 않습니다
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    이슈 대기열은 항상 최신상태이며,명확하게 정리되고 라벨이 지정된 이슈가 있습니다
   </label>
 </div>
 
@@ -305,65 +305,65 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    프로젝트는 일관된 코드 규칙을 사용하고 함수/메소드/변수 이름을 지웁니다
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    코드는 명확하게 주석 처리되어 있으며, 의도와 엣지 케이스를 문서화합니다
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (ex. passwords or other non-public information)
+    버전관리 기록, 이슈, 혹은 pull requests에 민감한 자료가 없습니다 (예. 비밀번호나 비공개 정보)
   </label>
 </div>
 
 **People**
 
-If you're an individual:
+개인의 경우:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  법무 부서와 상담하고 (직원이 어딘가에 있다면)회사의 IP 및 오픈소스 정책을 이해했습니다
   </label>
 </div>
 
-If you're a company or organization:
+만약 회사나 조직일 경우:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    법무 부서에 얘기했습니다
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    프로젝트 발표 및 홍보를 위한 마케팅 계획이 있습니다
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    누군가는 커뮤니티 (이슈에 응답하고 pull requests을 검토 및 병합)상호 작용을 관리하는 데 전념합니다 
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    프로젝트에 대한 관리 권한이 있는 사람이 두명이상 있습니다
   </label>
 </div>
 
-## You did it!
+## 훌륭합니다!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+첫번째 프로젝트를 오픈소스화한 것을 축하합니다. 결과에 관계없이 공개적으로 일하는 것은 공동체에 대한 선물입니다. 모든 커밋, 설명 및 pull request을 풀어 쓰면, 자신과 다른 사람들이 배우고 성장할 수 있는 기회가 만들어집니다.
