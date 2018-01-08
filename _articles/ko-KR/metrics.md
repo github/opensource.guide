@@ -53,19 +53,19 @@ If you _are_ interested in understanding your project on a deeper level, read on
 
 * **인기 컨텐츠:** 방문자가 프로젝트에서 어디로 이동했는지 알려주며, 페이지 뷰와 고유 방문자별로 세분화됩니다.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
+[GitHub stars](https://help.github.com/articles/about-stars/)는 또한 인기의 기준치 측정을 제공하는 데 도움이 될 수 있습니다. GitHub star는 반드시 다운로드 및 사용량과 상관 관계가 있는 것은 아니지만, 얼마나 많은 사람들이 귀하의 작업에 주의를 기울이고 있는지 말해 줄 수 있습니다.
 
-You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
+[특정 장소에서 검색 가능성을 추적](https://opensource.com/business/16/6/pirate-metrics) 할 수도 있습니다: 예를 들어, Google 페이지랭크, 프로젝트 웹 사이트의 추천 트래픽 또는 다른 오픈소스 프로젝트 또는 웹 사이트의 추천을 포함 할 수 있습니다.
 
 ## 사용
 
-People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using this project?_
+사람들은 우리가 인터넷이라고 부르는 이 거칠고 미친 일로 프로젝트를 찾고 있습니다. 이상적으로는, 프로젝트를 보았을 때 뭔가 할 것을 강요 당할 것입니다. 두 번째 질문은 다음과 같습니다: _이 프로젝트를 사용하는 사람들입니까?_
 
 npm 또는 RubyGems.org와 같은 패키지 관리자를 사용하여 프로젝트를 배포하는 경우 프로젝트 다운로드를 추적할 수 있습니다.
 
-Each package manager may use a slightly different definition of "download", and downloads do not necessarily correlate to installs or use, but it provides some baseline for comparison. Try using [Libraries.io](https://libraries.io/) to track usage statistics across many popular package managers.
+각 패키지 매니저는 "다운로드"와 약간 다른 정의를 사용할 수 있으며, 다운로드가 반드시 설치 또는 사용과 관련이 있는 것은 아니지만 비교를 위한 기준을 제공합니다. [Libraries.io](https://libraries.io/)를 사용해 많은 인기있는 패키지 매니저의 사용 통계를 추적 해보십시오.
 
-If your project is on GitHub, navigate again to the "Traffic" page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
+만약 프로젝트가 깃허브에 있다면, "Traffic"페이지로 사디 이동하보십시오. [clone graph](https://github.com/blog/1873-clone-graphs)를 사용하여 주어진 날에 프로젝트가 복제 된 횟수를 전체 클론 및 클론 받은 사람으로 세분화 할 수 있습니다.
 
 ![Clone graph](/assets/images/metrics/clone_graph.png)
 
@@ -82,25 +82,25 @@ If your project is on GitHub, navigate again to the "Traffic" page. You can use 
 
 ## 보유
 
-People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to this project?_
+사람들이 프로젝트를 찾고 있으며 프로젝트를 사용하고 있습니다. 다음 질문은 스스로에게 물어볼 것입니다: _이 프로젝트에 다시 기여한 사람들입니까?_
 
-It's never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is _popular_ (many people use it) but not _supported_ (not enough maintainer time to meet demand).
+기여자를 생각하는 것은 너무 이릅니다.다른 사람이 참여하지 않으면 프로젝트가 _인기있고_(많은 사람들이 그것을 사용하지만) _지원_되지 않는(요구 사항을 충족시키는 데 필요한 유지 보수 시간이 충분하지 않음) 좋지 못한 상황에 처할 위험이 있습니다.
 
-Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
+보유자는 이전에 활동적인 기여자가 결국 다른 것들로 이동하기 때문에 [새로운 기여자가 유입](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2)되어야합니다.
 
 정기적으로 추적할 수 있는 커뮤니티 측정 항목의 예는 다음과 같습니다:
 
-* **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Graphs" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
+* **기여자 중 총 기여 수 및 커밋 수 :** 얼마나 많은 기여자가 있고, 누가 더 많이 또는 적게 활동 하는지를 알려줍니다. GitHub에서는 "Graphs"-> "Contributors"에서 볼 수 있습니다. 현재 이 그래프는 저장소의 기본 브랜치에 작성한 기여자만 계산합니다.
 
 ![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
+* **처음, 캐주얼, 그리고 다시 기여한 사람:** 새로운 참여자를 얻었는지 여부와 그들이 다시 돌아 왔는지 여부를 추적하는 데 도움이됩니다. (캐주얼 기여자는 커밋 수가 적고 커밋 수가 5회 이하이거나, 또 다른 기준은 당신에게 달려 있습니다.) 새로운 참여자가 없으면 프로젝트 커뮤니티가 정체 될 수 있습니다.
 
-* **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
+* **열린 이슈와 pull requests의 수:**  수치가 너무 높으면 이슈 검토 및 코드 검토에 대한 도움이 필요할 수 있습니다.
 
-* **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
+* **_열렸던_ 이슈와 _열렸던_ pull requests의 수:** 열렸던 이슈는 누군가가 프로젝트의 이슈를 열어 신청할 수 있음을 의미합니다. 그 숫자가 시간이 지남에 따라 증가하면 사람들이 귀하의 프로젝트에 관심을 보였다고 나타낼수 있습니다.
 
-* **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
+* **기여 유형:** 예시로, 커밋, 오타 혹은 버그 수정, 또는 이슈에 답변하기가 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/4483" class="pquote-avatar" alt="avatar">
@@ -112,13 +112,13 @@ Retention also requires an [inflow of new contributors](http://blog.abigailcabun
 
 ## 메인테이너 활동
 
-Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
+마지막으로, 프로젝트 메인테이너가 받은 기여 분량을 처리 할 수 있는지 확인하여 루프를 닫으십시오. 자신에게 묻고 싶은 마지막 질문은 다음과 같습니다: _나는 (또는 우리가) 우리 커뮤니티에 반응하고 있습니까?_
 
 응답이 없는 메인테이너는 오픈소스 프로젝트의 병목 현상이 됩니다. 누군가 기여를 제출했지만 메인테이너가 듣지 못하면 기분이 나빠져서 떠나기도 합니다.
 
-[Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
+[Mozilla의 연구](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)는 관리자의 응답성이 반복 기여도를 장려하는 중요한 요소임을 시사합니다.
 
-Consider tracking how long it takes for you (or another maintainer) to respond to contributions, whether an issue or a pull request. Responding doesn't require taking action. It can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
+당사자(또는 다른 메인테이너)가 이슈 또는 pull request 여부에 관계없이 기여에 응답하는 데 걸리는 시간을 고려하십시오. 응답은 조치를 취할 필요가 없습니다. 다음과 같이 간단하게 말할 수 있습니다: _"제출해 주셔서 감사합니다. 저는 다음 주에 이것을 검토 할 것입니다."_
 
 다음과 같이 기여 프로세스의 단계간에 이동하는 데 걸리는 시간을 측정 할 수도 있습니다:
 
