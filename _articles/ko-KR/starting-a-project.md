@@ -22,7 +22,7 @@ related:
 
 ### "오픈소스"란 무엇을 의미합니까?
 
-프로젝트가 오픈소스일 때,, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+즉 **누구나 프로젝트를 보고, 사용하고, 수정하고, 배포 할 수 있습니다.** 이러한 권한은 [오픈소스 라이선스](https://opensource.org/licenses)를 통해 시행됩니다.
 
 오픈소스는 채택의 장벽을 낮추어 아이디어가 빠르게 확산될 수 있기 때문에 강력합니다.
 
@@ -51,7 +51,7 @@ related:
 
 * **채택과 재가공:** 오픈소스 프로젝트는 거의 모든 목적으로 누구나 사용할 수 있습니다. 사람들은 그것을 사용하여 다른 것을 만들 수도 있습니다. [WordPress](https://github.com/WordPress)를 예시로 들면, [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md)라는 기존 프로젝트의 포크로 시작되었습니다.
 
-* **투명도:** 누구나 오픈소스 프로젝트에서 오류나 불일치를 검사 할 수 있습니다. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **투명도:** 누구나 오픈소스 프로젝트에서 오류나 불일치를 검사 할 수 있습니다. 투명성은 [불가리아](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 또는 [미국](https://sourcecode.cio.gov/)과 같은 정부, 은행 또는 건강 관리와 같은 규제 대상 산업, Let's Encrypt와 같은 보안 소프트웨어와 관련이 있습니다.
 
 오픈소스는 소프트웨어만을 위한 것이 아닙니다. 데이터 세트에서부터 서적에 이르기까지 모두 오픈소스할 수 있습니다. [GitHub Explore](https://github.com/explore)에서 다른 오픈소스 아이디어를 확인하십시오.
 
@@ -75,11 +75,11 @@ related:
 
 ### 목표 설정하기
 
-목표는 어떤 일을 해야할 건지, 어떤 말을 하지 않을건지, 다른 사람들에게 도움이 필요한 곳을 파악하는 것에 도움이 될 수 있습니다. Start by asking yourself,  _why am I open sourcing this project?_
+목표는 어떤 일을 해야할 건지, 어떤 말을 하지 않을건지, 다른 사람들에게 도움이 필요한 곳을 파악하는 것에 도움이 될 수 있습니다. 스스로에게 물어보십시오,  _왜 내가 이 프로젝트를 오픈 소스로 만들었습니까?_
 
 이 질문에 대한 정답은 아무도 없습니다. 한 프로젝트에 대해 여러 가지 목표를 가질 수도 있고, 다른 목표를 가진 다른 프로젝트를 가질 수도 있습니다.
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+귀하의 유일한 목표가 귀하의 업무를 과시하는 것이라면, 귀하는 README에 기여를 원한다고 말할 수 없습니다. 다른 한편으로는, 기여자를 원한다면 명확한 문서화에 시간을 투자를 통해 신규 방문자가 환영받는다고 느끼게 될 것입니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -93,9 +93,9 @@ If your only goal is to show off your work, you may not even want contributions,
 
 비코딩 작업에 소요되는 시간은 프로젝트의 크기와 범위에 따라 다르지만, 직접 해결하거나 도움을 줄 담당자를 준비해야합니다.
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**만약 프로젝트를 오픈소스화하는 회사의 일원이라면,** 프로젝트가 번창하기 위해 필요한 내부 자원이 있는지 확인하십시오. 시작한 후에 프로젝트를 유지 관리 할 책임이 있는 사람과 해당 작업을 커뮤니티와 공유하는 방법을 식별해야합니다.
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+홍보, 운영 및 프로젝트 유지를 위해 전담 예산이나 인력이 필요하다면 일찍 대화를 시작하십시오.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1857993?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -109,7 +109,7 @@ If you need a dedicated budget or staffing for promotion, operations and maintai
 
 다른 사람들과 협력하거나 오픈소스가 어떻게 작동하는지 이해하는 방법을 배우는 것이 목표라면, 기존 프로젝트에 기여하는 것을 고려하십시오. 이미 사용하고 사랑하는 프로젝트부터 시작하십시오. 프로젝트에 기여하는 것은 오타를 수정하거나 문서를 업데이트하는 것만큼 간단합니다.
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+기여자로 시작하는 방법을 모르는 경우에는, [오픈소스에 기여하는 방법 가이드](../how-to-contribute/)를 확인하십시오.
 
 ## 나만의 오픈소스 프로젝트 시작하기
 
@@ -130,36 +130,36 @@ If you're not sure how to get started as a contributor, check out our [How to Co
 
 ### 라이선스 선택하기
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+오픈소스 라이선스는 타인이 영향을 주지 않고 프로젝트에서 사용, 복사, 수정 및 기여할 수 있음을 보증합니다. 또한 복잡하게 얽혀있는 법적 상황으로부터 당신을 보호합니다. **오픈소스 프로젝트를 시작할 때 라이선스를 포함해야합니다.**
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+법률 업무는 재미 없습니다. 좋은 소식은 기존 라이선스를 복사하여 저장소에 붙여 넣을 수 있다는 것입니다. 당신의 노력을 보호하는 데 단지 1분 정도만 소요됩니다.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), 그리고 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)는 가장 인기있는 오픈소스 라이선스입니다, 그러나 선택할 수있는 [다른 옵션](https://choosealicense.com)도 있습니다.
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는 옵션이 제공됩니다. 오픈소스 라이선스를 포함하면 GitHub 프로젝트를 오픈소스로 만들 수 있습니다.
 
 ![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+만약 오픈소스 프로젝트를 관리하는 법적 측면에 대해 다른 질문이나 우려 사항이 있으시면, [이 내용은 귀하를 대상으로합니다](../legal/).
 
 ### README 쓰기
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+README는 프로젝트 사용 방법을 설명하는 것 이상을 수행합니다. 또한 프로젝트가 중요한 이유와 사용자가 수행 할 수 있는 작업에 대해 설명합니다.
 
-In your README, try to answer the following questions:
+README에 다음 질문에 답하십시오:
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* 이 프로젝트는 무엇을 합니까?
+* 이 프로젝트는 왜 유용합니까?
+* 어떻게 시작합니까?
+* 필요할 경우, 어디에서 더 많은 도움을 받을 수 있습니까?
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+README를 사용하여 기여를 처리하는 방법, 프로젝트의 목표가 무엇인지, 라이선스 및 속성에 대한 정보와 같은 다른 질문에 답할 수 있습니다. 기여를 받고 싶지 않거나, 프로젝트가 아직 준비되지 않은 경우에는 이 정보를 적어 두십시오.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/168572?v=3&s=460" class="pquote-avatar" alt="avatar">
   Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @limedaring, ["읽힐 단어 쓰기 (비디오)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
