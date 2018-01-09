@@ -163,39 +163,42 @@ README를 사용하여 기여를 처리하는 방법, 프로젝트의 목표가 
   </p>
 </aside>
 
-Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+때로는, 사람들이 프로젝트가 끝나지 않았거나 기부를 원치 않기 때문에 README를 쓰지 않는 경우가 있습니다. 이것은 모두 하나를 쓰는 아주 좋은 이유입니다.
 
-For more inspiration, try using @18F's ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+더 많은 영감을 얻으려면, @18F의 ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) 혹은 @PurpleBooth의 완전한 README를 작성하는[README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)를 사용해보십시오.
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+README 파일을 루트 디렉토리에 포함시키면, GitHub가 자동으로 저장소 홈페이지에 표시합니다.
 
 ### 기여 가이드라인 쓰기
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+CONTRIBUTING 파일은 잠재 고객에게 프로젝트 참여 방법을 알려줍니다. 예를 들어 다음 정보를 포함 할 수 있습니다:
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+* 버그 보고서를 제출하는 방법 ([이슈와 pull request 템플릿](https://github.com/blog/2111-issue-and-pull-request-templates)을 사용해보십시오)
+* 새로운 기능을 제안하는 방법
+* 환경 설정 및 테스트 실행 방법
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+기술적 세부 사항 외에도, CONTRIBUTING 파일은 기여에 대한 귀하의 기대를 전달할 수 있는 기회입니다, 예로 들면 :
 
 * The types of contributions you're looking for
 * Your roadmap or vision for the project
 * How contributors should (or should not) get in touch with you
+* 당신이 찾고있는 기여의 종류
+* 프로젝트 로드맵 또는 비전
+* 참여자가 귀하와 연락해야 (또는 하지 말아야) 하는 방법 
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+따뜻하고 친숙한 분위기의 음색을 사용하고, 기여에 대한 구체적인 제안 (예를 들어 문서 작성 또는 웹 사이트 만들기)을 제공하면 신규 방문자가 참여하고 환영하게 될 것입니다.
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with:
+예시로, [Active Admin](https://github.com/activeadmin/activeadmin/)은 다음과 함께 [기여 가이드](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)를 시작합니다:
 
-> First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+> 먼저 Active Admin에 기여 해 주셔서 감사합니다. Active Admin을 훌륭한 도구로 만드는 것은 여러분과 같은 사람들입니다.
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+프로젝트의 가장 초기 단계에서, CONTRIBUTING 파일을 간단하게 만들 수 있습니다. 버그 또는 파일 문제를 보고하는 방법과 (테스트에 필요한) 기술적 요구 사항을 항상 설명하여 기여를 해야합니다.
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+시간이 지나면, 다른 자주 묻는 질문을 CONTRIBUTING 파일에 추가 할 수 있습니다. 이 정보를 적어두면 같은 질문을 반복해서 하는 사람들이 줄어들 것입니다.
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/).
+CONTRIBUTING 파일을 작성하는 데 도움이 필요하면, check out @nayafia의 [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 혹은 @mozilla의 ["How to Build a CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/)를 보십시오.
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 볼 수 있습니다. 만약 당신이 [CONTRIBUTING 파일을 프로젝트의 저장소에 두면](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub는 참여자가 이슈를 생성하거나 pull request를 열면 자동으로 파일에 연결됩니다.
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -209,15 +212,15 @@ Link to your CONTRIBUTING file from your README, so more people see it. If you [
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+마지막으로, 행동강령은 프로젝트 참가자의 행동에 대한 기본 규칙을 설정하는 데 도움이 됩니다. 이는 커뮤니티나 회사를 위해 오픈소스 프로젝트를 시작하는 경우 특히 유용합니다. 행동강령은 건강하고 건설적인 커뮤니티 행동을 촉진하도록 권한을 부여하며, 이는 메인테이너로서의 스트레스를 감소시킵니다.
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+자세한 정보를 확인하려면, [행동강령 가이드](../code-of-conduct/)를 보십시오.
 
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+행동강령은 참여자가 _어떻게_ 행동 할 것으로 기대하는지 의사 소통하는 것 외에도, 이러한 기대 사항이 적용되는 대상, 적용시기, 위반이 발생할 경우 수행 할 작업을 설명하는 경향이 있습니다.
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](http://contributor-covenant.org/adopters/), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+오픈소스 라이선스와 마찬가지로 행동강령에 대한 새로운 기준도 있으므로, 사용자가 직접 작성할 필요는 없습니다. [Contributor Covenant](http://contributor-covenant.org/)는 Kubernetes, Rails 및 Swift를 포함하여 [40,000개 이상의 오픈소스 프로젝트](http://contributor-covenant.org/adopters/)에서 사용되는 행동 강령입니다. 어떤 텍스트를 사용하든 필요에 따라 행동강령을 시행 할 준비가 되어 있어야합니다.
 
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
+텍스트를 저장소의 CODE_OF_CONDUCT 파일에 직접 붙여 넣으십시오. 프로젝트의 루트 디렉토리에 파일을 보관하여 찾기 쉽도록 하고, README에서 링크를 연결하십시오.
 
 ## 프로젝트 네이밍 및 브랜딩
 
@@ -225,26 +228,26 @@ Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the
 
 ### 올바른 이름 고르기
 
-Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
+기억하기 쉬운 이름을 골라야하며, 이상적으로 프로젝트가 하는 일에 대한 아이디어를 제공하십시오. 예시입니다:
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Sentry](https://github.com/getsentry/sentry)는 충돌보고를 위해 앱을 모니터링합니다
+* [Thin](https://github.com/macournoyer/thin)은 빠르고 간단한 Ruby 웹 서버입니다
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (ex. [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+기존 프로젝트를 기반으로 하는 경우, 그 이름을 접두사로 사용하면 프로젝트가 수행하는 작업을 분명히 알 수 있습니다 (예시. [node-fetch](https://github.com/bitinn/node-fetch)는  Node.js에서 `window.fetch`를 가져옵니다).
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+무엇보다 명확성을 고려하십시오. 농담은 재미 있지만, 일부 농담은 다른 문화나 다른 경험을 가진 사람들로 번역되지 않을 수도 있음을 기억하십시오. 잠재적인 사용자 중 일부는 회사 직원일 수 있습니다: 그들이 직장에서 당신의 프로젝트를 설명해야 할 때 불편하게 하고 싶지는 않습니다!
 
 ### 이름 충돌 방지하기
 
-[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+[비슷한 이름의 오픈소스 프로젝트가 있는지 확인하십시오](http://ivantomic.com/projects/ospnc/), 특히 동일한 언어 또는 같은 생태계를 공유하는 경우, 이름이 기존의 인기있는 프로젝트와 겹치면 잠재적인 고객을 혼동시킬 수 있습니다.
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
+웹 사이트, Twitter 핸들 또는 프로젝트를 나타내는 다른 속성을 원하면 원하는 이름을 가져올 수 있는지 확인하십시오. 이상적으로는, 아직 사용하지 않으려는 경우에도 마음의 평화를 위해 [지금 해당 이름을 예약하십시오](https://instantdomainsearch.com/).
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
+프로젝트 이름이 상표를 침해하지 않는지 확인하십시오. 회사는 나중에 프로젝트를 중단하거나, 법적 조치를 취할 것을 요구할 수 있습니다. 위험 부담이 되지 않습니다.
 
 You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+마지막으로, 프로젝트 이름에 대한 빠른 Google 검색을 수행하십시오. 사람들이 프로젝트를 쉽게 찾을 수 있습니까? 검색 결과에 표시하고 싶지 않은 것이 있습니까?
 
 ### 당신이 쓰는 방법(그리고 코드)은 당신의 브랜드에도 영향을 미칩니다!
 
