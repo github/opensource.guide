@@ -125,23 +125,23 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
 
 더 좋든 나쁘든, 개인 프로젝트일지라도 알려주도록하십시오. 특히 회사의 비즈니스와 관련이 있거나 프로젝트를 개발하기 위해 회사 자원을 사용하는 경우, 프로젝트 관리를 제공하는 회사와 "직원 IP 계약"을 체결했을 수도 있습니다. 귀사는 귀사에게 쉽게 허가권을 부여해야하며, 직원 친화적인 IP 계약 또는 회사 방침을 이미 거쳐야 할 수도 있습니다. 그렇지 않은 경우, 협상을 통해 (예 : 프로젝트가 회사의 전문 학습 및 개발 목표를 제공한다고 설명), 또는 더 나은 회사를 찾을 때까지 프로젝트 작업을 하지 않을 수 있습니다.
 
-**당신이 회사를 위해 프로젝트를 오픈소스화하고 있다면,** 분명히 알려주십시오. 법무팀은 이미 귀사의 비즈니스 요구 사항 및 전문성을 토대로 프로젝트가 종속성의 라이센스를 준수하는지 확인하기 위해 오픈 소스 라이센스 (및 추가로 제공되는 계약자 계약)에 대한 정책을 이미 가지고 있습니다. 그렇지 않다면, 당신과 그들은 운에 따라야 합니다! 귀하의 법률팀은 당신과 함께 이 일을 이해하기 위해 열심히 노력해야 합니다. 생각해야될 몇 가지 사항이 있습니다:
+**당신이 회사를 위해 프로젝트를 오픈소스화하고 있다면,** 분명히 알려주십시오. 법무팀은 이미 귀사의 비즈니스 요구 사항 및 전문성을 토대로 프로젝트가 종속성의 라이선스를 준수하는지 확인하기 위해 오픈 소스 라이선스 (및 추가로 제공되는 계약자 계약)에 대한 정책을 이미 가지고 있습니다. 그렇지 않다면, 당신과 그들은 운에 따라야 합니다! 귀하의 법률팀은 당신과 함께 이 일을 이해하기 위해 열심히 노력해야 합니다. 생각해야될 몇 가지 사항이 있습니다:
 
-* **서드파티 부속** Does your project have dependencies created by others or otherwise include or use others' code? If these are open source, you'll need to comply with the materials' open source licenses. That starts with choosing a license that works with the third party open source licenses (see above). If your project modifies or distributes third party open source material, then your legal team will also want to know that you're meeting other conditions of the third party open source licenses such as retaining copyright notices. If your project uses others' code that doesn't have an open source license, you'll probably have to ask the third party maintainers to [add an open source license](https://choosealicense.com/no-license/#for-users), and if you can't get one, stop using their code in your project.
+* **서드파티 부속** 프로젝트에 다른 사람이 만든 종속성이 있거나 다른 사람의 코드를 포함하거나 사용합니까? 오픈소스인 경우, 자료의 오픈소스 라이선스를 준수해야합니다. 먼저 타사 오픈소스 라이선스 (위 참조)와 함께 작동하는 라이선스를 선택하십시오. 프로젝트가 제 3자 오픈소스 자료를 수정 또는 배포하는 경우, 법률팀은 저작권 침해와 같은 제 3자 오픈소스 라이선스의 다른 조건을 충족하고 있음을 알고 싶어합니다. 프로젝트에서 오픈소스 라이선스가 없는 다른 사용자의 코드를 사용하는 경우, 타사 관리자에게 [오픈소스 라이선스 추가](https://choosealicense.com/no-license/#for-users)를 요청해야합니다. 얻을 수 없다면 프로젝트에서 코드 사용을 중단하십시오.
 
-* **영업 기밀:** Consider whether there is anything in the project that the company does not want to make available to the general public. If so, you could open source the rest of your project, after extracting the material you want to keep private.
+* **영업 기밀:** 프로젝트에서 회사가 일반 대중에게 공개하기를 원하지 않는 것이 있는지 여부를 고려하십시오. 그렇다면 비공개로 유지하려는 자료를 추출한 후, 프로젝트의 나머지 부분을 소스로 열 수 있습니다.
 
-* **특허:** Is your company applying for a patent of which open sourcing your project would constitute [public disclosure](https://en.wikipedia.org/wiki/Public_disclosure)? Sadly, you might be asked to wait (or maybe the company will reconsider the wisdom of the application). If you're expecting contributions to your project from employees of companies with large patent portfolios, your legal team may want you to use a license with an express patent grant from contributors (such as Apache 2.0 or GPLv3), or an additional contributor agreement (see above).
+* **특허:** 귀하의 회사가 귀하의 프로젝트를 [공개](https://en.wikipedia.org/wiki/Public_disclosure)하여 특허를 신청할 계획입니까? 안타깝게도, 기다려달라는 요청을 받을 수 있습니다 (또는 회사에서 애플리케이션의 지혜를 재고 할 수도 있음). 대규모 특허 포트폴리오를 보유한 회사의 직원으로부터 프로젝트에 대한 기여가 기대되는 경우, 법무팀은 기여자(Apache 2.0 또는 GPLv3 등)의 명시적인 특허 지원 또는 추가 기부자 동의서를 사용하여 라이선스를 사용하기를 원할 수 있습니다(위 참조).
 
-* **상표:** Double check that your project's name [does not conflict with any existing trademarks](../starting-a-project/#avoiding-name-conflicts). If you use your own company trademarks in the project, check that it does not cause any conflicts. [FOSSmarks](http://fossmarks.org/) is a practical guide to understanding trademarks in the context of free and open source projects.
+* **상표:** 프로젝트 이름이 [기존 상표와 충돌하지 않는지](../starting-a-project/#avoiding-name-conflicts) 다시 확인하십시오. 만약 프로젝트에서 자신의 회사 상표를 사용하는 경우에 충돌이 발생하지 않는지도 확인하십시오. [FOSSmarks](http://fossmarks.org/)는 무료 및 오픈소스 프로젝트의 맥락에서 상표를 이해하는 실질적인 가이드입니다.
 
-* **개인 정보:** Does your project collect data on users? "Phone home" to company servers? Your legal team can help you comply with company policies and external regulations.
+* **개인 정보:** 프로젝트가 사용자에 대한 데이터를 수집합니까? 법률팀은 회사 정책 및 외부 규정을 준수하도록 도울 수 있습니다.
 
-If you're releasing your company's first open source project, the above is more than enough to get through (but don't worry, most projects shouldn't raise any major concerns).
+만약 회사의 첫번째 오픈소스 프로젝트를 릴리스하는 경우, 위의 내용만으로도 충분합니다 (걱정하지 마십시오. 대부분의 프로젝트가 큰 우려를 제기해서는 안됩니다).
 
 Longer term, your legal team can do more to help the company get more from its involvement in open source, and stay safe:
 
-* **직원 기여 정책:** Consider developing a corporate policy that specifies how your employees contribute to open source projects. A clear policy will reduce confusion among your employees and help them contribute to open source projects in the company's best interest, whether as part of their jobs or in their free time. A good example is Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **직원 기여 정책:** 직원이 오픈소스 프로젝트에 기여하는 방법을 지정하는 기업 정책을 개발하는 것을 고려하십시오. 분명한 정책은 직원들 사이의 혼란을 줄이고 작업의 일부 또는 자유 시간에 상관없이, 회사의 이익을 최대한 활용하여 오픈소스 프로젝트에 기여할 수 있도록 지원합니다. 좋은 예시는 Rackspace의 [모델 IP 및 오픈소스 기여 정책](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)입니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/214698?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -151,8 +151,8 @@ Longer term, your legal team can do more to help the company get more from its i
   </p>
 </aside>
 
-* **공개 할 내용:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) If your legal team understands and is invested in your company's open source strategy, they'll be best able to help rather than hinder your efforts.
-* **Compliance:** Even if your company doesn't release any open source projects, it uses others' open source software. [Awareness and process](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) can prevent headaches, product delays, and lawsuits.
+* **공개 할 내용:** [(거의) 다?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) 귀하의 법무팀이 귀하의 회사 오픈소스 전략을 이해하고 투자한다면, 귀하의 노력을 방해하는 것보다 최선을 다 할 수 있습니다.
+* **준수:** 회사가 오픈소스 프로젝트를 공개하지 않더라도, 다른 회사의 오픈 소스 소프트웨어를 사용합니다. [Awareness and process](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program)는 두통, 제품 지연 및 법적 소송을 예방할 수 있습니다.
 
 <aside markdown="1" class="pquote">
   Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
@@ -161,5 +161,5 @@ Longer term, your legal team can do more to help the company get more from its i
   </p>
 </aside>
 
-* **Patents:** Your company may wish to join the [Open Invention Network](http://www.openinventionnetwork.com/), a shared defensive patent pool to protect members' use of major open source projects, or explore other [alternative patent licensing](https://www.eff.org/document/hacking-patent-system-2016).
-* **Governance:** Especially if and when it makes sense to move a project to a [legal entity outside of the company](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
+* **특허:** 귀사는 회원사의 주요 오픈소스 프로젝트 사용을 보호하거나 다른 대체 특허 라이센싱을 모색하기 위해, [Open Invention Network](http://www.openinventionnetwork.com/)에 가입 할 수 있습니다.
+* **가버넌스:** 특히 프로젝트를 [회사 외부의 법인](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project)으로 옮기는 것이 이치에 맞을 경우에 할 수 있습니다.
