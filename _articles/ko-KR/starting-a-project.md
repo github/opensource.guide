@@ -251,9 +251,9 @@ You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) 
 
 ### 당신이 쓰는 방법(그리고 코드)은 당신의 브랜드에도 영향을 미칩니다!
 
-Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
+프로젝트가 진행되는 동안, 많은 글을 쓸 것입니다: README, 튜토리얼, 커뮤니티 문서, 이슈에 대한 회신, 뉴스레터 및 메일링 리스트 등.
 
-Whether it's official documentation or a casual email, your writing style is part of your project's brand. Consider how you might come across to your audience and whether that is the tone you wish to convey.
+그것이 공식적인 문서이건 캐주얼 이메일이건, 당신의 작문 스타일은 프로젝트의 브랜드의 일부입니다. 잠재 고객에게 도달하는 방법과 전달하려는 톤인지 여부를 고려하십시오.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/11321?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -263,11 +263,11 @@ Whether it's official documentation or a casual email, your writing style is par
   </p>
 </aside>
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
+따뜻하고 포괄적인 언어 (예를 들어 한 사람을 언급 할 때도 "그들"과 같이)를 사용하면, 이 프로젝트가 새로운 참여자에게 환영받는 느낌을 줄 수 있습니다. 많은 독자가 원어민이 아니기 때문에 간단한 언어에 충실하십시오.
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://github.com/johnpapa/angular-styleguide) and [jQuery](http://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+단어 작성 방법 이외에도, 코딩 스타일이 프로젝트 브랜드의 일부가 될 수도 있습니다. [Angular](https://github.com/johnpapa/angular-styleguide)와 [jQuery](http://contribute.jquery.org/style-guide/js/)는 엄격한 코딩 스타일과 가이드 라인을 가진 프로젝트의 두 가지 예시입니다.
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+프로젝트를 시작할 때 스타일 가이드를 작성할 필요가 없으며, 어쨌든 다른 코딩 스타일을 프로젝트에 통합하는 것을 즐긴다는 것을 알 수 있습니다. 그러나 글쓰기와 코딩 스타일이 다른 유형의 사람들을 끌어 모으거나 방해 할 수있는 방법을 예상해야합니다. 프로젝트의 가장 초기 단계는 보고자하는 선례를 설정할 기회입니다.
 
 ## 출시 전 체크리스트
 
