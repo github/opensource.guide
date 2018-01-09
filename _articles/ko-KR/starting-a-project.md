@@ -26,14 +26,14 @@ related:
 
 오픈소스는 채택의 장벽을 낮추어 아이디어가 빠르게 확산될 수 있기 때문에 강력합니다.
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
+그것이 어떻게 작동하는지 이해하려면, 친구가 potluck을 가지고 있다고 상상해보고, 체리 파이를 가지고 오십시오.
 
-* Everybody tries the pie (_use_)
-* The pie is a hit! They ask you for the recipe, which you provide (_view_)
-* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
-* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
+* 모두가 파이를 먹습니다 (_사용_)
+* 파이가 히트를 쳤습니다! 그들은 당신에게 파이 제조법을 묻습니다 (_보기_)
+* 한 친구인, 제과점 주방장 Alex는 설탕을 줄이는 것이 좋다고 조언합니다 (_수정_)
+* 다른 친구인, Lisa는 다음 주 저녁 식사에 그것을 사용할 것을 요청합니다 (_배포_)
 
-By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
+비교해 보면, 독점 소스 과정은 식당에 가서 체리 파이 한 조각을 주문할 것입니다. 당신은 파이를 먹기 위해 수수료를 지불해야하며, 레스토랑은 아마도 당신에게 요리 방법을 알려주지 않을 것입니다. 만약 파이를 정확하게 복사하여 같은 이름으로 팔면, 레스토랑이 당신을 상대로 고소할 수도 있습니다.
 
 ### 왜 사람들은 자신의 작업을 오픈소스로 공개합니까?
 
@@ -45,39 +45,39 @@ By comparison, a closed source process would be going to a restaurant and orderi
   </p>
 </aside>
 
-[There are many reasons](http://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+사람이나 조직이 프로젝트 소스를 공개하려는 데는 [여러 가지 이유](http://ben.balter.com/2015/11/23/why-open-source/)가 있습니다. 몇 가지 예는 다음과 같습니다:
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **협업:** 오픈소스 프로젝트는 전 세계 누구나 변화를 수용 할 수 있습니다. [Exercism](https://github.com/exercism/)를 예시로 들면, 350명이 넘는 기여자가 참여하는 프로그래밍 연습 플랫폼입니다.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **채택과 재가공:** 오픈소스 프로젝트는 거의 모든 목적으로 누구나 사용할 수 있습니다. 사람들은 그것을 사용하여 다른 것을 만들 수도 있습니다. [WordPress](https://github.com/WordPress)를 예시로 들면, [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md)라는 기존 프로젝트의 포크로 시작되었습니다.
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **투명도:** 누구나 오픈소스 프로젝트에서 오류나 불일치를 검사 할 수 있습니다. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+오픈소스는 소프트웨어만을 위한 것이 아닙니다. 데이터 세트에서부터 서적에 이르기까지 모두 오픈소스할 수 있습니다. [GitHub Explore](https://github.com/explore)에서 다른 오픈소스 아이디어를 확인하십시오.
 
 ### 오픈소스는 "무료"를 의미합니까?
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+오픈소스의 가장 큰 매력 중 하나는 비용이 들지 않는다는 것입니다. 그러나 "무료 비용"은 오픈소스의 전반적인 가치의 부산물입니다.
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+[오픈소스 라이선스](https://opensource.org/osd-annotated)는 누구나 거의 모든 목적으로 프로젝트를 사용, 수정 및 공유 할 수 있어야 하므로 프로젝트 자체는 무료입니다. 만약 프로젝트에 사용할 비용이 들었다면, 누구나 합법적으로 복사본을 만들어 무료 버전을 사용할 수 있습니다.
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+결과적으로 대부분의 오픈소스 프로젝트는 무료이지만, "무료"는 오픈소스 정의의 일부가 아닙니다. 오픈소스의 공식적인 정의를 계속 준수하면서 이중 라이선스 또는 제한된 기능을 통해 간접적으로 오픈소스 프로젝트를 청구할 수있는 방법이 있습니다.
 
 ## 나 자신의 오픈소스 프로젝트를 시작해야합니까?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+짧은 결과는 예입니다. 결과에 관계없이, 자신의 프로젝트를 시작하는 것이 오픈소스의 작동 방식을 배우기위한 훌륭한 방법이기 때문입니다.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+이전에 프로젝트의 소스를 공개 한 적이 없다면, 다른 사람이 의견을 말하지 않거나 전혀 눈치채지 못할거라고 불안해 할 수 있습니다. 이게 당신의 이야기처럼 들린다면, 당신은 혼자가 아닙니다!
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+오픈소스 작품은 글쓰기나 페인팅과 비슷한 다른 창의적인 활동과 같습니다. 전세계에 당신의 작품을 공유하는 것이 무섭다는 생각이 들지만, 청중이 없는 경우에도 연습하는 것이 유일한 방법입니다.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+아직 확신하지 못했다면, 잠시 시간을 내어 목표가 무엇인지 생각해보십시오.
 
 ### 목표 설정하기
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+목표는 어떤 일을 해야할 건지, 어떤 말을 하지 않을건지, 다른 사람들에게 도움이 필요한 곳을 파악하는 것에 도움이 될 수 있습니다. Start by asking yourself,  _why am I open sourcing this project?_
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+이 질문에 대한 정답은 아무도 없습니다. 한 프로젝트에 대해 여러 가지 목표를 가질 수도 있고, 다른 목표를 가진 다른 프로젝트를 가질 수도 있습니다.
 
 If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
 
@@ -89,9 +89,9 @@ If your only goal is to show off your work, you may not even want contributions,
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+프로젝트가 성장함에 따라 커뮤니티는 단순한 코드 그 이상을 필요로 할 수 있습니다. 이슈에 대응하고, 코드를 검토하고, 프로젝트를 홍보하는 것은 오픈소스 프로젝트에서 중요한 작업입니다.
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+비코딩 작업에 소요되는 시간은 프로젝트의 크기와 범위에 따라 다르지만, 직접 해결하거나 도움을 줄 담당자를 준비해야합니다.
 
 **If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
 
@@ -107,26 +107,26 @@ If you need a dedicated budget or staffing for promotion, operations and maintai
 
 ### 다른 프로젝트에 기여하기
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+다른 사람들과 협력하거나 오픈소스가 어떻게 작동하는지 이해하는 방법을 배우는 것이 목표라면, 기존 프로젝트에 기여하는 것을 고려하십시오. 이미 사용하고 사랑하는 프로젝트부터 시작하십시오. 프로젝트에 기여하는 것은 오타를 수정하거나 문서를 업데이트하는 것만큼 간단합니다.
 
 If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
 
 ## 나만의 오픈소스 프로젝트 시작하기
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+당신의 일을 오픈 소스화 할 완벽한 시간은 없습니다. 아이디어, 진행중인 작업 또는 독점 소스가 된 이후의 수년이 지난 뒤에도 오픈소스화 할 수 있습니다.
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+일반적으로 말하면, 다른 사람들이 보기에 편하게 느끼고 프로젝트에 대한 피드백을 주려면 프로젝트를 오픈소스화 해야합니다.
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+프로젝트를 오픈소스로 결정한 단계에 관계없이, 모든 프로젝트에는 다음과 같은 문서가 포함되어야합니다:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [오픈소스 라이선스](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [기여 가이드라인](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 * [Code of conduct](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+메인테이너는 이러한 구성 요소를 사용하여 기대를 전달하고, 기여를 관리하고, (자신의 권리를 포함한) 모든 사람의 법적 권리를 보호 할 수 있습니다. 그들은 긍정적인 경험을 가질 기회를 상당히 증가시킵니다.
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+프로젝트가 GitHub에 있는 경우, 권장 파일 이름을 사용하여 이러한 파일을 루트 디렉토리에 저장하면 GitHub에서 해당 파일을 인식하여 자동으로 사용자에게 보여줍니다.
 
 ### 라이선스 선택하기
 
