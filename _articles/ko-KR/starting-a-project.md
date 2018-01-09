@@ -221,7 +221,7 @@ Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the
 
 ## 프로젝트 네이밍 및 브랜딩
 
-Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
+브랜딩은 화려한 로고 또는 재미있는 프로젝트 이름 이상입니다. 그것은 당신의 프로젝트에 대해 어떻게 이야기하고, 당신의 메시지를 가지고 도달했는지에 관한 것입니다.
 
 ### 올바른 이름 고르기
 
@@ -270,7 +270,7 @@ It isn't necessary to write a style guide for your project when you're just star
 
 프로젝트를 오픈소스로 할 준비가 되셨습니까? 다음은 도움이 되는 체크리스트입니다. 모든 체크박스를 확인하시겠습니까? 이제 갈 준비가 되었습니다! ["공개"를 클릭](https://help.github.com/articles/making-a-private-repository-public/)하고 등 뒤에서 몸을 담그십시오.
 
-**Documentation**
+**문서**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -300,7 +300,7 @@ It isn't necessary to write a style guide for your project when you're just star
   </label>
 </div>
 
-**Code**
+**코드**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -323,7 +323,7 @@ It isn't necessary to write a style guide for your project when you're just star
   </label>
 </div>
 
-**People**
+**사람**
 
 개인의 경우:
 
