@@ -44,13 +44,13 @@ image: /assets/images/cards/getting-paid.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
-  詢問任何一位開源專案的維護著，他們都會告訴你關於管理一個專案需要花費大量時間的真相。你擁有客戶，你的爲他們修復問題，你創建新的功能。這些都需要真正的花時間去做的事情。
+  詢問任何一位開源專案的維護者，他們都會告訴你管理一個專案需要投入大量時間。你有使用者，你替他們修正錯誤，你撰寫新的功能。這些都需要花你的時間去完成。
   <p markdown="1" class="pquote-credit">
-— @ashedryden, ["無償勞動的倫理和開源軟件社群"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
+— @ashedryden, ["無償勞動的道德哲學與開源軟件社群"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-有償工作也使人們從不同的各行各業做出有意義的貢獻。有些人無法承受爲開源專案做沒有金錢回報的工作，他們自身的情況，如當前的財務收入、債務、或者來自家庭等其它的照顧義務。這也就意外着這個世界再也無法看到那些擁有天分但是有心無力的人們的貢獻了。這是一個倫理上的問題，正如 @ashedryden 在 [無償勞動的倫理和開源軟件社群](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) 一文中所描述的，因此開源的很多工作是由那些已經在生活上取得成就的人們所貢獻的，通過志願的貢獻進一步讓他們獲得了更加豐富的回報，而那些無法承受時間的人們錯失了這樣的機會，這就導致了開源社群越發的缺乏多樣性。
+有償工作也能使各行各業的人創造有意義的貢獻。有些人需要贊助才願意參與開源專案，可能是因為他當前的財務收入不足、身上有債務、或者需要照顧家庭、撫養他人。有能力但在經濟上沒辦法無償貢獻自己時間的人，依然能當個貢獻者。這涉及道德倫理，正如 @ashedryden 在 [無償勞動的倫理和開源軟件社群](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) 一文中所描述的，因為人們經常誤以為，專案成果都是由那些在工作上已經有所成就的人們完成的，這些人得以透過無償貢獻獲得更多的成果，而其他無法負擔無償貢獻的人就會錯失了這樣的機會，不斷負向循環下去，會使得開源社群越來越缺乏多樣性。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
