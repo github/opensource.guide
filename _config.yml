@@ -10,7 +10,7 @@ translations:
 
   ko-KR:  
     name: Korean
-    url: https://ko.opensource.guide
+    url: https://ko-kr.opensource.guide
 
 exclude:
   - bin
