@@ -72,7 +72,7 @@ image: /assets/images/cards/getting-paid.png
   <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
   就像很多開源專案的故事一樣，我花了大量的時間來維護專案。當我第一次開始爲開源做事情的時候，我在公司待到很晚才回家。（...)然後我就和老闆談，就開源的任務當作本來的工作來做。
   <p markdown="1" class="pquote-credit">
-— @hzoo, ["一名維護者的故事"](https://github.com/open-source/stories/hzoo)
+— @hzoo, ["一位維護者的故事"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
