@@ -1,0 +1,30 @@
+nav:
+  about: Qué es
+  contribute: Contribuye
+
+index:
+  lead: El software de código abierto está hecho por gente como tú. Aprende como lanzar y hacer crecer tu proyecto.
+  opensourcefriday: ¡Es viernes! Invierte unas pocas horas contribuyendo al software que usas y amas
+
+article:
+  table_of_contents: Contenidos
+
+footer:
+  contribute:
+    heading: Contribuye
+    description: ¿Quieres hacer una sugerencía? Este contenido está abierto a cambios. Ayúdanos a mejorarlo.
+    button: Contribuye
+  subscribe:
+    heading: Mantén el contacto
+    description: Se el primero en enterarte de los últimos consejos y recursos sobre Código Abierto.
+    label: Dirección e-mail
+    button: Subscríbete
+  byline:
+    # [code], [love], and [github] will be replaced by octicons
+    format: "[code] con [love] por [github] y [friends]"
+    # Label for code octicon
+    code_label: code
+    # Label for love octicon
+    love_label: love
+    # Label for the contributors link
+    friends_label: amigos

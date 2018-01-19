@@ -1,12 +1,15 @@
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
+title: "Guías sobre Código Abierto"
+description: "Aprende como lanzar y hacer crecer tu proyecto."
 
 # See: docs/translations.md
-locale: en-US
+locale: es-ES
 translations:
   en-US:
     name: English (US)
     url: https://opensource.guide
+  es-ES:
+    name: Español (ES)
+    url: https://es.opensource.guide
 
 exclude:
   - bin
