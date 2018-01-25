@@ -6,7 +6,7 @@ From the GitHub Manual of Style, which this style guide inherits from:
 >
 > In other words, the way we write is just as important as the way we design. Consider these things when writing copy.
 
-Where possible, [automated tests](../script/test-prose) enforce style rules.
+Where possible, [automated tests](../test/prose) enforce style rules.
 
 ## Content Principles
 All written content should follow these principles:
