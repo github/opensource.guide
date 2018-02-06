@@ -34,7 +34,7 @@ In addition to communicating your expectations, a code of conduct describes the 
 * What happens if someone violates the code of conduct
 * How someone can report violations
 
-Wherever you can, use prior art. The [Contributor Covenant](http://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+Wherever you can, use prior art. The [Contributor Covenant](https://www.contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
 
 The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
 
