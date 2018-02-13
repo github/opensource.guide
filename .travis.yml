@@ -3,7 +3,7 @@ language: node_js
 node_js:
   - 6
 before_install:
-  - rvm install 2.3.3
+  - rvm install 2.4.3
   - npm install -g npm@5
 install:
   - npm install
