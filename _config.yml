@@ -10,6 +10,7 @@ translations:
 
 exclude:
   - bin
+  - CNAME
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
   - docs
@@ -41,7 +42,7 @@ defaults:
     values:
       layout: article
 
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-sitemap
