@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+{% assign t = site.data.locales[page.lang][page.lang] %}
 {% include nav.html %}
 
 <header class="article-header {{ page.class }} bg-gray-light">
@@ -12,7 +12,7 @@ layout: default
     <nav class="toc mb-4 mb-md-6">
       <div class="card col-sm-8 col-md-4 col-lg-3 mx-auto">
         <a class="toc-trigger d-block text-center p-3">
-          <span class="text-black">{{ site.data.locale[site.locale].article.table_of_contents }}</span><svg height="18" class="octicon octicon-triangle-down ml-2 fill-blue v-align-middle icon-flip" viewBox="0 0 12 16" version="1.1" width="13" role="img"><path fill-rule="evenodd" d="M0 5l6 6 6-6z"></path></svg>
+          <span class="text-black">{{ t.article.table_of_contents }}</span><svg height="18" class="octicon octicon-triangle-down ml-2 fill-blue v-align-middle icon-flip" viewBox="0 0 12 16" version="1.1" width="13" role="img"><path fill-rule="evenodd" d="M0 5l6 6 6-6z"></path></svg>
         </a>
         <ol class="toc-list list-style-none">
           {% for section in page.toc %}
@@ -34,16 +34,18 @@ layout: default
     {{ content }}
   </div>
   <div class="text-center pb-4">
-    <a class="alt-h3" href="/">Back to all guides</a>
+    <a class="alt-h3" href="/{% if page.lang and page.lang != 'en' %}{{ page.lang | append: '/' }}{% endif %}">
+      {{ t.article.back_to_all_guides }}
+    </a>
   </div>
 </article>
 
 {% if page.related %}
 <div class="container-lg p-responsive mx-auto border-top text-center pt-5">
-  <h2 class="alt-h2">Related Guides</h2>
+  <h2 class="alt-h2">{{ t.article.related_guides }}</h2>
   <div class="gutter-sm d-flex flex-wrap flex-items-stretch pb-md-6">
   {% for related in page.related %}
-    {% assign article = site.articles | where: "class", related | first %}
+    {% assign article = site.articles | where: 'lang', page.lang | where: 'class', related | first %}
     <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">
       <a href="{{ article.url | relative_url }}" class="guide-cover {{ article.class }} card height-full d-block">
 

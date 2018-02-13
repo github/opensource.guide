@@ -1,13 +1,6 @@
 title: "Open Source Guides"
 description: "Learn how to launch and grow your project."
 
-# See: docs/translations.md
-locale: en-US
-translations:
-  en-US:
-    name: English (US)
-    url: https://opensource.guide
-
 exclude:
   - bin
   - CNAME
@@ -29,7 +22,7 @@ permalink: /:path/
 collections:
   articles:
     output: true
-    permalink: /:name/
+    permalink: /:path/
 
 defaults:
   - scope:

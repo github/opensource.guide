@@ -1,5 +1,5 @@
 ---
-locale: en-US
+lang: en
 title: Open Source Metrics
 description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
 class: metrics

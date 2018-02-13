@@ -1,5 +1,5 @@
 ---
-locale: en-US
+lang: en
 title: Leadership and Governance
 description: Growing open source projects can benefit from formal rules for making decisions.
 class: leadership

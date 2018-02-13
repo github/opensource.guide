@@ -46,7 +46,7 @@ If you'd like to contribute, start by searching through the [issues](https://git
 
 If you don't see your idea listed, and you think it fits into the goals of this guide, do one of the following:
 * **If your contribution is minor,** such as a typo fix, open a pull request.
-* **If your contribution is major,** such as a new guide or a [translation](docs/translations.md), start by opening an issue first. That way, other people can weigh in on the discussion before you do any work.
+* **If your contribution is major,** such as a new guide, start by opening an issue first. That way, other people can weigh in on the discussion before you do any work.
 
 ## Style guide
 If you're writing content, see the [style guide](./docs/styleguide.md) to help your prose match the rest of the Guides.
