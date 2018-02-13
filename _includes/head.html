@@ -5,7 +5,7 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
   <link href="{{ "/assets/css/index.css" | relative_url }}" rel="stylesheet">
   {% seo %}
-  {% if page.lang and site.data.locales.size > 1 %}
+  {% if page.lang and page.untranslated != true and site.data.locales.size > 1 %}
     {% assign locales = site.data.locales | sort %}
     {% for locale in locales %}
       {% assign lang = locale[0] %}
