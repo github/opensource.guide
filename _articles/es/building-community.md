@@ -30,15 +30,15 @@ A medida que construyes tu comunidad, considera c&oacute;mo &aacute;lguien que s
 
 Comienza con tu documentaci&oacute;n:
 
-* **Hazlo sencillo para quienes tienen que utilizar el proyecto.** [Un documento README amigable](../starting-a-project/#writing-a-readme) y c&oacute;digos de ejemplo claros har&aacute;n m&aacute;s f&aacute;cil el comienzo para cualquiera que aterrice en tu proyecto.
-* **Explica claramente c&oacute;mo contribuir**, utilizando [un archivo CONTRIBUTING](../starting-a-project/#writing-your-contributing-guidelines) y manteniendo tus problemas al d&iacute;a.
+* **Hazlo sencillo para quienes tienen que utilizar el proyecto.** [Un documento README amigable](../starting-a-project/#escribiendo-un-readme) y c&oacute;digos de ejemplo claros har&aacute;n m&aacute;s f&aacute;cil el comienzo para cualquiera que aterrice en tu proyecto.
+* **Explica claramente c&oacute;mo contribuir**, utilizando [un archivo CONTRIBUTING](../starting-a-project/#escribiendo-las-pautas-para-contribuir) y manteniendo tus problemas al d&iacute;a.
 
 Una buena documentaci&oacute;n invita a las personas a interactuar con tu proyecto. Eventualmente, &aacute;lguien abrir&aacute; un problema o un pull request.
 
 * **¡Cuando &aacute;lguien nuevo aterrice en tu proyecto, agrad&eacute;cele por su inter&eacute;s!** Es suficiente una sola experiencia negativa para que &aacute;lguien no quiera regresar.
 * **Comp&oacute;rtate de manera sensible.** Si no respondes a sus problemas por un mes, lo m&aacute;s probable es que ya se hayan olvidado de tu proyecto.
-* **Tener la mente abierta acerca de los tipos de contribuciones que aceptar&aacute;.** Muchos colaboradores comienzan reportando un error o con un arreglo peque&ntilde;o. Hay [muchas maneras de contribuir](../how-to-contribute/#what-it-means-to-contribute) con un proyecto. Permite que las personas ayuden de la manera que ellos quieran ayudar.
-* **Si existe alguna contribuci&oacute;n con la que est&aacute;s en desacuerdo,** agrad&eacute;cele por su idea y [expl&iacute;cale porqu&eacute;](../best-practices/#learning-to-say-no) no encaja en la incumbencia del proyecto, enlazando con documentaci&oacute;n relevante si la tienes.
+* **Tener la mente abierta acerca de los tipos de contribuciones que aceptar&aacute;.** Muchos colaboradores comienzan reportando un error o con un arreglo peque&ntilde;o. Hay [muchas maneras de contribuir](../how-to-contribute/#qué-significa-contribuir) con un proyecto. Permite que las personas ayuden de la manera que ellos quieran ayudar.
+* **Si existe alguna contribuci&oacute;n con la que est&aacute;s en desacuerdo,** agrad&eacute;cele por su idea y [expl&iacute;cale porqu&eacute;](../best-practices/#aprendiendo-a-decir-no) no encaja en la incumbencia del proyecto, enlazando con documentaci&oacute;n relevante si la tienes.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -127,7 +127,7 @@ Haz todo lo posible para adoptar una pol&iacute;tica de tolerancia cero hacia es
 
 Los debates regulares sobre aspectos triviales de tu proyecto distrae a otros, incluy&eacute;ndote tambi&eacute;n a t&iacute;, de enfocarte en tareas importantes. Las nuevas personas que llegan a tu proyecto pueden ver estas conversaciones y pueden &oacute; no querer participar.
 
-Cuando ves que ocurrre alg&uacute;n comportamiento negativo, haz la observaci&oacute;n correspondiente de manera p&uacute;blica. Expl&iacute;cale, en un tono amable, porqu&eacute; dicho comportamiento no es aceptable. Si el problema persiste, puedes necesitar [solicitarle que se retire](../code-of-conduct/#enforcing-your-code-of-conduct). Tu [c&oacute;digo de conducta](../code-of-conduct/) puede ser una gu&iacute;a constructiva para estas conversaciones.
+Cuando ves que ocurrre alg&uacute;n comportamiento negativo, haz la observaci&oacute;n correspondiente de manera p&uacute;blica. Expl&iacute;cale, en un tono amable, porqu&eacute; dicho comportamiento no es aceptable. Si el problema persiste, puedes necesitar [solicitarle que se retire](../code-of-conduct/#aplicando-tu-código-de-conducta). Tu [c&oacute;digo de conducta](../code-of-conduct/) puede ser una gu&iacute;a constructiva para estas conversaciones.
 
 ### Re&uacute;nete con los colaboradores donde ellos est&aacute;n
 
@@ -200,7 +200,7 @@ En su mayor parte, si has cultivado una comunidad amistosa y que se maneja con r
 
 Cuando tu comunidad se encuentre lidiando con una cuesti&oacute;n dif&iacute;cil, los &aacute;nimos pueden subir. Las personas pueden enojarse o verse frustradas y tomar las cr&iacute;ticas como algo personal, incluso provenientes de t&iacute;.
 
-Tu trabajo como encargado es evitar que estas situaciones escalen. Incluso si tienes una fuerte opini&oacute;n sobre un tema, trata de mantener una posici&oacute;n de moderador o de facilitador, en lugar de ir a la lucha y empujar tus propios puntos de vista. Si &aacute;lguien est&aacute; comport&aacute;ndose de manera poco educada o monopolizando la conversaci&oacute;n, [act&uacute;a inmediatamente](../building-community/#dont-tolerate-bad-actors) para mantener una discusi&oacute;n civilizada y productiva.
+Tu trabajo como encargado es evitar que estas situaciones escalen. Incluso si tienes una fuerte opini&oacute;n sobre un tema, trata de mantener una posici&oacute;n de moderador o de facilitador, en lugar de ir a la lucha y empujar tus propios puntos de vista. Si &aacute;lguien est&aacute; comport&aacute;ndose de manera poco educada o monopolizando la conversaci&oacute;n, [act&uacute;a inmediatamente](../building-community/#no-toleres-a-los-malos-actores) para mantener una discusi&oacute;n civilizada y productiva.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/119893?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -216,7 +216,7 @@ Mantener la calma no es f&aacute;cil, pero demostrar liderazgo mejora la salud d
 
 ### Trata a tu README como una constituci&oacute;n
 
-Tu README es [m&aacute;s que un conjunto de instrucciones](../starting-a-project/#writing-a-readme). Tambi&eacute;n es un lugar para hablar acerca de tus objetivos, visi&oacute;n del producto, y un mapa de ruta. Si las personas est&aacute;n muy centradas en debatir el m&eacute;rito de un aspecto en particular, puede revisar el README y conversar de una visi&oacute;n m&aacute;s alta de tu proyecto. Centrarse en el README tambi&eacute;n despersonaliza la conversaci&oacute;n, para tener una discusi&oacute;n m&aacute;s constructiva.
+Tu README es [m&aacute;s que un conjunto de instrucciones](../starting-a-project/#escribiendo-un-readme). Tambi&eacute;n es un lugar para hablar acerca de tus objetivos, visi&oacute;n del producto, y un mapa de ruta. Si las personas est&aacute;n muy centradas en debatir el m&eacute;rito de un aspecto en particular, puede revisar el README y conversar de una visi&oacute;n m&aacute;s alta de tu proyecto. Centrarse en el README tambi&eacute;n despersonaliza la conversaci&oacute;n, para tener una discusi&oacute;n m&aacute;s constructiva.
 
 ### Enf&oacute;cate en el viaje, no en el destino
 

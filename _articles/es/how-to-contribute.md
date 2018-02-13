@@ -94,7 +94,7 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
 * Reestructura los diseños para mejorar la usabilidad del proyecto
 * Dirige la investigaci&oacute;n de los usuarios para reorganizar y refinar la navegaci&oacute;n del proyecto o sus men&uacute;s, [como lo sugiere Drupal ](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * Re&uacute;ne una gu&iacute;a de estilos para ayudar al proyecto a tener un diseño con consistencia visual
-* Crea diseños para las remeras o un nuevo logo, [como hicieron los colaboradores de hapi.js's](https://github.comhapijs/contrib/issues/68)
+* Crea diseños para las remeras o un nuevo logo, [como hicieron los colaboradores de hapi.js's](https://github.com/hapijs/contrib/issues/68)
 
 ### ¿Te gusta escribir?
 
@@ -503,7 +503,7 @@ Luego de que enviaste tu contribuci&oacute;n, una de las siguientes situaciones 
 
 ### 😭 No tienes una respuesta.
 
-Ojal&aacute; que  [hayas verificado el proyecto buscando signos de actividad](#a-checklist-before-you-contribute) antes de hacer cualquier contribuci&oacute;n. Incluso en proyectos activos, de cualquier manera, es posible que tu contribuci&oacute;n no tenga una respuesta.
+Ojal&aacute; que  [hayas verificado el proyecto buscando signos de actividad](#una-lista-de-verificación-antes-de-que-contribuyas) antes de hacer cualquier contribuci&oacute;n. Incluso en proyectos activos, de cualquier manera, es posible que tu contribuci&oacute;n no tenga una respuesta.
 
 Si no tuviste una respuesta en m&aacute;s de una semana, es justo responder en el mismo hilo, preguntando a &aacute;lguien por una revisi&oacute;n. Si conoces el nombre de la persona correcta para que revise tu contribuci&oacute;n, puedes hacer una @-menci&oacute;n en ese hilo.
 

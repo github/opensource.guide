@@ -47,7 +47,7 @@ Un mantenedor no necesariamente tiene que ser alguien que escribe c&oacute;digo 
 
 **El t&eacute;rmino "committer"** podr&iacute;a utilizarse para distinguir entre el acceso a commit, que es un tipo espec&iacute;fico de responsabilidad, de otras formas de contribuci&oacute;n.
 
-Mientras que puedes definir tus roles de proyecto de cualquier forma que quieras te gustar&iacute;a [considerar usar definiciones m&aacute;s amplias](../how-to-contribute/#what-it-means-to-contribute) para fomentar m&aacute;s formas de contribuci&oacute;n. Puedes utilizar funciones de liderazgo para reconocer formalmente a personas que han hecho contribuciones excepcionales a su proyecto, independientemente de su habilidad t&eacute;cnica.
+Mientras que puedes definir tus roles de proyecto de cualquier forma que quieras te gustar&iacute;a [considerar usar definiciones m&aacute;s amplias](../how-to-contribute/#qué-significa-contribuir) para fomentar m&aacute;s formas de contribuci&oacute;n. Puedes utilizar funciones de liderazgo para reconocer formalmente a personas que han hecho contribuciones excepcionales a su proyecto, independientemente de su habilidad t&eacute;cnica.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/21148?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -80,7 +80,7 @@ Una vez que haya establecido roles de liderazgo, ¡no olvides documentar c&oacut
 
 Herramientas como [Vossibility](https://github.com/icecrime/vossibility-stack) puede ayudarte a hacer un seguimiento p&uacute;blico de qui&eacute;n (o no) est&aacute; haciendo contribuciones al proyecto. Documentar esta informaci&oacute;n evita la percepci&oacute;n de la comunidad de que los mantenedores son un grupo que toma sus decisiones en privado.
 
-Por &uacute;ltimo, si su proyecto est&aacute; en GitHub, considere la posibilidad de mover su proyecto de su cuenta personal a una organizaci&oacute;n y agregar al menos un administrador de copias de seguridad. [Las organizaciones GitHub](https://help.github.com/articles/creating-a-new-organization-account/) facilitan la administraci&oacute;n de permisos y m&uacute;ltiples repositorios y protegen el legado de su proyecto mediante [la propiedad compartida](./Building-community/#share-ownership-of-your-project).
+Por &uacute;ltimo, si su proyecto est&aacute; en GitHub, considere la posibilidad de mover su proyecto de su cuenta personal a una organizaci&oacute;n y agregar al menos un administrador de copias de seguridad. [Las organizaciones GitHub](https://help.github.com/articles/creating-a-new-organization-account/) facilitan la administraci&oacute;n de permisos y m&uacute;ltiples repositorios y protegen el legado de su proyecto mediante [la propiedad compartida](../building-community/#comparte-la-propiedad-de-tu-proyecto).
 
 ## &iquest;Cuando le puedo dar acceso a hacer commits a alguien?
 
