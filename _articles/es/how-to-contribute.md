@@ -217,6 +217,7 @@ Puedes recorrer un archivo README y encontrar un v&iacute;nculo roto o un error 
 Puedes tambi&eacute;n utilizar algunos de los siguientes recursos para ayudarte a descubrir nuevos proyectos:
 
 * [GitHub Explore](https://github.com/explore/)
+* [Open Source Friday](https://opensourcefriday.com)
 * [First Timers Only](http://www.firsttimersonly.com/)
 * [Your First PR](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
