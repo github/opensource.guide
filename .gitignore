@@ -8,5 +8,5 @@
 _site/
 bin
 css/main.scss
-package-lock.json
 test/node_modules
+test/package-lock.json
