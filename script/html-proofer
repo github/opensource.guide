@@ -13,6 +13,7 @@ url_ignores = [
 
 HTMLProofer::Runner.new(
   ["_site"],
+  parallel: { in_threads: 4 },
   type: :directory,
   url_ignore: url_ignores,
   verbose: !!ENV["VERBOSE"],
