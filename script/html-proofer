@@ -5,15 +5,17 @@ require "html-proofer"
 
 url_ignores = [
   %r{^https://github.com/github/opensource.guide},
-  'https://karissa.github.io/post/okf-de',
-  'https://this-week-in-rust.org/',
-  'https://www.vagrantup.com/',
-  'https://www.quora.com/'
+  "https://karissa.github.io/post/okf-de",
+  "https://this-week-in-rust.org/",
+  "https://www.vagrantup.com/",
+  "https://www.quora.com/",
 ]
 
-HTMLProofer::Runner.new(["_site"],
-  :type => :directory,
-  :url_ignore => url_ignores,
-  :verbose => !!ENV["VERBOSE"],
-  :check_html => true
+HTMLProofer::Runner.new(
+  ["_site"],
+  parallel: { in_threads: 4 },
+  type: :directory,
+  url_ignore: url_ignores,
+  verbose: !!ENV["VERBOSE"],
+  check_html: true
 ).run

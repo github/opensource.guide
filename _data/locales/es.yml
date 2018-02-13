@@ -1,0 +1,31 @@
+es:
+  locale_name: Español
+  nav:
+    about: Acerca de
+    contribute: Contribuir
+  index:
+    lead: El software de c&oacute;digo abierto es desarrollado por personas como tu, aprende c&oacute;mo crear y hacer que tu proyecto crezca.
+    opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
+  article:
+    table_of_contents: Tabla de contenidos
+    back_to_all_guides: Back to all guides
+    related_guides: Related Guides
+  footer:
+    contribute:
+      heading: Contribuir
+      description: Tienes alguna sugerencia? Este contenido es de c&oacute;digo abierto. Ay&uacute;danos a mejorarlo.
+      button: Contribuir
+    subscribe:
+      heading: Suscribirse para novedades
+      description: Be the first to hear about GitHub's latest open source tips and resources.
+      label: Direcci&oacute;n de correo
+      button: Suscribirse
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] con [love] hecho por [github] y [friends]"
+      # Label for code octicon
+      code_label: code
+      # Label for love octicon
+      love_label: love
+      # Label for the contributors link
+      friends_label: amigos

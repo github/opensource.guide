@@ -8,7 +8,7 @@ module Helper
 end
 
 def source
-  File.expand_path('../', File.dirname(__FILE__))
+  File.expand_path("../", File.dirname(__FILE__))
 end
 
 def config
@@ -20,7 +20,7 @@ def docs
 end
 
 def pages
-  docs.map { |doc| doc.to_liquid }
+  docs.map(&:to_liquid)
 end
 
 def site

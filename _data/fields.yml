@@ -29,3 +29,6 @@ image: {}
 
 related:
   type: Array
+
+untranslated:
+  type: TrueClass
