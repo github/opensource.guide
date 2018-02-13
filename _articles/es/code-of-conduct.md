@@ -28,6 +28,7 @@ Un c&oacute;digo de conducta te alienta a facilitar un comportamiento saludable 
 Intenta establecer un c&oacute;digo de conducta tan tempranamente como sea posible: idealmente, cuando crees t&uacute; proyecto.
 
 Adem&aacute;s de comunicar tus expectativas, un c&oacute;digo de conducta describe lo siguiente:
+
 *	Donde el c&oacute;digo de conducta toma efecto _(¿solamente en las issues y pull requests, o en actividades de la comunidad como eventos?)_
 *	A quien o quienes aplica el c&oacute;digo de conducta _(miembros de la comunidad y responsables de mantenimiento, pero ¿Qu&eacute; hay acerca de los sponsors?)_
 *	Que sucede si alguien viola el c&oacute;digo de conducta
@@ -60,9 +61,9 @@ Deber&iacute;as brindar a las personas, una manera privada (por ejemplo, mediant
 
 Recuerda que alguien puede que desee reportar una violaci&oacute;n acerca de la persona que recibe dichos reportes. En tal caso, br&iacute;ndales la posibilidad de que dichos reportes, sean revisados por alguien m&aacute;s. Por ejemplo, @ctb y @mr-c [explican en su proyecto](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
->Instancias de abuso, acoso o similares comportamientos inaceptables pueden ser reportados mandando un email a **khmer-project@idyll.org** el cual solamente se dirigir&aacute; a C. Titus Brown and Michael R. Crusoe. Para reportar una cuesti&oacute;n que involucra a ambos, por favor env&iacute;a un email a **Judi Brown Clarke, Ph.D.** el Director de Diversidad en el BEACON Center for the Study of Evolution in Action, un centro de la Fundaci&oacute;n de Ciencia Nacional para la Ciencia y Tecnologia.*
+> Instancias de abuso, acoso o similares comportamientos inaceptables pueden ser reportados mandando un email a **khmer-project@idyll.org** el cual solamente se dirigir&aacute; a C. Titus Brown and Michael R. Crusoe. Para reportar una cuesti&oacute;n que involucra a ambos, por favor env&iacute;a un email a **Judi Brown Clarke, Ph.D.** el Director de Diversidad en el BEACON Center for the Study of Evolution in Action, un centro de la Fundaci&oacute;n de Ciencia Nacional para la Ciencia y Tecnologia.*
 
-Para inspirarte, mira el manual de ejecuci&oacute;n de Django (https://www.djangoproject.com/conduct/enforcement-manual/)  (aunque quiz&aacute;s no necesites algo tan amplio, dependiendo del tama&ntilde;o de tu proyecto).
+Para inspirarte, mira el [manual de ejecuci&oacute;n de Django](https://www.djangoproject.com/conduct/enforcement-manual/)  (aunque quiz&aacute;s no necesites algo tan amplio, dependiendo del tama&ntilde;o de tu proyecto).
 
 ## Aplicando tu c&oacute;digo de conducta
 
@@ -114,4 +115,5 @@ Un reporte de comportamiento que _t&eacute;cnicamente_ no viola el c&oacute;digo
 Finalmente, como responsable de mantenimiento, t&uacute; estableces y aplicas los est&aacute;ndares de comportamiento aceptable. Tienes la habilidad para moldear los valores de la comunidad del proyecto, y los participantes cuentan con que apliques dichos valores de manera justa e imparcial.
 
 ## Promover el comportamiento que quieres ver en el mundo 🌎
+
 Cuando un proyecto parece hostil y poco acogedor, incluso cuando se trata solamente de una persona cuyo comportamiento es tolerado por los dem&aacute;s, te arriesgas a perder mucho m&aacute;s contribuidores, algunos de los cuales quiz&aacute;s no conozcas jam&aacute;s. No siempre es f&aacute;cil adoptar o aplicar un c&oacute;digo de conducta, pero fomentar un ambiente acogedor ayudara a que tu comunidad crezca.

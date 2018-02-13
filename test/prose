@@ -12,7 +12,6 @@ var lint = require('remark-lint');
 var headingStyle = require('remark-lint-heading-style');
 var firstHeadingLevel = require('remark-lint-first-heading-level');
 var headingIncrement = require('remark-lint-heading-increment');
-var maximumHeadingLength = require('remark-lint-maximum-heading-length');
 var noDuplicateHeadings = require('remark-lint-no-duplicate-headings');
 var noMultipleToplevelHeadings = require('remark-lint-no-multiple-toplevel-headings');
 var listItemIndent = require('remark-lint-list-item-indent');
@@ -47,8 +46,6 @@ var repeated = require('retext-repeated-words');
 var emoji = require('retext-emoji');
 var syntaxMentions = require('retext-syntax-mentions');
 var syntaxURLs = require('retext-syntax-urls');
-var spell = require('retext-spell');
-var enUS = require('dictionary-en-us');
 
 // Util stuff
 var vfile = require('to-vfile');
@@ -72,7 +69,6 @@ var prose = unified()
   .use(syntaxURLs)
   .use(syntaxMentions)
   .use(emoji)
-  .use(spell, {dictionary: enUS, personal: personal})
   .use(sentenceSpacing, {preferred: 1})
   .use(quotes, {preferred: 'straight'})
   .use(words, {
@@ -107,7 +103,6 @@ var markdown = unified()
   .use(headingStyle, 'atx')       // ## Headings
   .use(firstHeadingLevel, 2)      // Page title is h1, so start with h2
   .use(headingIncrement)
-  .use(maximumHeadingLength, 80)  // FIXME: Eventually remove this
   .use(noDuplicateHeadings)
   .use(noMultipleToplevelHeadings)
 

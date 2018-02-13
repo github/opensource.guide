@@ -26,15 +26,12 @@ Cuando un proyecto es de c&oacute;digo abierto, significa que **cualquier person
 
 "C&oacute;digo Abierto" es poderoso debido a que reduce las dificultades de adopci&oacute;n, permitiendo que las ideas se esparzan r&aacute;pidamente.
 
-
 Para entender c&oacute;mo funciona, imagina a un amigo que organiza una comida, te invita, y llevas una torta.
 
-
 * Todos prueban la torta (_usarlo_)
-* &iexcl;La torta es un &eacute;xito! Te piden la receta, la cu&aacute;l t&uacute; das.  (_estudiarlo/verlo_)
+* &iexcl;La torta es un &eacute;xito! Te piden la receta, la cu&aacute;l t&uacute; das. (_estudiarlo/verlo_)
 * Un amigo, Pedro, es cocinero, y te sugiere colocar menos az&uacute;car (_modificarlo_)
 * Otro amigo, Juan, te pide permiso para usarlo en una cena que tendr&aacute; la pr&oacute;xima semana (_distribuirlo_)
-
 
 Realicemos una comparaci&oacute;n: un proceso de c&oacute;digo cerrado ser&iacute;a ir a un restaurante y pedir una porci&oacute;n de torta. Para ello tendr&iacute;as que pagar por la misma, y el restaurante muy probablemente no te dar&aacute; su receta. Si decidieras copiar su torta y venderla bajo otro nombre, el restaurante podr&iacute;a recurrir a acciones legales en contra.
 
@@ -55,7 +52,6 @@ Realicemos una comparaci&oacute;n: un proceso de c&oacute;digo cerrado ser&iacut
 * **Adopci&oacute;n y remezcla:** Los proyectos de c&oacute;digo abierto puedne ser usados por cualquiera para casi cualquier pr&oacute;p&oacute;sito. Las personas pueden usarlos hasta para construir otras cosas. [WordPress](https://github.com/WordPress), por ejemplo, comenzaron como un "fork" de un proyecto existente llamado [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
 * **Transparencia:** Cualquiera puede inspeccionar un proyecto de este tipo, ya sea para encontrar errores como inconsistencias. La transparencia es de importancia para gobiernos como el de [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) o [United States](https://sourcecode.cio.gov/), para industrias reguladas como la bancaria o la del cuidado de la salud, y para la seguridad del software como [Let's Encrypt](https://github.com/letsencrypt).
-
 
 C&oacute;digo abierto no es solamente software. Uno puede "abrir" cualquier cosa, desde conjuntos de datos, hasta libros. Mira esto [GitHub Explore](https://github.com/explore) para tener otros ejemplos.
 
@@ -80,7 +76,6 @@ Si no estás convencido todav&iacute;a, toma un momento para pensar acerca de cu
 ### Definiendo tus objetivos
 
 Los objetivos pueden ayudarte a detectar puntos en los que continuar trabajando, a qu&eacute; decirle que no, y a d&oacute;nde recurrir por ayuda. Comienza pregunt&aacute;ndote, _&iquest;Por qu&eacute; estoy haciendo "c&oacute;digo abierto" a mi proyecto?_
-
 
 No hay nunca una respuesta correcta a la &eacute;sta pregunta. Puedes tener m&uacute;ltiples objetivos para un solo proyecto, o diferentes proyectos con diferentes objetivos.
 

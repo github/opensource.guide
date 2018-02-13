@@ -35,7 +35,6 @@ Por ejemplo, @robb utiliza códigos de ejemplo para comunicar claramente porqué
 
 Para una vista más profunda sobre cómo comunicar tu mensaje, puedes ver el ejercicio en Mozilla ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) para el desarrollo de personas usuario.
 
-
 ## Ayuda a las personas a encontrar y seguir tu proyecto
 
 <aside markdown="1" class="pquote">

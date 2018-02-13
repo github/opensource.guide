@@ -90,7 +90,7 @@ Retener tambi&eacute;n requiere un [flujo de nuevos contribuyentes](http://blog.
 
 Ejemplos de m&eacute;tricas de comunidad que quieres rastrear incluyen:
 
-* **El total de commits por contribuyente, y el número de ellos: ** Te informa cu&aacute;ntos contribuyentes tienes y qui&eacute;n es m&aacute;s o menos activo. En GitHub, pudes ver esto debajo de "Graphs" -> "Contributors". Actualmente est&eacute; gr&aacute;fico solo cuenta los contribuyentes que han hecho algún commit a la rama por defecto del repositorio.
+* **El total de commits por contribuyente, y el número de ellos:** Te informa cu&aacute;ntos contribuyentes tienes y qui&eacute;n es m&aacute;s o menos activo. En GitHub, pudes ver esto debajo de "Graphs" -> "Contributors". Actualmente est&eacute; gr&aacute;fico solo cuenta los contribuyentes que han hecho algún commit a la rama por defecto del repositorio.
 
 ![contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
@@ -126,7 +126,6 @@ Tambi&eacute;n puedes medir el tiempo que te lleva el moverte entre etapas del p
 * Si los issues quedan cerrados por pull requests
 * Si los stale issues se cierran
 * Tiempo promedio de merge de un pull request
-
 
 ## Usa 📊 para aprender acerca de las personas
 

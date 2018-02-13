@@ -18,6 +18,7 @@ related:
 ## ¿Porqu&eacute; algunas personas buscan apoyo financiero?
 
 La mayor parte del trabajo realizado en proyectos de c&oacute;digo abierto es voluntario. Por ejemplo, alguien puede encontrarse con un error en un proyecto que usan y aplican una correcci&oacute;n r&aacute;pida, o simplemente les puede gustar corregir proyectos de c&oacute;digo abierto en su tiempo libre.
+
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/2894642?v=3&s=460" class="pquote-avatar" alt="avatar">
 Estaba buscando un proyecto de programacion para tenerlo como "hobby" y que me mantuviese ocupado en la semana de navidad. (...) Ten&iacute;a una computadora de hogar y no mucho m&aacute;s. Decid&iacute; escribir un interpretador para un nuevo lenguaje en el que he estado pensando &uacute;ltimamente. (...) Eleg&iacute; Python como t&iacute;tulo de mi trabajo.
@@ -27,6 +28,7 @@ Estaba buscando un proyecto de programacion para tenerlo como "hobby" y que me m
 </aside>
 
 Hay muchas razones por las cuales a una persona no le gustar&iacute;a que le pagaran por su trabajo en c&oacute;digo abierto.
+
 * **Ellos pueden llegar a tener ya un trabajo de tiempo completo que disfruten**, que los habilite a contribuir al c&oacute;digo abierto en su tiempo libre.
 * **Les gusta contribuir a los proyectos de c&oacute;digo abierto como un hobby** o escape creativo y no quieren sentise financieramente obligados a trabajar.
 * **Reciben otros beneficios al contribuir al c&oacute;digo abierto,** como construir su portfolio de reputaci&oacute;n, obtener nuevas habilidades, o sentirse cercanos a una comunidad.
@@ -96,12 +98,14 @@ Si tu empresa va por esta ruta, es importante mantener clara la relaci&oacute;n 
 </aside>
 
 Si no pueden convencer a tu actual empleador de priorizar un trabajo de c&oacute;digo abierto, considera encontrar un nuevo empleador que motive a los empleados a contribuir. Busca empresas que hagan su dedicac&iacute;on al c&oacute;digo abierto expl&iacute;cita. Por ejemplo:
+
 * Algunas empresas, como [Netflix](https://netflix.github.io/) o [PayPal](http://paypal.github.io/), tienen paginas web que resaltan su participaci&oacute;n en el c&oacute;digo abierto.
 * [Rackspace](https://www.rackspace.com/en-us) publico su [pol&iacute;ticas de contribuci&oacute;n al c&oacute;digo abierto](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) para empleados.
 
 Proyectos que se originaron en una empresa grande, como [Go](https://github.com/golang) o [React](https://github.com/facebook/react), ser&aacute;n susceptibles a contratar personas que trabajen en c&oacute;digo abierto.
 
 Finalmente, dependiendo de tus circunstancias personales, puedes probar generar dinero de forma independiente para financiar tu trabajo de c&oacute;digo abierto. Por ejemplo:
+
 * @gaearon financio su propio trabajo [Redux](https://github.com/reactjs/redux) a trav&eacute;s de [Patreon crowdfunding campaign](http://redux.js.org/)
 * @andrewgodwin financi&oacute; su trabajo de migraci&oacute;n de esquemas de Django [a trav&eacute;s de una campa&ntilde;a kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
@@ -125,6 +129,7 @@ Algunos ejemplos comunes de proyectos sponsoreados incluyen:
 ### Crea un flujo de ingresos.
 
 Dependiendo de tu proyecto, puede que seas capaz de cobrar por soporte comercial o funciones adicionales. Algunos ejemplos incluyen:
+
 * **[Sidekiq](https://github.com/mperham/sidekiq)** ofrecen versiones pagas por soporte adicional.
 * **[Travis CI](https://github.com/travis-ci)** ofrece versiones pagas de su producto.
 * **[Ghost](https://github.com/TryGhost/Ghost)** es sin fines de lucro con una gesti&oacute;n de servicio paga.

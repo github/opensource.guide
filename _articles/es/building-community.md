@@ -86,7 +86,7 @@ Incluso si no puedes revisar su solicitud inmediatamente, con solo agradecer su 
 
 ![middleman pull request](/assets/images/building-community/middleman_pr.png)
 
-Un [estudio de Mozilla ](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) encontr&oacute; que los colaboradores que reciben una revisi&oacute;n de su c&oacute;digo dentro de las 48 horas tienen una significativa mayor tasa de retornar y de repetir alguna contribuci&oacute;n.
+Un [estudio de Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) encontr&oacute; que los colaboradores que reciben una revisi&oacute;n de su c&oacute;digo dentro de las 48 horas tienen una significativa mayor tasa de retornar y de repetir alguna contribuci&oacute;n.
 
 Las conversaciones acerca de tu proyecto pueden tambi&eacute;n ocurrir en otros lugares a lo largo de la internet, como en Stack Overflow, Twitter o reddit. Puedes configurar tus notificaciones en cualquiera de esos tres lugares de manera de ser alertado cuando &aacute;lguien mencione tu proyecto.
 
@@ -116,7 +116,6 @@ Cualquier proyecto popular inevitablemente atraer&aacute; a personas que perjudi
 
 Haz todo lo posible para adoptar una pol&iacute;tica de tolerancia cero hacia este tipo de personas. Si no se controla, las personas negativas har&aacute;n que otras personas de tu comunidad se sientan inc&oacute;modas. Incluso pueden irse.
 
-
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/633012?v=3&s=460" class="pquote-avatar" alt="avatar">
   La verdad es que tener una comunidad de apoyo es clave. Nunca hubiera sido capaz de realizar este trabajo sin la ayuda de mis colegas, los extra&ntilde;os de internet que fueron amigables y los canales IRC de conversaci&oacute;n. (...) No te conformes con menos. No te conformes con los idiotas.
@@ -137,7 +136,7 @@ En tu archivo CONTRIBUTING, indica de manera expl&iacute;cita a los nuevos colab
 
 ![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-En tu cola de asuntos, etiqueta errores que son convenientes para diferentes tipos de colaboradores: por ejemplo, [_"solo principiantes"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), "conveniente para quienes resuelven su primer bug", o "documentaci&oacute;n".  [Estas etiquetas](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) hacen que sea m&aacute;s f&aacute;cil buscar problemas a resolver para alguien nuevo en el proyecto y as&iacute; poder comenzar
+En tu cola de asuntos, etiqueta errores que son convenientes para diferentes tipos de colaboradores: por ejemplo, [_"solo principiantes"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), "conveniente para quienes resuelven su primer bug", o "documentaci&oacute;n". [Estas etiquetas](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) hacen que sea m&aacute;s f&aacute;cil buscar problemas a resolver para alguien nuevo en el proyecto y as&iacute; poder comenzar.
 
 Finalmente, utiliza tu documentaci&oacute;n para hacer que las personas se sientan bienvenidas en cada etapa del camino.
 

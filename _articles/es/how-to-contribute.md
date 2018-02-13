@@ -92,7 +92,7 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
 ### ¿Te gusta diseñar?
 
 * Reestructura los diseños para mejorar la usabilidad del proyecto
-* Dirige la investigaci&oacute;n de los usuarios para reorganizar y refinar la navegaci&oacute;n del proyecto o sus men&uacute;s, [como lo sugiere Drupal ](https://www.drupal.org/community-initiatives/drupal-core/usability)
+* Dirige la investigaci&oacute;n de los usuarios para reorganizar y refinar la navegaci&oacute;n del proyecto o sus men&uacute;s, [como lo sugiere Drupal](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * Re&uacute;ne una gu&iacute;a de estilos para ayudar al proyecto a tener un diseño con consistencia visual
 * Crea diseños para las remeras o un nuevo logo, [como hicieron los colaboradores de hapi.js's](https://github.com/hapijs/contrib/issues/68)
 
@@ -127,7 +127,7 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
 
 ### ¿Te gusta ayudar a las personas?
 
-* Responde las preguntas acerca del proyecto en, por ejemplo, Stack Overflow ([como este ejemplo Postgres ](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) o en reddit
+* Responde las preguntas acerca del proyecto en, por ejemplo, Stack Overflow ([como este ejemplo Postgres](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) o en reddit
 * Responde preguntas a las personas en los problemas abiertos
 * Ayuda a moderar los foros de discusi&oacute;n o canales de conversaci&oacute;n
 
@@ -484,18 +484,13 @@ Si el proyecto est&aacute; alojado en GITHUb, ac&aacute; te explicamos los pasos
 * **[Abre un fork del repositorio](https://guides.github.com/activities/forking/)** y haz un clon local. Conecta tu repositorio local con el repositorio "superior" original agreg&aacute;ndolo como remoto. Descarga los cambios desde el repositorio superior con frecuencia de manera que puedas mantener al d&iacute;a, de forma que cuando tu env&iacute;es tu pull request, sea menos probable que haya conflictos. (ver m&aacute;s instrucciones detalladas [aqu&iacute;](https://help.github.com/articles/syncing-a-fork/).)
 * **[Crea una rama](https://guides.github.com/introduction/flow/)** para tus ediciones.
 * **Haz referencia a cualquier problema relevante** o documentaci&oacute;n de soporte en tu PR (por ejemplo "Cierra #37.")
-* **Incluye capturas de pantalla del antes y del despu&eacute;s** si tus cambios incluyen diferencias en el HTML o CSS.  Arrastra y suelta las im&aacute;genes en el cuerpo de tu pull request.
+* **Incluye capturas de pantalla del antes y del despu&eacute;s** si tus cambios incluyen diferencias en el HTML o CSS. Arrastra y suelta las im&aacute;genes en el cuerpo de tu pull request.
 * **¡Has pruebas de tus cambios!** Corre tus cambios contra las pruebas existentes si realmente existen, y crea nuevas pruebas si es necesario. Sin importar que existan o no las pruebas, aseg&uacute;rate que tus cambios no produzcan roturas del proyecto existente.
 * **Contribuye con el estilo del proyecto** con el m&aacute;ximo de tus capacidades. Esto significa utilizar indentaci&oacute;n, punto y comas o comentarios de manera diferente a lo que har&iacute;as en tu repositorio, pero que hacen m&aacute;s sencillo para los responsables combinar y para otros de entender y mantener el proyecto en el futuro.
 
 Si se trata de tu primer pull request, verifica [Haz un Pull Request](http://makeapullrequest.com/), que fue creado por @kentcdodds como un recurso de recorrido gratuito.
 
 ## Qu&eacute; pasa luego de que enviaste una contribuci&oacute;n
-
-
-
-
-
 
 ¡Lo hiciste! Felicitaciones por convertirte en un colaborador open source. Esperamos que &eacute;sta sea la primera de muchas.
 
@@ -520,7 +515,6 @@ Cuando &aacute;lguien te pide cambios, comp&oacute;rtate de manera sensible, Se 
 Si no tienes el tiempo para volver a trabajar en ese problema (por ejemplo, si la conversaci&oacute;n tuvo lugar durante meses, y tus circunstancias cambiaron), permite que el responsable lo sepa, de manera que no quede a la espera de una respuesta. Alguien puede sentirse complacido de hacerse cargo.
 
 ### 👎 Tu contribuci&oacute;n no es aceptada.
-
 
 Al final tu contribuci&oacute;n puede o no ser aceptada. Con suerte, no hayas necesitado poner demasiado esfuerzo en ella. Si no est&aacute;s seguro de por qu&eacute; no fue aceptada, es completamente razonable preguntar al responsable por retroalimentaci&oacute;n y esclarecimiento. De cualquier manera, al final debes aceptar que se trata de su decisi&oacute;n. No discutas ni adoptes una postura hostil. ¡Siempre ser&aacute;s bienvenido a hacer un fork y trabajar en tu propia versi&oacute;n si no est&aacute;s de acuerdo!
 

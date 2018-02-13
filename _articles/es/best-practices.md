@@ -55,9 +55,7 @@ Por ejemplo, @lord descubri&oacute; que tener la visi&oacute;n de un proyecto lo
 
 Algunas veces puede que sea complicado detallar las reglas para que otra gente pueda contribuir. Puedes llegar a sentir que est&aacute;s comport&aacute;ndote como un policia o arruinando la diversi&oacute;n para los dem&aacute;s.
 
-
 Escritas y aplicadas de manera justa, sin embargo, las buenas reglas dan poder a los mantenedores de c&oacute;digo. Evitan que te arrastren a hacer cosas que no quieres hacer.
-
 
 La mayor&iacute;a de las personas que se encuentran con tu proyecto no saben nada sobre ti o tus circunstancias. Pueden asumir que te pagan para trabajar en &eacute;l, especialmente si es algo que usan y dependen regularmente. Tal vez en un momento pon&iacute;as mucho tiempo en tu proyecto, pero ahora est&aacute;s ocupado con un nuevo trabajo o alg&uacute;n miembro de la familia.
 
@@ -281,4 +279,3 @@ Tomar descansos se aplica a m&aacute;s que s&oacute;lo vacaciones, tambi&eacute;
 ## ¡Cu&iacute;date primero!
 
 Mantener un proyecto popular requiere habilidades diferentes que las primeras etapas de crecimiento, pero no es menos gratificante. Como mantenedor, practicar&aacute;s liderazgo y habilidades personales en un nivel que pocas personas pueden experimentar. Aunque no siempre es f&aacute;cil de manejar, el establecimiento de l&iacute;mites claros y s&oacute;lo tomar lo que te hace sentir c&oacute;modo te ayudar&aacute; a mantenerte feliz, actualizado y productivo.
-
