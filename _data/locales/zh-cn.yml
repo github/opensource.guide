@@ -1,0 +1,31 @@
+zh-cn:
+  locale_name: 简体中文
+  nav:
+    about: 关于
+    contribute: 贡献
+  index:
+    lead: 开放源代码软件就是由你这样的人所打造，这里只是为了节省你的学习时间而设，从这里开启你的开源项目之旅吧！
+    opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
+  article:
+    table_of_contents: 目录
+    back_to_all_guides: Back to all guides
+    related_guides: Related Guides
+  footer:
+    contribute:
+      heading: 贡献
+      description: 对项目有想提出的建议吗？本站内容遵循开放源代码写作，请帮助我们继续完善！
+      button: 贡献
+    subscribe:
+      heading: 订阅更新
+      description: 即时了解GitHub最新的开源技巧和资源！
+      label: 电子邮箱地址
+      button: 提交
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] with [love] by [github] and [friends]"
+      # Label for code octicon
+      code_label: 代码
+      # Label for love octicon
+      love_label: 爱心
+      # Label for the contributors link
+      friends_label: friends
