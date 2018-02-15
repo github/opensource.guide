@@ -1,15 +1,15 @@
 ko:
-  locale_name: English
+  locale_name: 한국어
   nav:
     about: 이것에 관하여
     contribute: 기여
   index:
     lead: 오픈소스 소프트웨어는 당신과 비슷한 사람들이 만듭니다. 프로젝트를 시작하고 성장시키는 방법에 대해 배워보십시오.
-    opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
+    opensourcefriday: 금요일입니다! 사용하고있는 사랑하는 소프트웨어에 기여하는 데에 몇 시간을 투자해보십시오.
   article:
     table_of_contents: 목차
-    back_to_all_guides: Back to all guides
-    related_guides: Related Guides
+    back_to_all_guides: 모든 가이드로 돌아가기
+    related_guides: 관련 가이드
   footer:
     contribute:
       heading: 기여
