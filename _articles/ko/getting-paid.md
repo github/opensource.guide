@@ -15,7 +15,7 @@ related:
   - leadership
 ---
 
-## 어떤 사람들은 왜 재정 지원을 요청 하는가
+## Why some people seek financial support
 
 대부분의 오픈소스 작업은 자원봉사입니다. 예를 들어, 누군가가 사용하는 프로젝트에서 버그를 발견하고 빠른 버그픽스를 제출하거나, 여가 시간에 오픈소스 프로젝트를 사용하여 재미있는 작업을 할 수 있습니다.
 
@@ -53,7 +53,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
   </p>
 </aside>
 
-또한 유료 작업을 통해 여러 계층의 사람들이 의미있는 기여를 할 수 있습니다. 어떤 사람들은 현재 재무 상태, 부채, 또는 가족 또는 다른 보살필 의무를 다하지않고 오픈소스 프로젝트에 시간을 보낼 여력이 없습니다. 즉, 세상은 자신의 시간을 자원봉사할 여력이없는 재능있는 사람들에게서 기여를 결코 볼 수 없다는 것을 의미합니다. @ashryden이 [설명한대로](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) 윤리적 함의가 있습니다. 이미 인생에 여유가 있는 사람들에게 치우친다는 것은, 자원 봉사자들의 기여에 기초하여 추가적인 이점을 얻는 반면, 자원봉사를 할 수 없는 사람들에게는 나중에 기회를 얻지 못하여, 더더욱 오픈소스의 다양성이 부족해집니다.
+또한 유료 작업을 통해 여러 계층의 사람들이 의미있는 기여를 할 수 있습니다. 어떤 사람들은 현재 재무 상태, 부채, 또는 가족 또는 다른 보살필 의무를 다하지않고 오픈소스 프로젝트에 시간을 보낼 여력이 없습니다. 즉, 세상은 자신의 시간을 자원봉사할 여력이없는 재능있는 사람들에게서 기여를 결코 볼 수 없다는 것을 의미합니다. @ashedryden이 [설명한대로](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) 윤리적 함의가 있습니다. 이미 인생에 여유가 있는 사람들에게 치우친다는 것은, 자원 봉사자들의 기여에 기초하여 추가적인 이점을 얻는 반면, 자원봉사를 할 수 없는 사람들에게는 나중에 기회를 얻지 못하여, 더더욱 오픈소스의 다양성이 부족해집니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -65,7 +65,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 재정 지원을 찾고 있다면, 고려해야 할 두 가지 경로가 있습니다. 기여자로서 자신의 시간을 투자하거나, 프로젝트에 대한 조직 자금을 찾을 수 있습니다.
 
-## 시간 펀딩하기
+## Funding your own time
 
 오늘날, 많은 사람들이 오픈소스에서 파트 타임 또는 풀 타임으로 일하기 위해 돈을 받습니다. 당신의 시간에 대한 대금을 받는 가장 일반적인 방법은 고용주와 상담하는 것입니다.
 
@@ -108,7 +108,8 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 * @gaearon은 [Patreon crowdfunding campaign](http://redux.js.org/)을 통해 [Redux](https://github.com/reactjs/redux)에 대한 그의 작업에 펀드했습니다.
 * @andrewgodwin은 Django 스키마 마이그레이션 작업을 [Kickstarter 캠페인을 통해](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) 펀드했습니다.
-## 프로젝트 펀딩 찾기
+
+## Finding funding for your project
 
 개인 기여자를 위한 준비 외에도, 때로는 프로젝트가 회사, 개인 또는 다른 사람들로부터 지속적인 자금 마련을 위해 펀드를 모으는 경우가 있습니다.
 
@@ -146,7 +147,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 보다 자세한 옵션과 사례 연구를 원할 경우, @nayafia [가이드 작성](https://github.com/nayafia/lemonade-stand)을 통해 오픈소스 저작물에 대한 대가를 받을 수 있습니다. 다른 유형의 기금에는 여러 가지 기술이 필요하기 때문에 어떤 옵션이 가장 적합한 지 알아 내려면 장점을 고려하십시오.
 
-## 재정 지원 사례 구축하기
+## Building a case for financial support
 
 프로젝트가 새로운 아이디어이든, 수년간 지속되어 왔든 타겟 기금 제공자를 파악하고 중요한 사건을 만드는데 중요하게 고려되야합니다.
 
@@ -180,7 +181,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
   </p>
 </aside>
 
-## 실험적이고 포기하지 말기
+## Experiment and don't give up
 
 오픈소스 프로젝트, 비영리 단체, 소프트웨어 스타트업 등 많은 돈을 모으는 것은 쉽지 않습니다. 대부분의 경우 창의력을 발휘해야합니다. 어떻게 돈을 받고, 연구를 하고, 재밌는 사람의 신발에 몸을 두는지를 확인하면 자금 지원에 대한 설득력있는 사례를 구축하는 데 도움이됩니다.
 >

@@ -18,11 +18,11 @@ related:
   - metrics
 ---
 
-## 성장하는 프로젝트를 위한 거버넌스 이해하기
+## Understanding governance for your growing project
 
 프로젝트가 성장하고 있고, 사람들이 종사하고 있으며, 당신은 이 일을 계속 지키려고합니다. 이 단계에서 누군가가 프로젝트에 커밋하거나 커뮤니티 토론을 해결할 때, 정기적인 프로젝트 참여자를 워크플로우에 통합하는 방법에 대해 궁금해 할 수 있습니다. 질문이 있으시면 답변을 드리겠습니다.
 
-## 오픈소스 프로젝트에서 사용되는 공식 역할의 예시로는 무엇입니까?
+## What are examples of formal roles used in open source projects?
 
 많은 프로젝트가 기여자 역할과 인식을 위해 유사한 구조를 따릅니다.
 
@@ -58,7 +58,7 @@ related:
   </p>
 </aside>
 
-## 이러한 리더십 역할을 어떻게 공식화할 수 있습니까?
+## How do I formalize these leadership roles?
 
 리더십 역할을 공식화하면 사람들이 소유권을 느끼게되고 도움이 필요한 다른 커뮤니티 회원에게도 도움이 됩니다.
 
@@ -84,7 +84,7 @@ related:
 
 마지막으로, 프로젝트가 GitHub에 있을 경우, 프로젝트를 개인 계정에서 조직으로 옮기고 적어도 하나의 백업 관리자를 추가하는 것을 고려하십시오. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/)에서는 권한 및 여러 저장소를 쉽게 관리하고 [공유 소유권](../building-community/#share-ownership-of-your-project)을 통해 프로젝트의 유산을 보호합니다.
 
-## 누군가에게 언제 커밋 권한을 부여해야합니까?
+## When should I give someone commit access?
 
 어떤 사람들은 당신이 기여하는 모든 사람에게 헌신적으로 접근해야한다고 생각합니다. 그렇게하면 더 많은 사람들이 프로젝트 소유권을 느낄 수 있습니다.
 
@@ -100,7 +100,7 @@ related:
   </p>
 </aside>
 
-## 오픈소스 프로젝트의 공통적인 관리 구조에는 어떤 것들이 있습니까?
+## What are some of the common governance structures for open source projects?
 
 오픈소스 프로젝트와 관련된 세 가지 공통 관리 구조가 있습니다.
 
@@ -116,7 +116,7 @@ related:
 * [실력주의 모델 템플릿](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.js의 자유주의 기여 정책](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
 
-## 프로젝트를 시작할 때 거버넌스 문서가 필요합니까?
+## Do I need governance docs when I launch my project?
 
 프로젝트 관리 방식을 작성할 적절한 시기는 없지만, 커뮤니티 역학 관계가 성립했다면 정의하는 것이 훨씬 쉽습니다. 오픈소스 관리에 대한 가장 좋은(그리고 가장 어려운) 부분은 그것이 커뮤니티에 의해 형성된다는 것입니다!
 
@@ -132,7 +132,7 @@ related:
   </p>
 </aside>
 
-## 기업 직원이 기여를 제출하기 시작하면 어떻게됩니까?
+## What happens if corporate employees start submitting contributions?
 
 성공적인 오픈소스 프로젝트는 많은 사람들과 회사에서 사용되며, 결국 일부 회사는 궁극적으로 프로젝트에 묶인 수익원을 갖게 될 것입니다. 예를 들어, 회사는 상용 서비스에서 프로젝트 코드를 하나의 구성 요소로 사용할 수 있습니다.
 
@@ -144,7 +144,7 @@ related:
 
 다른 사람들과 마찬가지로, 상업적 동기를 부여받은 개발자는 기여도의 질과 양을 통해 프로젝트에 영향력을 행사합니다. 분명히 일정한 시간동안 돈을 지불한 개발자는 돈을 지불하지 않은 사람보다 더 많은 것을 할 수 있지만, 괜찮습니다. 지불은 누군가가 얼마나 많은 영향을 줄 수 있는지에 대한 많은 요인 중 하나일뿐입니다. 사람들이 그 기여를 할 수 있게 해주는 외적 요인이 아닌, 기여에 초점을 맞춘 프로젝트 토론을 유지하십시오.
 
-## 내 프로젝트를 지원하기 위해 법인이 필요합니까?
+## Do I need a legal entity to support my project?
 
 돈을 처리할 필요가 없다면, 오픈소스 프로젝트를 지원하는 법인이 필요하지 않습니다.
 

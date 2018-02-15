@@ -17,11 +17,11 @@ related:
   - building
 ---
 
-## 단어 확산하기
+## Spreading the word
 
 출시할 때 오픈소스 프로젝트를 홍보해야한다는 규정은 없습니다. 인기와 아무런 관련이 없는 오픈소스에서 일하는 많은 성취 이유가 있습니다. 그러나 다른 사람들이 오픈소스 프로젝트를 찾고 사용할 수 있기를 희망한다면, 이제는 모든 사람들에게 열심히 일하게 할 시간입니다!
 
-## 매시지 이해하기
+## Figure out your message
 
 프로젝트를 홍보하기 위한 실제 작업을 시작하기 전에, 프로젝트의 기능과 중요한 이유를 설명할 수 있어야합니다.
 
@@ -35,7 +35,7 @@ related:
 
 메시징에 대해 더 자세히 알고 싶으면, Mozilla의 ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) 개발자용 연습 personas를 확인하십시오.
 
-## 사람들이 프로젝트를 찾고 팔로우하도록 도와주기
+## Help people find and follow your project
 
 <aside markdown="1" class="pquote">
   You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
@@ -68,7 +68,7 @@ related:
 
 이제 프로젝트에 대한 메시지와 사람들이 프로젝트를 쉽게 찾을 수 있는 방법을 얻었으므로, 거기서 나와서 고객과 대화를 나눠보십시오.
 
-## 프로젝트의 고객이 있는 (온라인)으로 이동하기
+## Go where your project's audience is (online)
 
 온라인 홍보는 단어를 빠르게 공유하고 전파 할 수 있는 좋은 방법입니다. 온라인 채널을 사용하면 매우 광범위한 잠재적 고객에게 도달 할 수 있습니다.
 
@@ -92,7 +92,7 @@ related:
 
 아무도 주의를 기울이지 않거나 초기 봉사 활동에 응답하지 않으면, 낙심하지 마십시오! 대부분의 프로젝트 시작은 수개월 또는 수년이 걸릴 수 있는 반복 과정입니다. 처음으로 응답을 얻지 못하면 다른 전술을 시도하거나 다른 사람들의 작품에 가치를 더하는 방법을 먼저 찾으십시오. 이러한 일에는 시간과 헌신이 필요합니다.
 
-## 프로젝트의 고객이 있는 (오프라인)으로 이동하기
+## Go where your project's audience is (offline)
 
 ![Public speaking](/assets/images/finding-users/public_speaking.jpg)
 
@@ -132,7 +132,7 @@ related:
   </p>
 </aside>
 
-## 평판 쌓기
+## Build a reputation
 
 위에서 설명한 전략 외에도, 사람들을 초대하여 프로젝트에 기여하도록하는 가장 좋은 방법은 프로젝트를 공유하고 기여하는 것입니다.
 
@@ -160,6 +160,6 @@ related:
   </p>
 </aside>
 
-## 견딥시다!
+## Keep at it!
 
 때로는, 사람들이 오픈소스 프로젝트에 주목하기까지는 시간이 오래 걸립니다. 괜찮습니다! 오늘날 가장 인기있는 프로젝트 중 일부는 높은 수준의 활동에 도달하기까지 수년이 걸렸습니다. 마술 총알 대신 관계를 구축하는 데에 집중하십시오. 인내심을 갖고, 감사해하는 사람들과 일하는 결과물을 계속 공유하십시오.

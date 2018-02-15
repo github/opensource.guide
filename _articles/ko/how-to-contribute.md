@@ -17,7 +17,7 @@ related:
   - building
 ---
 
-## 왜 오픈소스에 기여 하나요?
+## Why contribute to open source?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -55,7 +55,7 @@ related:
 
 오픈소스에 참여하는 것을 즐기는 평생 기여자가 될 필요는 없습니다. 웹 사이트에 오타가 있는 것을 본 적이 있고, 누군가 그것을 고치기를 바랬습니까? 오픈소스 프로젝트에서 여러분은 그렇게 할 수 있습니다. 오픈소스는 사람들이 삶에 대해 어떻게 대처하고 그들이 세상을 경험하는지를 느끼도록 도와줍니다.
 
-## 기여한다는 것의 의미
+## What it means to contribute
 
 새로운 오픈소스 기여자라면, 기여하는 과정이 위협적일 수 있습니다. 올바른 프로젝트를 어떻게 찾을 수 있습니까? 코딩 방법을 모르는 경우에는 어떻게 해야합니까? 뭔가 잘못되면 어떡하죠?
 
@@ -149,7 +149,7 @@ related:
 
 비록 당신이 소프트웨어 개발자일지라도, 문서 프로젝트 작업은 오픈소스에서 시작하는 데 도움이 될 수 있습니다. 코드를 포함하지 않는 프로젝트에서 작업하는 것이 종종 위협적이지 않으며, 협업 프로세스가 자신감과 경험을 쌓을 수 있습니다.
 
-## 새로운 프로젝트에 동참하기
+## Orienting yourself to a new project
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -196,7 +196,7 @@ related:
 * **토론 포럼 혹은 메일링 리스트:** 일부 프로젝트는 회화 주제(ex. _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests)에 대해 이러한 채널을 사용할 수 있습니다. 다른 사람들은 모든 대화에 이슈 트래커를 사용합니다.
 * **동기식 채널 채팅:** 일부 프로젝트에서는 일상 회화, 공동 작업 및 빠른 교환을 위해 채팅 채널 (예 : 슬랙 또는 IRC)을 사용합니다.
 
-## 기여할 프로젝트 찾기
+## Finding a project to contribute to
 
 이제 오픈소스 프로젝트가 어떻게 작동하는지 알게 되었으니, 이제는 기여할 프로젝트를 찾아야 할 때입니다!
 
@@ -225,7 +225,7 @@ README를 스캔하여 깨진 링크 또는 오타를 찾을 수 있습니다. �
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
-### 기여하기 전 체크리스트
+### A checklist before you contribute
 
 기여하고 싶은 프로젝트를 찾았으면, 프로젝트가 기여를 받기에 적합한 지 빠르게 확인하십시오. 그렇지 않으면, 노력이 절대로 응답을 받지 못할 수도 있습니다.
 
@@ -379,7 +379,7 @@ README를 스캔하여 깨진 링크 또는 오타를 찾을 수 있습니다. �
   </p>
 </aside>
 
-## 기여 제출 방법
+## How to submit a contribution
 
 원하는 프로젝트를 찾았으면 기꺼이 기여할 준비가되었습니다. 마침내! 올바른 방법으로 기여를 받는 방법은 다음과 같습니다.
 
@@ -491,7 +491,7 @@ pull request은 완료된 작업을 나타내지 않아도됩니다. 일반적�
 
 만약 이것이 첫 pull request 라면, @kentcdodds가 무료 walkthrough 리소스로 생성한 [Make a Pull Request](http://makeapullrequest.com/)를 확인하십시오.
 
-## 기여를 제출하면 어떻게됩니까?
+## What happens after you submit a contribution
 
 훌륭합니다! 오픈소스 기여자가 되신 것을 축하드립니다. 우리는 그것이 많은 사람들 중 첫번째가 되기를 바랍니다.
 
@@ -523,6 +523,6 @@ pull request은 완료된 작업을 나타내지 않아도됩니다. 일반적�
 
 만세! 성공적으로 오픈소스 기여를 만들었습니다!
 
-## 훌륭합니다!
+## You did it!
 
 처음으로 오픈소스에 기여한 사람이든, 새로운 방식으로 기여할 사람을 찾고 있든, 우리는 이 행동에 영감을 얻으시기 바랍니다. 기여가 승인되지 않더라도, 관리자가 당신을 돕기 위해 노력할 때 감사하다는 말을 잊지 마십시오. 오픈소스는 당신과 같은 사람들이 만듭니다: one issue, pull request, comment, or high-five at a time.
