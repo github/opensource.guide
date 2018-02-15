@@ -19,15 +19,12 @@ We've put together the following guidelines to help you figure out where you can
 0. [Community](#community)
 
 ## Types of contributions we're looking for
-First and foremost, this project is a forum to discuss open source best practices, then document them in a guide when we've found consensus. Your first contribution might be starting a new conversation, or adding to an existing conversation, around best practices. You can do so under [Issues](https://github.com/github/opensource.guide/issues).
-
-There are also many ways you can directly contribute to the guides (in descending order of need):
+There are many ways you can directly contribute to the guides (in descending order of need):
 
 * Fix editorial inconsistencies or inaccuracies
 * Add stories, examples, or anecdotes that help illustrate a point
 * Revise language to be more approachable and friendly
 * [Translate guides into other languages](docs/translations.md)
-* Propose a new guide ([here's how](./docs/new-guides.md))
 
 Interested in making a contribution? Read on!
 
@@ -64,7 +61,7 @@ Once you have that set up, run:
 
 ## Contribution review process
 
-This repo is currently maintained by @nayafia and @bkeepers, who have commit access. They will likely review your contribution. If you haven't heard from anyone in 10 days, feel free to bump the thread or @-mention a maintainer to review your contribution.
+This repo is currently maintained by @nayafia and @mikemcquaid, who have commit access. They will likely review your contribution. If you haven't heard from anyone in 10 days, feel free to bump the thread or @-mention a maintainer to review your contribution.
 
 ## Community
 
