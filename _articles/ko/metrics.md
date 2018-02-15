@@ -43,7 +43,7 @@ If you _are_ interested in understanding your project on a deeper level, read on
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-얼마나 많은 사람들이 당신의 프로젝트에 도착했는지, 어디에서 왔는지를 볼 수 있습니다. 프로젝트 페이지에서 '그래프'를 클릭 한 다음, '트래픽'을 클릭하십시오. 이 페이지에서 다음을 볼 수 있습니다:
+얼마나 많은 사람들이 당신의 프로젝트에 도착했는지, 어디에서 왔는지를 볼 수 있습니다. 프로젝트 페이지에서 "그래프"를 클릭 한 다음, "트래픽"을 클릭하십시오. 이 페이지에서 다음을 볼 수 있습니다:
 
 * **총 페이지 뷰:** 얼마나 많은 조회 횟수로 프로젝트를 보았는지 알려줍니다
 

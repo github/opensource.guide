@@ -90,7 +90,6 @@ related:
 
 당신이 메인테이너로서 만날 수 있는 많은 상황에 적용됩니다: 범위에 맞지 않는 기능 요청, 토론을 이탈한 사람, 불필요한 다른 일을 하는 사람들.
 
-
 ### 친근한 대화를 유지하기
 
 가장 중요한 장소 중 하나인 No라고 말하면서 이슈와 pull request 대기열을 가져옵니다. 프로젝트 메인테이너로서, 여러분은 받아들이기를 원치않는 제안을 필연적으로 받게됩니다.
@@ -157,7 +156,6 @@ related:
 
 때로는 아니오라고 말하면 잠재적 기여자가 결정을 뒤집거나 비판할 수 있습니다. 그들의 행동이 적대적으로 된다면, [상황을 완화시키기 위한 조치를 취하십시오.](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) 또는 건설적으로 협업하지 않으려는 경우 커뮤니티 자체에서 제거할 수도 있습니다.
 
-
 ### 멘토십을 포옹하기
 
 커뮤니티의 누군가가 프로젝트 표준에 맞지 않는 기여를 정기적으로 제출할 수도 있습니다. 각자 당사자가 거절을 반복해서 거치는 것은 좌절할 수 있습니다.
@@ -175,7 +173,6 @@ related:
 새로운 기여자가 반복적으로 기여를 하는 것을 보았을 때, 더 많은 책임을 제공함으로써 자신의 업무로 인정합시다. 원한다면 다른 사람들이 리더십 역할로 성장할 수 있는 방법을 문서화하십시오.
 
 @lmccart가 프로젝트 [p5.js](https://github.com/processing/p5.js?files=1)에서 발견한대로 [프로젝트 소유권 공유](../building-community/#share-ownership-of-your-project)를 권장하면 자신의 작업량을 크게 줄일 수 있습니다.
-
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -242,7 +239,6 @@ related:
 * [semantic-release](https://github.com/semantic-release/semantic-release) 릴리즈를 자동화하기
 * [mention-bot](https://github.com/facebook/mention-bot) pull requests를 위한 잠재적 검토자 언급하기
 * [Danger](https://github.com/danger/danger) 코드 리뷰 자동화를 도와주기
-
 
 버그 보고서 및 기타 일반적인 공헌을 위해 GitHub는 [이슈 템플릿과 Pull Request 템플릿](https://github.com/blog/2111-issue-and-pull-request-templates)를 제공합니다, 귀하가 받을 수 있는 커뮤니케이션을 합리화하기 위해 만들 수 있습니다. [이메일 필터](https://github.com/blog/2203-email-updates-about-your-own-activity)를 설정하여 이메일 알림을 관리 할 수도 있습니다.
 

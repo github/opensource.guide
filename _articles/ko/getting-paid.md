@@ -184,4 +184,5 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 ## Experiment and don't give up
 
 오픈소스 프로젝트, 비영리 단체, 소프트웨어 스타트업 등 많은 돈을 모으는 것은 쉽지 않습니다. 대부분의 경우 창의력을 발휘해야합니다. 어떻게 돈을 받고, 연구를 하고, 재밌는 사람의 신발에 몸을 두는지를 확인하면 자금 지원에 대한 설득력있는 사례를 구축하는 데 도움이됩니다.
+
 >

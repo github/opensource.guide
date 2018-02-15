@@ -219,7 +219,7 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
 
 일부 프로젝트는 주요 결정을 내리기 위해 투표 프로세스를 사용합니다. 언뜻보기에 합당한 반면, 투표는 서로의 의견을 경청하고 다루기보다 "대답"을 얻는 것을 강조합니다.
 
-투표는 정치적으로 진행될 수 있으며, 커뮤니티 멤버들은 서로에게 호의를 베풀거나 특정 방식으로 투표하도록 압박을 느끼고 있습니다. 모든 사람이 투표를 하든, [다수가 침묵][silent majority](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users)하든간에, 또는 사용자가 커뮤니티에서 투표를 하지 못했거나 투표를 모르는 사용자가 발생할겁니다.
+투표는 정치적으로 진행될 수 있으며, 커뮤니티 멤버들은 서로에게 호의를 베풀거나 특정 방식으로 투표하도록 압박을 느끼고 있습니다. 모든 사람이 투표를 하든, [다수가 침묵](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users)하든간에, 또는 사용자가 커뮤니티에서 투표를 하지 못했거나 투표를 모르는 사용자가 발생할겁니다.
 
 때로는, 투표는 필요한 동점자입니다. 그러나 합의가 아닌 당신이 할 수 있는만큼 ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)을 강조합니다.
 
