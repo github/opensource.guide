@@ -139,7 +139,7 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
 
 만약 회사의 첫번째 오픈소스 프로젝트를 릴리스하는 경우, 위의 내용만으로도 충분합니다 (걱정하지 마십시오. 대부분의 프로젝트가 큰 우려를 제기해서는 안됩니다).
 
-Longer term, your legal team can do more to help the company get more from its involvement in open source, and stay safe:
+장기적으로, 법률팀은 오픈소스에 대한 참여를 통해 더 많은 것을 얻고, 안전을 유지할 수 있도록 더 많은 일을 할 수 있습니다:
 
 * **직원 기여 정책:** 직원이 오픈소스 프로젝트에 기여하는 방법을 지정하는 기업 정책을 개발하는 것을 고려하십시오. 분명한 정책은 직원들 사이의 혼란을 줄이고 작업의 일부 또는 자유 시간에 상관없이, 회사의 이익을 최대한 활용하여 오픈소스 프로젝트에 기여할 수 있도록 지원합니다. 좋은 예시는 Rackspace의 [모델 IP 및 오픈소스 기여 정책](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)입니다.
 

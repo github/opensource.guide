@@ -179,9 +179,6 @@ CONTRIBUTING 파일은 잠재 고객에게 프로젝트 참여 방법을 알려�
 
 기술적 세부 사항 외에도, CONTRIBUTING 파일은 기여에 대한 귀하의 기대를 전달할 수 있는 기회입니다, 예로 들면 :
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
 * 당신이 찾고있는 기여의 종류
 * 프로젝트 로드맵 또는 비전
 * 참여자가 귀하와 연락해야 (또는 하지 말아야) 하는 방법 
