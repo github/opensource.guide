@@ -22,7 +22,7 @@ ko:
       button: 구독하기
     byline:
       # [code], [love], and [github] will be replaced by octicons
-      format: "[github]와 [친구]의 [사랑]을 담은 [코드]"
+      format: "[github]와 [friends]의 [love]을 담은 [code]"
       # Label for code octicon
       code_label: 코드
       # Label for love octicon
