@@ -191,8 +191,8 @@ related:
 
 마지막으로 오픈소스 프로젝트는 다음 도구를 사용하여 토론을 구성합니다. 기록 보관소를 읽으면 커뮤니티가 어떻게 사고하고 작동하는지 잘 알 수 있습니다.
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
+* **Issue tracker:** 사람들이 프로젝트와 관련된 이슈를 토론하는 공간입니다.
+* **Pull requests:** 사람들이 토론하고 진행중인 변경 사항을 검토합니다.
 * **토론 포럼 혹은 메일링 리스트:** 일부 프로젝트는 회화 주제(ex. _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests)에 대해 이러한 채널을 사용할 수 있습니다. 다른 사람들은 모든 대화에 이슈 트래커를 사용합니다.
 * **동기식 채널 채팅:** 일부 프로젝트에서는 일상 회화, 공동 작업 및 빠른 교환을 위해 채팅 채널 (예 : 슬랙 또는 IRC)을 사용합니다.
 
