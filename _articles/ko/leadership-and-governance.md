@@ -75,7 +75,7 @@ related:
   </p>
 </aside>
 
-리더십 팀은 IRC와 같이 지정된 채널을 만들거나 프로젝트를 토론하기 위해 정기적으로 (Gitter 또는 Google 행 아웃과 같은)모임을 갖기를 원할 수 있습니다. 다른 사람들이 들을 수 있도록 그 모임을 공개할 수도 있습니다. 
+리더십 팀은 IRC와 같이 지정된 채널을 만들거나 프로젝트를 토론하기 위해 정기적으로 (Gitter 또는 Google 행 아웃과 같은)모임을 갖기를 원할 수 있습니다. 다른 사람들이 들을 수 있도록 그 모임을 공개할 수도 있습니다.
 예시로, [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)는, [매주 근무 시간에 가졌습니다](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
 
 리더십 역할을 확립한 후에는 사람들이 어떻게 달성할 수 있는지 문서화하는 것을 잊지 마십시오! 누군가가 어떻게 메인테이너나 프로젝트의 소위원회에 참여할 수 있는지에 대한 명확한 프로세스를 수립하고 GOVERNANCE.md에 기록합시다.

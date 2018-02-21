@@ -178,9 +178,9 @@ Doronglah orang lain untuk [berbagi kepemilikan proyek](../building-community/#b
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Saya telah banyak berkata, “Ya, setiap orang bisa terlibat, Anda tidak harus memiliki pengalaman membuat code [...].” Kami mendapati banyak orang mendaftar untuk hadir [pada sebuah acara] dan pada saat itulah saya mulai bertanya: jika hal ini benar, apa yang harus saya katakan? Terdapat lebih dari 40 orang yang hadir, dan saya tidak mungkin duduk bersama-sama dengan masing-masing dari mereka. ...Tetapi orang-orang tersebut hadir, dan semuanya berjalan dengan lancar. Begitu ada satu orang yang berhasil, mereka bisa mengajarkan ke orang lain.
+  Saya telah banyak berkata, "Ya, setiap orang bisa terlibat, Anda tidak harus memiliki pengalaman membuat code [...]." Kami mendapati banyak orang mendaftar untuk hadir [pada sebuah acara] dan pada saat itulah saya mulai bertanya: jika hal ini benar, apa yang harus saya katakan? Terdapat lebih dari 40 orang yang hadir, dan saya tidak mungkin duduk bersama-sama dengan masing-masing dari mereka. ...Tetapi orang-orang tersebut hadir, dan semuanya berjalan dengan lancar. Begitu ada satu orang yang berhasil, mereka bisa mengajarkan ke orang lain.
   <p markdown="1" class="pquote-credit">
-—  @lmccart, ["What Does “Open Source” Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
+—  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
   </p>
 </aside>
 
