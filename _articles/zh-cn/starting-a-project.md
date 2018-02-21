@@ -16,12 +16,11 @@ related:
   - building
 ---
 
-## 什么是开源，为什么要开源
-
+## The "what" and "why" of open source
 
 所以你在考虑开始参与开源？恭喜！世界赞赏你的贡献。让我们来谈谈开源是什么，以及人们这样做。
 
-### “开源”是什么意思？
+### "开源"是什么意思？
 
 当一个项目被开源，这意味着**任何人都可以出于任何目的查看，使用，修改和分发你的项目**。 这些权限通过[开源许可](https://opensource.org/licenses)强制实施。
 
@@ -42,7 +41,7 @@ related:
   <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
 我从开源使用和协作中获得的最有价值的经验之一，就是在我面临许多与其他开发人员相同问题的过程中所建立的联系。
   <p markdown="1" class="pquote-credit">
-    — @kentcdodds, [“参与开源对我来说太棒了”](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
+    — @kentcdodds, ["参与开源对我来说太棒了"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
   </p>
 </aside>
 
@@ -56,15 +55,15 @@ related:
 
 开源并不仅仅限于软件。您可以开源任何事物，从数据集到书本。查看 [GitHub Explore](https://github.com/explore) 开找找有什么是你可以开源的。
 
-### 开源是指“免费”吗？
+### 开源是指"免费"吗？
 
-开源最大的吸引之一是它不花钱。 但是，“免费”只是开源的总体价值的一个副产品。
+开源最大的吸引之一是它不花钱。 但是，"免费"只是开源的总体价值的一个副产品。
 
 因为[开源许可证要求](https://opensource.org/osd-annotated)任何人可以几乎出于任何目使用，修改和共享您的项目，项目本身往往是免费的。 如果该项目花钱使用，任何人也都可以合法地复制和使用免费版本。
 
-因此，大多数开源项目是免费的，但“免费”不是开源定义的一部分。 有些方法可以通过双重许可或有限功能间接地为开源项目收费，同时仍然遵守开源的官方定义。
+因此，大多数开源项目是免费的，但"免费"不是开源定义的一部分。 有些方法可以通过双重许可或有限功能间接地为开源项目收费，同时仍然遵守开源的官方定义。
 
-## 我是否应该发起我自己的开源项目?
+## Should I launch my own open source project?
 
 简单来说，答案是肯定的，因为无论结果如何，启动您自己的项目来了解开源的工作原理是一个好方法。
 
@@ -86,7 +85,7 @@ related:
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
 在某些时候，我创建了一个自己正在使用的自定义 UIAlertView，我决定将它开源。所以我修改它使其更有活力，并把它上传到了 GitHub。我还写了我的第一个文档，解释给其他开发人员如何在他们的项目中使用它。很可能没有人会去使用它，因为它是一个简单的项目，但我的贡献让我感觉很好。
   <p markdown="1" class="pquote-credit">
-— @mavris, [“自学的软件开发者：为什么开源对我们那么重要”](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+— @mavris, ["自学的软件开发者：为什么开源对我们那么重要"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
 </aside>
 
@@ -102,7 +101,7 @@ related:
   <img src="https://avatars2.githubusercontent.com/u/1857993?v=3&s=460" class="pquote-avatar" alt="avatar">
 当你开始开源一个项目时，确保您的管理流程考虑到您项目周围社区的贡献和能力很重要。不要害怕让那些没有在你的企业中受雇的贡献者参与项目的关键部分 - 尤其如果他们是频繁的贡献者的话。
   <p markdown="1" class="pquote-credit">
-— @captainsafia, [“所以你想开源一个项目，是吗？”](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["所以你想开源一个项目，是吗？"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
   </p>
 </aside>
 
@@ -112,7 +111,7 @@ related:
 
 如果你不知道如何开始作为贡献者，请查看我们的[如何贡献开源指南](../how-to-contribute/)。
 
-## 发起自己的开源项目
+## Launching your own open source project
 
 即使你没有很好的时间来开源你的工作。你也可以开源一个想法，正在进行中的工作，或是关闭了多年的源码。
 
@@ -143,7 +142,7 @@ related:
 
 如果您在管理开放源码项目的法律方面有其他问题或疑虑，我们已经[在这里](../legal/)介绍了。
 
-### 编写自述文件 (README)
+### Writing a README
 
 自述文件不仅仅是用于说明如何使用你的项目。他们还可以解释你的项目为什么重要，以及它可以为你的用户做什么。
 
@@ -170,7 +169,7 @@ related:
 
 当你在根目录中包含一个 README 文件时，GitHub 会自动将其显示在存储库的主页上。
 
-### 编写你的贡献指南
+### Writing your contributing guidelines
 
 贡献文件 (CONTRIBUTING file) 告诉你的受众如何参与你的项目. 例如，你可以包括一下信息:
 
@@ -194,7 +193,7 @@ related:
 
 随着时间的推移，你硬弓增加其他常见问题到你的贡献文件中去。写下这些信息意味着问你相同问题的人会越来越少。
 
-想要获得更多有关编写贡献文件的方式，请查阅 @nayafia 的 [贡献指南模板](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 或者 @mozilla 的 [“如何构建 CONTRIBUTION.md”](http://mozillascience.github.io/working-open-workshop/contributing/)。
+想要获得更多有关编写贡献文件的方式，请查阅 @nayafia 的 [贡献指南模板](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 或者 @mozilla 的 ["如何构建 CONTRIBUTION.md"](http://mozillascience.github.io/working-open-workshop/contributing/)。
 
 来你的 README 中链接你的 CONTRIBUTING，这样更多人就能看到他。如果你[在你的项目中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，当一个贡献者创建 issue 或者开启一个 pull request 时，GitHub 会自动链接你的文件。
 
@@ -206,7 +205,7 @@ related:
   <img src="https://avatars3.githubusercontent.com/u/11214?v=3&s=460" class="pquote-avatar" alt="avatar">
   我们都有过这样的关于重复劳动的经验，无论是维护者试着解释为什么某些事物必须通过某种明确的方式执行，或者是用户...提出一个简单的问题。行为规范成为一个便利的参考和可链接的文档标明你的团队会认真对待具有建设性的讨论。
   <p markdown="1" class="pquote-credit">
-— @mlynch, [“让开源成为一个有趣的地方”](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
+— @mlynch, ["让开源成为一个有趣的地方"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
 </aside>
 
@@ -220,7 +219,7 @@ related:
 
 将文本直接粘贴到项目存储库中的 CODE_OF_CONDUCT 文件中。将文件保存在项目的根目录中，以便轻松找到，并从 README 中链接到它。
 
-## 为项目命名及设立品牌
+## Naming and branding your project
 
 品牌不仅是一个华丽的logo或者易记的项目名。它还关于你如何谈论你的项目，以及你想把信息传递给谁。
 
@@ -235,7 +234,7 @@ related:
 
 考虑阐明所有。押韵虽然有趣，但是记住玩笑不可能转变成其它的文化，或者他人与你有不同的经历。你的一些潜在用户可能是公司员工，你不能让他们在工作中很难解释你的项目！
 
-### 避免命名冲突
+### Avoiding name conflicts
 
 [查看是否有同名的开源项目](http://ivantomic.com/projects/ospnc/)，尤其是你分享的是同样的语言或者生态系统。如果你的名字与一个已存在的知名的项目有冲突，你会让你的粉丝感到困惑。
 
@@ -261,13 +260,13 @@ related:
   </p>
 </aside>
 
-使用热情，通俗易懂的语言（如“他们”，即使是指一个人）能够让新来的贡献者感觉项目非常欢迎他们。使用简单的语言，因为你的读者可能英语不是很好。
+使用热情，通俗易懂的语言（如"他们"，即使是指一个人）能够让新来的贡献者感觉项目非常欢迎他们。使用简单的语言，因为你的读者可能英语不是很好。
 
 除了书写风格外，你的编码风格也是你项目品牌的一部分。 [Angular](https://github.com/johnpapa/angular-styleguide) 和 [jQuery](http://contribute.jquery.org/style-guide/js/)是两个项目代码风格严谨的示例和指南。
 
 当你的项目才开始时，没有必要为项目编写一份风格指南。你可能会发现你喜欢将不同的编码风格融入到项目。但是你应该想到你的书写和编码风格会吸引或者拒绝不同类型的人。项目的早期是你建立你希望看见的先例的机会。
 
-## 发起项目之前的检查项
+## Your pre-launch checklist
 
 准备好开源你的项目了吗？有一份帮助检查清单。检查所有内容？你准备开始吧！ [点击 "publish"](https://help.github.com/articles/making-a-private-repository-public/) 以及拍下自己的后背。
 
@@ -365,8 +364,6 @@ related:
   </label>
 </div>
 
-## 你做到了！
+## You did it!
 
 恭喜你开源了你的首个项目。不论结果如何，对开源社区都是一份礼物。随着每次commit,comment和pull request，你正在为自己或者他人创造学习和成长的机会。
-
-

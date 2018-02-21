@@ -17,11 +17,11 @@ related:
   - building
 ---
 
-## 四处传播
+## Spreading the word
 
 还没有规定说应该怎么去倡导刚创建的开源项目。但没有任何理由说必须默默无闻的在开源项目上工作。相反，如果你向有更多的人发现和使用你的开源项目，你就应该让所有人知道你所努力的成果！
 
-## 发出自己的声音
+## Figure out your message
 
 在你开始推广你的项目之前，你应该能够解释你的项目是做什么的，为什么大家需要他?
 
@@ -33,12 +33,12 @@ related:
 
 ![cartography readme](/assets/images/finding-users/cartography.jpg)
 
-如果你想深入了解如何挖掘项目的“卖点”，看一下Mozilla的["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/)，练习如何建立用户的形象。
+如果你想深入了解如何挖掘项目的"卖点"，看一下Mozilla的["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/)，练习如何建立用户的形象。
 
-## 帮助人们找到并关注你的项目
+## Help people find and follow your project
 
 <aside markdown="1" class="pquote">
-  你最好有一个唯一的“主页”链接用来推广，引导人们关注你的项目。你不需要找一个炫酷的模板或者域名，但是你的项目确实需要一个入口。
+  你最好有一个唯一的"主页"链接用来推广，引导人们关注你的项目。你不需要找一个炫酷的模板或者域名，但是你的项目确实需要一个入口。
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
@@ -60,20 +60,19 @@ related:
 
 **考虑给你的项目做一个网站**一个网站可以让你的项目更加友好，而且更加容易浏览，更重要的是附上清晰的文档和教程。这也是象征着你的项目还是活跃的，这会让你的用户使用你项目的时候感觉更放心。可以用一些例子告诉人们如何使用的项目。
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), Django的协作者说，我们给Django做的网站可以说是“在早期开发Django的时候做的最好的一件事情了”。
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), Django的协作者说，我们给Django做的网站可以说是"在早期开发Django的时候做的最好的一件事情了"。
 
 如果你的项目是托管在GitHub上的，你可以用[GitHub Pages](https://pages.github.com/)简单的创建一个网站。[Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) 是一些优秀的内容详尽的网站的[例子](https://github.com/showcases/github-pages-examples)
 
 ![vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
-现在你的项目有了“卖点”，和让人们很容易发现你项目的渠道，接下来我们谈谈如何和你的用户交流吧！
+现在你的项目有了"卖点"，和让人们很容易发现你项目的渠道，接下来我们谈谈如何和你的用户交流吧！
 
-## 到你项目的受众在的地方去（线上）
+## Go where your project's audience is (online)
 
 网上拓展是分享和快速宣传项目的一个好方法。借助一些网上的渠道，你有可能找到一大批受众。
 
 利用好已有的线上社区和平台去找你的受众。如果你的开源项目是一个软件项目，你可能会在[Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), 或者[Quora](https://www.quora.com/)。找到你觉得人们会最有可能从你的项目中受益或者对你项目感兴趣的渠道。
-
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -85,17 +84,15 @@ related:
 
 来看看下面的一些方法吧，也许推广你的项目的时候用得着。
 
-+ **快找找有没有相关的开源项目和社区。**有时候，你不需要直接的推广你的项目。如果你的项目对使用Python的数据科学家来说是无可挑剔的，那么就去找Python数据科学的社区。等他们知道你的项目之后，很自然的就会谈论然后分享你的工作成果。
-+ **如果你项目尝试解决某些问题，那么找到会遇到这些问题的人。**想象你的项目受众会在哪些论坛，然后搜索这些论坛，回答他们的问题，然后找一个合适的实际，向他们建议使用你的项目来作为一种解决方案。
-+ **寻求反馈。**给一个可能会用到你项目的人介绍你自己和你做的工作。对哪些人会从你的项目受益要很明确。尝试完善一下下面这句话：“我觉得我的项目能够帮助A，那些尝试做B的人”。听取和回复别人的反馈，而不是简单的推广。
+* **快找找有没有相关的开源项目和社区。**有时候，你不需要直接的推广你的项目。如果你的项目对使用Python的数据科学家来说是无可挑剔的，那么就去找Python数据科学的社区。等他们知道你的项目之后，很自然的就会谈论然后分享你的工作成果。
+* **如果你项目尝试解决某些问题，那么找到会遇到这些问题的人。**想象你的项目受众会在哪些论坛，然后搜索这些论坛，回答他们的问题，然后找一个合适的实际，向他们建议使用你的项目来作为一种解决方案。
+* **寻求反馈。**给一个可能会用到你项目的人介绍你自己和你做的工作。对哪些人会从你的项目受益要很明确。尝试完善一下下面这句话："我觉得我的项目能够帮助A，那些尝试做B的人"。听取和回复别人的反馈，而不是简单的推广。
 
 一般来说，在你索取什么回报之前先把精力放在帮助别人上。因为在网上推广一个项目对任何人都是一个不难的事情，所以有很多人和坐着一样的事。告诉人们你是谁，而不是你想要什么，这样才能从众多推广者中脱颖而出。
 
 如果没有人对你的推广感兴趣，不要灰心！大部分的项目的开展都是一个要花费数月和数年的反复过程。如果你第一次没收到反应，尝试换一种策略，或者找办法给别人的项目做做贡献。这都是些需要时间和奉献精神的事情。
 
-
-## 到你项目受众在的地方去（线下）
-
+## Go where your project's audience is (offline)
 
 ![public speaking](/assets/images/finding-users/public_speaking.jpg)
 
@@ -133,7 +130,7 @@ related:
   </p>
 </aside>
 
-## 赢得口碑
+## Build a reputation
 
 除了上面提到的策略之外，邀请人们分享和支持你的项目的最好办法就是分享和支持他们的项目。
 
@@ -161,8 +158,6 @@ related:
   </p>
 </aside>
 
-## 保持精进
+## Keep at it!
 
 有时候，让人么注意你的开源项目会话费很多事件。但是关系！现在很多流行的项目都是花了很多年才有今天的活跃度。把重点放在建立声望上而不是企图一夜成名。耐心一点，一如既往的和那些可能会从中受益的人们分享你的项目。
-
-

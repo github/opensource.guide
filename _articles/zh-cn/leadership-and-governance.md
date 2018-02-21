@@ -18,11 +18,11 @@ related:
   - metrics
 ---
 
-## 针对增长的项目来理解治理
+## Understanding governance for your growing project
 
 当项目开始有条不紊的进行，人员也开始稳定，那么你就应该开始社区的治理了。对于社区的治理，你或许有一些疑问，诸如如何将常规项目的贡献者纳入你的工作流？如何才能判断应该赋予谁提交的权限？又或者是如何解决社区的债务？如果你对这些有疑问的话，我们这里会尽力帮你解决。
 
-## 开源项目中通常都有那些角色？
+## What are examples of formal roles used in open source projects?
 
 很多项目针对贡献者角色和身份均遵循相似的结构。
 
@@ -52,13 +52,13 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/21148?v=3&s=460" class="pquote-avatar" alt="avatar">
-  你们或许知道我是 Django 的“创始人”...其实真相是在有人雇佣了我之后一年才真正的做出来。(...) 人们猜测我的成功是因为我的编程技能够牛...但事实上我的编程水平只是一般般而已。
+  你们或许知道我是 Django 的"创始人"...其实真相是在有人雇佣了我之后一年才真正的做出来。(...) 人们猜测我的成功是因为我的编程技能够牛...但事实上我的编程水平只是一般般而已。
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (视频)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
 </aside>
 
-## 该如何将这些领导力角色正规化？
+## How do I formalize these leadership roles?
 
 将领导力角色正规化，可以帮助人们找到归属感，且可以让其它社区成员明白应该找谁能够获得帮助。
 
@@ -66,10 +66,10 @@ related:
 
 对于稍大型点的项目，如果你已经拥有了网页的话，那么请创建一个团队的页面，或者创建一个团队领导的页面。举例来说， [PostgreSQL](https://github.com/postgres/postgres/) 就拥有一个[很全面地团队页面](https://www.postgresql.org/community/contributors/) ，而且每位贡献者都拥有简短的介绍。
 
-如果你的项目拥有非常活跃的贡献者社区，你或许会专门建立一个维护者的“核心团队”，甚至是根据不同的话题所有者成立子的委员会（例如，安全，问题筛选，或者是社区准则）。让人们自行组织、且能够让志愿者自行找到自己喜欢的角色，而不是去分配他们。
+如果你的项目拥有非常活跃的贡献者社区，你或许会专门建立一个维护者的"核心团队"，甚至是根据不同的话题所有者成立子的委员会（例如，安全，问题筛选，或者是社区准则）。让人们自行组织、且能够让志愿者自行找到自己喜欢的角色，而不是去分配他们。
 
 <aside markdown="1" class="pquote">
-  \[我们\] 为核心团队设立多个“子团队”。每个子团队都会专门的聚焦于某个特定的领域，举例来说，语言设计或程序库(...) 为了确保全局的协调和健壮，会将整体的项目设置为同一个愿景，每个子团队是由核心团队的一员。
+  \[我们\] 为核心团队设立多个"子团队"。每个子团队都会专门的聚焦于某个特定的领域，举例来说，语言设计或程序库(...) 为了确保全局的协调和健壮，会将整体的项目设置为同一个愿景，每个子团队是由核心团队的一员。
   <p markdown="1" class="pquote-credit">
 — ["Rust 治理 RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
   </p>
@@ -85,7 +85,7 @@ related:
 另外，如果你的项目在托管在GitHub上，考虑将你的项目从个人账户迁移到某个组织，而且要为组织增加额外的一个备份的管理员。
 [GitHub 上的组织](https://help.github.com/articles/creating-a-new-organization-account/) 能够让权限管理和多仓库管理更加的轻松，而且可通过 [共享所有权](../building-community/#share-ownership-of-your-project)来保护你的项目。
 
-## 何时该赋予提交者权限？
+## When should I give someone commit access?
 
 有的人认为项目应该对所有人都开放提交访问，从而让任何人都可以做出贡献。理由是这样做的话，会让人们感到拥有这个项目，进而达到鼓励的目的。
 
@@ -101,13 +101,13 @@ related:
   </p>
 </aside>
 
-## 对于开源项目来说有那些常见的治理结构？
+## What are some of the common governance structures for open source projects?
 
 关于开源项目有三类通用的相关治理结构。
 
 * **BDFL:** BDFL 是 "仁慈的独裁者生活" 的缩写. 在此结构下，有一个人（通常是项目的最初的作者）拥有项目中所有的最后决定权。[Python](https://github.com/python) 就是一个非常经典的例子。较小的项目可能默认就是 BDFL 结构，因为他一般就是一到两位维护者。若是公司组织的项目也极有可能会采用BDFL结构。
 
-* **精英制:** **(注: 术语 "精英制" 对于一些社群可能具有消极的含义，其拥有较[复杂的社会和政治的历史](http://geekfeminism.wikia.com/wiki/Meritocracy).)** 在精英制下，活跃的项目贡献者（他们用行动证明自己是“精英”）给一个正式的决策作用，决定通常会基于纯粹的投票一致性。精英制的概念首次由[Apache Foundation](http://www.apache.org/)提出；[所有的Apache 项目](http://www.apache.org/index.html#projects-list) 都是基于精英制的。贡献者只能代表自己是独立的个体，不可以是公司。
+* **精英制:** **(注: 术语 "精英制" 对于一些社群可能具有消极的含义，其拥有较[复杂的社会和政治的历史](http://geekfeminism.wikia.com/wiki/Meritocracy).)** 在精英制下，活跃的项目贡献者（他们用行动证明自己是"精英"）给一个正式的决策作用，决定通常会基于纯粹的投票一致性。精英制的概念首次由[Apache Foundation](http://www.apache.org/)提出；[所有的Apache 项目](http://www.apache.org/index.html#projects-list) 都是基于精英制的。贡献者只能代表自己是独立的个体，不可以是公司。
 
 * **自由贡献:** 在自由贡献的模式下，做最多工作的人通常被认为是最具影响力的，但是是基于当前的工作，而不是历史的共享。项目的重大决策是基于寻求共识的过程（对不同的声音要讨论）而不是纯粹的投票，尽可能的努力的去囊括多的社区观点。较流行的使用自由贡献模式的项目有[Node.js](https://nodejs.org/en/foundation/) 和 [Rust](https://www.rust-lang.org/en-US/)。
 
@@ -117,7 +117,7 @@ related:
 * [精英模式模版](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.js 的自由贡献规则](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
 
-## 当我创建开源项目时，需要专门撰写一份治理文档吗？
+## Do I need governance docs when I launch my project?
 
 其实没有什么合适的时间来撰写项目的治理，但是可以根据社区的动态来进行恰当的定义。开源治理最好的也是最难的部分是有社区本身来塑造！
 
@@ -133,20 +133,19 @@ related:
   </p>
 </aside>
 
-## 公司员工该如何开启提交贡献之旅？
+## What happens if corporate employees start submitting contributions?
 
 成功的开源项目，会有很多的用户和公司使用，而且有一些公司的主要收入和项目是绑在一起的。举例来说，某公司在其商业产品或服务中使用了开源项目的代码作为其一个组件。
-
 
 一个项目越是被广泛的使用，有相关背景的专业人士的需求就会上升，**你或许就是其中之一**，那么就顺势成为继续为开源项目做事，还有一定的报酬。
 
 将商业的活动视为正常不过的事情很重要，它也只是代码的开发方法之一。为开发者付费不应该被特殊的对待，好像代码必须是无偿开发的才行；每个贡献都必须有技术的衡量标准来进行评估。人们应该在这些商业的活动中感到非常的自在，而且针对特定的增强或功能项讨论时也应是坦荡的、自然的。
 
-“商业” 是完全和“开源”相容的。“商业”仅仅是意味着某些地方有钱的参与 —— 就是说软件被用于了商业行为，也就是说项目被采用获得了认可。（当开源软件被用于非开源产品的一个部分时，这个整体的产品仍然是“专有的”软件，因为开源，它可以用于商业或非商业的目的。）
+"商业" 是完全和"开源"相容的。"商业"仅仅是意味着某些地方有钱的参与 —— 就是说软件被用于了商业行为，也就是说项目被采用获得了认可。（当开源软件被用于非开源产品的一个部分时，这个整体的产品仍然是"专有的"软件，因为开源，它可以用于商业或非商业的目的。）
 
 和这个世界上很多的其它商业产品一样，商业能够激励开发者去积极的贡献于项目，通过他们靠谱的提交贡献。显而易见的是，一位因花了自己的时间和精力的开发者获得报酬，理应比没有获得报酬的更具持久性，当然，这对于某些圣徒是不成立的，或者这么说吧，报酬是能体现一个贡献度的众多衡量因素的其中之一。所以将你的项目讨论聚焦于贡献上，不要让人们分散精力去思考或做其它的事情。
 
-## 我是否需要一个法律实体来支持我的项目?
+## Do I need a legal entity to support my project?
 
 除非你特别的有钱，其实你根本没有必要为开源项目而专门搞一个法律实体来支持。
 
