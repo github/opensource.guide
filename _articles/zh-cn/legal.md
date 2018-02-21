@@ -20,7 +20,7 @@ related:
 
 ## Understanding the legal implications of open source
 
-向世界分享你们具有创造性的工作，这是一个多么令人激动和有价值的经历。这也意味着你们必须担心一堆你们不清楚的法律问题。幸运的是，你们不必从头开始。我们已经涵盖了你们的法律需求。（在你们行动前，请确定阅读了我们的[免责声明](https://github.com/cnbo/open-source-guide/blob/gh-pages/notices.md)。）
+向世界分享你们具有创造性的工作，这是一个多么令人激动和有价值的经历。这也意味着你们必须担心一堆你们不清楚的法律问题。幸运的是，你们不必从头开始。我们已经涵盖了你们的法律需求。（在你们行动前，请确定阅读了我们的[免责声明](/notices/)。）
 
 ## Why do people care so much about the legal side of open source?
 
@@ -38,7 +38,7 @@ related:
 
 当你们在GitHub上[创建一个新项目](https://help.github.com/articles/creating-a-new-repository/) 时，你们可以选择将仓库设置成**private**或者**public**。
 
-![create repository](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/legal/repo-create-name.png)
+![Create repository](/assets/images/legal/repo-create-name.png)
 
 **Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
 **让你们的GitHub项目公开与许可你们的项目是不同的。**公开项目是由[GitHub的服务条款](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership)保护，它允许他人浏览以及fork你们的项目，但是没有权限参与你们的工作。

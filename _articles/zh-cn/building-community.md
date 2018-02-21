@@ -85,7 +85,7 @@ related:
 
 如果你无法及时审查请求，请尽早确认，这样会有助于提高参与度。这里是@tdreyno在[Middleman](https://github.com/middleman/middleman/pull/1466)上所回应的一个pull request：
 
-![middleman pull request](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/building-community/middleman_pr.png)
+![middleman pull request](/assets/images/building-community/middleman_pr.png)
 
 [一份Mozilla研究发现](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) 如果贡献者在48小时内收到代码审查，他们会有很大的回头率，且极有可能会再次贡献。
 
@@ -129,7 +129,7 @@ related:
 
 对项目的微不足道的问题进行定期辩论会分散别人的注意力，包括你自己，要将精力几种在重要的任务上，新人如果看见这样的情景，他们可能不会加入到项目中来。
 
-当发现社区中有消极的行为时，要即时、公然的指出来。特别说明的是，要用坚定的语气解释他们的行为为什么是不可接受的。如果这种问题继续发生，你有必要[要求他们离开](https://github.com/cnbo/open-source-guide/blob/gh-pages/_articles/code-of-conduct.md#enforcing-your-code-of-conduct)。你的[行为准则](https://github.com/cnbo/open-source-guide/blob/gh-pages/_articles/code-of-conduct.md)是为这些情景准备的建设性指南。
+当发现社区中有消极的行为时，要即时、公然的指出来。特别说明的是，要用坚定的语气解释他们的行为为什么是不可接受的。如果这种问题继续发生，你有必要[要求他们离开](../code-of-conduct/#enforcing-your-code-of-conduct)。你的[行为准则](../code-of-conduct/)是为这些情景准备的建设性指南。
 
 ### 知道贡献者在哪里
 
@@ -137,7 +137,7 @@ related:
 
 在 CONTRIBUTING 文件里，需要明确告诉新来的贡献者该如何开始。而且若是可能为了想要达到这个目的，还需要准备一个专门的部分。
 
-![django new contributors page](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/building-community/django_new_contributors.png)
+![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
 在issue列表中，缺陷的标签需要做到适合不同类型的贡献者：例如，[_"仅供入门者"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"优质Bug首秀"_, 或者 _"文档"_. [这些标签](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能够帮助新人快速浏览issues以及开始。
 
@@ -165,7 +165,7 @@ related:
 
 * **不要亲自去修复简单（非关键）的缺陷。** 相反，将这些缺陷作为招募新贡献者的工具，或者指导想要参与贡献的人。开始时可能效果不是很理想，但经过一段时间你们会得到想要的结果。例如，@michaeljoseph要求一位贡献者提交一个pull request在一个[Cookiecutter](https://github.com/audreyr/cookiecutter) issue的下面，而不是自己修复它。
 
-![cookiecutter issue](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/building-community/cookiecutter_submit_pr.png)
+![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
 * **在项目中添加一个贡献者或者作者文件** 用于记录每一个参与贡献的人。
 
