@@ -48,7 +48,7 @@ sass:
   load_paths:
     - node_modules
 
-branch: gh-pages
+branch: master
 
 github:
   repository_nwo: github/opensource.guide
