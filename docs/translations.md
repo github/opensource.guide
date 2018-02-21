@@ -13,4 +13,5 @@ If there's not, then today is your day to lead this effort! Here's how to start:
 1. Copy `_data/locales/en.yml` to your target language file e.g. `_data/locales/es.yml` and translate all the strings.
 1. Copy `index.html` to your target language index file e.g. `es.html` and update the `lang:`.
 1. Create a new directory in `_articles/` for your language e.g. `_articles/es/`, copy each guide from `_articles/` into that folder and translate each guide.
+1. Run `script/test` and make sure there are no failures with your translation files. Note that you may need to rename anchor links or leave some headers in English to fix broken links.
 1. Send a pull request.
