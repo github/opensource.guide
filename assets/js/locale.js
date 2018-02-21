@@ -5,10 +5,11 @@ $(document).ready(function() {
 });
 
 function loadLanguage(lang) {
+  base_pathname = window.location.pathname.replace(/^\/[a-z]+([_-][a-z]+)?\//, "/")
   if (lang === "en") {
-    url = window.location.pathname.replace(/^\/[a-z]+([_-][a-z]+)?\//, "/")
+    url = base_pathname
   } else {
-    url = "/" + lang + window.location.pathname
+    url = "/" + lang + base_pathname
   }
   window.location.assign(url);
 }
