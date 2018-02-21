@@ -39,7 +39,7 @@ related:
 **作为 "贡献者" 可以是任何人** ，只要Ta提出issue或PR 就叫做贡献者，那些为项目作出有价值的都算（无论是分类问题，编写代码还是组织会议），又或者是将他们的PR合并进主干的（或许这个定义是最接近所谓的贡献者的）。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/579?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[对于 Node.js 来说\] 无论是在issue中提交评论，还是提交代码，任何人都是项目社区的成员。只要能够看到他们，就意味着他们已经实现了跨越，从路人成为一个用户，成为一个贡献者。
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["开源的健康衡量"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
@@ -51,7 +51,7 @@ related:
 其实你可以根据自己喜欢的方式来定义项目的角色，[考虑使用更广泛的定义](../how-to-contribute/#what-it-means-to-contribute) 来鼓励更多的形式的贡献。无论技术技能如何，您都可以使用领导角色来正式识别为您的项目做出突出贡献的人员。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/21148?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   你们或许知道我是 Django 的"创始人"...其实真相是在有人雇佣了我之后一年才真正的做出来。(...) 人们猜测我的成功是因为我的编程技能够牛...但事实上我的编程水平只是一般般而已。
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (视频)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
@@ -94,7 +94,7 @@ related:
 假如项目是托管在GitHub上，可以使用[受保护的分支](https://help.github.com/articles/about-protected-branches/)来管理那些可以提交特定的分支情况。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/15000?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   无论什么时候，都会有人向你发送pull request，所以将你的项目开放提交访问。这看起来是有些不够明智，使用此策略能让你释放GitHub的真正威力。(...)一旦人们拥有了提交访问权,他们不再担心他们的补丁可能不会被合并.....这会让他们做的更多。
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
@@ -126,7 +126,7 @@ related:
 如果你自己是公司所启动开源的一部分，在启动之前，应该做一些讨论，如公司将会如何维护项目，随着项目的发展，决策该如何定夺。你可以会公开的解释一下，贵公司将如何参与（或不参与）该项目。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/691109?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   我们在GitHub上赋予一些小的团队来管理项目，实际上这些人都是在Facebook工作的，比如，React就是由React的工程师来掌管运行的。
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["Facebook内部员工如何看待开源"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
@@ -156,7 +156,7 @@ related:
 很多项目都不愿意成立非盈利组织那么麻烦，所以他们会以赞助商的身份寻找一个非营利性组织。财政资助代表你接受捐款,通常以换取一定比例的捐赠。针对开源项目接受财政资助的非营利性组织有很多，如[Software Freedom Conservancy](https://sfconservancy.org/), [Apache 基金会](http://www.apache.org/), [Eclipse 基金会](https://eclipse.org/org/foundation/), [Linux 基金会](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) 等等。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/3671070?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   我们的目标是提供基础设施，让社区能够自我持续发展下去，每个人——贡献者、支持者、赞助商———所共同营造的环境，也让每个人得到实实在在的利益。
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["超越 charity 框架"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)

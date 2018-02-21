@@ -41,7 +41,7 @@ related:
 * **당신이 동의하지 않는 기여가 있다면,** 그들에게 아이디어에 대해 감사해하고, 프로젝트의 범위에 맞지 않는 [이유를 설명](../best-practices/#learning-to-say-no)하며, 관련 문서를 링크하면됩니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["평범한 오픈소스를 기반으로하는 기여자 키우기"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
@@ -55,7 +55,7 @@ related:
 ### 모든 곳에 문서화하기
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/11321?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
   <p markdown="1" class="pquote-credit">
 — @janl, ["지속가능한 오픈소스"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
@@ -117,7 +117,7 @@ related:
 이러한 유형의 사람들에 대한 무관용 정책을 채택하기 위해 최선을 다하십시오. 선택하지 않는다면, 부정적인 사람들이 커뮤니티의 다른 사람들을 불편하게 만듭니다. 그들은 심지어 떠날지도 모릅니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/633012?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
   <p markdown="1" class="pquote-credit">
 — @karissa, ["FOSS 프로젝트를 어떻게 실행하는가"](https://karissa.github.io/post/okf-de)
@@ -150,7 +150,7 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
 ### Share ownership of your project
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/270108?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
   Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
   <p markdown="1" class="pquote-credit">
 — @sarahsharp, ["좋은 커뮤니티는 어떻게 만듭니까?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
@@ -178,7 +178,7 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
 전화를 받는 사람을 항상 찾지는 못하더라도, 신호를 내보내는 것은 다른 사람들이 들어올 확률을 높입니다. 그리고 일찍 시작할수록 더 빨리 사람들이 도울 수 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/39992?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["환영하는 커뮤니티"](http://hood.ie/blog/welcoming-communities.html)
@@ -200,7 +200,7 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
 메인테이너로서의 당신의 임무는 이러한 상황이 악화되는 것을 막는 것입니다. 주제에 대해 강한 의견을 갖고 있다고해도, 시합에 뛰어 들고 의견을 피하는 대신 메인테이너 또는 진행자의 입장을 취하십시오. 누군가가 불친절하거나 대화를 독점한다면, 토론을 시민적이고 생산적으로 유지하기 위해 [즉시 행동하십시오](../building-community/#dont-tolerate-bad-actors).
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/119893?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["정성을 들이거나 당신의 길로 가기"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
@@ -226,7 +226,7 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
 합의를 추구하는 과정에서, 커뮤니티 구성원들은 그들이 적절하게 의견을 들을 때까지 주요 관심사에 대해 논의합니다. 사소한 우려가 남아있을 때, 커뮤니티는 앞으로 나아갑니다. "Consensus seeking"는 커뮤니티가 완벽한 대답에 도달하지 못할 수도 있음을 인정합니다. 대신 듣기와 토론의 우선 순위를 정합니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/1038121?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on [Atom의 의사 결정 과정](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
@@ -252,7 +252,7 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
 대화가 명확하게 어디로도 가지 않는 경우, 명확한 조치가 취해지지 않았거나 적절한 조치가 이미 취해져서, 문제를 종결하며 이유를 설명합니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.  
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_OSS 생성하기_](http://producingoss.com/en/producingoss.html#common-pitfalls)

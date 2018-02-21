@@ -53,7 +53,7 @@ related:
 GitHub에서 새로운 프로젝트를 만들 때, [라이선스를 추가할 것인지 물어봅니다](https://help.github.com/articles/open-source-licensing/).
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/282759?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["정부 변호인이 오픈소스 소프트웨어&nbsp;라이선스에 대해 알아야할 모든 것"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
@@ -103,7 +103,7 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
 또한 일부 사람들은 불필요하거나 이해하기 힘들거나 불공정하다고 생각되는 "서류 작업"을 추가함으로써 (계약 수령자가 프로젝트 참여자보다 더 많은 권리를 얻거나 일반인이 프로젝트의 오픈소스 라이선스를 통해 수행 할 때) 추가 기여자 계약이  프로젝트의 커뮤니티에 비우호적이라고 인식될 수 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/328614?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base.
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Node.js 기여 확대"](https://www.joyent.com/blog/broadening-node-js-contributions)
@@ -144,7 +144,7 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
 * **직원 기여 정책:** 직원이 오픈소스 프로젝트에 기여하는 방법을 지정하는 기업 정책을 개발하는 것을 고려하십시오. 분명한 정책은 직원들 사이의 혼란을 줄이고 작업의 일부 또는 자유 시간에 상관없이, 회사의 이익을 최대한 활용하여 오픈소스 프로젝트에 기여할 수 있도록 지원합니다. 좋은 예시는 Rackspace의 [모델 IP 및 오픈소스 기여 정책](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)입니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/214698?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention.
   <p markdown="1" class="pquote-credit">
 — @vanl, ["모델 IP 및 공개 소스 기여 정책"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)

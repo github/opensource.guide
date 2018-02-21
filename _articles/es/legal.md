@@ -53,7 +53,7 @@ Tienes suerte, porque hoy, las licencias de c&oacute;digo abierto est&aacute;n e
 Cuando crees un nuevo proyecto en GitHub, se te [pedir&aacute; que agregues una licencia](https://help.GitHub.com/articles/open-source-licensing/).
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/282759?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   Una licencia estandarizada sirve como aproximaci&oacute;n para quienes no tengan entrenamiento legal para saber con precisi&oacute;n lo que pueden y lo que no pueden hacer con el software.
 A menos que sea absolutamente necesario, evita t&eacute;rminos personalizados, modificados o no estandarizados, lo cual te servir&aacute; como barrera para el uso posterior de la agencia de c&oacute;digo.
   <p markdown="1" class="pquote-credit">
@@ -104,7 +104,7 @@ Un acuerdo adicional de colaboradores – a menudo llamado Acuerdo de Licencia d
 Tambi&eacute;n, al a&ntilde;adir "papeleo" que algunos consideran innecesario, dif&iacute;cil de entender, o injusto (cuando el beneficiario del acuerdo obtiene m&aacute;s derechos que los colaboradores o el p&uacute;blico a trav&eacute;s de la licencia de c&oacute;digo abierto del proyecto), un acuerdo adicional de colaboradores puede ser percibido poco amigable a la comunidad del proyecto.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/328614?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Hemos eliminado la CLA para Node.js. Esto, reduce la barrera de entrada para colaboradores de Node.js, ampliando asi la base de contribuyentes.
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
@@ -150,7 +150,7 @@ A largo plazo, tu equipo legal puede hacer m&aacute;s para ayudar a la empresa a
 * **Pol&iacute;ticas de contribuci&oacute;n de empleados:**  Considera la posibilidad de desarrollar una pol&iacute;tica corporativa que especifique c&oacute;mo sus empleados contribuyen a proyectos de c&oacute;digo abierto. Una pol&iacute;tica clara reducir&aacute; la confusi&oacute;n entre sus empleados y los ayudar&aacute; a contribuir a proyectos de c&oacute;digo abierto de la empresa, ya sea como parte de su trabajo o en su tiempo libre. Un buen ejemplo es Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/214698?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Liberar el IP asociado con un parche genera la base de conocimientos y la reputaci&oacute;n del empleado. Demuestra que la empresa invierte en el desarrollo del empleado y crea un sentido de autonom&iacute;a y autonom&iacute;a. Todos estos beneficios tambi&eacute;n conducen a una mayor moral y mejor retenci&oacute;n de empleados.
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)

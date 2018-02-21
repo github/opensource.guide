@@ -53,7 +53,7 @@ Anda beruntung, karena saat ini lisensi open source sudah terstandarisasi dan mu
 Ketika Anda menciptakan proyek baru pada GitHub, Anda akan [diminta untuk menambahkan lisensi](https://help.github.com/articles/open-source-licensing/).
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/282759?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   Sebuah lisensi yang terstandarisasi berfungsi sebagai jembatan bagi mereka yang tidak memiliki pelatihan hukum untuk tahu secara pasti apa yang mereka bisa dan tidak bisa lakukan dengan perangkat lunak. Apabila memungkinkan, hindari istilah yang aneh, modifikasi, atau tidak standar, yang akan menjadi penghambat bagi orang lain untuk menggunakan kode Anda.
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
@@ -103,7 +103,7 @@ Sebuah perjanjian kontributor tambahan -- seringkali disebut Contributor License
 Juga, dengan menambahkan "pekerjaan administratif" yang dipercaya oleh sebagian orang sebagai sesuatu yang tidak perlu, susah dipahami, atau tidak adil (ketika penerima perjanjian mendapatkan lebih banyak hak dibandingkan kontributor atau publik melalui lisensi open source), sebuah perjanjian kontributor tambahan juga dipandang sebagai sesuatu yang tidak ramah bagi komunitas proyek.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/328614?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Kami telah menghilangkan CLA untuk Node.js. Dengan melakukan hal ini akan mengurangi hambatan bagi kontributor Node.js untuk bergabung sehingga memperluas area basis kontributor.
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
@@ -144,7 +144,7 @@ Dalam jangka panjang, tim hukum Anda bisa melakukan lebih banyak lagi dengan mem
 * **Kebijakan kontribusi karyawan:** Pertimbangkan untuk mengembangkan kebijakan perusahaan yang menentukan bagaimana karyawan berkontribusi pada proyek open source. Sebuah kebijakan yang jelas akan mengurangi kebingungan  pada karyawan Anda dan membantu mereka untuk berkontribusi pada proyek open source yang penting bagi perusahaan, baik sebagai bagian dari pekerjaan mereka atau dimasa senggang mereka. Sebuah contoh bagus adalah [Model IP dan Kebijakan Kontribusi Open Source](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) milik Rackspace.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/214698?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Membiarkan IP yang terkait dengan patch membangun basis pengetahuan dan reputasi karyawan. Ini menunjukkan bahwa perusahaan menekankan pengembangan karyawan dan menciptakan rasa pemberdayaan dan otonomi. Semua manfaat ini juga menyebabkan semangat kerja lebih tinggi dan retensi karyawan yang lebih baik.
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)

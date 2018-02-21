@@ -20,7 +20,7 @@ related:
 대부분의 오픈소스 작업은 자원봉사입니다. 예를 들어, 누군가가 사용하는 프로젝트에서 버그를 발견하고 빠른 버그픽스를 제출하거나, 여가 시간에 오픈소스 프로젝트를 사용하여 재미있는 작업을 할 수 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/2894642?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
 I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["파이썬 프로그래밍"](https://www.python.org/doc/essays/foreword/)
@@ -34,7 +34,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 * **그들은 오픈소스에 기여함으로써 사적인 이익을 얻고,** 자신의 평판이나 포트폴리오를 구축하고, 새로운 기술을 배우며, 커뮤니티에 더 가까이 다가가는 느낌을 주는 일을 합니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/2320?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
   <p markdown="1" class="pquote-credit">
 — @alloy, ["우리가 왜 기여를 허락하면 안되는가"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
@@ -46,7 +46,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 대중적인 프로젝트를 유지하는 것은 한 달에 몇 시간이라 하기보다는 주당 10-20시간을 소비하는 중요한 책임입니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
   Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["무보수 노동 및 OSS 커뮤니티의 윤리"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
@@ -56,7 +56,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 또한 유료 작업을 통해 여러 계층의 사람들이 의미있는 기여를 할 수 있습니다. 어떤 사람들은 현재 재무 상태, 부채, 또는 가족 또는 다른 보살필 의무를 다하지않고 오픈소스 프로젝트에 시간을 보낼 여력이 없습니다. 즉, 세상은 자신의 시간을 자원봉사할 여력이없는 재능있는 사람들에게서 기여를 결코 볼 수 없다는 것을 의미합니다. @ashedryden이 [설명한대로](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) 윤리적 함의가 있습니다. 이미 인생에 여유가 있는 사람들에게 치우친다는 것은, 자원 봉사자들의 기여에 기초하여 추가적인 이점을 얻는 반면, 자원봉사를 할 수 없는 사람들에게는 나중에 기회를 얻지 못하여, 더더욱 오픈소스의 다양성이 부족해집니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["현금과 오픈소스"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
@@ -72,7 +72,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 고용주가 프로젝트를 실제로 사용하고 오픈소스 작업에 대한 사례를 만드는 것이 더 쉽지만, 자신의 계획대로 창의력을 발휘하십시오. 어쩌면 고용주가 프로젝트를 사용하지 않고 파이썬을 이용한 인기있는 파이썬 프로젝트를 유지한다면, 새로운 파이썬 개발자를 유치할 수 있습니다. 어쩌면 고용주가 일반적으로 더 개발자 친화적인 것처럼 보일 수도 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
   Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["메인테이너 이야기"](https://github.com/open-source/stories/hzoo)
@@ -90,7 +90,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 회사가 이 경로를 따라 간다면, 커뮤니티와 기업 활동의 경계를 분명하게 유지하는 것이 중요합니다. 궁극적으로 오픈소스는 전 세계 모든 사람들의 공헌을 통해 스스로를 유지하며, 이는 어느 회사의 위치보다 큽니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/1445228?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
   Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["흐린 선"](https://blog.jessfraz.com/post/blurred-lines/)
@@ -174,7 +174,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 기금 제공자의 관련 요구 사항이 있습니까? 예를 들어 비영리 단체 또는 비영리 단체 재정 보증인이 필요할 수 있습니다. 또는 자금을 조직이 아닌 개별 계약자에게 제공해야합니다. 이러한 요구 사항은 자금 제공자마다 다르므로 사전에 연구해야합니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/1076721?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
   For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome 킥스타터 영상](https://www.kickstarter.com/projects/232193852/font-awesome-5)

@@ -20,7 +20,7 @@ related:
 ## Why contribute to open source?
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   在 \[自由代码\] 下工作，让我学习到了职业生涯中非常重要的技能，无论是大学还是实际的工作，我认为从开源项目中得到的收获的远大於我的贡献！
   <p markdown="1" class="pquote-credit">
 — @errietta, ["我为何是如此的热衷于为开源软件贡献力量"](https://www.errietta.me/blog/open-source/)
@@ -66,7 +66,7 @@ related:
 对于为开源做贡献常见的误解就是：为开源做贡献必须得提交代码。事实上，代码固然重要，但是项目中不需编码的重要部分[经常被忽视](https://github.com/blog/2195-the-shape-of-open-source)。你若做了这部分，对于项目来说可是莫大的贡献，而这根本就不需要什么撰写代码！
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   我被大家所熟知是因为为 CocoaPods 做了一些事, 其实大伙并不知道我实际并没有为 CocoaPods本身做了什么，我大多数的工作是诸如撰写文档、品牌宣传之类的。
   <p markdown="1" class="pquote-credit">
 — @orta, ["默认迁移到开源软件"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
@@ -76,7 +76,7 @@ related:
 即使你是以为开发者，非代码的贡献对于项目来说也是举足轻重的，尤其是对于社区的其他成员来说。用心维系这些关系能够让你有工作到项目其它部分的机会。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
   我第一次接触Python开发团队（简称 python-dev)是在 2002年6月17日，当时我是向其邮件列表发送了一份邮件，是关于请求通过我的补丁的。我很快就又发现了开源的bug，于是决定开始为小组收集邮件摘要，然后他们给了我一个澄清问题的理由，但是更加重要的是，我能够捕获到某人指出需要修复的问题。
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["维护者的故事"](https://github.com/open-source/stories/brettcannon)
@@ -105,7 +105,7 @@ related:
 * 翻译项目的文档为本土语言
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   说真心话， \[文档\] 是非常重要的. 目前Babel的文档已经很棒了，这也是其杀手锏的特性之一。当然，还有一些章节需要大家的完善，即使是随便在哪儿增加一个段落都很感激。
   <p markdown="1" class="pquote-credit">
 — @kittens, ["贡献者召集令"](https://github.com/babel/babel/issues/1347)
@@ -152,7 +152,7 @@ related:
 ## Orienting yourself to a new project
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   如果你跟着了一条issue，还发现了令人感到困惑的事情，这很正常，不是你一个人这样。这些工具需要大量的隐式的知识，但是总会有人带着你熟悉这些，当然你要找他们问对的问题。
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["如何为开源做贡献"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
@@ -372,7 +372,7 @@ related:
 </div>
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   当你看到一个很长当对话时，来自核心开发者的零星的响应排在列表的后面。你就得考虑，他们在作建设性的总结？是否保持风度的情况下做出最后的决定？如果你看到的是更多的口水仗，而且还在继续，这通常意味着社区的能量重心已经不在开发上了。
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_开源软件生产力_](http://producingoss.com/en/evaluating-oss-projects.html)
@@ -388,7 +388,7 @@ related:
 无论你处于什么样的目的：仅仅是一次性的贡献，亦或是永久性的加入社区，都的和他人进行沟通和交往，这是你要在开源圈发展必须修炼的技能。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/7693422?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[作为一名新手,\] 我很快的就意识到，我若是要关闭一条issue时，我不得不问更多的问题。我浏览了代码库，一旦我觉得有什么问题的时候，我就得需要更多的指点，瞧！ 在我得到所有的所需要的信息后，我就可以解决这个问题！
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [一名菜鸟进入开源世界的坎坷之旅](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
@@ -450,7 +450,7 @@ related:
 如果你做的是一个非常实际的贡献，在正式开启之前，先创建一个issue。监视项目是很有帮助的（在GitHub，[点击 "Watch"](https://help.github.com/articles/watching-repositories/)，所有的对话都会通知到你），要让社区的成员们知道你要做的工作，免得你做了之后，再让他们知道，他们不同意，就浪费了。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   你能够从单个的项目学习到 <em>很多</em> ，只要你踊跃的去使用，在GitHub上密切观察项目，并阅读每一个 issue 和 PR。
 <p markdown="1" class="pquote-credit">
 — @gaearon [参与项目](https://twitter.com/dan_abramov/status/819555257055322112)

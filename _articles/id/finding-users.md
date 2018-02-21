@@ -51,7 +51,7 @@ Bantu orang lain untuk mencari dan mengingat proyek Anda dengan mengarahkan mere
 Jika Anda belum ingin membuat channel pada proyek Anda, promosikan akun Twitter atau GitHub pada segala pekerjaan Anda. Sebagai contoh, pastikan akun tersebut masuk pada biodata atau slide presentasi ketika Anda berbicara pada acara pertemuan. Dengan cara itu, orang lain tahu bagaimana menghubungi Anda atau mengikuti hasil pekerjaan Anda.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   Sebuah kesalahan yang saya lakukan di masa-masa awal (...) adalah dengan tidak membuat akun Twitter untuk proyek. Twitter merupakan cara yang baik untuk memberikan informasi terbaru kepada orang-orang sekaligus untuk menampilkan orang lain kepada proyek.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
@@ -75,7 +75,7 @@ Kegiatan outreach online merupakan cara yang bagus untuk berbagi dan menyebarkan
 Ambil keuntungan dari komunitas dan platform online yang sudah ada untuk menjangkau pengguna Anda. Jika proyek open source Anda adalah proyek perangkat lunak, Anda mungkin bisa menjangkau proyek Anda melalui [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), atau [Quora](https://www.quora.com/). Temukan chanel yang Anda pikir orang-orang akan mendapatkan keuntungan dari pekerjaan Anda.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   Setiap program memiliki fungsi yang spesifik yang dianggap penting bagi sebagian kecil pengguna. Jangan melakukan spam kepada banyak orang. Tentukan target Anda pada komunitas yang mendapatkan keuntungan dengan mengetahui proyek Anda.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
@@ -101,7 +101,7 @@ Kegiatan _offline_ adalah cara yang populer untuk mempromosikan proyek baru. Keg
 Jika Anda termasuk [awam pada komunikasi publik](http://speaking.io/), mulailah dengan mencari acara pertemuan lokal yang berhubungan dengan bahasa atau ekosistem dari proyek Anda.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   Saya cukup gugup ketika hendak menghadiri PyCon. Saya memberikan ceramah, hanya kenal beberapa orang, dan acara berlangsung selama satu minggu penuh. (...) Tetapi saya tidak perlu khawatir. PyCon sudah fenomenal! (...) Semua orang sangat ramah dan aktif, bahkan sangat jarang saya mendapati waktu tidak berbicara dengan orang-orang!
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
@@ -125,7 +125,7 @@ Ketika Anda sudah merasa siap, pertimbangkan untuk berbicara pada level konferen
 Carilah konferensi yang sesuai dengan bahasa atau ekosistem Anda. Sebelum Anda mengumpulkan presentasi Anda, pelajari konferensi sebelumnya untuk menyesuaikan presentasi Anda dengan pengunjung dan meningkatkan peluang Anda untuk diterima. Anda seringkali bisa melihat pengunjung konferensi dengan melihat para pembicaranya.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/80?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   Saya menuliskan pada orang-orang JSConf dan meminta mereka untuk memberikan saya satu kesempatan dimana saya bisa mempresentasikannya pada JSConf EU. (...) Saya sangatlah takut, mempresentasikan sesuatu yang telah saya persiapkan selama enam bulan. (...) Selama acara saya hanya berpikir, ya Tuhan. Apa yang saya lakukan disini?
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
@@ -141,7 +141,7 @@ Membantu pengguna baru, berbagai sumber daya, dan membuat kontribusi yang bergun
 Seringkali, hubungan ini bisa mengarah pada hubungan yang resmi dengan ekosistem yang lebih luas.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   Satu-satunya alasan kenapa urllib3 adalah pustaka Python pihak ketiga yang paling terkenal adalah karena merupakan bagian dari requests.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
@@ -153,7 +153,7 @@ Tidak pernah terlalu cepat, atau terlambat untuk membangun reputasi Anda. Meskip
 Tidak ada solusi cepat untuk membangun pengguna. Mendapatkan kepercayaan dan penghargaan membutuhkan waktu, dan proses membangun reputasi tidak pernah selesai.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
   PhantomJS dirilis pertama kalinya di awal 2011. (...) Saya menyebarkan dengan cara yang sederhana: Saya menuliskan tweet, saya menuliskan di blog tentang apa yang bisa Anda lakukan, saya menjelaskannya pada berbagai acara pertemuan. Ketika proyek ini mulai dikenal pada 2014, Saya mulai memberikan presentasi tentang proyek ini.
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)

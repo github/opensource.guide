@@ -44,7 +44,7 @@ related:
 比如，@lord 发现项目有一个明确的愿景能够帮助他决定哪个 PR 值得花时间。作为一个维护者的新手，他甚至还后悔当他接到第一个关于[slate](https://github.com/lord/slate))PR的时候没有坚持项目本身的原则。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/1976330?v=3&s=460" class="pquote-avatar" alt="avatar" alt="@lord avatar">
+  <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   我一直都在摸索。我没有努力寻求一个完整的解决方案。与其采用那种半吊子办法，我真希望曾经对某些Issue的提出者说："我暂时没有时间干这个，但是我会把他放到我的待办事项中"。
   <p markdown="1" class="pquote-credit">
 — @lord, ["开源项目维护者新手的几点技巧"](https://lord.io/blog/2014/oss-tips/)
@@ -99,7 +99,7 @@ related:
 如果你收到了你不想接受的贡献，你的第一反应可能是忽略或者假装没看到。但是这么做会严重伤害到别人而且可能会让你社区里的其他贡献者失去动力。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/869950?v=3&s=400" class="pquote-avatar" alt="avatar" alt="@KrauseFx avatar">
+  <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   管理大型开源项目的关键就是保证issue活跃。尽量避免让issue停滞不前。如果你是一个IOS开发者，你会知道提交雷达是多么让人沮丧（我也不知道这是什么意思。。）你可能过了两年之后有人让你兼容一下现在的IOS版本。
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["开源社区黑客增长"](https://krausefx.com/blog/scaling-open-source-communities)
@@ -144,10 +144,10 @@ related:
 当然啦，这么搞一开始是不太舒服，但是你主动一点确实对双方都好。它减少了某个人花了太多时间到一个你不想要的 PR 上的可能性。而且让你管理起来更轻松。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/125011" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   理论上，在 CONTRIBUTING.md 文件里面告诉别人在他们开始干活之前如何更清楚的知道的干完之后会不会被接受。
   <p markdown="1" class="pquote-credit">
-— @mikemcquaid, ["优雅的关闭 PR "](https://github.com/blog/2124-kindly-closing-pull-requests)
+— @MikeMcQuaid, ["优雅的关闭 PR "](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
@@ -172,7 +172,7 @@ related:
 鼓励别人来[一起管理项目](../building-community/#share-ownership-of-your-project)能很大程度上减轻你的工作量，就像 [@lmccart](https://github.com/lmccart)在他的项目上做的那样，[p5.js](https://github.com/processing/p5.js?files=1)
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   我曾经说过，"对，每个人都可以参与进来，你不需要有很多编程的经验。"当有申请来参加我们的活动的时候，我就在想，这是真的吗，我说了啥？有将近40个人来了，我虽然不可能和每个人都单独交谈，但是大家一起来了，这说明我说的没错。只要有人知道怎么做了，他们就能教他们的邻居。
   <p markdown="1" class="pquote-credit">
 —  @lmccart, [""开源" 意味着什么? p5.js 版"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
@@ -194,7 +194,7 @@ related:
 fork一个项目不什么坏事情。能复制并且修改别人的代码是开源项目最大的好处之一。鼓励你的社区成员在他自己fork的仓库上继续工作，这是在不和你的项目冲突的基础上，给实现他们的想法最好的出口。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/481677?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   我迎合80%的用户需求。但是如果你是那20%中的一个，那么fork我的项目吧。我不会介意的！我的公开的项目是用来解决那些最常见的问题的。我尝试着让别人fork我的项目然后在上面拓展得更加简单。
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["为何我关闭了 PR"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
@@ -220,7 +220,7 @@ fork一个项目不什么坏事情。能复制并且修改别人的代码是开�
 如果你添加了测试，确保在 CONTRIBUTING 文件里面解释他们是怎么工作的。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/812892?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   我相信测试对所有的代码都是需要的。如果代码被完整的覆盖了测试，以后就不需要改了。我们只需要在代码崩溃或者需要某个功能的添加代码。不管你在修改什么，测试对于检查那些你可能不小心制造的问题都是必须的。
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust 社区的自动化"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
@@ -258,7 +258,7 @@ fork一个项目不什么坏事情。能复制并且修改别人的代码是开�
 就像其他工作一样，有规律的休息会让你对工作保持舒适愉快的心情。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/36432?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   我是WP-CLI的维护者，我发现我需要首先让自己开心，在开源项目和其他事情之间设定清楚的界限。我发现最好的平衡点就是每周在日常的工作安排中花2-5小时在这上面。这会让我从感觉太累到保持持续的激情。因为我给我需要解决的issue表上了优先级，从而我能够在我认为重要的事情上有所进展。
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["我的悼文，你现在是一个非常流行的项目的维护者"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)

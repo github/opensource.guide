@@ -46,7 +46,7 @@ Memiliki visi yang jelas dan terdokumentasi membantu Anda untuk tetap fokus dan 
 Sebagai contoh, @lord menemukan bahwa memiliki visi proyek telah membantu dia dalam menentukan permintaan mana yang perlu ditanggapi. Sebagai seorang pengelola baru, dia menyesal karena tidak bertahan dengan ruang lingkup proyeknya ketika dia menerima feature request pertama untuk [Slate](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/1976330?v=3&s=460" class="pquote-avatar" alt="avatar" alt="@lord avatar">
+  <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   Saya hanya meraba.Saya tidak meluangkan cukup waktu untuk menghadirkan sebuah solusi lengkap. Saya berharap saya pernah menuliskan "Saya tidak punya waktu untuk ini saat ini, tetapi saya akan menambahkannya pada daftar jangka panjang."
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
@@ -103,7 +103,7 @@ Apapun alasannya, sangatlah dimungkinkan untuk menolak kontribusi yang tidak ses
 Jika Anda menerima kontribusi yang tidak Anda inginkan, reaksi pertama Anda mungkin mengabaikan atau pura-pura tidak melihatnya. Melakukan hal ini bisa melukai perasaan orang lain atau bahkan mengurangi motivasi kontributor lainnya pada komunitas Anda.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/869950?v=3&s=400" class="pquote-avatar" alt="avatar" alt="@KrauseFx avatar">
+  <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   Kunci untuk menangani dukungan terhadap proyek open source skala besar adalah memastikan bahwa masalah terus diperhatikan. Cobalah untuk mencegah laporan masalah berhenti. Jika Anda merupakan pengembang ioS, Anda tahu bagaimana frustasinya untuk mengajukan radar. Anda mungkin bisa mendengar balasan 2 tahun kemudian, dan mengatakan untuk mencoba kembali dengan versi terbaru dari iOS.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
@@ -149,10 +149,10 @@ Jika mereka tidak mengikuti aturan Anda, tutup dengan segera dan arahkan pada do
 Meskipun pendekatan ini mungkin terasa tidak menyenangkan pada awalnya, bersikap proaktif sebetulnya baik untuk kedua belah pihak. Hal ini mengurangi kesempatan seseorang untuk menghabiskan terlalu banyak waktu pada pull request yang tidak akan Anda terima. Dan juga membuat beban pekerjaan Anda menjadi lebih mudah untuk dikelola.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/125011" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   Idealnya, jelaskan kepada mereka dan pada dokumen CONTRIBUTING.md bagaimana mereka bisa mendapatkan indikasi yang lebih baik dimasa depan tentang apa yang akan Anda terima atau tolak sebelum mereka mulai bekerja.
   <p markdown="1" class="pquote-credit">
-— @mikemcquaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+— @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
@@ -177,7 +177,7 @@ Ketika Anda melihat kontributor baru melakukan kontribusi secara rutin, hargai p
 Doronglah orang lain untuk [berbagi kepemilikan proyek](../building-community/#berbagi-kepemilikan-dari-proyek-anda) dan hal itu bisa mengurangi beban pekerjaan Anda secara drastis, seperti yang ditemukan @lmccart pada proyeknya, [p5.js](https://github.com/processing/p5.js?files=1).
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   Saya telah banyak berkata, "Ya, setiap orang bisa terlibat, Anda tidak harus memiliki pengalaman membuat code [...]." Kami mendapati banyak orang mendaftar untuk hadir [pada sebuah acara] dan pada saat itulah saya mulai bertanya: jika hal ini benar, apa yang harus saya katakan? Terdapat lebih dari 40 orang yang hadir, dan saya tidak mungkin duduk bersama-sama dengan masing-masing dari mereka. ...Tetapi orang-orang tersebut hadir, dan semuanya berjalan dengan lancar. Begitu ada satu orang yang berhasil, mereka bisa mengajarkan ke orang lain.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
@@ -199,7 +199,7 @@ Jika kontributor yang berpotensi memiliki opini yang berbeda tentang apa yang se
 Melakukan sebuah _fork_ terhadap sebuah proyek bukan berarti sesuatu yang jelek. Mampu menyalin dan memodifikasi sebuah proyek adalah salah satu hal terbaik tentang open source. Menyemangati orang lain untuk bekerja pada hasil fork mereka bisa memberikan ide kreatif yang mereka perlukan, tanpa harus menimbulkan konflik dengan visi proyek Anda.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/481677?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   Saya melayani 80% contoh kasus. Jika Anda termasuk salah satu yang tdak setuju, silahkan _fork_ pekerjaan saya. Saya tidak akan tersinggung! Proyek publik saya selalu berusaha untuk menyelesaikan masalah yang umum; Saya berusaha untuk membuatnya mudah untuk menyelesaikan masalah yang lebih kompleks dengan cara melakukan fork atau memperluas proyek tersebut.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
@@ -225,7 +225,7 @@ Lakukan pengaturan untuk pengujian otomatis yang akan berjalan pada semua kontri
 Jika Anda menambahkan pengujian, pastikan untuk menjelaskan bagaimana mereka bekerja pada dokumen CONTRIBUTING.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/812892?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Saya percaya bahwa pengujian otomatis sangat diperlukan untuk semua kode yang dikerjakan orang-orang.  Jika kode tersebut benar, maka tidak diperlukan perubahan - kita hanya menuliskan kode apabila terjadi kesalahan, apakah "crash" atau "kurang fitur". Tanpa memperhatikan perubahan yang Anda lakukan, pengujian otomatis sangatlah penting untuk menangkap regresi kesalahan yang mungkin Anda timbulkan.
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
@@ -263,7 +263,7 @@ Meski demikian, ambil waktu untuk istirahat! Anda tidak harus menunggu sampai An
 Sama halnya seperti pekerjaan lainnya, mengambil liburan secara berkala akan membuat Anda segar, bahagia, dan tertarik terhadap pekerjaan Anda.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/36432?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   Dalam mengelola WP-CLI, Saya menemukan bahwa saya perlu membuat diri saya bahagia terlebih dahulu, dan menentukan batas keterlibatan saya dengan jelas. Keseimbangan terbaik yang saya temukan adalah 2-5 jam per minggu sebagai bagian dari jadwal pekerjaan normal saya. Hal ini menjaga keterlibatan saya sebagai sebuah gairah. Karena saya memprioritaskan masalah-masalah yang saya kerjakan, saya bisa membuat kemajuan berkala tentang apa yang saya anggap penting.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)

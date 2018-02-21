@@ -103,7 +103,7 @@ npm 또는 RubyGems.org와 같은 패키지 관리자를 사용하여 프로젝�
 * **기여 유형:** 예시로, 커밋, 오타 혹은 버그 수정, 또는 이슈에 답변하기가 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/4483" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["오픈소스의 형태"](https://github.com/blog/2195-the-shape-of-open-source)

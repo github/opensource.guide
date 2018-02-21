@@ -39,7 +39,7 @@ Seorang pengelola (maintainer) tidak harus merupakan orang yang menuliskan kode 
 **Seorang "kontributor" bisa siapa saja** yang memberikan komentar pada sebuah masalah atau pull request, orang-orang yang memberikan nilai pada proyek (baik menyelesaikan masalah, menuliskan kode, atau mengelola sebuah acara), atau siapapun dengan pull request yang diterima (mungkin definisi tersingkat dari seorang kontributor).
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/579?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[Untuk Node.js,\] setiap orang yang memberikan komentar pada sebuah masalah atau mengirimkan kode adalah anggota dari komunitas proyek. Cukup dengan melihat apa yang mereka lakukan berarti mereka sudah beralih dari seorang pengguna menjadi seorang kontributor.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
@@ -51,7 +51,7 @@ Seorang pengelola (maintainer) tidak harus merupakan orang yang menuliskan kode 
 Walaupun Anda bisa mendefinisikan peran pada proyek Anda sesuka Anda, [pertimbangkan untuk menggunakan definisi yang lebih luas](../how-to-contribute/#apa-artinya-berkontribusi) untuk mendorong lebih banyak jenis kontribusi. Anda bisa menggunakan peran kepemimpinan untuk secara formal mengakui orang-orang yang memiliki kontribusi yang besar pada proyek Anda, terlepas dari ketrampilan teknis mereka.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/21148?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   Anda mungkin mengenal saya sebagai "pencipta" dari Django...tetapi saya hanyalah orang yang dipekerjakan untuk bekerja pada sesuatu setelah satu tahun dibuat. (...) Orang menduga bahwa saya sukses karena ketrampilan pemrograman saya...tetapi saya hanyalah programmer biasa.
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
@@ -92,7 +92,7 @@ Disisi lain, terutama untuk proyek yang besar dan kompleks, Anda mungkin hanya a
 Jika proyek Anda berada pada GitHub, Anda bisa menggunakan [protected branches](https://help.github.com/articles/about-protected-branches/) untuk mengelola siapa saja yang boleh mengirimkan pada branch tertentu, dan pada kondisi apa.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/15000?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Ketika seseorang mengirimkan sebuah pull request, berikan mereka akses commit pada proyek Anda. Meskipun tampaknya hal bodoh pada awalnya, menggunakan strategi ini akan memaksimalkan kekuatan utama dari GitHub. (...) Setelah orang-orang memiliki akses commit, mereka tidak lagi khawatir bahwa perubahan mereka tidak akan digunakan...hal ini akan membuat mereka bekerja lebih keras pada perubahan yang diusulkan.
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
@@ -124,7 +124,7 @@ Beberapa dokumentasi awal akan membantu pengelolaan proyek Anda, sehingga mulail
 Jika Anda bagian dari sebuah perusahaan yang merilis proyek open source, maka akan sangat berguna untuk melakukan diskusi internal tentang bagaimana perusahaan Anda akan mengelola dan mengambil keputusan ketika proyek sudah mulai berkembang. Anda juga mungkin perlu menjelaskan tentang bagaimana perusahaan Anda (tidak) akan terlibat dengan proyek.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/691109?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   Kami menugaskan kelompok kecil untuk mengelola proyek pada Github di Facebook. Sebagai contoh, React dikelola oleh pengembang React.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
@@ -154,7 +154,7 @@ Jika Anda hendak menerima donasi untuk proyek open source Anda, Anda bisa membua
 Banyak proyek tidak ingin kerepotan untuk membuat nirlaba, sehingga mereka mencari sponsor fiskal nonprofit. Sponsor fiskal menerima donasi untuk Anda, biasanya dengan imbalan beberapa pesen dari donasi. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](http://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) dan [Open Collective](https://opencollective.com/opensource) adalah contoh organisasi yang melayani sebagai sponsor fiskal untuk proyek open source.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/3671070?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Tujuan kami adalah menyediakan infrastruktur yang bisa digunakan oleh komunitas untuk pengelolaan mandiri, sehingga menciptakan sebuah lingkungan dimana setiap orang - kontributor, pendukung, sponsor - bisa menerima keuntungan yang jelas.
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
