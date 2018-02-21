@@ -38,7 +38,7 @@ related:
 ### 왜 사람들은 자신의 작업을 오픈소스로 공개합니까?
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["어떻게 오픈 소스에 빠져야 나에게 멋진가?"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
@@ -82,7 +82,7 @@ related:
 귀하의 유일한 목표가 귀하의 업무를 과시하는 것이라면, 귀하는 README에 기여를 원한다고 말할 수 없습니다. 다른 한편으로는, 기여자를 원한다면 명확한 문서화에 시간을 투자를 통해 신규 방문자가 환영받는다고 느끼게 될 것입니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
   At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["독학 소프트웨어 개발자: 오픈소스가 우리에게 중요한 이유"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
@@ -98,7 +98,7 @@ related:
 홍보, 운영 및 프로젝트 유지를 위해 전담 예산이나 인력이 필요하다면 일찍 대화를 시작하십시오.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/1857993?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["그래서 당신은 프로젝트를 오픈소스화하고 싶습니까?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
@@ -156,7 +156,7 @@ README에 다음 질문에 답하십시오:
 README를 사용하여 기여를 처리하는 방법, 프로젝트의 목표가 무엇인지, 라이선스 및 속성에 대한 정보와 같은 다른 질문에 답할 수 있습니다. 기여를 받고 싶지 않거나, 프로젝트가 아직 준비되지 않은 경우에는 이 정보를 적어 두십시오.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/168572?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
   Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
   <p markdown="1" class="pquote-credit">
 — @limedaring, ["읽힐 단어 쓰기 (비디오)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
@@ -202,7 +202,7 @@ README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 볼 수 �
 ### 행동강령 세우기
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/11214?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["오픈소스를 보다 행복한 곳으로 만들기"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
@@ -253,7 +253,7 @@ You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) 
 그것이 공식적인 문서이건 캐주얼 이메일이건, 당신의 작문 스타일은 프로젝트의 브랜드의 일부입니다. 잠재 고객에게 도달하는 방법과 전달하려는 톤인지 여부를 고려하십시오.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/11321?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["지속 가능한 오픈소스"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)

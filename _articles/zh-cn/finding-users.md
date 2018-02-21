@@ -51,7 +51,7 @@ related:
 如果你目前还不想给你的项目搞这么多乱七八糟的东西，而且还要在有机会的时候推广你的Twitter账户和Github账户。举个例子，如果你某一个讨论会或者活动上发言要保证在你的简历或者幻灯片上包含这些信息。只有这样人们才会知道怎么找到你或者关注你的工作。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   我之前犯过的一个错误就是没有给项目开一个Twitter账户。Twitter是一个让人们知晓项目进展的好渠道，也可以让人们持续的接触到你的项目。
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
@@ -75,7 +75,7 @@ related:
 利用好已有的线上社区和平台去找你的受众。如果你的开源项目是一个软件项目，你可能会在[Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), 或者[Quora](https://www.quora.com/)。找到你觉得人们会最有可能从你的项目中受益或者对你项目感兴趣的渠道。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   每个程序都会有那么一些方法只有一部分人才会用到，所以不要想着去打扰每一个人，把你的力气用在可能会从你项目受益的社区就好。
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
@@ -101,7 +101,7 @@ related:
 如果你还是个[公中演讲的新手](http://speaking.io/)，从寻找一个和你项目使用的语言或者生态系统相关的当地的聚会开始吧。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   我去Pycon的时候非常紧张。我要发表一个演讲，在那儿我就认识几个人，还在那儿呆了整个周。但是其实我不应该焦虑的。Pycon真是太他妈吊了！每个人都是超级友好外向，以至于我没有找到时间和人们讲话。
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
@@ -123,7 +123,7 @@ related:
 等你准备好了，考虑一下在某个会议上发言的时候推广你的项目研讨会可以帮助你接触更多人，有时候是来自全世界各地的人。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/80?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   我非常认真的给JSConf的人写了一封信，然后求他们给我一点时间让我JSConf上展示我的项目。同时我又非常担心，这个项目我做了六个月，要是大家不认可怎么办。那时候我就一直在想，我的天，我他妈在这里是干吗？
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
@@ -139,7 +139,7 @@ related:
 有时候，这些关系还会进一步发展成更广阔的生态系统中的官方合作伙伴（意思即使你有可能成为那些有名社区的成员）
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   urllib3之所以是现在最流行的Python第三方库的唯一原因就是大家都需要他。(待修改)
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
@@ -151,7 +151,7 @@ related:
 建立用户群没有一蹴而就的方法。获取别人的新人和尊重需要时间，同样，建立声望的过程也永远不会停止。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
   PhantomJS公开第一个版本的时候实在2011年初。我也就是用一些常规的方法来推广：发Twitter，写博客告诉别人可以用它来做什么，在各种各样的聚会上我都提到过它。当2014年他已经广为人知的时候。我才开始做关于它的演讲。
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)

@@ -51,7 +51,7 @@ related:
 프로젝트에 이 채널을 아직 설정하고 싶지 않다면, 자신의 모든 트위터 또는 GitHub 핸들을 홍보하십시오. 예를 들어, 만남이나 행사에서 말하는 경우, 소개 또는 슬라이드에 포함되어 있는지 확인하십시오. 그런식으로 사람들은 당신에게 연락하거나 일을 수행하는 방법을 알고 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["Apache 폭풍의 역사와 교훈"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
@@ -75,7 +75,7 @@ related:
 기존 온라인 커뮤니티 및 플랫폼을 활용하여 잠재 고객에게 도달하십시오. 만약 오픈소스 프로젝트가 소프트웨어 프로젝트라면, 아마도 [스택 오버플로우](http://stackoverflow.com/), [레딧](http://www.reddit.com), [해커 뉴스](https://news.ycombinator.com/), 또는 [Quora](https://www.quora.com/)에서 고객을 찾을 수 있을 것입니다. 사람들이 당신의 작품에 대해 가장 많은 이익을 보거나 즐거워한다고 생각하는 채널을 찾으십시오.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["오픈소스 프로젝트에서의 마케팅"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
@@ -101,7 +101,7 @@ related:
 만약 [새로운 공개 연설](http://speaking.io/)을 한다면, 프로젝트의 언어 또는 생태계와 관련된 지역 모임을 찾아보십시오.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["나는 PyCon을 걱정하지않고 좋아하는 방법을 어떻게 배웠나"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
@@ -125,7 +125,7 @@ related:
 귀하의 언어 또는 생태계에서 특정한 회의를 찾으십시오. 대화를 제출하기 전에, 미리 컨퍼런스를 조사하여 참석자와 대화를 나누고 수용 할 확률을 높입니다. 연사를 보면서 회의의 청중을 이해할 수 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/80?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
   <p markdown="1" class="pquote-credit">
 — @ry, ["Node.js의 기록" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
@@ -141,7 +141,7 @@ related:
 때로는, 이러한 관계가 더 넓은 생태계와의 공식 파트너십으로 이어질 수도 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["오픈소스 프로젝트를 번성하게 만드는 방법"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
@@ -153,7 +153,7 @@ related:
 고객을 키우는 데는 밤새도 해결책이 없습니다. 다른 사람들의 신뢰와 존경심을 얻는 데는 시간이 걸리고 명성을 쌓는 작업은 끝나지 않습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
   PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
   <p markdown="1" class="pquote-credit">
 — @ariya, ["메인테이너 이야기"](https://github.com/open-source/stories/ariya)

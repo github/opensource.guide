@@ -20,7 +20,7 @@ related:
 很多开源的工作都是来自志愿者的辛勤付出。例如，有些人在使用项目的过程中遇到了问题，然后快速的修复了；也有些人是利用他们的业余时间在开源项目中需求挑战。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/2894642?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
 我尝试着寻找让人爱不释手的编程项目，从而是我的周末或圣诞节也能保持状态。(...)我拥有一台家用电脑，手头也并不十分宽裕。在思考了一阵子之后，我决定写一新的交互式的编程语言，（...)后来我将这门语言叫做Python。
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Python 编程"](https://www.python.org/doc/essays/foreword/)
@@ -34,7 +34,7 @@ related:
 * **他们能够从开源的贡献中获得其它好处，** 比如收获名誉、投资，又或者是学习到新的技能，又或者是能够感觉到和社区很接近。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/2320?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   对于一些情况，金钱上的赞助会增加责任的感觉，（...）这点对于我们来说很重要，尤其是一个全球性的社区，我们生活在一个快节奏的世界，只是想说明"不是现在，我觉得去做一些完全不同的事"。
   <p markdown="1" class="pquote-credit">
 — @alloy, ["为什么我们不接受捐赠"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
@@ -46,7 +46,7 @@ related:
 维护颇流行的项目是一项很重要的责任，需要在每周花10～20小时，而不是每个月的几个小时。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
   询问任何一位开源项目的维护著，他们都会告诉你关于管理一个项目需要花费大量时间的真相。你拥有客户，你的为他们修复问题，你创建新的功能。这些都需要真正的花时间去做的事情。
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["无偿劳动的伦理和开源软件社区"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
@@ -56,7 +56,7 @@ related:
 有偿工作也使人们从不同的各行各业做出有意义的贡献。有些人无法承受为开源项目做没有金钱回报的工作，他们自身的情况，如当前的财务收入、债务、或者来自家庭等其它的照顾义务。这也就意外着这个世界再也无法看到那些拥有天分但是有心无力的人们的贡献了。这是一个伦理上的问题，正如 @ashedryden 在 [无偿劳动的伦理和开源软件社区](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) 一文中所描述的，因此开源的很多工作是由那些已经在生活上取得成就的人们所贡献的，通过志愿的贡献进一步让他们获得了更加丰富的回报，而那些无法承受时间的人们错失了这样的机会，这就导致了开源社区越发的缺乏多样性。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    开源软件为技术领域贡献了巨大的好处，其实，更准确的说是所有的行业。(...) 然而，如果仅仅是靠人们自身的痴迷和兴趣所致，那么很可能就没有开源的今天。
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["金钱与开源"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
@@ -72,7 +72,7 @@ related:
 如果你的老板使用到了相应的项目，那么人们找到对应的开源工作就顺理成章，当然这需要你有足够的能力来担当。也有的情况是老板没有使用到相应的开源项目，但是用到了诸如Python之类的开源编程语言，那么能够维护流行的开源编程语言项目可以帮助老板吸引到相应的开发者。又或者都不是，那老板也可以获得对开发者友好的口碑。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
   就像很多开源项目的故事一样，我花了大量的时间来维护项目。当我第一次开始为开源做事情的时候，我在公司待到很晚才回家。（...)然后我就和老板谈，就开源的任务当作本来的工作来做。
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["一名维护者的故事"](https://github.com/open-source/stories/hzoo)
@@ -90,7 +90,7 @@ related:
 如果你所在的公司不赞同这么做，没关系，重要的是保持社区和企业活动之间的界限清晰。你要告诉老板，开源的维持是由全球各地的人所贡献，要比任何一个公司或某一地域都大的多。老板会自己作出权衡的。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/1445228?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
   获得开源的工作是一个难得的机会，而你不应该放弃对这个过程的热情。公司应该为你的激情付相应的报酬。
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
@@ -156,7 +156,7 @@ related:
 资助者是否有关于宣传的额外需求？例如，你可能需要您可能需要成为非盈利组织或拥有非营利性财政赞助商。又或者是资助者必须给到个人而不是一个组织。这些不同的需求会因为不同的资助者而异，所以请事先做好准备。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/1076721?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
   多年以来，我们一直都是网站友好图标资源的领先者，社区超过2千万人，并为7千万网站提供资源，其中包括 Whitehouse.gov。 (...) 3年前我们发布了Font Awesome 的第4个版本。Web技术从那时起改变了更多事情，而且坦率的说Font Awesome 都有点过时。 (...) 这也是我们刚刚发布 FontAwesome 5的原因之一，我们模块化和重写了 CSS，并从上到下重新设计了每一个图标。我们积极的探讨更好的设计、更好的一致性、以及更好的可读性。
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter 众筹视频](https://www.kickstarter.com/projects/232193852/font-awesome-5)

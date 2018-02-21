@@ -39,7 +39,7 @@ related:
 **모든 사람이 될 수 있는 "기여자"**는 이슈 혹은 pull request에 대한 의견을 말하거나, 프로젝트에 가치를 부여하는 사람 (이슈를 다루거나, 코드 작성 혹은 이벤트 구성), 또는 병합된 pull request을 소유한 사람(아마도 기여자의 가장 좁은 정의)이 될 수 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/579?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["건강한 오픈소스"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
@@ -51,7 +51,7 @@ related:
 원하는 방식으로 프로젝트 역할을 정의할 수 있지만, [보다 폭 넓은 정의를 사용하여](../how-to-contribute/#what-it-means-to-contribute) 더 많은 기여 양식을 권장하십시오. 리더십 역할을 사용하여 기술 능력에 관계없이 프로젝트에 뛰어난 기여를 한 사람을 공식적으로 인정할 수 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/21148?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["파이콘 2015 키노트" (비디오)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
@@ -93,7 +93,7 @@ related:
 만약 GitHub에 프로젝트가 있다면, [protected branches](https://help.github.com/articles/about-protected-branches/)를 사용하여 특정 브랜치로 푸시 할 수있는 사람과 상황을 관리할 수 ​​있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/15000?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
   <p markdown="1" class="pquote-credit">
 — @felixge, ["Pull Request 핵"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
@@ -125,7 +125,7 @@ related:
 오픈소스 프로젝트를 시작한 회사의 일원이라면, 회사가 앞으로 나아갈 프로젝트에 대한 결정을 유지하고 결정할 방법에 대해 공개하기 전에 내부 토론을 가질 필요가 있습니다. 귀사가 프로젝트에 참여하는 방법에 대해 공개적으로 설명하고 싶을 수도 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/691109?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["Facebook의 오픈소스에 대한 내부 모습"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
@@ -155,7 +155,7 @@ related:
 많은 프로젝트가 비영리 단체를 설립하는 문제를 겪고 싶어하지 않으므로, 대신 비영리 재정 스폰서를 찾습니다. 재정 보증인은 귀하를 대신하여 기부금을 수령합니다. [Software Freedom Conservancy](https://sfconservancy.org/), [아파치 재단](http://www.apache.org/), [이클립스 재단](https://eclipse.org/org/foundation/), [리눅스 재단](https://www.linuxfoundation.org/projects) 그리고 [Open Collective](https://opencollective.com/opensource)는 오픈소스 프로젝트를 위한 회계 스폰서 역할을하는 조직의 예시입니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/3671070?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["자선 단체의 틀을 넘어서"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)

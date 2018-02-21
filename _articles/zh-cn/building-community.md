@@ -41,7 +41,7 @@ related:
 * **如果你不赞成一个贡献，** 首先你需要对他们的想法表示感谢，同时 [解释为什么](../best-practices/#learning-to-say-no)它不适合项目，如果有必要的话你可以给出相关的文档链接。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人因为没有做正确的事而害怕叫喊，或者只是不适合。（。。。）通过允许贡献者参与一些对技术要求比底的工作（文档，web content markdown，etc），可以极大的减少你对这些情况的关注。
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["现代开源项目下如何增长贡献者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
@@ -55,7 +55,7 @@ related:
 ### 记录一切
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/11321?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   你是否参加过一个（技术）活动，你不认识在场的人，但是似乎每个人站在一个小组里像老朋友一样聊天？（。。。）现在想象下你想为一个开源项目做贡献，但是你不知道为什么或者这个是如何发生的。
 
   <p markdown="1" class="pquote-credit">
@@ -118,7 +118,7 @@ related:
 对于这类人，必须采取零容忍的政策。一旦犹豫不决，那么这些消极的人会给社区的其他人带来不愉快的感觉。那时就会出现劣币驱逐良币的现象。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/633012?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
 
   事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道IRC的帮助，我不可能做好这些工作。（。。。）不要退而求其次。不要满足于混蛋。
 
@@ -152,7 +152,7 @@ related:
 ### Share ownership of your project
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/270108?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
   社区的领导者们有着不一样的意见，而这也是所有健康社区能够成长的原因之所在！终究你会明白，粗暴鲁莽的做法不能得到大家的认同，谦虚低调的做法更容易让大家接受，才是王道。
   <p markdown="1" class="pquote-credit">
 — @sarahsharp, ["是什么成就一个好的社区？"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
@@ -180,7 +180,7 @@ related:
 虽然并不是一直都有人在回答问题，但是你可以去增加一些信号，以让他人有能够接触的机会，越是尽早开始，越是能够获得帮助。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/39992?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   你们最大的兴趣是招募喜欢你们项目以及能够做你们不能做的事的贡献者。你喜欢编码，但不喜欢回答issues？那么让社区中能做这件事的人去做。
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["打造受欢迎的社区"](http://hood.ie/blog/welcoming-communities.html)
@@ -202,7 +202,7 @@ related:
 作为一名维护者的工作是不要让这种情况出现。即使这些你对话题有很强烈的观点，也要尽量站在一个主持者或者推动者的位置，而不是参与争吵以及推动自己的观点。如果有人不友好或者垄断话题，那么[立即采取行动](https://ocselected.github.io/open-source-guide/building-community/)，以保持有礼貌和丰富的讨论。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/119893?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   作为一名维护者，尊重你们的贡献者非常重要。他们经常处理一些你们描述亲切的事情。
 
   <p markdown="1" class="pquote-credit">
@@ -230,7 +230,7 @@ README [不仅仅是一组指令](../starting-a-project/#writing-a-readme)。它
 在寻求共识的过程中，社区成员讨论主要问题，直到他们感到他们的意见已经得到充分的表达。当仅遗留下一些无关紧要的问题时，社区需要向前迈进。"寻求共识"不能确保社区能得到一个完美的答案。而是侧重聆听和讨论。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/1038121?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
 Atom Issues不存在投票系统的部分原因是因为Atom团队在所有情况下都不会遵循投票系统。有时我们必须选择我们认为是对的事，即使它不流行。（。。。）我能通过社区的反馈知道我能够提供什么以及做什么样的工作。
 
   <p markdown="1" class="pquote-credit">
@@ -257,7 +257,7 @@ Atom Issues不存在投票系统的部分原因是因为Atom团队在所有情�
 如果一个对话没有清晰的方向，没有明确的措施可以采取，或者合适的措施已经被使用，那么关掉issue并解释为什么关掉它。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   指导一件事朝着正确的方向发展是一门艺术。它对阻止人们浪费时间或者要求他们发表有建设性的看法没有作用。（。。。）反而，你们必须为接下来的进展给出条件：给大家一个路线，跟随一个可以得到你们想要的结果的途径，这样就不像是些无用的口头行为。
 
   <p markdown="1" class="pquote-credit">

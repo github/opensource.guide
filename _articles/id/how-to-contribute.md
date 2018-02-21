@@ -20,7 +20,7 @@ related:
 ## Mengapa berkontribusi pada open source?
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Bekerja pada \[freenode\] membantu saya mendapatkan banyak ketrampilan yang saya gunakan pada pembelajaran di universitas dan pekerjaan saya nantinya. Saya pikir bekerja pada proyek open source membantu saya sebanyak saya membantu proyek itu sendiri.!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
@@ -66,7 +66,7 @@ Tidak perlu khawatir! Terdapat banyak cara untuk bisa ikut terlibat pada proyek 
 Kesalahpahaman yang sering terjadi tentang berkontribusi pada open source adalah Anda harus memberikan kontribusi dalam bentuk kode. Kenyataannya, seringkali banyak bagian lain dari proyek yang [seringkali terabaikan atau diabaikan](https://github.com/blog/2195-the-shape-of-open-source). Anda bisa memberikan bantuan _besar_ bagi proyek dengan menawarkan diri untuk jenis kontribusi semacam ini.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Saya menjadi terkenal karena pekerjaan saya pada CocoaPods, tetapi banyak orang tidak tahu bahwa saya tidak melakukan pekerjaan yang berarti pada perangkat CocoaPods itu sendiri. Waktu saya pada proyek lebih banyak dihabiskan untuk melakukan kegiatan seperti dokumentasi dan pencitraan.
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
@@ -76,7 +76,7 @@ Kesalahpahaman yang sering terjadi tentang berkontribusi pada open source adalah
 Meskipun Anda suka untuk menulis kode program, kontribusi jenis lain merupakan cara yang baik untuk bisa berpartisipasi pada proyek dan bertemu dengan anggota komunitas lainnya. Membangun hubungan tersebut akan memberikan Anda kesempatan untuk bekerja pada bagian lain dari proyek.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
   Saya pertama kali menghubungi tim pengembang Python (python-dev) ketika saya mengirimkan pesan email kepada mailing list pada 17 Juni 2002 tentang perbaikan dari saya. Saya dengan cepat menemukan kesalahan, dan memutuskan untuk mulai memilih email dari grup. Mereka memberikan saya alasan yang baik untuk bertanya tentang klarifikasi sebuah topik, tetapi yang lebih penting lagi saya mampu mendeteksi apabila seseorang menunjukkan sesuatu yang perlu diperbaiki.
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
@@ -105,7 +105,7 @@ Meskipun Anda suka untuk menulis kode program, kontribusi jenis lain merupakan c
 * Menulis terjemahan untuk dokumentasi proyek
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   Serius, \[dokumentasi\] sangatlah penting. Dokumentasi sejauh ini sudah sangat bagus dan merupakan fitur utama dari Babel.  Terdapat beberapa bagian yang bisa dikembangkan dan bahkan penambahan sebuah paragraf disini dan disana akan sangat dihargai.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
@@ -152,7 +152,7 @@ Meskipun Anda seorang pengembang perangkat lunak, bekerja pada proyek dokumentas
 ## Berorientasi pada proyek baru
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Jika Anda mengunjungi issue tracker dan tampaknya membingungkan, hal itu terjadi bukan hanya kepada Anda saja. Perangkat ini membutuhkan banyak pemahaman implisit, tetapi orang lain mampu membantu Anda dalam mengeksplorasi dan Anda bisa bertanya kepada mereka.
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
@@ -372,7 +372,7 @@ Sebuah proyek yang bersahabat dan menyambut menandai bahwa mereka sangat menerim
 </div>
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Setiap kali Anda melihat diskusi yang panjang, amati respon dari pengembang inti di bagian akhir dari diskusi. Apakah mereka meringkasnya secara konstruktif dan mengambil langkah-langkah untuk mendapatkan kesimpulan tanpa mengabaikan sopan santun? Jika Anda melihat banyak perdebatan yang tidak konstruktif (_flame war_), biasanya merupakan sebuah tanda bahwa energi dihabiskan untuk berargumentasi dibandingkan untuk pengembangan proyek.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
@@ -388,7 +388,7 @@ Anda telah menemukan sebuah proyek yang Anda sukai, dan Anda siap untuk membuat 
 Apakah Anda merupakan kontributor atau mencoba untuk bergabung dengan sebuah komunitas, bekerja dengan orang lain merupakan salah satu keahlian paling penting yang perlu diasah dalam dunia open source.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/7693422?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Sebagai kontributor baru,\] saya menyadari bahwa saya perlu bertanya jika ingin menutup sebuah laporan masalah. Saya mengamati kode program. Setelah saya mengetahui situasinya, saya bertanya untuk pengarahan lebih lanjut. Dan akhirnya! Saya berhasil menutup sebuah laporan masalah setelah mendapatkan semua informasi relevan yang saya butuhkan.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
@@ -450,7 +450,7 @@ Sebelum Anda membuka sebuah laporan masalah atau melakukan pull request, periksa
 Jika Anda hendak melakukan kontribusi yang cukup substansial, buatlah sebuah laporan masalah sebelum memulai bekerja. Sangatlah bermanfaat untuk mengamati proyek dalam kurun waktu tertentu (pada Github, [Anda bisa memilih menu "Watch"](https://help.github.com/articles/watching-repositories/) untuk mendapatkan notifikasi dari semua percakapan), dan mengenal anggota komunitas, sebelum memulai pekerjaan yang belum tentu akan diterima.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   Anda akan belajar <em>banyak</em> dari proyek yang Anda gunakan secara aktif, "melihatnya" pada GitHub dan membaca semua laporan masalah dan PR.
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)

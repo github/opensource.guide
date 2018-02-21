@@ -44,7 +44,7 @@ related:
 예를 들어, @lord는 프로젝트 비전을 가짐으로써 시간을 보낼 요청을 파악하는 데 도움이 된다는 것을 발견했습니다. 새로운 메인테이너인 그는 [Slate](https://github.com/lord/slate)에 대한 첫번째 기능 요청을 받았을 때 프로젝트의 범위를 고수하지 않은 것을 후회했습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/1976330?v=3&s=460" class="pquote-avatar" alt="avatar" alt="@lord avatar">
+  <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
   <p markdown="1" class="pquote-credit">
 — @lord, ["새로운 오픈소스 메인테이너를 위한 팁"](https://lord.io/blog/2014/oss-tips/)
@@ -101,7 +101,7 @@ related:
 동의하지 않는 기여를 받는 경우, 첫번째 반응으로는 무시하거나 보지 못했다고 둘러댈 수 있습니다. 이렇게 한다면 다른 사람의 감정에 해를 끼칠 수 있으며 커뮤니티내의 다른 잠재적인 기여자의 능력도 떨어뜨릴 수 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/869950?v=3&s=400" class="pquote-avatar" alt="avatar" alt="@KrauseFx avatar">
+  <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["오픈소스 커뮤니티 확장하기"](https://krausefx.com/blog/scaling-open-source-communities)
@@ -147,10 +147,10 @@ related:
 이러한 접근 방식이 처음에는 불친절하다고 느낄 수도 있지만, 이 대책은 실제로 서로에게도 좋습니다. 그것은 누군가가 받아 들일 수 없는 pull request에 많은 시간 낭비를 초래할 가능성을 줄여줍니다. 또한 작업 부하를 보다 쉽게 ​​관리할 수 ​​있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/125011" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
   <p markdown="1" class="pquote-credit">
-— @mikemcquaid, ["친절한 pull request 닫기"](https://github.com/blog/2124-kindly-closing-pull-requests)
+— @MikeMcQuaid, ["친절한 pull request 닫기"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
@@ -175,7 +175,7 @@ related:
 @lmccart가 프로젝트 [p5.js](https://github.com/processing/p5.js?files=1)에서 발견한대로 [프로젝트 소유권 공유](../building-community/#share-ownership-of-your-project)를 권장하면 자신의 작업량을 크게 줄일 수 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/191056?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, [""오픈소스"란 무엇을 의미합니까? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
@@ -197,7 +197,7 @@ related:
 프로젝트 포킹은 나쁜 일이 아닙니다. 프로젝트를 복사하고 수정할 수 있다는 것이 오픈소스에 관한 가장 좋은 것 중 하나입니다. 커뮤니티 회원들이 자신의 포크로 작업하도록 권장하면 프로젝트 비전과 상충하지 않고, 필요한 창의적인 판로를 제공 할 수 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/481677?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["PR을 닫는 이유"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
@@ -223,7 +223,7 @@ related:
 만약 테스트를 추가한다면, 그것들이 CONTRIBUTING 파일에 어떻게 작동하는지 설명합시다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/812892?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust'의 커뮤니티 자동화"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
@@ -262,7 +262,7 @@ related:
 다른 유형의 일과 마찬가지로 정기적인 휴식을 취하면 일에 대해 새롭고, 행복하며, 짜릿함을 유지할 수 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/36432?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["조의를 표합니다, 당신은 지금 인기있는 오픈소스 프로젝트의 메인테이너입니다."](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)

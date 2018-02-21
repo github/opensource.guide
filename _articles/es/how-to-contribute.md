@@ -20,7 +20,7 @@ related:
 ## ¿Para qu&eacute; contribuir?
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Trabajar en \[freenode\] me ha ayudado a conseguir muchas de las habilidades que luego he usado en mis estudios en la universidad y en mi actual trabajo. ¡Creo que trabajar en proyectos de c&oacute;digo abierto me ayuda tanto como ayuda al proyecto!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Por qu&eacute; me gusta contribuir con el software de c&oacute;digo abierto"](https://www.errietta.me/blog/open-source/)
@@ -66,7 +66,7 @@ Si eres un colaborador de c&oacute;digo abierto nuevo, el proceso puede ser inti
 Un error conceptual com&uacute;n acerca de contribuir con el c&oacute;digo abierto es que debes contribuir con c&oacute;digo. De hecho, son a menudo las otras partes de un proyecto las [m&aacute;s descuidadas o pasadas por alto](https://github.com/blog/2195-the-shape-of-open-source). ¡Le har&aacute;s un _enorme_ favor al proyecto si te ofreces a trabajar en este tipo de contribuciones!
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Me han reconocido por mi trabajo en CocoaPods, pero la mayor&iacute;a de las personas no conoce que en realidad yo no realizo ning&uacute;n trabajo real en la propia herramienta CocoaPods. Mi tiempo en el proyecto se dedica principalmente a hacer cosas como documentar y a trabajar en la marca.
   <p markdown="1" class="pquote-credit">
 — @orta, ["Movi&eacute;ndose al Software de c&oacute;digo abierto por defecto"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
@@ -76,7 +76,7 @@ Un error conceptual com&uacute;n acerca de contribuir con el c&oacute;digo abier
 Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera de involucrarse con un proyecto y conocer a otros miembros de la comunidad. Construir esas relaciones te dar&aacute; oportunidades de trabajar en otras partes del proyecto.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
   Llegu&eacute; por primera vez al equipo de desarrollo de Python (alias python-dev) cuando envi&eacute; un correo electr&oacute;nico a su lista de correos el 17 de junio de 2002, aceptando mi parche. R&aacute;pidamente me encontr&eacute; con un error de c&oacute;digo abierto, y decid&iacute; comenzar a limpiar el resumen de correos electr&oacute;nicos para el grupo. Me dieron una gran excusa para pedir aclaraciones sobre un tema, pero principalmente pude notar cu&aacute;ndo &aacute;lguien señalaba algo que necesitaba ser reparado.
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Hostorias de un encargado"](https://github.com/open-source/stories/brettcannon)
@@ -105,7 +105,7 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
 * Escribe una traducci&oacute;n de la documentaci&oacute;n del proyecto
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   De verdad, \[documentation\] es s&uacute;per-importante. Por lejos la documentaci&oacute;n ha sido enorme y fue el factor que termin&oacute; con la torre de Babel. Hay secciones que ciertamente podr&iacute;an mejorar con algo de trabajo e incluso la adici&oacute;n de un p&aacute;rrafo aqu&iacute; o all&aacute; es extremadamente apreciada.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Llamado a los colaboradores"](https://github.com/babel/babel/issues/1347)
@@ -152,7 +152,7 @@ Incluso si no eres un desarrollador de software, trabajar en la documentaci&oacu
 ## Orient&aacute;ndote a un nuevo proyecto
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Si vas tras un rastreador de problemas y las cosas parecen confusas, no eres solo tu. Esas herramientas requieren mucho conocimiento impl&iacute;cito, pero las personas puede ayudarte a navegarlo y tu puedes hacerles preguntas.
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["C&oacute;mo Contribuir con el C&oacute;digo Abierto"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
@@ -372,7 +372,7 @@ Un proyecto que es amigable y acogedor indica que ser&aacute; receptivo de nuevo
 </div>
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Siempre que veas un hilo largo, comprueba las respuestas de los principales desarrolladores que llegan m&aacute;s tarde al hilo. ¿Est&aacute;n resumiendo de forma constructiva y tomando medidas para llevar el hilo hacia una decisi&oacute;n y al mismo tiempo contin&uacute;an siendo educados? Si ves que se agitan banderas de guerra pasando en frente, frecuentemente indica que la energ&iacute;a se est&aacute; encaminando a discutir m&aacute;s que en desarrollar.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Produciendo Software de c&oacute;digo abierto_](http://producingoss.com/en/evaluating-oss-projects.html)
@@ -388,7 +388,7 @@ Ya encontraste un proyecto que te gustaba, y est&aacute;s listo para hacer una c
 Sin importar si eres un colaborador para una sola vez o est&aacute;s intentando unirte a una comunidad, trabajar con otras personas es una de las habilidades m&aacute;s importantes que desarrollar&aacute;s en un proyecto de c&oacute;digo abierto.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/7693422?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Como un nuevo colaborador,\] me di cuenta r&aacute;pidamente que necesitaba hacer preguntas si quer&iacute;a poder cerrar el problema. Recorr&iacute; el c&oacute;digo base. Una vez que comprend&iacute; lo que estaba ocurriendo, pregunt&eacute; que me orientaran. ¡Y voilà! Pude resolver el problema luego de conseguir todos los detalles relevantes que necesitaba.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [El Muy Accidentado Viaje de un Principiante a trav&eacute;s del Mundo del C&oacute;digo Abierto](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
@@ -450,7 +450,7 @@ Antes de abrir un problema o un pull request, verifica los documentos de verific
 Si quieres hacer una contribuci&oacute;n sustancial, abre un problema para preguntar antes de ponerte a trabajar en ello. Es de gran ayuda observar el proyecto por un tiempo (en GitHub, [puedes hacer click en "Watch"](https://help.github.com/articles/watching-repositories/) para ser notificado de todas las conversaciones), y conocer a los miembros de la comunidad, antes de realizar trabajo alguno que pueda no ser aceptado.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
     Aprender&aacute;s <em>mucho</em> tomando un proyecto que utilizas activamente, "observarlo" en GitHub y leyendo cada problema y PR.
 <p markdown="1" class="pquote-credit">
 — @gaearon [sobre la adhesi&oacute;n a proyectos](https://twitter.com/dan_abramov/status/819555257055322112)

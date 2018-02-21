@@ -51,7 +51,7 @@ Ayuda a las personas a encontrar y recordar tu proyecto indicándoles un solo es
 Si todav&iacute;a  no deseas establecer estos canales para tu proyecto, promociona en tu usuario personal de Twitter o tu cuenta personal de GitHub todo lo que hagas. Por ejemplo, aseg&uacute;rate que est&eacute; inclu&iacute;do en tu biograf&iacute;a o tus diapositivas si te toca disertar en una reuni&oacute;n o evento. De esa manera, las personas sabr&aacute;n c&oacute;mo llegar hasta ti o seguir tu trabajo.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
  Un error que comet&iacute; en los primeros días (...) fue no suscribir una cuenta de Twitter para el proyecto. Twitter es una gran manera de mantener a la gente al día sobre un proyecto, así como exponer constantemente a las personas al mismo.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
@@ -74,7 +74,7 @@ El alcance en l&iacute;nea es una gran manera de compartir y diseminar la palabr
 Saca ventaja de las comunidades en l&iacute;nea existentes y sus plataformas para alcanzar tu audiencia. Si tu proyecto es de codigo abierto es un proyecto de software, probablemente puedas encontrar tu audiencia en [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), o [Quora](https://www.quora.com/). Encuentra los canales donde pienses que las personas obtendrán los mayores beneficios o se sentir&aacute;n más entusiasmadas acerca de tu trabajo.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
 Cada programa tiene funciones muy espec&iacute;ficas, que solamente una fracci&oacute;n de los usuarios encontra &uacute;til. No env&iacute;es masivamente correo a todas las personas posibles. En su lugar, enfoca tus esfuerzos en comunidades que se beneficiar&aacute;n de conocer sobre tu trabajo.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
@@ -100,7 +100,7 @@ Los eventos fuera de l&iacute;nea son una manera popular de promocionar nuevos p
 Si no tienes [experiencia para hablar en p&uacute;blico](http://speaking.io/), comienza por encontrar una comunidad local de personas que est&eacute;n relacionados con el lenguaje o ecosistema de tu proyecto.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
 Estaba muy nerviosa acerca de ir a Pycon. Estaba dando una charla, solo iba a conocer a un par de personas ah&iacute;, me iba por una semana entera. (...) No deber&iacute;a haberme preocupado, sin embargo. ¡Pycon fue fenomenalmente incre&iacute;ble! (...). ¡Todos eran incre&iacute;blemente amigables y extrovertidos, tanto que rara vez encontraba tiempo para no hablar con la gente!
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
@@ -124,7 +124,7 @@ Cuando te sientas listo/a, considera dar una charla en una conferencia para prom
 Busca conferencias que sean espec&iacute;ficas de tu lenguaje o ecosistema. Antes que enviar tu charla, investiga la conferencia de antemano, para adaptar tu charla a sus asistentes e incrementar tus oportunidades de ser aceptado. A menudo puedes tener una idea de la audiencia de una conferencia mirando a sus disertantes.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/80?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   Escribí muy amablemente a la gente de JSConf y les supliqué que me dieran un espacio donde pudiera presentarme en la JSConf EU. (...) Estaba extremadamente asustada, presentando esta cosa en la que había estado trabajando por seis meses. (...) Todo el tiempo estaba pensando ¡Oh Di&oacute;s m&iacute;o! ¿Qu&eacute; estoy haciendo aqu&iacute;?
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
@@ -140,7 +140,7 @@ Ayudar a los reci&eacute;n llegados, compartir recursos y hacer contribuciones m
 Algunas veces, esas relaciones pueden llevar incluso a asociaciones oficiales con el ecosistema m&aacute;s amplio.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   La &uacute;nica raz&oacute;n por la que urllib3 es la librer&iacute;a de Python de terceros m&aacute;s popular es porque es parte de las solicitudes.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
@@ -152,7 +152,7 @@ Nunca es demasiado temprano, o muy tarde, para comenzar a construir tu reputaci&
 No hay una soluci&oacute;n para construir una audiencia en una noche. Ganarse la confianza y el respeto de los dem&aacute;s lleva tiempo, y el trabajo de construir la reputaci&oacute;n no termina nunca.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
   PhantomJS fue lanzado por primera vez a comienzos del 2011. (...)  Yo pas&eacute; la voz utilizando maneras convencionales: envi&eacute; posts en Tweeter sobre el mismo, escrib&iacute; posts en blogs sobre cosas que pod&iacute;an hacerse con &eacute;l, lo nombr&eacute; durante varias discuciones en encuentros. Cuando se hizo más conocido en el 2014, comenc&eacute; a hacer presentaciones sobre &eacute;l.
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)

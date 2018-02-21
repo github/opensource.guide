@@ -20,7 +20,7 @@ related:
 ## Why contribute to open source?
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["왜 나는 오프소스 소프트웨어에 기여하는 것을 좋아하는가"](https://www.errietta.me/blog/open-source/)
@@ -66,7 +66,7 @@ related:
 오픈소스에 기여하는 것에 대한 일반적인 오해는 코드를 작성해야한다는 것입니다. 실제로 대부분 프로젝트에서 [무시되거나 간과되는 부분](https://github.com/blog/2195-the-shape-of-open-source)입니다 . 이러한 유형의 기여를 제공하도록 제안함으로써 프로젝트에 큰 도움을 줄 것입니다!
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
   <p markdown="1" class="pquote-credit">
 — @orta, ["기본적으로 OSS으로 이동하기"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
@@ -76,7 +76,7 @@ related:
 코드 작성을 원한다고해도, 다른 유형의 기여는 프로젝트에 참여하고 다른 커뮤니티 회원을 만날 수 있는 좋은 방법입니다. 이러한 관계를 구축하면 프로젝트의 다른 부분에서 작업 할 수있는 기회가 주어집니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
   I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["메인테이너 이야기"](https://github.com/open-source/stories/brettcannon)
@@ -105,7 +105,7 @@ related:
 * 프로젝트의 문서의 번역문 작성하기
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["기여자 부르기"](https://github.com/babel/babel/issues/1347)
@@ -152,7 +152,7 @@ related:
 ## Orienting yourself to a new project
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["어떻게 오픈소스에 기여하는가"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
@@ -372,7 +372,7 @@ README를 스캔하여 깨진 링크 또는 오타를 찾을 수 있습니다. �
 </div>
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_OSS 생산_](http://producingoss.com/en/evaluating-oss-projects.html)
@@ -388,7 +388,7 @@ README를 스캔하여 깨진 링크 또는 오타를 찾을 수 있습니다. �
 일회 기여자이든 커뮤니티에 참여하려고하든, 관계없이 다른 사람들과 협력하는 것은 오픈소스에서 개발할 가장 중요한 기술 중 하나입니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/7693422?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [초보자가 오픈소스 세계를 통해 즐기는 매우 울퉁불퉁한 여정](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
@@ -450,7 +450,7 @@ README를 스캔하여 깨진 링크 또는 오타를 찾을 수 있습니다. �
 실질적인 기여를 하고 싶다면, 이슈를 열고 작업하십시오. 수락되지 않을 수 있는 일을 하기 전에(깃허브에서는, ["Watch"를 클릭](https://help.github.com/articles/watching-repositories/)하여 토론을 알림 받을 수 있습니다), 잠시동안 프로젝트를 보고 커뮤니티 멤버를 알게되면 도움이됩니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
 <p markdown="1" class="pquote-credit">
 — @gaearon [프로젝트 합류](https://twitter.com/dan_abramov/status/819555257055322112)

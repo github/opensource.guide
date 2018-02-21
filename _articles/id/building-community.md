@@ -41,7 +41,7 @@ Mulailah dengan dokumentasi Anda:
 * **Jika terdapat kontribusi yang tidak Anda setujui,** ucapkan terima kasih atas idenya dan [jelaskan kenapa](../best-practices/#belajar-untuk-mengatakan-tidak) ide tersebut tidak sesuai dengan proyek, dan menghubungkan dengan dokumen yang relevan jika Anda memilikinya.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/579?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   Berkontribusi pada open source sangat mudah bagi sebagian orang dibandingkan orang lain. Terdapat ketakutan karena melakukan kesalahan atau tidak sesuai. (...) Dengan memberikan tempat bagi kontributor yang memiliki kemampuan kurang baik (dokumentasi, isi web, dll) Anda bisa mengurangi kecemasan tersebut.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
@@ -55,7 +55,7 @@ Mendorong kontributor lain adalah sebuah investasi pada diri Anda juga. Ketika A
 ### Dokumentasikan segalanya
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/11321?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Apakah Anda pernah menghadiri sebuah acara dimana Anda tidak mengenal siapapun, tetapi orang lain tampak saling mengenal satu sama lain dan berbicara seperti sahabat dekat? (...) Sekarang bayangkan Anda ingin berkontribusi pada proyek open source, namun Anda tidak dapat melihat kenapa dan bagaimana ini bisa terjadi.
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
@@ -117,7 +117,7 @@ Sembarang proyek yang terkenal akan menarik orang lain untuk merusak dibandingka
 Lakukan yang terbaik untuk mengadopsi kebijakan tanpa toleransi terhadap orang-orang jenis ini. Jika dibiarkan, orang-orang negatif ini akan membuat orang lain menjadi tidak nyaman. Bahkan mereka bisa meninggalkan proyek Anda.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/633012?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
   Memiliki komunitas yang mendukung adalah kuncinya. Saya tidak akan pernah bisa melakukan pekerjaan ini tanpa rekan-rekan saya, orang asing di Internet yang ramah, dan chanel IRC yang ramai (...).
   <p markdown="1" class="pquote-credit">
 — @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
@@ -149,7 +149,7 @@ Sebagai contoh, berikut bagaimana cara [Rubinius](https://github.com/rubinius/ru
 ### Berbagi kepemilikan dari proyek Anda
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/270108?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
   Pemimpin Anda akan memiliki opini  yang berbeda, seperti halnya komunitas lainnya! Namun, Anda perlu mengambil langkah-langkah untuk memastikan bahwa suara terbesar tidak selalu menang, dan suara minoritas akan selalu didengarkan.
   <p markdown="1" class="pquote-credit">
 — @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
@@ -177,7 +177,7 @@ Kenyataannya adalah [sebagian besar proyek hanya memiliki](https://peerj.com/pre
 Meskipun tidak selalu mudah untuk mendapatkan orang yang memenuhi panggilan Anda, memberikan sinyal akan meningkatkan peluang dimana orang lain akan ikut terlibat. Dan semakin cepat Anda melakukannya, semakin cepat pula orang akan datang membantu.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/39992?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   Pastikan untuk merekrut kontributor yang menikmati dan mampu melakukan sesuatu yang tidak Anda bisa lakukan. Apakah Anda suka membuat kode, tetapi tidak suka menjawab laporan permasalahan? Maka cari orang-orang pada komunitas Anda yang suka dengan hal itu dan biarkan mereka untuk melakukannya.
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
@@ -199,7 +199,7 @@ Ketika komunitas Anda berjuang dengan masalah yang rumit, emosi bisa meningkat. 
 Tugas Anda sebagai pengelola adalah menjaga situasi ini agar tidak sampai memuncak. Meskipun Anda memiliki opini yang kuat pada topik tersebut, cobalah untuk membuat posisi Anda sebagai moderator atau fasilitator dan jangan memaksakan kehendak Anda. Jika seseorang mencoba memonopoli diskusi, [ambil tindakan secepatnya](../building-community/#tidak-mentolerir-aktor-jahat) untuk memastikan diskusi tetap terjaga dan produktif.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars2.githubusercontent.com/u/119893?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   Sebagai pengelola proyek, sangatlah penting untuk menghargai kontributor Anda. Mereka seringkali menerima apa yang Anda sampaikan secara personal.
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
@@ -225,7 +225,7 @@ Seringkali voting memang diperlukan untuk memecah kebuntuan. Namun tekankan ["co
 Pada proses _consensus seeking_, anggota komunitas mendiskusikan masalah utama sampai mereka merasa didengarkan. Ketika tersisa masalah kecil, maka komunitas akan bergerak maju. "Consensus seeking" mengakui bahwa sebuah komunitas mungkin tidak akan mendapatkan jawaban yang sempurna. Namun proses ini memprioritaskan proses untuk mendengarkan dan diskusi.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/1038121?v=3&s=460" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Salah satu alasan kenapa sistem voting tidak berlaku untuk masalah Atom adalah karena tim Atom tidak akan mengikuti sistem voting pada setiap kasusnya. Seringkali kami harus memilih apa yang kami rasa benar meskipun tidak populer. (...) Apa yang bisa saya tawarkan dan janjikan...adalah karena itu merupakan pekerjaan saya untuk mendengarkan komunitas.
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
@@ -251,7 +251,7 @@ Jika diskusi sudah mulai tidak mengarah, tanyakan pada grup, _"Langkah apa yang 
 Jika sebuah diskusi tidak mengarah kemana-mana, tidak ada tindakan yang jelas yang harus diambil, atau tindakan yang benar sudah dilakukan, tutup laporan dan jelaskan kenapa.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Mengarahkan sebuah diskusi pada sebuah kegunaan tanpa bersifat memaksa adalah sebuah seni. Hal ini tidak semudah untuk meminta orang-orang untuk menghabiskan waktu mereka, atau meminta mereka untuk tidak memberikan komentar kecuali mereka memiliki ide yang konstruktif. (...) Anda harus menyarankan kondisi untuk peningkatan lebih lanjut: berikan rute kepada orang, jalur yang bisa diikuti yang mengarah pada hasil yang Anda inginkan, tanpa seolah-olah Anda mengatur perilaku mereka.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
