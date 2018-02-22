@@ -45,6 +45,8 @@ sass:
   load_paths:
     - node_modules
 
+logo: /assets/images/cards/default.png
+
 github:
   repository_nwo: github/opensource.guide
 
