@@ -16,6 +16,10 @@ HTMLProofer::Runner.new(
   parallel: { in_threads: 4 },
   type: :directory,
   url_ignore: url_ignores,
-  verbose: !!ENV["VERBOSE"],
-  check_html: true
+  check_html: true,
+  check_opengraph: true,
+  check_img_http: true,
+  favicon: true,
+  assume_extension: true,
+  http_status_ignore: [0]
 ).run
