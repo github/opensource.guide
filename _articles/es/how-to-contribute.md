@@ -236,7 +236,7 @@ Aqu&iacute; tienes una lista pr&aacute;ctica para evaluar si un proyecto es conv
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  ¿Tiene una licencia? Usualmente, es un archivo ubicado LCENSE en la ra&iacute;z del repositorio.
+  ¿Tiene una licencia? Usualmente, es un archivo ubicado LICENSE en la ra&iacute;z del repositorio.
   </label>
 </div>
 
