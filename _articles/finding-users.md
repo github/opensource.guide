@@ -160,4 +160,4 @@ There is no overnight solution to building an audience. Gaining the trust and re
 
 ## Keep at it!
 
-It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will miraculously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
+It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will spontaneously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
