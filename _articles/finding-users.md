@@ -19,15 +19,15 @@ related:
 
 ## Spreading the word
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. Instead of hoping others will find and use your open source project, you have to _spread the word_ about your hard work!
+There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. Instead of hoping others will find and use your open source project, you have to spread the word about your hard work!
 
 ## Figure out your message
 
-Before you start the actual work of promoting your project, you should be able to explain what your project does, and why your project matters.
+Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
 
 What makes your project different or interesting? Why did you create it? Answering these questions for yourself will help you communicate your project's significance.
 
-Remember that people get involved as users, and eventually become contributors, because your project solves a problem for them. As you think about your project's message and value, try to view it through the lens of what _users_ might want.
+Remember that people get involved as users, and eventually become contributors, because your project solves a problem for them. As you think about your project's message and value, try to view them through the lens of what _users and contributors_ might want.
 
 For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
 
@@ -58,7 +58,7 @@ If you don't wish to set up outlets for your project yet, promote your own Twitt
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially when paired with clear documentation and tutorials. A website also suggests that your project is active which will make your audience feel more comfortable using it. Provide examples to give people ideas for how to use your project.
+**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially when it's paired with clear documentation and tutorials. Having a website also suggests that your project is active which will make your audience feel more comfortable using it. Provide examples to give people ideas for how to use your project.
 
 [@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
 
@@ -96,7 +96,7 @@ If nobody pays attention or responds to your initial outreach, don't get discour
 
 ![Public speaking](/assets/images/finding-users/public_speaking.jpg)
 
-Offline events are a popular way to promote new projects to audiences and are a great way to create a network, especially if you are interested in reaching developers.
+Offline events are a popular way to promote new projects to audiences. They're a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
 
 If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
 
@@ -122,7 +122,7 @@ As you write your talk, focus on what your audience will find interesting and ge
 
 When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
 
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference to tailor your talk for attendees and increase your chances of being accepted to speak at the conference. You can often get a sense of a conference's attendees by looking at a conference's speakers.
+Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference to tailor your talk for attendees and increase your chances of being accepted to speak at the conference. You can often get a sense of your audience by looking at a conference's speakers.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
@@ -160,4 +160,4 @@ There is no overnight solution to building an audience. Gaining the trust and re
 
 ## Keep at it!
 
-It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships in the open source community instead of hoping that your project will miraculously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
+It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will miraculously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
