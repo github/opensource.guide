@@ -126,11 +126,11 @@ Unresponsive Betreuer\*innen werden zum Flaschenhals für Open-Source-Projekte. 
 
 Sie können auch die Zeit messen, die benötigt wird, um zwischen den einzelnen Phasen des Beitragsprozesses zu wechseln, wie z.B:
 
-* Durchschnittliche Dauer, die ein Issue offen bleibt
+* Die durchschnittliche Dauer, die ein Issue offen bleibt
 * Ob Issues durch PRs geschlossen werden
 * Ob veraltete Issues geschlossen werden
-* Durchschnittliche Zeit für den Merge eines Pull-Requests
+* Die Durchschnittliche Zeit für den Merge eines Pull-Requests
 
-## Use 📊 to learn about people
+## Nutzen Sie 📊 um die Helfer\*innen besser zu verstehen
 
-Understanding metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
+Selbst wenn Sie nicht alle Metriken auf einem Dashboard verfolgen, können Sie mit Hilfe der obigen Hinweise Ihre Aufmerksamkeit auf die Art des Verhaltens lenken, die Ihrem Projekt zum Erfolg verhelfen wird.
