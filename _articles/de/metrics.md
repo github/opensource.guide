@@ -61,7 +61,7 @@ Vielleicht möchten Sie auch [die Auffindbarkeit an bestimmten Orten verfolgen](
 
 Leute finden Ihr Projekt auf dieser wilden und verrückten Sache, die wir das Internet nennen. Wenn sie Ihr Projekt sehen, werden sie sich im Idealfall angespornt fühlen, etwas zu tun. Die zweite Frage, die Sie sich stellen sollten, lautet: _Nutzen Leute dieses Projekt?_
 
-Wenn Sie einen Paketmanager wie npm oder RubyGems.org verwenden, um Ihr Projekt zu verteilen, können Sie vielleicht die Downloads Ihres Projekts verfolgen.
+Wenn Sie einen Paketmanager wie [npm](https://www.npmjs.com/) oder [RubyGems.org](https://rubygems.org/) verwenden, um Ihr Projekt zu verteilen, können Sie vielleicht die Downloads Ihres Projekts verfolgen.
 
 Paketmanager verwenden leicht unterschiedliche "Download"-Definitionen, und Downloads korrelieren nicht unbedingt mit "Installation" oder "Verwendung", aber sie bieten eine Grundlinie für den Vergleich: Probieren Sie [Libraries.io](https://libraries.io/) aus, um Nutzungsstatistiken über viele populäre Paketmanager hinweg zu verfolgen.
 
