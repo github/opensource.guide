@@ -63,7 +63,7 @@ Leute finden Ihr Projekt auf dieser wilden und verrückten Sache, die wir das In
 
 Wenn Sie einen Paketmanager wie [npm](https://www.npmjs.com/) oder [RubyGems.org](https://rubygems.org/) verwenden, um Ihr Projekt zu verteilen, können Sie vielleicht die Downloads Ihres Projekts verfolgen.
 
-Paketmanager verwenden leicht unterschiedliche "Download"-Definitionen, und Downloads korrelieren nicht unbedingt mit "Installation" oder "Verwendung", aber sie bieten eine Grundlinie für den Vergleich: Probieren Sie [Libraries.io](https://libraries.io/) aus, um Nutzungsstatistiken über viele populäre Paketmanager hinweg zu verfolgen.
+Paketmanager verwenden leicht unterschiedliche "Download"-Definitionen, und Downloads korrelieren nicht unbedingt mit "Installation" oder "Verwendung", aber sie bieten eine Basislinie für Vergleiche: Probieren Sie [Libraries.io](https://libraries.io/) aus, um Nutzungsstatistiken über viele populäre Paketmanager hinweg zu verfolgen.
 
 Wenn sich Ihr Projekt auf GitHub befindet, navigieren Sie erneut zur Traffic-Seite. Aus [dem clone-Diagramm](https://github.com/blog/1873-clone-graphs) können Sie ablesen, wie oft Ihr Projekt an einem bestimmten Tag heruntergeladen wurde, aufgeschlüsselt nach Gesamtzahl und  Nutzer\*innen.
 
@@ -122,7 +122,7 @@ Unresponsive Betreuer\*innen werden zum Flaschenhals für Open-Source-Projekte. 
 
 [Untersuchungen von Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) deuten darauf hin, dass eine schnelle und freundliche Reaktion der Betreuer\*innen Mitwirkende zu weiteren Beiträgen ermutigt.
 
-Überlegen Sie, wie lange es dauert, bis Sie (oder ein anderer Betreuer) auf Beiträge reagieren, egal ob es sich um ein Issue oder ein Pull-Request handelt. Die Reaktion muss keine Maßnahme sein; Auch ein einfaches : _"Vielen Dank für diesen Beitrag! Ich werde ihn innerhalb einer Woche überprüfen."_
+Überlegen Sie, wie lange es dauert, bis Sie (oder ein anderer Betreuer) auf Beiträge reagieren, egal ob es sich um ein Issue oder ein Pull-Request handelt. Die Reaktion muss keine Maßnahme sein; Auch ein einfaches : _"Vielen Dank für diesen Beitrag! Ich werde ihn innerhalb einer Woche überprüfen." zählt._
 
 Sie können auch die Zeit messen, die benötigt wird, um zwischen den einzelnen Phasen des Beitragsprozesses zu wechseln, wie z.B:
 
