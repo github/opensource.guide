@@ -43,7 +43,7 @@ Before anybody can use or contribute back to your project, they need to know it 
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Graphs", then "Traffic". On this page, you can see:
+If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Insights", then "Traffic". On this page, you can see:
 
 * **Total page views:** Tells you how many times your project was viewed
 
@@ -90,7 +90,7 @@ Retention also requires an [inflow of new contributors](http://blog.abigailcabun
 
 Examples of community metrics that you may want to regularly track include:
 
-* **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Graphs" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
+* **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Insights" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
 
 ![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
