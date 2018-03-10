@@ -5,7 +5,7 @@ description: Treffen Sie fundierte Entscheidungen und helfen Sie Ihrem Open-Sour
 class: metrics
 toc:
   warum-überhaupt-etwas-messen: "Warum überhaupt etwas messen?"
-  discovery: "Discovery"
+  entdeckt-werden: "Entdeckt werden"
   usage: "Usage"
   retention: "Retention"
   maintainer-activity: "Maintainer activity"
@@ -37,25 +37,25 @@ Popularität ist nicht alles. Jeder kommt aus verschiedenen Gründen auf Open So
 
 Wenn Sie daran interessiert sind, Ihr Projekt auf einer tieferen Ebene zu verstehen, lesen Sie weiter, um die Aktivitäten Ihres Projekts zu analysieren.
 
-## Discovery
+## Entdeckt werden
 
-Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
+Bevor Leute Ihr Projekt nutzen oder zu ihm beitragen können, müssen sie wissen, dass es existiert... Fragen Sie sich selbst: _Finden Leute dieses Projekt?_
 
-![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![Besucherzahlen](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Graphs", then "Traffic". On this page, you can see:
+Wenn Ihr Projekt auf GitHub gehostet wird, [können Sie sichansehen](https://help.github.com/articles/about-repository-graphs/#traffic), wie viele Personen Ihr Projekt finden und wie sie es gefunden haben. Im Repo Ihres Projektes, klicken Sie "Insights" und dann "Traffic". Auf der Seite sehen Sie:
 
-* **Total page views:** Tells you how many times your project was viewed
+* **Views** zeigen an, wie oft Ihr Projekt angesehen wurde.
 
-* **Total unique visitors:** Tells you how many people viewed your project
+* **Unique visitors** zeigt, wie viele Personen Ihr Projekt angesehen haben.
 
-* **Referring sites:** Tells you where visitors came from. This metric can help you figure out where to reach your audience and whether your promotion efforts are working.
+* **Referring sites:** Diese Metrik kann Ihnen helfen, herauszufinden, wo Sie Ihr Publikum erreichen und ob Ihre Werbekampagnen funktionieren.
 
-* **Popular content:** Tells you where visitors go on your project, broken down by page views and unique visitors.
+* **Popular content** sagt, wohin Besucher\*innen auf Ihrer Projektseite gehen, aufgeschlüsselt nach Seitenaufrufen und einzelnen Besucher\*innen.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
+[GitHub-Stern](https://help.github.com/articles/about-stars/) Während GitHub-Sterne nicht unbedingt mit Downloads und Nutzung korrelieren, können sie Ihnen sagen, wie viele Menschen Ihre Arbeit schätzen.
 
-You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
+Vielleicht möchten Sie auch [die Auffindbarkeit an bestimmten Orten verfolgen](https://opensource.com/business/16/6/pirate-metrics): z.B. Google PageRank, von Ihrer Projektwebsite ausgehende Epfehlungen, oder eingehende Epfehlungen anderer Open-Source-Projekte oder -Webseiten.
 
 ## Usage
 
