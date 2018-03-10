@@ -104,9 +104,11 @@ Beispiele für Community-Metriken, die Sie regelmäßig verfolgen möchten, sind
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
+
   _Open Source ist mehr als nur Code: Erfolgreiche Open-Source-Projekte beinhalten Code und Dokumentationsbeiträge sowie Gespräche über diese Änderungen._
 
   Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
