@@ -6,7 +6,7 @@ class: metrics
 toc:
   warum-überhaupt-etwas-messen: "Warum überhaupt etwas messen?"
   entdeckt-werden: "Entdeckt werden"
-  usage: "Usage"
+  benutzung: "Benutzung"
   retention: "Retention"
   maintainer-activity: "Maintainer activity"
 order: 9
@@ -57,28 +57,28 @@ Wenn Ihr Projekt auf GitHub gehostet wird, [können Sie sichansehen](https://hel
 
 Vielleicht möchten Sie auch [die Auffindbarkeit an bestimmten Orten verfolgen](https://opensource.com/business/16/6/pirate-metrics): z.B. Google PageRank, von Ihrer Projektwebsite ausgehende Epfehlungen, oder eingehende Epfehlungen anderer Open-Source-Projekte oder -Webseiten.
 
-## Usage
+## Benutzung
 
-People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using this project?_
+Leute finden Ihr Projekt auf dieser wilden und verrückten Sache, die wir das Internet nennen. Wenn sie Ihr Projekt sehen, werden sie sich im Idealfall angespornt fühlen, etwas zu tun. Die zweite Frage, die Sie sich stellen sollten, lautet: _Nutzen Leute dieses Projekt?_
 
-If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project's downloads.
+Wenn Sie einen Paketmanager wie npm oder RubyGems.org verwenden, um Ihr Projekt zu verteilen, können Sie vielleicht die Downloads Ihres Projekts verfolgen.
 
-Each package manager may use a slightly different definition of "download", and downloads do not necessarily correlate to installs or use, but it provides some baseline for comparison. Try using [Libraries.io](https://libraries.io/) to track usage statistics across many popular package managers.
+Paketmanager verwenden leicht unterschiedliche "Download"-Definitionen, und Downloads korrelieren nicht unbedingt mit "Installation" oder "Verwendung", aber sie bieten eine Grundlinie für den Vergleich: Probieren Sie [Libraries.io](https://libraries.io/) aus, um Nutzungsstatistiken über viele populäre Paketmanager hinweg zu verfolgen.
 
-If your project is on GitHub, navigate again to the "Traffic" page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
+Wenn sich Ihr Projekt auf GitHub befindet, navigieren Sie erneut zur Traffic-Seite. Aus [dem clone-Diagramm](https://github.com/blog/1873-clone-graphs) können Sie ablesen, wie oft Ihr Projekt an einem bestimmten Tag heruntergeladen wurde, aufgeschlüsselt nach Gesamtzahl und  Nutzer\*innen.
 
-![Clone graph](/assets/images/metrics/clone_graph.png)
+![clone-Diagramm](/assets/images/metrics/clone_graph.png)
 
-If usage is low compared to the number of people discovering your project, there are two issues to consider. Either:
+Wenn die Nutzung im Vergleich zur Anzahl der Personen, die Ihr Projekt entdecken, gering ist, gibt es zwei Punkte zu beachten:
 
-* Your project isn't successfully converting your audience, or
-* You're attracting the wrong audience
+* Entweder schafft es Ihr Projekt nicht, Besucher\*innen zu Nutzer\*innen zu gewinnen,
+* oder Sie ziehen die falsche Zielgruppe an.
 
-For example, if your project lands on the front page of Hacker News, you'll probably see a spike in discovery (traffic), but a lower conversion rate, because you're reaching everyone on Hacker News. If your Ruby project is featured at a Ruby conference, however, you're more likely to see a high conversion rate from a targeted audience.
+Wenn Ihr Projekt z.B. auf der Titelseite von [Hacker News](https://news.ycombinator.com/) landet, werden Sie wahrscheinlich eine Steigerung der Entdeckungsrate (Traffic) sehen, aber eine niedrigere Konversionsrate, weil Sie alle auf Hacker News erreichen. Wenn Ihr Ruby-Projekt jedoch auf einer Ruby-Konferenz vorgestellt wird, ist es wahrscheinlicher, dass Sie eine hohe Konversionsrate von einem Zielpublikum sehen.
 
-Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you're facing.
+Versuchen Sie, herauszufinden, woher Ihr Publikum kommt, und bitten Sie auf Ihrer Projektseite um Feedback der Besucher\*innen, um herauszufinden, welche dieser beiden Effekte Ihre Projekt betrifft.
 
-Once you know that people are using your project, you might want to try to figure out what they are doing with it. Are they building on it by forking your code and adding features? Are they using it for science or business?
+Sobald Sie wissen, dass Leute Ihr Projekt benutzen, möchten Sie vielleicht versuchen, herauszufinden, was sie damit machen... Bauen sie darauf auf, indem sie Ihren Code forken und Funktionen hinzufügen? Nutzen sie es für wissenschaftliche oder gewerbsmäßige Zwecke.
 
 ## Retention
 
