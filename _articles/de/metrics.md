@@ -8,7 +8,7 @@ toc:
   entdeckt-werden: "Entdeckt werden"
   benutzung: "Benutzung"
   nachhaltigkeit: "Nachhaltigkeit"
-  maintainer-activity: "Maintainer activity"
+  betreuer-aktivitat: "Betreuer-Aktivität"
 order: 9
 image: /assets/images/cards/metrics.png
 related:
@@ -114,22 +114,22 @@ Beispiele für Community-Metriken, die Sie regelmäßig verfolgen möchten, sind
   </p>
 </aside>
 
-## Maintainer activity
+## Betreuer-Aktivität
 
-Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
+Schließlich möchten Sie den Kreis schließen, indem Sie sicherstellen, dass die Betreuer\*innen Ihres Projekts in der Lage sind, das Volumen der erhaltenen Beiträge zu bewältigen. Die letzte Frage, die Sie sich stellen sollten, ist: _Antworte ich (oder antworte wir) auf unsere Community?_
 
-Unresponsive maintainers become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave.
+Unresponsive Betreuer\*innen werden zum Flaschenhals für Open-Source-Projekte. Wenn jemand einen Beitrag einreicht, der aber nie  beantwortet wird, wird sich die Person entmutigt fühlen und sich abwenden.
 
-[Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
+[Untersuchungen von Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) deuten darauf hin, dass eine schnelle und freundliche Reaktion der Betreuer\*innen Mitwirkende zu weiteren Beiträgen ermutigt.
 
-Consider tracking how long it takes for you (or another maintainer) to respond to contributions, whether an issue or a pull request. Responding doesn't require taking action. It can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
+Überlegen Sie, wie lange es dauert, bis Sie (oder ein anderer Betreuer) auf Beiträge reagieren, egal ob es sich um ein Issue oder ein Pull-Request handelt. Die Reaktion muss keine Maßnahme sein; Auch ein einfaches : _"Vielen Dank für diesen Beitrag! Ich werde ihn innerhalb einer Woche überprüfen."_
 
-You could also measure the time it takes to move between stages in the contribution process, such as:
+Sie können auch die Zeit messen, die benötigt wird, um zwischen den einzelnen Phasen des Beitragsprozesses zu wechseln, wie z.B:
 
-* Average time an issue remains open
-* Whether issues get closed by PRs
-* Whether stale issues get closed
-* Average time to merge a pull request
+* Durchschnittliche Dauer, die ein Issue offen bleibt
+* Ob Issues durch PRs geschlossen werden
+* Ob veraltete Issues geschlossen werden
+* Durchschnittliche Zeit für den Merge eines Pull-Requests
 
 ## Use 📊 to learn about people
 
