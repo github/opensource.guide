@@ -7,7 +7,7 @@ toc:
   warum-überhaupt-etwas-messen: "Warum überhaupt etwas messen?"
   entdeckt-werden: "Entdeckt werden"
   benutzung: "Benutzung"
-  retention: "Retention"
+  nachhaltigkeit: "Nachhaltigkeit"
   maintainer-activity: "Maintainer activity"
 order: 9
 image: /assets/images/cards/metrics.png
@@ -80,30 +80,32 @@ Versuchen Sie, herauszufinden, woher Ihr Publikum kommt, und bitten Sie auf Ihre
 
 Sobald Sie wissen, dass Leute Ihr Projekt benutzen, möchten Sie vielleicht versuchen, herauszufinden, was sie damit machen... Bauen sie darauf auf, indem sie Ihren Code forken und Funktionen hinzufügen? Nutzen sie es für wissenschaftliche oder gewerbsmäßige Zwecke.
 
-## Retention
+## Nachhaltigkeit
 
-People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to this project?_
+Leute finden Ihr Project und benutzen es. Sie sollten sich nun die Frage stellen: _Wird auch wieder an das Projekt zurückgegeben?_
 
-It's never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is _popular_ (many people use it) but not _supported_ (not enough maintainer time to meet demand).
+Es ist nie zu früh, um über Mitwirkende nachzudenken: Ohne andere Leute, die mitmachen, riskieren Sie, dass Sie sich in eine ungesunde Situation begeben, in der Ihr Projekt _populär_ ist (viele Leute benutzen es), aber nicht _unterstützt_ (nicht genug Zeit, um die Nachfrage zu befriedigen).
 
-Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
+Nachhaltigkeit setzt auch [die Gewinnung neuer Mitwirkender](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2) voraus, da zuvor Aktive mit der Zeit auch sich anderen Themen zuwenden werden.
 
-Examples of community metrics that you may want to regularly track include:
+Beispiele für Community-Metriken, die Sie regelmäßig verfolgen möchten, sind unter anderem:
 
-* **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Graphs" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
+* **Gesamtzahl der Mitwirkenden und Anzahl der Commits pro Mitwirkenden:** Sagt Ihnen, wie viele Leute an Ihrem Projekt mitwirken, und wer mehr oder weniger aktiv ist. Auf GitHub können Sie dies unter "Insights" -> "Contributors" einsehen. Da dieses Diagramm momentan nur die Mitwirkenden zählt, die zum Default-Branch des Repositories beigetragen haben.
 
-![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Mitwirkendendiagramm](/assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
+* **Erstmalige, gelegentliche und regelmäßige Mitwirkende:** Hilft Ihnen nachzuvollziehen, ob Sie neue Mitwirkende hinzugewinnen können, und ob sie auch wiederholt mithelfen. (Gelegentlich Mitwirkende sind solche mit geringer Commit-Anzahl. Ob es sich dabei um einen, weniger als fünf Commits oder um andere Zahlen handelt, sei Ihnen überlassen). Ohne neue Helfer\*innen kann die Community Ihres Projekts stagnieren.
 
-* **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
+* **Anzahl der offenen Issues und Pull-Requests:** Wenn diese Zahlen zu hoch werden, benötigen Sie vielleicht Hilfe beim Sichten der Issues und bei Code-Reviews.
 
-* **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
+* **Anzahl der _eröffneten_ Issues und Pull-Requests:** Issues aufzumachen bedeutet, dass sich jemand genug für Ihr Projekt interessiert, um ein Problem zu lösen. Wenn sich diese Zahl im Laufe der Zeit erhöht, dann zeigt dies wachsendes Interesse an Ihrem Projekt.
 
-* **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
+* **Arten der Mithilfe:** Zum Beispiel Commits, das Beheben von Tippfehlern oder Bugs oder das Kommentieren eines Problems.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
+  _Open Source ist mehr als nur Code: Erfolgreiche Open-Source-Projekte beinhalten Code und Dokumentationsbeiträge sowie Gespräche über diese Änderungen._
+
   Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
