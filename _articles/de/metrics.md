@@ -1,10 +1,10 @@
 ---
 lang: de
-title: Open Source Metrics
-description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
+title: Open-Source-Metriken
+description: Treffen Sie fundierte Entscheidungen und helfen Sie Ihrem Open-Source-Projekt, indem Sie seinen Erfolg messen und verfolgen.
 class: metrics
 toc:
-  why-measure-anything: "Why measure anything?"
+  warum-überhaupt-etwas-messen: "Warum überhaupt etwas messen?"
   discovery: "Discovery"
   usage: "Usage"
   retention: "Retention"
@@ -16,26 +16,26 @@ related:
   - best-practices
 ---
 
-## Why measure anything?
+## Warum überhaupt etwas messen?
 
-Data, when used wisely, can help you make better decisions as an open source maintainer.
+Daten können Open-Source-Betreuern helfen, bessere Entscheidungen zu treffen, wenn sie mit Bedacht verwendet werden.
 
-With more information, you can:
+Mit mehr Informationen können Sie:
 
-* Understand how users respond to a new feature
-* Figure out where new users come from
-* Identify, and decide whether to support, an outlier use case or functionality
-* Quantify your project's popularity
-* Understand how your project is used
-* Raise money through sponsorships and grants
+* Verstehen, wie Benutzer auf eine neue Funktion reagieren
+* Herausfinden, woher neue Nutzer kommen
+* Identifizieren und entscheiden, ob ein Anwendungsfall oder eine Funktionalität für Radnfälle unterstützt wird
+* Die Beliebtheit Ihres Projekts quantifizieren
+* Verstehen, wie Ihr Projekt verwendet wird
+* Geld durch Sponsoring und Zuschüsse erhalten
 
-For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
+[Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) z.B. fand heraus, dass Google Analytics ihnen half, Arbeit zu priorisieren:
 
-> Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
+> Homebrew wird kostenlos zur Verfügung gestellt und ausschließlich von Freiwilligen in ihrer Freizeit betrieben. Daher verfügen wir nicht über die Ressourcen, um detaillierte Benutzerstudien von Homebrew-Benutzern durchzuführen, um zu entscheiden, wie zukünftige Features am besten gestaltet und die aktuelle Arbeit priorisiert werden können. Mit anonymen aggregierten Benutzeranalysen können wir Korrekturen und neue Funktionen basierend darauf priorisieren, wie, wo und wann Menschen Homebrew verwenden.
 
-Popularity isn't everything. Everybody gets into open source for different reasons. If your goal as an open source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
+Popularität ist nicht alles. Jeder kommt aus verschiedenen Gründen auf Open Source. Wenn Ihr Ziel als Open Source-Betreuer darin besteht, Ihre Arbeit zu präsentieren, Ihren Code transparent zu machen oder einfach nur um Spaß zu haben, sind Metriken für Sie möglicherweise nicht wichtig.
 
-If you _are_ interested in understanding your project on a deeper level, read on for ways to analyze your project's activity.
+Wenn Sie daran interessiert sind, Ihr Projekt auf einer tieferen Ebene zu verstehen, lesen Sie weiter, um die Aktivitäten Ihres Projekts zu analysieren.
 
 ## Discovery
 
