@@ -8,7 +8,7 @@ toc:
   entdeckt-werden: "Entdeckt werden"
   benutzung: "Benutzung"
   nachhaltigkeit: "Nachhaltigkeit"
-  betreuer-aktivitat: "Betreuer-Aktivität"
+  betreuer-aktivität: "Betreuer-Aktivität"
 order: 9
 image: /assets/images/cards/metrics.png
 related:
