@@ -1,10 +1,10 @@
 ---
 lang: de
-title: Finding Users for Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+title: Finden Sie Nutzer*innen für Ihr Projekt
+description: Ziehen Sie Ihr Open-Source-Projekt auf, indem Sie es in die Hände zufriedener Anwender\*innen legen.
 class: finding
 toc:
-  spreading-the-word: "Spreading the word"
+  tue-gutes-und-rede-darüber: "Tue Gutes und rede darüber!"
   figure-out-your-message: "Figure out your message"
   help-people-find-and-follow-your-project: "Help people find and follow your project"
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
@@ -17,9 +17,9 @@ related:
   - building
 ---
 
-## Spreading the word
+## Tue Gutes und rede darüber!
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. Instead of hoping others will find and use your open source project, you have to spread the word about your hard work!
+Es gibt keine Regel, die besagt, dass man den Start eines Open-Source-Projektes verkünden _muss_. Viele erfüllende Beweggründe für Open-Source-Arbeit haben nichts mit Popularität zu tun. Aber anstatt _zu hoffen_, dass Ihr Open-Source-Projekt gefunden und genutzt wird, sollten Sie über Ihre harte Arbeit reden.
 
 ## Figure out your message
 
