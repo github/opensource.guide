@@ -5,7 +5,7 @@ description: Ziehen Sie Ihr Open-Source-Projekt auf, indem Sie es in die Hände 
 class: finding
 toc:
   tue-gutes-und-rede-darüber: "Tue Gutes und rede darüber!"
-  figure-out-your-message: "Figure out your message"
+  klären-sie-ihre-botschaft: "Klären Sie Ihre Botschaft"
   help-people-find-and-follow-your-project: "Help people find and follow your project"
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
   go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
@@ -21,19 +21,19 @@ related:
 
 Es gibt keine Regel, die besagt, dass man den Start eines Open-Source-Projektes verkünden _muss_. Viele erfüllende Beweggründe für Open-Source-Arbeit haben nichts mit Popularität zu tun. Aber anstatt _zu hoffen_, dass Ihr Open-Source-Projekt gefunden und genutzt wird, sollten Sie über Ihre harte Arbeit reden.
 
-## Figure out your message
+## Klären Sie Ihre Botschaft
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+Bevor Sie mit der eigentlichen Projektarbeit beginnen, sollten Sie (er)klären, was es tut und warum es wichtig ist.
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will help you communicate your project's significance.
+Was macht Ihr Projekt anders oder interessant und warum haben Sie es begonnen? Die Beantwortung dieser Fragen hilft Ihnen dabei, die Bedeutung Ihres Projekts zu kommunizieren.
 
-Remember that people get involved as users, and eventually become contributors, because your project solves a problem for them. As you think about your project's message and value, try to view them through the lens of what _users and contributors_ might want.
+Denken Sie daran, dass Menschen sich als Nutzer\*innen engagieren und letztendlich zu Mitwirkenden werden, weil Ihr Projekt einen Problem für sie löst. Wenn Sie über die Botschaft und den Wert Ihres Projekts nachdenken, versuchen Sie durch die Brille der _Benutzer\*innen und Mitwirkenden_ zu blicken. Was könnten die sich wünschen?
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+Code-Beispiele wie @robb sie verwendet, können klar kommunizieren, warum sein Projekt, "[Cartography](https://github.com/robb/Cartography), nützlich ist:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+Tiefere Einblicke in das Thema "Botschaften", finden Sie in Mozillas ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/)-Übung zur Entwicklung von Personas.
 
 ## Help people find and follow your project
 
