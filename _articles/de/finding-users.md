@@ -6,7 +6,7 @@ class: finding
 toc:
   tue-gutes-und-rede-darüber: "Tue Gutes und rede darüber!"
   klären-sie-ihre-botschaft: "Klären Sie Ihre Botschaft"
-  help-people-find-and-follow-your-project: "Help people find and follow your project"
+  helfen-sie-menschen-dabei-ihr-projekt-zu-finden-und-zu-beobachten: "Helfen Sie Menschen dabei, Ihr Projekt zu finden und zu beobachten."
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
   go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
   build-a-reputation: "Build a reputation"
@@ -35,38 +35,42 @@ Code-Beispiele wie @robb sie verwendet, können klar kommunizieren, warum sein P
 
 Tiefere Einblicke in das Thema "Botschaften", finden Sie in Mozillas ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/)-Übung zur Entwicklung von Personas.
 
-## Help people find and follow your project
+## Helfen Sie Menschen dabei, Ihr Projekt zu finden und zu beobachten
 
 <aside markdown="1" class="pquote">
+    Am besten nutzen Sie eine einzige Internetadresse, auf die Sie im Zusammenhang mit Ihrem Projekt aufmerksam machen können und auf die Sie Interessenten verweisen können. Sie müssen kein Geld für ausgefallene Vorlagen oder gar einen Domainnamen ausgeben, aber Ihr Projekt braucht eine zentrale Anlaufstelle.
+
   You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+Helfen Sie Leuten dabei, Ihr Projekt zu finden und es sich zu merken, indem Sie sie auf einen einzigen Namensraum verweisen.
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. These outlets also give your project's growing community a place to convene.
+**Preisen Sie Ihre Arbeit an unter _einem_ Nutzernamen an.** Twitter-Name, GitHub-URL oder IRC-Kanal sind einfache Möglichkeiten, Leute auf Ihr Projekt aufmerksam zu machen. Diese Verkaufsstellen bieten auch der wachsenden Gemeinschaft Ihres Projekts einen Ort, an dem sie sich treffen können.
 
-If you don't wish to set up outlets for your project yet, promote your own Twitter or GitHub handle in everything you do. Promoting your Twitter or GitHub handle will let people know how to contact you or follow your work. If you speak at a meetup or event, make sure that your contact information is included in your bio or slides. 
+Wenn Sie noch keine Verkaufsstellen für Ihr Projekt einrichten möchten, bewerben Sie immer Ihren eigenen Twitter- oder GitHub-Namen. Werben Sie für Ihren Twitter- oder GitHub-Namen, damit die Leute wissen, wie Sie zu erreichen sind oder wo Ihre Arbeit beobachtet werden kann. Wenn Sie bei einem Meeting oder einer Veranstaltung sprechen, stellen Sie sicher, dass Sie Ihre Kontaktinformationen erwähnen oder auf Ihre Folien stellen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
+  Ein Fehler der frühen Tage (...) war, dass ich kein Twitter-Konto für das Projekt einrichtete... Twitter ist eine großartige Möglichkeit, die Leute auf dem Laufenden zu halten und sie ständig mit dem Projekt in Kontakt zu bringen.
+
   A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially when it's paired with clear documentation and tutorials. Having a website also suggests that your project is active which will make your audience feel more comfortable using it. Provide examples to give people ideas for how to use your project.
+**Ziehen Sie eine Website für Ihr Projekt in Betracht.** Eine Website macht Ihr Projekt freundlicher und einfacher zu navigieren. Vor allem, wenn die Seite klare Dokumentation und Tutorials enthält. Außerdem zeigt eine Website auch, dass Ihr Projekt aktiv ist, was wiederum Ihrem Publikum Vetrauen in den Nutzen Ihres Projektes gibt.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), Mitbegründer von Django, sagte, dass eine Website _"mit Abstand das Beste, das wir in der Frühphase von Djang gemacht haben"_.
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+Wenn Ihr Projekt auf GitHub gehostet ist, können Sie mithilfe des [Pages-Funktion](https://pages.github.com/) einfach eine Webseite erstellen. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), und [Middleman](https://middlemanapp.com/) sind [einige Beispiele](https://github.com/showcases/github-pages-examples) für exzellente, reichhaltige Seiten.
 
-![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
+![Vagrant-Haupseite](/assets/images/finding-users/vagrant_homepage.png)
 
-Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
+Nun, da Sie die Botschaft Ihres Projekt klargestellt haben, und seine einfache Auffindbarkeit gewährleistet haben, lassen Sie uns rausgehen und mit Ihrem Publikum sprechen!
 
 ## Go where your project's audience is (online)
 
