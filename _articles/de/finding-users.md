@@ -7,7 +7,7 @@ toc:
   tue-gutes-und-rede-darüber: "Tue Gutes und rede darüber!"
   klären-sie-ihre-botschaft: "Klären Sie Ihre Botschaft"
   helfen-sie-menschen-dabei-ihr-projekt-zu-finden-und-zu-beobachten: "Helfen Sie Menschen dabei, Ihr Projekt zu finden und zu beobachten."
-  go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
+  gehen-sie-auf-die-zielgruppe-ihres-projekts-zu-online: "Gehen Sie auf die Zielgruppe Ihres Projekts zu (online)"
   go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
   build-a-reputation: "Build a reputation"
 order: 3
@@ -72,15 +72,15 @@ Wenn Ihr Projekt auf GitHub gehostet ist, können Sie mithilfe des [Pages-Funkti
 
 Nun, da Sie die Botschaft Ihres Projekt klargestellt haben, und seine einfache Auffindbarkeit gewährleistet haben, lassen Sie uns rausgehen und mit Ihrem Publikum sprechen!
 
-## Gehen Sie dorthin, wo die Zielgruppe Ihres Projekts ist (online)
+## Gehen Sie auf die Zielgruppe Ihres Projekts zu (online)
 
-Online Outreach ist ein großartiger Weg, um das Wort schnell zu verbreiten und zu verbreiten: Mit Hilfe von Online-Kanälen haben Sie das Potenzial, ein sehr breites Publikum zu erreichen.
+Internetkommunikation ist ein großartiger Weg, um die Botschaft Ihres Projektes schnell zu verbreiten und verteilen zu lassen: Mit Hilfe von Online-Kanälen haben Sie das Potenzial, ein sehr breites Publikum zu erreichen.
 
-Nutzen Sie die Vorteile bestehender Online-Communities und -Plattformen, um Ihr Publikum zu erreichen. Wenn es sich bei Ihrem Open Source Projekt um ein Softwareprojekt handelt, können Sie Ihr Publikum wahrscheinlich auf [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), oder [Quora](https://www.quora.com/). Finden Sie die Kanäle, von denen Sie denken, dass die Menschen am meisten profitieren werden, oder lassen Sie sich von Ihrer Arbeit begeistern.
+Nutzen Sie die Vorteile bestehender Online-Communities und -Plattformen, um Ihr Publikum zu erreichen. Wenn es sich bei Ihrem Open Source Projekt um ein Softwareprojekt handelt, erreichen Sie Ihr Publikum wahrscheinlich auf [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), oder [Quora](https://www.quora.com/). Finden Sie die Kanäle, von denen Sie denken, dass die Menschen am meisten von Ihrer Arbeit profitieren werden, oder sich begeistern lassen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  Jedes Programm verfügt über sehr spezifische Funktionen, die nur ein Bruchteil der Benutzer für nützlich hält: Spammen Sie nicht so viele Leute wie möglich, sondern richten Sie Ihre Bemühungen auf Gemeinschaften, die von der Kenntnis Ihres Projekts profitieren.
+  Jedes Programm verfügt über sehr spezifische Funktionen, die nur ein Bruchteil der Benutzer für nützlich hält: Spammen Sie nicht so viele Leute wie möglich zu, sondern richten Sie Ihre Bemühungen auf Gemeinschaften, die vom Kennenlernen Ihres Projekts profitieren.
 
   Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
   <p markdown="1" class="pquote-credit">
@@ -88,15 +88,15 @@ Nutzen Sie die Vorteile bestehender Online-Communities und -Plattformen, um Ihr 
   </p>
 </aside>
 
-Schauen Sie, ob Sie Wege finden können, Ihr Projekt auf relevante Art und Weise mit anderen zu teilen:
+Finden Sie Wege, um Ihr Projekt auf relevante Art und Weise mit anderen zu teilen:
 
-* **Lernen Sie relevante Open Source Projekte und Communities kennen.** Manchmal müssen Sie nicht direkt für Ihr Projekt werben. Wenn Ihr Projekt perfekt für Datenwissenschaftler geeignet ist, die Python nutzen, lernen Sie die Python Data Science Community kennen, und wenn die Leute Sie kennenlernen, ergeben sich natürliche Gelegenheiten, über Ihre Arbeit zu sprechen und sie mit anderen zu teilen.
-* **Finden Sie Personen, die mit dem Problem konfrontiert sind, das Ihr Projekt löst.** Suchen Sie in verwandten Foren nach Personen, die in die Zielgruppe Ihres Projekts fallen, beantworten Sie deren Frage und finden Sie einen taktvollen Weg, um Ihr Projekt als Lösung vorzuschlagen.
-* **Bitten Sie um Feedback.** Stellen Sie sich und Ihre Arbeit einem Publikum vor, das sie für relevant und interessant hält, und geben Sie an, wer Ihrer Meinung nach von Ihrem Projekt profitieren könnte. Versuchen Sie, den Satz zu beenden: _"Ich denke, dass mein Projekt X wirklich helfen würde, die versuchen, Y zu tun."_. Hören Sie zu und reagieren Sie auf das Feedback anderer, anstatt einfach nur Ihre Arbeit zu fördern.
+* **Lernen Sie relevante Open Source Projekte und Communities kennen.** Manchmal müssen Sie nicht direkt für Ihr Projekt werben. Wenn Ihr Projekt perfekt für Datenwissenschaftler geeignet ist, die Python nutzen, lernen Sie die Python Data Science Community kennen. Wenn die Leute Sie kennenlernen, ergeben sich natürliche Gelegenheiten, über Ihre Arbeit zu sprechen und sie mit anderen zu teilen.
+* **Finden Sie Personen, die mit dem Problem konfrontiert sind, das Ihr Projekt löst.** Suchen Sie in verwandten Foren nach Personen, die in die Zielgruppe Ihres Projekts fallen, beantworten Sie deren Fragen und finden Sie einen taktvollen Weg, um Ihr Projekt als Lösung vorzuschlagen.
+* **Bitten Sie um Feedback.** Stellen Sie sich und Ihre Arbeit einem Publikum vor, das sie für relevant und interessant hält, und geben Sie an, wer Ihrer Meinung nach von Ihrem Projekt profitieren könnte. Versuchen Sie, diesen Satz zu vervollständigen: _"Ich denke, dass mein Projekt wirklich den X helfen würde, die versuchen, Y zu tun."_. Hören Sie zu und reagieren Sie auf das Feedback anderer, anstatt einfach nur Ihre Arbeit anzupreisen.
 
-Generell gilt: Konzentrieren Sie sich darauf, anderen zu helfen, bevor Sie um Gegenleistungen bitten. Da jeder leicht ein Projekt online bewerben kann, wird es eine Menge Lärm geben: Um sich von der Masse abzuheben, geben Sie den Leuten einen Kontext für das, was Sie sind, und nicht nur für das, was Sie wollen.
+Generell gilt: Konzentrieren Sie sich darauf, anderen zu helfen, bevor Sie um Gegenleistungen bitten. Da jeder leicht ein Projekt online bewerben kann, wird es eine Menge Rauschen geben: Um sich von der Masse abzuheben, geben Sie den Leuten einen Kontext für die Person, die Sie sind, und nicht nur für das, was Sie wollen.
 
-Wenn niemand auf Ihre anfängliche Reichweite achtet oder darauf reagiert, lassen Sie sich nicht entmutigen! Die meisten Projekteinführungen sind ein iterativer Prozess, der Monate oder Jahre dauern kann. Wenn Sie beim ersten Mal keine Antwort erhalten, versuchen Sie es mit einer anderen Taktik oder suchen Sie nach Wegen, wie Sie die Arbeit anderer zuerst aufwerten können. Die Förderung und Einführung Ihres Projekts erfordert Zeit und Engagement.
+Wenn niemand auf Ihre anfängliche Kommunikation achtet oder darauf reagiert, lassen Sie sich nicht entmutigen! Die meisten Projektstarts sind ein iterativer Prozess, der Monate oder Jahre dauern kann. Wenn Sie beim ersten Mal keine Antwort erhalten, versuchen Sie es mit einer anderen Taktik oder suchen Sie nach Wegen, wie Sie die Arbeit anderer zuerst aufwerten können. Ein Projekt zu starten und zu bewerben, erfordert Zeit und Engagement.
 
 ## Go where your project's audience is (offline)
 
