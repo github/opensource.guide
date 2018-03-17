@@ -9,7 +9,7 @@ toc:
   helfen-sie-menschen-dabei-ihr-projekt-zu-finden-und-zu-beobachten: "Helfen Sie Menschen dabei, Ihr Projekt zu finden und zu beobachten."
   gehen-sie-auf-die-zielgruppe-ihres-projekts-zu-online: "Gehen Sie auf die Zielgruppe Ihres Projekts zu (online)"
   gehen-sie-auf-die-zielgruppe-ihres-projekts-zu-offline: "Gehen Sie auf die Zielgruppe Ihres Projekts zu (offline)"
-  build-a-reputation: "Build a reputation"
+  reputation-aufbauen: "Reputation aufbauen"
 order: 3
 image: /assets/images/cards/finding.png
 related:
@@ -144,26 +144,30 @@ Suchen Sie nach Konferenzen, die speziell auf Ihre Sprache oder Ihre Programmier
   </p>
 </aside>
 
-## Build a reputation
+## Reputation aufbauen
 
-In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
+Zusätzlich zu den oben skizzierten Strategien ist der beste Weg, Menschen für Beiträge in Ihrem Projekt zu gewinnen, deren Projekte zu teilen und zu unterstützen.
 
-Helping newcomers, sharing resources, and making thoughtful contributions to others' projects will help you build a positive reputation. Being an active member in the open source community will help people have context for your work and be more likely to pay attention to and share your project. Developing relationships with other open source projects can even lead to official partnerships.
+Wenn Sie Neuankömmlingen helfen, Ressourcen gemeinsam nutzen und durchdachte Beiträge zu anderen Projekten leisten, können Sie einen guten Ruf aufbauen. Ein aktives Mitglied in der Open-Source-Gemeinschaft zu sein, hilft Leuten dabei, den Kontext für Ihre Arbeit zu verstehen, und es ist wahrscheinlicher, dass Sie Ihr Projekt aufmerksam verfolgen und teilen. Die Entwicklungbeziehungen zu anderen Open-Source-Projekten können sogar zu offiziellen Kooperationen führen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
+  Urllib3 ist nur darum die populärste Python-Bibliothek eines Drittanbieters, weil ihr Einbau mittels so vieler Pull-Requests vorgschlagen wird.
+
   The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue to look for ways to help others.
+Es ist nie zu früh oder zu spät, um mit dem Aufbau eines guten Rufs zu beginnen. Auch wenn Sie bereits ein eigenes Projekt gestartet haben, suchen Sie weiterhin nach Möglichkeiten, Anderen zu helfen.
 
-There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and building your reputation never ends.
+Ein Publikum aufzubauen, schafft man nicht über Nacht. Das Vertrauens und den Respekt Anderer zu gewinnen, nimmt Zeit in Anspruch, und der Aufbau Ihres Rufes endet nie.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
+  PhantomJS wurde Anfang 2011 zum ersten Mal veröffentlicht. (...) Ich verkündete dies auf die übliche Art und Weise: Ich twitterte darüber, ich schrieb Blog-Posts über Dinge, die man damit machen könnte, ich erwähnte es in verschiedenen Diskussionen in Meetups. Als es 2014 bekannter wurde, fing ich an, Vorträge darüber zu halten.
+
   PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
