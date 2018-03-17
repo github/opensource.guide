@@ -8,7 +8,7 @@ toc:
   klären-sie-ihre-botschaft: "Klären Sie Ihre Botschaft"
   helfen-sie-menschen-dabei-ihr-projekt-zu-finden-und-zu-beobachten: "Helfen Sie Menschen dabei, Ihr Projekt zu finden und zu beobachten."
   gehen-sie-auf-die-zielgruppe-ihres-projekts-zu-online: "Gehen Sie auf die Zielgruppe Ihres Projekts zu (online)"
-  go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
+  gehen-sie-auf-die-zielgruppe-ihres-projekts-zu-offline: "Gehen Sie auf die Zielgruppe Ihres Projekts zu (offline)"
   build-a-reputation: "Build a reputation"
 order: 3
 image: /assets/images/cards/finding.png
@@ -98,40 +98,46 @@ Generell gilt: Konzentrieren Sie sich darauf, anderen zu helfen, bevor Sie um Ge
 
 Wenn niemand auf Ihre anfängliche Kommunikation achtet oder darauf reagiert, lassen Sie sich nicht entmutigen! Die meisten Projektstarts sind ein iterativer Prozess, der Monate oder Jahre dauern kann. Wenn Sie beim ersten Mal keine Antwort erhalten, versuchen Sie es mit einer anderen Taktik oder suchen Sie nach Wegen, wie Sie die Arbeit anderer zuerst aufwerten können. Ein Projekt zu starten und zu bewerben, erfordert Zeit und Engagement.
 
-## Go where your project's audience is (offline)
+## Gehen Sie auf die Zielgruppe Ihres Projekts zu (offline)
 
-![Public speaking](/assets/images/finding-users/public_speaking.jpg)
+![Öffentliches Reden](/assets/images/finding-users/public_speaking.jpg)
 
-Offline events are a popular way to promote new projects to audiences. They're a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
+Offline-Veranstaltungen helfen Ihnen dabei, neue Projekte beim Publikum bekannt zu machen und engagierte Leute zu erreichen. Insb. können Sie  mit Entwickler\*innen direkt in Kontakt zu treten und Interesse an Ihrem Projekt wecken.
 
-If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
+Wenn Sie gerade erst anfangen, [Vorträge zu halten](http://speaking.io/), tun Sie das am beste auf einem lokalen Treffen ("Meet-up"), auf dem es um die Sprache oder die Programmierumgebung geht, in der Ihr Projekt angesiedelt ist.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
+  Ich war ziemlich nervös, als ich zur PyCon ging. Ich hielt einen Vortrag; Ich wollte nur ein paar Leute dort kennenlernen; Ich wollte eine ganze Woche lang hingehen. (...) Ich hätte mir aber keine Sorgen machen müssen. (...) PyCon war phänomenal grandios! Alle waren unglaublich freundlich und kontaktfreudig, so sehr, dass ich selten Zeit fand, nicht mit Leuten zu reden!
+
   I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
-If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
+Wenn Sie noch nie auf einer Veranstaltung gesprochen haben, ist es völlig normal, sich nervös zu fühlen: Denken Sie daran, dass Ihr Publikum da ist, weil es wirklich von Ihrer Arbeit hören möchte.
 
-As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+Während Sie Ihren Vortrag ausarbeiten, konzentrieren Sie sich auf das für Ihr Publikum Interessante, das ihm einen Mehrwert bietet. Gestalten Sie Ihren Vortrag in einem freundlichen, zugänglichen Tonfall. Lächeln, atmen und Spaß haben.
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
+  Wenn Du anfängst, Deinen Vortrag zu schreiben (Gleich über welches Thema!) kann es helfen, ihn als eine Geschichte anzusehen, die Du den Leuten erzählst.
+
   When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
-When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
+Wenn Sie sich gut vorbereitet fühlen, sollten Sie sich überlegen, mit einem Konferenzvortrag für Ihr Projekt zu werben. Das kann Ihnen helfen, mehr Menschen zu erreichen; Manchmal aus der ganzen Welt.
 
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference to tailor your talk for attendees and increase your chances of being accepted to speak at the conference. You can often get a sense of your audience by looking at a conference's speakers.
+Suchen Sie nach Konferenzen, die speziell auf Ihre Sprache oder Ihre Programmierumgebung zugeschnitten sind. Bevor Sie Ihren Vortrag einreichen, recherchieren Sie die Konferenz, um Ihren Vortrag auf die Teilnehmer zuzuschneiden und Ihre Chancen zu erhöhen, auf der Konferenz als Redner\*in akzeptiert zu werden. Sie können oft ein Gefühl für Ihr Publikum bekommen, wenn Sie frühere Redner\*innen der Konferenz recherchieren.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
+  Ich schrieb sehr nett an die JSConf-Leute und flehte sie an, mir einen Platz zu geben, sodass ich auf der JSConf EU präsentieren könnte. (...) Ich hatte große Angst, dieses Ding, an dem ich sechs Monate lang gearbeitet hatte, vorzustellen. (...) Die ganze Zeit dachte ich nur, oh mein Gott, was mache ich hier?
+
   I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
