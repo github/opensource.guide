@@ -174,6 +174,6 @@ Ein Publikum aufzubauen, schafft man nicht über Nacht. Das Vertrauens und den R
   </p>
 </aside>
 
-## Keep at it!
+## Weitermachen!
 
-It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will spontaneously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
+Es kann lange dauern, bis Leute Ihr Open-Source-Projekt bemerken. Das ist in Ordnung! Einige der populärsten Projekte erreichten ein hohes Aktivitätsniveau erst nach Jahren. Konzentrieren Sie sich darauf, Kontakte aufzubauen, anstatt zu hoffen, dass Ihr Projekt spontan an Popularität gewinnt. Seien Sie geduldig und teilen Sie Ihre Arbeit mit denen, die sie zu schätzen wissen.
