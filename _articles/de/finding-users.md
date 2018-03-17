@@ -1,7 +1,7 @@
 ---
 lang: de
 title: Finden Sie Nutzer*innen für Ihr Projekt
-description: Ziehen Sie Ihr Open-Source-Projekt auf, indem Sie es in die Hände zufriedener Anwender\*innen legen.
+description: Ziehen Sie Ihr Open-Source-Projekt auf, indem Sie es in die Hände zufriedener Anwender*innen legen.
 class: finding
 toc:
   tue-gutes-und-rede-darüber: "Tue Gutes und rede darüber!"
@@ -29,7 +29,7 @@ Was macht Ihr Projekt anders oder interessant und warum haben Sie es begonnen? D
 
 Denken Sie daran, dass Menschen sich als Nutzer\*innen engagieren und letztendlich zu Mitwirkenden werden, weil Ihr Projekt einen Problem für sie löst. Wenn Sie über die Botschaft und den Wert Ihres Projekts nachdenken, versuchen Sie durch die Brille der _Benutzer\*innen und Mitwirkenden_ zu blicken. Was könnten die sich wünschen?
 
-Code-Beispiele wie @robb sie verwendet, können klar kommunizieren, warum sein Projekt, "[Cartography](https://github.com/robb/Cartography), nützlich ist:
+Code-Beispiele wie @robb sie verwendet, können klar kommunizieren, warum sein Projekt "[Cartography](https://github.com/robb/Cartography)" nützlich ist:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
@@ -104,7 +104,7 @@ Wenn niemand auf Ihre anfängliche Kommunikation achtet oder darauf reagiert, la
 
 Offline-Veranstaltungen helfen Ihnen dabei, neue Projekte beim Publikum bekannt zu machen und engagierte Leute zu erreichen. Insb. können Sie  mit Entwickler\*innen direkt in Kontakt zu treten und Interesse an Ihrem Projekt wecken.
 
-Wenn Sie gerade erst anfangen, [Vorträge zu halten](http://speaking.io/), tun Sie das am beste auf einem lokalen Treffen ("Meet-up"), auf dem es um die Sprache oder die Programmierumgebung geht, in der Ihr Projekt angesiedelt ist.
+Wenn Sie gerade erst anfangen, [Vorträge zu halten](http://speaking.io/), tun Sie das am beste auf einem lokalen Treffen ("Meetup"), auf dem es um die Sprache oder die Programmierumgebung geht, in der Ihr Projekt angesiedelt ist.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
