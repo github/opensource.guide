@@ -21,7 +21,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  在 \[自由代码\] 下工作，让我学习到了职业生涯中非常重要的技能，无论是大学还是实际的工作，我认为从开源项目中得到的收获的远大於我的贡献！
+  在 \[freenode\] 下工作，让我学习到了职业生涯中非常重要的技能，无论是大学还是实际的工作，我认为从开源项目中得到的收获的远大於我的贡献！
   <p markdown="1" class="pquote-credit">
 — @errietta, ["我为何是如此的热衷于为开源软件贡献力量"](https://www.errietta.me/blog/open-source/)
   </p>
