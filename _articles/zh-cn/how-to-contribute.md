@@ -67,7 +67,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  我被大家所熟知是因为为 CocoaPods 做了一些事, 其实大伙并不知道我实际并没有为 CocoaPods本身做了什么，我大多数的工作是诸如撰写文档、品牌宣传之类的。
+  我被大家所熟知是因为为 CocoaPods 做了一些事, 其实大伙并不知道我实际并没有为 CocoaPods 本身做了什么，我大多数的工作是诸如撰写文档、品牌宣传之类的。
   <p markdown="1" class="pquote-credit">
 — @orta, ["默认迁移到开源软件"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
@@ -77,7 +77,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  我第一次接触Python开发团队（简称 python-dev)是在 2002年6月17日，当时我是向其邮件列表发送了一份邮件，是关于请求通过我的补丁的。我很快就又发现了开源的bug，于是决定开始为小组收集邮件摘要，然后他们给了我一个澄清问题的理由，但是更加重要的是，我能够捕获到某人指出需要修复的问题。
+  我第一次接触 Python 开发团队（简称 python-dev)是在 2002 年 6 月 17 日，当时我是向其邮件列表发送了一份邮件，是关于请求通过我的补丁的。我很快就又发现了开源的 bug，于是决定开始为小组收集邮件摘要，然后他们给了我一个澄清问题的理由，但是更加重要的是，我能够捕获到某人指出需要修复的问题。
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["维护者的故事"](https://github.com/open-source/stories/brettcannon)
   </p>
@@ -153,7 +153,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-  如果你跟着了一条issue，还发现了令人感到困惑的事情，这很正常，不是你一个人这样。这些工具需要大量的隐式的知识，但是总会有人带着你熟悉这些，当然你要找他们问对的问题。
+  如果你跟着了一条 issue，还发现了令人感到困惑的事情，这很正常，不是你一个人这样。这些工具需要大量的隐式的知识，但是总会有人带着你熟悉这些，当然你要找他们问对的问题。
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["如何为开源做贡献"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
@@ -277,14 +277,14 @@ related:
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    项目的维护者对于处于开放状态的issue响应是否迅速？
+    项目的维护者对于处于开放状态的 issue 响应是否迅速？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    是否有讨论很活跃的issue？
+    是否有讨论很活跃的 issue？
   </label>
 </div>
 
@@ -298,7 +298,7 @@ related:
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    有没有关闭的issue？ (在 GitHub, 点击 "closed" 标签就可以看到所有已经关闭的issue。)
+    有没有关闭的 issue？ (在 GitHub, 点击 "closed" 标签就可以看到所有已经关闭的 issue。)
   </label>
 </div>
 
@@ -346,21 +346,21 @@ related:
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    在issue的问题中，维护者的回答是否非常有帮助？
+    在 issue 的问题中，维护者的回答是否非常有帮助？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    人们在issue的讨论中、在线聊天室、论坛是否很友好？
+    人们在 issue 的讨论中、在线聊天室、论坛是否很友好？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    PR是否被review？
+    PR 是否被 review？
   </label>
 </div>
 
@@ -389,7 +389,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[作为一名新手,\] 我很快的就意识到，我若是要关闭一条issue时，我不得不问更多的问题。我浏览了代码库，一旦我觉得有什么问题的时候，我就得需要更多的指点，瞧！ 在我得到所有的所需要的信息后，我就可以解决这个问题！
+  \[作为一名新手,\] 我很快的就意识到，我若是要关闭一条 issue 时，我不得不问更多的问题。我浏览了代码库，一旦我觉得有什么问题的时候，我就得需要更多的指点，瞧！ 在我得到所有的所需要的信息后，我就可以解决这个问题！
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [一名菜鸟进入开源世界的坎坷之旅](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
@@ -439,15 +439,15 @@ related:
 
 在正式开始之前，做一些快速的检查项，以确保你的想法是没有被讨论过的。遍历项目的 README、问题（开放的和关闭的都算）、邮件列表、Stack Overflow。毋需去花好几个小时去全部折腾一遍，但是使用几个关键的词汇来搜索一下是必要的。
 
-如果你没有找到和你想法一样的内容，你就可以继续了。如果项目是在 GitHub上的话，你可以通过开启一个issue或PR：
+如果你没有找到和你想法一样的内容，你就可以继续了。如果项目是在 GitHub上的话，你可以通过开启一个 issue 或 PR：
 
 * **Issues** 开启一次对话或讨论
 * **Pull requests** 请求接受自己的解决方法
 * **少量的沟通，** 诸如澄清或how-to的问题，尝试到 Stack Overflow 、IRC、Slack或其它聊天频道。
 
-在你创建issue和PR之前，请检查项目的贡献者文档（文件名通常叫做 CONTRIBUTING，或者就直接包含在README中），找一些你需要的较具体的东西，例如，他们会要求你遵循某个模版，或者是要求你使用某个测试。
+在你创建 issue 和 PR 之前，请检查项目的贡献者文档（文件名通常叫做 CONTRIBUTING，或者就直接包含在README中），找一些你需要的较具体的东西，例如，他们会要求你遵循某个模版，或者是要求你使用某个测试。
 
-如果你做的是一个非常实际的贡献，在正式开启之前，先创建一个issue。监视项目是很有帮助的（在GitHub，[点击 "Watch"](https://help.github.com/articles/watching-repositories/)，所有的对话都会通知到你），要让社区的成员们知道你要做的工作，免得你做了之后，再让他们知道，他们不同意，就浪费了。
+如果你做的是一个非常实际的贡献，在正式开启之前，先创建一个 issue。监视项目是很有帮助的（在GitHub，[点击 "Watch"](https://help.github.com/articles/watching-repositories/)，所有的对话都会通知到你），要让社区的成员们知道你要做的工作，免得你做了之后，再让他们知道，他们不同意，就浪费了。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -465,18 +465,18 @@ related:
 * 讨论一个高级主题或想法(例如. 社区、远景、政策等)
 * 期望实现某新的特性，或者其它项目的想法
 
-在issue的沟通中几点实用的技巧:
+在 issue 的沟通中几点实用的技巧:
 
-* **如果你刚好看到一个开放的issue，恰是你打算解决的，** 添加评论，告诉他人你将负责这个。这样的话，可以避免他人重复劳动。
-* **如果说某个issue已经开放很久了，** 这可能是已经有人正在解决中，又或者是早已经解决过了，所以也请添加评论，在打算开启工作之前，最好是确认一下。
-* **如果你创建了一issue，但是没多久自己解决了，** 也要添加评论，让其他人知道，然后关闭该issue。记录本身就是为社区的贡献。
+* **如果你刚好看到一个开放的 issue，恰是你打算解决的，** 添加评论，告诉他人你将负责这个。这样的话，可以避免他人重复劳动。
+* **如果说某个 issue 已经开放很久了，** 这可能是已经有人正在解决中，又或者是早已经解决过了，所以也请添加评论，在打算开启工作之前，最好是确认一下。
+* **如果你创建了一 issue，但是没多久自己解决了，** 也要添加评论，让其他人知道，然后关闭该 issue。记录本身就是为社区的贡献。
 
 ### 创建 pull request
 
 在下面的情形时，请你务必使用PR：
 
 * 提交补丁 (例如，纠正拼写错误、损坏的链接、或者是其它较明显的错误）
-* 开始一项别人请求的任务，或者是过去在issue中早就讨论过的
+* 开始一项别人请求的任务，或者是过去在 issue中早就讨论过的
 
 一个 PR 并不代表着工作已经完成。它通常是尽早的开启一个PR，是为了其他人可以观看或者给作者反馈意见。只需要在子标题标记为"WIP"（正在进行中）。作者可以在后面添加很多评论。
 
@@ -484,7 +484,7 @@ related:
 
 * **[Fork 代码仓库](https://guides.github.com/activities/forking/)** 并克隆到本地，在本地的仓库配置"上游"为远端仓库。这样你可以在提交你的PR时保持和"上游"同步，会减少很多解决冲突的时间。(更多关于同步的说明，请参考[这里](https://help.github.com/articles/syncing-a-fork/).)
 * **[创建一个分支](https://guides.github.com/introduction/flow/)** 用于自己编辑。
-* **参考任何相关的issue** 或者在你的RP中支持文档(比如. "Closes #37.")
+* **参考任何相关的 issue** 或者在你的RP中支持文档(比如. "Closes #37.")
 * **包含之前和之后的快照** 如果你的改动是包含了不同的 HTML/CSS。在你的PR中拖拉相应的图片。
 * **测试你的改动！** 若测试用例存在的话，跑一遍，以覆盖你的更改，若没有的话，则创建相应的用例。无论测试是否存在，一定要确保你的改动不会破坏掉现有的项目。
 * **和项目现有的风格保持一致** 尽你最大的努力，这也就是意味着在使用缩进、分号、以及注释很可能和你自己的风格大相径庭，但是为了节省维护者的精力，以及未来他人更好的理解和维护，还请你容忍一下。
@@ -513,7 +513,7 @@ related:
 
 当有人提出变更时，请表现出大度的地方，要及时响应。他们花时间审核了你的提交，要尊重他们。开启了PR，然后一走了之，是一种恶习。如果你不知道如何修改，请花时间深入研究问题的所在，如果还是没有想到好的办法，那么是该向他人求助的时候了。
 
-如果你因为没有时间而无法继续在此issue继续工作（举例来说，如果对话已经过去了一个月了，没有任何的回复和进度，环境肯定变得不一样了），那么请向维护者告知你无法在及时的响应了，肯定有人非常乐意接替你的工作的。
+如果你因为没有时间而无法继续在此 issue 继续工作（举例来说，如果对话已经过去了一个月了，没有任何的回复和进度，环境肯定变得不一样了），那么请向维护者告知你无法在及时的响应了，肯定有人非常乐意接替你的工作的。
 
 ### 👎 你的贡献没有获得通过。
 
@@ -527,4 +527,4 @@ related:
 
 你刚刚完成了自己的开源贡献处女秀，接下来，你可能打算寻找另外的方法来做贡献，希望本文给你提供了灵感和实践。即使是你的贡献没有被采纳或接收，也不要有失风度，请对帮助过你的维护者表示感谢！
 
-开源就是由你这样的人所铸造：开启一个issue，在提交PR，评论、讨论、收集反馈，直到被接收。就是这么简单。
+开源就是由你这样的人所铸造：开启一个 issue，在提交PR，评论、讨论、收集反馈，直到被接收。就是这么简单。
