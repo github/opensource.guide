@@ -40,7 +40,6 @@ related:
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
 **让你们的GitHub项目公开与许可你们的项目是不同的。**公开项目是由[GitHub的服务条款](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership)保护，它允许他人浏览以及fork你们的项目，但是没有权限参与你们的工作。
 
 如果你们想让他人使用，复制，修改你们的项目，或者参与贡献你们的项目，那么你们的项目就需要包含一个开源许可协议。例如，即使你们的项目是公开的，但没有你们的授权，一些人是不能合法在他们的代码中使用你们GitHub项目中的任何部分。
