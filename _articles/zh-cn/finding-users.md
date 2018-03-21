@@ -33,7 +33,7 @@ related:
 
 ![cartography readme](/assets/images/finding-users/cartography.jpg)
 
-如果你想深入了解如何挖掘项目的"卖点"，看一下 Mozilla 的[“Personas and Pathways”](http://mozillascience.github.io/working-open-workshop/personas_pathways/)，练习如何建立用户的形象。
+如果你想深入了解如何挖掘项目的"卖点"，看一下 Mozilla 的["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/)，练习如何建立用户的形象。
 
 ## Help people find and follow your project
 
@@ -60,7 +60,7 @@ related:
 
 **考虑给你的项目做一个网站。**一个网站可以让你的项目更加友好，而且更加容易浏览，更重要的是附上清晰的文档和教程。这也是象征着你的项目还是活跃的，这会让你的用户使用你项目的时候感觉更放心。可以用一些例子告诉人们如何使用的项目。
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689)，Django 的协作者说，我们给 Django 做的网站可以说是“在早期开发 Django 的时候做的最好的一件事情了”。
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689)，Django 的协作者说，我们给 Django 做的网站可以说是"在早期开发 Django 的时候做的最好的一件事情了"。
 
 如果你的项目是托管在 GitHub 上的，你可以用 [GitHub Pages](https://pages.github.com/) 简单的创建一个网站。[Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/)，和 [Middleman](https://middlemanapp.com/) 是一些优秀的内容详尽的网站的[例子](https://github.com/showcases/github-pages-examples)
 
