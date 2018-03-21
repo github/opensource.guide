@@ -140,8 +140,8 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
-  urllib3之所以是现在最流行的Python第三方库的唯一原因就是大家都需要他。(待修改)
-  <p markdown="1" class="pquote-credit">
+  如今，urllib3 成为最热门的第三方 Python 库是因为它的 [request](https://github.com/kennethreitz/requests) 部分。
+  <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
   </p>
 </aside>
