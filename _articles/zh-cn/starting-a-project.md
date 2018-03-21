@@ -51,7 +51,7 @@ related:
 
 * **采用和重组：** 任何人几乎可以出于任何目的使用开源项目。人们甚至可以使用它来构建其他东西。例如，[WordPress](https://github.com/WordPress) 就是派生自一个名为 [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) 的现有项目。
 
-* **透明度：** 任何人都可以检查开源项目是否有错误或不一致。 透明度对[保加利亚](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美国](https://sourcecode.cio.gov/)等政府，银行或医疗保健等受监管行业以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全软件都很重要。
+* **透明度：** 任何人都可以检查开源项目是否有错误或不一致。 透明度对[保加利亚](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a)或[美国](https://sourcecode.cio.gov/)等政府，银行或医疗保健等受监管行业以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全软件都很重要。
 
 开源并不仅仅限于软件。您可以开源任何事物，从数据集到书本。查看 [GitHub Explore](https://github.com/explore) 开找找有什么是你可以开源的。
 
@@ -69,7 +69,7 @@ related:
 
 如果你从来没有创建过一个项目，你可能会担心人们会说什么，或者是否有人会注意到。 如果这听起来像你现在的状态，别担心，你并不孤独！
 
-开源工作就像任何其他充满创意的活动，无论是写作还是绘画。 向世界分享你的作品会让你提心吊胆，但唯有练习能够让你的感觉变好的方法 - 即使你没有观众。
+开源工作就像任何其他充满创意的活动，无论是写作还是绘画。 向世界分享你的作品会让你提心吊胆，但唯有练习能够让你的感觉变好的方法——即使你没有观众。
 
 如果你还不确信，请花一点时间思考你的目标可能是什么。
 
@@ -134,9 +134,9 @@ related:
 
 法律工作是非常无趣的。但好消息是，您可以将现有许可证复制并粘贴到存储库中。只需要花这么一点时间，就能保护你的辛苦工作。
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),  和 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 都是非常流行的开源许可证， 但你可以选择[其他选项](https://choosealicense.com).
+[MIT](https://choosealicense.com/licenses/mit/)，[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) 和 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 都是非常流行的开源许可证， 但你可以选择[其他选项](https://choosealicense.com).
 
-当你在GitHub上创建新项目时，你可以选择许可证。包括开源许可证将使你的GitHub项目成为开源。
+当你在 GitHub 上创建新项目时，你可以选择许可证。包括开源许可证将使你的 GitHub 项目成为开源。
 
 ![挑选一个许可证](/assets/images/starting-a-project/repository-license-picker.png)
 
@@ -153,7 +153,7 @@ related:
 * 如何开始？
 * 如果需要，我可以在哪里获得更多的帮助？
 
-您可以使用自己的README回答其他问题，例如处理贡献，项目的目标以及许可证和归属信息。 如果您不想接受他人的贡献，或者您的项目尚未准备好作为产品提供使用，请将这些信息写下来。
+您可以使用自己的 README 回答其他问题，例如处理贡献，项目的目标以及许可证和归属信息。 如果您不想接受他人的贡献，或者您的项目尚未准备好作为产品提供使用，请将这些信息写下来。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
@@ -173,11 +173,11 @@ related:
 
 贡献文件 (CONTRIBUTING file) 告诉你的受众如何参与你的项目. 例如，你可以包括一下信息:
 
-* 如何提交错误报告（尝试使用[issue 和 pull request 模板](https://github.com/blog/2111-issue-and-pull-request-templates)）
+* 如何提交错误报告（尝试使用 [issue 和 pull request 模板](https://github.com/blog/2111-issue-and-pull-request-templates)）
 * 如何建议一个新功能
 * 如何配置你的环境和运行测试
 
-除了技术细节， 贡献文件也是一个供你传达对贡献期待的机会， 例如：
+除了技术细节，贡献文件也是一个供你传达对贡献期待的机会， 例如：
 
 * 你在寻求的贡献类型
 * 你项目的路线图或者版本
@@ -211,7 +211,7 @@ related:
 
 最后，行为规范有助于为你项目的参与者车里行为规则。这在你为社区或者项目推出一个开源项目的时候尤为有价值。一份行为帮助你促进健康，有建设性的社区行为，这也会减轻你作为维护者的压力。
 
-更多信息，请参见 [行为规范指导](../code-of-conduct/)。
+更多信息，请参见[行为规范指导](../code-of-conduct/)。
 
 除了传达你期待参与者**如何**行动，行为规范也倾向于描述这些期待针对谁，适用于何时，以及对于违规行为的处理方法。
 
@@ -230,7 +230,7 @@ related:
 * [Sentry](https://github.com/getsentry/sentry) 监控应用程序的崩溃报告
 * [Thin](https://github.com/macournoyer/thin) 是一个简单快速的Ruby web服务器。
 
-如果你的项目是基于一个已存在的项目创建，那么使用他们的名字作为你项目名的前缀会帮助你阐述你项目的用途。 (例如 [node-fetch](https://github.com/bitinn/node-fetch)将`window.fetch` 添加到了 Node.js)。
+如果你的项目是基于一个已存在的项目创建，那么使用他们的名字作为你项目名的前缀会帮助你阐述你项目的用途。 (例如 [node-fetch](https://github.com/bitinn/node-fetch) 将 `window.fetch` 添加到了 Node.js)。
 
 考虑阐明所有。押韵虽然有趣，但是记住玩笑不可能转变成其它的文化，或者他人与你有不同的经历。你的一些潜在用户可能是公司员工，你不能让他们在工作中很难解释你的项目！
 
@@ -238,23 +238,23 @@ related:
 
 [查看是否有同名的开源项目](http://ivantomic.com/projects/ospnc/)，尤其是你分享的是同样的语言或者生态系统。如果你的名字与一个已存在的知名的项目有冲突，你会让你的粉丝感到困惑。
 
-如果你想要一个网站，Twitter账号或者其他特性来展示你的项目，先确保你能得到你想要的名字。理想情况下，为了美好的未来[现在保留这些名字](https://instantdomainsearch.com/)，即使你现在不想用他们。
+如果你想要一个网站，Twitter 账号或者其他特性来展示你的项目，先确保你能得到你想要的名字。理想情况下，为了美好的未来[现在保留这些名字](https://instantdomainsearch.com/)，即使你现在不想用他们。
 
 确保你的项目名没有侵权。如果有侵权，可能会有公司要求你的项目下架，或者对你采取法律措施。这样得不偿失。
 
- 你可以查阅[WIPO全球品牌数据库](http://www.wipo.int/branddb/en/)避免商标冲突。如果你是在公司工作，[法律团队会帮你做这件事](../legal/)。
+ 你可以查阅 [WIPO 全球品牌数据库](http://www.wipo.int/branddb/en/)避免商标冲突。如果你是在公司工作，[法律团队会帮你做这件事](../legal/)。
 
 最后，去谷歌搜索你的项目名。大家会很容易地找到你的项目吗？在搜索结果礼是否有你不想让大家看到的东西？
 
 ### 你的写作（和代码）如何影响你的品牌
 
-在项目的整个生命周期中，你需要做很多文字工作：READMEs，教程，社区文档，回复issues，甚至肯能要处理很多来信和邮件。
+在项目的整个生命周期中，你需要做很多文字工作：READMEs，教程，社区文档，回复 issues，甚至肯能要处理很多来信和邮件。
 
 是否是官方文档或者一封普通的邮件，你的书写风格都是你项目品牌的一部分。考虑你可能会拥有粉丝，以及这是你想传达的声音。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  我尝试处理每一个细节，包括：处理邮件，展示示例，友好待人，认真处理大家的issues以及试图帮助到大家。经过一段时间后，大家可能不再是只问问题，还会帮助我解决其他人的疑问以及给我喜悦，他们模仿我的风格。
+  我尝试处理每一个细节，包括：处理邮件，展示示例，友好待人，认真处理大家的 issues 以及试图帮助到大家。经过一段时间后，大家可能不再是只问问题，还会帮助我解决其他人的疑问以及给我喜悦，他们模仿我的风格。
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
@@ -282,7 +282,7 @@ related:
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    项目要有基础文档 (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    项目要有基础文档 (README，CONTRIBUTING，CODE_OF_CONDUCT)
   </label>
 </div>
 
@@ -296,7 +296,7 @@ related:
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    最新的issue队列，组织和标记清除的issues
+    最新的 issue 队列，组织和标记清除的 issues
   </label>
 </div>
 
@@ -319,7 +319,7 @@ related:
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    在修改历史，issues或者 pull requests 中没有敏感的信息 (例如 密码或者其他不能公开的信息)
+    在修改历史，issues 或者 pull requests 中没有敏感的信息 (例如 密码或者其他不能公开的信息)
   </label>
 </div>
 
@@ -353,7 +353,7 @@ related:
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    一些人被允许管理社区互动（回复issues，检查和合并pull requests）
+    一些人被允许管理社区互动（回复 issues，检查和合并 pull requests）
   </label>
 </div>
 
@@ -366,4 +366,4 @@ related:
 
 ## You did it!
 
-恭喜你开源了你的首个项目。不论结果如何，对开源社区都是一份礼物。随着每次commit,comment和pull request，你正在为自己或者他人创造学习和成长的机会。
+恭喜你开源了你的首个项目。不论结果如何，对开源社区都是一份礼物。随着每次 commit，comment 和 pull request，你正在为自己或者他人创造学习和成长的机会。
