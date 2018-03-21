@@ -143,7 +143,7 @@ related:
 
 举例来说：
 
-* @sindresorhus 创建了 ["惊奇" 列表](https://github.com/sindresorhus/awesome)
+* @sindresorhus 创建了 ["awesome" 列表](https://github.com/sindresorhus/awesome)
 * @h5bp 维护了针对前端开发者的[面试题](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * @stuartlynn 和 @nicole-a-tesla 制作了[收集关于海雀的有趣的事实](https://github.com/stuartlynn/puffin_facts)
 
