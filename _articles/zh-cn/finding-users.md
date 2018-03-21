@@ -124,7 +124,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
-  我非常认真的给 JSConf 的人写了一封信，然后求他们给我一点时间让我 JSConf 上展示我的项目。（……）同时我又非常担心，这个项目我做了六个月。（……）要是大家不认可怎么办。那时候我就一直在想，我的天，我他妈在这里是干吗？
+  我非常认真的给 JSConf 的人写了一封信，然后求他们给我一点时间让我 JSConf 上展示我的项目。（……）同时我又非常担心，这个项目我做了六个月。（……）要是大家不认可怎么办。那时候我就一直在想，我的天，我在这里干嘛？
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
