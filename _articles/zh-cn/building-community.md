@@ -31,7 +31,7 @@ related:
 从你的文档开始：
 
 * **让大家很容易上手。** [一份友好的 README](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#编写readme) 以及清晰的代码示例将让大家很容易的上手。
-* **清楚的解释如何做贡献**，使用[你的 CONTRIBUTING file](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#编写你的贡献指南) 以及持续更新 issues。
+* **清楚的解释如何做贡献**，使用[你的 CONTRIBUTING 文件](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#编写你的贡献指南) 以及持续更新 issues。
 
 好的文档能够邀请他人参与你们项目的互动。最终，一些人会开一个 issue 或者 pull request。将这些互动视为机会，将他们转移到漏斗的下方。
 
@@ -42,7 +42,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人因为没有做正确的事而害怕叫喊，或者只是不适合。（……）通过允许贡献者参与一些对技术要求比底的工作（文档，web content markdown，etc），可以极大的减少你对这些情况的关注。
+  为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人害怕因为某事没有做对，或只是做得不合适而被人大声叫唤。（……）通过允许贡献者参与一些对技术要求比底的工作（文档、markdown 网页内容等），可以极大的减少你对这些情况的关注。
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["现代开源项目下如何增长贡献者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
@@ -111,16 +111,16 @@ related:
 
 社区拥有强大的能量。这种能量可能是正面的也可能是负面的，这一切都取决于你如何驾驭它。随着项目社区的成长，要想办法让之成为建设性的力量，而不是具有破坏性的。
 
-### Don’t tolerate bad actors
+### 不要容忍坏“演员”
 
-一些流行的项目将不可避免地会吸引到一些破坏它们的人。这些人可能会从一些没必要的争论开始，对一些细枝末节进行纠缠不清，甚或用语言伤及他人。
+一些流行的项目将不可避免地会吸引到一些对项目的破坏多于帮助的人。这些人可能会从一些没必要的争论开始，对一些细枝末节进行纠缠不清，甚或用语言伤及他人。
 
 对于这类人，必须采取零容忍的政策。一旦犹豫不决，那么这些消极的人会给社区的其他人带来不愉快的感觉。那时就会出现劣币驱逐良币的现象。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
 
-  事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道 IRC 的帮助，我不可能做好这些工作。（……）不要退而求其次。不要满足于混蛋。
+  事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及健谈的 IRC 频道的帮助，我不可能做好这些工作。（……）不要退而求其次。不要满足混蛋。
 
   <p markdown="1" class="pquote-credit">
 — @karissa, ["如何运营一个 FOSS 项目"](https://karissa.github.io/post/okf-de)
@@ -149,7 +149,7 @@ related:
 
 > 我们想感谢你们使用 Rubinius。这个项目是一个充满爱的工作，我们希望所有用户查找 bugs，取得性能上的提升，以及帮助完善文档。每一个贡献都是有意义的，所以感谢你们的参与。话虽如此，但我们还是要求你们遵守一些指南，这样我们就能够找到你们的 issue。
 
-### Share ownership of your project
+### 分享你项目的所有权
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
@@ -163,7 +163,7 @@ related:
 
 要尝试去尽快的找到让人们觉得社区就是自己的路径，这里有一些经验和大家分享：
 
-* **不要亲自去修复简单（非关键）的缺陷。**相反，将这些缺陷作为招募新贡献者的工具，或者指导想要参与贡献的人。开始时可能效果不是很理想，但经过一段时间你们会得到想要的结果。例如，@michaeljoseph要求一位贡献者提交一个 pull request 在一个 [Cookiecutter](https://github.com/audreyr/cookiecutter) issue 的下面，而不是自己修复它。
+* **不要亲自去修复简单（非关键）的缺陷。** 相反，将这些缺陷作为招募新贡献者的工具，或者指导想要参与贡献的人。开始时可能效果不是很理想，但经过一段时间你们会得到想要的结果。例如，@michaeljoseph要求一位贡献者提交一个 pull request 在一个 [Cookiecutter](https://github.com/audreyr/cookiecutter) issue 的下面，而不是自己修复它。
 
 ![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
@@ -181,7 +181,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  你们最大的兴趣是招募喜欢你们项目以及能够做你们不能做的事的贡献者。你喜欢编码，但不喜欢回答 issues？那么让社区中能做这件事的人去做。
+  你们最大的兴趣是招募喜欢你们项目以及能够做你们不能做的事的贡献者。你喜欢写代码，但不喜欢回答 issues？那么让社区中能做这件事的人去做。
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["打造受欢迎的社区"](http://hood.ie/blog/welcoming-communities.html)
   </p>
