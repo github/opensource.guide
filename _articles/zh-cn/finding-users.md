@@ -152,7 +152,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS公开第一个版本的时候实在2011年初。我也就是用一些常规的方法来推广：发 Twitter，写博客告诉别人可以用它来做什么，在各种各样的聚会上我都提到过它。当2014年他已经广为人知的时候。我才开始做关于它的演讲。
+  PhantomJS 公开第一个版本的时候实在2011年初。我也就是用一些常规的方法来推广：发 Twitter，写博客告诉别人可以用它来做什么，在各种各样的聚会上我都提到过它。当 2014 年他已经广为人知的时候。我才开始做关于它的演讲。
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
   </p>
