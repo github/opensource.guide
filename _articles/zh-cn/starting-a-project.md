@@ -1,6 +1,6 @@
 ---
 lang: zh-cn
-title: 开启一个开源项目
+title: 开始一个开源项目
 description: 从开源的世界汲取智慧，然后开始准备着手发起开源项目。
 class: beginners
 toc:
@@ -157,7 +157,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
-更好的文档意味着更多的用户，更少的求助和更多的贡献者，等等。要记住你的读者不是你自己。来到项目中的每个人可能有着截然不同的经历。
+更好的文档意味着更多的用户，更少的求助和更多的贡献者。（……）要记住你的读者不是你自己。来到项目中的每个人可能有着截然不同的经历。
   <p markdown="1" class="pquote-credit">
 — @limedaring, ["这样写给他人看（视频）"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
@@ -203,7 +203,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  我们都有过这样的关于重复劳动的经验，无论是维护者试着解释为什么某些事物必须通过某种明确的方式执行，或者是用户...提出一个简单的问题。行为规范成为一个便利的参考和可链接的文档标明你的团队会认真对待具有建设性的讨论。
+  我们都有过这样的关于重复劳动的经验，无论是维护者试着解释为什么某些事物必须通过某种明确的方式执行，或者是用户……提出一个简单的问题。行为规范成为一个便利的参考和可链接的文档标明你的团队会认真对待具有建设性的讨论。
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["让开源成为一个有趣的地方"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
