@@ -33,7 +33,7 @@ When you contribute to this repository you are doing so under the above licenses
 Screenshots and images from other projects are used with permissions below.
 
 **Django:**
-
+ 
 > Copyright © Django Software Foundation and individual contributors.
 > All rights reserved.
 >
