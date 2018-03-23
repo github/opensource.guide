@@ -34,7 +34,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 Es gibt viele Gründe, warum eine Person nicht für ihre Open-Source-Arbeit bezahlt werden möchte.
 
 * **Sie haben vielleicht schon einen Vollzeitjob, den sie lieben,**  uns der ihnen ermöglicht, in ihrer Freizeit einen Beitrag zu Open-Source-Software zu leisten.
-* **Sie betrachten Open Source gerneals Hobby,** oder als kreative Flucht und wollen sich finanziell nicht verpflichtet fühlen, an ihren Projekten arbeiten zu müssen.
+* **Sie mögen Open Source als Hobby,** oder als kreative Flucht und wollen sich finanziell nicht verpflichtet fühlen, an ihren Projekten arbeiten zu müssen.
 * **Sie ziehen andere Vorteile aus ihren Open-Source-Beiträgen,** wie z.B. den Aufbau ihres Rufs oder Portfolios, das Erlernen neuer Fertigkeiten oder das Gefühl, in einer einer Gemeinschaft eingebettet zu sein.
 
 <aside markdown="1" class="pquote">
