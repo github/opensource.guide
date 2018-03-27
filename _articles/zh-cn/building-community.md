@@ -149,7 +149,7 @@ related:
 
 > 我们想感谢你们使用 Rubinius。这个项目是一个充满爱的工作，我们希望所有用户查找 bugs，取得性能上的提升，以及帮助完善文档。每一个贡献都是有意义的，所以感谢你们的参与。话虽如此，但我们还是要求你们遵守一些指南，这样我们就能够找到你们的 issue。
 
-### 分享你项目的所有权
+### Share ownership of your project
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
