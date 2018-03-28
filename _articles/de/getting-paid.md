@@ -6,7 +6,7 @@ class: getting-paid
 toc:
   warum-manche-menschen-finanzielle-unterstützung-suchen: "Warum manche Menschen finanzielle Unterstützung suchen"
   die-eigene-zeit-finanzieren: "Die eigene Zeit finanzieren"
-  finding-funding-for-your-project: "Finding funding for your project"
+  geldquellen-für-ihr-projekt-auftun: "Geldquellen für Ihr Projekt auftun"
   building-a-case-for-financial-support: "Building a case for financial support"
 order: 7
 image: /assets/images/cards/getting-paid.png
@@ -135,43 +135,44 @@ Außerdem können Sie versuchen, abhängig von Ihren persönlichen Umständen, s
 * @gaearon finanzierte seine Arbeit an [Redux](https://github.com/reactjs/redux) mittels einer [Patreon-Crowdfunding-Kampagne](https://redux.js.org/)
 * @andrewgodwin finanzierte Arbeit an Djangos Schemamigrations [mittels einer Kickstarter-Kampagne](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-## Finding funding for your project
+## Geldquellen für Ihr Projekt auftun
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+Abgesehen von Vereinbarungen für einzelne Projektteilnehmer\*innen, sammeln Projekte manchmal Geld von Unternehmen, Einzelpersonen oder anderen ein, um die laufende Arbeit zu finanzieren.
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+Geld von einer Organisation kann verwendet werden, aktuelle Projektteilnehmer\*innen zu bezahlen, die Kosten für den Betrieb des Projekts zu decken (z.B. Hosting-Gebühren) oder in neue Funktionen oder Ideen zu investieren.
 
-As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
+Da Open Source populärer wird, ist die Finanzierung von Projekten immer noch experimentell, aber es gibt einige allgemeine Optionen.
 
-### Raise money for your work through crowdfunding campaigns or sponsorships
+### Geld mittels Crowdfunding-Kampagnen oder Patenschaften einsammeln
 
-Finding sponsorships works well if you have a strong audience or reputation already, or your project is very popular.
-A few examples of sponsored projects include:
+Patenschaften lassen sich einfacher finden, wenn Sie bereits ein starkes Publikum oder einen guten Ruf haben, oder Ihr Projekt sehr beliebt ist.
 
-* **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+Hier einige Beispiele für gesponsorte Projekte:
 
-### Create a revenue stream
+* **[webpack](https://github.com/webpack)** sammelt Geld von Firmen und Einzelpersonen [mittels OpenCollective](https://opencollective.com/webpack)
+* **[Vue](https://github.com/vuejs/vue)** wird [mittels Patreon finanziert](https://github.com/open-source/stories/yyx990803)
+* **[Ruby Together](https://rubytogether.org/),** eine nicht-Gewinn-orientierte Organisation zahlt für die Arbeit an [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), und anderen Ruby-Infrastrukturprojekten
 
-Depending on your project, you may be able to charge for commercial support, hosted options, or additional features. A few examples include:
+### Eine Einnahmequelle schaffen
 
-* **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
-* **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
-* **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
+Abhängig von Ihrem Projekt können Sie kommerziellen Support, gehostete Optionen oder zusätzliche Funktionen in Rechnung stellen. Wie beispielsweise:
 
-Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+* **[Sidekiq](https://github.com/mperham/sidekiq)** bietet Bezahlversionen mit zusätzlichem Support
+* **[Travis CI](https://github.com/travis-ci)** bietet Bezahlversionen ihres Dienstes
+* **[Ghost](https://github.com/TryGhost/Ghost)** ist ein Non-Profit mit Bezahldiensten
 
-### Apply for grant funding
+Einige populäre Projekte, wie z.B. [npm](https://github.com/npm/npm) und [Docker](https://github.com/docker/docker), sammeln sogar Wagniskapital ein, um ihr Wachstum zu unterstützen.
 
-Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
+### Fördermittel beantragen
 
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
-* **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
-* The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
+Einige Softwarestiftungen und Unternehmen bieten Zuschüsse für Open-Source-Arbeiten an. Manchmal können Zuschüsse an Einzelpersonen ausgezahlt werden, ohne eine juristische Person für das Projekt zu gründen.
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** erhielt eine Förderung des [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
+* Arbeiten an **[OpenMRS](https://github.com/openmrs)** wurden von [Stripes Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees) gefördert
+* **[Libraries.io](https://github.com/librariesio)** erhilt Fördermittel der [Sloan Foundation](https://sloan.org/programs/digital-technology)
+* Die **[Python Software Foundation](https://www.python.org/psf/grants/)** fördert Python-relelvante Arbeiten
+
+Weitere, detaillierter erklärte Möglichkeiten, wie man für Open-Source-Arbeit bezahlt werden kann, finden Sie in [dieser Anleitung](https://github.com/nayafia/lemonade-stand) von @nayafia. Die verschiedenen Finanzierungsarten erfordern unterschiedliche Fähigkeiten, die sie Ihren Stärken entsprechend ind Erwägung ziehen sollten.
 
 ## Building a case for financial support
 
