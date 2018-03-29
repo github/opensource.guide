@@ -215,5 +215,3 @@ Hat der Geldgeber irgendwelche Anforderungen an die Auszahlung? Müssen Sie bspw
 ## Experimentieren und nicht aufgeben
 
 Es ist nicht einfach, Geld zu sammeln. Egal ob Sie ein Open-Source-Projekt, einen gemeinnützigen Verein oder ein Software-Startup betreiben. In den meisten Fällen müssen Sie kreativ werden. Identifizieren Sie den Modus der Bezahlung, stellen Sie Recherchen an und versetzen Sie sich selbst in die Rolle des Geldgebers. Dies wird Ihnen helfen, ein überzeugendes Argument für die Finanzierung zu finden.
-
->
