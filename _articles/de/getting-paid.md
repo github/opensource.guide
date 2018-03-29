@@ -7,7 +7,7 @@ toc:
   warum-manche-menschen-finanzielle-unterstützung-suchen: "Warum manche Menschen finanzielle Unterstützung suchen"
   die-eigene-zeit-finanzieren: "Die eigene Zeit finanzieren"
   geldquellen-für-ihr-projekt-auftun: "Geldquellen für Ihr Projekt auftun"
-  building-a-case-for-financial-support: "Building a case for financial support"
+  eine-argumentationslinie-für-finanzielle-unterstützung-aufbauen: "Eine Argumentationslinie für finanzielle Unterstützung aufbauen"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -174,35 +174,39 @@ Einige Softwarestiftungen und Unternehmen bieten Zuschüsse für Open-Source-Arb
 
 Weitere, detaillierter erklärte Möglichkeiten, wie man für Open-Source-Arbeit bezahlt werden kann, finden Sie in [dieser Anleitung](https://github.com/nayafia/lemonade-stand) von @nayafia. Die verschiedenen Finanzierungsarten erfordern unterschiedliche Fähigkeiten, die sie Ihren Stärken entsprechend ind Erwägung ziehen sollten.
 
-## Building a case for financial support
+## Eine Argumentationslinie für finanzielle Unterstützung aufbauen
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+Egal ob Ihr Projekt eine neue Idee umsetzt, oder schon seit Jahren besteht: Sie sollten sich Gedanken über einen passenden Finanzier machen. Und sobald sie ihn identifiziert haben, ein überzeugendes Argument liefern können.
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+Egal, ob Sie für Ihre eigene Zeit oder für ein Projekt Geld sammeln möchten, Sie sollten in der Lage sein, die folgenden Fragen zu beantworten.
 
-### Impact
+### Einfluss
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+Warum ist dieses Projekt nützlich? Warum gefällt es Ihren (potenziellen) Nutzer\*innen so gut? Wo wird es in fünf Jahren sein?
 
-### Traction
+### Wichtigkeit
 
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+Versuchen Sie Beweise für die Wichtigkeit Ihres Projektes zu sammeln: Metriken, Anekdoten oder Referenzen. Gibt es Unternehmen oder bemerkenswerte Personen, die Ihr Projekt gerade nutzen? Falls nicht, hat es jemand Bekanntes empfohlen?
 
-### Value to funder
+### Nutzen für die Geldgeber
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+Geldgeber (sei es Ihr Arbeitgeber oder eine Förderstiftung) werden von vielen Anderen angesprochen: Warum sollte gerade Ihr Projekt unterstützt werden? Wie profitiert der Geldgeber selbst davon?
 
-### Use of funds
+### Nutzung der Gelder
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+Was genau werden Sie mit der vorgeschlagenen Finanzierung erreichen? Konzentrieren Sie sich auf Projektmeilensteine oder -ergebnisse, anstatt ein Gehalt zu zahlen.
 
-### How you'll receive the funds
+### Wie empfangen Sie das Geld
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+Hat der Geldgeber irgendwelche Anforderungen an die Auszahlung? Müssen Sie bspw. eine gemeinnützige Organisation sein, oder einen gemeinnützigen finanziellen Sponsor haben? Oder werden die Mittel an eine\*n einzelne\*n Auftragnehmer\*in anstatt an eine Organisation vergeben? Diese Anforderungen variieren zwischen den Geldgebern, also sollten Sie dies im Vorhinein in Erfahrung bringen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
+
+  Seit Jahren sind wir die führende Ressource für Webseiten-freundliche Icons; Mit einer Community von über 20 Millionen Menschen und auf über 70 Millionen Websites, einschließlich Whitehouse.gov. (...) Version 4 wurde vor drei Jahren veröffentlicht. Seitdem hat sich die Web-Technologie stark verändert, und offen gesagt: Font Awesome ist ein wenig abgestanden. (...) Deshalb führen wir Font Awesome 5 ein. Wir modernisieren und überarbeiten das CSS und entwerfen jedes Icon komplett neu. Damit erreich wir ein besseres Design, bessere Konsistenz und bessere Lesbarkeit.
+
   For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
