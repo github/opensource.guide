@@ -9,7 +9,7 @@ toc:
   learning-to-say-no: "学会拒绝他人"
   leverage-your-community: "有效利用社区"
   bring-in-the-robots: "使用机器人"
-  its-okay-to-hit-pause: "不干了也没关系"
+  its-okay-to-hit-pause: "It’s okay to hit pause"
   Take care of yourself first!: "首先照顾好自己"
 order: 5
 image: /assets/images/cards/best-practices.png
