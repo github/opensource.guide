@@ -212,8 +212,8 @@ Hat der Geldgeber irgendwelche Anforderungen an die Auszahlung? Müssen Sie bspw
   </p>
 </aside>
 
-## Experiment and don't give up
+## Experimentieren und nicht aufgeben
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+Es ist nicht einfach, Geld zu sammeln. Egal ob Sie ein Open-Source-Projekt, einen gemeinnützigen Verein oder ein Software-Startup betreiben. In den meisten Fällen müssen Sie kreativ werden. Identifizieren Sie den Modus der Bezahlung, stellen Sie Recherchen an und versetzen Sie sich selbst in die Rolle des Geldgebers. Dies wird Ihnen helfen, ein überzeugendes Argument für die Finanzierung zu finden.
 
 >
