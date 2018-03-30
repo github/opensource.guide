@@ -23,22 +23,22 @@ related:
 
 ## Figure out your message
 
-在你开始推广你的项目之前，你应该能够解释你的项目是做什么的，为什么大家需要他?
+在你开始推广你的项目之前，你应该能够解释你的项目是做什么的，为什么大家需要它?
 
 是什么让你的项目变得不同或者有趣，在自己心中问这些问题会让你更容易说服别人。
 
 牢记一件事情，别人之所以使用你的项目，甚至是为你的项目做贡献，是因为你的项目解决了他们的问题。所以你要找出他们需要什么，然后把他当成你项目的卖点或者说价值所在。
 
-举个例子，[@robb](https://github.com/robb)用代码实例来清晰的阐述为什么他的项目[Cartography](https://github.com/robb/Cartography)是有用的。
+举个例子，[@robb](https://github.com/robb) 用代码实例来清晰的阐述为什么他的项目 [Cartography](https://github.com/robb/Cartography) 是有用的。
 
 ![cartography readme](/assets/images/finding-users/cartography.jpg)
 
-如果你想深入了解如何挖掘项目的"卖点"，看一下Mozilla的["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/)，练习如何建立用户的形象。
+如果你想深入了解如何挖掘项目的"卖点"，看一下 Mozilla 的["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/)，练习如何建立用户的形象。
 
 ## Help people find and follow your project
 
 <aside markdown="1" class="pquote">
-  你最好有一个唯一的"主页"链接用来推广，引导人们关注你的项目。你不需要找一个炫酷的模板或者域名，但是你的项目确实需要一个入口。
+  你最好有一个唯一的“主页”链接用来推广，引导人们关注你的项目。你不需要找一个炫酷的模板或者域名，但是你的项目确实需要一个入口。
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
@@ -46,23 +46,23 @@ related:
 
 通过引导他们到一个唯一的地址来帮助人们发现和记住你的项目。
 
-**要有一个推广的主阵地。**一个Twitter账号，Github链接，或者IRC频道是引导人们查看你们项目的一个简单的方式。这些方式也给你日益增长的社区一个讨论的好地方。
+**要有一个推广的主阵地。**一个 Twitter 账号，Github 链接，或者 IRC 频道是引导人们查看你们项目的一个简单的方式。这些方式也给你日益增长的社区一个讨论的好地方。
 
-如果你目前还不想给你的项目搞这么多乱七八糟的东西，而且还要在有机会的时候推广你的Twitter账户和Github账户。举个例子，如果你某一个讨论会或者活动上发言要保证在你的简历或者幻灯片上包含这些信息。只有这样人们才会知道怎么找到你或者关注你的工作。
+如果你目前还不想给你的项目搞这么多乱七八糟的东西，而且还要在有机会的时候推广你的 Twitter 账户和 Github 账户。举个例子，如果你某一个讨论会或者活动上发言要保证在你的简历或者幻灯片上包含这些信息。只有这样人们才会知道怎么找到你或者关注你的工作。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
-  我之前犯过的一个错误就是没有给项目开一个Twitter账户。Twitter是一个让人们知晓项目进展的好渠道，也可以让人们持续的接触到你的项目。
+  我之前犯过的一个错误就是没有给项目开一个 Twitter 账户。Twitter 是一个让人们知晓项目进展的好渠道，也可以让人们持续的接触到你的项目。
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**考虑给你的项目做一个网站**一个网站可以让你的项目更加友好，而且更加容易浏览，更重要的是附上清晰的文档和教程。这也是象征着你的项目还是活跃的，这会让你的用户使用你项目的时候感觉更放心。可以用一些例子告诉人们如何使用的项目。
+**考虑给你的项目做一个网站。**一个网站可以让你的项目更加友好，而且更加容易浏览，更重要的是附上清晰的文档和教程。这也是象征着你的项目还是活跃的，这会让你的用户使用你项目的时候感觉更放心。可以用一些例子告诉人们如何使用的项目。
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), Django的协作者说，我们给Django做的网站可以说是"在早期开发Django的时候做的最好的一件事情了"。
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689)，Django 的协作者说，我们给 Django 做的网站可以说是"在早期开发 Django 的时候做的最好的一件事情了"。
 
-如果你的项目是托管在GitHub上的，你可以用[GitHub Pages](https://pages.github.com/)简单的创建一个网站。[Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) 是一些优秀的内容详尽的网站的[例子](https://github.com/showcases/github-pages-examples)
+如果你的项目是托管在 GitHub 上的，你可以用 [GitHub Pages](https://pages.github.com/) 简单的创建一个网站。[Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/)，和 [Middleman](https://middlemanapp.com/) 是一些优秀的内容详尽的网站的[例子](https://github.com/showcases/github-pages-examples)
 
 ![vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
@@ -72,7 +72,7 @@ related:
 
 网上拓展是分享和快速宣传项目的一个好方法。借助一些网上的渠道，你有可能找到一大批受众。
 
-利用好已有的线上社区和平台去找你的受众。如果你的开源项目是一个软件项目，你可能会在[Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), 或者[Quora](https://www.quora.com/)。找到你觉得人们会最有可能从你的项目中受益或者对你项目感兴趣的渠道。
+利用好已有的线上社区和平台去找你的受众。如果你的开源项目是一个软件项目，你可能会在 [Stack Overflow](http://stackoverflow.com/)，[reddit](http://www.reddit.com)，[Hacker News](https://news.ycombinator.com/)，或者 [Quora](https://www.quora.com/)。找到你觉得人们会最有可能从你的项目中受益或者对你项目感兴趣的渠道。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
@@ -102,7 +102,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
-  我去Pycon的时候非常紧张。我要发表一个演讲，在那儿我就认识几个人，还在那儿呆了整个周。但是其实我不应该焦虑的。Pycon真是太他妈吊了！每个人都是超级友好外向，以至于我没有找到时间和人们讲话。
+  我去 PyCon 的时候非常紧张。我要发表一个演讲，在那儿我就认识几个人，还在那儿呆了整个周。（……）但是其实我不应该焦虑的。Pycon真是太他妈吊了！（……）每个人都是超级友好外向，以至于我没有找到时间和人们讲话。
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
@@ -124,7 +124,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
-  我非常认真的给JSConf的人写了一封信，然后求他们给我一点时间让我JSConf上展示我的项目。同时我又非常担心，这个项目我做了六个月，要是大家不认可怎么办。那时候我就一直在想，我的天，我他妈在这里是干吗？
+  我非常认真的给 JSConf 的人写了一封信，然后求他们给我一点时间让我 JSConf 上展示我的项目。（……）同时我又非常担心，这个项目我做了六个月。（……）要是大家不认可怎么办。那时候我就一直在想，我的天，我在这里干嘛？
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
@@ -140,8 +140,8 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
-  urllib3之所以是现在最流行的Python第三方库的唯一原因就是大家都需要他。(待修改)
-  <p markdown="1" class="pquote-credit">
+  如今，urllib3 成为最热门的第三方 Python 库是因为它的 [request](https://github.com/kennethreitz/requests) 部分。
+  <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
   </p>
 </aside>
@@ -152,7 +152,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS公开第一个版本的时候实在2011年初。我也就是用一些常规的方法来推广：发Twitter，写博客告诉别人可以用它来做什么，在各种各样的聚会上我都提到过它。当2014年他已经广为人知的时候。我才开始做关于它的演讲。
+  PhantomJS 公开第一个版本的时候实在2011年初。我也就是用一些常规的方法来推广：发 Twitter，写博客告诉别人可以用它来做什么，在各种各样的聚会上我都提到过它。当 2014 年他已经广为人知的时候。我才开始做关于它的演讲。
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
   </p>
