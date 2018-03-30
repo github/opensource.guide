@@ -9,7 +9,7 @@ toc:
   learning-to-say-no: "学会拒绝他人"
   leverage-your-community: "有效利用社区"
   bring-in-the-robots: "使用机器人"
-  its-okay-to-hit-pause: "It’s okay to hit pause"
+  its-okay-to-hit-pause: "不干了也没关系"
   Take care of yourself first!: "首先照顾好自己"
 order: 5
 image: /assets/images/cards/best-practices.png
@@ -272,6 +272,6 @@ fork 一个项目不什么坏事情。能复制并且修改别人的代码是开
 
 休假不仅适用于度假。如果你周末不想做开源项目的工作了，或者在本该工作的时候不想干活了，和别人说，这样他们知道什么时候不该打扰你。
 
-## It's okay to hit pause
+## Take care of yourself first!
 
 维护一个大型项目时，相比早期的增长阶段，是需要更多的不一样的技能，作为一个维护者，你会将自己的领导力和个人能力提高一个层次，而这是很少人能体会的到的。但是与此同时，要挑战管理项目，以及设定清晰的界限。只做你感到舒服的事情，能够让你保持开心，活力，高产的状态。
