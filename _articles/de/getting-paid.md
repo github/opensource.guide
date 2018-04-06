@@ -35,7 +35,7 @@ Es gibt viele Gründe, warum eine Person nicht für ihre Open-Source-Arbeit beza
 
 * **Sie haben vielleicht schon einen Vollzeitjob, den sie lieben,**  uns der ihnen ermöglicht, in ihrer Freizeit einen Beitrag zu Open-Source-Software zu leisten.
 * **Sie mögen Open Source als Hobby,** oder als kreative Flucht und wollen sich finanziell nicht verpflichtet fühlen, an ihren Projekten arbeiten zu müssen.
-* **Sie ziehen andere Vorteile aus ihren Open-Source-Beiträgen,** wie z.B. den Aufbau ihres Rufs oder Portfolios, das Erlernen neuer Fertigkeiten oder das Gefühl, in einer einer Gemeinschaft eingebettet zu sein.
+* **Sie ziehen andere Vorteile aus ihren Open-Source-Beiträgen,** wie z.B. den Aufbau ihres Rufs oder Portfolios, das Erlernen neuer Fertigkeiten oder das Gefühl, in einer Gemeinschaft eingebettet zu sein.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
@@ -103,10 +103,10 @@ Wenn Sie kein existierendes Open-Source-Projekt haben, an dem Sie gerne arbeiten
 
 Viele Unternehmen entwickeln Open-Source-Programme, um ihre Marke aufzubauen und Talente zu rekrutieren.
 
-@hueniverse z.B., fand heraus, dass es finanzielle Gründe gab, die die [Investition von Walmart in Open Source zu rechtfertigten.](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). Und @jamesgpearce fand heraus, dass Facebooks Open-Source-Program [den Unterschied in der Personalakquise](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) machte:
+@hueniverse z.B., fand heraus, dass es finanzielle Gründe gab, die [Investition von Walmart in Open Source zu rechtfertigten.](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). Und @jamesgpearce fand heraus, dass Facebooks Open-Source-Program [den Unterschied in der Personalakquise](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) machte:
 
 > Es ist eng mit unserer Hackerkultur und der Wahrnehmung unseres Unternehmens verbunden. Wir fragten unsere Angestellten: "Kanntet ihr das Open-Source-Software-Programm von Facebook?". Zwei Drittel sagten "Ja". Die Hälfte sagte, dass das Programm positiv zu ihrer Entscheidung beigetragen hat, für uns zu arbeiten. Das sind keine marginalen Zahlen, und ich hoffe, ein Trend, der sich fortsetzt.
-
+> 
 > It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
 
 Wenn Ihr Unternehmen diesen Weg einschlägt, ist es wichtig, die Grenzen zwischen Gemeinschafts- und Unternehmenstätigkeit klar zu halten, denn Open Source erhält sich letztlich durch Beiträge von Menschen auf der ganzen Welt. Und das ist größer als jedes einzelne Unternehmen oder jeder einzelne Standort.
