@@ -1,10 +1,10 @@
 ---
 lang: de
-title: Building Welcoming Communities
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
+title: Offenherzige Gemeinschaften aufbauen
+description: Aufbau einer Gemeinschaft, die Menschen ermutigt, Ihr Projekt zu nutzen, zu unterstützen und weiter zu verbreiten.
 class: building
 toc:
-  setting-your-project-up-for-success: "Setting your project up for success"
+  ihr-projekt-zum-erfolg-führen: "Ihr Projekt zum Erfolg führen"
   growing-your-community: "Growing your community"
   resolving-conflicts: "Resolving conflicts"
 order: 4
@@ -14,97 +14,107 @@ related:
   - coc
 ---
 
-## Setting your project up for success
+## Ihr Projekt zum Erfolg führen
 
-You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
+Ihr gerade gestartetes Projekt wird schon verbreitet und Leute schauen vorbei? Fantastisch! Wie überzeugen Sie sie, dabei zu bleiben?
 
-A welcoming community is an investment into your project's future and reputation. If your project is just starting to see its first contributions, start by giving early contributors a positive experience, and make it easy for them to keep coming back.
+Eine einladende, offenherzige Gemeinschaft ist eine Investition in die Zukunft und den Ruf Ihres Projekts. Wenn Ihr Projekt gerade erst die initialen Kontributionen erfährt, fangen Sie damit an, den frühen Kontributor\*innen eine positive Erfahrung zu bereiten, und machen Sie es ihnen leicht, wiederzukommen.
 
-### Make people feel welcome
+### Geben Sie Leuten das Gefühl, willkommen zu sein
 
-One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
+Die Community Ihres Projekts kann nach @MikeMcQuaid als "Kontributorentrichter" ([contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel)) aufgefasst werden:
 
 ![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
+Während Sie Ihre Community aufbauen, überlegen Sie sich, wie jemand am Eingang des Trichters (potenzielle\*r Benutzer\*in) theoretisch den Weg nach unten finden könnte (aktiver\* Mitstreiter\*in). Ihr Ziel ist es, jede Phase des Mithelfens möglichst reibungslos zu gestalten. Denn wenn die Leute "leichte Beute" machen können, ermutigt sie dies zu weiteren Beiträgen.
 
-Start with your documentation:
+Beginnen Sie mit der Dokumentation:
 
-* **Make it easy for someone to use your project.** [A friendly README](../starting-a-project/#writing-a-readme) and clear code examples will make it easier for anyone who lands on your project to get started.
-* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) and keeping your issues up-to-date.
+* **Helfen Sie beim Einstieg in ihr Projekt.** [eine freundliche README](../starting-a-project/#writing-a-readme) und anschauliche Codebeispiele erleichtern allen, die auf Ihr Projekt stoßen, den Einstieg.
+* **Erklären Sie in klaren Worten, wie Leute beitragen sollen**, bspw. in [einer CONTRIBUTING-Datei](../starting-a-project/#writing-your-contributing-guidelines), und indem Sie die Issues stets aktuell halten.
 
-[GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) showed incomplete or confusing documentation is the biggest problem for open source users. Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
+[GitHubs 2017er Open-Source-Umfrage](http://opensourcesurvey.org/2017/) zeigte, dass unvollständige oder verwirrende Dokumentation das größte Problem für Open-Source-Anwender\*innen ist. Eine gute Dokumentation lädt dazu ein, mit Ihrem Projekt zu interagieren. Wenn jemand ein Issue oder einen Pull-Request erstellt, haben Sie die Möglichkeit, diese Person durch den Trichter zu bugsieren.
 
-* **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
-* **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
-* **Be open-minded about the types of contributions you'll accept.** Many contributors start with a bug report or small fix. There are [many ways to contribute](../how-to-contribute/#what-it-means-to-contribute) to a project. Let people help how they want to help.
-* **If there's a contribution you disagree with,** thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project, linking to relevant documentation if you have it.
+* **Wenn Leute neu auf Ihrem Projekt landen, danken Sie ihnen für ihr Interesse!** Es braucht nur eine negative Erfahrung, um jemanden nachhaltig abzuschrecken.
+* **Antworten Sie schnell.** Wenn Sie einen Monat lang nicht auf jemandes Issue reagieren, ist es wahrscheinlich, dass diese Person Ihr Projekt bereits vergessen hat.
+* **Nehmen Sie verschiedener Beitragsarten an.** Viele Mitwirkende beginnen mit einem Fehlerbericht oder einer kleinen Korrektur: Es gibt [viele Möglichkeiten, einen Beitrag zu leisten](../how-to-contribute/#what-it-means-to-contribute) zu einem Projekt. Lassen Sie Leute so helfen, wie diese es möchten.
+* **Wenn es einen Beitrag gibt, mit dem Sie nicht einverstanden sind,** bedanken Sie sich trotzdem, aber [erkläre warum](../best-practices/#learning-to-say-no) die Idee nicht in den Projektrahmen passt. Verlinken Sie auf relevante Dokumentation, wenn vorhanden.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
+
+  Zu Open Source beizutragen ist für Manche einfacher als für Andere. Manche haben Angst, angeschrien zu werden, weil sie etwas nicht richtig machen könnten oder einfach nicht hineinpassen. (...) Indem man den Mitwirkenden die Möglichkeiten gibt, auch mit sehr geringen technischen Kenntnissen (Dokumentation, Abschriften von Webinhalten, etc.) beitragen zu können, kann man diese Bedenken stark reduzieren.
+
   Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
+
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
 
-The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
+Die Mehrheit der Open-Source-Mitwirkenden sind "Gelegenheitsmitwirkende": Personen, die nur gelegentlich an einem Projekt mitarbeiten. Möglicherweise haben sie nicht die Zeit, sich mit Ihrem Projekt vertraut zu machen. Daher ist es Ihre Aufgabe, es Leuten leicht zu machen, einen Beitrag zu leisten.
 
-Encouraging other contributors is an investment in yourself, too. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
+Andere zur Mitarbeit zu ermutigen, ist auch eine Investition in sich selbst: Wenn Sie Ihre größten Fans dazu befähigen, mit an etwas zu arbeiten, das sie begeistert, stehen Sie unter weniger Druck, alles selbst zu erledigen.
 
-### Document everything
+### Dokumentieren Sie alles
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
+
+  Waren Sie schon einmal auf einer (Technik-)Veranstaltung, auf der Sie niemanden kannten, aber alle anderen schienen in Gruppen zu stehen und wie alte Freunde zu plaudern? (...) Jetzt stellen Sie sich vor, Sie wollen zu einem Open-Source-Projekt beitragen, aber Sie sehen nicht, warum oder wie das passiert.
+
   Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
+
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-When you start a new project, it may feel natural to keep your work private. But open source projects thrive when you document your process in public.
+Wenn Sie ein neues Projekt starten, mag es sich normal anfühlen, Ihre Arbeit privat zu halten. Aber Open-Source-Projekte gedeihen, wenn Sie Ihren Prozess öffentlich dokumentieren.
 
-When you write things down, more people can participate at every step of the way. You might get help on something you didn't even know you needed.
+Wenn Sie Dinge aufschreiben, können mehr Leute an jedem Schritt des Weges teilnehmen. Vielleicht bekommen Sie Hilfe zu etwas, von dem Sie nicht einmal wussten, dass Sie es brauchen.
 
-Writing things down means more than just technical documentation. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public.
+Dinge aufzuschreiben, ist mehr als nur technische Dokumentation. Wenn Sie den Drang verspüren, etwas aufzuschreiben oder Ihr Projekt privat zu diskutieren, fragen Sie sich, ob Sie es nicht doch öffentlich machen können.
 
-Be transparent about your project's roadmap, the types of contributions you're looking for, how contributions are reviewed, or why you made certain decisions.
+Seien Sie transparent was die Roadmap Ihres Projekts angeht, die Arten von Beiträgen, nach denen Sie suchen, wie Beiträge überprüft werden, oder warum Sie bisherige Entscheidungen so getroffen haben.
 
-If you notice multiple users running into the same problem, document the answers in the README.
+Wenn Sie feststellen, dass mehrere Benutzer\*innen auf das gleiche Problem stoßen, dokumentieren Sie die Antworten in der README,
 
-For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+Ziehen Sie in Betracht, Besprechungsnotizen oder Schlussfolgerungen zu veröffentlichen. Die Rückmeldungen, die Sie aufgrund dieser Transparenz erhalten, könnten Sie überraschen.
 
-Documenting everything applies to the work you do, too. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
+Alles zu dokumentieren, gilt auch für Ihre Arbeit. Wenn Sie an einem umfangreichen Update Ihres Projekts arbeiten, erstellen Sie früh einen Pull-Request und kennzeichnen Sie ihn als "Work in Progress" (WIP). So fühlen sich andere Personen frühzeitig in den Prozess eingebunden.
 
-### Be responsive
+### Antworten Sie schnell
 
-As you [promote your project](../finding-users), people will have feedback for you. They may have questions about how things work, or need help getting started.
+Wenn Sie [für Ihr Projekt werben](../finding-users), werden Leute Ihnen Rückmeldungen geben. Vielleicht in Form von Fragen, wie etwas in Ihrem Projekt funktioniert, oder sie brauchen Starthilfe bei der Benutzung.
 
-Try to be responsive when someone files an issue, submits a pull request, or asks a question about your project. When you respond quickly, people will feel they are part of a dialogue, and they'll be more enthusiastic about participating.
+Versuchen Sie, schnell zu reagieren, wenn jemand ein Issue oder einen Pull-Request einreicht, oder eine Frage zu Ihrem Projekt stellt. Eine schnell Antwort gibt den Leuten das Gefühl, an einem Dialog teilzunehmen, und das kann ermutigend wirken, weiter mitzuhelfen.
 
-Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
+Auch wenn Sie die Anfrage nicht sofort inhaltlich prüfen können, hilft die frühzeitige Bestätigung, das Engagement zu erhöhen. Ein Beispiel: @tdreyno reagiert auf einen Pull-Request an [Middleman] (https://github.com/middleman/middleman/pull/1466):
 
-![Middleman pull request](/assets/images/building-community/middleman_pr.png)
+![Pull-Request an Middleman](/assets/images/building-community/middleman_pr.png)
 
-[A Mozilla study found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
+[Eine Mozilla-Studie fand heraus, dass](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) Kontributionen\*innen, deren Codebeitrag innerhalb von 48 Stunden überprüft wurde, deutlich häufiger nochmal mithalfen.
 
-Conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
+Ihr Projekt kann an allen möglichen Orten im Internet besprochen werden, wie z.B. auf Stack Overflow, Twitter oder Reddit. An einigen dieser Orte können Sie Benachrichtigungen einrichten, damit Sie mitbekommen, wenn jemand Ihr Projekt erwähnt.
 
-### Give your community a place to congregate
+### Geben Sie Ihrer Gemeinschaft einen Ort, an dem sie sich versammeln kann.
 
-There are two reasons to give your community a place to congregate.
+Es gibt zwei Gründe, Ihrer Gemeinschaft einen Ort der Begegnung zu geben.
 
-The first reason is for them. Help people get to know each other. People with common interests will inevitably want a place to talk about it. And when communication is public and accessible, anybody can read past archives to get up to speed and participate.
+Der erste Grund ist, Menschen mit gemeinsamen Interessen zu helfen, sich kennenzulernen. Menschen mit gemeinsamen Interessen wollen sich zwangsläufig dafür treffen können, um über sie zu reden. Wenn die Kommunikation öffentlich und zugänglich ist, kann jede die Archive lesen, um sich auf den neuesten Stand zu bringen und sich daran zu beteiligen.
 
-The second reason is for you. If you don't give people a public place to talk about your project, they will likely contact you directly. In the beginning, it may seem easy enough to respond to private messages "just this once". But over time, especially if your project becomes popular, you will feel exhausted. Resist the temptation to communicate with people about your project in private. Instead, direct them to a designated public channel.
+Der zweite Grund nützt Ihnen selbst: Wenn Sie den Leuten _keinen_ öffentlichen Ort geben, um über Ihr Projekt zu sprechen, werden sie sich wahrscheinlich direkt mit Ihnen in Verbindung setzen. Am Anfang mag es einfach erscheinen, hin und wieder mal auf private Nachrichten zu antworten, aber mit der Zeit, besonders wenn Ihr Projekt populär wird, werden Sie sich erschöpft fühlen und der Versuchung widerstehen, mit Leuten über Ihr Projekt privat zu kommunizieren, anstatt sie an einen bestimmten öffentlichen Kanal zu verweisen.
 
-Public communication can be as simple as directing people to open an issue instead of emailing you directly or commenting on your blog. You could also set up a mailing list, or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
+Öffentliche Kommunikation kann ganz einfach sein: Bitten Sie Leute, ein Issue zu öffnen, anstatt Ihnen direkt eine E-Mail zu schreiben oder in Ihr Blog zu kommentieren. Sie können für Leute, die über Ihr Projekt sprechen möchten, auch eine Mailingliste einrichten oder einen Twitter-Account, einen Slack- oder IRC-Kanal. Oder alles dies ausprobieren!
 
-[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) sets aside office hours every other week to help community members:
+[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) legt alle zwei Wochen Bürozeiten fest, um den Mitgliedern der Gemeinschaft zu helfen:
 
+> Die Kops-Betreuer\*innen haben sich bereit erklärt, Zeit einzuplanen für die Arbeit mit Neuankömmlingen, die Unterstützung von Pull-Requests, sowie für die Diskussion über neue Funktionen.
+>
 > Kops also has time set aside every other week to offer help and guidance to the community. Kops maintainers have agreed to set aside time specifically dedicated to working with newcomers, helping with PRs, and discussing new features.
 
-Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
+Wichtige Ausnahmen für die öffentliche Kommunikation sind: 1) Sicherheitsprobleme und 2) Verstöße gegen den Verhaltenskodex; Sie sollten immer eine Möglichkeit haben, diese Probleme privat zu melden. Wenn Sie Ihre persönliche E-Mail-Adresse dafür nicht verwenden möchten, richten Sie eine dedizierte Adresse ein.
 
 ## Growing your community
 
