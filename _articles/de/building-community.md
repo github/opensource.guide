@@ -5,7 +5,7 @@ description: Aufbau einer Gemeinschaft, die Menschen ermutigt, Ihr Projekt zu nu
 class: building
 toc:
   ihr-projekt-zum-erfolg-führen: "Ihr Projekt zum Erfolg führen"
-  growing-your-community: "Growing your community"
+  ihre-nutzergemeinschaft-vergrößern: "Ihre Nutzergemeinschaft vergrößern"
   resolving-conflicts: "Resolving conflicts"
 order: 4
 image: /assets/images/cards/building.png
@@ -116,79 +116,93 @@ Der zweite Grund nützt Ihnen selbst: Wenn Sie den Leuten _keinen_ öffentlichen
 
 Wichtige Ausnahmen für die öffentliche Kommunikation sind: 1) Sicherheitsprobleme und 2) Verstöße gegen den Verhaltenskodex; Sie sollten immer eine Möglichkeit haben, diese Probleme privat zu melden. Wenn Sie Ihre persönliche E-Mail-Adresse dafür nicht verwenden möchten, richten Sie eine dedizierte Adresse ein.
 
-## Growing your community
+## Ihre Nutzergemeinschaft vergrößern
 
-Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
+Eine Gemeinschaft kann sehr kraftvoll sein. Diese kann zu Segen und Fluch werden, je Art der Nutzung. Wenn die Projektsgemeinschaft wächst, gibt es Möglichkeiten, ihr zu einer konstruktiven Kraft zu verhelfen, anstatt zu einer destruktiven.
 
-### Don't tolerate bad actors
+### Dulden Sie keine destruktiven Akteure
 
-Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
+Jedes populäre Projekt wird unweigerlich Menschen anziehen, die Ihrer Gemeinschaft mehr schaden als helfen. Bspw. indem Sie können unnötige Debatten starten, über triviale Dinge streiten oder Andere schikanieren
 
-Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave.
+Tun Sie Ihr Bestes, um eine Null-Toleranz-Politik gegenüber solchen Leuten zu verfolgen. Denn wenn obiges Verhalten unsanktioniert bleibt, werden andere Kontributor\*innen sich genervt fühlen und evtl. sogar Ihr Projekt verlassen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+
+  Es ist wahrlich wichtig, eine unterstützende Gemeinschaft zu haben. Ohne die Hilfe meiner Kollegen\*innen, freundlicher Fremder aus dem Internet und gesprächiger IRC-Kanäle wäre ich nie in der Lage, diese Arbeit zu tun. (...) Geben Sie sich nicht mit weniger zufrieden. Geben Sie sich nicht mit Arschlöchern zufrieden.
+
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
+
   <p markdown="1" class="pquote-credit">
 — @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
   </p>
 </aside>
 
-Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
+Regelmäßige Debatten über triviale Aspekte Ihres Projekts lenken alle davon ab, sich auf wichtige Aufgaben zu konzentrieren. Neue Leute, die zu Ihrem Projekt kommen, können diese Gespräche sehen und wollen nicht teilnehmen.
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
+Wenn Sie ein destruktives Verhalten in Ihrem Projekt beobachten, sprechen Sie es öffentlich an. Erklären Sie freundlich aber bestimmt, warum so etwas nicht akzeptabel ist. Wenn das Problem weiterbesteht, müssen Sie die [Verursacher\*innen bitten, das Projekt zu verlassen](.../code-of-conduct/#enforcing-your-code-of-conduct), Ihr [Verhaltenskodex](.../code-of-conduct/) kann eine konstruktive Anleitung für solche Gespräche sein.
 
-### Meet contributors where they're at
+### Holen Sie Mitwirkende dort ab, wo sie sich stehen
 
-Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
+Eine gute Dokumentation wird nur immer wichtiger, je mehr Ihre Community wächst. Gelegenheitskontributor\*innen, die mit Ihrem Projekt nicht vertraut sind, lesen Ihre Dokumentation, um schnell den nötigen Überblick zu bekommen.
 
-In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. [Django](https://github.com/django/django), for example, has a special landing page to welcome new contributors.
+Geben Sie in Ihrer CONTRIBUTING-Datei explizit an, wie sie anfangen sollen. Vielleicht möchten Sie sogar eine eigene Sektion für diesen Zweck einrichten: [Django](https://github.com/django/django) zum Beispiel, hat eine spezielle Startseite, die neue Mitwirkende willkommen heißt.
 
-![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
+![Djangos Startseite für neue Mitwirkende](/assets/images/building-community/django_new_contributors.png)
 
-In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first bug"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
+Die Liste der Issues sollte durchsortiert sein, Bugs z.B. als solche markiert, sowie Issues auch für unterschiedliche potentielle Kontributionen\*innen: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first issue"_, oder _"documentation"_. [Solche  "Labels"](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) vereinfachen es Neuankömmlingen, sich in Ihrem Projekt zurechtzufinden und mit der Lösung eines Problems zu beginnen.
 
-Finally, use your documentation to make people feel welcome at every step of the way.
+Nicht zuletzt sollten Sie die Dokumentation nutzen, um Leute mit offenen Armen zu empfangen und ihnen Schritt-für-Schritt zu helfen.
 
-You will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Even a few kind words can keep someone from leaving your project in frustration.
+Sie werden mit den meisten Leuten, die auf Ihr Projekt stoßen nie interagieren. Ihnen könnten Beiträge entgehen, weil jemand sich eingeschüchtert fühlte, oder nicht herausfand, was es denn zu tun gab. Schon ein paar freundliche Worte können verhindern, dass jemand einfach weiter zieht.
 
-For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts [its contributing guide](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+Zum Beispiel: [Rubinius](https://github.com/rubinius/rubinius/) beginnt [den Kontributionsratgeber](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md) mit:
 
+> Zum Einstieg möchten wir Dir erstmal unseren Dank aussprechen, dass Du Rubinius nutzt. Dieses Projekt wurde mit viel Liebe aufgebaut und wir schätzen alle Benutzer\*innen, die Fehler aufspüren, Geschwindigkeitsverbesserungen vornehmen und bei der Dokumentation helfen. Jeder Beitrag bedeutet uns etwas, also vielen Dank für Ihre Teilnahme! Wir bitten Sie jedoch, einige Richtlinien zu befolgen, damit wir Ihr Issue erfolgreich bearbeiten können.
+>
 > We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
 
-### Share ownership of your project
+### Teilen Sie die Eigentümerschaft an Ihrem Projekt
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+
+  Ihre Projektverantwortlichen werden unterschiedliche Meinungen haben, wie es in allen gesunden Gemeinschaften üblich sein sollte. Sie müssen jedoch dafür sorgen, dass nicht immer die lauteste Stimme gewinnt, indem sie die Menschen ermüdet, und dass weniger prominente und Minderheitenstimmen ebenfalls zu hören sind.
+
   Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
+
   <p markdown="1" class="pquote-credit">
 — @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-People are excited to contribute to projects when they feel a sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you give credit to others, the more they'll stick around.
+Leute sind begeistert davon, an Projekten mitzuwirken, wenn sie ein Gefühl für Verantwortung bekommen. Das bedeutet nicht, dass Sie Ihre Projektvision umdrehen müssen, oder Beiträge annehmen, die Sie nicht wollen. Je mehr Anerkennung Sie anderen Menschen jedoch zollen, desto eher werden diese bei Ihrem Projekt bleiben.
 
-See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
+Schauen Sie, ob Sie Wege finden können, Verantwortlichkeiten so weit wie möglich mit Ihren Projektteilnehmer\*innen zu teilen:
 
-* **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
+* **Lassen Sie einfache (unkritische) Bugs unangetastet.** Nutzen Sie sie stattdessen als Gelegenheit, neue Mitwirkende zu rekrutieren, oder helfen Sie einem hilfsbereiten Neuling den Prozess eines Bug-Fixes zu durchlaufen. Es mag zunächst unnatürlich erscheinen, aber Ihre Investition wird sich im Laufe der Zeit auszahlen. @michaeljoseph hat zum Beispiel einen Mitwirkenden gebeten, einen Pull-Request zu einem der folgenden Probleme in [Cookiecutter](https://github.com/audreyr/cookiecutter) zu stellen, anstatt es selbst zu beheben.
 
-![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
+![Cookiecutter-Issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) does.
+* **Führen Sie eine CONTRIBUTORS- oder AUTHORS-Datei in Ihrem Projekt**, die alle Leute aufzählt, die einen Beitrag geleistet haben, wie z.B. bei [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
 
-* If you've got a sizable community, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+* Wenn Sie schon eine etwas größere Gemeinschaft versammelt haben, **senden Sie eine Rundmail oder schreiben ins Blog**, dass Sie Kontributor\*innen danken. Rusts [This Week in Rust](https://this-week-in-rust.org/) und Hoodies [Shoutout-Grüße](http://hood.ie/blog/shoutouts-week-24.html) sind zwei gute Beispiele dafür.
 
-* **Give every contributor commit access.** @felixge found that this made people [more excited to polish their patches](https://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
+* **Gib allen Kontributor\*innen Schreibzugriff.** @felixge fand heraus, dass dies Leute [zu mehr Feinschliff ihrer Beiträge anspornt](https://felixge.de/2013/03/11/the-pull-request-hack.html), und gewann sogar neue Maintainer für Projekte, an denen er selbst schon eine Weile nicht mehr arbeitete.
 
-* If your project is on GitHub, **move your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. Organizations make it easier to work on projects with external collaborators.
+* Wenn Ihr Projekt auf GitHub liegt, **verschieben Sie es von Ihrem Privat-Konto in das einer [Organisation](https://help.github.com/articles/creating-a-new-organization-account/)** und fügen Sie zur Sicherheit mindestens einen weiteren Admin hinzu. Organisationen machen die Zusammenarbeit mit externen Mithelfenden einfacher.
 
-The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. The bigger your project, and the bigger your community, the easier it is to find help.
+Realistischerweise haben [die meisten Projekte](https://peerj.com/preprints/1233.pdf) nur ein oder zwei Verantwortliche, die die meiste Arbeit erledigen. Ja größer Ihr Projekt, und je größer seine Nutzer\*innengemeinschaft, desteo einfacher wird es sein, Hilfe zu finden.
 
-While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
+Während Sie vielleicht nicht immer Leute finden, die einem Aufruf folgen, erhöht so ein Signals doch die Wahrscheinlichkeit, dass Andere mitmachen. Je früher Sie damit anfangen, desto eher können die Leute helfen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
+
+  \[Es liegt in deinem Interesse\], Mitwirkende zu rekrutieren, die Spaß daran haben und fähig sind, die Aufgaben zu erledigen, die du nicht kannst. Wenn Sie gerne programmieren, aber keine Issues beantworten möchten, dann identifizieren Sie die Personen in Ihrem Projekt, die es möchte, und lassen Sie sie einfach machen.
+
   \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
+
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
   </p>
