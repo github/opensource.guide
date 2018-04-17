@@ -312,6 +312,6 @@ Ein solcher Tiebreaker kann die oder der Hauptverantwortliche für das Projekt s
 
 Ihr Tiebreaker sollte der letzte Ausweg sein, denn zunächst entzweiend wirkende Probleme sind eine Chance für Ihre Gemeinschaft, zu wachsen und zu lernen. Nutzen Sie diese Möglichkeiten, um in einem gemeinsamen Prozess zu einer Lösung zu kommen, wo immer dies möglich ist.
 
-## Community is the ❤️ of open source
+## Das ❤️ von Open-Source sind Gemeinschaften
 
-Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone out there have an unforgettable open source experience.
+Gesunde, blühende Gemeinschaften sorgen für den Antrieb für Tausende von Stunden, die jede Woche in Open-Source gesteckt werden. Viele Mitwirkende verweisen auf andere Menschen als Grund dafür, an Open-Source zu arbeiten (oder eben nicht). Indem Sie lernen, diese Kraft konstruktiv zu nutzen, werden Sie jemandem da draußen helfen, ein unvergessliches Open-Source-Erlebnis zu haben.
