@@ -192,7 +192,7 @@ Schauen Sie, ob Sie Wege finden können, Verantwortlichkeiten so weit wie mögli
 
 * Wenn Ihr Projekt auf GitHub liegt, **verschieben Sie es von Ihrem Privat-Konto in das einer [Organisation](https://help.github.com/articles/creating-a-new-organization-account/)** und fügen Sie zur Sicherheit mindestens einen weiteren Admin hinzu. Organisationen machen die Zusammenarbeit mit externen Mithelfenden einfacher.
 
-Realistischerweise haben [die meisten Projekte](https://peerj.com/preprints/1233.pdf) nur ein oder zwei Verantwortliche, die die meiste Arbeit erledigen. Ja größer Ihr Projekt, und je größer seine Nutzer\*innengemeinschaft, desteo einfacher wird es sein, Hilfe zu finden.
+Realistischerweise haben [die meisten Projekte](https://peerj.com/preprints/1233.pdf) nur ein oder zwei Verantwortliche, die meiste Arbeit erledigen. Ja größer Ihr Projekt, und je größer seine Nutzer\*innengemeinschaft, desteo einfacher wird es sein, Hilfe zu finden.
 
 Während Sie vielleicht nicht immer Leute finden, die einem Aufruf folgen, erhöht so ein Signals doch die Wahrscheinlichkeit, dass Andere mitmachen. Je früher Sie damit anfangen, desto eher können die Leute helfen.
 
