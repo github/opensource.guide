@@ -6,7 +6,7 @@ class: building
 toc:
   ihr-projekt-zum-erfolg-führen: "Ihr Projekt zum Erfolg führen"
   ihre-nutzergemeinschaft-vergrößern: "Ihre Nutzergemeinschaft vergrößern"
-  resolving-conflicts: "Resolving conflicts"
+  konflikte-beilegen: "Konflikte beilegen"
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -140,7 +140,7 @@ Tun Sie Ihr Bestes, um eine Null-Toleranz-Politik gegenüber solchen Leuten zu v
 
 Regelmäßige Debatten über triviale Aspekte Ihres Projekts lenken alle davon ab, sich auf wichtige Aufgaben zu konzentrieren. Neue Leute, die zu Ihrem Projekt kommen, können diese Gespräche sehen und wollen nicht teilnehmen.
 
-Wenn Sie ein destruktives Verhalten in Ihrem Projekt beobachten, sprechen Sie es öffentlich an. Erklären Sie freundlich aber bestimmt, warum so etwas nicht akzeptabel ist. Wenn das Problem weiterbesteht, müssen Sie die [Verursacher\*innen bitten, das Projekt zu verlassen](.../code-of-conduct/#enforcing-your-code-of-conduct), Ihr [Verhaltenskodex](.../code-of-conduct/) kann eine konstruktive Anleitung für solche Gespräche sein.
+Wenn Sie ein destruktives Verhalten in Ihrem Projekt beobachten, sprechen Sie es öffentlich an. Erklären Sie freundlich aber bestimmt, warum so etwas nicht akzeptabel ist. Wenn das Problem weiterbesteht, müssen Sie die [Verursacher\*innen bitten, das Projekt zu verlassen](../code-of-conduct/#enforcing-your-code-of-conduct), Ihr [Verhaltenskodex](../code-of-conduct/) kann eine konstruktive Anleitung für solche Gespräche sein.
 
 ### Holen Sie Mitwirkende dort ab, wo sie sich stehen
 
@@ -199,7 +199,7 @@ Während Sie vielleicht nicht immer Leute finden, die einem Aufruf folgen, erhö
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
 
-  \[Es liegt in deinem Interesse\], Mitwirkende zu rekrutieren, die Spaß daran haben und fähig sind, die Aufgaben zu erledigen, die du nicht kannst. Wenn Sie gerne programmieren, aber keine Issues beantworten möchten, dann identifizieren Sie die Personen in Ihrem Projekt, die es möchte, und lassen Sie sie einfach machen.
+  _\[Es liegt in deinem Interesse\], Mitwirkende zu rekrutieren, die Spaß daran haben und fähig sind, die Aufgaben zu erledigen, die du nicht kannst. Wenn Sie gerne programmieren, aber keine Issues beantworten möchten, dann identifizieren Sie die Personen in Ihrem Projekt, die es möchte, und lassen Sie sie einfach machen._
 
   \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
 
@@ -208,95 +208,109 @@ Während Sie vielleicht nicht immer Leute finden, die einem Aufruf folgen, erhö
   </p>
 </aside>
 
-## Resolving conflicts
+## Konflikte beilegen
 
-In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
+In der Anfangsphase Ihres Projekts ist es einfach, wichtige Entscheidungen zu treffen: Wenn Sie etwas tun wollen, dann tun Sie es einfach.
 
 As your project becomes more popular, more people will take interest in the decisions you make. Even if you don't have a big community of contributors, if your project has a lot of users, you'll find people weighing in on decisions or raising issues of their own.
 
-For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find resolution. But sometimes you run into an issue that's a bit harder to address.
+Je beliebter Ihr Projekt wird, desto mehr Menschen werden sich für von Ihnen getroffene Entscheidungen interessieren. Selbst wenn Sie keine große Gemeinschaft von Mitwirkenden haben: wenn Ihr Projekt viele Benutzer\*innen hat, werden darunter Leute sein, die sich über Entscheidungen auslassen oder ihre eigenen Themen ansprechen.
 
-### Set the bar for kindness
+Wenn Sie eine freundliche, respektvolle Gemeinschaft gepflegt und Ihre Prozesse offen dokumentiert haben, sollten Alle zur Lösungsfindung in der Lage sein. Aber manchmal stoßen Sie auf ein Problem, das etwas schwieriger zu lösen ist.
 
-When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
+### Setzen Sie die Messlatte für Freundlichkeit
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
+Wenn sich Ihre Gemeinschaft mit einem schwierigen Thema auseinandersetzt, können sich Gemüter schnell mal erhitzen. Menschen können wütend oder frustriert werden und es an Anderen oder an Ihnen auslassen.
+
+Ihre Aufgabe als Maintainer\*in ist es, solche Situationen vor einer Eskalation zu bewahren. Selbst wenn Sie eine klare eigene Meinung zu diesem Thema haben, versuchen Sie, die moderierende Position einzunehmen, anstatt sich in den Kampf zu stürzen und Ihre Ansichten durchzusetzen. Wenn jemand unfreundlich wird oder das Gespräch an sich reißt, [handeln Sie sofort](../building-community/#dulden-sie-keine-destruktiven-akteure), um die Diskussionen zivil und produktiv zu halten.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
+
+  _Als Projektbetreuer\*in ist es äußerst wichtig, dass Sie Ihren Mitwirkenden gegenüber respektvoll sind, denn sie nehmen das, was Sie sagen, oft sehr persönlich._
+
   As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
+
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
-Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly.
+Andere Leute erwarten von Ihnen, ein gutes Beispiel abzugeben. Sie können immer noch Enttäuschung, Unzufriedenheit oder Besorgnis ausdrücken, aber tun Sie dies auf eine ruhige Art und Weise.
 
-Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you.
+Es ist nicht einfach, einen kühlen Kopf zu bewahren, aber Führung zu zeigen, verbessert die Gesundheit der Gemeinschaft. Das Internet wird es Ihnen danken
 
-### Treat your README as a constitution
+### Nutzen Sie die README als Verfassung
 
-Your README is [more than just a set of instructions](../starting-a-project/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people are overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher vision of your project. Focusing on your README also depersonalizes the conversation, so you can have a constructive discussion.
+Ihre README-Datei ist [mehr als nur eine Anleitung](../starting-a-project/#eine-readme-schreiben). Sie ist auch das Dokument, das Ihre Ziele, Ihre Produktvision und Ihre Roadmap aufzeigt. Wenn die Leute sich zu sehr darauf konzentrieren, über die Vorzüge einer bestimmten Funktion zu diskutieren, kann es helfen, Ihre README zu überprüfen und das überragende Ziel Ihres Projekts anzusprechen. Der Verweis auf Ihre README entpersönlicht eine Diskussion auch, sodass Sie wieder konstruktiver geführt werden kann.
 
-### Focus on the journey, not the destination
+### Der Weg ist das Ziel
 
-Some projects use a voting process to make major decisions. While sensible at first glance, voting emphasizes getting to an "answer," rather than listening to and addressing each other's concerns.
+Einige Projekte nutzen einen Abstimmungsprozess, um wichtige Entscheidungen zu treffen. Auf den ersten Blick ist es sinnvoll, so eine Antwort zu finden, anstatt sich gegenseitig zuzuhören und auf die Sichtweisen Anderer einzugehen.
 
-Voting can become political, where community members feel pressured to do each other favors or vote a certain way. Not everybody votes, either, whether it's the [silent majority](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in your community, or current users who didn't know a vote was taking place.
+Abstimmungen können aber politisch werden, wenn sich die Community-Mitglieder unter Druck gesetzt fühlen, sich gegenseitig einen Gefallen zu tun oder auf eine bestimmte Art und Weise abzustimmen. Außerdem stimmt nicht jede\*r mit ab, was die [stille Mehrheit] (https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in Ihrer Gemeinschaft sein kann, oder neue Benutzer\*innen, die nicht wussten, dass eine Abstimmung stattfindet.
 
-Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) rather than consensus.
+Manchmal ist eine Abstimmung notwendig, um ein Patt aufzulösen. Aber soviel Sie können, betonen Sie die  [Konsensfindung](https://de.wikipedia.org/wiki/Konsensprinzip) statt des Konsenses an sich.
 
-Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
+Im Rahmen der Konsensfindungsprozesses diskutieren die Mitglieder der Gemeinschaft wichtige Anliegen, bis sie das Gefühl haben, angemessen gehört worden zu sein, und wenn nur noch geringe Bedenken bestehen, kommt die Gemeinschaft voran. Die Konsensfindung erkennt an, dass eine Gemeinschaft möglicherweise keine perfekte Antwort finden kann. Stattdessen priorisiert sie das Zuhören und die Diskussion.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
+
+  _Für Atom-Issues gibt es kein Abstimmungssystem, weil z.B. das Atom-Team nicht in allen Fällen einem Abstimmungssystem folgen würde. Manchmal müssen wir uns für etwas entscheiden, das wir für richtig halten, auch wenn es unbeliebt ist. (...) Was ich anbieten und versprechen kann, ist, dass der Gemeinschaft zuzuhören, meine Aufgabe ist._
+
   Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
+
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
 </aside>
 
-Even if you don't actually adopt a consensus seeking process, as a project maintainer, it's important that people know you are listening. Making other people feel heard, and committing to resolving their concerns, goes a long way to diffuse sensitive situations. Then, follow up on your words with actions.
+Auch wenn Sie als Projektbetreuer\*in keine Konsensfindung betreiben möchten, ist es wichtig, dass die Leute ein offenes Ohr bei Ihnen finden. Anderen zuzuhören, und sich für die Lösung ihrer Probleme einzusetzen, hilft beim entschärfen sensibler Situationen sehr. Lassen Sie Ihren Worten aber auch Taten folgen.
 
-Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
+Überstürzen Sie Entscheidungen nicht, nur um eine Lösung herbeizuführen. Stellen Sie sicher, dass jeder sich gehört fühlt und dass alle Informationen öffentlich gemacht wurden, bevor Sie sich auf eine Entscheidung zubewegen.
 
-### Keep the conversation focused on action
+### Halten Sie Diskussionen fokussiert auf Aktionen
 
-Discussion is important, but there is a difference between productive and unproductive conversations.
+Diskussionen sind wichtig, aber es gibt einen Unterschied zwischen produktiven und unproduktiven Gesprächen.
 
-Encourage discussion so long as it is actively moving towards resolution. If it's clear that conversation is languishing or going off-topic, jabs are getting personal, or people are quibbling about minor details, it's time to shut it down.
+Fördern Sie Diskussionen, die sich aktiv auf eine Lösung zubewegen: Wenn klar ist, dass Dinge zerredet werden oder die Konversation vom Thema abweicht, persönliche Anfeindungen passieren, oder die Leute sich über kleine Details streiten, ist es an der Zeit, die Diskussion zu beenden.
 
-Allowing these conversations to continue is not only bad for the issue at hand, but bad for the health of your community. It sends a message that these types of conversations are permitted or even encouraged, and it can discourage people from raising or resolving future issues.
+Die Fortsetzung solcher Diskussionen ist nicht nur schlecht für das jeweilige Thema, sondern auch für die Gesundheit Ihrer Gemeinschaft. Wenn die Botschaft vermittelt wird, dass unproduktive Diskussionen  erlaubt oder sogar gefördert werden, könnten Leute zukünftig davon abgehalten werden, Probleme anzusprechen oder zu lösen.
 
-With every point made by you or by others, ask yourself, _"How does this bring us closer to a resolution?"_
+Bei jedem Diskussionsbeitrag ihrerseits, oder von Anderen, sollten Sie sich fragen _"Wie bringt uns dies einer Lösung näher?"_
 
-If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
+Falls die Diskussion abdriftet, fragen Sie die Teilnehmer\*innen: _"Welche Schritte sollten wir als nächstes gehen?"_ um sie wieder zu fokussieren.
 
-If a conversation clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the issue and explain why you closed it.
+Wenn eine Diskussion offensichtlich nirgendwo hinführt, es keine klaren Maßnahmen zu ergreifen gibt, oder schon welche ergriffen wurden, schließen Sie das Issue und erklären Sie, warum Sie es geschlossen haben.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
+
+  _Eine Diskussion unaufdringlich zu einem nützlichen Ziel zu führen, ist eine Kunst. Es wird nicht funktionieren, Menschen einfach zu ermahnen, Ihre Zeit nicht mehr zu verschwenden, oder sie zu bitten, nicht zu posten, wenn sie nichts Konstruktives zu sagen haben. (...) Stattdessen müssen Sie Bedingungen für weitere Fortschritte vorschlagen: Zeigen Sie den Menschen einen Weg auf, der zu den Ergebnissen führt, die Sie wollen, aber ohne zu diktieren, wie Sie sich verhalten._
+
   Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
+
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 
-### Pick your battles wisely
+### Wählen Sie Auseinandersetzungen mit Bedacht
 
-Context is important. Consider who is involved in the discussion and how they represent the rest of the community.
+Der Kontext ist wichtig: Überlegen Sie, wer an der Diskussion beteiligt ist und wie die Diskutanten den Rest der Gemeinschaft repräsentieren.
 
-Is everybody in the community upset about, or even engaged with, this issue? Or is a lone troublemaker? Don't forget to consider your silent community members, not just the active voices.
+Ist jeder in der Community verärgert oder gar mit diesem Thema beschäftigt? Oder ist er ein\*e einzelner Unruhestifter\*in? Vergessen Sie Ihre stillen Community-Mitglieder nicht, und berücksichtigen Sie nicht nur die Aktiven.
 
-If the issue does not represent the broader needs of your community, you may just need to acknowledge the concerns of a few people. If this is a recurring issue without a clear resolution, point them to previous discussions on the topic and close the thread.
+Wenn das Thema nicht die breiteren Bedürfnisse Ihrer Gemeinde widerspiegelt, müssen Sie vielleicht nur die Sorgen einiger Weniger anerkennen. Wenn es sich um ein wiederkehrendes Problem ohne klare Lösung handelt, weisen Sie sie auf frühere Diskussionen hin und schließen Sie das Issue.
 
-### Identify a community tiebreaker
+### Identifizieren Sie einen Community-Tiebreaker
 
-With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, identify an individual or group of people that can serve as a tiebreaker.
+Mit einer positiven Herangehensweise und klarer Kommunikation sind die schwierigsten Situationen lösbar. Aber auch in einem produktiven Gespräch kann es einfach zu Meinungsverschiedenheiten kommen. Identifizieren Sie dann eine Person oder Gruppe, die quasi als Schiedsrichter fungieren kann.
 
-A tiebreaker could be the primary maintainer of the project, or it could be a small group of people who make a decision based on voting. Ideally, you've identified a tiebreaker and the associated process in a GOVERNANCE file before you ever have to use it.
+Ein solcher Tiebreaker kann die oder der Hauptverantwortliche für das Projekt sein, oder eine kleine Gruppe von Leuten, die über eine Entscheidung abstimmen. Idealerweise haben Sie einen Tiebreaker und den damit verbundenen Prozess in einer GOVERNANCE-Datei identifiziert, bevor Sie diese verwenden müssen.
 
-Your tiebreaker should be a last resort. Divisive issues are an opportunity for your community to grow and learn. Embrace these opportunities and use a collaborative process to move to a resolution wherever possible.
+Ihr Tiebreaker sollte der letzte Ausweg sein, denn zunächst entzweiend wirkende Probleme sind eine Chance für Ihre Gemeinschaft, zu wachsen und zu lernen. Nutzen Sie diese Möglichkeiten, um in einem gemeinsamen Prozess zu einer Lösung zu kommen, wo immer dies möglich ist.
 
 ## Community is the ❤️ of open source
 

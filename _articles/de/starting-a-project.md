@@ -142,7 +142,7 @@ When you create a new project on GitHub, you are given the option to select a li
 
 If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
 
-### Writing a README
+### Eine README schreiben
 
 READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
 
