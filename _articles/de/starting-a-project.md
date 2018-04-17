@@ -1,7 +1,7 @@
 ---
 lang: de
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+title: Ein Open-Source-Projekt anfangen
+description: Erfahren Sie mehr über die Open-Source-Welt und machen Sie sich bereit, Ihr eigenes Projekt zu starten.
 class: beginners
 toc:
   the-what-and-why-of-open-source: "The what and why of open source"
@@ -142,7 +142,7 @@ When you create a new project on GitHub, you are given the option to select a li
 
 If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
 
-### Writing a README
+### Eine README schreiben
 
 READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
 
