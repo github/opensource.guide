@@ -212,8 +212,6 @@ Während Sie vielleicht nicht immer Leute finden, die einem Aufruf folgen, erhö
 
 In der Anfangsphase Ihres Projekts ist es einfach, wichtige Entscheidungen zu treffen: Wenn Sie etwas tun wollen, dann tun Sie es einfach.
 
-As your project becomes more popular, more people will take interest in the decisions you make. Even if you don't have a big community of contributors, if your project has a lot of users, you'll find people weighing in on decisions or raising issues of their own.
-
 Je beliebter Ihr Projekt wird, desto mehr Menschen werden sich für von Ihnen getroffene Entscheidungen interessieren. Selbst wenn Sie keine große Gemeinschaft von Mitwirkenden haben: wenn Ihr Projekt viele Benutzer\*innen hat, werden darunter Leute sein, die sich über Entscheidungen auslassen oder ihre eigenen Themen ansprechen.
 
 Wenn Sie eine freundliche, respektvolle Gemeinschaft gepflegt und Ihre Prozesse offen dokumentiert haben, sollten Alle zur Lösungsfindung in der Lage sein. Aber manchmal stoßen Sie auf ein Problem, das etwas schwieriger zu lösen ist.
