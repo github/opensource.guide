@@ -162,4 +162,7 @@ related:
   </p>
 </aside>
 
+<<<<<<< HEAD
 프로젝트가 특정 언어 또는 생태계와 밀접하게 관련되어 있다면, 함께 작업할 수 있는 관련 소프트웨어 기반이 있을겁니다. 예시로, [파이썬 소프트웨어 재단](https://www.python.org/psf/)은 파이썬 패키지 관리자인 [PyPI](https://pypi.python.org/pypi)를 돕고, [Node.js 재단](https://nodejs.org/en/foundation/)은 노드 기반 프레임워크인 [Express.js](http://expressjs.com/)를 돕습니다.
+프로젝트가 특정 언어 또는 생태계와 밀접하게 관련되어 있다면, 함께 작업할 수 있는 관련 소프트웨어 기반이 있을겁니다. 예시로, [파이썬 소프트웨어 재단](https://www.python.org/psf/)은 파이썬 패키지 관리자인 [PyPI](https://pypi.org/)를 돕고, [Node.js 재단](https://nodejs.org/en/foundation/)은 노드 기반 프레임워크인 [Express.js](http://expressjs.com/)를 돕습니다.
+>>>>>>> 4a7cec8... Fix PyPI link some more (follow-up to #604)
