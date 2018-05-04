@@ -4,9 +4,9 @@ title: Ein Open-Source-Projekt anfangen
 description: Erfahren Sie mehr über die Open-Source-Welt und machen Sie sich bereit, Ihr eigenes Projekt zu starten.
 class: beginners
 toc:
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
   launching-your-own-open-source-project: "Launching your own open source project"
   was-ist-open-source-und-warum: "Was ist Open Source, und warum?"
+  soll-ich-mein-eigenes-open-source-projekt-starten: "Soll ich mein eigenes Open-Source-Projekt starten?"
   naming-and-branding-your-project: "Naming and branding your project"
   your-pre-launch-checklist: "Your pre-launch checklist"
 order: 2
@@ -67,53 +67,61 @@ Weil [eine Open-Source-Lizense bedingt](https://opensource.org/osd-annotated), d
 
 Daher sind die meisten Open-Source-Projekte kostenlos, aber das ist kein Teil der Open-Source-Definition. Es gibt für  Open-Source-Projekte Möglichkeiten, sich indirekt bezahlen zu lassen (z.B. über Doppellizenzierung oder eingeschränkte Funktionen) und dabei trotzdem die offizielle Definition von Open-Source weiterhin eingzuhalten.
 
-## Should I launch my own open source project?
+## Soll ich mein eigenes Open-Source-Projekt starten?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+Die kurze Antwort ist ja, denn egal wie das Ergebnis aussieht! Ein eigenes Projekt zu starten, ist eine großartige Möglichkeit, um zu lernen, wie Open Source funktioniert.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+Wenn Sie noch nie den Quellcode eines Projektes geöffnet haben, werden Sie vielleicht nervös darüber sein, was die Leute sagen werden, oder ob es jemandem auffallen wird. Mit diesen Bedenken wären Sie nicht allein!
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+Open-Source-Arbeit ist eine kreative Aktivität wie Schreiben oder Malen, oder anderes. Es kann beängstigend sein, seine Arbeit mit der Welt zu teilen, aber der einzige Weg besser zu werden, ist zu üben - auch wenn man kein Publikum hat.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+Wenn Sie noch nicht überzeugt sind, nehmen Sie sich einen Moment Zeit, um darüber nachzudenken, was Ihre Ziele sein könnten.
 
-### Setting your goals
+### Ihre Ziele definieren
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+Ziele können Ihnen helfen, herauszufinden, woran Sie arbeiten sollen, was Sie ablehnen sollen und wo Sie Hilfe von anderen brauchen. Fragen Sie sich zuerst: _Warum öffne ich dieses Projekt?_
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+Es gibt keine richtige Antwort auf diese Frage. Vielleicht haben Sie mehrere Ziele für ein einzelnes Projekt oder verschiedene Projekte mit unterschiedlichen Zielen.
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+Wenn es Ihr einziges Ziel ist, Ihre Arbeit zu zeigen, wollen Sie vielleicht nicht einmal Beiträge, und sagen Sie es sogar in Ihrer README. Andererseits, wenn Sie sich Beiträge wünschen: Investieren Sie Zeit in eine klare Dokumentation, damit sich Neuankömmlinge willkommen fühlen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+
+  Irgendwann habe ich eine eigene UIAlertView erstellt, die ich benutzt habe... Und ich entschied mich dafür, sie zu Open-Source-n, also habe ich sie dynamischer gestaltet und auf GitHub hochgeladen und auch meine erste Dokumentation geschrieben, die anderen Entwickler\*innen erklärt, wie man sie in ihren Projekten verwendet. Wahrscheinlich hat es nie jemand benutzt, weil es ein einfaches Projekt war, aber ich fühlte mich wegen meines Beitrags gut.
+
+  _At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution._
+
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+Wenn Ihr Projekt wächst, braucht Ihre Community mehr als nur Code von Ihnen. Die Reaktion auf Probleme, die Überprüfung von Code und das Anpreisen Ihres Projekts sind alles wichtige Aufgaben in einem Open-Source-Projekt.
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+Während die Zeit, die Sie für nicht programmierte Aufgaben aufwenden, von der Größe und dem Umfang Ihres Projekts abhängt, sollten Sie als Betreuer\*in darauf vorbereitet sein, diese selbst anzugehen oder jemanden zu finden, der Ihnen hilft.
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**Wenn Sie Teil eines Unternehmens sind, das ein Projekt Open-Source-t**, stellen Sie sicher, dass Ihr Projekt über die internen Ressourcen verfügt, die es braucht, um zu gedeihen: Sie wollen klarstellen, wer für die Wartung des Projekts nach dem Start verantwortlich ist und wie Sie diese Aufgaben mit Ihrer Gemeinde teilen.
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+Wenn Sie ein dediziertes Budget oder Personal für Promotion, Betrieb und Wartung des Projekts benötigen, planen Sie dies frühzeitig.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+
+  Wenn Sie mit dem Open-Source-Projekt beginnen, ist es wichtig, dass Ihre Managementprozesse die Beiträge und Fähigkeiten der Community rund um Ihr Projekt berücksichtigen. Scheuen Sie sich nicht, Mitarbeiter\*innen, die nicht in Ihrem Unternehmen beschäftigt sind, in Kernbereiche des Projekts einzubeziehen - besonders wenn sie häufig mitwirken.
+
+  _As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors._
+
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
   </p>
 </aside>
 
-### Contributing to other projects
+### Zu anderen Projekten beitragen
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+Wenn Ihr Ziel das Lernen ist, wie man mit anderen zusammenarbeitet oder wie Open Source funktioniert, sollten Sie in Erwägung ziehen, zu einem bestehenden Projekt beizutragen. Dies kann so einfach sein wie die Korrektur von Tippfehlern oder das Aktualisieren der Dokumentation.
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+Wenn Sie sich nicht sicher sind, wie Sie als Mitwirkender anfangen können, schauen Sie sich unseren Artikel "[Wie zu Open Source beitragen?](../how-to-contribute/)" an.
 
 ## Launching your own open source project
 
