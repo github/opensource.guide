@@ -181,7 +181,7 @@ Sie können Ihre README verwenden, um andere Fragen zu beantworten: z.B. wie Sie
 
 Manchmal vermeiden es Leute, eine README zu schreiben, weil sie das Gefühl haben, das Projekt sei unvollendet, oder weil sie keine Beiträge wollen. Aber auch dies sind gute Gründe, eine zu schreiben.
 
-Weitere Inspirationen zum Schreiben einer README finden Sie in @18F\s ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) oder in @PurpleBooth\s [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+Weitere Inspirationen zum Schreiben einer README finden Sie in @18F's ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) oder in @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
 
 Wenn Sie eine README-Datei im Hauptordner Ihres Projektes anlegen, zeigt GitHub diese automatisch auf der Homepage des Repos an.
 
@@ -211,7 +211,7 @@ In der Anfangsphase Ihres Projekts kann Ihre CONTRIBUTING-Datei einfach sein. Si
 
 Im Laufe der Zeit können Sie weitere häufig gestellte Fragen zu Ihrer CONTRIBUTING-Datei hinzufügen. Diese Informationen aufzuschreiben verhindert, dass weniger Leute die immer wieder gleichen Fragen stellen werden.
 
-@nayafia\s [CONTRIBUTING-Vorlage](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) oderr @mozilla\s ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) helfen Ihnen, Ihre Beitragsrichtlinien zu entwerfen.
+@nayafia's [CONTRIBUTING-Vorlage](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) oder @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) helfen Ihnen, Ihre Beitragsrichtlinien zu entwerfen.
 
 Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, sodass mehr Leute sie bemerken. Wenn Sie sie zudem [in Ihr Repo einchecken](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), wird GitHub sie automatisch auf sie aufmerksam machen, wenn jemand ein Issue oder Pull Request erstellt.
 
