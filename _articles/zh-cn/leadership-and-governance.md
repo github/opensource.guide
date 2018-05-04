@@ -163,4 +163,4 @@ related:
   </p>
 </aside>
 
-如果你的项目是和某特定的语言或生态系统紧密相连的，那么你可以直接在相关的软件基金会下工作。例如，[Python 软件基金会](https://www.python.org/psf/) 就帮衬着项目 [PyPI](https://pypi.python.org/)，这是一块优秀的Python包管理器，又比如[Node.js 基金会](https://nodejs.org/en/foundation/) 支撑着 [Express.js](http://expressjs.com/)，一款基于Node的框架。
+如果你的项目是和某特定的语言或生态系统紧密相连的，那么你可以直接在相关的软件基金会下工作。例如，[Python 软件基金会](https://www.python.org/psf/) 就帮衬着项目 [PyPI](https://pypi.org/)，这是一块优秀的Python包管理器，又比如[Node.js 基金会](https://nodejs.org/en/foundation/) 支撑着 [Express.js](http://expressjs.com/)，一款基于Node的框架。
