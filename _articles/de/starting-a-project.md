@@ -4,9 +4,9 @@ title: Ein Open-Source-Projekt anfangen
 description: Erfahren Sie mehr über die Open-Source-Welt und machen Sie sich bereit, Ihr eigenes Projekt zu starten.
 class: beginners
 toc:
-  launching-your-own-open-source-project: "Launching your own open source project"
   was-ist-open-source-und-warum: "Was ist Open Source, und warum?"
   soll-ich-mein-eigenes-open-source-projekt-starten: "Soll ich mein eigenes Open-Source-Projekt starten?"
+  ein-eigenes-open-source-projekt-starten: "Ein eigenes Open-Source-Projekt starten"
   naming-and-branding-your-project: "Naming and branding your project"
   your-pre-launch-checklist: "Your pre-launch checklist"
 order: 2
@@ -123,113 +123,123 @@ Wenn Ihr Ziel das Lernen ist, wie man mit anderen zusammenarbeitet oder wie Open
 
 Wenn Sie sich nicht sicher sind, wie Sie als Mitwirkender anfangen können, schauen Sie sich unseren Artikel "[Wie zu Open Source beitragen?](../how-to-contribute/)" an.
 
-## Launching your own open source project
+## Ein eigenes Open-Source-Projekt starten
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+Es gibt keine perfekte Zeit, um Ihre Arbeit zu Open-Source-n. Sie können eine Idee, ein in Arbeit befindliches Projekt, oder ein Jahre altes Closed-Source-Pröjekt öffnen.
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+Im Prinzip immer, wenn Sie sich sicher sind, dass andere Ihre Arbeit sehen sollten, und Feedback dazu geben.
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+Unabhängig davon, in welcher Phase Sie sich für Open Source entscheiden, sollte jedes Projekt die folgende Dokumentation enthalten:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+* [eine Open-Source-Lizenz](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [eine README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
+* [Beitragsrichtlinien](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [einen Verhaltenskodex](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+Als Maintainer\*in helfen Ihnen diese Komponenten, Erwartungen zu kommunizieren, Beiträge zu verwalten und die gesetzlichen Rechte aller (einschließlich Ihrer eigenen) zu schützen. Sie tragen zudem zu einer positiven Erfahrungen in Ihrem Projekt bei.
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+Wenn sich Ihr Projekt auf GitHub befindet, können Sie diese Dateien mit den empfohlenen Dateinamen in Ihrem Stammverzeichnis ablegen, damit GitHub sie erkennen und automatisch an Ihre Leser\*innen weitergeben kann.
 
-### Choosing a license
+### Eine Lizenz auswählen
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+Eine Open-Source-Lizenz garantiert, dass andere Ihr Projekt ohne Nebenwirkungen nutzen, kopieren, modifizieren und wieder einbringen können, und schützt Sie vor unangenehmen rechtlichen Situationen. **Wenn Sie ein Open-Source-Projekt starten, müssen Sie eine Lizenz angeben.**
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+Rechtsangelegenheiten sind kein Spaß. Die gute Nachricht ist, dass Sie eine bestehende Lizenz kopieren und in Ihr Repository einfügen können. Es dauert also nur eine Minute, Ihre harte Arbeit zu schützen.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), und [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sind die populärsten Open-Source-Lizenzen, aber [es gibt viele andere](https://choosealicense.com) zur Auswahl.
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+Wenn Sie ein neues Projekt auf GitHub erstellen, haben Sie die Möglichkeit, eine Lizenz auszuwählen. Mit einer Open-Source-Lizenz wird Ihr GitHub-Projekt auch wirklich zum Open-Source-Projekt.
 
-![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![Eine Lizenz auswählen](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+Wenn Sie weitere Fragen oder Bedenken bezüglich der rechtlichen Aspekte der Verwaltung eines Open-Source-Projekts haben, [können Sie sich an uns wenden](../legal/).
 
 ### Eine README schreiben
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+READMEs erklären nicht nur, wie Sie Ihr Projekt verwenden, sondern auch, warum Ihr Projekt wichtig ist und was Ihre Benutzer\*innen damit machen können.
 
-In your README, try to answer the following questions:
+Versuchen Sie in Ihrer README folgende Fragen zu beantworten:
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* Was macht dieses Projekt?
+* Wozu nützt es?
+* Wie kann ich anfangen, es zu nutzen oder etwas beizutragen?
+* Wo wird mir geholfen, wenn ich Hilfe benötige?
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+Sie können Ihre README verwenden, um andere Fragen zu beantworten: z.B. wie Sie mit Beiträgen handhaben, welche Ziele das Projekt verfolgt, oder wie es um Lizenzen und Zuschreibungen steht. Wenn Sie keine Beiträge annehmen wollen oder Ihr Projekt noch nicht produktionsreif ist, schreiben Sie auch diese Informationen auf.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+
+  Bessere Dokumentation bedeutet mehr Benutzer\*innen, weniger Supportanfragen und mehr Mitwirkende. (...) Denken Sie daran, dass Ihre Leser\*innen und andere Leute, die auf Ihr Projekt stoßen, nicht den selben Erfahrungshintergrund wie Sie haben.
+
+  _Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences._
+
   <p markdown="1" class="pquote-credit">
 — @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
-Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+Manchmal vermeiden es Leute, eine README zu schreiben, weil sie das Gefühl haben, das Projekt sei unvollendet, oder weil sie keine Beiträge wollen. Aber auch dies sind gute Gründe, eine zu schreiben.
 
-For more inspiration, try using @18F's ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+Weitere Inspirationen zum Schreiben einer README finden Sie in @18F\s ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) oder in @PurpleBooth\s [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+Wenn Sie eine README-Datei im Hauptordner Ihres Projektes anlegen, zeigt GitHub diese automatisch auf der Homepage des Repos an.
 
-### Writing your contributing guidelines
+### Ihre Beistragsrichtlinien aufschreiben
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+Eine CONTRIBUTING-Datei erklärt Ihrem Publikum, wie es zu Ihrem Projekt beitragen kann. Bspw. können Sie informieren über:
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+* Wie eine Fehlerbericht eingericht werden kann (probieren Sie hierfür die [Issue- und Pull-Request-Vorlagen](https://github.com/blog/2111-issue-and-pull-request-templates))
+* Wie neue Funktionen vorgeschlagen werden sollten
+* Wie die Entwicklungsumgebung eingerichtet wird, und wie getestet wird
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+Neben thematischen Details präsentiert die CONTRIBUTING-Datei auch Ihre Erwartungen an Beiträge, z.B:
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
+* Die Beitragsarten, die Sie gerne hätten
+* Ihre Planungen und Ziele für das Projekt
+* Wie Beitragseinreicher\*innen Sie kontaktieren sollten (oder auch nicht)
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+Mit einem warmen, freundlichen Ton und spezifischen Vorschlägen für Beiträge (wie z.B. "Dokumentationen verfassen" oder "eine Website erstellen") können Sie dazu beitragen, dass sich Neuankömmlinge willkommen und begeistert fühlen.
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with:
+Beispielsweise, [Active Admin](https://github.com/activeadmin/activeadmin/) leitet [ihre Beistragsrichtlinien](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) ein mit:
 
-> First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+> Zuerst einmal vielen Dank, dass Sie überlegt haben, einen Beitrag zu Active Admin zu leisten, denn es sind Menschen wie Sie, die Active Admin so großartig machen.
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+> _First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool._
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+In der Anfangsphase Ihres Projekts kann Ihre CONTRIBUTING-Datei einfach sein. Sie sollten immer erklären, wie Fehler oder Probleme gemeldet werden können und welche technischen Anforderungen (z.B. Tests) Leute erfüllen müssen, um einen Beitrag zu leisten.
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+Im Laufe der Zeit können Sie weitere häufig gestellte Fragen zu Ihrer CONTRIBUTING-Datei hinzufügen. Diese Informationen aufzuschreiben verhindert, dass weniger Leute die immer wieder gleichen Fragen stellen werden.
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+@nayafia\s [CONTRIBUTING-Vorlage](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) oderr @mozilla\s ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) helfen Ihnen, Ihre Beitragsrichtlinien zu entwerfen.
 
-![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, sodass mehr Leute sie bemerken. Wenn Sie sie zudem [in Ihr Repo einchecken](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), wird GitHub sie automatisch auf sie aufmerksam machen, wenn jemand ein Issue oder Pull Request erstellt.
 
-### Establishing a code of conduct
+![Beitragsrichtlinien](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+
+### Einen Verhaltenskodex etablieren
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+
+  Wir haben alle Erfahrungen gemacht, wo wir es mit einem Missbrauch zu tun hatten, entweder als Betreuer, der versuchte zu erklären, warum etwas auf eine bestimmte Weise geschehen musste, oder als Benutzer\*in (...) die/der einfache Frage stellte. (...) Ein Verhaltenskodex wird zu einem leicht referenzierbaren und verknüpfbaren Dokument, das klar stellt, dass Ihr Team den konstruktiven Diskurs sehr ernst nimmt.
+
+  _We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously._
+
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+Letztendlich hilft ein Verhaltenskodex, Grundregeln für das Verhalten der Projektbeteiligten festzulegen. Insbesondere wenn Sie ein Open-Source-Projekt für eine Community oder ein Unternehmen starten. Ein Verhaltenskodex hilft Ihnen, ein gesundes, konstruktives Gemeinschaftsverhalten zu fördern, das Ihnen Betreuer\*in Stress erspart.
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+Weitere Information finden Sie in unserer [Anleitung für Verhaltenskodices](../code-of-conduct/).
 
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+Neben der Klarstellung _welches_ Verhalten Sie von den Teilnehmer\*innen erwarten, beschreibt ein Verhaltenskodex auch, auf wen sich diese Erwartungen beziehen, wann sie gelten und was zu tun ist, wenn ein Verstoß vorliegt.
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](http://contributor-covenant.org/adopters/), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+Ähnlich zu Open-Source-Lizenzen, kommen auch Standards für Verhaltenskodices auf, sodass Sie keinen komplett eigenen schreiben müssen. Der [Contributor Covenant](https://contributor-covenant.org/) ist ein einsatzbereiter Verhaltenskodex, der von [über 40'000 Open-Source-Projekten](http://contributor-covenant.org/adopters/) verwendet wird, einschließlich Kubernetes, Rails und Swift. Egal welchen Text Sie nutzen, Sie sollten vorbereitet sein, ihn wenn nötig auch durchzusetzen.
 
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
+Fügen Sie den Text direkt in eine CODE_OF_CONDUCT-Datei in Ihrem Repository ein. Halten Sie die Datei im Stammverzeichnis Ihres Projekts, damit sie leicht zu finden ist, und verlinken Sie sie von Ihrer README.
 
 ## Naming and branding your project
 
