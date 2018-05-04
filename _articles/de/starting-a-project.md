@@ -204,7 +204,7 @@ Mit einem warmen, freundlichen Ton und spezifischen Vorschlägen für Beiträge 
 Beispielsweise, [Active Admin](https://github.com/activeadmin/activeadmin/) leitet [ihre Beistragsrichtlinien](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) ein mit:
 
 > Zuerst einmal vielen Dank, dass Sie überlegt haben, einen Beitrag zu Active Admin zu leisten, denn es sind Menschen wie Sie, die Active Admin so großartig machen.
-
+>
 > _First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool._
 
 In der Anfangsphase Ihres Projekts kann Ihre CONTRIBUTING-Datei einfach sein. Sie sollten immer erklären, wie Fehler oder Probleme gemeldet werden können und welche technischen Anforderungen (z.B. Tests) Leute erfüllen müssen, um einen Beitrag zu leisten.
@@ -224,7 +224,7 @@ Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, sodass mehr Leute sie bem
 
   Wir haben alle Erfahrungen gemacht, wo wir es mit einem Missbrauch zu tun hatten, entweder als Betreuer, der versuchte zu erklären, warum etwas auf eine bestimmte Weise geschehen musste, oder als Benutzer\*in (...) die/der einfache Frage stellte. (...) Ein Verhaltenskodex wird zu einem leicht referenzierbaren und verknüpfbaren Dokument, das klar stellt, dass Ihr Team den konstruktiven Diskurs sehr ernst nimmt.
 
-  _We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously._
+  _We've all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously._
 
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
