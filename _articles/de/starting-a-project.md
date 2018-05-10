@@ -7,7 +7,7 @@ toc:
   was-ist-open-source-und-warum: "Was ist Open Source, und warum?"
   soll-ich-mein-eigenes-open-source-projekt-starten: "Soll ich mein eigenes Open-Source-Projekt starten?"
   ein-eigenes-open-source-projekt-starten: "Ein eigenes Open-Source-Projekt starten"
-  naming-and-branding-your-project: "Naming and branding your project"
+  ihr-projekt-benennen-und-zur-marke-machen: "Ihr Projekt benennen und zur Marke machen"
   your-pre-launch-checklist: "Your pre-launch checklist"
 order: 2
 image: /assets/images/cards/beginner.png
@@ -241,52 +241,56 @@ Neben der Klarstellung _welches_ Verhalten Sie von den Teilnehmer\*innen erwarte
 
 Fügen Sie den Text direkt in eine CODE_OF_CONDUCT-Datei in Ihrem Repository ein. Halten Sie die Datei im Stammverzeichnis Ihres Projekts, damit sie leicht zu finden ist, und verlinken Sie sie von Ihrer README.
 
-## Naming and branding your project
+## Ihr Projekt benennen und zur Marke machen
 
-Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
+Eine Marke besteht aus mehr als einem auffälligen Logo oder einem einprägsamem Projektnamen. Es geht darum, wie Sie über Ihr Projekt sprechen und wen Sie mit Ihrer Botschaft erreichen.
 
-### Choosing the right name
+### Den richtigen Namen auswählen
 
-Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
+Wählen Sie einen Namen, der leicht zu merken ist und im Idealfall eine Vorstellung davon vermittelt, was das Projekt bewirkt. Bspw.:
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Sentry](https://github.com/getsentry/sentry) überwacht Apps und meldet Abstürze
+* [Thin](https://github.com/macournoyer/thin) ist ein schneller, einfacher Web-Server in Ruby
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+Wenn Sie auf einem bestehenden Projekt aufbauen, kann die Verwendung des Namens als Präfix helfen, zu klären, was Ihr Projekt tut ([node-fetch](https://github.com/bitinn/node-fetch) z.B. implementiert `window.fetch` für Node.js).
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+Denken Sie vor allem an die Klarheit. Wortspiele machen Spaß, aber denken Sie daran, dass manche Witze nicht in andere Kulturen oder für Menschen mit anderen Erfahrungen als Ihren, übersetzt werden können. Einige Ihrer potenziellen Nutzer\*innen könnten Mitarbeiter\*innen in Unternehmen sein: Sie wollen es ihnen nicht unangenehm machen, wenn sie Ihr Projekt bei der Arbeit erklären müssen!
 
-### Avoiding name conflicts
+### Namenskonflikte vermeiden
 
-[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+[Prüfen Sie, ob es Open-Source-Projekte mit ähnlichem Namen gibt](http://ivantomic.com/projects/ospnc/), insb. in der selben Sprache oder demselben Ökosystem. Wenn Ihr Projektname mit einem existierenden, populären Projekt überlappt, könnte das Ihr Publikum verwirren.
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
+Wenn Sie möchten, dass eine Website, ein Twitter-Handle, etc. Ihr Projekt repräsentieren, stellen Sie sicher, dass Sie die von Ihnen gewünschten Namen erhalten können. Um auf Nummer sicher zu gehen, können Sie [diese Namen jetzt reservieren](https://instantdomainsearch.com/), auch wenn Sie sie noch nicht verwenden möchten.
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
+Achten Sie darauf, dass der Name Ihres Projekts keine Marken verletzt, denn ein Unternehmen könnte Sie auffordern, Ihr Projekt zu einem späteren Zeitpunkt abzubrechen oder sogar rechtliche Schritte gegen Sie einzuleiten. Dieses Risiko einzugehen, ist es einfach nicht wert.
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+Nutzen Sie die [WIPO Global Brand Database](http://www.wipo.int/branddb/en/), um auf Namenskonflikte zu prüfen. Wenn Sie in einer Firma sind, is dies eine der Aufgaben, bei denen [Ihr Justiziariat Sie unterstützen kann](../legal/).
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+Zum Schluss noch eine schnelle Google-Suche nach Ihrem Projektnamen. Werden die Leute Ihr Projekt leicht finden können, erscheint etwas anderes in den Suchergebnissen, das Sie nicht sehen möchten?
 
-### How you write (and code) affects your brand, too!
+### Auch den Schreib- und Programmierstil beeinflussen Ihre Marke!
 
-Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
+Während der Lebenszeit Ihres Projektes werden Sie eine Menge schreiben: README, Anleitungen, Dokumentation, Antworten auf Anfragen, vielleicht sogar Newsletter und auf einer Mailingliste.
 
-Whether it's official documentation or a casual email, your writing style is part of your project's brand. Consider how you might come across to your audience and whether that is the tone you wish to convey.
+Egal, ob offizielle Dokumentation oder informelle E-Mail: Ihr Schreibstil ist ein Markenzeichen Ihres Projektes. Bedenken Sie, wie er bei Ihrem Publikum ankommt, und ob dies dem Tonfall entspricht, den Sie rüberbringen möchten.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+
+  Ich versuchte, an jeder Diskussion auf der Mailingliste teilzunehmen, in guter Manier, nett zu Leuten zu sein, ihre Anfragen ernst zu nehmen und Hilfe anzubieten. Nach einer Weile blieben Leuten einfach dabei, nicht nur um Fragen zu stellen, sondern auch um anderen zu antworten, und erfreulicherweise übernahmen sie meinen Schreibstil.
+
+  _I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style._
+
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
+Freundliche, [inklusive Sprache](https://fairlanguage.com/service/) können Ihr Projekt einladender für neue Helfer\*innen machen. Bleiben Sie auch bei einfacher/leichter Sprache, denn nicht alle Ihrer Leser\*innen sind Muttersprachler\*innen.
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://github.com/johnpapa/angular-styleguide) and [jQuery](https://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+Neben Wortwahl und Schreibstil, wird auch Ihr Programmierstil Teil der Marke Ihres Projekts. [Angular](https://github.com/johnpapa/angular-styleguide) und [jQuery](https://contribute.jquery.org/style-guide/js/) beispielsweise haben strenge Richtlinien dafür.
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+Eine Stilrichtlinie ist nicht sofort zum Start Ihres Projekts nötig, und vielleicht genießen Sie es auch, unterschiedliche Programmierstile in Ihr Projekt zu integrieren. Allerdings sollten Sie davon ausgehen, dass verschiedene Schreib- und Programmierstile verschiedene Leute anziehen oder abstoßen. Die Weichen für die Gemeinschaft, die Sie letztendlich aufbauen möchten, werden schon in frühen Projektphasen gelegt.
 
 ## Your pre-launch checklist
 
