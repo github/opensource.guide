@@ -8,7 +8,7 @@ toc:
   soll-ich-mein-eigenes-open-source-projekt-starten: "Soll ich mein eigenes Open-Source-Projekt starten?"
   ein-eigenes-open-source-projekt-starten: "Ein eigenes Open-Source-Projekt starten"
   ihr-projekt-benennen-und-zur-marke-machen: "Ihr Projekt benennen und zur Marke machen"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  ihre-checkliste-zur-startvorbreitung: "Ihre Checkliste zur Startvorbreitung"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -292,37 +292,37 @@ Neben Wortwahl und Schreibstil, wird auch Ihr Programmierstil Teil der Marke Ihr
 
 Eine Stilrichtlinie ist nicht sofort zum Start Ihres Projekts nötig, und vielleicht genießen Sie es auch, unterschiedliche Programmierstile in Ihr Projekt zu integrieren. Allerdings sollten Sie davon ausgehen, dass verschiedene Schreib- und Programmierstile verschiedene Leute anziehen oder abstoßen. Die Weichen für die Gemeinschaft, die Sie letztendlich aufbauen möchten, werden schon in frühen Projektphasen gelegt.
 
-## Your pre-launch checklist
+## Ihre Checkliste zur Startvorbreitung
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+Bereit für den Start Ihres Open-Source-Projektes? Diese Checkliste hilft Ihnen dabei. Alle Stationen bereit? Dann los! [Klicken Sie auf "publish"](https://help.github.com/articles/making-a-private-repository-public/) und klopfen Sie sich auf die Schulter.
 
-**Documentation**
+**Dokumentation**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    Das Projekt hat eine "LICENSE"-Datei mit einer Open-Source-Licenz
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    Grundlegende Dokumentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    Der Projektname ist einprägsam, vermittelt Zweck und Nutzen des Projektes, überschneidet sich nicht im einem existierenden Projekt oder einem Markennamen
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    Die Issue-Liste ist auf dem neuesten Stand, klar organisiert und markiert
   </label>
 </div>
 
@@ -331,62 +331,62 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    Der Code nutzt konsistente Konventionen, sowie klare Namen für Funktionen, Methoden und Variablen
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    Der Code ist gut kommentiert, und dokumentiert Intentionen und Randfälle
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+    Weder Versionsgeschichte, noch Issues, oder Pull Requests enthalten sensiblen Daten (bspw. Passwörter oder andere nicht-öffentliche Informationen)
   </label>
 </div>
 
-**People**
+**Menschen**
 
-If you're an individual:
+Wenn Sie als Einzelperson arbeiten:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  Sie haben mit der Rechtsabteilung gesprochen und/oder verstehen die Immaterialgüterrechter und Open-Source-Politik Ihrer Firma (wenn Sie angestellt sind)
   </label>
 </div>
 
-If you're a company or organization:
+Wenn Sie als Firma oder Organisation arbeiten:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    Sie haben mit der Rechtsabteilung gesprochen
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    Sie haben einen Plan zur Ankündigung und Vermarktung Ihres Projektes
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    Jemand steht für Interaktionne mit der Community bereit (Issues beantworten, Pull Requests prüfen und mergen)
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    Mindestens zwei Personen haben Admin-Zugang zum Projekt
   </label>
 </div>
 
