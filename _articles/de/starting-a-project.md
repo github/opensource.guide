@@ -390,6 +390,6 @@ Wenn Sie als Firma oder Organisation arbeiten:
   </label>
 </div>
 
-## You did it!
+## Sie haben's geschafft!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+Herzlichen Glückwunsch zu Ihrem ersten Open-Source-Projekt! Egal was hinten raus kommt, öffentlich zu arbeiten, ist ein Geschenk an die Gemeinschaft. Sie erschaffen mit jedem Commit, jedem Kommentar und jedem Pull Request eine Gelegenheit für sich selbst und andere, etwas zu lernen und intellektuell zu wachsen.
