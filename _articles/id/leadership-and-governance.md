@@ -161,4 +161,4 @@ Banyak proyek tidak ingin kerepotan untuk membuat nirlaba, sehingga mereka menca
   </p>
 </aside>
 
-Jika proyek Anda sangat erat hubungannya dengan bahasa atau ekosistem tertentu, seringkali terdapat yayasan yang bisa Anda ajak kerjasama. Sebagai contoh, [Python Software Foundation](https://www.python.org/psf/) membantu [PyPI](https://pypi.org/), Python package manager, dan [Node.js Foundation](https://nodejs.org/en/foundation/) membantu [Express.js](http://expressjs.com/), framework berbasis Node.
+Jika proyek Anda sangat erat hubungannya dengan bahasa atau ekosistem tertentu, seringkali terdapat yayasan yang bisa Anda ajak kerjasama. Sebagai contoh, [Python Software Foundation](https://www.python.org/psf/) membantu [PyPI](https://pypi.python.org/), Python package manager, dan [Node.js Foundation](https://nodejs.org/en/foundation/) membantu [Express.js](http://expressjs.com/), framework berbasis Node.
