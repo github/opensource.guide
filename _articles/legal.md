@@ -4,7 +4,7 @@ title: Rechtliche Aspekte von Open-Source-Projekten
 description: Alle Rechtsaspekte von Open-Source-Projekten, über die Sie sich jemals Gedanken gemacht haben, und einige, über die nicht.
 class: legal
 toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"
+  warum-sorgen-sich-leute-so-um-rechtsfragen-im-open-source-bereich: "Warum sorgen sich Leute so um Rechtsfragen im Open-Source-Bereich?"
   are-public-github-projects-open-source: "Are public GitHub projects open source?"
   just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Just give me the TL;DR on what I need to protect my project"
   which-open-source-license-is-appropriate-for-my-project: "Which open source license is appropriate for my project?"
@@ -22,17 +22,17 @@ related:
 
 Ihr kreatives Werk mit der Welt zu teilen, ist eine anregende und erfüllende Erfahrung. Jedoch können auch unerwartete Rechtsfragen auftreten. Dankenswerterweise müssen Sie bei deren Beantwortung nicht von Null anfangen. Wir decken Sie hier mit Hinweise ein, aber bitte beachten Sie unseren [Haftungsauschluss](/notices/).
 
-## Why do people care so much about the legal side of open source?
+## Warum sorgen sich Leute so um Rechtsfragen im Open-Source-Bereich?
 
-Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
+Danke, dass Sie fragen! Wenn Sie ein kreatives Werk erarbeiten (bswp. einen Text, ein Bild, oder eben Code) fällt es standardmäßig und automatisch unter das Urheberrecht. Das bedeutet, das von Rechts wegen Sie, der/die Autor\*in des Werkes bestimmen dürfen, was Andere damit tun dürfen.
 
-In general, that means nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
+Generell gilt, dass Niemand sonst Ihr Werk nutzen, kopieren, verbreiten, oder modifizieren darf, ohne Abmahnungen oder Klagen zu riskieren.
 
-Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
+Open Source ist diesbezüglich natürlich anders, denn die/der Autor\*in erwartet ja, dass Andere das Werk nutzen, modifizieren und teilen. Aber weil der Rechtsgrundsatz zunächst "exklusives Urheberrecht" lautet, benötigen Sie eine Lizenz, die klare Erlaubnisse erteilt.
 
-If you don't apply an open source license, everybody who contributes to your project also becomes an exclusive copyright holder of their work. That means nobody can use, copy, distribute, or modify their contributions -- and that "nobody" includes you.
+Wenn Sie keine Open-Source-Lizenz einsetzen, erhält zudem jede\*r ebenfalls das ausschließliche Urheberrechts, der/die zu Ihrem Projekt beiträgt. Das würde bedeuten, dass wirklich Niemand die Beiträge nutzen, kopieren, verbreiten, oder modifizieren dürfte. Selbst Sie nicht.
 
-Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
+Schlussendlich könnte Ihr Projekt auch von anderen abhängen, die wiederum Lizenzbedingungen haben, derer Sie sich nicht bewusst waren. Die Gemeinschaft um Ihr Projekt und/oder Regelungen Ihrer Arbeitsstelle können auch bestimmte Open-Source-Lizenzen bedingen. Diese Fälle behandeln wir weiter unten.
 
 ## Are public GitHub projects open source?
 
