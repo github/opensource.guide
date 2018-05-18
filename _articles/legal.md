@@ -1,7 +1,7 @@
 ---
-lang: en
-title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+lang: de
+title: Rechtliche Aspekte von Open-Source-Projekten
+description: Alle Rechtsaspekte von Open-Source-Projekten, über die Sie sich jemals Gedanken gemacht haben, und einige, über die nicht.
 class: legal
 toc:
   why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"
@@ -18,9 +18,9 @@ related:
   - leadership
 ---
 
-## Understanding the legal implications of open source
+## Die rechtlichen Implikationen von offenem Quellcode verstehen
 
-Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about. Thankfully, you don't have to start from scratch. We've got your legal needs covered. (Before you dig in, be sure to read our [disclaimer](/notices/).)
+Ihr kreatives Werk mit der Welt zu teilen, ist eine anregende und erfüllende Erfahrung. Jedoch können auch unerwartete Rechtsfragen auftreten. Dankenswerterweise müssen Sie bei deren Beantwortung nicht von Null anfangen. Wir decken Sie hier mit Hinweise ein, aber bitte beachten Sie unseren [Haftungsauschluss](/notices/).
 
 ## Why do people care so much about the legal side of open source?
 
