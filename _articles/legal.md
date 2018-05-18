@@ -6,7 +6,7 @@ class: legal
 toc:
   warum-sorgen-sich-leute-so-um-rechtsfragen-im-open-source-bereich: "Warum sorgen sich Leute so um Rechtsfragen im Open-Source-Bereich?"
   sind-öffentliche-git-hub-projekte-open-source: "Sind öffentliche GitHub-Projekte Open Source?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Just give me the TL;DR on what I need to protect my project"
+  sag-mir-nur-kurz-wie-ich-mein-projekt-schützen-kann: "Sag mir nur kurz, wie ich mein Projekt schützen kann"
   which-open-source-license-is-appropriate-for-my-project: "Which open source license is appropriate for my project?"
   what-if-i-want-to-change-the-license-of-my-project: "What if I want to change the license of my project?"
   does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
@@ -44,17 +44,21 @@ Wenn Sie [ein neues Projekt auf GitHub erstellen](https://help.github.com/articl
 
 Wenn Sie Anderen die Nutzung, Verbreitung, Modifikation Ihres Projektes erlauben möchten, sowie zu ihm beizutragen, müssen Sie eine Open-Source-Lizenz vergeben. Bspw. darf legalerweise kein Mensch irgendeinen Teil Ihres GitHub-Projektes in seinen/ihren eigenen Code nutzen (selbst wenn es öffentlich ist) solange Sie dafür nicht das explizite Recht eingeräumt haben.
 
-## Just give me the TL;DR on what I need to protect my project.
+## Sag mir nur kurz, wie ich mein Projekt schützen kann.
 
-You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
+Sie haben Glück, denn Open-Source-Lizenzen sind heutzutage standardisiert und einfach zu nutzen. Sie können eine existierende direkt in ihr Projekt kopieren.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](https://choosealicense.com/).
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), und [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sind die populärsten Open-Source-Lizenzen, aber es gibt auch andere zur Auswahl. Sie finden deren Volltexte, sowie Anleitungen zur deren Nutzung auf [choosealicense.com](https://choosealicense.com/).
 
-When you create a new project on GitHub, you'll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
+Wenn Sie ein neues Projekt auf GitHub anlesen, wird Ihnen [die Nutzung einer Lizenz vorgeschlagen](https://help.github.com/articles/open-source-licensing/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
-  A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
+
+  Eine Standardlizenz fasst für Alle ohne juristische Ausbildung zusammen, was sie mit der Software tun können, und was nicht. Solange es nicht absolut nötig ist, sollten Sie eigene, modifizierte oder nicht-Standard-Klauseln vermeiden, denn diese behindern die Nachnutzung  des Codes.
+
+  _A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code._
+
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
