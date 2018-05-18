@@ -7,7 +7,7 @@ toc:
   warum-sorgen-sich-leute-so-um-rechtsfragen-im-open-source-bereich: "Warum sorgen sich Leute so um Rechtsfragen im Open-Source-Bereich?"
   sind-öffentliche-git-hub-projekte-open-source: "Sind öffentliche GitHub-Projekte Open Source?"
   sag-mir-nur-kurz-wie-ich-mein-projekt-schützen-kann: "Sag mir nur kurz, wie ich mein Projekt schützen kann"
-  which-open-source-license-is-appropriate-for-my-project: "Which open source license is appropriate for my project?"
+  welche-open-source-lizenz-passt-zu-meinem-projekt: "Welche Open-Source-Lizenz passt zu meinem Projekt?"
   what-if-i-want-to-change-the-license-of-my-project: "What if I want to change the license of my project?"
   does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
   what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
@@ -64,25 +64,25 @@ Wenn Sie ein neues Projekt auf GitHub anlesen, wird Ihnen [die Nutzung einer Liz
   </p>
 </aside>
 
-## Which open source license is appropriate for my project?
+## Welche Open-Source-Lizenz passt zu meinem Projekt?
 
-If you're starting from a blank slate, it's hard to go wrong with the [MIT License](https://choosealicense.com/licenses/mit/). It's short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including your copyright notice. You'll be able to release the project under a different license if you ever need to.
+Wenn Sie ein komplett neues Projekt starten, können Sie mit der [MIT-Lizenz](https://choosealicense.com/licenses/mit/) nichts falsch machen. Sie ist kurz, verständlich, und erlaubt Allen alles, solange sie eine Lizenzkopie und Ihren Urheberrechtshinweis beibehalten.
 
-Otherwise, picking the right open source license for your project depends on your objectives.
+Ansonsten hängt die korrekte Lizenzwahl von den Zielen Ihres Projektes ab..
 
-Your project very likely has (or will have) **dependencies**. For example, if you're open sourcing a Node.js project, you'll probably use libraries from the Node Package Manager (npm). Each of those libraries you depend on will have its own open source license. If each of their licenses is "permissive" (gives the public permission to use, modify, and share, without any condition for downstream licensing), you can use any license you want. Common permissive licenses include MIT, Apache 2.0, ISC, and BSD.
+Wahrscheinlich hat Ihr Projekt externe Abhängigkeiten (oder wird diese haben). Bswp. wenn Sie ein Node.js-Projekt veröffentlichen, werden Sie vermutlich Bibliotheken vom Node Package Manager (npm) nutzen. Jede dieser Bibliotheken von denen Ihr Projekt abhängen, hat ihre eigene Open-Source-Lizenz. Wenn jede dieser Lizenzen "permissiv" ist (also der Öffentlichkeit die Nutzung, Modifikation, und das Teilen bedingungslos erlaubt), können Sie jede Lizenz verwenden, die sie möchten. Weit verbreitete permissive Lizenzen sind z.B. MIT, Apache 2.0, ISC und BSD.
 
-On the other hand, if any of your dependencies' licenses are "strong copyleft" (also gives public same permissions, subject to condition of using the same license downstream), then your project will have to use the same license. Common strong copyleft licenses include GPLv2, GPLv3, and AGPLv3.
+Wenn allerdings irgendeine der Bibliotheken, von denen Ihr Projekt abhängt, ein "starkes Copyleft" hat (also der Öffentlichkeit die Nutzung, Modifikation, und das Teilen ebenso erlaubt, aber unter der Bedingung, die selbe Lizenz zu nutzen), dann wird Ihr Projekt diese Lizenz auch verwenden (müssen). Weit verbreitete Copyleft-Lizenzen sind z.B. die GPLv2, GPLv3, sowie die AGPLv3.
 
-You may also want to consider the **communities** you hope will use and contribute to your project:
+Sie sollten auch die **Gemeinschaften** beachten, von denen Sie sich Nutzung und Beiträge Ihres Projektes erhoffen.
 
-* **Do you want your project to be used as a dependency by other projects?** Probably best to use the most popular license in your relevant community. For example, [MIT](https://choosealicense.com/licenses/mit/) is the most popular license for [npm libraries](https://libraries.io/npm).
-* **Do you want your project to appeal to large businesses?** A large business will likely want an express patent license from all contributors. In this case, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) has you (and them) covered.
-* **Do you want your project to appeal to contributors who do not want their contributions to be used in closed source software?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) or (if they also do not wish to contribute to closed source services) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) will go over well.
+* **Möchten Sie Ihr Projekt in anderen nachgenutzt wissen?** Am Besten nutzen Sie dann die populärste Lizenz im Umfeld ihres Projektes. Bswp. ist die  [MIT-Lizenz](https://choosealicense.com/licenses/mit/) für [npm-Bibliotheken](https://libraries.io/npm) am populärsten.
+* **Soll Ihr Projekt auch große Firmen anziehen?** Große Firmen möchten sich vermutlich Patentrechte sichern, auch von allen Kontributor\*innen. Diesen Fall  deckt [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) ab.
+* **Soll Ihr Projekt Kontributor\*innen anziehen, die ihre Beiträge aus Closed-Source-Software raushalten möchten?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) oder (wenn sie auch nicht zu Closed-Source-Diensten beitragen möchten) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) würden dazu passen.
 
-Your **company** may have specific licensing requirements for its open source projects. For example, it may require a permissive license so that the company can use your project in the company's closed source product. Or your company may require a strong copyleft license and an additional contributor agreement (see below) so that only your company, and nobody else, can use your project in closed source software. Or your company may have certain needs related to standards, social responsibility, or transparency, any of which could require a particular licensing strategy. Talk to your [company's legal department](#what-does-my-companys-legal-team-need-to-know).
+Ihre **Firma** hat evtl. spezifische Lizenzanforderungen für ihre Open-Source-Projekte. Bswp. fordert sie eine permissive Lizenz, sodass sie Ihr Projekt in firmeneigener Closed-Source-Software nutzen kann. Oder, Ihre Firma könnte eine starke Copyleft-Lizenz und eine zusätzliche Kontributorenzustimmung (siehe unten), damit nur sie, aber keine andere Firma, Ihr Projekt in einer Closed-Source-Software nutzen kann. Oder, Ihre Firma könnte spezielle Standards technischer Art, oder bezogen auf soziale Verantwortung, oder an Transparenz, haben. All dies könnte eine spezifische Lizenzstrategie bedingen. Sprechen Sie mit der [Rechtsabteilung Ihrer Firma](#what-does-my-companys-legal-team-need-to-know).
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you'd like to see other options, check out [choosealicense.com](https://choosealicense.com) to find the right license for your project, even if it [isn't software](https://choosealicense.com/non-software/).
+Wenn Sie ein GitHub-Projekt erstellen, wird Ihnen die Lizenzwahl vorgeschlagen. Dabei eine der oben genannten Lizenzen auszuwählen, open-source-t ihr Projekt. Wenn Sie aus weiteren Möglichkeiten die richtige Lizenz finden möchten, bitte schauen Sie sich [choosealicense.com](https://choosealicense.com) an, auch wenn Ihr Projekt [keine Software](https://choosealicense.com/non-software/) an sich ist.
 
 ## What if I want to change the license of my project?
 
