@@ -5,7 +5,7 @@ description: Alle Rechtsaspekte von Open-Source-Projekten, über die Sie sich je
 class: legal
 toc:
   warum-sorgen-sich-leute-so-um-rechtsfragen-im-open-source-bereich: "Warum sorgen sich Leute so um Rechtsfragen im Open-Source-Bereich?"
-  are-public-github-projects-open-source: "Are public GitHub projects open source?"
+  sind-öffentliche-git-hub-projekte-open-source: "Sind öffentliche GitHub-Projekte Open Source?"
   just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Just give me the TL;DR on what I need to protect my project"
   which-open-source-license-is-appropriate-for-my-project: "Which open source license is appropriate for my project?"
   what-if-i-want-to-change-the-license-of-my-project: "What if I want to change the license of my project?"
@@ -34,15 +34,15 @@ Wenn Sie keine Open-Source-Lizenz einsetzen, erhält zudem jede\*r ebenfalls das
 
 Schlussendlich könnte Ihr Projekt auch von anderen abhängen, die wiederum Lizenzbedingungen haben, derer Sie sich nicht bewusst waren. Die Gemeinschaft um Ihr Projekt und/oder Regelungen Ihrer Arbeitsstelle können auch bestimmte Open-Source-Lizenzen bedingen. Diese Fälle behandeln wir weiter unten.
 
-## Are public GitHub projects open source?
+## Sind öffentliche GitHub-Projekte Open Source?
 
-When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
+Wenn Sie [ein neues Projekt auf GitHub erstellen](https://help.github.com/articles/creating-a-new-repository/), können Sie dies **öffentlich** oder **privat** tun.
 
-![Create repository](/assets/images/legal/repo-create-name.png)
+![Ein Repo erstellen](/assets/images/legal/repo-create-name.png)
 
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+**Ihr GitHub-Projekt öffentlich zu machen, ist nicht das selbe wie eine Lizenz zu vergeben.** Öffentliche Projekte unterliegen [GitHubs Servicebedingungen](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), die Anderen das Ansehen und Forken Ihres Projektes erlauben. Dies bringt allerdings keine weiteren Erlaubnisse für Ihr Werk mit sich.
 
-If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
+Wenn Sie Anderen die Nutzung, Verbreitung, Modifikation Ihres Projektes erlauben möchten, sowie zu ihm beizutragen, müssen Sie eine Open-Source-Lizenz vergeben. Bspw. darf legalerweise kein Mensch irgendeinen Teil Ihres GitHub-Projektes in seinen/ihren eigenen Code nutzen (selbst wenn es öffentlich ist) solange Sie dafür nicht das explizite Recht eingeräumt haben.
 
 ## Just give me the TL;DR on what I need to protect my project.
 
