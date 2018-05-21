@@ -1,13 +1,13 @@
 ---
-lang: en
-title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+lang: de
+title: Rechtliche Aspekte von Open-Source-Projekten
+description: Alle Rechtsaspekte von Open-Source-Projekten, über die Sie sich jemals Gedanken gemacht haben, und einige, über die nicht.
 class: legal
 toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"
-  are-public-github-projects-open-source: "Are public GitHub projects open source?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Just give me the TL;DR on what I need to protect my project"
-  which-open-source-license-is-appropriate-for-my-project: "Which open source license is appropriate for my project?"
+  warum-sorgen-sich-leute-so-um-rechtsfragen-im-open-source-bereich: "Warum sorgen sich Leute so um Rechtsfragen im Open-Source-Bereich?"
+  sind-öffentliche-git-hub-projekte-open-source: "Sind öffentliche GitHub-Projekte Open Source?"
+  sag-mir-nur-kurz-wie-ich-mein-projekt-schützen-kann: "Sag mir nur kurz, wie ich mein Projekt schützen kann"
+  welche-open-source-lizenz-passt-zu-meinem-projekt: "Welche Open-Source-Lizenz passt zu meinem Projekt?"
   what-if-i-want-to-change-the-license-of-my-project: "What if I want to change the license of my project?"
   does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
   what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
@@ -18,73 +18,77 @@ related:
   - leadership
 ---
 
-## Understanding the legal implications of open source
+## Die rechtlichen Implikationen von offenem Quellcode verstehen
 
-Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about. Thankfully, you don't have to start from scratch. We've got your legal needs covered. (Before you dig in, be sure to read our [disclaimer](/notices/).)
+Ihr kreatives Werk mit der Welt zu teilen, ist eine anregende und erfüllende Erfahrung. Jedoch können auch unerwartete Rechtsfragen auftreten. Dankenswerterweise müssen Sie bei deren Beantwortung nicht von Null anfangen. Wir decken Sie hier mit Hinweise ein, aber bitte beachten Sie unseren [Haftungsauschluss](/notices/).
 
-## Why do people care so much about the legal side of open source?
+## Warum sorgen sich Leute so um Rechtsfragen im Open-Source-Bereich?
 
-Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
+Danke, dass Sie fragen! Wenn Sie ein kreatives Werk erarbeiten (bspw. einen Text, ein Bild, oder eben Code) fällt es standardmäßig und automatisch unter das Urheberrecht. Das bedeutet, das von Rechts wegen Sie, der/die Autor\*in des Werkes bestimmen dürfen, was Andere damit tun dürfen.
 
-In general, that means nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
+Generell gilt, dass Niemand sonst Ihr Werk nutzen, kopieren, verbreiten, oder modifizieren darf, ohne Abmahnungen oder Klagen zu riskieren.
 
-Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
+Open Source ist diesbezüglich natürlich anders, denn die/der Autor\*in erwartet ja, dass Andere das Werk nutzen, modifizieren und teilen. Aber weil der Rechtsgrundsatz zunächst "exklusives Urheberrecht" lautet, benötigen Sie eine Lizenz, die klare Erlaubnisse erteilt.
 
-If you don't apply an open source license, everybody who contributes to your project also becomes an exclusive copyright holder of their work. That means nobody can use, copy, distribute, or modify their contributions -- and that "nobody" includes you.
+Wenn Sie keine Open-Source-Lizenz einsetzen, erhält zudem jede\*r ebenfalls das ausschließliche Urheberrechts, der/die zu Ihrem Projekt beiträgt. Das würde bedeuten, dass wirklich Niemand die Beiträge nutzen, kopieren, verbreiten, oder modifizieren dürfte. Selbst Sie nicht.
 
-Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
+Schlussendlich könnte Ihr Projekt auch von anderen abhängen, die wiederum Lizenzbedingungen haben, derer Sie sich nicht bewusst waren. Die Gemeinschaft um Ihr Projekt und/oder Regelungen Ihrer Arbeitsstelle können auch bestimmte Open-Source-Lizenzen bedingen. Diese Fälle behandeln wir weiter unten.
 
-## Are public GitHub projects open source?
+## Sind öffentliche GitHub-Projekte Open Source?
 
-When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
+Wenn Sie [ein neues Projekt auf GitHub erstellen](https://help.github.com/articles/creating-a-new-repository/), können Sie dies **öffentlich** oder **privat** tun.
 
-![Create repository](/assets/images/legal/repo-create-name.png)
+![Ein Repo erstellen](/assets/images/legal/repo-create-name.png)
 
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+**Ihr GitHub-Projekt öffentlich zu machen, ist nicht das selbe wie eine Lizenz zu vergeben.** Öffentliche Projekte unterliegen [GitHubs Servicebedingungen](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), die Anderen das Ansehen und Forken Ihres Projektes erlauben. Dies bringt allerdings keine weiteren Erlaubnisse für Ihr Werk mit sich.
 
-If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
+Wenn Sie Anderen die Nutzung, Verbreitung, Modifikation Ihres Projektes erlauben möchten, sowie zu ihm beizutragen, müssen Sie eine Open-Source-Lizenz vergeben. Bspw. darf legalerweise kein Mensch irgendeinen Teil Ihres GitHub-Projektes in seinen/ihren eigenen Code nutzen (selbst wenn es öffentlich ist) solange Sie dafür nicht das explizite Recht eingeräumt haben.
 
-## Just give me the TL;DR on what I need to protect my project.
+## Sag mir nur kurz, wie ich mein Projekt schützen kann.
 
-You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
+Sie haben Glück, denn Open-Source-Lizenzen sind heutzutage standardisiert und einfach zu nutzen. Sie können eine existierende direkt in ihr Projekt kopieren.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](https://choosealicense.com/).
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), und [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sind die populärsten Open-Source-Lizenzen, aber es gibt auch andere zur Auswahl. Sie finden deren Volltexte, sowie Anleitungen zur deren Nutzung auf [choosealicense.com](https://choosealicense.com/).
 
-When you create a new project on GitHub, you'll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
+Wenn Sie ein neues Projekt auf GitHub anlesen, wird Ihnen [die Nutzung einer Lizenz vorgeschlagen](https://help.github.com/articles/open-source-licensing/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
-  A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
+
+  Eine Standardlizenz fasst für Alle ohne juristische Ausbildung zusammen, was sie mit der Software tun können, und was nicht. Solange es nicht absolut nötig ist, sollten Sie eigene, modifizierte oder nicht-Standard-Klauseln vermeiden, denn diese behindern die Nachnutzung  des Codes.
+
+  _A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code._
+
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 
-## Which open source license is appropriate for my project?
+## Welche Open-Source-Lizenz passt zu meinem Projekt?
 
-If you're starting from a blank slate, it's hard to go wrong with the [MIT License](https://choosealicense.com/licenses/mit/). It's short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including your copyright notice. You'll be able to release the project under a different license if you ever need to.
+Wenn Sie ein komplett neues Projekt starten, können Sie mit der [MIT-Lizenz](https://choosealicense.com/licenses/mit/) nichts falsch machen. Sie ist kurz, verständlich, und erlaubt Allen alles, solange sie eine Lizenzkopie und Ihren Urheberrechtshinweis beibehalten.
 
-Otherwise, picking the right open source license for your project depends on your objectives.
+Ansonsten hängt die korrekte Lizenzwahl von den Zielen Ihres Projektes ab..
 
-Your project very likely has (or will have) **dependencies**. For example, if you're open sourcing a Node.js project, you'll probably use libraries from the Node Package Manager (npm). Each of those libraries you depend on will have its own open source license. If each of their licenses is "permissive" (gives the public permission to use, modify, and share, without any condition for downstream licensing), you can use any license you want. Common permissive licenses include MIT, Apache 2.0, ISC, and BSD.
+Wahrscheinlich hat Ihr Projekt externe Abhängigkeiten (oder wird diese haben). bspw. wenn Sie ein Node.js-Projekt veröffentlichen, werden Sie vermutlich Bibliotheken vom Node Package Manager (npm) nutzen. Jede dieser Bibliotheken von denen Ihr Projekt abhängen, hat ihre eigene Open-Source-Lizenz. Wenn jede dieser Lizenzen "permissiv" ist (also der Öffentlichkeit die Nutzung, Modifikation, und das Teilen bedingungslos erlaubt), können Sie jede Lizenz verwenden, die sie möchten. Weit verbreitete permissive Lizenzen sind z.B. MIT, Apache 2.0, ISC und BSD.
 
-On the other hand, if any of your dependencies' licenses are "strong copyleft" (also gives public same permissions, subject to condition of using the same license downstream), then your project will have to use the same license. Common strong copyleft licenses include GPLv2, GPLv3, and AGPLv3.
+Wenn allerdings irgendeine der Bibliotheken, von denen Ihr Projekt abhängt, ein "starkes Copyleft" hat (also der Öffentlichkeit die Nutzung, Modifikation, und das Teilen ebenso erlaubt, aber unter der Bedingung, die selbe Lizenz zu nutzen), dann wird Ihr Projekt diese Lizenz auch verwenden (müssen). Weit verbreitete Copyleft-Lizenzen sind z.B. die GPLv2, GPLv3, sowie die AGPLv3.
 
-You may also want to consider the **communities** you hope will use and contribute to your project:
+Sie sollten auch die **Gemeinschaften** beachten, von denen Sie sich Nutzung und Beiträge Ihres Projektes erhoffen.
 
-* **Do you want your project to be used as a dependency by other projects?** Probably best to use the most popular license in your relevant community. For example, [MIT](https://choosealicense.com/licenses/mit/) is the most popular license for [npm libraries](https://libraries.io/npm).
-* **Do you want your project to appeal to large businesses?** A large business will likely want an express patent license from all contributors. In this case, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) has you (and them) covered.
-* **Do you want your project to appeal to contributors who do not want their contributions to be used in closed source software?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) or (if they also do not wish to contribute to closed source services) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) will go over well.
+* **Möchten Sie Ihr Projekt in anderen nachgenutzt wissen?** Am Besten nutzen Sie dann die populärste Lizenz im Umfeld ihres Projektes. bspw. ist die  [MIT-Lizenz](https://choosealicense.com/licenses/mit/) für [npm-Bibliotheken](https://libraries.io/npm) am populärsten.
+* **Soll Ihr Projekt auch große Firmen anziehen?** Große Firmen möchten sich vermutlich Patentrechte sichern, auch von allen Kontributor\*innen. Diesen Fall  deckt [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) ab.
+* **Soll Ihr Projekt Kontributor\*innen anziehen, die ihre Beiträge aus Closed-Source-Software raushalten möchten?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) oder (wenn sie auch nicht zu Closed-Source-Diensten beitragen möchten) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) würden dazu passen.
 
-Your **company** may have specific licensing requirements for its open source projects. For example, it may require a permissive license so that the company can use your project in the company's closed source product. Or your company may require a strong copyleft license and an additional contributor agreement (see below) so that only your company, and nobody else, can use your project in closed source software. Or your company may have certain needs related to standards, social responsibility, or transparency, any of which could require a particular licensing strategy. Talk to your [company's legal department](#what-does-my-companys-legal-team-need-to-know).
+Ihre **Firma** hat evtl. spezifische Lizenzanforderungen für ihre Open-Source-Projekte. bspw. fordert sie eine permissive Lizenz, sodass sie Ihr Projekt in firmeneigener Closed-Source-Software nutzen kann. Oder, Ihre Firma könnte eine starke Copyleft-Lizenz und eine zusätzliche Kontributorenzustimmung (siehe unten), damit nur sie, aber keine andere Firma, Ihr Projekt in einer Closed-Source-Software nutzen kann. Oder, Ihre Firma könnte spezielle Standards technischer Art, oder bezogen auf soziale Verantwortung, oder an Transparenz, haben. All dies könnte eine spezifische Lizenzstrategie bedingen. Sprechen Sie mit der [Rechtsabteilung Ihrer Firma](#what-does-my-companys-legal-team-need-to-know).
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you'd like to see other options, check out [choosealicense.com](https://choosealicense.com) to find the right license for your project, even if it [isn't software](https://choosealicense.com/non-software/).
+Wenn Sie ein GitHub-Projekt erstellen, wird Ihnen die Lizenzwahl vorgeschlagen. Dabei eine der oben genannten Lizenzen auszuwählen, open-source-t ihr Projekt. Wenn Sie aus weiteren Möglichkeiten die richtige Lizenz finden möchten, bitte schauen Sie sich [choosealicense.com](https://choosealicense.com) an, auch wenn Ihr Projekt [keine Software](https://choosealicense.com/non-software/) an sich ist.
 
-## What if I want to change the license of my project?
+## Was, wenn ich die Lizenz meines Projektes ändern möchte?
 
-Most projects never need to change licenses. But occasionally circumstances change.
+Die meisten Projekte müssen ihre Lizenz nie ändern. Aber manchmal kommen andere Umstände.
 
-For example, as your project grows it adds dependencies or users, or your company changes strategies, any of which could require or want a different license. Also, if you neglected to license your project from the start, adding a license is effectively the same as changing licenses. There are three fundamental things to consider when adding or changing a your project's license:
+Z.B.: Während des Wachstums Ihres Projektes bindet es weitere externe Bibliotheken ein oder gewinnt Nutzer\*innen hinzu. Oder, Ihre Firma ändert die Strategie. All dies kann (oder muss sogar) eine andere Lizenzentscheidung nach sich ziehen. Außerdem: Falls Sie zu Beginn keine Lizenz vergeben haben, ist dies nachzuholen effektiv das Selbe wie eine Lizenzänderung. Die folgenden drei Dinge sind grundsätzlich zu beachten, wenn Sie die Lizenzvergabe oder -änderung für Ihr Projekt in Betracht ziehen:
 
 **It's complicated.** Determining license compatibility and compliance and who holds copyright can get complicated and confusing very quickly. Switching to a new but compatible license for new releases and contributions is different from relicensing all existing contributions. Involve your legal team the first hint of any desire to change licenses. Even if you have or can obtain permission from your project's copyright holders for a license change, consider the impact of the change on your project's other users and contributors. Think of a license change as a "governance event" for your project that will more likely go smoothly with clear communications and consultation with your project's stakeholders. All the more reason to choose and use an appropriate license for your project from its inception!
 
