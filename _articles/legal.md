@@ -24,7 +24,7 @@ Ihr kreatives Werk mit der Welt zu teilen, ist eine anregende und erfüllende Er
 
 ## Warum sorgen sich Leute so um Rechtsfragen im Open-Source-Bereich?
 
-Danke, dass Sie fragen! Wenn Sie ein kreatives Werk erarbeiten (bswp. einen Text, ein Bild, oder eben Code) fällt es standardmäßig und automatisch unter das Urheberrecht. Das bedeutet, das von Rechts wegen Sie, der/die Autor\*in des Werkes bestimmen dürfen, was Andere damit tun dürfen.
+Danke, dass Sie fragen! Wenn Sie ein kreatives Werk erarbeiten (bspw. einen Text, ein Bild, oder eben Code) fällt es standardmäßig und automatisch unter das Urheberrecht. Das bedeutet, das von Rechts wegen Sie, der/die Autor\*in des Werkes bestimmen dürfen, was Andere damit tun dürfen.
 
 Generell gilt, dass Niemand sonst Ihr Werk nutzen, kopieren, verbreiten, oder modifizieren darf, ohne Abmahnungen oder Klagen zu riskieren.
 
@@ -70,25 +70,25 @@ Wenn Sie ein komplett neues Projekt starten, können Sie mit der [MIT-Lizenz](ht
 
 Ansonsten hängt die korrekte Lizenzwahl von den Zielen Ihres Projektes ab..
 
-Wahrscheinlich hat Ihr Projekt externe Abhängigkeiten (oder wird diese haben). Bswp. wenn Sie ein Node.js-Projekt veröffentlichen, werden Sie vermutlich Bibliotheken vom Node Package Manager (npm) nutzen. Jede dieser Bibliotheken von denen Ihr Projekt abhängen, hat ihre eigene Open-Source-Lizenz. Wenn jede dieser Lizenzen "permissiv" ist (also der Öffentlichkeit die Nutzung, Modifikation, und das Teilen bedingungslos erlaubt), können Sie jede Lizenz verwenden, die sie möchten. Weit verbreitete permissive Lizenzen sind z.B. MIT, Apache 2.0, ISC und BSD.
+Wahrscheinlich hat Ihr Projekt externe Abhängigkeiten (oder wird diese haben). bspw. wenn Sie ein Node.js-Projekt veröffentlichen, werden Sie vermutlich Bibliotheken vom Node Package Manager (npm) nutzen. Jede dieser Bibliotheken von denen Ihr Projekt abhängen, hat ihre eigene Open-Source-Lizenz. Wenn jede dieser Lizenzen "permissiv" ist (also der Öffentlichkeit die Nutzung, Modifikation, und das Teilen bedingungslos erlaubt), können Sie jede Lizenz verwenden, die sie möchten. Weit verbreitete permissive Lizenzen sind z.B. MIT, Apache 2.0, ISC und BSD.
 
 Wenn allerdings irgendeine der Bibliotheken, von denen Ihr Projekt abhängt, ein "starkes Copyleft" hat (also der Öffentlichkeit die Nutzung, Modifikation, und das Teilen ebenso erlaubt, aber unter der Bedingung, die selbe Lizenz zu nutzen), dann wird Ihr Projekt diese Lizenz auch verwenden (müssen). Weit verbreitete Copyleft-Lizenzen sind z.B. die GPLv2, GPLv3, sowie die AGPLv3.
 
 Sie sollten auch die **Gemeinschaften** beachten, von denen Sie sich Nutzung und Beiträge Ihres Projektes erhoffen.
 
-* **Möchten Sie Ihr Projekt in anderen nachgenutzt wissen?** Am Besten nutzen Sie dann die populärste Lizenz im Umfeld ihres Projektes. Bswp. ist die  [MIT-Lizenz](https://choosealicense.com/licenses/mit/) für [npm-Bibliotheken](https://libraries.io/npm) am populärsten.
+* **Möchten Sie Ihr Projekt in anderen nachgenutzt wissen?** Am Besten nutzen Sie dann die populärste Lizenz im Umfeld ihres Projektes. bspw. ist die  [MIT-Lizenz](https://choosealicense.com/licenses/mit/) für [npm-Bibliotheken](https://libraries.io/npm) am populärsten.
 * **Soll Ihr Projekt auch große Firmen anziehen?** Große Firmen möchten sich vermutlich Patentrechte sichern, auch von allen Kontributor\*innen. Diesen Fall  deckt [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) ab.
 * **Soll Ihr Projekt Kontributor\*innen anziehen, die ihre Beiträge aus Closed-Source-Software raushalten möchten?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) oder (wenn sie auch nicht zu Closed-Source-Diensten beitragen möchten) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) würden dazu passen.
 
-Ihre **Firma** hat evtl. spezifische Lizenzanforderungen für ihre Open-Source-Projekte. Bswp. fordert sie eine permissive Lizenz, sodass sie Ihr Projekt in firmeneigener Closed-Source-Software nutzen kann. Oder, Ihre Firma könnte eine starke Copyleft-Lizenz und eine zusätzliche Kontributorenzustimmung (siehe unten), damit nur sie, aber keine andere Firma, Ihr Projekt in einer Closed-Source-Software nutzen kann. Oder, Ihre Firma könnte spezielle Standards technischer Art, oder bezogen auf soziale Verantwortung, oder an Transparenz, haben. All dies könnte eine spezifische Lizenzstrategie bedingen. Sprechen Sie mit der [Rechtsabteilung Ihrer Firma](#what-does-my-companys-legal-team-need-to-know).
+Ihre **Firma** hat evtl. spezifische Lizenzanforderungen für ihre Open-Source-Projekte. bspw. fordert sie eine permissive Lizenz, sodass sie Ihr Projekt in firmeneigener Closed-Source-Software nutzen kann. Oder, Ihre Firma könnte eine starke Copyleft-Lizenz und eine zusätzliche Kontributorenzustimmung (siehe unten), damit nur sie, aber keine andere Firma, Ihr Projekt in einer Closed-Source-Software nutzen kann. Oder, Ihre Firma könnte spezielle Standards technischer Art, oder bezogen auf soziale Verantwortung, oder an Transparenz, haben. All dies könnte eine spezifische Lizenzstrategie bedingen. Sprechen Sie mit der [Rechtsabteilung Ihrer Firma](#what-does-my-companys-legal-team-need-to-know).
 
 Wenn Sie ein GitHub-Projekt erstellen, wird Ihnen die Lizenzwahl vorgeschlagen. Dabei eine der oben genannten Lizenzen auszuwählen, open-source-t ihr Projekt. Wenn Sie aus weiteren Möglichkeiten die richtige Lizenz finden möchten, bitte schauen Sie sich [choosealicense.com](https://choosealicense.com) an, auch wenn Ihr Projekt [keine Software](https://choosealicense.com/non-software/) an sich ist.
 
-## What if I want to change the license of my project?
+## Was, wenn ich die Lizenz meines Projektes ändern möchte?
 
-Most projects never need to change licenses. But occasionally circumstances change.
+Die meisten Projekte müssen ihre Lizenz nie ändern. Aber manchmal kommen andere Umstände.
 
-For example, as your project grows it adds dependencies or users, or your company changes strategies, any of which could require or want a different license. Also, if you neglected to license your project from the start, adding a license is effectively the same as changing licenses. There are three fundamental things to consider when adding or changing a your project's license:
+Z.B.: Während des Wachstums Ihres Projektes bindet es weitere externe Bibliotheken ein oder gewinnt Nutzer\*innen hinzu. Oder, Ihre Firma ändert die Strategie. All dies kann (oder muss sogar) eine andere Lizenzentscheidung nach sich ziehen. Außerdem: Falls Sie zu Beginn keine Lizenz vergeben haben, ist dies nachzuholen effektiv das Selbe wie eine Lizenzänderung. Die folgenden drei Dinge sind grundsätzlich zu beachten, wenn Sie die Lizenzvergabe oder -änderung für Ihr Projekt in Betracht ziehen:
 
 **It's complicated.** Determining license compatibility and compliance and who holds copyright can get complicated and confusing very quickly. Switching to a new but compatible license for new releases and contributions is different from relicensing all existing contributions. Involve your legal team the first hint of any desire to change licenses. Even if you have or can obtain permission from your project's copyright holders for a license change, consider the impact of the change on your project's other users and contributors. Think of a license change as a "governance event" for your project that will more likely go smoothly with clear communications and consultation with your project's stakeholders. All the more reason to choose and use an appropriate license for your project from its inception!
 
