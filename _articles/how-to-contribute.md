@@ -526,3 +526,5 @@ Hooray! You've successfully made an open source contribution!
 ## You did it!
 
 Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+
+## The End
