@@ -23,7 +23,7 @@ Much of open source work is volunteered. For example, someone might come across 
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
 I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
   <p markdown="1" class="pquote-credit">
-— @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
+— @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/) or ["Programming R"](https://www.datacamp.com/courses/free-introduction-to-r?utm_source=adwords_ppc&utm_campaignid=1411652622&utm_adgroupid=57184507564&utm_device=c&utm_keyword=r%20programming&utm_matchtype=e&utm_network=g&utm_adpostion=1t1&utm_creative=271115776687&utm_targetid=kwd-945229025&utm_loc_interest_ms=&utm_loc_physical_ms=9053242&gclid=EAIaIQobChMIioKx8qGy2wIVT7HtCh3n6QJsEAAYASABEgL0QvD_BwE)
   </p>
 </aside>
 
