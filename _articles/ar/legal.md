@@ -1,16 +1,16 @@
 ---
-lang: en
-title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+lang: ar
+title: الجانب القانوني من المصادر المفتوحة
+description: كل ما تساءلت عنه بخصوص الجانب القانوني للمصادر المفتوحة، وأشياء إضافية لم تتساءل عنها.
 class: legal
 toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"
-  are-public-github-projects-open-source: "Are public GitHub projects open source?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Just give me the TL;DR on what I need to protect my project"
-  which-open-source-license-is-appropriate-for-my-project: "Which open source license is appropriate for my project?"
-  what-if-i-want-to-change-the-license-of-my-project: "What if I want to change the license of my project?"
-  does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
-  what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
+  why-do-people-care-so-much-about-the-legal-side-of-open-source: "لماذا يهتم الناس كثيرًا بالجانب القانوني للمصادر المفتوحة؟"
+  are-public-github-projects-open-source: "هل المشاريع العامة على GitHub مفتوحة المصدر؟"
+  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "أعطى الخلاصة حول احتياجي لحماية مشروعي"
+  which-open-source-license-is-appropriate-for-my-project: "أي رخصة مصادر مفتوحة هي المناسبة لمشروعي؟"
+  what-if-i-want-to-change-the-license-of-my-project: "ماذا لو أردت أن أغير رخصة مشروعي؟"
+  does-my-project-need-an-additional-contributor-agreement: "هل يحتاج مشروعي لاتفاقية مساهمين إضافية؟"
+  what-does-my-companys-legal-team-need-to-know: "ماذا يحتاج أن يعرف الفريق القانوني في شركتي؟"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -18,7 +18,7 @@ related:
   - leadership
 ---
 
-## Understanding the legal implications of open source
+## فهم المضامين القانونية للمصادر المفتوحة
 
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about. Thankfully, you don't have to start from scratch. We've got your legal needs covered. (Before you dig in, be sure to read our [disclaimer](/notices/).)
 

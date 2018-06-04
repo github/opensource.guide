@@ -1,6 +1,6 @@
 ---
-lang: en
-title: Leadership and Governance
+lang: ar
+title: القيادة والحوكمة
 description: Growing open source projects can benefit from formal rules for making decisions.
 class: leadership
 toc:

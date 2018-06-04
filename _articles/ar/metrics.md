@@ -1,14 +1,14 @@
 ---
-lang: en
-title: Open Source Metrics
-description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
+lang: ar
+title: مقاييس المصادر المفتوحة
+description: اتخاذ قرارت مطّلعة لمساعدة مشروعك مفتوح المصدر على الازدهار عبر قياس ومتابعة نجاحه.
 class: metrics
 toc:
-  why-measure-anything: "Why measure anything?"
-  discovery: "Discovery"
-  usage: "Usage"
-  retention: "Retention"
-  maintainer-activity: "Maintainer activity"
+  why-measure-anything: "لماذا تقيس أي شيء؟"
+  discovery: "الاكتشاف"
+  usage: "الاستخدام"
+  retention: "الإبقاء"
+  maintainer-activity: "فعالية الصائن"
 order: 9
 image: /assets/images/cards/metrics.png
 related:
@@ -16,7 +16,7 @@ related:
   - best-practices
 ---
 
-## Why measure anything?
+## لماذا تقيس أي شيء؟
 
 Data, when used wisely, can help you make better decisions as an open source maintainer.
 
@@ -37,7 +37,7 @@ Popularity isn't everything. Everybody gets into open source for different reaso
 
 If you _are_ interested in understanding your project on a deeper level, read on for ways to analyze your project's activity.
 
-## Discovery
+## الاكتشاف
 
 Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
 
@@ -57,7 +57,7 @@ If your project is hosted on GitHub, [you can view](https://help.github.com/arti
 
 You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
 
-## Usage
+## الاستخدام
 
 People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using this project?_
 
@@ -80,7 +80,7 @@ Try to figure out where your audience is coming from and ask others for feedback
 
 Once you know that people are using your project, you might want to try to figure out what they are doing with it. Are they building on it by forking your code and adding features? Are they using it for science or business?
 
-## Retention
+## الإبقاء
 
 People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to this project?_
 
@@ -110,7 +110,7 @@ Examples of community metrics that you may want to regularly track include:
   </p>
 </aside>
 
-## Maintainer activity
+## فعالية الصائن
 
 Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
 

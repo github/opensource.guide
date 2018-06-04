@@ -1,13 +1,13 @@
 ---
-lang: en
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+lang: ar
+title: قواعد السلوك لمشروعك
+description: يسر التصرفات الصحية والبناءة في مجتمعك بتبني وتطبيق دليل قواعد السلوك.
 class: coc
 toc:
-  why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
-  establishing-a-code-of-conduct: "Establishing a code of conduct"
-  deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
-  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
+  why-do-i-need-a-code-of-conduct: "لماذا احتاج دليل قواعد السلوك?"
+  establishing-a-code-of-conduct: "إيجاد دليل قواعد السلوك"
+  deciding-how-youll-enforce-your-code-of-conduct: "حدد كيف ستطبق دليلك لقواعد السلوك"
+  enforcing-your-code-of-conduct: "تطبيق دليلك لقواعد السلوك"
 order: 8
 image: /assets/images/cards/coc.png
 related:

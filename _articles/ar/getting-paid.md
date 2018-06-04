@@ -1,6 +1,6 @@
 ---
-lang: en
-title: Getting Paid for Open Source Work
+lang: ar
+title: الحصول على مردود للعمل على المصادر المفتوحة
 description: Sustain your work in open source by getting financial support for your time or your project.
 class: getting-paid
 toc:

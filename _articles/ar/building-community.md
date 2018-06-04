@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Building Welcoming Communities
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
+lang: ar
+title: بناء المجتمعات المرحبة
+description: بناء مجتمع يشجع الناس لاستخدام مشروعك والمساهمة فيه ونشره.
 class: building
 toc:
   setting-your-project-up-for-success: "Setting your project up for success"

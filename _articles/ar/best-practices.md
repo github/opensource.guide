@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+lang: ar
+title: أفضل الممارسات للصوّان
+description: سهّل حياتك كصائن مصادر مفتوحة. من توثيق العمليات إلى الاستفادة من مجتمعك.
 class: best-practices
 toc:
   what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
