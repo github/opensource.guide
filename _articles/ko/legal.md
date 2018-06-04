@@ -152,7 +152,7 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
 </aside>
 
 * **공개 할 내용:** [(거의) 다?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) 귀하의 법무팀이 귀하의 회사 오픈소스 전략을 이해하고 투자한다면, 귀하의 노력을 방해하는 것보다 최선을 다 할 수 있습니다.
-* **준수:** 회사가 오픈소스 프로젝트를 공개하지 않더라도, 다른 회사의 오픈 소스 소프트웨어를 사용합니다. [Awareness and process](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program)는 두통, 제품 지연 및 법적 소송을 예방할 수 있습니다.
+* **준수:** 회사가 오픈소스 프로젝트를 공개하지 않더라도, 다른 회사의 오픈 소스 소프트웨어를 사용합니다. [Awareness and process](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program)는 두통, 제품 지연 및 법적 소송을 예방할 수 있습니다.
 
 <aside markdown="1" class="pquote">
   Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
