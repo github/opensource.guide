@@ -1,0 +1,31 @@
+en:
+  locale_name: العربية
+  nav:
+    about: عن
+    contribute: ساهم
+  index:
+    lead: البرمجيات مفتوحة المصدر ينتجها أشخاص مثلك. تعلم كيف تبدأ وتنمي مشروعك.
+    opensourcefriday: إنه الجمعة! استثمر بضع ساعات في المساهمة في البرامج التي تستخدمها وتحبها
+  article:
+    table_of_contents: جدول المحتويات
+    back_to_all_guides: العودة لجميع الأدلة
+    related_guides: الأدلة ذات العلاقة
+  footer:
+    contribute:
+      heading: ساهم
+      description: تريد تقديم مقترح؟ هذا المحتوى مفتوح المصدر. ساعدنا في تحسينه.
+      button: ساهم
+    subscribe:
+      heading: ابق على تواصل
+      description: كن أول من يسمع عن آخر النصائح والمصادر حول المصادر المفتوحة من GitHub.
+      label: البريد الإلكتروني
+      button: اشترك
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] بكل [love] من [github] و [friends]"
+      # Label for code octicon
+      code_label: الكود
+      # Label for love octicon
+      love_label: الحب
+      # Label for the contributors link
+      friends_label: الأصدقاء
