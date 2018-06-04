@@ -4,11 +4,11 @@ title: بدء مشروع مفتوح المصدر
 description: تعلم المزيد عن عالم المصادر المفتوجة واستعد لإطلاق مشروعك الخاص.
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "ماهي المصادر المفتوحة؟ ولماذا؟"
-  should-i-launch-my-own-open-source-project: "هل أطلق مشروعي مفتوح المصدر؟"
-  launching-your-own-open-source-project: "إطلاق مشروعك مفتوح المصدر"
-  naming-and-branding-your-project: "تسمية مشروعك وتسويقه"
-  your-pre-launch-checklist: "قائمة التحقق قبل الإطلاق"
+  ما-هي-المصادر-المفتوحة-ولماذا: "ما هي المصادر المفتوحة؟ ولماذا؟"
+  هل-أطلق-مشروعي-مفتوح-المصدر: "هل أطلق مشروعي مفتوح المصدر؟"
+  إطلاق-مشروعك-مفتوح-المصدر: "إطلاق مشروعك مفتوح المصدر"
+  تسمية-مشروعك-وتسويقه: "تسمية مشروعك وتسويقه"
+  قائمة-التحقق-قبل-الإطلاق: "قائمة التحقق قبل الإطلاق"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -16,7 +16,7 @@ related:
   - building
 ---
 
-## ماهي المصادر المفتوحة؟ ولماذا؟
+## ما هي المصادر المفتوحة؟ ولماذا؟
 
 So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
 
