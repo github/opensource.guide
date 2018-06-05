@@ -1,13 +1,13 @@
 ---
 lang: ar
-title: الحصول على مردود للعمل على المصادر المفتوحة
+title: الحصول على مردود مقابل العمل على المصادر المفتوحة
 description: Sustain your work in open source by getting financial support for your time or your project.
 class: getting-paid
 toc:
-  why-some-people-seek-financial-support: "Why some people seek financial support"
-  funding-your-own-time: "Funding your own time"
-  finding-funding-for-your-project: "Finding funding for your project"
-  building-a-case-for-financial-support: "Building a case for financial support"
+  لماذا-يطلب-بعض-الناس-الدعم-المالي: "لماذا يطلب بعض الناس الدعم المالي؟"
+  تمويل-وقتك-الخاص: "تمويل وقتك الخاص"
+  البحث -عن-تمويل-لمشروعك: "البحث عن تمويل لمشروعك"
+  بناء-حجة-للدعم-المالي: "بناء حجة للدعم المالي"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -15,174 +15,175 @@ related:
   - leadership
 ---
 
-## Why some people seek financial support
+## لماذا يطلب بعض الناس الدعم المالي؟
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+أغلب العمل في المصادر المفتوحة تطوعي. كمثال، قد يجد أحد ما مشكلة في مشروع يستخدمه ويقدم حل سريع أو قد يستمتع بالعمل على مشروع مفتوح المصدر في وقت الفراغ.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+  كنت أبحث عن مشروع برمجي "هواية" ليبقيني مشغولًا خلال أسبوع عيد الميلاد. (...) كان لدي حاسوب منزلي والكثير من وقت الفراغ. قررت كتابة مترجم (interpreter) للغة البرمجة النصية (scripting language) التي كنت أفكر بها مؤخرًا. (...) اخترت بايثون (Python) كاسم مؤقت.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
+هناك أسباب عديدة تدفع الشخص لأن لا يطلب الحصول على مقابل مالي لعملهم على المصادر المفتوحة.
 
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+* **لديهم وظيفة بدوام كامل يحبونها** تمكنهم من المساهمة في المصادر المفتوحة في أوقات فراغهم.
+* **يستمتعون بالتفكير في المصادر المفتوحة كهواية** أو كمهرب إبداعي ولا يريدون الشعور بالتزام مالي للعمل على مشاريعهم.
+* **يحصلون على منافع آخرى المساهمة في المصادر المفتوحة** كبناء سمعتهم أو  حافظة أعمالهم أو تعلم مهارة جديدة أو الشعود بالقرب لمجتمع.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  التبرعات المالية تضيف شعور بالمسؤولية لبعض الناس. (...) من المهم لنا في هذا العالم المتصل والمتسارع الذي نعيش فيه أن نمتلك القدرة على قول "ليس الآن، أشعر برغبة في العمل على شيء مختلف تمامًا".
   <p markdown="1" class="pquote-credit">
-— @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
+— @alloy, ["لماذا لا نقبل التبرعات"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
+ولآخرين، خصوصًا عندما تكون المساهمات مستمرة أو تتطلب وقتًا كبيرًا، يكون الحصول على مقابل مادي للمساهمة في المصادر المفتوحة هو الطريقة الوحيدة للمساهمة إما لكون المشروع يتطلب ذلك أو حتى لأسباب شخصية.
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+صيانة المشاريع المشهورة قد يكون مسؤولية كبيرة تستغرق حتى 10 أو 20 ساعة أسبوعيًا بدل عدة ساعات شهريًا.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  أسأل أي صائن مشروع مفتوح المصدر وسيخبرك عن حقيقة كمية العمل الذي تحتاجه لإدارة مشروع. لديك عملاء وتقوم بإصلاح المشاكل لهم وتنفيذ الخصائص الجديدة. يتحول هذا لطلب حقيقي لوقتك.
   <p markdown="1" class="pquote-credit">
-— @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
+— @ashedryden, ["آخلاقيات العمل غير المدفوع ومجتمع برمجيات المصادر المفتوحة"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time. This has ethical implications, as @ashedryden [has described](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), since work that is done is biased in favor of those who already have advantages in life, who then gain additional advantages based on their volunteer contributions, while others who are not able to volunteer then don't get later opportunities, which reinforces the current lack of diversity in the open source community.
+العمل المدفوع يمكن الناس من مسارات الحياة المختلفة لتقديم مساهمات هادفة. بعض الناس لا يتاح لهم قضاء وقت بدون مقابل للعمل على المشاريع مفتوحة المصدر بسبب وضهم المالي أو القروض أو العائلة أو المسؤوليات الآخرى. هذا يعني أن العالم لن يرى مساهمات من أناس موهوبين لا يتاح لهم التطوع بوقتهم. هذا الأمر له نتائج آخلاقية كما [يشرح](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) @ashedryden وبما أن العمل الذي يكتمل متحيز لصالح الذين مميزات في الحياة مما يؤدي لحصولهم على المزيد من المميزات نتيجة مساهماتهم التطوعية بينما لا يتمكن الآخرون من الحصول على فرص لاحقة نتيجة عدم تمكنه من التطوع في البداية مما يؤكد النقص الحالي في التنوع في مجتمع المصادر المفتوحة.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+  البرمجيات مفتوحة المصدر تقدم منافع لصناعة التقنية مما يؤدي لمنافع لجميع الصناعات. (...) وعلي أي حال، إذا كان الناس الذين يركزون عليها هم وحدهم المحظوظون والمهوسون فهناك إمكانيات هائلة غير مستغلة.
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+— @isaacs, ["المال والمصادر المفتوحة"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+إذا كنت تبحث عن الدعم المالي فهناك مساران للتفكير فيها. بإمكانك تمويل وقتك الشخصي كمساهم أو بإمكانك البحث عن تمويل مؤسسي للمشروع.
 
-## Funding your own time
+## تمويل وقتك الخاص
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
+كثير من الناس يدفع لهم ليعملوا بشكل جزئ أو كلّي على المصادر المفتوحة. أشيع طريقة ليدفع لك مقابل وقتك هي بالتحدث مع صاحب عملك.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+يتيسر تقديم الحجج على جدوى العمل على المصادر المفتوحة إذا كان صاحب عملك يستخدم المشروع فعلًا ولكن بإمكانك الإبداع في تقديم حجتك. ربما لا يستخدم صاحب عملك المشروع ولكنه يستخدم Python وستكون صيانة مشروع Python مشهور نقطة جذب لمطوري باثون جدد. ربما يساهم ذلك في جعل صاحب العمل يبدو بشكل أفضل للمطورين بشكل عام.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+  مثل كثيرين في المصادر المفتوحة كنت أعاني من حمل صيانة المشروع. عندما بدأ العمل في المصادر المفتوحة كنت أسهر للعمل عليها أو كنت أعمل عليها حالما أعود للمنزل. (...) تمكنت من مناقشة المشاكل التي تواجهني مع رئيسي وخرجنا بأفكار لإدراج مهامي في المصادر المفتوحة ضمن عملي بحكم استخدمنا لـBabel.
   <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
+— @hzoo, ["قصص الصّوان"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
-If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
+إذا كنت لا تعرف مشروعًا مفتوح المصدر تريد العمل عليه ولكنك تود لو كانت مخرجات عملك الحالي مفتوحة المصدر بإمكانك تقديم حجة لصاحب عملك لفتح مصدر بعض من برمجياتهم الداخلية.
 
-Many companies are developing open source programs to build their brand and recruit quality talent.
+كثير من الشركات تقوم بتطوير البرامج مفتوحة المصدر لبناء علامتهم التجارية وتوظيف المواهب.
 
-@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
+كمثال وجد @hueniverse عدة أسباب مالية لتبرير [استثمار Walmart في المصادر المفتوحة](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). ووجد @jamesgpearce أن برنامج المصادر المفتوحة في Facebook [أحدثت فرقًا](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) في التوظيف:
 
-> It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
+> إنه برنامج متوافق مع ثقافتنا وكيف يرى الناس منظمتنا. سألنا موظفينا: "هل كنت على علم ببرنامج برمجيات المصادر المفتوحة في Facebook?". الثلثان أجابوا بـ"نعم" والنصف قالوا أن البرنامج ساهم بشكل إيجابي في قرارهم للعمل معنا. هذه ليست أرقام هامشية وأتمنى أنها موجة مستمرة.
 
-If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
+إذا سارت شركتك في هذا الطريق فمن المهم إبقاء الحدود واضحة بين النشاطات المجتمعية والتجارية. في النهاية تستديم المصادر المفتوحة من خلال المساهمات من جميع الناس حول العالم وهذا أكبر من أي شركة أو مكان.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
-  Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
+  أن يدفع لك مقابل العمل على المصادر المفتوحة فرصة رائعة ونادرة ولكن ينبغي أن لا تترك شغفك لهذا السبب. ينبغي أن يكون شغفك هو دافع الشركات لتدفع لك.
   <p markdown="1" class="pquote-credit">
-— @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
+— @jessfraz, ["خطوط ضبابية"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
 </aside>
 
-If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
+إذا كنت لا تستطيع إقناع صاحب عملك الحالي لإعطاء العمل على المصادر الحرة الأولوية فكر في إيجاد صاحب عمل جديد يشجع مساهمة الموظفين في المصادر المفتوحة. ابحث عن شركات تصرح بدعمها للمصادر المفتوحة. كمثال:
 
-* Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](https://paypal.github.io/), have websites that highlight their involvement in open source
-* [Rackspace](https://www.rackspace.com/en-us) published its [open source contribution policy](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) for employees
+* بعض الشركات مثل [Netflix](https://netflix.github.io/) أو [PayPal](https://paypal.github.io/) لديها مواقع تبرز مشاركتها في المصادر المفتوحة
+* [Rackspace](https://www.rackspace.com/en-us) تنشر [سياسة المساهمة في المصادر المفتوحة](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) لديها للموظفين
 
-Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
+المشاريع التي بدأت في شركات كبيرة مثل [Go](https://github.com/golang) أو [React](https://github.com/facebook/react) تعطي فرصة أكبر لتوظيف الناس للعمل على المصادر المفتوحة.
 
-Finally, depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
+في الختام، بناءّ على ظروفك الشخصية بإمكانك محاولة جمع المال بشكل مستقل لتمويل عملك مفتوح المصدر. كمثال:
 
-* @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](https://redux.js.org/)
-* @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* @gaearon موّل عمله على [Redux](https://github.com/reactjs/redux) من خلال [حملة تمويل جماعي على Patreon](https://redux.js.org/)
+* @andrewgodwin موّل علمه على ترحيل المخططات في Django [من خلال حملة على Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-## Finding funding for your project
+## البحث عن تمويل لمشروعك
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+ما عدا الترتيبات للمساهمين الأفراد فأحيانًا تجمع المشاريع الأموال من الشركات والأفراد لتمويل العمل المستمر.
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+التمويل المؤسسي قد يصرف في الدفع للمساهمين الحاليين أو تغطية تكاليف تشغيل المشروع (كرسوم الاستضافة) أو في الاستثمار في خصائص أو أفكار جديدة.
 
-As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
+ومع زيادة شهرة المصادر المفتوحة فإن إيجاد تمويل للمشاريع لازال عملًا تجريبيًا، ومع ذلك فهناك بعض الخيارات الشائعة المتاحة.
 
-### Raise money for your work through crowdfunding campaigns or sponsorships
+### اجمع المال لعملك من خلال حملات التمويل الجماعي أو
 
-Finding sponsorships works well if you have a strong audience or reputation already, or your project is very popular.
-A few examples of sponsored projects include:
+البحث عن الداعمين يؤدي لنتائج أفضل إذا كان لديك جمهور أو سمعة قوية أو كان مشروعك مشهورًا جدًا.
+الأمثلة على المشاريع المدعومة تتضمن:
 
-* **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[webpack](https://github.com/webpack)** يجمع المال من الشركات والأشخاص [من خلال OpenCollective](https://opencollective.com/webpack)
+* **[Vue](https://github.com/vuejs/vue)** [ممول من خلال Patreon](https://github.com/open-source/stories/yyx990803)
+* **[Ruby Together](https://rubytogether.org/)** وهي منظمة غير ربحية تدفع للعمل على [bundler](https://github.com/bundler/bundler) و [RubyGems](https://github.com/rubygems/rubygems) ومشاريع آخرى في البنية الحيوية لـRuby
 
-### Create a revenue stream
+### كوّن تدفق للعوائد
 
-Depending on your project, you may be able to charge for commercial support, hosted options, or additional features. A few examples include:
+على حسب مشروعك قد يكون بإمكانك فرض رسوم على الدعم التجاري أو خيارات الاستضافة أو الخصائص الإضافية.
+بعض الأمثلة:
 
-* **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
-* **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
-* **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
+* **[Sidekiq](https://github.com/mperham/sidekiq)** يوفر نسخ مدفوعة توفر دعم إضافي
+* **[Travis CI](https://github.com/travis-ci)** يوفر نسخ مدفوعة من المنتج
+* **[Ghost](https://github.com/TryGhost/Ghost)** هي غير ربحية لها خدمة مدارة مدفوعة
 
-Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+بعض المشاريع المشهورة مثل [npm](https://github.com/npm/npm) و [Docker](https://github.com/docker/docker) حصلت على تمويل من رؤوس الأموال المخاطرة لدعم نمو أعمالهم.
 
-### Apply for grant funding
+### التقديم على منحة تمويل
 
-Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
+بعض مؤسسات وشركات البرمجات تقدم منح للعمل على المصادر المفتوحة. في بعض الأحيان المنح يمكن أن تدفع للأشخاص بدون تأسيس كيان قانوني للمشروع.
 
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
-* **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
-* The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
+* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** حصل على منحة من [دعم Mozilla للمصادر المفتوحة ](https://www.mozilla.org/en-US/grants/)
+* **[OpenMRS](https://github.com/openmrs)** موّله [معتكف Stripe للمصادر المفتوحة](https://stripe.com/blog/open-source-retreat-2016-grantees)
+* **[Libraries.io](https://github.com/librariesio)** حصل على منحة من [مؤسسة Sloan](https://sloan.org/programs/digital-technology)
+* **[مؤسسة برمجيات Python](https://www.python.org/psf/grants/)** تقدم منحة للأعمال المتعلقة بـPython
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+للمزيد من الخيارات المفصلة ودراسات الحالة كتبت @nayafia [دليلًا](https://github.com/nayafia/lemonade-stand) حول الحصول على مقابل مادي للعمل على المصادر المفتوحة. الأنواع المختلفة من التمويل تتطلب مهارات مختلفة ولذا فكر في نقاط قوتك لتكتشف أي خيار هو الأفضل بالنسبة لك.
 
-## Building a case for financial support
+## بناء حجة للدعم المالي
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+سواء كان المشروع فكرة جديدة أو قائمًا لعدة سنوات يجب أن تتوقع أن تضع الكثير من الجهد في التفكير للتعرف على ممولك المستهدف وتقديم حجة مقنعة.
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+يجب أن تكون قادرًا على الإجابة على الأسئلة التالي سواءً كنت تبحث لتمول قيمة وقتك الخاص أو كنت تجمع المال لمشروع.
 
-### Impact
+### الأثر
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+ما هي فائدة مشروعك؟ لماذا يحب مستخدموك الحاليون أو المستقبليون هذا المشروع؟ أين سيكون بعد خمس سنوات؟
 
-### Traction
+### المسار
 
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+اجمع أدلة على أهمية مشروعك سواء كانت مقاييس أو قصص أو شهادات. هل هناك شركات أو أشخاص جديرون بالذكر يستخدمون مشروعك الآن؟ إذا لم يتوفر ذلك فهل هناك شخص مشهور ينشر مشروعك؟
 
-### Value to funder
+### القيمة بالنسبة للممول
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+الممولون (سواء كان صاحب عملك أو مؤسسة مانحة) تعرض عليهم الفرص بشكل مستمر. لماذا ينبغي عليهم دعم مشروعك بدل أي مشروع آخر؟ كيف يستفيدون من تقديم التمويل؟
 
-### Use of funds
+### استخدام التمويل
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+ماذا ستحقق بالضبط بالتمويل المقترح؟ ركّز على منجزات المشروع والمخرجات بدل دفع الرواتب مثلا.
 
-### How you'll receive the funds
+### كيف ستستلم الأموال
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+هل يملك الممول أي اشتراطات حول الصرف؟ قد تحتاج أن تكون مؤسسة غير ربحية أو أن يكون لك داعم مالي غير ربحي كمثال. أو ربما يجب دفع التمويل لمتعاقد واحد بدل منظمة. تأكد من القيام بالبحث لأنه هذه المتطلبات تختلف بين الداعمين.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  كنا المصدر الرئيسي للإيقونات الرفيقة للمواقع لسنوات وكان مجتمعنا مكون من 20 مليون شخص وظهرنا في أكثر من 70 مليون موقع من ضمنها موقع البيت الأبيض Whitehouse.gov. (...) النسخة 4 صدرت قبل ثلاث سنوات. تقنيات الويب تغيرت كثيرًا منذ ذلك الحين وبصراحة Font Awesome غدت بائتة قليلًا. (...) ولهذا نقدم Font Awesome 5. قمنا بتحديث وإعادة كتابة الـCSS وإعادة تصميم كل إيقونة بشكل كلي. نتحدث عن تصميم وتناسق ومقروئية أعلي.
   <p markdown="1" class="pquote-credit">
-— @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
+— @davegandy, [فيديو Font Awesome على Kickstarter](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
-## Experiment and don't give up
+## جرّب ولا تستلم
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+جمع الأموال ليس سهلًا سواءً كنت مشروعًا مفتوح المصدر أو مؤسسة غير ربحية أو شركة برمجيات ناشئة وفي أغلب الأحوال سيتطلب من الإبداع. اكتشاف كيف تريد الحصول على المال والقيام بالبحث المطلوب وأن تضع نفس في مكان من سيمولك سيساعدك في بناء حجج مقنعة لتمويلك.
 
 >
