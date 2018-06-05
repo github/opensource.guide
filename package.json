@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "primer-core": "6.8.0",
-    "primer-marketing": "6.2.0"
+    "primer-marketing": "6.2.1"
   }
 }
