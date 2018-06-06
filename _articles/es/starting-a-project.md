@@ -215,7 +215,7 @@ Para m&aacute;s informaci&oacute;n, entra a [Gu&iacute;a del C&oacute;digo de Co
 
 Adem&aacute;s de comunicar _c&oacute;mo_ esperas que se comporten los participantes, un c&oacute;digo de conducta tiende a describir a qui&eacute;n se aplican las expectativas, cuando apliquen, y qu&eacute; hacer si una violaci&oacute;n a las mismas ocurre.
 
-Como muchas licencias de c&oacute;digo abierto, existen est&aacute;ndares emergentes para c&oacute;digos de conducta para que no debas escribir uno propio. El [Contributor Covenant](http://contributor-covenant.org/) es un c&oacute;digo de conducta usado por [m&aacute;s de 40000 proyectos de c&oacute;digo abierto](http://contributor-covenant.org/adopters/), incluyendo Kubernetes, Rails, and Swift. Debes estar preparado para redefinir el tuyo cuando sea necesario.
+Como muchas licencias de c&oacute;digo abierto, existen est&aacute;ndares emergentes para c&oacute;digos de conducta para que no debas escribir uno propio. El [Contributor Covenant](https://www.contributor-covenant.org/) es un c&oacute;digo de conducta usado por [m&aacute;s de 40000 proyectos de c&oacute;digo abierto](https://www.contributor-covenant.org/adopters/), incluyendo Kubernetes, Rails, and Swift. Debes estar preparado para redefinir el tuyo cuando sea necesario.
 
 Copia el texto directamente en el archivo CODE_OF_CONDUCT dentro de tu repositorio, en el directorio ra&iacute;z, y vinculalo desde tu README.
 

@@ -34,7 +34,7 @@ Selain mengkomunikasikan ekspektasi Anda, kode etik juga menjelaskan beberapa ha
 * Apa yang terjadi jika seseorang melanggar kode etik
 * Bagaimana seseorang dapat melaporkan pelanggaran
 
-Apabila dimungkinkan, gunakan yang sudah ada. [Contributor Covenant](http://contributor-covenant.org/) adalah kode etik yang bisa digunakan dan sudah digunakan oleh lebih dari 40.000 proyek open source, termasuk Kubernetes, Rails, dan Swift.
+Apabila dimungkinkan, gunakan yang sudah ada. [Contributor Covenant](https://www.contributor-covenant.org/) adalah kode etik yang bisa digunakan dan sudah digunakan oleh lebih dari 40.000 proyek open source, termasuk Kubernetes, Rails, dan Swift.
 
 [Kode etik Django](https://www.djangoproject.com/conduct/) dan [Kode etik Warga](http://citizencodeofconduct.org/) adalah dua contoh kode etik yang bagus.
 

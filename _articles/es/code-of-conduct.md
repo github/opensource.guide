@@ -34,7 +34,7 @@ Adem&aacute;s de comunicar tus expectativas, un c&oacute;digo de conducta descri
 *	Que sucede si alguien viola el c&oacute;digo de conducta
 *	De qu&eacute; manera alguien puede reportar una violaci&oacute;n
 
-Siempre que sea posible, haga uso del art. El [Contributor Covenant](http://contributor-covenant.org/) es un c&oacute;digo de conducta usado por m&aacute;s de 40,000 proyectos de software libre, incluyendo Kubernetes, Rails, and Swift.
+Siempre que sea posible, haga uso del art. El [Contributor Covenant](https://www.contributor-covenant.org/) es un c&oacute;digo de conducta usado por m&aacute;s de 40,000 proyectos de software libre, incluyendo Kubernetes, Rails, and Swift.
 
 El [Django Code of Conduct](https://www.djangoproject.com/conduct/) y el [Citizen Code of Conduct](http://citizencodeofconduct.org/) son tambi&eacute;n dos ejemplos de buenos c&oacute;digos de conducta.
 
