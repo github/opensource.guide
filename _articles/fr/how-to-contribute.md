@@ -127,7 +127,7 @@ Même si vous aimez écrire du code, d'autres types de contributions sont un exc
 
 ### Aimez-vous aider les gens ?
 
-* Répondez aux questions sur le projet sur, par exemple, Stack Overflow ([comme cet exemple Postgres](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying -to-ge)) ou Reddit
+* Répondez aux questions sur le projet sur, par exemple, Stack Overflow ([comme cet exemple Postgres](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) ou Reddit
 * Répondre aux questions pour les personnes sur les questions ouvertes
 * Aider à modérer les forums de discussion ou les canaux de conversation
 
@@ -206,7 +206,7 @@ Contribuer à l'open source se produit à tous les niveaux, à travers les proje
 
 Au lieu de cela, commencez par penser aux projets que vous utilisez déjà ou que vous voulez utiliser. Les projets auxquels vous contribuez activement sont ceux auxquels vous revenez.
 
-Dans ces projets, chaque fois que vous vous surprenez à penser que quelque chose pourrait être meilleur ou différent, agissez selon votre instinct.
+Dans ces projets, chaque fois que vous pensez que quelque chose pourrait être meilleur ou différent, agissez selon votre instinct.
 
 L'open source n'est pas un club exclusif. C'est fait par des gens comme vous. "Open source" est juste un terme de fantaisie pour traiter les problèmes du monde comme réparable.
 

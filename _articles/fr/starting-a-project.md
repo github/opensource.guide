@@ -115,7 +115,7 @@ Si vous ne savez pas comment commencer en tant que contributeur, consultez notre
 
 Il n'y a pas de moment idéal pour ouvrir votre travail. Vous pouvez ouvrir une idée, un travail en cours, ou après des années de source fermée.
 
-De manière générale, vous devriez ouvrir votre projet lorsque vous vous sentez à l'aise de voir les autres et de donner votre avis sur votre travail.
+De manière générale, vous devriez ouvrir votre projet lorsque vous serez à l'aise de voir les autres et de donner votre avis sur votre travail.
 
 Quelle que soit la phase à laquelle vous décidez d'ouvrir votre projet, chaque projet doit inclure la documentation suivante:
 
@@ -213,7 +213,7 @@ Enfin, un code de conduite permet de définir des règles de base pour le compor
 
 Pour plus d'informations, consultez notre [Code de conduite](../code-of-conduct/).
 
-En plus de communiquer _comment_ vous vous attendez à ce que les participants se comportent, un code de conduite a également tendance à décrire à qui s'appliquent ces attentes, quand ils s'appliquent, et que faire en cas de violation.
+En plus de communiquer _comment_ vous souhaitez que les participants se comportent, un code de conduite a également tendance à décrire à qui s'appliquent ces attentes, quand ils s'appliquent, et que faire en cas de violation.
 
 Tout comme les licences open source, il existe également des normes émergentes pour les codes de conduite, vous n'avez donc pas besoin d'écrire les vôtres. Le [Contributor Covenant](https://contributor-covenant.org/)) est un code de conduite qui est utilisé par [plus de 40 000 projets open source](http://contributor-covenant.org/adopters/) , y compris Kubernetes, Rails et Swift. Quel que soit le texte que vous utilisez, vous devez être prêt à appliquer votre code de conduite si nécessaire.
 

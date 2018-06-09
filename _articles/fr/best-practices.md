@@ -110,7 +110,7 @@ Si vous recevez une contribution que vous ne voulez pas accepter, votre premièr
   </p>
 </aside>
 
-Ne laissez pas une contribution indésirable ouverte parce que vous vous sentez coupable ou que vous voulez être gentil. Au fil du temps, vos issues sans réponse et les PRs rendront le travail sur votre projet beaucoup plus stressant et intimidant.
+Ne laissez pas une contribution indésirable ouverte parce que vous avez un sentiment de culpabilité ou que vous voulez être gentil. Au fil du temps, vos issues sans réponse et les PRs rendront le travail sur votre projet beaucoup plus stressant et intimidant.
 
 Il est préférable de fermer immédiatement les contributions que vous ne voulez pas accepter. Si votre projet souffre déjà d'un important retard, @steveklabnik propose des suggestions pour [comment trier efficacement les issues](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
@@ -131,7 +131,7 @@ Si la pensée de dire non vous terrifie, vous n'êtes pas seul. Comme @jessfraz 
 
 > J'ai parlé à des responsables de plusieurs projets open source différents, Mesos, Kubernetes, Chromium, et ils sont tous d'accord que l'un des aspects les plus difficiles d'un responsable est de dire "Non" aux correctifs que vous ne voulez pas.
 
-Ne vous sentez pas coupable de ne pas vouloir accepter la contribution de quelqu'un. La première règle de l'open source, [selon](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"Non est temporaire, oui est pour toujours."_. Alors que l'empathie avec l'enthousiasme d'une autre personne est une bonne chose chose, rejeter une contribution n'est pas la même chose que rejeter la personne derrière elle.
+Ne vous sentez pas coupable de ne pas vouloir accepter la contribution de quelqu'un. La première règle de l'open source, [selon](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"Non est temporaire, oui est pour toujours."_. Alors que l'empathie avec l'enthousiasme d'une autre personne est une bonne chose, rejeter une contribution n'est pas la même chose que rejeter la personne derrière elle.
 
 En fin de compte, si une contribution n'est pas suffisante, vous n'êtes pas obligé de l'accepter. Soyez gentil et réactif lorsque les gens contribuent à votre projet, mais n'acceptez que les changements qui, selon vous, amélioreront votre projet. Le plus souvent vous pratiquez en disant non, plus cela devient facile. Promis.
 
@@ -206,7 +206,7 @@ Forker un projet ne doit pas être une mauvaise chose. Etre capable de copier et
   </p>
 </aside>
 
-La même chose s'applique à un utilisateur qui veut vraiment une solution que vous n'avez tout simplement pas la bande passante pour la faire. L'offre d'API et de hooks de personnalisation peut aider les autres à répondre à leurs propres besoins, sans avoir à modifier directement la source. @orta [a trouvé que](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) que encourager les plugins pour CocoaPods a conduit à "quelques-unes des idées les plus intéressantes":
+La même chose s'applique à un utilisateur qui veut vraiment une solution que vous n'avez tout simplement pas la bande passante pour la faire. L'offre d'API et de hooks de personnalisation peut aider les autres à répondre à leurs propres besoins, sans avoir à modifier directement la source. @orta [a trouvé que](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) encourager les plugins pour CocoaPods a conduit à "quelques-unes des idées les plus intéressantes":
 
 > Il est presque inévitable qu'une fois qu'un projet prend de l'ampleur, les responsables doivent être beaucoup plus conservateurs quant à la façon dont ils introduisent un nouveau code. Vous devenez bon à dire «non», mais beaucoup de gens ont des besoins légitimes. Ainsi, vous finissez par convertir votre outil en plate-forme.
 
@@ -252,14 +252,15 @@ Cependant, si vos normes sont trop compliquées, elles peuvent augmenter les obs
 
 Si vous n'êtes pas sûr des outils à utiliser, regardez ce que font les autres projets populaires, en particulier ceux de votre écosystème. Par exemple, à quoi ressemble le processus de contribution pour les autres modules Node ? L'utilisation d'outils et d'approches similaires rendra votre processus plus familier à vos contributeurs cibles.
 
-## Il est normal de faire pause"
+## Il est normal de faire pause
+
 Le travail open source vous a déjà apporté de la joie. Peut-être que maintenant ça commence à vous faire sentir fuyant ou coupable.
 
 Peut-être vous sentez-vous débordé ou un sentiment croissant d'effroi quand vous pensez à vos projets. Et pendant ce temps, les issues et les pull requests s'accumulent.
 
 Le burnout est un problème réel et omniprésent dans le travail open source, en particulier chez les responsables. En tant que responsable, votre bonheur est une exigence non négociable pour la survie de tout projet open source.
 
-Bien que cela devrait aller de soi, faites une pause ! Vous ne devriez pas avoir à attendre jusqu'à ce que vous vous sentiez usé pour prendre des vacances. @brettcannon, un développeur de base Python, a décidé de prendre [un mois de vacances](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) après 14 années de bénévolat de travail sur les logiciels open source.
+Bien que cela devrait aller de soi, faites une pause ! Vous ne devriez pas avoir à attendre de vous sentir usé pour prendre des vacances. @brettcannon, un développeur de base Python, a décidé de prendre [un mois de vacances](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) après 14 années de bénévolat de travail sur les logiciels open source.
 
 Tout comme n'importe quel autre type de travail, prendre des pauses régulières vous gardera frais, heureux et excité par votre travail.
 

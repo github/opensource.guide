@@ -96,7 +96,7 @@ Il y a deux raisons de donner à votre communauté un point de rassemblement.
 
 La première raison est pour eux. Aidez les gens à se connaître. Les personnes ayant des intérêts communs voudront inévitablement un endroit pour en parler. Et quand la communication est publique et accessible, n'importe qui peut lire les archives passées pour se mettre au courant et participer.
 
-La deuxième raison est pour vous. Si vous ne donnez pas aux gens un lieu public pour parler de votre projet, ils vous contacteront probablement directement. Au début, il peut sembler assez facile de répondre aux messages privés "juste une fois". Mais au fil du temps, surtout si votre projet devient populaire, vous vous sentirez épuisé. Résistez à la tentation de communiquer avec des personnes au sujet de votre projet en privé. Au lieu de cela, dirigez-les vers un canal public désigné.
+La deuxième raison est pour vous. Si vous ne donnez pas aux gens un lieu public pour parler de votre projet, ils vous contacteront probablement directement. Au début, il peut sembler assez facile de répondre aux messages privés "juste une fois". Mais au fil du temps, surtout si votre projet devient populaire, vous serez épuisé. Résistez à la tentation de communiquer avec des personnes au sujet de votre projet en privé. Au lieu de cela, dirigez-les vers un canal public désigné.
 
 La communication publique peut être aussi simple que de diriger les gens à ouvrir une issue au lieu de vous envoyer directement un e-mail ou de commenter votre blog. Vous pouvez également créer une liste de diffusion ou créer un compte Twitter, Slack ou un canal IRC pour que les gens puissent parler de votre projet. Ou essayez tout ce qui précède !
 
@@ -218,7 +218,7 @@ Votre fichier README est [plus qu'un simple jeu d'instructions](../starting-a-pr
 
 Certains projets utilisent un processus de vote pour prendre des décisions importantes. Bien que raisonnable à première vue, le vote met l'accent sur le fait d'arriver à une "réponse", plutôt que d'écouter et de répondre aux préoccupations de l'autre.
 
-Le vote peut devenir politique, où les membres de la communauté se sentent poussés à se faire des faveurs ou à voter d'une certaine manière. Pas tout le monde vote, que ce soit la [majorité silencieuse](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority -des utilisateurs) dans votre communauté, ou les utilisateurs actuels qui ne savaient pas qu'un vote avait lieu.
+Le vote peut devenir politique, où les membres de la communauté se sentent poussés à se faire des faveurs ou à voter d'une certaine manière. Pas tout le monde vote, que ce soit la [majorit&eacute;  silencieuse](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) dans votre communauté, ou les utilisateurs actuels qui ne savaient pas qu'un vote avait lieu.
 
 Parfois, le vote est un arbitre nécessaire. Cependant, autant que vous le pouvez, insistez sur ["recherche de consensus"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) plutôt que sur un consensus.
 

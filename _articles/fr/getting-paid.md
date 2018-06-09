@@ -83,7 +83,7 @@ Si vous n'avez pas de projet Open Source sur lequel vous souhaitez travailler, m
 
 De nombreuses entreprises développent des programmes open source pour construire leur marque et recruter des talents de qualité.
 
-@hueniverse, par exemple, a trouvé qu'il y avait des raisons financières pour justifier [l'investissement de Walmart dans l'open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in- open-source-isn-t-cheap.html). Et @jamesgpearce a trouvé que le programme open source de Facebook [a fait une différence](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) dans le recrutement:
+@hueniverse, par exemple, a trouvé qu'il y avait des raisons financières pour justifier [l'investissement de Walmart dans l'open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). Et @jamesgpearce a trouvé que le programme open source de Facebook [a fait une différence](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) dans le recrutement:
 
 > Il est étroitement lié à notre culture de hackers et à la perception de notre organisation. Nous avons demandé à nos employés: "Connaissiez-vous le logiciel Open Source sur Facebook ?" Les deux tiers ont dit "Oui". La moitié a déclaré que le programme a contribué positivement à leur décision de travailler pour nous. Ce ne sont pas des chiffres marginaux, et j'espère, une tendance qui se poursuit.
 

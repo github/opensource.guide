@@ -20,7 +20,7 @@ related:
 
 ## Comprendre la gouvernance pour votre projet en croissance
 
-Votre projet prend de l'ampleur, les gens sont mobilisés et vous vous engagez à poursuivre dans cette voie. À ce stade, vous vous demandez peut-être comment incorporer les contributeurs réguliers du projet dans votre flux de travail, que ce soit en donnant à quelqu'un l'accès à la validation ou en résolvant les débats de la communauté. Si vous avez des questions, nous avons des réponses.
+Votre projet prend de l'ampleur, les gens sont mobilisés et vous êtes engagé à poursuivre dans cette voie. À ce stade, vous allez peut-être vous demander comment incorporer les contributeurs réguliers du projet dans votre flux de travail, que ce soit en donnant à quelqu'un l'accès à la validation ou en résolvant les débats de la communauté. Si vous avez des questions, nous avons des réponses.
 
 ## Quels sont les exemples de r&ocirc;les formels utilis&eacute;s dans les projets open source
 
@@ -28,15 +28,15 @@ De nombreux projets suivent une structure similaire pour les rôles contributeur
 
 Qu'est-ce que ces rôles signifient réellement, cependant, est entièrement à vous. Voici quelques types de rôles que vous pouvez reconnaître:
 
-* ** Responsables **
-* ** Contributeur **
-* ** Committeur **
+* **Responsables**
+* **Contributeur**
+* **Committeur**
 
 **Pour certains projets, les "responsables"** sont les seules personnes dans un projet ayant un accès en validation. Dans d'autres projets, ils sont simplement les personnes répertoriées dans le fichier README en tant que responsables.
 
 Un responsable ne doit pas nécessairement être quelqu'un qui écrit du code pour votre projet. Ce pourrait être quelqu'un qui a fait beaucoup de travail pour évangéliser votre projet, ou une documentation écrite qui a rendu le projet plus accessible aux autres. Peu importe ce qu'ils font au jour le jour, un responsable est probablement quelqu'un qui se sent responsable de la direction du projet et qui est déterminé à l'améliorer.
 
-**Un contributeur peut être n'importe qui** qui commente un problème ou une demande d'extraction, les personnes qui ajoutent de la valeur au projet (qu'il s'agisse de problèmes de triage, d'écriture de code ou d'organisation d'événements) ou toute personne ayant une pull request mergée (sans doute la définition la plus proche d'un contributeur).
+**Un contributeur peut être n'importe quel personne** qui commente un problème ou une demande d'extraction, les personnes qui ajoutent de la valeur au projet (qu'il s'agisse de problèmes de triage, d'écriture de code ou d'organisation d'événements) ou toute personne ayant une pull request mergée (sans doute la définition la plus proche d'un contributeur).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">

@@ -120,7 +120,7 @@ Au fur et à mesure que vous écrivez votre exposé, concentrez-vous sur ce que 
   </p>
 </aside>
 
-Lorsque vous vous sentez prêt, envisagez de prendre la parole lors d'une conférence pour promouvoir votre projet. Les conférences peuvent vous aider à atteindre plus de gens, parfois de partout dans le monde.
+Lorsque vous êtes prêt, envisagez de prendre la parole lors d'une conférence pour promouvoir votre projet. Les conférences peuvent vous aider à atteindre plus de gens, parfois de partout dans le monde.
 
 Recherchez des conférences spécifiques à votre langue ou à votre écosystème. Avant de soumettre votre exposé, faites des recherches sur la conférence pour adapter votre discours aux participants et augmenter vos chances d'être accepté pour prendre la parole à la conférence. Vous pouvez souvent avoir une idée de votre auditoire en regardant les conférenciers d'une conférence.
 
