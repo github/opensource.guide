@@ -4,13 +4,13 @@ title: Leadership et Gouvernance
 description: Les projets open source en croissance peuvent bénéficier de règles formelles pour prendre des décisions.
 class: leadership
 toc:
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "Quels sont les exemples de rôles formels utilisés dans les projets open source ?"
-  how-do-i-formalize-these-leadership-roles: "Comment formaliser ces rôles de leadership ?"
-  when-should-i-give-someone-commit-access: "Quand dois-je donner à quelqu'un le droit de commit ?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "Quelles sont les structures de gouvernance communes pour les projets open source ?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Ai-je besoin de documents de gouvernance lorsque je lance mon projet ?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "Que se passe-t-il si les employés de l'entreprise commencent à soumettre des contributions ?"
-  do-i-need-a-legal-entity-to-support-my-project: "Ai-je besoin d'une entité légale pour soutenir mon projet ?"
+  quels-sont-les-exemples-de-r&ocirc;les-formels-utilis&eacute;s-dans-les-projets-open-source: "Quels sont les exemples de r&ocirc;les formels utilis&eacute;s dans les projets open source"
+  comment-formaliser-ces-r&ocirc;les-de-leadership: "Comment formaliser ces r&ocirc;les de leadership"
+  quand-dois-je-donner-&agrave;-quelquun-le-droit-de-commit: "Quand dois-je donner &agrave; quelqu'un le droit de commit"
+  quelles-sont-les-structures-de-gouvernance-communes-pour-les-projets-open-source: "Quelles sont les structures de gouvernance communes pour les projets open source"
+  ai-je-besoin-de-documents-de-gouvernance-lorsque-je-lance-mon-projet: "Ai-je besoin de documents de gouvernance lorsque je lance mon projet"
+  que-se-passe-t-il-si-les-employ&eacute;s-de-lentreprise-commencent-&agrave;-soumettre-des-contributions: "Que se passe-t-il si les employ&eacute;s de l'entreprise commencent &agrave; soumettre des contributions"
+  ai-je-besoin-dune-entit&eacute;-l&eacute;gale-pour-soutenir-mon-projet: "Ai-je besoin d'une entit&eacute; l&eacute;gale pour soutenir mon projet"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
@@ -22,7 +22,7 @@ related:
 
 Votre projet prend de l'ampleur, les gens sont mobilisés et vous vous engagez à poursuivre dans cette voie. À ce stade, vous vous demandez peut-être comment incorporer les contributeurs réguliers du projet dans votre flux de travail, que ce soit en donnant à quelqu'un l'accès à la validation ou en résolvant les débats de la communauté. Si vous avez des questions, nous avons des réponses.
 
-## Quels sont les exemples de rôles formels utilisés dans les projets open source ?
+## Quels sont les exemples de r&ocirc;les formels utilis&eacute;s dans les projets open source
 
 De nombreux projets suivent une structure similaire pour les rôles contributeurs et la reconnaissance.
 
@@ -48,7 +48,7 @@ Un responsable ne doit pas nécessairement être quelqu'un qui écrit du code po
 
 **Le terme "committeur"** pourrait être utilisé pour distinguer le droit de commit, qui est un type spécifique de responsabilité, des autres formes de contribution.
 
-Alors que vous pouvez définir vos rôles de projet comme vous le souhaitez, [pensez à utiliser des définitions plus larges](../how-to-contribute/#what-it-means-to-contribute) pour encourager plus de formes de contribution. Vous pouvez utiliser des rôles de leadership pour reconnaître formellement les personnes qui ont apporté des contributions exceptionnelles à votre projet, indépendamment de leurs compétences techniques.
+Alors que vous pouvez définir vos rôles de projet comme vous le souhaitez, [pensez à utiliser des définitions plus larges](../how-to-contribute/#que-signifie-contribuer) pour encourager plus de formes de contribution. Vous pouvez utiliser des rôles de leadership pour reconnaître formellement les personnes qui ont apporté des contributions exceptionnelles à votre projet, indépendamment de leurs compétences techniques.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
@@ -58,7 +58,7 @@ Alors que vous pouvez définir vos rôles de projet comme vous le souhaitez, [pe
   </p>
 </aside>
 
-## Comment formaliser ces rôles de leadership ?
+## Comment formaliser ces r&ocirc;les de leadership
 
 La formalisation de vos rôles de leadership aide les gens à se sentir concernés et indique aux autres membres de la communauté qui chercher de l'aide.
 
@@ -81,9 +81,9 @@ Une fois que vous avez établi des rôles de leadership, n'oubliez pas de docume
 
 Des outils tels que [Vossibility](https://github.com/icecrime/vossibility-stack) peuvent vous aider à savoir qui contribue (ou non) au projet. Documenter cette information évite la perception de la communauté que les responsables sont une clique qui prend ses décisions en privé.
 
-Enfin, si votre projet est sur GitHub, envisagez de transférer votre projet de votre compte personnel vers une organisation et d'ajouter au moins un administrateur de sauvegarde. [Les organisations GitHub](https://help.github.com/articles/creating-a-new-organization-account/) facilitent la gestion des permissions et des dépôts multiples et protègent l'héritage de votre projet par [propriété partagée](../building-community/#share-ownership-of-your-project).
+Enfin, si votre projet est sur GitHub, envisagez de transférer votre projet de votre compte personnel vers une organisation et d'ajouter au moins un administrateur de sauvegarde. [Les organisations GitHub](https://help.github.com/articles/creating-a-new-organization-account/) facilitent la gestion des permissions et des dépôts multiples et protègent l'héritage de votre projet par [propriété partagée](../building-community/#partager-la-propri&eacute;t&eacute;-de-votre-projet).
 
-## Quand dois-je donner à quelqu'un le droit de commit ?
+## Quand dois-je donner &agrave; quelqu'un le droit de commit
 
 Certaines personnes pensent que vous devriez donner un droit de commit à tous ceux qui apportent une contribution. Cela pourrait encourager plus de personnes à se sentir propriétaires de votre projet.
 
@@ -99,7 +99,7 @@ Si votre projet est sur GitHub, vous pouvez utiliser des [branches protégées](
   </p>
 </aside>
 
-## Quelles sont les structures de gouvernance communes pour les projets open source ?
+## Quelles sont les structures de gouvernance communes pour les projets open source
 
 Il existe trois structures de gouvernance communes associées aux projets open source.
 
@@ -115,7 +115,7 @@ Lequel devriez-vous utiliser ? C'est à vous de décider ! Chaque modèle a des 
 * [Gabarit de modèle de la méritocratie](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Politique de contribution libérale de Node.js](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
 
-## Ai-je besoin de documents de gouvernance lorsque je lance mon projet ?
+## Ai-je besoin de documents de gouvernance lorsque je lance mon projet
 
 Il n'y a pas de bon moment pour écrire la gouvernance de votre projet, mais c'est beaucoup plus facile à définir une fois que vous avez vu la dynamique de votre communauté se jouer. La meilleure partie (et la plus difficile) de la gouvernance open source est qu'elle est façonnée par la communauté !
 
@@ -131,7 +131,7 @@ Si vous faites partie d'une entreprise qui lance un projet open source, cela vau
   </p>
 </aside>
 
-## Que se passe-t-il si les employés de l'entreprise commencent à soumettre des contributions ?
+## Que se passe-t-il si les employ&eacute;s de l'entreprise commencent &agrave; soumettre des contributions
 
 Les projets open source réussis sont utilisés par de nombreuses personnes et entreprises, et certaines entreprises peuvent éventuellement avoir des sources de revenus liées au projet. Par exemple, une entreprise peut utiliser le code du projet comme un composant dans une offre de service commercial.
 
@@ -143,7 +143,7 @@ Il est important de traiter l'activité commerciale comme normale et comme une a
 
 Comme tout le monde, les développeurs motivés par le commerce acquièrent une influence sur le projet grâce à la qualité et à la quantité de leurs contributions. Évidemment, un développeur payé pour son temps peut être capable de faire plus que quelqu'un qui n'est pas payé, mais c'est bon: le paiement est juste l'un des nombreux facteurs possibles qui pourraient affecter combien quelqu'un fait. Gardez vos discussions de projet axées sur les contributions, pas sur les facteurs externes qui permettent aux gens de faire ces contributions.
 
-## Ai-je besoin d'une entité légale pour soutenir mon projet ?
+## Ai-je besoin d'une entit&eacute; l&eacute;gale pour soutenir mon projet
 
 Vous n'avez pas besoin d'une entité légale pour soutenir votre projet open source à moins que vous ne manipuliez de l'argent.
 
@@ -161,4 +161,4 @@ Beaucoup de projets ne souhaitent pas se lancer dans la création d'un but non l
   </p>
 </aside>
 
-Si votre projet est étroitement associé à une langue ou à un écosystème donné, il peut également exister une base de logiciel connexe avec laquelle vous pouvez travailler. Par exemple, [Python Software Foundation](https://www.python.org/psf/) prend en charge [PyPI](https://pypi.org/), le gestionnaire de paquets Python et le [Node.js Foundation](https://nodejs.org/fr/foundation/) aide à prendre en charge [Express.js](https://expressjs.com/), un framework basé sur Node.
+Si votre projet est étroitement associé à une langue ou à un écosystème donné, il peut également exister une base de logiciel connexe avec laquelle vous pouvez travailler. Par exemple, [Python Software Foundation](https://www.python.org/psf/) prend en charge [PyPI](https://pypi.org/), le gestionnaire de paquets Python et la [Fondation Node.js](https://nodejs.org/en/foundation/) aide à prendre en charge [Express.js](https://expressjs.com/), un framework basé sur Node.

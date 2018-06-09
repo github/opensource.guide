@@ -4,10 +4,10 @@ title: Votre Code de Conduite
 description: Faciliter un comportement communautaire sain et constructif en adoptant et en appliquant un code de conduite.
 class: coc
 toc:
-  why-do-i-need-a-code-of-conduct: "Pourquoi ai-je besoin d'un code de conduite ?"
-  establishing-a-code-of-conduct: "Etablir un code de conduite"
-  deciding-how-youll-enforce-your-code-of-conduct: "Décider comment vous allez appliquer votre code de conduite"
-  enforcing-your-code-of-conduct: "Appliquer votre code de conduite"
+  pourquoi-un-code-de-conduite: "Pourquoi un code de conduite"
+  etablir-un-code-de-conduite: "Etablir un code de conduite"
+  d&eacute;cider-comment-vous-allez-appliquer-votre-code-de-conduite: "D&eacute;cider comment vous allez appliquer votre code de conduite"
+  appliquer-votre-code-de-conduite: "Appliquer votre code de conduite"
 order: 8
 image: /assets/images/cards/coc.png
 related:
@@ -15,7 +15,7 @@ related:
   - leadership
 ---
 
-## Pourquoi ai-je besoin d'un code de conduite ?
+## Pourquoi un code de conduite
 
 Un code de conduite est un document qui établit des attentes de comportement pour les participants de votre projet. Adopter et appliquer un code de conduite peut aider à créer une atmosphère sociale positive pour votre communauté.
 
@@ -40,7 +40,7 @@ Le [Django Code of Conduct](https://www.djangoproject.com/conduct/) et le [Citiz
 
 Placez un fichier CODE_OF_CONDUCT dans le répertoire racine de votre projet et rendez-le visible pour votre communauté en le liant à votre fichier CONTRIBUTING ou README.
 
-## Décider comment vous allez appliquer votre code de conduite
+## D&eacute;cider comment vous allez appliquer votre code de conduite
 
 <aside markdown="1" class="pquote">
   Un code de conduite qui n'est pas (ou ne peut pas être) appliqué est pire qu'aucun code de conduite: il envoie le message que les valeurs du code de conduite ne sont pas vraiment importantes ou respectées dans votre communauté.

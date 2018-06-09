@@ -4,11 +4,11 @@ title: Metriques Open Source
 description: Prendre des décisions éclairées pour aider votre projet open source à prospérer en mesurant et en suivant son succès.
 class: metrics
 toc:
-  why-measure-anything: "Pourquoi mesurer quoi que ce soit ?"
-  discovery: "Découverte"
+  pourquoi-tout-mesurer: Pourquoi tout mesurer"
+  d&eacute;couverte: "D&eacute;couverte"
   usage: "Usage"
-  retention: "Rétention"
-  maintainer-activity: "Activité de responsable"
+  r&eacute;tention: "R&eacute;tention"
+  activit&eacute;-de-responsable: "Activit&eacute; de responsable"
 order: 9
 image: /assets/images/cards/metrics.png
 related:
@@ -16,7 +16,7 @@ related:
   - best-practices
 ---
 
-## Pourquoi mesurer quoi que ce soit ?
+## Pourquoi tout mesurer
 
 Les données, lorsqu'elles sont utilisées à bon escient, peuvent vous aider à prendre de meilleures décisions en tant que responsable d'un projet open source.
 
@@ -37,7 +37,7 @@ La popularité n'est pas tout. Tout le monde entre dans l'open source pour diff�
 
 Si vous _êtes_ intéressé à comprendre votre projet à un niveau plus profond, lisez la suite pour savoir comment analyser l'activité de votre projet.
 
-## Découverte
+## D&eacute;couverte
 
 Avant que quiconque puisse utiliser ou contribuer à votre projet, ils doivent savoir qu'il existe. Demandez-vous: _Est-ce que les gens trouvent ce projet ?_
 
@@ -80,7 +80,7 @@ Essayez de comprendre d'où vient votre public et demandez aux autres de donner 
 
 Une fois que vous savez que les gens utilisent votre projet, vous pouvez essayer de comprendre ce qu'ils font avec. Est-ce qu'ils s'appuient sur lui en forkant votre code et en ajoutant des fonctionnalités ? L'utilisent-ils pour la science ou les affaires?
 
-## Rétention
+## R&eacute;tention
 
 Les gens trouvent votre projet et l'utilisent. La prochaine question que vous voudrez vous poser est: _Est-ce que les gens contribuent à ce projet ?_
 
@@ -112,7 +112,7 @@ Les exemples de statistiques de communauté que vous souhaitez suivre régulièr
   </p>
 </aside>
 
-## Activité de responsable
+## Activit&eacute; de responsable
 
 Enfin, vous souhaiterez fermer la boucle en vous assurant que les responsables de votre projet sont en mesure de gérer le volume de contributions reçues. La dernière question que vous voudrez vous poser est la suivante: _suis-je (ou sommes-nous) en train de répondre à notre communauté?_
 

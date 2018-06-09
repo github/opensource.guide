@@ -4,12 +4,12 @@ title: Comment contribuer à l'Open Source
 description: Vous voulez contribuer à l'open source ? Un guide pour faire des contributions open source, pour les débutants et pour les vétérans.
 class: contribute
 toc:
-  why-contribute-to-open-source: "Pourquoi contribuer à l'open source ?"
-  what-it-means-to-contribute: "Qu'est-ce que cela signifie de contribuer"
-  orienting-yourself-to-a-new-project: "S'orienter vers un nouveau projet"
-  finding-a-project-to-contribute-to: "Trouver un projet auquel contribuer"
-  how-to-submit-a-contribution: "Comment proposer une contribution ?"
-  what-happens-after-you-submit-a-contribution: "Que ce passe-t-il apres avoir proposé une contribution ?"
+  pourquoi-contribuer-&agrave;-lopen-source: "Pourquoi contribuer &agrave; l'open source"
+  que-signifie-contribuer: "Que signifie contribuer"
+  sorienter-vers-un-nouveau-projet: "S'orienter vers un nouveau projet"
+  trouver-un-projet-auquel-contribuer: "Trouver un projet auquel contribuer"
+  comment-proposer-une-contribution: "Comment proposer une contribution"
+  que-ce-passe-t-il-apr&egrave;s-avoir-propos&eacute;-une-contribution: "Que ce passe-t-il apr&egrave;s avoir propos&eacute; une contribution"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -17,7 +17,7 @@ related:
   - building
 ---
 
-## Pourquoi contribuer à l'open source ?
+## Pourquoi contribuer &agrave; l'open source
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
@@ -55,7 +55,7 @@ L'Open Source offre des opportunités de pratiquer des compétences de leadershi
 
 Vous n'avez pas besoin de devenir un contributeur permanent pour profiter de la participation à l'open source. Avez-vous déjà vu une faute de frappe sur un site Web et souhaité que quelqu'un la corrige ? Sur un projet open source, vous pouvez le faire. L'Open Source aide les gens à se sentir interpellés par leur vie et leur expérience du monde, ce qui est en soi gratifiant.
 
-## Qu'est-ce que cela signifie de contribuer
+## Que signifie contribuer
 
 Si vous êtes un nouveau contributeur open source, le processus peut être intimidant. Comment trouvez-vous le bon projet ? Que faire si vous ne savez pas coder ? Et si quelque chose ne va pas ?
 
@@ -379,7 +379,7 @@ Un projet convivial et accueillant signale qu'il sera réceptif aux nouveaux con
   </p>
 </aside>
 
-## Comment proposer une contribution ?
+## Comment proposer une contribution
 
 Vous avez trouvé un projet que vous aimez et vous êtes prêt à apporter votre contribution. Enfin ! Voici comment obtenir votre contribution de la bonne façon.
 
@@ -495,7 +495,7 @@ Si le projet est sur GitHub, voici comment soumettre une pull request:
 
 S'il s'agit de votre première Pull Request, consultez [Make a Pull Request](http://makeapullrequest.com/), que @kentcdodds a créé comme didacticiel vidéo. Vous pouvez également vous entraîner à faire une pull request dans le repository [Premières contributions](https://github.com/Roshanjossey/first-contributions), créé par @Roshanjossey.
 
-## Que ce passe-t-il apres avoir proposé une contribution ?
+## Que ce passe-t-il apr&egrave;s avoir propos&eacute; une contribution
 
 Vous l'avez fait ! Félicitations pour devenir un contributeur open source. Nous espérons que c'est le premier de plusieurs.
 
@@ -503,7 +503,7 @@ Après avoir soumis une contribution, l'un des événements suivants se produira
 
 ### 😭 Vous n'obtenez pas de réponse.
 
-J'espère que vous avez [vérifié les signes d'activité dans le projet](#a-checklist-before-you-contribution) avant de faire une contribution. Même sur un projet actif, il est possible que votre contribution n'obtienne pas de réponse.
+J'espère que vous avez [vérifié les signes d'activité dans le projet](#une-checklist-avant-de-contribuer) avant de faire une contribution. Même sur un projet actif, il est possible que votre contribution n'obtienne pas de réponse.
 
 Si vous n'avez pas reçu de réponse depuis plus d'une semaine, il est juste de répondre poliment dans ce même fil, en demandant à quelqu'un de donner votre avis. Si vous connaissez le nom de la bonne personne à consulter votre contribution, vous pouvez @-mentionner dans ce fil.
 

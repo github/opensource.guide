@@ -4,13 +4,13 @@ title: Le côté légal de l'Open Source
 description: Tout ce que vous avez jamais osé demandé sur le côté juridique de l'open source, et quelques autres.
 class: legal
 toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"
-  are-public-github-projects-open-source: "Les projets publics GitHub sont-ils open source ?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Donnez-moi juste l'essentiel sur ce dont j'ai besoin pour protéger mon projet"
-  which-open-source-license-is-appropriate-for-my-project: "Quelle licence open source est appropriée pour mon projet ?"
-  what-if-i-want-to-change-the-license-of-my-project: "Et si je veux changer la licence de mon projet ?"
-  does-my-project-need-an-additional-contributor-agreement: "Mon projet a-t-il besoin d'un accord de contribution supplémentaire ?"
-  what-does-my-companys-legal-team-need-to-know: "Que doit savoir l'équipe juridique de mon entreprise ?"
+  pourquoi-les-gens-se-soucient-tellement-du-c&ocirc;t&eacute;-l&eacute;gal-de-lopen-source: "Pourquoi les gens se soucient tellement du c&ocirc;t&eacute; l&eacute;gal de l'open source"
+  les-projets-publics-GitHub-sont-ils-open-source: "Les projets publics GitHub sont-ils open source"
+  donnez-moi-juste-lessentiel-sur-ce-dont-jai-besoin-pour-prot&eacute;ger-mon-projet: "Donnez-moi juste l'essentiel sur ce dont j'ai besoin pour prot&eacute;ger mon projet"
+  quelle-licence-open-source-est-appropri&eacute;e-pour-mon-projet: "Quelle licence open source est appropri&eacute;e pour mon projet"
+  et-si-je-veux-changer-la-licence-de-mon-projet: "Et si je veux changer la licence de mon projet"
+  mon-projet-a-t-il-besoin-dun-accord-de-contribution-suppl&eacute;mentaire: "Mon projet a-t-il besoin d'un accord de contribution suppl&eacute;mentaire"
+  que-doit-savoir-l&eacute;quipe-juridique-de-mon-entreprise: "Que doit savoir l'&eacute;quipe juridique de mon entreprise"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -22,7 +22,7 @@ related:
 
 Partager votre travail créatif avec le monde peut être une expérience passionnante et enrichissante. Cela peut aussi signifier un tas de choses juridiques dont vous ne saviez pas que vous aviez à vous soucier. Heureusement, vous n'avez pas à partir de zéro. Nous avons couvert vos besoins juridiques. (Avant de creuser, assurez-vous de lire notre [avertissement](/notices/).)
 
-## Pourquoi les gens se soucient tellement du côté légal de l'open source ?
+## Pourquoi les gens se soucient tellement du c&ocirc;t&eacute; l&eacute;gal de l'open source
 
 Content que vous ayez demandé ! Lorsque vous effectuez un travail de création (tel que l'écriture, les graphiques ou le code), ce travail est sous copyright exclusif par défaut. Autrement dit, la loi suppose qu'en tant qu'auteur de votre travail, vous avez votre mot à dire sur ce que les autres peuvent en faire.
 
@@ -34,7 +34,7 @@ Si vous n'appliquez pas de licence open source, tous ceux qui contribuent à vot
 
 Enfin, votre projet peut avoir des dépendances avec des exigences de licence dont vous n'étiez pas au courant. La communauté de votre projet ou les politiques de votre employeur peuvent également exiger que votre projet utilise des licences Open Source spécifiques. Nous couvrirons ces situations ci-dessous.
 
-## Les projets publics GitHub sont-ils open source ?
+## Les projets publics GitHub sont-ils open source
 
 Lorsque vous [créez un nouveau projet](https://help.github.com/articles/creating-a-new-repository/) sur GitHub, vous avez la possibilité de créer le repository **privée** ou **public**.
 
@@ -44,7 +44,7 @@ Lorsque vous [créez un nouveau projet](https://help.github.com/articles/creatin
 
 Si vous souhaitez que d'autres personnes utilisent, distribuent, modifient ou contribuent à votre projet, vous devez inclure une licence open source. Par exemple, quelqu'un ne peut légalement utiliser aucune partie de votre projet GitHub dans son code, même s'il est public, à moins que vous ne lui donniez explicitement le droit de le faire.
 
-## Donnez-moi juste l'essentiel sur ce dont j'ai besoin pour protéger mon projet
+## Donnez-moi juste l'essentiel sur ce dont j'ai besoin pour prot&eacute;ger mon projet
 
 Vous avez de la chance, car aujourd'hui, les licences open source sont standardisées et faciles à utiliser. Vous pouvez copier-coller une licence existante directement dans votre projet.
 
@@ -60,7 +60,7 @@ Lorsque vous créez un nouveau projet sur GitHub, vous serez [invité à ajouter
   </p>
 </aside>
 
-## Quelle licence open source est appropriée pour mon projet ?
+## Quelle licence open source est appropri&eacute;e pour mon projet
 
 Si vous démarrez à partir d'une page vierge, il est difficile de se tromper avec la [Licence MIT](https://choosealicense.com/licenses/mit/). Elle est courte, très facile à comprendre et permet à quiconque de faire quoi que ce soit tant qu'il conserve une copie de la licence, comprenant vos droits d'auteur. Vous pourrez lancer le projet sous une licence différente si vous en avez besoin.
 
@@ -76,11 +76,11 @@ Vous pouvez également considérer les **communautés** que vous espérez utilis
 * **Voulez-vous que votre projet attire les grandes entreprises ?** Une grande entreprise voudra probablement une licence de brevet express de tous les contributeurs. Dans ce cas, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) vous couvrent (vous et eux).
 * **Souhaitez-vous que votre projet fasse appel à des contributeurs qui ne souhaitent pas que leurs contributions soient utilisées dans des logiciels à code source fermé ?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) ou (si ils ne souhaitent pas non plus contribuer aux services à code source fermé) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) sera très bien également.
 
-Votre **entreprise** peut avoir des exigences de licence spécifiques pour ses projets open source. Par exemple, il peut nécessiter une licence permissive afin que l'entreprise puisse utiliser votre projet dans le produit de source fermée de l'entreprise. Votre entreprise peut également exiger une licence copyleft forte et un accord de contribution supplémentaire (voir ci-dessous) afin que seule votre entreprise, et personne d'autre, puisse utiliser votre projet dans un logiciel à source fermée. Votre entreprise peut également avoir certains besoins liés aux normes, à la responsabilité sociale ou à la transparence, qui pourraient nécessiter une stratégie de licence particulière. Parlez à votre [service juridique de l'entreprise](#what-does-my-companys-legal-team-need-to-know).
+Votre **entreprise** peut avoir des exigences de licence spécifiques pour ses projets open source. Par exemple, il peut nécessiter une licence permissive afin que l'entreprise puisse utiliser votre projet dans le produit de source fermée de l'entreprise. Votre entreprise peut également exiger une licence copyleft forte et un accord de contribution supplémentaire (voir ci-dessous) afin que seule votre entreprise, et personne d'autre, puisse utiliser votre projet dans un logiciel à source fermée. Votre entreprise peut également avoir certains besoins liés aux normes, à la responsabilité sociale ou à la transparence, qui pourraient nécessiter une stratégie de licence particulière. Parlez à votre [service juridique de l'entreprise](#que-doit-savoir-l&eacute;quipe-juridique-de-mon-entreprise).
 
 Lorsque vous créez un nouveau projet sur GitHub, vous avez la possibilité de sélectionner une licence. Y compris l'une des licences mentionnées ci-dessus rendra votre projet open source GitHub. Si vous souhaitez voir d'autres options, consultez [choosealicense.com](https://choosealicense.com) pour trouver la bonne licence pour votre projet, même si elle [n'est pas un logiciel](https://choosealicense.com/non-software/).
 
-## Et si je veux changer la licence de mon projet ?
+## Et si je veux changer la licence de mon projet
 
 La plupart des projets n'ont jamais besoin de changer de licence. Mais parfois les circonstances changent.
 
@@ -94,7 +94,7 @@ Par exemple, au fur et à mesure que votre projet prend de l'ampleur, il ajoute 
 
 Alternativement, vous pouvez demander aux contributeurs d'accepter à l'avance (via un accord de contribution supplémentaire - voir ci-dessous) certains changements de licence sous certaines conditions, au-delà de celles autorisées par votre licence open source existante. Cela déplace un peu la complexité de la modification des licences. Vous aurez besoin de plus d'aide de la part de vos avocats et vous voudrez toujours communiquer clairement avec les parties prenantes de votre projet lors de l'exécution d'un changement de licence.
 
-## Mon projet a-t-il besoin d'un accord de contribution supplémentaire ?
+## Mon projet a-t-il besoin d'un accord de contribution suppl&eacute;mentaire
 
 Probablement pas. Pour la grande majorité des projets open source, une licence open source sert implicitement à la fois de licence entrante (des contributeurs) et sortante (aux autres contributeurs et utilisateurs). Si votre projet est sur GitHub, les conditions d'utilisation de GitHub font de "inbound = outbound" le [paramètre par défaut explicite](https://help.github.com/articles/github-terms-of-service/#6-contributions-under -repository-license).
 
@@ -119,7 +119,7 @@ Certaines situations où vous pourriez envisager un accord de contribution suppl
 
 Si vous devez utiliser un accord de contributeur supplémentaire avec votre projet, envisagez d'utiliser une intégration telle que [Assistant CLA](https://github.com/cla-assistant/cla-assistant) pour minimiser la distraction des contributeurs.
 
-## Que doit savoir l'équipe juridique de mon entreprise ?
+## Que doit savoir l'&eacute;quipe juridique de mon entreprise
 
 Si vous publiez un projet open source en tant qu'employé de l'entreprise, votre équipe juridique doit d'abord savoir que vous êtes en train d'ouvrir un projet.
 
@@ -133,7 +133,7 @@ Pour le meilleur ou pour le pire, envisagez de les informer même s'il s'agit d'
 
 * **Brevets :** Votre entreprise demande-t-elle un brevet dont l'open source de votre projet constituerait [divulgation publique](https://en.wikipedia.org/wiki/Public_disclosure) ? Malheureusement, vous pourriez être invité à attendre (ou peut-être que l'entreprise reconsidérera la maturité de l'application). Si vous attendez des contributions d'employés d'entreprises ayant de grands portefeuilles de brevets, votre équipe juridique voudra peut-être utiliser une licence avec un brevet spécialement pour les contributeurs (comme Apache 2.0 ou GPLv3) ou un accord de contribution supplémentaire (voir au dessus).
 
-* **Marques :** Vérifiez que le nom de votre projet [n'est pas en conflit avec les marques existantes](../starting-a-project/#avoiding-name-conflicts). Si vous utilisez les marques de votre propre entreprise dans le projet, vérifiez qu'il ne provoque aucun conflit. [FOSSmarks](http://fossmarks.org/) est un guide pratique pour comprendre les marques dans le contexte de projets libres et open source.
+* **Marques :** Vérifiez que le nom de votre projet [n'est pas en conflit avec les marques existantes](../starting-a-project/#eviter-les-conflits-de-noms). Si vous utilisez les marques de votre propre entreprise dans le projet, vérifiez qu'il ne provoque aucun conflit. [FOSSmarks](http://fossmarks.org/) est un guide pratique pour comprendre les marques dans le contexte de projets libres et open source.
 
 * **Confidentialité :** Votre projet recueille-t-il des données sur les utilisateurs ? "Téléphone Maison" aux serveurs de l'entreprise ? Votre équipe juridique peut vous aider à respecter les politiques de l'entreprise et les réglementations externes.
 
@@ -162,4 +162,4 @@ Si vous publiez le premier projet open source de votre entreprise, ce qui préc�
 </aside>
 
 * **Brevets :** Votre entreprise voudra peut-être rejoindre le [Open Invention Network](https://www.openinventionnetwork.com/), un pool de brevets défensif partagé pour protéger l'utilisation de projets open source majeurs par les membres, ou explorer autre [licence alternative de brevet](https://www.eff.org/document/hacking-patent-system-2016).
-* **Gouvernance :** Surtout si et quand il est logique de transférer un projet à une [entité juridique extérieure à l'entreprise](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
+* **Gouvernance :** Surtout si et quand il est logique de transférer un projet à une [entité juridique extérieure à l'entreprise](../leadership-and-governance/#ai-je-besoin-dune-entit&eacute;-l&eacute;gale-pour-soutenir-mon-projet).

@@ -4,10 +4,10 @@ title: Etre payé pour faire de l'Open Source
 description: Soutenez votre travail en open source en obtenant un soutien financier pour votre temps ou votre projet.
 class: getting-paid
 toc:
-  why-some-people-seek-financial-support: "Pourquoi certaines personnes cherchent un soutien financier"
-  funding-your-own-time: "Financer votre temps"
-  finding-funding-for-your-project: "Trouver du financement pour votre projet"
-  building-a-case-for-financial-support: "Bâtir un dossier pour un soutien financier"
+  pourquoi-certaines-personnes-cherchent-un-soutien-financier: "Pourquoi certaines personnes cherchent un soutien financier"
+  financer-votre-temps: "Financer votre temps"
+  trouver-du-financement-pour-votre-projet: "Trouver du financement pour votre projet"
+  b&acirc;tir-un-dossier-pour-un-soutien-financier: "B&acirc;tir un dossier pour un soutien financier"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -107,7 +107,7 @@ Les projets provenant d'une grande entreprise, tels que [Go](https://github.com/
 Enfin, en fonction de votre situation personnelle, vous pouvez essayer de collecter des fonds de manière indépendante pour financer votre travail open source. Par exemple :
 
 * @gaearon a fait financer son travail sur [Redux](https://github.com/reactjs/redux) via une [campagne de crowdfunding sur Patreon](https://redux.js.org/)
-* @andrewgodwina a fait financer le travail sur les migrations de schémas Django [à travers une campagne Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* @andrewgodwin a fait financer le travail sur les migrations de schémas Django [à travers une campagne Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
 ## Trouver du financement pour votre projet
 
@@ -147,7 +147,7 @@ Certaines fondations de logiciels et sociétés offrent des subventions pour le 
 
 Pour des options plus détaillées et des études de cas, @nayafia [a écrit un guide](https://github.com/nayafia/lemonade-stand) pour être payé pour le travail open source. Différents types de financement nécessitent des compétences différentes, alors considérez vos forces pour déterminer quelle option vous convient le mieux.
 
-## Bâtir un dossier pour un soutien financier
+## B&acirc;tir un dossier pour un soutien financier
 
 Que votre projet soit une nouvelle idée, ou qu'il existe depuis des années, vous devriez vous attendre à réfléchir sérieusement à l'identification de votre bailleur de fonds cible et à présenter un cas convaincant.
 

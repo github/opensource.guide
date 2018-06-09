@@ -4,11 +4,11 @@ title: Lancer un projet Open Source
 description: En savoir plus sur le monde de l'open source et préparez-vous à lancer votre propre projet.
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "Le quoi et le pourquoi de l'open source"
-  should-i-launch-my-own-open-source-project: "Dois-je lancer mon propre projet open source ?"
-  launching-your-own-open-source-project: "Lancer votre propre projet open source"
-  naming-and-branding-your-project: "Nommer et marquer votre projet"
-  your-pre-launch-checklist: "Votre checklist de pré-lancement"
+  le-quoi-et-le-pourquoi-de-lopen-source: "Le &quot;quoi&quot; et le &quot;pourquoi&quot; de l'open source"
+  dois-je-lancer-mon-propre-projet-open-source: "Dois-je lancer mon propre projet open source"
+  lancer-votre-propre-projet-open-source: "Lancer votre propre projet open source"
+  nommer-et-marquer-votre-projet: "Nommer et marquer votre projet"
+  votre-checklist-de-pr&eacute;-lancement: "Votre checklist de pr&eacute;-lancement"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -16,7 +16,7 @@ related:
   - building
 ---
 
-## Le "quoi" et le "pourquoi" de l'open source
+## Le &quot;quoi&quot; et le &quot;pourquoi&quot; de l'open source
 
 Donc, vous songez à commencer avec l'open source ? Toutes nos félicitations ! Le monde apprécie votre contribution. Parlons de ce qu'est l'open source et pourquoi les gens le font.
 
@@ -63,7 +63,7 @@ Parce que [une licence open source nécessite](https://opensource.org/osd-annota
 
 En conséquence, la plupart des projets open source sont gratuits, mais "gratuitement" ne fait pas partie de la définition de l'open source. Il existe des moyens de facturer les projets open source indirectement à travers une double licence ou des fonctionnalités limitées, tout en respectant la définition officielle de l'open source.
 
-## Dois-je lancer mon propre projet open source ?
+## Dois-je lancer mon propre projet open source
 
 La réponse courte est oui, car peu importe le résultat, le lancement de votre propre projet est une excellente façon d'apprendre comment fonctionne l'open source.
 
@@ -109,7 +109,7 @@ Si vous avez besoin d'un budget ou d'un personnel dédié pour la promotion, les
 
 Si votre objectif est d'apprendre à collaborer avec d'autres ou à comprendre le fonctionnement de l'open source, envisagez de contribuer à un projet existant. Commencez avec un projet que vous utilisez déjà et que vous aimez. Contribuer à un projet peut être aussi simple que de réparer des fautes de frappe ou de mettre à jour une documentation.
 
-Si vous ne savez pas comment commencer en tant que contributeur, consultez notre [Comment contribuer au guide Open Source](../how-to-contrib/).
+Si vous ne savez pas comment commencer en tant que contributeur, consultez notre [Comment contribuer au guide Open Source](../how-to-contribute/).
 
 ## Lancer votre propre projet open source
 
@@ -122,7 +122,7 @@ Quelle que soit la phase à laquelle vous décidez d'ouvrir votre projet, chaque
 * [Licence open source](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
 * [Lignes directrices contributives](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code de conduite](../code-de-conduite/)
+* [Code de conduite](../code-of-conduct/)
 
 En tant que responsable, ces composants vous aideront à communiquer les attentes, à gérer les contributions et à protéger les droits légaux de chacun (y compris le vôtre). Ils augmentent considérablement vos chances d'avoir une expérience positive.
 
@@ -138,11 +138,11 @@ Le travail juridique n'est pas amusant. La bonne nouvelle est que vous pouvez co
 
 Lorsque vous créez un nouveau projet sur GitHub, vous avez la possibilité de sélectionner une licence. L'inclusion d'une licence open source rendra votre projet GitHub open source.
 
-[Choisissez une licence](/assets/images/start-a-projet/repository-license-picker.png)
+![Choisissez une licence](/assets/images/starting-a-project/repository-license-picker.png)
 
 Si vous avez d'autres questions ou préoccupations concernant les aspects juridiques de la gestion d'un projet open source, [nous vous avons couvert](../legal/).
 
-### Ecriture d'un fichier README
+### Ecrire un fichier README
 
 Les fichiers README font plus qu'expliquer comment utiliser votre projet. Ils expliquent également pourquoi votre projet est important et ce que vos utilisateurs peuvent en faire.
 
@@ -169,7 +169,7 @@ Pour plus d'inspiration, essayez d'utiliser celui de @18F ["Making READMEs Reada
 
 Lorsque vous incluez un fichier README dans le répertoire racine, GitHub l'affiche automatiquement sur la page d'accueil du référentiel.
 
-### Rédaction de vos directives de contribution
+### R&eacute;daction de vos directives de contribution
 
 Un fichier CONTRIBUTING indique à votre audience comment participer à votre projet. Par exemple, vous pouvez inclure des informations sur:
 
@@ -211,15 +211,11 @@ Lien vers votre fichier CONTRIBUTING à partir de votre fichier README, afin que
 
 Enfin, un code de conduite permet de définir des règles de base pour le comportement des participants de votre projet. Ceci est particulièrement utile si vous lancez un projet open source pour une communauté ou une entreprise. Un code de conduite vous permet de faciliter un comportement communautaire sain et constructif, ce qui réduira votre stress en tant que responsable.
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](http://contributor-covenant.org/adopters/), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
-
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
-
 Pour plus d'informations, consultez notre [Code de conduite](../code-of-conduct/).
 
 En plus de communiquer _comment_ vous vous attendez à ce que les participants se comportent, un code de conduite a également tendance à décrire à qui s'appliquent ces attentes, quand ils s'appliquent, et que faire en cas de violation.
 
-Tout comme les licences open source, il existe également des normes émergentes pour les codes de conduite, vous n'avez donc pas besoin d'écrire les vôtres. Le [Covenant de contributeur](https://contributor-covenant.org/) est un code de conduite qui est utilisé par [plus de 40 000 projets open source](http://contributor-covenant.org/adopters/) , y compris Kubernetes, Rails et Swift. Quel que soit le texte que vous utilisez, vous devez être prêt à appliquer votre code de conduite si nécessaire.
+Tout comme les licences open source, il existe également des normes émergentes pour les codes de conduite, vous n'avez donc pas besoin d'écrire les vôtres. Le [Contributor Covenant](https://contributor-covenant.org/)) est un code de conduite qui est utilisé par [plus de 40 000 projets open source](http://contributor-covenant.org/adopters/) , y compris Kubernetes, Rails et Swift. Quel que soit le texte que vous utilisez, vous devez être prêt à appliquer votre code de conduite si nécessaire.
 
 Collez le texte directement dans un fichier CODE_OF_CONDUCT dans votre repository. Conservez le fichier dans le répertoire racine de votre projet pour qu'il soit facile à trouver et liez-le à partir de votre fichier README.
 
@@ -238,7 +234,7 @@ Si vous construisez sur un projet existant, l'utilisation de leur nom comme pré
 
 Pensez à la clarté avant tout. Les jeux de mots sont amusants, mais rappelez-vous que certaines blagues peuvent ne pas se traduire dans d'autres cultures ou des personnes ayant des expériences différentes de vous peuvent ne pqs comprendre. Certains de vos utilisateurs potentiels peuvent être des employés de l'entreprise : vous ne voulez pas les mettre mal à l'aise quand ils doivent expliquer votre projet au travail !
 
-### Éviter les conflits de noms
+### Eviter les conflits de noms
 
 [Vérifiez les projets open source avec un nom similaire](http://ivantomic.com/projects/ospnc/), surtout si vous partagez le même langage ou écosystème. Si votre nom chevauche un projet existant populaire, vous risquez de perturber votre auditoire.
 
@@ -270,7 +266,7 @@ Au-delà de la façon dont vous écrivez des mots, votre style de codage peut é
 
 Il n'est pas nécessaire d'écrire un guide de style pour votre projet lorsque vous débutez, et vous constaterez peut-être que vous aimez incorporer différents styles de codage dans votre projet de toute façon. Mais vous devriez prévoir comment votre style d'écriture et de codage pourrait attirer ou décourager différents types de personnes. Les premières étapes de votre projet sont votre opportunité de définir le précédent que vous souhaitez voir.
 
-## Votre checklist de pré-lancement
+## Votre checklist de pr&eacute;-lancement
 
 Prêt à lancer votre projet open source ? Voici une checklist pour aider. Toutes les cases sont cochées ? Vous êtes prêt à partir ! [Cliquez sur "Publier"] (https://help.github.com/articles/making-a-private-repository-public/) et donnez vous une tappe dans le dos.
 
@@ -369,6 +365,5 @@ Si vous êtes une entreprise ou une organisation:
 </div>
 
 ## Vous l'avez fait !
-
 
 Félicitations pour l'ouverture de votre premier projet. Peu importe le résultat, travailler en public est un cadeau pour la communauté. A chaque commit, commentaire et Pull Request, vous créez des opportunités pour vous-même et pour les autres d'apprendre et de progresser.

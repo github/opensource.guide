@@ -4,12 +4,12 @@ title: Bonnes Pratiques pour les Responsables
 description: Facilitez vous la vie en tant que responsable open source, de la documentation des processus à l'exploitation de votre communauté.
 class: best-practices
 toc:
-  what-does-it-mean-to-be-a-maintainer: "Que signifie être un responsable ?"
-  documenting-your-processes: "Documentez vos processus"
-  learning-to-say-no: "Apprendre à dire non"
-  leverage-your-community: "Tirez parti de votre communauté"
-  bring-in-the-robots: "Donnez le aux robots"
-  its-okay-to-hit-pause: "Il est normal d'appuyer sur pause"
+  que-signifie-&ecirc;tre-un-responsable: "Que signifie &ecirc;tre un responsable"
+  documentez-vos-processus: "Documentez vos processus"
+  apprendre-&agrave;-dire-non: "Apprendre &agrave; dire non"
+  tirez-parti-de-votre-communauté: "Tirez parti de votre communauté"
+  donnez-le-aux-robots: "Donnez le aux robots"
+  il-est-normal-de-faire-pause: "Il est normal de faire pause"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -17,7 +17,7 @@ related:
   - leadership
 ---
 
-## Que signifie être un responsable ?
+## Que signifie &ecirc;tre un responsable
 
 Si vous gérez un projet Open Source que beaucoup de personnes utilisent, vous avez peut-être remarqué que vous codez moins et que vous répondez à d'autres problèmes.
 
@@ -82,7 +82,7 @@ Si vous rencontrez d'autres responsables, ou prenez une décision importante en 
 
 De cette façon, toute personne qui rejoint votre communauté aura accès à la même information que quelqu'un qui a été là pendant des années.
 
-## Apprendre à dire non
+## Apprendre &agrave; dire non
 
 Vous avez écrit des choses. Idéalement, tout le monde lira votre documentation, mais en réalité, vous devrez rappeler aux autres que cette connaissance existe.
 
@@ -174,7 +174,7 @@ Si vous cherchez d'autres personnes, commencez par demander.
 
 Lorsque vous voyez de nouveaux contributeurs faire des contributions répétées, reconnaissez leur travail en offrant plus de responsabilités. Documentez comment les autres peuvent devenir des leaders s'ils le souhaitent.
 
-Encourager les autres à [partager la propriété du projet](../building-community/#share-ownership-of-your-project) peut réduire considérablement votre charge de travail, comme l'a découvert @lmccart sur son projet, [p5.js](https://github.com/processing/p5.js?files=1).
+Encourager les autres à [partager la propriété du projet](../building-community/#partager-la-propriété-de-votre-projet) peut réduire considérablement votre charge de travail, comme l'a découvert @lmccart sur son projet, [p5.js](https://github.com/processing/p5.js?files=1).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
@@ -252,8 +252,7 @@ Cependant, si vos normes sont trop compliquées, elles peuvent augmenter les obs
 
 Si vous n'êtes pas sûr des outils à utiliser, regardez ce que font les autres projets populaires, en particulier ceux de votre écosystème. Par exemple, à quoi ressemble le processus de contribution pour les autres modules Node ? L'utilisation d'outils et d'approches similaires rendra votre processus plus familier à vos contributeurs cibles.
 
-## Il est normal d'appuyer sur pause
-
+## Il est normal de faire pause"
 Le travail open source vous a déjà apporté de la joie. Peut-être que maintenant ça commence à vous faire sentir fuyant ou coupable.
 
 Peut-être vous sentez-vous débordé ou un sentiment croissant d'effroi quand vous pensez à vos projets. Et pendant ce temps, les issues et les pull requests s'accumulent.

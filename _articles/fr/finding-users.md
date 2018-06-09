@@ -4,12 +4,12 @@ title: Trouver des utilisateurs pour votre projet
 description: Aidez votre projet open source à se développer en le mettant entre les mains d'utilisateurs satisfaits.
 class: finding
 toc:
-  spreading-the-word: "Passer le mot"
-  figure-out-your-message: "Bien concevoir votre message"
-  help-people-find-and-follow-your-project: "Aidez les gens à trouver et à suivre votre projet"
-  go-where-your-projects-audience-is-online: "Allez là où se trouve le public de votre projet (en ligne)"
-  go-where-your-projects-audience-is-offline: "Allez là où se trouve le public de votre projet (hors ligne)"
-  build-a-reputation: "Construire une réputation"
+  passer-le-mot: "Passer le mot"
+  bien-concevoir-votre-message: "Bien concevoir votre message"
+  aidez-les-gens-&agrave;-trouver-et-&agrave;-suivre-votre-projet: "Aidez les gens &agrave; trouver et &agrave; suivre votre projet"
+  allez-l&agrave;-o&ugrave;-se-trouve-le-public-de-votre-projet-en-ligne: "Allez l&agrave; o&ugrave; se trouve le public de votre projet (en ligne)"
+  allez-l&agrave;-o&ugrave;-se-trouve-le-public-de-votre-projet-hors-ligne: "Allez l&agrave; o&ugrave; se trouve le public de votre projet (hors ligne)"
+  construire-une-r&eacute;putation: "Construire une r&eacute;putation"
 order: 3
 image: /assets/images/cards/finding.png
 related:
@@ -68,7 +68,7 @@ Si votre projet est hébergé sur GitHub, vous pouvez utiliser [les Pages GitHub
 
 Maintenant que vous avez un message pour votre projet et un moyen facile pour les gens de trouver votre projet, allez-y et parlez à votre auditoire !
 
-## Allez là où se trouve le public de votre projet (en ligne)
+## Allez l&agrave; o&ugrave; se trouve le public de votre projet (en ligne)
 
 La sensibilisation en ligne est un excellent moyen de partager et de répandre le mot rapidement. En utilisant les canaux en ligne, vous avez le potentiel d'atteindre un très large public.
 
@@ -92,7 +92,7 @@ En général, concentrez-vous sur l'aide aux autres avant de demander des choses
 
 Si personne ne fait attention ou répond à vos premiers contacts, ne vous découragez pas ! La plupart des lancements de projets sont un processus itératif qui peut prendre des mois ou des années. Si vous n'obtenez pas de réponse la première fois, essayez une tactique différente, ou cherchez d'abord des façons d'ajouter de la valeur au travail des autres. La promotion et le lancement de votre projet demandent du temps et du dévouement.
 
-## Allez là où se trouve le public de votre projet (hors ligne)
+## Allez l&agrave; o&ugrave; se trouve le public de votre projet (hors ligne)
 
 ![Conférence publique](/assets/images/finding-users/public_speaking.jpg)
 
@@ -132,7 +132,7 @@ Recherchez des conférences spécifiques à votre langue ou à votre écosystèm
   </p>
 </aside>
 
-## Construire une réputation
+## Construire une r&eacute;putation
 
 En plus des stratégies décrites ci-dessus, la meilleure façon d'inviter les gens à partager et à contribuer à votre projet est de partager et de contribuer à leurs projets.
 

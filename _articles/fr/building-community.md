@@ -4,9 +4,9 @@ title: Construire des communautés accueillantes
 description: Construire une communauté qui encourage les gens à utiliser, contribuer et évangéliser votre projet.
 class: building
 toc:
-  setting-your-project-up-for-success: "Setting your project up for success"
-  growing-your-community: "Cultiver votre communauté"
-  resolving-conflicts: "Resoudre les conflicts"
+  mise-en-place-de-votre-projet-pour-le-succ&egrave;s: "Mise en place de votre projet pour le succ&egrave;s"
+  cultiver-votre-communaut&eacute;: "Cultiver votre communaut&eacute;"
+  r&eacute;soudre-les-conflits: "R&eacute;soudre les conflits"
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -14,7 +14,7 @@ related:
   - coc
 ---
 
-## Mise en place de votre projet pour le succès
+## Mise en place de votre projet pour le succ&egrave;s
 
 Vous avez lancé votre projet, vous passez le mot, et les gens le vérifient. Impressionnant ! Maintenant, comment les faites-vous rester ?
 
@@ -30,15 +30,15 @@ Au fur et à mesure que vous construisez votre communauté, réfléchissez à la
 
 Commencez avec votre documentation:
 
-* **Facilitez l'utilisation de votre projet par quelqu'un.** [Un fichier README amical](../starting-a-project/#writing-a-readme) et des exemples de code clair faciliteront la tâche à tous ceux qui atterriront votre projet pour commencer.
-* **Expliquez clairement comment contribuer**, en utilisant [votre fichier CONTRIBUTING](../starting-a-project/#writing-your-contributing-guidelines) et en gardant vos issues à jour.
+* **Facilitez l'utilisation de votre projet par quelqu'un.** [Un fichier README amical](../starting-a-project/#ecrire-un-fichier-readme) et des exemples de code clair faciliteront la tâche à tous ceux qui atterriront votre projet pour commencer.
+* **Expliquez clairement comment contribuer**, en utilisant [votre fichier CONTRIBUTING](../starting-a-project/#r&eacute;daction-de-vos-directives-de-contribution) et en gardant vos issues à jour.
 
 [L'enquête open source 2017 de GitHub](http://opensourcesurvey.org/2017/) a montrée que la documentation incomplète ou confuse est le plus gros problème pour les utilisateurs open source. Une bonne documentation invite les gens à interagir avec votre projet. Finalement, quelqu'un va ouvrir une issue ou faire une pull request. Utilisez ces interactions comme des opportunités pour les déplacer dans l'entonnoir.
 
 * **Quand quelqu'un arrive sur votre projet, remerciez-le de son intérêt !** Il suffit d'une expérience négative pour que quelqu'un ne veuille pas revenir.
 * **Soyez réactif.** Si vous ne répondez pas à leur problème pendant un mois, les chances sont, ils ont déjà oublié votre projet.
-* **Soyez ouvert sur les types de contributions que vous accepterez.** De nombreux contributeurs commencent par un rapport de bug ou une petite correction. Il y a [plusieurs façons de contribuer](../how-to-contribute/#what-it-means-to-contribute) à un projet. Laissez les gens aider comment ils veulent aider.
-* **S'il y a une contribution avec laquelle vous n'êtes pas d'accord,** remerciez-les pour leur idée et [expliquez pourquoi](../best-practices/#learning-to-say-no) cela ne rentre pas dans le cadre de la projet, en reliant à la documentation pertinente si vous l'avez.
+* **Soyez ouvert sur les types de contributions que vous accepterez.** De nombreux contributeurs commencent par un rapport de bug ou une petite correction. Il y a [plusieurs façons de contribuer](../how-to-contribute/#que-signifie-contribuer) à un projet. Laissez les gens aider comment ils veulent aider.
+* **S'il y a une contribution avec laquelle vous n'êtes pas d'accord,** remerciez-les pour leur idée et [expliquez pourquoi](../best-practices/#apprendre-&agrave;-dire-non) cela ne rentre pas dans le cadre de la projet, en reliant à la documentation pertinente si vous l'avez.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
@@ -106,11 +106,11 @@ La communication publique peut être aussi simple que de diriger les gens à ouv
 
 Les exceptions notables à la communication publique sont: 1) les problèmes de sécurité et 2) les violations de code de conduite sensibles. Vous devriez toujours avoir un moyen pour les gens de signaler ces problèmes en privé. Si vous ne souhaitez pas utiliser votre adresse e-mail personnelle, configurez une adresse e-mail dédiée.
 
-## Cultiver votre communauté
+## Cultiver votre communaut&eacute;
 
 Les communautés sont extrêmement puissantes. Ce pouvoir peut être une bénédiction ou une malédiction, selon la façon dont vous l'utilisez. Au fur et à mesure que la communauté de votre projet grandit, il existe des moyens de l'aider à devenir une force de construction, pas de destruction.
 
-### Ne tolèrez pas les mauvais acteurs
+### Ne tol&egrave;rez pas les mauvais acteurs
 
 Tout projet populaire attirera inévitablement des gens qui nuisent à votre communauté plutôt que de l'aider. Ils peuvent lancer des débats inutiles, ergoter sur des fonctionnalités triviales, ou intimider les autres.
 
@@ -126,7 +126,7 @@ Faites de votre mieux pour adopter une politique de tolérance zéro envers ces 
 
 Des débats réguliers sur des aspects triviaux de votre projet distraient les autres, y compris vous, de se concentrer sur des tâches importantes. Les nouvelles personnes qui arrivent à votre projet peuvent voir ces conversations et ne veulent pas participer.
 
-Lorsque vous voyez un comportement négatif se produire sur votre projet, appelez-le publiquement. Expliquez, d'un ton ferme mais ferme, pourquoi leur comportement n'est pas acceptable. Si le problème persiste, vous devrez peut-être [leur demander de partir](../code-of-conduct/#enforcing-your-code-of-conduct). Votre [code de conduite](../code-of-conduct/) peut être un guide constructif pour ces conversations.
+Lorsque vous voyez un comportement négatif se produire sur votre projet, appelez-le publiquement. Expliquez, d'un ton ferme mais ferme, pourquoi leur comportement n'est pas acceptable. Si le problème persiste, vous devrez peut-être [leur demander de partir](../code-of-conduct/#appliquer-votre-code-de-conduite). Votre [code de conduite](../code-of-conduct/) peut être un guide constructif pour ces conversations.
 
 ### Rencontrez les contributeurs là où ils sont
 
@@ -146,7 +146,7 @@ Par exemple, voici comment [Rubinius](https://github.com/rubinius/rubinius/) com
 
 > Nous voulons commencer par vous dire merci d'utiliser Rubinius. Ce projet est un travail d'amour, et nous apprécions tous les utilisateurs qui détectent les bogues, améliorent les performances et aident à la documentation. Chaque contribution est significative, alors merci de votre participation. Cela étant dit, voici quelques lignes directrices que nous vous demandons de suivre afin que nous puissions résoudre votre problème avec succès.
 
-### Partager la propriété de votre projet
+### Partager la propri&eacute;t&eacute; de votre projet
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
@@ -184,7 +184,7 @@ Même s'il se peut que vous ne trouviez pas toujours quelqu'un pour répondre à
   </p>
 </aside>
 
-## Résoudre les conflits
+## R&eacute;soudre les conflits
 
 Au début de votre projet, prendre des décisions importantes est facile. Quand vous voulez faire quelque chose, vous le faites simplement.
 
@@ -196,7 +196,7 @@ Pour la plupart, si vous avez cultivé une communauté amicale et respectueuse e
 
 Lorsque votre communauté est aux prises avec un problème difficile, la colère peut monter. Les gens peuvent devenir fâchés ou frustrés et s'en prendre à un autre ou à vous.
 
-Votre travail en tant que mainteneur consiste à éviter l'escalade de ces situations. Même si vous avez une opinion forte sur le sujet, essayez de prendre la position d'un modérateur ou d'un facilitateur, plutôt que de vous jeter dans la bagarre et de faire valoir vos points de vue. Si quelqu'un est méchant ou accapare la conversation, [agissez immédiatement](../building-community/#dont-tolerate-bad-actors) pour garder les discussions civiles et productives.
+Votre travail en tant que mainteneur consiste à éviter l'escalade de ces situations. Même si vous avez une opinion forte sur le sujet, essayez de prendre la position d'un modérateur ou d'un facilitateur, plutôt que de vous jeter dans la bagarre et de faire valoir vos points de vue. Si quelqu'un est méchant ou accapare la conversation, [agissez immédiatement](../building-community/#ne-tol&egrave;rez-pas-les-mauvais-acteurs) pour garder les discussions civiles et productives.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
@@ -212,7 +212,7 @@ Garder son calme n'est pas facile, mais faire preuve de leadership améliore la 
 
 ### Traitez votre fichier README en tant que constitution
 
-Votre fichier README est [plus qu'un simple jeu d'instructions](../starting-a-project/#writing-a-readme). C'est aussi un endroit où parler de vos objectifs, de votre vision du produit et de votre feuille de route. Si les gens sont trop concentrés sur le débat sur le mérite d'une fonctionnalité particulière, il peut être utile de revoir votre fichier README et de parler de la vision plus élevée de votre projet. En vous concentrant sur votre fichier README, vous dépersonnalisez la conversation, ce qui vous permet d'avoir une discussion constructive.
+Votre fichier README est [plus qu'un simple jeu d'instructions](../starting-a-project/#ecrire-un-fichier-readme). C'est aussi un endroit où parler de vos objectifs, de votre vision du produit et de votre feuille de route. Si les gens sont trop concentrés sur le débat sur le mérite d'une fonctionnalité particulière, il peut être utile de revoir votre fichier README et de parler de la vision plus élevée de votre projet. En vous concentrant sur votre fichier README, vous dépersonnalisez la conversation, ce qui vous permet d'avoir une discussion constructive.
 
 ### Focus sur le voyage, pas la destination
 
