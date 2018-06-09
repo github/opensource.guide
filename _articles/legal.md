@@ -10,7 +10,7 @@ toc:
   welche-open-source-lizenz-passt-zu-meinem-projekt: "Welche Open-Source-Lizenz passt zu meinem Projekt?"
   was-wenn-ich-die-lizenz-meines-projektes-ändern-möchte: "Was, wenn ich die Lizenz meines Projektes ändern möchte?"
   benötigt-mein-projekt-eine-zusätzliche-kontributionsvereinbarung: "Benötigt mein Projekt eine zusätzliche Kontributionsvereinbarung?"
-  what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
+  was-muss-die-rechtsabteilung-meines-unternehmens-wissen: "Was muss die Rechtsabteilung meines Unternehmens wissen?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -127,47 +127,55 @@ Einige Situationen, in denen Sie eine zusätzliche Kontributionsvereinbarung fü
 
 Wenn Sie mit Ihrem Projekt wirklich eine zusätzliche Kontributionsvereinbarung verwenden müssen, sollten Sie eine Integration wie den [CLA-Assistenten](https://github.com/cla-assistant/cla-assistant) verwenden, um Mitwirkende nur minimalstmöglich abzulenken.
 
-## What does my company's legal team need to know?
+## Was muss die Rechtsabteilung meines Unternehmens wissen?
 
-If you're releasing an open source project as a company employee, first, your legal team should know that you're open sourcing a project.
+Wenn Sie ein Open-Source-Projekt als Mitarbeiter\*in eines Unternehmens veröffentlichen, sollte die Rechtsabteilung zunächst wissen, dass Sie ein Open-Source-Projekt durchführen.
 
-For better or worse, consider letting them know even if it's a personal project. You probably have an "employee IP agreement" with your company that gives them some control of your projects, especially if they are at all related to the company's business or you use any company resources to develop the project. Your company _should_ easily give you permission, and maybe already has through an employee-friendly IP agreement or a company policy. If not, you can negotiate (for example, explain that your project serves the company's professional learning and development objectives for you), or avoid working on your project until you find a better company.
+Ungeachtet der möglichen Vor- oder Nachteile sollten Sie es mitteilen, auch wenn es sich um ein persönliches Projekt handelt. Sie haben wahrscheinlich eine "Rechteübertragungsvereinbarung" mit ihrer Firma, die ihr einen gewissen Grad an Kontrolle über ihre Projekte gibt. Insbesondere, wenn diese irgendwie mit dem Geschäft des Unternehmens zu tun haben oder Sie die Ressourcen des Unternehmens für die Entwicklung des Projekts nutzen. Ihr Unternehmen _sollte_ Ihnen problemlos die Erlaubnis erteilen, und hat vielleicht schon eine mitarbeiterfreundliche Rechtevereinbarung oder Firmenpolitik. Wenn nicht, können Sie verhandeln (z.B. erklären, dass Ihr Projekt den beruflichen Lern- und Entwicklungszielen des Unternehmens dient), oder vermeiden, an Ihrem Projekt zu arbeiten, bis Sie ein besseres Unternehmen gefunden haben.
 
-**If you're open sourcing a project for your company,** then definitely let them know. Your legal team probably already has policies for what open source license (and maybe additional contributor agreement) to use based on the company's business requirements and expertise around ensuring your project complies with the licenses of its dependencies. If not, you and they are in luck! Your legal team should be eager to work with you to figure this stuff out. Some things to think about:
+**Wenn Sie ein Projekt im Namen Ihrer Firma öffnen möchten,** teilen Sie dies definitiv mit. Ihre Rechtsabteilung hat wahrscheinlich bereits Richtlinien für eine Open-Source-Lizenz (und vielleicht eine zusätzliche Kontributionsvereinbarung), die auf den geschäftlichen Anforderungen des Unternehmens basieren und die sicherstellen, dass Ihr Projekt mit den Lizenzen seiner Dependencies übereinstimmt - wenn nicht, dann haben Sie und Ihre Rechtsabteilung Glück! Letztere dürfte erpicht darauf sein, mit Ihnen zusammenzuarbeiten, um folgende Dinge herauszufinden:
 
-* **Third party material:** Does your project have dependencies created by others or otherwise include or use others' code? If these are open source, you'll need to comply with the materials' open source licenses. That starts with choosing a license that works with the third party open source licenses (see above). If your project modifies or distributes third party open source material, then your legal team will also want to know that you're meeting other conditions of the third party open source licenses such as retaining copyright notices. If your project uses others' code that doesn't have an open source license, you'll probably have to ask the third party maintainers to [add an open source license](https://choosealicense.com/no-license/#for-users), and if you can't get one, stop using their code in your project.
+* **Material Dritter:** Hängt Ihr Projekt von Software ab, die von anderen erstellt wurden, oder enthält oder verwendet es anderweitig den Code Dritter? Wenn jam und diese Open-Source-lizenziert sind, müssen Sie sich an diese halten. Dies beginnt mit der Wahl einer Lizenz für Ihr Projekt, die mit den Open-Source-Lizenzen der Drittanbieter kompatibel ist (siehe oben). Wenn Ihr Projekt Open-Source-Material Dritter modifiziert oder verbreitet, wird Ihre Rechtsabteilung auch sicher sein wollen, dass Sie Zusatzbedingungen der Drittanbieterlizenzen erfüllen, wie z.B. die Beibehaltung von Urheberrechtsvermerken. Wenn Ihr Projekt anderen Code verwendet, der nicht unter einer Open-Source-Lizenz steht, müssen Sie wahrscheinlich die Drittanbieter bitten, eine [Open-Source-Lizenz hinzuzufügen](https://choosealicense.com/no-license/#for-users). Wenn dies nicht erfolgreich ist, müssen Sie aufhören, deren Code in Ihrem Projekt zu verwenden.
 
-* **Trade secrets:** Consider whether there is anything in the project that the company does not want to make available to the general public. If so, you could open source the rest of your project, after extracting the material you want to keep private.
+* **Geschäftsgeheimnisse:** Überlegen Sie, ob Teile des Projektes Ihres Unternehmen nicht der Öffentlichkeit zugänglich gemacht werden sollten. Solches Material können Sie aus Ihrem Projekt extrahieren, privat halten, und den Rest veröffentlichen.
 
-* **Patents:** Is your company applying for a patent of which open sourcing your project would constitute [public disclosure](https://en.wikipedia.org/wiki/Public_disclosure)? Sadly, you might be asked to wait (or maybe the company will reconsider the wisdom of the application). If you're expecting contributions to your project from employees of companies with large patent portfolios, your legal team may want you to use a license with an express patent grant from contributors (such as Apache 2.0 or GPLv3), or an additional contributor agreement (see above).
+* **Patente:** Wenn Ihr Unternehmen ein Patent anmeldet, für das die Veröffentlichung Ihres Projekt eine [Offenlegung](https://en.wikipedia.org/wiki/Public_disclosure) darstellen würde, werden Sie evtl. gebeten zu warten (oder vielleicht wird das Unternehmen überdenken, ob die Patentanmeldung sinnvoll ist). Wenn Sie Beiträge von Mitarbeiter\*innen von Unternehmen mit großen Patentportfolios erwarten, könnte Ihre Rechtsabteilung sich eine Lizenz mit einer ausdrücklichen Patenterteilung von Kontributor\*innen wünschen (z.B. die Apache 2.0 oder GPLv3), oder eine zusätzliche Kontributionsvereinbarung (siehe oben).
 
-* **Trademarks:** Double check that your project's name [does not conflict with any existing trademarks](../starting-a-project/#avoiding-name-conflicts). If you use your own company trademarks in the project, check that it does not cause any conflicts. [FOSSmarks](http://fossmarks.org/) is a practical guide to understanding trademarks in the context of free and open source projects.
+* **Marken- und Warenzeichen:** Vergewissern Sie sich, dass Ihr Projektname [nicht im Widerspruch zu bestehenden Marken steht](../starting-a-project/#avoiding-name-conflicts). Wenn Sie Ihre eigenen Firmenmarken im Projekt verwenden, stellen Sie sicher, dass diese keine Konflikte verursachen. [FOSSmarks](http://fossmarks.org/) ist ein praktischer Leitfaden, um Marken im Rahmen von freien und Open-Source-Projekten zu verstehen.
 
-* **Privacy:** Does your project collect data on users? "Phone home" to company servers? Your legal team can help you comply with company policies and external regulations.
+* **Privatsphäre:** Sammelt Ihr Projekt Daten über Benutzer\*innen? Sendet sie zurück an Firmenserver? Ihre Rechtsabteilung kann Sie bei der Einhaltung von Unternehmensrichtlinien und externen Vorschriften unterstützen.
 
-If you're releasing your company's first open source project, the above is more than enough to get through (but don't worry, most projects shouldn't raise any major concerns).
+Wenn Sie das erste Open-Source-Projekt Ihres Unternehmens veröffentlichen, ist das mehr als genug, um durchzukommen (aber keine Sorge, die meisten Projekte sollten keine größeren Bedenken aufwerfen).
 
-Longer term, your legal team can do more to help the company get more from its involvement in open source, and stay safe:
+Längerfristig kann Ihre Rechtsabteilung mehr tun, um dem Unternehmen zu helfen, von seinem Engagement für Open Source zu profitieren, und auf der sicheren Seite zu bleiben:
 
-* **Employee contribution policies:** Consider developing a corporate policy that specifies how your employees contribute to open source projects. A clear policy will reduce confusion among your employees and help them contribute to open source projects in the company's best interest, whether as part of their jobs or in their free time. A good example is Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Richtlinie für Beiträge von Angestellten:** Erwägen Sie die Entwicklung einer Unternehmenspolitik, die festlegt, wie Ihre Mitarbeiter\*innen zu Open-Source-Projekten beitragen. Eine klare Richtlinie verringert die Verwirrung unter Ihren Mitarbeiter\*innen und hilft ihnen dabei, Open-Source-Projekte im besten Interesse des Unternehmens zu unterstützen, sei es als Teil ihrer Arbeit oder in ihrer Freizeit. Ein gutes Beispiel von Rackspace ist deren [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
-  Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention.
+
+  Die Herausgabe des mit einem Patch verbundenen Rechte baut die Wissensbasis und das Ansehen der Mitarbeiterin / des Mitarbeiters auf und zeigt, dass das Unternehmen in die Entwicklung seiner Angestellten investiert, sowie ein Gefühl von Eigenverantwortung und Autonomie schafft. All diese Vorteile führen auch zu höherer Moral und besserer Mitarbeiterbindung.
+
+  _Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention._
+
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
-* **What to release:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) If your legal team understands and is invested in your company's open source strategy, they'll be best able to help rather than hinder your efforts.
-* **Compliance:** Even if your company doesn't release any open source projects, it uses others' open source software. [Awareness and process](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) can prevent headaches, product delays, and lawsuits.
+* **Was veröffentlichen?** [(Fast) alles?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html). Wenn Ihre Rechtsabteilung die Open-Source-Strategie Ihres Unternehmens versteht und in sie investiert, kann sie Ihnen am besten helfen, anstatt Ihre Bemühungen zu behindern.
+* **Compliance:** Auch wenn Ihr Unternehmen keine Open-Source-Projekte veröffentlicht, verwendet es die Open-Source-Software von anderen. [Bewusstsein darüber und Prozesse dafür](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) helfen, Kopfschmerzen, Produktverzögerungen und Klagen zu vermeiden.
 
 <aside markdown="1" class="pquote">
-  Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
+
+  Organisationen müssen über eine Lizenz- und Compliance-Strategie verfügen, die sowohl in die Kategorien \["permissive" als auch "copyleft"\] passt, beginnend mit der Aufzeichnung der Lizenzbedingungen, die für die von Ihnen verwendete Open-Source-Software gelten - einschließlich Unterkomponenten und Dependencies.
+
+  _Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies._
+
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
 </aside>
 
-* **Patents:** Your company may wish to join the [Open Invention Network](https://www.openinventionnetwork.com/), a shared defensive patent pool to protect members' use of major open source projects, or explore other [alternative patent licensing](https://www.eff.org/document/hacking-patent-system-2016).
-* **Governance:** Especially if and when it makes sense to move a project to a [legal entity outside of the company](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
+* **Patente:** Ihr Unternehmen kann dem [Open Invention Network] (https://www.openinventionnetwork.com/) beitreten: Einem gemeinsamen defensiven Patent-Pool, um die Nutzung großer Open-Source-Projekte durch Mitglieder zu schützen, oder kann andere [alternative Patentlizenzen] (https://www.eff.org/document/hacking-patent-system-2016) in Betracht ziehen.
+* **Governance:** Vor allem, wenn es sinnvoll ist, ein Projekt in eine [juristische Person außerhalb des Unternehmens](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project) zu verlegen.
