@@ -73,7 +73,7 @@ related:
   </p>
 </aside>
 
-即使你是以为开发者，非代码的贡献对于项目来说也是举足轻重的，尤其是对于社区的其他成员来说。用心维系这些关系能够让你有工作到项目其它部分的机会。
+即使你是一位开发者，非代码的贡献对于项目来说也是举足轻重的，尤其是对于社区的其他成员来说。用心维系这些关系能够让你有工作到项目其它部分的机会。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
@@ -373,7 +373,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  当你看到一个很长当对话时，来自核心开发者的零星的响应排在列表的后面。你就得考虑，他们在作建设性的总结？是否保持风度的情况下做出最后的决定？如果你看到的是更多的口水仗，而且还在继续，这通常意味着社区的能量重心已经不在开发上了。
+  当你看到一个很长的对话时，来自核心开发者的零星的响应排在列表的后面。你就得考虑，他们在作建设性的总结？是否保持风度的情况下做出最后的决定？如果你看到的是更多的口水仗，而且还在继续，这通常意味着社区的能量重心已经不在开发上了。
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_开源软件生产力_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>

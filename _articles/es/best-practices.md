@@ -160,7 +160,7 @@ A veces, cuando dices que no, tu contribuyente potencial puede molestarse o crit
 
 Tal vez alguien en tu comunidad env&iacute;e regularmente contribuciones que no cumplen con los est&aacute;ndares de tu proyecto. Puede ser frustrante para ambas partes pasar repetidamente por el proceso de rechazo.
 
-Si ves que alguien est&aacute; entusiasmado con tu proyecto, pero necesita un poco de pr&aacute;ctica, ten paciencia. Explica claramente en cada situaci&oacute;n por qu&eacute; sus contribuciones no cumplen con las expectativas del proyecto. Trata de asignarles una tarea m&aacute;s f&aacute;cil o menos ambigua, como una issue marcada como _"good first bug,"_ , para entrar en calor. Si tienes tiempo, considera mentorearlos a trav&eacute;s de su primera contribuci&oacute;n, o encuentra a alguien m&aacute;s en tu comunidad que est&eacute; dispuesto a ser mentor de ellos.
+Si ves que alguien est&aacute; entusiasmado con tu proyecto, pero necesita un poco de pr&aacute;ctica, ten paciencia. Explica claramente en cada situaci&oacute;n por qu&eacute; sus contribuciones no cumplen con las expectativas del proyecto. Trata de asignarles una tarea m&aacute;s f&aacute;cil o menos ambigua, como una issue marcada como _"good first issue,"_ , para entrar en calor. Si tienes tiempo, considera mentorearlos a trav&eacute;s de su primera contribuci&oacute;n, o encuentra a alguien m&aacute;s en tu comunidad que est&eacute; dispuesto a ser mentor de ellos.
 
 ## Aprovechando la comunidad
 

@@ -160,4 +160,4 @@ Muchos proyectos no desean pasar por la molestia de crear una organizaci&oacute;
   </p>
 </aside>
 
-Si tu proyecto est&aacute; estrechamente asociado con un determinado idioma o ecosistema, tambi&eacute;n puede haber un framework relacionado con el que pueda trabajar. Por ejemplo, la [Python Software Foundation](https://www.python.org/psf/) ayuda a [PyPI](https://pypi.python.org/pypi), el gestor de paquetes de Python y el [Node.js Foundation](https://nodejs.org/en/foundation/) ayuda a apoyar [Express.js](http://expressjs.com/), un framework basado en nodos.
+Si tu proyecto est&aacute; estrechamente asociado con un determinado idioma o ecosistema, tambi&eacute;n puede haber un framework relacionado con el que pueda trabajar. Por ejemplo, la [Python Software Foundation](https://www.python.org/psf/) ayuda a [PyPI](https://pypi.org/), el gestor de paquetes de Python y el [Node.js Foundation](https://nodejs.org/en/foundation/) ayuda a apoyar [Express.js](http://expressjs.com/), un framework basado en nodos.

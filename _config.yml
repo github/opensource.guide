@@ -1,5 +1,5 @@
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
+title: Open Source Guides
+description: Learn how to launch and grow your project.
 
 exclude:
   - bin
@@ -15,7 +15,6 @@ exclude:
   - script
   - test
   - vendor
-  - node_modules
 
 permalink: /:path/
 
@@ -40,15 +39,13 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-markdown: kramdown
-
 sass:
-  style: :compressed
   sass_dir: assets/css/
+  style: :compressed
   load_paths:
     - node_modules
 
-branch: master
+logo: /assets/images/cards/default.png
 
 github:
   repository_nwo: github/opensource.guide
