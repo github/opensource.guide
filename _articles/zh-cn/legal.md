@@ -73,7 +73,7 @@ related:
 
 你们也会想到考虑希望你们的社区使用以及贡献你们的项目：
 
-* **你们是否想让你们的项目成为其它项目的依赖？**在你们的相关社区最好尽可能使用最流行的许可协议。例如，[MIT](https://choosealicense.com/licenses/mit/)是[npm libraries](https://libraries.io/npm)使用的最流行的许可协议。
+* **你们是否想让你们的项目成为其它项目的依赖？**在你们的相关社区最好尽可能使用最流行的许可协议。例如，[MIT](https://choosealicense.com/licenses/mit/)是[npm libraries](https://libraries.io/search?platforms=NPM)使用的最流行的许可协议。
 * **你们的项目是否想吸引大企业？**大型企业可能需要所有贡献者的明确专利许可。在这种情况下，[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)适合你们。
 * **你们的项目是否想吸引不愿自己的贡献用于其它同类型软件的贡献者？**[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)和[AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)适合你们。
 

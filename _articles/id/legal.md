@@ -72,7 +72,7 @@ Di satu sisi, jika salah satu dari lisensi ketergantungan Anda adalah "copyleft"
 
 Anda juga perlu memperhatikan **komunitas** akan menggunakan dan berkontribusi pada proyek Anda:
 
-* **Apakah Anda ingin proyek Anda digunakan sebagai ketergantungan oleh proyek lain?** Mungkin paling tepat untuk menggunakan lisensi yang paling populer pada komunitas Anda. Sebagai contoh, [MIT](https://choosealicense.com/licenses/mit/) adalah lisensi yang paling populer untuk [pustaka npm](https://libraries.io/npm).
+* **Apakah Anda ingin proyek Anda digunakan sebagai ketergantungan oleh proyek lain?** Mungkin paling tepat untuk menggunakan lisensi yang paling populer pada komunitas Anda. Sebagai contoh, [MIT](https://choosealicense.com/licenses/mit/) adalah lisensi yang paling populer untuk [pustaka npm](https://libraries.io/search?platforms=NPM).
 * **Apakah Anda ingin proyek Anda menarik bagi kalangan bisnis skala besar?** Kalangan bisnis yang berskala besar memiliki kencenderungan untuk menggunakan lisensi paten ekspress dari semua kontributor. Dalam hal ini, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) dapat mencakup Anda dan mereka.
 * **Apakah Anda ingin proyek Anda menarik bagi kontributor yang tidak ingin hasil kontribusinya tidak digunakan pada perangkat lunak tertutup?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) atau (jika mereka juga tidak mau berkontribusi pada layanan tertutup) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) merupakan pilihan yang tepat.
 
