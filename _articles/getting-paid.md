@@ -109,7 +109,7 @@ Depending on your personal circumstances, you can try raising money independentl
 * @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](https://redux.js.org/)
 * @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-Finally, there are also open source projects which put bounties on issues that you might consider helping with. For example: 
+Finally, sometimes open source projects put bounties on issues that you might consider helping with. 
 
 * @ConnorChristie was able to get paid for [helping](https://github.com/MARKETProtocol/MARKET.js/issues/14) @MARKETProtocol work on their javascript library [through a bounty on gitcoin](https://gitcoin.co/).
 * @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://beta.bounties.network/bounty/v1/134).
