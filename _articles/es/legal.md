@@ -73,7 +73,7 @@ Por otro lado, si cualquiera de las licencias de tus dependencias son copyleft "
 
 Deber&iacute;as considerar tambi&eacute;n a las **comunidades** qu&eacute; esperas que usaran y contribuir&aacute;n a tu proyecto:
 
-* **¿Quieres que tu proyecto sea usado como dependencia por otros proyectos?** Probablemente, la mejor opci&oacute;n sea usar la licencia m&aacute;s popular en tu comunidad. Por ejemplo, [MIT](https://choosealicense.com/licenses/mit/) es la licencia m&aacute;s popular para [npm libraries](https://libraries.io/npm).
+* **¿Quieres que tu proyecto sea usado como dependencia por otros proyectos?** Probablemente, la mejor opci&oacute;n sea usar la licencia m&aacute;s popular en tu comunidad. Por ejemplo, [MIT](https://choosealicense.com/licenses/mit/) es la licencia m&aacute;s popular para [npm libraries](https://libraries.io/search?platforms=NPM).
 * **¿Quieres que tu proyecto atraiga a grandes empresas?** Una gran empresa seguramente querr&aacute; una licencia de patente expresa por parte de todos los contribuyentes. En este caso, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) te tiene a ti (y a ellos) cubiertos.
 * **¿Quieres que tu proyecto atraiga a colaboradores los cuales no quieren que sus contribuciones sean usado en software de c&oacute;digo cerrado?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) o (si tampoco quieren contribuir a servicios de c&oacute;digo cerrado) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) Seria el m&aacute;s apropiado.
 
