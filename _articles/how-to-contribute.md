@@ -513,7 +513,7 @@ It's common that you'll be asked to make changes to your contribution, whether t
 
 When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know, so they're not expecting a response. Someone else may be happy to take over.
 
 ### 👎 Your contribution doesn't get accepted.
 
