@@ -262,41 +262,41 @@ Wநீங்கள் மூல அடைவில் ஒரு README கோ�
 
 கனிவான, உள்ளடக்கிய மொழி (ஒற்றை நபரைக் குறிப்பிடும் போதும் "அவர்கள்" போன்றவை) உங்கள் திட்டத்தை புதிய பங்களிப்பாளர்களுக்கு வரவேற்பதாக உணர வைக்கும். எளிமையான மொழியை கடைபிடியுங்கள், உங்கள் வாசகர்களில் பலருக்கு ஆங்கிலம் தாய்மொழியாக இல்லாமலிருக்கலாம்.
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://github.com/johnpapa/angular-styleguide) and [jQuery](https://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+நீங்கள் வார்த்தைகளை எப்படி எழுதுகிறீர்களோ அப்படியே, உங்கள் குறியீட்டு பாணி உங்கள் திட்டத்தின் நிலையக அடையாள பகுதியாகவும் மாறும். [Angular](https://github.com/johnpapa/angular-styleguide) மற்றும் [jQuery](https://contribute.jquery.org/style-guide/js/) இரண்டும் கடுமையான குறியீட்டு முறை மற்றும் வழிகாட்டுதல்கள் உள்ள திட்டங்களுக்கான உதாரணங்களாகும்.
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+நீங்கள் தொடங்கும் பொழுதே, உங்கள் திட்டத்திற்கு ஒரு பாணி வழிகாட்டி எழுத தேவையில்லை, மற்றும் நீங்கள் எப்படியும் உங்கள் திட்டத்தில் வேறு குறியீட்டு பாணியை ஒருங்கிணைத்து அனுபவிக்கலாம். ஆனால் உங்கள் எழுத்து மற்றும் குறியீட்டு நடை எப்படி பல்வேறு வகையான மக்களை கவர்ந்திழுக்க அல்லது ஊக்கப்படுத்தலாம் என்பதை நீங்கள் எதிர்பார்க்க வேண்டும். உங்கள் திட்டத்தின் ஆரம்ப கட்டங்கள் நீங்கள் பார்க்க விரும்பும் முன்னோடிகளை அமைக்கும் வாய்ப்பாக இருக்கும்.
 
-## Your pre-launch checklist
+## உங்கள் முன்-வெளியீட்டு பட்டியல்
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+உங்கள் திட்டத்தைத் திறக்க தயாரா? உதவிக்கு ஒரு பட்டியல் இங்கே. அனைத்து பெட்டிகளையும் சரிபார்க்கவும்? நீங்கள் செல்ல தயாராக உள்ளீர்கள்! ["வெளியிடு" என்பதைக் சொடுக்கவும்](https://help.github.com/articles/making-a-private-repository-public/) பின்பு உங்களை நீங்களே தட்டிக்கொடுத்து கொள்ளவும்.
 
-**Documentation**
+**ஆவணப்படுத்தல்**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    திட்டமானது திறந்த மூல உரிமத்துடன் LICENSE கோப்பை கொண்டுள்ளது
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    திட்டப்பணி அடிப்படை ஆவணங்கள் (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    நினைவில் வைக்க எளிய பெயர், திட்டம் என்ன செய்கின்றது என சில யோசனைகள் தெரிவிக்கின்றன, ஏற்கனவே இருக்கும் திட்டத்துடன் முரண்படவில்லை அல்லது வர்த்தக முத்திரைகளை மீறவில்லை
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    தெளிவாக ஒழுங்கமைக்கப்பட்ட மற்றும் பெயரிடப்பட்ட சிக்கல்களால், சிக்கல் வரிசை புதுப்பித்த நிலையில் உள்ளது
   </label>
 </div>
 
@@ -305,65 +305,65 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    திட்டம் நிலையான குறியீடு மரபுகள் மற்றும் தெளிவான செயல்பாடு/முறை/மாறி பெயர்களை பயன்படுத்துகிறது
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    தெளிவான விளக்கக் குறிப்பு கொண்ட குறியீடு, எண்ணங்கள் மற்றும் விளிம்பு வழக்குகளை ஆவணப்படுத்துதல்
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+    மீள்பார்வை வரலாறு, சிக்கல்கள் அல்லது இழு கோரிக்கைகளில் நுண்உணர் பொருட்கள் இல்லை (எடுத்துக்காட்டாக, கடவுச்சொற்கள் அல்லது பிற அல்லாத பொது தகவல்கள்)
   </label>
 </div>
 
-**People**
+**மக்கள்*
 
-If you're an individual:
+நீங்கள் ஒரு தனிநபர் என்றால்:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  நீங்கள் சட்ட துறையுடன் பேசினீர்கள் மற்றும் / அல்லது உங்கள் நிறுவனத்தின் ஐபி மற்றும் திறந்த மூலக் கொள்கைகள் அறிந்து கொண்டீர்கள் (நீங்கள் எங்காவது ஒரு ஊழியராக இருந்தால்)
   </label>
 </div>
 
-If you're a company or organization:
+நீங்கள் ஒரு நிறுவனம் அல்லது அமைப்பாக இருந்தால்:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    உங்கள் சட்ட துறையுடன் நீங்கள் பேசினீர்கள்
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    திட்டத்தை அறிவித்து, ஊக்குவிப்பதற்கான சந்தைப்படுத்தலுக்கான திட்டம் உங்களிடம் உள்ளது
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    சமுதாய இடைசெயல்களை நிர்வகிப்பதில் யாரோ கடமைப்பட்டுள்ளனர் (சிக்கல்களுக்கு பதிலளிப்பது, மறுபரிசீலனை செய்தல் மற்றும் இழு கோரிக்கைகள் இணைத்தல்)
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    குறைந்தபட்சம் இரண்டு பேர் இந்த திட்டத்திற்கு நிர்வாக அணுகலைக் கொண்டுள்ளனர்
   </label>
 </div>
 
-## You did it!
+## நீங்கள் செய்தீர்கள்!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+உங்களுடைய முதல் திட்டத்தை திறந்து வைப்பதில் வாழ்த்துக்கள். பலன் எதுவாயினும், பொதுவில் வேலை செய்வது சமுதாயத்திற்கு ஒரு பரிசு. ஒவ்வொரு அணுகலும், கருத்து தெரிவிக்கவும், கோரிக்கை விடுக்கவும், நீங்களாகவும், மற்றவர்களுக்காகவும் கற்றுக்கொள்ளவும் வளரவும் வாய்ப்புகளை உருவாக்குகிறீர்கள்.
