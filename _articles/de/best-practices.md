@@ -21,7 +21,7 @@ related:
 
 Wenn Sie ein Open-Source-Projekt pflegen, das viele Leute benutzen, haben Sie vielleicht bemerkt, dass Sie weniger programmieren und mehr auf Issues reagieren.
 
-In der Anfangsphase eines Projekts experimentieren Sie mit neuen Ideen und treffen Entscheidungen nach Ihren Wünschen. Da Ihr Projekt immer beliebter wird, werden Sie mehr mit Ihren Benutzer\*innn und Mitwirkenden zusammenarbeiten.
+In der Anfangsphase eines Projekts experimentieren Sie mit neuen Ideen und treffen Entscheidungen nach Ihren Wünschen. Da Ihr Projekt immer beliebter wird, werden Sie mehr mit Ihren Benutzer\*innen und Mitwirkenden zusammenarbeiten.
 
 Die Instandhaltung eines Projekts erfordert mehr als nur Code. Diese Aufgaben sind oft unerwartet, aber genauso wichtig für ein wachsendes Projekt. Wir haben einige Möglichkeiten zusammengestellt, um Ihnen das Leben zu erleichtern, von der Dokumentation von Prozessen bis hin zur Nutzung Ihrer Community.
 
