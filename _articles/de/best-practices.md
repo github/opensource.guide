@@ -1,10 +1,10 @@
 ---
 lang: de
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+title: Gute Maintainer-Praxis
+description: Erleichtern Sie Ihr Leben als Open-Source-Maintainer! Von der Dokumentation von Prozesses bis zum Einsatz Ihrer Community.
 class: best-practices
 toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
+  was-bedeutet-es-eine-software-instand-zu-halten: "Was bedeutet es, eine Software instand zu halten?"
   documenting-your-processes: "Documenting your processes"
   learning-to-say-no: "Learning to say no"
   leverage-your-community: "Leverage your community"
@@ -17,13 +17,13 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## Was bedeutet es, eine Software instand zu halten?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+Wenn Sie ein Open-Source-Projekt pflegen, das viele Leute benutzen, haben Sie vielleicht bemerkt, dass Sie weniger programmieren und mehr auf Issues reagieren.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+In der Anfangsphase eines Projekts experimentieren Sie mit neuen Ideen und treffen Entscheidungen nach Ihren Wünschen. Da Ihr Projekt immer beliebter wird, werden Sie mehr mit Ihren Benutzer\*innn und Mitwirkenden zusammenarbeiten.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+Die Instandhaltung eines Projekts erfordert mehr als nur Code. Diese Aufgaben sind oft unerwartet, aber genauso wichtig für ein wachsendes Projekt. Wir haben einige Möglichkeiten zusammengestellt, um Ihnen das Leben zu erleichtern, von der Dokumentation von Prozessen bis hin zur Nutzung Ihrer Community.
 
 ## Documenting your processes
 
