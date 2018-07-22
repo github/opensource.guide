@@ -80,7 +80,7 @@ related:
 <aside markdown="1" class="pquote">
   வாதத்திற்கு இழுக்க வேண்டாம். நீங்கள் விஷயத்தில் கையாள்வதை முடிக்கும் முன்பு திசை திரும்பி வேறு ஒருவரின் நடத்தையை கையாள்வதில் கவனம் செலுத்தக்கூடாது. உங்களுக்கு என்ன தேவை என்பதில் கவனம் செலுத்துங்கள்.
   <p markdown="1" class="pquote-credit">
-— ஸ்டீபனி ஸேவன், ["நீங்கள் ஒரு கொள்கை வைத்திருக்கிளீர்கள். இப்பொழுது என்ன?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
+— ஸ்டீபனி ஸேவன், ["நீங்கள் ஒரு கொள்கை வைத்திருக்கிறீர்கள். இப்பொழுது என்ன?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
 </aside>
 

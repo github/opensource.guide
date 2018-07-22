@@ -107,7 +107,7 @@ related:
 இறுதியாக, உங்களுடைய தனிப்பட்ட சூழ்நிலைகளை பொறுத்து, நீங்கள் உங்கள் திறந்த மூல வேலைக்கு நிதி திரட்ட முயற்சி செய்யலாம். உதாரணத்திற்கு:
 
 * @gaearon  தனது [Redux](https://github.com/reactjs/redux) திட்டத்திற்கான நிதியை [பேட்ரியன் கூட்டல் நிதி பிரச்சாரத்தின்](https://redux.js.org/) மூலம் திரட்டினார்.
-* @andrewgodwin  டிஜாங்க் திட்ட அமைப்புமுறைகளை [கிளப்பு மிதிகோல் பிரச்சாரத்தின்](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) மூலம் திரட்டினார்.
+* @andrewgodwin  டிஜாங்க் திட்ட அமைப்புமுறைகளை [kickstarter பிரச்சாரத்தின்](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) மூலம் திரட்டினார்.
 
 ## உங்கள் திட்டத்திற்கான நிதிகளைக் கண்டறிதல்
 
