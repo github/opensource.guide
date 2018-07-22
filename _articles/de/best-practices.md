@@ -5,7 +5,7 @@ description: Erleichtern Sie Ihr Leben als Open-Source-Maintainer! Von der Dokum
 class: best-practices
 toc:
   was-bedeutet-es-eine-software-instand-zu-halten: "Was bedeutet es, eine Software instand zu halten?"
-  documenting-your-processes: "Documenting your processes"
+  dokumentieren-sie-ihre-prozesse: "Dokumentieren Sie Ihre Prozesse"
   learning-to-say-no: "Learning to say no"
   leverage-your-community: "Leverage your community"
   bring-in-the-robots: "Bring in the robots"
@@ -25,29 +25,33 @@ In der Anfangsphase eines Projekts experimentieren Sie mit neuen Ideen und treff
 
 Die Instandhaltung eines Projekts erfordert mehr als nur Code. Diese Aufgaben sind oft unerwartet, aber genauso wichtig für ein wachsendes Projekt. Wir haben einige Möglichkeiten zusammengestellt, um Ihnen das Leben zu erleichtern, von der Dokumentation von Prozessen bis hin zur Nutzung Ihrer Community.
 
-## Documenting your processes
+## Dokumentieren Sie Ihre Prozesse
 
-Writing things down is one of the most important things you can do as a maintainer.
+Dinge aufzuschreiben ist eine der wichtigsten Aufgaben, die man als Maintainer\*in erledigt.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+Dokumentation verdeutlicht nicht nur Ihr eigenes Denken, sondern macht auch anderen Menschen verständlich, was Sie brauchen oder erwarten, bevor sie überhaupt fragen.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+Dinge aufzuschreiben macht es einfacher, nein zu sagen, wenn etwas nicht in den Anwendungsbereich passt. Es macht es auch einfacher für die Menschen, mitzumachen und zu helfen. Sie wissen nie, wer Ihr Projekt lesen oder nutzen könnte.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+Selbst wenn Sie keine vollständigen Absätze niederschreiben, ist es besser, Stichworte aufzulisten, als gar nicht zu schreiben.
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+Denken Sie daran, Ihre Dokumentation auf dem neuesten Stand zu halten. Wenn Sie dies nicht immer tun können, löschen Sie Veraltetes oder markieren es als solches, damit die Mitwirkenden wissen, dass Updates gerne angenommen werden.
 
-### Write down your project's vision
+### Schreiben Sie Ihre Projektsvision auf
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Schreiben Sie zunächst die Ziele Ihres Projekts auf. Fügen Sie sie Ihrer README hinzu oder erstellen Sie eine separate Datei namens VISION. Wenn es andere dafür nützliche Artefakte gibt (z.B. eine Projekt-Roadmap) machen Sie diese auch öffentlich.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+Eine klare, dokumentierte Vision hilft Ihnen, sich zu konzentrieren und das "Scope Creep" von Beiträgen anderer zu vermeiden.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+Zum Beispiel entdeckte @lord, dass ihm eine Projektvision herauszufinden half, auf welche Anfragen er Zeit verwenden sollte. Als frisch gebackener Maintainer bedauerte er, dass er sich nicht auf den Kern seines Projekts fokussiert hat, als er seine erste Feature-Anfrage für [Slate](https://github.com/lord/slate) erhielt.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+
+  Ich habe es zurechtgefummelt. Ich habe mir nicht die Mühe gemacht, eine komplette Lösung zu finden. Statt einer halbherzigen Lösung wünschte ich, ich hätte gesagt: "Ich habe jetzt keine Zeit dafür, aber ich werde es auf die lange Nice-to-have-Liste setzen."
+
+  _I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."_
+
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
@@ -55,32 +59,34 @@ For example, @lord discovered that having a project vision helped him figure out
 
 ### Communicate your expectations
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+Kommunizieren Sie Ihre Erwartungen
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+Es kann nervenaufreibend sein, Regeln niederzuschreiben. Manchmal hat man das Gefühl, das Verhalten anderer Leute zu überwachen, oder ein Spaßverderber zu sein.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+Allerdings sind geschrieben und fair durchgesetzte Regeln nützlich für Projektbetreuer\*innen. Sie verhindern, dass man in Dinge hineingezogen wird, die man nicht tun will.
 
-All of this is perfectly okay! Just make sure other people know about it.
+Die meisten Menschen, die auf Ihr Projekt stoßen, wissen nichts über Sie oder Ihre Lebensumstände. Sie können annehmen, dass Sie dafür bezahlt werden, daran zu arbeiten, insb. wenn sie Ihr Projekt regelmäßig benutzen und davon abhängig sind. Vielleicht haben Sie mal viel Zeit in Ihr Projekt gesteck, sind aber jetzt mit einem neuen Job oder Familienmitglied beschäftigt.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+All das ist völlig in Ordnung! Stellen Sie nur sicher, dass Andere davon erfahren.
 
-Here are a few rules that are worth writing down:
+Wenn Sie Ihr Projekt in Teilzeit oder auf freiwilliger Basis betreuen, seien Sie ehrlich, wie viel Zeit Ihnen zur Verfügung steht. Das ist nicht das Gleiche, wie viel Zeit das Projekt Ihrer Meinung nach benötigt oder wie viel Andere erwarten.
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
+Hier sind ein paar Regeln, die es wert sind, aufgeschrieben zu werden:
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+* Wie ein Beitrag geprüft und akzeptiert wird (_Benötigen sie Tests? Ein Issue-Template?_)
+* Die Arten von Beiträgen, die Sie akzeptieren werden (_Wollen Sie nur Hilfe bei einem bestimmten Teil Ihres Codes?_)
+* Wenn es angebracht ist, den Vorgang zu verfolgen (z.B. "Sie können innerhalb von 7 Tagen eine Antwort von einer Betreuerin oder einem Betreuer erwarten. Wenn Sie bis dahin noch nichts gehört haben, können Sie gerne den Thread pingen."_)
+* Wie viel Zeit Sie für das Projekt aufwenden (z.B. "Wir verbringen nur ca. 5 Stunden pro Woche für dieses Projekt"_)
 
-### Keep communication public
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) und [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) geben ihren Betreuer\*innen und Mitwirkenden nützliche Grundregeln mit.
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+### Kommunikation öffentlich halten
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+Vergessen Sie nicht, auch Ihre Interaktionen zu dokumentieren. Wo immer Sie können, halten Sie die Kommunikation über Ihr Projekt öffentlich. Wenn jemand versucht, Sie privat zu kontaktieren, um eine Feature- oder Support-Anfrage zu besprechen, verweisen Sie sich höflich an einen öffentlichen Kommunikationskanal, wie z.B. eine Mailingliste oder einen Issue Tracker.
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+Wenn Sie sich mit anderen Betreuer\*innen treffen oder eine wichtige Entscheidung privat treffen, dokumentieren Sie diese Gespräche in der Öffentlichkeit, selbst wenn es nur um die Veröffentlichung Ihrer Notizen geht.
+
+Auf diese Weise hat jede*r, der Ihrer Community beitritt, Zugang zu den gleichen Informationen wie jemand, der schon seit Jahren dort ist.
 
 ## Learning to say no
 
