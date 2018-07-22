@@ -65,7 +65,7 @@ Es kann nervenaufreibend sein, Regeln niederzuschreiben. Manchmal hat man das Ge
 
 Allerdings sind geschrieben und fair durchgesetzte Regeln nützlich für Projektbetreuer\*innen. Sie verhindern, dass man in Dinge hineingezogen wird, die man nicht tun will.
 
-Die meisten Menschen, die auf Ihr Projekt stoßen, wissen nichts über Sie oder Ihre Lebensumstände. Sie können annehmen, dass Sie dafür bezahlt werden, daran zu arbeiten, insb. wenn sie Ihr Projekt regelmäßig benutzen und davon abhängig sind. Vielleicht haben Sie mal viel Zeit in Ihr Projekt gesteck, sind aber jetzt mit einem neuen Job oder Familienmitglied beschäftigt.
+Die meisten Menschen, die auf Ihr Projekt stoßen, wissen nichts über Sie oder Ihre Lebensumstände. Sie können annehmen, dass Sie dafür bezahlt werden, daran zu arbeiten, insb. wenn sie Ihr Projekt regelmäßig benutzen und davon abhängig sind. Vielleicht haben Sie mal viel Zeit in Ihr Projekt gesteckt, sind aber jetzt mit einem neuen Job oder Familienmitglied beschäftigt.
 
 All das ist völlig in Ordnung! Stellen Sie nur sicher, dass Andere davon erfahren.
 
