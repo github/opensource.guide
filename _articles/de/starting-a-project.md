@@ -5,7 +5,7 @@ description: Erfahren Sie mehr über die Open-Source-Welt und machen Sie sich be
 class: beginners
 toc:
   was-ist-open-source-und-warum: "Was ist Open Source, und warum?"
-  soll-ich-mein-eigenes-open-source-projekt-starten: "Soll ich mein eigenes Open-Source-Projekt starten?"
+  sollte-ich-mein-eigenes-open-source-projekt-starten: "Sollte ich mein eigenes Open-Source-Projekt starten?"
   ein-eigenes-open-source-projekt-starten: "Ein eigenes Open-Source-Projekt starten"
   ihr-projekt-benennen-und-zur-marke-machen: "Ihr Projekt benennen und zur Marke machen"
   ihre-checkliste-zur-startvorbreitung: "Ihre Checkliste zur Startvorbreitung"
@@ -18,7 +18,7 @@ related:
 
 ## Was ist Open Source, und warum?
 
-Sie denken also über einen Sprung in die Open-SourceWelt nach? Herzlichen Glückwunsch, die Welt weiß Ihren Beitrag zu schätzen: Lassen Sie uns darüber sprechen, was Open Source ist und warum sich Leute dafür engagieren.
+Sie denken also über einen Sprung in die Open-Source-Welt nach? Herzlichen Glückwunsch, die Welt weiß Ihren Beitrag zu schätzen: Lassen Sie uns darüber sprechen, was Open Source ist und warum sich Leute dafür engagieren.
 
 ### Was genau bedeutet "Open Source"?
 
@@ -63,13 +63,13 @@ Open Source ist nicht nur für Software, sondern auch für alle anderen Bereiche
 
 Einer der größten Vorteile von Open Source ist, dass es kein Geld kostet. "Gratis", dagegen ist nur ein Nebenprodukt des Gesamtwertes.
 
-Weil [eine Open-Source-Lizense bedingt](https://opensource.org/osd-annotated), dass jede\*r die Software nutzen, modifizieren,und weiterverbreiten darf (für nahezu jeden Zweck), nehmen die Projekte selbst meist kein Geld dafür. Wenn sie es täten, könnte jede\*r ganz legal das Projekte kopieren und die dann freie Version nutzen.
+Weil [eine Open-Source-Lizense bedingt](https://opensource.org/osd-annotated), dass jede\*r die Software nutzen, modifizieren, und weiterverbreiten darf (für nahezu jeden Zweck), nehmen die Projekte selbst meist kein Geld dafür. Wenn sie es täten, könnte jede\*r ganz legal das Projekte kopieren und die dann freie Version nutzen.
 
-Daher sind die meisten Open-Source-Projekte kostenlos, aber das ist kein Teil der Open-Source-Definition. Es gibt für  Open-Source-Projekte Möglichkeiten, sich indirekt bezahlen zu lassen (z.B. über Doppellizenzierung oder eingeschränkte Funktionen) und dabei trotzdem die offizielle Definition von Open-Source weiterhin eingzuhalten.
+Daher sind die meisten Open-Source-Projekte kostenlos, aber das ist kein Teil der Open-Source-Definition. Es gibt für  Open-Source-Projekte Möglichkeiten, sich indirekt bezahlen zu lassen (z.B. über Doppellizenzierung oder eingeschränkte Funktionen) und dabei trotzdem die offizielle Definition von Open-Source weiterhin einzuhalten.
 
-## Soll ich mein eigenes Open-Source-Projekt starten?
+## Sollte ich mein eigenes Open-Source-Projekt starten?
 
-Die kurze Antwort ist ja, denn egal wie das Ergebnis aussieht! Ein eigenes Projekt zu starten, ist eine großartige Möglichkeit, um zu lernen, wie Open Source funktioniert.
+Die kurze Antwort ist ja, denn egal wie das Ergebnis aussieht: Ein eigenes Projekt zu starten, ist eine großartige Möglichkeit, um zu lernen, wie Open Source funktioniert.
 
 Wenn Sie noch nie den Quellcode eines Projektes geöffnet haben, werden Sie vielleicht nervös darüber sein, was die Leute sagen werden, oder ob es jemandem auffallen wird. Mit diesen Bedenken wären Sie nicht allein!
 
@@ -131,14 +131,14 @@ Im Prinzip immer, wenn Sie sich sicher sind, dass andere Ihre Arbeit sehen sollt
 
 Unabhängig davon, in welcher Phase Sie sich für Open Source entscheiden, sollte jedes Projekt die folgende Dokumentation enthalten:
 
-* [eine Open-Source-Lizenz](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [eine README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
+* [Eine Open-Source-Lizenz](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [Eine README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
 * [Beitragsrichtlinien](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 * [einen Verhaltenskodex](../code-of-conduct/)
 
 Als Maintainer\*in helfen Ihnen diese Komponenten, Erwartungen zu kommunizieren, Beiträge zu verwalten und die gesetzlichen Rechte aller (einschließlich Ihrer eigenen) zu schützen. Sie tragen zudem zu einer positiven Erfahrungen in Ihrem Projekt bei.
 
-Wenn sich Ihr Projekt auf GitHub befindet, können Sie diese Dateien mit den empfohlenen Dateinamen in Ihrem Stammverzeichnis ablegen, damit GitHub sie erkennen und automatisch an Ihre Leser\*innen weitergeben kann.
+Wenn sich Ihr Projekt auf GitHub befindet, können Sie diese Dateien mit den empfohlenen Dateinamen in Ihrem Stammverzeichnis ablegen, damit GitHub sie erkennt und automatisch an Ihre Leser\*innen weitergeben kann.
 
 ### Eine Lizenz auswählen
 
