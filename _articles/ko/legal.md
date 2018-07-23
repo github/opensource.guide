@@ -72,7 +72,7 @@ GitHub에서 새로운 프로젝트를 만들 때, [라이선스를 추가할 �
 
 프로젝트를 사용하고 기여할 수 있는 **커뮤니티**를 고려해보십시오:
 
-* **프로젝트를 다른 프로젝트의 종속성으로 사용 하시겠습니까?** 관련 커뮤니티에서 가장 많이 사용되는 라이선스를 사용하는 것이 가장 좋습니다. 예시로, [MIT](https://choosealicense.com/licenses/mit/)는 [npm libraries](https://libraries.io/npm)에서 가장 인기있는 라이선스입니다.
+* **프로젝트를 다른 프로젝트의 종속성으로 사용 하시겠습니까?** 관련 커뮤니티에서 가장 많이 사용되는 라이선스를 사용하는 것이 가장 좋습니다. 예시로, [MIT](https://choosealicense.com/licenses/mit/)는 [npm libraries](https://libraries.io/search?platforms=NPM)에서 가장 인기있는 라이선스입니다.
 * **프로젝트를 대기업에 어필하고 싶습니까?** 대기업은 모든 참여자의 명시적인 특허 라이선스를 원할 것입니다. 이 경우, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)는 귀하(그리고 그들)을 커버해 줄것 입니다.
 * **독점 소스 소프트웨어에서 기여를 사용하고 싶지 않은 기여자에게 프로젝트를 어필하고 싶습니까?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 혹은 (또한 독점 소스 서비스에 기여하지 않으려는 경우) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)은 잘될 것 입니다.
 
