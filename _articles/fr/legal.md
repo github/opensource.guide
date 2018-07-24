@@ -72,7 +72,7 @@ D'un autre côté, si l'une de vos licences de dépendances est "strong copyleft
 
 Vous pouvez également considérer les **communautés** que vous espérez utiliser et contribuer à votre projet :
 
-* **Voulez-vous que votre projet soit utilisé comme une dépendance par d'autres projets ?** Il sera probablement préférable d'utiliser la licence la plus populaire dans votre communauté pertinente. Par exemple, [MIT](https://choosealicense.com/licenses/mit/) est la licence la plus populaire pour [les bibliothèques npm](https://libraries.io/npm).
+* **Voulez-vous que votre projet soit utilisé comme une dépendance par d'autres projets ?** Il sera probablement préférable d'utiliser la licence la plus populaire dans votre communauté pertinente. Par exemple, [MIT](https://choosealicense.com/licenses/mit/) est la licence la plus populaire pour [les bibliothèques npm](https://libraries.io/search?platforms=NPM).
 * **Voulez-vous que votre projet attire les grandes entreprises ?** Une grande entreprise voudra probablement une licence de brevet express de tous les contributeurs. Dans ce cas, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) vous couvrent (vous et eux).
 * **Souhaitez-vous que votre projet fasse appel à des contributeurs qui ne souhaitent pas que leurs contributions soient utilisées dans des logiciels à code source fermé ?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) ou (si ils ne souhaitent pas non plus contribuer aux services à code source fermé) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) sera très bien également.
 
@@ -152,7 +152,7 @@ Si vous publiez le premier projet open source de votre entreprise, ce qui préc�
 </aside>
 
 * **Que publier :** [(Presque) tout ?](Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si votre équipe juridique comprend et est investis dans la stratégie open source de votre entreprise, ils seront les mieux placés pour vous aider plutôt que d'entraver vos efforts.
-* **Conformité :** Même si votre entreprise ne diffuse aucun projet open source, elle utilise le logiciel open source des autres. [Awareness and process](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) peut prévenir les maux de tête, les retards de produit et les poursuites judiciaires.
+* **Conformité :** Même si votre entreprise ne diffuse aucun projet open source, elle utilise le logiciel open source des autres. [Awareness and process](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program) peut prévenir les maux de tête, les retards de produit et les poursuites judiciaires.
 
 <aside markdown="1" class="pquote">
   Les organisations doivent disposer d'une stratégie de licence et de conformité qui corresponde à la fois aux catégories \["permissive" et "copyleft"\]. Cela commence par garder une trace des conditions de licence qui s'appliquent aux logiciels open source que vous utilisez, y compris les sous-composants et les dépendances.

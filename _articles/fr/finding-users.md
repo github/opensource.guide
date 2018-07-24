@@ -142,7 +142,7 @@ Aider les nouveaux arrivants, partager des ressources et apporter une contributi
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   La seule raison pour laquelle urllib3 est la bibliothèque Python tierce la plus populaire aujourd'hui est parce qu'elle fait partie des requêtes.
   <p markdown="1" class="pquote-credit">
-— @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+— @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540)
   </p>
 </aside>
 
