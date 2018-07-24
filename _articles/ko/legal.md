@@ -72,7 +72,7 @@ GitHub에서 새로운 프로젝트를 만들 때, [라이선스를 추가할 �
 
 프로젝트를 사용하고 기여할 수 있는 **커뮤니티**를 고려해보십시오:
 
-* **프로젝트를 다른 프로젝트의 종속성으로 사용 하시겠습니까?** 관련 커뮤니티에서 가장 많이 사용되는 라이선스를 사용하는 것이 가장 좋습니다. 예시로, [MIT](https://choosealicense.com/licenses/mit/)는 [npm libraries](https://libraries.io/npm)에서 가장 인기있는 라이선스입니다.
+* **프로젝트를 다른 프로젝트의 종속성으로 사용 하시겠습니까?** 관련 커뮤니티에서 가장 많이 사용되는 라이선스를 사용하는 것이 가장 좋습니다. 예시로, [MIT](https://choosealicense.com/licenses/mit/)는 [npm libraries](https://libraries.io/search?platforms=NPM)에서 가장 인기있는 라이선스입니다.
 * **프로젝트를 대기업에 어필하고 싶습니까?** 대기업은 모든 참여자의 명시적인 특허 라이선스를 원할 것입니다. 이 경우, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)는 귀하(그리고 그들)을 커버해 줄것 입니다.
 * **독점 소스 소프트웨어에서 기여를 사용하고 싶지 않은 기여자에게 프로젝트를 어필하고 싶습니까?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 혹은 (또한 독점 소스 서비스에 기여하지 않으려는 경우) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)은 잘될 것 입니다.
 
@@ -152,7 +152,7 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
 </aside>
 
 * **공개 할 내용:** [(거의) 다?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) 귀하의 법무팀이 귀하의 회사 오픈소스 전략을 이해하고 투자한다면, 귀하의 노력을 방해하는 것보다 최선을 다 할 수 있습니다.
-* **준수:** 회사가 오픈소스 프로젝트를 공개하지 않더라도, 다른 회사의 오픈 소스 소프트웨어를 사용합니다. [Awareness and process](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program)는 두통, 제품 지연 및 법적 소송을 예방할 수 있습니다.
+* **준수:** 회사가 오픈소스 프로젝트를 공개하지 않더라도, 다른 회사의 오픈 소스 소프트웨어를 사용합니다. [Awareness and process](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program)는 두통, 제품 지연 및 법적 소송을 예방할 수 있습니다.
 
 <aside markdown="1" class="pquote">
   Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
