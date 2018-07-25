@@ -1,4 +1,4 @@
----
+-For money to -me-all  take project one.
 lang: en
 title: Getting Paid for Open Source Work
 description: Sustain your work in open source by getting financial support for your time or your project.
