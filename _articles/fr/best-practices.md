@@ -174,7 +174,7 @@ Si vous cherchez d'autres personnes, commencez par demander.
 
 Lorsque vous voyez de nouveaux contributeurs faire des contributions répétées, reconnaissez leur travail en offrant plus de responsabilités. Documentez comment les autres peuvent devenir des leaders s'ils le souhaitent.
 
-Encourager les autres à [partager la propriété du projet](../building-community/#partager-la-propriété-de-votre-projet) peut réduire considérablement votre charge de travail, comme l'a découvert @lmccart sur son projet, [p5.js](https://github.com/processing/p5.js).
+Encourager les autres à [partager la propriété du projet](../building-community/#partager-la-propriété-de-votre-projet) peut réduire considérablement votre charge de travail, comme l'a découvert @lmccart sur son projet, [p5.js](https://github.com/processing/p5.js?files=1).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
