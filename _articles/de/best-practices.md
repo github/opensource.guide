@@ -7,8 +7,8 @@ toc:
   was-bedeutet-es-eine-software-instand-zu-halten: "Was bedeutet es, eine Software instand zu halten?"
   dokumentieren-sie-ihre-prozesse: "Dokumentieren Sie Ihre Prozesse"
   lernen-nein-zu-sagen: "Lernen, nein zu sagen"
-  leverage-your-community: "Leverage your community"
   bring-in-the-robots: "Bring in the robots"
+  nutzen-sie-ihre-community: "Nutzen Sie Ihre Community"
   its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
 image: /assets/images/cards/best-practices.png
@@ -180,50 +180,62 @@ Vielleicht reicht jemand in Ihrer Community regelmäßig Beiträge ein, die nich
 
 Wenn Sie sehen, dass jemand von Ihrem Projekt begeistert ist, aber ein wenig aufpoliert werden muss, haben Sie Geduld. Erklären Sie in jeder Situation deutlich, warum die Beiträge nicht den Erwartungen des Projekts entsprechen. Versuchen Sie, sie auf eine einfachere oder weniger zweideutige Aufgabe hinzuweisen. Bspw. ein Problem, das mit _"good first issue"_ gekennzeichnet ist. Wenn Sie Zeit haben, erwägen Sie, die Person durch ihren ersten Beitrag zu betreuen, oder finden Sie jemand anders in Ihrer Community der/die bereit sein könnte, sie zu betreuen.
 
-## Leverage your community
+## Nutzen Sie Ihre Community
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+Sie müssen nicht alles selbst machen. Die Gemeinschaft Ihres Projekts existiert aus einem bestimmten Grund! Auch wenn Sie noch keine aktiv Beitragenden haben: Viele Benutzer\*innen können Ihnen bei der Projektarbeit helfen.
 
-### Share the workload
+### Teilen Sie die Arbeitslast
 
-If you're looking for others to pitch in, start by asking around.
+Wenn Sie auf der Suche nach Mitwirkenden sind, fragen Sie doch einfach mal herum.
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+Wenn Sie neue Mitwirkende bemerken, die wiederholte Beiträge leisten, erkennen Sie deren Arbeit an, indem Sie ihnen mehr Verantwortung anbieten. Dokumentieren Sie, wie Andere in Führungsrollen heranwachsen können, wenn sie es wünschen.
 
-Encouraging others to [share ownership of the project](../building-community/#teilen-sie-die-eigentümerschaft-an-ihrem-projekt) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js?files=1).
+Andere zu ermutigen, [sich am Projekt zu beteiligen](../building-community/#teilen-sie-die-eigentümerschaft-an-ihrem-projekt), kann den eigenen Arbeitsaufwand erheblich reduzieren, wie @lmccart in ihrem Projekt [p5.js](https://github.com/processing/p5.js) feststellte.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+
+  Ich hatte gesagt: "Ja, jeder kann mitmachen, man muss nicht viel Programmiererfahrung haben [...]." Wir hatten Leute, die sich angemeldet haben, um [zu einer Veranstaltung] zu kommen, und da habe ich mich wirklich gefragt: Ist das wahr, was ich gesagt habe? Es werden 40 Leute auftauchen, und es ist nicht so, dass ich bei jedem von ihnen sitzen kann... Aber die Leute kamen zusammen, und es hat einfach funktioniert. Sobald eine Person es verstand, konnte sie ihren Nachbarn unterrichten.
+
+  _I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor._
+
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+Wenn Sie sich aus Ihrem Projekt zurückziehen müssen (egal ob temporär oder auf Dauer), ist es keine Schande, jemand anders zu bitten, für Sie zu übernehmen.
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+Wenn andere Leute von Ihrer Projektrichtung begeistert sind, gewähren Sie ihnen Commit-Rechte oder übergeben Sie formell die Kontrolle. Wenn jemand einen Fork Ihres Projektes erstellt hat, und es an anderer Stelle aktiv pflegt, sollten Sie in Erwägung ziehen, aus Ihrem ursprünglichen Projekt heraus auf den Fork zu verweisen. Es ist großartig, dass Menschen Ihr Projekt weiterleben sehen wollen!
 
 @progrium [found that](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
 
 > I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
 
-### Let others build the solutions they need
+### Lassen Sie Andere auch eigene Lösungen bauen
 
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
+Wenn ein potenzieller Mitwirkender eine andere Meinung über das Ziel Ihres Projekt hat, sollten Sie ihn oder sie vielleicht sanft ermutigen, an einem eigenem Fork zu arbeiten.
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+Ein Projekt zu forken muss keine schlechte Sache sein. Projekte kopieren und modifizieren zu können, ist eine der besten Möglichkeiten, die Open Source mitbringt. Wenn Sie Ihre Community-Mitglieder zur Arbeit an eigenen Forks ermutigen, kann ein notwendiges Ventil für Kreativität bieten, die nicht mit der Vision Ihres Projekts in Konflikt gerät.
+
+Übersetzt mit www.DeepL.com/Translator
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+
+  Ich kümmere mich um den 80%igen Anwendungsfall. Wenn du zu den Einhörnern gehörst, dann fork meine Arbeit. Ich werde mich nicht beleidigen lassen! Meine öffentlichen Projekte sind fast immer dazu gedacht, die häufigsten Probleme zu lösen; ich versuche, es mir leicht zu machen, tiefer zu gehen, indem ich meine Arbeit forke oder erweitere.
+
+  _I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it._
+
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
+Das Gleiche gilt für Benutzer\*innen, die wirklich eine Lösung haben möchten, deren Bau Sie einfach nicht leisten können. Das Anbieten von APIs und Plugin-Systemen kann anderen helfen, ihre eigenen Bedürfnisse zu erfüllen, ohne den Quellcode direkt ändern zu müssen. @orta [fand heraus](https://artsy.github.io/blog/2016/07/03/handling-big-projects/), dass Plugins für CocoaPods zu "einigen der interessantesten Ideen" führten:
 
+> Es ist fast unvermeidlich, dass Maintainer, sobald ein Projekt groß wird, viel konservativer werden müssen, was die Einführung von neuem Code angeht. Sie werden gut darin, "Nein" zu sagen, aber viele Menschen haben legitime Bedürfnisse. Verwandeln Sie also Ihr Werkzeug in eine Plattform.
+>
 > It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
 
 ## Bring in the robots
