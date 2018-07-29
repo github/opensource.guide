@@ -314,6 +314,6 @@ Tun Sie Ihr Bestes, um Unterstützung für Ihre Benutzer\*innen und die Communit
 
 Pausen gelten nicht nur für den Urlaub. Wenn Sie keine Open-Source-Arbeit am Wochenende oder während der Arbeitszeit machen wollen, teilen Sie diese Erwartungen anderen mit, damit sie Sie nicht stören.
 
-## Take care of yourself first!
+## Achten Sie zuerst auf sich!
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+Die Aufrechterhaltung eines beliebten Projekts erfordert andere Fähigkeiten als die früheren Phasen des Wachstums, aber es ist nicht weniger lohnend. Als Maintainer\*in üben Sie Führung und persönliche Fähigkeiten auf einem Niveau, das nur wenige Menschen erleben. Es ist zwar nicht immer einfach zu handhaben, aber klare Grenzen zu setzen und nur das zu übernehmen, womit Sie sich wohlfühlen, hilft Ihnen, glücklich, erfrischt und produktiv zu bleiben.
