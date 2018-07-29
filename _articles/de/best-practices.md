@@ -7,8 +7,8 @@ toc:
   was-bedeutet-es-eine-software-instand-zu-halten: "Was bedeutet es, eine Software instand zu halten?"
   dokumentieren-sie-ihre-prozesse: "Dokumentieren Sie Ihre Prozesse"
   lernen-nein-zu-sagen: "Lernen, nein zu sagen"
-  bring-in-the-robots: "Bring in the robots"
   nutzen-sie-ihre-community: "Nutzen Sie Ihre Community"
+  delegieren-sie-an-roboter: "Delegieren Sie an Roboter"
   its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
 image: /assets/images/cards/best-practices.png
@@ -238,47 +238,51 @@ Das Gleiche gilt für Benutzer\*innen, die wirklich eine Lösung haben möchten,
 >
 > It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
 
-## Bring in the robots
+## Delegieren Sie an Roboter
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+So wie es Aufgaben gibt, die andere Menschen Ihnen abnehmen können, gibt es auch Aufgaben, die kein Mensch jemals zu erledigen haben sollte. Roboter sind Ihre Freunde. Verwenden Sie sie, um sich Ihr Leben als Maintainer\*in zu erleichtern.
 
-### Require tests and other checks to improve the quality of your code
+### Verlangen Sie Tests und andere Kontrollen, um die Codequalität zu verbessern.
 
-One of the most important ways you can automate your project is by adding tests.
+Eine der wichtigsten Möglichkeiten, wie Sie Ihr Projekt automatisieren können, ist das Hinzufügen von Tests.
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+Tests geben Mitwirkenden den Mut zu Änderungsvorschlägen, denn sie können nichts (unbemerkt) kaputt machen. Sie erleichtern es Ihnen selbst auch, Beiträge schnell zu prüfen und anzunehmen. Je reaktionsschneller Sie sind, desto engagierter kann Ihre Gemeinschaft sein.
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Required status checks](https://help.github.com/articles/about-required-status-checks/) on GitHub can help ensure no change gets merged without your tests passing.
+Richten Sie automatische Tests ein, die bei allen eingehenden Beiträgen ausgeführt werden, und stellen Sie sicher, dass Ihre Tests problemlos lokal von den Mitwirkenden ausgeführt werden können. Verlangen Sie, dass alle Codebeiträge Ihre Tests bestehen, bevor sie eingereicht werden können. Sie sichern einen Mindeststandards für die Qualität aller Einreichungen. [Verpflichtende Status-Checks](https://help.github.com/articles/about-required-status-checks/) auf GitHub können dazu beitragen, dass keine Änderungsvorschläge angenommen werden, die nicht Ihre Tests bestanden werden.
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+Wenn Sie Tests hinzufügen, erklären Sie deren Funktionsweise in Ihrer CONTRIBUTING-Datei.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
-  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+
+  Ich glaube, dass Tests für jeden Code, an dem Menschen arbeiten, notwendig sind. Wenn der Code vollständig und vollkommen korrekt wäre, müsste er nicht geändert werden - wir schreiben Code nur, wenn etwas nicht stimmt, sei es "Es stürzt ab" oder "Es fehlt ein dieses oder jenes Feature". Und unabhängig von den Änderungen, die Sie vornehmen, sind Tests unerlässlich, um versehentlich entstandene Regressionen abzufangen.
+
+  _I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce._
+
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### Automatisieren Sie grundlegende Wartungsaufgaben
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
+Viele Maintainer\*innen populärer Projekte sind mit ähnlichen Problemen konfrontiert, und darum gibt es [viele fertig entwickelte  Lösung](https://github.com/showcases/tools-for-open-source), die Wartungsarbeiten automatisieren können. Einige Beispiele:
 
-There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
+* [semantic-release](https://github.com/semantic-release/semantic-release) automatisiert Ihre Veröffentlichungen
+* [mention-bot](https://github.com/facebook/mention-bot) erwähnt potentielle Reviewer für Pull Requests
+* [Danger](https://github.com/danger/danger) hilft bei der Automatisierung des Code Review
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
+Für Fehlerberichte und andere allgemeine Beiträge hat GitHub [Issue- und Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), die Sie erstellen können, um die Kommunikation zu optimieren. @TalAter hat einen [Choose Your Own Adventure Guide](https://www.talater.com/open-source-templates/#/) erstellt, der Ihnen beim Schreiben dieser Vorlagen hilft.
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
+Um Ihre E-Mail-Benachrichtigungen zu verwalten, können Sie [E-Mail-Filter](https://github.com/blog/2203-email-updates-about-your-own-activity) so einrichten, dass sie nach Priorität sortiert werden.
 
-To manage your email notifications, you can set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to organize by priority.
+Wenn Sie etwas fortgeschrittener werden wollen, können Stilvorgaben und Linter die Projektbeiträge standardisieren, und so leichter überprüf- und akzeptierbar machen.
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+Wenn Ihre Standards jedoch zu kompliziert sind, können sie die Barriere mitzuarbeiten erhöhen. Stellen Sie sicher, dass Sie nur gerade genug Regeln einführen, um allen das Leben leichter zu machen.
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
+Wenn Sie sich nicht sicher sind, welche Tools Sie verwenden sollen, schauen Sie sich andere beliebte Projekte an, insbesondere in Ihrem technischen Ökosystem. Wie sieht beispielsweise der Beitragsprozess für andere Node-Module aus? Stellen Sie sicher, dass Sie nur genug Regeln hinzufügen, um allen das Leben leichter zu machen.
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+Wenn Sie sich nicht sicher sind, welche Tools Sie verwenden sollen, schauen Sie sich an, was andere beliebte Projekte tun, insbesondere die in Ihrem Ökosystem. Wie sieht beispielsweise der Beitragsprozess für andere Knotenmodule aus? Durch die Verwendung ähnlicher Tools und Ansätze wird Ihr Prozess auch für Ihre Zielgruppe vertrauter.
 
 ## It's okay to hit pause
 
