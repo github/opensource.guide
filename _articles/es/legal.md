@@ -159,7 +159,7 @@ A largo plazo, tu equipo legal puede hacer m&aacute;s para ayudar a la empresa a
 
 * **Qu&eacute; liberar:** [¿(casi) todo?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si tu equipo legal entiende e invierte en la estrategia de c&oacute;digo abierto de su empresa, ser&aacute;n m&aacute;s capaces de ayudar en lugar de dificultar tus esfuerzos.
 
-* **Conformidad:** Incluso si tu empresa no libera ning&uacute;n proyecto de c&oacute;digo abierto, utiliza otro software de c&oacute;digo abierto. La [conciencia y el proceso](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program) puede prevenir dolores de cabeza, retrasos del producto, y demandas.
+* **Conformidad:** Incluso si tu empresa no libera ning&uacute;n proyecto de c&oacute;digo abierto, utiliza otro software de c&oacute;digo abierto. La [conciencia y el proceso](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) puede prevenir dolores de cabeza, retrasos del producto, y demandas.
 
 <aside markdown="1" class="pquote">
   Las organizaciones deben tener una estrategia de licencia y cumplimiento que se ajuste tanto a categor&iacute;as \["permisiva" y "copyleft"\]. Esto comienza con el mantenimiento de un registro de los t&eacute;rminos de licencia que se aplican al software de c&oacute;digo abierto que est&aacute; utilizando - incluidos subcomponentes y dependencias.
