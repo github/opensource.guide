@@ -172,7 +172,7 @@ Si est&aacute;s buscando a otros para que se sumen, comienza por preguntar alred
 
 Cuando veas nuevos contribuyentes haciendo contribuciones repetidas, deber&iacute;as reconocer su trabajo ofreci&eacute;ndoles m&aacute;s responsabilidades. Documenta c&oacute;mo otros pueden alcanzar roles de liderazgo si lo desean.
 
-Alentar a otros a [compartir la propiedad del proyecto](../building-community/#comparte-la-propiedad-de-tu-proyecto) puede reducir en gran medida tu carga de trabajo, como @lmccart descubri&oacute; en su proyecto, [p5.js](https://github.com/processing/p5.js?files=1).
+Alentar a otros a [compartir la propiedad del proyecto](../building-community/#comparte-la-propiedad-de-tu-proyecto) puede reducir en gran medida tu carga de trabajo, como @lmccart descubri&oacute; en su proyecto, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
