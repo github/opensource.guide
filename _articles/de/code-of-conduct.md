@@ -44,7 +44,7 @@ Legen Sie eine CODE_OF_CONDUCT-Datei in das Stammverzeichnis Ihres Projekts und 
 
 <aside markdown="1" class="pquote">
 
-  Ein Verhaltenskodex, der nicht durchgesetzt wird (oder  werden kann), ist schlimmer als gar kein Verhaltenskodex: Er sendet die Botschaft, dass die Werte des Verhaltenskodex in Ihrer Gemeinde nicht wirklich wichtig oder respektiert werden.
+  Ein Verhaltenskodex, der nicht durchgesetzt wird (oder werden kann), ist schlimmer als gar kein Verhaltenskodex: Er sendet die Botschaft, dass die Werte des Verhaltenskodex in Ihrer Gemeinde nicht wirklich wichtig oder respektiert werden.
 
   _A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community._
 
