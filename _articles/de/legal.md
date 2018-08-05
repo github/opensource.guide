@@ -5,7 +5,7 @@ description: Alle Rechtsaspekte von Open-Source-Projekten, über die Sie sich je
 class: legal
 toc:
   warum-sorgen-sich-leute-so-um-rechtsfragen-im-open-source-bereich: "Warum sorgen sich Leute so um Rechtsfragen im Open-Source-Bereich?"
-  sind-öffentliche-git-hub-projekte-open-source: "Sind öffentliche GitHub-Projekte Open Source?"
+  sind-publizierte-git-hub-projekte-open-source: "Sind publizierte GitHub-Projekte Open Source?"
   sag-mir-nur-kurz-wie-ich-mein-projekt-schützen-kann: "Sag mir nur kurz, wie ich mein Projekt schützen kann"
   welche-open-source-lizenz-passt-zu-meinem-projekt: "Welche Open-Source-Lizenz passt zu meinem Projekt?"
   was-wenn-ich-die-lizenz-meines-projektes-ändern-möchte: "Was, wenn ich die Lizenz meines Projektes ändern möchte?"
@@ -34,7 +34,7 @@ Wenn Sie keine Open-Source-Lizenz einsetzen, erhält zudem jede\*r ebenfalls das
 
 Schlussendlich könnte Ihr Projekt auch von anderen abhängen, die wiederum Lizenzbedingungen haben, derer Sie sich nicht bewusst waren. Die Gemeinschaft um Ihr Projekt und/oder Regelungen Ihrer Arbeitsstelle können auch bestimmte Open-Source-Lizenzen bedingen. Diese Fälle behandeln wir weiter unten.
 
-## Sind öffentliche GitHub-Projekte Open Source?
+## Sind publizierte GitHub-Projekte Open Source?
 
 Wenn Sie [ein neues Projekt auf GitHub erstellen](https://help.github.com/articles/creating-a-new-repository/), können Sie dies **öffentlich** oder **privat** tun.
 
