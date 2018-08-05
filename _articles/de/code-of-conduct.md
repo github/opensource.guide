@@ -1,10 +1,10 @@
 ---
 lang: de
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+title: Ihr Verhaltenskodex
+description: Fördern Sie ein gesundes und konstruktives Miteinander durch die Festlegung und Durchsetzung eines Verhaltenskodex.
 class: coc
 toc:
-  why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
+  warum-brauche-ich-einen-verhaltenskodex: "Warum brauche ich einen Verhaltenskodex?"
   establishing-a-code-of-conduct: "Establishing a code of conduct"
   deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
   enforcing-your-code-of-conduct: "Enforcing your code of conduct"
@@ -15,13 +15,13 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## Warum brauche ich einen Verhaltenskodex?
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+Ein Verhaltenskodex ist ein Dokument, das die Erwartungen an das Verhalten der Projektteilnehmer\*innen festlegt. Einen Verhaltenskodex festzulegen und durchzusetzen, kann dazu beitragen, eine positive soziale Atmosphäre für Ihre Gemeinde zu schaffen.
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+Verhaltenskodizes schützen nicht nur Ihre Teilnehmer\*innen, sondern auch Sie selbst. Wenn Sie ein Projekt pflegen, werden Sie vielleicht feststellen, dass unproduktive Einstellungen von Anderen dazu führen können, dass Sie sich im Laufe der Zeit ausgelaugt oder unglücklich über Ihre Arbeit fühlen.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+Ein Verhaltenskodex bevollmächtigt Sie, ein gesundes, konstruktives Miteinander zu fördern. Proaktiv zu sein, verringert die Wahrscheinlichkeit, dass Sie oder andere projektmüde werden, und hilft Ihnen, Maßnahmen gegen unerwünschtes Verhalten zu ergreifen.
 
 ## Establishing a code of conduct
 
