@@ -69,7 +69,7 @@ Vergessen Sie nicht, dass jemand einen Verstoß über eine Person melden möchte
 
 > Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
 
-Für Inspiration siehe Django's [Enforcement Manual](https://www.djangoproject.com/conduct/enforcement-manual/) (obwohl Sie je nach Größe Ihres Projekts vielleicht nicht so etwas Umfassendes benötigen).
+Django's [Enforcement Manual](https://www.djangoproject.com/conduct/enforcement-manual/) dürfte für Sie eine gute Vorlage liefern, auch wenn Sie für ein kleineres Projekt vielleicht weniger umfassende Regeln benötigen.
 
 ## Enforcing your code of conduct
 
