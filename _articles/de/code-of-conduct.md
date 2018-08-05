@@ -5,7 +5,7 @@ description: Fördern Sie ein gesundes und konstruktives Miteinander durch die F
 class: coc
 toc:
   warum-brauche-ich-einen-verhaltenskodex: "Warum brauche ich einen Verhaltenskodex?"
-  establishing-a-code-of-conduct: "Establishing a code of conduct"
+  einen-verhaltenskodex-festlegen: "Einen Verhaltenskodex festlegen"
   deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
   enforcing-your-code-of-conduct: "Enforcing your code of conduct"
 order: 8
@@ -23,22 +23,22 @@ Verhaltenskodizes schützen nicht nur Ihre Teilnehmer\*innen, sondern auch Sie s
 
 Ein Verhaltenskodex bevollmächtigt Sie, ein gesundes, konstruktives Miteinander zu fördern. Proaktiv zu sein, verringert die Wahrscheinlichkeit, dass Sie oder andere projektmüde werden, und hilft Ihnen, Maßnahmen gegen unerwünschtes Verhalten zu ergreifen.
 
-## Establishing a code of conduct
+## Einen Verhaltenskodex festlegen
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+Versuchen Sie, so früh wie möglich einen Verhaltenskodex festzulegen: idealerweise, sobald Sie Ihr Projekt starten.
 
-In addition to communicating your expectations, a code of conduct describes the following:
+Neben der Klarstellung Ihrer Erwartungen beschreibt ein Verhaltenskodex Folgendes:
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+* Wo der Verhaltenskodex gilt _(nur bei Issues und Pull Requests oder auch bei Community-Veranstaltungen?)_
+* Für wen der Verhaltenskodex gilt _(Community-Mitglieder und Maintainer\*innen, aber was ist mit den Sponsor\*innen?)
+* Was passiert, wenn jemand gegen den Verhaltenskodex verstößt?
+* Wie jemand Verstöße melden kann
 
-Wherever you can, use prior art. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+Wo immer Sie können, nutzen Sie Vorhandenes. Der [Contributor Covenant](https://contributor-covenant.org/) ist ein Verhaltenskodex, der von über 40.000 Open-Source-Projekten wie Kubernetes, Rails und Swift verwendet wird.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
+Der [Django-Verhaltenskodex](https://www.djangoproject.com/conduct/) und der [Citizen Code of Conduct](http://citizencodeofconduct.org/) sind ebenfalls zwei gute Beispiele.
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
+Legen Sie eine CODE_OF_CONDUCT-Datei in das Stammverzeichnis Ihres Projekts und machen Sie sie für Ihre Community sichtbar, indem Sie sie von Ihrer CONTRIBUTING- oder README-Datei verlinken.
 
 ## Deciding how you'll enforce your code of conduct
 
