@@ -6,7 +6,7 @@ class: coc
 toc:
   warum-brauche-ich-einen-verhaltenskodex: "Warum brauche ich einen Verhaltenskodex?"
   einen-verhaltenskodex-festlegen: "Einen Verhaltenskodex festlegen"
-  deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
+  entscheiden-wie-sie-ihren-verhaltenskodex-durchsetzen: "Entscheiden, wie Sie Ihren Verhaltenskodex durchsetzen."
   enforcing-your-code-of-conduct: "Enforcing your code of conduct"
 order: 8
 image: /assets/images/cards/coc.png
@@ -40,30 +40,36 @@ Der [Django-Verhaltenskodex](https://www.djangoproject.com/conduct/) und der [Ci
 
 Legen Sie eine CODE_OF_CONDUCT-Datei in das Stammverzeichnis Ihres Projekts und machen Sie sie für Ihre Community sichtbar, indem Sie sie von Ihrer CONTRIBUTING- oder README-Datei verlinken.
 
-## Deciding how you'll enforce your code of conduct
+## Entscheiden, wie Sie Ihren Verhaltenskodex durchsetzen.
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+
+  Ein Verhaltenskodex, der nicht durchgesetzt wird (oder  werden kann), ist schlimmer als gar kein Verhaltenskodex: Er sendet die Botschaft, dass die Werte des Verhaltenskodex in Ihrer Gemeinde nicht wirklich wichtig oder respektiert werden.
+
+  _A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community._
+
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+Sie sollten erklären, wie Ihr Verhaltenskodex durchgesetzt wird, **_bevor_** es zu einem Verstoß kommt. Dafür gibt es mehrere Gründe:
 
-* It demonstrates that you are serious about taking action when it's needed.
+* Es zeigt, dass Sie es mit Maßnahmen ernst meinen, wenn sie gebraucht werden.
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* Ihre Community wird sich sicherer fühlen, dass Beschwerden tatsächlich geprüft werden.
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* Sie vergewissern Ihre Community, dass der Überprüfungsprozess fair und transparent ist, sollte es jemals zu einem Verstoß kommen.
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+Sie sollten Leuten einen privaten Weg (z.B. eine E-Mail-Adresse) geben, um einen Verstoß gegen den Verhaltenskodex zu melden und zu erklären, wer diesen Bericht erhält. Es kann ein\*e Maintainer\*in, eine Gruppe von Maintainer\*innen oder eine Verhaltenskodex-Arbeitsgruppe sein.
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Vergessen Sie nicht, dass jemand einen Verstoß über eine Person melden möchte, die diese Berichte erhält. Geben Sie ihnen in diesem Fall die Möglichkeit, Verstöße an eine andere Person zu melden. @ctb und @mr-c zum Beispiel [erklären zu ihrem Projekt](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+
+> Fälle von missbräuchlichem, belästigendem oder anderweitig inakzeptablem Verhalten können per E-Mail an **khmer-project@idyll.org** gemeldet werden, die nur an C. Titus Brown und Michael R. Crusoe geht. Um ein Problem zu melden, das einen von ihnen betrifft, senden Sie bitte eine E-Mail an **Judi Brown Clarke, Ph.D.** den Diversity Director am BEACON Center for the Study of Evolution in Action, einem NSF Center for Science and Technology.*
 
 > Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+Für Inspiration siehe Django's [Enforcement Manual](https://www.djangoproject.com/conduct/enforcement-manual/) (obwohl Sie je nach Größe Ihres Projekts vielleicht nicht so etwas Umfassendes benötigen).
 
 ## Enforcing your code of conduct
 
