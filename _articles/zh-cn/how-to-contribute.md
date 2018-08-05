@@ -155,7 +155,7 @@ related:
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   如果你跟着了一条issue，还发现了令人感到困惑的事情，这很正常，不是你一个人这样。这些工具需要大量的隐式的知识，但是总会有人带着你熟悉这些，当然你要找他们问对的问题。
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["如何为开源做贡献"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["如何为开源做贡献"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
