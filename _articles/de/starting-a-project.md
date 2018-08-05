@@ -1,14 +1,14 @@
 ---
 lang: de
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+title: Ein Open-Source-Projekt anfangen
+description: Erfahren Sie mehr über die Open-Source-Welt und machen Sie sich bereit, Ihr eigenes Projekt zu starten.
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "The what and why of open source"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
-  naming-and-branding-your-project: "Naming and branding your project"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  was-ist-open-source-und-warum: "Was ist Open Source, und warum?"
+  sollte-ich-mein-eigenes-open-source-projekt-starten: "Sollte ich mein eigenes Open-Source-Projekt starten?"
+  ein-eigenes-open-source-projekt-starten: "Ein eigenes Open-Source-Projekt starten"
+  ihr-projekt-benennen-und-zur-marke-machen: "Ihr Projekt benennen und zur Marke machen"
+  ihre-checkliste-zur-startvorbreitung: "Ihre Checkliste zur Startvorbreitung"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -16,287 +16,313 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## Was ist Open Source, und warum?
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+Sie denken also über einen Sprung in die Open-Source-Welt nach? Herzlichen Glückwunsch, die Welt weiß Ihren Beitrag zu schätzen: Lassen Sie uns darüber sprechen, was Open Source ist und warum sich Leute dafür engagieren.
 
-### What does "open source" mean?
+### Was genau bedeutet "Open Source"?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+Ein Open-Source-Projekt kann von **jedem für jeden Zweck verwendet, angesehen, modifiziert und weiterverbreitet werden.** Diese Rechte werden [mittels einer Open-Source-Lizenz durchgesetzt](https://opensource.org/licenses).
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+Open Source ist leistungsstark, weil es Akzeptanzbarrieren senkt und Ideen schneller verbreiten lässt.
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
+Um zu verstehen, wie es funktioniert, stellen Sie sich vor, eine Freundin von Ihnen lädt zur Grillparty ein und Sie bringen einen Kartoffelsalat mit.
 
-* Everybody tries the pie (_use_)
-* The pie is a hit! They ask you for the recipe, which you provide (_view_)
-* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
-* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
+* Alle probiere den Salat (_verwenden_)
+* Er ist der Hit! Andere Gäste fragen Sie nach dem Rezept, das Sie auch gerne nennen (_ansehen_)
+* Ein süddeutscher Freund von Ihnen, Alex, schlägt vor, weniger Majo zu nehmen (_modifizieren_)
+* Eine andere Freundin, Lisa, möchte den Salat für ein Abendessen nächste Woche selbst ausprobieren (_weiterverbreiten_)
 
-By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
+Zum Vergleich: Closed-Source ist wie in ein Restaurant zu gehen und eine Portion Kartoffelsalat zu bestellen. Sie müssen eine Gebühr zahlen, um ihn zu essen, und das Restaurant wird Ihnen das Rezept wahrscheinlich nicht geben. Wenn Sie den Salat genau kopieren und unter Ihrem eigenen Namen verkaufen würden, könnte das Restaurant gegen Sie vorgehen.
 
-### Why do people open source their work?
+### Warum öffnen Menschen den Quellcode ihrer Software?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+
+  Eine der lohnenswertesten Erfahrungen, die ich bei der Verwendung von Open Source und der Zusammenarbeit daran mache, kommen von den Beziehungen, die ich mit anderen Entwickler\*innen aufbaue, die mit vielen der gleichen Probleme konfrontiert sind wie ich.
+
+  _One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am._
+
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
   </p>
 </aside>
 
-[There are many reasons](https://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+[Es gibt viele Gründe](https://ben.balter.com/2015/11/23/why-open-source/) warum eine Person oder Organisation ein Projekt open-sourcen wollen würde. Beispielsweise:
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **Zusammenarbeit:** Open-Source-Projekte nehmen Beiträge aus der ganzen Welt an. [Exercism](https://github.com/exercism/), zum Beispiel, ist ein Programmierübungsplatform mit über 350 Kontributor\*innen.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Anpassungen:** Open-Source-Projekte können von jedem Menschen für fast jeden Zweck benutzt werden. Leute können daraus sogar andere Dinge bauen. [WordPress](https://github.com/WordPress), zum Beispiel, begann als ein Fork eines existierenden Projekts names [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://web.archive.org/web/20180306072551/https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparenz:** In einem Open-Source-Projekt können Fehlern oder Ungereimtheiten von jedem behoben werden. Transparenz ist sowohl für Regierungen in [Bulgarien](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) oder den [Vereinigten Staaten](https://web.archive.org/web/20180306072551/https://sourcecode.cio.gov/), für regulierte Industrien wie den Banken- oder Gesundheitssektor, und für Sicherheitssoftware wie [Let's Encrypt](https://github.com/letsencrypt) gleichermaßen wichtig.
 
-Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+Open Source ist nicht nur für Software, sondern auch für alle anderen Bereiche, von Datensätzen bis hin zu Büchern, geeignet. Werfen Sie einen Block auf [GitHub Explore](https://github.com/explore), um einen Eindruck der thematischen Breite von Open-Source-Projekten zu bekommen.
 
-### Does open source mean "free of charge"?
+### Bedeutet Open Source auch "gratis"?
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+Einer der größten Vorteile von Open Source ist, dass es kein Geld kostet. "Gratis", dagegen ist nur ein Nebenprodukt des Gesamtwertes.
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+Weil [eine Open-Source-Lizense bedingt](https://opensource.org/osd-annotated), dass jede\*r die Software nutzen, modifizieren, und weiterverbreiten darf (für nahezu jeden Zweck), nehmen die Projekte selbst meist kein Geld dafür. Wenn sie es täten, könnte jede\*r ganz legal das Projekte kopieren und die dann freie Version nutzen.
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+Daher sind die meisten Open-Source-Projekte kostenlos, aber das ist kein Teil der Open-Source-Definition. Es gibt für  Open-Source-Projekte Möglichkeiten, sich indirekt bezahlen zu lassen (z.B. über Doppellizenzierung oder eingeschränkte Funktionen) und dabei trotzdem die offizielle Definition von Open-Source weiterhin einzuhalten.
 
-## Should I launch my own open source project?
+## Sollte ich mein eigenes Open-Source-Projekt starten?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+Die kurze Antwort ist ja, denn egal wie das Ergebnis aussieht: Ein eigenes Projekt zu starten, ist eine großartige Möglichkeit, um zu lernen, wie Open Source funktioniert.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+Wenn Sie noch nie den Quellcode eines Projektes geöffnet haben, werden Sie vielleicht nervös darüber sein, was die Leute sagen werden, oder ob es jemandem auffallen wird. Mit diesen Bedenken wären Sie nicht allein!
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+Open-Source-Arbeit ist eine kreative Aktivität wie Schreiben oder Malen, oder anderes. Es kann beängstigend sein, seine Arbeit mit der Welt zu teilen, aber der einzige Weg besser zu werden, ist zu üben - auch wenn man kein Publikum hat.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+Wenn Sie noch nicht überzeugt sind, nehmen Sie sich einen Moment Zeit, um darüber nachzudenken, was Ihre Ziele sein könnten.
 
-### Setting your goals
+### Ihre Ziele definieren
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+Ziele können Ihnen helfen, herauszufinden, woran Sie arbeiten sollen, was Sie ablehnen sollen und wo Sie Hilfe von anderen brauchen. Fragen Sie sich zuerst: _Warum öffne ich dieses Projekt?_
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+Es gibt keine richtige Antwort auf diese Frage. Vielleicht haben Sie mehrere Ziele für ein einzelnes Projekt oder verschiedene Projekte mit unterschiedlichen Zielen.
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+Wenn es Ihr einziges Ziel ist, Ihre Arbeit zu zeigen, wollen Sie vielleicht nicht einmal Beiträge, und sagen Sie es sogar in Ihrer README. Andererseits, wenn Sie sich Beiträge wünschen: Investieren Sie Zeit in eine klare Dokumentation, damit sich Neuankömmlinge willkommen fühlen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+
+  Irgendwann habe ich eine eigene UIAlertView erstellt, die ich benutzt habe... Und ich entschied mich dafür, sie zu Open-Source-n, also habe ich sie dynamischer gestaltet und auf GitHub hochgeladen und auch meine erste Dokumentation geschrieben, die anderen Entwickler\*innen erklärt, wie man sie in ihren Projekten verwendet. Wahrscheinlich hat es nie jemand benutzt, weil es ein einfaches Projekt war, aber ich fühlte mich wegen meines Beitrags gut.
+
+  _At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution._
+
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+Wenn Ihr Projekt wächst, braucht Ihre Community mehr als nur Code von Ihnen. Die Reaktion auf Probleme, die Überprüfung von Code und das Anpreisen Ihres Projekts sind alles wichtige Aufgaben in einem Open-Source-Projekt.
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+Während die Zeit, die Sie für nicht programmierte Aufgaben aufwenden, von der Größe und dem Umfang Ihres Projekts abhängt, sollten Sie als Betreuer\*in darauf vorbereitet sein, diese selbst anzugehen oder jemanden zu finden, der Ihnen hilft.
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**Wenn Sie Teil eines Unternehmens sind, das ein Projekt Open-Source-t**, stellen Sie sicher, dass Ihr Projekt über die internen Ressourcen verfügt, die es braucht, um zu gedeihen: Sie wollen klarstellen, wer für die Wartung des Projekts nach dem Start verantwortlich ist und wie Sie diese Aufgaben mit Ihrer Gemeinde teilen.
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+Wenn Sie ein dediziertes Budget oder Personal für Promotion, Betrieb und Wartung des Projekts benötigen, planen Sie dies frühzeitig.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+
+  Wenn Sie mit dem Open-Source-Projekt beginnen, ist es wichtig, dass Ihre Managementprozesse die Beiträge und Fähigkeiten der Community rund um Ihr Projekt berücksichtigen. Scheuen Sie sich nicht, Mitarbeiter\*innen, die nicht in Ihrem Unternehmen beschäftigt sind, in Kernbereiche des Projekts einzubeziehen - besonders wenn sie häufig mitwirken.
+
+  _As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors._
+
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
   </p>
 </aside>
 
-### Contributing to other projects
+### Zu anderen Projekten beitragen
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+Wenn Ihr Ziel das Lernen ist, wie man mit anderen zusammenarbeitet oder wie Open Source funktioniert, sollten Sie in Erwägung ziehen, zu einem bestehenden Projekt beizutragen. Dies kann so einfach sein wie die Korrektur von Tippfehlern oder das Aktualisieren der Dokumentation.
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+Wenn Sie sich nicht sicher sind, wie Sie als Mitwirkender anfangen können, schauen Sie sich unseren Artikel "[Wie zu Open Source beitragen?](../how-to-contribute/)" an.
 
-## Launching your own open source project
+## Ein eigenes Open-Source-Projekt starten
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+Es gibt keine perfekte Zeit, um Ihre Arbeit zu Open-Source-n. Sie können eine Idee, ein in Arbeit befindliches Projekt, oder ein Jahre altes Closed-Source-Pröjekt öffnen.
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+Im Prinzip immer, wenn Sie sich sicher sind, dass andere Ihre Arbeit sehen sollten, und Feedback dazu geben.
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+Unabhängig davon, in welcher Phase Sie sich für Open Source entscheiden, sollte jedes Projekt die folgende Dokumentation enthalten:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+* [Eine Open-Source-Lizenz](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [Eine README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
+* [Beitragsrichtlinien](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [einen Verhaltenskodex](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+Als Maintainer\*in helfen Ihnen diese Komponenten, Erwartungen zu kommunizieren, Beiträge zu verwalten und die gesetzlichen Rechte aller (einschließlich Ihrer eigenen) zu schützen. Sie tragen zudem zu einer positiven Erfahrungen in Ihrem Projekt bei.
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+Wenn sich Ihr Projekt auf GitHub befindet, können Sie diese Dateien mit den empfohlenen Dateinamen in Ihrem Stammverzeichnis ablegen, damit GitHub sie erkennt und automatisch an Ihre Leser\*innen weitergeben kann.
 
-### Choosing a license
+### Eine Lizenz auswählen
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+Eine Open-Source-Lizenz garantiert, dass andere Ihr Projekt ohne Nebenwirkungen nutzen, kopieren, modifizieren und wieder einbringen können, und schützt Sie vor unangenehmen rechtlichen Situationen. **Wenn Sie ein Open-Source-Projekt starten, müssen Sie eine Lizenz angeben.**
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+Rechtsangelegenheiten sind kein Spaß. Die gute Nachricht ist, dass Sie eine bestehende Lizenz kopieren und in Ihr Repository einfügen können. Es dauert also nur eine Minute, Ihre harte Arbeit zu schützen.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), und [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sind die populärsten Open-Source-Lizenzen, aber [es gibt viele andere](https://choosealicense.com) zur Auswahl.
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+Wenn Sie ein neues Projekt auf GitHub erstellen, haben Sie die Möglichkeit, eine Lizenz auszuwählen. Mit einer Open-Source-Lizenz wird Ihr GitHub-Projekt auch wirklich zum Open-Source-Projekt.
 
-![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![Eine Lizenz auswählen](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+Wenn Sie weitere Fragen oder Bedenken bezüglich der rechtlichen Aspekte der Verwaltung eines Open-Source-Projekts haben, [können Sie sich an uns wenden](../legal/).
 
 ### Eine README schreiben
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+READMEs erklären nicht nur, wie Sie Ihr Projekt verwenden, sondern auch, warum Ihr Projekt wichtig ist und was Ihre Benutzer\*innen damit machen können.
 
-In your README, try to answer the following questions:
+Versuchen Sie in Ihrer README folgende Fragen zu beantworten:
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* Was macht dieses Projekt?
+* Wozu nützt es?
+* Wie kann ich anfangen, es zu nutzen oder etwas beizutragen?
+* Wo wird mir geholfen, wenn ich Hilfe benötige?
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+Sie können Ihre README verwenden, um andere Fragen zu beantworten: z.B. wie Sie mit Beiträgen handhaben, welche Ziele das Projekt verfolgt, oder wie es um Lizenzen und Zuschreibungen steht. Wenn Sie keine Beiträge annehmen wollen oder Ihr Projekt noch nicht produktionsreif ist, schreiben Sie auch diese Informationen auf.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+
+  Bessere Dokumentation bedeutet mehr Benutzer\*innen, weniger Supportanfragen und mehr Mitwirkende. (...) Denken Sie daran, dass Ihre Leser\*innen und andere Leute, die auf Ihr Projekt stoßen, nicht den selben Erfahrungshintergrund wie Sie haben.
+
+  _Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences._
+
   <p markdown="1" class="pquote-credit">
 — @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
-Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+Manchmal vermeiden es Leute, eine README zu schreiben, weil sie das Gefühl haben, das Projekt sei unvollendet, oder weil sie keine Beiträge wollen. Aber auch dies sind gute Gründe, eine zu schreiben.
 
-For more inspiration, try using @18F's ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+Weitere Inspirationen zum Schreiben einer README finden Sie in @18F's ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) oder in @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+Wenn Sie eine README-Datei im Hauptordner Ihres Projektes anlegen, zeigt GitHub diese automatisch auf der Homepage des Repos an.
 
-### Writing your contributing guidelines
+### Ihre Beistragsrichtlinien aufschreiben
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+Eine CONTRIBUTING-Datei erklärt Ihrem Publikum, wie es zu Ihrem Projekt beitragen kann. Bspw. können Sie informieren über:
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+* Wie eine Fehlerbericht eingericht werden kann (probieren Sie hierfür die [Issue- und Pull-Request-Vorlagen](https://github.com/blog/2111-issue-and-pull-request-templates))
+* Wie neue Funktionen vorgeschlagen werden sollten
+* Wie die Entwicklungsumgebung eingerichtet wird, und wie getestet wird
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+Neben thematischen Details präsentiert die CONTRIBUTING-Datei auch Ihre Erwartungen an Beiträge, z.B:
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
+* Die Beitragsarten, die Sie gerne hätten
+* Ihre Planungen und Ziele für das Projekt
+* Wie Beitragseinreicher\*innen Sie kontaktieren sollten (oder auch nicht)
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+Mit einem warmen, freundlichen Ton und spezifischen Vorschlägen für Beiträge (wie z.B. "Dokumentationen verfassen" oder "eine Website erstellen") können Sie dazu beitragen, dass sich Neuankömmlinge willkommen und begeistert fühlen.
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with:
+Beispielsweise, [Active Admin](https://github.com/activeadmin/activeadmin/) leitet [ihre Beistragsrichtlinien](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) ein mit:
 
-> First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+> Zuerst einmal vielen Dank, dass Sie überlegt haben, einen Beitrag zu Active Admin zu leisten, denn es sind Menschen wie Sie, die Active Admin so großartig machen.
+>
+> _First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool._
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+In der Anfangsphase Ihres Projekts kann Ihre CONTRIBUTING-Datei einfach sein. Sie sollten immer erklären, wie Fehler oder Probleme gemeldet werden können und welche technischen Anforderungen (z.B. Tests) Leute erfüllen müssen, um einen Beitrag zu leisten.
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+Im Laufe der Zeit können Sie weitere häufig gestellte Fragen zu Ihrer CONTRIBUTING-Datei hinzufügen. Diese Informationen aufzuschreiben verhindert, dass weniger Leute die immer wieder gleichen Fragen stellen werden.
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+@nayafia's [CONTRIBUTING-Vorlage](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) oder @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) helfen Ihnen, Ihre Beitragsrichtlinien zu entwerfen.
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, sodass mehr Leute sie bemerken. Wenn Sie sie zudem [in Ihr Repo einchecken](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), wird GitHub sie automatisch auf sie aufmerksam machen, wenn jemand ein Issue oder Pull Request erstellt.
 
-![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![Beitragsrichtlinien](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
-### Establishing a code of conduct
+### Einen Verhaltenskodex etablieren
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+
+  Wir haben alle Erfahrungen gemacht, wo wir es mit einem Missbrauch zu tun hatten, entweder als Betreuer, der versuchte zu erklären, warum etwas auf eine bestimmte Weise geschehen musste, oder als Benutzer\*in (...) die/der einfache Frage stellte. (...) Ein Verhaltenskodex wird zu einem leicht referenzierbaren und verknüpfbaren Dokument, das klar stellt, dass Ihr Team den konstruktiven Diskurs sehr ernst nimmt.
+
+  _We've all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously._
+
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+Letztendlich hilft ein Verhaltenskodex, Grundregeln für das Verhalten der Projektbeteiligten festzulegen. Insbesondere wenn Sie ein Open-Source-Projekt für eine Community oder ein Unternehmen starten. Ein Verhaltenskodex hilft Ihnen, ein gesundes, konstruktives Gemeinschaftsverhalten zu fördern, das Ihnen Betreuer\*in Stress erspart.
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+Weitere Information finden Sie in unserer [Anleitung für Verhaltenskodices](../code-of-conduct/).
 
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+Neben der Klarstellung _welches_ Verhalten Sie von den Teilnehmer\*innen erwarten, beschreibt ein Verhaltenskodex auch, auf wen sich diese Erwartungen beziehen, wann sie gelten und was zu tun ist, wenn ein Verstoß vorliegt.
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](http://contributor-covenant.org/adopters/), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+Ähnlich zu Open-Source-Lizenzen, kommen auch Standards für Verhaltenskodices auf, sodass Sie keinen komplett eigenen schreiben müssen. Der [Contributor Covenant](https://contributor-covenant.org/) ist ein einsatzbereiter Verhaltenskodex, der von [über 40'000 Open-Source-Projekten](http://contributor-covenant.org/adopters/) verwendet wird, einschließlich Kubernetes, Rails und Swift. Egal welchen Text Sie nutzen, Sie sollten vorbereitet sein, ihn wenn nötig auch durchzusetzen.
 
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
+Fügen Sie den Text direkt in eine CODE_OF_CONDUCT-Datei in Ihrem Repository ein. Halten Sie die Datei im Stammverzeichnis Ihres Projekts, damit sie leicht zu finden ist, und verlinken Sie sie von Ihrer README.
 
-## Naming and branding your project
+## Ihr Projekt benennen und zur Marke machen
 
-Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
+Eine Marke besteht aus mehr als einem auffälligen Logo oder einem einprägsamem Projektnamen. Es geht darum, wie Sie über Ihr Projekt sprechen und wen Sie mit Ihrer Botschaft erreichen.
 
-### Choosing the right name
+### Den richtigen Namen auswählen
 
-Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
+Wählen Sie einen Namen, der leicht zu merken ist und im Idealfall eine Vorstellung davon vermittelt, was das Projekt bewirkt. Bspw.:
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Sentry](https://github.com/getsentry/sentry) überwacht Apps und meldet Abstürze
+* [Thin](https://github.com/macournoyer/thin) ist ein schneller, einfacher Web-Server in Ruby
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+Wenn Sie auf einem bestehenden Projekt aufbauen, kann die Verwendung des Namens als Präfix helfen, zu klären, was Ihr Projekt tut ([node-fetch](https://github.com/bitinn/node-fetch) z.B. implementiert `window.fetch` für Node.js).
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+Denken Sie vor allem an die Klarheit. Wortspiele machen Spaß, aber denken Sie daran, dass manche Witze nicht in andere Kulturen oder für Menschen mit anderen Erfahrungen als Ihren, übersetzt werden können. Einige Ihrer potenziellen Nutzer\*innen könnten Mitarbeiter\*innen in Unternehmen sein: Sie wollen es ihnen nicht unangenehm machen, wenn sie Ihr Projekt bei der Arbeit erklären müssen!
 
-### Avoiding name conflicts
+### Namenskonflikte vermeiden
 
-[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+[Prüfen Sie, ob es Open-Source-Projekte mit ähnlichem Namen gibt](http://ivantomic.com/projects/ospnc/), insb. in der selben Sprache oder demselben Ökosystem. Wenn Ihr Projektname mit einem existierenden, populären Projekt überlappt, könnte das Ihr Publikum verwirren.
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
+Wenn Sie möchten, dass eine Website, ein Twitter-Handle, etc. Ihr Projekt repräsentieren, stellen Sie sicher, dass Sie die von Ihnen gewünschten Namen erhalten können. Um auf Nummer sicher zu gehen, können Sie [diese Namen jetzt reservieren](https://instantdomainsearch.com/), auch wenn Sie sie noch nicht verwenden möchten.
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
+Achten Sie darauf, dass der Name Ihres Projekts keine Marken verletzt, denn ein Unternehmen könnte Sie auffordern, Ihr Projekt zu einem späteren Zeitpunkt abzubrechen oder sogar rechtliche Schritte gegen Sie einzuleiten. Dieses Risiko einzugehen, ist es einfach nicht wert.
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+Nutzen Sie die [WIPO Global Brand Database](http://www.wipo.int/branddb/en/), um auf Namenskonflikte zu prüfen. Wenn Sie in einer Firma sind, is dies eine der Aufgaben, bei denen [Ihr Justiziariat Sie unterstützen kann](../legal/).
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+Zum Schluss noch eine schnelle Google-Suche nach Ihrem Projektnamen. Werden die Leute Ihr Projekt leicht finden können, erscheint etwas anderes in den Suchergebnissen, das Sie nicht sehen möchten?
 
-### How you write (and code) affects your brand, too!
+### Auch den Schreib- und Programmierstil beeinflussen Ihre Marke!
 
-Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
+Während der Lebenszeit Ihres Projektes werden Sie eine Menge schreiben: README, Anleitungen, Dokumentation, Antworten auf Anfragen, vielleicht sogar Newsletter und auf einer Mailingliste.
 
-Whether it's official documentation or a casual email, your writing style is part of your project's brand. Consider how you might come across to your audience and whether that is the tone you wish to convey.
+Egal, ob offizielle Dokumentation oder informelle E-Mail: Ihr Schreibstil ist ein Markenzeichen Ihres Projektes. Bedenken Sie, wie er bei Ihrem Publikum ankommt, und ob dies dem Tonfall entspricht, den Sie rüberbringen möchten.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+
+  Ich versuchte, an jeder Diskussion auf der Mailingliste teilzunehmen, in guter Manier, nett zu Leuten zu sein, ihre Anfragen ernst zu nehmen und Hilfe anzubieten. Nach einer Weile blieben Leuten einfach dabei, nicht nur um Fragen zu stellen, sondern auch um anderen zu antworten, und erfreulicherweise übernahmen sie meinen Schreibstil.
+
+  _I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style._
+
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
+Freundliche, [inklusive Sprache](https://fairlanguage.com/service/) können Ihr Projekt einladender für neue Helfer\*innen machen. Bleiben Sie auch bei einfacher/leichter Sprache, denn nicht alle Ihrer Leser\*innen sind Muttersprachler\*innen.
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://github.com/johnpapa/angular-styleguide) and [jQuery](https://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+Neben Wortwahl und Schreibstil, wird auch Ihr Programmierstil Teil der Marke Ihres Projekts. [Angular](https://github.com/johnpapa/angular-styleguide) und [jQuery](https://contribute.jquery.org/style-guide/js/) beispielsweise haben strenge Richtlinien dafür.
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+Eine Stilrichtlinie ist nicht sofort zum Start Ihres Projekts nötig, und vielleicht genießen Sie es auch, unterschiedliche Programmierstile in Ihr Projekt zu integrieren. Allerdings sollten Sie davon ausgehen, dass verschiedene Schreib- und Programmierstile verschiedene Leute anziehen oder abstoßen. Die Weichen für die Gemeinschaft, die Sie letztendlich aufbauen möchten, werden schon in frühen Projektphasen gelegt.
 
-## Your pre-launch checklist
+## Ihre Checkliste zur Startvorbreitung
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+Bereit für den Start Ihres Open-Source-Projektes? Diese Checkliste hilft Ihnen dabei. Alle Stationen bereit? Dann los! [Klicken Sie auf "publish"](https://help.github.com/articles/making-a-private-repository-public/) und klopfen Sie sich auf die Schulter.
 
-**Documentation**
+**Dokumentation**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    Das Projekt hat eine "LICENSE"-Datei mit einer Open-Source-Licenz
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    Grundlegende Dokumentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    Der Projektname ist einprägsam, vermittelt Zweck und Nutzen des Projektes, überschneidet sich nicht im einem existierenden Projekt oder einem Markennamen
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    Die Issue-Liste ist auf dem neuesten Stand, klar organisiert und markiert
   </label>
 </div>
 
@@ -305,65 +331,65 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    Der Code nutzt konsistente Konventionen, sowie klare Namen für Funktionen, Methoden und Variablen
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    Der Code ist gut kommentiert, und dokumentiert Intentionen und Randfälle
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+    Weder Versionsgeschichte, noch Issues, oder Pull Requests enthalten sensiblen Daten (bspw. Passwörter oder andere nicht-öffentliche Informationen)
   </label>
 </div>
 
-**People**
+**Menschen**
 
-If you're an individual:
+Wenn Sie als Einzelperson arbeiten:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  Sie haben mit der Rechtsabteilung gesprochen und/oder verstehen die Immaterialgüterrechter und Open-Source-Politik Ihrer Firma (wenn Sie angestellt sind)
   </label>
 </div>
 
-If you're a company or organization:
+Wenn Sie als Firma oder Organisation arbeiten:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    Sie haben mit der Rechtsabteilung gesprochen
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    Sie haben einen Plan zur Ankündigung und Vermarktung Ihres Projektes
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    Jemand steht für Interaktionne mit der Community bereit (Issues beantworten, Pull Requests prüfen und mergen)
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    Mindestens zwei Personen haben Admin-Zugang zum Projekt
   </label>
 </div>
 
-## You did it!
+## Sie haben's geschafft!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+Herzlichen Glückwunsch zu Ihrem ersten Open-Source-Projekt! Egal was hinten raus kommt, öffentlich zu arbeiten, ist ein Geschenk an die Gemeinschaft. Sie erschaffen mit jedem Commit, jedem Kommentar und jedem Pull Request eine Gelegenheit für sich selbst und andere, etwas zu lernen und intellektuell zu wachsen.
