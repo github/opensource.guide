@@ -73,7 +73,7 @@ Por otro lado, si cualquiera de las licencias de tus dependencias son copyleft "
 
 Deber&iacute;as considerar tambi&eacute;n a las **comunidades** qu&eacute; esperas que usaran y contribuir&aacute;n a tu proyecto:
 
-* **¿Quieres que tu proyecto sea usado como dependencia por otros proyectos?** Probablemente, la mejor opci&oacute;n sea usar la licencia m&aacute;s popular en tu comunidad. Por ejemplo, [MIT](https://choosealicense.com/licenses/mit/) es la licencia m&aacute;s popular para [npm libraries](https://libraries.io/npm).
+* **¿Quieres que tu proyecto sea usado como dependencia por otros proyectos?** Probablemente, la mejor opci&oacute;n sea usar la licencia m&aacute;s popular en tu comunidad. Por ejemplo, [MIT](https://choosealicense.com/licenses/mit/) es la licencia m&aacute;s popular para [npm libraries](https://libraries.io/search?platforms=NPM).
 * **¿Quieres que tu proyecto atraiga a grandes empresas?** Una gran empresa seguramente querr&aacute; una licencia de patente expresa por parte de todos los contribuyentes. En este caso, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) te tiene a ti (y a ellos) cubiertos.
 * **¿Quieres que tu proyecto atraiga a colaboradores los cuales no quieren que sus contribuciones sean usado en software de c&oacute;digo cerrado?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) o (si tampoco quieren contribuir a servicios de c&oacute;digo cerrado) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) Seria el m&aacute;s apropiado.
 
@@ -159,7 +159,7 @@ A largo plazo, tu equipo legal puede hacer m&aacute;s para ayudar a la empresa a
 
 * **Qu&eacute; liberar:** [¿(casi) todo?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si tu equipo legal entiende e invierte en la estrategia de c&oacute;digo abierto de su empresa, ser&aacute;n m&aacute;s capaces de ayudar en lugar de dificultar tus esfuerzos.
 
-* **Conformidad:** Incluso si tu empresa no libera ning&uacute;n proyecto de c&oacute;digo abierto, utiliza otro software de c&oacute;digo abierto. La [conciencia y el proceso](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program) puede prevenir dolores de cabeza, retrasos del producto, y demandas.
+* **Conformidad:** Incluso si tu empresa no libera ning&uacute;n proyecto de c&oacute;digo abierto, utiliza otro software de c&oacute;digo abierto. La [conciencia y el proceso](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) puede prevenir dolores de cabeza, retrasos del producto, y demandas.
 
 <aside markdown="1" class="pquote">
   Las organizaciones deben tener una estrategia de licencia y cumplimiento que se ajuste tanto a categor&iacute;as \["permisiva" y "copyleft"\]. Esto comienza con el mantenimiento de un registro de los t&eacute;rminos de licencia que se aplican al software de c&oacute;digo abierto que est&aacute; utilizando - incluidos subcomponentes y dependencias.

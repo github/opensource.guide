@@ -174,7 +174,7 @@ Jika Anda mencari orang lain untuk bergabung, mulailah dengan bertanya.
 
 Ketika Anda melihat kontributor baru melakukan kontribusi secara rutin, hargai pekerjaan mereka dengan menawarkan tanggung jawab yang lebih besar. Dokumentasikan bagaimana orang lain bisa menjadi seorang pemimpin.
 
-Doronglah orang lain untuk [berbagi kepemilikan proyek](../building-community/#berbagi-kepemilikan-dari-proyek-anda) dan hal itu bisa mengurangi beban pekerjaan Anda secara drastis, seperti yang ditemukan @lmccart pada proyeknya, [p5.js](https://github.com/processing/p5.js?files=1).
+Doronglah orang lain untuk [berbagi kepemilikan proyek](../building-community/#berbagi-kepemilikan-dari-proyek-anda) dan hal itu bisa mengurangi beban pekerjaan Anda secara drastis, seperti yang ditemukan @lmccart pada proyeknya, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
