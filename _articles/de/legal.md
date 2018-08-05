@@ -48,7 +48,7 @@ Wenn Sie Anderen die Nutzung, Verbreitung, Modifikation Ihres Projektes erlauben
 
 Sie haben Glück, denn Open-Source-Lizenzen sind heutzutage standardisiert und einfach zu nutzen. Sie können eine existierende direkt in ihr Projekt kopieren.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), und [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sind die populärsten Open-Source-Lizenzen, aber es gibt auch andere zur Auswahl. Sie finden deren Volltexte, sowie Anleitungen zur deren Nutzung auf [choosealicense.com](https://choosealicense.com/), sowie eine eine Gruppierung nach Lizenztypo auf [ifrOSS.org/lizenz-center](http://www.ifross.org/lizenz-center).
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), und [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sind die populärsten Open-Source-Lizenzen, aber es gibt auch andere zur Auswahl. Sie finden deren Volltexte, sowie Anleitungen zur deren Nutzung auf [choosealicense.com](https://choosealicense.com/), sowie eine Gruppierung nach Lizenztypo auf [ifrOSS.org/lizenz-center](http://www.ifross.org/lizenz-center).
 
 Wenn Sie ein neues Projekt auf GitHub anlesen, wird Ihnen [die Nutzung einer Lizenz vorgeschlagen](https://help.github.com/articles/open-source-licensing/).
 
@@ -120,7 +120,7 @@ Durch das Hinzufügen von "Papierkram", den einige für unnötig, schwer verstä
 
 Einige Situationen, in denen Sie eine zusätzliche Kontributionsvereinbarung für Ihr Projekt in Betracht ziehen sollten, sind z.B:
 
-* Ihre Anwälte wollen, dass alle Mitwirkenden ausdrücklich die Kontributionsbedingungen akzeptieren (_unterscheiben_, on- oder off-line), vielleicht weil sie der Meinung sind, dass die Open-Source-Lizenz selbst nicht ausreicht (obwohl sie ausreicht!). Wenn dies die einzige Sorge ist, sollte eine Kontributionsvereinbarung, die die Open-Source-Lizenz des Projekts bestätigt, ausreichen. Das [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) ist ein gutes Beispiel für eine leichtgewichtige, zusätzliche Kontributionsvereinbarung. Für manche Projekte kann ein [Developer Certificate of Origin](https://github.com/probot/dco) eine Alternative sein.
+* Ihre Anwälte wollen, dass alle Mitwirkenden ausdrücklich die Kontributionsbedingungen akzeptieren (_unterscheiben_, on- oder off-line), vielleicht weil sie der Meinung sind, dass die Open-Source-Lizenz selbst nicht ausreicht (obwohl sie ausreicht!). Wenn dies die einzige Sorge ist, sollte eine Kontributionsvereinbarung, die Open-Source-Lizenz des Projekts bestätigt, ausreichen. Das [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) ist ein gutes Beispiel für eine leichtgewichtige, zusätzliche Kontributionsvereinbarung. Für manche Projekte kann ein [Developer Certificate of Origin](https://github.com/probot/dco) eine Alternative sein.
 * Ihr Projekt verwendet eine Open-Source-Lizenz, die keine ausdrückliche Patenterteilung enthält (z.B. MIT), die Sie aber von allen Mitwirkenden benötigen. Von denen können einige für Unternehmen mit großen Patentportfolios arbeiten, die gegen Sie oder die anderen Mitwirkenden und Benutzer\*innen des Projekts verwendet werden könnten. Die [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf) ist eine häufig verwendete zusätzliche Kontributionsvereinbarung mit einer der Apache License 2.0 entsprechenden Patenterteilung.
 * Ihr Projekt steht unter einer Copyleft-Lizenz, aber Sie müssen auch eine proprietäre Version des Projekts verbreiten. Sie werden von allen Kontributor\*innen eine Rechteverwertungsvereinbarung einholen müssen, die Ihnen (aber nicht der Öffentlichkeit) eine permissive Lizenz gewährt. Das [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement) ist ein Beispiel für eine solche Vereinbarungen.
 * Sie sind der Meinung, dass Ihr Projekt im Laufe seiner Laufzeit seine Lizenz wechseln muss und möchten, dass die Mitwirkenden dieser Änderungen im Voraus zustimmen.
@@ -170,7 +170,7 @@ Längerfristig kann Ihre Rechtsabteilung mehr tun, um dem Unternehmen zu helfen,
 
   Organisationen müssen über eine Lizenz- und Compliance-Strategie verfügen, die sowohl in die Kategorien \["permissive" als auch "copyleft"\] passt, beginnend mit der Aufzeichnung der Lizenzbedingungen, die für die von Ihnen verwendete Open-Source-Software gelten - einschließlich Unterkomponenten und Dependencies.
 
-  _Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies._
+  _Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you're using — including subcomponents and dependencies._
 
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
