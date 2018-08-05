@@ -31,7 +31,7 @@ Während Sie Ihre Community aufbauen, überlegen Sie sich, wie jemand am Eingang
 Beginnen Sie mit der Dokumentation:
 
 * **Helfen Sie beim Einstieg in ihr Projekt.** [Eine freundliche README](../starting-a-project/#eine-readme-schreiben) und anschauliche Codebeispiele erleichtern allen, die auf Ihr Projekt stoßen, den Einstieg.
-* **Erklären Sie in klaren Worten, wie Leute beitragen sollen**, bspw. in [einer CONTRIBUTING-Datei](../starting-a-project/#writing-your-contributing-guidelines), und indem Sie die Issues stets aktuell halten.
+* **Erklären Sie in klaren Worten, wie Leute beitragen sollen**, bspw. in [einer CONTRIBUTING-Datei](../starting-a-project/#ihre-beistragsrichtlinien-aufschreiben), und indem Sie die Issues stets aktuell halten.
 
 [GitHubs 2017er Open-Source-Umfrage](http://opensourcesurvey.org/2017/) zeigte, dass unvollständige oder verwirrende Dokumentation das größte Problem für Open-Source-Anwender\*innen ist. Eine gute Dokumentation lädt dazu ein, mit Ihrem Projekt zu interagieren. Wenn jemand ein Issue oder einen Pull-Request erstellt, haben Sie die Möglichkeit, diese Person durch den Trichter zu bugsieren.
 
