@@ -8,7 +8,7 @@ toc:
   membuat-kode-etik: "Membuat kode etik"
   menentukan-bagaimana-anda-akan-menerapkan-kode-etik: "Menentukan bagaimana Anda akan menerapkan kode etik"
   menerapkan-kode-etik: "Menerapkan kode etik"
-  your-responsibilities-as-a-maintainer: "Tanggung jawab Anda sebagai pengelola"
+  tanggung-jawab-anda-sebagai-pengelola: "Tanggung jawab Anda sebagai pengelola"
 order: 8
 image: /assets/images/cards/coc.png
 related:
