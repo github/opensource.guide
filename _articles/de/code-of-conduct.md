@@ -125,6 +125,6 @@ Ein gemeldetes Verhalten, das _genau genommen nicht_ gegen den Verhaltenskodex v
 
 Letztendlich setzen Sie als Maintainer\*in die Standards für akzeptables Verhalten (durch). Sie haben die Fähigkeit, die Gemeinschaftswerte des Projekts zu gestalten, und die Teilnehmer\*innen erwarten, dass Sie diese Werte auf faire und ausgewogene Weise durchsetzen.
 
-## Encourage the behavior you want to see in the world 🌎
+## Fördern Sie das Verhalten, das Sie in der Welt sehen wollen 🌎
 
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+Wenn ein Projekt feindselig oder unwillkommen erscheint, und wenn auch nur durch das von anderen tolerierte Verhalten nur einer Person, riskieren Sie den Verlust vieler weiterer Mitwirkender. Es ist nicht immer einfach, einen Verhaltenskodex anzunehmen oder durchzusetzen, aber die Förderung einer einladenden Umgebung wird Ihrer Gemeinschaft helfen, zu wachsen.
