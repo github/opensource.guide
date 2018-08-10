@@ -8,6 +8,7 @@ toc:
   einen-verhaltenskodex-festlegen: "Einen Verhaltenskodex festlegen"
   entscheiden-wie-sie-ihren-verhaltenskodex-durchsetzen: "Entscheiden, wie Sie Ihren Verhaltenskodex durchsetzen."
   ergreifen-sie-geeignete-maßnahmen: "Ergreifen Sie geeignete Maßnahmen"
+  ihre-verantwortung-als-maintainerin: "Ihre Verantwortung als Maintainerin"
 order: 8
 image: /assets/images/cards/coc.png
 related:
@@ -114,15 +115,15 @@ Manchmal kann keine Lösung erreicht werden. Die gemeldete Person kann aggressiv
 
 Projektteilnehmer\*innen auszuschließen, sollte nicht auf die leichte Schulter genommen werden, da es eine permanente und unvereinbare Meinungsverschiedenheit darstellt. Sie sollten diese Maßnahmen nur ergreifen, wenn klar ist, dass eine Lösung nicht möglich ist.
 
-## Your responsibilities as a maintainer
+## Ihre Verantwortung als Maintainer\*in
 
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
+Ein Verhaltenskodex sollte nicht willkürlich durchgesetzt werden. Sie sind der oder die Vollstrecker\*in des Verhaltenskodex und es ist Ihre Verantwortung, diese Regeln auch zu befolgen.
 
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+Als Maintainer\*in legen Sie die Richtlinien für Ihre Community fest und setzen diese durch. Dies bedeutet, dass jeder Bericht über einen Verstoß gegen den Verhaltenskodex ernst genommen wird. Dem oder der Beschwerdeführer\*in ist eine gründliche und faire Prüfung geschuldet. Wenn Sie feststellen, dass das gemeldete Verhalten kein Verstoß ist, stellen Sie dies klar und erklären Sie, warum Sie nichts dagegen unternehmen werden. Deren Reaktion ist eine andere Entscheidung: das nur persönlich als problematisch empfundene Verhalten, tolerieren oder die Projekt-Community zu verlassen.
 
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+Ein gemeldetes Verhalten, das _genau genommen nicht_ gegen den Verhaltenskodex verstößt, kann dennoch auf ein Problem in Ihrer Gemeinde hinweisen. Sie sollten dieses potenzielle Problem untersuchen und entsprechend handeln. Dies kann die Überarbeitung Ihres Verhaltenskodex umfassen, um akzeptables Verhalten zu klären und/oder mit der Person zu sprechen, deren Verhalten gemeldet wurde. In diesem Falle stellen Sie klar, dass sie oder er vielleicht nicht konkret gegen den Verhaltenskodex verstoßen hat, aber den Rand des Akzeptablen erreicht haben, und andere Teilnehmer\*innen sich unwohl fühlen.
 
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
+Letztendlich setzen Sie als Maintainer\*in die Standards für akzeptables Verhalten (durch). Sie haben die Fähigkeit, die Gemeinschaftswerte des Projekts zu gestalten, und die Teilnehmer\*innen erwarten, dass Sie diese Werte auf faire und ausgewogene Weise durchsetzen.
 
 ## Encourage the behavior you want to see in the world 🌎
 
