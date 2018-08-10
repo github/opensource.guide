@@ -7,7 +7,7 @@ toc:
   warum-brauche-ich-einen-verhaltenskodex: "Warum brauche ich einen Verhaltenskodex?"
   einen-verhaltenskodex-festlegen: "Einen Verhaltenskodex festlegen"
   entscheiden-wie-sie-ihren-verhaltenskodex-durchsetzen: "Entscheiden, wie Sie Ihren Verhaltenskodex durchsetzen."
-  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
+  ergreifen-sie-geeignete-maßnahmen: "Ergreifen Sie geeignete Maßnahmen"
 order: 8
 image: /assets/images/cards/coc.png
 related:
@@ -71,44 +71,48 @@ Vergessen Sie nicht, dass jemand einen Verstoß über eine Person melden möchte
 
 Django's [Enforcement Manual](https://www.djangoproject.com/conduct/enforcement-manual/) dürfte für Sie eine gute Vorlage liefern, auch wenn Sie für ein kleineres Projekt vielleicht weniger umfassende Regeln benötigen.
 
-## Enforcing your code of conduct
+## Durchsetzung Ihres Verhaltenskodexes
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+Manchmal wird jemand trotz Ihrer Bemühungen etwas tun, das gegen diesen Kodex verstößt. Es gibt mehrere Möglichkeiten, negatives oder schädliches Verhalten zu bekämpfen, wenn es auftritt.
 
-### Gather information about the situation
+### Sammeln Sie Informationen über die Situation.
 
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+Nehmen Sie jede Stimme aus der Community so wichtig wie Ihre eigene. Wenn Sie einen Bericht erhalten, dass jemand gegen den Verhaltenskodex verstoßen hat, nehmen Sie ihn oder sie ernst und untersuchen Sie die Angelegenheit, auch wenn sie nicht Ihren eigenen Erfahrungen mit dieser Person entspricht. Damit signalisieren Sie Ihrer Gemeinde, dass Sie ihre Perspektive schätzen und ihrem Urteilsvermögen vertrauen.
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+Das betroffene Mitglied der Gemeinschaft kann ein\*e Wiederholungstäter\*in sein, der oder die anderen immer wieder Ärger bereitet, oder es hat nur einmal etwas gesagt oder getan. Beides kann je nach Kontext Anlass zum Handeln sein.
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+Bevor Sie antworten, geben Sie sich Zeit, um zu verstehen, was passiert ist. Lesen Sie die vergangenen Kommentare und Gespräche der Person durch, um besser zu verstehen, wer es ist und warum sie oder er so gehandelt haben könnten. Versuchen Sie, andere Perspektiven als Ihre eigenen über diese Person und ihr Verhalten zu sammeln.
 
 <aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  
+  Lassen Sie sich nicht in einen Streit hineinziehen. Lassen Sie sich nicht von Jemandes Verhalten von der Abwicklung einer Sache ablenken. Konzentrieren Sie sich auf das, was Sie brauchen.
+    
+  _Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need._
+  
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
 </aside>
 
-### Take appropriate action
+### Ergreifen Sie geeignete Maßnahmen
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+Nachdem Sie genügend Informationen gesammelt und verstanden haben, müssen Sie entscheiden, was zu tun ist. Denken Sie bei Ihren nächsten Schritten daran, dass es Ihr Ziel als Moderator\*in ist, eine sichere, respektvolle und kollaborative Umgebung zu fördern. Überlegen Sie nicht nur, wie Sie mit dieser Situation umgehen, sondern auch, wie sich Ihre Reaktion auf das Verhalten und die Erwartungen Ihrer Community auswirken könnte.
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+Wenn jemand einen Verstoß gegen einen Verhaltenskodex meldet, sind Sie gefragt, nicht die Community. Manchmal enthüllt die oder der Meldende Informationen, die eine große Gefahr für Karriere, Ruf oder körperliche Unversehrtheit darstellen. Sie oder ihn zu zwingen, den Gemeldeten zu konfrontieren, könnte eine kompromittierende Position erzeugen. Sie sollten die direkte Kommunikation mit der gemeldeten Person führen, es sei denn, die oder der Meldende verlangt ausdrücklich etwas anderes.
 
-There are a few ways you might respond to a code of conduct violation:
+Es gibt einige Möglichkeiten, wie Sie auf einen Verstoß gegen den Verhaltenskodex reagieren können:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **Geben Sie der betreffenden Person eine öffentliche Warnung** und erklären Sie, wie sich sein oder ihr Verhalten negativ auf andere ausgewirkt hat. Nutzen Sie dafür vorzugsweise den Kommunikationskanal, auf dem das schädliche Verhalten aufgetreten ist. Öffentliche Kommunikation zeigt dem Rest der Gemeinschaft, dass Sie den Verhaltenskodex ernst nehmen. Seien Sie freundlich, aber bestimmt.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* **Privat auf die betreffende Person zugehen**, um zu erklären, wie sich ihr oder sein Verhalten negativ auf andere ausgewirkt hat. Sie können einen privaten Kommunikationskanal verwenden, wenn es sich um sensible persönliche Daten handelt. Wenn Sie mit jemandem privat kommunizieren, setzen Sie die meldende Person darüber in Kenntnis. Aber setzen Sie sie bei E-Mails nicht ohne Erlaubnis in CC.
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+Manchmal kann keine Lösung erreicht werden. Die gemeldete Person kann aggressiv oder feindselig werden, wenn er oder sie damit konfrontiert wird oder ihr Verhalten nicht ändert. In dieser Situation sollten Sie vielleicht stärkere Maßnahmen in Betracht ziehen. Zum Beispiel:
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+* **zeitweise Suspendierung** in Form eines vorübergehenden Verbots, sich an den Aspekte des Projekts zu beteiligen.
 
-* **Permanently ban** the person from the project
+* Die Person **dauerhaft aus dem Projekt verbannen**.
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+Projektteilnehmer\*innen auszuschließen, sollte nicht auf die leichte Schulter genommen werden, da es eine permanente und unvereinbare Meinungsverschiedenheit darstellt. Sie sollten diese Maßnahmen nur ergreifen, wenn klar ist, dass eine Lösung nicht möglich ist.
 
 ## Your responsibilities as a maintainer
 
