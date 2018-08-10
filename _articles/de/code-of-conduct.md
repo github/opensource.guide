@@ -115,7 +115,7 @@ Manchmal kann keine Lösung erreicht werden. Die gemeldete Person kann aggressiv
 
 Projektteilnehmer\*innen auszuschließen, sollte nicht auf die leichte Schulter genommen werden, da es eine permanente und unvereinbare Meinungsverschiedenheit darstellt. Sie sollten diese Maßnahmen nur ergreifen, wenn klar ist, dass eine Lösung nicht möglich ist.
 
-## Ihre Verantwortung als Maintainer\*in
+## Ihre Verantwortung als Maintainerin
 
 Ein Verhaltenskodex sollte nicht willkürlich durchgesetzt werden. Sie sind der oder die Vollstrecker\*in des Verhaltenskodex und es ist Ihre Verantwortung, diese Regeln auch zu befolgen.
 
