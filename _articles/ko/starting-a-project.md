@@ -215,7 +215,7 @@ README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 볼 수 �
 
 행동강령은 참여자가 _어떻게_ 행동 할 것으로 기대하는지 의사 소통하는 것 외에도, 이러한 기대 사항이 적용되는 대상, 적용시기, 위반이 발생할 경우 수행 할 작업을 설명하는 경향이 있습니다.
 
-오픈소스 라이선스와 마찬가지로 행동강령에 대한 새로운 기준도 있으므로, 사용자가 직접 작성할 필요는 없습니다. [Contributor Covenant](https://www.contributor-covenant.org/)는 Kubernetes, Rails 및 Swift를 포함하여 [40,000개 이상의 오픈소스 프로젝트](https://www.contributor-covenant.org/adopters/)에서 사용되는 행동 강령입니다. 어떤 텍스트를 사용하든 필요에 따라 행동강령을 시행 할 준비가 되어 있어야합니다.
+오픈소스 라이선스와 마찬가지로 행동강령에 대한 새로운 기준도 있으므로, 사용자가 직접 작성할 필요는 없습니다. [Contributor Covenant](https://www.contributor-covenant.org/)는 Kubernetes, Rails 및 Swift를 포함하여 [40,000개 이상의 오픈소스 프로젝트](https://www.contributor-covenant.org/adopters)에서 사용되는 행동 강령입니다. 어떤 텍스트를 사용하든 필요에 따라 행동강령을 시행 할 준비가 되어 있어야합니다.
 
 텍스트를 저장소의 CODE_OF_CONDUCT 파일에 직접 붙여 넣으십시오. 프로젝트의 루트 디렉토리에 파일을 보관하여 찾기 쉽도록 하고, README에서 링크를 연결하십시오.
 
