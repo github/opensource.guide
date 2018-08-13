@@ -1,7 +1,7 @@
 ---
 lang: de
 title: Wie zu Open Source beitragen?
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+description: Möchten Sie zu Open Source beitragen? Hier ein Leitfaden dafür für Einsteiger und Veteraninnen.
 class: contribute
 toc:
   why-contribute-to-open-source: "Why contribute to open source?"
