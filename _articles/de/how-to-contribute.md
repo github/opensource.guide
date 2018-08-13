@@ -4,7 +4,7 @@ title: Wie zu Open Source beitragen?
 description: Möchten Sie zu Open Source beitragen? Hier ein Leitfaden dafür für Einsteiger und Veteraninnen.
 class: contribute
 toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
+  warum-eigentlich-zu-open-source-projekten-beitragen: "Warum eigentlich zu Open-Source-Projekten beitragen?"
   what-it-means-to-contribute: "What it means to contribute"
   orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
   finding-a-project-to-contribute-to: "Finding a project to contribute to"
@@ -17,43 +17,47 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## Warum eigentlich zu Open-Source-Projekten beitragen?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  
+  An \[freenode\] zu arbeiten, brachte mir die Fähigkeiten ein, die ich später in meinem Universitätsstudium und meinen Beruf nutzte. Ich denke, an Open-Source zu arbeiten, half mir selbst ebenso sehr wie dem Projekt.
+  
+  _Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!_
+  
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+Zu Open Source beizutragen, kann ein lohnender Weg sein, um nahezu alle erdenklichen Fertigkeiten zu erlernen, zu lehren und Erfahrungen zu sammeln.
 
-Why do people contribute to open source? Plenty of reasons!
+Warum tragen Menschen zu Open Source bei? Es gibt viele Gründe!
 
-### Improve existing skills
+### Bestehende Fähigkeiten verbessern
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Ob Programmierung, User Interface Design, Grafikdesign, Schreiben oder Organisieren: Wenn Sie auf der Suche nach Praxiserfahrung sind, werden Sie Aufgaben für sich in einem Open-Source-Projekt finden.
 
-### Meet people who are interested in similar things
+### Treffen Sie Menschen, die an ähnlichen Dingen interessiert sind
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+Open-Source-Projekte mit warmherzigen, einladenden Communities schaffen langfristige Hobbies für viele Leute. Lebenslange Freundschaften können durch ihre Teilnahme an Open Source entstehen, sei es bei Konferenzen oder bei nächtlichen Online-Chats über Lamacuns.
 
-### Find mentors and teach others
+### Mentoren finden und unterrichte Andere
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+Wenn Sie mit Anderen an einem gemeinsamen Projekt arbeiten, müssen Sie erklären, wie Sie dabei vorgehen und gleichzeitig andere Menschen um Hilfe bitten. Das Lernen und Lehren kann eine erfüllende Tätigkeit für alle Beteiligten sein.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### Öffentliche Ergebnisse zeugen von Ihrer Arbeit und fördern Ihren Ruf (und Ihre Karriere)
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+Per Definition ist Ihre gesamte Open-Source-Arbeit öffentlich. Sie erstellen automatisch ein Portfolio, sodass Sie überall vorzeigen können, was Sie leisten können.
 
-### Learn people skills
+### Erlernen von Sozialkompetenzen
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+Softwareentwicklung ist eine soziale Tätigkeit, und Open-Source-Projekte bieten Führungserfahrungen, denn es müssen z.B. Konflikte gelöst werden, Teams organisiert und Aufgaben priorisiert.
 
-### It's empowering to be able to make changes, even small ones
+### Es ist ermutigend, auch kleine Änderungen vornehmen zu können.
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+Sie müssen nicht lebenslang an Open Source mithelfen. Haben Sie schon einmal einen Tippfehler auf einer Website gesehen und sich gewünscht, dass ihn jemand beheben würde? Bei einem Open-Source-Projekt können Sie genau das tun. Open Source hilft Leuten, selbst in die Hand zu nehmen, wie sie die Welt erleben, und das ist an sich schon befriedigend.
 
 ## What it means to contribute
 
