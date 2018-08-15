@@ -22,7 +22,7 @@ related:
 
 ### 사람들이 환영받는다고 느끼게하기
 
-프로젝트 커뮤니티에 대해 생각하는 한 가지 방법은 @MikeMcQuaid는 [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel)라고 언급했습니다:
+프로젝트 커뮤니티에 대해 생각하는 한 가지 방법은 @MikeMcQuaid는 [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/)라고 언급했습니다:
 
 ![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
@@ -253,7 +253,7 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.  
+  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_OSS 생성하기_](http://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
