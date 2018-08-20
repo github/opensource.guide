@@ -6,7 +6,7 @@ class: contribute
 toc:
   warum-eigentlich-zu-open-source-projekten-beitragen: "Warum eigentlich zu Open-Source-Projekten beitragen?"
   was-einen-beitrag-leisten-bedeutet: "Was "einen Beitrag leisten" bedeutet"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
+  sich-in-einem-neuen-projekt-orientieren: "Sich in einem neuen Projekt orientieren"
   finding-a-project-to-contribute-to: "Finding a project to contribute to"
   how-to-submit-a-contribution: "How to submit a contribution"
   what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
@@ -165,52 +165,56 @@ Zum Beispiel:
 
 Auch wenn Sie ein\*e Software-Entwickler\*in sind, kann Ihnen die Arbeit an einem Dokumentationsprojekt den Einstieg in Open Source erleichtern. Es ist oft weniger einschüchternd, an Projekten zu arbeiten, die keinen Code beinhalten, und der Prozess der Zusammenarbeit wird Ihr Vertrauen und Ihre Erfahrung stärken.
 
-## Orienting yourself to a new project
+## Sich in einem neuen Projekt orientieren
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-  If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+  
+  Wenn Sie sich einen Issue Tracker anschauen und er Dinge verwirrend erscheint, dann vermutlich nicht nur für Sie. Diese Tools erfordern viel implizites Wissen. Sie können es von anderen Leuten erlernen, und Sie können ihnen Fragen stellen.
+  
+  _If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions._
+  
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
-For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
+Für alles über eine Tippfehlerkorrektur hinaus ist ein Beitrag zu Open Source, als würde man sich zu einer Gruppe von Fremden auf einer Party gesellen. Wenn Sie anfangen, über Lamas zu reden, während die Anderen tief in einer Diskussion über Goldfische stecken, werden diese Sie wahrscheinlich ein wenig seltsam ansehen.
 
-Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
+Bevor Sie blindlings mit Ihren eigenen Vorschlägen daherkommen, lernen Sie zunächst, die Situation zu einzuschätzen. Dies erhöht die Chancen, dass später Ihre Ideen wahrgenommen und gehört werden.
 
-### Anatomy of an open source project
+### Anatomie eines Open-Source-Projekts
 
-Every open source community is different.
+Jede Open-Source-Community ist anders.
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+Jahrelanges Arbeiten an einem Open-Source-Projekt bedeutet, dass Sie dieses eine kennengelernt haben. Wechseln Sie zu einem anderen Projekt, werden Sie feststellen, dass das Vokabular, die Normen und die Kommunikationsstile völlig unterschiedlich sein können.
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+Allerdings folgen viele Open-Source-Projekte einer ähnlichen Organisationsstruktur. Das Verständnis der verschiedenen Rollen in der Community und des Gesamtprozesses wird Ihnen helfen, sich schnell auf jedes neue Projekt einzustellen.
 
-A typical open source project has the following types of people:
+Ein typisches Open-Source-Projekt beinhaltet die folgenden Typen von Personen:
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project.
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
+* **Autor:** Die Person/en oder Organisation, die das Projekt erstellt hat/haben
+* **Owners:** Die Person/en, die administrativen Zugang zu der Organisation oder dem Repository hat/haben (nicht immer derselbe wie der/die ursprüngliche Autor*in).
+* **Maintainers:** Mitwirkende, die für die Umsetzung der Vision verantwortlich sind, und für die organisatorischen Aspekte des Projekts. (Sie können auch Autoren oder Eigentümerinnen des Projekts sein.)
+* **Contributors:** Alle, die etwas zum Projekt beigetragen haben.
+* **Community-Mitglieder:** Personen, die das Projekt nutzen. Sie können in Diskussionen aktiv sein oder ihre Meinung über die Richtung des Projekts äußern.
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+Größere Projekte können auch Unterkomitees oder Arbeitsgruppen haben, die sich auf verschiedene Aufgaben konzentrieren, wie z.B. Tooling, Triage, Community-Moderation und Eventorganisation. Suchen Sie auf der Website eines Projekts nach einer "Team"-Seite oder im Repository für "Governance"-Dokumentation, um diese Informationen zu finden.
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+Ein Projekt hat auch eine Dokumentation. Diese Dateien werden in der Regel im Hauptverzeichnis eines Repositories aufgelistet.
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
-* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+* **LICENSE:** Per Definition muss jedes Open-Source-Projekt eine [Open-Source-Lizenz](https://choosealicense.com) haben. Wenn das Projekt keine Lizenz hat, ist es nicht Open Source.
+* **README:** Die README ist die Bedienungsanleitung, die neue Community-Mitglieder im Projekt willkommen heißt. Sie erklärt, warum das Projekt nützlich ist, und wie man beginnen kann, es zu nutzen.
+* **CONTRIBUTING:** Während READMEs den Menschen helfen, das Ergebnis des Projektes _zu nutzen_, hilft die Kontributoren-Dokumentation dabei, zum Projekt beizutragen. Sie erklärt, welche Arten von Beiträgen benötigt werden und wie der Prozess funktioniert. Obwohl nicht jedes Projekt eine CONTRIBUTING-Datei hat, signalisiert ihre Präsenz, dass dieses Projekt offen für Beiträge ist.
+* **CODE_OF_CONDUCT:** Der Verhaltenskodex legt die Grundregeln für das Verhalten der Teilnehmer\*innen fest und trägt dazu bei, ein freundliches und einladendes Umfeld zu schaffen. Obwohl nicht jedes Projekt eine CODE_OF_CONDUCT-Datei hat, signalisiert ihre Präsenz, dass dieses Projekt offen für Beiträge ist.
+* **Other documentation:** Es kann zusätzliche Dokumentation wie Tutorials, Walkthroughs oder Governance-Richtlinien geben, besonders bei größeren Projekten.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+Schließlich verwenden Open-Source-Projekte die folgenden Werkzeuge, um Diskussionen zu organisieren. Wenn Sie die Archive durchlesen, erhalten Sie ein gutes Bild davon, wie die Gemeinschaft denkt und arbeitet.
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+* **Issue Tracker:** Wo Leute über Themen diskutieren, die im Zusammenhang mit dem Projekt stehen.
+* **Pull Requests:** Wo Leute anstehende Änderungen diskutieren und überprüfen.
+* **Diskussionsforen oder Mailinglisten:** Einige Projekte können diese Kanäle für Konversationsthemen nutzen (z.B. _"Wie kann ich..."_ oder _"Was denkt ihr über..."_ anstelle von Fehlerberichten oder Feature Requests). Andere verwenden den Issue Tracker für alle Gespräche.
+* **Synchroner Chat-Kanal:** Einige Projekte verwenden Chat-Kanäle (wie z.B. Slack oder IRC) für gelegentliche Gespräche, Zusammenarbeit und schnellen Austausch.
 
 ## Finding a project to contribute to
 
