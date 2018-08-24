@@ -7,7 +7,7 @@ toc:
   warum-eigentlich-zu-open-source-projekten-beitragen: "Warum eigentlich zu Open-Source-Projekten beitragen?"
   was-einen-beitrag-leisten-bedeutet: "Was "einen Beitrag leisten" bedeutet"
   sich-in-einem-neuen-projekt-orientieren: "Sich in einem neuen Projekt orientieren"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
+  so-finden-sie-ein-projekt-zu-dem-sie-beitragen-können: "So finden Sie ein Projekt, zu dem Sie beitragen können"
   how-to-submit-a-contribution: "How to submit a contribution"
   what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 order: 1
@@ -216,25 +216,27 @@ Schließlich verwenden Open-Source-Projekte die folgenden Werkzeuge, um Diskussi
 * **Diskussionsforen oder Mailinglisten:** Einige Projekte können diese Kanäle für Konversationsthemen nutzen (z.B. _"Wie kann ich..."_ oder _"Was denkt ihr über..."_ anstelle von Fehlerberichten oder Feature Requests). Andere verwenden den Issue Tracker für alle Gespräche.
 * **Synchroner Chat-Kanal:** Einige Projekte verwenden Chat-Kanäle (wie z.B. Slack oder IRC) für gelegentliche Gespräche, Zusammenarbeit und schnellen Austausch.
 
-## Finding a project to contribute to
+## So finden Sie ein Projekt, zu dem Sie beitragen können
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+Sie haben gelernt, wie Open-Source-Projekte funktionieren. Jetzt ist es an der Zeit, ein Projekt zum Beitragen zu finden!
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
+Wenn Sie noch nie zu Open Source beigetragen haben, nehmen Sie einen Ratschlag von US-Präsident John F. Kennedy an, der einmal sagte: _"Fragen Sie nicht, was Ihr Land für Sie tun kann - fragen Sie, was Sie für Ihr Land tun können".
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+Zu Open Source können Sie auf allen möglichen Ebenen beitragen, in allen möglichen Projekten. Sie müssen nicht darüber nachdenken, was genau Ihr erster Beitrag sein wird oder wie er aussehen wird.
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+Denken Sie stattdessen zunächst über die Projekte nach, die Sie bereits verwenden oder verwenden möchten. Nach dieser Logik könnten dies die Projekte werden, zu denen Sie aktiv beitragen werden.
 
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+Innerhalb dieser Projekte, wann immer Sie sich denken, dass etwas besser oder anders sein könnte, handeln Sie nach Ihrem Instinkt.
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+Open Source ist kein exklusiver Club, sondern besteht auf Leuten wie Ihnen gemacht. "Open Source" ist nur ein schicker Begriff, um die Probleme der Welt als behebbar zu begreifen.
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+Sie können eine README überfliegen und einen defekten Link oder einen Tippfehler finden. Oder Sie sind ein\*e neue\*r Benutzer\*in und haben bemerkt, dass etwas kaputt ist, oder ein Problem, das Ihrer Meinung nach wirklich dokumentiert sein sollte. Anstatt es zu ignorieren und weiterzuziehen oder jemand anderen zu bitten, es zu reparieren, vielleicht können Sie selbst helfen, indem Sie mitmachen. Das ist des Pudels Kern bei Open Source!
 
+> [28% der beiläufigen Beiträge](https://www.igor.pro.br/publica/papers/saner2016.pdf) zu Open Source betreffen die Dokumentation (z.B. eine Korrektur der Rechtschreibung oder Formatierung, oder das Schreiben einer Übersetzung).
+>
 > [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
-You can also use one of the following resources to help you discover and contribute to new projects:
+Mittels einer der folgenden Ressourcen können Sie neue Projekte zum Beitragen entdecken:
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
@@ -245,155 +247,231 @@ You can also use one of the following resources to help you discover and contrib
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
-### A checklist before you contribute
+### Eine Checkliste, bevor Sie einen Beitrag leisten
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+Wenn Sie ein Projekt gefunden haben, zu dem Sie beitragen möchten, prüfen Sie kurz, ob das Projekt Ihren Beitrag wahrscheinlich annehmen wird, oder nicht. Sonst wird Ihre harte Arbeit vielleicht nie fruchten.
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+Hier ist eine praktische Checkliste, um zu beurteilen, ob ein Projekt gut für neue Mitwirkende ist.
 
-**Meets the definition of open source**
+**Erfüllt die Definition von Open Source**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+  
+  Hat es eine Lizenz? In der Regel finden Sie diese in einer Datei namens LICENSE im Hauptordner.
+  
+  _Does it have a license? Usually, this is a file called LICENSE in the root of the repository._
+  
   </label>
 </div>
 
-**Project actively accepts contributions**
+**Das Projekt nimmt aktiv Beiträge entgegen**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+Sehen Sie sich die Commit-Aktivität auf dem Master-Branch an. Auf GitHub können Sie diese Informationen auf der Repository-Hauptsite sehen.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
+  
+  Wann gab es den letzten Commit?
+  
+  _When was the latest commit?_
+  
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
+  
+  Wie viele Mitwirkende hat das Projekt?
+  
+  _How many contributors does the project have?_
+  
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+  
+  Wie oft engagieren sich Menschen? (Auf GitHub finden Sie dies, indem Sie in der oberen Leiste auf "Commits" klicken.)
+  
+  _How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)_
+  
   </label>
 </div>
 
-Next, look at the project's issues.
+Schauen Sie sich als nächstes die Issues des Projekts an.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+    
+    Wieviele Issues gibt es?
+    
+    _How many open issues are there?_
+    
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
+    
+    Reagieren die Maintainer\*innen schnell auf neu erstellte Issues?
+    
+    _Do maintainers respond quickly to issues when they are opened?_
+    
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+    
+    Werden Issues aktiv diskutiert?
+    
+    _Is there active discussion on the issues?_
+    
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+    
+    Sind die Issues aktuell?
+    
+    _Are the issues recent?_
+    
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+    
+    Werden Issues  auch wieder geschlossen? (Klicken Sie bei GitHub auf der Seite "Issues" auf "closed", um geschlossene Issues zu sehen.)
+    
+    _Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)_
+    
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+Führen Sie nun die selben Schritte für die Pull-Requests des Projekts durch.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+    
+    Wie viele Pull Requests gibt es?
+    
+    _How many open pull requests are there?_
+    
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+  
+    Reagieren die Maintainer\*innen schnell auf neu erstellte Pull Request?
+    
+    _Do maintainers respond quickly to pull requests when they are opened?_
+    
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+  
+    Werden Pull Requests aktiv diskutiert?
+  
+    _Is there active discussion on the pull requests?_
+    
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+    
+    Sind die Pull Requests aktuell?
+    
+    _Are the pull requests recent?_
+    
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+    
+    Wie kürzlich wurden Pull-Requests ge-merge-t? (Klicken Sie bei GitHub auf der Seite Pull-Requests auf "closed", um geschlossene PRs zu sehen).
+    
+    _How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)_
+    
   </label>
 </div>
 
-**Project is welcoming**
+**Das Projekt ist einladend**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+Ein Projekt, das freundlich und einladend ist, signalisiert, dass es für neue Mitwirkende offen sein wird.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
+    
+    Antworten die Maintainer\*innen auf eine hilfsbereite Art und Weise auf Issues?
+    
+    _Do the maintainers respond helpfully to questions in issues?_
+    
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
+    
+    Gehen Leute in den Issues freundlich miteinander um, und im Diskussionsforum oder Chat (z.B. IRC oder Slack)?
+    
+    _Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?_
+    
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
+    
+    Werden Pull-Requests begutachtet?
+    
+    _Do pull requests get reviewed?_
+    
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
+    
+    Danken die Maintainer\*innen den Beitragenden?
+    
+    _Do maintainers thank people for their contributions?_
+    
   </label>
 </div>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+  
+  Wann immer Sie einen langen Diskussionsbeitrag sehen, überprüfen Sie die Antworten der Core-Entwickler, die spät in die Diskussion einsteigen. Fassen sie konstruktiv zusammen und unternehmen Schritte, um die Diskussion zu einer Entscheidung zu führen, und bleiben sie dabei höflich? Wenn du viele Flame Wars siehst, zeigt dies an, dass Energie im Streit verschwendet wird, anstatt in die Entwicklung gesteckt zu werden.
+
+  _Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development._
+  
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
