@@ -1,0 +1,31 @@
+en:
+  locale_name: 日本語
+  nav:
+    about: このサイトについて
+    contribute: 貢献する
+  index:
+    lead: オープンソーススフとウェアはあなたのような人々によって作られています。プロジェクトを立ち上げて大きくしていく方法を学びましょう。
+    opensourcefriday: 今日は金曜日です！少しの時間を、あなたが使っていて愛着を持っているソフトウェアへの貢献に使いましょう。
+  article:
+    table_of_contents: 目次
+    back_to_all_guides: すべてのガイドに戻る
+    related_guides: 関連するガイド
+  footer:
+    contribute:
+      heading: 貢献する
+      description: 提案を行いたいですか？このコンテンツはオープンソースです。改善の手助けをして下さい。
+      button: 貢献する
+    subscribe:
+      heading: 情報を受け取る
+      description: GitHubの最新のオープンソースのコツや資料を受け取りましょう。
+      label: Emailアドレス
+      button: 購読する
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[github] と [friends] による [love] のこもった [code]"
+      # Label for code octicon
+      code_label: コード
+      # Label for love octicon
+      love_label: 愛
+      # Label for the contributors link
+      friends_label: 友達
