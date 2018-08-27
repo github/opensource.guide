@@ -22,7 +22,7 @@ Sebuah komunitas yang ramah merupakan investasi pada masa depan dan reputasi pro
 
 ### Buatlah agar orang-orang merasa diterima
 
-Satu cara untuk memikirkan komunitas proyek Anda adalah melalui apa yang disebut @MikeMcQuaid sebagai  [saluran kontributor](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
+Satu cara untuk memikirkan komunitas proyek Anda adalah melalui apa yang disebut @MikeMcQuaid sebagai  [saluran kontributor](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
 
 ![contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 

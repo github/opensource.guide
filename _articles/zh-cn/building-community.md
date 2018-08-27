@@ -22,7 +22,7 @@ related:
 
 ### 让大家感到受欢迎
 
-可以通过被@MikeMcQuaid称之为[贡献者漏斗](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel)的方法思考项目的社区。
+可以通过被@MikeMcQuaid称之为[贡献者漏斗](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/)的方法思考项目的社区。
 
 ![contributor funnel](https://opensource.guide/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 

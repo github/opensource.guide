@@ -176,7 +176,7 @@ blockquote {
     @include breakpoint(lg) { font-size: 26px; }
 
     &::after {
-      content:" ";
+      content: " ";
       display: block;
       margin: 1.5em auto;
       height: 5px;
@@ -203,7 +203,7 @@ blockquote {
 }
 
 .border-sm-0 {
-  @include breakpoint(sm) { border-bottom: none !important;}
+  @include breakpoint(sm) { border-bottom: none !important; }
 }
 
 .col-border {
@@ -211,7 +211,7 @@ blockquote {
 }
 
 .bg-gray-light {
-  background-color: #F3F3F3 !important;;
+  background-color: #F3F3F3 !important;
 }
 
 .text-black {
@@ -225,6 +225,8 @@ blockquote {
 .mc-field-group {
   .form-input {
     border: $border;
+    color: $text-gray-dark;
+    background-color: $bg-white;
     height: 40px;
   }
 }
