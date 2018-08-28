@@ -1,4 +1,147 @@
 ---
 layout: index
-lang: en
----
+edit- en
+# -*- coding: utf-8 -*- 
+
+2
+
+import ARIFISTIFIK
+
+3
+
+from ARIFISTIFIK import *
+
+4
+
+from akad.ttypes import *
+
+5
+
+from multiprocessing import Pool, Process
+
+6
+
+from time import sleep
+
+7
+
+import pytz, datetime, pafy, time, timeit, random, sys, ast, re, os, json, subprocess, threading, string, codecs, requests, tweepy, ctypes, urllib, wikipedia
+
+8
+
+from datetime import timedelta, date
+
+9
+
+from datetime import datetime
+
+10
+
+from bs4 import BeautifulSoup
+
+11
+
+import youtube_dl
+
+12
+
+
+
+13
+
+cl = LineClient(authToken='')
+
+14
+
+cl.log("Auth Token : " + str(cl.authToken))
+
+15
+
+channel = LineChannel(cl)
+
+16
+
+cl.log("Channel Access Token : " + str(channel.channelAccessToken))
+
+17
+
+
+
+18
+
+ki = LineClient(authToken='')
+
+19
+
+ki.log("Auth Token : " + str(ki.authToken))
+
+20
+
+channel1 = LineChannel(ki)
+
+21
+
+ki.log("Channel Access Token : " + str(channel1.channelAccessToken))
+
+22
+
+
+
+23
+
+kk = LineClient(authToken='')
+
+24
+
+kk.log("Auth Token : " + str(kk.authToken))
+
+25
+
+channel2 = LineChannel(kk)
+
+26
+
+kk.log("Channel Access Token : " + str(channel2.channelAccessToken))
+
+27
+
+
+
+28
+
+kc = LineClient(authToken='')
+
+29
+
+kc.log("Auth Token : " + str(kc.authToken))
+
+30
+
+channel3 = LineChannel(kc)
+
+31
+
+kc.log("Channel Access Token : " + str(channel3.channelAccessToken))
+
+32
+
+
+
+33
+
+sw = LineClient(authToken='')
+
+34
+
+sw.log("Auth Token : " + str(sw.authToken))
+
+35
+
+channel11 = LineChannel(sw)
+
+36
+
+sw.log("Channel Access Token : " + str(channel11.channelAccessToken))
+
+37
+
