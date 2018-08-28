@@ -55,25 +55,25 @@ related:
 
 あなたは何もオープンソースに生涯に渡って常に参加し続ける必要があるわけではありません。ウェブサイトでタイポを見つけて、直してほしいと思ったことはありませんか？オープンソースプロジェクトでは、あなたがそれをできるのです。オープンソースによって、人々は人生や世界をどう経験するかが自分自身のものだと感じられることを助けてくれます。そしてその事自体が大きな喜びとなるのです。
 
-## What it means to contribute
+## 貢献するということが意味するもの
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+もしあなたがオープンソースコントリビューターになりたてなのであれば、恐怖を感じるようなものかもしれません。どのようにして正しいプロジェクトを見つけるのでしょう？もしコーディングの仕方を知らないとしたらどうでしょう？もし何かが間違ってしまったらどうしましょう？
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+心配ありません！オープンソースプロジェクトに関わるにはあらゆる方法があります。そして、少しのコツがあればあなたの経験を最大限活かす事ができるでしょう。
 
-### You don't have to contribute code
+### かならずしもコードを書く必要はありません
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+オープンソースへの貢献についてのよくある勘違いとしては、あなたはコードを書く必要があるというものです。実際、それはしばしばプロジェクトの中で最も[無視されるか見落とされている部分](https://github.com/blog/2195-the-shape-of-open-source)です。この種の貢献を行うことによってプロジェクトに対して _非常に大きな_ 助けとなります。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+  私はCocoaPodsでの仕事で有名になってきましたが、多くの人は私がCocoaPods自体に対する仕事をほとんどしていないということを知らないのです。このプロジェクトでの私の時間はほとんどがドキュメントを書いたり、ブランディングのしごとをすることに費やされているのです。
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+たとえコードを書くことが好きであったとしても、他の種類の貢献はプロジェクトに関わり、他のコミュニティメンバーに会う良いやり方です。このような関係を作ることはそのプロジェクトの他の部分に関わる人と仕事をする機会を与えてくれます。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
