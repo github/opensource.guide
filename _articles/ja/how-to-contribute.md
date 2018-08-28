@@ -1,15 +1,15 @@
 ---
-lang: en
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+lang: ja
+title: オープンソースに貢献する方法
+description: オープンソースに貢献したいですか？オープンソースへの貢献のためのガイドです。初めての人だけでなくベテランも対象です。
 class: contribute
 toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
+  why-contribute-to-open-source: "オープンソースに貢献する理由は？"
+  what-it-means-to-contribute: "貢献するということが意味するもの"
+  orienting-yourself-to-a-new-project: "新しいプロジェクトに順応しよう"
+  finding-a-project-to-contribute-to: "貢献するプロジェクトを見つけよう"
+  how-to-submit-a-contribution: "貢献を提出する方法"
+  what-happens-after-you-submit-a-contribution: "貢献を提出した後に起こること"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -17,43 +17,43 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## オープンソースに貢献する理由は？
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  \[freenode\]で働くことで、その後の大学での勉強や実際の仕事をする上で役に立つたくさんのスキルを身につけることができました。オープンソースプロジェクトに貢献することは、プロジェクトを前進させると共に私自身への助けにもなりました！
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+オープンソースに貢献することは、あなたが思い描くどんなスキルに対しても、学習し、教え、経験を積むためのやりがいのあるやり方です。
 
-Why do people contribute to open source? Plenty of reasons!
+なぜ人々はオープンソースに貢献するのでしょう？理由は様々です！
 
-### Improve existing skills
+### 既に持っているスキルを改善する
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+あなたが練習したいと思っていることが、コーディングであれ、UIデザインやグラフィックデザイン、文章を書くこと、組織を作ることであれ、オープンソースプロジェクトにはあなたのためのタスクがあります。
 
-### Meet people who are interested in similar things
+### 似たようなことに興味を持っている人に会う
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+暖かく迎えてくれるコミュニティを持ったオープンソースプロジェクトでは、人々が何年経っても戻って来続けます。多くの人がオープンソースに参加することによって生涯に渡る友好関係を築いています。たとえそれがカンファレンスでばったり会うという形であったり、夜遅くにブリトーについてチャットをしているという形であれ。
 
-### Find mentors and teach others
+### メンターを見つけ互いに教えあう
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+同じプロジェクトで他の人と一緒に働くということは、あなたが仕事をやる方法を説明するだけでなく、他の人に助けを求める必要が出てきます。学習し、教えることは関わる人全てにとって充実した活動となります。
 
-### Build public artifacts that help you grow a reputation (and a career)
+### あなたの評判（やキャリア）を育てるのに役立つ成果物を作り上げる
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+その定義からして、すべてのオープンソースはパブリックです。このことはあなたがやっていることをどこでも自由に紹介できる事例を得られるということを意味します。
 
-### Learn people skills
+### ピープルスキルを学ぶ
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+オープンソースは、人々の衝突を解消したり、チームを組織したり、仕事の優先順位付けをするなどといったリーダーシップやマネジメントスキルを実践する機会を提供してくれます。
 
-### It's empowering to be able to make changes, even small ones
+### 変化を起こせるようになる助けとなる、たとえそれが小さな変化であったとしても
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+あなたは何もオープンソースに生涯に渡って常に参加し続ける必要があるわけではありません。ウェブサイトでタイポを見つけて、直してほしいと思ったことはありませんか？オープンソースプロジェクトでは、あなたがそれをできるのです。オープンソースによって、人々は人生や世界をどう経験するかが自分自身のものだと感じられることを助けてくれます。そしてその事自体が大きな喜びとなるのです。
 
 ## What it means to contribute
 
