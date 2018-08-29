@@ -77,61 +77,61 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+  私が初めてPython開発チーム(別名python-dev)と接触したのは、2002年6月17日に私のパッチを受け入れてもらうためにメーリングリストにメールをした時でした。私はすぐにオープンソースバグに遭遇し、グループのためにメールの要約を整理し始めることにしました。彼らは、私の各トピックについての質問に寛大に接してくれましたが、更に非常に重要だったのが、誰かが修正が必要であるなにかを指摘した時にすぐに気づくことができるようになったということでした。
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
-### Do you like planning events?
+### イベントを計画するのが好きですか？
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* [@fzamperinがNodeSchoolでやったように](https://github.com/nodeschool/organizers/issues/406)ワークショップやミートアップを開催する
+* (もしあるなら)プロジェクトのカンファレンスを企画する
+* コミュニティメンバーが発表するのにちょうどよいカンファレンスを見つけるのを手伝う
 
-### Do you like to design?
+### デザインをするのが好きですか？
 
-* Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Put together a style guide to help the project have a consistent visual design
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+* プロジェクトのユーザビリティを向上させるためにレイアウトを再構成する
+* [Drupalで提案されているように](https://www.drupal.org/community-initiatives/drupal-core/usability)、プロジェクトのナビゲーションやメニューを再構成して改善するためにユーザーリサーチを実施する
+* プロジェクトが一貫したビジュアルデザインを保てるようにスタイルガイドを作る
+* [hapi.jsのコントリビュータがやったように](https://github.com/hapijs/contrib/issues/68)、Tシャツや新しいロゴのデザインをする
 
-### Do you like to write?
+### 文章を書くのが好きですか？
 
-* Write and improve the project's documentation
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Write a translation for the project's documentation
+* プロジェクトのドキュメントを書いたり改善する
+* プロジェクトがどのように使われているかの事例を選別する
+* プロジェクトのニュースレターを始めたり、メーリングリストのハイライトを整理する
+* [PyPAのコントリビュータがやったように](https://github.com/pypa/python-packaging-user-guide/issues/194)、プロジェクトのチュートリアルを書く
+* プロジェクトのドキュメントを翻訳する
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  真面目な話、\[ドキュメント\]は非常に大事です。これまでの所、Babelのドキュメントは素晴らしく、Babelの最高の機能になっています。ただ、まだ作業が必要でものによっては文章を追加したほうが良い節があり、それをやってもらえると非常にありがたいです。
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
-### Do you like organizing?
+### 整理するのが好きですか？
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* 整理するために、重複しているイシューを紐づけたり、新しいイシューのラベルを提案する
+* [@nzakasがESLintでやったように](https://github.com/eslint/eslint/issues/6765)、オープンなイシューをくまなく調べ、古いものをクローズすることを提案する
+* 議論を前進させるために、最近オープンされたイシューの内容を明確にする質問をする
 
-### Do you like to code?
+### コードを書くのが好きですか？
 
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* [@dianjinがLeafletでやったように](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)、取り組むオープンなイシューを見つける
+* 新しい機能を書く手伝いをできるかどうか聞いてみる
+* プロジェクトのセットアップを自動化する
+* ツールやテストの改善をする
 
-### Do you like helping people?
+### 人々を助けるのが好きですか？
 
 * Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
 * Answer questions for people on open issues
 * Help moderate the discussion boards or conversation channels
 
-### Do you like helping others code?
+### 他の人がコードを書くのを助けるのが好きですか？
 
 * Review code on other people's submissions
 * Write tutorials for how a project can be used
