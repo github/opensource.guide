@@ -149,19 +149,19 @@ related:
 
 たとえあなたがソフトウェアエンジニアだったとしても、ドキュメントを書くことはオープンソース活動を始めるにあたって良いスタートとなります。ときにはコードを書かないプロジェクトに関わること障壁が低く、コラボレーションのプロセスを通じて自身と経験を身につけることができます。
 
-## Orienting yourself to a new project
+## 新しいプロジェクトに順応しよう
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-  If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+  もしあなたがイシュートラッカーを見て、ごちゃごちゃしていると感じるのであれば、あなただけではありません。こういったツールは多くの暗黙的な知識を必要としますが、人々は助けてくれますし、あなたから質問をすることもできるのです。
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
-For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
+タイポの修正以上のものであればなんでも、オープンソースに貢献するというのは知らない人たちのパーティに近づいていくようなものです。もしあなたがラマについて話し始めたとして、一方で彼らは金魚について深い議論をしていたら、おそらくあなたのことを少し奇妙な目で見るでしょう。
 
-Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
+盲目的にあなた自身の提案をするまえに、部屋の雰囲気を読み取る方法を学びましょう。そうすることによって、あなたのアイデアの存在に気づいてもらい聞き入れてもらうチャンスが増すでしょう。
 
 ### Anatomy of an open source project
 
