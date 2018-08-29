@@ -127,27 +127,27 @@ related:
 
 ### 人々を助けるのが好きですか？
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+*  Stack Overflow ([このPostgresの例のように](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge))やRedditでのプロジェクトに対する質問に答える
+* オープンイシューでの質問に答える
+* ディスカッションボードやコンバセーションチャネルでの会話の進行をする
 
 ### 他の人がコードを書くのを助けるのが好きですか？
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* 他の人のコードをレビューする
+* プロジェクトがどのように使われるのかについてチュートリアルを書く
+* [@ereichertがRustで@bronzdocにやったように](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)、他のコントリビュータのメンターをやる
 
-### You don't just have to work on software projects!
+### 必ずしもソフトウェアプロジェクトで働く必要はありません
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+「オープンソース」はしばしばソフトウェアのことを指していますが、あなたはどんなものでもコラボレートできるのです。本やレシピ、リストや授業もオープンソースプロジェクトとして開発されているのです。
 
-For example:
+例えば:
 
-* @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
-* @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
+* @sindresorhusは["素敵なもの"のリストを作っています](https://github.com/sindresorhus/awesome)
+* @h5bpはフロントエンド開発者のための[面接での質問集](https://github.com/h5bp/Front-end-Developer-Interview-Questions)をまとめています
+* @stuartlynnと@nicole-a-teslaは[ツノメドリについての愉快な事柄のコレクション](https://github.com/stuartlynn/puffin_facts)を作っています
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
+たとえあなたがソフトウェアエンジニアだったとしても、ドキュメントを書くことはオープンソース活動を始めるにあたって良いスタートとなります。ときにはコードを書かないプロジェクトに関わること障壁が低く、コラボレーションのプロセスを通じて自身と経験を身につけることができます。
 
 ## Orienting yourself to a new project
 
