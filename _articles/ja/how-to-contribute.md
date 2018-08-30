@@ -196,25 +196,25 @@ related:
 * **ディスカッションフォーラムやメーリングリスト:** いくつかのプロジェクトではあるトピックについて会話 (例えば、バグの報告や機能要望の代わりに _「これはどうやって・・・すると良いのでしょう？」_ や _「・・・についてどう思いますか？」_ といったもの) をするのにこれらのチャネルを使うかもしれません。また、すべての会話をイシュートラッカー上で行うプロジェクトもあります。
 * **同期的なチャットチャネル:** カジュアルな会話やコラボレーション、簡単なやりとりについては (SlackやIRCのような) チャットチャネルを使うプロジェクトもあります。
 
-## Finding a project to contribute to
+## 貢献するプロジェクトを見つける
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+さてあなたはオープンソースプロジェクトがどのように働くのかを理解しました。次は貢献するプロジェクトを見つける番です！
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
+もしあなたがこれまでにオープンソースプロジェクトに貢献したことが一度もないのであれば、アメリカ大統領のジョン・F・ケネディのアドバイスを聞いてみましょう。彼はかつて、 _「あなたの国があなたのために何をしてくれるのかを問うのではなく、あなたが国のために何ができるかを問いなさい」_ と言いました。
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+オープンソースへの貢献はあらゆる階層で、プロジェクトをまたいで行われています。あなたの最初の貢献が具体的にどういったものであるかやどのようなものなのかを考えすぎる必要はありません。
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+代わりにあなたが既に使っていたり使いたいと思っているプロジェクトについて考え始めましょう。活発に貢献することになるプロジェクトは、何度も戻ってきたいと思うようなものなのです。
 
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+そういったプロジェクトの中で、何かをよくできたり違ったものにできると考え始めたときはいつでも、あなたの直感に従って行動しましょう。
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+オープンソースは排他的なクラブではありません; あなたのような人々からなっているのです。「オープンソース」は世の中の問題が解決可能であると扱うための単なるきらびやかな名前でしかないのです。
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+READMEを読んで、壊れたリンクやタイポを見つけるかもしれません。もしくは、あなたは新しいユーザーで、何かが壊れていたり、ドキュメントに書かれているべきと考えるイシューがあるかもしれません。それを無視して先に進んだり、他の誰かに直してとお願いする代わりに、あなたが参加することで手助けができないかどうか確かめてみましょう。これがオープンソースというものなのです！
 
-> [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> オープンソースへの[ふとした貢献の28%](https://www.igor.pro.br/publica/papers/saner2016.pdf) がタイポの修正やフォーマットの修正や翻訳といったドキュメントに対するものなのです。
 
-You can also use one of the following resources to help you discover and contribute to new projects:
+また、新しいプロジェクトを見つけて貢献する手助けとして、次のようなリソースのうちの一つを使うこともできます:
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
@@ -225,84 +225,84 @@ You can also use one of the following resources to help you discover and contrib
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
-### A checklist before you contribute
+### 貢献する前野チェックリスト
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+貢献したいプロジェクトを見つけたら、そのプロジェクトが貢献を受け入れる体制ができているかどうかを確かめるために簡単に調べてみましょう。さもないと、あなたの懸命な努力が全くの無反応で終わってしまうかもしれません。
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+次に、プロジェクトが新しいコントリビュータにとって良いかどうかを評価する簡単なチェックリストを記載しました。
 
-**Meets the definition of open source**
+**オープンソースの定義に適っているか**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+  ライセンスがあるか？たいてい、リポジトリのルートにあるLICENSEという名前のファイルがそれに当たります。
   </label>
 </div>
 
-**Project actively accepts contributions**
+**プロジェクトが貢献を積極的に受け入れているか**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+masterブランチのコミットアクティビティをみてみましょう。GitHubではリポジトリのホームページでこの情報を見ることができます。
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
+  最新のコミットはいつか？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
+  そのプロジェクトには何人のコントリビュータがいるか？
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+  どのくらいの頻度でコミットしているか？ (GitHubでは,トップにある"Commits"をクリックすることでこれを見ることができます)
   </label>
 </div>
 
-Next, look at the project's issues.
+次に、プロジェクトのイシューをみてみましょう。
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+  いくつのイシューがあるか？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
+  メンテナーはイシューがオープンされたらすばやく反応しているか？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+  イシューの中にアクティブな議論はあるか？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+  イシューは最近のものか？
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+  イシューがクローズされているか？ (GitHubでは,クローズされたイシューは、Issuesページの"closed"タブで見ることができます)
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+次にプロジェクトのプルリクエストに対して同じことをしましょう。
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
