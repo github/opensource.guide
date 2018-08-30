@@ -163,38 +163,38 @@ related:
 
 盲目的にあなた自身の提案をするまえに、部屋の雰囲気を読み取る方法を学びましょう。そうすることによって、あなたのアイデアの存在に気づいてもらい聞き入れてもらうチャンスが増すでしょう。
 
-### Anatomy of an open source project
+### オープンソースプロジェクトの構造
 
-Every open source community is different.
+それぞれのオープンソースコミュニティは異なります。
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+ある一つのオープンソースプロジェクトで長い時間を過ごしたということは、ある一つのオープンソースプロジェクトについて理解したということを意味します。異なるプロジェクトに移ると、使っている言葉や規範、コミュニケーションスタイルが全く異なることに気づくでしょう。
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+とはいえ、多くのオープンソースプロジェクトは似たような組織構造を持っています。異なるコミュニティの役割や全体のプロセスを理解することは新しいプロジェクトに早く順応するための助けになるでしょう。
 
-A typical open source project has the following types of people:
+典型的なオープンソースプロジェクトは下記のような種類の人々がいます:
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project.
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
+* **オーサー:** そのプロジェクトを作った人(たち)もしくは組織
+* **オーナー:** 組織やリポジトリに対して管理上の所有権を持っている人(たち)もしくは組織(かならずしも元のオーサーと同じとは限りません)
+* **メンテナー:** ビジョンを推し進め、プロジェクトの組織的なマネジメントをすることを行うコントリビュータ(彼らはオーサーやオーナーであることもある)
+* **コントリビュータ:** プロジェクトに対して何かしらの貢献をするすべての人
+* **コミュニティメンバー:** プロジェクトを使っている人々。彼らは会話をしたり、プロジェクトの方向性に対して意見を表明したりする
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+より大きなプロジェクトでは、ツールの整備やコミュニティのモデレートやイベントの運営など異なるタスクに特化した分科会やワーキンググループがあるかもしれません。プロジェクトのウェブサイトの「チーム」についてのページや、リポジトリの運営に関するドキュメントをみて、こういった情報を見つましょう。
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+プロジェクトにはドキュメントもあります。これらのファイルはたいていリポジトリのトップレベルに置かれています。
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
-* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+* **LICENSE:** その定義から、すべてのオープンソースプロジェクトは[オープンソースライセンス](https://choosealicense.com)を持っている必要があります。もしそのプロジェクトがライセンスを持っていないのであれば、それはオープンソースではありません。
+* **README:** READMEはそのプロジェクトへの新しいコミュニティメンバーを迎えるための操作マニュアルです。そこではなぜそのプロジェクトが便利で、どのように始めるかの説明があります。
+* **CONTRIBUTING:** READMEが人々がそのプロジェクトを _使う_ 手助けをする一方、CONTRIBUTINGドキュメントは人々が _貢献する_ 手助けをします。そこではどういった種類の貢献が必要とされていて、そのプロセスがどうなっているかの説明があります。すべてのプロジェクトがCONTRIBUTINGファイルを持つわけではないですが、そのファイルがあることによって、そのプロジェクトが貢献を歓迎していることの印になります。
+* **CODE_OF_CONDUCT:** 行動規範は参加者の振る舞いに対する基本原則を設定し、友好的な環境を作る手助けをします。すべてのプロジェクトが CODE_OF_CONDUCT ファイルを持つわけではないですが、そのファイルがあることによって、そのプロジェクトが貢献を歓迎していることの印になります。
+* **その他のドキュメント:** それ以外にも、特に大きなプロジェクトではチュートリアル、ウォークスルー、運営方針などといったドキュメントがあることがあります。
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+最後に、オープンソースプロジェクトは議論を整理するために次のようなツールを使います。アーカイブを読み通すことで、そのコミュニティがどのように考え動いてきたかを把握することができるでしょう。
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+* **イシュートラッカー:** そのプロジェクトに関連するイシューを議論する場所
+* **プルリクエスト:** 作業中の変更について議論し、レビューをする場所
+* **ディスカッションフォーラムやメーリングリスト:** いくつかのプロジェクトではあるトピックについて会話 (例えば、バグの報告や機能要望の代わりに _「これはどうやって・・・すると良いのでしょう？」_ や _「・・・についてどう思いますか？」_ といったもの) をするのにこれらのチャネルを使うかもしれません。また、すべての会話をイシュートラッカー上で行うプロジェクトもあります。
+* **同期的なチャットチャネル:** カジュアルな会話やコラボレーション、簡単なやりとりについては (SlackやIRCのような) チャットチャネルを使うプロジェクトもあります。
 
 ## Finding a project to contribute to
 
