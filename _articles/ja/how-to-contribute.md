@@ -284,7 +284,7 @@ masterブランチのコミットアクティビティをみてみましょう�
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-  イシューの中にアクティブな議論はあるか？
+  イシューでアクティブな議論は行われているか？
   </label>
 </div>
 
@@ -298,7 +298,7 @@ masterブランチのコミットアクティビティをみてみましょう�
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-  イシューがクローズされているか？ (GitHubでは,クローズされたイシューは、Issuesページの"closed"タブで見ることができます)
+  イシューがクローズされているか？ (GitHubでは、Issuesページの"closed"タブでクローズされたイシューを見ることができます)
   </label>
 </div>
 
@@ -307,73 +307,73 @@ masterブランチのコミットアクティビティをみてみましょう�
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+  オープンなプルリクエストはいくつかるか？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+  メンテナーはプルリクエストがオープンされたらすばやく反応しているか？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+  プルリクエストでアクティブな議論は行われているか？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+  プルリクエストは最近のものか？
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+  どのくらい最近プルリクエストがマージされたか？ (GitHubでは、プルリクエストページの"closed"タブをクリックすることでクローズされたプルリクエストを見ることができます)
   </label>
 </div>
 
-**Project is welcoming**
+**プロジェクトは歓迎してくれるか**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+友好的で歓迎してくれるプロジェクトは新しいコントリビュータを受け入れてくれる印です。
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
+  メンテナーはイシューでの質問に助けとなるような回答をしているか？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
+  人々はイシューやディスカッションフォーラム、チャット(例えばIRCやSlack)で友好的か？ example, IRC or Slack)?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
+  プルリクエストはレビューされているか？
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
+  メンテナーは貢献に対して感謝しているか？
   </label>
 </div>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+  長いスレッドを見つけたら常に、スレッドの中で遅れてやってくるコア開発者の返答を確認してみましょう。彼らは建設的にまとめて、丁寧な姿勢を保ちつつもスレッドを結論に仕向けるべく一歩を踏み出していますか？もし罵り合いが多くあるのであれば、それはエネルギーが開発に向けられる代わりに議論に使われている兆候です。
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
