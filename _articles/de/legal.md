@@ -5,7 +5,7 @@ description: Alle Rechtsaspekte von Open-Source-Projekten, über die Sie sich je
 class: legal
 toc:
   warum-sorgen-sich-leute-so-um-rechtsfragen-im-open-source-bereich: "Warum sorgen sich Leute so um Rechtsfragen im Open-Source-Bereich?"
-  sind-publizierte-git-hub-projekte-open-source: "Sind publizierte GitHub-Projekte Open Source?"
+  sind-publizierte-github-projekte-open-source: "Sind publizierte GitHub-Projekte Open Source?"
   sag-mir-nur-kurz-wie-ich-mein-projekt-schützen-kann: "Sag mir nur kurz, wie ich mein Projekt schützen kann"
   welche-open-source-lizenz-passt-zu-meinem-projekt: "Welche Open-Source-Lizenz passt zu meinem Projekt?"
   was-wenn-ich-die-lizenz-meines-projektes-ändern-möchte: "Was, wenn ich die Lizenz meines Projektes ändern möchte?"
@@ -164,7 +164,7 @@ Längerfristig kann Ihre Rechtsabteilung mehr tun, um dem Unternehmen zu helfen,
 </aside>
 
 * **Was veröffentlichen?** [(Fast) alles?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html). Wenn Ihre Rechtsabteilung die Open-Source-Strategie Ihres Unternehmens versteht und in sie investiert, kann sie Ihnen am besten helfen, anstatt Ihre Bemühungen zu behindern.
-* **Compliance:** Auch wenn Ihr Unternehmen keine Open-Source-Projekte veröffentlicht, verwendet es die Open-Source-Software von anderen. [Bewusstsein darüber und Prozesse dafür](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) helfen, Kopfschmerzen, Produktverzögerungen und Klagen zu vermeiden.
+* **Compliance:** Auch wenn Ihr Unternehmen keine Open-Source-Projekte veröffentlicht, verwendet es die Open-Source-Software von anderen. [Bewusstsein darüber und Prozesse dafür](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) helfen, Kopfschmerzen, Produktverzögerungen und Klagen zu vermeiden.
 
 <aside markdown="1" class="pquote">
 

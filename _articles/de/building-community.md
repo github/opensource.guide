@@ -140,7 +140,7 @@ Tun Sie Ihr Bestes, um eine Null-Toleranz-Politik gegenüber solchen Leuten zu v
 
 Regelmäßige Debatten über triviale Aspekte Ihres Projekts lenken alle davon ab, sich auf wichtige Aufgaben zu konzentrieren. Neue Leute, die zu Ihrem Projekt kommen, können diese Gespräche sehen und wollen nicht teilnehmen.
 
-Wenn Sie ein destruktives Verhalten in Ihrem Projekt beobachten, sprechen Sie es öffentlich an. Erklären Sie freundlich aber bestimmt, warum so etwas nicht akzeptabel ist. Wenn das Problem weiterbesteht, müssen Sie die [Verursacher\*innen bitten, das Projekt zu verlassen](../code-of-conduct/#enforcing-your-code-of-conduct), Ihr [Verhaltenskodex](../code-of-conduct/) kann eine konstruktive Anleitung für solche Gespräche sein.
+Wenn Sie ein destruktives Verhalten in Ihrem Projekt beobachten, sprechen Sie es öffentlich an. Erklären Sie freundlich aber bestimmt, warum so etwas nicht akzeptabel ist. Wenn das Problem weiterbesteht, müssen Sie die [Verursacher\*innen bitten, das Projekt zu verlassen](../code-of-conduct/#ihre-verantwortung-als-maintainerin), Ihr [Verhaltenskodex](../code-of-conduct/) kann eine konstruktive Anleitung für solche Gespräche sein.
 
 ### Holen Sie Mitwirkende dort ab, wo sie sich stehen
 
