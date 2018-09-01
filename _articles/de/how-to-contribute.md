@@ -9,7 +9,7 @@ toc:
   sich-in-einem-neuen-projekt-orientieren: "Sich in einem neuen Projekt orientieren"
   so-finden-sie-ein-projekt-zu-dem-sie-beitragen-können: "So finden Sie ein Projekt, zu dem Sie beitragen können"
   wie-man-einen-beitrag-einreicht: "Wie man einen Beitrag einreicht"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
+  was-passiert-nachdem-sie-einen-beitrag-eingereicht-haben: "Was passiert, nachdem Sie einen Beitrag eingereicht haben?"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -597,37 +597,37 @@ Wenn das Projekt auf GitHub läuft, können Sie hier ein Pull Request stellen:
 
 Wenn dies Ihr erstes Pull-Request ist, sehen Sie sich [Make a Pull Request](http://makeapullrequest.com/) an, die @kentcdodds als Video-Tutorial erstellt hat. Sie können auch üben, ein Pull Request in @Roshanjossey\s "[First Contributions](https://github.com/Roshanjossey/first-contributions)"-Repository zu erstellen.
 
-## What happens after you submit a contribution
+## Was passiert, nachdem Sie einen Beitrag eingereicht haben?
 
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+Geschafft! Herzlichen Glückwunsch, dass Sie  zu einem Open-Source-Projekt beigetragen haben. Wir hoffen, dass weitere folgen.
 
-After you submit a contribution, one of the following will happen:
+Nachdem Sie einen Beitrag eingereicht haben, tritt einer der folgenden Fälle ein:
 
-### 😭 You don't get a response.
+### 😭 Sie erhalten keine Antwort.
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+Hoffentlich haben Sie [das Projekt auf Anzeichen von Aktivität überprüft](#eine-checkliste-bevor-sie-einen-beitrag-leisten), bevor Sie einen Beitrag leisten. Auch bei einem aktiven Projekt kann es jedoch vorkommen, dass Ihr Beitrag keine Resonanz findet.
 
-If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+Wenn Sie seit über einer Woche keine Antwort erhalten haben, ist es fair, nachzuhaken und höflich jemanden um eine Rezension zu bitten. Wenn Sie den Namen der richtigen Person kennen, um Ihren Beitrag zu überprüfen, können Sie sie oder ihn mit einem `@` erwähnen.
 
-**Don't** reach out to that person privately; remember that public communication is vital to open source projects.
+Kontaktieren Sie diese Person **nicht** privat, denn öffentliche Kommunikation ist für Open-Source-Projekte unerlässlich.
 
-If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+Wenn Sie höflich nachhaken und trotzdem niemand antwortet, könnte dies für immer so bleiben. Es ist kein gutes Gefühl, aber lassen Sie sich davon nicht entmutigen. Sowas passiert allen mal! Es gibt viele mögliche Gründe und Umstände, die außerhalb Ihrer Kontrolle liegen, und die eine Antwort an Sie verhindert haben könnten. Versuchen Sie, ein anderes Projekt oder einen anderen Weg zu finden, um einen Beitrag zu leisten. Genau darum ist es ein guter Grund, nicht zu viel Zeit in Beiträge zu investieren, bevor nicht andere Mitglieder des Projektes auf Sie reagieren.
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 Jemand wünscht Änderungen an Ihrem Beitrag.
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+Es ist üblich, dass Sie aufgefordert werden, Änderungen an Ihrem Beitrag vorzunehmen, z.B. bezüglich des Umfangs Ihrer Idee oder bezüglich Ihres Code.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+Wenn jemand Änderungen vorschlägt, reagieren Sie darauf. Der- oder diejenige hat sich die Zeit genommen, Ihren Beitrag zu überprüfen. Einen Pull Request zu eröffnen aber nicht weiterzuverfolgen, ist schlechter Stil. Wenn Sie nicht wissen, wie Sie Änderungen vornehmen sollen, recherchieren Sie dies und bitten um Hilfe, wenn Sie sie brauchen.
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+Wenn Sie keine Zeit mehr haben, an dem Problem zu arbeiten (zum Beispiel, wenn das Thema seit Monaten vor sich hin brodelt aber sich Ihre Umstände geändert haben), lassen Sie es den Maintainer\*in wissen, damit sie oder er keine Antwort erwartet. Vielleicht übernimmt jemand anderes Ihren Pull Request.
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 Ihr Beitrag wird nicht angenommen.
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
+Ihr Beitrag kann schlussendlich akzeptiert werden oder auch nicht. Hoffentlich haben Sie nicht schon zu viel Arbeit investiert. Wenn Sie nicht sicher sind, warum es nicht akzeptiert wurde, ist es durchaus sinnvoll, die oder den Maintainer\*in um Rückmeldung und Erläuterung zu bitten. Letztendlich müssen Sie jedoch deren Entscheidung respektieren. Werden Sie nicht ausfallend. Sie haben immer die Möglichkeit, an Ihrem eigenen Fork des Projektes zu arbeiten, wenn Sie mit dem Original nicht einverstanden sind!
 
-### 🎉 Your contribution gets accepted.
+### 🎉 Ihr Beitrag wird angenommen.
 
-Hooray! You've successfully made an open source contribution!
+Hurra! Sie haben erfolgreich einen Open-Source-Beitrag geleistet!
 
 ## You did it!
 
