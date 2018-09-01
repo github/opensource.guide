@@ -1,7 +1,7 @@
 ---
 lang: de
 title: Wie zu Open Source beitragen?
-description: Möchten Sie zu Open Source beitragen? Hier ein Leitfaden dafür für Einsteiger und Veteraninnen.
+description: Möchten Sie zu Open Source beitragen? Hier finden Sie einen Leitfaden dazu für Einsteiger und Fortgeschrittene.
 class: contribute
 toc:
   warum-eigentlich-zu-open-source-projekten-beitragen: "Warum eigentlich zu Open-Source-Projekten beitragen?"
@@ -67,12 +67,12 @@ Keine Sorge! Es gibt viele Möglichkeiten, zu einem Open-Source-Projekt beizutra
 
 ### Sie müssen keinen Code beisteuern
 
-Dies ist ein weit verbreiteter Irrtum, aber in Wirklichkeit  sind es oft andere Projektaspekte, die am [meisten Unterstützung gebrauchen können](https://github.com/blog/2195-the-shape-of-open-source). Sie tun dem Projekt einen _großen_ Gefallen, indem Sie anbieten, bei nicht-Code-Aspekten mitzuwirken!
+Dies ist ein weit verbreiteter Irrtum, aber in Wirklichkeit sind es oft andere Projektaspekte, die am [meisten Unterstützung gebrauchen können](https://github.com/blog/2195-the-shape-of-open-source). Sie tun dem Projekt einen _großen_ Gefallen, indem Sie anbieten, bei nicht-Code-Aspekten mitzuwirken!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   
-  Ich bin bekannt für meine Arbeit an CocoaPods, aber die meisten Leute wissen nicht, dass ich eigentlich keine echte Arbeit am CocoaPods-Tool selbst mache. Meine Zeit im Projekt verbringe ich hauptsächlich mit Dokumentation und Markendesign.
+  Ich bin bekannt für meine Arbeit an CocoaPods, aber die meisten Leute wissen nicht, dass ich eigentlich keine echte Arbeit am CocoaPods-Tool selbst mache. Meine Zeit im Projekt verbringe ich hauptsächlich mit Dokumentation und Marketing.
   
   _I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding._
   
@@ -104,7 +104,7 @@ Auch wenn Sie gerne Code schreiben, sind andere Beitragsarten eine gute Möglich
 ### Mögen Sie Design-Arbeit?
 
 * Verbessern Sie Layouts, um Benutzerfreundlichkeit des Projekts zu erhöhen
-* Führen Sie Nutzerstudien durch, um Navigation oder  Menüs der Software zu verfeinern ([wie z.B. Drupal es vorschlägt](https://www.drupal.org/community-initiatives/drupal-core/usability))
+* Führen Sie Nutzerstudien durch, um Navigation oder Menüs der Software zu verfeinern ([wie z.B. Drupal es vorschlägt](https://www.drupal.org/community-initiatives/drupal-core/usability))
 * Erstellen Sie einen Designleitfaden, um dem Projekt zu einem einheitlichen visuellen Designzu verhelfen
 * Erstellen Sie Kunst für T-Shirts oder ein neues Logo, [wie es z.B. die Mitwirkenden von hapi.js](https://github.com/hapijs/contrib/issues/68)
 
@@ -134,9 +134,9 @@ Auch wenn Sie gerne Code schreiben, sind andere Beitragsarten eine gute Möglich
 * Gehen Sie offene Fragen durch und schlagen Sie alte zur Schließung vor, wie @nzakas [in ESLint](https://github.com/eslint/eslint/issues/6765)
 * Stellen Sie konstruktive Fragen zu kürzlich eröffneten Issues, um Diskussionen voranzubringen
 
-### Mögen Sie es zu kodieren?
+### Mögen Sie das Programmieren?
 
-* Finden Sie ein offenes Issues, das Sie bearbeiten können, wie @dianjin [in Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* Finden Sie ein offenes Issue, das Sie bearbeiten können, wie @dianjin [in Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
 * Bieten Sie die Implementierung neuer Funktionen an
 * Automatisieren Sie etwas, z.B. die Softwareinstallation
 * Verbessern Sie Werkzeuge oder Tests
@@ -147,7 +147,7 @@ Auch wenn Sie gerne Code schreiben, sind andere Beitragsarten eine gute Möglich
 * Beantworten Sie Fragen in offenen Issues
 * Helfen Sie bei der Moderation von Diskussionsforen oder anderen Kommunikationskanälen
 
-### Helfen Sie gerne anderen beim Programmieren?
+### Helfen Sie gerne Anderen beim Programmieren?
 
 * Überprüfen Sie den Code in Pull Requests von Anderen
 * Schreiben Sie Tutorials, wie ein Projekt verwendet werden kann
@@ -160,7 +160,7 @@ Während sich "Open Source" oft auf Software bezieht, kann man an fast allen and
 Zum Beispiel:
 
 * @sindresorhus kuratiert eine [Liste von "awesome" -Listen](https://github.com/sindresorhus/awesome)
-* @h5bp unterhält eine [Liste möglicher Bewerbungstests](https://github.com/h5bp/Front-end-Developer-Interview-Questions) für Frontend-Entwickler-Kandidat\*innen
+* @h5bp unterhält eine [Liste möglicher Bewerbungsfragen](https://github.com/h5bp/Front-end-Developer-Interview-Questions) für Frontend-Entwickler-Kandidat\*innen
 * @stuartlynn und @nicole-a-tesla [sammeln lustige Fakten über Papageitaucher](https://github.com/stuartlynn/puffin_facts)
 
 Auch wenn Sie ein\*e Software-Entwickler\*in sind, kann Ihnen die Arbeit an einem Dokumentationsprojekt den Einstieg in Open Source erleichtern. Es ist oft weniger einschüchternd, an Projekten zu arbeiten, die keinen Code beinhalten, und der Prozess der Zusammenarbeit wird Ihr Vertrauen und Ihre Erfahrung stärken.
@@ -236,7 +236,7 @@ Sie können eine README überfliegen und einen defekten Link oder einen Tippfehl
 >
 > [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
-Mittels einer der folgenden Ressourcen können Sie neue Projekte zum Beitragen entdecken:
+Auf einer der folgenden Seiten können Sie neue Projekte zum Beitragen entdecken (alle englischsprachig):
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
@@ -353,7 +353,7 @@ Schauen Sie sich als nächstes die Issues des Projekts an.
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     
-    Werden Issues  auch wieder geschlossen? (Klicken Sie bei GitHub auf der Seite "Issues" auf "closed", um geschlossene Issues zu sehen.)
+    Werden Issues auch wieder geschlossen? (Klicken Sie bei GitHub auf der Seite "Issues" auf "closed", um geschlossene Issues zu sehen.)
     
     _Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)_
     
@@ -505,7 +505,7 @@ Bevor Sie ein Issue oder Pull Request aufmachen oder eine Frage im Chat stellen,
 >
 > 😢 _"X ist kaputt! Bitte reparieren!"_
 
-**Machen Sie Ihre Hausaufgaben vorher.** Es ist OK, nichts zu wissen, aber zeigen Sie, dass Sie es versucht haben. Bevor Sie um Hilfe bitten, stellen Sie sicher, dass Sie die README, die Dokumentation, Probleme (offen oder geschlossen), die Mailingliste und das Internet nach einer Antwort durchsucht haben. Die Leute werden Lernversuche  zu schätzen wissen.
+**Machen Sie Ihre Hausaufgaben vorher.** Es ist OK, nichts zu wissen, aber zeigen Sie, dass Sie es versucht haben. Bevor Sie um Hilfe bitten, stellen Sie sicher, dass Sie die README, die Dokumentation, Probleme (offen oder geschlossen), die Mailingliste und das Internet nach einer Antwort durchsucht haben. Die Leute werden Lernversuche zu schätzen wissen.
 
 > 😇 _"Ich bin mir nicht sicher, wie man X implementiert. Ich habe die Hilfeseiten überprüft, aber X dort nicht erwähnt gefunden."_
 >
@@ -529,7 +529,7 @@ Bevor Sie ein Issue oder Pull Request aufmachen oder eine Frage im Chat stellen,
 >
 > 😢 _"Warum kannst Du mein Problem nicht lösen? Ist das nicht Dein Projekt?"_
 
-**Respektieren Sie die Entscheidungen der Gemeinschaft ** Ihre Ideen könnten von den Prioritäten oder der Vision der Gemeinschaft abweichen. Diese gibt Ihnen vielleicht eine Rückmeldung oder beschließt, Ihre Idee nicht weiterzuverfolgen. Auch wenn Sie Kompromisse suchen und besprechen sollten, müssen die Maintainer\*innen mit einer Entscheidung länger leben als Sie selbst. Wenn Sie mit deren Richtung nicht einverstanden sind, können Sie jederzeit an Ihrem eigenen Fork arbeiten oder Ihr eigenes Projekt starten.
+**Respektieren Sie die Entscheidungen der Gemeinschaft.** Ihre Ideen könnten von den Prioritäten oder der Vision der Gemeinschaft abweichen. Diese gibt Ihnen vielleicht eine Rückmeldung oder beschließt, Ihre Idee nicht weiterzuverfolgen. Auch wenn Sie Kompromisse suchen und besprechen sollten, müssen die Maintainer\*innen mit einer Entscheidung länger leben als Sie selbst. Wenn Sie mit deren Richtung nicht einverstanden sind, können Sie jederzeit an Ihrem eigenen Fork arbeiten oder Ihr eigenes Projekt starten.
 
 > 😇 _"Ich bin enttäuscht, dass Sie meinen Anwendungsfall nicht unterstützen können, aber ich verstehe Ihre Erläuterung, dass er nur einen kleinen Teil der Benutzer\*innen betrifft. Danke fürs Zuhören."_
 >
@@ -599,7 +599,7 @@ Wenn dies Ihr erstes Pull-Request ist, sehen Sie sich [Make a Pull Request](http
 
 ## Was passiert, nachdem Sie einen Beitrag eingereicht haben?
 
-Geschafft! Herzlichen Glückwunsch, dass Sie  zu einem Open-Source-Projekt beigetragen haben. Wir hoffen, dass weitere folgen.
+Geschafft! Herzlichen Glückwunsch, dass Sie zu einem Open-Source-Projekt beigetragen haben. Wir hoffen, dass weitere folgen.
 
 Nachdem Sie einen Beitrag eingereicht haben, tritt einer der folgenden Fälle ein:
 
