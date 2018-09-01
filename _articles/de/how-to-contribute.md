@@ -5,7 +5,7 @@ description: Möchten Sie zu Open Source beitragen? Hier ein Leitfaden dafür f�
 class: contribute
 toc:
   warum-eigentlich-zu-open-source-projekten-beitragen: "Warum eigentlich zu Open-Source-Projekten beitragen?"
-  was-einen-beitrag-leisten-bedeutet: "Was "einen Beitrag leisten" bedeutet"
+  was-einen-beitrag-leisten-bedeutet: "Was 'einen Beitrag leisten' bedeutet"
   sich-in-einem-neuen-projekt-orientieren: "Sich in einem neuen Projekt orientieren"
   so-finden-sie-ein-projekt-zu-dem-sie-beitragen-können: "So finden Sie ein Projekt, zu dem Sie beitragen können"
   wie-man-einen-beitrag-einreicht: "Wie man einen Beitrag einreicht"
@@ -629,6 +629,6 @@ Ihr Beitrag kann schlussendlich akzeptiert werden oder auch nicht. Hoffentlich h
 
 Hurra! Sie haben erfolgreich einen Open-Source-Beitrag geleistet!
 
-## You did it!
+## Sie haben es geschafft!
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+Egal, ob Sie gerade Ihren ersten Open-Source-Beitrag geleistet haben oder nach neuen Beitragsmöglichkeiten suchen: Wir hoffen, Sie zum Mitmachen motiviert zu haben. Selbst wenn Ihr Beitrag nicht angenommen wurde, vergessen Sie nicht, sich zu bedanken, wenn ein\*e Projektbetreuer\*in sich bemüht hat, Ihnen zu helfen. Open Source wird von Leuten wie Ihnen gemacht: Issue für Issue, Pull Request für Pull Request, usw., oder auch mal alle Neune auf einmal.
