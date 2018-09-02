@@ -41,7 +41,7 @@ Ob Programmierung, User Interface Design, Grafikdesign, Schreiben oder Organisie
 
 ### Treffen Sie Menschen, die an ähnlichen Dingen interessiert sind
 
-Open-Source-Projekte mit warmherzigen, einladenden Communities schaffen langfristige Hobbys für viele Leute. Lebenslange Freundschaften können durch ihre Teilnahme an Open Source entstehen, sei es bei Konferenzen oder bei nächtlichen Online-Chats über Lhamacuns.
+Open-Source-Projekte mit warmherzigen, einladenden Communities schaffen langfristige Hobbys für viele Leute. Lebenslange Freundschaften können durch ihre Teilnahme an Open Source entstehen, sei es bei Konferenzen oder bei nächtlichen Online-Chats über Lahmacuns.
 
 ### Mentoren finden und unterrichte Andere
 
