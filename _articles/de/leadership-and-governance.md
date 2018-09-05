@@ -1,7 +1,7 @@
 ---
 lang: de
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+title: Führung und Lenkung
+description: Heranwachsende Open-Source-Projekte können von formellen Entscheidungsfindungsregeln profitieren.
 class: leadership
 toc:
   what-are-examples-of-formal-roles-used-in-open-source-projects: "What are examples of formal roles used in open source projects?"
@@ -18,9 +18,9 @@ related:
   - metrics
 ---
 
-## Understanding governance for your growing project
+## Die Lenkungen eines wachsenden Projektes verstehen
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
+Ihr Projekt wächst, Leute sind engagiert und Sie setzen sich dafür ein, dass diese Sache am Laufen bleibt. In diesem Stadium fragen Sie sich vielleicht, wie Sie regelmäßige Projektmitarbeiter\*innen in Ihren Arbeitsprozess einbinden können? Sei es durch die Gewährung von Schreibrechten oder durch die Führung von Debatten in der Gemeinschaft. Wir liefern Antworten, auf Ihre Fragen.
 
 ## What are examples of formal roles used in open source projects?
 
