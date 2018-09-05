@@ -5,7 +5,7 @@ description: Heranwachsende Open-Source-Projekte können von formellen Entscheid
 class: leadership
 toc:
   welche-beispiele-für-formale-rollen-gibt-es-in-open-source-projekten: "Welche Beispiele für formale Rollen gibt es in Open-Source-Projekten?"
-  how-do-i-formalize-these-leadership-roles: "How do I formalize these leadership roles?"
+  wie-formalisiere-ich-diese-führungsrollen: "Wie formalisiere ich diese Führungsrollen?"
   when-should-i-give-someone-commit-access: "When should I give someone commit access?"
   what-are-some-of-the-common-governance-structures-for-open-source-projects: "What are some of the common governance structures for open source projects?"
   do-i-need-governance-docs-when-i-launch-my-project: "Do I need governance docs when I launch my project?"
@@ -66,30 +66,34 @@ Sie können Ihre Projektrollen zwar nach Belieben definieren, aber Sie sollten d
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## Wie formalisiere ich diese Führungsrollen?
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
+Führungsrollen zu formalisieren hilft den Menschen, ein eigenes Verantwortungsbewusstsein zu entwickeln und zeigt anderen Community-Mitgliedern, wen sie um Hilfe bitten sollen.
 
-For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
+In einem kleineren Projekt kann die Ernennung von Verantwortlichen so einfach sein, wie ihre Namen zur README- oder CONTRIBUTORS-Datei hinzuzufügen.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [Postgres](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+Für ein größeres Projekt mit einer Website, erstellen Sie eine Teamseite oder listen Sie die Verantwortlichen dort auf. Zum Beispiel hat [Postgres](https://github.com/postgres/postgres/) eine [umfassende Teamseite](https://www.postgresql.org/community/contributors/) mit Kurzprofilen für alle Mitwirkende.
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (for example, security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+Wenn Ihr Projekt eine sehr aktive Gemeinschaft von Mitwirkenden hat, können Sie ein Maintainer\*innen-"Kernteam" bilden oder sogar Gremien, die die Verantwortung für verschiedene Themengebiete übernehmen (z.B. Sicherheit, Issues bearbeiten oder Communitymanagement). Lassen Sie die Leute sich selbst organisieren! Anstatt ihnen Rollen zuzuweisen, lassen Sie Freiwillige das übernehmen, was sie am meisten begeistert.
 
 <aside markdown="1" class="pquote">
-  \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+  
+  \[Wir\] ergänzen das Kernteam mit mehreren "Subteams". Jedes Subteam ist auf einen bestimmten Bereich fokussiert, z.B. Sprachdesign oder Bibliotheken. Um eine globale Koordination und eine starke, kohärente Sichtweise für das Gesamtprojekt zu gewährleisten, wird jedes Subteam von einem Mitglied des Kernteams geleitet.
+  
+  _\[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team._
+  
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+Führungsteams können einen bestimmten Kanal einrichten (z.B. im IRC) oder sich regelmäßig treffen, um das Projekt zu besprechen (z.B. in Gitter oder Google Hangout). Sie können diese Meetings sogar öffentlich machen, damit andere Leute zuhören können. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) zum Beispiel, [lädt zur wöchentlichen Sprechstunde ein](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md.
+Vergessen Sie nicht, nach der Festlegung von Führungsrollen zu dokumentieren, wie Menschen diese erreichen können! Richten Sie einen klaren Prozess ein, wie Leute Maintainer\*in werden oder einem Gremium in Ihrem Projekt beitreten können, und beschreiben Sie diesen Prozess in einer GOVERNANCE.md.
 
-Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
+Tools wie [Vossibility](https://github.com/icecrime/vossibility-stack) können Ihnen dabei helfen, öffentlich zu verfolgen, wer zum Projekt beiträgt (oder nicht). Die Dokumentation dieser Informationen beugt dem Eindruck vor, dass eine Maintainer\*innen-Clique ihre Privatinteressen durchsetzen würde.
 
-Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#teilen-sie-die-eigentümerschaft-an-ihrem-projekt).
+Wenn sich Ihr Projekt auf GitHub befindet, können Sie Ihr Projekt von Ihrem persönlichen Konto in eine Organisation verschieben und mindestens einen Backup-Administrator einrichten. [GitHub-Organisationen](https://help.github.com/articles/creating-a-new-organization-account/) erleichtern die Verwaltung von mehreren Repositories und Berechtigungen, und schützen ihr Projektarchiv durch [gemeinsame Verantwortung](../building-community/#teilen-sie-die-eigentümerschaft-an-ihrem-projekt).
 
 ## When should I give someone commit access?
 
