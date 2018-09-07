@@ -379,29 +379,29 @@ masterブランチのコミットアクティビティをみてみましょう�
   </p>
 </aside>
 
-## How to submit a contribution
+## 貢献を提出する方法
 
-You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
+あなたは好きなプロジェクトを見つけ、貢献をする準備ができています。ついに！次にあなたの貢献を効果的に行う方法を紹介します。
 
-### Communicating effectively
+### 効果的にコミュニケーションする
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+あなたが一度きりのコントリビュータであろうとコミュニティに参加しようとしているのであろうと、他の人と働くことはオープンソースで獲得するスキルの中で最も大事なものの一つです。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+  \[新しいコントリビュータとして、\] イシューをクローズできるようになりたいのであれば、質問をする必要があるということにすぐに気づきました。私はコードベースをざっと読んで、一旦何が行われているのか感覚を掴んだら、さらなる方向について質問をしました。そして、ほら！必要だった関連する詳細を全て手に入れて、イシューを解決することができました。
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
 </aside>
 
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+イシューやプルリクエストををオープンする前に、あなたのアイデアが効果的に扱われる助けのために、これらのことを心のとどめておきましょう。
 
-**Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
+**コンテキストを与えましょう。** 他の人がすぐに把握する手助けをしましょう。もしあなたがエラーに遭遇しているのであれば、あなたが何をしようとしていて、どうやって再現させるのかを説明しましょう。もしあなたが新しいアイデアを提案しているのであれば、なぜそれがプロジェクトにとって（あなたにとってだけではなく！）便利だと思うのかを説明しましょう。
 
-> 😇 _"X doesn't happen when I do Y"_
+> 😇 _"Yを行った時にXが起きません"_
 >
-> 😢 _"X is broken! Please fix it."_
+> 😢 _"Xが壊れています！直して下さい。"_
 
 **Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
 
