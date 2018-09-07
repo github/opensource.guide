@@ -9,7 +9,7 @@ toc:
   wann-sollte-ich-jemandem-commit-rechte-geben: "Wann sollte ich jemandem Commit-Rechte geben?"
   welche-steuerungsstrukturen-nutzen-open-source-projekte-häufiger: "Welche Steuerungsstrukturen nutzen Open-Source-Projekte häufiger?"
   muss-ich-projektleitung-und-steuerung-schon-zum-projektstart-dokumentieren: "Muss ich Projektleitung und -Steuerung schon zum Projektstart dokumentieren?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "What happens if corporate employees start submitting contributions?"
+  was-passiert-wenn-firmenangehörige-beiträge-einreichen: "Was passiert, wenn Firmenangehörige Beiträge einreichen?"
   do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
 order: 6
 image: /assets/images/cards/leadership.png
@@ -151,17 +151,17 @@ Wenn Sie Teil eines Unternehmens sind, das ein Open-Source-Projekt startet, lohn
   </p>
 </aside>
 
-## What happens if corporate employees start submitting contributions?
+## Was passiert, wenn Firmenangehörige Beiträge einreichen?
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+Erfolgreiche Open-Source-Projekte werden von vielen Menschen und Unternehmen genutzt, und einige davon verfügen möglicherweise über Einnahmen, die letztendlich durch das Projekt generiert wurden. Beispielsweise kann eine Firma den Projektcode als eine Komponente eines kommerziellen Serviceangebot verwenden.
 
-As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
+Mit zunehmender Verbreitung des Projekts werden Menschen, die über Fachwissen verfügen, immer gefragter (Sie könnten eine\*r davon sein!) und wird manchmal für die Arbeit bezahlt, die im Projekt leisten.
 
-It's important to treat commercial activity as normal and as just another source of development energy. Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits. However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+Es ist wichtig, kommerzielle Aktivitäten als normal und eine weitere Motivation für Entwicklungsarbeit zu betrachten. Bezahlte Entwickler\*innen sollten natürlich keine Sonderbehandlung gegenüber unbezahlten erhalten. Jeder Beitrag muss nach seinen technischen Eigenschaften bewertet werden. Allerdings sollten die Leute zu kommerziellen Aktivitäten bereit sein, und sich damit wohl fühlen, wenn sie ihre Anwendungsfälle angeben, oder wenn sie sich für eine bestimmte Verbesserung oder Funktion aussprechen.
 
-"Commercial" is completely compatible with "open source". "Commercial" just means there is money involved somewhere - that the software is used in commerce, which is increasingly likely as a project gains adoption. (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+"Kommerziell" ist vollständig kompatibel mit "Open Source". "Kommerziell" bedeutet nur, dass irgendwo Geld im Spiel ist: dass die Software unternehmerisch eingesetzt wird. Dies wird umso  wahrscheinlicher, je weiter sich ein Projekt verbreitet. (Wenn Open-Source-Software als Teil eines Nicht-Open-Source-Produkts verwendet wird, ist das Gesamtprodukt immer noch "proprietäre" Software, obwohl sie (wie Open Source!) für kommerzielle oder nicht-kommerzielle Zwecke verwendet werden kann.
 
-Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+Wie jede\*r andere auch, gewinnen kommerziell motivierte Entwickler\*innen durch die Qualität und Quantität ihrer Beiträge Einfluss auf das Projekt. Natürlich kann ein\*e Entwickler\*in, die oder der für die Arbeitszeit bezahlt wird, mehr tun als unbezahlte Beitragende, aber das ist in Ordnung: Bezahlung beeinflusst was jemand tut, nur als einer von vielen möglichen Faktoren. Halten Sie Ihre Projektdiskussionen auf den Inhalt der Beiträge ausgerichtet, nicht auf die externen Faktoren, die es den Menschen ermöglichen, diese Beiträge zu leisten.
 
 ## Do I need a legal entity to support my project?
 
