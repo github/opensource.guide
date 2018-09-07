@@ -8,7 +8,7 @@ toc:
   wie-formalisiere-ich-diese-führungsrollen: "Wie formalisiere ich diese Führungsrollen?"
   wann-sollte-ich-jemandem-commit-rechte-geben: "Wann sollte ich jemandem Commit-Rechte geben?"
   welche-steuerungsstrukturen-nutzen-open-source-projekte-häufiger: "Welche Steuerungsstrukturen nutzen Open-Source-Projekte häufiger?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Do I need governance docs when I launch my project?"
+  muss-ich-projektleitung-und-steuerung-schon-zum-projektstart-dokumentieren: "Muss ich Projektleitung und -Steuerung schon zum Projektstart dokumentieren?"
   what-happens-if-corporate-employees-start-submitting-contributions: "What happens if corporate employees start submitting contributions?"
   do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
 order: 6
@@ -131,17 +131,21 @@ Welches Modell sollten Sie verwenden? Das obliegt Ihnen! Jedes Modell hat Vor- u
 * Meritokratische Modellvorlage](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.js' liberale Beitragspolitik](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
-## Do I need governance docs when I launch my project?
+## Muss ich Projektleitung und -Steuerung schon zum Projektstart dokumentieren?
 
-There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
+Es gibt keinen richtigen Zeitpunkt, um die Leitungs- und Steuerungsrichtlinien Ihres Projekts aufzuschreiben. Allerdings  sind sie einfacher zu definieren, sobald Sie die Entwicklung von Community-Dynamiken gesehen haben. Das Beste (und Schwierigste) an Open-Source-Projektsteuerung ist, dass sie von der Gemeinschaft geprägt wird!
 
-Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch.
+Frühzeitige Dokumentationen wird selbst auch dazu beitragen, wie sich Ihr Projekt entwickelt, also schreiben Sie ruhig früh auf, was Sie früh wissen. So können Sie beispielsweise schon zum Projektstart klare Erwartungen an die Funktionsweise Ihres Mitwirkungsprozesses definieren.
 
-If you're part of a company launching an open source project, it's worth having an internal discussion before launch about how your company expects to maintain and make decisions about the project moving forward. You may also want to publicly explain anything particular to how your company will (or won't!) be involved with the project.
+Wenn Sie Teil eines Unternehmens sind, das ein Open-Source-Projekt startet, lohnt sich eine interne Diskussion vor dem Start. Wie erwartet Ihr Unternehmen, dass es das Projekt aufrechterhält und Entscheidungen trifft? Möglicherweise möchten Sie auch öffentlich erklären, wie oder ob Ihr Unternehmen in das Projekt eingebunden wird.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
+  
+  Wir beauftragen kleine Teams mit der Leitung von Projekten auf GitHub, die aktuell auf Facebook an diesen arbeiten. Beispielsweise wird das React-Projekt von einem React-Ingenieur betreut.
+  
+  _We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer._
+  
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
