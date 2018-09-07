@@ -10,7 +10,7 @@ toc:
   welche-steuerungsstrukturen-nutzen-open-source-projekte-häufiger: "Welche Steuerungsstrukturen nutzen Open-Source-Projekte häufiger?"
   muss-ich-projektleitung-und-steuerung-schon-zum-projektstart-dokumentieren: "Muss ich Projektleitung und -Steuerung schon zum Projektstart dokumentieren?"
   was-passiert-wenn-firmenangehörige-beiträge-einreichen: "Was passiert, wenn Firmenangehörige Beiträge einreichen?"
-  do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
+  brauche-ich-für-mein-projekt-eine-juristische-person: "Brauche ich für mein Projekt eine juristische Person?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
@@ -163,22 +163,26 @@ Es ist wichtig, kommerzielle Aktivitäten als normal und eine weitere Motivation
 
 Wie jede\*r andere auch, gewinnen kommerziell motivierte Entwickler\*innen durch die Qualität und Quantität ihrer Beiträge Einfluss auf das Projekt. Natürlich kann ein\*e Entwickler\*in, die oder der für die Arbeitszeit bezahlt wird, mehr tun als unbezahlte Beitragende, aber das ist in Ordnung: Bezahlung beeinflusst was jemand tut, nur als einer von vielen möglichen Faktoren. Halten Sie Ihre Projektdiskussionen auf den Inhalt der Beiträge ausgerichtet, nicht auf die externen Faktoren, die es den Menschen ermöglichen, diese Beiträge zu leisten.
 
-## Do I need a legal entity to support my project?
+## Brauche ich für mein Projekt eine juristische Person?
 
-You don't need a legal entity to support your open source project unless you're handling money.
+Sie benötigen keine juristische Person, um Ihr Open-Source-Projekt zu verwalten. Es sei denn, es kommt Geld ins Spiel.
 
-For example, if you want to create a commercial business, you'll want to set up a C Corp or LLC (if you're based in the US). If you're just doing contract work related to your open source project, you can accept money as a sole proprietor, or set up an LLC (if you're based in the US).
+Wenn Sie beispielsweise ein kommerzielles Unternehmen gründen möchten, sollten Sie eine GmbH oder UG gründen (wenn Sie in Deutschland ansässig sind). Wenn Sie nur Auftragsarbeiten im Zusammenhang mit Ihrem Open-Source-Projekt durchführen, können Sie Geld als (Einzel)Unternehmergesellschaft akzeptieren oder eine GmbH gründen (wenn Sie in Deutschland ansässig sind).
 
-If you want to accept donations for your open source project, you can set up a donation button (using PayPal or Stripe, for example), but the money won't be tax-deductible unless you are a qualifying nonprofit (a 501c3, if you're in the US).
+Wenn Sie Spenden für Ihr Open-Source-Projekt annehmen möchten, können Sie einen Spendenbutton einrichten (z.B. über PayPal oder Stripe), aber das Geld ist nicht steuerlich absetzbar, es sei denn, Sie sind ein qualifizierter gemeinnütziger Verein.
 
-Many projects don't wish to go through the trouble of setting up a nonprofit, so they find a nonprofit fiscal sponsor instead. A fiscal sponsor accepts donations on your behalf, usually in exchange for a percentage of the donation. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) are examples of organizations that serve as fiscal sponsors for open source projects.
+Viele Projekte wollen sich nicht die Mühe machen, einen gemeinnützigen Verein zu gründen, also finden sie stattdessen einen gemeinnützigen Steuersponsor. Ein finanzieller Sponsor nimmt Spenden in Ihrem Namen entgegen, in der Regel im Austausch gegen einen Prozentsatz der Spende. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) und [Open Collective](https://opencollective.com/opensource) sind Beispiele für Organisationen, die als finanzielle Sponsoren für Open-Source-Projekte fungieren.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
-  Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
+  
+  Unser Ziel ist es, eine Infrastruktur bereitzustellen, die die Gemeinden nutzen können, um selbsttragenden zu sein, und so ein Umfeld zu schaffen, in dem alle (Beitragende, Geldgeber\*innen und Sponsor\*innen) konkrete Vorteile daraus ziehen können.
+  
+  _Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it._
+  
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
   </p>
 </aside>
 
-If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.org/), the Python package manager, and the [Node.js Foundation](https://nodejs.org/en/foundation/) helps support [Express.js](https://expressjs.com/), a Node-based framework.
+Wenn Ihr Projekt spezifisch für eine bestimmte Programmiersprache oder ein bestimmtes Ökosystem gedacht ist, kann es auch eine entsprechende Software-Stiftung geben, mit der Sie zusammenarbeiten können. So unterstützt beispielsweise die [Python Software Foundation](https://www.python.org/psf/) den Paketmanager [PyPI](https://pypi.org/), und die [Node.js-Foundation](https://foundation.nodejs.org/) unterstützt das Node-basierte Framework [Express.js](https://expressjs.com/).
