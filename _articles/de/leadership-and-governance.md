@@ -6,7 +6,7 @@ class: leadership
 toc:
   welche-beispiele-für-formale-rollen-gibt-es-in-open-source-projekten: "Welche Beispiele für formale Rollen gibt es in Open-Source-Projekten?"
   wie-formalisiere-ich-diese-führungsrollen: "Wie formalisiere ich diese Führungsrollen?"
-  when-should-i-give-someone-commit-access: "When should I give someone commit access?"
+  wann-sollte-ich-jemandem-commit-rechte-geben: "Wann sollte ich jemandem Commit-Rechte geben?"
   what-are-some-of-the-common-governance-structures-for-open-source-projects: "What are some of the common governance structures for open source projects?"
   do-i-need-governance-docs-when-i-launch-my-project: "Do I need governance docs when I launch my project?"
   what-happens-if-corporate-employees-start-submitting-contributions: "What happens if corporate employees start submitting contributions?"
@@ -95,17 +95,21 @@ Tools wie [Vossibility](https://github.com/icecrime/vossibility-stack) können I
 
 Wenn sich Ihr Projekt auf GitHub befindet, können Sie Ihr Projekt von Ihrem persönlichen Konto in eine Organisation verschieben und mindestens einen Backup-Administrator einrichten. [GitHub-Organisationen](https://help.github.com/articles/creating-a-new-organization-account/) erleichtern die Verwaltung von mehreren Repositories und Berechtigungen, und schützen ihr Projektarchiv durch [gemeinsame Verantwortung](../building-community/#teilen-sie-die-eigentümerschaft-an-ihrem-projekt).
 
-## When should I give someone commit access?
+## Wann sollte ich jemandem Commit-Rechte geben?
 
-Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
+Einige Leute denken, dass Sie allen Commit-Zugang geben sollten, die einen Beitrag geleistet haben. Dies könnte dazu führen, dass sich mehr Menschen für Ihr Projekt interessieren.
 
-On the other hand, especially for bigger, more complex projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+Andererseits, besonders bei größeren, komplexeren Projekten, möchten Sie vielleicht nur Personen zu Commits berechtigen, die ihr Engagement unter Beweis gestellt haben. Es gibt hier nicht den richtigen Weg. Tun Sie, was Ihnen Behagen bereitet!
 
-If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
+Wenn sich Ihr Projekt auf GitHub befindet, können Sie unter [protected branches](https://help.github.com/articles/about-protected-branches/) verwalten, wer unter welchen Umständen zu auf einen bestimmten Branch committen darf.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
-  Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
+  
+  Wann immer Ihnen jemand einen Pull-Request schickt, geben Sie ihm Commit-Zugriff auf Ihr Projekt. Auch wenn es auf den ersten Blick unglaublich dumm klingt, können Sie mit dieser Strategie die wahre Kraft von GitHub entfalten. (...) Sobald Leute Commit-Zugriff haben, haben sie keine Angst mehr, dass ihr Patch nicht mehr angenommen werden könnte... Dies veranlasst sie dazu, viel mehr Arbeit in Patches zu stecken.
+  
+  _Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it._
+  
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
