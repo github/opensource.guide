@@ -4,12 +4,12 @@ title: オープンソースに貢献する方法
 description: オープンソースに貢献したいですか？このガイドで￥はオープンソースへの貢献の方法を、初めての人だけでなく熟練の方にも紹介します。
 class: contribute
 toc:
-  why-contribute-to-open-source: "オープンソースに貢献する理由は？"
-  what-it-means-to-contribute: "貢献するということが意味するもの"
-  orienting-yourself-to-a-new-project: "新しいプロジェクトに順応しよう"
-  finding-a-project-to-contribute-to: "貢献するプロジェクトを見つけよう"
-  how-to-submit-a-contribution: "貢献を提出する方法"
-  what-happens-after-you-submit-a-contribution: "貢献を提出した後に起こること"
+  オープンソースに貢献する理由は: "オープンソースに貢献する理由は？"
+  貢献するということが意味するもの: "貢献するということが意味するもの"
+  新しいプロジェクトに順応しよう: "新しいプロジェクトに順応しよう"
+  貢献するプロジェクトを見つけよう: "貢献するプロジェクトを見つけよう"
+  貢献を提出する方法: "貢献を提出する方法"
+  貢献を提出した後に起こること: "貢献を提出した後に起こること"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -196,7 +196,7 @@ related:
 * **ディスカッションフォーラムやメーリングリスト:** いくつかのプロジェクトではあるトピックについて会話 (例えば、バグの報告や機能要望の代わりに _「これはどうやって・・・すると良いのでしょう？」_ や _「・・・についてどう思いますか？」_ といったもの) をするのにこれらのチャネルを使うかもしれません。また、すべての会話をイシュートラッカー上で行うプロジェクトもあります。
 * **同期的なチャットチャネル:** カジュアルな会話やコラボレーション、簡単なやりとりについては (SlackやIRCのような) チャットチャネルを使うプロジェクトもあります。
 
-## 貢献するプロジェクトを見つける
+## 貢献するプロジェクトを見つけよう
 
 さてあなたはオープンソースプロジェクトがどのように働くのかを理解しました。次は貢献するプロジェクトを見つける番です！
 
@@ -491,7 +491,7 @@ If the project is on GitHub, here's how to submit a pull request:
 
 If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
 
-## What happens after you submit a contribution
+## 貢献を提出した後に起こること
 
 You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
 
