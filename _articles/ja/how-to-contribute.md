@@ -403,23 +403,23 @@ masterブランチのコミットアクティビティをみてみましょう�
 >
 > 😢 _"Xが壊れています！直して下さい。"_
 
-**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**前もって宿題をやりましょう。** 何かを知らないのは問題ないのですが、トライしたことは示しましょう。助けを求める前に、プロジェクトのREADMEやドキュメント、イシュー（オープンなものもクローズされたものも）、メーリングリストや答えをインターネットで探したか確認しましょう。人々はあなたが学ぼうとしていることを示せば、それを評価してくれるでしょう。
 
-> 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
+> 😇 _"私はXを実装するやり方がわかりません。ヘルプドキュメントを見たのですが、それについての言及を見つけることができませんでした。"_
 >
-> 😢 _"How do I X?"_
+> 😢 _"わたしはどうやったらXができますか？"_
 
-**Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
+**要求は短く直接的にしましょう。** メールを送るのと同じように、それぞれの貢献は、それがいくらシンプルで役に立つものであっても、他の誰かのレビューを必要とします。多くのプロジェクトでは、人々が助けられる以上の数の要求が来ています。簡潔にしましょう。そうすれば、誰かが助けてくれるチャンスを増やすことができるでしょう。
 
-> 😇 _"I'd like to write an API tutorial."_
+> 😇 _"APIチュートリアルを書こうと思っています。"_
 >
-> 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
+> 😢 _"私は先日高速道路を走っていて、給油のため止まりました。すると、我々がやるべき素晴らしいアイデアが思い浮かんだのです。しかし、それを説明する前に・・・"_
 
-**Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
+**全てのコミュニケーションを公開の場でしましょう。** いくらやりたくなったとしても、機密情報（セキュリティイシューや重大な行動指針違反など）を共有するのでもない限り、メンテナーに非公開に接触するのはやめましょう。会話を公開の場で行い続ければ、あなたの会話からより多くの人が学び、利益を得ることができます。会話することはそれ自体が貢献となりうるのです。
 
-> 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
+> 😇 _(コメントで) "@メンテナー こんにちは！このプルリクエストはどうやって進めたら良いですか？"_
 >
-> 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
+> 😢 _(メールで) "こんにちは、メールを送ってすみませんが、私のプルリクエストをレビューしていただけないかと思いまして。"_
 
 **It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
 
