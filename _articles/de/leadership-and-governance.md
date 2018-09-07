@@ -7,7 +7,7 @@ toc:
   welche-beispiele-für-formale-rollen-gibt-es-in-open-source-projekten: "Welche Beispiele für formale Rollen gibt es in Open-Source-Projekten?"
   wie-formalisiere-ich-diese-führungsrollen: "Wie formalisiere ich diese Führungsrollen?"
   wann-sollte-ich-jemandem-commit-rechte-geben: "Wann sollte ich jemandem Commit-Rechte geben?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "What are some of the common governance structures for open source projects?"
+  welche-steuerungsstrukturen-nutzen-open-source-projekte-häufiger: "Welche Steuerungsstrukturen nutzen Open-Source-Projekte häufiger?"
   do-i-need-governance-docs-when-i-launch-my-project: "Do I need governance docs when I launch my project?"
   what-happens-if-corporate-employees-start-submitting-contributions: "What happens if corporate employees start submitting contributions?"
   do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
@@ -115,21 +115,21 @@ Wenn sich Ihr Projekt auf GitHub befindet, können Sie unter [protected branches
   </p>
 </aside>
 
-## What are some of the common governance structures for open source projects?
+## Welche Steuerungsstrukturen nutzen Open-Source-Projekte häufiger?
 
-There are three common governance structures associated with open source projects.
+Es gibt drei Steuerungsstrukturen, die oft bei Open-Source-Projekten vorkommen.
 
-* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+* * **BDFL:** BDFL steht für "Benevolent Dictator for Life" (gutmütige\*r Diktator\*in auf Lebenszeit). Bei dieser Struktur hat eine Person (in der Regel die oder der Erstautor\*in des Projekts) das letzte Wort bei allen wichtigen Projektentscheidungen. [Python](https://github.com/python) ist ein klassisches Beispiel. Kleinere Projekte haben wahrscheinlich standardmäßig ein\*e BDFL, da es nur einen oder zwei Maintainer\*innen gibt. Ein Projekt, das aus einem Unternehmen stammt, kann ebenfalls in die Kategorie BDFL fallen.
 
-* **Meritocracy:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](http://www.apache.org/); [all Apache projects](http://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **Meritokratie:** **(Hinweis: Der Begriff "Meritokratie" ist bei einigen Communities negativ konnotatiert und hat eine [komplexe soziale und politische Geschichte](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Unter einer Meritokratie erhalten aktive Projektmitarbeiter\*innen (diejenigen, die "sich die Meriten angelesen" haben) eine formelle Entscheidungsrolle. Entscheidungen werden in der Regel auf der Grundlage eines reinen Abstimmungskonsenses getroffen. Das Konzept der Meritokratie wurde von der [Apache Foundation](http://www.apache.org/) entwickelt; [alle Apache-Projekte](http://www.apache.org/index.html#projects-list) sind Meritokratien. Beiträge können nur von Personen geleistet werden, die sich selbst vertreten, nicht von einem Unternehmen.
 
-* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://nodejs.org/en/foundation/) and [Rust](https://www.rust-lang.org/en-US/).
+* **Liberales Beitragsmodell:** Nach einem liberalen Beitragsmodell werden die Menschen, die aktuell die meiste Arbeit leisten, als die einflussreichsten anerkannt. Dabei wird aber ihre frühere Beitragshistorie außer Acht gelassen. Wichtige Projektentscheidungen werden auf der Grundlage eines Konsensfindungsprozesses (Besprechen der wichtigsten Missstände) und nicht auf Grundlage reiner Abstimmung getroffen. Dabei streben solche Projekte nach Einbeziehung möglichst vieler Perspektiven der Gemeinschaft. Beliebte Beispiele für Projekte, die ein liberales Beitragsmodell verwenden, sind [Node.js](https://foundation.nodejs.org/) und [Rust](https://www.rust-lang.org/de-DE/).
 
-Which one should you use? It's up to you! Every model has advantages and trade-offs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
+Welches Modell sollten Sie verwenden? Das obliegt Ihnen! Jedes Modell hat Vor- und Nachteile. Und obwohl sie zunächst sehr unterschiedlich erscheinen mögen, haben alle drei Modelle mehr gemeinsam als zu vermuten wäre. Wenn Sie daran interessiert sind, eines dieser Modelle zu übernehmen, schauen Sie sich diese Vorlagen an (alle Englisch):
 
-* [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
-* [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Node.js's liberal contribution policy](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
+* [BDFL-Modellvorlage](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
+* Meritokratische Modellvorlage](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
+* [Node.js' liberale Beitragspolitik](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
 ## Do I need governance docs when I launch my project?
 
