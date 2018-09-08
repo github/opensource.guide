@@ -411,6 +411,7 @@ masterブランチのコミットアクティビティをみてみましょう�
 
 **要求は短く直接的にしましょう。** メールを送るのと同じように、それぞれの貢献は、それがいくらシンプルで役に立つものであっても、他の誰かのレビューを必要とします。多くのプロジェクトでは、人々が助けられる以上の数の要求が来ています。簡潔にしましょう。そうすれば、誰かが助けてくれるチャンスを増やすことができるでしょう。
 
+
 > 😇 _"APIチュートリアルを書こうと思っています。"_
 >
 > 😢 _"私は先日高速道路を走っていて、給油のため止まりました。すると、我々がやるべき素晴らしいアイデアが思い浮かんだのです。しかし、それを説明する前に・・・"_
@@ -421,75 +422,76 @@ masterブランチのコミットアクティビティをみてみましょう�
 >
 > 😢 _(メールで) "こんにちは、メールを送ってすみませんが、私のプルリクエストをレビューしていただけないかと思いまして。"_
 
-**It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
+**質問をするのは問題ありません（ただし、辛抱強く！）** 誰しもがある時点ではそのプロジェクトに慣れていなく、経験のあるコントリビュータでさえ新しいプロジェクトを見るときは最新情報が必要となります。同様に、古くからのメンテナーでさえ常にそのプロジェクトのあらゆる部分に詳しいわけではありません。あなたが彼らに望むような辛抱強さをあなたも彼らに対して示しましょう。
 
-> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
+> 😇 _"このエラーについて調べてくれてありがとうございます。あなたの提案に従ってみました。こちらがその出力です。"_
 >
-> 😢 _"Why can't you fix my problem? Isn't this your project?"_
+> 😢 _"なぜ私の問題を解決できないのでしょう？これはあなたのプロジェクトじゃないんですか？"_
 
-**Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+**コミュニティの決定を尊重しましょう。** あなたのアイデアはコミュニティの優先事項やビジョンとは異なっているかもしれません。彼らはフィードバックを提供したり、あなたのアイデアを採用しないと決定するかもしれません。あなたは議論したり妥協点を見出したりするべきですが、メンテナーはあなたよりも長い期間あなたのアイデアと付き合っていく必要があるのです。もしあなたが彼らの方向性に賛成出来ないのなら、あなたはいつでもあなた自身のフォークやあなた自身のプロジェクトを始めることができるのです。
 
-> 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
+> 😇 _"あなたが私のユースケースを支持できないのは残念ですが、あなたが説明してくれたようにそれはユーザーのうちの一部にしか影響しませんし、私も理由を理解できます。意見を聞いてくださりありがとうございます。"_
 >
-> 😢 _"Why won't you support my use case? This is unacceptable!"_
+> 😢 _"なぜあなたは私のユースケースを支持しないのですか？これは受け入れられません！"_
 
-**Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
+**とりわけ、常に粋でいましょう。** オープンソースは世界中のコラボレータによって成り立っています。言語や文化、地理、タイムゾーンをまたぐことでコンテキストが失われてしまいます。加えて、テキストコミュニケーションでは調子や雰囲気を伝えるのが難しいです。これらの会話では相手は前向きであると仮定しましょう。丁寧にアイデアを先送りしたり、さらなるコンテキストを聞いたり、あなたのポジションを更に明確にするのは良いことです。インターネットがあなたが見つけたときよりもよりよい場所であるように心がけましょう。
 
-### Gathering context
+### コンテキストを集める
 
-Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+何かをする前に、あなたのアイデアが他の場所で既に議論されていないか確かめましょう。そのプロジェクトのREADMEやイシュー（オープンなものもクローズされたものも）、メーリングリストやスタックオーバーフローにざっと目を通しましょう。全てに目を通すのに何時間もかける必要はありませんが、いくつかのキーワードで検索するので十分です。
 
-If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by opening an issue or pull request:
+もしあなたのアイデアが他で見つけられないのであれば、動き出す準備ができたことになります。そのプロジェクトがGitHub上にあるのであれば、あなたはおそらくイシューやプルリクエストをオープンすることでコミュニケーションするでしょう。
 
-* **Issues** are like starting a conversation or discussion
-* **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
+* **イシュー** は会話や議論を始めるようなものです
+* **プルリクエスト** は解決に向けて仕事を始めることです
+* 確認や方法を聞く質問のような、**軽いコミュニケーションには** 、もしそのプロジェクトが使っているのであれば、スタックオーバーフロー、IRC、Slackや他のチャットで質問してみましょう。
 
-Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
+イシューやプルリクエストをオープンする前に、そのプロジェクトの貢献の方法についてのドキュメント（大抵はCONTRIBUTINGと呼ばれるファイルやREADMEの中にあります）を確認し、なにか特定の情報を含める必要があるか確かめましょう。例えば、あなたはテンプレートを使ったり、テストを実行する必要があるかもしれません。
 
-If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+もしあなたが大きな貢献をしたいのであれば、その仕事に取り掛かる前にイシューをオープンしましょう。受け入れられないかもしれない仕事に取り掛かる前に、暫くの間そのプロジェクトをウォッチし（GitHubでは、["Watch"をクリックすることで](https://help.github.com/articles/watching-repositories/) すねての会話の通知を受け取ることができます)、コミュニティメンバーを知ることは役に立つでしょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
-  You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+  あなたが活発に使っている一つのプロジェクトを選び、GitHub上で"ウォッチ"し、全てのイシューやプルリクエストに目を通すことで多<em>多くのことを</em>学ぶでしょう。
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
-### Opening an issue
+### イシューをオープンする
 
-You should usually open an issue in the following situations:
+下記のような状況では大抵イシューを開くべきです：
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
+* あなただけで解決できないエラーの報告
+* 高レベルなトピックやアイデア（例えば、コミュニティやビジョンや方針）についての議論
+* 新しい機能や他のプロジェクトへのアイデアの提案
 
-Tips for communicating on issues:
+イシュー上でのコミュニケーションのコツ：
 
-* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
-* **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-* **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+* **あなたが取り組みたいオープンイシューを見つけたら、** そのイシュー上であなたがそれに取り掛かる事を人々に知らせるためにコメントしましょう。そうすることで、あなたの仕事と重複する可能性が減ります。
+* **イシューがしばらく前にオープンされたのであれば、** それは他の場所で取り組まれていたり、既に解決されている可能性があります。なので、仕事に取り掛かる前に確認するコメントをしましょう。
+* **もしあなたがイシューをオープンしたのに、あとになって自分で解決策を見つけたの出れば、** そのイシューで人々に知らせるためにコメントしましょう。そして、イシューをクローズしましょう。成果をドキュメントにするだけでもそのプロジェクトに対する貢献となります。
 
-### Opening a pull request
+### プルリクエストをオープンする
 
-You should usually open a pull request in the following situations:
+下記のような状況では大抵プルリクエストを開くべきです：
 
-* Submit trivial fixes (for example, a typo, a broken link or an obvious error)
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+* 明確な修正（例えばタイポや壊れたリンクや明らかなエラー）の提出
+* 既に要求されている貢献や既にイシュー上で議論された仕事を始める際
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+プルリクエストでは、仕事が完了している必要はありません。大抵の場合、早い段階でプルリクエストを開き、他の人があなたの進捗を確認したり、フィードバックを与えられるようにしたほうが望ましいです。タイトルに"WIP" (Work in Progress)とつけましょう。いつでもさらなるコミットを追加できます。
 
+そのプロジェクトがGitHub上にあるのであれば、下記がプルリクエストを提出する方法です：
 If the project is on GitHub, here's how to submit a pull request:
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
-* **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
-* **Reference any relevant issues** or supporting documentation in your PR (for example, "Closes #37.")
-* **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
-* **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+* **[リポジトリをフォークし](https://guides.github.com/activities/forking/)** ローカルにクローンしましょう。あなたのローカルと元の"upstream"リポジトリをremoteとして追加することで紐づけましょう。"upstream"からの変更を頻繁にプルすることで、プルリクエストを提出する時にマージコンフリクトが起きづらくなるように、最新に追いついているようにしましょう。（より詳細な手順は[こちら](https://help.github.com/articles/syncing-a-fork/)を確認して下さい)。
+* あなたの変更のための**[ブランチを切りましょう](https://guides.github.com/introduction/flow/)**。
+* プルリクエストの中で**あらゆる関連するイシュー** や関連するドキュメントを参照しましょう （例えば、"Closes #37."のように)。
+* もしあなたがHTML/CSSを変更するのであれば、**前後のスクリーンショットを含めましょう**。あなたのプルリクエストの本文に画像をドラッグアンドドロップしましょう。
+* **あなたの変更をテストしましょう！** もし既存のテストがあるのであれば、あなたの変更に対してそのテストを実行したり、必要であれば新しいテストを作りましょう。既存のテストの有無にかかわらず、あなたの変更が既存のプロジェクトを壊さないことを確かめましょう。
+* できる限り**そのプロジェクトのスタイルに従って貢献しましょう**。これによってインデントやセミコロン、コメントがあなた自身のリポジトリの使い方とは異なるかもしれないということを意味します。しかし、メンテナーがマージしやすくしたり、他の人が理解して将来もメンテナンスしやすいようにしましょう。
 
-If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
+もしこれがあなたの初めてのプルリクエストであれば、[Make a Pull Request](http://makeapullrequest.com/)という、@kentcdodds が作成したビデオチュートリアルを確認しましょう。また、プルリクエストを作る練習を [First Contributions](https://github.com/Roshanjossey/first-contributions) という、 @Roshanjossey によって作成されたリポジトリで行うこともできます。
 
 ## 貢献を提出した後に起こること
 
