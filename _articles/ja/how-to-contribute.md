@@ -495,36 +495,37 @@ If the project is on GitHub, here's how to submit a pull request:
 
 ## 貢献を提出した後に起こること
 
+やりました！おめでとう、あなたはオープンソースコントリビュータになりました。これからも多数の貢献を行う第一歩になることを願っています。
 You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
 
-After you submit a contribution, one of the following will happen:
+貢献を提出した後、下記のうちのどれかが起きるでしょう：
 
-### 😭 You don't get a response.
+### 😭 返事をもらえない
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+願わくば、あなたは貢献を行う前に、[そのプロジェクトの活動の様子を調べているはずです](#a-checklist-before-you-contribute)。しかしながら、アクティブなプロジェクトだったとしても、あなたの貢献に対して返事が無いことがおき得ます。
 
-If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+一週間以上返事がないようであれば、同じスレッドにて、誰かにレビューを丁寧にお願いするのは妥当でしょう。あなたの貢献をレビューするのに適切な人ん名前を知っているのであれば、そのスレッドにて@メンションを使うことができます。
 
-**Don't** reach out to that person privately; remember that public communication is vital to open source projects.
+その人に非公開の場で接触するのは**やめましょう**。オープンソースプロジェクトにとって、公開の場でコミュニケーションすることは必要不可欠であるということを思い出しましょう。
 
-If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+もしあなたが丁寧につついてもまだ誰も反応しないのであれば、ずっと誰も反応しない可能性があります。良い気分ではないでしょうが、落胆しないようにしましょう。それは誰に対しても起こることなのです！返事をもらえない理由はたくさんあり、それにはあなたがコントルールできない個人的な状況も含まれます。他のプロジェクトや他の貢献の方法を探しましょう。いずれにしても、他のコミュニティメンバーが携わってくれて反応してくれるようになる前に貢献をするのに大きな時間を投資しないほうが良いのです。
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 あなたの貢献に対して変更を要求する人がいる
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+あなたの貢献に対して変更を要求されるのはよくあることです。その要求はあなたのアイデア自体に対してのフィードバックであることもあれば、コードに対する変更であることもあります。
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+変更を要求する人が居たら、すぐに返事をしましょう。彼らはあなたの貢献に対して時間をとってレビューしてくれたのです。プルリクエストを開いて居なくなってしまうのは良くないやり方です。もしあなたが変更の仕方を知らないのであれば、その問題を調査し、必要であれば助けを求めましょう。
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+もしあなたがその問題に対してそれ以上の時間をかけることができない（例えばその会話が何ヶ月にも渡り、あなたの状況が変わったなど）場合は、メンテナーにそれを伝え、返答ができない旨を伝えましょう。他の誰かが喜んで引き継いでくれるはずです。
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 あなたの貢献が受け入れられない
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
+あなたの貢献は最終的に受け入れられるかもしれないし、受け入れられないかもしれません。願わくば、既に多大なコストを払っていないでしょう。もしなぜ受け入れられないかわからないのであれば、メンテナーにフィードバックや確認をするのは全くもって理にかなっています。しかし、究極的にはそれが彼らの決定であると尊重する必要があるでしょう。異議を唱えたり、敵意を示さないようにしましょう。もし彼らに賛成出来ないのであれば、あなたはいつでもフォークしてあなた自身のプロジェクトを始めることができるのです。
 
-### 🎉 Your contribution gets accepted.
+### 🎉 あなたの貢献が受け入れられた
 
-Hooray! You've successfully made an open source contribution!
+バンザイ！あなたは無事にオープンソースに貢献できました！
 
-## You did it!
+## やりました！
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+初めてのオープンソースへの貢献をしたのであれ、他の貢献の方法を探しているのであれ、あなたがなにか行動を起こそうをいう気になっている事を願います。たとえあなたの貢献が受け入れられなかったとしても、メンテナーがあなたを助けるために労力を割いてくれたことに対して感謝を伝えるのを忘れないようにしましょう。オープンソースはあなたのような、一度には一つのイシュー、プルリクエスト、コメントや挨拶をするような、人々で成り立っているのです。
