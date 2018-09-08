@@ -1,10 +1,10 @@
 ---
 lang: ja
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+title: オープンソースプロジェクトを始めよう
+description: オープンソースの世界のことをもっと学び、あなた自身のプロジェクトを立ち上げる準備をしましょう
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "The what and why of open source"
+  オープンソースとは何でなぜそれを行うのか: "オープンソースとは何でなぜそれを行うのか"
   should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
   launching-your-own-open-source-project: "Launching your own open source project"
   naming-and-branding-your-project: "Naming and branding your project"
@@ -16,52 +16,52 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## オープンソースとは何でなぜそれを行うのか
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+さて、あなたはオープンソースを始めようと考えているのですか？おめでとう！世界はあなたの貢献に感謝します。オープンソースとはなんであってなぜ人々はそれを行うのかについて話しましょう。
 
-### What does "open source" mean?
+### 「オープンソース」が意味するものは？
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+あるプロジェクトがオープンソースである時、それは**誰でも見て、使って、修正して、あなたのプロジェクトをいかなる目的であっても配布できる**ということを意味します。これらの行為を許可するということは[オープンソースライセンス](https://opensource.org/licenses)に定められています。
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+オープンソースは採用される敷居を下げ、アイデアがすぐに広がることを可能にするため、強力です。
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
+オープンソースがどのように機能しているかを理解するため、あなたの友人がありあわせの料理を食べていて、あなたがチェリーパイを持ってきたと想像してみて下さい。
 
-* Everybody tries the pie (_use_)
-* The pie is a hit! They ask you for the recipe, which you provide (_view_)
-* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
-* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
+* 誰しもがパイを食べようとします (_使う_)
+* パイはヒットしました！友人たちはレシピを教えてほしいと頼み、それを教えてあげます。 (_見る_)
+* アレックスというある友達は、彼は洋菓子職人なのですが、砂糖を減らす事を提案します。 (_修正する_)
+* リサという他の友達は、来週の夕食に使ってもよいかと尋ねます (_配布する_)
 
-By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
+この比較としては、クローズドソースのプロセスはレストランに行ってチェリーパイを頼むことだと言えます。パイを食べるのには料金を支払う必要がありますし、レストランはおそらくあなたにレシピを教えてくれることはないでしょう。もしあなたが彼らのパイを完全にコピーし、あなたの名前で売り出したとしたら、レストランはあなたに対して何らかの行動を取るかもしれません。
 
-### Why do people open source their work?
+### なぜ人々は彼らの業績をオープンソースにするのか？
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+  オープンソースを使ったりコラボレーションすることからくる最もやりがいのある経験の一つは、私と同じ問題に遭遇している他の開発者と作り上げる関係から来ています。
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
   </p>
 </aside>
 
-[There are many reasons](https://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+人々や組織がオープンソースプロジェクトを始めるには[様々な理由があります](https://ben.balter.com/2015/11/23/why-open-source/)。いくつか例を挙げてみましょう：
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **コラボレーション：** オープンソースプロジェクトは世界の誰からも変更を受け付けます。例えば[Exercism](https://github.com/exercism/)は、350を超えるコントリビュータがいるプログラミング練習プラットフォームです。
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **取り入れて再構成：** オープンソースプロジェクトは誰しもがほとんどいかなる理由のためにも使えるものです。人々は他のものを作るためにでも使うことができます。例えば [WordPress](https://github.com/WordPress) は、 [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) と呼ばれる既存のプロジェクトのフォークとして始まりました。
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **透明性：** 誰でもオープンソースプロジェクトにエラーがないかや一貫していないところがないか調べることができます。透明性は [ブルガリア](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) や [アメリカ](https://sourcecode.cio.gov/) のような政府、銀行やヘルスケアのような規制産業、 [Let's Encrypt](https://github.com/letsencrypt) のようなセキュリティソフトウェアにとって重要です。
 
-Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+オープンソースはソフトウェアのためだけのものでもありません。データセットから本まであらゆるものをオープンソースにできるのです。他になにかオープンソースにできるものはないかアイデアを得るために [GitHub Explore](https://github.com/explore) をチェックしてみましょう。
 
-### Does open source mean "free of charge"?
+### オープンソースは「無料で使える」事を意味している？
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+オープンソースの大きな魅力の一つがお金がかからないということです。しかし、「無料で使える」ことはオープンソースの全ての価値の副産物でしかありません。
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+[オープンソースライセンスが要求しているように](https://opensource.org/osd-annotated)、誰でも使え、修正でき、どんな目的でも共有できるため、プロジェクト自身は無料で使える傾向にあります。もしそのプロジェクトが使うのにお金がかかるとしたら、誰でも合法的にそのコピーを作って無料のバージョンを代わりに作ることができます。
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+結果として、ほとんどのオープンソースプロジェクトは無料です。しかし、「無料で使える」ことはオープンソースの定義には含まれていません。オープンソースプロジェクトでも、デュアルライセンスや機能制限によて間接的に料金を取る方法はあります。これでもまだオープンソースの公式な定義に則っています。
 
 ## Should I launch my own open source project?
 
