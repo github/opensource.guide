@@ -5,7 +5,7 @@ description: オープンソースの世界のことをもっと学び、あな�
 class: beginners
 toc:
   オープンソースとは何でなぜそれを行うのか: "オープンソースとは何でなぜそれを行うのか"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
+  自分自身のオープンソースプロジェクトを立ち上げるべき: "自分自身のオープンソースプロジェクトを立ち上げるべき？"
   launching-your-own-open-source-project: "Launching your own open source project"
   naming-and-branding-your-project: "Naming and branding your project"
   your-pre-launch-checklist: "Your pre-launch checklist"
@@ -63,53 +63,53 @@ related:
 
 結果として、ほとんどのオープンソースプロジェクトは無料です。しかし、「無料で使える」ことはオープンソースの定義には含まれていません。オープンソースプロジェクトでも、デュアルライセンスや機能制限によて間接的に料金を取る方法はあります。これでもまだオープンソースの公式な定義に則っています。
 
-## Should I launch my own open source project?
+## 自分自身のオープンソースプロジェクトを立ち上げるべき？
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+簡単な答えとしてはイエスです。なぜなら、成果がどうであれ、あなた自身のプロジェクトを立ち上げるのはオープンソースがどうやって成り立っているのかを学ぶ素晴らしい方法です。
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+もし今までプロジェクトをオープンソースにしたことがないのであれば、他の人から何を言われるか、誰も全く気づいてくれないんじゃないかと心配になっているかもしれません。もしあなたがそうだとしたら、あなたは一人ではありません！
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+オープンソース活動は他の執筆や絵画などのクリエイティブな活動を似ています。世界にあなたの作品を公開するのは怖いと感じるでしょうが、上達する唯一の方法は練習することなのです。たとえ、誰も見ている人が居ないとしても。
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+もしまだ納得していないのであれば、あなたのゴールがどういったものであるかを少し考えてみましょう。
 
-### Setting your goals
+### ゴールを設定する
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+ゴールを設定することによって、何をやるべきか、なににノーというべきか、他の人の助けが必要な箇所を明確にすることができます。_私はなぜこのプロジェクトをオープンソースにしたのか？_ と自問してみましょう。
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+この質問に唯一の正解はありません。一つのプロジェクトに対して複数のゴールがあるかもしれないし、異なるプロジェクトで異なるゴールがあるかもしれません。
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+もしあなたのゴールがあなたの作品を見せびらかすことだけなのであれば、貢献は望まないでしょうし、READMEでそういうべきですらあります。その一方で、コントリビュータを望むであれば、明確なドキュメントと新しく来た人が歓迎されていると感じるように時間を投資するでしょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+  ある時点で、私は自分で使っていたカスタムのUIAlertViewを作りました…そして、オープンソースにすることを決めたのです。そこで私はそれをより機能的になるように修正し、GitHubにアップロードしました。また、他の開発者が彼らのプロジェクトでどのように使うかを説明するはじめてのドキュメントも書きました。おそらく、非常にシンプルなプロジェクトだったので誰もこれまでに使っていないでしょうが、自分の貢献に対して良い気分でした。
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+あなたのプロジェクトが成長するにつれて、コミュニティがあなたに求めるものはコードを書くことだけではなくなるでしょう。イシューに返答したり、コードをレビューしたり、あなたのプロジェクトがオープンソースプロジェクトにとってとても重要なタスクなのであると説いて回るといったことです。
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+コーディング以外のタスクに費やす時間はあなたのプロジェクトのサイズと範囲に依存する一方で、メンテナーとしてそういった活動に取り組む準備をするか手伝ってくれる人を見つけるべきです。
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**もしあなたが企業でプロジェクトをオープンソースにすることに携わっているのであれば、** あなたのプロジェクトが盛り上がるのに必要な企業内部のリソースを持っているかどうか確かめましょう。立ち上げた後にプロジェクトをメンテナンスする担当の人は誰で、コミュニティとどのようにタスクを共有するのかを特定したいと思うでしょう。
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+プロジェクトの推進と運営、メンテナンスに予算と人員が必要なのであれば、その会話は早めに始めましょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+  オープンソースプロジェクトを始める時に、あなたの管理プロセスにおいて貢献やそのプロジェクトのコミュニティの能力が考慮されているかどうかを確かめておくのは大事なことです。プロジェクトの大事な部分であなたの企業に雇われていないコントリビュータを巻き込むことを恐れてはいけません - 特に彼らが頻繁に貢献をしてくれるのであれば。
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
   </p>
 </aside>
 
-### Contributing to other projects
+### 他のプロジェクトに貢献する
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+もしあなたのゴールが他の人とコラボレーションする方法を学んだり、オープンソースがどうやって機能しているのかを理解することなのであれば、既存のプロジェクトに貢献することも考えてみましょう。あなたが既に使っていて気に入っているプロジェクトから始めましょう。プロジェクトに貢献するのは誤植を直したり、ドキュメントを更新したりといったシンプルなものでもよいのです。
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+コントリビュータとして活動し始める方法がわからないのであれば、私達の[オープンソースに貢献する方法](../how-to-contribute/)をチェックしてみて下さい。
 
 ## Launching your own open source project
 
