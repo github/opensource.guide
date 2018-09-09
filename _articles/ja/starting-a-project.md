@@ -6,7 +6,7 @@ class: beginners
 toc:
   オープンソースとは何でなぜそれを行うのか: "オープンソースとは何でなぜそれを行うのか"
   自分自身のオープンソースプロジェクトを立ち上げるべき: "自分自身のオープンソースプロジェクトを立ち上げるべき？"
-  launching-your-own-open-source-project: "Launching your own open source project"
+  あなた自身のオープンソースプロジェクトを立ち上げる: "あなた自身のオープンソースプロジェクトを立ち上げる"
   naming-and-branding-your-project: "Naming and branding your project"
   your-pre-launch-checklist: "Your pre-launch checklist"
 order: 2
@@ -111,24 +111,24 @@ related:
 
 コントリビュータとして活動し始める方法がわからないのであれば、私達の[オープンソースに貢献する方法](../how-to-contribute/)をチェックしてみて下さい。
 
-## Launching your own open source project
+## あなた自身のオープンソースプロジェクトを立ち上げる
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+あなたの作品をオープンソースにするのに完璧なタイミングはありません。アイデアや作業中のもの、クローズドで何年も経ったものであってもオープンソースにできるのです。
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+一般的に言って、他の人があなたの作品をみて、フィードバックをくれることに対して苦痛がないのであれば、あなたのプロジェクトをオープンソースにするべきです。
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+あなたのプロジェクトをオープンソースをするのがどの段階であれ、全てのプロジェクトは下記のドキュメントを含んでいるべきです：
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [オープンソースライセンス](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+* [貢献のガイドライン](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [行動指針](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+メンテナーとして、これらの要素は期待値をコミュニケーションし、貢献をマネジメントし、すべての人（あなた自身も含む）の法的権利を守る助けになります。これらによってあなたが良い経験を積むことができる可能性を大幅に増やします。
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+もしあなたのプロジェクトがGitHub上にあるのであれば、これらのファイルを推奨されているファイル名でルートディレクトリに置くことで、GitHubがそれを認識し、見ている人に自動的に表示してくれます。
 
-### Choosing a license
+### ライセンスを選ぶ
 
 An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
 
