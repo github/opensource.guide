@@ -130,9 +130,9 @@ related:
 
 ### ライセンスを選ぶ
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+オープンソースライセンスは、他の人が恐れを感じることなくあなたのプロジェクトを使い、コピーし、修正し、貢献する事を保証します。また、あなたを法的な面倒事からも守ってくれます。**あなたがプロジェクトをオープンソースにするときは必ずライセンスを含めるようにしましょう。**
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+法的な作業は楽しくはありません。既存のライセンスをあなたのリポジトリにコピーペーストできるというのは良い知らせでしょう。あなたの大事な作品を守るのに1分しかかかりません。
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
 
