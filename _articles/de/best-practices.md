@@ -120,7 +120,7 @@ Wenn Sie einen Beitrag erhalten, den Sie nicht annehmen möchten, könnte Ihre e
 
 Lassen Sie keinen unerwünschten Beitrag offen, weil Sie sich schuldig fühlen oder nett sein wollen. Im Laufe der Zeit werden unbeantwortete Issues und PRs die Projektarbeit stressiger und einschüchternder machen.
 
-Schließen Sie Beiträge lieber sofort, von denen Sie wissen, dass Sie sie nicht annehmen wollen. Wenn Ihr Projekt bereits unter einem großen Rückstand leidet, hat @steveklabnik Vorschläge für [eine effiziente Behandlung von Issues](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Schließen Sie Beiträge lieber sofort, von denen Sie wissen, dass Sie sie nicht annehmen wollen. Wenn Ihr Projekt bereits unter einem großen Rückstand leidet, hat @steveklabnik Vorschläge für [eine effiziente Behandlung von Issues](http://words.steveklabnik.com/how-to-be-an-open-source-gardener) (Englisch).
 
 Zweitens sendet das Ignorieren von Beiträgen ein negatives Signal an die Gemeinschaft um Ihr Projekt. Einen Projektbeitrag einzureichen, kann einschüchternd sein, besonders für Neulinge. Auch wenn Sie ihren Beitrag nicht annehmen, danken Sie der einreichenden Person für ihr Interesse. Das ist ein großes Kompliment!
 
@@ -216,12 +216,10 @@ Wenn ein potenzieller Mitwirkender eine andere Meinung über das Ziel Ihres Proj
 
 Ein Projekt zu forken muss keine schlechte Sache sein. Projekte kopieren und modifizieren zu können, ist eine der besten Möglichkeiten, die Open Source mitbringt. Wenn Sie Ihre Community-Mitglieder zur Arbeit an eigenen Forks ermutigen, kann ein notwendiges Ventil für Kreativität bieten, die nicht mit der Vision Ihres Projekts in Konflikt gerät.
 
-Übersetzt mit www.DeepL.com/Translator
-
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
 
-  Ich kümmere mich um den 80%igen Anwendungsfall. Wenn du zu den Einhörnern gehörst, dann fork meine Arbeit. Ich werde mich nicht beleidigen lassen! Meine öffentlichen Projekte sind fast immer dazu gedacht, die häufigsten Probleme zu lösen; ich versuche, es mir leicht zu machen, tiefer zu gehen, indem ich meine Arbeit forke oder erweitere.
+  Ich kümmere mich um die normalen Anwendungsfälle. Wenn Du zu den Einhörnern gehörst, bitte forke meine Arbeit. Das nehme ich Dir nicht krumm! Meine öffentlichen Projekte sind fast immer dazu gedacht, die häufigsten Probleme zu lösen. Ich versuche, es Anderen leicht zu machen, darauf aufzubauen, indem sie meine Arbeit forken oder erweitern.
 
   _I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it._
 
