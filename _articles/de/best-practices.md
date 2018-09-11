@@ -37,18 +37,18 @@ Selbst wenn Sie keine vollständigen Absätze niederschreiben, ist es besser, St
 
 Denken Sie daran, Ihre Dokumentation auf dem neuesten Stand zu halten. Wenn Sie dies nicht immer tun können, löschen Sie Veraltetes oder markieren es als solches, damit die Mitwirkenden wissen, dass Updates gerne angenommen werden.
 
-### Schreiben Sie Ihre Projektsvision auf
+### Schreiben Sie Ihre Projektvision auf
 
 Schreiben Sie zunächst die Ziele Ihres Projekts auf. Fügen Sie sie Ihrer README hinzu oder erstellen Sie eine separate Datei namens VISION. Wenn es andere dafür nützliche Artefakte gibt (z.B. eine Projekt-Roadmap) machen Sie diese auch öffentlich.
 
-Eine klare, dokumentierte Vision hilft Ihnen, sich zu konzentrieren und das "Scope Creep" von Beiträgen anderer zu vermeiden.
+Eine klare, dokumentierte Vision hilft Ihnen, sich zu konzentrieren und den "Scope Creep" von Beiträgen anderer zu vermeiden.
 
-Zum Beispiel entdeckte @lord, dass ihm eine Projektvision herauszufinden half, auf welche Anfragen er Zeit verwenden sollte. Als frisch gebackener Maintainer bedauerte er, dass er sich nicht auf den Kern seines Projekts fokussiert hat, als er seine erste Feature-Anfrage für [Slate](https://github.com/lord/slate) erhielt.
+Zum Beispiel entdeckte @lord, dass eine Projektvision ihm herauszufinden half, in welche Anfragen er Zeit stecken sollte. Als frisch gebackener Maintainer bedauerte er, dass er sich nicht auf den Kern seines Projekts fokussiert hat, als er seine erste Feature-Anfrage für [Slate](https://github.com/lord/slate) erhielt.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
 
-  Ich habe es zurechtgefummelt. Ich habe mir nicht die Mühe gemacht, eine komplette Lösung zu finden. Statt einer halbherzigen Lösung wünschte ich, ich hätte gesagt: "Ich habe jetzt keine Zeit dafür, aber ich werde es auf die lange Nice-to-have-Liste setzen."
+  Ich habe es zurechtgefummelt. Ich habe mir nicht die Mühe gemacht, eine komplette Lösung zu finden. Statt einer halbherzigen Lösung wünschte ich, ich hätte gesagt: "Ich habe jetzt keine Zeit dafür, aber ich werde es auf die langfristige Wunschliste setzen."
 
   _I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."_
 
@@ -57,15 +57,13 @@ Zum Beispiel entdeckte @lord, dass ihm eine Projektvision herauszufinden half, a
   </p>
 </aside>
 
-### Communicate your expectations
-
-Kommunizieren Sie Ihre Erwartungen
+### Kommunizieren Sie Ihre Erwartungen
 
 Es kann nervenaufreibend sein, Regeln niederzuschreiben. Manchmal hat man das Gefühl, das Verhalten anderer Leute zu überwachen, oder ein Spaßverderber zu sein.
 
-Allerdings sind geschrieben und fair durchgesetzte Regeln nützlich für Projektbetreuer\*innen. Sie verhindern, dass man in Dinge hineingezogen wird, die man nicht tun will.
+Allerdings sind niedergeschriebene und fair durchgesetzte Regeln nützlich für Projektbetreuer\*innen. Sie verhindern, dass man in Dinge hineingezogen wird, die man nicht tun will.
 
-Die meisten Menschen, die auf Ihr Projekt stoßen, wissen nichts über Sie oder Ihre Lebensumstände. Sie können annehmen, dass Sie dafür bezahlt werden, daran zu arbeiten, insb. wenn sie Ihr Projekt regelmäßig benutzen und davon abhängig sind. Vielleicht haben Sie mal viel Zeit in Ihr Projekt gesteckt, sind aber jetzt mit einem neuen Job oder Familienmitglied beschäftigt.
+Die meisten Menschen, die auf Ihr Projekt stoßen, wissen nichts über Sie oder Ihre Lebensumstände. Sie können annehmen, dass Sie dafür bezahlt werden, daran zu arbeiten, insbesondere wenn sie Ihr Projekt regelmäßig benutzen und davon abhängig sind. Vielleicht haben Sie mal viel Zeit in Ihr Projekt gesteckt, sind aber jetzt mit einem neuen Job oder Familienmitglied beschäftigt.
 
 All das ist völlig in Ordnung! Stellen Sie nur sicher, dass Andere davon erfahren.
 
@@ -86,32 +84,32 @@ Vergessen Sie nicht, auch Ihre Interaktionen zu dokumentieren. Wo immer Sie kön
 
 Wenn Sie sich mit anderen Betreuer\*innen treffen oder eine wichtige Entscheidung privat treffen, dokumentieren Sie diese Gespräche in der Öffentlichkeit, selbst wenn es nur um die Veröffentlichung Ihrer Notizen geht.
 
-Auf diese Weise hat jede*r, der Ihrer Community beitritt, Zugang zu den gleichen Informationen wie jemand, der schon seit Jahren dort ist.
+Auf diese Weise haben alle Neulinge in Ihrer Community die selben Informationsmöglichkeiten wie Alteingesessene.
 
 ## Lernen, nein zu sagen
 
 Sie haben Dinge aufgeschrieben, und im Idealfall würden auch alle Ihre Dokumentation lesen. Allerdings werden Sie in Wirklichkeit andere daran erinnern müssen, dass dieses Wissen existiert.
 
-Alles aufgeschrieben zu haben, hilft jedoch, Situationen zu entpersönlichen, in denen Sie Ihre Regeln durchsetzen müssen.
+Alles zu verschriftlichen hilft, persönliche Befindlichkeiten aus Situationen zu entfernen, in denen Sie Ihre Regeln durchsetzen müssen.
 
 Nein zu sagen macht keinen Spaß, aber _"Ihr Beitrag entspricht nicht den Kriterien dieses Projekts"_ fühlt sich weniger persönlich an als _"Ich mag Ihren Beitrag nicht"_.
 
-Nein zu sagen gilt für viele Situationen, in denen Sie als Maintainer\*in auftreten werden: unnötige Arbeit für andere erledigen, Feature-Anfragen, die nicht in den Anwendungsbereich passen, jemand, der eine Diskussion entgleist, usw.
+Nein zu sagen hilft in viele Situationen, in denen Sie als Maintainer\*in auftreten werden: unnötige Arbeit für andere erledigen, Feature-Anfragen, die nicht in den Anwendungsbereich passen, jemand, der eine Diskussion entgleist, usw.
 
 ### Das Gespräch freundlich halten
 
-Einer der wichtigsten Orte, an denen Sie üben werden, Nein zu sagen, ist Ihr Issue Tracker und die Pull-Request-Liste. Als Projektbetreuer\*in werden Sie unweigerlich Vorschläge erhalten, die Sie nicht akzeptieren wollen.
+Die wichtigsten Orte, an denen Sie üben werden "Nein" zu sagen, sind Ihr Issue Tracker und die Pull-Request-Liste. Als Projektbetreuer\*in werden Sie unweigerlich Vorschläge erhalten, die Sie nicht akzeptieren wollen.
 
 Vielleicht verändert ein dort eingereichter Beitrag den Umfang Ihres Projekts oder passt nicht zu Ihrer Vision. Vielleicht ist die Idee gut, aber schlecht umgesetzt.
 
 Unabhängig vom Ablehnungsgrund ist es möglich, Beiträge, die nicht den Standards Ihres Projekts entsprechen, taktvoll zu behandeln.
 
-Wenn Sie einen Beitrag erhalten, den Sie nicht annehmen möchten, könnte Ihre erste Reaktion darin bestehen, ihn zu ignorieren oder so zu tun, als ob Sie ihn nicht gesehen hätten. Dies könnte die Gefühle der anderen Person verletzen und sogar andere potenzielle Mitwirkende in Ihrer Gemeinschaft demotivieren.
+Wenn Sie einen Beitrag erhalten, den Sie nicht annehmen möchten, könnte Ihre erste Reaktion darin bestehen, ihn zu ignorieren oder so zu tun, als ob Sie ihn nicht gesehen hätten. Dies könnte die Gefühle anderer Personen verletzen und sogar andere potenzielle Mitwirkende in Ihrer Gemeinschaft demotivieren. 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
 
-  Der Schlüssel zur Unterstützung großer Open-Source-Projekte liegt darin, die Issues in Bewegung zu halten. Versuchen Sie, Probleme zu vermeiden. Wenn Sie ein iOS-Entwickler sind, wissen Sie, wie frustrierend es sein kann, Radars einzureichen. Möglicherweise hören Sie 2 Jahre später zurück und werden aufgefordert, es erneut mit der neuesten Version von iOS zu versuchen.
+  Der Schlüssel zur Unterstützung großer Open-Source-Projekte liegt darin, die Issues in Bewegung zu halten. Versuchen Sie nicht Issues aufzuschieben. Wenn Sie ein iOS-Entwickler sind, wissen Sie, wie frustrierend es sein kann, Radars einzureichen: Sie bekommen 2 Jahre später vielleicht eine Antwort und werden dann angehalten, es nochmal mit der neusten iOS-Version zu probieren.
 
   _The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS._
 
@@ -124,7 +122,7 @@ Lassen Sie keinen unerwünschten Beitrag offen, weil Sie sich schuldig fühlen o
 
 Schließen Sie Beiträge lieber sofort, von denen Sie wissen, dass Sie sie nicht annehmen wollen. Wenn Ihr Projekt bereits unter einem großen Rückstand leidet, hat @steveklabnik Vorschläge für [eine effiziente Behandlung von Issues](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
-Zweitens sendet das Ignorieren von Beiträgen ein negatives Signal an die Gemeinschaft um Ihr Projekt. Einen Projektbeitrag einzureichen, kann einschüchternd sein, besonders für Neulinge. Auch wenn Sie ihren Beitrag nicht annehmen, danken Sie der einreichenden Person, für ihr Interesse. Das ist ein großes Kompliment!
+Zweitens sendet das Ignorieren von Beiträgen ein negatives Signal an die Gemeinschaft um Ihr Projekt. Einen Projektbeitrag einzureichen, kann einschüchternd sein, besonders für Neulinge. Auch wenn Sie ihren Beitrag nicht annehmen, danken Sie der einreichenden Person für ihr Interesse. Das ist ein großes Kompliment!
 
 Wenn Sie einen Betrag nicht annehmen wollen:
 
@@ -149,12 +147,12 @@ Wenn ein Beitrag nicht gut genug ist, sind Sie nicht verpflichtet, ihn anzunehme
 
 ### Seien Sie proaktiv
 
-Um das Volumen der unerwünschten Beiträge zu reduzieren, erklären Sie den Prozess der Einreichung und Annahme von Beiträgen in einem Kontributionsrichtlinie.
+Um das Volumen der unerwünschten Beiträge zu reduzieren, erklären Sie den Prozess der Einreichung und Annahme von Beiträgen in einem "Contribution Guide".
 
-Wenn Sie zu viele minderwertige Beiträge erhalten, verlangen Sie zum Beispiel, dass die Beitragszahler vorher ein wenig Arbeit leisten:
+Wenn Sie zu viele minderwertige Beiträge erhalten, verlangen Sie zum Beispiel, dass die Mitwirkenden vorher ein wenig Arbeit leisten, z.B.:
 
-* ein Issue oder PR Template oder eine Checkliste ausfüllen
-* ein Issue erstellen lassen, bevor ein PR eingereicht wird
+* eine Issue- oder PR-Vorlage/-Checkliste ausfüllen
+* ein Issue erstellen, bevor sie einen Pull Request einreichen
 
 Wer nicht Ihren Regeln folgt, dessen Issue können Sie sofort schließen und dabei auf Ihre Dokumentation verweisen.
 
