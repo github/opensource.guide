@@ -6,7 +6,7 @@ class: best-practices
 toc:
   was-bedeutet-es-eine-software-instand-zu-halten: "Was bedeutet es, eine Software instand zu halten?"
   dokumentieren-sie-ihre-prozesse: "Dokumentieren Sie Ihre Prozesse"
-  lernen-nein-zu-sagen: "Lernen, nein zu sagen"
+  lernen-nein-zu-sagen: "Lernen, \"Nein\" zu sagen"
   nutzen-sie-ihre-community: "Nutzen Sie Ihre Community"
   delegieren-sie-an-roboter: "Delegieren Sie an Roboter"
   es-ist-okay-pause-zu-machen: "Es ist okay, Pause zu machen"
@@ -31,7 +31,7 @@ Dinge aufzuschreiben ist eine der wichtigsten Aufgaben, die man als Maintainer\*
 
 Dokumentation verdeutlicht nicht nur Ihr eigenes Denken, sondern macht auch anderen Menschen verständlich, was Sie brauchen oder erwarten, bevor sie überhaupt fragen.
 
-Dinge aufzuschreiben macht es einfacher, nein zu sagen, wenn etwas nicht in den Anwendungsbereich passt. Es macht es auch einfacher für die Menschen, mitzumachen und zu helfen. Sie wissen nie, wer Ihr Projekt lesen oder nutzen könnte.
+Dinge aufzuschreiben macht es einfacher, "Nein" zu sagen, wenn etwas nicht in den Anwendungsbereich passt. Es macht es auch einfacher für die Menschen, mitzumachen und zu helfen. Sie wissen nie, wer Ihr Projekt lesen oder nutzen könnte.
 
 Selbst wenn Sie keine vollständigen Absätze niederschreiben, ist es besser, Stichworte aufzulisten, als gar nicht zu schreiben.
 
@@ -86,15 +86,15 @@ Wenn Sie sich mit anderen Betreuer\*innen treffen oder eine wichtige Entscheidun
 
 Auf diese Weise haben alle Neulinge in Ihrer Community die selben Informationsmöglichkeiten wie Alteingesessene.
 
-## Lernen, nein zu sagen
+## Lernen, "Nein" zu sagen
 
 Sie haben Dinge aufgeschrieben, und im Idealfall würden auch alle Ihre Dokumentation lesen. Allerdings werden Sie in Wirklichkeit andere daran erinnern müssen, dass dieses Wissen existiert.
 
 Alles zu verschriftlichen hilft, persönliche Befindlichkeiten aus Situationen zu entfernen, in denen Sie Ihre Regeln durchsetzen müssen.
 
-Nein zu sagen macht keinen Spaß, aber _"Ihr Beitrag entspricht nicht den Kriterien dieses Projekts"_ fühlt sich weniger persönlich an als _"Ich mag Ihren Beitrag nicht"_.
+"Nein" zu sagen macht keinen Spaß, aber _"Ihr Beitrag entspricht nicht den Kriterien dieses Projekts"_ fühlt sich weniger persönlich an als _"Ich mag Ihren Beitrag nicht"_.
 
-Nein zu sagen hilft in viele Situationen, in denen Sie als Maintainer\*in auftreten werden: unnötige Arbeit für andere erledigen, Feature-Anfragen, die nicht in den Anwendungsbereich passen, jemand, der eine Diskussion entgleist, usw.
+"Nein" zu sagen hilft in viele Situationen, in denen Sie als Maintainer\*in auftreten werden: unnötige Arbeit für andere erledigen, Feature-Anfragen, die nicht in den Anwendungsbereich passen, jemand, der eine Diskussion entgleist, usw.
 
 ### Das Gespräch freundlich halten
 
@@ -141,9 +141,9 @@ Wenn Ihnen der Gedanke, "Nein" zu sagen, Angst macht, sind Sie nicht allein. Wie
 
 > I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
 
-Fühlen Sie sich nicht schuldig, weil Sie den Beitrag von jemandem nicht annehmen wollen. Die erste Regel in Open-Source-Projekten, [nach](https://twitter.com/solomonstre/status/715277134978113536) @shykes lautet: "Nein ist vorübergehend, ja ist für immer." Obwohl es gut ist, sich in die Begeisterung einer anderen Person hineinzufühlen, ist die Ablehnung eines Beitrags nicht dasselbe wie die Ablehnung der Person dahinter.
+Fühlen Sie sich nicht schuldig, weil Sie den Beitrag von jemandem nicht annehmen wollen. Die erste Regel in Open-Source-Projekten, [nach](https://twitter.com/solomonstre/status/715277134978113536) @shykes lautet: "'Nein' ist vorübergehend, ja ist für immer." Obwohl es gut ist, sich in die Begeisterung einer anderen Person hineinzufühlen, ist die Ablehnung eines Beitrags nicht dasselbe wie die Ablehnung der Person dahinter.
 
-Wenn ein Beitrag nicht gut genug ist, sind Sie nicht verpflichtet, ihn anzunehmen. Seien Sie freundlich und reaktionsschnell, wenn Menschen zu Ihrem Projekt beitragen, aber akzeptieren Sie nur Änderungen, von denen Sie wirklich glauben, dass sie Ihr Projekt verbessern werden. Je öfter Sie Nein sagen, desto einfacher wird es. Versprochen.
+Wenn ein Beitrag nicht gut genug ist, sind Sie nicht verpflichtet, ihn anzunehmen. Seien Sie freundlich und reaktionsschnell, wenn Menschen zu Ihrem Projekt beitragen, aber akzeptieren Sie nur Änderungen, von denen Sie wirklich glauben, dass sie Ihr Projekt verbessern werden. Je öfter Sie "Nein" sagen, desto einfacher wird es. Versprochen.
 
 ### Seien Sie proaktiv
 
@@ -170,7 +170,7 @@ Auch wenn sich dieser Ansatz zunächst unfreundlich anfühlt, ist es für beide 
   </p>
 </aside>
 
-Manchmal, wenn Sie nein sagen, kann Ihr potenzieller Mitwirkender verärgert sein oder Ihre Entscheidung kritisieren. Wenn deren Verhalten feindselig wird, unternehmen Sie Schritte, um die Situation zu entschärfen](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) oder entfernen Sie sie sogar aus Ihrer Gemeinschaft, wenn keine Bereitschaft zur konstruktiven Zusammenzuarbeiten erkennbar ist.
+Manchmal, wenn Sie "Nein" sagen, kann Ihr potenzieller Mitwirkender verärgert sein oder Ihre Entscheidung kritisieren. Wenn deren Verhalten feindselig wird, unternehmen Sie Schritte, um die Situation zu entschärfen](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) oder entfernen Sie sie sogar aus Ihrer Gemeinschaft, wenn keine Bereitschaft zur konstruktiven Zusammenzuarbeiten erkennbar ist.
 
 ### Mentorschaft etablieren
 
