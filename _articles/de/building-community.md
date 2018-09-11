@@ -94,7 +94,7 @@ Auch wenn Sie die Anfrage nicht sofort inhaltlich prüfen können, hilft die fr�
 
 ![Pull-Request an Middleman](/assets/images/building-community/middleman_pr.png)
 
-[Eine Mozilla-Studie fand heraus, dass](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) Kontributionen\*innen, deren Codebeitrag innerhalb von 48 Stunden überprüft wurde, deutlich häufiger nochmal mithalfen.
+[Eine Mozilla-Studie fand heraus, dass](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) Kontributor\*innen, deren Codebeitrag innerhalb von 48 Stunden überprüft wurde, deutlich häufiger nochmal mithalfen.
 
 Ihr Projekt kann an allen möglichen Orten im Internet besprochen werden, wie z.B. auf Stack Overflow, Twitter oder Reddit. An einigen dieser Orte können Sie Benachrichtigungen einrichten, damit Sie mitbekommen, wenn jemand Ihr Projekt erwähnt.
 
@@ -150,7 +150,7 @@ Geben Sie in Ihrer CONTRIBUTING-Datei explizit an, wie sie anfangen sollen. Viel
 
 ![Djangos Startseite für neue Mitwirkende](/assets/images/building-community/django_new_contributors.png)
 
-Die Liste der Issues sollte durchsortiert sein, Bugs z.B. als solche markiert, sowie Issues auch für unterschiedliche potentielle Kontributionen\*innen: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first issue"_, oder _"documentation"_. [Solche  "Labels"](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) vereinfachen es Neuankömmlingen, sich in Ihrem Projekt zurechtzufinden und mit der Lösung eines Problems zu beginnen.
+Die Liste der Issues sollte durchsortiert sein, Bugs z.B. als solche markiert, sowie Issues auch für unterschiedliche potentielle Kontributor\*innen: z.B. [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first issue"_, oder _"documentation"_. [Solche  "Labels"](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) vereinfachen es Neuankömmlingen, sich in Ihrem Projekt zurechtzufinden und mit der Lösung eines Problems zu beginnen.
 
 Nicht zuletzt sollten Sie die Dokumentation nutzen, um Leute mit offenen Armen zu empfangen und ihnen Schritt-für-Schritt zu helfen.
 
