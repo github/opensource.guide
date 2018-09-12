@@ -134,36 +134,36 @@ related:
 
 法的な作業は楽しくはありません。既存のライセンスをあなたのリポジトリにコピーペーストできるというのは良い知らせでしょう。あなたの大事な作品を守るのに1分しかかかりません。
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/) や [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)、[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)が最も有名なオープンソースライセンスですが、[他の選択肢](https://choosealicense.com)もあります。
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+GitHub上に新しいプロジェクトを作るときは、ライセンスを選択する選択肢が表示されます。オープンソースライセンスを含めることで、あなたのGitHubプロジェクトはオープンソースになります。
 
 ![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+オープンソースプロジェクトを管理する上での法的な面でまだ疑問や懸念があるのであれば、[こちらを参照して下さい](../legal/)。
 
-### Writing a README
+### READMEを書く
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+READMEはあなたのプロジェクトをどうやって使うかを説明するだけにとどまりません。そこでは、なぜあなたのプロジェクトが重要なのか、そしてユーザーはあなたのプロジェクトで何ができるかということも説明するためのものです。
 
-In your README, try to answer the following questions:
+READMEには、下記の質問に答えるようにしましょう：
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* このプロジェクトは何をするものなのか？
+* なぜこのプロジェクトは便利なのか？
+* どのようにして使い始められるのか？How do I get started?
+* もし必要な場合、どうやったら助けを得られるか？
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+READMEでは、貢献をどのように扱うか、プロジェクトのゴールはなにか、ライセンスや帰属についての情報などといった他の疑問に答えるのに使うこともできる。もし貢献を受け入れたくなかったり、あなたのプロジェクトは運用に乗せる準備が整っていなかったりする場合は、その情報も書きましょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+  良いドキュメントを書くことで、ユーザーが増え、サポートのリクエストが減り、コントリビュータが増えることを意味します。（…）読者はあなたとは違うということを忘れないで下さい。完全に異なる経験を持った人がプロジェクトに来るかもしれないのです。
   <p markdown="1" class="pquote-credit">
 — @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
-Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+時々、プロジェクトが未完了であったり貢献を求めていないといった理由でREADMEを書くのを避ける人が居ます。これらもREADMEに書いておくと良いでしょう。
 
 For more inspiration, try using @18F's ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
 
