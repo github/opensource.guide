@@ -193,7 +193,7 @@ Andere zu ermutigen, [sich am Projekt zu beteiligen](../building-community/#teil
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
 
-  Ich hatte gesagt: "Ja, jeder kann mitmachen, man muss nicht viel Programmiererfahrung haben [...]." Wir hatten Leute, die sich angemeldet haben, um [zu einer Veranstaltung] zu kommen, und da habe ich mich wirklich gefragt: Ist das wahr, was ich gesagt habe? Es werden 40 Leute auftauchen, und es ist nicht so, dass ich bei jedem von ihnen sitzen kann... Aber die Leute kamen zusammen, und es hat einfach funktioniert. Sobald eine Person es verstand, konnte sie ihren Nachbarn unterrichten.
+  Ich hatte gesagt: "Ja, jeder kann mitmachen, man muss nicht viel Programmiererfahrung haben [...]." Wir hatten Leute, die sich angemeldet haben, um [zu einer Veranstaltung] zu kommen, und da habe ich mich wirklich gefragt: Ist das wahr, was ich gesagt habe? Es werden 40 Leute auftauchen und es ist nicht so, dass ich bei jedem von ihnen sitzen kann... Aber die Leute kamen zusammen, und es hat einfach funktioniert. Sobald eine Person es verstand, konnte sie ihren Nachbarn unterrichten.
 
   _I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor._
 
@@ -244,7 +244,7 @@ Eine der wichtigsten Möglichkeiten, wie Sie Ihr Projekt automatisieren können,
 
 Tests geben Mitwirkenden den Mut zu Änderungsvorschlägen, denn sie können nichts (unbemerkt) kaputt machen. Sie erleichtern es Ihnen selbst auch, Beiträge schnell zu prüfen und anzunehmen. Je reaktionsschneller Sie sind, desto engagierter kann Ihre Gemeinschaft sein.
 
-Richten Sie automatische Tests ein, die bei allen eingehenden Beiträgen ausgeführt werden, und stellen Sie sicher, dass Ihre Tests problemlos lokal von den Mitwirkenden ausgeführt werden können. Verlangen Sie, dass alle Codebeiträge Ihre Tests bestehen, bevor sie eingereicht werden können. Sie sichern einen Mindeststandards für die Qualität aller Einreichungen. [Verpflichtende Status-Checks](https://help.github.com/articles/about-required-status-checks/) auf GitHub können dazu beitragen, dass keine Änderungsvorschläge angenommen werden, die nicht Ihre Tests bestanden werden.
+Richten Sie automatische Tests ein, die bei allen eingehenden Beiträgen ausgeführt werden und stellen Sie sicher, dass Ihre Tests problemlos lokal von den Mitwirkenden ausgeführt werden können. Verlangen Sie, dass alle Codebeiträge Ihre Tests bestehen, bevor sie eingereicht werden können. Sie sichern einen Mindeststandards für die Qualität aller Einreichungen. [Verpflichtende Status-Checks](https://help.github.com/articles/about-required-status-checks/) auf GitHub können dazu beitragen, dass keine Änderungsvorschläge angenommen werden, die nicht Ihre Tests bestanden werden.
 
 Wenn Sie Tests hinzufügen, erklären Sie deren Funktionsweise in Ihrer CONTRIBUTING-Datei.
 
@@ -262,7 +262,7 @@ Wenn Sie Tests hinzufügen, erklären Sie deren Funktionsweise in Ihrer CONTRIBU
 
 ### Automatisieren Sie grundlegende Wartungsaufgaben
 
-Viele Maintainer\*innen populärer Projekte sind mit ähnlichen Problemen konfrontiert, und darum gibt es [viele fertig entwickelte  Lösung](https://github.com/showcases/tools-for-open-source), die Wartungsarbeiten automatisieren können. Einige Beispiele:
+Viele Maintainer\*innen populärer Projekte sind mit ähnlichen Problemen konfrontiert, und darum gibt es [viele fertig entwickelte Lösung](https://github.com/showcases/tools-for-open-source), die Wartungsarbeiten automatisieren können. Einige Beispiele:
 
 * [semantic-release](https://github.com/semantic-release/semantic-release) automatisiert Ihre Veröffentlichungen
 * [mention-bot](https://github.com/facebook/mention-bot) erwähnt potentielle Reviewer für Pull Requests
@@ -278,7 +278,7 @@ Wenn Ihre Standards jedoch zu kompliziert sind, können sie die Barriere mitzuar
 
 Wenn Sie sich nicht sicher sind, welche Tools Sie verwenden sollen, schauen Sie sich andere beliebte Projekte an, insbesondere in Ihrem technischen Ökosystem. Wie sieht beispielsweise der Beitragsprozess für andere Node-Module aus? Stellen Sie sicher, dass Sie nur genug Regeln hinzufügen, um allen das Leben leichter zu machen.
 
-Wenn Sie sich nicht sicher sind, welche Tools Sie verwenden sollen, schauen Sie sich an, was andere beliebte Projekte tun, insbesondere die in Ihrem Ökosystem. Wie sieht beispielsweise der Beitragsprozess für andere Knotenmodule aus? Durch die Verwendung ähnlicher Tools und Ansätze wird Ihr Prozess auch für Ihre Zielgruppe vertrauter.
+Wenn Sie sich nicht sicher sind, welche Tools Sie verwenden sollen, schauen Sie sich an, was andere beliebte Projekte tun, insbesondere die in Ihrem Ökosystem. Wie sieht beispielsweise der Beitragsprozess für andere Node-Module aus? Durch die Verwendung ähnlicher Tools und Ansätze wird Ihr Prozess auch für Ihre Zielgruppe vertrauter.
 
 ## Es ist okay, Pause zu machen
 
@@ -290,7 +290,7 @@ Burnout ist ein echtes und allgegenwärtiges Problem in der Open-Source-Arbeit, 
 
 Obwohl es gar nicht extra gesagt werden müsste: Machen Sie ruhig mal Urlaub! Sie sollten darauf nicht warten, bis Sie sich ausgebrannt fühlen. @brettcannon, ein Python-Kernentwickler, entschied sich nach 14 Jahren freiwilliger OSS-Arbeit für einen [einmonatigen Urlaub](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/).
 
-Genau wie bei jeder anderen Art von Arbeit werden Sie durch regelmäßige Pausen erfrischt, glücklich und wieder gespanntauf Ihre Arbeit sein.
+Genau wie bei jeder anderen Art von Arbeit werden Sie durch regelmäßige Pausen erfrischt, glücklich und wieder gespannt auf Ihre Arbeit sein.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
