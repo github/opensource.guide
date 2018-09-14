@@ -7,7 +7,7 @@ toc:
   オープンソースとは何でなぜそれを行うのか: "オープンソースとは何でなぜそれを行うのか"
   自分自身のオープンソースプロジェクトを立ち上げるべき: "自分自身のオープンソースプロジェクトを立ち上げるべき？"
   あなた自身のオープンソースプロジェクトを立ち上げる: "あなた自身のオープンソースプロジェクトを立ち上げる"
-  naming-and-branding-your-project: "Naming and branding your project"
+  あなたのプロジェクトに名前とブランドを付けよう: "あなたのプロジェクトに名前とブランドを付けよう"
   your-pre-launch-checklist: "Your pre-launch checklist"
 order: 2
 image: /assets/images/cards/beginner.png
