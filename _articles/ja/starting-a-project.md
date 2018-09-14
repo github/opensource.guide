@@ -165,41 +165,41 @@ READMEでは、貢献をどのように扱うか、プロジェクトのゴー�
 
 時々、プロジェクトが未完了であったり貢献を求めていないといった理由でREADMEを書くのを避ける人が居ます。これらもREADMEに書いておくと良いでしょう。
 
-For more inspiration, try using @18F's ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+さらなるヒントとしては、完全なREADMEを書くために@18Fの["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/)か@PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)を読んでみると良いでしょう。
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+READMEファイルをルートディレクトリに置くことで、GitHubが自動的にリポジトリのホームページに表示してくれます。
 
-### Writing your contributing guidelines
+### 貢献のガイドラインを書く
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+CONTRIBUTINGファイルはあなたのプロジェクトにどうやって参加するのかを伝えるためのものです。例えば、下記の様な情報を含めると良いでしょう：
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+* バグレポートの登録の仕方 ([イシューやプルリクエストのテンプレート](https://github.com/blog/2111-issue-and-pull-request-templates)を使ってみましょう)
+* 新しい機能の提案の仕方
+* 環境のセットアップとテストの実行の仕方
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+技術的な詳細に加えて、CONTRIBUTINGファイルは貢献に対する期待値を伝える機会でもあります。例えば：
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
+* あなたが求めている貢献の種類
+* プロジェクトのロードマップやビジョン
+* コントリビュータがどのようにしてあなたにコンタクトすべきか（もしくはすべきでないか）
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+暖かく友好的なトーンを使って、（ドキュメントを書く、もしくはウェブサイトを作る、といったような）貢献を具体的に提示することで、新しく来る人が歓迎されていて是非参加したいと思ってもらうのにとても役に立ちます。
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with:
+例えば、[Active Admin](https://github.com/activeadmin/activeadmin/)は[貢献ガイド](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)を下記の内容から始めた：
 
-> First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+> まずはじめに、Active Adminへの貢献を考えてくれてありがとうございます。あなたのような人々がActive Adminを偉大なツールにしているのです。
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+あなたのプロジェクトの最初期では、CONTRIBUTINGファイルはシンプルで大丈夫です。常にバグの報告の仕方かイシューの登録の仕方、貢献をする際の技術的な要求（テストなど）を書くようにしましょう。
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+時間が経つにつれて、CONTRIBUTINGファイルに頻繁に聞かれる質問を加えるでしょう。こういった情報を書くことによって、同じ質問を何度も繰り返ししてくる人が減っていくでしょう。
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+CONTRIBUTINGファイルを書くときに更に役に立つものとして、@nayafiaの[contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md)や@mozillaの["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/)も参考になるでしょう。
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+READMEにCONTRIBUTINGファイルへのリンクをすることで、より多くの人の目に触れるようになります。[CONTRIBUTINGファイルをプロジェクトのリポジトリに置くことで](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)、GitHubでコントリビュータがイシューを登録したり、プルリクエストをオープンする際に、そのファイルへのリンクが自動的に表示されます。
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
-### Establishing a code of conduct
+### 行動指針を定める
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">

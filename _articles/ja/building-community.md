@@ -31,7 +31,7 @@ As you build your community, consider how someone at the top of the funnel (a po
 Start with your documentation:
 
 * **Make it easy for someone to use your project.** [A friendly README](../starting-a-project/#READMEを書く) and clear code examples will make it easier for anyone who lands on your project to get started.
-* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) and keeping your issues up-to-date.
+* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../starting-a-project/#貢献のガイドラインを書く) and keeping your issues up-to-date.
 
 [GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) showed incomplete or confusing documentation is the biggest problem for open source users. Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
 
