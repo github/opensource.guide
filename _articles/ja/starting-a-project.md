@@ -122,7 +122,7 @@ related:
 * [オープンソースライセンス](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
 * [貢献のガイドライン](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [行動指針](../code-of-conduct/)
+* [行動規範](../code-of-conduct/)
 
 メンテナーとして、これらの要素は期待値をコミュニケーションし、貢献をマネジメントし、すべての人（あなた自身も含む）の法的権利を守る助けになります。これらによってあなたが良い経験を積むことができる可能性を大幅に増やします。
 
@@ -199,25 +199,25 @@ READMEにCONTRIBUTINGファイルへのリンクをすることで、より多�
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
-### 行動指針を定める
+### 行動規範を定める
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+  私達は皆、違反だと思われるような場面に遭遇したことがあります。ときにはメンテナとしてなぜそういったやり方でやるべきなのかを説明しようとしたり、時にはユーザーとして単純な質問をしたり。行動規範は、あなたのチームが生産的な議論を非常に真剣に捉えていることを示すために参照してリンクするためのドキュメントとして使うことができます。
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+最後に、行動規範はあなたのプロジェクトの参加者の行動に対する基本原則を設定する助けになります。これは特にあなたがコミュニティや会社のためのオープンソースを立ち上げる時に役に立ちます。行動規範は健康的で生産的なコミュニティの振る舞いを促進する助けになります。そして、あなたのメンテナとしてのストレスを減らしてくれるでしょう。
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+更に情報が必要な場合は、[行動規範ガイド](../code-of-conduct/)を見てみましょう。
 
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+プロジェクトの参加者に _どう_ 振る舞ってほしいかを伝えるのに加えて、行動規範では期待される行動が、誰に対して、いつ適用され、違反した場合には何をすべきなのかについても記載される傾向があります。
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+オープンソースライセンスによく似ていますが、行動規範にもスタンダードが出てきています。なので、あなた自身で書く必要はありません。[Contributor Covenant](https://contributor-covenant.org/)はカジュアルに使うことができる行動規範で、[40,000を超えるオープンソースプロジェクト](https://www.contributor-covenant.org/adopters)に使われており、そこにはKubernetes、RailsやSwiftも含まれます。どの文書を使うにしても、必要なときにはあなたの指針に従わせる準備をしておくべきです。
 
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
+あなたのリポジトリのCODE_OF_CONDUCTファイルに文書を直接貼り付けましょう。そのファイルをプロジェクトのルートディレクトリに置いておくことで、簡単に見つけることができ、READMEからリンクすることができます。
 
 ## Naming and branding your project
 
