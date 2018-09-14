@@ -219,18 +219,18 @@ READMEにCONTRIBUTINGファイルへのリンクをすることで、より多�
 
 あなたのリポジトリのCODE_OF_CONDUCTファイルに文書を直接貼り付けましょう。そのファイルをプロジェクトのルートディレクトリに置いておくことで、簡単に見つけることができ、READMEからリンクすることができます。
 
-## Naming and branding your project
+## あなたのプロジェクトに名前とブランドを付けよう
 
-Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
+ブランディングは華やかなロゴやキャッチーな名前以上のものです。それは、あなたのプロジェクトについてどう紹介し、あなたのメッセージが誰に届くのかということなのです。
 
-### Choosing the right name
+### 適切な名前を選ぶ
 
-Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
+覚えやすい名前を選びましょう。理想的には名前からそのプロジェクトが何をするのかがわかるようにしましょう。例：
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Sentry](https://github.com/getsentry/sentry)はクラッシュレポートのためにアプリケーションをモニターします
+* [Thin](https://github.com/macournoyer/thin)は高速でシンプルなRubyのウェブサーバーです
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+既存のプロジェクトに基づいて開発しているのであれば、その名前を頭につけることであなたのプロジェクトが何をするものかを明らかにする助けになります（例えば、[node-fetch](https://github.com/bitinn/node-fetch)はNode.jsに`window.fetch`を追加するものです）。
 
 Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
 
