@@ -176,7 +176,7 @@ Manchmal, wenn Sie "Nein" sagen, kann Ihr potenzieller Mitwirkender verärgert s
 
 Vielleicht reicht jemand in Ihrer Community regelmäßig Beiträge ein, die nicht den Standards Ihres Projekts entsprechen. Es kann für beide Seiten frustrierend sein, immer wieder Ablehnungen zu erfahren.
 
-Wenn Sie sehen, dass jemand von Ihrem Projekt begeistert ist, aber ein wenig aufpoliert werden muss, haben Sie Geduld. Erklären Sie in jeder Situation deutlich, warum die Beiträge nicht den Erwartungen des Projekts entsprechen. Versuchen Sie, sie auf eine einfachere oder weniger zweideutige Aufgabe hinzuweisen. Bspw. ein Problem, das mit _"good first issue"_ gekennzeichnet ist. Wenn Sie Zeit haben, erwägen Sie, die Person durch ihren ersten Beitrag zu betreuen, oder finden Sie jemand anders in Ihrer Community der/die bereit sein könnte, sie zu betreuen.
+Wenn Sie sehen, dass jemand von Ihrem Projekt begeistert ist, aber ein wenig aufpoliert werden muss, haben Sie Geduld. Erklären Sie in jeder Situation deutlich, warum die Beiträge nicht den Erwartungen des Projekts entsprechen. Versuchen Sie, sie auf eine einfachere oder weniger zweideutige Aufgabe hinzuweisen. Bspw. ein Problem, das mit _"good first issue"_ gekennzeichnet ist. Wenn Sie Zeit haben, erwägen Sie die Mitwirkenden durch ihren ersten Beitrag zu betreuen oder finden Sie jemand anders in Ihrer Community, der/die bereit sein könnte, sie zu betreuen.
 
 ## Nutzen Sie Ihre Community
 
@@ -193,7 +193,7 @@ Andere zu ermutigen, [sich am Projekt zu beteiligen](../building-community/#teil
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
 
-  Ich hatte gesagt: "Ja, jeder kann mitmachen, man muss nicht viel Programmiererfahrung haben [...]." Wir hatten Leute, die sich angemeldet haben, um [zu einer Veranstaltung] zu kommen, und da habe ich mich wirklich gefragt: Ist das wahr, was ich gesagt habe? Es werden 40 Leute auftauchen und es ist nicht so, dass ich bei jedem von ihnen sitzen kann... Aber die Leute kamen zusammen, und es hat einfach funktioniert. Sobald eine Person es verstand, konnte sie ihren Nachbarn unterrichten.
+  Ich hatte gesagt: "Ja, jeder kann mitmachen, man muss nicht viel Programmiererfahrung haben [...]." Wir hatten Leute, die sich angemeldet haben, um [zu einer Veranstaltung] zu kommen und da habe ich mich wirklich gefragt: Ist das wahr, was ich gesagt habe? Es werden 40 Leute auftauchen und es ist nicht so, dass ich bei jedem von ihnen sitzen kann... Aber die Leute kamen zusammen, und es hat einfach funktioniert. Sobald eine Person es verstand, konnte sie ihren Nachbarn unterrichten.
 
   _I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor._
 
@@ -251,7 +251,7 @@ Wenn Sie Tests hinzufügen, erklären Sie deren Funktionsweise in Ihrer CONTRIBU
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
 
-  Ich glaube, dass Tests für jeden Code, an dem Menschen arbeiten, notwendig sind. Wenn der Code vollständig und vollkommen korrekt wäre, müsste er nicht geändert werden - wir schreiben Code nur, wenn etwas nicht stimmt, sei es "Es stürzt ab" oder "Es fehlt ein dieses oder jenes Feature". Und unabhängig von den Änderungen, die Sie vornehmen, sind Tests unerlässlich, um versehentlich entstandene Regressionen abzufangen.
+  Ich glaube, dass Tests für jeden Code, an dem Menschen arbeiten, notwendig sind. Wenn der Code vollständig und vollkommen korrekt wäre, müsste er nicht geändert werden - wir schreiben Code nur, wenn etwas nicht stimmt, sei es "Es stürzt ab" oder "Es fehlt dieses oder jenes Feature". Unabhängig von den Änderungen, die Sie vornehmen, sind Tests unerlässlich, um versehentlich entstandene Regressionen abzufangen.
 
   _I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce._
 
@@ -262,7 +262,7 @@ Wenn Sie Tests hinzufügen, erklären Sie deren Funktionsweise in Ihrer CONTRIBU
 
 ### Automatisieren Sie grundlegende Wartungsaufgaben
 
-Viele Maintainer\*innen populärer Projekte sind mit ähnlichen Problemen konfrontiert, und darum gibt es [viele fertig entwickelte Lösung](https://github.com/showcases/tools-for-open-source), die Wartungsarbeiten automatisieren können. Einige Beispiele:
+Viele Maintainer\*innen populärer Projekte sind mit ähnlichen Problemen konfrontiert, darum gibt es [viele fertig entwickelte Lösung](https://github.com/showcases/tools-for-open-source), die Wartungsarbeiten automatisieren können. Einige Beispiele:
 
 * [semantic-release](https://github.com/semantic-release/semantic-release) automatisiert Ihre Veröffentlichungen
 * [mention-bot](https://github.com/facebook/mention-bot) erwähnt potentielle Reviewer für Pull Requests
@@ -276,8 +276,6 @@ Wenn Sie etwas fortgeschrittener werden wollen, können Stilvorgaben und Linter 
 
 Wenn Ihre Standards jedoch zu kompliziert sind, können sie die Barriere mitzuarbeiten erhöhen. Stellen Sie sicher, dass Sie nur gerade genug Regeln einführen, um allen das Leben leichter zu machen.
 
-Wenn Sie sich nicht sicher sind, welche Tools Sie verwenden sollen, schauen Sie sich andere beliebte Projekte an, insbesondere in Ihrem technischen Ökosystem. Wie sieht beispielsweise der Beitragsprozess für andere Node-Module aus? Stellen Sie sicher, dass Sie nur genug Regeln hinzufügen, um allen das Leben leichter zu machen.
-
 Wenn Sie sich nicht sicher sind, welche Tools Sie verwenden sollen, schauen Sie sich an, was andere beliebte Projekte tun, insbesondere die in Ihrem Ökosystem. Wie sieht beispielsweise der Beitragsprozess für andere Node-Module aus? Durch die Verwendung ähnlicher Tools und Ansätze wird Ihr Prozess auch für Ihre Zielgruppe vertrauter.
 
 ## Es ist okay, Pause zu machen
@@ -288,9 +286,9 @@ Vielleicht fühlen Sie sich überfordert oder spüren eine wachsende Angst, wenn
 
 Burnout ist ein echtes und allgegenwärtiges Problem in der Open-Source-Arbeit, vor allem bei Maintainer\*innen. Dabei ist Ihr Wohlbefinden eine unabdingbare Voraussetzung für das Überleben eines jeden Open-Source-Projekts.
 
-Obwohl es gar nicht extra gesagt werden müsste: Machen Sie ruhig mal Urlaub! Sie sollten darauf nicht warten, bis Sie sich ausgebrannt fühlen. @brettcannon, ein Python-Kernentwickler, entschied sich nach 14 Jahren freiwilliger OSS-Arbeit für einen [einmonatigen Urlaub](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/).
+Obwohl es gar nicht extra gesagt werden müsste: Machen Sie ruhig mal Urlaub! Sie sollten darauf nicht warten, bis Sie sich ausgebrannt fühlen. @brettcannon, ein Python Core Devloper, entschied sich nach 14 Jahren freiwilliger OSS-Arbeit für einen [einmonatigen Urlaub](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/).
 
-Genau wie bei jeder anderen Art von Arbeit werden Sie durch regelmäßige Pausen erfrischt, glücklich und wieder gespannt auf Ihre Arbeit sein.
+Genau wie bei jeder anderen Art von Arbeit, werden Sie durch regelmäßige Pausen erholt, glücklich und wieder gespannt auf Ihre Arbeit sein.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
@@ -312,4 +310,4 @@ Pausen gelten nicht nur für den Urlaub. Wenn Sie keine Open-Source-Arbeit am Wo
 
 ## Achten Sie zuerst auf sich!
 
-Die Aufrechterhaltung eines beliebten Projekts erfordert andere Fähigkeiten als die früheren Phasen des Wachstums, aber es ist nicht weniger lohnend. Als Maintainer\*in üben Sie Führung und persönliche Fähigkeiten auf einem Niveau, das nur wenige Menschen erleben. Es ist zwar nicht immer einfach zu handhaben, aber klare Grenzen zu setzen und nur das zu übernehmen, womit Sie sich wohlfühlen, hilft Ihnen, glücklich, erfrischt und produktiv zu bleiben.
+Die Aufrechterhaltung eines beliebten Projekts erfordert andere Fähigkeiten als die früheren Phasen des Wachstums, aber es ist nicht weniger lohnend. Als Maintainer\*in üben Sie Führung und persönliche Fähigkeiten auf einem Niveau, das nur wenige Menschen erleben. Es ist zwar nicht immer einfach zu handhaben, aber klare Grenzen zu setzen und nur das zu übernehmen, womit Sie sich wohlfühlen, hilft Ihnen, glücklich, erholt und produktiv zu bleiben.
