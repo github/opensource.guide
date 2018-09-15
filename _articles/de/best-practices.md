@@ -288,7 +288,7 @@ Burnout ist ein echtes und allgegenwärtiges Problem in der Open-Source-Arbeit, 
 
 Obwohl es gar nicht extra gesagt werden müsste: Machen Sie ruhig mal Urlaub! Sie sollten darauf nicht warten, bis Sie sich ausgebrannt fühlen. @brettcannon, ein Python Core Developer, entschied sich nach 14 Jahren freiwilliger OSS-Arbeit für einen [einmonatigen Urlaub](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/).
 
-Genau wie bei jeder anderen Art von Arbeit, werden Sie durch regelmäßige Pausen erholt, glücklich und wieder gespannt auf Ihre Arbeit sein.
+Genau wie bei jeder anderen Art von Arbeit, werden Sie durch regelmäßige Pausen ausgeruht, glücklich und wieder gespannt auf Ihre Arbeit sein.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
@@ -310,4 +310,4 @@ Pausen gelten nicht nur für den Urlaub. Wenn Sie keine Open-Source-Arbeit am Wo
 
 ## Achten Sie zuerst auf sich!
 
-Die Aufrechterhaltung eines beliebten Projekts erfordert andere Fähigkeiten als die früheren Phasen des Wachstums, aber es ist nicht weniger lohnend. Als Maintainer\*in üben Sie Führung und persönliche Fähigkeiten auf einem Niveau, das nur wenige Menschen erleben. Es ist zwar nicht immer einfach zu handhaben, aber klare Grenzen zu setzen und nur das zu übernehmen, womit Sie sich wohlfühlen, hilft Ihnen, glücklich, erholt und produktiv zu bleiben.
+Die Aufrechterhaltung eines beliebten Projekts erfordert andere Fähigkeiten als die früheren Phasen des Wachstums, aber es ist nicht weniger lohnend. Als Maintainer\*in üben Sie Führung und persönliche Fähigkeiten auf einem Niveau, das nur wenige Menschen erleben. Es ist zwar nicht immer einfach zu handhaben, aber klare Grenzen zu setzen und nur das zu übernehmen, womit Sie sich wohlfühlen, hilft Ihnen, glücklich, ausgeruht und produktiv zu bleiben.
