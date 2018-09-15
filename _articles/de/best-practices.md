@@ -286,7 +286,7 @@ Vielleicht fühlen Sie sich überfordert oder spüren eine wachsende Angst, wenn
 
 Burnout ist ein echtes und allgegenwärtiges Problem in der Open-Source-Arbeit, vor allem bei Maintainer\*innen. Dabei ist Ihr Wohlbefinden eine unabdingbare Voraussetzung für das Überleben eines jeden Open-Source-Projekts.
 
-Obwohl es gar nicht extra gesagt werden müsste: Machen Sie ruhig mal Urlaub! Sie sollten darauf nicht warten, bis Sie sich ausgebrannt fühlen. @brettcannon, ein Python Core Devloper, entschied sich nach 14 Jahren freiwilliger OSS-Arbeit für einen [einmonatigen Urlaub](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/).
+Obwohl es gar nicht extra gesagt werden müsste: Machen Sie ruhig mal Urlaub! Sie sollten darauf nicht warten, bis Sie sich ausgebrannt fühlen. @brettcannon, ein Python Core Developer, entschied sich nach 14 Jahren freiwilliger OSS-Arbeit für einen [einmonatigen Urlaub](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/).
 
 Genau wie bei jeder anderen Art von Arbeit, werden Sie durch regelmäßige Pausen erholt, glücklich und wieder gespannt auf Ihre Arbeit sein.
 
