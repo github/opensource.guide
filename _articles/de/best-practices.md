@@ -176,7 +176,7 @@ Manchmal, wenn Sie "Nein" sagen, kann Ihr potenzieller Mitwirkender verärgert s
 
 Vielleicht reicht jemand in Ihrer Community regelmäßig Beiträge ein, die nicht den Standards Ihres Projekts entsprechen. Es kann für beide Seiten frustrierend sein, immer wieder Ablehnungen zu erfahren.
 
-Wenn Sie sehen, dass jemand von Ihrem Projekt begeistert ist, aber ein wenig aufpoliert werden muss, haben Sie Geduld. Erklären Sie in jeder Situation deutlich, warum die Beiträge nicht den Erwartungen des Projekts entsprechen. Versuchen Sie, sie auf eine einfachere oder weniger zweideutige Aufgabe hinzuweisen. Bspw. ein Problem, das mit _"good first issue"_ gekennzeichnet ist. Wenn Sie die Zeit dazu haben, erwägen Sie folgendes: Die oder den Mitwirkenden durch den ersten Beitragsprozess hindurch anzuleiten oder finden Siein Ihrer Community jemanden, der/die zu einer solchen Betreuung bereit sein könnte.
+Wenn Sie sehen, dass jemand von Ihrem Projekt begeistert ist, aber ein wenig aufpoliert werden muss, haben Sie Geduld. Erklären Sie in jeder Situation deutlich, warum die Beiträge nicht den Erwartungen des Projekts entsprechen. Versuchen Sie, sie auf eine einfachere oder weniger zweideutige Aufgabe hinzuweisen. Bspw. ein Problem, das mit _"good first issue"_ gekennzeichnet ist. Wenn Sie die Zeit dazu haben, erwägen Sie folgendes: Die oder den Mitwirkenden durch den ersten Beitragsprozess hindurch anzuleiten oder finden Sie in Ihrer Community jemanden, der/die zu einer solchen Betreuung bereit sein könnte.
 
 ## Nutzen Sie Ihre Community
 
