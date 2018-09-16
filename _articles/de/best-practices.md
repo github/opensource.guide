@@ -206,8 +206,10 @@ Wenn Sie sich aus Ihrem Projekt zurückziehen müssen (egal ob temporär oder au
 
 Wenn andere Leute von Ihrer Projektrichtung begeistert sind, gewähren Sie ihnen Commit-Rechte oder übergeben Sie formell die Kontrolle. Wenn jemand einen Fork Ihres Projektes erstellt hat, und es an anderer Stelle aktiv pflegt, sollten Sie in Erwägung ziehen, aus Ihrem ursprünglichen Projekt heraus auf den Fork zu verweisen. Es ist großartig, dass Menschen Ihr Projekt weiterleben sehen wollen!
 
-@progrium [found that](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
+@progrium [fand heraus](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) (Englisch), dass die Vision für sein Projekt [Dokku](https://github.com/dokku/dokku) zu dokumentieren, auch nach seinem Rückzug ihr im Projekt weiter zu leben half:
 
+> Ich habe eine Wiki-Seite geschrieben, die beschreibt, was ich wollte und warum ich es wollte. Aus irgendeinem Grund war es für mich eine Überraschung, dass die Maintainer\*innen das Projekt in diese Richtung bewegten! Ist es genau so passiert, wie ich es getan habe? Nicht immer. Aber sie brachten das Projekt trotzdem näher an das heran, was ich aufgeschrieben habe.
+> 
 > I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
 
 ### Lassen Sie Andere auch eigene Lösungen bauen
