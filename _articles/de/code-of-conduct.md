@@ -67,7 +67,7 @@ Sie sollten Leuten einen privaten Weg (z.B. eine E-Mail-Adresse) geben, um einen
 Vergessen Sie nicht, dass jemand einen Verstoß über eine Person melden möchte, die diese Berichte erhält. Geben Sie ihnen in diesem Fall die Möglichkeit, Verstöße an eine andere Person zu melden. @ctb und @mr-c zum Beispiel [erklären zu ihrem Projekt](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
 > Fälle von missbräuchlichem, belästigendem oder anderweitig inakzeptablem Verhalten können per E-Mail an **khmer-project@idyll.org** gemeldet werden, die nur an C. Titus Brown und Michael R. Crusoe geht. Um ein Problem zu melden, das einen von ihnen betrifft, senden Sie bitte eine E-Mail an **Judi Brown Clarke, Ph.D.** den Diversity Director am BEACON Center for the Study of Evolution in Action, einem NSF Center for Science and Technology.*
->
+> 
 > Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
 
 Django's [Enforcement Manual](https://www.djangoproject.com/conduct/enforcement-manual/) dürfte für Sie eine gute Vorlage liefern, auch wenn Sie für ein kleineres Projekt vielleicht weniger umfassende Regeln benötigen.

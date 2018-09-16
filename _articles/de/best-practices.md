@@ -138,7 +138,7 @@ Sie sollten nicht mehr als 1-2 Sätze benötigen, um zu antworten. Als beispiels
 Wenn Ihnen der Gedanke, "Nein" zu sagen, Angst macht, sind Sie nicht allein. Wie @jessfraz [es formulierte](https://blog.jessfraz.com/post/the-art-of-closing/):
 
 > Ich habe mit Maintainern aus verschiedenen Open-Source-Projekten gesprochen, Mesos, Kubernetes, Chromium, und sie alle sind sich einig, dass einer der schwierigsten Aspekte des Maintainers darin besteht, "Nein" zu Patches zu sagen, die man nicht will.
-
+> 
 > I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
 
 Fühlen Sie sich nicht schuldig, weil Sie den Beitrag von jemandem nicht annehmen wollen. Die erste Regel in Open-Source-Projekten, [nach](https://twitter.com/solomonstre/status/715277134978113536) @shykes lautet: "'Nein' ist vorübergehend, ja ist für immer." Obwohl es gut ist, sich in die Begeisterung einer anderen Person hineinzufühlen, ist die Ablehnung eines Beitrags nicht dasselbe wie die Ablehnung der Person dahinter.
