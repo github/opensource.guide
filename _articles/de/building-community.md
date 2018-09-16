@@ -37,8 +37,8 @@ Beginnen Sie mit der Dokumentation:
 
 * **Wenn Leute neu auf Ihrem Projekt landen, danken Sie ihnen für ihr Interesse!** Es braucht nur eine negative Erfahrung, um jemanden nachhaltig abzuschrecken.
 * **Antworten Sie schnell.** Wenn Sie einen Monat lang nicht auf jemandes Issue reagieren, ist es wahrscheinlich, dass diese Person Ihr Projekt bereits vergessen hat.
-* **Nehmen Sie verschiedener Beitragsarten an.** Viele Mitwirkende beginnen mit einem Fehlerbericht oder einer kleinen Korrektur: Es gibt [viele Möglichkeiten, einen Beitrag zu leisten](../how-to-contribute/#what-it-means-to-contribute) zu einem Projekt. Lassen Sie Leute so helfen, wie diese es möchten.
-* **Wenn es einen Beitrag gibt, mit dem Sie nicht einverstanden sind,** bedanken Sie sich trotzdem, aber [erkläre warum](../best-practices/#learning-to-say-no) die Idee nicht in den Projektrahmen passt. Verlinken Sie auf relevante Dokumentation, wenn vorhanden.
+* **Nehmen Sie verschiedener Beitragsarten an.** Viele Mitwirkende beginnen mit einem Fehlerbericht oder einer kleinen Korrektur: Es gibt [viele Möglichkeiten, einen Beitrag zu leisten](../how-to-contribute/#was-einen-beitrag-leisten-bedeutet) zu einem Projekt. Lassen Sie Leute so helfen, wie diese es möchten.
+* **Wenn es einen Beitrag gibt, mit dem Sie nicht einverstanden sind,** bedanken Sie sich trotzdem, aber [erkläre warum](../best-practices/#lernen-nein-zu-sagen) die Idee nicht in den Projektrahmen passt. Verlinken Sie auf relevante Dokumentation, wenn vorhanden.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
