@@ -100,7 +100,7 @@ Alternativ können Sie auch im Voraus bestimmte Lizenzänderungen unter bestimmt
 
 ## Benötigt mein Projekt eine zusätzliche Kontributionsvereinbarung?
 
-Wahrscheinlich nicht. Für die überwiegende Mehrheit der Open-Source-Projekte gilt eine Open-Source-Lizenz implizit sowohl für reinkommende Beiträge als auch ausgehend an andere Mitwirkende und Benutzer\*innen. Wenn Ihr Projekt auf GitHub steht, machen GitHubs Terms of Service diese "inbound=outbound" genannte Praxis zum [expliziten Standard] (https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
+Wahrscheinlich nicht. Für die überwiegende Mehrheit der Open-Source-Projekte gilt eine Open-Source-Lizenz implizit sowohl für reinkommende Beiträge als auch ausgehend an andere Mitwirkende und Benutzer\*innen. Wenn Ihr Projekt auf GitHub steht, machen GitHubs Terms of Service diese "inbound=outbound" genannte Praxis zum [expliziten Standard](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
 
 Eine zusätzliche Kontributionsvereinbarung - oft auch Contributor License Agreement (CLA) genannt - kann Verwaltungsarbeit für die Projektbetreuer\*in schaffen. Hierbei hängt der Umfang der zusätzlichen Arbeit vom Projekt und der Implementierung ab. Eine einfache Vereinbarung erfordert, dass die Kontributor\*innen mit einem Klick bestätigen, dass sie die erforderlichen Rechte innehaben, um zum Projekts im Rahmen dessen Open-Source-Lizenz beizutragen.
 
@@ -177,5 +177,5 @@ Längerfristig kann Ihre Rechtsabteilung mehr tun, um dem Unternehmen zu helfen,
   </p>
 </aside>
 
-* **Patente:** Ihr Unternehmen kann dem [Open Invention Network] (https://www.openinventionnetwork.com/) beitreten: Einem gemeinsamen defensiven Patent-Pool, um die Nutzung großer Open-Source-Projekte durch Mitglieder zu schützen, oder kann andere [alternative Patentlizenzen] (https://www.eff.org/document/hacking-patent-system-2016) in Betracht ziehen.
+* **Patente:** Ihr Unternehmen kann dem [Open Invention Network](https://www.openinventionnetwork.com/) beitreten: Einem gemeinsamen defensiven Patent-Pool, um die Nutzung großer Open-Source-Projekte durch Mitglieder zu schützen, oder kann andere [alternative Patentlizenzen](https://www.eff.org/document/hacking-patent-system-2016) in Betracht ziehen.
 * **Governance:** Vor allem, wenn es sinnvoll ist, ein Projekt in eine [juristische Person außerhalb des Unternehmens](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project) zu verlegen.

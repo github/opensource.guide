@@ -37,8 +37,8 @@ Beginnen Sie mit der Dokumentation:
 
 * **Wenn Leute neu auf Ihrem Projekt landen, danken Sie ihnen für ihr Interesse!** Es braucht nur eine negative Erfahrung, um jemanden nachhaltig abzuschrecken.
 * **Antworten Sie schnell.** Wenn Sie einen Monat lang nicht auf jemandes Issue reagieren, ist es wahrscheinlich, dass diese Person Ihr Projekt bereits vergessen hat.
-* **Nehmen Sie verschiedener Beitragsarten an.** Viele Mitwirkende beginnen mit einem Fehlerbericht oder einer kleinen Korrektur: Es gibt [viele Möglichkeiten, einen Beitrag zu leisten](../how-to-contribute/#what-it-means-to-contribute) zu einem Projekt. Lassen Sie Leute so helfen, wie diese es möchten.
-* **Wenn es einen Beitrag gibt, mit dem Sie nicht einverstanden sind,** bedanken Sie sich trotzdem, aber [erkläre warum](../best-practices/#learning-to-say-no) die Idee nicht in den Projektrahmen passt. Verlinken Sie auf relevante Dokumentation, wenn vorhanden.
+* **Nehmen Sie verschiedener Beitragsarten an.** Viele Mitwirkende beginnen mit einem Fehlerbericht oder einer kleinen Korrektur: Es gibt [viele Möglichkeiten, einen Beitrag zu leisten](../how-to-contribute/#was-einen-beitrag-leisten-bedeutet) zu einem Projekt. Lassen Sie Leute so helfen, wie diese es möchten.
+* **Wenn es einen Beitrag gibt, mit dem Sie nicht einverstanden sind,** bedanken Sie sich trotzdem, aber [erkläre warum](../best-practices/#lernen-nein-zu-sagen) die Idee nicht in den Projektrahmen passt. Verlinken Sie auf relevante Dokumentation, wenn vorhanden.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
@@ -90,11 +90,11 @@ Wenn Sie [für Ihr Projekt werben](../finding-users), werden Leute Ihnen Rückme
 
 Versuchen Sie, schnell zu reagieren, wenn jemand ein Issue oder einen Pull-Request einreicht, oder eine Frage zu Ihrem Projekt stellt. Eine schnell Antwort gibt den Leuten das Gefühl, an einem Dialog teilzunehmen, und das kann ermutigend wirken, weiter mitzuhelfen.
 
-Auch wenn Sie die Anfrage nicht sofort inhaltlich prüfen können, hilft die frühzeitige Bestätigung, das Engagement zu erhöhen. Ein Beispiel: @tdreyno reagiert auf einen Pull-Request an [Middleman] (https://github.com/middleman/middleman/pull/1466):
+Auch wenn Sie die Anfrage nicht sofort inhaltlich prüfen können, hilft die frühzeitige Bestätigung, das Engagement zu erhöhen. Ein Beispiel: @tdreyno reagiert auf einen Pull-Request an [Middleman](https://github.com/middleman/middleman/pull/1466):
 
 ![Pull-Request an Middleman](/assets/images/building-community/middleman_pr.png)
 
-[Eine Mozilla-Studie fand heraus, dass](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) Kontributionen\*innen, deren Codebeitrag innerhalb von 48 Stunden überprüft wurde, deutlich häufiger nochmal mithalfen.
+[Eine Mozilla-Studie fand heraus, dass](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) Kontributor\*innen, deren Codebeitrag innerhalb von 48 Stunden überprüft wurde, deutlich häufiger nochmal mithalfen.
 
 Ihr Projekt kann an allen möglichen Orten im Internet besprochen werden, wie z.B. auf Stack Overflow, Twitter oder Reddit. An einigen dieser Orte können Sie Benachrichtigungen einrichten, damit Sie mitbekommen, wenn jemand Ihr Projekt erwähnt.
 
@@ -150,7 +150,7 @@ Geben Sie in Ihrer CONTRIBUTING-Datei explizit an, wie sie anfangen sollen. Viel
 
 ![Djangos Startseite für neue Mitwirkende](/assets/images/building-community/django_new_contributors.png)
 
-Die Liste der Issues sollte durchsortiert sein, Bugs z.B. als solche markiert, sowie Issues auch für unterschiedliche potentielle Kontributionen\*innen: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first issue"_, oder _"documentation"_. [Solche  "Labels"](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) vereinfachen es Neuankömmlingen, sich in Ihrem Projekt zurechtzufinden und mit der Lösung eines Problems zu beginnen.
+Die Liste der Issues sollte durchsortiert sein, Bugs z.B. als solche markiert, sowie Issues auch für unterschiedliche potentielle Kontributor\*innen: z.B. [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first issue"_, oder _"documentation"_. [Solche  "Labels"](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) vereinfachen es Neuankömmlingen, sich in Ihrem Projekt zurechtzufinden und mit der Lösung eines Problems zu beginnen.
 
 Nicht zuletzt sollten Sie die Dokumentation nutzen, um Leute mit offenen Armen zu empfangen und ihnen Schritt-für-Schritt zu helfen.
 
@@ -246,9 +246,9 @@ Ihre README-Datei ist [mehr als nur eine Anleitung](../starting-a-project/#eine-
 
 Einige Projekte nutzen einen Abstimmungsprozess, um wichtige Entscheidungen zu treffen. Auf den ersten Blick ist es sinnvoll, so eine Antwort zu finden, anstatt sich gegenseitig zuzuhören und auf die Sichtweisen Anderer einzugehen.
 
-Abstimmungen können aber politisch werden, wenn sich die Community-Mitglieder unter Druck gesetzt fühlen, sich gegenseitig einen Gefallen zu tun oder auf eine bestimmte Art und Weise abzustimmen. Außerdem stimmt nicht jede\*r mit ab, was die [stille Mehrheit] (https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in Ihrer Gemeinschaft sein kann, oder neue Benutzer\*innen, die nicht wussten, dass eine Abstimmung stattfindet.
+Abstimmungen können aber politisch werden, wenn sich die Community-Mitglieder unter Druck gesetzt fühlen, sich gegenseitig einen Gefallen zu tun oder auf eine bestimmte Art und Weise abzustimmen. Außerdem stimmt nicht jede\*r mit ab, was die [stille Mehrheit](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in Ihrer Gemeinschaft sein kann, oder neue Benutzer\*innen, die nicht wussten, dass eine Abstimmung stattfindet.
 
-Manchmal ist eine Abstimmung notwendig, um ein Patt aufzulösen. Aber soviel Sie können, betonen Sie die  [Konsensfindung](https://de.wikipedia.org/wiki/Konsensprinzip) statt des Konsenses an sich.
+Manchmal ist eine Abstimmung notwendig, um ein Patt aufzulösen. Aber soviel Sie können, betonen Sie die [Konsensfindung](https://de.wikipedia.org/wiki/Konsensprinzip) statt des Konsenses an sich.
 
 Im Rahmen der Konsensfindungsprozesses diskutieren die Mitglieder der Gemeinschaft wichtige Anliegen, bis sie das Gefühl haben, angemessen gehört worden zu sein, und wenn nur noch geringe Bedenken bestehen, kommt die Gemeinschaft voran. Die Konsensfindung erkennt an, dass eine Gemeinschaft möglicherweise keine perfekte Antwort finden kann. Stattdessen priorisiert sie das Zuhören und die Diskussion.
 
@@ -274,7 +274,7 @@ Diskussionen sind wichtig, aber es gibt einen Unterschied zwischen produktiven u
 
 Fördern Sie Diskussionen, die sich aktiv auf eine Lösung zubewegen: Wenn klar ist, dass Dinge zerredet werden oder die Konversation vom Thema abweicht, persönliche Anfeindungen passieren, oder die Leute sich über kleine Details streiten, ist es an der Zeit, die Diskussion zu beenden.
 
-Die Fortsetzung solcher Diskussionen ist nicht nur schlecht für das jeweilige Thema, sondern auch für die Gesundheit Ihrer Gemeinschaft. Wenn die Botschaft vermittelt wird, dass unproduktive Diskussionen  erlaubt oder sogar gefördert werden, könnten Leute zukünftig davon abgehalten werden, Probleme anzusprechen oder zu lösen.
+Die Fortsetzung solcher Diskussionen ist nicht nur schlecht für das jeweilige Thema, sondern auch für die Gesundheit Ihrer Gemeinschaft. Wenn die Botschaft vermittelt wird, dass unproduktive Diskussionen erlaubt oder sogar gefördert werden, könnten Leute zukünftig davon abgehalten werden, Probleme anzusprechen oder zu lösen.
 
 Bei jedem Diskussionsbeitrag ihrerseits, oder von Anderen, sollten Sie sich fragen _"Wie bringt uns dies einer Lösung näher?"_
 

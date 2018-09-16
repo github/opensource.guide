@@ -74,7 +74,7 @@ Dies ist ein weit verbreiteter Irrtum, aber in Wirklichkeit sind es oft andere P
   
   Ich bin bekannt für meine Arbeit an CocoaPods, aber die meisten Leute wissen nicht, dass ich eigentlich keine echte Arbeit am CocoaPods-Tool selbst mache. Meine Zeit im Projekt verbringe ich hauptsächlich mit Dokumentation und Marketing.
   
-  _I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding._
+  _I've been renowned for my work on CocoaPods, but most people don't know that I actually don't do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding._
   
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
@@ -545,7 +545,7 @@ Wenn Sie Ihre Idee woanders nicht finden können, sind Sie bereit für den erste
 
 * **Issues** sind wie ein Gespräch oder eine Diskussion.
 * **Pull Requests** sind der Beginn der Arbeit an einer Lösung.
-* **Eine unkomplizierte Kommunikation, ** wie z.B. die Klärung einer Vorgehensweise oder Frage, versuchen Sie es in Stack Overflow, IRC, Slack oder anderen Chat-Kanälen, falls das Projekt über solche verfügt.
+* **Eine unkomplizierte Kommunikation,** wie z.B. die Klärung einer Vorgehensweise oder Frage, versuchen Sie es in Stack Overflow, IRC, Slack oder anderen Chat-Kanälen, falls das Projekt über solche verfügt.
 
 Bevor Sie ein Issue oder Pull Request öffnen, überprüfen Sie die Beitragsdokumentationen des Projekts (normalerweise eine Datei namens CONTRIBUTING, oder in der README), um zu verstehen, was in Anfragen erwünscht ist. Bspw. kann das Projekt verlangen, dass Sie einer Vorlage folgen oder Tests verwenden.
 

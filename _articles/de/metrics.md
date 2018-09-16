@@ -65,7 +65,7 @@ Wenn Sie einen Paketmanager wie [npm](https://www.npmjs.com/) oder [RubyGems.org
 
 Paketmanager verwenden leicht unterschiedliche "Download"-Definitionen, und Downloads korrelieren nicht unbedingt mit "Installation" oder "Verwendung", aber sie bieten eine Basislinie für Vergleiche: Probieren Sie [Libraries.io](https://libraries.io/) aus, um Nutzungsstatistiken über viele populäre Paketmanager hinweg zu verfolgen.
 
-Wenn sich Ihr Projekt auf GitHub befindet, navigieren Sie erneut zur Traffic-Seite. Aus [dem clone-Diagramm](https://github.com/blog/1873-clone-graphs) können Sie ablesen, wie oft Ihr Projekt an einem bestimmten Tag heruntergeladen wurde, aufgeschlüsselt nach Gesamtzahl und  Nutzer\*innen.
+Wenn sich Ihr Projekt auf GitHub befindet, navigieren Sie erneut zur Traffic-Seite. Aus [dem clone-Diagramm](https://github.com/blog/1873-clone-graphs) können Sie ablesen, wie oft Ihr Projekt an einem bestimmten Tag heruntergeladen wurde, aufgeschlüsselt nach Gesamtzahl und Nutzer\*innen.
 
 ![clone-Diagramm](/assets/images/metrics/clone_graph.png)
 
@@ -118,7 +118,7 @@ Beispiele für Community-Metriken, die Sie regelmäßig verfolgen möchten, sind
 
 Schließlich möchten Sie den Kreis schließen, indem Sie sicherstellen, dass die Betreuer\*innen Ihres Projekts in der Lage sind, das Volumen der erhaltenen Beiträge zu bewältigen. Die letzte Frage, die Sie sich stellen sollten, ist: _Antworte ich (oder antworte wir) auf unsere Community?_
 
-Unresponsive Betreuer\*innen werden zum Flaschenhals für Open-Source-Projekte. Wenn jemand einen Beitrag einreicht, der aber nie  beantwortet wird, wird sich die Person entmutigt fühlen und sich abwenden.
+Unresponsive Betreuer\*innen werden zum Flaschenhals für Open-Source-Projekte. Wenn jemand einen Beitrag einreicht, der aber nie beantwortet wird, wird sich die Person entmutigt fühlen und sich abwenden.
 
 [Untersuchungen von Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) deuten darauf hin, dass eine schnelle und freundliche Reaktion der Betreuer\*innen Mitwirkende zu weiteren Beiträgen ermutigt.
 

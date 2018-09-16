@@ -43,7 +43,7 @@ Ein\*e Maintainer\*in muss nicht zwangsläufig für Ihr Projekt Code schreiben. 
   
   \[Für Node.js,\] ist jede Person, die auftaucht, um einen Kommentar zu einem Problem abzugeben oder Code einzureichen, Mitglied der Projekt-Community. Sie einfach nur sehen zu können, bedeutet, dass sie die Benutzer-Kontributor-Grenze überschritten haben.
   
-  _\[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor._
+  _\[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project's community. Just being able to see them means that they have crossed the line from being a user to being a contributor._
   
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
