@@ -170,7 +170,7 @@ Auch wenn sich dieser Ansatz zunächst unfreundlich anfühlt, ist es für beide 
   </p>
 </aside>
 
-Manchmal, wenn Sie "Nein" sagen, kann Ihr potenzieller Mitwirkender verärgert sein oder Ihre Entscheidung kritisieren. Wenn deren Verhalten feindselig wird, unternehmen Sie Schritte, um die Situation zu entschärfen](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) oder entfernen Sie sie sogar aus Ihrer Gemeinschaft, wenn keine Bereitschaft zur konstruktiven Zusammenzuarbeiten erkennbar ist.
+Manchmal, wenn Sie "Nein" sagen, kann Ihr potenzieller Mitwirkender verärgert sein oder Ihre Entscheidung kritisieren. Wenn deren Verhalten feindselig wird, unternehmen Sie [Schritte, um die Situation zu entschärfen](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) oder entfernen Sie sie sogar aus Ihrer Gemeinschaft, wenn keine Bereitschaft zur konstruktiven Zusammenzuarbeiten erkennbar ist.
 
 ### Mentorschaft etablieren
 
