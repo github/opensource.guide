@@ -195,7 +195,7 @@ Andere zu ermutigen, [sich am Projekt zu beteiligen](../building-community/#teil
 
   Ich hatte gesagt: "Ja, jeder kann mitmachen, man muss nicht viel Programmiererfahrung haben [...]." Wir hatten Leute, die sich angemeldet haben, um [zu einer Veranstaltung] zu kommen und da habe ich mich wirklich gefragt: Ist das wahr, was ich gesagt habe? Es werden 40 Leute auftauchen und es ist nicht so, dass ich bei jedem von ihnen sitzen kann... Aber die Leute kamen zusammen, und es hat einfach funktioniert. Sobald eine Person es verstand, konnte sie ihren Nachbarn unterrichten.
 
-  _I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor._
+  _I'd been saying, "Yeah, anyone can be involved, you don't have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that's when I was really wondering: is this true, what I've been saying? There are gonna be 40 people who show up, and it's not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor._
 
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
