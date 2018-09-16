@@ -108,7 +108,7 @@ Wenn niemand auf Ihre anfängliche Kommunikation achtet oder darauf reagiert, la
 
 ![Öffentliches Reden](/assets/images/finding-users/public_speaking.jpg)
 
-Offline-Veranstaltungen helfen Ihnen dabei, neue Projekte beim Publikum bekannt zu machen und engagierte Leute zu erreichen. Insb. können Sie  mit Entwickler\*innen direkt in Kontakt zu treten und Interesse an Ihrem Projekt wecken.
+Offline-Veranstaltungen helfen Ihnen dabei, neue Projekte beim Publikum bekannt zu machen und engagierte Leute zu erreichen. Insb. können Sie mit Entwickler\*innen direkt in Kontakt zu treten und Interesse an Ihrem Projekt wecken.
 
 Wenn Sie gerade erst anfangen, [Vorträge zu halten](http://speaking.io/), tun Sie das am beste auf einem lokalen Treffen ("Meetup"), auf dem es um die Sprache oder die Programmierumgebung geht, in der Ihr Projekt angesiedelt ist.
 

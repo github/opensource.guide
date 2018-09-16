@@ -49,7 +49,7 @@ Es gibt viele Gründe, warum eine Person nicht für ihre Open-Source-Arbeit beza
   </p>
 </aside>
 
-Für andere kann eine Bezahlung die einzige Möglichkeit sein, sich an Open Source zu beteiligen. Sei es, weil das Projekt ständige oder zeitintensive Mitarbeit  erfordert, oder seien es persönliche Gründe.
+Für andere kann eine Bezahlung die einzige Möglichkeit sein, sich an Open Source zu beteiligen. Sei es, weil das Projekt ständige oder zeitintensive Mitarbeit erfordert, oder seien es persönliche Gründe.
 
 Populäre Projekte aufrecht zu erhalten kann eine große Verantwortung sein, die 10 oder 20 Stunden pro Woche in Anspruch nimmt, statt nur ein paar Stunden pro Monat.
 

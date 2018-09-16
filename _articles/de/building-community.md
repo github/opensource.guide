@@ -248,7 +248,7 @@ Einige Projekte nutzen einen Abstimmungsprozess, um wichtige Entscheidungen zu t
 
 Abstimmungen können aber politisch werden, wenn sich die Community-Mitglieder unter Druck gesetzt fühlen, sich gegenseitig einen Gefallen zu tun oder auf eine bestimmte Art und Weise abzustimmen. Außerdem stimmt nicht jede\*r mit ab, was die [stille Mehrheit](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in Ihrer Gemeinschaft sein kann, oder neue Benutzer\*innen, die nicht wussten, dass eine Abstimmung stattfindet.
 
-Manchmal ist eine Abstimmung notwendig, um ein Patt aufzulösen. Aber soviel Sie können, betonen Sie die  [Konsensfindung](https://de.wikipedia.org/wiki/Konsensprinzip) statt des Konsenses an sich.
+Manchmal ist eine Abstimmung notwendig, um ein Patt aufzulösen. Aber soviel Sie können, betonen Sie die [Konsensfindung](https://de.wikipedia.org/wiki/Konsensprinzip) statt des Konsenses an sich.
 
 Im Rahmen der Konsensfindungsprozesses diskutieren die Mitglieder der Gemeinschaft wichtige Anliegen, bis sie das Gefühl haben, angemessen gehört worden zu sein, und wenn nur noch geringe Bedenken bestehen, kommt die Gemeinschaft voran. Die Konsensfindung erkennt an, dass eine Gemeinschaft möglicherweise keine perfekte Antwort finden kann. Stattdessen priorisiert sie das Zuhören und die Diskussion.
 
@@ -274,7 +274,7 @@ Diskussionen sind wichtig, aber es gibt einen Unterschied zwischen produktiven u
 
 Fördern Sie Diskussionen, die sich aktiv auf eine Lösung zubewegen: Wenn klar ist, dass Dinge zerredet werden oder die Konversation vom Thema abweicht, persönliche Anfeindungen passieren, oder die Leute sich über kleine Details streiten, ist es an der Zeit, die Diskussion zu beenden.
 
-Die Fortsetzung solcher Diskussionen ist nicht nur schlecht für das jeweilige Thema, sondern auch für die Gesundheit Ihrer Gemeinschaft. Wenn die Botschaft vermittelt wird, dass unproduktive Diskussionen  erlaubt oder sogar gefördert werden, könnten Leute zukünftig davon abgehalten werden, Probleme anzusprechen oder zu lösen.
+Die Fortsetzung solcher Diskussionen ist nicht nur schlecht für das jeweilige Thema, sondern auch für die Gesundheit Ihrer Gemeinschaft. Wenn die Botschaft vermittelt wird, dass unproduktive Diskussionen erlaubt oder sogar gefördert werden, könnten Leute zukünftig davon abgehalten werden, Probleme anzusprechen oder zu lösen.
 
 Bei jedem Diskussionsbeitrag ihrerseits, oder von Anderen, sollten Sie sich fragen _"Wie bringt uns dies einer Lösung näher?"_
 

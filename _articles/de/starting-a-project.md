@@ -65,7 +65,7 @@ Einer der größten Vorteile von Open Source ist, dass es kein Geld kostet. "Gra
 
 Weil [eine Open-Source-Lizense bedingt](https://opensource.org/osd-annotated), dass jede\*r die Software nutzen, modifizieren, und weiterverbreiten darf (für nahezu jeden Zweck), nehmen die Projekte selbst meist kein Geld dafür. Wenn sie es täten, könnte jede\*r ganz legal das Projekte kopieren und die dann freie Version nutzen.
 
-Daher sind die meisten Open-Source-Projekte kostenlos, aber das ist kein Teil der Open-Source-Definition. Es gibt für  Open-Source-Projekte Möglichkeiten, sich indirekt bezahlen zu lassen (z.B. über Doppellizenzierung oder eingeschränkte Funktionen) und dabei trotzdem die offizielle Definition von Open-Source weiterhin einzuhalten.
+Daher sind die meisten Open-Source-Projekte kostenlos, aber das ist kein Teil der Open-Source-Definition. Es gibt für Open-Source-Projekte Möglichkeiten, sich indirekt bezahlen zu lassen (z.B. über Doppellizenzierung oder eingeschränkte Funktionen) und dabei trotzdem die offizielle Definition von Open-Source weiterhin einzuhalten.
 
 ## Sollte ich mein eigenes Open-Source-Projekt starten?
 
