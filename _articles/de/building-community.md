@@ -90,7 +90,7 @@ Wenn Sie [für Ihr Projekt werben](../finding-users), werden Leute Ihnen Rückme
 
 Versuchen Sie, schnell zu reagieren, wenn jemand ein Issue oder einen Pull-Request einreicht, oder eine Frage zu Ihrem Projekt stellt. Eine schnell Antwort gibt den Leuten das Gefühl, an einem Dialog teilzunehmen, und das kann ermutigend wirken, weiter mitzuhelfen.
 
-Auch wenn Sie die Anfrage nicht sofort inhaltlich prüfen können, hilft die frühzeitige Bestätigung, das Engagement zu erhöhen. Ein Beispiel: @tdreyno reagiert auf einen Pull-Request an [Middleman] (https://github.com/middleman/middleman/pull/1466):
+Auch wenn Sie die Anfrage nicht sofort inhaltlich prüfen können, hilft die frühzeitige Bestätigung, das Engagement zu erhöhen. Ein Beispiel: @tdreyno reagiert auf einen Pull-Request an [Middleman](https://github.com/middleman/middleman/pull/1466):
 
 ![Pull-Request an Middleman](/assets/images/building-community/middleman_pr.png)
 
@@ -246,7 +246,7 @@ Ihre README-Datei ist [mehr als nur eine Anleitung](../starting-a-project/#eine-
 
 Einige Projekte nutzen einen Abstimmungsprozess, um wichtige Entscheidungen zu treffen. Auf den ersten Blick ist es sinnvoll, so eine Antwort zu finden, anstatt sich gegenseitig zuzuhören und auf die Sichtweisen Anderer einzugehen.
 
-Abstimmungen können aber politisch werden, wenn sich die Community-Mitglieder unter Druck gesetzt fühlen, sich gegenseitig einen Gefallen zu tun oder auf eine bestimmte Art und Weise abzustimmen. Außerdem stimmt nicht jede\*r mit ab, was die [stille Mehrheit] (https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in Ihrer Gemeinschaft sein kann, oder neue Benutzer\*innen, die nicht wussten, dass eine Abstimmung stattfindet.
+Abstimmungen können aber politisch werden, wenn sich die Community-Mitglieder unter Druck gesetzt fühlen, sich gegenseitig einen Gefallen zu tun oder auf eine bestimmte Art und Weise abzustimmen. Außerdem stimmt nicht jede\*r mit ab, was die [stille Mehrheit](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in Ihrer Gemeinschaft sein kann, oder neue Benutzer\*innen, die nicht wussten, dass eine Abstimmung stattfindet.
 
 Manchmal ist eine Abstimmung notwendig, um ein Patt aufzulösen. Aber soviel Sie können, betonen Sie die  [Konsensfindung](https://de.wikipedia.org/wiki/Konsensprinzip) statt des Konsenses an sich.
 
