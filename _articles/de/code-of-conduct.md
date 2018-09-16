@@ -88,7 +88,7 @@ Bevor Sie antworten, geben Sie sich Zeit, um zu verstehen, was passiert ist. Les
   
   Lassen Sie sich nicht in einen Streit hineinziehen. Lassen Sie sich nicht von Jemandes Verhalten von der Abwicklung einer Sache ablenken. Konzentrieren Sie sich auf das, was Sie brauchen.
     
-  _Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need._
+  _Don't get pulled into an argument. Don't get sidetracked into dealing with someone else's behavior before you've finished dealing with the matter at hand. Focus on what you need._
   
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
