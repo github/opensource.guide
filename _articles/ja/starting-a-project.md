@@ -232,13 +232,13 @@ READMEにCONTRIBUTINGファイルへのリンクをすることで、より多�
 
 既存のプロジェクトに基づいて開発しているのであれば、その名前を頭につけることであなたのプロジェクトが何をするものかを明らかにする助けになります（例えば、[node-fetch](https://github.com/bitinn/node-fetch)はNode.jsに`window.fetch`を追加するものです）。
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+明快さを第一に考えましょう。ダジャレは面白いですが、ジョークは他の文化やあなたとは異なる経験を持った人には通じないこともあるということを覚えておきましょう。潜在的なユーザーには企業の従業員もいるかもしれません: 彼らがあなたのプロジェクトについて職場で説明する時に居心地の悪い思いをさせたくはないでしょう。
 
-### Avoiding name conflicts
+### 名前の衝突を避ける
 
-[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+[同じような名前のオープンソースプロジェクトを調べましょう](http://ivantomic.com/projects/ospnc/)。同じ言語やエコシステムを共有する場合は特にです。もし既存の有名なプロジェクトと名前が同じ部分があると、外から見た人を混乱させてしまうでしょう。
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
+ウェブサイトやTwitterのハンドルや他であなたのプロジェクト名を使いたいのであれば、使いたい名前を使えるかどうか確かめましょう。理想的には、心の平穏のために[すぐにそれらの名前を予約しましょう](https://instantdomainsearch.com/)。たとえ、今すぐに使うつもりがないとしても。
 
 Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
 
