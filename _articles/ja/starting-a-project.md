@@ -240,31 +240,31 @@ READMEにCONTRIBUTINGファイルへのリンクをすることで、より多�
 
 ウェブサイトやTwitterのハンドルや他であなたのプロジェクト名を使いたいのであれば、使いたい名前を使えるかどうか確かめましょう。理想的には、心の平穏のために[すぐにそれらの名前を予約しましょう](https://instantdomainsearch.com/)。たとえ、今すぐに使うつもりがないとしても。
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
+プロジェクトの名前が商標の侵害をしていないか確かめましょう。後になってある企業があなたのプロジェクトをやめるように言ってきたり、法的措置さえしてくるかもしれません。そんなリスクは見合いません。
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+商標を侵害していないかを調べるには[WIPO Global Brand Database](http://www.wipo.int/branddb/en/)を確認しましょう。もし企業にいるのであれば、この点は[法務部門が助けてくれる](../legal/)ことの一つでしょう。
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+最後に、あなたのプロジェクト名でGoogle検索をしてみましょう。人々は簡単にあなたのプロジェクトを見つけることができるでしょうか？検索結果の中になにか望ましくないものが表示されていないでしょうか？
 
 ### How you write (and code) affects your brand, too!
 
-Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
+あなたのプロジェクト全体を通して、多くの文書を書くでしょう：README、チュートリアル、コミュニティドキュメント、イシューへの返答、もしかしたらニュースレターやメーリングリストもあるかもしれません。
 
-Whether it's official documentation or a casual email, your writing style is part of your project's brand. Consider how you might come across to your audience and whether that is the tone you wish to convey.
+公式のドキュメントであれ、カジュアルなメールであれ、あなたの文書のスタイルはプロジェクトのブランドの一部になります。見る人にどのようにして伝わるかやあなたが伝えたいトーンかどうかを検討しましょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+  メーリングリストのすべてのスレッドに関わるようにしましたし、模範的な行動を示し、人々に親切にし、イシューを真剣に捉え、何より助けになるようにしました。しばらくすると、人々は質問をするだけでなく、質問に答えたり、何よりも嬉しいことに私のスタイルを真似してくれたのです。
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
+暖かく、排他的でない言葉遣い（一人の人を指すときであっても「彼ら」を使う、といったような）をすることで、あなたのプロジェクトで新しいコントリビュータが歓迎されていると感じてもらうことに繋がります。シンプルな言葉遣いをすることにこだわりましょう。あなたのプロジェクトを見る人の多くは英語のネイティブスピーカーではないかもしれません。
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://github.com/johnpapa/angular-styleguide) and [jQuery](https://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+あなたがどう文書を書くかに加えて、あなたのコーディングスタイルもプロジェクトのブランドの一分になるかもしれません。[Angular](https://github.com/johnpapa/angular-styleguide)と[jQuery](https://contribute.jquery.org/style-guide/js/)の2つは厳密なコーディングスタイルとガイドラインを持つプロジェクトの例です。
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+かならずしもプロジェクトを始める際にスタイルガイドを書く必要はありませんし、とにかく異なるコーディングスタイルを盛り込むのが楽しいと思うかもしれません。しかし、あなたの文書やコーディングスタイルが異なるタイプの人々を惹きつけることもあれば落胆させることもあるということを予期しておくべきです。プロジェクトの最初期はあなたが望む先例を作る良い機会です。
 
 ## Your pre-launch checklist
 
