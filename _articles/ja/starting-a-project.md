@@ -8,7 +8,7 @@ toc:
   自分自身のオープンソースプロジェクトを立ち上げるべき: "自分自身のオープンソースプロジェクトを立ち上げるべき？"
   あなた自身のオープンソースプロジェクトを立ち上げる: "あなた自身のオープンソースプロジェクトを立ち上げる"
   あなたのプロジェクトに名前とブランドを付けよう: "あなたのプロジェクトに名前とブランドを付けよう"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  立ち上げ前のチェックリスト: "立ち上げ前のチェックリスト"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -266,37 +266,38 @@ READMEにCONTRIBUTINGファイルへのリンクをすることで、より多�
 
 かならずしもプロジェクトを始める際にスタイルガイドを書く必要はありませんし、とにかく異なるコーディングスタイルを盛り込むのが楽しいと思うかもしれません。しかし、あなたの文書やコーディングスタイルが異なるタイプの人々を惹きつけることもあれば落胆させることもあるということを予期しておくべきです。プロジェクトの最初期はあなたが望む先例を作る良い機会です。
 
-## Your pre-launch checklist
+## 立ち上げ前のチェックリスト
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+あなたのプロジェクトをオープンソースにする準備が整いましたか？ここにあなたの助けとなるよう、チェックリストを用意しました。全てにチェックが就きましたか？そうであれば準備万端です！
+["publish"をクリックして](https://help.github.com/articles/making-a-private-repository-public/)、自分を褒めてあげましょう。
 
-**Documentation**
+**ドキュメント**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    オープンソースライセンスのLICENSEファイルがある
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    基本的なドキュメント（README、CONTRIBUTING、CODE_OF_CONDUCT）がある
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    名前が覚えやすく、プロジェクトが何をするのかがある程度わかり、既存のプロジェクトと重複したり、商標を侵害していない
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    イシューのキューが最新であり、イシューが整理されてラベル付けされている
   </label>
 </div>
 
@@ -305,65 +306,65 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    一貫した命名規則を使っていて、明快な関数名/メソッド名/変数名を使っている
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    コードに明快なコメントがあり、そこには意図やエッジケースが書かれている
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+    リビジョンの履歴やイシュー、プルリクエストに機密情報（例えばパスワードやそれ以外の非公開情報）が含まれていない
   </label>
 </div>
 
-**People**
+**人々**
 
-If you're an individual:
+もし個人でやっているのであれば：
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  （もしどこかの従業員であれば）法務部門と話をして、あなたの会社の知的財産やオープンソースの方針を理解している
   </label>
 </div>
 
-If you're a company or organization:
+企業や組織でやっているのであれば：
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    法務部門と話をした
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    プロジェクトのアナウンスや売り込みのマーケティングプランを持っている
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    コミュニティのやりとり（イシューへの返答、レビュー、プルリクエストのマージ）の担当者がいる
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    プロジェクトの管理権限を持っている人が少なくとも2人いる
   </label>
 </div>
 
-## You did it!
+## やりました！
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+おめでとう！あなたの最初のプロジェクトをオープンソースにしました。成果はどうあれ、公の場で働くことはコミュニティへの贈り物です。あらゆるコミット、コメント、プルリクエストによって、あなた自身や他の人が学び、成長する機会を提供しているのです。
