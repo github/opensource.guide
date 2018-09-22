@@ -9,7 +9,7 @@ toc:
   人々があなたのプロジェクトを見つけたりフォローしやすくしよう: "人々があなたのプロジェクトを見つけたりフォローしやすくしよう"
   ユーザーがいる場所に行こうオンライン: "ユーザーがいる場所に行こう（オンライン）"
   ユーザーがいる場所に行こうオフライン: "ユーザーがいる場所に行こう（オフライン）"
-  build-a-reputation: "Build a reputation"
+  評判を築こう: "評判を築こう"
 order: 3
 image: /assets/images/cards/finding.png
 related:
@@ -96,43 +96,43 @@ Djangoの共同作者の[@adrianholovaty](https://news.ycombinator.com/item?id=7
 
 ![Public speaking](/assets/images/finding-users/public_speaking.jpg)
 
-Offline events are a popular way to promote new projects to audiences. They're a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
+オフラインのイベントは新しいプロジェクトを人々に紹介するためによく用いられる方法です。これは多忙な人々に接触して、より深い関係を構築するのに非常に良い方法です。開発者に接触しようとしている場合は特に有効です。
 
-If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
+もし[公の場で話すことに慣れていない](http://speaking.io/)のであれば、あなたのプロジェクトの言語やエコシステムに関連する地元のミートアップを探すところから始めてみましょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
-  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+  私はPyConに行くのに非常に緊張していました。発表をし、そこで数名としか知り合いになれず、それがまる1週間続くのではないかと。（…）しかし、私は心配する必要はなかったのです。PyConは並外れて素晴らしかった！（…）誰もが驚くほど友好的で社交的だったので、誰かと話していない時間が殆どないほどでした。
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
-If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
+これまで一度もイベントで発表をしたことがないのであれば、緊張するのは全くもって普通のことです！あなたの聴衆はあなたの話が聞きたいと心から思っているからそこにいるのだということを忘れないようにしましょう。
 
-As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+あなたの発表に準備する時に、聞き手にとって何が面白く、勝ちを得られるのかという点に集中しましょう。言葉遣いを友好的で親しみやすいものにしましょう。笑って、息を吸って、楽しみましょう。
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+  あなたの発表の準備を始める時に、トピックが何であれ、あなたの発表が人々に物語を伝えるのだと考える事は助けになるでしょう。
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
-When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
+準備ができたと感じたら、あなたのプロジェクトを宣伝するためにカンファレンスで発表することを検討しましょう。カンファレンスは、より多くの人々、時には世界中の人々と接点を持つ役に立ちます。
 
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference to tailor your talk for attendees and increase your chances of being accepted to speak at the conference. You can often get a sense of your audience by looking at a conference's speakers.
+あなたの言語やエコシステムに特化したカンファレンスを探しましょう。発表の申込みをする前に、カンファレンスについて調査をして、あなたの発表を参加者に合うようにし、カンファレンスでの発表が採用されるチャンスを増やしましょう。カンファレンスの発表者を調べることで、聴衆についての感覚を得ることができることもあります。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
-  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
+  私はJSConfのメンバーにJSConf EUで発表する枠をもらえるようにお願いをしました。（…）私は、半年をかけてやってきたことについて発表することが完全に怖くなってしまいました。（…）常に、なんてこった、自分はここで何をしようとしているんだ、とだけ考えていました。
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
 </aside>
 
-## Build a reputation
+## 評判を築こう
 
 In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
 
