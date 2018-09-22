@@ -82,15 +82,15 @@ Djangoの共同作者の[@adrianholovaty](https://news.ycombinator.com/item?id=7
   </p>
 </aside>
 
-See if you can find ways to share your project in relevant ways:
+あなたのプロジェクトを共有するのに、あなたにとって適切な方法があるか確かめてみましょう：
 
-* **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
-* **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-* **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
+* **関連するオープンソースプロジェクトとコミュニティと知り合いになろう。** 直接プロジェクトを宣伝する必要がない場合もあります。もしあなたのプロジェクトがPythonを使っているデータサイエンティストにぴったりだとすれば、Pythonのデータサイエンスコミュニティと知り合いになりましょう。人々があなたのことを知るに連れて、あなたのやっていることについて話して共有する機会が自然とやってくるでしょう。
+* **あなたのプロジェクトが解決する問題に遭遇している人を探そう。** あなたのプロジェクトがターゲットに当てはまる人のためのフォーラムを通して探しましょう。彼らの質問に答え、機転を利かせて適切なタイミングで、あなたのプロジェクトが解決策となることを提案しましょう。
+* **フィードバックを求めよう。** あなたのプロジェクトが適切であり面白いと感じてくれるであろう人々に対して、あなた自身とあなたのプロジェクトを紹介しましょう。あなたのプロジェクトから利益を得るであろう人を具体的にしましょう。そして、次のように話を締めくくりましょう： _「私のプロジェクトはYをしようとしているXにとって本当に役に立つと考えています」。_ そして、単にあなたのやったことを宣伝するのではなく、フィードバックをもらい、それに対応しましょう。
 
-Generally speaking, focus on helping others before asking for things in return. Because anyone can easily promote a project online, there will be a lot of noise. To stand out from the crowd, give people context for who you are and not just what you want.
+一般的に、何かをお願いする前に人々を助けることに専念しましょう。プロジェクトをオンラインで宣伝するのは誰でも簡単にできるので、ノイズが多いのです。そういった大勢の中で目立つために、あなたが望むものだけでなく、あなたが誰であるかという文脈を人々に説明しましょう。
 
-If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. Promoting and launching your project takes time and dedication.
+もし誰も注意を払ってくれなかったり、あなたに反応してくれない場合でも、がっかりしないで下さい！ほとんどのプロジェクトの立ち上げは、数ヶ月や数年もかかる、反復プロセスなのです。初回で反応が得られなくても、他のやり方で試してみたり、他の人のやっていることに価値を追加するやり方を探しましょう。プロジェクトの宣伝や立ち上げには時間と献身が必要なのです。
 
 ## ユーザーがいる場所に行こう（オフライン）
 
