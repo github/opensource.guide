@@ -1,12 +1,12 @@
 ---
 lang: ja
-title: Finding Users for Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+title: あなたのプロジェクトのユーザーを見つけよう
+description: あなたのプロジェクトを喜んで使ってくれるユーザーを獲得してプロジェクトを拡大しよう
 class: finding
 toc:
-  spreading-the-word: "Spreading the word"
-  figure-out-your-message: "Figure out your message"
-  help-people-find-and-follow-your-project: "Help people find and follow your project"
+  あなたの言葉を伝えよう: "あなたの言葉を伝えよう"
+  メッセージを見つけ出そう: "メッセージを見つけ出そう"
+  人々があなたのプロジェクトを見つけたりフォローしやすくしましょう: "人々があなたのプロジェクトを見つけたりフォローしやすくしましょう"
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
   go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
   build-a-reputation: "Build a reputation"
@@ -17,56 +17,56 @@ related:
   - building
 ---
 
-## Spreading the word
+## あなたの言葉を伝えよう
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. Instead of hoping others will find and use your open source project, you have to spread the word about your hard work!
+プロジェクトを立ち上げた時に、そのプロジェクトを宣伝しないといけないというルールはありません。オープンソースに取り組む理由の中には、プロジェクトの人気とは関係のないものがたくさんあります。他の人があなたのプロジェクトを見つけてくれるだろうとただ願うのではなく、あなたの頑張りを言葉で広める必要があります！
 
-## Figure out your message
+## メッセージを見つけ出そう
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+実際にプロジェクトの宣伝を始める前に、そのプロジェクトが何をするもので、なぜ重要なのかを説明できるようになる必要があります。
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will help you communicate your project's significance.
+他のプロジェクトと比べて異なる部分や興味を引く部分はどこなのか？なぜあなたはそれを作ったのか？こういった質問に自分で答えることで、あなたのプロジェクトの重要性を伝える助けになるでしょう。
 
-Remember that people get involved as users, and eventually become contributors, because your project solves a problem for them. As you think about your project's message and value, try to view them through the lens of what _users and contributors_ might want.
+人々ははじめはユーザーとしてプロジェクトに関わり始め、あなたのプロジェクトが彼らの問題を解決することで、その後コントリビュータになるということを忘れないようにしましょう。プロジェクトのメッセージや価値を考える際に、 _ユーザーとコントリビュータ_ が何を望むだろうかという視点で考えるようにしましょう。
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+例えば、@robbはなぜ彼のプロジェクトである[Cartography](https://github.com/robb/Cartography)が便利なのかをコードの例を通してわかりやすく伝えています:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+メッセージについてより深掘りするために、Mozillaの["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/)に目を通してみましょう。これはユーザーペルソナを作る練習になります。
 
-## Help people find and follow your project
+## 人々があなたのプロジェクトを見つけたりフォローしやすくしましょう
 
 <aside markdown="1" class="pquote">
-  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+  理想的には、あなたのプロジェクトに関して宣伝したり人に伝えたりできる一つの「ホーム」URLが必要です。きれいなテンプレートを使ったり、きれいなドメイン名を使う必要はありませんが、中心となる場所が必要です。
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+人々のプロジェクトについて伝える時に教える場所を一つにすることで、人々がプロジェクトを見つけて覚えやすくしましょう。
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. These outlets also give your project's growing community a place to convene.
+**あなたの作業を宣伝するためにわかりやすいハンドルを使いましょう** Twitterのハンドル、GitHubのURLやIRCチャンネルは、あなたのプロジェクトを人々に示す事ができる簡単な方法です。こうした場所は、拡大するコミュニティに対して集まる場所を提供することにもなります。
 
-If you don't wish to set up outlets for your project yet, promote your own Twitter or GitHub handle in everything you do. Promoting your Twitter or GitHub handle will let people know how to contact you or follow your work. If you speak at a meetup or event, make sure that your contact information is included in your bio or slides. 
+もし、そうった場所を作るにはまだ早いと思うのであれば、あなた自身のTwitterやあなたが実際に活動しているGitHubのハンドルを宣伝しましょう。あなたのTwitterやGitHubのハンドルを宣伝することで、人々はどうやってあなたに接したり、あなたの仕事をフォローできるのか知ることができます。もしミートアップやイベントで発表するのであれば、自己紹介やスライドに連絡先情報を含めているか確認しましょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  プロジェクトの初期段階で私が犯したミスは、プロジェクトのためのTwitterアカウントを作らなかったことです。Twitterを使うことで、プロジェクトについての最新情報を人々に伝え続けることができるだけでなく、プロジェクトについて定期的に人々に示すことができます。
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially when it's paired with clear documentation and tutorials. Having a website also suggests that your project is active which will make your audience feel more comfortable using it. Provide examples to give people ideas for how to use your project.
+**ウェブサイトを作ることを検討しましょう** ウェブサイトを作ることで、あなたのプロジェクトはより友好的で簡単に誘導することができます。特にそのウェブサイトにわかりやすいドキュメントとチュートリアルがあればなおさらです。ウェブサイトがあることで、あなたのプロジェクトが活動をしているということも示すことができます。これによって、プロジェクトを見ている人は安心して使うことができるようになります。あなたのプロジェクトをどのように使うのかの例も提供しましょう。
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
+Djangoの共同作者の[@adrianholovaty](https://news.ycombinator.com/item?id=7531689)は、 _「ウェブサイトを作ったことはDjangoの初期段階でやったことの中で圧倒的に最善のことでした」_ と言っています。
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+プロジェクトをGitHub上でホストしているのであれば、[GitHub Pages](https://pages.github.com/)を使うことで簡単にウェブサイトを作ることができます。[Yeoman](http://yeoman.io/)や[Vagrant](https://www.vagrantup.com/)、[Middleman](https://middlemanapp.com/)は、網羅的で素晴らしいウェブサイトの[例](https://github.com/showcases/github-pages-examples)です。
 
-![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
+![Vagrantのホームページ](/assets/images/finding-users/vagrant_homepage.png)
 
-Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
+ここまでで、あなたはプロジェクトのメッセージを作り、人々があなたのプロジェクトを簡単に見つけることができる方法を提供しました。次は、外に出てユーザーと話しましょう！
 
 ## Go where your project's audience is (online)
 
