@@ -6,9 +6,9 @@ class: finding
 toc:
   あなたの言葉を伝えよう: "あなたの言葉を伝えよう"
   メッセージを見つけ出そう: "メッセージを見つけ出そう"
-  人々があなたのプロジェクトを見つけたりフォローしやすくしましょう: "人々があなたのプロジェクトを見つけたりフォローしやすくしましょう"
-  go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
-  go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
+  人々があなたのプロジェクトを見つけたりフォローしやすくしよう: "人々があなたのプロジェクトを見つけたりフォローしやすくしよう"
+  ユーザーがいる場所に行こうオンライン: "ユーザーがいる場所に行こう（オンライン）"
+  ユーザーがいる場所に行こうオフライン: "ユーザーがいる場所に行こう（オフライン）"
   build-a-reputation: "Build a reputation"
 order: 3
 image: /assets/images/cards/finding.png
@@ -35,7 +35,7 @@ related:
 
 メッセージについてより深掘りするために、Mozillaの["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/)に目を通してみましょう。これはユーザーペルソナを作る練習になります。
 
-## 人々があなたのプロジェクトを見つけたりフォローしやすくしましょう
+## 人々があなたのプロジェクトを見つけたりフォローしやすくしよう
 
 <aside markdown="1" class="pquote">
   理想的には、あなたのプロジェクトに関して宣伝したり人に伝えたりできる一つの「ホーム」URLが必要です。きれいなテンプレートを使ったり、きれいなドメイン名を使う必要はありませんが、中心となる場所が必要です。
@@ -68,15 +68,15 @@ Djangoの共同作者の[@adrianholovaty](https://news.ycombinator.com/item?id=7
 
 ここまでで、あなたはプロジェクトのメッセージを作り、人々があなたのプロジェクトを簡単に見つけることができる方法を提供しました。次は、外に出てユーザーと話しましょう！
 
-## Go where your project's audience is (online)
+## ユーザーがいる場所に行こう（オンライン）
 
-Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
+オンラインで働きかけることは、素早くあなたの言葉を共有して広めるのに良い方法です。オンラインの媒体を使うことで、非常に広い範囲のユーザーと接点を持つことができる可能性があります。
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+ユーザーと接点を持つのに、既存のオンラインコミュニティやプラットフォームを利用しましょう。あなたのオープンソースプロジェクトがソフトウェアのプロジェクトであれば、おそらく[Stack Overflow](https://stackoverflow.com/)や[Reddit](https://www.reddit.com)、[Hacker News](https://news.ycombinator.com/)、[Quora](https://www.quora.com/)でユーザーを見つけることができるでしょう。人々に最もメリットがあったり、あなたの仕事に喜んでくれる人がいると思う媒体を見つけましょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+  あらゆるプログラムは、ごく一部のユーザーのみが便利だと思うような特殊な機能を持っています。可能な限り多くのユーザーにスパムを送りつけるようなことはやめましょう。そのかわりに、あなたのプロジェクトを知ることで利益を得るような人に伝えるように狙いをつけましょう。
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
@@ -92,7 +92,7 @@ Generally speaking, focus on helping others before asking for things in return. 
 
 If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. Promoting and launching your project takes time and dedication.
 
-## Go where your project's audience is (offline)
+## ユーザーがいる場所に行こう（オフライン）
 
 ![Public speaking](/assets/images/finding-users/public_speaking.jpg)
 
