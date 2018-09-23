@@ -134,30 +134,30 @@ Djangoの共同作者の[@adrianholovaty](https://news.ycombinator.com/item?id=7
 
 ## 評判を築こう
 
-In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
+ここまでに書いた戦略に加えて、あなたのプロジェクトを人々に共有して貢献してもらうのに最も良い方法は、彼らのプロジェクトを共有して貢献することです。
 
-Helping newcomers, sharing resources, and making thoughtful contributions to others' projects will help you build a positive reputation. Being an active member in the open source community will help people have context for your work and be more likely to pay attention to and share your project. Developing relationships with other open source projects can even lead to official partnerships.
+彼らのプロジェクトで、新しく来た人を助け、リソースを共有し、親切な貢献をすることで、あなたは良い評判を築く事ができるでしょう。オープンソースコミュニティのメンバーとして活発に活動することで、あなたのやっていることの文脈を伝え、あなたのプロジェクトに注意を払ってもらいやすくなります。他のオープンソースプロジェクトと関係を構築することで公式なパートナーシップに繋がることさえあります。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
-  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+  今日urllib3がPythonの最も有名なサードパーティライブラリになった唯一の理由は、requestsの一部であったためです。
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540)
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue to look for ways to help others.
+評判を築くのに早すぎたり遅すぎることはありません。既にプロジェクトを立ち上げていたとしても、他の人を助ける方法を探し続けましょう。
 
-There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and building your reputation never ends.
+一夜で人々を引きつけるようなやり方はありません。信頼を勝ち取り他の人を尊重するには時間がかかりますし、評判を築く事は永遠に終わることはありません。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
+  PhantomJSは2011年初頭に初めてリリースされました。（…）私は普通のやり方で言葉を広めていきました：プロジェクトについてツイートし、人々がこのプロジェクトを使うことでできることについてブログポストを書き、ミートアップの様々な議論で言及しました。2014年にもっと知られるようになった時、プロジェクトについてプレゼンテーションをし始めました。
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
   </p>
 </aside>
 
-## Keep at it!
+## 続けて頑張ろう！
 
-It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will spontaneously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
+人々があなたのオープンソースプロジェクトに気づくまでには時間がかかるかもしれません。それで良いのです！今日最も有名なプロジェクトの中には活発になるまでに何年もかかったものもあります。あなたのプロジェクトが自然と人気を獲得するのを願うのではなく、関係を構築することに集中しましょう。あなたのプロジェクトを喜んでくれる人に対して、辛抱強く、やっていることを伝え続けましょう。
