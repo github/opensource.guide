@@ -1,10 +1,10 @@
 ---
 lang: ja
-title: Building Welcoming Communities
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
+title: 居心地の良いコミュニティを築こう
+description: 人々があなたのプロジェクトを使ったり、貢献したり、人に伝えたくなるようなコミュニティを築きましょう
 class: building
 toc:
-  setting-your-project-up-for-success: "Setting your project up for success"
+  あなたのプロジェクトの成功のためのお膳立てをしましょう: "あなたのプロジェクトの成功のためのお膳立てをしましょう"
   growing-your-community: "Growing your community"
   resolving-conflicts: "Resolving conflicts"
 order: 4
@@ -14,15 +14,15 @@ related:
   - coc
 ---
 
-## Setting your project up for success
+## あなたのプロジェクトの成功のためのお膳立てをしましょう
 
-You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
+あなたはプロジェクトを立ち上げて、あなたの言葉を広めており、人々は注目しています。素晴らしい！さて、彼らに定着してもらうのはどうしたら良いでしょうか？
 
-A welcoming community is an investment into your project's future and reputation. If your project is just starting to see its first contributions, start by giving early contributors a positive experience, and make it easy for them to keep coming back.
+居心地の良いコミュニティはあなたはプロジェクトの未来や評判への投資となります。プロジェクトで初めての貢献が行われるようになってきたら、初期のコントリビュータに良い経験を与え、また戻ってきやすくしましょう。
 
-### Make people feel welcome
+### 人々が歓迎されていると感じてもらいましょう
 
-One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
+あなたのプロジェクトのコミュニティについて考える一つの方法として、@MikeMcQuaidが[contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/)と呼ぶものを使ってみましょう:
 
 ![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
