@@ -26,15 +26,15 @@ related:
 
 ![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
+コミュニティを築く際、理屈の上ではファネルの一番上にいる人（潜在的なユーザー）が一番下（活動的なメンテナ）にどうやって向かって進むのかを考えましょう。あなたのゴールは、コントリビュータが各段階で経験する摩擦を減らすことです。もし人々が簡単に進めるのであれば、より多くのことをしたいと思う様になるでしょう。
 
-Start with your documentation:
+まずはドキュメントから始めましょう：
 
-* **Make it easy for someone to use your project.** [A friendly README](../starting-a-project/#READMEを書く) and clear code examples will make it easier for anyone who lands on your project to get started.
-* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../starting-a-project/#貢献のガイドラインを書く) and keeping your issues up-to-date.
+* **あなたのプロジェクトを使いやすくしましょう** [親切なREADME](../starting-a-project/#READMEを書く) とわかりやすいコードの例によって、あなたのプロジェクトを初めて見る人が使い始めやすくなります。
+* **貢献の仕方をわかりやすく説明しましょう**。その際、[CONTRIBUTINGファイルを使い](../starting-a-project/#貢献のガイドラインを書く)、イシューの状態を最新に保ちましょう。
 
-[GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) showed incomplete or confusing documentation is the biggest problem for open source users. Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
-
+[GitHubの2017 Open Source Survey](http://opensourcesurvey.org/2017/)では、未完成であったり混乱するドキュメントはオープンソースプロジェクトのユーザーにとって最大の問題である事が示されています。良いドキュメントによって人々をあなたのプロジェクトに招き入れるのです。結果として、イシューやプルリクエストを登録する人が出てきます。こういったやり取りを、ファネルを下がってもらう機会として利用しましょう。
+ 
 * **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
 * **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
 * **Be open-minded about the types of contributions you'll accept.** Many contributors start with a bug report or small fix. There are [many ways to contribute](../how-to-contribute/#貢献するということが意味するもの) to a project. Let people help how they want to help.
