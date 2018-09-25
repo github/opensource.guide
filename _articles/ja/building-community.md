@@ -35,24 +35,24 @@ related:
 
 [GitHubの2017 Open Source Survey](http://opensourcesurvey.org/2017/)では、未完成であったり混乱するドキュメントはオープンソースプロジェクトのユーザーにとって最大の問題である事が示されています。良いドキュメントによって人々をあなたのプロジェクトに招き入れるのです。結果として、イシューやプルリクエストを登録する人が出てきます。こういったやり取りを、ファネルを下がってもらう機会として利用しましょう。
  
-* **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
-* **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
-* **Be open-minded about the types of contributions you'll accept.** Many contributors start with a bug report or small fix. There are [many ways to contribute](../how-to-contribute/#貢献するということが意味するもの) to a project. Let people help how they want to help.
-* **If there's a contribution you disagree with,** thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project, linking to relevant documentation if you have it.
+* **新しくプロジェクトに参加してくれた人に対して、興味を示してくれた感謝の気持ちを伝えよう！** 一度ネガティブな経験をしただけで、人は戻ってきてくれなくなってしまいます。
+* **すぐに返事を返すようにしよう** 一ヶ月もの間イシューに返事をしないと、おそらく彼らはあなたのプロジェクトのことを忘れ去ってしまうだろう。
+* **どんな種類の貢献を受け入れるかについて柔軟になろう** 　多くのコントリビュータがバグレポートや小さな修正から始めます。プロジェクトへの[貢献には多くのやり方many ways to contribute](../how-to-contribute/#貢献するということが意味するもの)があります。人々が望むやり方で貢献できるように手助けしましょう。
+* **受け入れられない貢献があった場合は、**彼らのアイデアに感謝を示して、なぜプロジェクトのスコープから外れているのかを[説明しましょう](../best-practices/#learning-to-say-no)。その際、関連するドキュメントも組み合わせましょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
+  オープンソースに貢献することは一部の人にとってはより簡単なことです。間違ったことをしたり、場違いな事をして叱られるのではないかという大きな恐怖があります。コントリビュータに対して、技術力をあまり必要としない（ドキュメント、ウェブサイトのコンテンツ等）貢献ができる場を提供することで、そういった心配を大きく減らすことができます。
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
 
-The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
+オープンソースのコントリビュータの大部分は「一時的なコントリビュータ」です：彼らはプロジェクトへの貢献を時々するだけの人々です。一時的なコントリビュータはあなたのプロジェクトに完全に精通する時間がないかもしれないので、あなたの仕事は彼らが貢献しやすくしてあげることです。
 
-Encouraging other contributors is an investment in yourself, too. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
+他のコントリビュータを助けることはあなた自身への投資にもなります。喜んで一緒に仕事をしてくれる大きなファンに裁量を与えることで、全てをあなた自身がやらないといけないというプレッシャーを減らすことができます。
 
-### Document everything
+### あらゆる事をドキュメントに書こう
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
