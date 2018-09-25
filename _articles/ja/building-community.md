@@ -52,29 +52,29 @@ related:
 
 他のコントリビュータを助けることはあなた自身への投資にもなります。喜んで一緒に仕事をしてくれる大きなファンに裁量を与えることで、全てをあなた自身がやらないといけないというプレッシャーを減らすことができます。
 
-### あらゆる事をドキュメントに書こう
+### あらゆる事を記録しよう
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
+  あなたはこれまでに（技術）イベントに参加して、知り合いが誰もおらず、周りは皆グループになって古い友人のように話しているという経験がありますか？（…）オープンソースプロジェクトに貢献をしたいと思っているが、なぜやどのようにしたらそれができるのかをわからないという状況を想像してみて下さい。
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-When you start a new project, it may feel natural to keep your work private. But open source projects thrive when you document your process in public.
+新しいプロジェクトを始めるときは、あなたのやっていることを秘密にしておきたいと感じるのは当然です。しかし、オープンソースプロジェクトはその過程を公開して記録することで成長していきます。
 
-When you write things down, more people can participate at every step of the way. You might get help on something you didn't even know you needed.
+ものを書く事で、より多くの人がその過程の各ステップに参加することができます。それによって、あなたが助けが必要だと言うことさえ把握していなかったことを助けてもらえるかもしれません。
 
-Writing things down means more than just technical documentation. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public.
+ものを書くというのは技術的なドキュメントに限った話ではありません。なにか書き残しておいたほうが良いと感じるものやプロジェクトについて非公式に議論するときはいつでも、それを公開できないか自問してみましょう。
 
-Be transparent about your project's roadmap, the types of contributions you're looking for, how contributions are reviewed, or why you made certain decisions.
+プロジェクトのロードマップ、あなたが求めている貢献の種類、貢献がどのようにしてレビューされるか、ある決定をなぜ下したのか、といったことは公明正大にしましょう。
 
-If you notice multiple users running into the same problem, document the answers in the README.
+もし複数のユーザーが同じ問題に遭遇しているのであれば、その解決策をREADMEに書きましょう。
 
-For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+ミーティングに関しては、あなたのメモや学びを関連するイシューで公開することを検討しましょう。このようにして透明性を高めることで得られるフィードバックにあなたは驚くかもしれません。
 
-Documenting everything applies to the work you do, too. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
+あらゆる事を記録するというのはあなたの作業についても当てはまります。プロジェクトでなにか大きなアップデートに取り組んでいる場合、プルリクエストを作成し、作業中（WIP）という印をつけましょう。その方が、他の人がプロセスの早い段階から一緒にやっていると感じることができます。
 
 ### Be responsive
 
