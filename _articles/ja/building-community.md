@@ -76,27 +76,27 @@ related:
 
 あらゆる事を記録するというのはあなたの作業についても当てはまります。プロジェクトでなにか大きなアップデートに取り組んでいる場合、プルリクエストを作成し、作業中（WIP）という印をつけましょう。その方が、他の人がプロセスの早い段階から一緒にやっていると感じることができます。
 
-### Be responsive
+### すぐに反応しよう
 
-As you [promote your project](../finding-users), people will have feedback for you. They may have questions about how things work, or need help getting started.
+[プロジェクトを宣伝する](../finding-users)につれて、人々からのフィードバックをもらうでしょう。どうやって動いているのかの質問や始めるにあたって助けを必要としているといった質問かもしれません。
 
-Try to be responsive when someone files an issue, submits a pull request, or asks a question about your project. When you respond quickly, people will feel they are part of a dialogue, and they'll be more enthusiastic about participating.
+イシューが登録されたり、プルリクエストが提出されたり、プロジェクトについて質問を受けた場合はすぐに反応するようにしましょう。素早く返事をすれば、人々は会話に参加していると感じ、より熱心に参加してくれるでしょう。
 
-Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
+たとえすぐにプルリクエストのレビューをできない場合であっても、その旨を素早く伝える事で満足度を高めることができます。これは@tdreynoが[Middleman](https://github.com/middleman/middleman/pull/1466)のプルリクエストに返答したものです：
 
 ![Middleman pull request](/assets/images/building-community/middleman_pr.png)
 
-[A Mozilla study found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
+[Mozillaの調査によると](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)、48時間以内にコードレビューをしてもらったコントリビュータは再度貢献を行う確率が非常に高いということがわかっています。 
 
-Conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
+インターネット上の他の場所でもあなたのプロジェクトについての会話が行われることがあります。例えば、Stack OverflowやTwitterやReddit上でです。そういった場所で通知を設定することで、誰かがあなたのプロジェクトに言及したときに知らせを受け取ることができます。
 
-### Give your community a place to congregate
+### コミュニティが集まる場所を提供しよう
 
-There are two reasons to give your community a place to congregate.
+コミュニティが集まる場所を作るのには2つの理由があります。
 
-The first reason is for them. Help people get to know each other. People with common interests will inevitably want a place to talk about it. And when communication is public and accessible, anybody can read past archives to get up to speed and participate.
+1つ目はコミュニティメンバーのためです。人々が互いに知り合うのを助けましょう。共通の興味を持つ人々は、当然それについて話す場を求めるでしょう。そして、そのコミュニケーションが公開されていてアクセスできるのであれば、誰でも過去のアーカイブを読むことで最新の情報に追いつき参加することができます。
 
-The second reason is for you. If you don't give people a public place to talk about your project, they will likely contact you directly. In the beginning, it may seem easy enough to respond to private messages "just this once". But over time, especially if your project becomes popular, you will feel exhausted. Resist the temptation to communicate with people about your project in private. Instead, direct them to a designated public channel.
+2つ目の理由はあなたのためです。もしあなたのプロジェクトについて話す公の場を提供しないと、あなたに直接コンタクトが来るようになるでしょう。初めは、「これだけは」と思って私的なメッセージで反応するのも十分簡単に見えるかもしれません。しかし、時間がたつにつれて、特にあなたのプロジェクトが有名になると、あなたは疲れ切ってしまうでしょう。あなたのプロジェクトについて内密に人々とコミュニケーションしたいという衝動に抵抗しましょう。そのかわりに、彼らにはプロジェクト用の公開チャンネルに誘導しましょう。
 
 Public communication can be as simple as directing people to open an issue instead of emailing you directly or commenting on your blog. You could also set up a mailing list, or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
 
