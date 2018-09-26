@@ -221,36 +221,36 @@ README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 읽게 할
 
 ## Naming and branding your project
 
-브랜딩은 화려한 로고 또는 재미있는 프로젝트 이름 이상입니다. 그것은 당신의 프로젝트에 대해 어떻게 이야기하고, 당신의 메시지를 가지고 도달했는지에 관한 것입니다.
+브랜딩은 화려한 로고나 매력적인 프로젝트 이름 그 이상입니다. 브랜딩은 여러분이 프로젝트를 어떻게 생각하는지, 누구에게 여러분의 메시지를 전달하고자 하는지에 대한 것입니다.
 
-### 올바른 이름 고르기
+### 올바른 이름 짓기
 
-기억하기 쉬운 이름을 골라야하며, 이상적으로 프로젝트가 하는 일에 대한 아이디어를 제공하십시오. 예시입니다:
+기억하기 쉬운 이름을 짓고 프로젝트가 어떤 일을 하는지 알 수 있게 하는 것이 이상적입니다. 아래의 예시를 보세요.
 
-* [Sentry](https://github.com/getsentry/sentry)는 충돌보고를 위해 앱을 모니터링합니다
-* [Thin](https://github.com/macournoyer/thin)은 빠르고 간단한 Ruby 웹 서버입니다
+* [Sentry](https://github.com/getsentry/sentry)는 충돌 보고를 위해 앱을 모니터링합니다.
+* [Thin](https://github.com/macournoyer/thin)은 빠르고 간단한 Ruby 웹 서버입니다.
 
-기존 프로젝트를 기반으로 하는 경우, 그 이름을 접두사로 사용하면 프로젝트가 수행하는 작업을 분명히 알 수 있습니다 (예시. [node-fetch](https://github.com/bitinn/node-fetch)는  Node.js에서 `window.fetch`를 가져옵니다).
+기존 프로젝트를 기반으로 하는 경우 그 이름을 접두사로 사용하면 프로젝트가 수행하는 작업을 쉽게 파악할 수 있습니다. 예컨대 [node-fetch](https://github.com/bitinn/node-fetch)는 `window.fetch`를 Node.js에 가져옵니다.
 
-무엇보다 명확성을 고려하십시오. 농담은 재미 있지만, 일부 농담은 다른 문화나 다른 경험을 가진 사람들로 번역되지 않을 수도 있음을 기억하십시오. 잠재적인 사용자 중 일부는 회사 직원일 수 있습니다: 그들이 직장에서 당신의 프로젝트를 설명해야 할 때 불편하게 하고 싶지는 않습니다!
+무엇보다 명확성을 고려하세요. 농담은 재미있지만, 어떤 농담은 다른 문화나 다른 경험을 가진 사람들에게는 이해되지 않을 수도 있음을 기억하세요. 잠재적인 사용자 중 일부는 회사 직원일 수 있습니다. 그들이 직장에서 여러분의 프로젝트를 설명하기 어렵게 만들고 싶지는 않을 것입니다!
 
-### Avoiding name conflicts
+### 이름 중복 피하기
 
-[비슷한 이름의 오픈소스 프로젝트가 있는지 확인하십시오](http://ivantomic.com/projects/ospnc/), 특히 동일한 언어 또는 같은 생태계를 공유하는 경우, 이름이 기존의 인기있는 프로젝트와 겹치면 잠재적인 고객을 혼동시킬 수 있습니다.
+[비슷한 이름의 오픈소스 프로젝트가 있는지 확인하세요](http://ivantomic.com/projects/ospnc/). 특히 동일한 언어 또는 같은 생태계를 공유하는 경우, 이름이 기존의 인기 있는 프로젝트와 겹치면 사람들이 헷갈려 할 것입니다.
 
-웹 사이트, Twitter 핸들 또는 프로젝트를 나타내는 다른 속성을 원하면 원하는 이름을 가져올 수 있는지 확인하십시오. 이상적으로는, 아직 사용하지 않으려는 경우에도 마음의 평화를 위해 [지금 해당 이름을 예약하십시오](https://instantdomainsearch.com/).
+웹 사이트, Twitter 핸들 또는 다른 속성이 프로젝트를 표현하기를 원한다면 원하는 이름을 사용할 수 있는지 확인하세요. 이상적으로는, 그 이름을 아직 사용할 생각이 없더라도 마음의 평화를 위해 [이름을 차지해 두는 것이 좋습니다](https://instantdomainsearch.com/).
 
-프로젝트 이름이 상표를 침해하지 않는지 확인하십시오. 회사는 나중에 프로젝트를 중단하거나, 법적 조치를 취할 것을 요구할 수 있습니다. 위험 부담이 되지 않습니다.
+프로젝트 이름이 상표를 침해하지 않는지 확인하세요. 회사 측에서 프로젝트를 중단하거나 법적 조치를 취할 것을 요구할 수 있습니다. 리스크를 부담할 가치는 없습니다.
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+[WIPO Global Brand Database](http://www.wipo.int/branddb/en/) 에서 상표명이 있는지 확인할 수 있습니다. 여러분이 회사에서 일을 하고 있다면 [법률팀이 도와줄 수 있을 것입니다](../legal/).
 
-마지막으로, 프로젝트 이름에 대한 빠른 Google 검색을 수행하십시오. 사람들이 프로젝트를 쉽게 찾을 수 있습니까? 검색 결과에 표시하고 싶지 않은 것이 있습니까?
+마지막으로, 프로젝트 이름을 구글에 검색해 보세요. 사람들이 프로젝트를 쉽게 찾을 수 있을까요? 검색 결과에 여러분이 원치 않는 것이 나타나지는 않나요?
 
-### 당신이 쓰는 방법(그리고 코드)은 당신의 브랜드에도 영향을 미칩니다!
+### 당신의 글(과 코드)도 브랜드에 영향을 미칩니다!
 
-프로젝트가 진행되는 동안, 많은 글을 쓸 것입니다: README, 튜토리얼, 커뮤니티 문서, 이슈에 대한 회신, 뉴스레터 및 메일링 리스트 등.
+프로젝트가 진행되는 동안 여러분은 README, 튜토리얼, 커뮤니티 문서, 이슈에 대한 답변, 뉴스레터 및 메일링 리스트까지 많은 글을 쓸 것입니다.
 
-그것이 공식적인 문서이건 캐주얼 이메일이건, 당신의 작문 스타일은 프로젝트의 브랜드의 일부입니다. 잠재 고객에게 도달하는 방법과 전달하려는 톤인지 여부를 고려하십시오.
+그것이 공식적인 문서든 평범한 이메일이든 여러분의 글 스타일은 프로젝트 브랜드의 일부입니다. 어떻게 청중에게 다가가야 좋을지, 여러분이 전달하고자 하는 어조는 무엇인지 고려하세요.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
@@ -260,43 +260,43 @@ You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) 
   </p>
 </aside>
 
-따뜻하고 포괄적인 언어 (예를 들어 한 사람을 언급 할 때도 "그들"과 같이)를 사용하면, 이 프로젝트가 새로운 참여자에게 환영받는 느낌을 줄 수 있습니다. 많은 독자가 원어민이 아니기 때문에 간단한 언어에 충실하십시오.
+따뜻하고 포괄적인 언어(한 사람을 언급 할 때도 "그들"이라고 하듯)를 사용하면 이 프로젝트가 새로운 기여자에게 환영받는 느낌을 줄 수 있습니다. 많은 독자가 영어를 모국어로 사용하지 않을 수 있으므로 간단한 언어 사용에 충실하세요.
 
-단어 작성 방법 이외에도, 코딩 스타일이 프로젝트 브랜드의 일부가 될 수도 있습니다. [Angular](https://github.com/johnpapa/angular-styleguide)와 [jQuery](http://contribute.jquery.org/style-guide/js/)는 엄격한 코딩 스타일과 가이드 라인을 가진 프로젝트의 두 가지 예시입니다.
+작문 스타일 뿐 아니라 코딩 스타일도 프로젝트 브랜드의 일부가 될 수 있습니다. [Angular](https://github.com/johnpapa/angular-styleguide)와 [jQuery](http://contribute.jquery.org/style-guide/js/)는 엄격한 코딩 스타일과 가이드라인을 가진 프로젝트의 두 가지 예입니다.
 
-프로젝트를 시작할 때 스타일 가이드를 작성할 필요가 없으며, 어쨌든 다른 코딩 스타일을 프로젝트에 통합하는 것을 즐긴다는 것을 알 수 있습니다. 그러나 글쓰기와 코딩 스타일이 다른 유형의 사람들을 끌어 모으거나 방해 할 수있는 방법을 예상해야합니다. 프로젝트의 가장 초기 단계는 보고자하는 선례를 설정할 기회입니다.
+프로젝트를 시작할 때 스타일 가이드를 작성할 필요는 없으며, 여러분은 오히려 프로젝트에 여러 코딩 스타일이 혼재하는 것을 좋아할 수도 있습니다. 하지만 글과 코딩 스타일이 서로 다른 유형의 사람들을 끌어모으거나 단념시킬 수도 있다는 점을 예상해야 합니다. 프로젝트의 가장 초기 단계는 여러분이 원하는 선례를 만들 기회입니다.
 
 ## Your pre-launch checklist
 
-프로젝트를 오픈소스로 할 준비가 되셨습니까? 다음은 도움이 되는 체크리스트입니다. 모든 체크박스를 확인하시겠습니까? 이제 갈 준비가 되었습니다! ["공개"를 클릭](https://help.github.com/articles/making-a-private-repository-public/)하고 등 뒤에서 몸을 담그십시오.
+프로젝트를 오픈소스화할 준비가 되셨습니까? 다음은 도움이 되는 체크리스트입니다. 모든 칸에 체크하셨나요? 이제 출발할 준비가 되었습니다! ["공개"를 클릭](https://help.github.com/articles/making-a-private-repository-public/)하고 등을 토닥이세요.
 
 **문서**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    프로젝트에는 오픈소스 라이선스가 있는 LICENSE 파일이 있습니다
+    프로젝트에 오픈소스 라이선스가 적힌 LICENSE 파일이 있다.
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    프로젝트는 기본적인 문서가 있습니다 (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    프로젝트가 README, CONTRIBUTING, CODE_OF_CONDUCT 등 기본적인 문서를 갖추고 있다.
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    이름은 기억하기 쉽고, 프로젝트가 하는 일에 대한 아이디어를 제공하며, 기존 프로젝트와 충돌하거나 상표를 침해하지 않습니다
+    이름은 기억하기 쉽고, 프로젝트가 하는 일에 대한 아이디어를 제공하며, 기존 프로젝트와 충돌하거나 상표를 침해하지 않는다.
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    이슈 대기열은 항상 최신상태이며,명확하게 정리되고 라벨이 지정된 이슈가 있습니다
+    이슈 대기열이 최신 상태이며, 이슈는 깔끔하게 분류되고 라벨이 지정되어 있다.
   </label>
 </div>
 
@@ -305,65 +305,65 @@ You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    프로젝트는 일관된 코드 규칙을 사용하고 함수/메소드/변수 이름을 지웁니다
+    프로젝트가 일관된 코드 규칙을 사용하고 명확한 함수/메소드/변수 이름을 사용한다.
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    코드는 명확하게 주석 처리되어 있으며, 의도와 엣지 케이스를 문서화합니다
+    코드에 의도와 특수 상황을 담은 명확한 주석이 달려 있다.
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    버전관리 기록, 이슈, 혹은 pull requests에 민감한 자료가 없습니다 (예. 비밀번호나 비공개 정보)
+    커밋 내역, 이슈, PR에 암호나 비공개 정보 등의 민감한 자료가 없다.
   </label>
 </div>
 
 **사람**
 
-개인의 경우:
+여러분이 개인이라면 아래를 확인하세요.
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  법무 부서와 상담하고 (직원이 어딘가에 있다면)회사의 IP 및 오픈소스 정책을 이해했습니다
+  (회사 직원인 경우) 법무 부서와 상담하고 회사의 IP 및 오픈소스 정책을 이해했다.
   </label>
 </div>
 
-만약 회사나 조직일 경우:
+여러분이 회사나 조직이라면 아래를 확인하세요.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    법무 부서에 얘기했습니다
+    법무 부서와 상담했다.
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    프로젝트 발표 및 홍보를 위한 마케팅 계획이 있습니다
+    프로젝트 발표 및 홍보를 위한 마케팅 계획을 마련했다.
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    누군가는 커뮤니티 (이슈에 응답하고 pull requests을 검토 및 병합)상호 작용을 관리하는 데 전념합니다 
+    이슈에 답변하고 PR을 리뷰 및 병합하는 등 커뮤니티 상호 작용을 관리할 담당자가 있다.
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    프로젝트에 대한 관리 권한이 있는 사람이 두명이상 있습니다
+    최소 두 명 이상이 프로젝트 관리 권한을 갖는다.
   </label>
 </div>
 
 ## You did it!
 
-첫번째 프로젝트를 오픈소스화한 것을 축하합니다. 결과에 관계없이 공개적으로 일하는 것은 공동체에 대한 선물입니다. 모든 커밋, 설명 및 pull request을 풀어 쓰면, 자신과 다른 사람들이 배우고 성장할 수 있는 기회가 만들어집니다.
+첫번째 프로젝트를 오픈소스화한 것을 축하합니다. 결과가 어떻든 공개적으로 작업하는 것은 커뮤니티에게 좋은 선물입니다. 모든 커밋, 댓글, PR을 통해 여러분은 여러분 스스로와 다른 사람들이 배우고 성장할 기회를 창출하고 있습니다.
