@@ -98,13 +98,13 @@ related:
 
 2つ目の理由はあなたのためです。もしあなたのプロジェクトについて話す公の場を提供しないと、あなたに直接コンタクトが来るようになるでしょう。初めは、「これだけは」と思って私的なメッセージで反応するのも十分簡単に見えるかもしれません。しかし、時間がたつにつれて、特にあなたのプロジェクトが有名になると、あなたは疲れ切ってしまうでしょう。あなたのプロジェクトについて内密に人々とコミュニケーションしたいという衝動に抵抗しましょう。そのかわりに、彼らにはプロジェクト用の公開チャンネルに誘導しましょう。
 
-Public communication can be as simple as directing people to open an issue instead of emailing you directly or commenting on your blog. You could also set up a mailing list, or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
+公の場でコミュニケーションすることは、あなたに直接メールを送ったり、ブログにコメントする代わりにイシューを開いてもらうように仕向けるのと同じ位簡単なことです。また、メーリングリストを設定したり、TwitterアカウントやSlackやIRCチャンネルを作って、プロジェクトについて話すことができるようにすることもできます。もしくは、それを全部やってもよいのです！
 
-[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) sets aside office hours every other week to help community members:
+[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved)は、コミュニティメンバーを助けるために隔週でオフィスアワーを設定しています：
 
-> Kops also has time set aside every other week to offer help and guidance to the community. Kops maintainers have agreed to set aside time specifically dedicated to working with newcomers, helping with PRs, and discussing new features.
+> Kopsはコミュニティを助けてガイダンスを提供するために隔週で時間を設けています。Kopsのメンテナーは、新しく参加した方のためや、プルリクエストの手助け、新機能についての議論に使うために時間を確保することに同意しています。
 
-Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
+公の場でコミュニケーションすべきという事にも例外はあります：1) セキュリティイシューや2) 微妙な行動規範への違反です。こういったイシューに関しては、内密に報告する手段を常に用意しておくべきです。あなた個人のメールを使いたくない場合は、専用のメールアドレスを確保しましょう。
 
 ## Growing your community
 
