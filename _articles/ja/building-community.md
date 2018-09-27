@@ -147,39 +147,39 @@ CONTRIBUTINGファイルに、新しいコントリビュータにどのよう�
 
 > まず最初に、はRubiniusを使ってくれてありがとうとお伝えしたいとおもいます。このプロジェクトは愛の結晶であり、バグを見つけてくれたり、性能を向上させたり、ドキュメントを手伝ってくれる全てのユーザーに感謝しています。あらゆる貢献には意味があるので、参加してくれたことに感謝しています。そうは言っても、私達があなた達の問題を解決する事ができるように、いくつかのガイドラインに従うようにお願いしたいと思います。
 
-### Share ownership of your project
+### プロジェクトの所有権を共有しよう
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
-  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
+  リーダーたちは異なる意見を持っていることでしょう。あらゆる健全なコミュニティはそうあるべきなのです！しかし、大きな声で人々を疲れさせる人が常に勝利するわけではなく、目立たない少数派の意見も聞き入れられるように対策を講じる必要があります。
   <p markdown="1" class="pquote-credit">
 — @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-People are excited to contribute to projects when they feel a sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you give credit to others, the more they'll stick around.
+人々は、自分もプロジェクトのオーナーであるという感覚を持つときに、ワクワクして貢献してくれる。これはあなたが望まない方向にプロジェクトのビジョンを変えたり、望まない貢献を受け入れるべきということではありません。しかし、他の人を評価すればするほど、彼らはよりプロジェクトに留まってくれるようになるでしょう。
 
-See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
+可能な限りコミュニティに所有権を共有する方法があるかどうか見てみましょう。次にいくつかアイデアを挙げます：
 
-* **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
+* **簡単な（致命的でない）バグを直すのを我慢しよう** 代わりに、そのバツを新しいコントリビュータを採用したり、貢献したいと思っている人をメンターするのに利用しよう。初めは不自然に思うかもしれないが、時間がたつにつれて、それは投資に見合うようになります。例えば、@michaeljosephは下の[Cookiecutter](https://github.com/audreyr/cookiecutter)のイシューに対して、彼自身が直すのではなく、プルリクエストを送るように尋ねています。
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) does.
+* **CONTRIBUTORSファイルやAUTHORSファイルをプロジェクトに作ろう。** このファイルにはプロジェクトに貢献した全員をリストします。例えば、[Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md)のように。
 
-* If you've got a sizable community, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+* かなり大きなコミュニティを既に獲得しているのであれば、コントリビュータへの感謝を伝える **ニュースレターを送ったり、ブロクポストを書いたりしましょう。** Rustの [This Week in Rust](https://this-week-in-rust.org/) やHoodieの[Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) の2つは良い事例です。
 
-* **Give every contributor commit access.** @felixge found that this made people [more excited to polish their patches](https://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
+* **全てのコントリビュータにコミット権限を与えよう。** @felixge によると、これによって人々は [喜んで彼らのパッチに磨きをかけるようになり](https://felixge.de/2013/03/11/the-pull-request-hack.html)、更に彼がしばらくの間作業していなかったプロジェクトの新しいメンテナーを見つけることもできたのです。
 
-* If your project is on GitHub, **move your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. Organizations make it easier to work on projects with external collaborators.
+* もしあなたのプロジェクトがGitHub上にあるのであれば、 **あなたのプロジェクトをあなた個人のアカウントから[Organization](https://help.github.com/articles/creating-a-new-organization-account/)** に移し、最低でも一人は代わりの管理者を追加しましょう。Organization に移行することによって外部の協力者と一緒にプロジェクトで作業しやすくなります。
 
-The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. The bigger your project, and the bigger your community, the easier it is to find help.
+実際のところ、[ほとんどのプロジェクトはたった](https://peerj.com/preprints/1233.pdf) 一人か二人のメンテナーしかおらず、彼らがほとんどの作業を行っています。プロジェクトやコミュニティが大きくなるにつれて、助けてくれる人を見つけるのがより簡単になります。
 
-While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
+常に要求に答えてくれる人が見つかるとは限りませんが、そういったシグナルを出しておくことで、協力してくれる人が出てくるチャンスが増えます。そして、早く始めるほど、すぐに人々が助けてくれるでしょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
+  あなたがやりたいと思わないことを楽しんでやってくれるコントリビュータを採用する事が最優先です。あなたはコーディングは好きだけどイシューに回答するのは好きではありませんか？それなら、コミュニティの中からそれを楽しんでくれる人を探し出して、彼にやってもらいましょう。
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
   </p>
