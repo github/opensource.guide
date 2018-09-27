@@ -106,45 +106,46 @@ related:
 
 公の場でコミュニケーションすべきという事にも例外はあります：1) セキュリティイシューや2) 微妙な行動規範への違反です。こういったイシューに関しては、内密に報告する手段を常に用意しておくべきです。あなた個人のメールを使いたくない場合は、専用のメールアドレスを確保しましょう。
 
-## Growing your community
+## コミュニティを発展させよう
 
-Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
+コミュニティは非常にパワフルです。このパワーは恵みにもなりますし、災いにもなりえます。これはあなたがコミュニティのパワーをどう使うかに依ります。あなたのプロジェクトのコミュニティが発展する際、破壊的な方向ではなく、生産的な力にする方法があります。
 
-### Don't tolerate bad actors
+### 悪い参加者を許容しない
 
-Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
+あらゆる有名なプロジェクトは、あなたのプロジェクトの助けになるよりも害をなす人々を必ずひきつけてしまいます。彼らは不必要な議論を開始したり、些末な機能に難癖をつけたり、他の人を脅したりするかもしれません。
 
-Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave.
+人々のこういった行為に対しては、徹底して取りしますように最善を尽くしましょう。もし放置されてしまうと、有害な人々によって、コミュニティ内の他の人は居心地が悪いと感じてしまうでしょう。彼らは去ってしまうかもしれません。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
-  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
+  実のところ、協力的なコミュニティを持つことが鍵となります。私は、同僚や、親切なインターネット上の見知らぬ人、気さくなIRCチャンネルの助けが無ければ、この仕事を達成することはできなかったでしょう。そうでない状況に甘んじてはいけません。バカを甘んじて受け入れてはいけません。
   <p markdown="1" class="pquote-credit">
 — @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
   </p>
 </aside>
 
-Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
+プロジェクトの些末な点について議論することが日常的になってしまうと、あなたを含む人々が重要なタスクに集中することから気が逸れてしまいます。あなたのプロジェクトを初めてみた人もこういった議論を見て、参加したくないと思うかもしれません。
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
+もしあなたのプロジェクトで有害な行動を見つけたら、公の場で指摘しましょう。温和ながらも断固たるトーンで、なぜその行動が受け入れられないのか説明しましょう。もし問題が続くようであれば、[彼らに立ち去るように言う](../code-of-conduct/#enforcing-your-code-of-conduct)必要があるかもしれません。[行動規範](../code-of-conduct/)は、こういった会話を
+生産的にする助けになりえます。
 
 ### Meet contributors where they're at
 
-Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
+優れたドキュメントは、コミュニティが成長するにつれてより重要になります。あなたのプロジェクトに精通していない一時的なコントリビュータは、ドキュメントを読むことで彼らが必要としている周辺知識を得ることができます。
 
-In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. [Django](https://github.com/django/django), for example, has a special landing page to welcome new contributors.
+CONTRIBUTINGファイルに、新しいコントリビュータにどのようにして始めるのかを明示しましょう。これを説明するために節をまるまる使いたいとさえ思うかもしれません。例えば[Django](https://github.com/django/django)は、新しいコントリビュータを迎えるためにランディングページを持っています。
 
 ![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first issue"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
+イシューのリストにおいて、バグに対してコントリビュータの種類に応じたラベル付けをしましょう：例えば、[_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05)や _"good first issue"_ 、 _"documentation"_ といったものです。[こういったラベル](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)によって、あなたのプロジェクトに詳しくない人がイシューをざっと目を通して貢献を始める事が簡単になります。
 
-Finally, use your documentation to make people feel welcome at every step of the way.
+最後に、全ての過程で歓迎されていると人々が感じられるようにドキュメントを使いましょう。
 
-You will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Even a few kind words can keep someone from leaving your project in frustration.
+プロジェクトに参加し始めたほとんどの人とやり取りすることはないでしょう。恐れを感じたり、どのように初めたらよいかわからないという理由で、あなたへの連絡なしで貢献を行うこともあるかもしれません。そういった場合でも、ほんの少しでも彼らを歓迎する言葉があれば、彼らがイライラしてプロジェクトを去ってしまう事を防ぐことができます。
 
-For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts [its contributing guide](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+これは[Rubinius](https://github.com/rubinius/rubinius/)の[貢献ガイド](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)の書き出しの例です：
 
-> We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
+> まず最初に、はRubiniusを使ってくれてありがとうとお伝えしたいとおもいます。このプロジェクトは愛の結晶であり、バグを見つけてくれたり、性能を向上させたり、ドキュメントを手伝ってくれる全てのユーザーに感謝しています。あらゆる貢献には意味があるので、参加してくれたことに感謝しています。そうは言っても、私達があなた達の問題を解決する事ができるように、いくつかのガイドラインに従うようにお願いしたいと思います。
 
 ### Share ownership of your project
 
