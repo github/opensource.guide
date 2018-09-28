@@ -142,7 +142,7 @@ related:
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   ஒரே காரணம் urlib3 என்பது மிகவும் பிரபலமான மூன்றாம்-தரப்பு பைத்தான் நூலகம், ஏனெனில் இது கோரிக்கைகளின் பகுதியாக உள்ளது.
   <p markdown="1" class="pquote-credit">
-— @shazow, ["உங்கள் திறந்த மூல திட்டத்தை எவ்வாறு வளர்த்துக் கொள்வது"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+— @shazow, ["உங்கள் திறந்த மூல திட்டத்தை எவ்வாறு வளர்த்துக் கொள்வது"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
 </aside>
 
