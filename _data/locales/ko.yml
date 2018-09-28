@@ -1,11 +1,11 @@
 ko:
   locale_name: 한국어
   nav:
-    about: 이것에 관하여
+    about: 대하여
     contribute: 기여
   index:
-    lead: 오픈소스 소프트웨어는 당신과 비슷한 사람들이 만듭니다. 프로젝트를 시작하고 성장시키는 방법에 대해 배워보십시오.
-    opensourcefriday: 금요일입니다! 사용하는 중인 좋아하는 소프트웨어에 기여하기 위한 몇 시간을 투자해보십시오.
+    lead: 오픈소스 소프트웨어는 여러분 같은 사람들이 모여 만듭니다. 프로젝트를 시작하고 성장시키는 방법에 대해 배워보세요.
+    opensourcefriday: 금요일입니다! 애용하는 소프트웨어에 기여하는 데 몇 시간 투자해 보는 건 어떨까요?
   article:
     table_of_contents: 목차
     back_to_all_guides: 모든 가이드로 돌아가기
@@ -13,11 +13,11 @@ ko:
   footer:
     contribute:
       heading: 기여
-      description: 제안을 하기 원하시나요? 이 내용은 오픈소스입니다. 개선 할 수 있도록 도와주세요.
+      description: 제안을 하고 싶으신가요? 이 사이트는 오픈소스입니다. 개선할 수 있도록 도와주세요.
       button: 기여하기
     subscribe:
-      heading: 계속 소식 받기
-      description: GitHub의 최신 오픈소스 팁과 리소스에 대해 먼저 들어보십시오.
+      heading: 구독
+      description: GitHub의 최신 오픈소스 팁과 리소스 관련 소식을 누구보다 먼저 들어보세요.
       label: 이메일 주소
       button: 구독하기
     byline:
