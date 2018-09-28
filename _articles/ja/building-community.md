@@ -179,7 +179,7 @@ CONTRIBUTINGファイルに、新しいコントリビュータにどのよう�
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  あなたがやりたいと思わないことを楽しんでやってくれるコントリビュータを採用する事が最優先です。あなたはコーディングは好きだけどイシューに回答するのは好きではありませんか？それなら、コミュニティの中からそれを楽しんでくれる人を探し出して、彼にやってもらいましょう。
+  あなたがやりたいと思わないことを楽しんでやってくれるコントリビュータを採用する事が最優先です。あなたはコーディングは好きだけどイシューに回答するのは好きではありませんか？それなら、コミュニティの中からそれを楽しんでくれる人を探し出して、その人にやってもらいましょう。
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
   </p>
