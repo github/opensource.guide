@@ -185,16 +185,17 @@ CONTRIBUTINGファイルに、新しいコントリビュータにどのよう�
   </p>
 </aside>
 
-## Resolving conflicts
+## 衝突を解消しよう
 
-In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
+プロジェクトの初期段階では、大きな決定をするのは簡単です。もし何かをやりたいのであれば、あなたがやるだけです。
 
-As your project becomes more popular, more people will take interest in the decisions you make. Even if you don't have a big community of contributors, if your project has a lot of users, you'll find people weighing in on decisions or raising issues of their own.
+プロジェクトが有名になるにつれて、人々はあなたが下す決定に興味を持ち始めます。たとえ大きなコントリビュータのコミュニティがなかったとしても、たくさんのユーザーがいるのであれば、人々が決定に対して影響を与えたり、彼ら自身の問題を取り上げたりしていることに気づくでしょう。
 
-For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find resolution. But sometimes you run into an issue that's a bit harder to address.
+ほとんどの部分では、もしあなたが友好的で互いを尊重するコミュニティを作り上げ、プロセスを公開して記録してきているのであれば、コミュニティによって解決策を見つけることができるようになっているはずです。しかし、時々解決するのがやや難しい問題に遭遇するでしょう。
 
 ### Set the bar for kindness
 
+コミュニティが難しい問題に取り組んでいるときは、
 When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
 
 Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
