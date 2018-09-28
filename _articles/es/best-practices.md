@@ -31,7 +31,7 @@ Tomar nota de los procedimientos es una de las mejores pr&aacute;cticas que pued
 
 Documentar no s&oacute;lo aclara tu pensamiento, sino que tambi&eacute;n ayuda a otros a entender lo que necesitas o est&aacute;s esperando, sin siquiera tener que preguntar.
 
-Tomar nota de los procesimientos facilita el hecho de decir que no cuando la propuesta de alguien no encaja en tu contexto. Asi como tambi&eacute;n hace m&aacute;s f&aacute;cil que otras personas puedan sumarse y ayudar. Nunca sabes quien podr&iacute;a estar leyendo o usando tu proyecto.
+Tomar nota de los procesos facilita el hecho de decir que no cuando la propuesta de alguien no encaja en tu contexto. As&iacute; como tambi&eacute;n hace m&aacute;s f&aacute;cil que otras personas puedan sumarse y ayudar. Nunca sabes quien podr&iacute;a estar leyendo o usando tu proyecto.
 
 Aunque no seas del tipo de persona que escribe p&aacute;rrafos completos, tener los puntos claves anotados es mejor que no tener nada.
 
