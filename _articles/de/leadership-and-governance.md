@@ -28,11 +28,11 @@ Viele Projekte folgen einer ähnlichen Struktur hinsichtlich Mitwirkung und Aner
 
 Was diese Rollen aber tatsächlich bedeuten, liegt ganz bei Ihnen. Nachfolgend sind einige Arten von Rollen aufgeführt, die Sie vielleicht erkennen werden:
 
-* * **Maintainer\*in**
-* * **Mitwirkende\*r ***
-* * **Committer\*in**
+* **Maintainer\*in**
+* **Mitwirkende\*r**
+* **Committer\*in**
 
-**Bei einigen Projekten sind "Maintainer\*innen "** die einzigen Personen in einem Projekt mit Commit-Rechten. In anderen Projekten sind es einfach die Leute, die in der README als Maintainer\*innen aufgelistet sind.
+**Bei einigen Projekten sind "Maintainer\*innen"** die einzigen Personen in einem Projekt mit Commit-Rechten. In anderen Projekten sind es einfach die Leute, die in der README als Maintainer\*innen aufgelistet sind.
 
 Ein\*e Maintainer\*in muss nicht zwangsläufig für Ihr Projekt Code schreiben. Es kann auch eine Person sein, die oder der viel Öffentlichkeitsarbeit für Ihr Projekt geleistet hat, oder viel  Dokumentation geschrieben hat, die das Projekt für andere zugänglicher gemacht hat. Unabhängig davon, was sie tagtäglich tun, fühlen sich Maintainer\*innen wahrscheinlich für die Richtung des Projekts verantwortlich und setzen sich für die Verbesserung des Projekts ein.
 
