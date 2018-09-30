@@ -8,7 +8,6 @@ toc:
   estableciendo-un-c&oacute;digo-de-conducta: "Estableciendo un c&oacute;digo de conducta"
   decidiendo-de-qu&eacute;-manera-vas-a-aplicar-tu-c&oacute;digo-de-conducta: "Decidiendo de qu&eacute; manera vas a aplicar tu c&oacute;digo de conducta"
   aplicando-tu-c&oacute;digo-de-conducta: "Aplicando tu c&oacute;digo de conducta"
-  tus-responsabilidades-como-responsable-de-mantenimiento: "Tus responsabilidades como responsable de mantenimiento"
 order: 8
 image: /assets/images/cards/coc.png
 related:

@@ -8,7 +8,6 @@ toc:
   establishing-a-code-of-conduct: "建立行为守则"
   deciding-how-youll-enforce-your-code-of-conduct: "决定你们如何执行行为守则"
   enforcing-your-code-of-conduct: "执行你们的行为守则"
-  维护者的责任和义务: "维护者的责任和义务"
 order: 8
 image: /assets/images/cards/coc.png
 related:
