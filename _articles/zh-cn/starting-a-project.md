@@ -215,7 +215,7 @@ related:
 
 除了传达你期待参与者**如何**行动，行为规范也倾向于描述这些期待针对谁，适用于何时，以及对于违规行为的处理方法。
 
-就像开源许可证一样，有现成的行为规范，所以你不必自己编写。[贡献者公约](https://www.contributor-covenant.org/)是一个行之有效的行为规范，已经被用在[超过4000个开源项目](https://www.contributor-covenant.org/adopters)，包括 Kubernetes，Rails，以及 Swift。无论你使用哪一种，你都应该准备好在必要时执行行为规范。
+就像开源许可证一样，有现成的行为规范，所以你不必自己编写。[贡献者公约](https://www.contributor-covenant.org/)是一个行之有效的行为规范，已经被用在[超过4000个开源项目](https://www.contributor-covenant.org/adopters/)，包括 Kubernetes，Rails，以及 Swift。无论你使用哪一种，你都应该准备好在必要时执行行为规范。
 
 将文本直接粘贴到项目存储库中的 CODE_OF_CONDUCT 文件中。将文件保存在项目的根目录中，以便轻松找到，并从 README 中链接到它。
 

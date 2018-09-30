@@ -8,7 +8,6 @@ toc:
   etablir-un-code-de-conduite: "Etablir un code de conduite"
   d&eacute;cider-comment-vous-allez-appliquer-votre-code-de-conduite: "D&eacute;cider comment vous allez appliquer votre code de conduite"
   appliquer-votre-code-de-conduite: "Appliquer votre code de conduite"
-  vos-responsabilités-en-tant-que-mainteneur: "Vos responsabilités en tant que mainteneur"
 order: 8
 image: /assets/images/cards/coc.png
 related:

@@ -215,7 +215,7 @@ Pour plus d'informations, consultez notre [Code de conduite](../code-of-conduct/
 
 En plus de communiquer _comment_ vous souhaitez que les participants se comportent, un code de conduite a également tendance à décrire à qui s'appliquent ces attentes, quand ils s'appliquent, et que faire en cas de violation.
 
-Tout comme les licences open source, il existe également des normes émergentes pour les codes de conduite, vous n'avez donc pas besoin d'écrire les vôtres. Le [Contributor Covenant](https://contributor-covenant.org/)) est un code de conduite qui est utilisé par [plus de 40 000 projets open source](https://www.contributor-covenant.org/adopters) , y compris Kubernetes, Rails et Swift. Quel que soit le texte que vous utilisez, vous devez être prêt à appliquer votre code de conduite si nécessaire.
+Tout comme les licences open source, il existe également des normes émergentes pour les codes de conduite, vous n'avez donc pas besoin d'écrire les vôtres. Le [Contributor Covenant](https://contributor-covenant.org/)) est un code de conduite qui est utilisé par [plus de 40 000 projets open source](https://www.contributor-covenant.org/adopters/) , y compris Kubernetes, Rails et Swift. Quel que soit le texte que vous utilisez, vous devez être prêt à appliquer votre code de conduite si nécessaire.
 
 Collez le texte directement dans un fichier CODE_OF_CONDUCT dans votre repository. Conservez le fichier dans le répertoire racine de votre projet pour qu'il soit facile à trouver et liez-le à partir de votre fichier README.
 
