@@ -1,7 +1,7 @@
 ---
 lang: ko
-title: 프로젝트에서 사람찾기
-description: 행복한 사용자의 손에 넣어져서 오픈소스 프로젝트의 성장을 도우십시오.
+title: 프로젝트에 기여할 사람 찾기
+description: 당신의 오픈소스 프로젝트가 행복한 사용자들의 손길 아래 성장할 수 있게 만드세요.
 class: finding
 toc:
   spreading-the-word: "단어 확산하기"
@@ -19,32 +19,32 @@ related:
 
 ## Spreading the word
 
-출시할 때 오픈소스 프로젝트를 홍보해야한다는 규정은 없습니다. 인기와 아무런 관련이 없는 오픈소스에서 일하는 많은 성취 이유가 있습니다. 그러나 다른 사람들이 오픈소스 프로젝트를 찾고 사용할 수 있기를 희망한다면, 이제는 모든 사람들에게 열심히 일하게 할 시간입니다!
+시작할 때부터 오픈소스 프로젝트를 홍보해야 한다는 규칙은 없습니다. 오픈소스에 기여하는 데는 인기와 무관한 많은 이유가 있습니다. 사람들이 여러분의 오픈소스 프로젝트를 찾고 이용해주기를 기대하지만 말고 여러분의 노력에 대한 이야기를 퍼뜨려야 합니다!
 
 ## Figure out your message
 
-프로젝트를 홍보하기 위한 실제 작업을 시작하기 전에, 프로젝트의 기능과 중요한 이유를 설명할 수 있어야합니다.
+프로젝트를 홍보하기 위한 실질적인 작업을 시작하기 전에 프로젝트가 무엇을 하고 왜 중요한지 설명할 수 있어야 합니다.
 
-무엇이 당신의 프로젝트를 다양하고 흥미롭게 만드나요? 왜 그것을 만들었습니까? 이러한 질문을 스스로 해결하면 다른 사람들을 설득하기가 더 쉬울 것입니다.
+무엇이 여러분의 프로젝트를 색다르고 흥미롭게 만드나요? 왜 프로젝트를 시작했나요? 이러한 질문에 직접 답하면 프로젝트의 중요성을 알리는 데 도움이 됩니다.
 
-사람들이 문제를 해결하기 때문에, 사용자들은 궁극적으로는 참여자로서만 참여한다는 것을 기억하십시오. 프로젝트의 메시지와 가치에 대해 생각할 때 _그들이_ 무엇을 원하는 것인지에 대한 렌즈를 통해 보도록 하십시오.
+여러분의 프로젝트가 사람들의 문제를 해결해주기 때문에 사람들은 사용자가 되고 기여자가 될 것이라는 점을 기억하세요. 프로젝트의 메시지와 가치에 대해 생각할 때 사용자와 기여자의 관점으로 바라보세요.
 
-예시로, @robb는 코드 예제를 사용하여 자신의 프로젝트인 [Cartography](https://github.com/robb/Cartography)를 효율적으로 했습니다:
+예를 들어 @robb는 코드 예제를 사용해 그의 프로젝트 [Cartography](https://github.com/robb/Cartography)가 왜 유용한지 명확하게 알려줍니다.
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-메시징에 대해 더 자세히 알고 싶으면, Mozilla의 ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) 개발자용 연습 personas를 확인하십시오.
+메시지 전달에 대해 더 알아보고 싶다면 사용자 페르소나 개발을 위한 Mozilla의 ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/)를 참조하세요.
 
 ## Help people find and follow your project
 
 <aside markdown="1" class="pquote">
   You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
   <p markdown="1" class="pquote-credit">
-— Peter Cooper & Robert Nyman, ["코드에 대한 단어 확산 방법"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+— Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-사람들이 단일 네임스페이스를 가리켜 프로젝트를 찾고 기억하도록 돕습니다.
+정보를 한 곳에 집중시켜 사람들이 여러분의 프로젝트를 찾고 기억하기 더 쉽게 만드세요.
 
 **작업을 홍보하기 위해 명확히 처리를 하기.** 트위터 핸들, GitHub URL 또는 IRC 채널을 통해 사람들을 프로젝트에 쉽게 안내 할 수 있습니다. 그들은 또한 귀하의 프로젝트가 성장하는 커뮤니티에 모일 장소를 제공합니다.
 
