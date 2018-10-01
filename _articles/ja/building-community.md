@@ -195,22 +195,21 @@ CONTRIBUTINGファイルに、新しいコントリビュータにどのよう�
 
 ### Set the bar for kindness
 
-コミュニティが難しい問題に取り組んでいるときは、
-When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
+コミュニティが難しい問題に取り組んでいるときは、カッとしやすくなるものです。人々は怒ったりイライラして、他の誰か、もしくはあなたに八つ当たりするかもしれません。
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#悪い参加者を許容しない) to keep discussions civil and productive.
+メンテナーとしてのあなたの仕事はこういった状況が悪化しないようにすることです。たとえあなたがそのトピックについて強い意見を持っていたとしても、争いの飛び込んであなたの意見を押し付けるのではなく、調停役やファシリテーターとして振る舞うようにしましょう。もし誰かがひどい態度をとったり会話を独り占めする場合は、議論を品位があり生産的に保つために[即座に行動しましょう](../building-community/#悪い参加者を許容しない)。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
-  As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
+  プロジェクトのメンテナーとして、コントリビュータに対して敬意を払うのは非常に重要です。彼らはあなたの言うことが彼らに向けられたものとして捉えることがよくあります。
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
-Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly.
+他の人々はあなたが支持することを期待しています。良い例を設定しましょう。あなたはがっかりしたり、良い気分でなかったり、心配しているといった事も表明できますが、穏やかに行いましょう。
 
-Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you.
+常に冷静でいるのは簡単なことではありませんが、リーダーシップを示すことで、コミュニティの健全性を向上させることができます。インターネット上の人々はあなたに感謝することでしょう。
 
 ### Treat your README as a constitution
 
