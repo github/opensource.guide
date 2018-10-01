@@ -5,8 +5,8 @@ description: 人々があなたのプロジェクトを使ったり、貢献し�
 class: building
 toc:
   あなたのプロジェクトの成功のためのお膳立てをしましょう: "あなたのプロジェクトの成功のためのお膳立てをしましょう"
-  growing-your-community: "Growing your community"
-  resolving-conflicts: "Resolving conflicts"
+  コミュニティを発展させよう: "コミュニティを発展させよう"
+  衝突を解消しよう: "衝突を解消しよう"
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -198,7 +198,7 @@ CONTRIBUTINGファイルに、新しいコントリビュータにどのよう�
 コミュニティが難しい問題に取り組んでいるときは、
 When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
+Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#悪い参加者を許容しない) to keep discussions civil and productive.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
