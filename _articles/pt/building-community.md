@@ -20,37 +20,37 @@ Você lançou o seu projeto, está espalhando a palavra, e as pessoas estão dan
 
 Uma comunidade acolhedora é um investimento no futuro do seu projeto e em sua reputação. Se o seu projeto está apenas começando a ter suas primeiras contribuições, comece dando aos primeiros contribuidores uma experiência positiva e faça com que seja fácil para eles continuar contribuindo.
 
-### Make people feel welcome
+### Faça as pessoas se sentirem bem vindas
 
-One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
+Uma maneira de pensar sobre a comunidade do seu projeto é através do que @MikeMcQuaid chama de [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
 
 ![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
+A medida em que você constrói a sua comunidade, considere como uma pessoa no topo do funil (um usuário em potencial), pode, teoricamente, fazer o seu caminho até o fundo (um mantenedor ativo). Seu objetivo é reduzir o atrito presente em cada etapa da experiência do contribuidor. Quando as pessoas têm vitórias fáceis, elas são incentivadas a fazer mais.
 
-Start with your documentation:
+Comece com a documentação:
 
-* **Make it easy for someone to use your project.** [A friendly README](../starting-a-project/#writing-a-readme) and clear code examples will make it easier for anyone who lands on your project to get started.
-* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) and keeping your issues up-to-date.
+* **Faça com que seja fácil, para outras pessoas, utilizarem seu projeto.** [Um README amigável](../starting-a-project/#writing-a-readme) e exemplos claros de codígo tornarão mais fáceis o inicio e ambientação de qualquer pessoa chegando ao seu projeto.
+* **Explique claramente como contribuir**, usando [seu arquivo CONTRIBUTING](../starting-a-project/#writing-your-contributing-guidelines) e mantendo suas _issues_ atualizadas.
 
-[GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) showed incomplete or confusing documentation is the biggest problem for open source users. Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
+A [GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) mostrou que uma documentação incompleta ou confusa é um dos maiores problemas para usuários _open source_. Uma boa documentação é uma porta de entrada para que pessoas interajam com o seu projeto. Eventualmente, alguém irá abrir uma _issue_ ou _pull request_. Use essas interações como oportunidades para trazer essas pessoas para o fundo do funil.
 
-* **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
-* **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
-* **Be open-minded about the types of contributions you'll accept.** Many contributors start with a bug report or small fix. There are [many ways to contribute](../how-to-contribute/#what-it-means-to-contribute) to a project. Let people help how they want to help.
-* **If there's a contribution you disagree with,** thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project, linking to relevant documentation if you have it.
+* **Quando alguém chegar ao seu projeto, agradeça pelo interesse** Basta somente uma experiência negativa para que as pessoas não queiram voltar.
+* **Seja responsivo.** Se você não responder às _issues_ por um mês, as chances são de que as pessoas que as criaram já tenham se esquecido do seu projeto.
+* **Seja mente-aberta sobre os tipos de contribuições que você irá aceitar** Muitos contribuidores começam com um _bug report_ ou um pequeno _fix_. Existem [diversas formas de contribuir](../how-to-contribute/#what-it-means-to-contribute) com um projeto. Faça com que as pessoas ajudem da forma como elas quiserem.
+* **Se houver alguma contribuição que você não concorde,** agradeça pela ideia [explique por que](../best-practices/#learning-to-say-no) ela não se encaixa no escopo do projeto, apontando para a documentação relevante, caso você a possua.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
+  Contribuir com o _open source_ é mais fácil para alguns do que para outros. Há bastante medo em receber reclamações por não ter feito algo da forma certa ou simplesmente por não se encaixar. (...) Dar aos contribuidores um lugar para contribuir com pouca proficiência técnica (documentação, _markdown_ de conteúdo web, etc) reduz significativamente tais receios.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
 
-The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
+A maior parte dos contribuidores _open source_ são contribuidores casuais: pessoas que contribuem com um projeto apenas ocasionalmente. Um contribuidor casual pode não ter tempo para acelerar completamente o seu projeto, portanto o seu trabalho é fazer com que seja mais fácil, para eles, contribuir.
 
-Encouraging other contributors is an investment in yourself, too. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
+Encorajar outros contribuidores é, também, um investimento em si mesmo. Quando você empondera seus maiores fãs a tocar o trabalho com o qual eles estão empolgados, há menos pressão para "fazer tudo você mesmo".
 
 ### Document everything
 
