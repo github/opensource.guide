@@ -20,7 +20,7 @@ Você lançou o seu projeto, está espalhando a palavra, e as pessoas estão dan
 
 Uma comunidade acolhedora é um investimento no futuro do seu projeto e em sua reputação. Se o seu projeto está apenas começando a ter suas primeiras contribuições, comece dando aos primeiros contribuidores uma experiência positiva e faça com que seja fácil para eles continuar contribuindo.
 
-### Faça as pessoas se sentirem bem vindas
+### Faça com que as pessoas sintam-se bem-vindas
 
 Uma maneira de pensar sobre a comunidade do seu projeto é através do que @MikeMcQuaid chama de [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
 
