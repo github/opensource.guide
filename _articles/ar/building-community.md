@@ -1,5 +1,6 @@
 ---
 lang: ar
+direction: rtl
 title: بناء المجتمعات المرحبة
 description: بناء مجتمع يشجع الناس لاستخدام مشروعك والمساهمة فيه ونشره.
 class: building

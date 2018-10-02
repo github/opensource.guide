@@ -1,5 +1,6 @@
 ---
 lang: ar
+direction: rtl
 title: بدء مشروع مفتوح المصدر
 description: تعلم المزيد عن عالم المصادر المفتوجة واستعد لإطلاق مشروعك الخاص.
 class: beginners

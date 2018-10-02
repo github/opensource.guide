@@ -1,5 +1,6 @@
 ---
 lang: ar
+direction: rtl
 title: البحث عن مستخدمين لمشروعك
 description: Help your open source project grow by getting it in the hands of happy users.
 class: finding

@@ -3,6 +3,9 @@
 lang:
   type: String
 
+direction:
+  type: String
+  
 layout:
   type: String
 

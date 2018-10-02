@@ -1,5 +1,6 @@
 ---
 lang: ar
+direction: rtl
 title: القيادة والحوكمة
 description: Growing open source projects can benefit from formal rules for making decisions.
 class: leadership

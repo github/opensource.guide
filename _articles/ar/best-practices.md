@@ -1,5 +1,6 @@
 ---
 lang: ar
+direction: rtl
 title: أفضل الممارسات للصوّان
 description: سهّل حياتك كصائن مصادر مفتوحة. من توثيق العمليات إلى الاستفادة من مجتمعك.
 class: best-practices

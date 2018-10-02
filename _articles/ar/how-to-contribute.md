@@ -1,5 +1,6 @@
 ---
 lang: ar
+direction: rtl
 title: كيف تساهم في المصادر المفتوحة
 description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
 class: contribute
