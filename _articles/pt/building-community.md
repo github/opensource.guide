@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Building Welcoming Communities
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
+lang: pt
+title: Construindo comunidades acolhedoras
+description: Como construir uma comunidade que encorage pessoas a utilizar, contribuir e evangelizar o seu projedo
 class: building
 toc:
   setting-your-project-up-for-success: "Setting your project up for success"
@@ -14,11 +14,11 @@ related:
   - coc
 ---
 
-## Setting your project up for success
+## Configurando o seu projeto para o sucesso
 
-You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
+Você lançou o seu projeto, está espalhando a palavra, e as pessoas estão dando uma olhada. Massa! Porém, e agora, como mantê-las por perto?
 
-A welcoming community is an investment into your project's future and reputation. If your project is just starting to see its first contributions, start by giving early contributors a positive experience, and make it easy for them to keep coming back.
+Uma comunidade acolhedora é um investimento no futuro do seu projeto e em sua reputação. Se o seu projeto está apenas começando a ter suas primeiras contribuições, comece dando aos primeiros contribuidores uma experiência positiva e faça com que seja fácil para eles continuar contribuindo.
 
 ### Make people feel welcome
 
