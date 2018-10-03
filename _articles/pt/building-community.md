@@ -4,9 +4,9 @@ title: Construindo comunidades acolhedoras
 description: Como construir uma comunidade que encorage pessoas a utilizar, contribuir e evangelizar o seu projedo
 class: building
 toc:
-  setting-your-project-up-for-success: "Setting your project up for success"
-  growing-your-community: "Growing your community"
-  resolving-conflicts: "Resolving conflicts"
+  setting-your-project-up-for-success: "Configurando o seu projeto para o sucesso"
+  growing-your-community: "Crescendo a sua comunidade"
+  resolving-conflicts: "Resolvendo conflitos"
 order: 4
 image: /assets/images/cards/building.png
 related:
