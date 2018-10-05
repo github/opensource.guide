@@ -46,51 +46,51 @@ related:
 
 정보를 한 곳에 집중시켜 사람들이 여러분의 프로젝트를 찾고 기억하기 더 쉽게 만드세요.
 
-**작업을 홍보하기 위해 명확히 처리를 하기.** 트위터 핸들, GitHub URL 또는 IRC 채널을 통해 사람들을 프로젝트에 쉽게 안내 할 수 있습니다. 그들은 또한 귀하의 프로젝트가 성장하는 커뮤니티에 모일 장소를 제공합니다.
+**여러분의 작업을 홍보하기 위한 핸들을 정하세요.** 트위터 계정, GitHub URL, IRC 채널 등은 사람들을 여러분의 프로젝트에 끌어들이는 쉬운 방법입니다. 이런 바깥 연락망은 성장하는 프로젝트 커뮤니티가 모일 장소를 제공해 줍니다.
 
-프로젝트에 이 채널을 아직 설정하고 싶지 않다면, 자신의 모든 트위터 또는 GitHub 핸들을 홍보하십시오. 예를 들어, 만남이나 행사에서 말하는 경우, 소개 또는 슬라이드에 포함되어 있는지 확인하십시오. 그런식으로 사람들은 당신에게 연락하거나 일을 수행하는 방법을 알고 있습니다.
+아직 프로젝트 계정이나 사이트 등을 만들고 싶지 않다면, 대신 여러분이 하는 모든 일에서 여러분 스스로의 트위터 혹은 GitHub 계정을 홍보하세요. 사람들이 여러분에게 연락하거나 여러분의 프로젝트에 관심을 가질 수 있게 할 것입니다. 모임이나 행사에서 발표를 한다면 약력이나 슬라이드에 꼭 연락처를 적어 두세요.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
   <p markdown="1" class="pquote-credit">
-— @nathanmarz, ["Apache 폭풍의 역사와 교훈"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+— @nathanmarz, ["History of Apache Storm and Lessons Learned”](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**프로젝트를 위한 웹 사이트를 만드는 것을 고려하기.** 웹 사이트는 프로젝트를 보다 편리하고 쉽게 탐색할 수 있게 해주며, 특히 명확한 문서 및 자습서와 함께 사용할 수 있습니다. 또한 프로젝트가 활성화되어있어 시청자가 더 편안하게 사용할 수 있습니다. 예시를 사용하여 사람들에게 프로젝트 사용 방법에 대한 아이디어를 제공하십시오.
+**프로젝트 웹사이트 작성을 고려하세요.** 깔끔한 문서와 튜토리얼을 담은 웹사이트는 여러분의 프로젝트를 더 친근하고 탐색하기 쉽게 만듭니다. 웹사이트가 있으면 프로젝트가 더 활성화되어 있다는 느낌을 주고, 이는 방문자들이 프로젝트를 더 편한 마음으로 사용할 수 있게 할 것입니다. 사람들에게 아이디어를 주기 위해 여러분의 프로젝트를 유용하게 사용할 수 있는 예시를 제공하세요.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), Django의 협력자가 말하기를 웹사이트는 _"by far the best thing we did with Django in the early days"_이라고 했습니다.
+Django의 공동 크리에이터인 [@adrianholovaty](https://news.ycombinator.com/item?id=7531689)는 웹사이트 운영이 "우리가 Django 개발 초반에 했던 일들 중 가장 잘한 일"이었다고 말했습니다.
 
-만약 당신의 프로젝트가 깃허브에 호스팅된다면, [GitHub 페이지](https://pages.github.com/)를 통해 웹사이트를 쉽게 만드는 것을 보실 수 있습니다. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/),와 [Middleman](https://middlemanapp.com/)은 포괄적인 사이트 중, 훌륭한 [예시입니다](https://github.com/showcases/github-pages-examples).
+여러분의 프로젝트가 GitHub에서 호스팅된다면 [GitHub Pages](https://pages.github.com/)를 이용해 쉽게 웹사이트를 만들 수 있습니다. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), [Middleman](https://middlemanapp.com/) 같은 포괄적 웹사이트의 훌륭한 [예시](https://github.com/showcases/github-pages-examples)를 참조하세요.
 
 ![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
-이제 프로젝트에 대한 메시지와 사람들이 프로젝트를 쉽게 찾을 수 있는 방법을 얻었으므로, 거기서 나와서 고객과 대화를 나눠보십시오.
+이제 여러분은 프로젝트에 대한 메시지와 사람들이 프로젝트를 쉽게 찾아올 수 있는 길을 마련했습니다. 세상으로 나가서 사람들에게 널리 알리세요!
 
 ## Go where your project's audience is (online)
 
-온라인 홍보는 단어를 빠르게 공유하고 전파 할 수 있는 좋은 방법입니다. 온라인 채널을 사용하면 매우 광범위한 잠재적 고객에게 도달 할 수 있습니다.
+온라인에서의 활동은 이야기를 빠르게 퍼트리는 훌륭한 방법입니다. 온라인 채널을 이용하면 아주 넓은 층의 잠재 사용자 혹은 기여자와 닿을 수 있습니다.
 
-기존 온라인 커뮤니티 및 플랫폼을 활용하여 잠재 고객에게 도달하십시오. 만약 오픈소스 프로젝트가 소프트웨어 프로젝트라면, 아마도 [스택 오버플로우](http://stackoverflow.com/), [레딧](http://www.reddit.com), [해커 뉴스](https://news.ycombinator.com/), 또는 [Quora](https://www.quora.com/)에서 고객을 찾을 수 있을 것입니다. 사람들이 당신의 작품에 대해 가장 많은 이익을 보거나 즐거워한다고 생각하는 채널을 찾으십시오.
+기존의 온라인 커뮤니티나 플랫폼을 이용해 청중에게 다가가세요. 여러분의 오픈소스 프로젝트가 소프트웨어 프로젝트라면 [Stack Overflow](http://stackoverflow.com/), [Reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), [Quora](https://www.quora.com/) 같은 곳에서 관심 있는 사람을 찾을 수 있을 것입니다. 여러분의 작품을 가장 유용하게 쓰거나 반가워할 것 같은 사람들이 모인 채널을 찾으세요.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["오픈소스 프로젝트에서의 마케팅"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["Marketing for open source projects”](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
-관련 방법으로 프로젝트를 공유하는 방법을 찾을 수 있는지 확인하십시오:
+어떻게 여러분의 프로젝트를 공유할 수 있을지 더 알아봅시다.
 
-* **관련 오픈소스 프로젝트와 커뮤니티에 대해 알아보십시오.** 때로는 프로젝트를 직접 홍보할 필요가 없습니다. 프로젝트가 파이썬을 사용하는 데이터 과학자에게 완벽하면, 파이썬 데이터 과학 커뮤니티에 대해 알아보십시오. 사람들이 당신을 알게되면, 자연스런 기회가 생겨 대화를 나누고 작업을 공유하게됩니다.
-* **프로젝트가 해결하는 문제를 겪고있는 사람들을 찾으십시오.** 프로젝트의 타겟층에 속한 사람들을 관련 포럼을 통해 검색하십시오. 그들의 질문에 답하고 적절한 방법으로 프로젝트를 솔루션으로 제안하십시오.
-* **피드백 요청하기.** 관련성 높고 흥미로운 청중에게 자신과 자신의 작업을 소개하십시오. 프로젝트에서 누가 이익을 얻을지 생각하는 사람에 대해 구체적으로 설명합시다. 이렇게 문장을 끝내봅니다: _"누군가 Y를 하려고하면, 나는 내 프로젝트가 정말로 X를 도울 것이라고 생각합니다_".단순히 귀하의 작업을 홍보하는 것이 아니라, 다른 사람들의 의견을 경청하고 이에 응답해봅니다.
+* **관련된 오픈소스 프로젝트와 커뮤니티를 찾으세요.** 프로젝트를 직접 홍보할 필요가 없을 때도 있습니다. 예컨대 여러분의 프로젝트가 파이썬을 사용하는 데이터 사이언티스트에게 딱 맞는다면 파이썬 데이터 사이언티스트 커뮤니티를 찾아가세요. 그곳의 사람들이 여러분을 잘 알게 되면, 여러분의 프로젝트에 대해 이야기할 기회도 자연스럽게 늘어날 것입니다.
+* **여러분의 프로젝트가 해결할 수 있는 문제를 겪고 있는 사람을 찾으세요.** 관련 포럼에서의 검색을 통해 프로젝트의 목표 사용자층을 찾고, 그들의 질문에 답해주며 적절한 때에 재치 있게 여러분의 프로젝트를 해결책으로서 제시하는 방법도 있습니다.
+* **피드백을 요청하세요.** 관심과 흥미를 가질 만한 사람들에게 여러분과 여러분의 프로젝트를 소개하세요. 프로젝트를 어떤 사람들이 유용하게 사용할 수 있을지에 대한 여러분의 생각을 구체적으로 말하세요. 문장은 이런 식으로 끝내는 것이 좋습니다. "제 프로젝트가 X를 하려는 Y 여러분들에게 분명 큰 도움이 될 거라고 생각해요." 프로젝트를 홍보하기만 하지 말고 사람들의 피드백에 귀 기울이고 답변하세요.
 
-일반적으로 말하면, 보답하기 전에 다른 사람들을 돕는 데 집중하십시오. 누구나 온라인으로 프로젝트를 홍보하기 쉽기 때문에, 많은 소음이 발생할 것입니다. 자신이 원하는 사람이 아니라, 무리에서 눈에 띄기 위해서 자신이 누구인지를 사람들에게 알릴 수 있습니다.
+사람들로부터 무언가를 받고자 한다면 그 전에 그들을 도와주는 데 집중하세요. 프로젝트를 온라인에서 홍보하는 것은 누구나 할 수 있는 쉬운 일이기 때문에 아주 많은 경쟁이 있는 셈입니다. 그 사이에서 눈에 띄려면 사람들에게 여러분이 무엇을 원하는가가 아닌 여러분이 어떤 사람인가를 알려야 합니다.
 
-아무도 주의를 기울이지 않거나 초기 봉사 활동에 응답하지 않으면, 낙심하지 마십시오! 대부분의 프로젝트 시작은 수개월 또는 수년이 걸릴 수 있는 반복 과정입니다. 처음으로 응답을 얻지 못하면 다른 전술을 시도하거나 다른 사람들의 작품에 가치를 더하는 방법을 먼저 찾으십시오. 이러한 일에는 시간과 헌신이 필요합니다.
+여러분의 노력에도 불구하고 아무도 관심을 가지지 않는다면, 너무 실망하지 마세요! 대부분의 프로젝트는 초기 단계에 수 개월부터 수 년의 시간을 필요로 합니다. 처음 시도에 반응을 얻지 못한다면, 다른 전략을 시도하거나 다른 사람의 프로젝트에 가치를 제공할 방법을 찾아보세요. 프로젝트를 홍보하고 본궤도에 올리는 데에는 충분한 시간과 노력이 필요합니다.
 
 ## Go where your project's audience is (offline)
 
