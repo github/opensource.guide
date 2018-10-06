@@ -193,9 +193,9 @@ CONTRIBUTINGファイルに、新しいコントリビュータにどのよう�
 
 ほとんどの部分では、もしあなたが友好的で互いを尊重するコミュニティを作り上げ、プロセスを公開して記録してきているのであれば、コミュニティによって解決策を見つけることができるようになっているはずです。しかし、時々解決するのがやや難しい問題に遭遇するでしょう。
 
-### Set the bar for kindness
+### 親切さの基準を設けよう
 
-コミュニティが難しい問題に取り組んでいるときは、カッとしやすくなるものです。人々は怒ったりイライラして、他の誰か、もしくはあなたに八つ当たりするかもしれません。
+コミュニティが難しい問題に取り組んでいるときは、カッとなりやすくなるものです。人々は怒ったりイライラして、他の誰か、もしくはあなたに八つ当たりするかもしれません。
 
 メンテナーとしてのあなたの仕事はこういった状況が悪化しないようにすることです。たとえあなたがそのトピックについて強い意見を持っていたとしても、争いの飛び込んであなたの意見を押し付けるのではなく、調停役やファシリテーターとして振る舞うようにしましょう。もし誰かがひどい態度をとったり会話を独り占めする場合は、議論を品位があり生産的に保つために[即座に行動しましょう](../building-community/#悪い参加者を許容しない)。
 
@@ -207,17 +207,17 @@ CONTRIBUTINGファイルに、新しいコントリビュータにどのよう�
   </p>
 </aside>
 
-他の人々はあなたが支持することを期待しています。良い例を設定しましょう。あなたはがっかりしたり、良い気分でなかったり、心配しているといった事も表明できますが、穏やかに行いましょう。
+他の人々はあなたが指示することを期待しています。良い例を設定しましょう。あなたはがっかりしていたり、良い気分でなかったり、心配しているといった事を表明することもできますが、その場合も穏やかに行うようにしましょう。
 
 常に冷静でいるのは簡単なことではありませんが、リーダーシップを示すことで、コミュニティの健全性を向上させることができます。インターネット上の人々はあなたに感謝することでしょう。
 
-### Treat your README as a constitution
+### READMEを憲法のように扱おう
 
-Your README is [more than just a set of instructions](../starting-a-project/#READMEを書く). It's also a place to talk about your goals, product vision, and roadmap. If people are overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher vision of your project. Focusing on your README also depersonalizes the conversation, so you can have a constructive discussion.
+READMEは[単なる手順書以上のものです](../starting-a-project/#READMEを書く)。そこにはあなたのゴールやロードマップについて書く場所でもあるのです。もし人々がある特定の機能のメリットについて議論しすぎているのであれば、READMEを見返してプロジェクトのより高レベルのビジョンについて話すことが助けとなるかもしれません。READMEに注力することは、会話を個人から切り離し、生産的な議論を行うことに繋がります。
 
 ### Focus on the journey, not the destination
 
-Some projects use a voting process to make major decisions. While sensible at first glance, voting emphasizes getting to an "answer," rather than listening to and addressing each other's concerns.
+大きな決定を行う際に投票を用いるプロジェクトもあります。一見して賢明に見えますが、投票はお互いの声を聞き、心配事を解決することよりも、答えを出す事に重きをおいてしまいます。
 
 Voting can become political, where community members feel pressured to do each other favors or vote a certain way. Not everybody votes, either, whether it's the [silent majority](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in your community, or current users who didn't know a vote was taking place.
 
