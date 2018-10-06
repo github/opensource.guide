@@ -1,15 +1,15 @@
 ---
-lang: es
-title: Buenas Pr&aacute;cticas para Mantenedores de C&oacute;digo.
-description: Haci&eacute;ndote la vida m&aacute;s f&aacute;cil como un mantenedor de c&oacute;digo abierto, desde el proceso de documentaci&oacute;n hasta sacar el m&aacute;ximo provecho de la comunidad.
+Idioma: Es
+Tìtulo: Buenas Prácticas para Mantenedores de Código.
+Descripción: Haciéndote la vida más fácil como un mantenedor de código abierto, desde el proceso de documentación hasta sacar el máximo provecho de la comunidad.
 class: best-practices
 toc:
-  qu&eacute;-significa-ser-un-mantenedor-de-c&oacute;digo: "¿Qu&eacute; significa ser un mantenedor de c&oacute;digo?"
+  qué-significa-ser-un-mantenedor-de-código: "¿Qué significa ser un mantenedor de código?"
   documentando-tus-procesos: "Documentando tus procesos"
   aprendiendo-a-decir-no: "Aprendiendo a decir no"
   aprovechando-la-comunidad: "Aprovechando la comunidad"
   traigan-a-los-robots: "Traigan a los robots"
-  est&aacute;-bien-poner-pausa: "Est&aacute; bien poner pausa"
+  está-bien-poner-pausa: "Está bien poner pausa"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -17,35 +17,35 @@ related:
   - leadership
 ---
 
-## ¿Qu&eacute; significa ser un mantenedor de c&oacute;digo?
+## ¿Qué significa ser un mantenedor de código?
 
-Si tu trabajo es mantener un proyecto de c&oacute;digo abierto que mucha gente usa, probablemente te hayas percatado que pasas m&aacute;s tiempo respondiendo issues que programando.
+Si tu trabajo es mantener un proyecto de código abierto que mucha gente usa, probablemente te hayas percatado que pasas más tiempo respondiendo issues que programando.
 
-En etapas tempranas de un proyecto, pasas tiempo experimentando con ideas nuevas y tomando decisiones en base a lo que te gusta. A medida que tu proyecto crece en popularidad, te encontrar&aacute;s en una situaci&oacute;n en la que trabajar&aacute;s con tus usuarios y colaboradores cada vez m&aacute;s.
+En etapas tempranas de un proyecto, pasas tiempo experimentando con ideas nuevas y tomando decisiones en base a lo que te gusta. A medida que tu proyecto crece en popularidad, te encontrarás en una situación en la que trabajarás con tus usuarios y colaboradores cada vez más.
 
-Mantener un proyecto requiere m&aacute;s que solamente c&oacute;digo. Estas tareas no suelen ser tenidas en cuenta, pero son igual de importantes para un proyecto en crecimiento. Hemos reunido algunas ideas que har&aacute;n tu vida m&aacute;s f&aacute;cil, desde el proceso de documentaci&oacute;n hasta sacar el m&aacute;ximo provecho de la comunidad.
+Mantener un proyecto requiere más que solamente código. Estas tareas no suelen ser tenidas en cuenta, pero son igual de importantes para un proyecto en crecimiento. Hemos reunido algunas ideas que harán tu vida más fácil, desde el proceso de documentación hasta sacar el máximo provecho de la comunidad.
 
 ## Documentando tus procesos
 
-Tomar nota de los procedimientos es una de las mejores pr&aacute;cticas que puedes llevar a cabo como mantenedor de c&oacute;digo.
+Tomar nota de los procedimientos es una de las mejores prácticas que puedes llevar a cabo como mantenedor de código.
 
-Documentar no s&oacute;lo aclara tu pensamiento, sino que tambi&eacute;n ayuda a otros a entender lo que necesitas o est&aacute;s esperando, sin siquiera tener que preguntar.
+Documentar no sólo aclara tu pensamiento, sino que también ayuda a otros a entender lo que necesitas o estás esperando, sin siquiera tener que preguntar.
 
-Tomar nota de los procesos facilita el hecho de decir que no cuando la propuesta de alguien no encaja en tu contexto. As&iacute; como tambi&eacute;n hace m&aacute;s f&aacute;cil que otras personas puedan sumarse y ayudar. Nunca sabes quien podr&iacute;a estar leyendo o usando tu proyecto.
+Tomar nota de los procesos facilita el hecho de decir que no cuando la propuesta de alguien no encaja en tu contexto. Así como también hace más fácil que otras personas puedan sumarse y ayudar. Nunca sabes quien podría estar leyendo o usando tu proyecto.
 
-Aunque no seas del tipo de persona que escribe p&aacute;rrafos completos, tener los puntos claves anotados es mejor que no tener nada.
+Aunque no seas del tipo de persona que escribe párrafos completos, tener los puntos claves anotados es mejor que no tener nada.
 
-### Dejando en claro la visi&oacute;n de tu proyecto
+### Dejando en claro la visión de tu proyecto
 
-Comienza escribiendo los objetivos de tu proyecto. Agr&eacute;galos a tu archivo README, o crea un archivo separado llamado VISION. Si existen otros artefactos que puedan ayudar, como un mapa del proyecto, h&aacute;zlos p&uacute;blicos tambi&eacute;n
+Comienza escribiendo los objetivos de tu proyecto. Agrégalos a tu archivo README, o crea un archivo separado llamado VISION. Si existen otros artefactos que puedan ayudar, como un mapa del proyecto, házlos públicos también
 
 Llevando una clara, documentada visi&oacute;n te mantiene en foco y ayuda a evitar el mal entendimiento del alcance por parte de otros colaboradores.
 
-Por ejemplo, @lord descubri&oacute; que tener la visi&oacute;n de un proyecto lo ayud&oacute; a darse cuenta que peticiones priorizar. Como un mantenedor de c&oacute;digo novato, se lament&oacute; de no ser fiel al alcance del proyecto cuando recibi&oacute; su primer pedido de funcionalidad por [Slate](https://github.com/lord/slate).
+Por ejemplo, @lord descubrió que tener la visión de un proyecto lo ayudó a darse cuenta que peticiones priorizar. Como un mantenedor de código novato, se lamentó de no ser fiel al alcance del proyecto cuando recibió su primer pedido de funcionalidad por [Slate](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-  Lo intent&eacute;. No le puse el esfuerzo necesario para salir adelante con una soluci&oacute;n completa. En lugar de una soluci&oacute;n a medias, hubiera deseado haber dicho "En este momento no tengo tiempo para eso, pero voy a agregar la funcionalidad a la lista de pendientes a desarrollar en el futuro."
+  Lo intenté. No le puse el esfuerzo necesario para salir adelante con una solución completa. En lugar de una solución a medias, hubiera deseado haber dicho "En este momento no tengo tiempo para eso, pero voy a agregar la funcionalidad a la lista de pendientes a desarrollar en el futuro."
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips para mantenedores de c&oacute;digo abierto"](https://lord.io/blog/2014/oss-tips/)
   </p>
@@ -53,11 +53,11 @@ Por ejemplo, @lord descubri&oacute; que tener la visi&oacute;n de un proyecto lo
 
 ### Comunicar tus expectativas
 
-Algunas veces puede que sea complicado detallar las reglas para que otra gente pueda contribuir. Puedes llegar a sentir que est&aacute;s comport&aacute;ndote como un policia o arruinando la diversi&oacute;n para los dem&aacute;s.
+Algunas veces puede que sea complicado detallar las reglas para que otra gente pueda contribuir. Puedes llegar a sentir que estás comportándote como un policia o arruinando la diversión para los demás.
 
-Escritas y aplicadas de manera justa, sin embargo, las buenas reglas dan poder a los mantenedores de c&oacute;digo. Evitan que te arrastren a hacer cosas que no quieres hacer.
+Escritas y aplicadas de manera justa, sin embargo, las buenas reglas dan poder a los mantenedores de código. Evitan que te arrastren a hacer cosas que no quieres hacer.
 
-La mayor&iacute;a de las personas que se encuentran con tu proyecto no saben nada sobre ti o tus circunstancias. Pueden asumir que te pagan para trabajar en &eacute;l, especialmente si es algo que usan y dependen regularmente. Tal vez en un momento pon&iacute;as mucho tiempo en tu proyecto, pero ahora est&aacute;s ocupado con un nuevo trabajo o alg&uacute;n miembro de la familia.
+La mayoría de las personas que se encuentran con tu proyecto no saben nada sobre ti o tus circunstancias. Pueden asumir que te pagan para trabajar en él, especialmente si es algo que usan y dependen regularmente. Tal vez en un momento pon&iacute;as mucho tiempo en tu proyecto, pero ahora est&aacute;s ocupado con un nuevo trabajo o alg&uacute;n miembro de la familia.
 
 ¡Est&aacute; perfectamente bien! S&oacute;lo aseg&uacute;rate de que la gente lo sepa.
 
