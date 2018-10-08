@@ -22,7 +22,7 @@ Una comunidad de bienvenida es una inversi&oacute;n a futuro a tu proyecto y a t
 
 ### Haz que la gente se sienta bienvenida
 
-Una manera de pensar acerca de la comunidad del proyecto es a trav&eacute;s de lo que @MikeMcQuaid llama [contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
+Una manera de pensar acerca de la comunidad del proyecto es a trav&eacute;s de lo que @MikeMcQuaid llama [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
 
 ![contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 

@@ -22,7 +22,7 @@ Une communauté accueillante est un investissement dans l'avenir et la réputati
 
 ### Faites que les gens se sentent les bienvenus
 
-Une façon de penser à la communauté de votre projet est ce que @MikeMcQuaid appelle l'[entonnoir du contributeur](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
+Une façon de penser à la communauté de votre projet est ce que @MikeMcQuaid appelle l'[entonnoir du contributeur](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
 
 ![Entonnoir du contributeur](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 

@@ -20,6 +20,11 @@ blockquote {
   }
 }
 
+.lead,
+.alt-lead {
+  word-break: keep-all;
+}
+
 .pquote {
   border: $border;
   padding: $spacer-3;
@@ -172,11 +177,12 @@ blockquote {
     font-size: 21px;
     font-weight: $font-weight-light;
     color: $gray;
+    word-break: keep-all;
     @include breakpoint(md) { font-size: 24px; }
     @include breakpoint(lg) { font-size: 26px; }
 
     &::after {
-      content:" ";
+      content: " ";
       display: block;
       margin: 1.5em auto;
       height: 5px;
@@ -203,7 +209,7 @@ blockquote {
 }
 
 .border-sm-0 {
-  @include breakpoint(sm) { border-bottom: none !important;}
+  @include breakpoint(sm) { border-bottom: none !important; }
 }
 
 .col-border {
@@ -211,7 +217,7 @@ blockquote {
 }
 
 .bg-gray-light {
-  background-color: #F3F3F3 !important;;
+  background-color: #F3F3F3 !important;
 }
 
 .text-black {
@@ -225,6 +231,8 @@ blockquote {
 .mc-field-group {
   .form-input {
     border: $border;
+    color: $text-gray-dark;
+    background-color: $bg-white;
     height: 40px;
   }
 }
