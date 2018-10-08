@@ -155,7 +155,7 @@ Incluso si no eres un desarrollador de software, trabajar en la documentaci&oacu
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Si vas tras un rastreador de problemas y las cosas parecen confusas, no eres solo tu. Esas herramientas requieren mucho conocimiento impl&iacute;cito, pero las personas puede ayudarte a navegarlo y tu puedes hacerles preguntas.
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["C&oacute;mo Contribuir con el C&oacute;digo Abierto"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["C&oacute;mo Contribuir con el C&oacute;digo Abierto"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 

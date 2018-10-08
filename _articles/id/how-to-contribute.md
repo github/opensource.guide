@@ -155,7 +155,7 @@ Meskipun Anda seorang pengembang perangkat lunak, bekerja pada proyek dokumentas
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Jika Anda mengunjungi issue tracker dan tampaknya membingungkan, hal itu terjadi bukan hanya kepada Anda saja. Perangkat ini membutuhkan banyak pemahaman implisit, tetapi orang lain mampu membantu Anda dalam mengeksplorasi dan Anda bisa bertanya kepada mereka.
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["How to Contribute to Open Source"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
