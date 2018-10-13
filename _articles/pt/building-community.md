@@ -52,29 +52,27 @@ A maior parte dos contribuidores _open source_ são contribuidores casuais: pess
 
 Encorajar outros contribuidores é, também, um investimento em si mesmo. Quando você empondera seus maiores fãs a tocar o trabalho com o qual eles estão empolgados, há menos pressão para "fazer tudo você mesmo".
 
-### Document everything
+### Documente tudo
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
+  Você alguma vez já esteve presente em um evento (de tecnologia), onde não conhecia ninguém, porém o restante das pessoas parecia se reunir em grupos e batiam papo como velhos amigos? (...) Agora imagine que você quer contribuir em um projeto _open source_, mas não consegue enxergar por quê ou como isso está acontecendo.
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-When you start a new project, it may feel natural to keep your work private. But open source projects thrive when you document your process in public.
+Quando você inicia um novo projeto, pode parecer natural manter o seu trabalho privado. Todavia, projetos _open source_ prosperam quando você documenta seu processo em público.
 
-When you write things down, more people can participate at every step of the way. You might get help on something you didn't even know you needed.
+Quando você escreve as coisas, mais pessoas podem participar a cada passo do caminho. Você pode obter ajuda em algo que você nem sabia que precisava.
 
-Writing things down means more than just technical documentation. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public.
+Seja transparente sobre o roteiro do projeto, o tipo de contribuição que vocẽ está buscando, como os contribuidores são avaliados, ou por quê você tomou certas decisões.
 
-Be transparent about your project's roadmap, the types of contributions you're looking for, how contributions are reviewed, or why you made certain decisions.
+Se você reparar em vários usuários enfrentando os mesmos problemas, documente as soluções no README.
 
-If you notice multiple users running into the same problem, document the answers in the README.
+Sobre encontros e reuniões, considere publicar suas notas ou conclusões em uma _issue_ relevante. O retorno que você obterá com desse tipo de transparência pode surpreênde-lo.
 
-For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
-
-Documenting everything applies to the work you do, too. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
+Documentar tudo aplica-se, também, ao trabalho que você produz. Se você está trabalhando em uma atualização substancial de um projeto, coloque isso em um _pull request_ e marque como um trabalho em andamento (_work in progress_, WIP). Dessa forma, outras pessoas podem se sentir envolvidas no processo desde o início.
 
 ### Be responsive
 
