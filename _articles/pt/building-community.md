@@ -14,7 +14,7 @@ related:
   - coc
 ---
 
-## Configurando o seu projeto para o sucesso
+## Preparando o seu projeto para o sucesso
 
 Você lançou o seu projeto, está espalhando a palavra, e as pessoas estão dando uma olhada. Massa! Porém, e agora, como mantê-las por perto?
 
