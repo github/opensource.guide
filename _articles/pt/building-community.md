@@ -74,19 +74,19 @@ Sobre encontros e reuniões, considere publicar suas notas ou conclusões em uma
 
 Documentar tudo aplica-se, também, ao trabalho que você produz. Se você está trabalhando em uma atualização substancial de um projeto, coloque isso em um _pull request_ e marque como um trabalho em andamento (_work in progress_, WIP). Dessa forma, outras pessoas podem se sentir envolvidas no processo desde o início.
 
-### Be responsive
+### Seja responsivo
 
-As you [promote your project](../finding-users), people will have feedback for you. They may have questions about how things work, or need help getting started.
+Conforme você [promove seu projeto](../finding-users), as pessoas terão alguma opnião sobre você. Elas pordem ter questionamentos sobre como as coisas funcionam, ou podem precisar de ajuda para começar.
 
-Try to be responsive when someone files an issue, submits a pull request, or asks a question about your project. When you respond quickly, people will feel they are part of a dialogue, and they'll be more enthusiastic about participating.
+Tente ser responsivo quando alguém registra uma _issue_, submete um _pull request_, ou faz alguma pergunta sobre o seu projeto. Quando vocẽ responde rapidamente, as pessoas se sentirão parte de um diálogo e mais entusiasmadas em participar.
 
-Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
+Mesmo que não possa analisar o _pull request_ imediatamente, reconhecê-lo cedo ajuda a aumentar o engajamento. Este é um exemplo de como @tdreyno respondeu um _pull request_ no [Middleman](https://github.com/middleman/middleman/pull/1466):
 
 ![Middleman pull request](/assets/images/building-community/middleman_pr.png)
 
-[A Mozilla study found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
+[Um estudo da Mozilla mostrou que](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contribuidores que tiveram os seus códigos revisados, em até 48 horas, voltaram a contribuir novamente no projeto, um número substancialmente maior de vezes. 
 
-Conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
+Conversas sobre o seu projeto também podem estar acontecendo em outros lugares da internet, como no Stack Overflow, Twitter, ou Reddit. Você pode configurar as notificações em alguns desses locais, para ser alertado sempre que alguém menciona o seu projeto.
 
 ### Give your community a place to congregate
 
