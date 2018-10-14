@@ -88,19 +88,19 @@ Mesmo que não possa analisar o _pull request_ imediatamente, reconhecê-lo cedo
 
 Conversas sobre o seu projeto também podem estar acontecendo em outros lugares da internet, como no Stack Overflow, Twitter, ou Reddit. Você pode configurar as notificações em alguns desses locais, para ser alertado sempre que alguém menciona o seu projeto.
 
-### Give your community a place to congregate
+### Dê a sua comunidade um lugar para se reunir
 
-There are two reasons to give your community a place to congregate.
+Existem duas razões para dar a sua comunidade um lugar para se reunir.
 
-The first reason is for them. Help people get to know each other. People with common interests will inevitably want a place to talk about it. And when communication is public and accessible, anybody can read past archives to get up to speed and participate.
+A primera razão é para para a própria comunidade. Ajude as pessoas a conhecer umas as outras. Pessoas com interesses em comum irão inevitavelmente querer um lugar para falar sobre isso. E quando a comunicação é pública e acessível, qualquer um pode ler os arquivos anteriores para se ambientar, pegar o ritmo e participar.
 
-The second reason is for you. If you don't give people a public place to talk about your project, they will likely contact you directly. In the beginning, it may seem easy enough to respond to private messages "just this once". But over time, especially if your project becomes popular, you will feel exhausted. Resist the temptation to communicate with people about your project in private. Instead, direct them to a designated public channel.
+A segunda razão é para você. Se você não der às pessoas um lugar público para falar sobre o seu projeto, elas provavelmente irão entrar em contato diretamente com você. No início, pode parecer razoavelmente fácil responder à mensagens privadas "somente desta vez". Porém ao longo do tempo, especialmente se seu projeto se tornar popular, você se sentirá exausto. Resista à tentação de se comunicar com as pessoas sobre o seu projeto em privado. Ao invés disso, direcione-as a um canal público.
 
-Public communication can be as simple as directing people to open an issue instead of emailing you directly or commenting on your blog. You could also set up a mailing list, or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
+A comunicação pública pode ser tão simples quanto direcionar as pessoas para uma _issue_ aberta ao invés de emails diretos ou comentários no seu blog. Você também pode configurar uma lista de emails, ou criar uma conta no Twitter, Slack, ou canal IRC, para as pessoas conversarem sobre o seu projeto. Alternativamente, tente todas essas opções!
 
-[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) sets aside office hours every other week to help community members:
+[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) reserva horários durante o expediente, a cada duas semanas, para ajudar os membros da comunidade:
 
-> Kops also has time set aside every other week to offer help and guidance to the community. Kops maintainers have agreed to set aside time specifically dedicated to working with newcomers, helping with PRs, and discussing new features.
+> O Kops também tem tempo reservado, a cada duas semanas, para oferecer ajuda e orientação para a comunidade. Os mantenedores do Kops concordaram em reservar um tempo especialmente dedicado ao trabalho com os novatos, ajudando com PRs e discutindo novas _features_.
 
 Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
 
