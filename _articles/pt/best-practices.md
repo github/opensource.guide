@@ -1,7 +1,7 @@
 ---
 lang: pt
 title: Melhores Práticas para Mantenedores
-description: Tornando sua vida mais fácil como um mantenedor open source, desde processos de documentação até o alavancar a sua comunidade.
+description: Tornando sua vida mais fácil como um mantenedor open source, desde processos de documentação até o alavancar da sua comunidade.
 class: best-practices
 toc:
   what-does-it-mean-to-be-a-maintainer: "O que significa ser um mantenedor?"
@@ -49,7 +49,7 @@ Por exemplo, @lord descobriu que ter uma visão de projeto o ajudou a definir em
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   Eu me atrapalhei. Não me esforcei para chegar a uma solução completa. Em vez de uma atender a uma solução parcial, eu desejaria ter dito "Eu não tenho tempo para isso agora, mas irei adicionar à lista de coisas boas para se ter num futuro distante."
   <p markdown="1" class="pquote-credit">
-— @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
+— @lord, ["Dicas para novos mantenedores de código aberto"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
@@ -83,58 +83,58 @@ Se você encontrar outros mantenedores, ou tomar uma importante decisão em part
 
 Deste modo, qualquer um(a) que adentrar na comunidade terá acesso à mesma informação que alguém que já se encontra na mesma há anos.
 
-## Learning to say no
+## Aprendendo a dizer não
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+Você escreveu as coisas. Idealmente, todo mundo iria ler sua documentação, porém na realidade, você terá que relemenbrar os outros que esse conhecimento existe.
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+Entretanto, estar tudo escrito ajuda a despersonalizar situações em que você precisa impor suas regras.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+Dizer não, não é divertido, mas _"A sua contribuição não corresponde aos critérios deste projeto"_ soa menos pessoal que _"Eu não gosto de sua contribuição"_.
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+Como mantenedor, você irá se deparar com diversas situações em que terá que dizer não: solicitações de funcionalidades que não se encaixam no escopo, alguém provocando uma discussão, trazendo trabalho desnecessário aos outros.
 
-### Keep the conversation friendly
+### Mantenha o diálogo amigável
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+Um dos mais importantes lugares em que você irá praticar dizer não é em suas filas de *issues* e *pull requests*. Como um mantenedor de projeto, você irá inevitavelmente receber sugestões que não deseja aceitar.
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+Talvez uma contribuição mude o escopo do projeto ou não corresponde à sua visão. Talvez a ideia seja boa, porém a implementação seja pobre.
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+Independentemente do motivo, é possível lidar de forma diplomática com contribuições que não atendem aos padrões do seu projeto.
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+Se você recebe uma contribuição que não deseja aceitar, sua primeira reaçõe pode ser ignorá-la ou fingir que não a viu. Fazer isso pode machucar o sentimento da outra pessoas e até mesmo desmotivar outros potenciais contribuidores em sua comunidade.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  A chave para assegurar o suporte em projetos *open-source* de larga escala é manter as *issues* em andamento. Tentar evitar que as *issues* estaguinem. Se você é um desenvolvedor iOS, sabe o quanto é frustrante submeter radares. Você pode ouvir de volta 2 anos depois e receber uma solicitação para tentar novamente com a versão mais recente do iOS.
   <p markdown="1" class="pquote-credit">
-— @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
+— @KrauseFx, ["Escalando comunidades de código aberto"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+Não deixe uma contribuição indesejada aberta porque você se sente culpado ou quer ser legal. Com o passar do tempo, suas *issues* e PRs não respondidas farão o trabalho em seu projeto pareça mais estressante e intimidador.
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+É melhor fechar imediatamente as contribuições que você sabe que não deseja aprovar. Se seu projeto já sofre com um grande *backlog*, @steveklabnik tem sugestões para [como realizar a triagem de issues eficientemente](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+Em segundo lugar, ignorar contribuições envia um sinal negativo para sua comunidade. Contribuir para um projeto pode ser intimidador, especialmente se é a primeira vez de alguém. Mesmo que você não aceite a contribuição dele(a), dê reconhecimento à pessoa por trás dela e agradeça pelo interesse. É um grande elogio!
 
-If you don't want to accept a contribution:
+Se você não deseja aceitar uma contribuição:
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
+* **Agradeça ele(a)** pela contribuição
+* **Explique porque não se encaixa** no escopo do projeto, e ofereça sugestões claras de pelhorias, se você for capaz. Seja gentil, mas firme.
+* **Link para uma documentação relevante**, se houver. Se você notar repetidas solicitações por coisas que você não deseja aceitar, adicione elas à sua documentação para evitar ficar se repetindo.
+* **Feche a request**
 
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+Você não precisará de mais de 1-2 sentenças para responder. Por exemplo, quando um(a) usuário(a) do [celery](https://github.com/celery/celery/) reporta um erro relacionado ao Windows, @berkerpeksag [respondeu com](https://github.com/celery/celery/issues/3383):
 
-![Celery screenshot](/assets/images/best-practices/celery.png)
+![Captura de tela do Celery](/assets/images/best-practices/celery.png)
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+Se pensamento de dizer não aterroriza você, você não está sozinho. Como @jessfraz
 
-> I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+> Eu conversei com mantenedores de vários projetos de código aberto diferentes, Mesos, Kubernetes, Chromium, e todos concordam que uma das partes mais difíceis de ser um mantenedor é dizer "Não" aos *patches* que você não quer.
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+Não se sinta envergonhado em não querer aceitar a contribuição de alguém. A primeira regra do *open source* [de acordo com](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"Não é temporário, sim é para sempre."_ Embora a empatia com o entusiasmo de outra pessoa seja uma coisa boa, rejeitar uma contribuição não é o mesmo que rejeitar a pessoa por trás dela.
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+Por fim, se uma contribuição não é boa o suficiente, você não possui a obrigação de aceitá-la. Seja gentil e responsivo quando a pessoas contribuirem com seu projeto, porém aceite somente mudanças que você realmente acredita que tornarão seu projeto melhor. Quanto mais você pratica dizer não, mais fácil se torna. Promessa.
 
 ### Be proactive
 
