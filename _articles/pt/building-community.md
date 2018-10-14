@@ -144,7 +144,7 @@ Por exemplo, veja como [Rubinius](https://github.com/rubinius/rubinius/) introdu
 
 > Em primeiro lugar, gostaríamos de agradecer por usar o Rubinus. Este projeto é um trabalho de amor, e apreciamos todos os usuários que capturam bugs, fazem melhorias de desempenho, e ajudam com a documentação. Toda contribuição é importante, então obrigado por participar. Dito isso, aqui estão algumas orientações que pedimos que siga, de modo que possamos ter sucesso em identificar o seu probelma.
 
-### Compartilhe a propriedade do seu projeto
+### Compartilhe a responsabilidade pelo seu projeto
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
@@ -154,29 +154,29 @@ Por exemplo, veja como [Rubinius](https://github.com/rubinius/rubinius/) introdu
   </p>
 </aside>
 
-As pessoas se sentem motivadas em contribuir com projetos, de um modo geral, quando possuem um senso de propriedade sobre ele, isto é, se sentem donas. Isso não significa que você precisa mudar a visão do seu projeto ou aceitar contribuições que não queira. Porém, quanto mais você dá crédito às outras pessoas, mais elas se manterão por perto.
+As pessoas se sentem motivadas em contribuir com projetos, de um modo geral, quando possuem um senso de propriedade, de responsabilidade, sobre ele, isto é, se sentem donas. Isso não significa que você precisa mudar a visão do seu projeto ou aceitar contribuições que não queira. Porém, quanto mais você dá crédito às outras pessoas, mais elas se manterão por perto.
 
 Procure encontrar maneiras de compartilhar a propriedade com a sua comunidade o máximo que puder. Aqui estão algumas idéias:
 
-* **Resita em consertar bugs fáceis (não-críticos).** Em vez disso, use-os como oportunidades de recrutar novos contribuidores, ou mentorar alguém que gostaria de contribuir. Pode parecer meio artificial no início, porém seu investimento irá render ao longo do tempo. Por exemplo, @michaeljoseph pediu para um contribuidor submeter um _pull request_ em uma _issue_ do [Cookiecutter](https://github.com/audreyr/cookiecutter), abaixo, ao invés de consertá-la ele mesmo.
+* **Resista em consertar bugs fáceis (não-críticos).** Em vez disso, use-os como oportunidades de recrutar novos contribuidores, ou mentorar alguém que gostaria de contribuir. Pode parecer meio artificial no início, porém seu investimento irá render ao longo do tempo. Por exemplo, @michaeljoseph pediu para um contribuidor submeter um _pull request_ em uma _issue_ do [Cookiecutter](https://github.com/audreyr/cookiecutter), abaixo, ao invés de consertá-la ele mesmo.
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) does.
+* **Crie um arquivo CONTRIBUTORS ou AUTHORS em seu projeto** que liste todos os que contribuiram para o seu projeto, como o [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) faz.
 
-* If you've got a sizable community, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+* Se você possui uma comunidade de tamanho razoável, **envie uma _newsletter_ ou escreva um _post_ em um blog** agradecendo aos contribuidores. A [This Week in Rust](https://this-week-in-rust.org/), do Rust, e a [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html), da Hoodie, são dois bons exemplos.
 
-* **Give every contributor commit access.** @felixge found that this made people [more excited to polish their patches](https://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
+* **Dê permissão de _commit_ para cada um dos contribuidores.** @felixge descobriu que isso fez as pessoas [mais entusiasmadas em polir suas modificações](https://felixge.de/2013/03/11/the-pull-request-hack.html), e até mesmo descobriu novos mantenedores para projetos que ele não havia trabalhado por algum tempo.
 
-* If your project is on GitHub, **move your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. Organizations make it easier to work on projects with external collaborators.
+* Se o seu projeto está no GitHub, **mova-o da sua conta pessoal para uma [Organização](https://help.github.com/articles/creating-a-new-organization-account/)** e adicione pelo menos um adminsitrador de _backup_. As organizações fazem com que seja mais fácil trabalhar em projetos com colaboradores externos.
 
-The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. The bigger your project, and the bigger your community, the easier it is to find help.
+A verdade é que [a maioria dos projetos tem somente](https://peerj.com/preprints/1233.pdf) um ou dois mantenedores que fazem a maior parte do trabalho. Quanto maior o seu projeto, e maior a sua comunidade, mais fácil é encontrar ajuda.
 
-While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
+Muito embora nem sempre você encontre alguém para responder ao chamado, colocar um aviso em algum lugar aumenta a chance de  que outras pessoas contribuam. E quanto antes você começar, mais cedo as pessoas poderão ajudar.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
+  \[É do seu\] maior interesse recrutar membros que gostem e sejam capazes de fazer coisas que você não seja. Você gosta de programar, mas não de responder a _issues_? Então identifique aqueles individuos, na sua comunidade, que o façam e deixe-os fazê-lo.
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
   </p>
