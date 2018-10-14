@@ -98,15 +98,15 @@ A segunda razão é para você. Se você não der às pessoas um lugar público 
 
 A comunicação pública pode ser tão simples quanto direcionar as pessoas para uma _issue_ aberta ao invés de emails diretos ou comentários no seu blog. Você também pode configurar uma lista de emails, ou criar uma conta no Twitter, Slack, ou canal IRC, para as pessoas conversarem sobre o seu projeto. Alternativamente, tente todas essas opções!
 
-[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) reserva horários durante o expediente, a cada duas semanas, para ajudar os membros da comunidade:
+O [Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) reserva horários durante o expediente, a cada duas semanas, para ajudar os membros da comunidade:
 
 > O Kops também tem tempo reservado, a cada duas semanas, para oferecer ajuda e orientação para a comunidade. Os mantenedores do Kops concordaram em reservar um tempo especialmente dedicado ao trabalho com os novatos, ajudando com PRs e discutindo novas _features_.
 
-Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
+Excessões dignas de nota a comunicação pública são: 1) problemas de segurança e 2) violações sensíveis de código de conduta. Você deve sempre disponibilizar, às pessoas, um meio de comunicação privado para tais fins. Se você não quer usar o seu email pessoal, faça um dedicado.
 
-## Growing your community
+## Fazendo sua comunidade crescer
 
-Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
+Comunidades são extremamente poderosas. Esse poder pode ser uma benção ou uma maldição, dependendo de como você lida com isso. A medida que sua comunidade crescer, sempre haverão maneiras de ajudá-la a se tornar uma força de construção, não destruição.
 
 ### Don't tolerate bad actors
 
