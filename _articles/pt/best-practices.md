@@ -1,10 +1,10 @@
 ---
 lang: pt
 title: Melhores Práticas para Mantenedores
-description: Tornando sua vida mais fácil como um mantenedor open source, desde documentar processos até alavancar a sua comunidade.
+description: Tornando sua vida mais fácil como um mantenedor open source, desde processos de documentação até o alavancar a sua comunidade.
 class: best-practices
 toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
+  what-does-it-mean-to-be-a-maintainer: "O que significa ser um mantenedor?"
   documenting-your-processes: "Documentando seus processos"
   learning-to-say-no: "Aprendendo a dizer não"
   leverage-your-community: "Alavancando sua comunidade"
@@ -13,66 +13,67 @@ toc:
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
-  - metrics
-  - leadership
+  - metricas
+  - liderança
 ---
 
 ## O que significa ser um mantenedor?
 
 Se você mantém um projeto open source que muitas pessoas utilizam, você irá notar que está codificando menos e respondendo mais issues.
 
-Nos primeiros estágios de um projeto, você está experimentando novas ideias e tomando decisões baseado no que você quer. À medida que a popularidade do seu projeto aumenta, você terá a percepção que está trabalhando mais com seus usuários e contribuidores.
+Nos primeiros estágios de um projeto, você está experimentando novas ideias e tomando decisões baseadas no que você quer. À medida que a popularidade do seu projeto aumenta, você terá a percepção que está trabalhando mais com seus usuários e contribuidores.
 
-Manter um projeto exige mais do que simplesmente codificar. Há tarefas que são geralmente inesperadas, porém são muito importantes para um projeto em crescimento. Reunimos algumas maneiras de tornar sua vida mais fácil, indo desde os processos de documentação até formas de alavancar sua comunidade.
+Manter um projeto exige mais do que simplesmente codificar. Há tarefas que são geralmente inesperadas, porém muito importantes para um projeto em crescimento. Reunimos algumas maneiras de tornar sua vida mais fácil, indo desde os processos de documentação até formas de alavancar sua comunidade.
 
 ## Documentando seus processos
 
-Writing things down is one of the most important things you can do as a maintainer.
+Escrever é uma das coisas mais importante que você pode fazer como um mantenedor.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+A documentação não só clareia seu próprio pensamento, como também ajuda outras pessoas a entenderem o que você precisa ou espera, antes mesmo delas perguntarem.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+Escrever facilita dizer não quando alguma coisa não se encaixa no seu escopo. Assim como torna mais fácil a participação e a ajuda das pessoas. Você nunca saberá quem estará lendo ou usando o seu projeto.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+Mesmo que você não use parágrafos completos, pontuar os principais tópicos é melhor do que não escrever nada.
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+Lembre-se de manter a sua documentação atualizada. Se você não está disponível para fazer isso, exclua a sua documentação desatualizada ou deixe explicito tal informação para que os contribuidores saibam que atualizações são bem-vindas.
 
-### Write down your project's vision
+### Escrevendo a visão do seu projeto
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Inicie escrevendo os objetivos do seu projeto. Adicione eles ao README, ou crie um arquivo separado chamado VISÃO. Caso existam outros artefatos que possam ajudar, como o roadmap do projeto, torne-os públicos também.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+Ter uma visão clara e documentada mantém você focado e ajuda a evitar a "fulga de escopo" das contribuições de outras pessoas.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+Por exemplo, @lord descobriu que ter uma visão de projeto o ajudou a definir em quais requests gastaria seu tempo. Como um novo mantenedor, ele se arrependeu de não ter seguido o escopo quando recebeu sua primeira request para o [Slate](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  Eu me atrapalhei. Não me esforcei para chegar a uma solução completa. Em vez de uma atender a uma solução parcial, eu desejaria ter dito "Eu não tenho tempo para isso agora, mas irei adicionar à lista de coisas boas para se ter num futuro distante."
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
-### Communicate your expectations
+### Comunique suas expectativas
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+Escrever regras pode ser estressante. Algumas vezes você pode sentir como se estivesse policiando o comportamento das outras pessoas ou acabando com a felicidade delas.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+Entretanto, boas regras escritas e aplicadas, empoderam os mantenedores. Elas previnem você de ser arrastado a fazer coisas que não queria.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+Muitas pessoas que tem contato com seu projeto não sabem nada sobre você ou sobre suas circunstâncias. Elas pode assumir que você é pago para trabalhar nisso, especialmente se é alguma coisa que elas usam regularmente e dependem. Talvez em algum momento você dedique muito tempo ao seu projeto, mas agora você está ocupado com um novo trabalho ou com um membro familiar.
 
-All of this is perfectly okay! Just make sure other people know about it.
+Tudo isso é perfeitamente aceitável! Apenas tenha certeza de que as pessoas saibam disso.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+Se a manutenção de seu projeto é em tempo parcial ou puramente voluntária, seja honesto(a) sobre quanto tempo você tem. Isso não é o mesmo que o quanto de tempo que você acha que o projeto requer, ou quanto tempo os outros querem que você gaste.
 
+Aqui estão alguma regras que valem apena escrever:
 Here are a few rules that are worth writing down:
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
+* Como uma contribuição é analisada e aceita (_Você precisa de testes? Um *template* de *issue*?_)
+* Os tipos de contribuição que você irá aceitar (_Você só quer ajuda em uma certa parte de seu código?_)
+* Quanto é apropriado seguir (_por exemplo, "Você pode experar a resposta de um mantenedor dentro de 7 dias. Se não obtiver nada dele, sinta-se livre para fazer um *ping* no tópico."_)
+* Quanto tem você gasta no projeto (_por exemplo, "Nós só gastamos 5 horas por semana neste projeto"_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), e [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) são vários exemplos de projetos com regras básicas para mantenedores e contribuidores.
 
 ### Keep communication public
 
