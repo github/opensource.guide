@@ -68,20 +68,20 @@ Se a manutenção de seu projeto é em tempo parcial ou puramente voluntária, s
 Aqui estão alguma regras que valem apena escrever:
 Here are a few rules that are worth writing down:
 
-* Como uma contribuição é analisada e aceita (_Você precisa de testes? Um *template* de *issue*?_)
+* Como uma contribuição é analisada e aceita (_Você precisa de testes? Um template de issue?_)
 * Os tipos de contribuição que você irá aceitar (_Você só quer ajuda em uma certa parte de seu código?_)
-* Quanto é apropriado seguir (_por exemplo, "Você pode experar a resposta de um mantenedor dentro de 7 dias. Se não obtiver nada dele, sinta-se livre para fazer um *ping* no tópico."_)
+* Quanto é apropriado seguir (_por exemplo, "Você pode experar a resposta de um mantenedor dentro de 7 dias. Se não obtiver nada dele, sinta-se livre para fazer um ping no tópico."_)
 * Quanto tem você gasta no projeto (_por exemplo, "Nós só gastamos 5 horas por semana neste projeto"_)
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), e [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) são vários exemplos de projetos com regras básicas para mantenedores e contribuidores.
 
-### Keep communication public
+### Mantenha a comunicação pública
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+Não se esqueça de documentar suas interações também. Onde você puder, mantenha a comunicação sobre seu projeto pública. Se alguém tentar contatar você privativamente para discutir uma *feature request* ou um suporte necessitado, dirija ela ao canal de comunicação público, como uma lista de e-mail ou um *issue tracker*.
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+Se você encontrar outros mantenedores, ou tomar uma importante decisão em particular, documente essas conversas em público, mesmo que sejam apenas suas anotações.
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+Deste modo, qualquer um(a) que adentrar na comunidade terá acesso à mesma informação que alguém que já se encontra na mesma há anos.
 
 ## Learning to say no
 
