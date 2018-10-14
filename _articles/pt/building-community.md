@@ -56,7 +56,7 @@ Encorajar outros contribuidores é, também, um investimento em si mesmo. Quando
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  Você alguma vez já esteve presente em um evento (de tecnologia), onde não conhecia ninguém, porém o restante das pessoas parecia se reunir em grupos e batiam papo como velhos amigos? (...) Agora imagine que você quer contribuir em um projeto _open source_, mas não consegue enxergar por quê ou como isso está acontecendo.
+  Você alguma vez já esteve presente em um evento (de tecnologia), onde não conhecia ninguém, porém o restante das pessoas parecia se reunir em grupos e batiam papo como velhos amigos? (...) Agora imagine que você quer contribuir em um projeto _open source_, mas não consegue enxergar por que ou como isso está acontecendo.
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
@@ -66,7 +66,7 @@ Quando você inicia um novo projeto, pode parecer natural manter o seu trabalho 
 
 Quando você escreve as coisas, mais pessoas podem participar a cada passo do caminho. Você pode obter ajuda em algo que você nem sabia que precisava.
 
-Seja transparente sobre o roteiro do projeto, o tipo de contribuição que vocẽ está buscando, como os contribuidores são avaliados, ou por quê você tomou certas decisões.
+Seja transparente sobre o roteiro do projeto, o tipo de contribuição que vocẽ está buscando, como os contribuidores são avaliados, ou por que você tomou certas decisões.
 
 Se você reparar em vários usuários enfrentando os mesmos problemas, documente as soluções no README.
 
@@ -106,25 +106,25 @@ Excessões dignas de nota a comunicação pública são: 1) problemas de seguran
 
 ## Fazendo sua comunidade crescer
 
-Comunidades são extremamente poderosas. Esse poder pode ser uma benção ou uma maldição, dependendo de como você lida com isso. A medida que sua comunidade crescer, sempre haverão maneiras de ajudá-la a se tornar uma força de construção, não destruição.
+Comunidades são extremamente poderosas. Esse poder pode ser uma benção ou uma maldição, dependendo de como você lida com isso. A medida em que sua comunidade crescer, sempre haverão maneiras de ajudá-la a se tornar uma força de construção, não destruição.
 
-### Don't tolerate bad actors
+### Não tolere mau comportamento
 
-Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
+Qualquer projeto popular irá, inevitavelmente, atrair pessoas que prejudicam, ao invés de ajudar, sua comunidade. Eles podem iniciar debates desnecessários, discutir sobre questões triviais ou praticar _bullying_ contra outras pessoas.
 
-Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave.
+Dê o melhor de si para adotar uma política de tolerância zero contra esse tipo de gente. Se não forem controladas, elas faráo com que outras pessoas na sua comunidade se sintam desconfortáveis, podendo até mesmo chegarem a abandoná-la.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
-  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
+  A verdade é que ter uma comunidade solidária é uma característica chave. Eu nunca poderia ter feito este trabalho sem a ajuda dos meus colegas, estranhos amigáveis da internet, e canais IRC tagarelas. (...) Não se contente com menos. Não se contente com idiotas.
   <p markdown="1" class="pquote-credit">
 — @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
   </p>
 </aside>
 
-Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
+Debates recorrentes sobre aspectos triviais do seu projeto distraem os outros, incluindo você, das tarefas importantes. Novas pessoas que chegarem ao seu projeto poderão ver tais conversas e não querer participar.
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
+Quando notar um comportamento negativo acontecendo no seu projeto, chame a atenção publicamente. Explique, em um tom gentil, porém firme, por que o comportamento não é aceitável. Se o problema persistir, você pode [pedir para que os envolvidos saiam](../code-of-conduct/#enforcing-your-code-of-conduct). Seu [código de conduta](../code-of-conduct/) pode ser uma guia construtivo para essas conversas.
 
 ### Meet contributors where they're at
 
