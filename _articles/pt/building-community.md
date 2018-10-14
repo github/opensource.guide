@@ -182,13 +182,13 @@ Muito embora nem sempre você encontre alguém para responder ao chamado, coloca
   </p>
 </aside>
 
-## Resolving conflicts
+## Resolvendo conflitos
 
-In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
+No início do seu projeto, tomar decisões importantes é fácil. Quando você precisa de algo, basta fazê-lo.
 
-As your project becomes more popular, more people will take interest in the decisions you make. Even if you don't have a big community of contributors, if your project has a lot of users, you'll find people weighing in on decisions or raising issues of their own.
+Na medida em que seu projeto se tornar mais popular, mais pessoas se interessarão pelas decisões que você tomar. Mesmo que você não tenha uma grande comunidade de contribuidores, se seu projeto tem muitos usuários, você irá encontrar pessoas pesando suas decisões ou abrindo _issues_ por conta própria.
 
-For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find resolution. But sometimes you run into an issue that's a bit harder to address.
+Na maior parte das vezes, se você cultivou uma comunidade amigável e respeitosa, e documentou seus processos abertamente, sua comindade deverá ser capaz de chegar a alguma resolução. Mas algumas vezes você se depara com um problema um pouco mais difícil de resolver.
 
 ### Set the bar for kindness
 
