@@ -144,21 +144,21 @@ Por exemplo, veja como [Rubinius](https://github.com/rubinius/rubinius/) introdu
 
 > Em primeiro lugar, gostaríamos de agradecer por usar o Rubinus. Este projeto é um trabalho de amor, e apreciamos todos os usuários que capturam bugs, fazem melhorias de desempenho, e ajudam com a documentação. Toda contribuição é importante, então obrigado por participar. Dito isso, aqui estão algumas orientações que pedimos que siga, de modo que possamos ter sucesso em identificar o seu probelma.
 
-### Share ownership of your project
+### Compartilhe a propriedade do seu projeto
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
-  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
+  Seus líderes terão opniões diferentes, como toda comunidade saudável deve ser! Porém, você precisa tomar certas atitudes para assegurar que a voz mais alta não seja sempre a vencedora, por deixar as outras pessoas cansadas, e que minorias e vozes menos proeminentes sejam ouvidas.
   <p markdown="1" class="pquote-credit">
 — @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-People are excited to contribute to projects when they feel a sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you give credit to others, the more they'll stick around.
+As pessoas se sentem motivadas em contribuir com projetos, de um modo geral, quando possuem um senso de propriedade sobre ele, isto é, se sentem donas. Isso não significa que você precisa mudar a visão do seu projeto ou aceitar contribuições que não queira. Porém, quanto mais você dá crédito às outras pessoas, mais elas se manterão por perto.
 
-See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
+Procure encontrar maneiras de compartilhar a propriedade com a sua comunidade o máximo que puder. Aqui estão algumas idéias:
 
-* **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
+* **Resita em consertar bugs fáceis (não-críticos).** Em vez disso, use-os como oportunidades de recrutar novos contribuidores, ou mentorar alguém que gostaria de contribuir. Pode parecer meio artificial no início, porém seu investimento irá render ao longo do tempo. Por exemplo, @michaeljoseph pediu para um contribuidor submeter um _pull request_ em uma _issue_ do [Cookiecutter](https://github.com/audreyr/cookiecutter), abaixo, ao invés de consertá-la ele mesmo.
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
