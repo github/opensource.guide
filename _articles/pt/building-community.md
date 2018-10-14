@@ -208,9 +208,9 @@ Outras pessoas estão esperando por sua orientação. Seja um bom exemplo. Você
 
 Manter a calma não é fácil, porém demosntrar liderança melhora a saúde da sua comunidade. A internet agradece.
 
-### Treat your README as a constitution
+### Trate o seu README como uma constituição
 
-Your README is [more than just a set of instructions](../starting-a-project/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people are overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher vision of your project. Focusing on your README also depersonalizes the conversation, so you can have a constructive discussion.
+Seu README é [mais do que um conjunto de instruções](../starting-a-project/#writing-a-readme). É também um lugar para discutir sobre os seus objetivos, visão de produto, e roteiro. Se as pessoas estão excessivamente focadas em debater o mérito de uma _feature_ em particular, revisitar o seu README e falar sobre o seu projeto, de um ponto de vista mais alto nível, pode ajudar. Focar no seu README também despersonaliza a conversa, de modo que você pode ter uma discussão construtiva.
 
 ### Focus on the journey, not the destination
 
