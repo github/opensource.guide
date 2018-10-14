@@ -186,27 +186,27 @@ Muito embora nem sempre você encontre alguém para responder ao chamado, coloca
 
 No início do seu projeto, tomar decisões importantes é fácil. Quando você precisa de algo, basta fazê-lo.
 
-Na medida em que seu projeto se tornar mais popular, mais pessoas se interessarão pelas decisões que você tomar. Mesmo que você não tenha uma grande comunidade de contribuidores, se seu projeto tem muitos usuários, você irá encontrar pessoas pesando suas decisões ou abrindo _issues_ por conta própria.
+Na medida em que seu projeto se torna mais popular, mais pessoas se interessam pelas decisões que você toma. Mesmo que você não tenha uma grande comunidade de contribuidores, se seu projeto tem muitos usuários, você irá encontrar pessoas pesando suas decisões ou abrindo _issues_ por conta própria.
 
 Na maior parte das vezes, se você cultivou uma comunidade amigável e respeitosa, e documentou seus processos abertamente, sua comindade deverá ser capaz de chegar a alguma resolução. Mas algumas vezes você se depara com um problema um pouco mais difícil de resolver.
 
-### Set the bar for kindness
+### Mantenha o padrão de gentileza
 
-When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
+Quando sua comunidade estiver enfrentando problemas com uma _issue_ difícil, os ânimos podem ser aflorados. As pessoas podem ficar com raiva ou frustradas e descontar isso um no outro, ou em você.
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
+Seu trabalho como um mantenedor é prevenir que tais situações cresçam, escalem. Mesmo que tenha uma forte opnião no tópico, tente tomar a posição de um moderador ou facilitador, ao invés de entrar na briga e forçar seus pontos de vista. Se alguém estiver sendo indelicado ou monoponilzando a conversa, [aja imediatamente](../building-community/#dont-tolerate-bad-actors) para manter as discussões civilizadas e produtivas.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
-  As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
+  Como um mantenedor de projeto, é extremamente importante ser respeitoso para com seus contribuidores. Eles frequentemente levam o que você fala para o lado pessoal.
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
-Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly.
+Outras pessoas estão esperando por sua orientação. Seja um bom exemplo. Você ainda pode expressar desapontamento, infelicidade, ou preocupação, mas faça isso de maneira calma.
 
-Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you.
+Manter a calma não é fácil, porém demosntrar liderança melhora a saúde da sua comunidade. A internet agradece.
 
 ### Treat your README as a constitution
 
