@@ -126,23 +126,23 @@ Debates recorrentes sobre aspectos triviais do seu projeto distraem os outros, i
 
 Quando notar um comportamento negativo acontecendo no seu projeto, chame a atenção publicamente. Explique, em um tom gentil, porém firme, por que o comportamento não é aceitável. Se o problema persistir, você pode [pedir para que os envolvidos saiam](../code-of-conduct/#enforcing-your-code-of-conduct). Seu [código de conduta](../code-of-conduct/) pode ser uma guia construtivo para essas conversas.
 
-### Meet contributors where they're at
+### Conheça os contribuidores onde eles estão
 
-Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
+Uma boa documentação só se torna importante a medida em que sua comunidade cresce. Contribuidores casuais, que podem não estar familizariados com o seu projeto, leem sua documentação para rapidamente pegarem o contexto de que precisam.
 
-In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. [Django](https://github.com/django/django), for example, has a special landing page to welcome new contributors.
+Em seu arquivo CONTRIBUTING, deixe claro, aos novos contribuidores, como começar. Você pode até mesmo dedicar uma seção inteira para esse propósito. O [Django](https://github.com/django/django), por exemplo, tem uma _landing page_ especial para receber os novos contribuidores.
 
 ![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first issue"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
+Na sua fila de _issues_, rotule os bugs de acordo com os diferentes tipos de contribuidores: por exemplo, [_"somente os novatos"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"uma boa primeira issue"_, ou _"documentação"_. [Esses rótulos](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) fazem com que seja fácil, para alguém novo ao seu projeto, navegar entre as _issues_ e começar a contribuir.
 
-Finally, use your documentation to make people feel welcome at every step of the way.
+Por fim, use a sua documentação para fazer as pessoas se sentirem bem-vindas a cada passo do caminho.
 
-You will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Even a few kind words can keep someone from leaving your project in frustration.
+Você não interagirá com a maior parte das pessoas que chegarem ao seu projeto. Podem haver contribuições que você não recebeu porque alguém se sentiu intimidado ou não soube como começar. Até mesmo algumas palavras gentis podem fazer com que alguém não deixe, frustradamente, o seu projeto.
 
-For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts [its contributing guide](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+Por exemplo, veja como [Rubinius](https://github.com/rubinius/rubinius/) introduz o [seu guia de contribuição](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
 
-> We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
+> Em primeiro lugar, gostaríamos de agradecer por usar o Rubinus. Este projeto é um trabalho de amor, e apreciamos todos os usuários que capturam bugs, fazem melhorias de desempenho, e ajudam com a documentação. Toda contribuição é importante, então obrigado por participar. Dito isso, aqui estão algumas orientações que pedimos que siga, de modo que possamos ter sucesso em identificar o seu probelma.
 
 ### Share ownership of your project
 
