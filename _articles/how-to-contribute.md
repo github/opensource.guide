@@ -224,6 +224,7 @@ You can also use one of the following resources to help you discover and contrib
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [Issuehub](http://issuehub.io/)
 
 ### A checklist before you contribute
 
