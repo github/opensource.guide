@@ -234,23 +234,23 @@ Mesmo que você não adote um processo de busca por um consenso, como um mantene
 
 Não acelere a decisão com o objetivo de ter alguma resolução. Garanta que todos se sintam ouvidos e que toda a informação foi disponibilizada publicamente antes de se movimentar em direção a uma resolução.
 
-### Keep the conversation focused on action
+### Mantenha o foco do diálogo na ação
 
-Discussion is important, but there is a difference between productive and unproductive conversations.
+Discussões são importantes, mas há uma diferença entre conversas produtivas e improdutivas.
 
-Encourage discussion so long as it is actively moving towards resolution. If it's clear that conversation is languishing or going off-topic, jabs are getting personal, or people are quibbling about minor details, it's time to shut it down.
+Encoraje a discussão enquanto ela estiver se movendo ativamente em direção a uma resolução. Se está claro que a conversa está definhando ou tomando um rumo completamente diferente, as coisas estão sendo levadas para o lado pessoal, ou as pessoas estão discutindo sobre detalhes de menor importãncia, é hora de desligá-la.
 
-Allowing these conversations to continue is not only bad for the issue at hand, but bad for the health of your community. It sends a message that these types of conversations are permitted or even encouraged, and it can discourage people from raising or resolving future issues.
+Permitir que tais conversas continuem não é ruim somente para a atual _issue_, mas ruim para a saúde da sua comunidade. Isso passa a mensagem de que tais tipos de conversas são permitidas ou até mesmo encorajadas, e pode desencorajar pessoas a levantar ou resolver _issues_ futuras.
 
-With every point made by you or by others, ask yourself, _"How does this bring us closer to a resolution?"_
+Com todos os pontos feitos por você ou outros, pergunte a si mesmo, _"Como isso nos apróxima de uma resolução?"_
 
-If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
+Se o diálogo está começando se desvanecer, pergunte ao grupo, _"Quais são os próximos passos que devemos tomar?"_ para retomar o foco da conversa.
 
-If a conversation clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the issue and explain why you closed it.
+Se está claro que uma conversa não esta caminhando para nenhum lugar, não há nenhuma ação clara a ser tomada, ou a ação apropriada já foi tomada, feche a _issue_ e explique por que fez.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
+  Guiar uma _thread_ em direção à utilidade, sem ser insistente, é uma arte. Advertir as pessoas a parar de perder tempo não irá funcionar, ou mesmo pedir para que não postem nada a não ser que tenham algo construtivo a dizer. (...) Em vez disso, você tem de sugerir condições para um maior progresso: dar as pessoas uma rota, um caminho a seguir que leve aos resultados que você queira, sem que pareça que você esteja ditando uma conduta.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
