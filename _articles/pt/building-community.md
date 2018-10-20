@@ -264,13 +264,13 @@ Todos na comunidade estão chateados, ou mesmo engajados, com esta _issue_? Ou s
 
 Se a _issue_ não representa as necessidades gerais de sua comunidade, você pode precisar apenas reconhecer as preocupações de algumas pessoas. Se esta é uma _issue_ recorrente sem uma resolução clara, aponte-as para discussões anteriores sobre o tópico e feche a _thread_.
 
-### Identify a community tiebreaker
+### Identifique um desempatador da comunidade
 
-With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, identify an individual or group of people that can serve as a tiebreaker.
+Com uma boa atitude e uma comunicação clara, as situações mais difíceis podem ser resolvidas. Todavia, mesmo em uma conversa produtiva, pode haver simplesmente uma diferença de opiniões sobre como proceder. Nesses casos, identifique o individuo ou grupo que pode servir como desempatador.
 
-A tiebreaker could be the primary maintainer of the project, or it could be a small group of people who make a decision based on voting. Ideally, you've identified a tiebreaker and the associated process in a GOVERNANCE file before you ever have to use it.
+Um desempatador poderia ser o mantenedor primário do projeto, ou um pequeno grupo de pessoas que toman uma decisão baseados em uma votação. Idealmente, você identificou um desempatador e o processo associado em um arquivo GOVERNANCE antes mesmo de ter de usá-lo.
 
-Your tiebreaker should be a last resort. Divisive issues are an opportunity for your community to grow and learn. Embrace these opportunities and use a collaborative process to move to a resolution wherever possible.
+Seu desempatador deve ser o seu último recurso. _Issues_ divisoras de águas são uma oportunidade de crescer e aprender. Abrace essas oportunidades e use um processo colaborativo para chegar a uma resolução sempre que possível.
 
 ## Community is the ❤️ of open source
 
