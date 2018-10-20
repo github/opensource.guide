@@ -31,7 +31,7 @@ Tomar nota de los procedimientos es una de las mejores pr&aacute;cticas que pued
 
 Documentar no s&oacute;lo aclara tu pensamiento, sino que tambi&eacute;n ayuda a otros a entender lo que necesitas o est&aacute;s esperando, sin siquiera tener que preguntar.
 
-Tomar nota de los procesimientos facilita el hecho de decir que no cuando la propuesta de alguien no encaja en tu contexto. Asi como tambi&eacute;n hace m&aacute;s f&aacute;cil que otras personas puedan sumarse y ayudar. Nunca sabes quien podr&iacute;a estar leyendo o usando tu proyecto.
+Tomar nota de los procesos facilita el hecho de decir que no cuando la propuesta de alguien no encaja en tu contexto. As&iacute; como tambi&eacute;n hace m&aacute;s f&aacute;cil que otras personas puedan sumarse y ayudar. Nunca sabes quien podr&iacute;a estar leyendo o usando tu proyecto.
 
 Aunque no seas del tipo de persona que escribe p&aacute;rrafos completos, tener los puntos claves anotados es mejor que no tener nada.
 
@@ -172,7 +172,7 @@ Si est&aacute;s buscando a otros para que se sumen, comienza por preguntar alred
 
 Cuando veas nuevos contribuyentes haciendo contribuciones repetidas, deber&iacute;as reconocer su trabajo ofreci&eacute;ndoles m&aacute;s responsabilidades. Documenta c&oacute;mo otros pueden alcanzar roles de liderazgo si lo desean.
 
-Alentar a otros a [compartir la propiedad del proyecto](../building-community/#comparte-la-propiedad-de-tu-proyecto) puede reducir en gran medida tu carga de trabajo, como @lmccart descubri&oacute; en su proyecto, [p5.js](https://github.com/processing/p5.js?files=1).
+Alentar a otros a [compartir la propiedad del proyecto](../building-community/#comparte-la-propiedad-de-tu-proyecto) puede reducir en gran medida tu carga de trabajo, como @lmccart descubri&oacute; en su proyecto, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">

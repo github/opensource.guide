@@ -8,6 +8,7 @@ toc:
   establishing-a-code-of-conduct: "행동강령 수립하기"
   deciding-how-youll-enforce-your-code-of-conduct: "행동강령을 어떻게 적용 할 것인지 결정하기"
   enforcing-your-code-of-conduct: "행동강령 지키기"
+  your-responsibilities-as-a-maintainer: "Your responsibilities as a maintainer"
 order: 8
 image: /assets/images/cards/coc.png
 related:

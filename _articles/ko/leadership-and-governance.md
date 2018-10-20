@@ -106,15 +106,15 @@ related:
 
 * **BDFL:** BDFL은 "생명을 위한 자비로운 독재자"(Benevolent Dictator for Life)의 약자입니다. 이 구조하에서 한 사람(보통 프로젝트의 초기 저자)은 모든 주요 프로젝트 결정에 대해 최종 결정권을 갖습니다. [파이썬](https://github.com/python)은 고전적인 예시입니다. 작은 프로젝트는 한명 또는 두명의 관리자가 있기 때문에 기본적으로 BDFL일 것입니다. 한 회사에서 시작된 프로젝트도 BDFL 범주에 속할 수도 있습니다.
 
-* **실력주의:** **(Note: "능력주의"라는 용어는 일부 지역 사회에 부정적인 의미를 지니며 [복잡한 사회 정치적 역사](http://geekfeminism.wikia.com/wiki/Meritocracy)를 가지고있습니다.)** 능력있는 사회에서 활동적인 프로젝트 기여가 ("공로"를 입증하는 사람들)에게 공식적인 의사 결정 역할이 부여됩니다. 결정은 일반적으로 순수한 투표 컨센서스를 기반으로합니다. 실력주의 개념은 [Apache Foundation](http://www.apache.org/)에 의해 개척되었습니다; [모든 아파치 프로젝트](http://www.apache.org/index.html#projects-list)는 장점이 있습니다. 기여는 회사가 아니라 집단을 대표하는 개인이 할 수 있습니다.
+* **실력주의:** **(Note: "능력주의"라는 용어는 일부 지역 사회에 부정적인 의미를 지니며 [복잡한 사회 정치적 역사](http://geekfeminism.wikia.com/wiki/Meritocracy)를 가지고있습니다.)** 능력있는 사회에서 활동적인 프로젝트 기여가 ("공로"를 입증하는 사람들)에게 공식적인 의사 결정 역할이 부여됩니다. 결정은 일반적으로 순수한 투표 컨센서스를 기반으로합니다. 실력주의 개념은 [Apache Foundation](https://www.apache.org/)에 의해 개척되었습니다; [모든 아파치 프로젝트](https://www.apache.org/index.html#projects-list)는 장점이 있습니다. 기여는 회사가 아니라 집단을 대표하는 개인이 할 수 있습니다.
 
-* **자유주의 기여:** 자유주의 기여 모델하에서, 가장 많은 일을 하는 사람들이 가장 영향력있는 사람으로 인식되지만, 이것은 역사적인 기여가 아니라 현재의 일을 기반으로합니다. 주요 프로젝트 결정은 순수한 표결보다는 합의를 모색하는 과정(주요 불만 사항을 논의)을 토대로 이루어지며, 가능한 많은 공동체 관점을 포함하기 위해 노력합니다. 프로젝트의 인기있는 예제는 [Node.js](https://nodejs.org/en/foundation/)와 [Rust](https://www.rust-lang.org/en-US/)에 포함된 자유주의 기여 모델을 사용합니다.
+* **자유주의 기여:** 자유주의 기여 모델하에서, 가장 많은 일을 하는 사람들이 가장 영향력있는 사람으로 인식되지만, 이것은 역사적인 기여가 아니라 현재의 일을 기반으로합니다. 주요 프로젝트 결정은 순수한 표결보다는 합의를 모색하는 과정(주요 불만 사항을 논의)을 토대로 이루어지며, 가능한 많은 공동체 관점을 포함하기 위해 노력합니다. 프로젝트의 인기있는 예제는 [Node.js](https://foundation.nodejs.org/)와 [Rust](https://www.rust-lang.org/en-US/)에 포함된 자유주의 기여 모델을 사용합니다.
 
 어느 것을 사용해야합니까? 그것은 당신에게 달렸습니다! 모든 모델에는 장점과 절충점이 있습니다. 처음에는 전혀 다른 것처럼 보일 수 있지만, 세 모델 모두 공통적으로 보입니다. 이 모델 중 하나를 채택하는 데 관심이 있다면 다음 템플릿을 확인하십시오:
 
 * [BDFL 모델 템플릿](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 * [실력주의 모델 템플릿](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Node.js의 자유주의 기여 정책](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
+* [Node.js의 자유주의 기여 정책](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
 ## Do I need governance docs when I launch my project?
 
@@ -152,7 +152,7 @@ related:
 
 만약 오픈소스 프로젝트에 대한 기부를 받고 싶다면, (예를 들어 PayPal 또는 Stripe을 사용하여)기부 버튼을 설정할 수 있지만, 하지만 자격이 되는 비영리 단체(미국에 거주하는 경우 501c3)가 아닌 이상 돈은 세금 공제되지 않습니다.
 
-많은 프로젝트가 비영리 단체를 설립하는 문제를 겪고 싶어하지 않으므로, 대신 비영리 재정 스폰서를 찾습니다. 재정 보증인은 귀하를 대신하여 기부금을 수령합니다. [Software Freedom Conservancy](https://sfconservancy.org/), [아파치 재단](http://www.apache.org/), [이클립스 재단](https://eclipse.org/org/foundation/), [리눅스 재단](https://www.linuxfoundation.org/projects) 그리고 [Open Collective](https://opencollective.com/opensource)는 오픈소스 프로젝트를 위한 회계 스폰서 역할을하는 조직의 예시입니다.
+많은 프로젝트가 비영리 단체를 설립하는 문제를 겪고 싶어하지 않으므로, 대신 비영리 재정 스폰서를 찾습니다. 재정 보증인은 귀하를 대신하여 기부금을 수령합니다. [Software Freedom Conservancy](https://sfconservancy.org/), [아파치 재단](https://www.apache.org/), [이클립스 재단](https://eclipse.org/org/foundation/), [리눅스 재단](https://www.linuxfoundation.org/projects) 그리고 [Open Collective](https://opencollective.com/opensource)는 오픈소스 프로젝트를 위한 회계 스폰서 역할을하는 조직의 예시입니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
@@ -162,4 +162,4 @@ related:
   </p>
 </aside>
 
-프로젝트가 특정 언어 또는 생태계와 밀접하게 관련되어 있다면, 함께 작업할 수 있는 관련 소프트웨어 기반이 있을겁니다. 예시로, [파이썬 소프트웨어 재단](https://www.python.org/psf/)은 파이썬 패키지 관리자인 [PyPI](https://pypi.org/)를 돕고, [Node.js 재단](https://nodejs.org/en/foundation/)은 노드 기반 프레임워크인 [Express.js](http://expressjs.com/)를 돕습니다.
+프로젝트가 특정 언어 또는 생태계와 밀접하게 관련되어 있다면, 함께 작업할 수 있는 관련 소프트웨어 기반이 있을겁니다. 예시로, [파이썬 소프트웨어 재단](https://www.python.org/psf/)은 파이썬 패키지 관리자인 [PyPI](https://pypi.org/)를 돕고, [Node.js 재단](https://foundation.nodejs.org/)은 노드 기반 프레임워크인 [Express.js](http://expressjs.com/)를 돕습니다.
