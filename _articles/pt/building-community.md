@@ -256,13 +256,13 @@ Se está claro que uma conversa não esta caminhando para nenhum lugar, não há
   </p>
 </aside>
 
-### Pick your battles wisely
+### Escolha suas batalhas sabiamente
 
-Context is important. Consider who is involved in the discussion and how they represent the rest of the community.
+Contexto é importante. Considere quem está envolvido na discussão e como eles representam o resto da comunidade.
 
-Is everybody in the community upset about, or even engaged with, this issue? Or is a lone troublemaker? Don't forget to consider your silent community members, not just the active voices.
+Todos na comunidade estão chateados, ou mesmo engajados, com esta _issue_? Ou se trata de um encrenqueiro solitário? Não se esqueça de considerar os membros silenciosos de sua comunidade, não somente as vozes ativas.
 
-If the issue does not represent the broader needs of your community, you may just need to acknowledge the concerns of a few people. If this is a recurring issue without a clear resolution, point them to previous discussions on the topic and close the thread.
+Se a _issue_ não representa as necessidades gerais de sua comunidade, você pode precisar apenas reconhecer as preocupações de algumas pessoas. Se esta é uma _issue_ recorrente sem uma resolução clara, aponte-as para discussões anteriores sobre o tópico e feche a _thread_.
 
 ### Identify a community tiebreaker
 
