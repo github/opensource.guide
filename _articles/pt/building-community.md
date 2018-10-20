@@ -212,27 +212,27 @@ Manter a calma não é fácil, porém demosntrar liderança melhora a saúde da 
 
 Seu README é [mais do que um conjunto de instruções](../starting-a-project/#writing-a-readme). É também um lugar para discutir sobre os seus objetivos, visão de produto, e roteiro. Se as pessoas estão excessivamente focadas em debater o mérito de uma _feature_ em particular, revisitar o seu README e falar sobre o seu projeto, de um ponto de vista mais alto nível, pode ajudar. Focar no seu README também despersonaliza a conversa, de modo que você pode ter uma discussão construtiva.
 
-### Focus on the journey, not the destination
+### Foque na jornada, não no destino
 
-Some projects use a voting process to make major decisions. While sensible at first glance, voting emphasizes getting to an "answer," rather than listening to and addressing each other's concerns.
+Alguns projetos utilizam um processo de votação para tomada de decisões importantes. Embora sensível à primeira vista, votar enfatiza chegar a uma "resposta", ao invés de escutar e atender aos anseios de cada um.
 
-Voting can become political, where community members feel pressured to do each other favors or vote a certain way. Not everybody votes, either, whether it's the [silent majority](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in your community, or current users who didn't know a vote was taking place.
+Votar pode se tornar político, de um modo em que os membros da comunidade se sentem precionados a prestar favores uns aos outros ou a votar de uma certa maneira. Além disso, nem todo mundo vota, seja a [maioria silenciosa](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) em sua comunidade, ou os atuais usuários que, na verdade, não sabiam que uma votação estava acontecendo.
 
-Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) rather than consensus.
+As vezes, votar funciona como um desempate necessário. O máximo que puder, porém, enfatize ["a busca por um consenso"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making), ao invés de um consenso.
 
-Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
+Sob o processo de busca por um consenso, membros da comunidade discutem questões importantes até que eles sintam que tenham tido sua voz ouvida adequadamente. Quando restam somente questões menores, a comunidade segue em frente. "A busca pelo consenso" reconhece que a comunidade pode não ser capaz de chegar a uma resposta perfeita. Ao invés disso, ela prioriza ouvir e discutir.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
-  Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
+  Parte da razão do porquê um sistema de votos não existe para as _issues_ do Atom é porque o time do Atom não irá seguir um sistema de votação em todos os casos. Algumas vezes temos de escolher o que acreditamos que é certo, mesmo que isso seja impopular. (...) O que posso oferecer e promoter fazer... é que é meu trabalho ouvir a comunidade.
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
 </aside>
 
-Even if you don't actually adopt a consensus seeking process, as a project maintainer, it's important that people know you are listening. Making other people feel heard, and committing to resolving their concerns, goes a long way to diffuse sensitive situations. Then, follow up on your words with actions.
+Mesmo que você não adote um processo de busca por um consenso, como um mantenedor de um projeto, é importante que as pessoas saibam que você está ouvindo. Fazer com que as outras pessoas se sintam ouvidas, e assumir a responsabilidade de resolver seus anseios, é um grande passo para acalmar situações sensíveis. E então, faça suas ações corresponderem as suas palavras.
 
-Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
+Não acelere a decisão com o objetivo de ter alguma resolução. Garanta que todos se sintam ouvidos e que toda a informação foi disponibilizada publicamente antes de se movimentar em direção a uma resolução.
 
 ### Keep the conversation focused on action
 
