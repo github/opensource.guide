@@ -272,6 +272,6 @@ Um desempatador poderia ser o mantenedor primário do projeto, ou um pequeno gru
 
 Seu desempatador deve ser o seu último recurso. _Issues_ divisoras de águas são uma oportunidade de crescer e aprender. Abrace essas oportunidades e use um processo colaborativo para chegar a uma resolução sempre que possível.
 
-## Community is the ❤️ of open source
+## A comunidade é o ❤️ do _open source_
 
-Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone out there have an unforgettable open source experience.
+Comunidades saudáveis e prósperas abastecem milhares de horas despejadas no _open source_ toda semana. Muitos contribuidores atribuem a outras pessoas a razão por trabalhar - ou não - com _open source_. Aprendendo a como aproveitar esse poder construtivamente, você irá ajudar alguém lá fora a ter uma experiência  _open source_ inesquecível.
