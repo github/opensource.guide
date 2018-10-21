@@ -219,15 +219,15 @@ READMEは[単なる手順書以上のものです](../starting-a-project/#README
 
 大きな決定を行う際に投票を用いるプロジェクトもあります。一見して賢明に見えますが、投票はお互いの声を聞き、心配事を解決することよりも、答えを出す事に重きをおいてしまいます。
 
-Voting can become political, where community members feel pressured to do each other favors or vote a certain way. Not everybody votes, either, whether it's the [silent majority](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in your community, or current users who didn't know a vote was taking place.
+投票は政治的になり得ます。そうなると、コミュニティメンバーは互いのためになることをしたり、ある方法で投票するようプレッシャーを感じるようになります。また、コミュニティの[サイレントマジョリティ](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users)や投票が行われていることを知らないユーザーのように、全員が投票を行うわけでもありません。
 
-Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) rather than consensus.
+とはいえ、時によっては決選投票が必要なこともあります。しかし、合意を得る事自体よりも、できるだけ[「合意の模索」](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)を強調しましょう。する事得る方法を模索するようにしましょう。
 
-Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
+合意を模索する過程において、コミュニティメンバーは十分出し尽くされたと感じるまで懸念点を議論します。小さな論点しか残っていない状況になったら、コミュニティは前に進みます。「合意の模索」によって、コミュニティが完璧な解にたどり着けないことが認識されるかもしれません。そのかわりに、意見を聞き、議論をすることに重きをおくのです。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
-  Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
+  AtomのIssueに投票システムが存在しない理由の一部は、Atomチームはあらゆるケースにおいて投票システムを使うわけではないからです。時によっては、あまり支持されていない案であっても、正しいと感じるものを選ぶ必要があります。（…）私が提供し、実際に行うと固く約束するのは、コミュニティの意見を聞くことが私のしごとであるということです。
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
