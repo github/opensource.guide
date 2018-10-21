@@ -23,6 +23,7 @@ layout: default
     <div class="gutter-sm d-flex flex-wrap flex-items-stretch pb-md-6">
       {% assign articles = site.articles | where: 'lang', page.lang | sort: 'order' %}
       {% for article in articles %}
+      {% if article.layout != 'index' %}
       <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">
         <a href="{{ article.url | relative_url }}" class="guide-cover {{ article.class }} card height-full d-block">
 
@@ -41,6 +42,7 @@ layout: default
 
         </a>
       </div>
+      {% endif %}
       {% endfor %}
     </div>
   </div>

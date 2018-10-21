@@ -143,7 +143,7 @@ Algunas veces, esas relaciones pueden llevar incluso a asociaciones oficiales co
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   La &uacute;nica raz&oacute;n por la que urllib3 es la librer&iacute;a de Python de terceros m&aacute;s popular es porque es parte de las solicitudes.
   <p markdown="1" class="pquote-credit">
-— @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+— @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
 </aside>
 
