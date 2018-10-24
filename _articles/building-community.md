@@ -120,7 +120,7 @@ Do your best to adopt a zero-tolerance policy towards these types of people. If 
   <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
+— @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 

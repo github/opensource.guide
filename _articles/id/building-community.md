@@ -120,7 +120,7 @@ Lakukan yang terbaik untuk mengadopsi kebijakan tanpa toleransi terhadap orang-o
   <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
   Memiliki komunitas yang mendukung adalah kuncinya. Saya tidak akan pernah bisa melakukan pekerjaan ini tanpa rekan-rekan saya, orang asing di Internet yang ramah, dan chanel IRC yang ramai (...).
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
+— @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
