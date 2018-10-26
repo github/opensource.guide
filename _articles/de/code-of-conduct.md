@@ -18,7 +18,7 @@ related:
 
 ## Warum brauche ich einen Verhaltenskodex?
 
-Ein Verhaltenskodex ist ein Dokument, das die Erwartungen an das Verhalten der Projektteilnehmer\*innen festlegt. Einen Verhaltenskodex festzulegen und durchzusetzen, kann dazu beitragen, eine positive soziale Atmosphäre für Ihre Gemeinde zu schaffen.
+Ein Verhaltenskodex ist ein Dokument, das die Erwartungen an das Verhalten der Projektteilnehmer\*innen festlegt. Einen Verhaltenskodex festzulegen und durchzusetzen, kann dazu beitragen, eine positive soziale Atmosphäre für Ihre Community zu schaffen.
 
 Verhaltenskodizes schützen nicht nur Ihre Teilnehmer\*innen, sondern auch Sie selbst. Wenn Sie ein Projekt pflegen, werden Sie vielleicht feststellen, dass unproduktive Einstellungen von Anderen dazu führen können, dass Sie sich im Laufe der Zeit ausgelaugt oder unglücklich über Ihre Arbeit fühlen.
 
@@ -45,7 +45,7 @@ Legen Sie eine CODE_OF_CONDUCT-Datei in das Stammverzeichnis Ihres Projekts und 
 
 <aside markdown="1" class="pquote">
 
-  Ein Verhaltenskodex, der nicht durchgesetzt wird (oder werden kann), ist schlimmer als gar kein Verhaltenskodex: Er sendet die Botschaft, dass die Werte des Verhaltenskodex in Ihrer Gemeinde nicht wirklich wichtig oder respektiert werden.
+  Ein Verhaltenskodex, der nicht durchgesetzt wird (oder werden kann), ist schlimmer als gar kein Verhaltenskodex: Er sendet die Botschaft, dass die Werte des Verhaltenskodex in Ihrer Community nicht wirklich wichtig oder respektiert werden.
 
   _A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community._
 
@@ -78,9 +78,9 @@ Manchmal wird jemand trotz Ihrer Bemühungen etwas tun, das gegen diesen Kodex v
 
 ### Sammeln Sie Informationen über die Situation.
 
-Nehmen Sie jede Stimme aus der Community so wichtig wie Ihre eigene. Wenn Sie einen Bericht erhalten, dass jemand gegen den Verhaltenskodex verstoßen hat, nehmen Sie ihn oder sie ernst und untersuchen Sie die Angelegenheit, auch wenn sie nicht Ihren eigenen Erfahrungen mit dieser Person entspricht. Damit signalisieren Sie Ihrer Gemeinde, dass Sie ihre Perspektive schätzen und ihrem Urteilsvermögen vertrauen.
+Nehmen Sie jede Stimme aus der Community so wichtig wie Ihre eigene. Wenn Sie einen Bericht erhalten, dass jemand gegen den Verhaltenskodex verstoßen hat, nehmen Sie ihn oder sie ernst und untersuchen Sie die Angelegenheit, auch wenn sie nicht Ihren eigenen Erfahrungen mit dieser Person entspricht. Damit signalisieren Sie Ihrer Gemeinschaft, dass Sie ihre Perspektive schätzen und ihrem Urteilsvermögen vertrauen.
 
-Das betroffene Mitglied der Gemeinschaft kann ein\*e Wiederholungstäter\*in sein, der oder die anderen immer wieder Ärger bereitet, oder es hat nur einmal etwas gesagt oder getan. Beides kann je nach Kontext Anlass zum Handeln sein.
+Das betroffene Community-Mitglied kann ein\*e Wiederholungstäter\*in sein, der oder die anderen immer wieder Ärger bereitet, oder es hat nur einmal etwas gesagt oder getan. Beides kann je nach Kontext Anlass zum Handeln sein.
 
 Bevor Sie antworten, geben Sie sich Zeit, um zu verstehen, was passiert ist. Lesen Sie die vergangenen Kommentare und Gespräche der Person durch, um besser zu verstehen, wer es ist und warum sie oder er so gehandelt haben könnten. Versuchen Sie, andere Perspektiven als Ihre eigenen über diese Person und ihr Verhalten zu sammeln.
 
@@ -121,7 +121,7 @@ Ein Verhaltenskodex sollte nicht willkürlich durchgesetzt werden. Sie sind der 
 
 Als Maintainer\*in legen Sie die Richtlinien für Ihre Community fest und setzen diese durch. Dies bedeutet, dass jeder Bericht über einen Verstoß gegen den Verhaltenskodex ernst genommen wird. Dem oder der Beschwerdeführer\*in ist eine gründliche und faire Prüfung geschuldet. Wenn Sie feststellen, dass das gemeldete Verhalten kein Verstoß ist, stellen Sie dies klar und erklären Sie, warum Sie nichts dagegen unternehmen werden. Deren Reaktion ist eine andere Entscheidung: das nur persönlich als problematisch empfundene Verhalten, tolerieren oder die Projekt-Community zu verlassen.
 
-Ein gemeldetes Verhalten, das _genau genommen nicht_ gegen den Verhaltenskodex verstößt, kann dennoch auf ein Problem in Ihrer Gemeinde hinweisen. Sie sollten dieses potenzielle Problem untersuchen und entsprechend handeln. Dies kann die Überarbeitung Ihres Verhaltenskodex umfassen, um akzeptables Verhalten zu klären und/oder mit der Person zu sprechen, deren Verhalten gemeldet wurde. In diesem Falle stellen Sie klar, dass sie oder er vielleicht nicht konkret gegen den Verhaltenskodex verstoßen hat, aber den Rand des Akzeptablen erreicht haben, und andere Teilnehmer\*innen sich unwohl fühlen.
+Ein gemeldetes Verhalten, das _genau genommen nicht_ gegen den Verhaltenskodex verstößt, kann dennoch auf ein Problem in Ihrer Gemeinschaft hinweisen. Sie sollten dieses potenzielle Problem untersuchen und entsprechend handeln. Dies kann die Überarbeitung Ihres Verhaltenskodex umfassen, um akzeptables Verhalten zu klären und/oder mit der Person zu sprechen, deren Verhalten gemeldet wurde. In diesem Falle stellen Sie klar, dass sie oder er vielleicht nicht konkret gegen den Verhaltenskodex verstoßen hat, aber den Rand des Akzeptablen erreicht haben, und andere Teilnehmer\*innen sich unwohl fühlen.
 
 Letztendlich setzen Sie als Maintainer\*in die Standards für akzeptables Verhalten (durch). Sie haben die Fähigkeit, die Gemeinschaftswerte des Projekts zu gestalten, und die Teilnehmer\*innen erwarten, dass Sie diese Werte auf faire und ausgewogene Weise durchsetzen.
 

@@ -176,7 +176,7 @@ Viele Projekte wollen sich nicht die Mühe machen, einen gemeinnützigen Verein 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   
-  Unser Ziel ist es, eine Infrastruktur bereitzustellen, die die Gemeinden nutzen können, um selbsttragend zu sein, und so ein Umfeld zu schaffen, in dem alle (Beitragende, Geldgeber\*innen und Sponsor\*innen) konkrete Vorteile daraus ziehen können.
+  Unser Ziel ist es, eine Infrastruktur bereitzustellen, die Communities nutzen können, um selbsttragend zu sein, und so ein Umfeld zu schaffen, in dem alle (Beitragende, Geldgeber\*innen und Sponsor\*innen) konkrete Vorteile daraus ziehen können.
   
   _Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it._
   

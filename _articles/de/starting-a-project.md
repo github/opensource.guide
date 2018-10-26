@@ -101,7 +101,7 @@ Wenn Ihr Projekt wächst, braucht Ihre Community mehr als nur Code von Ihnen. Di
 
 Während die Zeit, die Sie für nicht programmierte Aufgaben aufwenden, von der Größe und dem Umfang Ihres Projekts abhängt, sollten Sie als Betreuer\*in darauf vorbereitet sein, diese selbst anzugehen oder jemanden zu finden, der Ihnen hilft.
 
-**Wenn Sie Teil eines Unternehmens sind, das ein Projekt Open-Source-t**, stellen Sie sicher, dass Ihr Projekt über die internen Ressourcen verfügt, die es braucht, um zu gedeihen: Sie wollen klarstellen, wer für die Wartung des Projekts nach dem Start verantwortlich ist und wie Sie diese Aufgaben mit Ihrer Gemeinde teilen.
+**Wenn Sie Teil eines Unternehmens sind, das ein Projekt Open-Source-t**, stellen Sie sicher, dass Ihr Projekt über die internen Ressourcen verfügt, die es braucht, um zu gedeihen: Sie wollen klarstellen, wer für die Wartung des Projekts nach dem Start verantwortlich ist und wie Sie diese Aufgaben mit Ihrer Community teilen.
 
 Wenn Sie ein dediziertes Budget oder Personal für Promotion, Betrieb und Wartung des Projekts benötigen, planen Sie dies frühzeitig.
 

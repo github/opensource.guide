@@ -300,7 +300,7 @@ Der Kontext ist wichtig: Überlegen Sie, wer an der Diskussion beteiligt ist und
 
 Ist jeder in der Community verärgert oder gar mit diesem Thema beschäftigt? Oder ist er ein\*e einzelner Unruhestifter\*in? Vergessen Sie Ihre stillen Community-Mitglieder nicht, und berücksichtigen Sie nicht nur die Aktiven.
 
-Wenn das Thema nicht die breiteren Bedürfnisse Ihrer Gemeinde widerspiegelt, müssen Sie vielleicht nur die Sorgen einiger Weniger anerkennen. Wenn es sich um ein wiederkehrendes Problem ohne klare Lösung handelt, weisen Sie sie auf frühere Diskussionen hin und schließen Sie das Issue.
+Wenn das Thema nicht die breiteren Bedürfnisse Ihrer Gemeinschaft widerspiegelt, müssen Sie vielleicht nur die Sorgen einiger Weniger anerkennen. Wenn es sich um ein wiederkehrendes Problem ohne klare Lösung handelt, weisen Sie sie auf frühere Diskussionen hin und schließen Sie das Issue.
 
 ### Identifizieren Sie einen Community-Tiebreaker
 
