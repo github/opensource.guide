@@ -20,7 +20,7 @@ related:
 
 ## Die Lenkungen eines wachsenden Projektes verstehen
 
-Ihr Projekt wächst, Leute sind engagiert und Sie setzen sich dafür ein, dass diese Sache am Laufen bleibt. In diesem Stadium fragen Sie sich vielleicht, wie Sie regelmäßige Projektmitarbeiter\*innen in Ihren Arbeitsprozess einbinden können? Sei es durch die Gewährung von Commit-Rechten oder durch die Führung von Debatten in der Gemeinschaft. Wir liefern Antworten, auf Ihre Fragen.
+Ihr Projekt wächst, Leute sind engagiert und Sie setzen sich dafür ein, dass diese Sache am Laufen bleibt. In diesem Stadium fragen Sie sich vielleicht, wie Sie regelmäßig Mitwirkende in Ihren Arbeitsprozess einbinden können? Sei es durch die Gewährung von Commit-Rechten oder durch die Führung von Debatten in der Gemeinschaft. Wir liefern Antworten, auf Ihre Fragen.
 
 ## Welche Beispiele für formale Rollen gibt es in Open-Source-Projekten?
 
@@ -34,7 +34,7 @@ Was diese Rollen aber tatsächlich bedeuten, liegt ganz bei Ihnen. Nachfolgend s
 
 **Bei einigen Projekten sind "Maintainer\*innen"** die einzigen Personen in einem Projekt mit Commit-Rechten. In anderen Projekten sind es einfach die Leute, die in der README als Maintainer\*innen aufgelistet sind.
 
-Ein\*e Maintainer\*in muss nicht zwangsläufig für Ihr Projekt Code schreiben. Es kann auch eine Person sein, die oder der viel Öffentlichkeitsarbeit für Ihr Projekt geleistet hat, oder viel  Dokumentation geschrieben hat, die das Projekt für andere zugänglicher gemacht hat. Unabhängig davon, was sie tagtäglich tun, fühlen sich Maintainer\*innen wahrscheinlich für die Richtung des Projekts verantwortlich und setzen sich für die Verbesserung des Projekts ein.
+Ein\*e Maintainer\*in muss in Ihrem Projekt nicht zwangsläufig Code schreiben. Es kann auch eine Person sein, die oder der viel Öffentlichkeitsarbeit für Ihr Projekt geleistet hat, oder viel  Dokumentation geschrieben hat, die das Projekt für andere zugänglicher gemacht hat. Unabhängig davon, was sie tagtäglich tun, fühlen sich Maintainer\*innen wahrscheinlich für die Richtung des Projekts verantwortlich und setzen sich dessen Verbesserung ein.
 
 "Mitwirkende" könnten alle sein, die ein Problem oder einen Pull-Request kommentiert, Menschen, die dem Projekt einen Mehrwert verleihen (sei es durch Problembehebungen, das Schreiben von Code oder die Veranstaltungsorganisation) oder alle, deren Pull-Requests  akzeptiert wurden (vielleicht die engste Definition für Mitwirkende).
 
@@ -57,7 +57,7 @@ Sie können Ihre Projektrollen zwar nach Belieben definieren, aber Sie sollten d
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   
-  Sie kennen mich vielleicht als den "Erfinder" von Django... Aber ich bin in Wirklichkeit der Typ, der angeheuert wurde, um an einer seit einem Jahr fertigen Sache zu arbeiten. (....) Die Leute vermuten, dass ich wegen meiner Programmierfähigkeiten erfolgreich bin... Aber ich bin bestenfalls ein durchschnittlicher Programmierer.
+  Sie kennen mich vielleicht als den "Erfinder" von Django... Aber ich bin in Wirklichkeit der Typ, der angeheuert wurde, um an einer seit einem Jahr fertigen Sache zu arbeiten. (...) Die Leute vermuten, dass ich wegen meiner Programmierfähigkeiten erfolgreich bin... Aber ich bin bestenfalls ein durchschnittlicher Programmierer.
   
   _You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer._
   
@@ -68,7 +68,7 @@ Sie können Ihre Projektrollen zwar nach Belieben definieren, aber Sie sollten d
 
 ## Wie formalisiere ich diese Führungsrollen?
 
-Führungsrollen zu formalisieren hilft den Menschen, ein eigenes Verantwortungsbewusstsein zu entwickeln und zeigt anderen Community-Mitgliedern, wen sie um Hilfe bitten sollen.
+Führungsrollen zu formalisieren, hilft den Menschen, ein eigenes Verantwortungsbewusstsein zu entwickeln und zeigt anderen Community-Mitgliedern, wen sie um Hilfe bitten sollen.
 
 In einem kleineren Projekt kann die Ernennung von Verantwortlichen so einfach sein, wie ihre Namen zur README- oder CONTRIBUTORS-Datei hinzuzufügen.
 
@@ -99,7 +99,7 @@ Wenn sich Ihr Projekt auf GitHub befindet, können Sie Ihr Projekt von Ihrem per
 
 Einige Leute denken, dass Sie allen Commit-Zugang geben sollten, die einen Beitrag geleistet haben. Dies könnte dazu führen, dass sich mehr Menschen für Ihr Projekt interessieren.
 
-Andererseits, besonders bei größeren, komplexeren Projekten, möchten Sie vielleicht nur Personen zu Commits berechtigen, die ihr Engagement unter Beweis gestellt haben. Es gibt hier nicht den richtigen Weg. Tun Sie, was Ihnen Behagen bereitet!
+Andererseits, besonders bei größeren, komplexeren Projekten, möchten Sie vielleicht nur Personen zu Commits berechtigen, die ihr Engagement unter Beweis gestellt haben. Es gibt hier nicht _den einen_ richtigen Weg. Tun Sie, was Ihnen behagt!
 
 Wenn sich Ihr Projekt auf GitHub befindet, können Sie unter [protected branches](https://help.github.com/articles/about-protected-branches/) verwalten, wer unter welchen Umständen zu auf einen bestimmten Branch committen darf.
 
@@ -121,7 +121,7 @@ Es gibt drei Steuerungsstrukturen, die oft bei Open-Source-Projekten vorkommen.
 
 * * **BDFL:** BDFL steht für "Benevolent Dictator for Life" (gutmütige\*r Diktator\*in auf Lebenszeit). Bei dieser Struktur hat eine Person (in der Regel die oder der Erstautor\*in des Projekts) das letzte Wort bei allen wichtigen Projektentscheidungen. [Python](https://github.com/python) ist ein klassisches Beispiel. Kleinere Projekte haben wahrscheinlich standardmäßig ein\*e BDFL, da es nur einen oder zwei Maintainer\*innen gibt. Ein Projekt, das aus einem Unternehmen stammt, kann ebenfalls in die Kategorie BDFL fallen.
 
-* **Meritokratie:** **(Hinweis: Der Begriff "Meritokratie" ist bei einigen Communities negativ konnotatiert und hat eine [komplexe soziale und politische Geschichte](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Unter einer Meritokratie erhalten aktive Projektmitarbeiter\*innen (diejenigen, die "sich die Meriten angelesen" haben) eine formelle Entscheidungsrolle. Entscheidungen werden in der Regel auf der Grundlage eines reinen Abstimmungskonsenses getroffen. Das Konzept der Meritokratie wurde von der [Apache Foundation](http://www.apache.org/) entwickelt; [alle Apache-Projekte](http://www.apache.org/index.html#projects-list) sind Meritokratien. Beiträge können nur von Personen geleistet werden, die sich selbst vertreten, nicht von einem Unternehmen.
+* **Meritokratie:** **(Hinweis: Der Begriff "Meritokratie" ist bei einigen Communities negativ konnotiert und hat eine [komplexe soziale und politische Geschichte](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Unter einer Meritokratie erhalten aktive Projektmitarbeiter\*innen (diejenigen, die "sich die Meriten angelesen" haben) eine formelle Entscheidungsrolle. Entscheidungen werden in der Regel auf der Grundlage eines reinen Abstimmungskonsenses getroffen. Das Konzept der Meritokratie wurde von der [Apache Foundation](http://www.apache.org/) entwickelt; [alle Apache-Projekte](http://www.apache.org/index.html#projects-list) sind Meritokratien. Beiträge können nur von Personen geleistet werden, die sich selbst vertreten, nicht von einem Unternehmen.
 
 * **Liberales Beitragsmodell:** Nach einem liberalen Beitragsmodell werden die Menschen, die aktuell die meiste Arbeit leisten, als die einflussreichsten anerkannt. Dabei wird aber ihre frühere Beitragshistorie außer Acht gelassen. Wichtige Projektentscheidungen werden auf der Grundlage eines Konsensfindungsprozesses (Besprechen der wichtigsten Missstände) und nicht auf Grundlage reiner Abstimmung getroffen. Dabei streben solche Projekte nach Einbeziehung möglichst vieler Perspektiven der Gemeinschaft. Beliebte Beispiele für Projekte, die ein liberales Beitragsmodell verwenden, sind [Node.js](https://foundation.nodejs.org/) und [Rust](https://www.rust-lang.org/de-DE/).
 
@@ -153,9 +153,9 @@ Wenn Sie Teil eines Unternehmens sind, das ein Open-Source-Projekt startet, lohn
 
 ## Was passiert, wenn Firmenangehörige Beiträge einreichen?
 
-Erfolgreiche Open-Source-Projekte werden von vielen Menschen und Unternehmen genutzt, und einige davon verfügen möglicherweise über Einnahmen, die letztendlich durch das Projekt generiert wurden. Beispielsweise kann eine Firma den Projektcode als eine Komponente eines kommerziellen Serviceangebot verwenden.
+Erfolgreiche Open-Source-Projekte werden von vielen Menschen und Unternehmen genutzt, und einige davon verfügen möglicherweise über Einnahmen, die letztendlich durch das Projekt generiert wurden. Beispielsweise kann eine Firma den Projektcode als eine Komponente eines kommerziellen Serviceangebots verwenden.
 
-Mit zunehmender Verbreitung des Projekts werden Menschen, die über Fachwissen verfügen, immer gefragter (Sie könnten eine\*r davon sein!) und wird manchmal für die Arbeit bezahlt, die im Projekt leisten.
+Mit zunehmender Verbreitung des Projekts werden Menschen, die über Fachwissen verfügen, immer gefragter (Sie könnten eine\*r davon sein!) und wird manchmal für die Arbeit bezahlt, die sie im Projekt leisten.
 
 Es ist wichtig, kommerzielle Aktivitäten als normal und eine weitere Motivation für Entwicklungsarbeit zu betrachten. Bezahlte Entwickler\*innen sollten natürlich keine Sonderbehandlung gegenüber unbezahlten erhalten. Jeder Beitrag muss nach seinen technischen Eigenschaften bewertet werden. Allerdings sollten die Leute zu kommerziellen Aktivitäten bereit sein, und sich damit wohl fühlen, wenn sie ihre Anwendungsfälle angeben, oder wenn sie sich für eine bestimmte Verbesserung oder Funktion aussprechen.
 
@@ -176,7 +176,7 @@ Viele Projekte wollen sich nicht die Mühe machen, einen gemeinnützigen Verein 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   
-  Unser Ziel ist es, eine Infrastruktur bereitzustellen, die die Gemeinden nutzen können, um selbsttragenden zu sein, und so ein Umfeld zu schaffen, in dem alle (Beitragende, Geldgeber\*innen und Sponsor\*innen) konkrete Vorteile daraus ziehen können.
+  Unser Ziel ist es, eine Infrastruktur bereitzustellen, die die Gemeinden nutzen können, um selbsttragend zu sein, und so ein Umfeld zu schaffen, in dem alle (Beitragende, Geldgeber\*innen und Sponsor\*innen) konkrete Vorteile daraus ziehen können.
   
   _Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it._
   
