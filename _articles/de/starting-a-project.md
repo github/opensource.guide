@@ -185,7 +185,7 @@ Weitere Inspirationen zum Schreiben einer README finden Sie in @18F's ["Making R
 
 Wenn Sie eine README-Datei im Hauptordner Ihres Projektes anlegen, zeigt GitHub diese automatisch auf der Homepage des Repos an.
 
-### Ihre Beistragsrichtlinien aufschreiben
+### Ihre Beitragsrichtlinien aufschreiben
 
 Eine CONTRIBUTING-Datei erklärt Ihrem Publikum, wie es zu Ihrem Projekt beitragen kann. Bspw. können Sie informieren über:
 
@@ -201,7 +201,7 @@ Neben thematischen Details präsentiert die CONTRIBUTING-Datei auch Ihre Erwartu
 
 Mit einem warmen, freundlichen Ton und spezifischen Vorschlägen für Beiträge (wie z.B. "Dokumentationen verfassen" oder "eine Website erstellen") können Sie dazu beitragen, dass sich Neuankömmlinge willkommen und begeistert fühlen.
 
-Beispielsweise, [Active Admin](https://github.com/activeadmin/activeadmin/) leitet [ihre Beistragsrichtlinien](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) ein mit:
+Beispielsweise, [Active Admin](https://github.com/activeadmin/activeadmin/) leitet [ihre Beitragsrichtlinien](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) ein mit:
 
 > Zuerst einmal vielen Dank, dass Sie überlegt haben, einen Beitrag zu Active Admin zu leisten, denn es sind Menschen wie Sie, die Active Admin so großartig machen.
 >
