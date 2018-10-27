@@ -20,7 +20,7 @@ related:
 
 ## Die Lenkungen eines wachsenden Projektes verstehen
 
-Ihr Projekt wächst, Leute sind engagiert und Sie setzen sich dafür ein, dass diese Sache am Laufen bleibt. In diesem Stadium fragen Sie sich vielleicht, wie Sie regelmäßig Mitwirkende in Ihren Arbeitsprozess einbinden können? Sei es durch die Gewährung von Commit-Rechten oder durch die Führung von Debatten in der Gemeinschaft. Wir liefern Antworten, auf Ihre Fragen.
+Ihr Projekt wächst, Leute sind engagiert und Sie setzen sich dafür ein, dass diese Sache am Laufen bleibt. In diesem Stadium fragen Sie sich vielleicht, wie Sie regelmäßig Mitwirkende in Ihren Arbeitsprozess einbinden können? Sei es durch die Gewährung von Commit-Rechten oder durch die Führung von Debatten in der Gemeinschaft. Wir liefern Antworten auf Ihre Fragen.
 
 ## Welche Beispiele für formale Rollen gibt es in Open-Source-Projekten?
 
