@@ -96,7 +96,7 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
 
 ## Does my project need an additional contributor agreement?
 
-아마도 그렇지 않습니다. 대다수의 오픈소스 프로젝트에서 공개 소스 라이선스는 인바운드(기여자)와 아웃바운드(다른 참여자 및 사용자) 라이선스로 암묵적으로 사용됩니다. 프로젝트가 GitHub에 있는 경우, GitHub 서비스 약관은 "인바운드 = 아웃 바운드"[명시적 기본값](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license)로 지정합니다.
+아마도 그렇지 않습니다. 대다수의 오픈소스 프로젝트에서 공개 소스 라이선스는 인바운드(기여자)와 아웃바운드(다른 참여자 및 사용자) 라이선스로 암묵적으로 사용됩니다. 프로젝트가 GitHub에 있는 경우, GitHub 서비스 약관은 "인바운드 = 아웃 바운드" [명시적 기본값](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license)으로 지정합니다.
 
 기여자 라이선스 계약(CLA)이라고도 부르는 추가 기여자 계약은 프로젝트 메인테이너를 위한 관리 작업을 생성할 수 있습니다. 계약서에 얼마나 많은 작업을 추가할지는 프로젝트와 구현에 달려 있습니다. 간단한 동의는 프로젝트 참여자가 프로젝트 오픈소스 라이선스하에 기여할 수 있는 권리를 클릭으로 확인해야 할 수도 있습니다. 보다 복잡한 합의는 법적 검토와 기여자 고용주의 서명을 요구할 수 있습니다.
 

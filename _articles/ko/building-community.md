@@ -120,7 +120,7 @@ related:
   <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["FOSS 프로젝트를 어떻게 실행하는가"](https://karissa.github.io/post/okf-de)
+— @karissa, ["FOSS 프로젝트를 어떻게 실행하는가"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
