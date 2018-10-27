@@ -1,13 +1,13 @@
 ---
 lang: de
 title: Führung und Lenkung
-description: Heranwachsende Open-Source-Projekte können von formellen Entscheidungsfindungsregeln profitieren.
+description: Wachsende Open-Source-Projekte können von formellen Entscheidungsfindungsregeln profitieren.
 class: leadership
 toc:
-  welche-beispiele-für-formale-rollen-gibt-es-in-open-source-projekten: "Welche Beispiele für formale Rollen gibt es in Open-Source-Projekten?"
+  welche-formalen-rollen-kann-es-in-open-source-projekten-geben: "Welche formalen Rollen kann es in Open-Source-Projekten geben?"
   wie-formalisiere-ich-diese-führungsrollen: "Wie formalisiere ich diese Führungsrollen?"
   wann-sollte-ich-jemandem-commit-rechte-geben: "Wann sollte ich jemandem Commit-Rechte geben?"
-  welche-steuerungsstrukturen-nutzen-open-source-projekte-häufiger: "Welche Steuerungsstrukturen nutzen Open-Source-Projekte häufiger?"
+  welche-lenkungsstrukturen-nutzen-open-source-projekte-häufiger: "Welche Lenkungsstrukturen nutzen Open-Source-Projekte häufiger?"
   muss-ich-projektleitung-und-steuerung-schon-zum-projektstart-dokumentieren: "Muss ich Projektleitung und -Steuerung schon zum Projektstart dokumentieren?"
   was-passiert-wenn-firmenangehörige-beiträge-einreichen: "Was passiert, wenn Firmenangehörige Beiträge einreichen?"
   brauche-ich-für-mein-projekt-eine-juristische-person: "Brauche ich für mein Projekt eine juristische Person?"
@@ -20,28 +20,28 @@ related:
 
 ## Die Lenkungen eines wachsenden Projektes verstehen
 
-Ihr Projekt wächst, Leute sind engagiert und Sie setzen sich dafür ein, dass diese Sache am Laufen bleibt. In diesem Stadium fragen Sie sich vielleicht, wie Sie regelmäßig Mitwirkende in Ihren Arbeitsprozess einbinden können? Sei es durch die Gewährung von Commit-Rechten oder durch die Führung von Debatten in der Gemeinschaft. Wir liefern Antworten auf Ihre Fragen.
+Ihr Projekt wächst, Leute sind engagiert und Sie setzen sich dafür ein, dass alles _läuft_. In diesem Stadium fragen Sie sich vielleicht, wie Sie regelmäßig Mitwirkende in Ihren Arbeitsprozess einbinden können? Sei es durch die Gewährung von direktem Commit-Zugang oder durch die Führung von Debatten in der Gemeinschaft. Wir liefern Antworten auf Ihre Fragen.
 
-## Welche Beispiele für formale Rollen gibt es in Open-Source-Projekten?
+## Welche formalen Rollen kann es in Open-Source-Projekten geben?
 
 Viele Projekte folgen einer ähnlichen Struktur hinsichtlich Mitwirkung und Anerkennung.
 
-Was diese Rollen aber tatsächlich bedeuten, liegt ganz bei Ihnen. Nachfolgend sind einige Arten von Rollen aufgeführt, die Sie vielleicht erkennen werden:
+Was diese Rollen aber tatsächlich bedeuten, liegt ganz bei Ihnen. Nachfolgend sind einige Arten von Rollen aufgeführt, die Sie vielleicht schon kennen:
 
 * **Maintainer\*in**
-* **Mitwirkende\*r**
+* **Kontributor\*in**
 * **Committer\*in**
 
-**Bei einigen Projekten sind "Maintainer\*innen"** die einzigen Personen in einem Projekt mit Commit-Rechten. In anderen Projekten sind es einfach die Leute, die in der README als Maintainer\*innen aufgelistet sind.
+**Bei einigen Projekten sind "Maintainer\*innen"** die einzigen Personen mit Commit-Rechten. In anderen Projekten sind es einfach die Leute, die in der README als Maintainer\*innen aufgelistet sind.
 
-Ein\*e Maintainer\*in muss in Ihrem Projekt nicht zwangsläufig Code schreiben. Es kann auch eine Person sein, die oder der viel Öffentlichkeitsarbeit für Ihr Projekt geleistet hat, oder viel  Dokumentation geschrieben hat, die das Projekt für andere zugänglicher gemacht hat. Unabhängig davon, was sie tagtäglich tun, fühlen sich Maintainer\*innen wahrscheinlich für die Richtung des Projekts verantwortlich und setzen sich dessen Verbesserung ein.
+Ein\*e Maintainer\*in muss in Ihrem Projekt nicht zwangsläufig Code schreiben. Es kann auch eine Person sein, die viel Öffentlichkeitsarbeit für Ihr Projekt geleistet hat, viel  Dokumentation geschrieben hat, oder das Projekt für andere zugänglicher gemacht hat. Unabhängig davon, was sie tagtäglich tun, fühlen sich Maintainer\*innen wahrscheinlich für die Richtung des Projekts verantwortlich und setzen sich für dessen Verbesserung ein.
 
-"Mitwirkende" könnten alle sein, die ein Problem oder einen Pull-Request kommentiert, Menschen, die dem Projekt einen Mehrwert verleihen (sei es durch Problembehebungen, das Schreiben von Code oder die Veranstaltungsorganisation) oder alle, deren Pull-Requests  akzeptiert wurden (vielleicht die engste Definition für Mitwirkende).
+"Kontributor\*innen" könnten alle Menschen sein, die ein Issue oder Pull Request kommentiert, die dem Projekt einen Mehrwert verleihen (sei es durch Problembehebungen, das Schreiben von Code oder die Veranstaltungsorganisation) oder alle, deren Pull-Requests  akzeptiert wurden (vielleicht die engste Definition für Kontribution).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   
-  \[Für Node.js,\] ist jede Person, die auftaucht, um einen Kommentar zu einem Problem abzugeben oder Code einzureichen, Mitglied der Projekt-Community. Sie einfach nur sehen zu können, bedeutet, dass sie die Benutzer-Kontributor-Grenze überschritten haben.
+  \[Für Node.js,\] ist jede Person, die durch Kommentieren in einem Issue mithilft, oder Code einreicht, Mitglied der Projekt-Community. Dass sie einfach durch aktive Beteiligung sichtbar werden, bedeutet, dass sie die Benutzer-Kontributor-Grenze überschritten haben.
   
   _\[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project's community. Just being able to see them means that they have crossed the line from being a user to being a contributor._
   
@@ -50,7 +50,7 @@ Ein\*e Maintainer\*in muss in Ihrem Projekt nicht zwangsläufig Code schreiben. 
   </p>
 </aside>
 
-**Der Begriff "Committer\*in"** könnte verwendet werden, um die höhere Verantwortung des Commit-Recht zu unterscheiden von anderen Formen der Mitarbeit.
+**Der Begriff "Committer\*in"** könnte verwendet werden, um die höhere Verantwortung des Commit-Rechtes zu unterscheiden von anderen Formen der Mitarbeit.
 
 Sie können Ihre Projektrollen zwar nach Belieben definieren, aber Sie sollten die Verwendung von [breiteren Definitionen in Betracht ziehen](../how-to-contribute/#was-einen-beitrag-leisten-bedeutet), um mehr Beitragsformen zu fördern. Mit Hilfe von Führungsrollen können Sie Personen, die unabhängig von ihren fachlichen Fähigkeiten herausragende Leistungen für Ihr Projekt erbracht haben, formell auszeichnen.
 
@@ -68,13 +68,13 @@ Sie können Ihre Projektrollen zwar nach Belieben definieren, aber Sie sollten d
 
 ## Wie formalisiere ich diese Führungsrollen?
 
-Führungsrollen zu formalisieren, hilft den Menschen, ein eigenes Verantwortungsbewusstsein zu entwickeln und zeigt anderen Community-Mitgliedern, wen sie um Hilfe bitten sollen.
+Führungsrollen zu formalisieren, hilft den Menschen, ein eigenes Verantwortungsbewusstsein zu entwickeln und zeigt anderen Mitwirkenden, wen sie um Hilfe bitten sollen.
 
-In einem kleineren Projekt kann die Ernennung von Verantwortlichen so einfach sein, wie ihre Namen zur README- oder CONTRIBUTORS-Datei hinzuzufügen.
+In einem kleineren Projekt kann die Ernennung von Verantwortlichen einfach durch Hinzufügen Ihrer Namen zur README- oder CONTRIBUTORS-Datei geschehen.
 
-Für ein größeres Projekt mit einer Website, erstellen Sie eine Teamseite oder listen Sie die Verantwortlichen dort auf. Zum Beispiel hat [Postgres](https://github.com/postgres/postgres/) eine [umfassende Teamseite](https://www.postgresql.org/community/contributors/) mit Kurzprofilen für alle Mitwirkende.
+Für ein größeres Projekt mit einer Website, erstellen Sie eine Teamseite und listen die Verantwortlichen dort auf. Zum Beispiel hat [Postgres](https://github.com/postgres/postgres/) eine [umfassende Teamseite](https://www.postgresql.org/community/contributors/) mit Kurzprofilen aller Mitwirkenden.
 
-Wenn Ihr Projekt eine sehr aktive Gemeinschaft von Mitwirkenden hat, können Sie ein Maintainer\*innen-"Kernteam" bilden oder sogar Gremien, die die Verantwortung für verschiedene Themengebiete übernehmen (z.B. Sicherheit, Issues bearbeiten oder Communitymanagement). Lassen Sie die Leute sich selbst organisieren! Anstatt ihnen Rollen zuzuweisen, lassen Sie Freiwillige das übernehmen, was sie am meisten begeistert.
+Wenn Ihr Projekt eine sehr aktive Gemeinschaft von Mitwirkenden hat, können Sie ein Maintainer\*innen-"Kernteam" bilden oder sogar Gremien, welche die Verantwortung für verschiedene Themengebiete übernehmen (z.B. Sicherheit, Issue-Bearbeitung oder Community-Management). Lassen Sie die Leute sich selbst organisieren! Anstatt ihnen Rollen zuzuweisen, lassen Sie Freiwillige das übernehmen, was diese am meisten begeistert.
 
 <aside markdown="1" class="pquote">
   
@@ -87,7 +87,7 @@ Wenn Ihr Projekt eine sehr aktive Gemeinschaft von Mitwirkenden hat, können Sie
   </p>
 </aside>
 
-Führungsteams können einen bestimmten Kanal einrichten (z.B. im IRC) oder sich regelmäßig treffen, um das Projekt zu besprechen (z.B. in Gitter oder Google Hangout). Sie können diese Meetings sogar öffentlich machen, damit andere Leute zuhören können. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) zum Beispiel, [lädt zur wöchentlichen Sprechstunde ein](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+Führungsteams können einen Kommunikationskanal einrichten (z.B. im IRC) oder sich regelmäßig treffen, um das Projekt zu besprechen (z.B. in Gitter oder Google Hangout). Sie können diese Meetings sogar öffentlich machen, damit andere Leute zuhören können. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) zum Beispiel, [lädt zu wöchentlichen Sprechstunden ein](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
 
 Vergessen Sie nicht, nach der Festlegung von Führungsrollen zu dokumentieren, wie Menschen diese erreichen können! Richten Sie einen klaren Prozess ein, wie Leute Maintainer\*in werden oder einem Gremium in Ihrem Projekt beitreten können, und beschreiben Sie diesen Prozess in einer GOVERNANCE.md.
 
@@ -101,7 +101,7 @@ Einige Leute denken, dass Sie allen Commit-Zugang geben sollten, die einen Beitr
 
 Andererseits, besonders bei größeren, komplexeren Projekten, möchten Sie vielleicht nur Personen zu Commits berechtigen, die ihr Engagement unter Beweis gestellt haben. Es gibt hier nicht _den einen_ richtigen Weg. Tun Sie, was Ihnen behagt!
 
-Wenn sich Ihr Projekt auf GitHub befindet, können Sie unter [protected branches](https://help.github.com/articles/about-protected-branches/) verwalten, wer unter welchen Umständen zu auf einen bestimmten Branch committen darf.
+Wenn sich Ihr Projekt auf GitHub befindet, können Sie unter [protected branches](https://help.github.com/articles/about-protected-branches/) verwalten, wer unter welchen Umständen auf einen bestimmten Branch committen darf.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
@@ -115,11 +115,11 @@ Wenn sich Ihr Projekt auf GitHub befindet, können Sie unter [protected branches
   </p>
 </aside>
 
-## Welche Steuerungsstrukturen nutzen Open-Source-Projekte häufiger?
+## Welche Lenkungsstrukturen nutzen Open-Source-Projekte häufiger?
 
-Es gibt drei Steuerungsstrukturen, die oft bei Open-Source-Projekten vorkommen.
+Es gibt drei Lenkungsstrukturen, die häufig bei Open-Source-Projekten vorkommen.
 
-* * **BDFL:** BDFL steht für "Benevolent Dictator for Life" (gutmütige\*r Diktator\*in auf Lebenszeit). Bei dieser Struktur hat eine Person (in der Regel die oder der Erstautor\*in des Projekts) das letzte Wort bei allen wichtigen Projektentscheidungen. [Python](https://github.com/python) ist ein klassisches Beispiel. Kleinere Projekte haben wahrscheinlich standardmäßig ein\*e BDFL, da es nur einen oder zwei Maintainer\*innen gibt. Ein Projekt, das aus einem Unternehmen stammt, kann ebenfalls in die Kategorie BDFL fallen.
+* * **BDFL:** BDFL steht für "Benevolent Dictator for Life" (gutmütige\*r Diktator\*in auf Lebenszeit). Bei dieser Struktur hat eine Person (in der Regel die oder der Erstautor\*in des Projekts) das letzte Wort bei allen wichtigen Projektentscheidungen. [Python](https://github.com/python) ist ein klassisches Beispiel. Kleinere Projekte haben wahrscheinlich standardmäßig ein\*e BDFL, da es nur einen oder zwei Maintainer\*innen gibt. Aus Unternehmen stammende Projekte können ebenfalls in die Kategorie BDFL fallen.
 
 * **Meritokratie:** **(Hinweis: Der Begriff "Meritokratie" ist bei einigen Communities negativ konnotiert und hat eine [komplexe soziale und politische Geschichte](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Unter einer Meritokratie erhalten aktive Projektmitarbeiter\*innen (diejenigen, die "sich die Meriten angelesen" haben) eine formelle Entscheidungsrolle. Entscheidungen werden in der Regel auf der Grundlage eines reinen Abstimmungskonsenses getroffen. Das Konzept der Meritokratie wurde von der [Apache Foundation](http://www.apache.org/) entwickelt; [alle Apache-Projekte](http://www.apache.org/index.html#projects-list) sind Meritokratien. Beiträge können nur von Personen geleistet werden, die sich selbst vertreten, nicht von einem Unternehmen.
 
@@ -133,7 +133,7 @@ Welches Modell sollten Sie verwenden? Das obliegt Ihnen! Jedes Modell hat Vor- u
 
 ## Muss ich Projektleitung und -Steuerung schon zum Projektstart dokumentieren?
 
-Es gibt keinen richtigen Zeitpunkt, um die Leitungs- und Steuerungsrichtlinien Ihres Projekts aufzuschreiben. Allerdings  sind sie einfacher zu definieren, sobald Sie die Entwicklung von Community-Dynamiken gesehen haben. Das Beste (und Schwierigste) an Open-Source-Projektsteuerung ist, dass sie von der Gemeinschaft geprägt wird!
+Es gibt nicht den einen richtigen Zeitpunkt, um die Leitungs- und Steuerungsrichtlinien Ihres Projekts aufzuschreiben. Allerdings  sind sie einfacher zu definieren, sobald Sie die Entwicklung von Community-Dynamiken gesehen haben. Das Beste (und Schwierigste) an Open-Source-Projektsteuerung ist, dass sie von der Gemeinschaft geprägt wird!
 
 Frühzeitige Dokumentationen wird selbst auch dazu beitragen, wie sich Ihr Projekt entwickelt, also schreiben Sie ruhig früh auf, was Sie früh wissen. So können Sie beispielsweise schon zum Projektstart klare Erwartungen an die Funktionsweise Ihres Mitwirkungsprozesses definieren.
 
@@ -142,7 +142,7 @@ Wenn Sie Teil eines Unternehmens sind, das ein Open-Source-Projekt startet, lohn
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   
-  Wir beauftragen kleine Teams mit der Leitung von Projekten auf GitHub, die aktuell auf Facebook an diesen arbeiten. Beispielsweise wird das React-Projekt von einem React-Ingenieur betreut.
+  Wir beauftragen kleine Teams mit der Leitung von Projekten auf GitHub, die aktuell bei Facebook an diesen arbeiten. Beispielsweise wird das React-Projekt von einer React-Ingenieurin betreut.
   
   _We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer._
   
@@ -157,19 +157,19 @@ Erfolgreiche Open-Source-Projekte werden von vielen Menschen und Unternehmen gen
 
 Mit zunehmender Verbreitung des Projekts werden Menschen, die über Fachwissen verfügen, immer gefragter (Sie könnten eine\*r davon sein!) und wird manchmal für die Arbeit bezahlt, die sie im Projekt leisten.
 
-Es ist wichtig, kommerzielle Aktivitäten als normal und eine weitere Motivation für Entwicklungsarbeit zu betrachten. Bezahlte Entwickler\*innen sollten natürlich keine Sonderbehandlung gegenüber unbezahlten erhalten. Jeder Beitrag muss nach seinen technischen Eigenschaften bewertet werden. Allerdings sollten die Leute zu kommerziellen Aktivitäten bereit sein, und sich damit wohl fühlen, wenn sie ihre Anwendungsfälle angeben, oder wenn sie sich für eine bestimmte Verbesserung oder Funktion aussprechen.
+Es ist wichtig, kommerzielle Aktivitäten als normal und als eine weitere Motivation für die Entwicklungsarbeit zu betrachten. Bezahlte Entwickler\*innen sollten natürlich keine Sonderbehandlung gegenüber Unbezahlten erhalten. Jeder Beitrag muss nach seinen technischen Eigenschaften bewertet werden. Allerdings sollten die Leute zu kommerziellen Aktivitäten bereit sein, und sich damit wohl fühlen, wenn sie ihre Anwendungsfälle angeben oder sich für eine bestimmte Verbesserung oder Funktion aussprechen.
 
-"Kommerziell" ist vollständig kompatibel mit "Open Source". "Kommerziell" bedeutet nur, dass irgendwo Geld im Spiel ist: dass die Software unternehmerisch eingesetzt wird. Dies wird umso  wahrscheinlicher, je weiter sich ein Projekt verbreitet. (Wenn Open-Source-Software als Teil eines Nicht-Open-Source-Produkts verwendet wird, ist das Gesamtprodukt immer noch "proprietäre" Software, obwohl sie (wie Open Source!) für kommerzielle oder nicht-kommerzielle Zwecke verwendet werden kann.
+"Kommerziell" ist vollständig kompatibel mit "Open Source". "Kommerziell" bedeutet nur, dass irgendwo Geld im Spiel ist, z.B. dass die Software unternehmerisch eingesetzt wird. Dies wird umso  wahrscheinlicher, je weiter sich ein Projekt verbreitet. Wenn Open-Source-Software als Teil eines Nicht-Open-Source-Produkts verwendet wird, ist das Gesamtprodukt immer noch "proprietäre" Software, obwohl sie (wie Open Source!) für kommerzielle oder nicht-kommerzielle Zwecke verwendet werden kann.
 
-Wie jede\*r andere auch, gewinnen kommerziell motivierte Entwickler\*innen durch die Qualität und Quantität ihrer Beiträge Einfluss auf das Projekt. Natürlich kann ein\*e Entwickler\*in, die oder der für die Arbeitszeit bezahlt wird, mehr tun als unbezahlte Beitragende, aber das ist in Ordnung: Bezahlung beeinflusst was jemand tut, nur als einer von vielen möglichen Faktoren. Halten Sie Ihre Projektdiskussionen auf den Inhalt der Beiträge ausgerichtet, nicht auf die externen Faktoren, die es den Menschen ermöglichen, diese Beiträge zu leisten.
+Wie jede\*r Andere auch, gewinnen kommerziell motivierte Entwickler\*innen durch die Qualität und Quantität ihrer Beiträge Einfluss auf das Projekt. Natürlich kann ein\*e Entwickler\*in, die oder der für die Arbeitszeit bezahlt wird, mehr tun als unbezahlte Beitragende, aber das ist in Ordnung: Bezahlung beeinflusst nur als einer von vielen möglichen Faktoren, was jemand tut. Halten Sie Ihre Projektdiskussionen auf den Inhalt der Beiträge fokussiert, nicht auf die externen Faktoren, die es den Menschen ermöglichen, diese Beiträge zu leisten.
 
 ## Brauche ich für mein Projekt eine juristische Person?
 
 Sie benötigen keine juristische Person, um Ihr Open-Source-Projekt zu verwalten. Es sei denn, es kommt Geld ins Spiel.
 
-Wenn Sie beispielsweise ein kommerzielles Unternehmen gründen möchten, sollten Sie eine GmbH oder UG gründen (wenn Sie in Deutschland ansässig sind). Wenn Sie nur Auftragsarbeiten im Zusammenhang mit Ihrem Open-Source-Projekt durchführen, können Sie Geld als (Einzel)Unternehmergesellschaft akzeptieren oder eine GmbH gründen (wenn Sie in Deutschland ansässig sind).
+Wenn Sie beispielsweise ein kommerzielles Unternehmen gründen möchten, sollten Sie eine GmbH oder UG gründen (wenn Sie in Deutschland ansässig sind). Wenn Sie nur Auftragsarbeiten im Zusammenhang mit Ihrem Open-Source-Projekt durchführen, können Sie Geld als (Einzel)Unternehmergesellschaft akzeptieren oder eine GmbH gründen.
 
-Wenn Sie Spenden für Ihr Open-Source-Projekt annehmen möchten, können Sie einen Spendenbutton einrichten (z.B. über PayPal oder Stripe), aber das Geld ist nicht steuerlich absetzbar, es sei denn, Sie sind ein qualifizierter gemeinnütziger Verein.
+Wenn Sie Spenden für Ihr Open-Source-Projekt annehmen möchten, können Sie einen Spendenkanal einrichten (z.B. über PayPal oder Stripe), aber das Geld ist nicht steuerlich absetzbar. Es sei denn, über einen anerkannt gemeinnütziger Verein.
 
 Viele Projekte wollen sich nicht die Mühe machen, einen gemeinnützigen Verein zu gründen, also finden sie stattdessen einen gemeinnützigen, steuerrechtlichen Sponsor. Ein solcher Sponsor nimmt Spenden in Ihrem Namen entgegen (teilweise im Austausch gegen einen prozentualen Anteil der Spende). [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects), [Open Collective](https://opencollective.com/opensource), und das deutsche [Center for the Cultivation of Technology](https://techcultivation.org/) sind Beispiele für Organisationen, die als steuerrechtliche Sponsoren für Open-Source-Projekte fungieren.
 
