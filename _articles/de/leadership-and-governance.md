@@ -1,16 +1,16 @@
 ---
 lang: de
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+title: Führung und Lenkung
+description: Heranwachsende Open-Source-Projekte können von formellen Entscheidungsfindungsregeln profitieren.
 class: leadership
 toc:
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "What are examples of formal roles used in open source projects?"
-  how-do-i-formalize-these-leadership-roles: "How do I formalize these leadership roles?"
-  when-should-i-give-someone-commit-access: "When should I give someone commit access?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "What are some of the common governance structures for open source projects?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Do I need governance docs when I launch my project?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "What happens if corporate employees start submitting contributions?"
-  do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
+  welche-beispiele-für-formale-rollen-gibt-es-in-open-source-projekten: "Welche Beispiele für formale Rollen gibt es in Open-Source-Projekten?"
+  wie-formalisiere-ich-diese-führungsrollen: "Wie formalisiere ich diese Führungsrollen?"
+  wann-sollte-ich-jemandem-commit-rechte-geben: "Wann sollte ich jemandem Commit-Rechte geben?"
+  welche-steuerungsstrukturen-nutzen-open-source-projekte-häufiger: "Welche Steuerungsstrukturen nutzen Open-Source-Projekte häufiger?"
+  muss-ich-projektleitung-und-steuerung-schon-zum-projektstart-dokumentieren: "Muss ich Projektleitung und -Steuerung schon zum Projektstart dokumentieren?"
+  was-passiert-wenn-firmenangehörige-beiträge-einreichen: "Was passiert, wenn Firmenangehörige Beiträge einreichen?"
+  brauche-ich-für-mein-projekt-eine-juristische-person: "Brauche ich für mein Projekt eine juristische Person?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
@@ -18,147 +18,171 @@ related:
   - metrics
 ---
 
-## Understanding governance for your growing project
+## Die Lenkungen eines wachsenden Projektes verstehen
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
+Ihr Projekt wächst, Leute sind engagiert und Sie setzen sich dafür ein, dass diese Sache am Laufen bleibt. In diesem Stadium fragen Sie sich vielleicht, wie Sie regelmäßig Mitwirkende in Ihren Arbeitsprozess einbinden können? Sei es durch die Gewährung von Commit-Rechten oder durch die Führung von Debatten in der Gemeinschaft. Wir liefern Antworten, auf Ihre Fragen.
 
-## What are examples of formal roles used in open source projects?
+## Welche Beispiele für formale Rollen gibt es in Open-Source-Projekten?
 
-Many projects follow a similar structure for contributor roles and recognition.
+Viele Projekte folgen einer ähnlichen Struktur hinsichtlich Mitwirkung und Anerkennung.
 
-What these roles actually mean, though, is entirely up to you. Here are a few types of roles you may recognize:
+Was diese Rollen aber tatsächlich bedeuten, liegt ganz bei Ihnen. Nachfolgend sind einige Arten von Rollen aufgeführt, die Sie vielleicht erkennen werden:
 
-* **Maintainer**
-* **Contributor**
-* **Committer**
+* **Maintainer\*in**
+* **Mitwirkende\*r**
+* **Committer\*in**
 
-**For some projects, "maintainers"** are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
+**Bei einigen Projekten sind "Maintainer\*innen"** die einzigen Personen in einem Projekt mit Commit-Rechten. In anderen Projekten sind es einfach die Leute, die in der README als Maintainer\*innen aufgelistet sind.
 
-A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project, or written documentation that made the project more accessible to others. Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
+Ein\*e Maintainer\*in muss in Ihrem Projekt nicht zwangsläufig Code schreiben. Es kann auch eine Person sein, die oder der viel Öffentlichkeitsarbeit für Ihr Projekt geleistet hat, oder viel  Dokumentation geschrieben hat, die das Projekt für andere zugänglicher gemacht hat. Unabhängig davon, was sie tagtäglich tun, fühlen sich Maintainer\*innen wahrscheinlich für die Richtung des Projekts verantwortlich und setzen sich dessen Verbesserung ein.
 
-**A "contributor" could be anyone** who comments on an issue or pull request, people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
+"Mitwirkende" könnten alle sein, die ein Problem oder einen Pull-Request kommentiert, Menschen, die dem Projekt einen Mehrwert verleihen (sei es durch Problembehebungen, das Schreiben von Code oder die Veranstaltungsorganisation) oder alle, deren Pull-Requests  akzeptiert wurden (vielleicht die engste Definition für Mitwirkende).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project's community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
+  
+  \[Für Node.js,\] ist jede Person, die auftaucht, um einen Kommentar zu einem Problem abzugeben oder Code einzureichen, Mitglied der Projekt-Community. Sie einfach nur sehen zu können, bedeutet, dass sie die Benutzer-Kontributor-Grenze überschritten haben.
+  
+  _\[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project's community. Just being able to see them means that they have crossed the line from being a user to being a contributor._
+  
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
 </aside>
 
-**The term "committer"** might be used to distinguish commit access, which is a specific type of responsibility, from other forms of contribution.
+**Der Begriff "Committer\*in"** könnte verwendet werden, um die höhere Verantwortung des Commit-Recht zu unterscheiden von anderen Formen der Mitarbeit.
 
-While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#was-einen-beitrag-leisten-bedeutet) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
+Sie können Ihre Projektrollen zwar nach Belieben definieren, aber Sie sollten die Verwendung von [breiteren Definitionen in Betracht ziehen](../how-to-contribute/#was-einen-beitrag-leisten-bedeutet), um mehr Beitragsformen zu fördern. Mit Hilfe von Führungsrollen können Sie Personen, die unabhängig von ihren fachlichen Fähigkeiten herausragende Leistungen für Ihr Projekt erbracht haben, formell auszeichnen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
-  You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
+  
+  Sie kennen mich vielleicht als den "Erfinder" von Django... Aber ich bin in Wirklichkeit der Typ, der angeheuert wurde, um an einer seit einem Jahr fertigen Sache zu arbeiten. (...) Die Leute vermuten, dass ich wegen meiner Programmierfähigkeiten erfolgreich bin... Aber ich bin bestenfalls ein durchschnittlicher Programmierer.
+  
+  _You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer._
+  
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## Wie formalisiere ich diese Führungsrollen?
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
+Führungsrollen zu formalisieren, hilft den Menschen, ein eigenes Verantwortungsbewusstsein zu entwickeln und zeigt anderen Community-Mitgliedern, wen sie um Hilfe bitten sollen.
 
-For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
+In einem kleineren Projekt kann die Ernennung von Verantwortlichen so einfach sein, wie ihre Namen zur README- oder CONTRIBUTORS-Datei hinzuzufügen.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [Postgres](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+Für ein größeres Projekt mit einer Website, erstellen Sie eine Teamseite oder listen Sie die Verantwortlichen dort auf. Zum Beispiel hat [Postgres](https://github.com/postgres/postgres/) eine [umfassende Teamseite](https://www.postgresql.org/community/contributors/) mit Kurzprofilen für alle Mitwirkende.
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (for example, security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+Wenn Ihr Projekt eine sehr aktive Gemeinschaft von Mitwirkenden hat, können Sie ein Maintainer\*innen-"Kernteam" bilden oder sogar Gremien, die die Verantwortung für verschiedene Themengebiete übernehmen (z.B. Sicherheit, Issues bearbeiten oder Communitymanagement). Lassen Sie die Leute sich selbst organisieren! Anstatt ihnen Rollen zuzuweisen, lassen Sie Freiwillige das übernehmen, was sie am meisten begeistert.
 
 <aside markdown="1" class="pquote">
-  \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+  
+  \[Wir\] ergänzen das Kernteam mit mehreren "Subteams". Jedes Subteam ist auf einen bestimmten Bereich fokussiert, z.B. Sprachdesign oder Bibliotheken. Um eine globale Koordination und eine starke, kohärente Sichtweise für das Gesamtprojekt zu gewährleisten, wird jedes Subteam von einem Mitglied des Kernteams geleitet.
+  
+  _\[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team._
+  
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+Führungsteams können einen bestimmten Kanal einrichten (z.B. im IRC) oder sich regelmäßig treffen, um das Projekt zu besprechen (z.B. in Gitter oder Google Hangout). Sie können diese Meetings sogar öffentlich machen, damit andere Leute zuhören können. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) zum Beispiel, [lädt zur wöchentlichen Sprechstunde ein](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md.
+Vergessen Sie nicht, nach der Festlegung von Führungsrollen zu dokumentieren, wie Menschen diese erreichen können! Richten Sie einen klaren Prozess ein, wie Leute Maintainer\*in werden oder einem Gremium in Ihrem Projekt beitreten können, und beschreiben Sie diesen Prozess in einer GOVERNANCE.md.
 
-Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
+Tools wie [Vossibility](https://github.com/icecrime/vossibility-stack) können Ihnen dabei helfen, öffentlich zu verfolgen, wer zum Projekt beiträgt (oder nicht). Die Dokumentation dieser Informationen beugt dem Eindruck vor, dass eine Maintainer\*innen-Clique ihre Privatinteressen durchsetzen würde.
 
-Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#teilen-sie-die-eigentümerschaft-an-ihrem-projekt).
+Wenn sich Ihr Projekt auf GitHub befindet, können Sie Ihr Projekt von Ihrem persönlichen Konto in eine Organisation verschieben und mindestens einen Backup-Administrator einrichten. [GitHub-Organisationen](https://help.github.com/articles/creating-a-new-organization-account/) erleichtern die Verwaltung von mehreren Repositories und Berechtigungen, und schützen ihr Projektarchiv durch [gemeinsame Verantwortung](../building-community/#teilen-sie-die-eigentümerschaft-an-ihrem-projekt).
 
-## When should I give someone commit access?
+## Wann sollte ich jemandem Commit-Rechte geben?
 
-Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
+Einige Leute denken, dass Sie allen Commit-Zugang geben sollten, die einen Beitrag geleistet haben. Dies könnte dazu führen, dass sich mehr Menschen für Ihr Projekt interessieren.
 
-On the other hand, especially for bigger, more complex projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+Andererseits, besonders bei größeren, komplexeren Projekten, möchten Sie vielleicht nur Personen zu Commits berechtigen, die ihr Engagement unter Beweis gestellt haben. Es gibt hier nicht _den einen_ richtigen Weg. Tun Sie, was Ihnen behagt!
 
-If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
+Wenn sich Ihr Projekt auf GitHub befindet, können Sie unter [protected branches](https://help.github.com/articles/about-protected-branches/) verwalten, wer unter welchen Umständen zu auf einen bestimmten Branch committen darf.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
-  Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
+  
+  Wann immer Ihnen jemand einen Pull-Request schickt, geben Sie ihm Commit-Zugriff auf Ihr Projekt. Auch wenn es auf den ersten Blick unglaublich dumm klingt, können Sie mit dieser Strategie die wahre Kraft von GitHub entfalten. (...) Sobald Leute Commit-Zugriff haben, haben sie keine Angst mehr, dass ihr Patch nicht mehr angenommen werden könnte... Dies veranlasst sie dazu, viel mehr Arbeit in Patches zu stecken.
+  
+  _Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it._
+  
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
-## What are some of the common governance structures for open source projects?
+## Welche Steuerungsstrukturen nutzen Open-Source-Projekte häufiger?
 
-There are three common governance structures associated with open source projects.
+Es gibt drei Steuerungsstrukturen, die oft bei Open-Source-Projekten vorkommen.
 
-* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+* * **BDFL:** BDFL steht für "Benevolent Dictator for Life" (gutmütige\*r Diktator\*in auf Lebenszeit). Bei dieser Struktur hat eine Person (in der Regel die oder der Erstautor\*in des Projekts) das letzte Wort bei allen wichtigen Projektentscheidungen. [Python](https://github.com/python) ist ein klassisches Beispiel. Kleinere Projekte haben wahrscheinlich standardmäßig ein\*e BDFL, da es nur einen oder zwei Maintainer\*innen gibt. Ein Projekt, das aus einem Unternehmen stammt, kann ebenfalls in die Kategorie BDFL fallen.
 
-* **Meritocracy:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](http://www.apache.org/); [all Apache projects](http://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **Meritokratie:** **(Hinweis: Der Begriff "Meritokratie" ist bei einigen Communities negativ konnotiert und hat eine [komplexe soziale und politische Geschichte](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Unter einer Meritokratie erhalten aktive Projektmitarbeiter\*innen (diejenigen, die "sich die Meriten angelesen" haben) eine formelle Entscheidungsrolle. Entscheidungen werden in der Regel auf der Grundlage eines reinen Abstimmungskonsenses getroffen. Das Konzept der Meritokratie wurde von der [Apache Foundation](http://www.apache.org/) entwickelt; [alle Apache-Projekte](http://www.apache.org/index.html#projects-list) sind Meritokratien. Beiträge können nur von Personen geleistet werden, die sich selbst vertreten, nicht von einem Unternehmen.
 
-* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://nodejs.org/en/foundation/) and [Rust](https://www.rust-lang.org/en-US/).
+* **Liberales Beitragsmodell:** Nach einem liberalen Beitragsmodell werden die Menschen, die aktuell die meiste Arbeit leisten, als die einflussreichsten anerkannt. Dabei wird aber ihre frühere Beitragshistorie außer Acht gelassen. Wichtige Projektentscheidungen werden auf der Grundlage eines Konsensfindungsprozesses (Besprechen der wichtigsten Missstände) und nicht auf Grundlage reiner Abstimmung getroffen. Dabei streben solche Projekte nach Einbeziehung möglichst vieler Perspektiven der Gemeinschaft. Beliebte Beispiele für Projekte, die ein liberales Beitragsmodell verwenden, sind [Node.js](https://foundation.nodejs.org/) und [Rust](https://www.rust-lang.org/de-DE/).
 
-Which one should you use? It's up to you! Every model has advantages and trade-offs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
+Welches Modell sollten Sie verwenden? Das obliegt Ihnen! Jedes Modell hat Vor- und Nachteile. Und obwohl sie zunächst sehr unterschiedlich erscheinen mögen, haben alle drei Modelle mehr gemeinsam als zu vermuten wäre. Wenn Sie daran interessiert sind, eines dieser Modelle zu übernehmen, schauen Sie sich diese Vorlagen an (alle Englisch):
 
-* [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
-* [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Node.js's liberal contribution policy](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
+* [BDFL-Modellvorlage](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
+* Meritokratische Modellvorlage](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
+* [Node.js' liberale Beitragspolitik](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
-## Do I need governance docs when I launch my project?
+## Muss ich Projektleitung und -Steuerung schon zum Projektstart dokumentieren?
 
-There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
+Es gibt keinen richtigen Zeitpunkt, um die Leitungs- und Steuerungsrichtlinien Ihres Projekts aufzuschreiben. Allerdings  sind sie einfacher zu definieren, sobald Sie die Entwicklung von Community-Dynamiken gesehen haben. Das Beste (und Schwierigste) an Open-Source-Projektsteuerung ist, dass sie von der Gemeinschaft geprägt wird!
 
-Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch.
+Frühzeitige Dokumentationen wird selbst auch dazu beitragen, wie sich Ihr Projekt entwickelt, also schreiben Sie ruhig früh auf, was Sie früh wissen. So können Sie beispielsweise schon zum Projektstart klare Erwartungen an die Funktionsweise Ihres Mitwirkungsprozesses definieren.
 
-If you're part of a company launching an open source project, it's worth having an internal discussion before launch about how your company expects to maintain and make decisions about the project moving forward. You may also want to publicly explain anything particular to how your company will (or won't!) be involved with the project.
+Wenn Sie Teil eines Unternehmens sind, das ein Open-Source-Projekt startet, lohnt sich eine interne Diskussion vor dem Start. Wie erwartet Ihr Unternehmen, dass es das Projekt aufrechterhält und Entscheidungen trifft? Möglicherweise möchten Sie auch öffentlich erklären, wie oder ob Ihr Unternehmen in das Projekt eingebunden wird.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
+  
+  Wir beauftragen kleine Teams mit der Leitung von Projekten auf GitHub, die aktuell auf Facebook an diesen arbeiten. Beispielsweise wird das React-Projekt von einem React-Ingenieur betreut.
+  
+  _We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer._
+  
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
 </aside>
 
-## What happens if corporate employees start submitting contributions?
+## Was passiert, wenn Firmenangehörige Beiträge einreichen?
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+Erfolgreiche Open-Source-Projekte werden von vielen Menschen und Unternehmen genutzt, und einige davon verfügen möglicherweise über Einnahmen, die letztendlich durch das Projekt generiert wurden. Beispielsweise kann eine Firma den Projektcode als eine Komponente eines kommerziellen Serviceangebots verwenden.
 
-As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
+Mit zunehmender Verbreitung des Projekts werden Menschen, die über Fachwissen verfügen, immer gefragter (Sie könnten eine\*r davon sein!) und wird manchmal für die Arbeit bezahlt, die sie im Projekt leisten.
 
-It's important to treat commercial activity as normal and as just another source of development energy. Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits. However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+Es ist wichtig, kommerzielle Aktivitäten als normal und eine weitere Motivation für Entwicklungsarbeit zu betrachten. Bezahlte Entwickler\*innen sollten natürlich keine Sonderbehandlung gegenüber unbezahlten erhalten. Jeder Beitrag muss nach seinen technischen Eigenschaften bewertet werden. Allerdings sollten die Leute zu kommerziellen Aktivitäten bereit sein, und sich damit wohl fühlen, wenn sie ihre Anwendungsfälle angeben, oder wenn sie sich für eine bestimmte Verbesserung oder Funktion aussprechen.
 
-"Commercial" is completely compatible with "open source". "Commercial" just means there is money involved somewhere - that the software is used in commerce, which is increasingly likely as a project gains adoption. (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+"Kommerziell" ist vollständig kompatibel mit "Open Source". "Kommerziell" bedeutet nur, dass irgendwo Geld im Spiel ist: dass die Software unternehmerisch eingesetzt wird. Dies wird umso  wahrscheinlicher, je weiter sich ein Projekt verbreitet. (Wenn Open-Source-Software als Teil eines Nicht-Open-Source-Produkts verwendet wird, ist das Gesamtprodukt immer noch "proprietäre" Software, obwohl sie (wie Open Source!) für kommerzielle oder nicht-kommerzielle Zwecke verwendet werden kann.
 
-Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+Wie jede\*r andere auch, gewinnen kommerziell motivierte Entwickler\*innen durch die Qualität und Quantität ihrer Beiträge Einfluss auf das Projekt. Natürlich kann ein\*e Entwickler\*in, die oder der für die Arbeitszeit bezahlt wird, mehr tun als unbezahlte Beitragende, aber das ist in Ordnung: Bezahlung beeinflusst was jemand tut, nur als einer von vielen möglichen Faktoren. Halten Sie Ihre Projektdiskussionen auf den Inhalt der Beiträge ausgerichtet, nicht auf die externen Faktoren, die es den Menschen ermöglichen, diese Beiträge zu leisten.
 
-## Do I need a legal entity to support my project?
+## Brauche ich für mein Projekt eine juristische Person?
 
-You don't need a legal entity to support your open source project unless you're handling money.
+Sie benötigen keine juristische Person, um Ihr Open-Source-Projekt zu verwalten. Es sei denn, es kommt Geld ins Spiel.
 
-For example, if you want to create a commercial business, you'll want to set up a C Corp or LLC (if you're based in the US). If you're just doing contract work related to your open source project, you can accept money as a sole proprietor, or set up an LLC (if you're based in the US).
+Wenn Sie beispielsweise ein kommerzielles Unternehmen gründen möchten, sollten Sie eine GmbH oder UG gründen (wenn Sie in Deutschland ansässig sind). Wenn Sie nur Auftragsarbeiten im Zusammenhang mit Ihrem Open-Source-Projekt durchführen, können Sie Geld als (Einzel)Unternehmergesellschaft akzeptieren oder eine GmbH gründen (wenn Sie in Deutschland ansässig sind).
 
-If you want to accept donations for your open source project, you can set up a donation button (using PayPal or Stripe, for example), but the money won't be tax-deductible unless you are a qualifying nonprofit (a 501c3, if you're in the US).
+Wenn Sie Spenden für Ihr Open-Source-Projekt annehmen möchten, können Sie einen Spendenbutton einrichten (z.B. über PayPal oder Stripe), aber das Geld ist nicht steuerlich absetzbar, es sei denn, Sie sind ein qualifizierter gemeinnütziger Verein.
 
-Many projects don't wish to go through the trouble of setting up a nonprofit, so they find a nonprofit fiscal sponsor instead. A fiscal sponsor accepts donations on your behalf, usually in exchange for a percentage of the donation. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) are examples of organizations that serve as fiscal sponsors for open source projects.
+Viele Projekte wollen sich nicht die Mühe machen, einen gemeinnützigen Verein zu gründen, also finden sie stattdessen einen gemeinnützigen, steuerrechtlichen Sponsor. Ein solcher Sponsor nimmt Spenden in Ihrem Namen entgegen (teilweise im Austausch gegen einen prozentualen Anteil der Spende). [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects), [Open Collective](https://opencollective.com/opensource), und das deutsche [Center for the Cultivation of Technology](https://techcultivation.org/) sind Beispiele für Organisationen, die als steuerrechtliche Sponsoren für Open-Source-Projekte fungieren.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
-  Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
+  
+  Unser Ziel ist es, eine Infrastruktur bereitzustellen, die die Gemeinden nutzen können, um selbsttragend zu sein, und so ein Umfeld zu schaffen, in dem alle (Beitragende, Geldgeber\*innen und Sponsor\*innen) konkrete Vorteile daraus ziehen können.
+  
+  _Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it._
+  
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
   </p>
 </aside>
 
-If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.org/), the Python package manager, and the [Node.js Foundation](https://nodejs.org/en/foundation/) helps support [Express.js](https://expressjs.com/), a Node-based framework.
+Wenn Ihr Projekt spezifisch für eine bestimmte Programmiersprache oder ein bestimmtes Ökosystem gedacht ist, kann es auch eine entsprechende Software-Stiftung geben, mit der Sie zusammenarbeiten können. So unterstützt beispielsweise die [Python Software Foundation](https://www.python.org/psf/) den Paketmanager [PyPI](https://pypi.org/), und die [Node.js-Foundation](https://foundation.nodejs.org/) unterstützt das Node-basierte Framework [Express.js](https://expressjs.com/).
