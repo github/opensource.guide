@@ -170,7 +170,7 @@ Wenn Sie Neuankömmlingen helfen, Ressourcen gemeinsam nutzen und durchdachte Be
   The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
 
   <p markdown="1" class="pquote-credit">
-— @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+— @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
 </aside>
 

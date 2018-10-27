@@ -178,4 +178,4 @@ Längerfristig kann Ihre Rechtsabteilung mehr tun, um dem Unternehmen zu helfen,
 </aside>
 
 * **Patente:** Ihr Unternehmen kann dem [Open Invention Network](https://www.openinventionnetwork.com/) beitreten: Einem gemeinsamen defensiven Patent-Pool, um die Nutzung großer Open-Source-Projekte durch Mitglieder zu schützen, oder kann andere [alternative Patentlizenzen](https://www.eff.org/document/hacking-patent-system-2016) in Betracht ziehen.
-* **Governance:** Vor allem, wenn es sinnvoll ist, ein Projekt in eine [juristische Person außerhalb des Unternehmens](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project) zu verlegen.
+* **Governance:** Vor allem, wenn es sinnvoll ist, ein Projekt in eine [juristische Person außerhalb des Unternehmens](../leadership-and-governance/#brauche-ich-für-mein-projekt-eine-juristische-person) zu verlegen.

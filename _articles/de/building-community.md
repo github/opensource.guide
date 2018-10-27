@@ -134,7 +134,7 @@ Tun Sie Ihr Bestes, um eine Null-Toleranz-Politik gegenüber solchen Leuten zu v
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
 
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
+— @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
