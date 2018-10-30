@@ -41,7 +41,7 @@ Sebagai perbandingan, sebuah proses yang tertutup akan seperti dimana Anda pergi
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   Salah satu pengalaman yang paling berharga dengan menggunakan dan berkolaborasi pada open source datang dari relasi yang saya bangun dengan pengembang yang lain ketika menghadapi masalah yang sama seperti yang saya alami.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
+— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80)
   </p>
 </aside>
 
@@ -85,7 +85,7 @@ Jika tujuan akhir Anda adalah untuk menunjukkan hasil pekerjaan Anda, Anda mungk
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
   Pada suatu titik saya menciptakan UIAlertView hasil modifikasi yang saya gunakan...dan saya memutuskan untuk membuatnya menjadi open source. Lalu saya memodifikasinya menjadi lebih dinamis dan menyimpannya di GitHub. Saya menulis dokumentasi pertama saya dengan menjelaskan kepada pengembang lain bagaimana untuk menggunakannya pada proyek mereka. Mungkin saja tidak ada orang lain yang akan menggunakannya karena merupakan proyek sederhana, tetapi saya memiliki perasaan yang baik tentang kontribusi yang saya lakukan.
   <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
 </aside>
 
@@ -205,7 +205,7 @@ Hubungkan dokumen CONTRIBUTING dari README, sehingga lebih banyak orang yang mel
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   Kita semua pernah memiliki pengalaman dimana kita dihadapkan dengan penyalahgunaan, baik sebagai pengelola yang menjelaskan kenapa sesuatu harus dilakukan dengan cara tertentu, atau sebagai pengguna...bertanya sebuah pertanyaan sederhana. (...) Kode etik merupakan dokumen yang mudah untuk dijadikan referensi yang mengindikasikan bahwa tim Anda sangat memperhatikan wacana yang bersifat membangun.
   <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
+— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
 </aside>
 

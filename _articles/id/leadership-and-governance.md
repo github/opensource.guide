@@ -157,7 +157,7 @@ Banyak proyek tidak ingin kerepotan untuk membuat nirlaba, sehingga mereka menca
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Tujuan kami adalah menyediakan infrastruktur yang bisa digunakan oleh komunitas untuk pengelolaan mandiri, sehingga menciptakan sebuah lingkungan dimana setiap orang - kontributor, pendukung, sponsor - bisa menerima keuntungan yang jelas.
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
+— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 

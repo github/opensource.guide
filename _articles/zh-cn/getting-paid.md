@@ -59,7 +59,7 @@ related:
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    开源软件为技术领域贡献了巨大的好处，其实，更准确的说是所有的行业。(...) 然而，如果仅仅是靠人们自身的痴迷和兴趣所致，那么很可能就没有开源的今天。
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["金钱与开源"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+— @isaacs, ["金钱与开源"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 

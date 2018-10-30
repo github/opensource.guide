@@ -59,7 +59,7 @@ Pekerjaan yang dibayar juga memungkinkan orang-orang dari berbagai latar belakan
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    OSS menghasilkan keuntungan yang besar pada industri teknologi, yang akan menguntungkan semua industri. (...) Namun, jika satu-satunya orang yang bisa berfokus padanya adalah orang yang beruntung dan terobsesi, maka terdapat potensi yang sangat besar.
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 

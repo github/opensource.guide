@@ -59,7 +59,7 @@ El trabajo pagado tambi&eacute;n habilita a todo tipo de personas a aportar sign
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    OSS obtiene beneficios mas&iacute;vos de la industria de la tecnolog&iacute;a, que, al mismo tiempo, significa beneficios para todas las industrias. (...) Por otro lado, si las &uacute;nicas personas que pueden concentrarse en ello son aquellas con suerte y obsesionadas, entonces hay un gran potencial no explotado.
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
