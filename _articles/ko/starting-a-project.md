@@ -45,7 +45,7 @@ related:
   </p>
 </aside>
 
-사람이나 조직이 프로젝트 소스를 공개하려는 데는 [여러 가지 이유](http://ben.balter.com/2015/11/23/why-open-source/)가 있습니다. 몇 가지 예는 다음과 같습니다:
+사람이나 조직이 프로젝트 소스를 공개하려는 데는 [여러 가지 이유](https://ben.balter.com/2015/11/23/why-open-source/)가 있습니다. 몇 가지 예는 다음과 같습니다:
 
 * **협업:** 오픈소스 프로젝트는 전 세계 누구나 변화를 수용 할 수 있습니다. [Exercism](https://github.com/exercism/)를 예시로 들면, 350명이 넘는 기여자가 참여하는 프로그래밍 연습 플랫폼입니다.
 
@@ -193,7 +193,7 @@ CONTRIBUTING 파일은 잠재 고객에게 프로젝트 참여 방법을 알려�
 
 시간이 지나면, 다른 자주 묻는 질문을 CONTRIBUTING 파일에 추가 할 수 있습니다. 이 정보를 적어두면 같은 질문을 반복해서 하는 사람들이 줄어들 것입니다.
 
-CONTRIBUTING 파일을 작성하는 데 도움이 필요하면, check out @nayafia의 [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 혹은 @mozilla의 ["How to Build a CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/)를 보십시오.
+CONTRIBUTING 파일을 작성하는 데 도움이 필요하면, check out @nayafia의 [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 혹은 @mozilla의 ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/)를 보십시오.
 
 README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 볼 수 있습니다. 만약 당신이 [CONTRIBUTING 파일을 프로젝트의 저장소에 두면](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub는 참여자가 이슈를 생성하거나 pull request를 열면 자동으로 파일에 연결됩니다.
 
@@ -256,13 +256,13 @@ You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) 
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["지속 가능한 오픈소스"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["지속 가능한 오픈소스"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
 따뜻하고 포괄적인 언어 (예를 들어 한 사람을 언급 할 때도 "그들"과 같이)를 사용하면, 이 프로젝트가 새로운 참여자에게 환영받는 느낌을 줄 수 있습니다. 많은 독자가 원어민이 아니기 때문에 간단한 언어에 충실하십시오.
 
-단어 작성 방법 이외에도, 코딩 스타일이 프로젝트 브랜드의 일부가 될 수도 있습니다. [Angular](https://github.com/johnpapa/angular-styleguide)와 [jQuery](http://contribute.jquery.org/style-guide/js/)는 엄격한 코딩 스타일과 가이드 라인을 가진 프로젝트의 두 가지 예시입니다.
+단어 작성 방법 이외에도, 코딩 스타일이 프로젝트 브랜드의 일부가 될 수도 있습니다. [Angular](https://github.com/johnpapa/angular-styleguide)와 [jQuery](https://contribute.jquery.org/style-guide/js/)는 엄격한 코딩 스타일과 가이드 라인을 가진 프로젝트의 두 가지 예시입니다.
 
 프로젝트를 시작할 때 스타일 가이드를 작성할 필요가 없으며, 어쨌든 다른 코딩 스타일을 프로젝트에 통합하는 것을 즐긴다는 것을 알 수 있습니다. 그러나 글쓰기와 코딩 스타일이 다른 유형의 사람들을 끌어 모으거나 방해 할 수있는 방법을 예상해야합니다. 프로젝트의 가장 초기 단계는 보고자하는 선례를 설정할 기회입니다.
 

@@ -112,7 +112,7 @@ Si vous recevez une contribution que vous ne voulez pas accepter, votre premièr
 
 Ne laissez pas une contribution indésirable ouverte parce que vous avez un sentiment de culpabilité ou que vous voulez être gentil. Au fil du temps, vos issues sans réponse et les PRs rendront le travail sur votre projet beaucoup plus stressant et intimidant.
 
-Il est préférable de fermer immédiatement les contributions que vous ne voulez pas accepter. Si votre projet souffre déjà d'un important retard, @steveklabnik propose des suggestions pour [comment trier efficacement les issues](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Il est préférable de fermer immédiatement les contributions que vous ne voulez pas accepter. Si votre projet souffre déjà d'un important retard, @steveklabnik propose des suggestions pour [comment trier efficacement les issues](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
 Deuxièmement, ignorer les contributions envoie un signal négatif à votre communauté. Contribuer à un projet peut être intimidant, surtout s'il s'agit de la première fois. Même si vous n'acceptez pas leur contribution, remerciez la personne derrière et remerciez-la de son intérêt. C'est un gros compliment!
 
@@ -188,7 +188,7 @@ Si vous avez besoin de quitter votre projet, que ce soit en pause ou en permanen
 
 Si d'autres personnes sont enthousiastes à l'égard de sa direction, donnez-leur l'autorisation de s'engager ou remettez officiellement le contrôle à quelqu'un d'autre. Si quelqu'un a forké votre projet et le maintient activement ailleurs, envisagez de créer un lien vers le fork de votre projet d'origine. C'est génial que tant de gens veulent que votre projet continue à vivre !
 
-@progrium [a trouvé que](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentant la vision de son projet, [Dokku](https://github.com/dokku/dokku), a aidé à atteindre ces objectifs même après s'être retiré du projet:
+@progrium [a trouvé que](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentant la vision de son projet, [Dokku](https://github.com/dokku/dokku), a aidé à atteindre ces objectifs même après s'être retiré du projet:
 
 > J'ai écrit une page wiki décrivant ce que je voulais et pourquoi je le voulais. Pour une raison ou une autre, j'ai été surpris de constater que les responsables ont commencé à faire avancer le projet dans cette direction ! Est-ce arrivé exactement comment je le ferais ? Pas toujours. Mais cela rapprochait encore le projet de ce que j'avais écrit.
 

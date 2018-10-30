@@ -127,7 +127,7 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
 
 ### ¿Te gusta ayudar a las personas?
 
-* Responde las preguntas acerca del proyecto en, por ejemplo, Stack Overflow ([como este ejemplo Postgres](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) o en reddit
+* Responde las preguntas acerca del proyecto en, por ejemplo, Stack Overflow ([como este ejemplo Postgres](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) o en reddit
 * Responde preguntas a las personas en los problemas abiertos
 * Ayuda a moderar los foros de discusi&oacute;n o canales de conversaci&oacute;n
 
@@ -212,17 +212,17 @@ El c&oacute;digo abierto no es un club exclusivo; est&aacute; hecho de personas 
 
 Puedes recorrer un archivo README y encontrar un v&iacute;nculo roto o un error tipogr&aacute;fico. O tal vez eres un nuevo usuario y te diste cuenta de que algo est&aacute; roto, o hay un problema que crees que realmente deber&iacute;a estar en la documentaci&oacute;n. En lugar de ignorarlo y continuar, o solicitar que &aacute;lguien lo solucione, observa si puedes ayudar lanz&aacute;ndote sobre &eacute;l. ¡De eso se trata el c&oacute;digo abierto!
 
-> [El 28% de las contribuciones casuales](http://www.igor.pro.br/publica/papers/saner2016.pdf) a la documentaci&oacute;n del c&oacute;digo abierto se trata de documentaci&oacute;n, como correcciones tipogr&aacute;ficas, reformateos o redacci&oacute;n de una traducci&oacute;n.
+> [El 28% de las contribuciones casuales](https://www.igor.pro.br/publica/papers/saner2016.pdf) a la documentaci&oacute;n del c&oacute;digo abierto se trata de documentaci&oacute;n, como correcciones tipogr&aacute;ficas, reformateos o redacci&oacute;n de una traducci&oacute;n.
 
 Puedes tambi&eacute;n utilizar algunos de los siguientes recursos para ayudarte a descubrir nuevos proyectos:
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](http://www.firsttimersonly.com/)
+* [First Timers Only](https://www.firsttimersonly.com/)
 * [Your First PR](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
-* [Up For Grabs](http://up-for-grabs.net/)
+* [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
 ### Una lista de verificaci&oacute;n antes de que contribuyas
@@ -375,7 +375,7 @@ Un proyecto que es amigable y acogedor indica que ser&aacute; receptivo de nuevo
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Siempre que veas un hilo largo, comprueba las respuestas de los principales desarrolladores que llegan m&aacute;s tarde al hilo. ¿Est&aacute;n resumiendo de forma constructiva y tomando medidas para llevar el hilo hacia una decisi&oacute;n y al mismo tiempo contin&uacute;an siendo educados? Si ves que se agitan banderas de guerra pasando en frente, frecuentemente indica que la energ&iacute;a se est&aacute; encaminando a discutir m&aacute;s que en desarrollar.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Produciendo Software de c&oacute;digo abierto_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Produciendo Software de c&oacute;digo abierto_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
