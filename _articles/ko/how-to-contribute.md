@@ -127,7 +127,7 @@ related:
 
 ### 사람들을 돕는 것을 좋아합니까?
 
-* 예를 들어, Stack Overflow의 ([Postgres 예시](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) 혹은 Reddit과 관련된 질문에 대답해주기
+* 예를 들어, Stack Overflow의 ([Postgres 예시](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) 혹은 Reddit과 관련된 질문에 대답해주기
 * 열린 이슈에서 사람들의 질문에 대답해주기
 * 토론 보드나 대화 채널의 관리 돕기
 
@@ -212,17 +212,17 @@ related:
 
 README를 스캔하여 깨진 링크 또는 오타를 찾을 수 있습니다. 또는 새로운 사용자이고 무언가가 고장 났거나, 실제로 문서에 있어야한다고 생각되는 문제를 발견했습니다. 그것을 무시하고 계속 나아가거나, 다른 사람에게 그것을 고치라고 요구하는 대신, 피칭을 통해 도움을 줄 수 있는지 확인하십시오. 오픈소스가 무엇인지 알아보십시오!
 
-> [일반적인 기여의 28%](http://www.igor.pro.br/publica/papers/saner2016.pdf)는 오타 수정, 서식 재 지정 또는 번역 작성과 같은 문서입니다.
+> [일반적인 기여의 28%](https://www.igor.pro.br/publica/papers/saner2016.pdf)는 오타 수정, 서식 재 지정 또는 번역 작성과 같은 문서입니다.
 
 또한 다음 리소스 중 하나를 사용하여 새 프로젝트를 찾고 기여할 수 있습니다.
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](http://www.firsttimersonly.com/)
+* [First Timers Only](https://www.firsttimersonly.com/)
 * [Your First PR](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
-* [Up For Grabs](http://up-for-grabs.net/)
+* [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
 ### A checklist before you contribute
@@ -375,7 +375,7 @@ README를 스캔하여 깨진 링크 또는 오타를 찾을 수 있습니다. �
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_OSS 생산_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_OSS 생산_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 

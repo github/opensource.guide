@@ -94,7 +94,7 @@ Si tu proyecto est&aacute; en GitHub, pod&eacute;s utilizar [ramas protegidas](h
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Cada vez que alguien te env&iacute;a un pull request, dales acceso de commit a tu proyecto. Si bien puede sonar incre&iacute;blemente tonto al principio, el uso de esta estrategia te permitir&aacute; liberar el verdadero poder de GitHub. (...) Una vez que las personas tienen acceso de commit, ya no est&aacute;n preocupados de que su parche pudiese quedar fuera de merge... haciendo que coloquen mucho m&aacute;s trabajo en &eacute;l.
   <p markdown="1" class="pquote-credit">
-— @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
+— @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
@@ -160,4 +160,4 @@ Muchos proyectos no desean pasar por la molestia de crear una organizaci&oacute;
   </p>
 </aside>
 
-Si tu proyecto est&aacute; estrechamente asociado con un determinado idioma o ecosistema, tambi&eacute;n puede haber un framework relacionado con el que pueda trabajar. Por ejemplo, la [Python Software Foundation](https://www.python.org/psf/) ayuda a [PyPI](https://pypi.org/), el gestor de paquetes de Python y el [Node.js Foundation](https://foundation.nodejs.org/) ayuda a apoyar [Express.js](http://expressjs.com/), un framework basado en nodos.
+Si tu proyecto est&aacute; estrechamente asociado con un determinado idioma o ecosistema, tambi&eacute;n puede haber un framework relacionado con el que pueda trabajar. Por ejemplo, la [Python Software Foundation](https://www.python.org/psf/) ayuda a [PyPI](https://pypi.org/), el gestor de paquetes de Python y el [Node.js Foundation](https://foundation.nodejs.org/) ayuda a apoyar [Express.js](https://expressjs.com/), un framework basado en nodos.
