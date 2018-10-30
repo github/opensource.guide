@@ -22,9 +22,9 @@ Ein Großteil der Open-Source-Arbeit wird ehrenamtlich geleistet, z.B. wenn jema
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
 
-  _Ich war auf der Suche nach einem Hobby-Programmierprojekt, mit dem ich mich während der Weihnachtswoche beschäftigen konnte. (...) Ich hatte einen Heimcomputer und nicht viel anderes an der Hand und entschied mich, einen Interpreter für die neue Skriptsprache zu schreiben, über die ich in letzter Zeit nachgedacht hatte. (...) Ich wählte Python als Arbeitstitel._
+  Ich war auf der Suche nach einem Hobby-Programmierprojekt, mit dem ich mich während der Weihnachtswoche beschäftigen konnte. (...) Ich hatte einen Heimcomputer und nicht viel anderes an der Hand und entschied mich, einen Interpreter für die neue Skriptsprache zu schreiben, über die ich in letzter Zeit nachgedacht hatte. (...) Ich wählte Python als Arbeitstitel.
 
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+  _I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title._
 
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
@@ -40,9 +40,9 @@ Es gibt viele Gründe, warum eine Person _nicht_ für ihre Open-Source-Arbeit be
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
 
-  _Finanzielle Zuwendungen bringen für manche ein Verantwortungsgefühl mit sich. (...) Es ist wichtig für uns, in der global vernetzten, schnelllebigen Welt, in der wir leben, sagen zu können: "Nicht jetzt. Ich mache lieber etwas ganz anderes."_
+  Finanzielle Zuwendungen bringen für manche ein Verantwortungsgefühl mit sich. (...) Es ist wichtig für uns, in der global vernetzten, schnelllebigen Welt, in der wir leben, sagen zu können: "Nicht jetzt. Ich mache lieber etwas ganz anderes."
 
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  _Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different"._
 
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
@@ -56,9 +56,9 @@ Populäre Projekte aufrecht zu erhalten, kann eine große Verantwortung sein, di
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
 
-  _Fragen Sie irgendeine\*n Open-Source-Projektbetreuer\*in, und sie oder er wird Ihnen sagen, wie viel Arbeit im Management eines Projekts steckt. Sie haben Kunden. Sie beheben Probleme für sie. Sie erschaffen neue Funktionen. Das alles wird zu einem echten Zeitaufwand._
+  Fragen Sie irgendeine\*n Open-Source-Projektbetreuer\*in, und sie oder er wird Ihnen sagen, wie viel Arbeit im Management eines Projekts steckt. Sie haben Kunden. Sie beheben Probleme für sie. Sie erschaffen neue Funktionen. Das alles wird zu einem echten Zeitaufwand.
 
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  _Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time._
 
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
@@ -70,9 +70,9 @@ Bezahlte Arbeit ermöglicht Leuten aus verschiedenen Lebenssituationen heraus, s
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
 
-  _OSS bringt massive Vorteile für die Technologieindustrie, was wiederum Vorteile für alle Branchen bedeutet. (...) Solange jedoch die einzigen Leute, die sich darauf konzentrieren können, die Glücklichen und die Besessenen sind, dann gibt es ein riesiges ungenutztes Potenzial._
+  OSS bringt massive Vorteile für die Technologieindustrie, was wiederum Vorteile für alle Branchen bedeutet. (...) Solange jedoch die einzigen Leute, die sich darauf konzentrieren können, die Glücklichen und die Besessenen sind, dann gibt es ein riesiges ungenutztes Potenzial.
 
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+  _OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential._
 
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
@@ -90,9 +90,9 @@ Es ist einfacher, sich für Open-Source-Arbeiten zu entscheiden, wenn Ihr Arbeit
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
 
-  _Wie viele Andere auch, kämpfte ich mit der Last, ein Open-Source-Projekt aufrechtzuerhalten. Als ich mit Open Source anfing, blieb ich lange auf Arbeit, um daran zu arbeiten, oder fing nach dem Feierabend direkt wieder an. (...) Mit meinem Chef besprach ich diese mir im Weg stehenden Probleme, aber weil wir Babel selbst nutzten, entwickelten wir Ideen, um die Open-Source-Aufgaben zu integrieren._
+  Wie viele Andere auch, kämpfte ich mit der Last, ein Open-Source-Projekt aufrechtzuerhalten. Als ich mit Open Source anfing, blieb ich lange auf Arbeit, um daran zu arbeiten, oder fing nach dem Feierabend direkt wieder an. (...) Mit meinem Chef besprach ich diese mir im Weg stehenden Probleme, aber weil wir Babel selbst nutzten, entwickelten wir Ideen, um die Open-Source-Aufgaben zu integrieren.
 
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+  _Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel._
 
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
@@ -114,9 +114,9 @@ Wenn Ihr Unternehmen diesen Weg einschlägt, ist es wichtig, die Grenzen zwische
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
 
-  _Die Arbeit an Open Source ist eine seltene und wunderbare Gelegenheit, aber Sie sollten dabei nicht auf Ihre Leidenschaft verzichten müssen. Denn die sollte der Grund für Ihre Bezahlung  durch ein Unternehmen sein._
+  Die Arbeit an Open Source ist eine seltene und wunderbare Gelegenheit, aber Sie sollten dabei nicht auf Ihre Leidenschaft verzichten müssen. Denn die sollte der Grund für Ihre Bezahlung  durch ein Unternehmen sein.
 
-  Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
+  _Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you._
 
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
@@ -205,7 +205,7 @@ Hat der Geldgeber irgendwelche Anforderungen an die Auszahlung? Müssen Sie beis
 
   Seit Jahren sind wir die führende Ressource für Webseiten-freundliche Icons; Mit einer Community von über 20 Millionen Menschen und auf über 70 Millionen Websites, einschließlich Whitehouse.gov. (...) Version 4 wurde vor drei Jahren veröffentlicht. Seitdem hat sich die Web-Technologie stark verändert, und offen gesagt: Font Awesome ist ein wenig abgestanden. (...) Deshalb führen wir Font Awesome 5 ein. Wir modernisieren und überarbeiten das CSS und entwerfen jedes Icon komplett neu. Damit erreichen wir ein besseres Design, bessere Konsistenz und bessere Lesbarkeit.
 
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  _For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability._
 
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)

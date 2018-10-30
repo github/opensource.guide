@@ -39,9 +39,9 @@ Tiefere Einblicke in das Thema "Botschaften", finden Sie in Mozillas ["Personas 
 
 <aside markdown="1" class="pquote">
 
-  _Am besten nutzen Sie eine einzige "Heimat"-Adresse im Internet, auf die Sie im Zusammenhang mit Ihrem Projekt aufmerksam machen können und auf die Sie Interessenten verweisen. Sie müssen kein großes Geld für ausgefallene Vorlagen oder gar einen Domainnamen hinblättern, aber Ihr Projekt braucht eine zentrale Anlaufstelle._
+  Am besten nutzen Sie eine einzige "Heimat"-Adresse im Internet, auf die Sie im Zusammenhang mit Ihrem Projekt aufmerksam machen können und auf die Sie Interessenten verweisen. Sie müssen kein großes Geld für ausgefallene Vorlagen oder gar einen Domainnamen hinblättern, aber Ihr Projekt braucht eine zentrale Anlaufstelle.
 
-  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+  _You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point._
 
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
@@ -57,9 +57,9 @@ Wenn Sie noch keine "Marktstände" für Ihr Projekt einrichten möchten, bewerbe
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
 
-  _Ein Fehler der frühen Tage (...) war, dass ich kein Twitter-Konto für das Projekt einrichtete. Twitter ist eine großartige Möglichkeit, die Leute auf dem Laufenden zu halten und sie ständig mit dem Projekt in Kontakt zu bringen._
+  Ein Fehler der frühen Tage (...) war, dass ich kein Twitter-Konto für das Projekt einrichtete. Twitter ist eine großartige Möglichkeit, die Leute auf dem Laufenden zu halten und sie ständig mit dem Projekt in Kontakt zu bringen.
 
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  _A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project._
 
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
@@ -85,9 +85,9 @@ Nutzen Sie die Vorteile bestehender Online-Communities und -Plattformen, um Ihr 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
 
-  _Jedes Programm verfügt über sehr spezifische Funktionen, die nur ein Bruchteil der Benutzer für nützlich hält: Spammen Sie nicht so viele Leute wie möglich zu, sondern richten Sie Ihre Bemühungen auf Gemeinschaften, die vom Kennenlernen Ihres Projekts profitieren._
+  Jedes Programm verfügt über sehr spezifische Funktionen, die nur ein Bruchteil der Benutzer für nützlich hält: Spammen Sie nicht so viele Leute wie möglich zu, sondern richten Sie Ihre Bemühungen auf Gemeinschaften, die vom Kennenlernen Ihres Projekts profitieren.
 
-  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+  _Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project._
 
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
@@ -115,9 +115,9 @@ Wenn Sie gerade erst anfangen, [Vorträge zu halten](http://speaking.io/), tun S
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
 
-  _Ich war ziemlich nervös, als ich zur PyCon ging. Ich hielt einen Vortrag; Ich wollte nur ein paar Leute dort kennenlernen; Ich wollte eine ganze Woche lang hingehen. (...) Ich hätte mir aber keine Sorgen machen müssen. (...) PyCon war phänomenal grandios! Alle waren unglaublich freundlich und kontaktfreudig, so sehr, dass ich selten Zeit fand, nicht mit Leuten zu reden!_
+  Ich war ziemlich nervös, als ich zur PyCon ging. Ich hielt einen Vortrag; Ich wollte nur ein paar Leute dort kennenlernen; Ich wollte eine ganze Woche lang hingehen. (...) Ich hätte mir aber keine Sorgen machen müssen. (...) PyCon war phänomenal grandios! Alle waren unglaublich freundlich und kontaktfreudig, so sehr, dass ich selten Zeit fand, nicht mit Leuten zu reden!
 
-  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+  _I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!_
 
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
@@ -131,9 +131,9 @@ Während Sie Ihren Vortrag ausarbeiten, konzentrieren Sie sich auf das für Ihr 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
 
-  _Wenn Du anfängst, Deinen Vortrag zu schreiben (Gleich über welches Thema!) kann es helfen, ihn als eine Geschichte anzusehen, die Du den Leuten erzählst._
+  Wenn Du anfängst, Deinen Vortrag zu schreiben (Gleich über welches Thema!) kann es helfen, ihn als eine Geschichte anzusehen, die Du den Leuten erzählst.
 
-  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+  _When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people._
 
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
@@ -147,9 +147,9 @@ Suchen Sie nach Konferenzen, die speziell auf Ihre Sprache oder Ihre Programmier
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
 
-  _Ich schrieb sehr nett an die JSConf-Leute und flehte sie an, mir einen Platz zu geben, sodass ich auf der JSConf EU präsentieren könnte. (...) Ich hatte große Angst, dieses Ding, an dem ich sechs Monate lang gearbeitet hatte, vorzustellen. (...) Die ganze Zeit dachte ich nur, oh mein Gott, was mache ich hier?_
+  Ich schrieb sehr nett an die JSConf-Leute und flehte sie an, mir einen Platz zu geben, sodass ich auf der JSConf EU präsentieren könnte. (...) Ich hatte große Angst, dieses Ding, an dem ich sechs Monate lang gearbeitet hatte, vorzustellen. (...) Die ganze Zeit dachte ich nur, oh mein Gott, was mache ich hier?
 
-  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
+  _I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?_
 
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
@@ -165,9 +165,9 @@ Wenn Sie Neuankömmlingen helfen, Ressourcen gemeinsam nutzen und durchdachte Be
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
 
-  _Urllib3 ist nur darum die populärste Python-Bibliothek eines Drittanbieters, weil ihr Einbau mittels so vieler Pull-Requests vorgeschlagen wird._
+  Urllib3 ist nur darum die populärste Python-Bibliothek eines Drittanbieters, weil ihr Einbau mittels so vieler Pull-Requests vorgeschlagen wird.
 
-  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+  _The only reason urllib3 is the most popular third-party Python library today is because it's part of requests._
 
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
@@ -181,9 +181,9 @@ Ein Publikum aufzubauen, schafft man nicht über Nacht. Das Vertrauens und den R
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
 
-  _PhantomJS wurde Anfang 2011 zum ersten Mal veröffentlicht. (...) Ich verkündete dies auf die übliche Art und Weise: Ich twitterte darüber, ich schrieb Blog-Posts über Dinge, die man damit machen könnte, ich erwähnte es in verschiedenen Diskussionen in Meetups. Als es 2014 bekannter wurde, fing ich an, Vorträge darüber zu halten._
+  PhantomJS wurde Anfang 2011 zum ersten Mal veröffentlicht. (...) Ich verkündete dies auf die übliche Art und Weise: Ich twitterte darüber, ich schrieb Blog-Posts über Dinge, die man damit machen könnte, ich erwähnte es in verschiedenen Diskussionen in Meetups. Als es 2014 bekannter wurde, fing ich an, Vorträge darüber zu halten.
 
-  PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
+  _PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it._
 
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)

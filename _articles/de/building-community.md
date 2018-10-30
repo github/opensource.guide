@@ -63,7 +63,7 @@ Andere zur Mitarbeit zu ermutigen, ist auch eine Investition in sich selbst: Wen
 
   Waren Sie schon einmal auf einer (Technik-)Veranstaltung, auf der Sie niemanden kannten, aber alle anderen schienen in Gruppen zu stehen und wie alte Freunde zu plaudern? (...) Jetzt stellen Sie sich vor, Sie wollen zu einem Open-Source-Projekt beitragen, aber Sie sehen nicht, warum oder wie das passiert.
 
-  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
+  _Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening._
 
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
@@ -131,7 +131,7 @@ Tun Sie Ihr Bestes, um eine Null-Toleranz-Politik gegenüber solchen Leuten zu v
 
   Es ist wahrlich wichtig, eine unterstützende Gemeinschaft zu haben. Ohne die Hilfe meiner Kollegen\*innen, freundlicher Fremder aus dem Internet und gesprächiger IRC-Kanäle wäre ich nie in der Lage, diese Arbeit zu tun. (...) Geben Sie sich nicht mit weniger zufrieden. Geben Sie sich nicht mit Arschlöchern zufrieden.
 
-  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
+  _The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes._
 
   <p markdown="1" class="pquote-credit">
 — @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
@@ -169,7 +169,7 @@ Zum Beispiel: [Rubinius](https://github.com/rubinius/rubinius/) beginnt [den Kon
 
   Ihre Projektverantwortlichen werden unterschiedliche Meinungen haben, wie es in allen gesunden Gemeinschaften üblich sein sollte. Sie müssen jedoch dafür sorgen, dass nicht immer die lauteste Stimme gewinnt, weil sie andere Leute ermüdet, und dass weniger prominente Stimmen und Minderheitsmeinungen ebenfalls zu hören sind.
 
-  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
+  _Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard._
 
   <p markdown="1" class="pquote-credit">
 — @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
@@ -199,9 +199,9 @@ Während Sie vielleicht nicht immer Leute finden, die einem Aufruf folgen, erhö
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
 
-  _\[Es liegt in Deinem Interesse\], Mitwirkende zu rekrutieren, die Spaß daran haben und fähig sind, die Aufgaben zu erledigen, die Du nicht schaffst. Wenn Sie gerne programmieren, aber keine Issues beantworten möchten, dann identifizieren Sie die Personen in Ihrem Projekt, die es möchte, und lassen Sie sie einfach machen._
+  \[Es liegt in Deinem Interesse\], Mitwirkende zu rekrutieren, die Spaß daran haben und fähig sind, die Aufgaben zu erledigen, die Du nicht schaffst. Wenn Sie gerne programmieren, aber keine Issues beantworten möchten, dann identifizieren Sie die Personen in Ihrem Projekt, die es möchte, und lassen Sie sie einfach machen.
 
-  \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
+  _\[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it._
 
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
@@ -225,9 +225,9 @@ Ihre Aufgabe als Maintainer\*in ist es, solche Situationen vor einer Eskalation 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
 
-  _Als Projektbetreuer\*in ist es äußerst wichtig, dass Sie Ihren Mitwirkenden gegenüber respektvoll sind, denn sie nehmen das, was Sie sagen, oft sehr persönlich._
+  Als Projektbetreuer\*in ist es äußerst wichtig, dass Sie Ihren Mitwirkenden gegenüber respektvoll sind, denn sie nehmen das, was Sie sagen, oft sehr persönlich.
 
-  As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
+  _As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally._
 
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
@@ -255,9 +255,9 @@ Im Rahmen der Konsensfindungsprozesses diskutieren die Mitglieder der Gemeinscha
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
 
-  _Für Atom-Issues gibt es kein Abstimmungssystem, weil z.B. das Atom-Team nicht in allen Fällen einem Abstimmungssystem folgen würde. Manchmal müssen wir uns für etwas entscheiden, das wir für richtig halten, auch wenn es unbeliebt ist. (...) Was ich anbieten und versprechen kann: Es ist meine Aufgabe, der Community zuzuhören._
+  Für Atom-Issues gibt es kein Abstimmungssystem, weil z.B. das Atom-Team nicht in allen Fällen einem Abstimmungssystem folgen würde. Manchmal müssen wir uns für etwas entscheiden, das wir für richtig halten, auch wenn es unbeliebt ist. (...) Was ich anbieten und versprechen kann: Es ist meine Aufgabe, der Community zuzuhören.
 
-  Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do (...) is that it is my job to listen to the community.
+  _Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do (...) is that it is my job to listen to the community._
 
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
@@ -285,9 +285,9 @@ Wenn eine Diskussion offensichtlich nirgendwo hinführt, es keine klaren Maßnah
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
 
-  _Eine Diskussion unaufdringlich zu einem nützlichen Ziel zu führen, ist eine Kunst. Es wird nicht funktionieren, Menschen einfach zu ermahnen, Ihre Zeit nicht mehr zu verschwenden, oder sie zu bitten, nicht zu posten, wenn sie nichts Konstruktives zu sagen haben. (...) Stattdessen müssen Sie Bedingungen für weitere Fortschritte vorschlagen: Zeigen Sie den Menschen einen Weg auf, der zu den Ergebnissen führt, die Sie wollen, aber ohne zu diktieren, wie Sie sich verhalten._
+  Eine Diskussion unaufdringlich zu einem nützlichen Ziel zu führen, ist eine Kunst. Es wird nicht funktionieren, Menschen einfach zu ermahnen, Ihre Zeit nicht mehr zu verschwenden, oder sie zu bitten, nicht zu posten, wenn sie nichts Konstruktives zu sagen haben. (...) Stattdessen müssen Sie Bedingungen für weitere Fortschritte vorschlagen: Zeigen Sie den Menschen einen Weg auf, der zu den Ergebnissen führt, die Sie wollen, aber ohne zu diktieren, wie Sie sich verhalten.
 
-  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
+  _Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct._
 
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)

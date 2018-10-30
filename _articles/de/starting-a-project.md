@@ -205,7 +205,7 @@ Beispielsweise leitet [Active Admin](https://github.com/activeadmin/activeadmin/
 
 > Zuerst einmal vielen Dank, dass Sie überlegt haben, einen Beitrag zu Active Admin zu leisten, denn es sind Menschen wie Sie, die Active Admin so großartig machen.
 >
-> _First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool._
+> First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
 
 In der Anfangsphase Ihres Projekts kann Ihre CONTRIBUTING-Datei einfach sein. Sie sollten immer erklären, wie Fehler oder Probleme gemeldet werden können und welche technischen Anforderungen (z.B. Tests) Leute erfüllen müssen, um einen Beitrag zu leisten.
 
