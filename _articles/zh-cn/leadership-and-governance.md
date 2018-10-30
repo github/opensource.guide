@@ -97,7 +97,7 @@ related:
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   无论什么时候，都会有人向你发送pull request，所以将你的项目开放提交访问。这看起来是有些不够明智，使用此策略能让你释放GitHub的真正威力。(...)一旦人们拥有了提交访问权,他们不再担心他们的补丁可能不会被合并.....这会让他们做的更多。
   <p markdown="1" class="pquote-credit">
-— @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
+— @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
@@ -163,4 +163,4 @@ related:
   </p>
 </aside>
 
-如果你的项目是和某特定的语言或生态系统紧密相连的，那么你可以直接在相关的软件基金会下工作。例如，[Python 软件基金会](https://www.python.org/psf/) 就帮衬着项目 [PyPI](https://pypi.org/)，这是一块优秀的Python包管理器，又比如[Node.js 基金会](https://foundation.nodejs.org/) 支撑着 [Express.js](http://expressjs.com/)，一款基于Node的框架。
+如果你的项目是和某特定的语言或生态系统紧密相连的，那么你可以直接在相关的软件基金会下工作。例如，[Python 软件基金会](https://www.python.org/psf/) 就帮衬着项目 [PyPI](https://pypi.org/)，这是一块优秀的Python包管理器，又比如[Node.js 基金会](https://foundation.nodejs.org/) 支撑着 [Express.js](https://expressjs.com/)，一款基于Node的框架。

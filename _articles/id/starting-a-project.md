@@ -45,7 +45,7 @@ Sebagai perbandingan, sebuah proses yang tertutup akan seperti dimana Anda pergi
   </p>
 </aside>
 
-[Terdapat banyak alasan](http://ben.balter.com/2015/11/23/why-open-source/) kenapa seseorang atau sebuah organisasi ingin membuka proyek open source. Beberapa diantaranya meliputi:
+[Terdapat banyak alasan](https://ben.balter.com/2015/11/23/why-open-source/) kenapa seseorang atau sebuah organisasi ingin membuka proyek open source. Beberapa diantaranya meliputi:
 
 * **Kolaborasi:** Proyek open source bisa menerima perubahan dari siapapun juga di seluruh dunia. [Exercism](https://github.com/exercism/), sebagai contoh, adalah kerangka latihan pemrograman dengan lebih dari 350 kontributor.
 
@@ -193,7 +193,7 @@ Pada fase awal dari proyek Anda, dokumen CONTRIBUTING bisa sangat sederhana. And
 
 Seiring dengan berjalannya waktu, Anda bisa menambahkan pertanyaan yang paling sering ditanyakan pada dokumen CONTRIBUTING. Menuliskan informasi ini berarti lebih sedikit orang yang akan bertanya pertanyaan yang sama kepada Anda berulang kali.
 
-Untuk bantuan tentang penulisan dokumen CONTRIBUTING, silahkan lihat  [template panduan berkontribusi](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) milik @nayafia atau ["Bagaimana Membangun Dokumen CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/) milik @mozilla.
+Untuk bantuan tentang penulisan dokumen CONTRIBUTING, silahkan lihat  [template panduan berkontribusi](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) milik @nayafia atau ["Bagaimana Membangun Dokumen CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) milik @mozilla.
 
 Hubungkan dokumen CONTRIBUTING dari README, sehingga lebih banyak orang yang melihatnya. Jika Anda [meletakkan dokumen CONTRIBUTING pada repositori proyek](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub akan secara otomatis menghubungkan ke dokumen Anda ketika seorang kontributor membuat sebuah laporan masalah atau membuat pull request.
 
@@ -256,13 +256,13 @@ Baik dokumentasi resmi atau email sehari-hari, gaya penulisan Anda merupakan bag
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Saya berusaha untuk ikut terlibat pada setiap diskusi pada mailing list, dan memberikan contoh panutan, bertindak baik kepada orang-orang, menganggap masalah mereka sebagai sesuatu yang serius, dan berusaha untuk membantu. Setelah beberapa waktu, orang-orang tidak hanya berhenti karena ada masalah, namun juga ikut membantu, dan mereka mengikuti gaya saya.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
 Menggunakan bahasa yang hangat, inklusif (seperti "mereka", meskipun mengacu pada satu orang) bisa membuat proyek Anda lebih nyaman bagi kontributor baru. Gunakan bahasa sederhana, karena bisa jadi banyak pengguna Anda bukan merupakan pengguna yang menggunakan bahasa Inggris sehari-harinya.
 
-Selain bagaimana Anda menuliskan kata-kata, gaya pemrograman Anda juga bisa menjadi bagian dari citra proyek Anda. [Angular](https://github.com/johnpapa/angular-styleguide) dan [jQuery](http://contribute.jquery.org/style-guide/js/) adalah dua contoh proyek dengan gaya pemrograman dan panduan yang lengkap.
+Selain bagaimana Anda menuliskan kata-kata, gaya pemrograman Anda juga bisa menjadi bagian dari citra proyek Anda. [Angular](https://github.com/johnpapa/angular-styleguide) dan [jQuery](https://contribute.jquery.org/style-guide/js/) adalah dua contoh proyek dengan gaya pemrograman dan panduan yang lengkap.
 
 Tidaklah penting untuk menuliskan gaya penulisan untuk proyek Anda ketika Anda baru memulainya dan Anda mungkin senang untuk mencoba beberapa gaya pemrograman pada proyek Anda. Tetapi Anda perlu mengantisipasi bagaimana penulisan dan pemrograman Anda bisa memikat orang atau malah membuat orang untuk menghindari proyek Anda. Tahap awal dari proyek Anda adalah kesempatan untuk menentukan arah yang Anda tuju.
 

@@ -45,7 +45,7 @@ Realicemos una comparaci&oacute;n: un proceso de c&oacute;digo cerrado ser&iacut
   </p>
 </aside>
 
-[Hay muchas razones](http://ben.balter.com/2015/11/23/why-open-source/) por las cuales una persona u organizaci&oacute;n querr&iacute;an involucrarse en un proyecto de c&oacute;digo abierto. Algunos ejemplos son:
+[Hay muchas razones](https://ben.balter.com/2015/11/23/why-open-source/) por las cuales una persona u organizaci&oacute;n querr&iacute;an involucrarse en un proyecto de c&oacute;digo abierto. Algunos ejemplos son:
 
 * **Colaboraci&oacute;n:** Los proyectos de c&oacute;digo abierto pueden aceptar cambios efectuados por cualquier persona alrededor del mundo. [Exercism](https://github.com/exercism/), por ejemplo, una plataforma para ejercicios de programaci&oacute;n con m&aacute;s de 350 colaboradores.
 
@@ -193,7 +193,7 @@ En las primeras etapas del proyecto, tu archivo CONTRIBUITNG puede ser simple. S
 
 Con el tiempo, quiz&aacute;s debas agregar otras "preguntas frecuentes" a tu archivo. Escribir &eacute;sta informaci&oacute;n significa que menos personas te preguntar&aacute;n nuevamente la misma pregunta.
 
-Para m&aacute;s informaci&oacute;n sobre este tema, puedes acceder a @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) o @mozilla's ["How to Build a CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/).
+Para m&aacute;s informaci&oacute;n sobre este tema, puedes acceder a @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) o @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
 Vincula tu CONTRIBUTING desde tu README, as&iacute; m&aacute;s personas pueden verlo.Si tu [colocas el archivo en tu repositorio](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub autom&aacute;ticamente lo vincular&aacute; cuando un contribuyente cree un issue o abra un pull request.
 
@@ -256,13 +256,13 @@ Ya sea documentaci&oacute;n oficial como casual (un email), tu estilo de redacci
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   He tratado de involucrarme con cada hilo del listado de emails, y mostrando un comportamiento ejemplar, siendo agradable con las personas, tomando sus issues seriamente y tratando de ser de ayuda por sobre todo. Despu&eacute;s de un tiempo las personas no solo me buscaban para hacerme preguntas si no para ayudarme a responderlas, y, para mi sorpresa, imitaban mi estilo.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
 Usando un lenguaje inclusivo, puede ir lejos haciendo que tus proyectos reciban de forma m&aacute;s c&aacute;lida a los nuevos participantes. Mant&eacute;n un lenguaje simple.
 
-Luego de c&oacute;mo expresarte, tu estilo a la hora de codificar puede ser importante tambi&eacute;n. [Angular](https://github.com/johnpapa/angular-styleguide) y [jQuery](http://contribute.jquery.org/style-guide/js/) son ejemplos de proyectos con un riguroso trato en este sentido.
+Luego de c&oacute;mo expresarte, tu estilo a la hora de codificar puede ser importante tambi&eacute;n. [Angular](https://github.com/johnpapa/angular-styleguide) y [jQuery](https://contribute.jquery.org/style-guide/js/) son ejemplos de proyectos con un riguroso trato en este sentido.
 
 No es necesario escribir una "gu&iacute;a de estilo" para tus proyectos cuando reci&eacute;n est&aacute;s comenzando, y quiz&aacute;s hasta descubras que disfrutas al incorporar distintos estilos de codificaci&oacute;n en tu proyecto. Pero deber&iacute;as anticiparte y definir c&oacute;mo tu redacci&oacute;n y estilo de codificaci&oacute;n puede atraer o no a distintos tipos de personas. Define esto al comienzo.
 

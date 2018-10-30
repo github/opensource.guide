@@ -127,7 +127,7 @@ related:
 
 ### 热衷于帮助他人？
 
-* 回答关于项目的问题，例如在 Stack Overflow（[像 Postgres 的这个示例](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-to-ge)）或者 reddit 上
+* 回答关于项目的问题，例如在 Stack Overflow（[像 Postgres 的这个示例](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-to-ge)）或者 reddit 上
 * 为人们解答公开的问题
 * 帮助缓和讨论板或对话渠道
 
@@ -212,17 +212,17 @@ related:
 
 你或许在查看 README的时候，发现了损坏的链接，又或者拼写错误。又或者是你是一名新手，使用的过程中发现了问题，又或者是某问题应该在文档中注明。请不要坐视不理，径直绕开，或者是请求他人修复，伸出你的援助之手，解决这些你能看到的问题。而这正是开源的精髓之所在！
 
-> [28% 的随意贡献](http://www.igor.pro.br/publica/papers/saner2016.pdf) 就是说明了文档的开源，诸如拼写错误，段落语句调整、或者是翻译。
+> [28% 的随意贡献](https://www.igor.pro.br/publica/papers/saner2016.pdf) 就是说明了文档的开源，诸如拼写错误，段落语句调整、或者是翻译。
 
 你也可以利用如下列出的资源来找到合适的新项目：
 
 * [GitHub 探索](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](http://www.firsttimersonly.com/)
+* [First Timers Only](https://www.firsttimersonly.com/)
 * [你的第一个 PR](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
-* [Up For Grabs](http://up-for-grabs.net/)
+* [Up For Grabs](https://up-for-grabs.net/)
 * [像忍者一样贡献](https://contributor.ninja)
 
 ### A checklist before you contribute
@@ -375,7 +375,7 @@ related:
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   当你看到一个很长的对话时，来自核心开发者的零星的响应排在列表的后面。你就得考虑，他们在作建设性的总结？是否保持风度的情况下做出最后的决定？如果你看到的是更多的口水仗，而且还在继续，这通常意味着社区的能量重心已经不在开发上了。
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_开源软件生产力_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_开源软件生产力_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 

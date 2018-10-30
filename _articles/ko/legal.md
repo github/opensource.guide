@@ -56,7 +56,7 @@ GitHub에서 새로운 프로젝트를 만들 때, [라이선스를 추가할 �
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
   <p markdown="1" class="pquote-credit">
-— @benbalter, ["정부 변호인이 오픈소스 소프트웨어&nbsp;라이선스에 대해 알아야할 모든 것"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+— @benbalter, ["정부 변호인이 오픈소스 소프트웨어&nbsp;라이선스에 대해 알아야할 모든 것"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 

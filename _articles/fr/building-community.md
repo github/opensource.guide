@@ -58,7 +58,7 @@ Encourager les autres contributeurs est un investissement en vous aussi. Lorsque
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Avez-vous déjà assisté à un événement (technique) où vous ne connaissiez personne, mais tout le monde semblait se tenir en groupe et discuter comme de vieux amis? (...) Maintenant, imaginez que vous voulez contribuer à un projet open source, mais vous ne voyez pas pourquoi ou comment cela se passe.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -152,7 +152,7 @@ Par exemple, voici comment [Rubinius](https://github.com/rubinius/rubinius/) com
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
   Vos leaders auront des opinions différentes, comme devraient le faire toutes les communautés en bonne santé ! Cependant, vous devez prendre des mesures pour vous assurer que la voix la plus forte ne gagne pas toujours en fatiguant les gens, et que des voix moins importantes et minoritaires soient entendues.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sarahsharp, ["What makes a good community?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -254,7 +254,7 @@ Si une conversation ne va clairement nulle part, il n'y a pas de mesures claires
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Guider un fil vers l'utilité sans être arriviste est un art. Cela ne servira pas simplement à exhorter les gens à cesser de perdre leur temps, ou à leur demander de ne pas afficher, à moins qu'ils aient quelque chose de constructif à dire. (...) Au lieu de cela, vous devez suggérer des conditions pour de nouveaux progrès: donner aux gens un itinéraire, un chemin à suivre qui mène aux résultats que vous voulez, mais sans donner l'impression que vous dictez une conduite.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 

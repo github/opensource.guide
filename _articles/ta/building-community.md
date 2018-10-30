@@ -58,7 +58,7 @@ related:
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   நீங்கள் யாரையும் தெரியாத இடத்தில் (தொழில்நுட்ப-) நிகழ்வில் எப்போதாவது இருந்திருக்கிறீர்களா, ஆனால் எல்லோரும் குழுக்களில் நின்றுக்கொண்டு பழைய நண்பர்களைப் போல் அரட்டை அடிக்கிறார்களா? (...) Nஇப்போது நீங்கள் ஒரு திறந்த மூல திட்டத்தில் பங்களிப்பு செய்ய விரும்புகிறீர்கள் என்று கற்பனை செய்யுங்கள், ஆனால் இது ஏன் அல்லது எப்படி நடக்கிறது என்பதை நீங்கள் பார்க்கவில்லை.
   <p markdown="1" class="pquote-credit">
-— @janl, ["நிலையான திறந்த மூலம்"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["நிலையான திறந்த மூலம்"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -152,7 +152,7 @@ related:
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
   உங்கள் தலைவர்கள் வித்தியாசமான கருத்துக்களைக் கொண்டிருக்கலாம், அனைத்து ஆரோக்கியமான சமூகங்களைப் போல! எனினும், உரத்த குரல் எப்போதும் மக்கள் சோர்வாகி வெளியேறவும் மூலம் வெற்றி பெறவில்லை என உறுதி செய்ய நடவடிக்கை எடுக்க வேண்டும், மற்றும் குறைந்த முக்கிய மற்றும் சிறுபான்மை குரல்கள் கேட்கப்பட வேண்டும்.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["என்ன ஒரு நல்ல சமூகத்தை உருவாக்குகிறது?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sarahsharp, ["என்ன ஒரு நல்ல சமூகத்தை உருவாக்குகிறது?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -254,7 +254,7 @@ related:
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   உந்துதல் இல்லாமல் ஒரு பிரியை பயன் தரும்படி வழிகாட்டுதல் ஒரு கலை. மக்கள் தங்கள் நேரத்தை வீணடிக்க வேண்டாம் என்று அறிவுறுத்துவது, அல்லது சொல்வதற்கு ஆக்கபூர்வமான ஒன்றை வைத்திருந்தாலன்றி, அவற்றை இடுகையிடத் தேவையில்லை. (...) அதற்கு பதிலாக, நீங்கள் இன்னும் முன்னேற்ற நிலைமைகள் பரிந்துரைக்க வேண்டும்: மக்கள் ஒரு வழி கொடுங்கள், நீங்கள் விரும்பும் முடிவை அடைய வழிவகுக்க என்று ஒரு பாதை, ஆனால் நீங்கள் நடத்தை ஆணையிடுவது போல் இருக்காது.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_OSS உருவாக்குதல்_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_OSS உருவாக்குதல்_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 

@@ -95,7 +95,7 @@ Jika proyek Anda berada pada GitHub, Anda bisa menggunakan [protected branches](
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Ketika seseorang mengirimkan sebuah pull request, berikan mereka akses commit pada proyek Anda. Meskipun tampaknya hal bodoh pada awalnya, menggunakan strategi ini akan memaksimalkan kekuatan utama dari GitHub. (...) Setelah orang-orang memiliki akses commit, mereka tidak lagi khawatir bahwa perubahan mereka tidak akan digunakan...hal ini akan membuat mereka bekerja lebih keras pada perubahan yang diusulkan.
   <p markdown="1" class="pquote-credit">
-— @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
+— @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
@@ -161,4 +161,4 @@ Banyak proyek tidak ingin kerepotan untuk membuat nirlaba, sehingga mereka menca
   </p>
 </aside>
 
-Jika proyek Anda sangat erat hubungannya dengan bahasa atau ekosistem tertentu, seringkali terdapat yayasan yang bisa Anda ajak kerjasama. Sebagai contoh, [Python Software Foundation](https://www.python.org/psf/) membantu [PyPI](https://pypi.org/), Python package manager, dan [Node.js Foundation](https://foundation.nodejs.org/) membantu [Express.js](http://expressjs.com/), framework berbasis Node.
+Jika proyek Anda sangat erat hubungannya dengan bahasa atau ekosistem tertentu, seringkali terdapat yayasan yang bisa Anda ajak kerjasama. Sebagai contoh, [Python Software Foundation](https://www.python.org/psf/) membantu [PyPI](https://pypi.org/), Python package manager, dan [Node.js Foundation](https://foundation.nodejs.org/) membantu [Express.js](https://expressjs.com/), framework berbasis Node.
