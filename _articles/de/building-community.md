@@ -122,7 +122,7 @@ Eine Gemeinschaft kann sehr kraftvoll sein. Dies kann zu Segen und Fluch werden,
 
 ### Dulden Sie keine destruktiven Akteure
 
-Jedes populäre Projekt wird unweigerlich Menschen anziehen, die Ihrer Gemeinschaft mehr schaden als helfen. Bspw. indem Sie können unnötige Debatten starten, über triviale Dinge streiten oder andere schikanieren.
+Jedes populäre Projekt wird unweigerlich Menschen anziehen, die Ihrer Gemeinschaft mehr schaden als helfen. Beispielsweise indem Sie können unnötige Debatten starten, über triviale Dinge streiten oder andere schikanieren.
 
 Tun Sie Ihr Bestes, um eine Null-Toleranz-Politik gegenüber solchen Leuten zu verfolgen. Denn wenn obiges Verhalten unsanktioniert bleibt, werden andere Kontributor\*innen sich genervt fühlen und evtl. sogar Ihr Projekt verlassen.
 

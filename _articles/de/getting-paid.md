@@ -65,7 +65,7 @@ Populäre Projekte aufrecht zu erhalten, kann eine große Verantwortung sein, di
   </p>
 </aside>
 
-Bezahlte Arbeit ermöglicht Leuten aus verschiedenen Lebenssituationen heraus, sinnvolle Beiträge zu leisten. Manche Menschen können es sich eben nicht leisten, unbezahlte Zeit für Open-Source-Projekte aufzuwenden, z.B. weil ihre finanzielle Situation, Schulden, Familien- oder anderen Betreuungspflichten dies nicht zulassen. D.h. die möglichen Beiträge von talentierten Menschen, die es sich ehrenamtliche Arbeitszeit nicht leisten können, würden nie das Licht der Welt erblicken. Dies hat ethische Implikationen, wie @ashedryden [beschreibt](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), da die Beiträge, die das Licht der Welt erblicken, eher zu Gunsten derjenigen tendieren, die bereits Vorteile im Leben haben. Und sie diese aufgrund ihrer freiwilligen Beiträge weiter ausbauen können, während Andere, die nicht zu freiwilligem Engagement in der Lage sind, auch daraus keine Vorteile ziehen können. Dies wiederum verstärkt den derzeitigen Mangel an Vielfalt in der Open-Source-Welt.
+Bezahlte Arbeit ermöglicht Leuten aus verschiedenen Lebenssituationen heraus, sinnvolle Beiträge zu leisten. Manche Menschen können es sich eben nicht leisten, unbezahlte Zeit für Open-Source-Projekte aufzuwenden, z.B. weil ihre finanzielle Situation, Schulden, Familien- oder anderen Betreuungspflichten dies nicht zulassen. Das heißt, die möglichen Beiträge von talentierten Menschen, die es sich ehrenamtliche Arbeitszeit nicht leisten können, würden nie das Licht der Welt erblicken. Dies hat ethische Implikationen, wie @ashedryden [beschreibt](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), da die Beiträge, die das Licht der Welt erblicken, eher zu Gunsten derjenigen tendieren, die bereits Vorteile im Leben haben. Und sie diese aufgrund ihrer freiwilligen Beiträge weiter ausbauen können, während Andere, die nicht zu freiwilligem Engagement in der Lage sind, auch daraus keine Vorteile ziehen können. Dies wiederum verstärkt den derzeitigen Mangel an Vielfalt in der Open-Source-Welt.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
@@ -123,7 +123,7 @@ Wenn Ihr Unternehmen diesen Weg einschlägt, ist es wichtig, die Grenzen zwische
   </p>
 </aside>
 
-Wenn Sie Ihren derzeitigen Arbeitgeber nicht davon überzeugen können, Open-Source-Arbeit zu priorisieren, sollten Sie sich überlegen, einen neuen Arbeitgeber zu finden, der Mitarbeit an Open Source fördert. Z.B.:
+Wenn Sie Ihren derzeitigen Arbeitgeber nicht davon überzeugen können, Open-Source-Arbeit zu priorisieren, sollten Sie sich überlegen, einen neuen Arbeitgeber zu finden, der Mitarbeit an Open Source fördert. Zum Beispiel:
 
 * Manche Firmen, wie [Netflix](https://netflix.github.io/) oder [PayPal](https://paypal.github.io/), zeigen ihr Open-Source-Engagement auf ihren Webseiten
 * [Rackspace](https://www.rackspace.com/en-us) veröffentlicht seine [Open-Source-Beitragsrichtlinie](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) für Angestellte

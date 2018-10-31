@@ -247,7 +247,7 @@ Eine Marke besteht aus mehr als einem auffälligen Logo oder einem einprägsamem
 
 ### Den richtigen Namen auswählen
 
-Wählen Sie einen Namen, der leicht zu merken ist und im Idealfall eine Vorstellung davon vermittelt, was das Projekt bewirkt. Bspw.:
+Wählen Sie einen Namen, der leicht zu merken ist und im Idealfall eine Vorstellung davon vermittelt, was das Projekt bewirkt. Beispielsweise:
 
 * [Sentry](https://github.com/getsentry/sentry) überwacht Apps und meldet Abstürze
 * [Thin](https://github.com/macournoyer/thin) ist ein schneller, einfacher Web-Server in Ruby
