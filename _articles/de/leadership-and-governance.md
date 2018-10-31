@@ -129,7 +129,7 @@ Welches Modell sollten Sie verwenden? Das obliegt Ihnen! Jedes Modell hat Vor- u
 
 * [BDFL-Modellvorlage](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 * [Meritokratische Modellvorlage](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Node.js' liberale Beitragspolitik](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
+* [Node.js's liberale Beitragspolitik](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
 ## Muss ich Projektleitung und -Steuerung schon zum Projektstart dokumentieren?
 
