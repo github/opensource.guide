@@ -114,7 +114,7 @@ Wenn Ihr Unternehmen diesen Weg einschlägt, ist es wichtig, die Grenzen zwische
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
 
-  Die Arbeit an Open Source ist eine seltene und wunderbare Gelegenheit, aber Sie sollten dabei nicht auf Ihre Leidenschaft verzichten müssen. Denn die sollte der Grund für Ihre Bezahlung  durch ein Unternehmen sein.
+  Die Arbeit an Open Source ist eine seltene und wunderbare Gelegenheit, aber Sie sollten dabei nicht auf Ihre Leidenschaft verzichten müssen. Denn die sollte der Grund für Ihre Bezahlung durch ein Unternehmen sein.
 
   _Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you._
 

@@ -67,7 +67,7 @@ Die meisten Menschen, die auf Ihr Projekt stoßen, wissen nichts über Sie oder 
 
 All das ist völlig in Ordnung! Stellen Sie nur sicher, dass andere davon erfahren.
 
-Wenn Sie Ihr Projekt in Teilzeit oder auf freiwilliger Basis betreuen, seien Sie ehrlich, wie viel Zeit Ihnen zur Verfügung steht. Die weicht vermutlich von der Zeit ab, die Ihrer Meinung nach für  das Projekt benötigt wird, oder die andere erwarten.
+Wenn Sie Ihr Projekt in Teilzeit oder auf freiwilliger Basis betreuen, seien Sie ehrlich, wie viel Zeit Ihnen zur Verfügung steht. Die weicht vermutlich von der Zeit ab, die Ihrer Meinung nach für das Projekt benötigt wird, oder die andere erwarten.
 
 Hier sind ein paar Regeln, die es wert sind, aufgeschrieben zu werden:
 

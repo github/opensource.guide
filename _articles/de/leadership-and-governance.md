@@ -34,9 +34,9 @@ Was diese Rollen aber tatsächlich bedeuten, liegt ganz bei Ihnen. Nachfolgend s
 
 **Bei einigen Projekten sind "Maintainer\*innen"** die einzigen Personen mit Commit-Rechten. In anderen Projekten sind es einfach die Leute, die in der README als Maintainer\*innen aufgelistet sind.
 
-Ein\*e Maintainer\*in muss in Ihrem Projekt nicht zwangsläufig Code schreiben. Es kann auch eine Person sein, die viel Öffentlichkeitsarbeit für Ihr Projekt geleistet hat, viel  Dokumentation geschrieben hat, oder das Projekt für andere zugänglicher gemacht hat. Unabhängig davon, was sie tagtäglich tun, fühlen sich Maintainer\*innen wahrscheinlich für die Richtung des Projekts verantwortlich und setzen sich für dessen Verbesserung ein.
+Ein\*e Maintainer\*in muss in Ihrem Projekt nicht zwangsläufig Code schreiben. Es kann auch eine Person sein, die viel Öffentlichkeitsarbeit für Ihr Projekt geleistet hat, viel Dokumentation geschrieben hat, oder das Projekt für andere zugänglicher gemacht hat. Unabhängig davon, was sie tagtäglich tun, fühlen sich Maintainer\*innen wahrscheinlich für die Richtung des Projekts verantwortlich und setzen sich für dessen Verbesserung ein.
 
-"Kontributor\*innen" könnten alle Menschen sein, die ein Issue oder Pull Request kommentiert, die dem Projekt einen Mehrwert verleihen (sei es durch Problembehebungen, das Schreiben von Code oder die Veranstaltungsorganisation) oder alle, deren Pull Requests  akzeptiert wurden (vielleicht die engste Definition für Kontribution).
+"Kontributor\*innen" könnten alle Menschen sein, die ein Issue oder Pull Request kommentiert, die dem Projekt einen Mehrwert verleihen (sei es durch Problembehebungen, das Schreiben von Code oder die Veranstaltungsorganisation) oder alle, deren Pull Requests akzeptiert wurden (vielleicht die engste Definition für Kontribution).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
@@ -133,7 +133,7 @@ Welches Modell sollten Sie verwenden? Das obliegt Ihnen! Jedes Modell hat Vor- u
 
 ## Muss ich Projektleitung und -Steuerung schon zum Projektstart dokumentieren?
 
-Es gibt nicht den einen richtigen Zeitpunkt, um die Leitungs- und Steuerungsrichtlinien Ihres Projekts aufzuschreiben. Allerdings  sind sie einfacher zu definieren, sobald Sie die Entwicklung von Community-Dynamiken gesehen haben. Das Beste (und Schwierigste) an Open-Source-Projektsteuerung ist, dass sie von der Gemeinschaft geprägt wird!
+Es gibt nicht den einen richtigen Zeitpunkt, um die Leitungs- und Steuerungsrichtlinien Ihres Projekts aufzuschreiben. Allerdings sind sie einfacher zu definieren, sobald Sie die Entwicklung von Community-Dynamiken gesehen haben. Das Beste (und Schwierigste) an Open-Source-Projektsteuerung ist, dass sie von der Gemeinschaft geprägt wird!
 
 Frühzeitige Dokumentationen wird selbst auch dazu beitragen, wie sich Ihr Projekt entwickelt, also schreiben Sie ruhig früh auf, was Sie früh wissen. So können Sie beispielsweise schon zum Projektstart klare Erwartungen an die Funktionsweise Ihres Mitwirkungsprozesses definieren.
 
@@ -159,7 +159,7 @@ Mit zunehmender Verbreitung des Projekts werden Menschen, die über Fachwissen v
 
 Es ist wichtig, kommerzielle Aktivitäten als normal und als eine weitere Motivation für die Entwicklungsarbeit zu betrachten. Bezahlte Entwickler\*innen sollten natürlich keine Sonderbehandlung gegenüber Unbezahlten erhalten. Jeder Beitrag muss nach seinen technischen Eigenschaften bewertet werden. Allerdings sollten die Leute zu kommerziellen Aktivitäten bereit sein, und sich damit wohl fühlen, wenn sie ihre Anwendungsfälle angeben oder sich für eine bestimmte Verbesserung oder Funktion aussprechen.
 
-"Kommerziell" ist vollständig kompatibel mit "Open Source". "Kommerziell" bedeutet nur, dass irgendwo Geld im Spiel ist, z.B. dass die Software unternehmerisch eingesetzt wird. Dies wird umso  wahrscheinlicher, je weiter sich ein Projekt verbreitet. Wenn Open-Source-Software als Teil eines Nicht-Open-Source-Produkts verwendet wird, ist das Gesamtprodukt immer noch "proprietäre" Software, obwohl sie (wie Open Source!) für kommerzielle oder nicht-kommerzielle Zwecke verwendet werden kann.
+"Kommerziell" ist vollständig kompatibel mit "Open Source". "Kommerziell" bedeutet nur, dass irgendwo Geld im Spiel ist, z.B. dass die Software unternehmerisch eingesetzt wird. Dies wird umso wahrscheinlicher, je weiter sich ein Projekt verbreitet. Wenn Open-Source-Software als Teil eines Nicht-Open-Source-Produkts verwendet wird, ist das Gesamtprodukt immer noch "proprietäre" Software, obwohl sie (wie Open Source!) für kommerzielle oder nicht-kommerzielle Zwecke verwendet werden kann.
 
 Wie jede\*r Andere auch, gewinnen kommerziell motivierte Entwickler\*innen durch die Qualität und Quantität ihrer Beiträge Einfluss auf das Projekt. Natürlich kann ein\*e Entwickler\*in, die oder der für die Arbeitszeit bezahlt wird, mehr tun als unbezahlte Beitragende, aber das ist in Ordnung: Bezahlung beeinflusst nur als einer von vielen möglichen Faktoren, was jemand tut. Halten Sie Ihre Projektdiskussionen auf den Inhalt der Beiträge fokussiert, nicht auf die externen Faktoren, die es den Menschen ermöglichen, diese Beiträge zu leisten.
 
