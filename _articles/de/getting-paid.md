@@ -5,7 +5,7 @@ description: Verstetigen Sie Ihre Open-Source-Arbeit, indem Sie finanzielle Unte
 class: getting-paid
 toc:
   warum-manche-menschen-finanzielle-unterstützung-suchen: "Warum manche Menschen finanzielle Unterstützung suchen"
-  die-eigene-zeit-finanzieren: "Die eigene Zeit finanzieren"
+  die-eigene-arbeitszeit-finanzieren: "Die eigene Arbeitszeit finanzieren"
   geldquellen-für-ihr-projekt-auftun: "Geldquellen für Ihr Projekt auftun"
   eine-argumentationslinie-für-finanzielle-unterstützung-aufbauen: "Eine Argumentationslinie für finanzielle Unterstützung aufbauen"
 order: 7
