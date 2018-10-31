@@ -156,7 +156,7 @@ Muchos proyectos no desean pasar por la molestia de crear una organizaci&oacute;
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Nuestra meta es proveer una infraestructura que las comunidades puedan usar para ser autosostenibles, creando as&iacute; un ambiente en el que todos, contribuyentes, patrocinadores, obtengan beneficios concretos.
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
+— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 

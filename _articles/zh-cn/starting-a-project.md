@@ -41,7 +41,7 @@ related:
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
 我从开源使用和协作中获得的最有价值的经验之一，就是在我面临许多与其他开发人员相同问题的过程中所建立的联系。
   <p markdown="1" class="pquote-credit">
-    — @kentcdodds, ["参与开源对我来说太棒了"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
+    — @kentcdodds, ["参与开源对我来说太棒了"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80)
   </p>
 </aside>
 
@@ -85,7 +85,7 @@ related:
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
 在某些时候，我创建了一个自己正在使用的自定义 UIAlertView，我决定将它开源。所以我修改它使其更有活力，并把它上传到了 GitHub。我还写了我的第一个文档，解释给其他开发人员如何在他们的项目中使用它。很可能没有人会去使用它，因为它是一个简单的项目，但我的贡献让我感觉很好。
   <p markdown="1" class="pquote-credit">
-— @mavris, ["自学的软件开发者：为什么开源对我们那么重要"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+— @mavris, ["自学的软件开发者：为什么开源对我们那么重要"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
 </aside>
 
@@ -205,7 +205,7 @@ related:
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   我们都有过这样的关于重复劳动的经验，无论是维护者试着解释为什么某些事物必须通过某种明确的方式执行，或者是用户...提出一个简单的问题。行为规范成为一个便利的参考和可链接的文档标明你的团队会认真对待具有建设性的讨论。
   <p markdown="1" class="pquote-credit">
-— @mlynch, ["让开源成为一个有趣的地方"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
+— @mlynch, ["让开源成为一个有趣的地方"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
 </aside>
 
