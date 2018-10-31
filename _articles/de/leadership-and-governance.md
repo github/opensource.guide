@@ -128,7 +128,7 @@ Es gibt drei Lenkungsstrukturen, die häufig bei Open-Source-Projekten vorkommen
 Welches Modell sollten Sie verwenden? Das obliegt Ihnen! Jedes Modell hat Vor- und Nachteile. Und obwohl sie zunächst sehr unterschiedlich erscheinen mögen, haben alle drei Modelle mehr gemeinsam als zu vermuten wäre. Wenn Sie daran interessiert sind, eines dieser Modelle zu übernehmen, schauen Sie sich diese Vorlagen an (alle Englisch):
 
 * [BDFL-Modellvorlage](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
-* Meritokratische Modellvorlage](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
+* [Meritokratische Modellvorlage](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.js' liberale Beitragspolitik](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
 ## Muss ich Projektleitung und -Steuerung schon zum Projektstart dokumentieren?
