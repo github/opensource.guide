@@ -41,7 +41,7 @@ Par comparaison, un processus de source fermée se rendrait dans un restaurant e
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   L'une des expériences les plus enrichissantes que je retire de l'utilisation et de la collaboration sur l'open source vient des relations que je construis avec d'autres développeurs confrontés aux mêmes problèmes que moi.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
+— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80)
   </p>
 </aside>
 
@@ -85,7 +85,7 @@ Si votre seul objectif est de montrer votre travail, vous ne voulez peut-être m
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
   A un certain moment, j'ai créé un UIAlertView personnalisé que j'utilisais... et j'ai décidé de le rendre open source. Je l'ai donc modifié pour être plus dynamique et l'ai téléchargé sur GitHub. J'ai également écrit ma première documentation expliquant aux autres développeurs comment l'utiliser sur leurs projets. Probablement personne ne l'a jamais utilisé parce que c'était un projet simple mais je me sentais bien dans ma contribution.
   <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
 </aside>
 
@@ -205,7 +205,7 @@ Lien vers votre fichier CONTRIBUTING à partir de votre fichier README, afin que
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   Nous avons tous eu des expériences où nous avons fait face à ce qui était probablement un abus soit en tant que responsable essayant d'expliquer pourquoi quelque chose devait être d'une certaine manière, ou en tant qu'utilisateur... posant une question simple. (...) Un code de conduite devient un document facilement référencé et lisible qui indique que votre équipe prend un discours constructif très au sérieux.
   <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
+— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
 </aside>
 

@@ -175,7 +175,7 @@ related:
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   我曾经说过，"对，每个人都可以参与进来，你不需要有很多编程的经验。"当有申请来参加我们的活动的时候，我就在想，这是真的吗，我说了啥？有将近40个人来了，我虽然不可能和每个人都单独交谈，但是大家一起来了，这说明我说的没错。只要有人知道怎么做了，他们就能教他们的邻居。
   <p markdown="1" class="pquote-credit">
-—  @lmccart, [""开源" 意味着什么? p5.js 版"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
+—  @lmccart, [""开源" 意味着什么? p5.js 版"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 

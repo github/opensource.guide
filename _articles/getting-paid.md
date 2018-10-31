@@ -59,7 +59,7 @@ Paid work also enables people from different walks of life to make meaningful co
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 

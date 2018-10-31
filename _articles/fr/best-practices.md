@@ -180,7 +180,7 @@ Encourager les autres à [partager la propriété du projet](../building-communi
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   Je disais: "Oui, n'importe qui peut être impliqué, vous n'avez pas besoin d'avoir beaucoup d'expertise en codage [...]". Nous avions des gens qui s'inscrivaient pour venir [à un événement] et c'est à ce moment que je me demandais vraiment: est-ce vrai, ce que j'ai dit ? Il y aura 40 personnes qui se présenteront, et ce n'est pas comme si je pouvais m'asseoir avec chacune d'entre elles... Mais les gens se sont réunis, et ça a juste fonctionné. Dès qu'une personne a compris quelque chose, elle peut l'enseigner à son voisin.
   <p markdown="1" class="pquote-credit">
-—  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
+—  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 

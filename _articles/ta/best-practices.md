@@ -180,7 +180,7 @@ related:
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   "ஆமாம், யாருக்கும் ஈடுபாடு இருக்க முடியும், நீங்கள் நிறைய குறியீட்டு நிபுணத்துவங்களைக் கொண்டிருக்க வேண்டியதில்லை [...]." என்று சொன்னேன். ஓரு [நிகழ்விற்கு] வருவதற்கு பலர் ஓப்புக் கொண்டனர். இது உண்மையா என்று? அப்பொழுது நான் ஆச்சரியம் கொண்டேன். அங்கு 40 பேர் இருப்பார்கள். அவர்கள் ஒவ்வொருவருடனும் நான் அமர வேண்டுமென்றில்லை... ஆனால் அனைவரும் ஓன்று கூடுவதனால், வேலை சுலபமாகிறது. ஒரு நபர் கற்றவுடன், அதை தன் அருகில் உள்ளவருக்கு கற்பிப்பார்.
   <p markdown="1" class="pquote-credit">
-— @lmccart, [""திறந்த மூலம்" என்பதன் பொருள் என்ன? p5.js பதிப்பு"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
+— @lmccart, [""திறந்த மூலம்" என்பதன் பொருள் என்ன? p5.js பதிப்பு"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 

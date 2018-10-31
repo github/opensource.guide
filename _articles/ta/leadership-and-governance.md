@@ -157,7 +157,7 @@ related:
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   சமூகங்கள் தன்னையே நிலைநிறுத்திக் கொள்ளக்கூடிய ஒரு உள்கட்டமைப்பை வழங்குவதே எங்கள் இலக்கு, இதனால் அனைவருக்கும் - பங்களிப்பாளர்கள், ஆதரவாளர்கள், உபயதாரர்கள் - இதில் உறுதியான நன்மைகளை பெறுலாம்.
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["தொண்டு கட்டமைப்பிற்கு அப்பால் நகர்வது"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
+— @piamancini, ["தொண்டு கட்டமைப்பிற்கு அப்பால் நகர்வது"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 

@@ -59,7 +59,7 @@ related:
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
   OSS ஆனது தொழில்நுட்ப தொழிற்துறைக்கு பாரிய நன்மைகளை அளிக்கிறது, இது அனைத்து தொழிற்துறைகளுக்கும் பயன் தருகிறது. (...) எனினும், அதை கவனம் செலுத்த மட்டுமே மக்கள் அதிர்ஷ்டம் மற்றும் அன்போடு இருந்தால், பின்னர் ஒரு பெரிய பயன்படுத்தப்பெறாத ஆற்றல் வளம் உள்ளது.
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["பணம் மற்றும் திறந்த மூலம்"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+— @isaacs, ["பணம் மற்றும் திறந்த மூலம்"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
