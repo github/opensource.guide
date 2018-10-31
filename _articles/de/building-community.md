@@ -118,7 +118,7 @@ Wichtige Ausnahmen von öffentlicher Kommunikation sind: 1) Sicherheitsprobleme 
 
 ## Ihre Nutzergemeinschaft vergrößern
 
-Eine Gemeinschaft kann sehr kraftvoll sein. Dies kann zu Segen und Fluch werden, je nach Art der Nutzung. Wenn die Projektsgemeinschaft wächst, gibt es Möglichkeiten, ihr zu einer konstruktiven Kraft zu verhelfen, anstatt zu einer destruktiven.
+Eine Gemeinschaft kann sehr kraftvoll sein. Dies kann zu Segen und Fluch werden, je nach Art der Nutzung. Wenn die Projektgemeinschaft wächst, gibt es Möglichkeiten, ihr zu einer konstruktiven Kraft zu verhelfen, anstatt zu einer destruktiven.
 
 ### Dulden Sie keine destruktiven Akteure
 

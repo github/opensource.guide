@@ -1,7 +1,7 @@
 ---
 lang: de
 title: Open-Source-Metriken
-description: Treffen Sie fundierte Entscheidungen und helfen Sie Ihrem Open-Source-Projekt, indem Sie seinen Erfolg messen und verfolgen.
+description: Treffen Sie fundierte Entscheidungen und helfen Sie Ihrem Open-Source-Projekt, indem Sie dessen Erfolg messen und verfolgen.
 class: metrics
 toc:
   warum-überhaupt-etwas-messen: "Warum überhaupt etwas messen?"
@@ -118,7 +118,7 @@ Beispiele für Community-Metriken, die Sie regelmäßig verfolgen möchten, sind
 
 ## Betreuer\*innen-Aktivität
 
-Schließlich möchten Sie den Kreis schließen, indem Sie sicherstellen, dass die Maintainer\*innen Ihres Projekts in der Lage sind, das Volumen der erhaltenen Beiträge zu bewältigen. Die letzte Frage, die Sie sich stellen sollten, ist: _Antworte ich (oder antworte wir) auf unsere Community?_
+Schließlich möchten Sie den Kreis schließen, indem Sie sicherstellen, dass die Maintainer\*innen Ihres Projekts in der Lage sind, das Volumen der erhaltenen Beiträge zu bewältigen. Die letzte Frage, die Sie sich stellen sollten, ist: _Antworte ich (oder antworten wir) auf unsere Community?_
 
 Unresponsive Betreuer\*innen werden zum Flaschenhals für Open-Source-Projekte. Wenn jemand einen Beitrag einreicht, der aber nie beantwortet wird, wird sich die Person entmutigt fühlen und sich abwenden.
 
