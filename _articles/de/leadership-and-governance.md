@@ -36,7 +36,7 @@ Was diese Rollen aber tatsächlich bedeuten, liegt ganz bei Ihnen. Nachfolgend s
 
 Ein\*e Maintainer\*in muss in Ihrem Projekt nicht zwangsläufig Code schreiben. Es kann auch eine Person sein, die viel Öffentlichkeitsarbeit für Ihr Projekt geleistet hat, viel  Dokumentation geschrieben hat, oder das Projekt für andere zugänglicher gemacht hat. Unabhängig davon, was sie tagtäglich tun, fühlen sich Maintainer\*innen wahrscheinlich für die Richtung des Projekts verantwortlich und setzen sich für dessen Verbesserung ein.
 
-"Kontributor\*innen" könnten alle Menschen sein, die ein Issue oder Pull Request kommentiert, die dem Projekt einen Mehrwert verleihen (sei es durch Problembehebungen, das Schreiben von Code oder die Veranstaltungsorganisation) oder alle, deren Pull-Requests  akzeptiert wurden (vielleicht die engste Definition für Kontribution).
+"Kontributor\*innen" könnten alle Menschen sein, die ein Issue oder Pull Request kommentiert, die dem Projekt einen Mehrwert verleihen (sei es durch Problembehebungen, das Schreiben von Code oder die Veranstaltungsorganisation) oder alle, deren Pull Requests  akzeptiert wurden (vielleicht die engste Definition für Kontribution).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
@@ -106,7 +106,7 @@ Wenn sich Ihr Projekt auf GitHub befindet, können Sie unter [protected branches
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   
-  Wann immer Ihnen jemand einen Pull-Request schickt, geben Sie ihm Commit-Zugriff auf Ihr Projekt. Auch wenn es auf den ersten Blick unglaublich dumm klingt, können Sie mit dieser Strategie die wahre Kraft von GitHub entfalten. (...) Sobald Leute Commit-Zugriff haben, haben sie keine Angst mehr, dass ihr Patch nicht mehr angenommen werden könnte... Dies veranlasst sie dazu, viel mehr Arbeit in Patches zu stecken.
+  Wann immer Ihnen jemand einen Pull Request schickt, geben Sie ihm Commit-Zugriff auf Ihr Projekt. Auch wenn es auf den ersten Blick unglaublich dumm klingt, können Sie mit dieser Strategie die wahre Kraft von GitHub entfalten. (...) Sobald Leute Commit-Zugriff haben, haben sie keine Angst mehr, dass ihr Patch nicht mehr angenommen werden könnte... Dies veranlasst sie dazu, viel mehr Arbeit in Patches zu stecken.
   
   _Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it._
   

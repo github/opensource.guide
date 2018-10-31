@@ -165,7 +165,7 @@ Wenn Sie Neuankömmlingen helfen, Ressourcen gemeinsam nutzen und durchdachte Be
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
 
-  Urllib3 ist nur darum die populärste Python-Bibliothek eines Drittanbieters, weil ihr Einbau mittels so vieler Pull-Requests vorgeschlagen wird.
+  Urllib3 ist nur darum die populärste Python-Bibliothek eines Drittanbieters, weil ihr Einbau mittels so vieler Pull Requests vorgeschlagen wird.
 
   _The only reason urllib3 is the most popular third-party Python library today is because it's part of requests._
 

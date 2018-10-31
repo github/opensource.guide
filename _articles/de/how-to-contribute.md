@@ -410,7 +410,7 @@ Führen Sie nun die selben Schritte für die Pull Requests des Projekts durch.
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
     
-    Wie kürzlich wurden Pull-Requests ge-merged? (Klicken Sie bei GitHub auf der "Pull Requests"-Seite auf "closed", um geschlossene PRs zu sehen).
+    Wie kürzlich wurden Pull Requests ge-merged? (Klicken Sie bei GitHub auf der "Pull Requests"-Seite auf "closed", um geschlossene PRs zu sehen).
     
     _How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)_
     
@@ -447,7 +447,7 @@ Ein Projekt, das freundlich und einladend ist, signalisiert Offenheit gegenüber
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
     
-    Werden Pull-Requests begutachtet?
+    Werden Pull Requests begutachtet?
     
     _Do pull requests get reviewed?_
     

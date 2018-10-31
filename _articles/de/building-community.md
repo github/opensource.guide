@@ -33,7 +33,7 @@ Beginnen Sie mit der Dokumentation:
 * **Helfen Sie beim Einstieg in ihr Projekt.** [Eine freundliche README](../starting-a-project/#eine-readme-schreiben) und anschauliche Codebeispiele erleichtern Allen, die auf Ihr Projekt stoßen, den Einstieg.
 * **Erklären Sie in klaren Worten, wie Leute beitragen sollen**, bspw. in [einer CONTRIBUTING-Datei](../starting-a-project/#ihre-beitragsrichtlinien-aufschreiben), und indem Sie die Issues stets aktuell halten.
 
-[GitHubs 2017er Open-Source-Umfrage](http://opensourcesurvey.org/2017/) zeigte, dass unvollständige oder verwirrende Dokumentation das größte Problem für Open-Source-Anwender\*innen ist. Eine gute Dokumentation lädt zur Interaktion mit Ihrem Projekt ein. Wenn jemand ein Issue oder Pull-Request erstellt, bietet sich für Sie die Möglichkeit, diese Person durch den Trichter zu bugsieren.
+[GitHubs 2017er Open-Source-Umfrage](http://opensourcesurvey.org/2017/) zeigte, dass unvollständige oder verwirrende Dokumentation das größte Problem für Open-Source-Anwender\*innen ist. Eine gute Dokumentation lädt zur Interaktion mit Ihrem Projekt ein. Wenn jemand ein Issue oder Pull Request erstellt, bietet sich für Sie die Möglichkeit, diese Person durch den Trichter zu bugsieren.
 
 * **Wenn Leute neu zu Ihrem Projekt hinzustoßen, danken Sie ihnen für ihr Interesse!** Ansonsten braucht es nur eine negative Erfahrung, um jemanden nachhaltig abzuschrecken.
 * **Antworten Sie schnell.** Wenn Sie einen Monat lang nicht auf jemandes Issue reagieren, ist es wahrscheinlich, dass diese Person Ihr Projekt bereits vergessen hat.
@@ -82,17 +82,17 @@ Wenn Sie feststellen, dass mehrere Benutzer\*innen auf das gleiche Problem stoß
 
 Ziehen Sie in Betracht, Besprechungsnotizen oder Schlussfolgerungen zu veröffentlichen. Die Rückmeldungen, die Sie aufgrund dieser Transparenz erhalten, könnten Sie überraschen.
 
-Alles zu dokumentieren, gilt auch für Ihre Arbeit. Wenn Sie an einem umfangreichen Update Ihres Projekts arbeiten, erstellen Sie früh einen Pull-Request und kennzeichnen Sie ihn als "Work in Progress" (WIP). So fühlen sich andere Personen frühzeitig in den Prozess eingebunden.
+Alles zu dokumentieren, gilt auch für Ihre Arbeit. Wenn Sie an einem umfangreichen Update Ihres Projekts arbeiten, erstellen Sie früh einen Pull Request und kennzeichnen Sie ihn als "Work in Progress" (WIP). So fühlen sich andere Personen frühzeitig in den Prozess eingebunden.
 
 ### Antworten Sie schnell
 
 Wenn Sie [für Ihr Projekt werben](../finding-users), werden Leute Ihnen Rückmeldungen geben. Vielleicht in Form von Fragen, wie etwas in Ihrem Projekt funktioniert, oder sie brauchen Starthilfe bei der Benutzung.
 
-Versuchen Sie, schnell zu reagieren, wenn jemand ein Issue oder Pull-Request einreicht, oder eine Frage zu Ihrem Projekt stellt. Eine schnell Antwort gibt den Leuten das Gefühl, an einem Dialog teilzunehmen, und das kann ermutigend wirken, weiter mitzuhelfen.
+Versuchen Sie, schnell zu reagieren, wenn jemand ein Issue oder Pull Request einreicht, oder eine Frage zu Ihrem Projekt stellt. Eine schnell Antwort gibt den Leuten das Gefühl, an einem Dialog teilzunehmen, und das kann ermutigend wirken, weiter mitzuhelfen.
 
-Auch wenn Sie die Anfrage nicht sofort inhaltlich prüfen können, hilft die frühzeitige Bestätigung, das Engagement zu erhöhen. Ein Beispiel: @tdreyno reagiert auf einen Pull-Request an [Middleman](https://github.com/middleman/middleman/pull/1466):
+Auch wenn Sie die Anfrage nicht sofort inhaltlich prüfen können, hilft die frühzeitige Bestätigung, das Engagement zu erhöhen. Ein Beispiel: @tdreyno reagiert auf einen Pull Request an [Middleman](https://github.com/middleman/middleman/pull/1466):
 
-![Pull-Request an Middleman](/assets/images/building-community/middleman_pr.png)
+![Pull Request an Middleman](/assets/images/building-community/middleman_pr.png)
 
 [Eine Mozilla-Studie fand heraus, dass](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) Kontributor\*innen, deren Codebeitrag innerhalb von 48 Stunden überprüft wurde, deutlich häufiger nochmal mithalfen.
 
@@ -110,7 +110,7 @@ Der zweite Grund nützt Ihnen selbst: Wenn Sie den Leuten _keinen_ öffentlichen
 
 [Kubernetes' Kops](https://github.com/kubernetes/kops#getting-involved) legt alle zwei Wochen Bürozeiten fest, um den Mitgliedern der Gemeinschaft zu helfen:
 
-> Die Kops-Betreuer\*innen haben sich bereit erklärt, Zeit einzuplanen für die Arbeit mit Neuankömmlingen, die Unterstützung von Pull-Requests, sowie für die Diskussion über neue Funktionen.
+> Die Kops-Betreuer\*innen haben sich bereit erklärt, Zeit einzuplanen für die Arbeit mit Neuankömmlingen, die Unterstützung von Pull Requests, sowie für die Diskussion über neue Funktionen.
 >
 > Kops also has time set aside every other week to offer help and guidance to the community. Kops maintainers have agreed to set aside time specifically dedicated to working with newcomers, helping with PRs, and discussing new features.
 
@@ -180,7 +180,7 @@ Leute sind begeistert davon, an Projekten mitzuwirken, wenn sie ein Gefühl für
 
 Schauen Sie, ob Sie Wege finden können, Verantwortlichkeiten so weit wie möglich mit Ihren Projektteilnehmer\*innen zu teilen:
 
-* **Lassen Sie einfache (unkritische) Bugs unangetastet.** Nutzen Sie diese stattdessen als Gelegenheit, neue Mitwirkende zu rekrutieren, oder helfen Sie einem hilfsbereiten Neuling, den Prozess eines Bug-Fixes zu durchlaufen. Es mag zunächst unnatürlich erscheinen, aber Ihre Investition wird sich im Laufe der Zeit auszahlen. @michaeljoseph hat zum Beispiel einen Mitwirkenden gebeten, einen Pull-Request zu einem der folgenden Probleme in [Cookiecutter](https://github.com/audreyr/cookiecutter) zu stellen, anstatt es selbst zu beheben.
+* **Lassen Sie einfache (unkritische) Bugs unangetastet.** Nutzen Sie diese stattdessen als Gelegenheit, neue Mitwirkende zu rekrutieren, oder helfen Sie einem hilfsbereiten Neuling, den Prozess eines Bug-Fixes zu durchlaufen. Es mag zunächst unnatürlich erscheinen, aber Ihre Investition wird sich im Laufe der Zeit auszahlen. @michaeljoseph hat zum Beispiel einen Mitwirkenden gebeten, einen Pull Request zu einem der folgenden Probleme in [Cookiecutter](https://github.com/audreyr/cookiecutter) zu stellen, anstatt es selbst zu beheben.
 
 ![Cookiecutter-Issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
