@@ -1,0 +1,31 @@
+de:
+  locale_name: Deutsch
+  nav:
+    about: Über
+    contribute: Mitarbeiten
+  index:
+    lead: Open-Source-Software wird von Menschen wie Ihnen gemacht. Lernen Sie, wie Sie Ihr Projekt anfangen und ausbauen können.
+    opensourcefriday: Es ist Freitag! Investieren Sie ein paar Stunden in die Software, die Sie verwenden und lieben.
+  article:
+    table_of_contents: Inhaltsverzeichnis
+    back_to_all_guides: Zurück zur Übersicht
+    related_guides: Verwandte Anleitungen
+  footer:
+    contribute:
+      heading: Mitmachen
+      description: Möchten Sie etwas vorschlagen? Unsere Anleitungen sind quelloffen. Helfen Sie uns, sie zu verbessern.
+      button: Mitmachen
+    subscribe:
+      heading: Bleiben Sie in Kontakt
+      description: Erfahren Sie als Erste*r von GitHubs neuesten Open-Source-Tipps und -Ressourcen.
+      label: E-Mail-Adresse
+      button: Abonnieren
+    byline:
+      # [code], [love], und [github] werden mit Octicons ersetzt.
+      format: "[code] mit [love] von [github] und [friends]"
+      # Label für das Code-Octicon
+      code_label: code
+      # Label für das Herz-Octicon
+      love_label: love
+      # Label für das Octicon der Mitwirkenden
+      friends_label: friends
