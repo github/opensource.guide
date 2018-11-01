@@ -20,7 +20,7 @@ related:
 
 마음을 끄는 커뮤니티를 만드는 것은 프로젝트의 미래와 평판을 위한 투자입니다. 여러분의 프로젝트가 이제 막 첫 기여를 받는 시점이라면, 기여자들에게 좋은 경험을 안겨 주고 계속 다시 돌아오게 만드세요.
 
-### 사람들이 환영받는다고 느끼게 하기
+### 사람들이 환영받는다고 느끼게 하세요
 
 @MikeMcQuaid가 [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/)(기여자 깔때기)이라고 부르는 것을 통해 프로젝트 커뮤니티에 대해 생각해 볼 수 있습니다.
 
@@ -52,7 +52,7 @@ related:
 
 사람들의 기여를 장려하는 것은 여러분 스스로를 위한 투자이기도 합니다. 여러분의 프로젝트를 가장 좋아하는 사람에게 그들이 좋아하는 일을 할 수 있는 권한을 준다면, 모든 것을 혼자 해야 하는 부담감을 덜 수 있습니다.
 
-### 모든 것을 문서화하기
+### 모든 것을 문서화하세요
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
@@ -76,7 +76,7 @@ related:
 
 모든 것의 문서화는 여러분이 진행 중인 작업에도 해당됩니다. 여러분이 프로젝트의 큰 업데이트 작업을 하고 있다면 이를 풀 리퀘스트로 열고 WIP(Work In Progress; 작업 중)로 표시하세요. 그렇게 하면 일찍부터 사람들이 과정에 참여할 수 있습니다.
 
-### 적극적으로 반응하기
+### 적극적으로 반응하세요
 
 [프로젝트를 홍보](../finding-users)하다 보면 사람들이 여러분에게 피드백을 제공할 것입니다. 어떤 부분이 어떻게 동작하는지 알고 싶어할 수도 있고, 처음 접하는 데 도움이 필요할 수도 있습니다.
 
@@ -90,7 +90,7 @@ related:
 
 여러분의 프로젝트에 대한 대화는 Stack Overflow나 Twitter, Reddit처럼 인터넷상의 다른 곳에서 이루어지고 있을 수도 있습니다. 이러한 사이트에서 여러분의 프로젝트가 언급되었을 때 알 수 있도록 알림을 설정할 수 있습니다.
 
-### 커뮤니티가 모일 장소 제공하기
+### 커뮤니티가 모일 장소를 제공하세요
 
 커뮤니티가 모일 장소를 제공해야 하는 데에는 두 가지 이유가 있습니다.
 
@@ -108,80 +108,80 @@ related:
 
 ## Growing your community
 
-커뮤니티는 매우 강력합니다. 그 힘은 어떻게 사용하는지에 따라 축복이나 저주가 될 수 있습니다. 프로젝트 공동체가 성장함에 따라, 그것이 파괴가 아닌 건설의 힘이 될 수 있도록 돕는 방법이 있습니다.
+커뮤니티는 아주 강력한 힘을 지니고 있습니다. 그 힘은 어떻게 다루느냐에 따라 축복이 될 수도, 저주가 될 수도 있습니다. 성장하는 커뮤니티를 파괴의 힘이 아닌 창조의 힘으로 이끄는 방법을 알아봅시다.
 
-### Don't tolerate bad actors
+### 악당에게 관용을 베풀지 마세요
 
-모든 인기있는 프로젝트는 필연적으로 커뮤니티를 돕기보다는, 해를 입는 사람들도 끌어 들일 것입니다. 그들은 불필요한 논쟁을 시작하거나, 사소한 기능을 말다툼하거나, 다른 사람들을 괴롭힐 수 있습니다.
+인기 있는 프로젝트라면 커뮤니티를 돕기는커녕 해치는 사람들이 나타나기 마련입니다. 불필요한 논쟁을 일으키고, 사소한 기능에 트집을 잡고, 남을 괴롭히는 사람들입니다.
 
-이러한 유형의 사람들에 대한 무관용 정책을 채택하기 위해 최선을 다하십시오. 선택하지 않는다면, 부정적인 사람들이 커뮤니티의 다른 사람들을 불편하게 만듭니다. 그들은 심지어 떠날지도 모릅니다.
+이런 유형의 사람들에 대해서는 즉각적인 조치를 취해야 합니다. 그냥 넘어간다면 부정적인 사람들이 커뮤니티의 다른 사람들을 불쾌하게, 떠나게까지 만들 수 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["FOSS 프로젝트를 어떻게 실행하는가"](https://karissa.github.io/post/okf-de)
+— @karissa, ["How to Run a FOSS Project”](https://karissa.github.io/post/okf-de)
   </p>
 </aside>
 
-프로젝트의 사소한 측면에 대한 정기적인 토의는 중요한 작업에 집중하는 것을 포함하여, 다른 사람을 혼란스럽게합니다. 프로젝트에 도착한 새로운 사람들은 이러한 대화를 보고 참여하기를 원하지 않을 수 있습니다.
+프로젝트의 사소한 면에 대한 반복적인 논쟁은 여러분을 포함한 구성원이 보다 중요한 일에 집중하는 것을 방해합니다. 여러분의 프로젝트에 새로 찾아온 사람들이 이런 논쟁을 보면 프로젝트에 참여하고 싶지 않을 것입니다.
 
-프로젝트에서 부정적인 행동이 발생하면, 공개적으로 말합니다. 친절하지만 확고한 어조로 왜 그들의 행동이 용납되지 않는지 설명합니다. 문제가 지속되면, [떠날 것을 요청해야 할 수도 있습니다](../code-of-conduct/#enforcing-your-code-of-conduct). [행동 규범](../code-of-conduct/)은 이 대화를 위해 건설적인 가이드가 될겁니다.
+여러분의 프로젝트에서 행해지는 옳지 않은 행동을 발견한다면, 친절하지만 완고하게 어째서 그런 행동이 용납될 수 없는지 공적으로 설명하세요. 문제가 지속된다면 [그들을 떠나보내야 할 수도 있습니다](../code-of-conduct/#enforcing-your-code-of-conduct). 프로젝트 [행동 강령](../code-of-conduct/)이 이런 대화의 적절한 지침이 될 것입니다.
 
-### 장소에 있는 기여자를 만나기
+### 기여자에게 먼저 다가가세요
 
-훌륭한 문서는 커뮤니티가 성장함에 따라 중요해질 것입니다. 프로젝트에 익숙하지 않은 캐주얼 기여자는, 필요한 컨텍스트를 빨리 얻기 위해 문서를 읽습니다.
+커뮤니티가 성장할수록 좋은 문서화는 더욱 중요해집니다. 여러분의 프로젝트를 잘 몰랐을 평범한 기여자들도 문서를 읽고 빠르게 필요한 맥락을 파악할 수 있기 때문입니다.
 
-CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시오. 이러한 목적으로 전용 섹션을 만들고 싶을 수도 있습니다. [Django](https://github.com/django/django)를 예로 들어보면, 새로운 참여자를 환영 할 수 있는 특별 방문 페이지가 있습니다.
+CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명하세요. 이를 위한 파트를 따로 마련해도 좋습니다. 예컨대 [Django](https://github.com/django/django)는 새 기여자를 환영하기 위한 특별한 페이지를 가지고 있습니다.
 
 ![Django 새로운 기여자 페이지](/assets/images/building-community/django_new_contributors.png)
 
-이슈 대기열에서, 기여자의 다른 유형에 적합한 버그 라벨을 붙이십시오: 예를 들어, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first issue"_, 혹은 _"documentation"_이 있습니다. [이 라벨들은](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
-프로젝트에 익숙하지 않은 사용자가 문제를 신속하게 스캔하고 시작하기가 쉽습니다.
+이슈 목록에 다양한 유형의 기여자들을 위한 라벨을 표시하세요. [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first issue"_, _"documentation"_ 같은 예가 있습니다. [이러한 라벨은](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
+프로젝트에 새로 온 사람들이 빠르게 이슈를 확인하고 기여를 시작하기 쉽게 만들어 줍니다.
 
-마지막으로, 문서를 사용하여 사람들이 모든 단계에서 환영받는다고 느끼게 하십시오.
+마지막으로, 기여의 모든 단계에서 사람들이 좋은 기분을 유지할 수 있도록 문서를 활용하세요.
 
-프로젝트에 도착한 대부분의 사람들과 결코 상호 작용하지 않습니다. 누군가가 협박을 당하거나 어디에서 시작해야할지 모르기 때문에 당신이 받지 못한 기여가 있을 수 있습니다. 몇 가지 종류의 단어조차도 누군가가 귀하의 프로젝트에서 좌절감에서 벗어나지 못하게합니다.
+여러분의 프로젝트에서 작업하는 대부분의 사람과는 직접 의사소통할 기회가 없을 것입니다. 누군가 자신이 없거나 어디서 시작할지 갈피를 잡지 못해서, 결국 하지 못한 기여 또한 있을 것입니다. 친절함을 담은 몇 마디면 사람들이 실망한 채 프로젝트를 떠나는 것을 예방할 수 있습니다.
 
-예시로, 여기 [Rubinius](https://github.com/rubinius/rubinius/)가 [기여 가이드](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)를 시작하는 방법은 다음과 같습니다:
+[Rubinius](https://github.com/rubinius/rubinius/)의 [기여 가이드](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)는 어떻게 시작하는지 참조하세요.
 
-> Rubinius를 사용해 주셔서 감사드립니다. 이 프로젝트는 사랑의 노동이며, 버그를 포착하고 성능을 개선하며, 문서화에 도움이 되는 모든 사용자에게 감사드립니다. 모든 기여는 의미가 있으므로, 참여해 주셔서 감사합니다. 말하지면, 우리가 귀하의 문제를 성공적으로 해결할 수 있도록 따라야 할 몇 가지 지침이 있습니다.
+> Rubinius를 사용해 주시는 것에 대해 먼저 감사의 말씀을 드리고 싶습니다. 이 프로젝트는 여러분의 사랑의 산출물이며, 저희는 버그를 잡고, 성능을 개선하고, 문서화를 돕는 모든 여러분께 고마움을 느낍니다. 모든 기여는 의미가 있습니다. 프로젝트에 참여해 주셔서 감사합니다. 다만, 저희가 여러분의 이슈를 받아들이기 위해 필요로 하는 몇 가지 지침이 있으니 참고해 주세요.
 
-### Share ownership of your project
+### 프로젝트를 공동으로 소유하세요
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
   Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["좋은 커뮤니티는 어떻게 만듭니까?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sarahsharp, ["What makes a good community?”](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-사람들은 소유권을 느낄 때 프로젝트에 기여하게 되어 기쁩니다. 그렇다고 해서 프로젝트의 비전을 뒤집거나 원하지 않는 기여를 받아 들일 필요가 있다는 것을 의미하지는 않습니다. 그러나 당신이 다른 사람에게 더 많은 것을 줄수록, 더 많이 붙어있게됩니다.
+사람들은 프로젝트에 대한 일종의 소유감을 느낄 때 더 열심히 기여합니다. 프로젝트의 비전을 바꾸거나 원치 않는 기여를 받아들이라는 뜻이 아닙니다. 하지만 사람들에게 공적을 돌릴수록 그들은 더 오래 여러분과 함께할 것입니다.
 
-가능한 커뮤니티와 소유권을 공유하는 방법을 찾을 수 있는지 확인하십시오. 다음은 몇 가지 아이디어입니다:
+커뮤니티와 프로젝트의 소유감을 최대한 나눌 수 있는 방법에는 무엇이 있는지 알아봅시다.
 
-* **쉬운(중요하지 않은) 버그를 수정하는 것을 방지**하는 대신, 그것들로 새로운 기부자를 모집할 기회로 사용하거나, 기여하고자 하는 사람을 멘토링하십시오. 초기에는 부자연스럽게 보일 수 있지만, 시간이 지남에 따라 투자가 이루어집니다. 예시로, @michaeljoseph가 기여자에게 직접 아래의 [Cookiecutter](https://github.com/audreyr/cookiecutter) 이슈에 대한 pull request을 제출하도록 요청했습니다.
+* **(사소하고) 쉬운 버그는 직접 해결하지 말고** 새로운 기여자를 위해 남겨 두거나, 기여하려는 사람에게 멘토링하는 데 활용하세요. 처음에는 부자연스럽게 느껴질 수 있지만, 시간이 지나면서 여러분의 투자가 결실을 맺게 될 것입니다. [Cookiecutter](https://github.com/audreyr/cookiecutter)의 @michaeljoseph은 아래 이슈를 직접 고치는 대신 기여자에게 새 풀 리퀘스트를 제출해 달라고 했습니다.
 
 ![Cookiecutter 이슈](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* 프로젝트에 기여한 사람(예를 들어, [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md))을 모두 나열하는 **프로젝트의 CONTRIBUTORS 혹은 AUTHORS 파일을 시작하십시오.**
+* [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md)가 사용하는 방법처럼 **CONTRIBUTORS 혹은 AUTHORS 파일**을 만들어 모든 프로젝트 기여자를 담은 하나의 목록을 작성하세요. 
 
-* 만약 상당한 규모의 커뮤니티가 있다면, 기여자들에게 감사하는 **뉴스 레터를 보내거나 블로그 포스트를 작성하십시오**. Rust의 [This Week in Rust](https://this-week-in-rust.org/)와 Hoodie의 [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html)는 두개의 좋은 예시입니다.
+* 어느 정도 규모의 커뮤니티가 형성됐다면 기여자들에 대한 감사를 담은 **뉴스 레터를 보내거나 블로그 포스트를 게시하세요**. Rust의 [This Week in Rust](https://this-week-in-rust.org/)와 Hoodie의 [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html)가 좋은 예입니다.
 
-* **모든 참여자에게 커밋 접근 권한을 부여하십시오.** @felixge는 이것이 사람들로 하여금 [패치를 작성하는 것에 더 흥분하도록](http://felixge.de/2013/03/11/the-pull-request-hack.html) 만들었고, 잠시동안 일하지 않은 프로젝트에 대한 새로운 메인테이너를 발견했습니다.
+* **모든 참여자에게 커밋 권한을 부여하세요.** @felixge는 이 방법이 사람들이 [더 열심히 패치를 개선하게 한다는 사실](http://felixge.de/2013/03/11/the-pull-request-hack.html)을 알았고, 그가 자리에 없는 동안 프로젝트 관리자 일을 맡아 주는 사람들을 발견하기도 했습니다.
 
-* 만약 프로젝트가 깃허브에 있는 경우, .**프로젝트를 개인 계정에서 [조직](https://help.github.com/articles/creating-a-new-organization-account/)으로 옮기고** 하나 이상의 백업 메인테이너를 추가하십시오. 조직에서는 외부 공동 작업자와 함께 프로젝트를 보다 쉽게 ​​작업 할 수 있습니다.
+* 여러분의 프로젝트가 GitHub에서 진행되고 있다면 **프로젝트를 개인 계정에서 [조직 계정](https://help.github.com/articles/creating-a-new-organization-account/)으로 옮기고** 예비 관리자를 등록하세요. 조직 계정을 활용하면 외부의 협력자들과 함께 일하기 더 쉽습니다.
 
-실제로 [대부분의 프로젝트](https://peerj.com/preprints/1233.pdf)는 대부분의 작업을 수행하는 1 ~ 2명의 메인테이너만 있습니다. 프로젝트가 커지고, 커뮤니티가 커질수록 쉽게 도움을 얻을 수 있습니다.
+현실에서 [대부분의 프로젝트](https://peerj.com/preprints/1233.pdf)는 한두 명의 관리자가 거의 모든 일을 담당합니다. 여러분의 프로젝트와 커뮤니티가 성장할수록 위 방법이 도움을 구하기 좋습니다.
 
-전화를 받는 사람을 항상 찾지는 못하더라도, 신호를 내보내는 것은 다른 사람들이 들어올 확률을 높입니다. 그리고 일찍 시작할수록 더 빨리 사람들이 도울 수 있습니다.
+항상 도움을 줄 수 있는 사람을 찾을 수 있는 것은 아니지만, 신호를 보내는 것은 그럴 확률을 높입니다. 여러분이 일찍 시작할수록 사람들은 더 빨리 도울 수 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["환영하는 커뮤니티"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Welcoming Communities”](http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 
