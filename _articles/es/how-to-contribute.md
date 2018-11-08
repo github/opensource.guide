@@ -335,7 +335,7 @@ Ahora haz lo mismo para los pull requests del proyecto.
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    ¿Cu&aacute;n recientemente ocurri&oacute; la entrada (merge) de un pull request? (En GitHub, haz click en el v&iacute;nculo "closed" en la p&aacute;gina de pull requests para ver los PRs cerrados.)
+    ¿Cu&aacute;ndo recientemente ocurri&oacute; la entrada (merge) de un pull request? (En GitHub, haz click en el v&iacute;nculo "closed" en la p&aacute;gina de pull requests para ver los PRs cerrados.)
   </label>
 </div>
 
