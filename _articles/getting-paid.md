@@ -59,7 +59,7 @@ Paid work also enables people from different walks of life to make meaningful co
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
@@ -104,10 +104,15 @@ If you can't convince your current employer to prioritize open source work, cons
 
 Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
 
-Finally, depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
+Depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
 
 * @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](https://redux.js.org/)
 * @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+
+Finally, sometimes open source projects put bounties on issues that you might consider helping with. 
+
+* @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their javascript library [through a bounty on gitcoin](https://gitcoin.co/).
+* @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://beta.bounties.network/bounty/v1/134).
 
 ## Finding funding for your project
 

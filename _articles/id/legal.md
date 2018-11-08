@@ -56,7 +56,7 @@ Ketika Anda menciptakan proyek baru pada GitHub, Anda akan [diminta untuk menamb
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   Sebuah lisensi yang terstandarisasi berfungsi sebagai jembatan bagi mereka yang tidak memiliki pelatihan hukum untuk tahu secara pasti apa yang mereka bisa dan tidak bisa lakukan dengan perangkat lunak. Apabila memungkinkan, hindari istilah yang aneh, modifikasi, atau tidak standar, yang akan menjadi penghambat bagi orang lain untuk menggunakan kode Anda.
   <p markdown="1" class="pquote-credit">
-— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 
@@ -72,7 +72,7 @@ Di satu sisi, jika salah satu dari lisensi ketergantungan Anda adalah "copyleft"
 
 Anda juga perlu memperhatikan **komunitas** akan menggunakan dan berkontribusi pada proyek Anda:
 
-* **Apakah Anda ingin proyek Anda digunakan sebagai ketergantungan oleh proyek lain?** Mungkin paling tepat untuk menggunakan lisensi yang paling populer pada komunitas Anda. Sebagai contoh, [MIT](https://choosealicense.com/licenses/mit/) adalah lisensi yang paling populer untuk [pustaka npm](https://libraries.io/npm).
+* **Apakah Anda ingin proyek Anda digunakan sebagai ketergantungan oleh proyek lain?** Mungkin paling tepat untuk menggunakan lisensi yang paling populer pada komunitas Anda. Sebagai contoh, [MIT](https://choosealicense.com/licenses/mit/) adalah lisensi yang paling populer untuk [pustaka npm](https://libraries.io/search?platforms=NPM).
 * **Apakah Anda ingin proyek Anda menarik bagi kalangan bisnis skala besar?** Kalangan bisnis yang berskala besar memiliki kencenderungan untuk menggunakan lisensi paten ekspress dari semua kontributor. Dalam hal ini, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) dapat mencakup Anda dan mereka.
 * **Apakah Anda ingin proyek Anda menarik bagi kontributor yang tidak ingin hasil kontribusinya tidak digunakan pada perangkat lunak tertutup?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) atau (jika mereka juga tidak mau berkontribusi pada layanan tertutup) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) merupakan pilihan yang tepat.
 
@@ -152,7 +152,7 @@ Dalam jangka panjang, tim hukum Anda bisa melakukan lebih banyak lagi dengan mem
 </aside>
 
 * **Apa yang dirilis:** [(Hampir) semuanya?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) jika tim hukum Anda memahami dan berinvestasi pada strategi open source perusahaan Anda, mereka akan banyak membantu dibandingkan merugikan Anda.
-* **Kesesuaian:** Meskipun perusahaan Anda tidak merilis proyek open source, perusahaan Anda menggunakan perangkat lunak open source milik orang lain. [Kewaspadaandan proses](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) bisa mencegah masalah, keterlambatan produk, dan tuntutan hukum.
+* **Kesesuaian:** Meskipun perusahaan Anda tidak merilis proyek open source, perusahaan Anda menggunakan perangkat lunak open source milik orang lain. [Kewaspadaandan proses](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) bisa mencegah masalah, keterlambatan produk, dan tuntutan hukum.
 
 <aside markdown="1" class="pquote">
   Organisasi harus memiliki lisensi dan strategi penyesuaian yang sesuai untuk kategori \["permissive" dan "copyleft"\]. Hal ini dimulai dengan menyimpan catatan dari istilah lisensi yang digunakan pada perangkat lunak open source yang Anda gunakan — termasuk sub komponen dan ketergantungannya.

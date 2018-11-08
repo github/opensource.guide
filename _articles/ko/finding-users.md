@@ -33,7 +33,7 @@ related:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-메시징에 대해 더 자세히 알고 싶으면, Mozilla의 ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) 개발자용 연습 personas를 확인하십시오.
+메시징에 대해 더 자세히 알고 싶으면, Mozilla의 ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) 개발자용 연습 personas를 확인하십시오.
 
 ## Help people find and follow your project
 
@@ -72,13 +72,13 @@ related:
 
 온라인 홍보는 단어를 빠르게 공유하고 전파 할 수 있는 좋은 방법입니다. 온라인 채널을 사용하면 매우 광범위한 잠재적 고객에게 도달 할 수 있습니다.
 
-기존 온라인 커뮤니티 및 플랫폼을 활용하여 잠재 고객에게 도달하십시오. 만약 오픈소스 프로젝트가 소프트웨어 프로젝트라면, 아마도 [스택 오버플로우](http://stackoverflow.com/), [레딧](http://www.reddit.com), [해커 뉴스](https://news.ycombinator.com/), 또는 [Quora](https://www.quora.com/)에서 고객을 찾을 수 있을 것입니다. 사람들이 당신의 작품에 대해 가장 많은 이익을 보거나 즐거워한다고 생각하는 채널을 찾으십시오.
+기존 온라인 커뮤니티 및 플랫폼을 활용하여 잠재 고객에게 도달하십시오. 만약 오픈소스 프로젝트가 소프트웨어 프로젝트라면, 아마도 [스택 오버플로우](https://stackoverflow.com/), [레딧](https://www.reddit.com), [해커 뉴스](https://news.ycombinator.com/), 또는 [Quora](https://www.quora.com/)에서 고객을 찾을 수 있을 것입니다. 사람들이 당신의 작품에 대해 가장 많은 이익을 보거나 즐거워한다고 생각하는 채널을 찾으십시오.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["오픈소스 프로젝트에서의 마케팅"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["오픈소스 프로젝트에서의 마케팅"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
@@ -98,7 +98,7 @@ related:
 
 오프라인 이벤트는 새로운 프로젝트를 홍보하는 인기있는 방법입니다. 참여한 잠재 고객에게 도달하거나, 더 깊은 인간 관계를 구축할 수 있는 좋은 방법입니다. 특히 개발자에게 다가가려는 경우 더욱 그렇습니다.
 
-만약 [새로운 공개 연설](http://speaking.io/)을 한다면, 프로젝트의 언어 또는 생태계와 관련된 지역 모임을 찾아보십시오.
+만약 [새로운 공개 연설](https://speaking.io/)을 한다면, 프로젝트의 언어 또는 생태계와 관련된 지역 모임을 찾아보십시오.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
@@ -144,7 +144,7 @@ related:
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
   <p markdown="1" class="pquote-credit">
-— @shazow, ["오픈소스 프로젝트를 번성하게 만드는 방법"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+— @shazow, ["오픈소스 프로젝트를 번성하게 만드는 방법"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
 </aside>
 

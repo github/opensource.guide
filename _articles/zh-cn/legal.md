@@ -57,7 +57,7 @@ related:
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   一个标准化的许可协议可以作为没有法律培训的人员的代理，以准确地知道他们可以和不能用软件做什么。除非绝对要求，否则应避免使用定制，修改或非标准术语，这将成为他人使用代码的障碍。
   <p markdown="1" class="pquote-credit">
-— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 
@@ -73,7 +73,7 @@ related:
 
 你们也会想到考虑希望你们的社区使用以及贡献你们的项目：
 
-* **你们是否想让你们的项目成为其它项目的依赖？**在你们的相关社区最好尽可能使用最流行的许可协议。例如，[MIT](https://choosealicense.com/licenses/mit/)是[npm libraries](https://libraries.io/npm)使用的最流行的许可协议。
+* **你们是否想让你们的项目成为其它项目的依赖？**在你们的相关社区最好尽可能使用最流行的许可协议。例如，[MIT](https://choosealicense.com/licenses/mit/)是[npm libraries](https://libraries.io/search?platforms=NPM)使用的最流行的许可协议。
 * **你们的项目是否想吸引大企业？**大型企业可能需要所有贡献者的明确专利许可。在这种情况下，[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)适合你们。
 * **你们的项目是否想吸引不愿自己的贡献用于其它同类型软件的贡献者？**[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)和[AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)适合你们。
 
@@ -152,7 +152,7 @@ related:
 </aside>
 
 * **发布什么：**[（几乎） 所有？](http://tom.preston-werner.com/2011/11/22/open-source-everything.html)如果你们的法律团队了解并投资于你们公司的开源策略，他们将是你们最好的帮助，而不是阻碍你们的努力。
-* **合规性：**即使你们公司没有发布任何开源项目，他们也会使用别人的开源软件。[意识和过程](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program)可以避免麻烦，产品延迟发布和诉讼。
+* **合规性：**即使你们公司没有发布任何开源项目，他们也会使用别人的开源软件。[意识和过程](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/)可以避免麻烦，产品延迟发布和诉讼。
 
 <aside markdown="1" class="pquote">
   组织必须具有适合["允许"和"copyleft"]类别的许可协议和合规性策略。首先，记录适用于你们所使用的开源软件的许可条款（包括子组件和依赖项）。

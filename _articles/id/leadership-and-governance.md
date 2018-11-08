@@ -95,7 +95,7 @@ Jika proyek Anda berada pada GitHub, Anda bisa menggunakan [protected branches](
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Ketika seseorang mengirimkan sebuah pull request, berikan mereka akses commit pada proyek Anda. Meskipun tampaknya hal bodoh pada awalnya, menggunakan strategi ini akan memaksimalkan kekuatan utama dari GitHub. (...) Setelah orang-orang memiliki akses commit, mereka tidak lagi khawatir bahwa perubahan mereka tidak akan digunakan...hal ini akan membuat mereka bekerja lebih keras pada perubahan yang diusulkan.
   <p markdown="1" class="pquote-credit">
-— @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
+— @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
@@ -105,15 +105,15 @@ Terdapat tiga struktur pengelolaan yang umumnya dipakai pada proyek open source.
 
 * **BDFL:** BDFL kependekan dari "Benevolent Dictator for Life". Pada struktur ini, satu orang (biasanya pendiri proyek) memiliki keputusan final terhadap semua keputusan proyek. [Python](https://github.com/python) adalah contoh klasik. Proyek yang lebih kecil biasanya menganut model BDFL secara default, karena hanya terdapat satu atau dua pengelola. Sebuah proyek yang berawal dari sebuah perusahaan juga bisa masuk kedalam kategori BDFL.
 
-* **Meritokrasi:** **(Catatan: istilah "meritokrasi" memiliki konotasi negatif pada beberapa komunitas dan [sejarah sosial dan politis yang kompleks](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Pada model meritokrasi, kontributor aktif sebuah proyek (mereka yang "layak") diberikan peran dalam pengambilan keputusan formal. Keputusan biasanya dilakukan berdasarkan konsensus voting. Konsep ini diciptakan oleh [Yayasan Apache](http://www.apache.org/); [semua proyek Apache](http://www.apache.org/index.html#projects-list) menganut model ini. Kontribusi hanya dapat dilakukan secara perseorangan mewakili dirinya sendiri, bukan untuk sebuah perusahaan.
+* **Meritokrasi:** **(Catatan: istilah "meritokrasi" memiliki konotasi negatif pada beberapa komunitas dan [sejarah sosial dan politis yang kompleks](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Pada model meritokrasi, kontributor aktif sebuah proyek (mereka yang "layak") diberikan peran dalam pengambilan keputusan formal. Keputusan biasanya dilakukan berdasarkan konsensus voting. Konsep ini diciptakan oleh [Yayasan Apache](https://www.apache.org/); [semua proyek Apache](https://www.apache.org/index.html#projects-list) menganut model ini. Kontribusi hanya dapat dilakukan secara perseorangan mewakili dirinya sendiri, bukan untuk sebuah perusahaan.
 
-* **Kontribusi liberal:** Pada model ini, orang-orang yang banyak melakukan pekerjaan adalah yang dianggap berperan, namun ini berbasiskan pada pekerjaan saat ini dan bukan kontribusi yang lampau. Pengambilan keputusan pada proyek berdasarkan pada proses pencarian konsensus dibandingkan voting murni, dan mencoba melibatkan banyak pandangan dari komunitas. Contoh populer proyek yang menggunakan model ini meliputi [Node.js](https://nodejs.org/en/foundation/) dan [Rust](https://www.rust-lang.org/en-US/).
+* **Kontribusi liberal:** Pada model ini, orang-orang yang banyak melakukan pekerjaan adalah yang dianggap berperan, namun ini berbasiskan pada pekerjaan saat ini dan bukan kontribusi yang lampau. Pengambilan keputusan pada proyek berdasarkan pada proses pencarian konsensus dibandingkan voting murni, dan mencoba melibatkan banyak pandangan dari komunitas. Contoh populer proyek yang menggunakan model ini meliputi [Node.js](https://foundation.nodejs.org/) dan [Rust](https://www.rust-lang.org/en-US/).
 
 Mana yang harus Anda gunakan? Semuanya tergantung Anda! Setiap model memiliki kelebihan dan kekurangan. Meskipun pada awalnya mereka tampak berbeda di awal, semua model memiliki banyak kesamaan. Jika Anda tertarik untuk mengadopsi salah satu model tersebut, silahkan lihat beberapa template berikut:
 
 * [template model BDFL](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 * [template model meritokrasi](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [kebijakan kontribusi liberal Node.js](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
+* [kebijakan kontribusi liberal Node.js](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
 ## Apakah saya perlu dokumentasi pengelolaan ketika Saya merilis proyek Saya?
 
@@ -151,14 +151,14 @@ Sebagai contoh, jika Anda hendak membuat bisnis komersial, Anda perlu membuat C 
 
 Jika Anda hendak menerima donasi untuk proyek open source Anda, Anda bisa membuat tombol donasi (menggunakan PayPal atau Stripe misalnya), tetapi uang tersebut akan dikurangi pajak kecuali Anda adalah nirlaba (501c3 jika Anda berada di AS).
 
-Banyak proyek tidak ingin kerepotan untuk membuat nirlaba, sehingga mereka mencari sponsor fiskal nonprofit. Sponsor fiskal menerima donasi untuk Anda, biasanya dengan imbalan beberapa pesen dari donasi. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](http://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) dan [Open Collective](https://opencollective.com/opensource) adalah contoh organisasi yang melayani sebagai sponsor fiskal untuk proyek open source.
+Banyak proyek tidak ingin kerepotan untuk membuat nirlaba, sehingga mereka mencari sponsor fiskal nonprofit. Sponsor fiskal menerima donasi untuk Anda, biasanya dengan imbalan beberapa pesen dari donasi. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) dan [Open Collective](https://opencollective.com/opensource) adalah contoh organisasi yang melayani sebagai sponsor fiskal untuk proyek open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Tujuan kami adalah menyediakan infrastruktur yang bisa digunakan oleh komunitas untuk pengelolaan mandiri, sehingga menciptakan sebuah lingkungan dimana setiap orang - kontributor, pendukung, sponsor - bisa menerima keuntungan yang jelas.
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
+— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 
-Jika proyek Anda sangat erat hubungannya dengan bahasa atau ekosistem tertentu, seringkali terdapat yayasan yang bisa Anda ajak kerjasama. Sebagai contoh, [Python Software Foundation](https://www.python.org/psf/) membantu [PyPI](https://pypi.python.org/pypi), Python package manager, dan [Node.js Foundation](https://nodejs.org/en/foundation/) membantu [Express.js](http://expressjs.com/), framework berbasis Node.
+Jika proyek Anda sangat erat hubungannya dengan bahasa atau ekosistem tertentu, seringkali terdapat yayasan yang bisa Anda ajak kerjasama. Sebagai contoh, [Python Software Foundation](https://www.python.org/psf/) membantu [PyPI](https://pypi.org/), Python package manager, dan [Node.js Foundation](https://foundation.nodejs.org/) membantu [Express.js](https://expressjs.com/), framework berbasis Node.

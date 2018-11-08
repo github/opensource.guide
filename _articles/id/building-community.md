@@ -22,7 +22,7 @@ Sebuah komunitas yang ramah merupakan investasi pada masa depan dan reputasi pro
 
 ### Buatlah agar orang-orang merasa diterima
 
-Satu cara untuk memikirkan komunitas proyek Anda adalah melalui apa yang disebut @MikeMcQuaid sebagai  [saluran kontributor](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel):
+Satu cara untuk memikirkan komunitas proyek Anda adalah melalui apa yang disebut @MikeMcQuaid sebagai  [saluran kontributor](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
 
 ![contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
@@ -58,7 +58,7 @@ Mendorong kontributor lain adalah sebuah investasi pada diri Anda juga. Ketika A
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Apakah Anda pernah menghadiri sebuah acara dimana Anda tidak mengenal siapapun, tetapi orang lain tampak saling mengenal satu sama lain dan berbicara seperti sahabat dekat? (...) Sekarang bayangkan Anda ingin berkontribusi pada proyek open source, namun Anda tidak dapat melihat kenapa dan bagaimana ini bisa terjadi.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -120,7 +120,7 @@ Lakukan yang terbaik untuk mengadopsi kebijakan tanpa toleransi terhadap orang-o
   <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
   Memiliki komunitas yang mendukung adalah kuncinya. Saya tidak akan pernah bisa melakukan pekerjaan ini tanpa rekan-rekan saya, orang asing di Internet yang ramah, dan chanel IRC yang ramai (...).
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
+— @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -136,7 +136,7 @@ Pada dokumen CONTRIBUTING, jelaskan secara eksplisit bagaimana kontributor baru 
 
 ![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-Pada daftar laporan masalah Anda, tandai masalah yang cocok untuk setiap jenis kontributor yang berbeda: misalnya, [_"hanya pemula"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"laporan kesalahan pertama"_, atau _"dokumentasi"_. [Label ini](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) mempermudah orang yang baru pada proyek Anda untuk mencari daftar laporan masalah dan mulai berkontribusi.
+Pada daftar laporan masalah Anda, tandai masalah yang cocok untuk setiap jenis kontributor yang berbeda: misalnya, [_"hanya pemula"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"laporan kesalahan pertama"_, atau _"dokumentasi"_. [Label ini](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) mempermudah orang yang baru pada proyek Anda untuk mencari daftar laporan masalah dan mulai berkontribusi.
 
 Akhirnya, gunakan dokumentasi Anda untuk membuat orang lain nyaman pada setiap langkahnya.
 
@@ -152,7 +152,7 @@ Sebagai contoh, berikut bagaimana cara [Rubinius](https://github.com/rubinius/ru
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
   Pemimpin Anda akan memiliki opini  yang berbeda, seperti halnya komunitas lainnya! Namun, Anda perlu mengambil langkah-langkah untuk memastikan bahwa suara terbesar tidak selalu menang, dan suara minoritas akan selalu didengarkan.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sarahsharp, ["What makes a good community?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -168,7 +168,7 @@ Cari cara untuk bisa berbagi kepemilikan dengan komunitas Anda sebanyak mungkin.
 
 * Jika Anda memiliki komunitas yang cukup besar, **kirimkan surat berita atau tuliskan blog** dan ucapkan terima kasih pada kontributor. [This Week in Rust](https://this-week-in-rust.org/) milik Rust dan [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) milik Hoodie adalah dua contoh bagus.
 
-* **Berikan setiap kontributor akses commit.** @felixge menemukan bahwa hal ini membuat orang lain [lebih tertarik untuk memperbaiki perbaikan mereka](http://felixge.de/2013/03/11/the-pull-request-hack.html), dan dia juga menemukan pengelola baru untuk proyek yang tidak dia kelola selama beberapa waktu.
+* **Berikan setiap kontributor akses commit.** @felixge menemukan bahwa hal ini membuat orang lain [lebih tertarik untuk memperbaiki perbaikan mereka](https://felixge.de/2013/03/11/the-pull-request-hack.html), dan dia juga menemukan pengelola baru untuk proyek yang tidak dia kelola selama beberapa waktu.
 
 * Jika proyek Anda berada pada GitHub, **pindahkan proyek Anda dari akun personal ke [Organisasi](https://help.github.com/articles/creating-a-new-organization-account/)** dan tambahkan paling tidak satu admin cadangan. Organisasi mempermudah pekerjaan kolaborasi dengan kolaborator eksternal.
 
@@ -218,7 +218,7 @@ Dokumen README [lebih dari sekedar sekumpulan instruksi](../starting-a-project/#
 
 Beberapa proyek menggunakan proses pemilihan suara model voting untuk pengambilan keputusan yang besar. Meskipun masuk akal di awal, voting berfokus pada mendapatkan "jawaban", dan bukan pada mendengarkan dan menjawab kekhawatiran orang lain.
 
-Voting bisa sangat politis, dimana anggota komunitas merasa tertekan untuk melakukannya. Tidak semua memberikan suaranya, baik sebagai [silent majority](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) pada komunitas Anda, atau pengguna yang tidak tahu bahwa terjadi voting.
+Voting bisa sangat politis, dimana anggota komunitas merasa tertekan untuk melakukannya. Tidak semua memberikan suaranya, baik sebagai [silent majority](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) pada komunitas Anda, atau pengguna yang tidak tahu bahwa terjadi voting.
 
 Seringkali voting memang diperlukan untuk memecah kebuntuan. Namun tekankan ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) daripada konsensus.
 
@@ -254,7 +254,7 @@ Jika sebuah diskusi tidak mengarah kemana-mana, tidak ada tindakan yang jelas ya
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Mengarahkan sebuah diskusi pada sebuah kegunaan tanpa bersifat memaksa adalah sebuah seni. Hal ini tidak semudah untuk meminta orang-orang untuk menghabiskan waktu mereka, atau meminta mereka untuk tidak memberikan komentar kecuali mereka memiliki ide yang konstruktif. (...) Anda harus menyarankan kondisi untuk peningkatan lebih lanjut: berikan rute kepada orang, jalur yang bisa diikuti yang mengarah pada hasil yang Anda inginkan, tanpa seolah-olah Anda mengatur perilaku mereka.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 

@@ -5,11 +5,11 @@ zh-cn:
     contribute: 贡献
   index:
     lead: 开放源代码软件就是由你这样的人所打造，这里只是为了节省你的学习时间而设，从这里开启你的开源项目之旅吧！
-    opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
+    opensourcefriday: 又是星期五！投入几个小时为您使用和喜爱的软件做出贡献
   article:
     table_of_contents: 目录
-    back_to_all_guides: Back to all guides
-    related_guides: Related Guides
+    back_to_all_guides: 返回所有指南
+    related_guides: 相关指南
   footer:
     contribute:
       heading: 贡献
@@ -22,10 +22,10 @@ zh-cn:
       button: 提交
     byline:
       # [code], [love], and [github] will be replaced by octicons
-      format: "[code] with [love] by [github] and [friends]"
+      format: "[code] 与 [love] 通过 [github] 和 [friends]"
       # Label for code octicon
       code_label: 代码
       # Label for love octicon
       love_label: 爱心
       # Label for the contributors link
-      friends_label: friends
+      friends_label: 朋友

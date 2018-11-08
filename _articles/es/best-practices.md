@@ -31,7 +31,7 @@ Tomar nota de los procedimientos es una de las mejores pr&aacute;cticas que pued
 
 Documentar no s&oacute;lo aclara tu pensamiento, sino que tambi&eacute;n ayuda a otros a entender lo que necesitas o est&aacute;s esperando, sin siquiera tener que preguntar.
 
-Tomar nota de los procesimientos facilita el hecho de decir que no cuando la propuesta de alguien no encaja en tu contexto. Asi como tambi&eacute;n hace m&aacute;s f&aacute;cil que otras personas puedan sumarse y ayudar. Nunca sabes quien podr&iacute;a estar leyendo o usando tu proyecto.
+Tomar nota de los procesos facilita el hecho de decir que no cuando la propuesta de alguien no encaja en tu contexto. As&iacute; como tambi&eacute;n hace m&aacute;s f&aacute;cil que otras personas puedan sumarse y ayudar. Nunca sabes quien podr&iacute;a estar leyendo o usando tu proyecto.
 
 Aunque no seas del tipo de persona que escribe p&aacute;rrafos completos, tener los puntos claves anotados es mejor que no tener nada.
 
@@ -110,7 +110,7 @@ Si recibes una contribuci&oacute;n que no deseas aceptar, tu primera reacci&oacu
 
 No dejes abierta una contribuci&oacute;n no deseada porque te sientas culpable o quieras ser amable. Con el tiempo, tus issues sin respuesta y PRs har&aacute; que trabajar en tu proyecto se sienta mucho m&aacute;s estresante e intimidante.
 
-Es mejor cerrar de inmediato las contribuciones que sabes que no quieres aceptar. Si tu proyecto ya sufre de un gran backlog o lista de funcionalidades a implementar, @steveklabnik tiene sugerencias para [c&oacute;mo elegir issues de manera eficiente](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Es mejor cerrar de inmediato las contribuciones que sabes que no quieres aceptar. Si tu proyecto ya sufre de un gran backlog o lista de funcionalidades a implementar, @steveklabnik tiene sugerencias para [c&oacute;mo elegir issues de manera eficiente](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
 En segundo lugar, ignorar las contribuciones env&iacute;a una se&ntilde;al negativa a tu comunidad. Contribuir a un proyecto puede ser intimidante, especialmente si es la primera vez de alguien. Incluso si no aceptas su contribuci&oacute;n, reconocer a la persona detr&aacute;s de ella y agradecerles por su inter&eacute;s. ¡Es un gran cumplido!
 
@@ -160,7 +160,7 @@ A veces, cuando dices que no, tu contribuyente potencial puede molestarse o crit
 
 Tal vez alguien en tu comunidad env&iacute;e regularmente contribuciones que no cumplen con los est&aacute;ndares de tu proyecto. Puede ser frustrante para ambas partes pasar repetidamente por el proceso de rechazo.
 
-Si ves que alguien est&aacute; entusiasmado con tu proyecto, pero necesita un poco de pr&aacute;ctica, ten paciencia. Explica claramente en cada situaci&oacute;n por qu&eacute; sus contribuciones no cumplen con las expectativas del proyecto. Trata de asignarles una tarea m&aacute;s f&aacute;cil o menos ambigua, como una issue marcada como _"good first bug,"_ , para entrar en calor. Si tienes tiempo, considera mentorearlos a trav&eacute;s de su primera contribuci&oacute;n, o encuentra a alguien m&aacute;s en tu comunidad que est&eacute; dispuesto a ser mentor de ellos.
+Si ves que alguien est&aacute; entusiasmado con tu proyecto, pero necesita un poco de pr&aacute;ctica, ten paciencia. Explica claramente en cada situaci&oacute;n por qu&eacute; sus contribuciones no cumplen con las expectativas del proyecto. Trata de asignarles una tarea m&aacute;s f&aacute;cil o menos ambigua, como una issue marcada como _"good first issue,"_ , para entrar en calor. Si tienes tiempo, considera mentorearlos a trav&eacute;s de su primera contribuci&oacute;n, o encuentra a alguien m&aacute;s en tu comunidad que est&eacute; dispuesto a ser mentor de ellos.
 
 ## Aprovechando la comunidad
 
@@ -172,13 +172,13 @@ Si est&aacute;s buscando a otros para que se sumen, comienza por preguntar alred
 
 Cuando veas nuevos contribuyentes haciendo contribuciones repetidas, deber&iacute;as reconocer su trabajo ofreci&eacute;ndoles m&aacute;s responsabilidades. Documenta c&oacute;mo otros pueden alcanzar roles de liderazgo si lo desean.
 
-Alentar a otros a [compartir la propiedad del proyecto](../building-community/#comparte-la-propiedad-de-tu-proyecto) puede reducir en gran medida tu carga de trabajo, como @lmccart descubri&oacute; en su proyecto, [p5.js](https://github.com/processing/p5.js?files=1).
+Alentar a otros a [compartir la propiedad del proyecto](../building-community/#comparte-la-propiedad-de-tu-proyecto) puede reducir en gran medida tu carga de trabajo, como @lmccart descubri&oacute; en su proyecto, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   Estuve diciendo, "Si, cualquier persona puede formar parte, no necesitas tener mucha experiencia en programaci&oacute;n [...]." Hemos tenido personas incriptas [a eventos] y ah&iacute; fue cuando me pregunt&eacute;: es esto cierto, lo que estuve diciendo? Habr&aacute;n 40 personas que se presentar&aacute;n, y no es como si pudiera sentarme con cada uno de ellos...Pero la gente se reuni&oacute;, y funcion&oacute;. tan pronto como una persona lo consiguiera, podr&iacute;a ense&ntilde;arle a sus vecinos.
   <p markdown="1" class="pquote-credit">
-—  @lmccart, ["¿Qu&eacute; significa, al fin y al cabo, "C&oacute;digo Abierto"? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
+—  @lmccart, ["¿Qu&eacute; significa, al fin y al cabo, "C&oacute;digo Abierto"? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 
@@ -186,7 +186,7 @@ Si necesitas alejarte de tu proyecto, ya sea por un tiempo o permanentemente, no
 
 Si otras personas son entusiastas acerca de la direcci&oacute;n del proyecto, dales permiso para relizar commits o formalmente entr&eacute;gale el control a alguien m&aacute;s. Si alguien realiz&oacute; un fork de tu proyecto y lo est&aacute; manteniendo activamente en otro lugar, considera enlazar el fork desde tu proyecto original. ¡Es genial que tantas personas quieran que tu proyecto crezca!
 
-@progrium [encontr&oacute; que](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentar la visi&oacute;n de su proyecto, [Dokku](https://github.com/dokku/dokku), ayud&oacute; a esos objetivos a perdurar, incluso despu&eacute;s de que se alej&oacute; del proyecto:
+@progrium [encontr&oacute; que](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentar la visi&oacute;n de su proyecto, [Dokku](https://github.com/dokku/dokku), ayud&oacute; a esos objetivos a perdurar, incluso despu&eacute;s de que se alej&oacute; del proyecto:
 
 > Escrib&iacute; una p&aacute;gina wiki describiendo lo que quer&iacute;a y por qu&eacute; lo quer&iacute;a. ¡Por alguna raz&oacute;n me sorprendi&oacute; que los mantenedores comenzaran a mover el proyecto en esa direcci&oacute;n! ¿Sucedi&oacute; exactamente c&oacute;mo lo har&iacute;a? No siempre. Pero a&uacute;n as&iacute; acerc&oacute; el proyecto a lo que quer&iacute;a.
 
@@ -205,7 +205,7 @@ Hacer fork de un proyecto no tiene por qu&eacute; ser una cosa mala. Ser capaz d
 </aside>
 
 Lo mismo se aplica a un usuario que realmente quiere una soluci&oacute;n que simplemente no tienes el alcance para construir. Ofrecer APIs y hooks personalizables puede ayudar a otros a satisfacer sus propias necesidades, sin tener que modificar la fuente directamente.
-@orta [encontr&oacute; que](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) alentando plugins para CocoaPods llev&oacute; a "algunas de las ideas m&aacute;s interesantes":
+@orta [encontr&oacute; que](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) alentando plugins para CocoaPods llev&oacute; a "algunas de las ideas m&aacute;s interesantes":
 
 > Es casi inevitable que una vez que un proyecto se hace grande, los mantenedores tienen que ser mucho m&aacute;s conservadores sobre c&oacute;mo introducir nuevo c&oacute;digo. Te vuelves bueno en decir "no", pero muchas personas tienen necesidades leg&iacute;timas. Por lo tanto, en su lugar terminas convirtiendo tu herramienta en una plataforma.
 
@@ -228,7 +228,7 @@ Si agregas testing, aseg&uacute;rate de explicar c&oacute;mo funcionan en su arc
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Creo que las pruebas son necesarias para todo c&oacute;digo en el que la gente trabaja. Si el c&oacute;digo era totalmente y perfectamente correcto, no necesitar&iacute;a cambios - s&oacute;lo escribimos c&oacute;digo cuando algo est&aacute; mal, ya sea "Se bloquea" o "Falta tal o cual caracter&iacute;stica". Independientemente de los cambios que est&eacute;s haciendo, las pruebas son esenciales para capturar cualquier regresi&oacute;n que pueda introducir accidentalmente.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Automatizaci&oacute;n de la comunidad de Rust"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Automatizaci&oacute;n de la comunidad de Rust"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

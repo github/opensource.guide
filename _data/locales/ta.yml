@@ -1,0 +1,31 @@
+ta:
+  locale_name: தமிழ்
+  nav:
+    about: பற்றி
+    contribute: பங்களி
+  index:
+    lead: திறந்த மூல மென்பொருள் உங்களைப் போன்ற நபர்களால் உருவாக்கப்படுகிறது. உங்கள் திட்டத்தை எவ்வாறு தொடங்குவது மற்றும் வளர்வது என்பதை அறிக.
+    opensourcefriday: வெள்ளிக்கிழமை! நீங்கள் பயன்படுத்துகின்ற, விரும்பும் மென்பொருளுக்கு பங்களிக்கும் சில மணிநேரங்களை முதலீடு செய்யுங்கள்
+  article:
+    table_of_contents: பொருளடக்கம்
+    back_to_all_guides: எல்லா வழிகாட்டிகளுக்கும் திரும்பு
+    related_guides: தொடர்புடைய வழிகாட்டிகள்
+  footer:
+    contribute:
+      heading: பங்களி
+      description: யோசனை சொல்ல வேண்டுமா? இந்த உள்ளடக்கம் திறந்த மூலமாகும். அதை மேம்படுத்த உதவவும்.
+      button: பங்களி
+    subscribe:
+      heading: தொடர்பில் இருங்கள்
+      description: GitHub இன் சமீபத்திய திறந்த மூல குறிப்புகள் மற்றும் வளங்களைப் பற்றி முதலில் கேட்கவும்.
+      label: மின்னஞ்சல் முகவரி
+      button: பதிவு
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] with [love] by [github] and [friends]"
+      # Label for code octicon
+      code_label: code
+      # Label for love octicon
+      love_label: love
+      # Label for the contributors link
+      friends_label: friends

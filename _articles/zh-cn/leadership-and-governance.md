@@ -97,7 +97,7 @@ related:
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   无论什么时候，都会有人向你发送pull request，所以将你的项目开放提交访问。这看起来是有些不够明智，使用此策略能让你释放GitHub的真正威力。(...)一旦人们拥有了提交访问权,他们不再担心他们的补丁可能不会被合并.....这会让他们做的更多。
   <p markdown="1" class="pquote-credit">
-— @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
+— @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
@@ -107,15 +107,15 @@ related:
 
 * **BDFL:** BDFL 是 "仁慈的独裁者生活" 的缩写. 在此结构下，有一个人（通常是项目的最初的作者）拥有项目中所有的最后决定权。[Python](https://github.com/python) 就是一个非常经典的例子。较小的项目可能默认就是 BDFL 结构，因为他一般就是一到两位维护者。若是公司组织的项目也极有可能会采用BDFL结构。
 
-* **精英制:** **(注: 术语 "精英制" 对于一些社群可能具有消极的含义，其拥有较[复杂的社会和政治的历史](http://geekfeminism.wikia.com/wiki/Meritocracy).)** 在精英制下，活跃的项目贡献者（他们用行动证明自己是"精英"）给一个正式的决策作用，决定通常会基于纯粹的投票一致性。精英制的概念首次由[Apache Foundation](http://www.apache.org/)提出；[所有的Apache 项目](http://www.apache.org/index.html#projects-list) 都是基于精英制的。贡献者只能代表自己是独立的个体，不可以是公司。
+* **精英制:** **(注: 术语 "精英制" 对于一些社群可能具有消极的含义，其拥有较[复杂的社会和政治的历史](http://geekfeminism.wikia.com/wiki/Meritocracy).)** 在精英制下，活跃的项目贡献者（他们用行动证明自己是"精英"）给一个正式的决策作用，决定通常会基于纯粹的投票一致性。精英制的概念首次由[Apache Foundation](https://www.apache.org/)提出；[所有的Apache 项目](https://www.apache.org/index.html#projects-list) 都是基于精英制的。贡献者只能代表自己是独立的个体，不可以是公司。
 
-* **自由贡献:** 在自由贡献的模式下，做最多工作的人通常被认为是最具影响力的，但是是基于当前的工作，而不是历史的共享。项目的重大决策是基于寻求共识的过程（对不同的声音要讨论）而不是纯粹的投票，尽可能的努力的去囊括多的社区观点。较流行的使用自由贡献模式的项目有[Node.js](https://nodejs.org/en/foundation/) 和 [Rust](https://www.rust-lang.org/en-US/)。
+* **自由贡献:** 在自由贡献的模式下，做最多工作的人通常被认为是最具影响力的，但是是基于当前的工作，而不是历史的共享。项目的重大决策是基于寻求共识的过程（对不同的声音要讨论）而不是纯粹的投票，尽可能的努力的去囊括多的社区观点。较流行的使用自由贡献模式的项目有[Node.js](https://foundation.nodejs.org/) 和 [Rust](https://www.rust-lang.org/en-US/)。
 
 应该选择哪一种模式了呢？由你自己来做决定！每个模式都有优点，也有缺点。虽然上面的描述乍一看，这三种模式有着很大的不同，其实不然，它们还是有着共同点的。如果你对上述三种模式有兴趣，可以采用下面的模版：
 
 * [BDFL 模式模版](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 * [精英模式模版](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Node.js 的自由贡献规则](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
+* [Node.js 的自由贡献规则](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
 ## Do I need governance docs when I launch my project?
 
@@ -153,14 +153,14 @@ related:
 
 如果你打算让自己的开源项目接受捐赠的话，你可以创建一个捐赠按钮（使用PayPal或Stripe，举例来说），但是你要知道，这些钱并非是免税的，除非你是认证过的非盈利性组织（在美国的话，诸如501c3）。
 
-很多项目都不愿意成立非盈利组织那么麻烦，所以他们会以赞助商的身份寻找一个非营利性组织。财政资助代表你接受捐款,通常以换取一定比例的捐赠。针对开源项目接受财政资助的非营利性组织有很多，如[Software Freedom Conservancy](https://sfconservancy.org/), [Apache 基金会](http://www.apache.org/), [Eclipse 基金会](https://eclipse.org/org/foundation/), [Linux 基金会](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) 等等。
+很多项目都不愿意成立非盈利组织那么麻烦，所以他们会以赞助商的身份寻找一个非营利性组织。财政资助代表你接受捐款,通常以换取一定比例的捐赠。针对开源项目接受财政资助的非营利性组织有很多，如[Software Freedom Conservancy](https://sfconservancy.org/), [Apache 基金会](https://www.apache.org/), [Eclipse 基金会](https://eclipse.org/org/foundation/), [Linux 基金会](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) 等等。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   我们的目标是提供基础设施，让社区能够自我持续发展下去，每个人——贡献者、支持者、赞助商———所共同营造的环境，也让每个人得到实实在在的利益。
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["超越 charity 框架"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
+— @piamancini, ["超越 charity 框架"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 
-如果你的项目是和某特定的语言或生态系统紧密相连的，那么你可以直接在相关的软件基金会下工作。例如，[Python 软件基金会](https://www.python.org/psf/) 就帮衬着项目 [PyPI](https://pypi.python.org/pypi)，这是一块优秀的Python包管理器，又比如[Node.js 基金会](https://nodejs.org/en/foundation/) 支撑着 [Express.js](http://expressjs.com/)，一款基于Node的框架。
+如果你的项目是和某特定的语言或生态系统紧密相连的，那么你可以直接在相关的软件基金会下工作。例如，[Python 软件基金会](https://www.python.org/psf/) 就帮衬着项目 [PyPI](https://pypi.org/)，这是一块优秀的Python包管理器，又比如[Node.js 基金会](https://foundation.nodejs.org/) 支撑着 [Express.js](https://expressjs.com/)，一款基于Node的框架。
