@@ -219,7 +219,6 @@ related:
 * [கிட்ஹப் ஆராய்தல்](https://github.com/explore/)
 * [திறந்த மூல வெள்ளிக்கிழமை](https://opensourcefriday.com)
 * [முதல் முறையாளர்கள் மட்டுமே](https://www.firsttimersonly.com/)
-* [உங்கள் முதல் இழுகோரிக்கை(PR)](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 இழு கோரிக்கைகள்](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)

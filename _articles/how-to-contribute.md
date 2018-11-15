@@ -219,7 +219,6 @@ You can also use one of the following resources to help you discover and contrib
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
 * [First Timers Only](https://www.firsttimersonly.com/)
-* [Your First PR](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
