@@ -95,7 +95,7 @@ Jika proyek Anda berada pada GitHub, Anda bisa menggunakan [protected branches](
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Ketika seseorang mengirimkan sebuah pull request, berikan mereka akses commit pada proyek Anda. Meskipun tampaknya hal bodoh pada awalnya, menggunakan strategi ini akan memaksimalkan kekuatan utama dari GitHub. (...) Setelah orang-orang memiliki akses commit, mereka tidak lagi khawatir bahwa perubahan mereka tidak akan digunakan...hal ini akan membuat mereka bekerja lebih keras pada perubahan yang diusulkan.
   <p markdown="1" class="pquote-credit">
-— @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
+— @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
@@ -157,8 +157,8 @@ Banyak proyek tidak ingin kerepotan untuk membuat nirlaba, sehingga mereka menca
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Tujuan kami adalah menyediakan infrastruktur yang bisa digunakan oleh komunitas untuk pengelolaan mandiri, sehingga menciptakan sebuah lingkungan dimana setiap orang - kontributor, pendukung, sponsor - bisa menerima keuntungan yang jelas.
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
+— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 
-Jika proyek Anda sangat erat hubungannya dengan bahasa atau ekosistem tertentu, seringkali terdapat yayasan yang bisa Anda ajak kerjasama. Sebagai contoh, [Python Software Foundation](https://www.python.org/psf/) membantu [PyPI](https://pypi.org/), Python package manager, dan [Node.js Foundation](https://foundation.nodejs.org/) membantu [Express.js](http://expressjs.com/), framework berbasis Node.
+Jika proyek Anda sangat erat hubungannya dengan bahasa atau ekosistem tertentu, seringkali terdapat yayasan yang bisa Anda ajak kerjasama. Sebagai contoh, [Python Software Foundation](https://www.python.org/psf/) membantu [PyPI](https://pypi.org/), Python package manager, dan [Node.js Foundation](https://foundation.nodejs.org/) membantu [Express.js](https://expressjs.com/), framework berbasis Node.
