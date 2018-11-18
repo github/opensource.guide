@@ -219,7 +219,6 @@ related:
 * [GitHub 探索](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
 * [First Timers Only](https://www.firsttimersonly.com/)
-* [你的第一个 PR](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
