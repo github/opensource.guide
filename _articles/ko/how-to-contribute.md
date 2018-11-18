@@ -224,7 +224,7 @@ README를 읽고 깨진 링크 또는 오타를 찾을 수 있습니다. 또는 
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
-### 기여하기 전에 체크해야 할 사항들
+### A checklist before you contribute
 
 기여하고 싶은 프로젝트를 찾았다면 프로젝트가 기여를 받기에 적합한 지 확인하세요. 그렇지 않으면 여러분의 노력이 응답을 받지 못할 수도 있습니다.
 
