@@ -17,11 +17,11 @@ related:
   - building
 ---
 
-## 왜 오픈소스에 기여해야 하나요?
+## Why contribute to open source?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  \[freenode\] 에서 일하면서 많은 기술을 배웠고 나중에 대학교와 직장에서 잘 사용했습니다. 오픈소스 프로젝트에서 일하는 것은 제가 오픈소스를 도우는 것만큼 저에게도 도움이 되었습니다!
+  freenode에서 일하면서 많은 기술을 배웠고 나중에 대학교와 직장에서 잘 사용했습니다. 오픈소스 프로젝트에서 일하는 것은 제가 오픈소스를 도우는 것만큼 저에게도 도움이 되었습니다!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
@@ -55,7 +55,7 @@ related:
 
 평생 오픈소스에 참여하는 것을 즐기는 기여자가 될 필요는 없습니다. 웹 사이트에 오타를 봤는데 누군가 고쳐주길 바란 적 있나요? 오픈소스 프로젝트에선 누구든 할 수 있습니다. 오픈소스는 사람들이 삶에 대해 어떻게 대처하고 그들이 세상을 경험하는지를 느끼도록 도와줍니다.
 
-## 기여하는 것의 의미
+## What it means to contribute
 
 오픈소스 기여가 처음이시라면 기여하는 과정이 익숙하지 않을 것입니다. 올바른 프로젝트를 어떻게 찾을 수 있을까요? 코딩 방법을 모르거나 혹시 뭔가 잘못되면 어떡하죠?
 
@@ -106,7 +106,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  진지하게, \[문서화\]는 엄청 중요합니다. 문서화는 Babel의 가장 강력한 기능 중 하나입니다.
+  진지하게, 문서화는 엄청 중요합니다. 문서화는 Babel의 가장 강력한 기능 중 하나입니다.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
@@ -149,7 +149,7 @@ related:
 
 여러분이 소프트웨어 개발자더라도 문서 프로젝트 작업은 오픈소스에서 시작하는 데 도움이 될 수 있습니다. 코드를 포함하지 않는 프로젝트에서 작업하는 것이 상대적으로 덜 부담스러우며 협업 경험이 쌓일수록 자신감을 갖게 될 것입니다.
 
-## 새로운 프로젝트에 동참하기
+## Orienting yourself to a new project
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
@@ -196,7 +196,7 @@ related:
 * **토론 포럼 혹은 메일링 리스트**: 일부 프로젝트는 특정 주제(예. 버그 리포트나 기능 요청 대신 _"이런 기능은 어떻게 사용하나요"_ 또는 _"이것에 대해 어떻게 생각하시나요"_)에 대해 이러한 채널을 사용할 수 있습니다. 사람들은 모든 대화에 이슈 트래커를 사용합니다.
 * **동기식 채널 채팅**: 일부 프로젝트에서는 일상 회화, 공동 작업 및 빠른 교환을 위한 채팅 채널(예. Slack 또는 IRC)을 사용합니다.
 
-## 기여할만한 프로젝트 찾기
+## Finding a project to contribute to
 
 오픈소스 프로젝트가 어떻게 작동하는지 알았으니 이제는 기여할 프로젝트를 찾을 때입니다!
 
@@ -379,7 +379,7 @@ README를 읽고 깨진 링크 또는 오타를 찾을 수 있습니다. 또는 
   </p>
 </aside>
 
-## 기여 제출 방법
+## How to submit a contribution
 
 원하는 프로젝트를 찾았으면 기여할 준비가 다 되었습니다. 드디어! 올바른 방법으로 기여하는 방법은 다음과 같습니다.
 
@@ -389,7 +389,7 @@ README를 읽고 깨진 링크 또는 오타를 찾을 수 있습니다. 또는 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[새로운 기여자로서\] 저는 제가 이슈를 닫아도 되는지 물어봐야 한다는 것을 깨달았습니다. 저는 코드베이스를 살펴보았습니다. 어떤 일이 일어나고 있는지 이해한 후에 저는 방향에 대한 질문을 했습니다. 짜잔! 저는 관련된 자세한 사항들을 얻은 후에야 이슈를 해결할 수 있었습니다.
+  새로운 기여자로서 저는 제가 이슈를 닫아도 되는지 물어봐야 한다는 것을 깨달았습니다. 저는 코드베이스를 살펴보았습니다. 어떤 일이 일어나고 있는지 이해한 후에 저는 방향에 대한 질문을 했습니다. 짜잔! 저는 관련된 자세한 사항들을 얻은 후에야 이슈를 해결할 수 있었습니다.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner’s Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
@@ -491,7 +491,7 @@ pull request은 완료된 작업을 나타내지 않아도됩니다. 일반적�
 
 만약 이것이 첫 pull request 라면, @kentcdodds가 무료 walkthrough 리소스로 생성한 [Make a Pull Request](http://makeapullrequest.com/)를 확인하십시오.
 
-## 기여를 제출하면 어떻게 되나요?
+## What happens after you submit a contribution
 
 오픈소스 기여자가 되신 것을 축하드립니다!
 
