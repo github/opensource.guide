@@ -41,7 +41,7 @@ related:
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["어떻게 오픈 소스에 빠져야 나에게 멋진가?"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
+— @kentcdodds, ["How getting into Open Source has been awesome for me”](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
   </p>
 </aside>
 
@@ -85,7 +85,7 @@ related:
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
   At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
   <p markdown="1" class="pquote-credit">
-— @mavris, ["독학 소프트웨어 개발자: 오픈소스가 우리에게 중요한 이유"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+— @mavris, ["Self-taught Software Developers: Why Open Source is important to us”](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
 </aside>
 
@@ -101,7 +101,7 @@ related:
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["그래서 당신은 프로젝트를 오픈소스화하고 싶습니까?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["So you wanna open source a project, eh?”](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
   </p>
 </aside>
 
@@ -159,7 +159,7 @@ README를 사용하여 여러분이 기여를 받아들이는 방식, 프로젝�
   <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
   Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["읽힐 만한 글 쓰기 (비디오)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @limedaring, ["Writing So Your Words Are Read (video)”](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
@@ -205,7 +205,7 @@ README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 읽게 할
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
   <p markdown="1" class="pquote-credit">
-— @mlynch, ["오픈소스를 보다 행복한 곳으로 만들기"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
+— @mlynch, ["Making Open Source a Happier Place”](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
 </aside>
 
@@ -256,7 +256,7 @@ README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 읽게 할
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["지속 가능한 오픈소스"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source”](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

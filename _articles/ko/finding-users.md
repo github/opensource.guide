@@ -4,11 +4,11 @@ title: 프로젝트에 기여할 사람 찾기
 description: 당신의 오픈소스 프로젝트가 행복한 사용자들의 손길 아래 성장할 수 있게 만드세요.
 class: finding
 toc:
-  spreading-the-word: "단어 확산하기"
-  figure-out-your-message: "메시지 이해하기"
-  help-people-find-and-follow-your-project: "사람들이 프로젝트를 찾고 팔로우하도록 돕기"
-  go-where-your-projects-audience-is-online: "프로젝트의 고객이 있는 (온라인)으로 이동하기"
-  go-where-your-projects-audience-is-offline: "프로젝트의 고객이 있는 (오프라인)으로 이동하기"
+  spreading-the-word: "이야기 퍼뜨리기"
+  figure-out-your-message: "전달하고자 하는 메시지 정하기"
+  help-people-find-and-follow-your-project: "프로젝트를 찾고 구독하기 쉽게 하기"
+  go-where-your-projects-audience-is-online: "(온라인) 청중에게 다가가기"
+  go-where-your-projects-audience-is-offline: "(오프라인) 청중에게 다가가기"
   build-a-reputation: "평판 쌓기"
 order: 3
 image: /assets/images/cards/finding.png

@@ -23,7 +23,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["왜 나는 오프소스 소프트웨어에 기여하는 것을 좋아하는가"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software”](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -69,7 +69,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
   <p markdown="1" class="pquote-credit">
-— @orta, ["기본적으로 OSS으로 이동하기"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default”](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -79,7 +79,7 @@ related:
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
   I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
   <p markdown="1" class="pquote-credit">
-— @brettcannon, ["메인테이너 이야기"](https://github.com/open-source/stories/brettcannon)
+— @brettcannon, ["Maintainer Stories”](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
@@ -108,7 +108,7 @@ related:
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
   <p markdown="1" class="pquote-credit">
-— @kittens, ["기여자 부르기"](https://github.com/babel/babel/issues/1347)
+— @kittens, ["Call for contributors”](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
@@ -155,7 +155,7 @@ related:
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["어떻게 오픈소스에 기여하는가"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["How to Contribute to Open Source”](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
@@ -375,7 +375,7 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_OSS 생산_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
@@ -391,7 +391,7 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [초보자가 오픈소스 세계를 통해 즐기는 매우 울퉁불퉁한 여정](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner’s Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
 </aside>
 
@@ -453,7 +453,7 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
 <p markdown="1" class="pquote-credit">
-— @gaearon [프로젝트 합류](https://twitter.com/dan_abramov/status/819555257055322112)
+— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
