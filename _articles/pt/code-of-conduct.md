@@ -16,13 +16,14 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## Por que eu preciso de um código de conduta?
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+Um código de conduta é um documento que estabelece o comportamento esperado dos participantes do seu projeto.
+. Adotar e aplicar um código de conduta pode ajudar a criar uma atmosfera social positiva para a sua comunidade.
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+Códigos de conduta ajudam a proteger não somente seus participantes, mas você mesmo. Se você mantém um projeto, você pode chegar a conclusão de que atitudes improdutivas de outros participantes podem fazer com que você se sinta drenado ou infeliz com o seu trabalho ao longo do tempo.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+Um código de conduta te empondera para facilitar comportamentos saudáveis e construtivos de sua comunidade. Ser proativo reduz a probabilidade de que você, ou outros, se tornem fatigados com o seu projeto, e o ajudam a tomar alguma ação quando alguém faz algo que você não concorde.
 
 ## Establishing a code of conduct
 
