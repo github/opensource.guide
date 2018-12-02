@@ -5,7 +5,7 @@ description: Tout ce que vous avez jamais osé demandé sur le côté juridique 
 class: legal
 toc:
   pourquoi-les-gens-se-soucient-tellement-du-c&ocirc;t&eacute;-l&eacute;gal-de-lopen-source: "Pourquoi les gens se soucient tellement du c&ocirc;t&eacute; l&eacute;gal de l'open source"
-  les-projets-publics-GitHub-sont-ils-open-source: "Les projets publics GitHub sont-ils open source"
+  les-projets-publics-github-sont-ils-open-source: "Les projets publics GitHub sont-ils open source"
   donnez-moi-juste-lessentiel-sur-ce-dont-jai-besoin-pour-prot&eacute;ger-mon-projet: "Donnez-moi juste l'essentiel sur ce dont j'ai besoin pour prot&eacute;ger mon projet"
   quelle-licence-open-source-est-appropri&eacute;e-pour-mon-projet: "Quelle licence open source est appropri&eacute;e pour mon projet"
   et-si-je-veux-changer-la-licence-de-mon-projet: "Et si je veux changer la licence de mon projet"
