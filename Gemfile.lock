@@ -85,7 +85,7 @@ GEM
     html-pipeline (2.9.1)
       activesupport (>= 2)
       nokogiri (>= 1.4)
-    html-proofer (3.9.2)
+    html-proofer (3.9.3)
       activesupport (>= 4.2, < 6.0)
       addressable (~> 2.3)
       colorize (~> 0.8)
