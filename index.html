@@ -2,3 +2,19 @@
 layout: index
 lang: en
 ---
+cloud:
+    azure-arm:
+        client_id: FILL_WITH_YOUR_CLIENT_ID
+        secret: FILL_WITH_YOUR_SECRET
+        tenant_id: FILL_WITH_YOUR_TENANT
+        subscription_id: FILL_WITH_YOUR_SUBSCRIPTION_ID
+
+discovery:
+    zen.hosts_provider: azure-arm
+    azure-arm:
+        host:
+            type: private_ip
+            name: azure-esnode-master-*
+            group_name: azure-preprod
+            region: westeurope
+        refresh_interval: 10s
