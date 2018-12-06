@@ -33,7 +33,7 @@ Por ejemplo, @robb utiliza códigos de ejemplo para comunicar claramente porqué
 
 ![cartography readme](/assets/images/finding-users/cartography.jpg)
 
-Para una vista más profunda sobre cómo comunicar tu mensaje, puedes ver el ejercicio en Mozilla ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) para el desarrollo de personas usuario.
+Para una vista más profunda sobre cómo comunicar tu mensaje, puedes ver el ejercicio en Mozilla ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) para el desarrollo de personas usuario.
 
 ## Ayuda a las personas a encontrar y seguir tu proyecto
 
@@ -71,13 +71,13 @@ Ahora que ya tienes un mensaje para tu proyecto, y una manera sencilla para que 
 
 El alcance en l&iacute;nea es una gran manera de compartir y diseminar la palabra r&aacute;pidamente
 
-Saca ventaja de las comunidades en l&iacute;nea existentes y sus plataformas para alcanzar tu audiencia. Si tu proyecto es de codigo abierto es un proyecto de software, probablemente puedas encontrar tu audiencia en [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), o [Quora](https://www.quora.com/). Encuentra los canales donde pienses que las personas obtendrán los mayores beneficios o se sentir&aacute;n más entusiasmadas acerca de tu trabajo.
+Saca ventaja de las comunidades en l&iacute;nea existentes y sus plataformas para alcanzar tu audiencia. Si tu proyecto es de codigo abierto es un proyecto de software, probablemente puedas encontrar tu audiencia en [Stack Overflow](https://stackoverflow.com/), [reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), o [Quora](https://www.quora.com/). Encuentra los canales donde pienses que las personas obtendrán los mayores beneficios o se sentir&aacute;n más entusiasmadas acerca de tu trabajo.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
 Cada programa tiene funciones muy espec&iacute;ficas, que solamente una fracci&oacute;n de los usuarios encontra &uacute;til. No env&iacute;es masivamente correo a todas las personas posibles. En su lugar, enfoca tus esfuerzos en comunidades que se beneficiar&aacute;n de conocer sobre tu trabajo.
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
@@ -97,7 +97,7 @@ Si nadie presta atenci&oacute;n o responde a tu alcance inicial, ¡no te desanim
 
 Los eventos fuera de l&iacute;nea son una manera popular de promocionar nuevos proyectos. Es una gran manera de alcanzar una audiencia comprometida y de construir conexiones personales m&aacute;s profundas, especialmente si estás interesado en llegar a los desarrolladores.
 
-Si no tienes [experiencia para hablar en p&uacute;blico](http://speaking.io/), comienza por encontrar una comunidad local de personas que est&eacute;n relacionados con el lenguaje o ecosistema de tu proyecto.
+Si no tienes [experiencia para hablar en p&uacute;blico](https://speaking.io/), comienza por encontrar una comunidad local de personas que est&eacute;n relacionados con el lenguaje o ecosistema de tu proyecto.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
@@ -143,7 +143,7 @@ Algunas veces, esas relaciones pueden llevar incluso a asociaciones oficiales co
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   La &uacute;nica raz&oacute;n por la que urllib3 es la librer&iacute;a de Python de terceros m&aacute;s popular es porque es parte de las solicitudes.
   <p markdown="1" class="pquote-credit">
-— @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+— @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
 </aside>
 

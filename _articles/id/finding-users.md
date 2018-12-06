@@ -33,7 +33,7 @@ Sebagai contoh, @robb menggunakan contoh kode program untuk menjelaskan kenapa p
 
 ![cartography readme](/assets/images/finding-users/cartography.jpg)
 
-Untuk mendalami lebih dalam tentang penyampaian pesan, lihat panduan Mozilla ["Persona dan Jalur"](http://mozillascience.github.io/working-open-workshop/personas_pathways/) untuk mengembangkan persona pengguna.
+Untuk mendalami lebih dalam tentang penyampaian pesan, lihat panduan Mozilla ["Persona dan Jalur"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) untuk mengembangkan persona pengguna.
 
 ## Bantu orang lain menemukan dan mengikuti proyek Anda
 
@@ -72,13 +72,13 @@ Ketika Anda telah memiliki pesan untuk proyek Anda dan cara mudah bagi orang lai
 
 Kegiatan outreach online merupakan cara yang bagus untuk berbagi dan menyebarkan informasi dengan cepat. Dengan menggunakan chanel online, Anda memiliki potensi untuk menjangkau jumlah pengguna yang sangat besar.
 
-Ambil keuntungan dari komunitas dan platform online yang sudah ada untuk menjangkau pengguna Anda. Jika proyek open source Anda adalah proyek perangkat lunak, Anda mungkin bisa menjangkau proyek Anda melalui [Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), atau [Quora](https://www.quora.com/). Temukan chanel yang Anda pikir orang-orang akan mendapatkan keuntungan dari pekerjaan Anda.
+Ambil keuntungan dari komunitas dan platform online yang sudah ada untuk menjangkau pengguna Anda. Jika proyek open source Anda adalah proyek perangkat lunak, Anda mungkin bisa menjangkau proyek Anda melalui [Stack Overflow](https://stackoverflow.com/), [reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), atau [Quora](https://www.quora.com/). Temukan chanel yang Anda pikir orang-orang akan mendapatkan keuntungan dari pekerjaan Anda.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   Setiap program memiliki fungsi yang spesifik yang dianggap penting bagi sebagian kecil pengguna. Jangan melakukan spam kepada banyak orang. Tentukan target Anda pada komunitas yang mendapatkan keuntungan dengan mengetahui proyek Anda.
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
@@ -98,7 +98,7 @@ Jika tidak ada yang menanggapi atau merespon, jangan kecewa! Rilis proyek awal b
 
 Kegiatan _offline_ adalah cara yang populer untuk mempromosikan proyek baru. Kegiatan ini merupakan cara yang baik untuk menjangkau pengguna yang sibuk dan membangun koneksi yang lebih personal, terutama jika Anda tertarik untuk menjangkau para pengembang.
 
-Jika Anda termasuk [awam pada komunikasi publik](http://speaking.io/), mulailah dengan mencari acara pertemuan lokal yang berhubungan dengan bahasa atau ekosistem dari proyek Anda.
+Jika Anda termasuk [awam pada komunikasi publik](https://speaking.io/), mulailah dengan mencari acara pertemuan lokal yang berhubungan dengan bahasa atau ekosistem dari proyek Anda.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
@@ -144,7 +144,7 @@ Seringkali, hubungan ini bisa mengarah pada hubungan yang resmi dengan ekosistem
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   Satu-satunya alasan kenapa urllib3 adalah pustaka Python pihak ketiga yang paling terkenal adalah karena merupakan bagian dari requests.
   <p markdown="1" class="pquote-credit">
-— @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+— @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
 </aside>
 

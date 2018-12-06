@@ -110,7 +110,7 @@ related:
 
 죄책감을 느끼거나 좋은 사람이 되기위해 원하지 않는 기여는 하지마십시오. 시간이 지남에 귀하의 답변되지 않은 이슈와 PR은 프로젝트에 대한 작업을 훨씬 더 스트레스와 협박으로 느낄 것입니다.
 
-수락하고 싶지 않은 기여는 즉시 닫는 것이 좋습니다. 프로젝트에 이미 많은 양의 백로그가 있는 경우, @steveklabnik 는 [문제를 효율적으로 분류하는 방법](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)에 대한 제안 사항을 제공합니다.
+수락하고 싶지 않은 기여는 즉시 닫는 것이 좋습니다. 프로젝트에 이미 많은 양의 백로그가 있는 경우, @steveklabnik 는 [문제를 효율적으로 분류하는 방법](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)에 대한 제안 사항을 제공합니다.
 
 두번째로는, 기여를 무시하면 귀하의 커뮤니티에 부정적인 신호가 보내집니다. 프로젝트에 기여하는 것은 위협적일 수 있습니다. 특히 다른 사람이 처음인 경우에는 더욱 그렇습니다. 기여를 수락하지 않더라도 그 뒤에 있는 사람을 인정하고 관심을 가져 주신 것에 감사하길 바랍니다. 큰 칭찬입니다!
 
@@ -178,7 +178,7 @@ related:
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
   <p markdown="1" class="pquote-credit">
-—  @lmccart, [""오픈소스"란 무엇을 의미합니까? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
+—  @lmccart, [""오픈소스"란 무엇을 의미합니까? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 
@@ -186,7 +186,7 @@ related:
 
 다른 사람들이 그 방향에 열성적이라면, 그들에게 접근을 허용하거나 공식적으로 다른 사람에게 통제 권한을 넘겨주도록 하십시오. 다른 사람이 프로젝트를 포크하고 다른 곳에서 적극적으로 유지 관리하는 경우, 원래 프로젝트의 포크에 연결하는 것이 좋습니다. 많은 사람들이 귀하의 프로젝트가 살아가기를 원합니다!
 
-@progrium은 프로젝트의 비전을 문서화[한 것으로 밝혀지면서](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) [Dokku](https://github.com/dokku/dokku)가 프로젝트에서 물러 난 후에도 이러한 목표를 달성 할 수 있도록 도왔습니다.
+@progrium은 프로젝트의 비전을 문서화[한 것으로 밝혀지면서](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) [Dokku](https://github.com/dokku/dokku)가 프로젝트에서 물러 난 후에도 이러한 목표를 달성 할 수 있도록 도왔습니다.
 
 > I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
 
@@ -204,7 +204,7 @@ related:
   </p>
 </aside>
 
-실제로 대역폭을 구축 할 필요가 없는 솔루션을 원하는 사용자에게도 마찬가지입니다. API 및 사용자 정의 후크를 제공하면 소스를 직접 수정하지 않고도 다른 사람들이 자신의 필요를 충족시킬 수 있습니다. @orta는 CocoaPods용 플러그인이 "가장 흥미로운 아이디어 중 일부"를 이끌어 냈다는 것을 [알게 되었습니다](http://artsy.github.io/blog/2016/07/03/handling-big-projects/)
+실제로 대역폭을 구축 할 필요가 없는 솔루션을 원하는 사용자에게도 마찬가지입니다. API 및 사용자 정의 후크를 제공하면 소스를 직접 수정하지 않고도 다른 사람들이 자신의 필요를 충족시킬 수 있습니다. @orta는 CocoaPods용 플러그인이 "가장 흥미로운 아이디어 중 일부"를 이끌어 냈다는 것을 [알게 되었습니다](https://artsy.github.io/blog/2016/07/03/handling-big-projects/)
 
 > 프로젝트가 커지면 메인테이너는 새로운 코드를 어떻게 도입할 것인지 훨씬 보수적으로 판단해야합니다. 당신은 "아니오"라고 말하는 것이 좋지만 많은 사람들이 합법적인 필요를 가지고 있습니다. 따라서 도구가 대신 플랫폼으로 변환됩니다.
 
@@ -226,7 +226,7 @@ related:
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust'의 커뮤니티 자동화"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust'의 커뮤니티 자동화"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

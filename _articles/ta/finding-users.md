@@ -78,7 +78,7 @@ related:
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   ஒவ்வொரு நிரலிலும் மிகவும் குறிப்பிட்ட செயல்களால் பயனர்களின் ஒரு பகுதியினர் மட்டுமே பயன் பெறுவார்கள். முடிந்தவரை பல நபர்களுக்கு மின் அஞ்சல் குப்பைகள் அனுப்பாதீர்கள். அதற்கு பதிலாக, உங்கள் திட்டத்தை பற்றி தெரிந்து கொள்ளும் சமூகங்களுக்கு உங்கள் முயற்சிகளை இலக்காகக் கொள்ளுங்கள்.
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["திறந்த மூல திட்டங்களுக்கான சந்தைப்படுத்தல்"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["திறந்த மூல திட்டங்களுக்கான சந்தைப்படுத்தல்"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
@@ -98,7 +98,7 @@ related:
 
 முடக்கலை நிகழ்வுகள் பார்வையாளர்களுக்கு புதிய திட்டங்களை மேம்படுத்துவதற்கான ஒரு பிரபலமான வழியாகும். ஈடுபட்டுள்ள பார்வையாளர்களை அடைய மற்றும் ஆழமான மனித இணைப்புகளை உருவாக்க அது ஒரு சிறந்த வழி, குறிப்பாக நீங்கள் நிரலாளர்களை அடைவதில் ஆர்வமாக இருந்தால்.
 
-நீங்கள் [பொது பேச்சிற்கு புதிது](http://speaking.io/) என்றால், உங்கள் திட்டத்தின் மொழி அல்லது சுற்றுச்சூழல் தொடர்பான உள்ளூர் சந்திப்பைக் கண்டுபிடிப்பதன் மூலம் தொடங்கவும்.
+நீங்கள் [பொது பேச்சிற்கு புதிது](https://speaking.io/) என்றால், உங்கள் திட்டத்தின் மொழி அல்லது சுற்றுச்சூழல் தொடர்பான உள்ளூர் சந்திப்பைக் கண்டுபிடிப்பதன் மூலம் தொடங்கவும்.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
@@ -142,7 +142,7 @@ related:
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   ஒரே காரணம் urlib3 என்பது மிகவும் பிரபலமான மூன்றாம்-தரப்பு பைத்தான் நூலகம், ஏனெனில் இது கோரிக்கைகளின் பகுதியாக உள்ளது.
   <p markdown="1" class="pquote-credit">
-— @shazow, ["உங்கள் திறந்த மூல திட்டத்தை எவ்வாறு வளர்த்துக் கொள்வது"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+— @shazow, ["உங்கள் திறந்த மூல திட்டத்தை எவ்வாறு வளர்த்துக் கொள்வது"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
 </aside>
 

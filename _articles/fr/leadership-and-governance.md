@@ -157,7 +157,7 @@ Beaucoup de projets ne souhaitent pas se lancer dans la création d'un but non l
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Notre objectif est de fournir une infrastructure que les communautés peuvent utiliser pour être autosuffisante, créant ainsi un environnement dans lequel tout le monde - contributeurs, bailleurs de fonds, sponsors - en tire des bénéfices concrets.
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
+— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 

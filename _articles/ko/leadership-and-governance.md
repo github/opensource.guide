@@ -96,7 +96,7 @@ related:
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
   <p markdown="1" class="pquote-credit">
-— @felixge, ["Pull Request 핵"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
+— @felixge, ["Pull Request 핵"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
@@ -158,8 +158,8 @@ related:
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["자선 단체의 틀을 넘어서"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
+— @piamancini, ["자선 단체의 틀을 넘어서"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 
-프로젝트가 특정 언어 또는 생태계와 밀접하게 관련되어 있다면, 함께 작업할 수 있는 관련 소프트웨어 기반이 있을겁니다. 예시로, [파이썬 소프트웨어 재단](https://www.python.org/psf/)은 파이썬 패키지 관리자인 [PyPI](https://pypi.org/)를 돕고, [Node.js 재단](https://foundation.nodejs.org/)은 노드 기반 프레임워크인 [Express.js](http://expressjs.com/)를 돕습니다.
+프로젝트가 특정 언어 또는 생태계와 밀접하게 관련되어 있다면, 함께 작업할 수 있는 관련 소프트웨어 기반이 있을겁니다. 예시로, [파이썬 소프트웨어 재단](https://www.python.org/psf/)은 파이썬 패키지 관리자인 [PyPI](https://pypi.org/)를 돕고, [Node.js 재단](https://foundation.nodejs.org/)은 노드 기반 프레임워크인 [Express.js](https://expressjs.com/)를 돕습니다.

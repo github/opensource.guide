@@ -218,11 +218,10 @@ Vous pouvez également utiliser l'une des ressources suivantes pour vous aider �
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](http://www.firsttimersonly.com/)
-* [Your First PR](https://yourfirstpr.github.io/)
+* [First Timers Only](https://www.firsttimersonly.com/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
-* [Up For Grabs](http://up-for-grabs.net/)
+* [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
 ### Une checklist avant de contribuer
@@ -375,7 +374,7 @@ Un projet convivial et accueillant signale qu'il sera réceptif aux nouveaux con
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
  Chaque fois que vous voyez un long fil de discussion, vérifiez les réponses des principaux développeurs arrivant tard dans le fil. Résument-ils de façon constructive la discussion pour prendre une décision tout en restant polis ? Si vous voyez beaucoup de _flame wars_, c'est souvent un signe que l'énergie est dépensée en dispute plutôt qu'en développements.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
