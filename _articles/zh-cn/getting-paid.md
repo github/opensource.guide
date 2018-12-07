@@ -21,7 +21,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-我尝试着寻找让人爱不释手的编程项目，从而是我的周末或圣诞节也能保持状态。(...)我拥有一台家用电脑，手头也并不十分宽裕。在思考了一阵子之后，我决定写一新的交互式的编程语言，（...)后来我将这门语言叫做Python。
+我尝试着寻找让人爱不释手的编程项目，从而使我的周末或圣诞节也能保持状态。(...)我拥有一台家用电脑，手头也并不十分宽裕。在思考了一阵子之后，我决定写一新的交互式的编程语言，（...)后来我将这门语言叫做Python。
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Python 编程"](https://www.python.org/doc/essays/foreword/)
   </p>
