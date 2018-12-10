@@ -3,14 +3,6 @@ lang: fr
 title: Leadership et Gouvernance
 description: Les projets open source en croissance peuvent bénéficier de règles formelles pour prendre des décisions.
 class: leadership
-toc:
-  quels-sont-les-exemples-de-r&ocirc;les-formels-utilis&eacute;s-dans-les-projets-open-source: "Quels sont les exemples de r&ocirc;les formels utilis&eacute;s dans les projets open source"
-  comment-formaliser-ces-r&ocirc;les-de-leadership: "Comment formaliser ces r&ocirc;les de leadership"
-  quand-dois-je-donner-&agrave;-quelquun-le-droit-de-commit: "Quand dois-je donner &agrave; quelqu'un le droit de commit"
-  quelles-sont-les-structures-de-gouvernance-communes-pour-les-projets-open-source: "Quelles sont les structures de gouvernance communes pour les projets open source"
-  ai-je-besoin-de-documents-de-gouvernance-lorsque-je-lance-mon-projet: "Ai-je besoin de documents de gouvernance lorsque je lance mon projet"
-  que-se-passe-t-il-si-les-employ&eacute;s-de-lentreprise-commencent-&agrave;-soumettre-des-contributions: "Que se passe-t-il si les employ&eacute;s de l'entreprise commencent &agrave; soumettre des contributions"
-  ai-je-besoin-dune-entit&eacute;-l&eacute;gale-pour-soutenir-mon-projet: "Ai-je besoin d'une entit&eacute; l&eacute;gale pour soutenir mon projet"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
@@ -105,15 +97,15 @@ Il existe trois structures de gouvernance communes associées aux projets open s
 
 * **BDFL :** BDFL, "Benevolent Dictator for Life", signifie "Dictateur bienveillant pour la vie". Sous cette structure, une personne (généralement l'auteur initial du projet) a le dernier mot sur toutes les grandes décisions de projet. [Python](https://github.com/python) est un exemple classique. Les projets plus petits sont probablement BDFL par défaut, car il n'y a qu'un ou deux responsables. Un projet qui provient d'une entreprise pourrait également tomber dans la catégorie BDFL.
 
-* **Méritocratie :** **(Note: le terme "méritocratie" a des connotations négatives pour certaines communautés et a une [histoire sociale et politique complexe](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Dans le cadre d'une méritocratie, les contributeurs actifs du projet (ceux qui démontrent le «mérite») ont un rôle formel de prise de décision. Les décisions sont généralement prises sur la base d'un consensus de vote pur. Le concept de méritocratie a été mis au point par la [Fondation Apache](http://www.apache.org/). [Tous les projets Apache](http://www.apache.org/index.html#projects-list) sont des méritocraties. Les contributions ne peuvent être faites que par des personnes qui se représentent elles-mêmes, et non par une entreprise.
+* **Méritocratie :** **(Note: le terme "méritocratie" a des connotations négatives pour certaines communautés et a une [histoire sociale et politique complexe](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Dans le cadre d'une méritocratie, les contributeurs actifs du projet (ceux qui démontrent le «mérite») ont un rôle formel de prise de décision. Les décisions sont généralement prises sur la base d'un consensus de vote pur. Le concept de méritocratie a été mis au point par la [Fondation Apache](https://www.apache.org/). [Tous les projets Apache](https://www.apache.org/index.html#projects-list) sont des méritocraties. Les contributions ne peuvent être faites que par des personnes qui se représentent elles-mêmes, et non par une entreprise.
 
-* **Contribution libérale :** Selon un modèle de contribution libérale, les personnes qui font le plus de travail sont reconnues comme les plus influentes, mais cela est basé sur le travail actuel et non sur les contributions historiques. Les grandes décisions de projet sont prises en fonction d'un processus de recherche de consensus (discuter des griefs majeurs) plutôt que d'un simple vote, et s'efforcent d'inclure autant de perspectives communautaires que possible. Exemples populaires de projets qui utilisent un modèle de contribution libérale : [Node.js](https://nodejs.org/en/foundation/) et [Rust](https://www.rust-lang.org/en-US/).
+* **Contribution libérale :** Selon un modèle de contribution libérale, les personnes qui font le plus de travail sont reconnues comme les plus influentes, mais cela est basé sur le travail actuel et non sur les contributions historiques. Les grandes décisions de projet sont prises en fonction d'un processus de recherche de consensus (discuter des griefs majeurs) plutôt que d'un simple vote, et s'efforcent d'inclure autant de perspectives communautaires que possible. Exemples populaires de projets qui utilisent un modèle de contribution libérale : [Node.js](https://foundation.nodejs.org/) et [Rust](https://www.rust-lang.org/).
 
 Lequel devriez-vous utiliser ? C'est à vous de décider ! Chaque modèle a des avantages et des compromis. Et bien qu'ils puissent sembler tout à fait différents au début, les trois modèles ont plus en commun qu'ils ne le semblent. Si vous souhaitez adopter l'un de ces modèles, consultez ces modèles :
 
 * [Gabarit de modèle BDFL](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 * [Gabarit de modèle de la méritocratie](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Politique de contribution libérale de Node.js](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.m9ht26e79)
+* [Politique de contribution libérale de Node.js](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
 ## Ai-je besoin de documents de gouvernance lorsque je lance mon projet
 
@@ -157,8 +149,8 @@ Beaucoup de projets ne souhaitent pas se lancer dans la création d'un but non l
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Notre objectif est de fournir une infrastructure que les communautés peuvent utiliser pour être autosuffisante, créant ainsi un environnement dans lequel tout le monde - contributeurs, bailleurs de fonds, sponsors - en tire des bénéfices concrets.
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
+— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 
-Si votre projet est étroitement associé à une langue ou à un écosystème donné, il peut également exister une base de logiciel connexe avec laquelle vous pouvez travailler. Par exemple, [Python Software Foundation](https://www.python.org/psf/) prend en charge [PyPI](https://pypi.org/), le gestionnaire de paquets Python et la [Fondation Node.js](https://nodejs.org/en/foundation/) aide à prendre en charge [Express.js](https://expressjs.com/), un framework basé sur Node.
+Si votre projet est étroitement associé à une langue ou à un écosystème donné, il peut également exister une base de logiciel connexe avec laquelle vous pouvez travailler. Par exemple, [Python Software Foundation](https://www.python.org/psf/) prend en charge [PyPI](https://pypi.org/), le gestionnaire de paquets Python et la [Fondation Node.js](https://foundation.nodejs.org/) aide à prendre en charge [Express.js](https://expressjs.com/), un framework basé sur Node.

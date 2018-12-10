@@ -3,11 +3,6 @@ lang: id
 title: Kode Etik Anda
 description: Fasilitasi perilaku komunitas yang sehat dan konstruktif dengan mengadopsi dan menerapkan kode etik.
 class: coc
-toc:
-  kenapa-saya-perlu-menerapkan-kode-etik: "Kenapa saya perlu menerapkan kode etik?"
-  membuat-kode-etik: "Membuat kode etik"
-  menentukan-bagaimana-anda-akan-menerapkan-kode-etik: "Menentukan bagaimana Anda akan menerapkan kode etik"
-  menerapkan-kode-etik: "Menerapkan kode etik"
 order: 8
 image: /assets/images/cards/coc.png
 related:

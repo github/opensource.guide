@@ -3,12 +3,6 @@ lang: es
 title: M&eacute;tricas de c&oacute;digo abierto
 description: Tomar decisiones informadas para ayudar a tu proyecto de c&oacute;digo abierto a prosperar mediante la medici&oacute;n y el seguimiento de su &eacute;xito.
 class: metrics
-toc:
-  para-qu&eacute;-medir-algo: "¿Para qu&eacute; medir algo?"
-  descubrimiento: "Descubrimiento"
-  uso: "Uso"
-  retener: "Retener"
-  actividad-de-mantenimiento: "Actividad de mantenimiento"
 order: 9
 image: /assets/images/cards/metrics.png
 related:

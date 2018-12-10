@@ -3,13 +3,6 @@ lang: ko
 title: 오픈소스에 기여하는 방법
 description: 오픈소스에 기여하고 싶습니까? 초보자와 숙련자를 위한 오픈소스 기여에 대한 가이드입니다.
 class: contribute
-toc:
-  why-contribute-to-open-source: "왜 오픈소스에 기여 하나요?"
-  what-it-means-to-contribute: "기여한다는 것의 의미"
-  orienting-yourself-to-a-new-project: "새로운 프로젝트에 동참하기"
-  finding-a-project-to-contribute-to: "기여할 프로젝트 찾기"
-  how-to-submit-a-contribution: "기여 제출 방법"
-  what-happens-after-you-submit-a-contribution: "기여를 제출하면 어떻게됩니까?"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -92,7 +85,7 @@ related:
 ### 디자인하고 싶습니까?
 
 * 프로젝트의 유용성을 높이기 위해 레이아웃 재구성하기
-* [Drupal 제안처럼](https://www.drupal.org/community-initiatives/drupal-core/usability),사용자 조사를 통해, 프로젝트의 네비게이션 또는 메뉴를 재구성하고 수정하기 
+* [Drupal 제안처럼](https://www.drupal.org/community-initiatives/drupal-core/usability),사용자 조사를 통해, 프로젝트의 네비게이션 또는 메뉴를 재구성하고 수정하기
 * 프로젝트가 일관성있는 시각적 디자인을 가질 수 있도록, 스타일 가이드를 작성하기
 * [hapi.js의 기여처럼](https://github.com/hapijs/contrib/issues/68), 티셔츠 혹은 새로운 로고를 위한 예슐 작품 만들기
 
@@ -115,7 +108,7 @@ related:
 ### 조직하는 것을 좋아합니까?
 
 * 중복된 이슈에 대한 링크 및 새로운 이슈 라벨 제안, 정리된 상태 유지하기
-* [@nzakas가 ESLint에 했던것처럼](https://github.com/eslint/eslint/issues/6765), 열려있는 이슈를 검토하고, 오래된 이슈를 닫을 것을 제안하기 
+* [@nzakas가 ESLint에 했던것처럼](https://github.com/eslint/eslint/issues/6765), 열려있는 이슈를 검토하고, 오래된 이슈를 닫을 것을 제안하기
 * 최근 열린 이슈에 대한 질문을 명확히 하여 토론으로 나아가게하기
 
 ### 코드 작성하고 싶습니까?
@@ -127,7 +120,7 @@ related:
 
 ### 사람들을 돕는 것을 좋아합니까?
 
-* 예를 들어, Stack Overflow의 ([Postgres 예시](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) 혹은 Reddit과 관련된 질문에 대답해주기
+* 예를 들어, Stack Overflow의 ([Postgres 예시](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) 혹은 Reddit과 관련된 질문에 대답해주기
 * 열린 이슈에서 사람들의 질문에 대답해주기
 * 토론 보드나 대화 채널의 관리 돕기
 
@@ -155,7 +148,7 @@ related:
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["어떻게 오픈소스에 기여하는가"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["어떻게 오픈소스에 기여하는가"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
@@ -212,17 +205,16 @@ related:
 
 README를 스캔하여 깨진 링크 또는 오타를 찾을 수 있습니다. 또는 새로운 사용자이고 무언가가 고장 났거나, 실제로 문서에 있어야한다고 생각되는 문제를 발견했습니다. 그것을 무시하고 계속 나아가거나, 다른 사람에게 그것을 고치라고 요구하는 대신, 피칭을 통해 도움을 줄 수 있는지 확인하십시오. 오픈소스가 무엇인지 알아보십시오!
 
-> [일반적인 기여의 28%](http://www.igor.pro.br/publica/papers/saner2016.pdf)는 오타 수정, 서식 재 지정 또는 번역 작성과 같은 문서입니다.
+> [일반적인 기여의 28%](https://www.igor.pro.br/publica/papers/saner2016.pdf)는 오타 수정, 서식 재 지정 또는 번역 작성과 같은 문서입니다.
 
 또한 다음 리소스 중 하나를 사용하여 새 프로젝트를 찾고 기여할 수 있습니다.
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](http://www.firsttimersonly.com/)
-* [Your First PR](https://yourfirstpr.github.io/)
+* [First Timers Only](https://www.firsttimersonly.com/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
-* [Up For Grabs](http://up-for-grabs.net/)
+* [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
 ### A checklist before you contribute
@@ -375,7 +367,7 @@ README를 스캔하여 깨진 링크 또는 오타를 찾을 수 있습니다. �
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_OSS 생산_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_OSS 생산_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 

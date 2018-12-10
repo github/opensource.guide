@@ -18,7 +18,11 @@
     {% if page.layout != 'index' %}
     <div class="float-sm-left pl-3 breadcrumb">
       <p class="my-0 py-3 py-sm-4 text-gray">
+        {% if page.lang != 'en' %}
+        <a href="/{{ page.lang }}/" class="text-gray">{{ site.title }}</a>
+        {% else %}
         <a href="/" class="text-gray">{{ site.title }}</a>
+        {% endif %}
       </p>
     </div>
     {% endif %}

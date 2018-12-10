@@ -3,14 +3,6 @@ lang: id
 title: Sisi Hukum dari Open Source
 description: Segala sesuatu yang pernah Anda tanyakan tentang sisi hukum open source, dan beberapa hal yang tidak Anda inginkan
 class: legal
-toc:
-  kenapa-orang-orang-begitu-perhatian-terhadap-sisi-hukum-dari-open-source: "Kenapa orang-orang begitu perhatian terhadap sisi hukum dari open source?"
-  apakah-proyek-publik-github-open-source: "Apakah proyek publik GitHub open source?"
-  berikan-ringkasan-tentang-apa-yang-saya-perlukan-untuk-menjaga-proyek-saya: "Berikan ringkasan tentang apa yang saya perlukan untuk menjaga proyek saya"
-  lisensi-open-source-mana-yang-sesuai-untuk-proyek-saya: "Lisensi open source mana yang sesuai untuk proyek saya?"
-  bagaimana-jika-saya-hendak-mengubah-lisensi-proyek-saya: "Bagaimana jika saya hendak mengubah lisensi proyek saya?"
-  apakah-proyek-saya-membutuhkan-perjanjian-kontributor-tambahan: "Apakah proyek saya membutuhkan perjanjian kontributor tambahan?"
-  apa-yang-perlu-diketahui-tim-kuasa-hukum-perusahaan-saya: "Apa yang perlu diketahui tim kuasa hukum perusahaan saya?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -56,7 +48,7 @@ Ketika Anda menciptakan proyek baru pada GitHub, Anda akan [diminta untuk menamb
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   Sebuah lisensi yang terstandarisasi berfungsi sebagai jembatan bagi mereka yang tidak memiliki pelatihan hukum untuk tahu secara pasti apa yang mereka bisa dan tidak bisa lakukan dengan perangkat lunak. Apabila memungkinkan, hindari istilah yang aneh, modifikasi, atau tidak standar, yang akan menjadi penghambat bagi orang lain untuk menggunakan kode Anda.
   <p markdown="1" class="pquote-credit">
-— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 
@@ -152,7 +144,7 @@ Dalam jangka panjang, tim hukum Anda bisa melakukan lebih banyak lagi dengan mem
 </aside>
 
 * **Apa yang dirilis:** [(Hampir) semuanya?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) jika tim hukum Anda memahami dan berinvestasi pada strategi open source perusahaan Anda, mereka akan banyak membantu dibandingkan merugikan Anda.
-* **Kesesuaian:** Meskipun perusahaan Anda tidak merilis proyek open source, perusahaan Anda menggunakan perangkat lunak open source milik orang lain. [Kewaspadaandan proses](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program) bisa mencegah masalah, keterlambatan produk, dan tuntutan hukum.
+* **Kesesuaian:** Meskipun perusahaan Anda tidak merilis proyek open source, perusahaan Anda menggunakan perangkat lunak open source milik orang lain. [Kewaspadaandan proses](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) bisa mencegah masalah, keterlambatan produk, dan tuntutan hukum.
 
 <aside markdown="1" class="pquote">
   Organisasi harus memiliki lisensi dan strategi penyesuaian yang sesuai untuk kategori \["permissive" dan "copyleft"\]. Hal ini dimulai dengan menyimpan catatan dari istilah lisensi yang digunakan pada perangkat lunak open source yang Anda gunakan — termasuk sub komponen dan ketergantungannya.

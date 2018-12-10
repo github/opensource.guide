@@ -3,14 +3,6 @@ lang: fr
 title: Le côté légal de l'Open Source
 description: Tout ce que vous avez jamais osé demandé sur le côté juridique de l'open source, et quelques autres.
 class: legal
-toc:
-  pourquoi-les-gens-se-soucient-tellement-du-c&ocirc;t&eacute;-l&eacute;gal-de-lopen-source: "Pourquoi les gens se soucient tellement du c&ocirc;t&eacute; l&eacute;gal de l'open source"
-  les-projets-publics-GitHub-sont-ils-open-source: "Les projets publics GitHub sont-ils open source"
-  donnez-moi-juste-lessentiel-sur-ce-dont-jai-besoin-pour-prot&eacute;ger-mon-projet: "Donnez-moi juste l'essentiel sur ce dont j'ai besoin pour prot&eacute;ger mon projet"
-  quelle-licence-open-source-est-appropri&eacute;e-pour-mon-projet: "Quelle licence open source est appropri&eacute;e pour mon projet"
-  et-si-je-veux-changer-la-licence-de-mon-projet: "Et si je veux changer la licence de mon projet"
-  mon-projet-a-t-il-besoin-dun-accord-de-contribution-suppl&eacute;mentaire: "Mon projet a-t-il besoin d'un accord de contribution suppl&eacute;mentaire"
-  que-doit-savoir-l&eacute;quipe-juridique-de-mon-entreprise: "Que doit savoir l'&eacute;quipe juridique de mon entreprise"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -152,7 +144,7 @@ Si vous publiez le premier projet open source de votre entreprise, ce qui préc�
 </aside>
 
 * **Que publier :** [(Presque) tout ?](Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si votre équipe juridique comprend et est investis dans la stratégie open source de votre entreprise, ils seront les mieux placés pour vous aider plutôt que d'entraver vos efforts.
-* **Conformité :** Même si votre entreprise ne diffuse aucun projet open source, elle utilise le logiciel open source des autres. [Awareness and process](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program) peut prévenir les maux de tête, les retards de produit et les poursuites judiciaires.
+* **Conformité :** Même si votre entreprise ne diffuse aucun projet open source, elle utilise le logiciel open source des autres. [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) peut prévenir les maux de tête, les retards de produit et les poursuites judiciaires.
 
 <aside markdown="1" class="pquote">
   Les organisations doivent disposer d'une stratégie de licence et de conformité qui corresponde à la fois aux catégories \["permissive" et "copyleft"\]. Cela commence par garder une trace des conditions de licence qui s'appliquent aux logiciels open source que vous utilisez, y compris les sous-composants et les dépendances.

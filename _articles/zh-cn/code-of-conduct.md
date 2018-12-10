@@ -3,11 +3,6 @@ lang: zh-cn
 title: 行为准则
 description: 社区的长远发展和健康成长，离不开一些行为准则，需要遵守并执行。
 class: coc
-toc:
-  why-do-i-need-a-code-of-conduct: "我为什么需要行为守则?"
-  establishing-a-code-of-conduct: "建立行为守则"
-  deciding-how-youll-enforce-your-code-of-conduct: "决定你们如何执行行为守则"
-  enforcing-your-code-of-conduct: "执行你们的行为守则"
 order: 8
 image: /assets/images/cards/coc.png
 related:
