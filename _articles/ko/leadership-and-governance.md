@@ -3,14 +3,6 @@ lang: ko
 title: 리더십과 정치
 description: 오픈소스 프로젝트가 성장하면서 공식적인 의사 결정 규칙의 혜택을 볼 수 있습니다.
 class: leadership
-toc:
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "오픈소스 프로젝트에서 사용되는 공식 역할의 예시로는 무엇입니까?"
-  how-do-i-formalize-these-leadership-roles: "이러한 리더십 역할을 어떻게 공식화할 수 있습니까?"
-  when-should-i-give-someone-commit-access: "누군가에게 언제 커밋 권한을 부여해야합니까?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "오픈소스 프로젝트의 공통적인 관리 구조에는 어떤 것들이 있습니까?"
-  do-i-need-governance-docs-when-i-launch-my-project: "프로젝트를 시작할 때 거버넌스 문서가 필요합니까?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "기업 직원이 기여를 제출하기 시작하면 어떻게됩니까?"
-  do-i-need-a-legal-entity-to-support-my-project: "내 프로젝트를 지원하기 위해 법인이 필요합니까?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
@@ -96,7 +88,7 @@ related:
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
   <p markdown="1" class="pquote-credit">
-— @felixge, ["Pull Request 핵"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
+— @felixge, ["Pull Request 핵"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
@@ -108,7 +100,7 @@ related:
 
 * **실력주의:** **(Note: "능력주의"라는 용어는 일부 지역 사회에 부정적인 의미를 지니며 [복잡한 사회 정치적 역사](http://geekfeminism.wikia.com/wiki/Meritocracy)를 가지고있습니다.)** 능력있는 사회에서 활동적인 프로젝트 기여가 ("공로"를 입증하는 사람들)에게 공식적인 의사 결정 역할이 부여됩니다. 결정은 일반적으로 순수한 투표 컨센서스를 기반으로합니다. 실력주의 개념은 [Apache Foundation](https://www.apache.org/)에 의해 개척되었습니다; [모든 아파치 프로젝트](https://www.apache.org/index.html#projects-list)는 장점이 있습니다. 기여는 회사가 아니라 집단을 대표하는 개인이 할 수 있습니다.
 
-* **자유주의 기여:** 자유주의 기여 모델하에서, 가장 많은 일을 하는 사람들이 가장 영향력있는 사람으로 인식되지만, 이것은 역사적인 기여가 아니라 현재의 일을 기반으로합니다. 주요 프로젝트 결정은 순수한 표결보다는 합의를 모색하는 과정(주요 불만 사항을 논의)을 토대로 이루어지며, 가능한 많은 공동체 관점을 포함하기 위해 노력합니다. 프로젝트의 인기있는 예제는 [Node.js](https://foundation.nodejs.org/)와 [Rust](https://www.rust-lang.org/en-US/)에 포함된 자유주의 기여 모델을 사용합니다.
+* **자유주의 기여:** 자유주의 기여 모델하에서, 가장 많은 일을 하는 사람들이 가장 영향력있는 사람으로 인식되지만, 이것은 역사적인 기여가 아니라 현재의 일을 기반으로합니다. 주요 프로젝트 결정은 순수한 표결보다는 합의를 모색하는 과정(주요 불만 사항을 논의)을 토대로 이루어지며, 가능한 많은 공동체 관점을 포함하기 위해 노력합니다. 프로젝트의 인기있는 예제는 [Node.js](https://foundation.nodejs.org/)와 [Rust](https://www.rust-lang.org/)에 포함된 자유주의 기여 모델을 사용합니다.
 
 어느 것을 사용해야합니까? 그것은 당신에게 달렸습니다! 모든 모델에는 장점과 절충점이 있습니다. 처음에는 전혀 다른 것처럼 보일 수 있지만, 세 모델 모두 공통적으로 보입니다. 이 모델 중 하나를 채택하는 데 관심이 있다면 다음 템플릿을 확인하십시오:
 
@@ -158,8 +150,8 @@ related:
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["자선 단체의 틀을 넘어서"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
+— @piamancini, ["자선 단체의 틀을 넘어서"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 
-프로젝트가 특정 언어 또는 생태계와 밀접하게 관련되어 있다면, 함께 작업할 수 있는 관련 소프트웨어 기반이 있을겁니다. 예시로, [파이썬 소프트웨어 재단](https://www.python.org/psf/)은 파이썬 패키지 관리자인 [PyPI](https://pypi.org/)를 돕고, [Node.js 재단](https://foundation.nodejs.org/)은 노드 기반 프레임워크인 [Express.js](http://expressjs.com/)를 돕습니다.
+프로젝트가 특정 언어 또는 생태계와 밀접하게 관련되어 있다면, 함께 작업할 수 있는 관련 소프트웨어 기반이 있을겁니다. 예시로, [파이썬 소프트웨어 재단](https://www.python.org/psf/)은 파이썬 패키지 관리자인 [PyPI](https://pypi.org/)를 돕고, [Node.js 재단](https://foundation.nodejs.org/)은 노드 기반 프레임워크인 [Express.js](https://expressjs.com/)를 돕습니다.

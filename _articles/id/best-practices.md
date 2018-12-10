@@ -3,13 +3,6 @@ lang: id
 title: Kiat Baik untuk Pengelola
 description: Mempermudah hidup Anda sebagai pengelola open source, mulai dari mendokumentasikan proses hingga memberdayakan komunitas Anda.
 class: best-practices
-toc:
-  apa-artinya-menjadi-pengelola: "Apa artinya menjadi pengelola?"
-  mendokumentasikan-proses-anda: "Mendokumentasikan proses Anda"
-  belajar-untuk-mengatakan-tidak: "Belajar untuk mengatakan tidak"
-  berdayakan-komunitas-anda: "Berdayakan komunitas Anda"
-  manfaatkan-robot: "Manfaatkan robot"
-  ok-untuk-berhenti-sejenak: "OK untuk berhenti sejenak"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -112,7 +105,7 @@ Jika Anda menerima kontribusi yang tidak Anda inginkan, reaksi pertama Anda mung
 
 Jangan biarkan kontribusi yang tidak diinginkan tetap terbuka karena Anda merasa bersalah atau ingin bersikap baik. Pada akhirnya, masalah yang tidak terjawab dan PR akan membuat pekerjaan proyek Anda menjadi lebih berat dan mengintimidasi Anda.
 
-Akan lebih baik untuk langsung menutup kontribusi yang Anda tahu tidak akan diterima. Jika proyek Anda mengalami hambatan yang besar, @steveklabnik memiliki saran untuk [mengatasi laporan masalah secara efisien](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Akan lebih baik untuk langsung menutup kontribusi yang Anda tahu tidak akan diterima. Jika proyek Anda mengalami hambatan yang besar, @steveklabnik memiliki saran untuk [mengatasi laporan masalah secara efisien](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
 Kedua, mengabaikan kontribusi akan mengirimkan sinyal negatif pada komunitas Anda. Berkontribusi pada sebuah proyek bisa jadi menakutkan, apalagi untuk pertama kalinya bagi orang lain. Meskipun Anda tidak menerima kontribusi mereka, akui hasil pekerjaan mereka dan ucapkan terima kasih atas minat mereka. Itu adalah sebuah pujian yang besar!
 
@@ -180,7 +173,7 @@ Doronglah orang lain untuk [berbagi kepemilikan proyek](../building-community/#b
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   Saya telah banyak berkata, "Ya, setiap orang bisa terlibat, Anda tidak harus memiliki pengalaman membuat code [...]." Kami mendapati banyak orang mendaftar untuk hadir [pada sebuah acara] dan pada saat itulah saya mulai bertanya: jika hal ini benar, apa yang harus saya katakan? Terdapat lebih dari 40 orang yang hadir, dan saya tidak mungkin duduk bersama-sama dengan masing-masing dari mereka. ...Tetapi orang-orang tersebut hadir, dan semuanya berjalan dengan lancar. Begitu ada satu orang yang berhasil, mereka bisa mengajarkan ke orang lain.
   <p markdown="1" class="pquote-credit">
-—  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
+—  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 
@@ -188,7 +181,7 @@ Jika Anda perlu sedikit menjauh dari proyek Anda, baik sementara atau selamanya,
 
 Jika orang lain sangat antusias dengan arah proyek Anda, berikan akses atau serahkan kendali pada orang lain. Jika seseorang melakukan _fork_ terhadap proyek Anda dan mengelolanya secara aktif di tempat lain, pertimbangkan untuk menghubungkan ke proyek tersebut melalui proyek Anda. Sangatlah hebat melihat banyak orang menginginkan proyek Anda terus hidup.!
 
-@progrium [menemukan bahwa](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) dengan mendokumentasikan visi proyeknya, [Dokku](https://github.com/dokku/dokku), membantu tujuannya tetap bertahan meskipun dia sudah meninggalkan proyeknya:
+@progrium [menemukan bahwa](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) dengan mendokumentasikan visi proyeknya, [Dokku](https://github.com/dokku/dokku), membantu tujuannya tetap bertahan meskipun dia sudah meninggalkan proyeknya:
 
 > Saya menuliskan sebuah halaman wiki menjelaskan tentang apa yang saya inginkan dan kenapa. Mengejutkan bagi saya karena pengelola mulai menjalankan proyek sesuai dengan arahan tersebut! Apakah ia melakukannya sesuai dengan apa yang saya kehendaki? Tidak selalu, tetapi ia membawa proyek ini semakin dekat dengan apa yang saya tuliskan.
 
@@ -206,7 +199,7 @@ Melakukan sebuah _fork_ terhadap sebuah proyek bukan berarti sesuatu yang jelek.
   </p>
 </aside>
 
-Hal yang sama juga terjadi pada pengguna yang menginginkan solusi dimana Anda tidak mampu membangunnya karena keterbatasan bandwidth. Menawarkan API dan hook bisa membantu orang lain memenuhi kebutuhan mereka, tanpa harus memodifikasi kode secara langsung. @orta [menemukan](http://artsy.github.io/blog/2016/07/03/handling-big-projects/) bahwa mendorong plugin untuk CocoaPods mengarah pada "beberapa ide menarik":
+Hal yang sama juga terjadi pada pengguna yang menginginkan solusi dimana Anda tidak mampu membangunnya karena keterbatasan bandwidth. Menawarkan API dan hook bisa membantu orang lain memenuhi kebutuhan mereka, tanpa harus memodifikasi kode secara langsung. @orta [menemukan](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) bahwa mendorong plugin untuk CocoaPods mengarah pada "beberapa ide menarik":
 
 > Sangatlah susah untuk dihindari bahwa ketika sebuah proyek sudah semakin besar, pengelola harus menjadi lebih konsevatif tentang bagaimana mereka memperkenalkan kode baru. Anda menjadi lebih pandai dalam mengatakan "tidak", tetapi banyak orang memiliki kebutuhan yang pasti. Jadi, Anda akan mengubah alat Anda menjadi sebuah platform.
 
@@ -228,7 +221,7 @@ Jika Anda menambahkan pengujian, pastikan untuk menjelaskan bagaimana mereka bek
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Saya percaya bahwa pengujian otomatis sangat diperlukan untuk semua kode yang dikerjakan orang-orang.  Jika kode tersebut benar, maka tidak diperlukan perubahan - kita hanya menuliskan kode apabila terjadi kesalahan, apakah "crash" atau "kurang fitur". Tanpa memperhatikan perubahan yang Anda lakukan, pengujian otomatis sangatlah penting untuk menangkap regresi kesalahan yang mungkin Anda timbulkan.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
