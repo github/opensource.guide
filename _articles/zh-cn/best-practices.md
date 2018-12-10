@@ -3,13 +3,6 @@ lang: zh-cn
 title: 维护者最佳实践
 description: 身为开源的维护者，如何轻松驾驭项目？本指南从文档流程到有效利用社区来展开。
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: "身为一名维护者意味着什么？"
-  documenting-your-processes: "将流程撰文档化"
-  learning-to-say-no: "学会拒绝他人"
-  leverage-your-community: "有效利用社区"
-  bring-in-the-robots: "使用机器人"
-  its-okay-to-hit-pause: "首先照顾好自己"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -108,7 +101,7 @@ related:
 
 别因为自己感到内疚或者想做一个好人就把你不想接受的贡献继续保留。随着时间的流逝，这些你没有回答的issue和PR会让你觉得很不爽。
 
-更好的方式是马上关掉你不想接受的贡献。如果你的项目已经保守积压的issue的折磨，@steveklabnik 可以给你点儿建议，[如何高效的解决issue](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)。
+更好的方式是马上关掉你不想接受的贡献。如果你的项目已经保守积压的issue的折磨，@steveklabnik 可以给你点儿建议，[如何高效的解决issue](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)。
 
 第二点，忽略别人的贡献等于是在社区传递了一个负面的信号。让人感觉提交一个贡献是蛮恐惧的事情，尤其是对于刚加入的新手来说。即使你不接受他们的贡献，告诉他们为什么然后致谢。这会让人觉得更舒服。
 
@@ -175,7 +168,7 @@ related:
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   我曾经说过，"对，每个人都可以参与进来，你不需要有很多编程的经验。"当有申请来参加我们的活动的时候，我就在想，这是真的吗，我说了啥？有将近40个人来了，我虽然不可能和每个人都单独交谈，但是大家一起来了，这说明我说的没错。只要有人知道怎么做了，他们就能教他们的邻居。
   <p markdown="1" class="pquote-credit">
-—  @lmccart, [""开源" 意味着什么? p5.js 版"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
+—  @lmccart, [""开源" 意味着什么? p5.js 版"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 
@@ -183,7 +176,7 @@ related:
 
 如果别人认同项目的发展方向，给他们提交的权限或者正式把项目所有权转移给他。如果有人fork了你的项目而且在保持活跃的维护中，考虑在你的原始的仓库放上这个fork版本的链接。如果大家都希望你的项目继续的话这不失为一种好办法。
 
-[@progruim](https://github.com/progrium) [发现](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) 由于它给他的项目[Dokku](https://github.com/dokku/dokku)写一个关于项目发展方向的文档，即使在它离开这个项目后他的那些目标仍然会被实现。
+[@progruim](https://github.com/progrium) [发现](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) 由于它给他的项目[Dokku](https://github.com/dokku/dokku)写一个关于项目发展方向的文档，即使在它离开这个项目后他的那些目标仍然会被实现。
 
 > 我写了一个wiki来描述我想要啥和为什么。不知道为啥，项目的维护者就开始推动项目朝这个方向发展，这对我来说还是有点惊讶的。他们会丝毫不差的按照我的意愿去做这个项目吗？不总是这样，但是总是会把项目推动到离我的理想状态更近的位置。
 
@@ -201,7 +194,7 @@ fork一个项目不什么坏事情。能复制并且修改别人的代码是开�
   </p>
 </aside>
 
-这对于那些强烈的需要某个你没时间实现的解决方案的用户来说也是一样的。提供API或者自定义的钩子帮助他们更好的实现自己的需求而不需要改动源码。[@orta](https://github.com/orta)[发现](http://artsy.github.io/blog/2016/07/03/handling-big-projects/)鼓励在CocoaPods上使用插件导致了很多有趣的想法的诞生。
+这对于那些强烈的需要某个你没时间实现的解决方案的用户来说也是一样的。提供API或者自定义的钩子帮助他们更好的实现自己的需求而不需要改动源码。[@orta](https://github.com/orta)[发现](https://artsy.github.io/blog/2016/07/03/handling-big-projects/)鼓励在CocoaPods上使用插件导致了很多有趣的想法的诞生。
 
 > 一旦一个项目变大之后，维护者对怎么增加新代码变得保守是不可避免的事情。你可能很会拒绝别人的需求，但是很多人提的都是合法的需求。所以，你不得不把你的一个工具变成平台。
 
@@ -223,7 +216,7 @@ fork一个项目不什么坏事情。能复制并且修改别人的代码是开�
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   我相信测试对所有的代码都是需要的。如果代码被完整的覆盖了测试，以后就不需要改了。我们只需要在代码崩溃或者需要某个功能的添加代码。不管你在修改什么，测试对于检查那些你可能不小心制造的问题都是必须的。
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust 社区的自动化"](http://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust 社区的自动化"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
