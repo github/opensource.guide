@@ -3,13 +3,6 @@ lang: de
 title: Gute Maintainer-Praxis
 description: Erleichtern Sie Ihr Leben als Open-Source-Maintainer! Von der Dokumentation von Prozessen bis zum Einsatz Ihrer Community.
 class: best-practices
-toc:
-  was-bedeutet-es-eine-software-instand-zu-halten: "Was bedeutet es, eine Software instand zu halten?"
-  dokumentieren-sie-ihre-prozesse: "Dokumentieren Sie Ihre Prozesse"
-  lernen-nein-zu-sagen: "Lernen, \"Nein\" zu sagen"
-  nutzen-sie-ihre-community: "Nutzen Sie Ihre Community"
-  delegieren-sie-an-bots: "Delegieren Sie an Bots"
-  es-ist-okay-pause-zu-machen: "Es ist okay, Pause zu machen"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -104,7 +97,7 @@ Vielleicht verändert ein dort eingereichter Beitrag den Umfang Ihres Projekts o
 
 Unabhängig vom Ablehnungsgrund ist es möglich, Beiträge, die nicht den Standards Ihres Projekts entsprechen, taktvoll zu behandeln.
 
-Wenn Sie einen Beitrag erhalten, den Sie nicht annehmen möchten, könnte Ihre erste Reaktion darin bestehen, ihn zu ignorieren oder so zu tun, als ob Sie ihn nicht gesehen hätten. Dies könnte die Gefühle anderer Personen verletzen und sogar andere potenzielle Mitwirkende in Ihrer Gemeinschaft demotivieren. 
+Wenn Sie einen Beitrag erhalten, den Sie nicht annehmen möchten, könnte Ihre erste Reaktion darin bestehen, ihn zu ignorieren oder so zu tun, als ob Sie ihn nicht gesehen hätten. Dies könnte die Gefühle anderer Personen verletzen und sogar andere potenzielle Mitwirkende in Ihrer Gemeinschaft demotivieren.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
@@ -138,7 +131,7 @@ Sie sollten nicht mehr als 1-2 Sätze benötigen, um zu antworten. Als beispiels
 Wenn Ihnen der Gedanke, "Nein" zu sagen, Angst macht, sind Sie nicht allein. Wie @jessfraz [es formulierte](https://blog.jessfraz.com/post/the-art-of-closing/):
 
 > Ich habe mit Maintainern aus verschiedenen Open-Source-Projekten gesprochen, Mesos, Kubernetes, Chromium, und sie alle sind sich einig, dass einer der schwierigsten Aufgaben des Maintainertums darin besteht, "Nein" zu Patches zu sagen, die man nicht will.
-> 
+>
 > I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
 
 Fühlen Sie sich nicht schuldig, weil Sie den Beitrag von jemandem nicht annehmen wollen. Die erste Regel in Open-Source-Projekten, [nach](https://twitter.com/solomonstre/status/715277134978113536) @shykes lautet: "'Nein' ist vorübergehend. 'Ja' ist für immer." Obwohl es gut ist, sich in die Begeisterung einer anderen Person hineinzufühlen, ist die Ablehnung eines Beitrags nicht dasselbe wie die Ablehnung der Person dahinter.
@@ -206,10 +199,10 @@ Wenn Sie sich aus Ihrem Projekt zurückziehen müssen (egal ob temporär oder au
 
 Wenn andere Leute von Ihrer Projektrichtung begeistert sind, gewähren Sie ihnen Commit-Rechte oder übergeben Sie formell die Kontrolle. Wenn jemand einen Fork Ihres Projektes erstellt hat, und es an anderer Stelle aktiv pflegt, sollten Sie in Erwägung ziehen, aus Ihrem ursprünglichen Projekt heraus auf den Fork zu verweisen. Es ist großartig, dass Menschen Ihr Projekt weiterleben sehen wollen!
 
-@progrium [fand heraus](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) (Englisch), dass es seinem Projekt [Dokku](https://github.com/dokku/dokku) auch nach seinem Rückzug weiter zu leben half, dass er die Vision dokumentiert hatte, 
+@progrium [fand heraus](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) (Englisch), dass es seinem Projekt [Dokku](https://github.com/dokku/dokku) auch nach seinem Rückzug weiter zu leben half, dass er die Vision dokumentiert hatte,
 
 > Ich habe eine Wiki-Seite geschrieben, die beschreibt, was ich wollte und warum ich es wollte. Aus irgendeinem Grund war es für mich eine Überraschung, dass die Maintainer\*innen das Projekt in diese Richtung bewegten! Ist es genau so passiert, wie ich es getan habe? Nicht immer. Aber sie brachten das Projekt trotzdem näher an das heran, was ich aufgeschrieben habe.
-> 
+>
 > I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
 
 ### Lassen Sie andere ihre eigenen Lösungen bauen

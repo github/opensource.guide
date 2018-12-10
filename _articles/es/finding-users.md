@@ -3,13 +3,6 @@ lang: es
 title: Encontrando Usuarios Para Tu Proyecto
 description: Ayuda a tu proyecto de c&oacute;digo abierto a crecer poni&oacute;ndolo en manos de usuarios satisfechos.
 class: finding
-toc:
-  pasando-la-voz: "Pasando la voz"
-  pensando-tu-mensaje: "Pensando tu mensaje"
-  ayuda-a-las-personas-a-encontrar-y-seguir-tu-proyecto: "Ayuda a las personas a encontrar y seguir tu proyecto"
-  ve-donde-est&aacute;-la-audiencia-de-tu-proyecto-en-l&iacute;nea: "Ve donde est&aacute; la audiencia de tu proyecto (en l&iacute;nea)"
-  ve-donde-est&aacute;-la-audiencia-de-tu-proyecto-fuera-de-l&iacute;nea: "Ve donde est&aacute; la audiencia de tu proyecto (fuera de l&iacute;nea)"
-  construye-una-reputaci&oacute;n: "Construye una reputaci&oacute;n"
 order: 3
 image: /assets/images/cards/finding.png
 related:

@@ -3,10 +3,6 @@ lang: id
 title: Membangun Komunitas yang Ramah
 description: Membangun komunitas yang mendorong orang lain untuk menggunakan, berkontribusi, dan mempromosikan proyek Anda.
 class: building
-toc:
-  mengarahkan-proyek-anda-untuk-kesuksesan: "Mengarahkan proyek Anda untuk kesuksesan"
-  mengembangkan-komunitas-anda: "Mengembangkan komunitas Anda"
-  menyelesaikan-konflik: "Menyelesaikan konflik"
 order: 4
 image: /assets/images/cards/building.png
 related:

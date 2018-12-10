@@ -3,14 +3,6 @@ lang: fr
 title: Leadership et Gouvernance
 description: Les projets open source en croissance peuvent bénéficier de règles formelles pour prendre des décisions.
 class: leadership
-toc:
-  quels-sont-les-exemples-de-r&ocirc;les-formels-utilis&eacute;s-dans-les-projets-open-source: "Quels sont les exemples de r&ocirc;les formels utilis&eacute;s dans les projets open source"
-  comment-formaliser-ces-r&ocirc;les-de-leadership: "Comment formaliser ces r&ocirc;les de leadership"
-  quand-dois-je-donner-&agrave;-quelquun-le-droit-de-commit: "Quand dois-je donner &agrave; quelqu'un le droit de commit"
-  quelles-sont-les-structures-de-gouvernance-communes-pour-les-projets-open-source: "Quelles sont les structures de gouvernance communes pour les projets open source"
-  ai-je-besoin-de-documents-de-gouvernance-lorsque-je-lance-mon-projet: "Ai-je besoin de documents de gouvernance lorsque je lance mon projet"
-  que-se-passe-t-il-si-les-employ&eacute;s-de-lentreprise-commencent-&agrave;-soumettre-des-contributions: "Que se passe-t-il si les employ&eacute;s de l'entreprise commencent &agrave; soumettre des contributions"
-  ai-je-besoin-dune-entit&eacute;-l&eacute;gale-pour-soutenir-mon-projet: "Ai-je besoin d'une entit&eacute; l&eacute;gale pour soutenir mon projet"
 order: 6
 image: /assets/images/cards/leadership.png
 related:

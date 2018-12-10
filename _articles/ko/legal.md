@@ -3,14 +3,6 @@ lang: ko
 title: 오픈소스의 법적 측면
 description: 오픈소스의 법적 측면과 당신이 하지 않은 몇가지 사항에 대해 궁금해하는 모든 것입니다.
 class: legal
-toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "왜 사람들은 오픈소스의 법적 측면에 많은 관심을 보이고 있습니까?"
-  are-public-github-projects-open-source: "공개 GitHub 프로젝트는 오픈소스입니까?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "내 프로젝트를 보호하기 위해 필요한 DR;TL 제공해주기"
-  which-open-source-license-is-appropriate-for-my-project: "내 프로젝트에 적합한 오픈소스 라이선스는 무엇입니까?"
-  what-if-i-want-to-change-the-license-of-my-project: "프로젝트 라이선스를 변경하려면 어떻게해야합니까?"
-  does-my-project-need-an-additional-contributor-agreement: "내 프로젝트에 추가 기여자 계약이 필요합니까?"
-  what-does-my-companys-legal-team-need-to-know: "우리 회사의 법률 팀은 무엇을 알아야합니까?"
 order: 10
 image: /assets/images/cards/legal.png
 related:

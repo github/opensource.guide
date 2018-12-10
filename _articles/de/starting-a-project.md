@@ -3,12 +3,6 @@ lang: de
 title: Ein Open-Source-Projekt anfangen
 description: Erfahren Sie mehr über die Open-Source-Welt und machen Sie sich bereit, Ihr eigenes Projekt zu starten.
 class: beginners
-toc:
-  was-ist-open-source-und-warum: "Was ist Open Source, und warum?"
-  sollte-ich-mein-eigenes-open-source-projekt-starten: "Sollte ich mein eigenes Open-Source-Projekt starten?"
-  ein-eigenes-open-source-projekt-starten: "Ein eigenes Open-Source-Projekt starten"
-  ihr-projekt-benennen-und-zur-marke-machen: "Ihr Projekt benennen und zur Marke machen"
-  ihre-checkliste-zur-startvorbreitung: "Ihre Checkliste zur Startvorbreitung"
 order: 2
 image: /assets/images/cards/beginner.png
 related:

@@ -3,14 +3,6 @@ lang: id
 title: Sisi Hukum dari Open Source
 description: Segala sesuatu yang pernah Anda tanyakan tentang sisi hukum open source, dan beberapa hal yang tidak Anda inginkan
 class: legal
-toc:
-  kenapa-orang-orang-begitu-perhatian-terhadap-sisi-hukum-dari-open-source: "Kenapa orang-orang begitu perhatian terhadap sisi hukum dari open source?"
-  apakah-proyek-publik-github-open-source: "Apakah proyek publik GitHub open source?"
-  berikan-ringkasan-tentang-apa-yang-saya-perlukan-untuk-menjaga-proyek-saya: "Berikan ringkasan tentang apa yang saya perlukan untuk menjaga proyek saya"
-  lisensi-open-source-mana-yang-sesuai-untuk-proyek-saya: "Lisensi open source mana yang sesuai untuk proyek saya?"
-  bagaimana-jika-saya-hendak-mengubah-lisensi-proyek-saya: "Bagaimana jika saya hendak mengubah lisensi proyek saya?"
-  apakah-proyek-saya-membutuhkan-perjanjian-kontributor-tambahan: "Apakah proyek saya membutuhkan perjanjian kontributor tambahan?"
-  apa-yang-perlu-diketahui-tim-kuasa-hukum-perusahaan-saya: "Apa yang perlu diketahui tim kuasa hukum perusahaan saya?"
 order: 10
 image: /assets/images/cards/legal.png
 related:

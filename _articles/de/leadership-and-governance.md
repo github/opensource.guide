@@ -3,14 +3,6 @@ lang: de
 title: Führung und Lenkung
 description: Wachsende Open-Source-Projekte können von formellen Entscheidungsfindungsregeln profitieren.
 class: leadership
-toc:
-  welche-formalen-rollen-kann-es-in-open-source-projekten-geben: "Welche formalen Rollen kann es in Open-Source-Projekten geben?"
-  wie-formalisiere-ich-diese-führungsrollen: "Wie formalisiere ich diese Führungsrollen?"
-  wann-sollte-ich-jemandem-commit-rechte-geben: "Wann sollte ich jemandem Commit-Rechte geben?"
-  welche-lenkungsstrukturen-nutzen-open-source-projekte-häufiger: "Welche Lenkungsstrukturen nutzen Open-Source-Projekte häufiger?"
-  muss-ich-projektleitung-und--steuerung-schon-zum-projektstart-dokumentieren: "Muss ich Projektleitung und -Steuerung schon zum Projektstart dokumentieren?"
-  was-passiert-wenn-firmenangehörige-beiträge-einreichen: "Was passiert, wenn Firmenangehörige Beiträge einreichen?"
-  brauche-ich-für-mein-projekt-eine-juristische-person: "Brauche ich für mein Projekt eine juristische Person?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:

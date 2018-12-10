@@ -3,13 +3,6 @@ lang: ko
 title: 메인테이너를 위한 모범 사례
 description: 문서화 과정에서 커뮤니티 활용에 이르기까지 오픈소스 메인테이너로서 여러분의 삶을 편하게 만들어줍니다.
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: "메인테이너가 된다는 것은 무엇을 의미하나요?"
-  documenting-your-processes: "진행과정을 문서화하기"
-  learning-to-say-no: "아니오라고 말하는 것을 배우기"
-  leverage-your-community: "커뮤니티 활용하기"
-  bring-in-the-robots: "로봇 가져오기"
-  its-okay-to-hit-pause: "멈추는것도 좋습니다"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:

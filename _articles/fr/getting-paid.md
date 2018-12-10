@@ -3,11 +3,6 @@ lang: fr
 title: Etre payé pour faire de l'Open Source
 description: Soutenez votre travail en open source en obtenant un soutien financier pour votre temps ou votre projet.
 class: getting-paid
-toc:
-  pourquoi-certaines-personnes-cherchent-un-soutien-financier: "Pourquoi certaines personnes cherchent un soutien financier"
-  financer-votre-temps: "Financer votre temps"
-  trouver-du-financement-pour-votre-projet: "Trouver du financement pour votre projet"
-  b&acirc;tir-un-dossier-pour-un-soutien-financier: "B&acirc;tir un dossier pour un soutien financier"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
