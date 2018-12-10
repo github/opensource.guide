@@ -3,14 +3,6 @@ lang: zh-cn
 title: 领导力和治理
 description: 决策有了较正式的规则，可让开源项目野蛮生长。
 class: leadership
-toc:
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "开源项目中通常都有那些角色？"
-  how-do-i-formalize-these-leadership-roles: "该如何将这些领导力角色正规化？"
-  when-should-i-give-someone-commit-access: "何时该赋予提交者权限？"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "对于开源项目来说有那些常见的治理结构？"
-  do-i-need-governance-docs-when-i-launch-my-project: "当我创建开源项目时，需要专门撰写一份治理文档吗？"
-  what-happens-if-corporate-employees-start-submitting-contributions: "公司员工该如何开启提交贡献之旅？"
-  do-i-need-a-legal-entity-to-support-my-project: "我是否需要一个法律实体来支持我的项目?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:

@@ -3,12 +3,6 @@ lang: ko
 title: 오픈소스 프로젝트 시작하기
 description: 오픈소스의 세계에 대해 자세히 알아보고 자신만의 프로젝트를 시작할 준비를 하십시오.
 class: beginners
-toc:
-  the-what-and-why-of-open-source: "오픈소스의 목적 및 이유"
-  should-i-launch-my-own-open-source-project: "나 자신의 오픈소스 프로젝트를 시작해야합니까?"
-  launching-your-own-open-source-project: "나만의 오픈소스 프로젝트 시작하기"
-  naming-and-branding-your-project: "프로젝트 네이밍 및 브랜딩"
-  your-pre-launch-checklist: "출시 전 체크리스트"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -181,7 +175,7 @@ CONTRIBUTING 파일은 잠재 고객에게 프로젝트 참여 방법을 알려�
 
 * 당신이 찾고있는 기여의 종류
 * 프로젝트 로드맵 또는 비전
-* 참여자가 귀하와 연락해야 (또는 하지 말아야) 하는 방법 
+* 참여자가 귀하와 연락해야 (또는 하지 말아야) 하는 방법
 
 따뜻하고 친숙한 분위기의 음색을 사용하고, 기여에 대한 구체적인 제안 (예를 들어 문서 작성 또는 웹 사이트 만들기)을 제공하면 신규 방문자가 참여하고 환영하게 될 것입니다.
 
@@ -353,7 +347,7 @@ You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    누군가는 커뮤니티 (이슈에 응답하고 pull requests을 검토 및 병합)상호 작용을 관리하는 데 전념합니다 
+    누군가는 커뮤니티 (이슈에 응답하고 pull requests을 검토 및 병합)상호 작용을 관리하는 데 전념합니다
   </label>
 </div>
 

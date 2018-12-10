@@ -3,13 +3,6 @@ lang: ko
 title: 프로젝트에서 사람찾기
 description: 행복한 사용자의 손에 넣어져서 오픈소스 프로젝트의 성장을 도우십시오.
 class: finding
-toc:
-  spreading-the-word: "단어 확산하기"
-  figure-out-your-message: "메시지 이해하기"
-  help-people-find-and-follow-your-project: "사람들이 프로젝트를 찾고 팔로우하도록 돕기"
-  go-where-your-projects-audience-is-online: "프로젝트의 고객이 있는 (온라인)으로 이동하기"
-  go-where-your-projects-audience-is-offline: "프로젝트의 고객이 있는 (오프라인)으로 이동하기"
-  build-a-reputation: "평판 쌓기"
 order: 3
 image: /assets/images/cards/finding.png
 related:

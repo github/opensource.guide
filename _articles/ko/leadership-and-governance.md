@@ -3,14 +3,6 @@ lang: ko
 title: 리더십과 정치
 description: 오픈소스 프로젝트가 성장하면서 공식적인 의사 결정 규칙의 혜택을 볼 수 있습니다.
 class: leadership
-toc:
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "오픈소스 프로젝트에서 사용되는 공식 역할의 예시로는 무엇입니까?"
-  how-do-i-formalize-these-leadership-roles: "이러한 리더십 역할을 어떻게 공식화할 수 있습니까?"
-  when-should-i-give-someone-commit-access: "누군가에게 언제 커밋 권한을 부여해야합니까?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "오픈소스 프로젝트의 공통적인 관리 구조에는 어떤 것들이 있습니까?"
-  do-i-need-governance-docs-when-i-launch-my-project: "프로젝트를 시작할 때 거버넌스 문서가 필요합니까?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "기업 직원이 기여를 제출하기 시작하면 어떻게됩니까?"
-  do-i-need-a-legal-entity-to-support-my-project: "내 프로젝트를 지원하기 위해 법인이 필요합니까?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:

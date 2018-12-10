@@ -3,11 +3,6 @@ lang: id
 title: Dibayar untuk Pekerjaan Open Source
 description: Pertahankan pekerjaan Anda pada open source dengan mendapatkan dukungan finansial untuk waktu Anda pada proyek.
 class: getting-paid
-toc:
-  kenapa-beberapa-orang-mencari-dukungan-finansial: "Kenapa beberapa orang mencari dukungan finansial"
-  mendanai-waktu-anda-sendiri: "Mendanai waktu Anda sendiri"
-  mencari-pendanaan-untuk-proyek-anda: "Mencari pendanaan untuk proyek Anda"
-  membangun-kasus-untuk-dukungan-finansial: "Membangun kasus untuk dukungan finansial"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:

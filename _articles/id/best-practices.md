@@ -3,13 +3,6 @@ lang: id
 title: Kiat Baik untuk Pengelola
 description: Mempermudah hidup Anda sebagai pengelola open source, mulai dari mendokumentasikan proses hingga memberdayakan komunitas Anda.
 class: best-practices
-toc:
-  apa-artinya-menjadi-pengelola: "Apa artinya menjadi pengelola?"
-  mendokumentasikan-proses-anda: "Mendokumentasikan proses Anda"
-  belajar-untuk-mengatakan-tidak: "Belajar untuk mengatakan tidak"
-  berdayakan-komunitas-anda: "Berdayakan komunitas Anda"
-  manfaatkan-robot: "Manfaatkan robot"
-  ok-untuk-berhenti-sejenak: "OK untuk berhenti sejenak"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:

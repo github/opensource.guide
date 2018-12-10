@@ -3,10 +3,6 @@ lang: de
 title: Offenherzige Gemeinschaften aufbauen
 description: Bauen Sie eine Community auf, die Menschen ermutigt, Ihr Projekt zu nutzen, zu unterstützen und weiter zu verbreiten.
 class: building
-toc:
-  ihr-projekt-zum-erfolg-führen: "Ihr Projekt zum Erfolg führen"
-  ihre-nutzergemeinschaft-vergrößern: "Ihre Nutzergemeinschaft vergrößern"
-  konflikte-beilegen: "Konflikte beilegen"
 order: 4
 image: /assets/images/cards/building.png
 related:

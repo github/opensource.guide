@@ -3,13 +3,6 @@ lang: fr
 title: Trouver des utilisateurs pour votre projet
 description: Aidez votre projet open source à se développer en le mettant entre les mains d'utilisateurs satisfaits.
 class: finding
-toc:
-  passer-le-mot: "Passer le mot"
-  bien-concevoir-votre-message: "Bien concevoir votre message"
-  aidez-les-gens-&agrave;-trouver-et-&agrave;-suivre-votre-projet: "Aidez les gens &agrave; trouver et &agrave; suivre votre projet"
-  allez-l&agrave;-o&ugrave;-se-trouve-le-public-de-votre-projet-en-ligne: "Allez l&agrave; o&ugrave; se trouve le public de votre projet (en ligne)"
-  allez-l&agrave;-o&ugrave;-se-trouve-le-public-de-votre-projet-hors-ligne: "Allez l&agrave; o&ugrave; se trouve le public de votre projet (hors ligne)"
-  construire-une-r&eacute;putation: "Construire une r&eacute;putation"
 order: 3
 image: /assets/images/cards/finding.png
 related:

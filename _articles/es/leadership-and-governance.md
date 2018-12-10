@@ -3,13 +3,6 @@ lang: es
 title: Liderazgo y Gobierno
 description: Los proyectos de c&oacute;digo abierto crecientes pueden beneficiarse de reglas formales para tomar decisiones.
 class: leadership
-toc:
-  cu&aacute;les-son-ejemplos-de-roles-formales-utilizados-en-proyectos-de-c&oacute;digo-abierto: "&iquest;Cu&aacute;les son ejemplos de roles formales utilizados en proyectos de c&oacute;digo abierto?"
-  c&oacute;mo-formalizo-los-roles-de-liderazgo: "&iquest;C&oacute;mo formalizo los roles de liderazgo?"
-  cuando-le-puedo-dar-acceso-a-hacer-commits-a-alguien: "&iquest;Cuando le puedo dar acceso a hacer commits a alguien?"
-  cu&aacute;les-son-algunas-de-las-estructuras-de-gobierno-comunes-para-los-proyectos-de-c&oacute;digo-abierto: "&iquest;Cu&aacute;les son algunas de las estructuras de gobierno comunes para los proyectos de c&oacute;digo abierto?"
-  necesito-documentaci&oacute;n-de-gobierno-cuando-lanzo-mi-proyecto: "&iquest;Necesito documentaci&oacute;n de gobierno cuando lanzo mi proyecto?"
-  qu&eacute;-pasa-cuando-los-empleados-de-corporaciones-comienzan-a-enviar-contribuciones: "&iquest;Qu&eacute; pasa cuando los empleados de corporaciones comienzan a enviar contribuciones?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:

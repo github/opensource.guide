@@ -3,14 +3,6 @@ lang: id
 title: Kepemimpinan dan Pengelolaan
 description: Mengembangkan proyek open source dapat mengambil keuntungan dari aturan resmi untuk pengambilan keputusan
 class: leadership
-toc:
-  apa-contoh-dari-peran-formal-yang-digunakan-pada-proyek-open-source: "Apa contoh dari peran formal yang digunakan pada proyek open source?"
-  bagaimana-saya-memformalkan-peran-kepemimpinan-ini: "Bagaimana saya memformalkan peran kepemimpinan ini?"
-  kapan-saya-harus-memberikan-akses-commit-kepada-seseorang: "Kapan saya harus memberikan akses commit kepada seseorang?"
-  apa-struktur-pengelolaan-yang-umum-untuk-proyek-open-source: "Apa struktur pengelolaan yang umum untuk proyek open source?"
-  apakah-saya-perlu-dokumentasi-pengelolaan-ketika-saya-merilis-proyek-saya: "Apakah saya perlu dokumentasi pengelolaan ketika Saya merilis proyek Saya?"
-  apa-yang-terjadi-jika-karyawan-perkantoran-mulai-mengajukan-kontribusi: "Apa yang terjadi jika karyawan perkantoran mulai mengajukan kontribusi?"
-  apakah-saya-perlu-entitas-legal-untuk-mendukung-proyek-saya: "Apakah saya perlu entitas legal untuk mendukung proyek Saya?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:

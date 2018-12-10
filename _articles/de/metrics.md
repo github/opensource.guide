@@ -3,12 +3,6 @@ lang: de
 title: Open-Source-Metriken
 description: Treffen Sie fundierte Entscheidungen und helfen Sie Ihrem Open-Source-Projekt, indem Sie dessen Erfolg messen und verfolgen.
 class: metrics
-toc:
-  warum-überhaupt-etwas-messen: "Warum überhaupt etwas messen?"
-  entdeckt-werden: "Entdeckt werden"
-  benutzung: "Benutzung"
-  nachhaltigkeit: "Nachhaltigkeit"
-  betreuerinnen-aktivität: "Betreuer*innen-Aktivität"
 order: 9
 image: /assets/images/cards/metrics.png
 related:
@@ -32,7 +26,7 @@ Mit mehr Informationen können Sie:
 [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) z.B. fand heraus, dass Google Analytics ihnen half, Arbeit zu priorisieren:
 
 > Homebrew wird kostenlos zur Verfügung gestellt und ausschließlich von Freiwilligen in ihrer Freizeit betrieben. Daher verfügen wir nicht über die Ressourcen, um detaillierte Benutzerstudien von Homebrew-Benutzern durchzuführen, um zu entscheiden, wie zukünftige Features am besten gestaltet und die aktuelle Arbeit priorisiert werden können. Mit anonymen aggregierten Benutzeranalysen können wir Korrekturen und neue Funktionen basierend darauf priorisieren, wie, wo und wann Menschen Homebrew verwenden.
-> 
+>
 > Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
 
 Popularität ist nicht alles. Jeder kommt aus verschiedenen Gründen auf Open Source. Wenn Ihr Ziel als Open-Source-Betreuer\*in darin besteht, Ihre Arbeit zu präsentieren, Ihren Code transparent zu machen oder einfach nur um Spaß zu haben, sind Metriken für Sie möglicherweise nicht wichtig.

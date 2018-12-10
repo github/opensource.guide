@@ -3,13 +3,6 @@ lang: id
 title: Menemukan Pengguna untuk Proyek Anda
 description: Membantu proyek open source Anda untuk berkembang dengan cara menyampaikannya ke pengguna yang senang dengan proyek Anda
 class: finding
-toc:
-  menyebarkan-kata: "Menyebarkan kata"
-  menentukan-pesan-anda: "Menentukan pesan Anda"
-  bantu-orang-lain-menemukan-dan-mengikuti-proyek-anda: "Bantu orang lain menemukan dan mengikuti proyek Anda"
-  ketika-pengguna-proyek-anda-online: "Ketika pengguna proyek Anda (online)"
-  ketika-pengguna-proyek-anda-offline: "Ketika pengguna proyek Anda (offline)"
-  membangun-sebuah-reputasi: "Membangun sebuah reputasi"
 order: 3
 image: /assets/images/cards/finding.png
 related:

@@ -3,13 +3,6 @@ lang: es
 title: Buenas Pr&aacute;cticas para Mantenedores de C&oacute;digo.
 description: Haci&eacute;ndote la vida m&aacute;s f&aacute;cil como un mantenedor de c&oacute;digo abierto, desde el proceso de documentaci&oacute;n hasta sacar el m&aacute;ximo provecho de la comunidad.
 class: best-practices
-toc:
-  qu&eacute;-significa-ser-un-mantenedor-de-c&oacute;digo: "¿Qu&eacute; significa ser un mantenedor de c&oacute;digo?"
-  documentando-tus-procesos: "Documentando tus procesos"
-  aprendiendo-a-decir-no: "Aprendiendo a decir no"
-  aprovechando-la-comunidad: "Aprovechando la comunidad"
-  traigan-a-los-robots: "Traigan a los robots"
-  est&aacute;-bien-poner-pausa: "Est&aacute; bien poner pausa"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:

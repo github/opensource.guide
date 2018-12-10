@@ -3,12 +3,6 @@ lang: zh-cn
 title: 开启一个开源项目
 description: 从开源的世界汲取智慧，然后开始准备着手发起开源项目。
 class: beginners
-toc:
-  the-what-and-why-of-open-source: "什么是开源，为什么要开源"
-  should-i-launch-my-own-open-source-project: "我有必要去发起开源项目?"
-  launching-your-own-open-source-project: "发起自己的开源项目"
-  naming-and-branding-your-project: "为项目命名及设立品牌"
-  your-pre-launch-checklist: "发起项目之前的检查项"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
