@@ -113,7 +113,7 @@ Wenn Sie einen Beitrag erhalten, den Sie nicht annehmen möchten, könnte Ihre e
 
 Lassen Sie keinen unerwünschten Beitrag offen, weil Sie sich schuldig fühlen oder nett sein wollen. Im Laufe der Zeit werden unbeantwortete Issues und PRs die Projektarbeit stressiger und einschüchternder machen.
 
-Schließen Sie Beiträge lieber sofort, von denen Sie wissen, dass Sie sie nicht annehmen wollen. Wenn Ihr Projekt bereits unter einem großen Rückstand leidet, hat @steveklabnik Vorschläge für [eine effiziente Behandlung von Issues](http://words.steveklabnik.com/how-to-be-an-open-source-gardener) (Englisch).
+Schließen Sie Beiträge lieber sofort, von denen Sie wissen, dass Sie sie nicht annehmen wollen. Wenn Ihr Projekt bereits unter einem großen Rückstand leidet, hat @steveklabnik Vorschläge für [eine effiziente Behandlung von Issues](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) (Englisch).
 
 Zweitens sendet das Ignorieren von Beiträgen ein negatives Signal an die Gemeinschaft um Ihr Projekt. Einen Projektbeitrag einzureichen, kann einschüchternd sein, besonders für Neulinge. Auch wenn Sie ihren Beitrag nicht annehmen, danken Sie der einreichenden Person für ihr Interesse. Das ist ein großes Kompliment!
 
@@ -199,7 +199,7 @@ Wenn Sie sich aus Ihrem Projekt zurückziehen müssen (egal ob temporär oder au
 
 Wenn andere Leute von Ihrer Projektrichtung begeistert sind, gewähren Sie ihnen Commit-Rechte oder übergeben Sie formell die Kontrolle. Wenn jemand einen Fork Ihres Projektes erstellt hat, und es an anderer Stelle aktiv pflegt, sollten Sie in Erwägung ziehen, aus Ihrem ursprünglichen Projekt heraus auf den Fork zu verweisen. Es ist großartig, dass Menschen Ihr Projekt weiterleben sehen wollen!
 
-@progrium [fand heraus](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) (Englisch), dass es seinem Projekt [Dokku](https://github.com/dokku/dokku) auch nach seinem Rückzug weiter zu leben half, dass er die Vision dokumentiert hatte,
+@progrium [fand heraus](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) (Englisch), dass es seinem Projekt [Dokku](https://github.com/dokku/dokku) auch nach seinem Rückzug weiter zu leben half, dass er die Vision dokumentiert hatte,
 
 > Ich habe eine Wiki-Seite geschrieben, die beschreibt, was ich wollte und warum ich es wollte. Aus irgendeinem Grund war es für mich eine Überraschung, dass die Maintainer\*innen das Projekt in diese Richtung bewegten! Ist es genau so passiert, wie ich es getan habe? Nicht immer. Aber sie brachten das Projekt trotzdem näher an das heran, was ich aufgeschrieben habe.
 >
