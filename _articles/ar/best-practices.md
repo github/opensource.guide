@@ -11,15 +11,15 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## ما معنى أن تكون صائن؟
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+إذا كنت تصون مشروع مصادر مفتوحة يستخدمه الكثير من الناس، ربما لاحظت أنك أصبحت تقوم بالبرمجة بشكل أقل وبدأت بالرد على التذاكر بشكل أكبر.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+في المراحل الأولى من المشروع، ستختبر أفكارًا جديدةً وتتخذ قرارات بناءً على ما تريد. وبعد أن تزداد شهرة مشروعك ستجد نفسك في تعمل مع المستخدمين والمساهمين بشكل أكبر.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+صيانة مشروع تتطلب أكثر من الكود. هذه المهام غير متوقعة في العادة، ولكنها بنفس درجة الأهمية في المشاريع الكبيرة. جمعنا بعض الوسائل المساعدة (من توثيق العمليات إلى الاستفادة من مجتمعك) لجعل  حياتك أسهل.
 
-## Documenting your processes
+## توثيق العمليات
 
 Writing things down is one of the most important things you can do as a maintainer.
 
@@ -31,7 +31,7 @@ Even if you don't use full paragraphs, jotting down bullet points is better than
 
 Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
 
-### Write down your project's vision
+### اكتب رؤية مشروعك
 
 Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
 
@@ -47,7 +47,7 @@ For example, @lord discovered that having a project vision helped him figure out
   </p>
 </aside>
 
-### Communicate your expectations
+### أوصل توقعاتك
 
 Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
 
@@ -68,15 +68,15 @@ Here are a few rules that are worth writing down:
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
 
-### Keep communication public
+### أبق التواصل علنيًا
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+لا تنس أن توثق تواصلك. أبق التواصل حول مشروعك علينًا قدر ما استطعت, إذا حاول أحد التواصل معك بشكل منفرد للتواصل حول طلب خاصية أو احتياج دعم، وجههم منهم بشكل مؤدب لقناة تواصل عامة مثل القائمة البريدية أو متتبع القضايا.
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+إذا تقابلت مع صوّان آخرين أو اتخذت قرارات كبيرة في وسط خاص، وثق هذه المحادثات بشكل عام حتى لو اكتفيت بنشر ملاحظاتك.
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+بهذه الطريقة سيكون أي شخص ينظم لمجتمعك لديه وصول لنفس المعلومات مثل أي شخص موجود منذ سنوات.
 
-## Learning to say no
+## تعلم أن تقول لا
 
 You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
 
@@ -86,71 +86,72 @@ Saying no isn't fun, but  _"Your contribution doesn't match this project's crite
 
 Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
 
-### Keep the conversation friendly
+### ابق المحادثة ودية
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+أحد أكثر الأماكن التي ستتدرب على قول لا فيها هو صف طلبات السحب والمشاكل. كصائن مشروع ستصلك حتمًا بعض المقترحات التي لا تريد قبولها.
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+ربما تكون المساهمة تغير نطاق مشروعك أو لا تتماشى مع رؤيتك. ربما تكون الفكرة جيدة لكن التنفيذ غير مناسب.
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+بغض النظر عن السبب، من الممكن أن تتعامل مع المساهمات التي لا تصل إلى معايير مشروعك بشكل بلباقة.
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+قد تكون ردة فعلك الأولى إذا وصلتك مساهمة لا تريد قبولها هي تجاهلها أو التظاهر بأنك لم ترها. هذا التصرف قد يؤذي مشاعر الطرف الآخر وربما يحبطه مساهمين آخرين في مجتمعك.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  مفتاح التعامل مع الدعم في مشاريع المصادر المفتوحة الضخمة هو إبقاء القضايا تتحرك. حاول تفادي المماطلة في القضايا. إذا كنت مطور iOS فأنت تعمل كم هو مزعج أن تفتح قضية في نظام دعم Apple. قد يصلك الرد بعد سنتين، يطلب منك التجربة مجددًا مع آخر نسخة من iOS.
   <p markdown="1" class="pquote-credit">
-— @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
+— @KrauseFx, ["توسعة مجتمعات المصادر المفتوحة"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+لا تترك أي مساهمة مفتوحة فقط لأنك تشعر بالذنب أو تريد أن تكون لطيفًا. خلال الوقت القضايا والطلبات المفتوحة تجعل العمل على مشروعك أكثر ضغطًا وتحديًا.
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+من الأفضل أن تغلق المساهمات التي تعلم أنك لا تريد قبولها. إذا كان مشروعك يعاني من متراكمات كثيرة، @steveklabnik لديه بعض الاقتراحات حول [كيف تفرز القضايا بشكل فعال](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+ثانيًا، تجاهل المساهمات قد يرسل رسالة سلبية لمجتمعك. المساهمة في مشروع تجربة مخيفة خصوصًا عندما تكون التجربة الأولى.
+حتى لو لم تقبل المساهمة، أشكر من قام بها على اهتمامهم.
 
-If you don't want to accept a contribution:
+إذا لم ترد قبول مساهمة:
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
+* **أشكرهم** على مساهمتهم
+* **اشرح لماذا لا تناسب** نطاق عمل المشروع وقدم اقتراحات واضحة للتحسين إذا استطعت.
+* **قدم روابط للتوثيق ذي العلاقة** إذا كان موجودًا. إذا لاحظت طلبات متكررة لأشياء لا ترغب في قبولها، أضفها لتوثيقاتك لتتجنب تكرار نفسك.
+* **أغلق الطلب**
 
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+يفترض أن لا تحتاج لأكثر من جملة أو جملتين للرد. كمثال، أحد مستخدمي [celery](https://github.com/celery/celery/) بلغ عن خطأ متعلق بـ Windows، وقام @berkerpeksag [بالرد](https://github.com/celery/celery/issues/3383):
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+إذا كانت فكرة قول لا تخيفك فأنت لست وحدك. [كما تقول](https://blog.jessfraz.com/post/the-art-of-closing/) @jessfraz:
 
-> I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+> تحدثت مع صوّان من عدة مشاريع مفتوحة المصدر مختلفة، مثل Mesos، Kubernetes، Chromium وجميعهم يتفقون أن أحد أصعب أجزاء كونك صائن هو قول "لا" لترقيعات لا تريدها.
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+لا تشعر بالذنب لعدم قبولك مساهمة أحدهم. القانون الأول في المصادر المفتوحة [بحسب](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"لا هي شيء مؤقت، نعم ستبقى معك للأبد."_ قد يكون التعاطف مع حماس شخص آخر شيءً جيدًا، لكن رفض مساهمة لا يعني أن رفض الشخص الذي قام بها.
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+في النهاية، إذا كانت المساهمة ليست جيدة بما يكفي فلست ملزمًا بقبولها. كن لطيفًا ومتجاوبًا عندما يساهم الناس في مشروعك، ولكن أقبل فقط التغييرات التي تقتنع بصدق أنها تجعل مشروعك أفضل. كلما تدربت على قول "لا" يصبح الأمر أسهل. نعدك بذلك.
 
-### Be proactive
+### كن استباقيًا
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+لتقلل حجم المساهمات غير المرغوبة في المقام الأول، اشرح عمليات مشروعك لتقديم وقبول المساهمات في دليل المساهمة.
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+إذا كانت تصلك العديد من المساهمات متدنية الجودة، أطلب أن يقوم المساهمون ببعض العمل مسبقًا، كمثال:
 
-* Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+* تعبئة قائمة تحقق/نموذج قضية أو طلب سحب
+* افتح قضية قبل تسليم طلب سحب
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+أغلق القضية مباشرة ووجههم لتوثيقاتك إذا لم يتبعوا قوانينك.
 
 While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+  في الحالة المثالية، اشرح لهم وفي ملف CONTRIBUTING.md كيف يمكن أن يحصلوا على إشارات أفضل عن ماذا يمكن أن يقبل أو يرفض قبل بدء العمل.
   <p markdown="1" class="pquote-credit">
-— @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+— @MikeMcQuaid, ["إغلاق طلبات السحب بلطافة"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+في بعض الأحيان، عندما تقول لا قد يغضب المساهم المحتمل أو ينتقد قرارك. إذا بدأ تصرفهم بالتحول إلى عدائي، [خذ خطوات لكسر حدة الموقف](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) أو حتى ازلهم من مجتمعك إذا لم يكونوا مستعدين للمساهمة بشكل بناءً.
 
 ### Embrace mentorship
 
@@ -168,7 +169,7 @@ If you're looking for others to pitch in, start by asking around.
 
 When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
 
-Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js?files=1).
+Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
@@ -246,32 +247,34 @@ However, if your standards are too complicated, they can increase the barriers t
 
 If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
 
-## It's okay to hit pause
+## لا بأس في أخذ وقفة
 
-Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
+قد يكون العمل في المصادر المفتوحة جلب لك السعادة يومًا ما، لكن ربما تشعر اليوم بالذنب أو الرغبة في اجتناب الناس.
 
+ربما تشعر أنك مغلوب على أمرك أو ربما يشعرك التفكير في مشاريعك بالخوف.
 Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
 
-Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
+الشعور بالاستنفاذ (Burnout) هو مشكلة حقيقية ومنتشرة في شبكة المصادر المفتوحة، خصوصُا لدى الصوّان. كصائن، شعورك بالسعادة هو متطلب غير قابل للنقاش لنجاح أي مشروع مصادر مفتوحة.
 
-Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. @brettcannon, a Python core developer, decided to take [a month-long vacation](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) after 14 years of volunteer OSS work.
+يفترض أن لا نحتاج لقول هذا، لكن خذ فترة راحة! لا يفترض أن تنتظر حتى تشعر بالاستنفاذ لتأخذ إجازة. @brettcannon، أحد مطورين لبّ Python، قرر أخذ  [إجازة لمدة شهر](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) بعد 14 من العمل التطوعي في المصادر المفتوحة.
 
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+مثل أي نوع عمل آخر، أخذ راحة بشكل منتظم سيجعلك متجددًا وسعيدًا ومتحمسًا لعملك.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+  آثناء صيانة WP-CLI، اكتشفت أنني بحاجة لجعل نفسي سعيدًا أولًا وأن أضع حدود لمشاركتي. أفضل مستوى من التوازن وجدته كان ساعتين إلى خمس ساعات في كل أسبوع كجزء من جدول عملي المعتاد. هذا يبقى مشاركتي شغفًا، ويحميني من الشعور بكثرة العمل. لأنني أرتب ما سأعمل عليه حسب الأهمية استطيع تقدم منتظم فيما أريد أظن أنهم مهم.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["تعازي، أنت الآن صائن مشروع مفتوح المصدر"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
-Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
+أحيانًا قد يكون من الصعب أخذ راحة من العمل في المصادر المفتوحة عندما تشعر أن الجميع يحتاجك. وقد يحاول البعض أن يشعرك بالذنب لمحاولة الابتعاد.
 
-Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
+قد بجهدك لتجد من يدعم مستخدميك ومجتمعك وأنت بعيد عن مشروعك.
+حتى لو لم تجد الدعم المطلوب، خذ فترة راحتك على كل حال. تأكد من إيصال رسالة أنك غير موجود حتى لا يحتار الناس عن سبب عدم ردك.
 
-Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+أخذ فترات راحة ينطبق لأكثر من الإجازات. إذا كنت لا تريد القيام بالعمل على المصادر المفتوحة خلال نهاية الأسبوع أو خلال ساعات عملك، أوصل هذه التوقعات للآخرين حتى يتعلموا أن لا يزعجوك فيها.
 
-## Take care of yourself first!
+## اهتم بنفسك أولًا!
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+صيانة مشروع مفتوح المصدر تتطلب مهارات مختلفة عن مراحل النمو الأولى، وهي مرحلة مجزية أيضًا. كصائن ستتدرب على القيادة والمهارات الشخصية على مستوى لا يصل إلى أغلب الناس. لن يكون من السهل إدارة الأمور دائمًا، ولذا وضع الحدود والعمل على المقدار الذي ترتاح له سيساعدك على البقاء سعيدًا ومتجددًا ومنتجًا.
