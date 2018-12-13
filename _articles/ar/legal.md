@@ -4,14 +4,6 @@ direction: rtl
 title: الجانب القانوني من المصادر المفتوحة
 description: كل ما تساءلت عنه بخصوص الجانب القانوني للمصادر المفتوحة، وأشياء إضافية لم تتساءل عنها.
 class: legal
-toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "لماذا يهتم الناس كثيرًا بالجانب القانوني للمصادر المفتوحة؟"
-  are-public-github-projects-open-source: "هل المشاريع العامة على GitHub مفتوحة المصدر؟"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "أعطى الخلاصة حول احتياجي لحماية مشروعي"
-  which-open-source-license-is-appropriate-for-my-project: "أي رخصة مصادر مفتوحة هي المناسبة لمشروعي؟"
-  what-if-i-want-to-change-the-license-of-my-project: "ماذا لو أردت أن أغير رخصة مشروعي؟"
-  does-my-project-need-an-additional-contributor-agreement: "هل يحتاج مشروعي لاتفاقية مساهمين إضافية؟"
-  what-does-my-companys-legal-team-need-to-know: "ماذا يحتاج أن يعرف الفريق القانوني في شركتي؟"
 order: 10
 image: /assets/images/cards/legal.png
 related:

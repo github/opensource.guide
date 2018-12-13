@@ -4,11 +4,6 @@ direction: rtl
 title: الحصول على مردود مقابل العمل على المصادر المفتوحة
 description: Sustain your work in open source by getting financial support for your time or your project.
 class: getting-paid
-toc:
-  لماذا-يطلب-بعض-الناس-الدعم-المالي: "لماذا يطلب بعض الناس الدعم المالي؟"
-  تمويل-وقتك-الخاص: "تمويل وقتك الخاص"
-  البحث -عن-تمويل-لمشروعك: "البحث عن تمويل لمشروعك"
-  بناء-حجة-للدعم-المالي: "بناء حجة للدعم المالي"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
