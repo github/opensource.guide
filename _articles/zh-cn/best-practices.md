@@ -162,7 +162,7 @@ related:
 
 当你看到新的贡献者不停的提交贡献，通过分配给他们更多任务来表示认可。如果别人愿意的话，记录下别人是怎么成长为领导者的过程。
 
-鼓励别人来[一起管理项目](../building-community/#share-ownership-of-your-project)能很大程度上减轻你的工作量，就像 [@lmccart](https://github.com/lmccart)在他的项目上做的那样，[p5.js](https://github.com/processing/p5.js)
+鼓励别人来[一起管理项目](../building-community/#share-ownership-of-your-project)能很大程度上减轻你的工作量，就像 [@lmccart](https://github.com/lmccart)在他的项目上做的那样，[p5.js](https://github.com/processing/p5.js?files=1)
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
