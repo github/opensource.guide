@@ -4,11 +4,6 @@ direction: rtl
 title: الحصول على مردود مقابل العمل على المصادر المفتوحة
 description: Sustain your work in open source by getting financial support for your time or your project.
 class: getting-paid
-toc:
-  لماذا-يطلب-بعض-الناس-الدعم-المالي: "لماذا يطلب بعض الناس الدعم المالي؟"
-  تمويل-وقتك-الخاص: "تمويل وقتك الخاص"
-  البحث -عن-تمويل-لمشروعك: "البحث عن تمويل لمشروعك"
-  بناء-حجة-للدعم-المالي: "بناء حجة للدعم المالي"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -142,7 +137,7 @@ related:
 
 بعض مؤسسات وشركات البرمجات تقدم منح للعمل على المصادر المفتوحة. في بعض الأحيان المنح يمكن أن تدفع للأشخاص بدون تأسيس كيان قانوني للمشروع.
 
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** حصل على منحة من [دعم Mozilla للمصادر المفتوحة ](https://www.mozilla.org/en-US/grants/)
+* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** حصل على منحة من [دعم Mozilla للمصادر المفتوحة](https://www.mozilla.org/en-US/grants/)
 * **[OpenMRS](https://github.com/openmrs)** موّله [معتكف Stripe للمصادر المفتوحة](https://stripe.com/blog/open-source-retreat-2016-grantees)
 * **[Libraries.io](https://github.com/librariesio)** حصل على منحة من [مؤسسة Sloan](https://sloan.org/programs/digital-technology)
 * **[مؤسسة برمجيات Python](https://www.python.org/psf/grants/)** تقدم منحة للأعمال المتعلقة بـPython
@@ -153,7 +148,7 @@ related:
 
 سواء كان المشروع فكرة جديدة أو قائمًا لعدة سنوات يجب أن تتوقع أن تضع الكثير من الجهد في التفكير للتعرف على ممولك المستهدف وتقديم حجة مقنعة.
 
-يجب أن تكون قادرًا على الإجابة على الأسئلة التالي سواءً كنت تبحث لتمول قيمة وقتك الخاص أو كنت تجمع المال لمشروع.
+يجب أن تكون قادرًا على الإجابة على الأسئلة التالية سواءً كنت تبحث لتمول قيمة وقتك الخاص أو كنت تجمع المال لمشروع.
 
 ### الأثر
 
