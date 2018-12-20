@@ -190,7 +190,7 @@ published: true
 
 *	**ماذا يمكنك أن تصدر:** [كل شيء( تقريبا)؟ ](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) إذا كان فريقك القانوني يتفهم ويستثمر في إستراتيجية شركتك للمصادر المفتوحة، فسيكون قادرًا بشكل أفضل على مساعدتك عوضا عن إعاقة جهودك.
 
-*	**الالتزامات(Compliance):** حتى إذا لم تطلق شركتك أي مشاريع مفتوحة المصدرفإنها ستستخدم البرامج مفتوحة المصدر الخاصة بالآخرين. يمكن[ للوعي القانوني ](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/)( Awareness and process)  و لطريقة استخدام المصادر المفتوحة الخاصة بالآخرين أن تمنع حصول أية مشاكل إضافية وتأخيرات إطلاق المنتجات، والدعاوى القضائية ضد الشركة.
+* **الالتزامات(Compliance):** حتى إذا لم تطلق شركتك أي مشاريع مفتوحة المصدرفإنها ستستخدم البرامج مفتوحة المصدر الخاصة بالآخرين. يمكن[ للوعي القانوني ](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/)( Awareness and process)  و لطريقة استخدام المصادر المفتوحة الخاصة بالآخرين أن تمنع حصول أية مشاكل إضافية وتأخيرات إطلاق المنتجات، والدعاوى القضائية ضد الشركة.
 
 
 <aside markdown="1" class="pquote">
@@ -203,6 +203,6 @@ published: true
 
 *	**براءات الإختراع (Patents):** قد ترغب شركتك بالانضمام إلى
 [شبكة الإختراعات المفتوحة](https://www.openinventionnetwork.com/)،  وهي عبارة عن عددًا من براءات الاختراع ويوافق أعضاؤه على الترخيص المتبادل لكل براءات اختراعهم في صنع أي نظام لينكس أو استخدامه أو استيراده أو توزيعه أو لاستكشاف رخص 
-[براءات اختراع بديلة](https://www.eff.org/document/hacking-patent-system-2016).
-*	**الحوكمة(Governance):** خصوصا إن كان( أو عندما يكون) من المنطقي نقل المشروع إلى
-[كيان قانوني آخر خارج الشركة](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
+[تراخيص براءة اختراع بديلة](https://www.eff.org/document/hacking-patent-system-2016).
+*	**الحوكمة(Governance):** خصوصا إن كان(أو عندما يكون) من المنطقي نقل المشروع إلى
+[كيان قانوني خارج الشركة](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
