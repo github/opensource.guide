@@ -215,7 +215,7 @@ CONTRIBUTINGファイルに、新しいコントリビュータにどのよう�
 
 READMEは[単なる手順書以上のものです](../starting-a-project/#READMEを書く)。そこにはあなたのゴールやロードマップについて書く場所でもあるのです。もし人々がある特定の機能のメリットについて議論しすぎているのであれば、READMEを見返してプロジェクトのより高レベルのビジョンについて話すことが助けとなるかもしれません。READMEに注力することは、会話を個人から切り離し、生産的な議論を行うことに繋がります。
 
-### Focus on the journey, not the destination
+### 向かう先ではなく、その過程に集中しよう
 
 大きな決定を行う際に投票を用いるプロジェクトもあります。一見して賢明に見えますが、投票はお互いの声を聞き、心配事を解決することよりも、答えを出す事に重きをおいてしまいます。
 
@@ -227,15 +227,15 @@ READMEは[単なる手順書以上のものです](../starting-a-project/#README
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
-  AtomのIssueに投票システムが存在しない理由の一部は、Atomチームはあらゆるケースにおいて投票システムを使うわけではないからです。時によっては、あまり支持されていない案であっても、正しいと感じるものを選ぶ必要があります。（…）私が提供し、実際に行うと固く約束するのは、コミュニティの意見を聞くことが私のしごとであるということです。
+  AtomのIssueに投票システムが存在しない理由の一部は、Atomチームはあらゆるケースにおいて投票システムを使うわけではないからです。時によっては、あまり支持されていない案であっても、正しいと感じるものを選ぶ必要があります。（…）私が提供し、実際に行うと固く約束するのは、コミュニティの意見を聞くことが私の仕事であるということです。
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
 </aside>
 
-Even if you don't actually adopt a consensus seeking process, as a project maintainer, it's important that people know you are listening. Making other people feel heard, and committing to resolving their concerns, goes a long way to diffuse sensitive situations. Then, follow up on your words with actions.
+たとえ合意の模索プロセスを採用していないとしても、プロジェクトメンテナーとして重要なことは、あなたが人々の声を聞いていると理解しているということです。皆に自分の意見を受け止められていると感じさせ、彼らの心配を解決すると約束することは、問題にすぐに気づけるような環境を広める上での長い道のりのスタートとなります。そして、あなたの発言に行動が伴うようにするのです。
 
-Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
+問題解決のために意思決定を急いではいけません。解決に至る前に、皆の意見が聞き入れられ、全ての情報が公開されているようにしましょう。
 
 ### Keep the conversation focused on action
 
