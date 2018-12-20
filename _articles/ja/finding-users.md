@@ -142,7 +142,7 @@ Djangoの共同作者の[@adrianholovaty](https://news.ycombinator.com/item?id=7
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   今日urllib3がPythonの最も有名なサードパーティライブラリになった唯一の理由は、requestsの一部であったためです。
   <p markdown="1" class="pquote-credit">
-— @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540)
+— @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov)
   </p>
 </aside>
 
