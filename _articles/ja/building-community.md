@@ -248,28 +248,28 @@ READMEは[単なる手順書以上のものです](../starting-a-project/#readme
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
+  強引にならずに議論を実利的なものに導いていくのはある種の技術です。単に無駄な時間を使わないよう諭したり、なにか生産的な内容がないのであれば何も書かないようお願いするだけではうまくいかない。 (...) そうする代わりに、議論を進めるアイデアを提案する必要があります: 例えば指針を与えたり、あなたが望む結論に導くための道筋を提示したりといったことです。ただ、するべきことを全てあなたがコントロールしているようには聞こえないよう気をつける必要があります。
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 
-### Pick your battles wisely
+### 戦う場所を賢く選ぼう
 
-Context is important. Consider who is involved in the discussion and how they represent the rest of the community.
+コンテキストは重要です。誰が議論に参加していて、彼らがコミュニティの残りのメンバーを代表しているのかどうかを考えましょう。
 
-Is everybody in the community upset about, or even engaged with, this issue? Or is a lone troublemaker? Don't forget to consider your silent community members, not just the active voices.
+コミュニティの皆がこの問題について不満を感じている、もしくは関係していますか？それとも、トラブルメーカーが一人いるだけでしょうか？常に声の大きいメンバーだけでなく、静かなコミュニティメンバーのことも考慮に入れる必要があります。
 
-If the issue does not represent the broader needs of your community, you may just need to acknowledge the concerns of a few people. If this is a recurring issue without a clear resolution, point them to previous discussions on the topic and close the thread.
+もしその問題がコミュニティの大部分は解決を求めていないとしても、少数派の懸念をコミュニティ内に周知する必要はあるかもしれません。もしそれが明確な解決策がなく、繰り返し発生する問題なのであれば、そのトピックに関する過去の議論を参照し、そのスレッドを閉じましょう。
 
-### Identify a community tiebreaker
+### コミュニティのタイブレーカーを見つけ出そう
 
-With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, identify an individual or group of people that can serve as a tiebreaker.
+親切な態度を取り、明確なコミュニケーションをすれば、大抵の問題は解決可能です。しかし、たとえ生産的な議論をしたとしても、どのように物事を進めるかについての意見の相違は発生する可能性があります。そういう場合は、タイブレーカーとなりうる個人やグループを見つけ出しましょう。
 
-A tiebreaker could be the primary maintainer of the project, or it could be a small group of people who make a decision based on voting. Ideally, you've identified a tiebreaker and the associated process in a GOVERNANCE file before you ever have to use it.
+タイブレーカーはプロジェクトのメンテナーかもしれませんし、投票を行って結成を行う少数のグループかもしれません。理想的には、事前にタイブレーカーを見つけ出し、GOBERNANCEファイルに関連するプロセスとともに記載しておくのが良いです。
 
-Your tiebreaker should be a last resort. Divisive issues are an opportunity for your community to grow and learn. Embrace these opportunities and use a collaborative process to move to a resolution wherever possible.
+タイブレーカーは最後の手段であるべきです。対立を呼ぶような問題はコミュニティが成長し、学習する良い機会です。こういった機会を受け入れ、協力的なプロセスで解決にこぎつけましょう。
 
-## Community is the ❤️ of open source
+## コミュニティはオープンソースの❤️です
 
-Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone out there have an unforgettable open source experience.
+健全で栄えているコミュニティでは、オープンソースに毎週何百時間ものエネルギーを注ぎ込みます。多くのコントリビューターがオープンソース活動をする理由 - あるいはしない理由 - として、コミュニティの他の人を挙げます。そういったパワーを建設的に利用する方法を学習することで、オープンソース活動をしている人に対して忘れがたい経験を提供する事ができるでしょう。
