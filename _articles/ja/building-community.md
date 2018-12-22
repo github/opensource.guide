@@ -232,19 +232,19 @@ READMEは[単なる手順書以上のものです](../starting-a-project/#readme
 
 問題解決のために意思決定を急いではいけません。解決に至る前に、皆の意見が聞き入れられ、全ての情報が公開されているようにしましょう。
 
-### Keep the conversation focused on action
+### 議論を行動に集中し続けよう
 
-Discussion is important, but there is a difference between productive and unproductive conversations.
+議論は大事ですが、生産的な会話と生産的でない会話には違いがあります。
 
-Encourage discussion so long as it is actively moving towards resolution. If it's clear that conversation is languishing or going off-topic, jabs are getting personal, or people are quibbling about minor details, it's time to shut it down.
+解決に向けられている限りは議論を奨励しましょう。もし、議論が明らかに停滞したり、論点がずれていたり、個人攻撃が始まったり、些細な点に固執し始めた場合は、議論を終えるようにするべきです。
 
-Allowing these conversations to continue is not only bad for the issue at hand, but bad for the health of your community. It sends a message that these types of conversations are permitted or even encouraged, and it can discourage people from raising or resolving future issues.
+こういった議論が続くことを許してしまうと、目前の問題に対しても良くないですし、なによりコミュニティの健全性も残ってしまいます。こういった種類の議論が許されている、もしくは奨励されてすらいるというメッセージになってしまいますし、人々が今後問題を共有したり解決しようとする気持ちを削いでしまうことにも繋がります。
 
-With every point made by you or by others, ask yourself, _"How does this bring us closer to a resolution?"_
+全ての意見について、 _「これはどうやって解決に繋がるのだろうか？」_ と考えてみましょう。
 
-If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
+もし会話がもつれ始めたら、 _「次には何をするべきだろう？」_ と皆に問いかけ、議論の焦点をもとに戻りましょう。
 
-If a conversation clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the issue and explain why you closed it.
+もし会話が明らかにどこにも向かっていなく、取るべきアクションもないか、適切なアクションはすでに起こしたのであれば、理由とともにイシューを閉じましょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
