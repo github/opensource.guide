@@ -3,13 +3,6 @@ lang: ko
 title: 관리자의 모범
 description: 문서화 과정에서 커뮤니티 활용에 이르기까지 오픈소스 관리자로서 여러분의 삶을 더 편하게 만들어 줍니다.
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: "메인테이너가 된다는 것은 무엇을 의미하나요?"
-  documenting-your-processes: "프로세스 문서화하기"
-  learning-to-say-no: "거절하는 법 배우기"
-  leverage-your-community: "커뮤니티 활용하기"
-  bring-in-the-robots: "로봇 가져오기"
-  its-okay-to-hit-pause: "잠시 멈춰도 괜찮습니다"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:

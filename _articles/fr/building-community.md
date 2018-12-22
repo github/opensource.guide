@@ -3,10 +3,6 @@ lang: fr
 title: Construire des communautés accueillantes
 description: Construire une communauté qui encourage les gens à utiliser, contribuer et évangéliser votre projet.
 class: building
-toc:
-  mise-en-place-de-votre-projet-pour-le-succ&egrave;s: "Mise en place de votre projet pour le succ&egrave;s"
-  cultiver-votre-communaut&eacute;: "Cultiver votre communaut&eacute;"
-  r&eacute;soudre-les-conflits: "R&eacute;soudre les conflits"
 order: 4
 image: /assets/images/cards/building.png
 related:

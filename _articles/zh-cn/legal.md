@@ -3,14 +3,6 @@ lang: zh-cn
 title: 开源的法律保护
 description: 对于开源你应该了解的所有法律知识。
 class: legal
-toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "为什么大家非常担心有关开源的法律问题?"
-  are-public-github-projects-open-source: "公开的GitHub项目是开源的吗?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "请告诉我该如何保护项目"
-  which-open-source-license-is-appropriate-for-my-project: "哪个开源许可协议适合我的项目?"
-  what-if-i-want-to-change-the-license-of-my-project: "如果我想更换项目的许可协议，该怎么办?"
-  does-my-project-need-an-additional-contributor-agreement: "我的项目需要额外的贡献者协议吗?"
-  what-does-my-companys-legal-team-need-to-know: "我的公司的法律团队需要知道什么?"
 order: 10
 image: /assets/images/cards/legal.png
 related:

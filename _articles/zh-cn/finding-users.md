@@ -3,13 +3,6 @@ lang: zh-cn
 title: 为项目寻找合适的用户
 description: 通过找到称心如意的用户，帮助开源项目成长。
 class: finding
-toc:
-  spreading-the-word: "四处传播"
-  figure-out-your-message: "发出自己的声音"
-  help-people-find-and-follow-your-project: "帮助人们找到并关注你的项目"
-  go-where-your-projects-audience-is-online: "到项目成员线上经常去的地方"
-  go-where-your-projects-audience-is-offline: "到项目成员线下经常去的地方"
-  build-a-reputation: "赢得口碑"
 order: 3
 image: /assets/images/cards/finding.png
 related:

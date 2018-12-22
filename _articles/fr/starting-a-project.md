@@ -3,12 +3,6 @@ lang: fr
 title: Lancer un projet Open Source
 description: En savoir plus sur le monde de l'open source et préparez-vous à lancer votre propre projet.
 class: beginners
-toc:
-  le-quoi-et-le-pourquoi-de-lopen-source: "Le &quot;quoi&quot; et le &quot;pourquoi&quot; de l'open source"
-  dois-je-lancer-mon-propre-projet-open-source: "Dois-je lancer mon propre projet open source"
-  lancer-votre-propre-projet-open-source: "Lancer votre propre projet open source"
-  nommer-et-marquer-votre-projet: "Nommer et marquer votre projet"
-  votre-checklist-de-pr&eacute;-lancement: "Votre checklist de pr&eacute;-lancement"
 order: 2
 image: /assets/images/cards/beginner.png
 related:

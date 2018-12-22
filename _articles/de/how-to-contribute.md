@@ -3,13 +3,6 @@ lang: de
 title: Wie zu Open Source beitragen?
 description: Möchten Sie zu Open Source beitragen? Hier finden Sie einen Leitfaden für Einsteiger und Fortgeschrittene.
 class: contribute
-toc:
-  warum-eigentlich-zu-open-source-projekten-beitragen: "Warum eigentlich zu Open-Source-Projekten beitragen?"
-  was-einen-beitrag-leisten-bedeutet: "Was 'einen Beitrag leisten' bedeutet"
-  sich-in-einem-neuen-projekt-orientieren: "Sich in einem neuen Projekt orientieren"
-  so-finden-sie-ein-projekt-zu-dem-sie-beitragen-können: "So finden Sie ein Projekt, zu dem Sie beitragen können"
-  wie-man-einen-beitrag-einreicht: "Wie man einen Beitrag einreicht"
-  was-passiert-nachdem-sie-einen-beitrag-eingereicht-haben: "Was passiert, nachdem Sie einen Beitrag eingereicht haben?"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -21,11 +14,11 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  
+
   Die Arbeit an \[freenode\] lehrte mich viele Fähigkeiten, die sich später in meinem Universitätsstudium und meinen Beruf als nützlich erwiesen. Ich denke, an Open-Source zu arbeiten, half mir selbst ebenso sehr wie dem Projekt.
-  
+
   _Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!_
-  
+
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
@@ -71,11 +64,11 @@ Ein weit verbreiteter Irrtum! Aber in Wirklichkeit sind es oft andere Projektasp
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  
+
   Ich bin bekannt für meine Arbeit an CocoaPods, aber die meisten Leute wissen nicht, dass ich eigentlich keine echte Arbeit am CocoaPods-Tool selbst mache. Meine Zeit im Projekt verbringe ich hauptsächlich mit Dokumentation und Marketing.
-  
+
   _I've been renowned for my work on CocoaPods, but most people don't know that I actually don't do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding._
-  
+
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
@@ -85,11 +78,11 @@ Auch wenn Sie gerne Code schreiben, sind andere Beitragsarten eine gute Möglich
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  
+
   Ich habe mich zum ersten Mal an das Python-Entwicklungsteam ("python-dev") gewandt, als ich am 17. Juni 2002 eine E-Mail bezüglich eines Patches von mir an die Mailingliste schickte. Das Open-Source-Fieber packte mich sofort und ich beschloss, E-Mail-Zusammenfassungen für die Gruppe zu kuratieren. So hatte ich immer eine gute Ausrede, um mir Dinge erklären zu lassen. Aber noch wichtiger war die Möglichkeit, schnell mitzubekommen wenn jemand auf einen Reparaturbedarf hinwies.
-  
+
   _I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing._
-  
+
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
   </p>
@@ -118,11 +111,11 @@ Auch wenn Sie gerne Code schreiben, sind andere Beitragsarten eine gute Möglich
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  
+
   Ernsthaft, die \[Dokumentation\] ist mega-wichtig. Sie war bisher großartig und ein Killer-Feature von Babel. Aber es gibt Abschnitte, die sicherlich einiger Verbesserung bedürfen, und auch einen Absatzes hier oder dort hinzuzufügen.
-  
+
   _Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated._
-  
+
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
@@ -169,11 +162,11 @@ Auch wenn Sie ein\*e Software-Entwickler\*in sind, kann Ihnen die Arbeit an eine
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-  
+
   Wenn Sie sich einen Issue Tracker anschauen und er Dinge verwirrend erscheinen lässt, dann sind sie mit dem Gefühlt vermutlich nicht allein. Diese Werkzeuge erfordern viel implizites Wissen. Sie können es von anderen Leuten erlernen, und Sie können ihnen Fragen stellen.
-  
+
   _If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions._
-  
+
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
@@ -257,11 +250,11 @@ Hier ist eine praktische Checkliste, um zu beurteilen, ob ein Projekt für neue 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  
+
   Hat es eine Lizenz? In der Regel finden Sie diese in einer Datei namens LICENSE im Hauptordner.
-  
+
   _Does it have a license? Usually, this is a file called LICENSE in the root of the repository._
-  
+
   </label>
 </div>
 
@@ -272,33 +265,33 @@ Sehen Sie sich die Commit-Aktivität auf dem Master-Branch an. Auf GitHub könne
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  
+
   Wann gab es den letzten Commit?
-  
+
   _When was the latest commit?_
-  
+
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  
+
   Wie viele Mitwirkende hat das Projekt?
-  
+
   _How many contributors does the project have?_
-  
+
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  
+
   Wie oft engagieren sich Menschen? (Auf GitHub finden Sie diese Information, indem Sie in der oberen Leiste auf "Commits" klicken.)
-  
+
   _How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)_
-  
+
   </label>
 </div>
 
@@ -307,55 +300,55 @@ Schauen Sie sich als nächstes die Issues des Projekts an.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    
+
     Wie viele Issues sind offen?
-    
+
     _How many open issues are there?_
-    
+
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    
+
     Reagieren die Maintainer\*innen schnell auf neu erstellte Issues?
-    
+
     _Do maintainers respond quickly to issues when they are opened?_
-    
+
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    
+
     Werden Issues aktiv diskutiert?
-    
+
     _Is there active discussion on the issues?_
-    
+
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    
+
     Sind die Issues aktuell?
-    
+
     _Are the issues recent?_
-    
+
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    
+
     Werden Issues auch wieder geschlossen? (Klicken Sie bei GitHub auf der Seite "Issues" auf "closed", um geschlossene Issues zu sehen.)
-    
+
     _Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)_
-    
+
   </label>
 </div>
 
@@ -364,55 +357,55 @@ Führen Sie nun die selben Schritte für die Pull Requests des Projekts durch.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    
+
     Wie viele Pull Requests gibt es?
-    
+
     _How many open pull requests are there?_
-    
+
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-  
+
     Reagieren die Maintainer\*innen schnell auf neu erstellte Pull Requests?
-    
+
     _Do maintainers respond quickly to pull requests when they are opened?_
-    
+
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-  
+
     Werden Pull Requests aktiv diskutiert?
-  
+
     _Is there active discussion on the pull requests?_
-    
+
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    
+
     Sind die Pull Requests aktuell?
-    
+
     _Are the pull requests recent?_
-    
+
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    
+
     Wie kürzlich wurden Pull Requests ge-merged? (Klicken Sie bei GitHub auf der "Pull Requests"-Seite auf "closed", um geschlossene PRs zu sehen).
-    
+
     _How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)_
-    
+
   </label>
 </div>
 
@@ -423,54 +416,54 @@ Ein Projekt, das freundlich und einladend ist, signalisiert Offenheit gegenüber
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    
+
     Antworten die Maintainer\*innen auf eine hilfsbereite Art und Weise auf Issues?
-    
+
     _Do the maintainers respond helpfully to questions in issues?_
-    
+
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    
+
     Gehen Leute in den Issues, im Diskussionsforum oder Chat (z.B. IRC oder Slack) freundlich miteinander um?
-    
+
     _Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?_
-    
+
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    
+
     Werden Pull Requests begutachtet?
-    
+
     _Do pull requests get reviewed?_
-    
+
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    
+
     Danken die Maintainer\*innen den Beitragenden?
-    
+
     _Do maintainers thank people for their contributions?_
-    
+
   </label>
 </div>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  
+
   Wann immer Sie einen langen Diskussionsbeitrag sehen, überprüfen Sie die Antworten der Core-Entwickler, die spät in die Diskussion einsteigen. Fassen sie konstruktiv zusammen und unternehmen Schritte, um die Diskussion zu einer Entscheidung zu führen, und bleiben sie dabei höflich? Wenn du viele Flame Wars siehst, zeigt dies an, dass Energie im Streit verschwendet wird, anstatt in die Entwicklung gesteckt zu werden.
 
   _Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development._
-  
+
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
@@ -486,11 +479,11 @@ Unabhängig davon, ob Sie ein\*e einmalige\*r Beitragende\*r sind oder versuchen
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  
+
   \[Als neue Kontributorin,\] wurde mir schnell klar, dass ich Fragen stellen musste, wenn ich ein Problem lösen wollte. Ich habe den Quellcode durchgelesen. Sobald ich ein Gefühl für dessen Abläufe hatte, bat ich um mehr Orientierung. Und voilà! Ich war in der Lage, das Problem zu lösen, nachdem ich alle relevanten Details erhalten hatte, die ich brauchte.
-  
+
   _\[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed._
-  
+
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39)
   </p>
@@ -552,11 +545,11 @@ Wenn Sie einen substantiellen Beitrag leisten wollen, öffnen Sie eine Issue, be
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
-  
+
   Sie lernen <em>sehr viel</em>, wenn Sie ein von Ihnen genutztes Projekt, auf GitHub "watchen" und jedes Issue und PR lesen.
-  
+
   _You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR._
-  
+
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
