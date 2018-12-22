@@ -31,7 +31,6 @@ related:
 
 できる限り、既存の行動規範を使いましょう。[Contributor Covenant](https://contributor-covenant.org/)は40,000以上のオープンソースプロジェクトで使われている行動規範で、Kubernetes、Rails、Swiftでも使われています。
 
-
 [Django Code of Conduct](https://www.djangoproject.com/conduct/)や[Citizen Code of Conduct](http://citizencodeofconduct.org/)の2つもよく使われる行動規範です。
 
 CODE_OF_CONDUCGファイルをプロジェクトのルートディレクトリに置き、CONTRIBUTINGやREADMEファイルからリンクを張ってコミュニティの皆がすぐに見れるようにしましょう。
