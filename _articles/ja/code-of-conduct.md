@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: 行動規範ガイド
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+description: 行動規範を採用することで、健全で生産的なコミュニティを作り上げよう
 class: coc
 order: 8
 image: /assets/images/cards/coc.png
@@ -10,32 +10,33 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## なぜ行動規範が必要なのか？
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+行動規範は、あなたのプロジェクトの参加者に期待する振る舞いをまとめたドキュメントです。行動規範を採用することで、コミュニティでポジティブな雰囲気を作り上げる事ができます。
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+行動規範は、コミュニティの参加者を守るのに役立つだけでなく、あなた自身の役にも立ちます。もしあなたがメンテナーなのであれば、参加者の生産的でない態度に対処することに疲れを感じ、不幸せだと感じることでしょう。
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+行動規範は、健全で生産的なコミュニティを作り上げる助けとなります。事前に行動規範を決めておくことで、あなた自身やプロジェクトの参加者が疲れ果ててしまう可能性を下げることができ、あなたが好ましいと思わない事が起きたときに、それに対して行動を起こす助けとなります。
 
-## Establishing a code of conduct
+## 行動規範を作ろう
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+できるだけ早い段階で行動規範を作りましょう: 理想的にはプロジェクトを始めに立ち上げるときに作りましょう。
 
-In addition to communicating your expectations, a code of conduct describes the following:
+あなたの期待値を伝えることに加えて、行動規範では下記の内容も記述しましょう:
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+* 行動規範が有効な範囲はどこまでか _(イシューやプルリクエスト上だけで有効なのか、それともイベントのようなコミュニティ活動でも有効なのか？)_
+* 行動規範が適用されるのは誰か _(コミュニティメンバーやメンテナー以外にもスポンサーも適用範囲なのか？)_
+* 行動規範に違反したら何が起きるのか
+* 違反はどのようにして報告するのか
 
-Wherever you can, use prior art. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+できる限り、既存の行動規範を使いましょう。[Contributor Covenant](https://contributor-covenant.org/)は40,000以上のオープンソースプロジェクトで使われている行動規範で、Kubernetes、Rails、Swiftでも使われています。
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
+[Django Code of Conduct](https://www.djangoproject.com/conduct/)や[Citizen Code of Conduct](http://citizencodeofconduct.org/)の2つもよく使われる行動規範です。
 
-## Deciding how you'll enforce your code of conduct
+CODE_OF_CONDUCGファイルをプロジェクトのルートディレクトリに置き、CONTRIBUTINGやREADMEファイルからリンクを張ってコミュニティの皆がすぐに見れるようにしましょう。
+
+## どのように行動規範に従ってもらうかを決めよう
 
 <aside markdown="1" class="pquote">
   A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
