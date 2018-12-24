@@ -38,23 +38,23 @@ CODE_OF_CONDUCGファイルをプロジェクトのルートディレクトリ�
 ## どのように行動規範に従ってもらうかを決めよう
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  強制されていない行動指針は、全く行動指針がない状態よりも悪い状態です: 強制されていないことで、コミュニティの人々に行動指針に記載されている価値観は実際は重要でないか尊重されていないというメッセージを与えてしまうからです。
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+行動指針の違反が発生する **前に** どのように行動指針に従ってもらうかを説明するべきです。そうするべき理由はいくつかあります:
 
-* It demonstrates that you are serious about taking action when it's needed.
+* 必要な時にはあなたが行動を起こすということに本気であるということを示す事ができる。
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* 不満を言った場合にとあなたがきちんとそれについて考慮してくれるとコミュニティのメンバーを安心させることができる。
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* コミュニティのメンバーたちに対して違反について調査をするときに、レビュープロセスが公正で透明性の高いものであると安心させることができる。
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+メンバーに対しては、行動規範の違反を報告するための（メールアドレスのような）プライベートな方法を与え、それを受け取るのが誰なのかを説明するべきです。それはメンテナーのうちの一人かもしれないし、何人かのメンテナーかもしれないし、行動規範チームかもしれません。
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+行動規範の違反の報告を受け取る人の違反を報告したいというケースもあることを忘れてはいけません。この場合は、他の人に違反を報告できるような選択肢を設けましょう。例えば、@ctb と @mr-c は、彼らの[khmer](https://github.com/dib-lab/khmer)というプロジェクトで[このように説明しています](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst):
 
 > Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
 
