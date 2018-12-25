@@ -64,22 +64,22 @@ CODE_OF_CONDUCGファイルをプロジェクトのルートディレクトリ�
 
 どんなに努力したとしても、時には行動規範を違反するような行為をする人も出てきます。こういったネガティブで害のある行為を解決する方法は幾つかあります。
 
-### その状況についての情報を集めよう
+### 状況についての情報を集めよう
 
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+コミュニティメンバーの声を、自分の意見と同じくらい大事に扱おう。誰かが行動規約に違反していると報告を受けたら、たとえ報告を受けた人物が違反をしそうにないと起こったとしても、報告を真剣に捉え調査をしよう。そうすることでコミュニティに対して、彼らのものの見方に価値を見出しており、また彼らの判断を信頼しているという事を知らしめることが出来ます。
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+疑惑のメンバーは、何度も人を不愉快にさせている人かもしれないし、一度だけやってしまった人かもしれません。状況によってはどちらも行動が必要な理由になります。
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+行動を起こす前に、時間を取って何が起きたのか理解しましょう。その人の過去のコメントや会話に目を通して、彼らがどういった人物でなぜそういった行動に出たのかを理解しましょう。その人自体やその人の行動に対する他の人の観点を集めましょう。
 
 <aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  論争に巻き込まれないようにしましょう。眼の前の問題を解決し終える前に他の人の振る舞いについて横道にそれないようにしましょう。必要なことに集中するのです。
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
 </aside>
 
-### Take appropriate action
+### 適切な行動を取ろう
 
 After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
 
