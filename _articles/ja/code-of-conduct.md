@@ -81,34 +81,34 @@ CODE_OF_CONDUCGファイルをプロジェクトのルートディレクトリ�
 
 ### 適切な行動を取ろう
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+十分な情報を集めて処理したら、何をするか決める必要があります。次のステップを考える際に覚えておく必要があるのは、あなたは調整役として安全でお互いを尊重して協力的な環境を推進する事がゴールであるということです。問題となっている状況にどのように対処するかだけでなく、あなたの対処法がどのようにコミュニティの残りのメンバーの行動や物事が前進するだろうという期待に影響するかを考える必要があります。
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+行動規約に対する違反が報告されたら、それに対処するのは報告した人ではなくあなたの仕事です。報告者は彼ら自身のキャリアや名声、物理的な安全性をリスクにさらしてまで報告をしていることもあるのです。そんな彼らを違反者に直面させてしまえば、報告社は妥協せざるを得なくなります。そのため、報告者が明確に望まない限りは、あなたが問題の人物と直接やり取りをするべきです。
 
-There are a few ways you might respond to a code of conduct violation:
+行動規約を違反した人に対しての対処法はいくつかあります:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **公の場で問題の人物に警告を与え**、彼らの行動がどのように他の人に対して悪い影響を与えているかを説明しましょう。そして、問題が起きたチャネルで説明することが望ましいです。公の場でのやり取りは、コミュニティの残りのメンバーに対して、あなたが行動規約を重要なものだと捉えている事を示すことが出来ます。丁寧に、しかしはっきりとした態度でコミュニケーションしましょう。
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* **問題の人物に個別に連絡を取り**、彼らの行動がどのように他の人に対して悪い影響を与えているかを説明しましょう。取扱に注意が必要な個人情報を含んでいる場合には、個別のコミュニケーションチャネルを使いたいと思うでしょう。もし個別で遣り取りをするのであれば、最初に問題を報告した人をCCに入れるのは良い考えです。そうすることで、報告者に対して行動を取っているということを知らせることができるためです。ただし、報告者をCCに入れる前に彼らに同意を取りましょう。
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+時には解決に至らないこともあります。問題の人物が攻撃的になるかもしれないし、対面したときに悪意をむき出しにしてくるかもしれないし、行動を全く変えないかもしれません。そういった場合には、より強い行動に出る必要があるかもしれません。例えば:
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+* **問題の人物のプロジェクトでの活動を停止させる**。そのために、一時的にプロジェクトのあらゆる活動に参加するのを拒否しましょう。
 
-* **Permanently ban** the person from the project
+* **問題の人物をプロジェクトから永久に追放する**。
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+メンバーをプロジェクトから追放するのは軽々しく行うべきではありません。それは、考え方の違いが今後もずっと続くということを意味するからです。こういった措置は、明らかに問題が解決できない場合にのみ取るようにしましょう。
 
-## Your responsibilities as a maintainer
+## メンテナーとしての責任
 
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
+行動規約は、自動的に強制される法律とは異なります。あなたが行動規約が強制されるようにするのです。行動規約が定めているルールに従ってもらうのはあなたの責任なのです。
 
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+メンテナーとして、あなたはコミュニティのガイドラインを定め、そのルールを行動規約の中で定めることによってガイドラインを強制させるのです。こうすることで、行動規約に対する違反を報告することが重要であると捉えられるのです。報告者に対して、彼らの報告が網羅的で公正なレビューをなされるべきです。報告された行動が行動規約への違反でないと判断するのであれば、報告者に対してはっきりとそれを伝え、なぜそれに対して対処を取るつもりがないのかを説明しましょう。それに対して報告者がどうするかは彼ら次第です: 問題だと思っている行動を我慢するか、それともそのコミュニティに参加するのを辞めるかです。
 
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+_厳密には_ 行動規約への違反ではない行動に対して報告があった場合、コミュニティに問題があるということを示しているかもしれません。そのため、この潜在的な問題を調査し、相応の対処をするべきです。相応の対処とは、受け入れられる行動をより明確にするために行動規約を書き換える事かもしれないし、報告された人物に対して、彼らが行動規約を違反しているわけではないが、期待される行動のぎりぎりの行動をとっており、ある人を不愉快にさせているということを伝えることかもしれない。
 
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
+最後に、メンテナーとして、あなたは受け入れられる振る舞いについての基準を定め、それを強制させているのです。あなたにはプロジェクトの価値観を定める資格があり、プロジェクトの参加者はそれらの価値観を公明正大なやり方で強制することを期待しているのです。
 
-## Encourage the behavior you want to see in the world 🌎
+## あなたが望む行動を推奨しましょう 🌎
 
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+プロジェクトが有効的でなく歓迎的でもない場合、皆が我慢している人物がたった一人しかいなかったとしても、コントリビューターの多くを失うリスクを抱えているのです。そのコントリビューターのうちの何人かは一度もあったことがない人かもしれません。行動規約を採用して強制するのは必ずしも簡単なことではありません。しかし、歓迎的な環境は常にコミュニティを成長させる役に立つのです。
