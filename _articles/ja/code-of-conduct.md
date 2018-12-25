@@ -58,13 +58,13 @@ CODE_OF_CONDUCGファイルをプロジェクトのルートディレクトリ�
 
 > 不正行為やハラスメント、受け入れられない行為は、 **khmer-project@idyll.org** にメールを送ることによって報告することが出来ます。このメールは、C. Titus Brown と Michael R. Crusoe のみが受け取ります。彼ら二人のどちらかが関係する問題について報告する場合は、NSF Center for Science and Technology の BEACON Center for the Study of Evolution in Action のダイバーシティディレクターの **Judi Brown Clarke, Ph.D.** にメールで報告して下さい。*
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+他にもDjangoの[enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/)も参考になります （ただし、プロジェクトのサイズによってはここまで網羅したものは必要ないかもしれません）。
 
-## Enforcing your code of conduct
+## 行動規範を強制しよう
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+どんなに努力したとしても、時には行動規範を違反するような行為をする人も出てきます。こういったネガティブで害のある行為を解決する方法は幾つかあります。
 
-### Gather information about the situation
+### その状況についての情報を集めよう
 
 Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
 
