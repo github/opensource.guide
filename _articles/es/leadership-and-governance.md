@@ -3,13 +3,6 @@ lang: es
 title: Liderazgo y Gobierno
 description: Los proyectos de c&oacute;digo abierto crecientes pueden beneficiarse de reglas formales para tomar decisiones.
 class: leadership
-toc:
-  cu&aacute;les-son-ejemplos-de-roles-formales-utilizados-en-proyectos-de-c&oacute;digo-abierto: "&iquest;Cu&aacute;les son ejemplos de roles formales utilizados en proyectos de c&oacute;digo abierto?"
-  c&oacute;mo-formalizo-los-roles-de-liderazgo: "&iquest;C&oacute;mo formalizo los roles de liderazgo?"
-  cuando-le-puedo-dar-acceso-a-hacer-commits-a-alguien: "&iquest;Cuando le puedo dar acceso a hacer commits a alguien?"
-  cu&aacute;les-son-algunas-de-las-estructuras-de-gobierno-comunes-para-los-proyectos-de-c&oacute;digo-abierto: "&iquest;Cu&aacute;les son algunas de las estructuras de gobierno comunes para los proyectos de c&oacute;digo abierto?"
-  necesito-documentaci&oacute;n-de-gobierno-cuando-lanzo-mi-proyecto: "&iquest;Necesito documentaci&oacute;n de gobierno cuando lanzo mi proyecto?"
-  qu&eacute;-pasa-cuando-los-empleados-de-corporaciones-comienzan-a-enviar-contribuciones: "&iquest;Qu&eacute; pasa cuando los empleados de corporaciones comienzan a enviar contribuciones?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
@@ -94,7 +87,7 @@ Si tu proyecto est&aacute; en GitHub, pod&eacute;s utilizar [ramas protegidas](h
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Cada vez que alguien te env&iacute;a un pull request, dales acceso de commit a tu proyecto. Si bien puede sonar incre&iacute;blemente tonto al principio, el uso de esta estrategia te permitir&aacute; liberar el verdadero poder de GitHub. (...) Una vez que las personas tienen acceso de commit, ya no est&aacute;n preocupados de que su parche pudiese quedar fuera de merge... haciendo que coloquen mucho m&aacute;s trabajo en &eacute;l.
   <p markdown="1" class="pquote-credit">
-— @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
+— @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
@@ -106,7 +99,7 @@ Hay tres estructuras de gobierno comunes asociadas a los proyectos de c&oacute;d
 
 * **Meritocracia:** **(Nota: el t&eacute;rmino "meritocracia" tiene connotaciones negativas para algunas comunidades y tiene un [historia social y pol&iacute;tico compleja](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Bajo una meritocracia, a los contribuyentes activos del proyecto (Aquellos que demuestran "m&eacute;rito") se les da un papel formal de toma de decisiones. Las decisiones se toman generalmente en base a un consenso de voto puro. El concepto de meritocracia fue iniciado por la [Fundaci&oacute;n Apache](https://www.apache.org/); [Todos los proyectos de Apache](https://www.apache.org/index.html#projects-list) son meritocracias. Las contribuciones s&oacute;lo pueden ser hechas por individuos que representan a s&iacute; mismos, no por una empresa.
 
-* **Contribuci&oacute;n liberal:** Bajo un modelo de contribuci&oacute;n liberal, las personas que hacen m&aacute;s trabajo son reconocidas como las m&aacute;s influyentes, pero esto se basa en el trabajo actual y no en contribuciones hist&oacute;ricas. Las decisiones importantes del proyecto se toman sobre la base de un proceso de b&uacute;squeda de consenso (discutir quejas mayores) en lugar de voto puro, y tratar de incluir tantas perspectivas de la comunidad como sea posible. Ejemplos populares de proyectos que utilizan un modelo de contribuci&oacute;n liberal incluyen [Node.js](https://foundation.nodejs.org/) y [Rust](https://www.rust-lang.org/en-US/).
+* **Contribuci&oacute;n liberal:** Bajo un modelo de contribuci&oacute;n liberal, las personas que hacen m&aacute;s trabajo son reconocidas como las m&aacute;s influyentes, pero esto se basa en el trabajo actual y no en contribuciones hist&oacute;ricas. Las decisiones importantes del proyecto se toman sobre la base de un proceso de b&uacute;squeda de consenso (discutir quejas mayores) en lugar de voto puro, y tratar de incluir tantas perspectivas de la comunidad como sea posible. Ejemplos populares de proyectos que utilizan un modelo de contribuci&oacute;n liberal incluyen [Node.js](https://foundation.nodejs.org/) y [Rust](https://www.rust-lang.org/).
 
 ¿Cu&aacute;l deber&iacute;as usar? ¡Tú decides! Cada modelo tiene ventajas y compensaciones. Y aunque pueden parecer muy diferentes al principio, los tres modelos tienen m&aacute;s en com&uacute;n de lo que parece. Si est&aacute;s interesado en adoptar uno de estos modelos, consulta estas plantillas:
 
@@ -156,8 +149,8 @@ Muchos proyectos no desean pasar por la molestia de crear una organizaci&oacute;
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Nuestra meta es proveer una infraestructura que las comunidades puedan usar para ser autosostenibles, creando as&iacute; un ambiente en el que todos, contribuyentes, patrocinadores, obtengan beneficios concretos.
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
+— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 
-Si tu proyecto est&aacute; estrechamente asociado con un determinado idioma o ecosistema, tambi&eacute;n puede haber un framework relacionado con el que pueda trabajar. Por ejemplo, la [Python Software Foundation](https://www.python.org/psf/) ayuda a [PyPI](https://pypi.org/), el gestor de paquetes de Python y el [Node.js Foundation](https://foundation.nodejs.org/) ayuda a apoyar [Express.js](http://expressjs.com/), un framework basado en nodos.
+Si tu proyecto est&aacute; estrechamente asociado con un determinado idioma o ecosistema, tambi&eacute;n puede haber un framework relacionado con el que pueda trabajar. Por ejemplo, la [Python Software Foundation](https://www.python.org/psf/) ayuda a [PyPI](https://pypi.org/), el gestor de paquetes de Python y el [Node.js Foundation](https://foundation.nodejs.org/) ayuda a apoyar [Express.js](https://expressjs.com/), un framework basado en nodos.

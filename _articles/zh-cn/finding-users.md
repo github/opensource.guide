@@ -3,13 +3,6 @@ lang: zh-cn
 title: 为项目寻找合适的用户
 description: 通过找到称心如意的用户，帮助开源项目成长。
 class: finding
-toc:
-  spreading-the-word: "四处传播"
-  figure-out-your-message: "发出自己的声音"
-  help-people-find-and-follow-your-project: "帮助人们找到并关注你的项目"
-  go-where-your-projects-audience-is-online: "到项目成员线上经常去的地方"
-  go-where-your-projects-audience-is-offline: "到项目成员线下经常去的地方"
-  build-a-reputation: "赢得口碑"
 order: 3
 image: /assets/images/cards/finding.png
 related:
@@ -33,7 +26,7 @@ related:
 
 ![cartography readme](/assets/images/finding-users/cartography.jpg)
 
-如果你想深入了解如何挖掘项目的"卖点"，看一下Mozilla的["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/)，练习如何建立用户的形象。
+如果你想深入了解如何挖掘项目的"卖点"，看一下Mozilla的["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/)，练习如何建立用户的形象。
 
 ## Help people find and follow your project
 
@@ -72,13 +65,13 @@ related:
 
 网上拓展是分享和快速宣传项目的一个好方法。借助一些网上的渠道，你有可能找到一大批受众。
 
-利用好已有的线上社区和平台去找你的受众。如果你的开源项目是一个软件项目，你可能会在[Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), 或者[Quora](https://www.quora.com/)，找到你认为最有可能从你的项目中受益或者对你项目感兴趣的渠道。
+利用好已有的线上社区和平台去找你的受众。如果你的开源项目是一个软件项目，你可能会在[Stack Overflow](https://stackoverflow.com/), [reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), 或者[Quora](https://www.quora.com/)，找到你认为最有可能从你的项目中受益或者对你项目感兴趣的渠道。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   每个程序都会有那么一些方法只有一部分人才会用到，所以不要想着去打扰每一个人，把你的力气用在可能会从你项目受益的社区就好。
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
@@ -98,7 +91,7 @@ related:
 
 线下活动是向观众推广新项目的常见方式之一。这是一个接触某个忠实听众和建立深层次联系的好方式，特别是如果你对到场的开发者感兴趣的话。
 
-如果你还是个[公众演讲的新手](http://speaking.io/)，从寻找一个和你项目使用的语言或者生态系统相关的当地的聚会开始吧。
+如果你还是个[公众演讲的新手](https://speaking.io/)，从寻找一个和你项目使用的语言或者生态系统相关的当地的聚会开始吧。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">

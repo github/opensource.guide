@@ -3,12 +3,6 @@ lang: ko
 title: 귀하의 행동강령
 description: 행동강령을 채택하고 시행함으로써 건강하고 건설적인 커뮤니티 행동을 촉진하십시오.
 class: coc
-toc:
-  why-do-i-need-a-code-of-conduct: "왜 행동강령이 필요합니까?"
-  establishing-a-code-of-conduct: "행동강령 수립하기"
-  deciding-how-youll-enforce-your-code-of-conduct: "행동강령을 어떻게 적용 할 것인지 결정하기"
-  enforcing-your-code-of-conduct: "행동강령 지키기"
-  your-responsibilities-as-a-maintainer: "Your responsibilities as a maintainer"
 order: 8
 image: /assets/images/cards/coc.png
 related:
