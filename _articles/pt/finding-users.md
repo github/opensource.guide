@@ -3,13 +3,6 @@ lang: en
 title: Finding Users for Your Project
 description: Help your open source project grow by getting it in the hands of happy users.
 class: finding
-toc:
-  spreading-the-word: "Spreading the word"
-  figure-out-your-message: "Figure out your message"
-  help-people-find-and-follow-your-project: "Help people find and follow your project"
-  go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
-  go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
-  build-a-reputation: "Build a reputation"
 order: 3
 image: /assets/images/cards/finding.png
 related:

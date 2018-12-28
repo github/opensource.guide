@@ -3,12 +3,6 @@ lang: en
 title: Open Source Metrics
 description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
 class: metrics
-toc:
-  why-measure-anything: "Why measure anything?"
-  discovery: "Discovery"
-  usage: "Usage"
-  retention: "Retention"
-  maintainer-activity: "Maintainer activity"
 order: 9
 image: /assets/images/cards/metrics.png
 related:

@@ -3,13 +3,6 @@ lang: pt
 title: Melhores Práticas para Mantenedores
 description: Tornando sua vida mais fácil como um mantenedor open source, desde processos de documentação até o alavancar da sua comunidade.
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: "O que significa ser um mantenedor?"
-  documenting-your-processes: "Documentando seus processos"
-  learning-to-say-no: "Aprendendo a dizer não"
-  leverage-your-community: "Alavancando sua comunidade"
-  bring-in-the-robots: "Traga os robôs"
-  its-okay-to-hit-pause: "Não há problema em apertar o 'pause'"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
