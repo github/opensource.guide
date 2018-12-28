@@ -1,0 +1,17 @@
+// Layout utilities
+// stylelint-disable block-opening-brace-space-before, primer/selector-no-utility, comment-empty-line-before
+
+@warn "Responsive position utilities will be moved from primer-marketing-utilities to primer-utilities in primer v11.0.0.";
+
+// Responsive position utilities
+
+@each $breakpoint in map-keys($breakpoints) {
+  @include breakpoint($breakpoint) {
+    /* Set position to relative */
+    .position-#{$breakpoint}-relative { position: relative !important; }
+    /* Set position to absolute */
+    .position-#{$breakpoint}-absolute { position: absolute !important; }
+    /* Set position to fixed */
+    .position-#{$breakpoint}-fixed    { position: fixed !important; }
+  }
+}

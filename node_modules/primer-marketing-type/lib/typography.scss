@@ -20,7 +20,7 @@
 }
 
 @mixin alt-h0 {
-  font-size: 48px;
+  font-size: $h00-size;
   font-weight: $font-weight-light;
   @include breakpoint(md) { font-size: 54px; }
   @include breakpoint(lg) { font-size: 72px; }
@@ -33,7 +33,7 @@
 @mixin alt-h1 {
   font-size: 36px;
   font-weight: $font-weight-light;
-  @include breakpoint(md) { font-size: 48px; }
+  @include breakpoint(md) { font-size: $h00-size; }
   @include breakpoint(lg) { font-size: 54px; }
 }
 
@@ -55,7 +55,7 @@
 @mixin alt-h3 {
   font-size: 18px;
   font-weight: $font-weight-normal;
-  @include breakpoint(md) { font-size: 20px; }
+  @include breakpoint(md) { font-size: $h3-size; }
   @include breakpoint(lg) { font-size: 22px; }
 }
 
@@ -64,7 +64,7 @@
 }
 
 .alt-h4 {
-  font-size: 16px;
+  font-size: $h4-size;
   font-weight: $font-weight-semibold;
 }
 
@@ -83,7 +83,7 @@
   -webkit-font-smoothing: antialiased;
   font-size: 21px;
   font-weight: $font-weight-light;
-  @include breakpoint(md) { font-size: 24px; }
+  @include breakpoint(md) { font-size: $h2-size; }
   @include breakpoint(lg) { font-size: 26px; }
 }
 
@@ -115,7 +115,7 @@
     margin-bottom: $spacer-5;
     margin-left: (-$spacer * 1.5) - 3px;
     font-size: 18px;
-    line-height: 1.5;
+    line-height: $lh-default;
   }
 }
 
