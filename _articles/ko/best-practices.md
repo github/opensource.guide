@@ -74,7 +74,7 @@ related:
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md)는 관리자와 기여자를 위한 행동 원칙을 가진 프로젝트의 예시입니다.
 
-### 열린 소통을 유지하세요
+### 열린 장소에서 소통하세요
 
 다양한 토의나 질답을 문서화하는 것을 잊지 마세요. 가능하면 어디에서든 여러분의 프로젝트에 대한 이야기는 공개적으로 하는 것이 좋습니다. 누군가 기능이나 지원 요청을 하기 위해 사적으로 연락한다면, 정중하게 메일링 리스트 혹은 이슈 트래커 등의 공개된 채널로 안내하세요.
 
@@ -94,75 +94,75 @@ related:
 
 ### 친절한 태도를 유지하세요
 
-가장 중요한 장소 중 하나인 No라고 말하면서 이슈와 pull request 대기열을 가져옵니다. 프로젝트 메인테이너로서, 여러분은 받아들이기를 원치않는 제안을 필연적으로 받게됩니다.
+여러분이 거절하는 경우가 실제로 생기는 중요한 장소 중에는 이슈 목록과 풀 리퀘스트 목록이 있습니다. 프로젝트 관리자로서 피치 못하게 원하지 않는 제안을 받을 때가 있습니다.
 
-기여 내용이 프로젝트의 범위를 변경하거나 비전과 일치하지 않을 수 있습니다. 어쩌면 그 아이디어가 좋지만 구현도가 낮을 수 있습니다.
+기여가 프로젝트의 목적을 뒤바꾸거나 비전과 맞지 않을 수도 있고, 아이디어는 좋지만 비효율적으로 구현되어 있을 수 있습니다.
 
-이유에 관계없이, 프로젝트 표준에 맞지 않는 기여 내용을 현명하게 처리할 수 있습니다.
+이유와는 상관없이, 여러분은 프로젝트의 기준을 충족하지 않는 기여에 적절하게 대처하면 됩니다.
 
-동의하지 않는 기여를 받는 경우, 첫번째 반응으로는 무시하거나 보지 못했다고 둘러댈 수 있습니다. 이렇게 한다면 다른 사람의 감정에 해를 끼칠 수 있으며 커뮤니티내의 다른 잠재적인 기여자의 능력도 떨어뜨릴 수 있습니다.
+적용하고 싶지 않은 기여를 받았을 때, 여러분의 첫 반응은 그 기여를 무시하거나 못 본 척하는 것일지도 모릅니다. 그렇게 하면 기여자의 기분을 상하게 하는 것은 물론, 커뮤니티의 다른 잠재적 기여자들이 동기를 잃게 만들 수도 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
   <p markdown="1" class="pquote-credit">
-— @KrauseFx, ["오픈소스 커뮤니티 확장하기"](https://krausefx.com/blog/scaling-open-source-communities)
+— @KrauseFx, ["Scaling open source communities”](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-죄책감을 느끼거나 좋은 사람이 되기위해 원하지 않는 기여는 하지마십시오. 시간이 지남에 귀하의 답변되지 않은 이슈와 PR은 프로젝트에 대한 작업을 훨씬 더 스트레스와 협박으로 느낄 것입니다.
+죄책감을 느끼고 싶지 않거나 친절함을 유지하고 싶다고 해서 원치 않는 기여를 내버려 두지 마세요. 시간이 흐르면서 그렇게 남겨진 이슈와 풀 리퀘스트가 여러분이 그 프로젝트에서 하는 작업을 더 성가시고 답답하게 만들 것입니다.
 
-수락하고 싶지 않은 기여는 즉시 닫는 것이 좋습니다. 프로젝트에 이미 많은 양의 백로그가 있는 경우, @steveklabnik 는 [문제를 효율적으로 분류하는 방법](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)에 대한 제안 사항을 제공합니다.
+받아들이고 싶지 않은 기여는 즉각적으로 닫는 것이 좋습니다. 이미 여러분의 프로젝트가 쌓인 잔무로 고생하고 있다면, @steveklabnik가 [이슈를 효율적으로 분류하는 요령](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)을 정리해 두었으니 참고하세요.
 
-두번째로는, 기여를 무시하면 귀하의 커뮤니티에 부정적인 신호가 보내집니다. 프로젝트에 기여하는 것은 위협적일 수 있습니다. 특히 다른 사람이 처음인 경우에는 더욱 그렇습니다. 기여를 수락하지 않더라도 그 뒤에 있는 사람을 인정하고 관심을 가져 주신 것에 감사하길 바랍니다. 큰 칭찬입니다!
+기여를 무시하는 것은 커뮤니티에 부정적인 신호를 보내는 것과 마찬가지입니다. 프로젝트에의 기여는 쉬운 일이 아닙니다. 특히 처음 기여하는 사람이라면 더 그렇습니다. 그들의 기여를 받아들이고 싶지 않다면, 적어도 그들이 보인 흥미와 노력에 대해 감사를 표하세요. 그것만으로도 큰 칭찬입니다!
 
-기여를 받지 않는다고 가정한 경우에는 이렇게 하십시오:
+기여를 받아들이고 싶지 않다면 다음과 같은 방법을 사용하세요.
 
-* 그들의 기여에 **감사해 합니다**
-* 가능한 경우 프로젝트의 **범위에 맞지 않는 이유를 설명하고** 개선을 위한 명확한 제안을 합니다. 친절하고 단호하게 말하십시오.
-* 필요한 경우 **관련 문서를 링크겁니다**. 수락하고 싶지 않은 것에 대한 반복적인 요청을 발견한 경우, 문서를 반복하여 번복하지 않도록 합시다.
-* **request를 닫습니다**
+* 기여에 대해 **감사를 표하세요**.
+* **왜 기여가 프로젝트의 목적에 맞지 않는지 설명**하고, 가능하다면 개선점을 제시하세요. 친절하면서도 단호하게 말해야 합니다.
+* **관련된 문서가 있다면 링크를 첨부**하세요. 비슷한 유형의 잘못된 기여가 계속된다면 문서에 관련 내용을 추가해서 반복 설명하게 되는 일이 없도록 하세요.
+* **스레드를 닫으세요**.
 
-응답하는 데 1-2문장 이상 필요하지 않습니다. 예시로, [celery](https://github.com/celery/celery/)의 사용자가 윈도우 관련 오류를 보고 했을때, @berkerpeksag는 [이렇게 반응했습니다](https://github.com/celery/celery/issues/3383):
+답변에는 한두 문장이면 충분합니다. 예를 들어 @berkerpeksag는 [celery](https://github.com/celery/celery/) 유저가 윈도우와 관련된 에러를 제보했을 때 [이렇게 답변했습니다](https://github.com/celery/celery/issues/3383).
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
-아무도 말을 하지않는다고 해도, @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/)처럼 혼자가 아닙니다:
+그래도 거절하기가 두렵다고요? [@jessfraz의 말](https://blog.jessfraz.com/post/the-art-of-closing/)처럼 여러분은 혼자가 아닙니다.
 
-> I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+> Mesos, Kubernetes, Chromium 같은 여러 오픈소스 프로젝트 관리자들과 이야기해봤는데요. 다들 관리자로서 맡아야 하는 가장 어려운 일이 '원하지 않는 패치를 거절하는 것'이라는 점에 동의했죠.
 
-누군가의 기여를 받아들이지 않으려고 죄책감을 느끼지 마십시오. 오픈소스의 첫 규칙은, @shykes [에 따르면](https://twitter.com/solomonstre/status/715277134978113536): _"아니오는 일시적이며, 예는 영원합니다."_입니다 다른 사람의 열정에 공감하는 것은 좋은 일이지만 기여를 거절하는 것은 그 뒤에있는 사람을 거절하는 것과 동일하지 않습니다.
+누군가의 기여를 거절하는 것에 죄책감을 느끼지 마세요. [@shykes의 말](https://twitter.com/solomonstre/status/715277134978113536)에 따르면 오픈소스의 첫 번째 규칙은 _"NO는 일시적이지만 YES는 영원하다"_입니다. 다른 사람이 열중하는 일에 공감하는 것은 좋은 일이지만, 기여를 거절하는 것이 기여를 한 사람을 거절하는 것은 아닙니다.
 
-궁극적으로, 기여가 충분하지 않은 경우, 기여를 수락 할 의무는 없습니다. 사람들이 프로젝트에 기여할 때에는 친절하고 즉각적이어야 하지만, 프로젝트를 더 좋게 만들 것이라고 생각되는 변경 사항만 수락하십시오. 더 자주 아니오라고 말하는 연습을 하면 쉽게 됩니다. 약속합시다.
+궁극적으로, 기여가 충분히 좋지 않다면 여러분은 그 기여를 받아들일 의무가 없습니다. 여러분의 프로젝트에 기여하는 사람들을 친절하게 대하고 적극적으로 반응해야겠지만, 여러분의 프로젝트를 발전시킬 것이라고 생각되는 변화만을 받아들이세요. 일단 거절하다 보면 점점 쉬워질 것입니다. 약속할게요.
 
-### 대책 세우기
+### 사전대책을 세우세요
 
-처음에 원치 않는 기여를 줄이려면, 기여 가이드에 기여를 제출하고 수락하는 프로젝트 진행 과정을 설명하십시오.
+처음부터 원치 않는 기여의 양을 줄이고 싶다면 기여 가이드에 여러분의 프로젝트가 기여를 제출 받고 적용하는 과정이 어떻게 이루어지는지 설명하세요.
 
-너무 많은 저품질 기여를 받는다면, 이와 같이 기여자들이 미리 약간의 작업을 해줄 것을 요구하십시오:
+질이 낮은 기여를 너무 많이 받고 있다면 기여자들에게 약간의 사전 작업을 요청하세요. 예를 들면 다음과 같습니다.
 
-* 이슈 또는 PR 템플릿/체크리스트 작성하기
-* PR을 제출하기 전에 이슈를 열기
+* 이슈 혹은 풀 리퀘스트 템플릿/체크리스트 작성
+* 풀 리퀘스트 제출 전 이슈 열기
 
-만약 그들이 규칙에 따르지 않는다면, 즉시 이슈를 닫고 문서를 가리킵니다.
+규칙을 따르지 않는다면 바로 이슈를 닫고 관련 문서로 안내하세요.
 
-이러한 접근 방식이 처음에는 불친절하다고 느낄 수도 있지만, 이 대책은 실제로 서로에게도 좋습니다. 그것은 누군가가 받아 들일 수 없는 pull request에 많은 시간 낭비를 초래할 가능성을 줄여줍니다. 또한 작업 부하를 보다 쉽게 ​​관리할 수 ​​있습니다.
+이런 접근 방식이 처음에는 불친절하게 느껴질 수도 있지만, 사전에 대비하는 태도는 양쪽 모두에게 좋습니다. 이는 여러분이 어차피 받아들이지 않을 풀 리퀘스트에 누군가 많은 시간을 낭비하는 사태를 방지합니다. 그리고 여러분의 작업 목록을 관리하기 쉽게 만들어 줍니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
   <p markdown="1" class="pquote-credit">
-— @MikeMcQuaid, ["친절한 pull request 닫기"](https://github.com/blog/2124-kindly-closing-pull-requests)
+— @MikeMcQuaid, ["Kindly Closing Pull Requests”](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-때로는 아니오라고 말하면 잠재적 기여자가 결정을 뒤집거나 비판할 수 있습니다. 그들의 행동이 적대적으로 된다면, [상황을 완화시키기 위한 조치를 취하십시오.](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) 또는 건설적으로 협업하지 않으려는 경우 커뮤니티 자체에서 제거할 수도 있습니다.
+가끔 잠재적 기여자가 여러분의 거부 의사를 기분 나빠하거나 비판할 수 있습니다. 그들의 행동이 적대적으로 변한다면 [상황을 완화시키기 위한 조치](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items)를 취하거나, 그들이 건설적으로 협조하려 하지 않는다면 커뮤니티에서 배제하세요.
 
-### 멘토십을 포옹하기
+### 조언을 아끼지 마세요
 
-커뮤니티의 누군가가 프로젝트 표준에 맞지 않는 기여를 정기적으로 제출할 수도 있습니다. 각자 당사자가 거절을 반복해서 거치는 것은 좌절할 수 있습니다.
+커뮤니티의 누군가가 주기적으로 프로젝트의 기준을 충족하지 않는 기여를 제출하는 경우가 있습니다. 그런 기여와 기각이 반복되는 것은 어느 쪽에게든 좌절감을 줍니다.
 
-누군가 당신의 프로젝트에 열성적이지만 약간의 수정이 필요하다면 인내심을 가집시다. 그들의 공헌이 프로젝트의 기대에 부합하지 않는 이유를 각 상황에서 분명하게 설명합니다. 발을 젖게하기 위해 _"좋은 첫 버그,"_라고 표시된 이슈와 같이 더 쉽거나 덜 모호한 작업을 가리키도록 하십시오. 시간이 있다면, 첫번째 기여를 통해 멘토링을 고려하거나 멘토를 기꺼이 도울 수 있는 다른 사람을 커뮤니티에서 찾을 수 있습니다.
+누군가 여러분의 프로젝트에 열성적이지만 약간의 개선이 필요해 보인다면, 인내심을 가지세요. 매 상황마다 기여가 왜 프로젝트의 기대를 채우지 못하는지 구체적으로 설명하세요. 뭔가 할 수 있는 일을 주기 위해 _"good first issue"_ 라벨이 달린 이슈처럼 더 쉽고 명료한 작업을 맡기세요. 시간이 있다면 그들의 첫 기여 과정을 직접 멘토링하거나, 커뮤니티에서 적절한 멘토를 구해주는 것도 고려해 보세요.
 
 ## 커뮤니티 활용하기
 
