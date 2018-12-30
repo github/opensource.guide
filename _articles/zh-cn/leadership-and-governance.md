@@ -3,14 +3,6 @@ lang: zh-cn
 title: 领导力和治理
 description: 决策有了较正式的规则，可让开源项目野蛮生长。
 class: leadership
-toc:
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "开源项目中通常都有那些角色？"
-  how-do-i-formalize-these-leadership-roles: "该如何将这些领导力角色正规化？"
-  when-should-i-give-someone-commit-access: "何时该赋予提交者权限？"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "对于开源项目来说有那些常见的治理结构？"
-  do-i-need-governance-docs-when-i-launch-my-project: "当我创建开源项目时，需要专门撰写一份治理文档吗？"
-  what-happens-if-corporate-employees-start-submitting-contributions: "公司员工该如何开启提交贡献之旅？"
-  do-i-need-a-legal-entity-to-support-my-project: "我是否需要一个法律实体来支持我的项目?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
@@ -109,7 +101,7 @@ related:
 
 * **精英制:** **(注: 术语 "精英制" 对于一些社群可能具有消极的含义，其拥有较[复杂的社会和政治的历史](http://geekfeminism.wikia.com/wiki/Meritocracy).)** 在精英制下，活跃的项目贡献者（他们用行动证明自己是"精英"）给一个正式的决策作用，决定通常会基于纯粹的投票一致性。精英制的概念首次由[Apache Foundation](https://www.apache.org/)提出；[所有的Apache 项目](https://www.apache.org/index.html#projects-list) 都是基于精英制的。贡献者只能代表自己是独立的个体，不可以是公司。
 
-* **自由贡献:** 在自由贡献的模式下，做最多工作的人通常被认为是最具影响力的，但是是基于当前的工作，而不是历史的共享。项目的重大决策是基于寻求共识的过程（对不同的声音要讨论）而不是纯粹的投票，尽可能的努力的去囊括多的社区观点。较流行的使用自由贡献模式的项目有[Node.js](https://foundation.nodejs.org/) 和 [Rust](https://www.rust-lang.org/en-US/)。
+* **自由贡献:** 在自由贡献的模式下，做最多工作的人通常被认为是最具影响力的，但是是基于当前的工作，而不是历史的共享。项目的重大决策是基于寻求共识的过程（对不同的声音要讨论）而不是纯粹的投票，尽可能的努力的去囊括多的社区观点。较流行的使用自由贡献模式的项目有[Node.js](https://foundation.nodejs.org/) 和 [Rust](https://www.rust-lang.org/)。
 
 应该选择哪一种模式了呢？由你自己来做决定！每个模式都有优点，也有缺点。虽然上面的描述乍一看，这三种模式有着很大的不同，其实不然，它们还是有着共同点的。如果你对上述三种模式有兴趣，可以采用下面的模版：
 

@@ -3,12 +3,6 @@ lang: de
 title: Ihr Verhaltenskodex
 description: Fördern Sie ein gesundes und konstruktives Miteinander durch die Festlegung und Durchsetzung eines Verhaltenskodex.
 class: coc
-toc:
-  warum-brauche-ich-einen-verhaltenskodex: "Warum brauche ich einen Verhaltenskodex?"
-  einen-verhaltenskodex-festlegen: "Einen Verhaltenskodex festlegen"
-  entscheiden-wie-sie-ihren-verhaltenskodex-durchsetzen: "Entscheiden, wie Sie Ihren Verhaltenskodex durchsetzen."
-  ergreifen-sie-geeignete-maßnahmen: "Ergreifen Sie geeignete Maßnahmen"
-  ihre-verantwortung-als-maintainerin: "Ihre Verantwortung als Maintainerin"
 order: 8
 image: /assets/images/cards/coc.png
 related:
@@ -85,11 +79,11 @@ Das betroffene Community-Mitglied kann ein\*e Wiederholungstäter\*in sein, der 
 Bevor Sie antworten, geben Sie sich Zeit, um zu verstehen, was passiert ist. Lesen Sie die bisherigen Kommentare und Gespräche der Person durch, um besser zu verstehen, wer es ist und warum sie oder er so gehandelt haben könnten. Versuchen Sie, andere Perspektiven als Ihre eigenen über diese Person und ihr Verhalten zu sammeln.
 
 <aside markdown="1" class="pquote">
-  
+
   Lassen Sie sich nicht in einen Streit hineinziehen. Lassen Sie sich nicht von Jemandes Verhalten von der Abwicklung einer Sache ablenken. Konzentrieren Sie sich auf das, was Sie brauchen.
-    
+
   _Don't get pulled into an argument. Don't get sidetracked into dealing with someone else's behavior before you've finished dealing with the matter at hand. Focus on what you need._
-  
+
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>

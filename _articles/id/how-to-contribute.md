@@ -3,13 +3,6 @@ lang: id
 title: Bagaimana Berkontribusi pada Open Source
 description: Ingin berkontribusi pada open source? Sebuah panduan untuk melakukan kontribusi open source, untuk pemula dan veteran.
 class: contribute
-toc:
-  mengapa-berkontribusi-pada-open-source: "Mengapa berkontribusi pada open source?"
-  apa-artinya-berkontribusi: "Apa artinya berkontribusi"
-  berorientasi-pada-proyek-baru: "Berorientasi pada proyek baru"
-  menemukan-sebuah-proyek-untuk-melakukan-kontribusi: "Menemukan sebuah proyek untuk melakukan kontribusi"
-  bagaimana-mengajukan-kontribusi: "Bagaimana mengajukan kontribusi"
-  apa-yang-terjadi-setelah-anda-mengajukan-sebuah-kontribusi: "Apa yang terjadi setelah Anda mengajukan sebuah kontribusi"
 order: 1
 image: /assets/images/cards/contribute.png
 related:

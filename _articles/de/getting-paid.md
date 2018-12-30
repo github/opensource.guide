@@ -3,11 +3,6 @@ lang: de
 title: Für Open-Source-Arbeit bezahlt werden
 description: Verstetigen Sie Ihre Open-Source-Arbeit, indem Sie finanzielle Unterstützung für Ihre Zeit oder Ihr Projekt erhalten.
 class: getting-paid
-toc:
-  warum-manche-menschen-finanzielle-unterstützung-suchen: "Warum manche Menschen finanzielle Unterstützung suchen"
-  die-eigene-arbeitszeit-finanzieren: "Die eigene Arbeitszeit finanzieren"
-  geldquellen-für-ihr-projekt-auftun: "Geldquellen für Ihr Projekt auftun"
-  eine-argumentationslinie-für-finanzielle-unterstützung-aufbauen: "Eine Argumentationslinie für finanzielle Unterstützung aufbauen"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -106,7 +101,7 @@ Viele Unternehmen entwickeln Open-Source-Programme, um ihre Marke aufzubauen und
 @hueniverse z.B., fand heraus, dass es finanzielle Gründe gab, die [Investition von Walmart in Open Source zu rechtfertigten.](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). Und @jamesgpearce fand heraus, dass Facebooks Open-Source-Program [den Unterschied in der Personalakquise](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) machte:
 
 > Es ist eng mit unserer Hackerkultur und der Wahrnehmung unseres Unternehmens verbunden. Wir fragten unsere Angestellten: "Kanntet ihr das Open-Source-Programm von Facebook?". Zwei Drittel sagten "Ja". Die Hälfte sagte, dass das Programm positiv zu ihrer Entscheidung beigetragen hat, für uns zu arbeiten. Das sind keine marginalen Zahlen, und ein sich hoffentlich fortsetzender Trend.
-> 
+>
 > It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
 
 Wenn Ihr Unternehmen diesen Weg einschlägt, ist es wichtig, die Grenzen zwischen Gemeinschafts- und Unternehmenstätigkeit klar zu halten, denn Open Source erhält sich letztlich durch Beiträge von Menschen auf der ganzen Welt. Und das ist größer als jedes einzelne Unternehmen oder jeder einzelne Standort.

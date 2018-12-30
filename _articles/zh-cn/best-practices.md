@@ -3,13 +3,6 @@ lang: zh-cn
 title: 维护者最佳实践
 description: 身为开源的维护者，如何轻松驾驭项目？本指南从文档流程到有效利用社区来展开。
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: "身为一名维护者意味着什么？"
-  documenting-your-processes: "将流程撰文档化"
-  learning-to-say-no: "学会拒绝他人"
-  leverage-your-community: "有效利用社区"
-  bring-in-the-robots: "使用机器人"
-  its-okay-to-hit-pause: "首先照顾好自己"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:

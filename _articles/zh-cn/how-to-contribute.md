@@ -3,13 +3,6 @@ lang: zh-cn
 title: 如何为开源做贡献
 description: 想为开源贡献力量？本指南针为"菜鸟"和初学者而准备！
 class: contribute
-toc:
-  why-contribute-to-open-source: "为何要为开源贡献力量？"
-  what-it-means-to-contribute: "贡献的具体含义是什么"
-  orienting-yourself-to-a-new-project: "根据项目定位自我"
-  finding-a-project-to-contribute-to: "寻找打算做贡献的项目"
-  how-to-submit-a-contribution: "如何提交成果"
-  what-happens-after-you-submit-a-contribution: "在提交完之后需要善后事宜"
 order: 1
 image: /assets/images/cards/contribute.png
 related:

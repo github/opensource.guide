@@ -3,10 +3,6 @@ lang: zh-cn
 title: 打造受欢迎的社区
 description: 打造人们愿意使用、贡献、并主动宣传的人气社区。
 class: building
-toc:
-  setting-your-project-up-for-success: "建立成功的项目"
-  growing-your-community: "社区生长"
-  resolving-conflicts: "解决冲突"
 order: 4
 image: /assets/images/cards/building.png
 related:

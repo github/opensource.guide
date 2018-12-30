@@ -3,13 +3,6 @@ lang: de
 title: Finden Sie Nutzer*innen für Ihr Projekt
 description: Ziehen Sie Ihr Open-Source-Projekt groß, indem Sie es in die Hände zufriedener Anwender*innen legen.
 class: finding
-toc:
-  tue-gutes-und-rede-darüber: "Tue Gutes und rede darüber!"
-  klären-sie-ihre-botschaft: "Klären Sie Ihre Botschaft"
-  helfen-sie-menschen-dabei-ihr-projekt-zu-finden-und-zu-beobachten: "Helfen Sie Menschen dabei, Ihr Projekt zu finden und zu beobachten."
-  gehen-sie-auf-die-zielgruppe-ihres-projekts-zu-online: "Gehen Sie auf die Zielgruppe Ihres Projekts zu (online)"
-  gehen-sie-auf-die-zielgruppe-ihres-projekts-zu-offline: "Gehen Sie auf die Zielgruppe Ihres Projekts zu (offline)"
-  reputation-aufbauen: "Reputation aufbauen"
 order: 3
 image: /assets/images/cards/finding.png
 related:

@@ -3,13 +3,6 @@ lang: ko
 title: 오픈소스에 기여하는 방법
 description: 오픈소스에 기여하고 싶으세요? 초보자와 숙련자를 위한 오픈소스 기여 가이드입니다.
 class: contribute
-toc:
-  why-contribute-to-open-source: "왜 오픈소스에 기여하나요?"
-  what-it-means-to-contribute: "기여한다는 것의 의미"
-  orienting-yourself-to-a-new-project: "새로운 프로젝트에 동참하기"
-  finding-a-project-to-contribute-to: "기여할 프로젝트 찾기"
-  how-to-submit-a-contribution: "기여 제출 방법"
-  what-happens-after-you-submit-a-contribution: "기여를 제출하면 어떻게 되나요?"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -92,9 +85,9 @@ related:
 ### 디자인을 하고 싶으세요?
 
 * 프로젝트의 유용성을 높이기 위해 레이아웃 재구성하기
-* [Drupal 제안처럼](https://www.drupal.org/community-initiatives/drupal-core/usability), 사용자 조사를 통해 프로젝트의 네비게이션 또는 메뉴를 재구성하고 개선하기
+* [Drupal의 제안](https://www.drupal.org/community-initiatives/drupal-core/usability)처럼, 사용자 조사를 통해 프로젝트의 네비게이션 또는 메뉴를 재구성하고 개선하기
 * 프로젝트가 일관성 있는 시각적 디자인을 가질 수 있도록 스타일 가이드 작성하기
-* [hapi.js의 기여처럼](https://github.com/hapijs/contrib/issues/68), 티셔츠 혹은 새로운 로고를 위한 예술 작품 만들기
+* [hapi.js의 기여](https://github.com/hapijs/contrib/issues/68)처럼, 티셔츠 혹은 새로운 로고를 위한 예술 작품 만들기
 
 ### 글을 쓰고 싶으신가요?
 
@@ -115,7 +108,7 @@ related:
 ### 조직하는 것을 좋아하세요?
 
 * 중복된 이슈에 대한 링크 및 새로운 이슈 라벨 제안, 정리된 상태 유지하기
-* [ESLint의 @nzakas처럼](https://github.com/eslint/eslint/issues/6765), 열려있는 이슈를 검토하고 오래된 이슈를 닫을 것을 제안하기 
+* [ESLint의 @nzakas](https://github.com/eslint/eslint/issues/6765)처럼, 열려있는 이슈를 검토하고 오래된 이슈를 닫을 것을 제안하기 
 * 최근 열린 이슈에 대한 질문을 명확히 하여 토론으로 나아가게 하기
 
 ### 코드를 작성하고 싶으세요?

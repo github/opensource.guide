@@ -3,12 +3,6 @@ lang: ko
 title: 오픈소스 프로젝트 시작하기
 description: 오픈소스의 세계에 대해 자세히 알아보고 여러분의 프로젝트를 시작할 준비를 해보세요.
 class: beginners
-toc:
-  the-what-and-why-of-open-source: "오픈소스의 정의와 이유"
-  should-i-launch-my-own-open-source-project: "오픈소스 프로젝트를 직접 시작해야 할까요?"
-  launching-your-own-open-source-project: "오픈소스 프로젝트 시작하기"
-  naming-and-branding-your-project: "프로젝트 네이밍과 브랜딩"
-  your-pre-launch-checklist: "공개 전 체크리스트"
 order: 2
 image: /assets/images/cards/beginner.png
 related:

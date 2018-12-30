@@ -3,13 +3,6 @@ lang: fr
 title: Comment contribuer à l'Open Source
 description: Vous voulez contribuer à l'open source ? Un guide pour faire des contributions open source, pour les débutants et pour les vétérans.
 class: contribute
-toc:
-  pourquoi-contribuer-&agrave;-lopen-source: "Pourquoi contribuer &agrave; l'open source"
-  que-signifie-contribuer: "Que signifie contribuer"
-  sorienter-vers-un-nouveau-projet: "S'orienter vers un nouveau projet"
-  trouver-un-projet-auquel-contribuer: "Trouver un projet auquel contribuer"
-  comment-proposer-une-contribution: "Comment proposer une contribution"
-  que-ce-passe-t-il-apr&egrave;s-avoir-propos&eacute;-une-contribution: "Que ce passe-t-il apr&egrave;s avoir propos&eacute; une contribution"
 order: 1
 image: /assets/images/cards/contribute.png
 related:

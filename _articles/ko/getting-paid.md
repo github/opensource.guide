@@ -3,11 +3,6 @@ lang: ko
 title: 오픈소스 작업에 대한 비용 지불하기
 description: 시간이나 프로젝트에 대한 재정적 지원을 받음으로써 오픈소스에서의 작업을 지속합니다.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: "어떤 사람들은 왜 재정 지원을 요청 하는가"
-  funding-your-own-time: "시간 펀딩하기"
-  finding-funding-for-your-project: "프로젝트 펀딩 찾기"
-  building-a-case-for-financial-support: "재정 지원 사례 구축하기"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:

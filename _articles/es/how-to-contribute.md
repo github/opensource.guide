@@ -3,13 +3,6 @@ lang: es
 title: C&oacute;mo Contribuir con el C&oacute;digo Abierto
 description: ¿Quieres colaborar con el c&oacute;digo abierto? Una gu&iacute;a para hacer contribuciones al c&oacute;digo abierto, para principiantes y veteranos.
 class: contribute
-toc:
-  para-qu&eacute;-contribuir: "¿Para qu&eacute; contribuir?"
-  qu&eacute;-significa-contribuir: "Qu&eacute; significa contribuir"
-  orient&aacute;ndote-a-un-nuevo-proyecto: "Orient&aacute;ndote a un nuevo proyecto"
-  encontrando-un-proyecto-donde-contribuir: "Encontrando un proyecto donde contribuir"
-  c&oacute;mo-enviar-una-contribuci&oacute;n: "C&oacute;mo enviar una contribuci&oacute;n"
-  qu&eacute;-pasa-luego-de-que-enviaste-una-contribuci&oacute;n: "Qu&eacute; pasa luego de que enviaste una contribuci&oacute;n"
 order: 1
 image: /assets/images/cards/contribute.png
 related:

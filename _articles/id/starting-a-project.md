@@ -3,12 +3,6 @@ lang: id
 title: Memulai Proyek Open Source
 description: Pelajari lebih lanjut tentang dunia open source dan bersiap-siap untuk merilis proyek Anda sendiri.
 class: beginners
-toc:
-  apa-dan-kenapa-open-source: "Apa dan kenapa open source"
-  perlukah-saya-merilis-proyek-open-source-saya-sendiri: "Perlukah saya merilis proyek open source saya sendiri?"
-  merilis-proyek-open-source-anda: "Merilis proyek open source Anda"
-  penamaan-dan-pencitraan-proyek-anda: "Penamaan dan pencitraan proyek Anda"
-  daftar-checklist-pra-rilis: "Daftar checklist pra-rilis"
 order: 2
 image: /assets/images/cards/beginner.png
 related:

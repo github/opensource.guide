@@ -3,10 +3,6 @@ lang: ko
 title: 마음을 끄는 커뮤니티 만들기
 description: 사람들이 프로젝트를 사용하고, 기여하고, 전파하도록 격려하는 커뮤니티를 만드세요.
 class: building
-toc:
-  setting-your-project-up-for-success: "프로젝트를 성공으로 이끌기"
-  growing-your-community: "커뮤니티 성장시키기"
-  resolving-conflicts: "충돌 해결하기"
 order: 4
 image: /assets/images/cards/building.png
 related:

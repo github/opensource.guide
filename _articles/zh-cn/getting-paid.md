@@ -3,11 +3,6 @@ lang: zh-cn
 title: 通过为开源工作获得报酬
 description: 为了让你能够持续的为开源项目，理应得到相应的经济上的报酬。
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: "为何会有人寻求经济上的支持"
-  funding-your-own-time: "你的时间是最宝贵的，理应得到资助"
-  finding-funding-for-your-project: "为你的项目寻找资助"
-  building-a-case-for-financial-support: "建立经济上的支持"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
