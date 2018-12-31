@@ -18,8 +18,7 @@ related:
 
 ## Por que eu preciso de um código de conduta?
 
-Um código de conduta é um documento que estabelece o comportamento esperado dos participantes do seu projeto.
-. Adotar e aplicar um código de conduta pode ajudar a criar uma atmosfera social positiva para a sua comunidade.
+Um código de conduta é um documento que estabelece o comportamento esperado dos participantes do seu projeto. Adotar e aplicar um código de conduta pode ajudar a criar uma atmosfera social positiva para a sua comunidade.
 
 Códigos de conduta ajudam a proteger não somente seus participantes, mas você mesmo. Se você mantém um projeto, pode chegar a conclusão de que atitudes improdutivas de outros participantes podem fazer com que você se sinta drenado ou infeliz com o seu trabalho ao longo do tempo.
 
@@ -55,7 +54,7 @@ Você deve explicar como o seu código de conduta será aplicado **_antes_** que
 
 * Demonstra sua seriedade sobre tomar as devidas ações, quando necessário.
 
-* Sua comunidade irá se sentir mais reafirmada de que queixas são de fatos revisadas.
+* Sua comunidade irá se sentir mais reafirmada de seus relatos são de fatos revisados.
 
 * Você irá reafirmar a sua comunidade de que o processo de revisão é justo e transparente, caso eles se encontrem investigados por uma violação.
 
@@ -63,7 +62,7 @@ Você deve sempre dar as pessoas um modo privado (como um endereço de email) pa
 
 Não se esqueça de que alguém pode querer relatar uma violação sobre alguém que receba esses relatos. Neste caso, dê a eles uma opção para relatar violações a outra pessoa. Por exemplo, @ctb e @mr-c [explicam em seu projeto](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-> Casos de comportamento abusivo, de assédio, ou de outra forma inaceitável podem ser relatados enviando um email para **khmer-project@idyll.org**, chegando somente a C. Titus Brown e Michael R. Crusoe. Para relatar um problema envolvendo algum deles, por favor envie um email para **Judi Brown Clarke, Ph.D.**, o Diretor de Diversidade no Centro BEACON para o Estudo da Evolução em Ação, um Centro NSF para Ciência e Tecnologia.*
+> Casos de comportamento abusivo, de assédio, ou de outra forma inaceitáveis podem ser relatados enviando um email para **khmer-project@idyll.org**, chegando somente a C. Titus Brown e Michael R. Crusoe. Para relatar um problema envolvendo algum deles, por favor envie um email para **Judi Brown Clarke, Ph.D.**, o Diretor de Diversidade no Centro BEACON para o Estudo da Evolução em Ação, um Centro NSF para Ciência e Tecnologia.*
 
 Para inspiração, dê uma olhada no [manual de aplicação](https://www.djangoproject.com/conduct/enforcement-manual/) do Django (embora possa ser o caso de você não precisar de algo tão compreensivo, dependendo do tamanho do seu projeto).
 
@@ -88,11 +87,11 @@ Antes de responder, tome algum tempo para entender o que aconteceu. Leia os come
 
 ### Tome a ação apropriada
 
-Após coletar e processar informação o suficiente, você precida decidir o que fazer. Conforme você considerar os próximos passos, lembre-se de que o seu objetivo como um moderador é o de fomentar um ambiente seguro, respeitoso e colaborativo. Considere não somente como lidar com a situação em questão, mas como sua resposta irá afetar o comportamento e expectitativas do resto da comunidade daí em diante.
+Após coletar e processar informação o suficiente, você precisa decidir o que fazer. Conforme você considerar os próximos passos, lembre-se de que o seu objetivo como um moderador é o de fomentar um ambiente seguro, respeitoso e colaborativo. Considere não somente como lidar com a situação em questão, mas como sua resposta irá afetar o comportamento e expectitativas do resto da comunidade daí em diante.
 
 Quando alguém relata uma violação do código de conduta, é seu trabalho, e não o deles, lidar com isso. Algumas vezes, o relator está divulgando informação que põe em grande risco sua carreira, reputação ou segurança física. Forçá-los a confrontar seu assediador poderia colocar o relator em uma posição comprometedora. Você deve lidar diretamente com a comunicação com a pessoa em questão, a não ser que o relator explicitamente peça o contrário.
 
-Existem alguns ações que você pode tomar para responder a uma violação ao código de conduta:
+Existem algumas ações que você pode tomar para responder a uma violação ao código de conduta:
 
 * **Dê à pessoa em questão uma advertência pública** e explique como o seu comportamento impactou negativamente os outros, preferencialmente no canal onde isso ocorreu. Onde possível, a comunicação pública transmite ao resto da comunidade que você toma o código de conduta seriamente. Seja gentil, mas firme em sua comunicação.
 
@@ -112,7 +111,7 @@ Um código de conduta não é uma lei que é aplicada arbitrariamente. Você é 
 
 Como um mantenedor você estabelece as _guidelines_ para a sua comunidade e as aplica de acordo com as regras estabelecidas no seu código de conduta. Isso significa tomar qualquer relato de violação de um código de conduta seriamente. Ao relator é dada a devida revisão completa e justa de sua queixa. Se você determinar que o comportamento que eles relataram não é uma violação, comunique isso claramente a eles e explique por que você não irá tomar uma ação sobre o acontecido. O que eles farão com isso é responsabilidade deles: tolerar o comportamento com o qual eles tiveram um problema, ou parar de participar da comunidade.
 
-Um relato de um comportamento que não viola, tecnicamente, o código de conduta pode, ainda, indicar que há um problema em sua comunidade, e você deve investigar esse problema em potencial e agir de acordo. Isso pode até memsmo incluir revisitar seu código de conduta para esclarecer comporamentos aceitáveis ou falar com a pessoa cujo comportamento foi relatado e dizer que, embora ela não tenha violado o código de conduta, ela está no limite daquilo que é aceito e está fazendo com que os outros participantes se sintam desconfortáveis.
+Um relato de um comportamento que não viola, tecnicamente, o código de conduta pode, ainda, indicar que há um problema em sua comunidade, e você deve investigar esse problema em potencial e agir de acordo. Isso pode até mesmo incluir revisitar seu código de conduta para esclarecer comporamentos aceitáveis ou falar com a pessoa cujo comportamento foi relatado e dizer que, embora ela não tenha violado o código de conduta, ela está no limite daquilo que é aceito e está fazendo com que os outros participantes se sintam desconfortáveis.
 
 No fim, como um mantenedor, você estabelece e aplica os padrões de comportamento aceitáveis. Você tem a habilidade de moldar os valores da comunidade do projeto, e os participantes esperam que você aplique tais valores de forma justa e imparcial.
 
