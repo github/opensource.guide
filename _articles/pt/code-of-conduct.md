@@ -63,13 +63,13 @@ Você deve sempre dar as pessoas um modo privado (como um endereço de email) pa
 
 Não se esqueça de que alguém pode querer relatar uma violação sobre alguém que receba esses relatos. Neste caso, dê a eles uma opção para relatar violações a outra pessoa. Por exemplo, @ctb e @mr-c [explicam em seu projeto](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-> Casos de comportamento abusivo, de assédio, ou de outra forma inaceitável podem ser relatados enviando um email para **khmer-project@idyll.org** que vai somente para C. Titus Brown e Michael R. Crusoe. Para relatar um problema envolvendo algum deles, por favor envie um email para **Judi Brown Clarke, Ph.D.**, o Diretor de Diversidade no Centro BEACON para o Estudo da Evolução em Ação, um Centro NSF para Ciência e Tecnologia.*
+> Casos de comportamento abusivo, de assédio, ou de outra forma inaceitável podem ser relatados enviando um email para **khmer-project@idyll.org**, chegando somente a C. Titus Brown e Michael R. Crusoe. Para relatar um problema envolvendo algum deles, por favor envie um email para **Judi Brown Clarke, Ph.D.**, o Diretor de Diversidade no Centro BEACON para o Estudo da Evolução em Ação, um Centro NSF para Ciência e Tecnologia.*
 
 Para inspiração, dê uma olhada no [manual de aplicação](https://www.djangoproject.com/conduct/enforcement-manual/) do Django (embora possa ser o caso de você não precisar de algo tão compreensivo, dependendo do tamanho do seu projeto).
 
-## Enforcing your code of conduct
+## Aplicando o seu código de conduta
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+As vezes, apesar dos seus melhores esforços, alguém irá fazer algo que viole o código. Há diversas formas de endereçar comportamentos negativos ou danosos quando isso acontece.
 
 ### Gather information about the situation
 
