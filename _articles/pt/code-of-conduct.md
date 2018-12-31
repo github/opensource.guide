@@ -71,16 +71,16 @@ Para inspiração, dê uma olhada no [manual de aplicação](https://www.djangop
 
 As vezes, apesar dos seus melhores esforços, alguém irá fazer algo que viole o código. Há diversas formas de endereçar comportamentos negativos ou danosos quando isso acontece.
 
-### Gather information about the situation
+### Colete informações sobre a situação
 
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+Trate a voz de cada membro da comunidade como tão importante quanto a sua. Se você receber uma queixa de que alguém violou o código de conduta, assuma isso seriamente e investigue o assunto, mesmo que isso não corresponda a sua experiência pessoal com a pessoa em questão. Fazer isso sinaliza para a sua comunidade que você valoriza sua perspectiva e confia em seu julgamento.
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+O membro da comunidade em questão pode ser um infrator reincidente que, consistentemente, faz os outros se sentirem desconfortáveis, ou ele pode ter dito ou feito algo somente uma vez. Ambos podem motivar a tomada de ação, dependendo do contexto.
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+Antes de responder, tome algum tempo para entender o que aconteceu. Leia os comentários anteriores da pessoa e suas conversas para entender melhor quem elas são e porque elas podem ter agido dessa forma. Tente coletar perspectivas de outros sobre esta pessoa e seu comportamento.
 
 <aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  Não seja puxado para dentro de uma discussão. Não seja desviado para lidar com o comportamento de outra pessoa antes de ter terminado de lidar com o assunto em questão. Foque no que você precisa.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
