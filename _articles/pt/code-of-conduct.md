@@ -116,6 +116,6 @@ Um relato de um comportamento que não viola, tecnicamente, o código de conduta
 
 No fim, como um mantenedor, você estabelece e aplica os padrões de comportamento aceitáveis. Você tem a habilidade de moldar os valores da comunidade do projeto, e os participantes esperam que você aplique tais valores de forma justa e imparcial.
 
-## Encourage the behavior you want to see in the world 🌎
+## Encoraje o comportamento que você quer ver no mundo 🌎
 
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+Quando um projeto párece hostil ou não acolhedor, mesmo que seja somente uma pessoa cujo comportamento não é tolerado por outras, você corre o risco de perder muitos outros contribuidores, alguns dos quais você pode nem mesmo vir a conhecer. Nem sempre é fácil adotar e aplicar um código de conduta, mas fomentar um ambiente acolhedor irá ajudar sua comunidade a crescer.
