@@ -21,51 +21,51 @@ related:
 Um código de conduta é um documento que estabelece o comportamento esperado dos participantes do seu projeto.
 . Adotar e aplicar um código de conduta pode ajudar a criar uma atmosfera social positiva para a sua comunidade.
 
-Códigos de conduta ajudam a proteger não somente seus participantes, mas você mesmo. Se você mantém um projeto, você pode chegar a conclusão de que atitudes improdutivas de outros participantes podem fazer com que você se sinta drenado ou infeliz com o seu trabalho ao longo do tempo.
+Códigos de conduta ajudam a proteger não somente seus participantes, mas você mesmo. Se você mantém um projeto, pode chegar a conclusão de que atitudes improdutivas de outros participantes podem fazer com que você se sinta drenado ou infeliz com o seu trabalho ao longo do tempo.
 
 Um código de conduta te empondera para facilitar comportamentos saudáveis e construtivos de sua comunidade. Ser proativo reduz a probabilidade de que você, ou outros, se tornem fatigados com o seu projeto, e o ajudam a tomar alguma ação quando alguém faz algo que você não concorde.
 
-## Establishing a code of conduct
+## Estabelecendo um código de conduta
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+Tente estabelecer um código de conduta o mais cedo quanto possível: idealmente, assim que você criar o seu projeto.
 
-In addition to communicating your expectations, a code of conduct describes the following:
+Além de comunicar aquilo que você espera, um código de conduta descreve o seguinte:
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+* Onde o código de conduta tem validade _(somente em issues e pull requests, ou atividades da comunidade, como eventos?)_
+* A quem o código de conduta se aplica _(membros da comunidade e mantenedores, mas e sobre patrocinadores?)_
+* O que acontece se alguém violar o código de conduta
+* Como alguém pode reportar violações
 
-Wherever you can, use prior art. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+Sempre que possível, use exemplos passados. O [Contributor Covenant](https://contributor-covenant.org/) é um código de conduta que é usado por mais de 40.000 projetos _open source_, incluindo Kubernetes, Rails, e Swift.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
+O [Django Code of Conduct](https://www.djangoproject.com/conduct/) e o [Citizen Code of Conduct](http://citizencodeofconduct.org/) são, tambémm, outros dois bons exemplos de códigos de conduta.
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
+Coloque um arquivo CODE_OF_CONDUCT no diretório raiz do seu projeto, e faça-o visivel a sua comunidade criando um link para ele no arquivo CONTRIBUTING ou README.
 
-## Deciding how you'll enforce your code of conduct
+## Decidindo como você irá aplicar seu código de conduta
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  Um código de conduta que não é (ou não pode) ser aplicado é pior do que não ter nenhum código de conduta: isso passa a mensagem de que os valores no código de conduta não são, na verdade, importantes ou respeitados na sua comunidade.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+Você deve explicar como o seu código de conduta será aplicado **_antes_** que uma violação ocorra. Há inúmeras razões por trás disso:
 
-* It demonstrates that you are serious about taking action when it's needed.
+* Demonstra sua seriedade sobre tomar as devidas ações, quando necessário.
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* Sua comunidade irá se sentir mais reafirmada de que queixas são de fatos revisadas.
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* Você irá reafirmar a sua comunidade de que o processo de revisão é justo e transparente, caso eles se encontrem investigados por uma violação.
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+Você deve sempre dar as pessoas um modo privado (como um endereço de email) para relatar uma violação do código de conduta e explicar quem recebe tal queixa. Poderia ser um mantenedor, um grupo de mantenedores, ou um grupo de trabalho do código de conduta.
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Não se esqueça de que alguém pode querer relatar uma violação sobre alguém que receba esses relatos. Neste caso, dê a eles uma opção para relatar violações a outra pessoa. Por exemplo, @ctb e @mr-c [explicam em seu projeto](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> Casos de comportamento abusivo, de assédio, ou de outra forma inaceitável podem ser relatados enviando um email para **khmer-project@idyll.org** que vai somente para C. Titus Brown e Michael R. Crusoe. Para relatar um problema envolvendo algum deles, por favor envie um email para **Judi Brown Clarke, Ph.D.**, o Diretor de Diversidade no Centro BEACON para o Estudo da Evolução em Ação, um Centro NSF para Ciência e Tecnologia.*
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+Para inspiração, dê uma olhada no [manual de aplicação](https://www.djangoproject.com/conduct/enforcement-manual/) do Django (embora possa ser o caso de você não precisar de algo tão compreensivo, dependendo do tamanho do seu projeto).
 
 ## Enforcing your code of conduct
 
