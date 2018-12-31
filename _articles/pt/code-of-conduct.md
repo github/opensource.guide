@@ -86,25 +86,25 @@ Antes de responder, tome algum tempo para entender o que aconteceu. Leia os come
   </p>
 </aside>
 
-### Take appropriate action
+### Tome a ação apropriada
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+Após coletar e processar informação o suficiente, você precida decidir o que fazer. Conforme você considerar os próximos passos, lembre-se de que o seu objetivo como um moderador é o de fomentar um ambiente seguro, respeitoso e colaborativo. Considere não somente como lidar com a situação em questão, mas como sua resposta irá afetar o comportamento e expectitativas do resto da comunidade daí em diante.
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+Quando alguém relata uma violação do código de conduta, é seu trabalho, e não o deles, lidar com isso. Algumas vezes, o relator está divulgando informação que põe em grande risco sua carreira, reputação ou segurança física. Forçá-los a confrontar seu assediador poderia colocar o relator em uma posição comprometedora. Você deve lidar diretamente com a comunicação com a pessoa em questão, a não ser que o relator explicitamente peça o contrário.
 
-There are a few ways you might respond to a code of conduct violation:
+Existem alguns ações que você pode tomar para responder a uma violação ao código de conduta:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **Dê à pessoa em questão uma advertência pública** e explique como o seu comportamento impactou negativamente os outros, preferencialmente no canal onde isso ocorreu. Onde possível, a comunicação pública transmite ao resto da comunidade que você toma o código de conduta seriamente. Seja gentil, mas firme em sua comunicação.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* **Entre em contato privado com a pessoa** em questão para explicar como o seu comportamento impactou os outros negativamente. Você pode querer utilizar um canal de comunicação privado se a situação envolver informação pessoal sensível. Se você se comunicar com alguem privadamente, é uma boa ideia enviar uma cópa do diálogo àqueles que primeiro relataram a situação, de modo que eles saibam que você tomou uma ação. Peça ao relator consentimento antes de enviá-lo tal cópia.
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+Algumas vezes, uma resolução não pode ser alcançada. A pessoa em questão pode se tornar agressiva ou hostil quando confrontada ou não muda seu comportamento. Nessa situação, você pode querer considerar tomar uma medida mais forte. Por exemplo:
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+* **Suspender a pessoa** em questão do projeto, reforçado por um banimento temporário na participação de qualquer aspecto do projeto.
 
-* **Permanently ban** the person from the project
+* **Banir permanentemente** a pessoa do projeto.
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+O banimento de membros não deve ser tomado de forma branda e representa uma diferença de perspectivas permanente e irreconciliável. Você deve tomar tais medidas somente quando está claro que uma resolução não pode ser alcançada.
 
 ## Your responsibilities as a maintainer
 
