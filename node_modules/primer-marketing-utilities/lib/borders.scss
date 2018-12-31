@@ -15,3 +15,6 @@
     .border-#{$breakpoint}-left-0   { border-left: 0 !important; }
   }
 }
+
+/* Use with .border to turn the border rgba white 0.15 */
+.border-white-fade { border-color: $white-fade-15 !important; }

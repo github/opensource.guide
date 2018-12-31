@@ -1,11 +1,11 @@
-# Primer CSS Page Sections
+# Primer Page Sections
 
-[![npm version](http://img.shields.io/npm/v/primer-page-sections.svg)](https://www.npmjs.org/package/primer-page-sections)
-[![Build Status](https://travis-ci.org/primer/primer-css.svg?branch=master)](https://travis-ci.org/primer/primer-css)
+[![npm version](https://img.shields.io/npm/v/primer-page-sections.svg)](https://www.npmjs.org/package/primer-page-sections)
+[![Build Status](https://travis-ci.org/primer/primer.svg?branch=master)](https://travis-ci.org/primer/primer)
 
 > Flash messages, or alerts, inform users of successful or pending actions. Use them sparingly. Don’t show more than one at a time.
 
-This repository is a module of the full [primer-css][primer] repository.
+This repository is a module of the full [primer][primer] repository.
 
 ## Documentation
 
@@ -51,7 +51,7 @@ MIT &copy; [GitHub](https://github.com/)
 [primer]: https://github.com/primer/primer
 [primer-support]: https://github.com/primer/primer-support
 [support]: https://github.com/primer/primer-support
-[docs]: http://primercss.io/
+[docs]: http://primer.github.io/
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
 [sass]: http://sass-lang.com/

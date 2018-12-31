@@ -1,11 +1,11 @@
 # Primer Marketing CSS Tables
 
-[![npm version](http://img.shields.io/npm/v/primer-tables.svg)](https://www.npmjs.org/package/primer-tables)
-[![Build Status](https://travis-ci.org/primer/primer-css.svg?branch=master)](https://travis-ci.org/primer/primer-css)
+[![npm version](https://img.shields.io/npm/v/primer-tables.svg)](https://www.npmjs.org/package/primer-tables)
+[![Build Status](https://travis-ci.org/primer/primer.svg?branch=master)](https://travis-ci.org/primer/primer)
 
 > Styles to display tabular data for marketing websites at GitHub.
 
-This repository is a module of the full [primer-css][primer] repository.
+This repository is a module of the full [primer][primer] repository.
 
 ## Documentation
 
@@ -51,7 +51,7 @@ MIT &copy; [GitHub](https://github.com/)
 [primer]: https://github.com/primer/primer
 [primer-support]: https://github.com/primer/primer-support
 [support]: https://github.com/primer/primer-support
-[docs]: http://primercss.io/
+[docs]: http://primer.github.io/
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
 [sass]: http://sass-lang.com/

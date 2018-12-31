@@ -1,11 +1,11 @@
-# Primer CSS box
+# Primer box
 
-[![npm version](http://img.shields.io/npm/v/primer-box.svg)](https://www.npmjs.org/package/primer-box)
-[![Build Status](https://travis-ci.org/primer/primer-css.svg?branch=master)](https://travis-ci.org/primer/primer-css)
+[![npm version](https://img.shields.io/npm/v/primer-box.svg)](https://www.npmjs.org/package/primer-box)
+[![Build Status](https://travis-ci.org/primer/primer.svg?branch=master)](https://travis-ci.org/primer/primer)
 
 > Box is a module for creating rounded-corner boxes with a white background and gray borders. Box has optional element styles for headers, lists, and footers.
 
-This repository is a module of the full [primer-css][primer-css] repository.
+This repository is a module of the full [primer][primer] repository.
 
 ## Install
 
@@ -47,7 +47,7 @@ The `.Box` component can be used for something as simple as a rounded corner box
 
 ## Box
 
-A `.Box` is a container with a a white background ,a light gray border, and rounded corners. By default there are no additional styles such as padding, these can be added as needed with utility classes. Other styles and layouts can be achieved with box elements and modifiers shown in the documentation below.
+A `.Box` is a container with a a white background, a light gray border, and rounded corners. By default there are no additional styles such as padding, these can be added as needed with utility classes. Other styles and layouts can be achieved with box elements and modifiers shown in the documentation below.
 
 ```html
 <div class="Box">
@@ -259,7 +259,7 @@ Use `Box--danger` to apply a red border to the outside of the box. This theme is
 </div>
 ```
 
-`Box-danger` is often paired with a red heading. See the [subhead](/styleguide/css/styles/product/components/subhead) docs for more information.
+`Box-danger` is often paired with a red heading. See the [subhead](../subhead) docs for more information.
 
 ```html
 <div class="Subhead border-bottom-0">
@@ -356,7 +356,7 @@ Use the `border-dashed` utility to apply a dashed border to a box.
 ## Boxes with flash alerts
 Use `flash-full` for flash alert inside a box to remove the rounded corners. Place the flash alert above the `Box-body` and underneath the `Box-header`.
 
-Flash alerts come in three different colors and can be used with icons and buttons, see the [alert documentation](/alerts) for more information.
+Flash alerts come in three different colors and can be used with icons and buttons, see the [alert documentation](../alerts) for more information.
 
 ```html
 <div class="Box">
@@ -455,7 +455,7 @@ Use `Counter--gray-dark` for a counter with a dark gray background and white tex
 ## Form elements and buttons in boxes
 To achieve different layouts when adding buttons or form elements to boxes we suggest you use utilities to achieve the layout you want. Here's some common examples:
 
-Use [flexbox utilities](../utilities/flexbox) to center align items, and avoid using floats by using `flex-auto` to have the text fill the remaining space so that the button rests on the far right.
+Use [flexbox utilities](../../utilities/flexbox) to center align items, and avoid using floats by using `flex-auto` to have the text fill the remaining space so that the button rests on the far right.
 
 ```html
 <div class="Box Box--condensed">
@@ -561,7 +561,7 @@ You can put forms in boxes. Often form submission buttons are aligned to the bot
   </div>
 ```
 
-When a box is all by itself centered on a page you can use [column widths](/grid) to control the width of the box. If needed, break the mold a little and use [typography utilities](../utilities/typography) instead of the built in box title styles.
+When a box is all by itself centered on a page you can use [column widths](../../objects/grid) to control the width of the box. If needed, break the mold a little and use [typography utilities](../../utilities/typography) instead of the built in box title styles.
 
 ```html
 <div class="Box Box--spacious col-6 mx-auto text-center">
@@ -582,7 +582,7 @@ When a box is all by itself centered on a page you can use [column widths](/grid
 </div>
 ```
 
-Box patterns can also be made with, and modified with [border utilities](../utilities/borders).
+Box patterns can also be made with, and modified with [border utilities](../../utilities/borders).
 
 <!-- %enddocs -->
 
@@ -590,8 +590,8 @@ Box patterns can also be made with, and modified with [border utilities](../util
 
 [MIT](./LICENSE) &copy; [GitHub](https://github.com/)
 
-[primer-css]: https://github.com/primer/primer
-[docs]: http://primercss.io/
+[primer]: https://github.com/primer/primer
+[docs]: http://primer.github.io/
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
 [sass]: http://sass-lang.com/

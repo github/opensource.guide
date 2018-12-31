@@ -67,6 +67,7 @@
 }
 
 // responsive padding for containers
+// stylelint-disable-next-line primer/selector-no-utility
 .p-responsive {
   padding-right: $spacer-3 !important;
   padding-left: $spacer-3 !important;

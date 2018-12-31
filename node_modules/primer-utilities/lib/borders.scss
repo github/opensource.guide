@@ -61,3 +61,5 @@
 .rounded-1 { border-radius: $border-radius !important; }
 /* Add a 2x border-radius to all corners */
 .rounded-2 { border-radius: $border-radius * 2 !important; }
+/* Add a 50% border-radius to make something into a circle */
+.circle { border-radius: 50% !important; }
