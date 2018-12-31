@@ -106,15 +106,15 @@ Algumas vezes, uma resolução não pode ser alcançada. A pessoa em questão po
 
 O banimento de membros não deve ser tomado de forma branda e representa uma diferença de perspectivas permanente e irreconciliável. Você deve tomar tais medidas somente quando está claro que uma resolução não pode ser alcançada.
 
-## Your responsibilities as a maintainer
+## Suas responsabilidades como mantenedor
 
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
+Um código de conduta não é uma lei que é aplicada arbitrariamente. Você é o aplicador do código de conduta e é sua responsabilidade seguir as regras que o código de conduta estabelece.
 
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+Como um mantenedor você estabelece as _guidelines_ para a sua comunidade e as aplica de acordo com as regras estabelecidas no seu código de conduta. Isso significa tomar qualquer relato de violação de um código de conduta seriamente. Ao relator é dada a devida revisão completa e justa de sua queixa. Se você determinar que o comportamento que eles relataram não é uma violação, comunique isso claramente a eles e explique por que você não irá tomar uma ação sobre o acontecido. O que eles farão com isso é responsabilidade deles: tolerar o comportamento com o qual eles tiveram um problema, ou parar de participar da comunidade.
 
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+Um relato de um comportamento que não viola, tecnicamente, o código de conduta pode, ainda, indicar que há um problema em sua comunidade, e você deve investigar esse problema em potencial e agir de acordo. Isso pode até memsmo incluir revisitar seu código de conduta para esclarecer comporamentos aceitáveis ou falar com a pessoa cujo comportamento foi relatado e dizer que, embora ela não tenha violado o código de conduta, ela está no limite daquilo que é aceito e está fazendo com que os outros participantes se sintam desconfortáveis.
 
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
+No fim, como um mantenedor, você estabelece e aplica os padrões de comportamento aceitáveis. Você tem a habilidade de moldar os valores da comunidade do projeto, e os participantes esperam que você aplique tais valores de forma justa e imparcial.
 
 ## Encourage the behavior you want to see in the world 🌎
 
