@@ -68,6 +68,12 @@ button {
   border-radius: 0;
 }
 
+// increase the selector specificity for [hidden]
+// so that it always overrides utility classes (.d-block, etc.)
+[hidden][hidden] {
+  display: none !important;
+}
+
 details {
   summary { cursor: pointer; }
 

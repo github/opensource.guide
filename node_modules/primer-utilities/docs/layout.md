@@ -31,6 +31,26 @@ Adjust the display of an element with `.d-block`, `.d-none`, `.d-inline`, `.d-in
 </div>
 ```
 
+### The HTML `hidden` attribute
+
+As of [Primer v10.10.0](https://github.com/primer/primer/releases/v10.10.0), `primer-base` includes a rule that sets `display: none !important` for any element with the [`hidden` attribute][hidden]. You can safely use the `hidden` attribute with display utilities, but we suggest:
+
+1. Use the `hidden` attribute (and corresponding JavaScript property) if you're going to programmatically show and hide content.
+1. Use `d-none` and/or its responsive variants (`d-sm-block`, `d-lg-none`) to conditionally show content at different screen sizes.
+
+Rather than toggling the `d-none` class in JavaScript, you should toggle the `hidden` property on an element. This means that you won't have to restore any more specific display utility (`d-inline` or `d-flex`, for instance) just to work around the order in which they're listed in the stylesheet.
+
+```js
+// Good:
+element.hidden = !visible
+
+// Bad:
+element.classList.toggle('d-none', !visible)
+element.classList.toggle('d-inline', visible)
+```
+
+### `display:table` wrapping issues
+
 There are known issues with using `display:table` and wrapping long strings, particularly in Firefox. You may need to use `table-fixed` on elements with `d-table` and apply column widths to table cells, which you can do with our [column width styles](../../objects/grid#column-widths).
 
 ```html
@@ -204,7 +224,7 @@ Use `.position-absolute` to take elements out of the normal document flow.
 
 ```html
 <div class="position-relative" style="height:116px;">
-  <button type="button" class="btn btn-secondary mb-1">Button</button>
+  <button type="button" class="btn mb-1">Button</button>
   <div class="position-absolute border border-gray p-2">
     <a href="#url" class="d-block p-1">Mashed potatoes</a>
     <a href="#url" class="d-block p-1">Fries</a>
@@ -298,3 +318,5 @@ Create a double-sided media object for a container with a flexible center.
 ```
 
 You can also create a media object with [flexbox utilities](./flexbox#media-object) instead of floats which can be useful for changing the vertical alignment.
+
+[hidden]: https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/hidden

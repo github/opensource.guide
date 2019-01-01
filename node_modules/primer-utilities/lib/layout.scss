@@ -50,23 +50,14 @@
 }
 
 // Floats
-/* Float to the right */
-.float-right { float: right !important; }
-/* Float to the left */
-.float-left { float: left !important; }
-/* Don't float left or right */
-.float-none { float: none !important; }
-
-// Responsive float utlities
-// .float-md-left, .float-lg-right, ...
-@each $breakpoint in map-keys($breakpoints) {
+@each $breakpoint, $variant in $responsive-variants {
   @include breakpoint($breakpoint) {
-    /* Float to the left at the #{$breakpoint} breakpoint */
-    .float-#{$breakpoint}-left  { float: left !important; }
-    /* Float to the right at the #{$breakpoint} breakpoint */
-    .float-#{$breakpoint}-right  { float: right !important; }
-    /* No float at the #{$breakpoint} breakpoint */
-    .float-#{$breakpoint}-none { float: none !important; }
+    /* Float to the left */
+    .float#{$variant}-left  { float: left !important; }
+    /* Float to the right */
+    .float#{$variant}-right  { float: right !important; }
+    /* No float */
+    .float#{$variant}-none { float: none !important; }
   }
 }
 
@@ -84,17 +75,11 @@
 /* Remove min-width from element */
 .min-width-0 { min-width: 0 !important; }
 
-// Direction utilities
-/* Set the direction to rtl */
-.direction-rtl { direction: rtl !important; }
-/* Set the direction to ltr */
-.direction-ltr { direction: ltr !important; }
-
-@each $breakpoint in map-keys($breakpoints) {
+@each $breakpoint, $variant in $responsive-variants {
   @include breakpoint($breakpoint) {
-    /* Set the direction to rtl at the #{$breakpoint} breakpoint */
-    .direction-#{$breakpoint}-rtl { direction: rtl !important; }
-    /* Set the direction to ltr at the #{$breakpoint} breakpoint */
-    .direction-#{$breakpoint}-ltr { direction: ltr !important; }
+    /* Set the direction to rtl */
+    .direction#{$variant}-rtl { direction: rtl !important; }
+    /* Set the direction to ltr */
+    .direction#{$variant}-ltr { direction: ltr !important; }
   }
 }

@@ -3,12 +3,6 @@ lang: zh-cn
 title: 开源衡量标准
 description: 通过持续的追踪项目，帮助你作出最佳决策，以让开源项目更成功。
 class: metrics
-toc:
-  why-measure-anything: "为什么要度量所有？"
-  discovery: "发现项目"
-  usage: "使用项目"
-  retention: "留下来"
-  maintainer-activity: "维护者活跃度"
 order: 9
 image: /assets/images/cards/metrics.png
 related:

@@ -173,10 +173,9 @@
   text-align: center;
 }
 
-// Radio buttons
+// Link-like buttons
 //
-// Buttons backed by radio or checkbox control. Requires the use of `.hidden`
-// on the `input` to properly hide it.
+// This class is for styling <button> and <input> elements to look like links
 .btn-link {
   display: inline-block;
   padding: 0;

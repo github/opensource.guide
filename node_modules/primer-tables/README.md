@@ -11,10 +11,10 @@ This repository is a module of the full [primer][primer] repository.
 
 <!-- %docs
 title: Tables
-status: In review
+status: Deprecated
 -->
 
-Documentation & refactor coming very soon
+**This component will be removed, and the `primer-tables` npm package deprecated, in Primer version 11.**
 
 <!-- %enddocs -->
 

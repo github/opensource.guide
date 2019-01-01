@@ -58,3 +58,29 @@ Media queries are scoped from each breakpoint and upwards. In the example below,
   @include breakpoint(md) { font-size: 32px; }
 }
 ```
+
+## Responsive variants
+The `$responsive-variants` variable is a mapping of breakpoints to classname variants, and should be used like so:
+
+```scss
+@each $breakpoint, $variant in $responsive-variants {
+  @include breakpoint($breakpoint) {
+    // Note: the first iteration gets `$variant == ""`
+    .overflow#{$variant}-auto { overflow: auto; }
+  }
+}
+```
+
+The resulting CSS would be:
+
+```css
+.overflow-auto { overflow: auto; }
+@media (min-width: 544px) { .overflow-sm-auto { overflow: auto; } }
+@media (min-width: 768px) { .overflow-md-auto { overflow: auto; } }
+@media (min-width: 1012px) { .overflow-lg-auto { overflow: auto; } }
+@media (min-width: 1280px) { .overflow-xl-auto { overflow: auto; } }
+```
+
+#### Caution!
+1. Don't precede the `#{$variation}` interpolation with a hyphen because the first value of `$variant` will be an empty string.
+1. For consistency, please put the `@include breakpoint($breakpoint)` call directly inside the `$responsive-variants` loop. This will help keep file sizes small by "batching" selectors in shared `@media` queries.

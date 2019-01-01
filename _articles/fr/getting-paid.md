@@ -3,11 +3,6 @@ lang: fr
 title: Etre payé pour faire de l'Open Source
 description: Soutenez votre travail en open source en obtenant un soutien financier pour votre temps ou votre projet.
 class: getting-paid
-toc:
-  pourquoi-certaines-personnes-cherchent-un-soutien-financier: "Pourquoi certaines personnes cherchent un soutien financier"
-  financer-votre-temps: "Financer votre temps"
-  trouver-du-financement-pour-votre-projet: "Trouver du financement pour votre projet"
-  b&acirc;tir-un-dossier-pour-un-soutien-financier: "B&acirc;tir un dossier pour un soutien financier"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -59,7 +54,7 @@ Le travail rémunéré permet également aux personnes de différents horizons d
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
     Les logiciels libres offrent des avantages considérables à l'industrie de la technologie, ce qui, à son tour, profite à toutes les industries. (...) Cependant, si les seules personnes qui peuvent se concentrer sur elle sont les chanceux et les obsédés, alors il y a un énorme potentiel inexploité.
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 

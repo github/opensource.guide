@@ -3,12 +3,6 @@ lang: ko
 title: 오픈소스 측정항목
 description: 성공을 측정하고 추적함으로써 오픈소스 프로젝트가 성공할 수 있도록 정보에 입각한 의사 결정을 하십시오.
 class: metrics
-toc:
-  why-measure-anything: "왜 무엇이든지 측정합니까?"
-  discovery: "발견"
-  usage: "사용"
-  retention: "보유"
-  maintainer-activity: "메인테이너 활동"
 order: 9
 image: /assets/images/cards/metrics.png
 related:

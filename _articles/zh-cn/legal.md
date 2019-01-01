@@ -3,14 +3,6 @@ lang: zh-cn
 title: 开源的法律保护
 description: 对于开源你应该了解的所有法律知识。
 class: legal
-toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "为什么大家非常担心有关开源的法律问题?"
-  are-public-github-projects-open-source: "公开的GitHub项目是开源的吗?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "请告诉我该如何保护项目"
-  which-open-source-license-is-appropriate-for-my-project: "哪个开源许可协议适合我的项目?"
-  what-if-i-want-to-change-the-license-of-my-project: "如果我想更换项目的许可协议，该怎么办?"
-  does-my-project-need-an-additional-contributor-agreement: "我的项目需要额外的贡献者协议吗?"
-  what-does-my-companys-legal-team-need-to-know: "我的公司的法律团队需要知道什么?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -57,7 +49,7 @@ related:
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   一个标准化的许可协议可以作为没有法律培训的人员的代理，以准确地知道他们可以和不能用软件做什么。除非绝对要求，否则应避免使用定制，修改或非标准术语，这将成为他人使用代码的障碍。
   <p markdown="1" class="pquote-credit">
-— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 

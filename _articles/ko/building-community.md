@@ -3,10 +3,6 @@ lang: ko
 title: 환영하는 커뮤니티 구축
 description: 사람들이 프로젝트를 사용하고, 기여하고, 전파하도록 격려하는 커뮤니티를 구축합니다.
 class: building
-toc:
-  setting-your-project-up-for-success: "성공을 위한 프로젝트 설정하기"
-  growing-your-community: "커뮤니티 성장하기"
-  resolving-conflicts: "충돌 해결하기"
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -58,7 +54,7 @@ related:
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
   <p markdown="1" class="pquote-credit">
-— @janl, ["지속가능한 오픈소스"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["지속가능한 오픈소스"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -120,7 +116,7 @@ related:
   <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["FOSS 프로젝트를 어떻게 실행하는가"](https://karissa.github.io/post/okf-de)
+— @karissa, ["FOSS 프로젝트를 어떻게 실행하는가"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -136,7 +132,7 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
 
 ![Django 새로운 기여자 페이지](/assets/images/building-community/django_new_contributors.png)
 
-이슈 대기열에서, 기여자의 다른 유형에 적합한 버그 라벨을 붙이십시오: 예를 들어, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first issue"_, 혹은 _"documentation"_이 있습니다. [이 라벨들은](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
+이슈 대기열에서, 기여자의 다른 유형에 적합한 버그 라벨을 붙이십시오: 예를 들어, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"good first issue"_, 혹은 _"documentation"_이 있습니다. [이 라벨들은](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
 프로젝트에 익숙하지 않은 사용자가 문제를 신속하게 스캔하고 시작하기가 쉽습니다.
 
 마지막으로, 문서를 사용하여 사람들이 모든 단계에서 환영받는다고 느끼게 하십시오.
@@ -153,7 +149,7 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
   Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["좋은 커뮤니티는 어떻게 만듭니까?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sarahsharp, ["좋은 커뮤니티는 어떻게 만듭니까?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -169,7 +165,7 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
 
 * 만약 상당한 규모의 커뮤니티가 있다면, 기여자들에게 감사하는 **뉴스 레터를 보내거나 블로그 포스트를 작성하십시오**. Rust의 [This Week in Rust](https://this-week-in-rust.org/)와 Hoodie의 [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html)는 두개의 좋은 예시입니다.
 
-* **모든 참여자에게 커밋 접근 권한을 부여하십시오.** @felixge는 이것이 사람들로 하여금 [패치를 작성하는 것에 더 흥분하도록](http://felixge.de/2013/03/11/the-pull-request-hack.html) 만들었고, 잠시동안 일하지 않은 프로젝트에 대한 새로운 메인테이너를 발견했습니다.
+* **모든 참여자에게 커밋 접근 권한을 부여하십시오.** @felixge는 이것이 사람들로 하여금 [패치를 작성하는 것에 더 흥분하도록](https://felixge.de/2013/03/11/the-pull-request-hack.html) 만들었고, 잠시동안 일하지 않은 프로젝트에 대한 새로운 메인테이너를 발견했습니다.
 
 * 만약 프로젝트가 깃허브에 있는 경우, .**프로젝트를 개인 계정에서 [조직](https://help.github.com/articles/creating-a-new-organization-account/)으로 옮기고** 하나 이상의 백업 메인테이너를 추가하십시오. 조직에서는 외부 공동 작업자와 함께 프로젝트를 보다 쉽게 ​​작업 할 수 있습니다.
 
@@ -219,7 +215,7 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
 
 일부 프로젝트는 주요 결정을 내리기 위해 투표 프로세스를 사용합니다. 언뜻보기에 합당한 반면, 투표는 서로의 의견을 경청하고 다루기보다 "대답"을 얻는 것을 강조합니다.
 
-투표는 정치적으로 진행될 수 있으며, 커뮤니티 멤버들은 서로에게 호의를 베풀거나 특정 방식으로 투표하도록 압박을 느끼고 있습니다. 모든 사람이 투표를 하든, [다수가 침묵](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users)하든간에, 또는 사용자가 커뮤니티에서 투표를 하지 못했거나 투표를 모르는 사용자가 발생할겁니다.
+투표는 정치적으로 진행될 수 있으며, 커뮤니티 멤버들은 서로에게 호의를 베풀거나 특정 방식으로 투표하도록 압박을 느끼고 있습니다. 모든 사람이 투표를 하든, [다수가 침묵](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users)하든간에, 또는 사용자가 커뮤니티에서 투표를 하지 못했거나 투표를 모르는 사용자가 발생할겁니다.
 
 때로는, 투표는 필요한 동점자입니다. 그러나 합의가 아닌 당신이 할 수 있는만큼 ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)을 강조합니다.
 
@@ -255,7 +251,7 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_OSS 생성하기_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_OSS 생성하기_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 

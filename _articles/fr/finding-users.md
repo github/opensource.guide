@@ -3,13 +3,6 @@ lang: fr
 title: Trouver des utilisateurs pour votre projet
 description: Aidez votre projet open source à se développer en le mettant entre les mains d'utilisateurs satisfaits.
 class: finding
-toc:
-  passer-le-mot: "Passer le mot"
-  bien-concevoir-votre-message: "Bien concevoir votre message"
-  aidez-les-gens-&agrave;-trouver-et-&agrave;-suivre-votre-projet: "Aidez les gens &agrave; trouver et &agrave; suivre votre projet"
-  allez-l&agrave;-o&ugrave;-se-trouve-le-public-de-votre-projet-en-ligne: "Allez l&agrave; o&ugrave; se trouve le public de votre projet (en ligne)"
-  allez-l&agrave;-o&ugrave;-se-trouve-le-public-de-votre-projet-hors-ligne: "Allez l&agrave; o&ugrave; se trouve le public de votre projet (hors ligne)"
-  construire-une-r&eacute;putation: "Construire une r&eacute;putation"
 order: 3
 image: /assets/images/cards/finding.png
 related:
@@ -78,7 +71,7 @@ Tirez parti des communautés et des plateformes en ligne existantes pour atteind
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   Chaque programme a des fonctions très spécifiques que seule une fraction des utilisateurs trouveront utiles. Ne spammez pas toute les personnes possible. Ciblez plutôt vos efforts sur les communautés qui trouveront un bénéfice a connaître votre projet.
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
@@ -98,7 +91,7 @@ Si personne ne fait attention ou répond à vos premiers contacts, ne vous déco
 
 Les événements hors ligne sont un moyen populaire de promouvoir de nouveaux projets auprès des publics. Ils constituent un excellent moyen d'atteindre un public engagé et de tisser des liens humains plus profonds, en particulier si vous souhaitez toucher les développeurs.
 
-Si vous êtes [nouveau sur la prise de parole en public](http://speaking.io/), commencez par trouver une rencontre locale liée à la langue ou à l'écosystème de votre projet.
+Si vous êtes [nouveau sur la prise de parole en public](https://speaking.io/), commencez par trouver une rencontre locale liée à la langue ou à l'écosystème de votre projet.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
