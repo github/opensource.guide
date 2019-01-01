@@ -3,15 +3,6 @@ lang: pt
 title: Seu código de conduta
 description: Facilite comportamentos saudáveis e construtivos de sua comunidade adotando e reforçando um código de conduta
 class: coc
-<<<<<<< HEAD
-toc:
-  why-do-i-need-a-code-of-conduct: "Por que eu preciso de um código de conduta?"
-  establishing-a-code-of-conduct: "Estabelecendo um código de conduta"
-  deciding-how-youll-enforce-your-code-of-conduct: "Decidindo como você irá aplicar seu código de conduta"
-  enforcing-your-code-of-conduct: "Aplicando seu código de conduta"
-  your-responsibilities-as-a-maintainer: "Suas responsabilidades como mantenedor"
-=======
->>>>>>> 70cd229cd8b85ac5fbb709f9242a3155b7c3d249
 order: 8
 image: /assets/images/cards/coc.png
 related:
