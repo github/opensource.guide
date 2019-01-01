@@ -58,7 +58,7 @@ Encouraging other contributors is an investment in yourself, too. When you empow
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -120,7 +120,7 @@ Do your best to adopt a zero-tolerance policy towards these types of people. If 
   <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
+— @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -136,7 +136,7 @@ In your CONTRIBUTING file, explicitly tell new contributors how to get started. 
 
 ![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first issue"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
+In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"good first issue"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
 
 Finally, use your documentation to make people feel welcome at every step of the way.
 
@@ -152,7 +152,7 @@ For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
   Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sarahsharp, ["What makes a good community?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -254,7 +254,7 @@ If a conversation clearly isn't going anywhere, there are no clear actions to be
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 

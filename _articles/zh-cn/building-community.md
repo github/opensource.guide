@@ -3,10 +3,6 @@ lang: zh-cn
 title: 打造受欢迎的社区
 description: 打造人们愿意使用、贡献、并主动宣传的人气社区。
 class: building
-toc:
-  setting-your-project-up-for-success: "建立成功的项目"
-  growing-your-community: "社区生长"
-  resolving-conflicts: "解决冲突"
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -59,7 +55,7 @@ related:
   你是否参加过一个（技术）活动，你不认识在场的人，但是似乎每个人站在一个小组里像老朋友一样聊天？（。。。）现在想象下你想为一个开源项目做贡献，但是你不知道为什么或者这个是如何发生的。
 
   <p markdown="1" class="pquote-credit">
-— @janl, ["让开源可持续发展"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["让开源可持续发展"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -123,7 +119,7 @@ related:
   事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道IRC的帮助，我不可能做好这些工作。（。。。）不要退而求其次。不要满足于混蛋。
 
   <p markdown="1" class="pquote-credit">
-— @karissa, ["如何运营一个 FOSS 项目"](https://karissa.github.io/post/okf-de)
+— @karissa, ["如何运营一个 FOSS 项目"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -139,7 +135,7 @@ related:
 
 ![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-在issue列表中，缺陷的标签需要做到适合不同类型的贡献者：例如，[_"仅供入门者"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"优质Bug首秀"_, 或者 _"文档"_. [这些标签](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能够帮助新人快速浏览issues以及开始。
+在issue列表中，缺陷的标签需要做到适合不同类型的贡献者：例如，[_"仅供入门者"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"优质Bug首秀"_, 或者 _"文档"_. [这些标签](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能够帮助新人快速浏览issues以及开始。
 
 最后，撰写让人赏心悦目的文档，进一步让人感到愉悦和舒服。
 
@@ -155,7 +151,7 @@ related:
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
   社区的领导者们有着不一样的意见，而这也是所有健康社区能够成长的原因之所在！终究你会明白，粗暴鲁莽的做法不能得到大家的认同，谦虚低调的做法更容易让大家接受，才是王道。
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["是什么成就一个好的社区？"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sarahsharp, ["是什么成就一个好的社区？"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -171,7 +167,7 @@ related:
 
 * 如果社区有了一定的规模，那么 **发送一封信或者发表一篇博客** 感谢贡献者们。Rust的[Rust周报](https://this-week-in-rust.org/)和Hoodie的[Shoutouts](http://hood.ie/blog/shoutouts-week-24.html)就是两个非常好的范例。
 
-* **给每个贡献者提交的通道。**@felixge发现这样会使大家[越发乐意斟酌他们的补丁](http://felixge.de/2013/03/11/the-pull-request-hack.html)，以及他甚至发现，在他没有工作的一段时间，项目依然有新的维护者进来。
+* **给每个贡献者提交的通道。**@felixge发现这样会使大家[越发乐意斟酌他们的补丁](https://felixge.de/2013/03/11/the-pull-request-hack.html)，以及他甚至发现，在他没有工作的一段时间，项目依然有新的维护者进来。
 
 * 如果项目是托管在GitHub上，那么 **将项目从你们的个人账号转移到一个组织**，以及添加至少一个备份管理员。组织能让与其他人一起工作在同一个项目在变得更加容易。
 
@@ -223,7 +219,7 @@ README [不仅仅是一组指令](../starting-a-project/#writing-a-readme)。它
 
 一些项目用投票的方式做重要决定。虽然看上去是明智的，投票强调的是得到一个"答案"，而不是倾听以及解决每个人的顾虑。
 
-投票会变成政治，社区成员在做感兴趣的事或者表决一个明确的方法时会感到压力。不是每个人都参与了投票，可能在你们的社区中[保持沉默的人占了多数](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users)，或者用户不知道投票这件事正在发生。
+投票会变成政治，社区成员在做感兴趣的事或者表决一个明确的方法时会感到压力。不是每个人都参与了投票，可能在你们的社区中[保持沉默的人占了多数](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users)，或者用户不知道投票这件事正在发生。
 
 有时候，投票是必要的手段。尽你们所能强调["寻求共识"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)而不是共识本身。
 
@@ -261,7 +257,7 @@ Atom Issues不存在投票系统的部分原因是因为Atom团队在所有情�
   指导一件事朝着正确的方向发展是一门艺术。它对阻止人们浪费时间或者要求他们发表有建设性的看法没有作用。（。。。）反而，你们必须为接下来的进展给出条件：给大家一个路线，跟随一个可以得到你们想要的结果的途径，这样就不像是些无用的口头行为。
 
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_打造开源软件_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_打造开源软件_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 

@@ -3,14 +3,6 @@ lang: es
 title: Aspectos legales del codigo abierto.
 description: Todo lo que te has preguntado sobre la parte legal de c&oacute;digo abierto.
 class: legal
-toc:
-  por-qu&eacute;-la-gente-se-preocupa-tanto-acerca-de-los-aspectos-legales-del-c&oacute;digo-abierto: "¿Por qu&eacute; la gente se preocupa tanto acerca de los aspectos legales del c&oacute;digo abierto?"
-  son-p&uacute;blicos-los-proyectos-de-c&oacute;digo-abierto-de-github: "¿Son p&uacute;blicos los proyectos de c&oacute;digo abierto de GitHub?"
-  solo-dame-un-resumen-acerca-de-lo-que-necesito-para-proteger-mi-proyecto: "Solo dame un resumen acerca de lo que necesito para proteger mi proyecto"
-  cu&aacute;l-licencia-de-c&oacute;digo-abierto-es-apropiada-para-mi-proyecto: "¿Cu&aacute;l licencia de c&oacute;digo abierto es apropiada para mi proyecto?"
-  y-si-quieres-cambiar-la-licencia-de-tu-proyecto: "Y si quieres cambiar la licencia de tu proyecto"
-  necesita-mi-proyecto-un-acuerdo-adicional-de-colaboradores: "¿Necesita mi proyecto un acuerdo adicional de colaboradores?"
-  qu&eacute;-necesita-saber-el-equipo-legal-de-mi-empresa: "¿Qu&eacute; necesita saber el equipo legal de mi empresa?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -57,7 +49,7 @@ Cuando crees un nuevo proyecto en GitHub, se te [pedir&aacute; que agregues una 
   Una licencia estandarizada sirve como aproximaci&oacute;n para quienes no tengan entrenamiento legal para saber con precisi&oacute;n lo que pueden y lo que no pueden hacer con el software.
 A menos que sea absolutamente necesario, evita t&eacute;rminos personalizados, modificados o no estandarizados, lo cual te servir&aacute; como barrera para el uso posterior de la agencia de c&oacute;digo.
   <p markdown="1" class="pquote-credit">
-— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 
