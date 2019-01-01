@@ -225,8 +225,8 @@ GEM
     public_suffix (2.0.5)
     rake (12.3.2)
     rb-fsevent (0.10.3)
-    rb-inotify (0.9.10)
-      ffi (>= 0.5.0, < 2)
+    rb-inotify (0.10.0)
+      ffi (~> 1.0)
     rouge (2.2.1)
     ruby-enum (0.7.2)
       i18n
