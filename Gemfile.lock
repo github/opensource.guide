@@ -248,7 +248,7 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    unicode-display_width (1.4.0)
+    unicode-display_width (1.4.1)
     yell (2.0.7)
 
 PLATFORMS
