@@ -4,7 +4,6 @@
 .jekyll-metadata
 .ruby-version
 .sass-cache/
-node_modules/
 /vendor
 _site/
 bin
