@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Finding Users for Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+lang: pt
+title: Encontrando Usuários para Seu Projeto
+description: Ajude seu projeto de código aberto a crescer, colocando-o nas mãos de usuários felizes.
 class: finding
 order: 3
 image: /assets/images/cards/finding.png
@@ -10,56 +10,56 @@ related:
   - building
 ---
 
-## Spreading the word
+## Espalhando a palavra
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. Instead of hoping others will find and use your open source project, you have to spread the word about your hard work!
+Não há uma regra que diga que você deve promover um projeto _open source_ quando iniciar. Existem inúmeras razões para trabalhar em um projeto _open source_ que não tem nada a ver com popularidade. Em vez de esperar que os outros encontrem e usem seu projeto _open source_, você pode divulgar o seu trabalho duro!
 
-## Figure out your message
+## Descubra sua mensagem
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+Antes de iniciar realmente o trabalho de promoção de seu projeto, você deve ser capaz de explicar o que ele faz e porque é importante.
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will help you communicate your project's significance.
+O que faz o seu projeto diferente ou interessante? Porque o criou? Responder essas perguntas para você mesmo irá lhe ajudar a comunicar o significado de seu projeto.
 
-Remember that people get involved as users, and eventually become contributors, because your project solves a problem for them. As you think about your project's message and value, try to view them through the lens of what _users and contributors_ might want.
+Lembre-se que as pessoas se involvem como usuários e eventualmente tornam-se contribuidores, porque seu projeto resolveu um problema deles. Ao pensar sobre a mensagem e o valor de seu projeto, tente visualizá-los através da lente do que os _usuários e colaboradores_ podem desejar.
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+Por exemplo, @robb usa exemplos de código para comunicar claramente porque o projeto dele, [Cartography](https://github.com/robb/Cartography), é útil:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+Para um mergulho mais profundo nas mensagens, confira o exercício para desenvolvimento de _personas_ de usuário da Mozilla: ["_Personas and Pathways_"](https://mozillascience.github.io/working-open-workshop/personas_pathways/).
 
-## Help people find and follow your project
+## Ajudando pessoas a encontrar e seguir seu projeto
 
 <aside markdown="1" class="pquote">
-  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+  Você precisa idealmente de uma única URL _"home"_ que possa promover e direcionar as pessoas em relação ao seu projeto. Você não precisa usar um _template_ sofisticado ou até mesmo um nome de domínio, mas seu projeto precisa de um ponto focal.
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+Ajude as pessoas a encontrar e lembrar de seu projeto apontando-as para um único _namespace_.
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. These outlets also give your project's growing community a place to convene.
+**Tenha um canal claro para promover seu trabalho.** Um usuário do Twitter, uma URL do GitHub ou um canal do IRC são jeitos fáceis de direcionar as pessoas para seu projeto. Esses canais também dão à sua crescente comunidade um lugar para se reunir.
 
-If you don't wish to set up outlets for your project yet, promote your own Twitter or GitHub handle in everything you do. Promoting your Twitter or GitHub handle will let people know how to contact you or follow your work. If you speak at a meetup or event, make sure that your contact information is included in your bio or slides. 
+Se você não deseja configurar canais para seu projeto ainda, atualize sua própria conta do Twitter ou do GitHub em qualquer coisa que você fizer. Atualizando seu canais do Twitter ou GitHub irá deixar as pessoas cientes de como contatar ou seguir o seu trabalho. Se você palestrar em um _meetup_ ou evento, certifique-se que suas informações de contato estão incluídas em sua biografia ou _slides_.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  Um erro que cometi no passado (...) foi não criar uma conta do Twitter para o projeto. O Twitter é uma ótima maneira de manter as pessoas atualizadas sobre o projeto, assim como, constantemente expões elas ao projeto.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially when it's paired with clear documentation and tutorials. Having a website also suggests that your project is active which will make your audience feel more comfortable using it. Provide examples to give people ideas for how to use your project.
+**Considere criar um _website_ para seu projeto.** Um _website_ torna seu projeto mais amigável e fácil de navegar, especialmente quando está emparelhando com uma documentação clara e tutoriais. Ter um _website_ também sugere que seu projeto está ativo, o que fará com que o público se sinta mais à vontade para usá-lo. Disponibilize exemplos para dar as pessoas ideias de como usar o seu projeto.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-criador do Django, disse que um _website_ foi _"de longe a melhor coisa que fizemos com Django no início"_.
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+Se seu projeto está hospedado no GitHub, você pode utilizar as [GitHub Pages](https://pages.github.com/) para fácilmente criar um _website_. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), e [Middleman](https://middlemanapp.com/) são [alguns exemplos](https://github.com/showcases/github-pages-examples) de _websites_ excelentes e abrangentes.
 
 ![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
-Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
+Agora que você tem uma mensagem para seu projeto, e uma maneira fácil das pessoa o acharem, vamo lá falar com seu público!
 
 ## Go where your project's audience is (online)
 

@@ -6,8 +6,8 @@ class: best-practices
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
-  - metricas
-  - liderança
+  - metrics
+  - leadership
 ---
 
 ## O que significa ser um mantenedor?
