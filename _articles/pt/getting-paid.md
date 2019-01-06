@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Getting Paid for Open Source Work
-description: Sustain your work in open source by getting financial support for your time or your project.
+lang: pt
+title: Sendo pago por trabalhos Open Source
+description: Mantenha seu trabalho open source conseguindo suporte financeiro por seu tempo ou seu porojeto.
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png
