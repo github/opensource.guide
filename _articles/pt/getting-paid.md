@@ -10,55 +10,55 @@ related:
   - leadership
 ---
 
-## Why some people seek financial support
+## Por que algumas pessoas buscam suporte financeiro
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+Muito do trabalho _open source_ é voluntário. Por exemplo, alguém pode se deparar com um _bug_ em um projeto que utiliza e submeter uma pequena correção, ou gostar de fazer ajustes em um projeto _open source_ durante o tempo livre.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+Eu estive procurando por um projeto de programação por "hobby" e que iria me manter ocupado durante a semana em torno do Natal. (...) Eu tinha um computador em casa, e nada muito além disso em minhas mãos. Eu decidi escrever um interpretador para a nova linguagem de _scripting_ em que estive pensando ultimamente. (...) Eu escolhi Python como um título de trabalho.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
+Há inúmeras razões pelas quais as pessoas não gostariam de ser pagas pelos seus trabalhos _open source_.
 
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+* **Elas já podem possuir um trabalho em horário integral que elas amem,** o que as habilita a contribuir com o _open source_ no seu tempo livre.
+* **Elas gostam de pensar no _open source_ como um hobby** ou escape criativo e não querem se sentir financeiramente obrigadas a trabalhar em seus projetos.
+* **Elas conseguem outros benefícios a partir da contribuição com o _open source_,** como construir uma reputação ou portfolio, aprender uma nova habilidade, ou se sentirem mais próximas da comunidade.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  Doações financeiras trazem um sentimento de responsabilidade, para alguns. (...) É importante para nós, no mundo globalmente conectado e em ritmo acelerado em que vivemos, ser capaz de dizer "agora não, eu tenho a vontade de fazer algo completamente diferente".
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
+Para outros, especialmente quando as contribuições estão em curso ou requerem um tempo significativo, ser pago para contribuir com _open source_ é a única maneira através da qual eles podem participar, seja porque o projeto precisa disso ou por razões pessoais.
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+Manter projetos populares pode ser uma responsabilidade significativa, tomando até 10 ou 20 horas toda semana, ao invés de algumas horas por mês.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  Pergunte a qualquer mantenedor de um projeto _open source_, e eles lhe dirão sobre a real quantidade de trabalho contida na administração de um projeto. Você possui clientes. Você está resolvendo _issues_ para eles. Você está criando novas _features_. Isso se torna uma demanda real por seu tempo.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time. This has ethical implications, as @ashedryden [has described](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), since work that is done is biased in favor of those who already have advantages in life, who then gain additional advantages based on their volunteer contributions, while others who are not able to volunteer then don't get later opportunities, which reinforces the current lack of diversity in the open source community.
+O trabalho pago também permite a pessoas com diferentes contextos e esferas de vida a fazer contribuições significativas. Algumas pessoas não podem gastar tempo "não-pago" em projetos _open source_, baseado em sua posição financeira atual, débito, família ou outras obrigações. Isso significa que o mundo nunca vê contribuições de pessoas talentosas que nao podem voluntariar seu tempo. Isso tem implicações éticas, como @ashedryden [descreveu](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), uma vez que o trabalho que é feito é enviesado em favor daqueles que já possuem vantagens na vida, que então ganham vantagens adicionais baseado em suas contribuições voluntárias, enquanto outros que não podem contribuir não conseguem oportunidades futuras, o que reforça a falta de diversidade na comunidade _open source_.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+   OSS traz enormes benefícios à industria de tecnologia, o que, por sua fez, significa benefícios a todas as indústrias. (...) Todavia, se a únicas pessoas que podem focar nisso são as sortudas e as obcecadas, então existe um grande potencial inexplorado.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+Se você está procurando por suporte financeiro, há dois caminhos a considerar. Você pode financiar o seu próprio tempo como contribuidor, ou pode encontrar um financiamento organizacional para o projeto.
 
 ## Funding your own time
 
