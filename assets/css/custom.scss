@@ -20,11 +20,6 @@ blockquote {
   }
 }
 
-.lead,
-.alt-lead {
-  word-break: keep-all;
-}
-
 .pquote {
   border: $border;
   padding: $spacer-3;
@@ -177,7 +172,6 @@ blockquote {
     font-size: 21px;
     font-weight: $font-weight-light;
     color: $gray;
-    word-break: keep-all;
     @include breakpoint(md) { font-size: 24px; }
     @include breakpoint(lg) { font-size: 26px; }
 
@@ -239,4 +233,12 @@ blockquote {
 
 .little-illo {
   max-height: 50px;
+}
+
+*:lang(ko) {
+  .lead,
+  .alt-lead,
+  h2 + p {
+    word-break: keep-all;
+  }
 }
