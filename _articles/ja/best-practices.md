@@ -48,26 +48,26 @@ related:
 
 ### あなたの期待値をコミュニケーションしよう
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+ルールを書き出すというのは神経をすり減らすこともあります。時折、他の人の行動を取り締まったり、楽しみを殺してしまっていると感じるかもしれません。
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+しかし、適切に明文化され、運用されれば、良いルールはメンテナーの力となります。あなたが望まない事を行うような状況を防いでくれるのです。
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+あなたのプロジェクトを訪れる人の殆どはあなた自身やあなたを取り巻く状況について何も知りません。彼らは、あなたがこのプロジェクトで金銭を得ていると考えるかもしれません。特に彼らがあなたのプロジェクトを定期的に使い、依存している場合はなおさらです。おそらく、プロジェクトに多くの時間を費やしていた時もあったでしょうが、しかし今やあなたは新しい仕事や家族で忙しいのです。
 
-All of this is perfectly okay! Just make sure other people know about it.
+こういったことの全ては全く問題ありません！他の人々があなたの状況について知ることができるようにすればよいのです。
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+プロジェクトを運営するのがパートタイムであったり、完全にボランティアで行っている場合、どのくらいの時間を使えるのか正直になりましょう。これは、プロジェクトが必要とするであろう時間や、他の人があなたに使ってほしいと望む時間とは異なります。
 
-Here are a few rules that are worth writing down:
+下記に、明記しておく価値のある幾つかのルールをまとめます：
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
+* コントリビュートがどのようにしてレビューされ、受け入れられるか（ _テストは必要か？イシューテンプレートを使うべきか？_ ）
+* 受け入れる予定のコントリビュートの種類（ _コードの一部分に関してのみ手助けが必要か？_ ）
+* リマインドをするのはいつが適切か？（ _例えば、「メンテナーが7日以内に返答をします。もしそれを過ぎても返事がない場合は、スレッドで気軽にリマインドして下さい」_ ）
+* あなたがどのくらいの時間をプロジェクトにつかうか（ _例えば、「私達はこのプロジェクトに週5時間しか使いません。」_ ）
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
-
-### Keep communication public
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs)や[CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules)、[Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) は、メンテナーとコントリビューターのための基本ルールを定めたプロジェクトの良い例です。
+ 
+### 公の場でコミュニケーションしよう
 
 Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
 
