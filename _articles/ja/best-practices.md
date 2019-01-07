@@ -77,15 +77,15 @@ related:
 
 ## ノーを言うやり方を学ぼう
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+ここまでで様々なものを明文化してきました。あらゆる人があなたのドキュメントを読んでくれるのが理想ですが、現実はドキュメントが存在することを伝える必要があるでしょう。
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+しかし、あらゆるものをドキュメント化する事は、ルールを遵守してもらう必要があるときに属人性を排除するのに役立ちます。
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+ノーを言うのは楽しいことではありません、しかし _「あなたのコントリビュートはこのプロジェクトの優先事項にはマッチしません。」_ という方が _「あなたのコントリビュートが好きではありません。」_ というよりも個人的でない印象になります。
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+メンテナーとして様々な状況でノーを言う場面があります：プロジェクトのスコープに当てはまらない機能要望、議論を脱線させる人、他人のために不要な作業をすること。
 
-### Keep the conversation friendly
+### 会話を友好的に保ちましょう
 
 One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
 
