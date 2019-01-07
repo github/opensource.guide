@@ -24,29 +24,29 @@ related:
 
 ドキュメントを書くことであなた自身の考えが明確になるだけでなく、他の人があなたが必要としていることや望んでいることを、あなたが尋ねる前に理解する手助けとなります。
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+ドキュメントを書いておくことで、スコープ外のことが起きたときにノーと言いやすくなります。また、人々が援助したり手助けすることもやりやすくなります。誰がドキュメントを読んでいたり、あなたのプロジェクトを使っているのか、知らないでしょう。
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+たとえ完全な文章ではなく、箇条書きにしておくだけでも何も書かないより良いです。
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+ドキュメントを最新の状態に保つよう心がけましょう。もし常に最新を保つことが出来ないのであれば、古くなったドキュメントは削除するか、既に古くなっているということを明示することで、コントリビューターに対してそのドキュメントを更新することが喜ばれることだということを伝えることが出来ます。
 
-### Write down your project's vision
+### プロジェクトのビジョンを書こう
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+プロジェクトのゴールを書く所から始めましょう。それをREADMEに追記するか、VISIONという名前の別のファイルを作りましょう。もし他にも関連するもの、例えばプロジェクトロードマップなど、があればそれも公開しましょう。
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+明確でドキュメント化されたビジョンを持つことで、プロジェクトの焦点を絞り、他の人からのコントリビュートによってプロジェクトが肥大化するのを防ぐ助けとなります。
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+例えば @lord は、プロジェクトビジョンを持つことでどのリクエストに時間を割くべきか判断しやすくなる、ということに気づきました。新しいメンテナーとして、彼は[Slate](https://github.com/lord/slate)への最初の機能要望を受け取ったときに、プロジェクトのスコープを固執しなかったことを後悔していました。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  私はヘマをしたのです。私は完璧な解決策を見つける努力をしませんでした。中途半端な解決策の代わりに、「今は十分な時間がないのですが、長期的なnice-to-haveリストに追加します」といえたら良かったのです。
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
-### Communicate your expectations
+### あなたの期待値をコミュニケーションしよう
 
 Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
 
