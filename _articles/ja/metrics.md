@@ -63,64 +63,64 @@ related:
 
 ![Clone graph](/assets/images/metrics/clone_graph.png)
 
-If usage is low compared to the number of people discovering your project, there are two issues to consider. Either:
+もし、プロジェクトを訪問してくれている人の数に比べて利用率が低いようであれば、考えられる理由は以下の2つのどちらかでしょう:
 
-* Your project isn't successfully converting your audience, or
-* You're attracting the wrong audience
+* 訪問してくれた人にユーザーになってもらうのに失敗している
+* 間違った人々にアピールしている
 
-For example, if your project lands on the front page of Hacker News, you'll probably see a spike in discovery (traffic), but a lower conversion rate, because you're reaching everyone on Hacker News. If your Ruby project is featured at a Ruby conference, however, you're more likely to see a high conversion rate from a targeted audience.
+例えば、あなたのプロジェクトがHacker Newsのトップページに載った場合、トラフィックのスパイクが発生するでしょうが、コンバージョンレートは低下します。Hacker Newsを見ている全員にリーチしてしまうからです。しかし、もしあなたのプロジェクトがRubyを使っていて、Rubyのカンファレンスで取り上げられたのであれば、ターゲットとしている人々にリーチできるのでより高いコンバージョンレートになる可能性が高くなります。
 
-Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you're facing.
+あなたのプロジェクトに興味を持った人がどこから来ているかを把握し、上記の2つの問題が起きていないかプロジェクトページでフィードバックを求めてみましょう。
 
-Once you know that people are using your project, you might want to try to figure out what they are doing with it. Are they building on it by forking your code and adding features? Are they using it for science or business?
+人々があなたのプロジェクトを使っていることがわかったら、どのように使っているかを知りたくなるでしょう。あなたのプロジェクトをフォークして、機能を追加しているのでしょうか？彼らは科学プロジェクトのために使っているのでしょうか、それともビジネスで使っているのでしょうか？
 
-## Retention
+## リテンション
 
-People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to this project?_
+あなたのプロジェクトを見つけて使っている人がいるということがわかりました。あなたが自問するであろう次の疑問はこれでしょう： _人々はプロジェクトにコントリビュートしているだろうか？_
 
-It's never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is _popular_ (many people use it) but not _supported_ (not enough maintainer time to meet demand).
+コントリビューターについて考え始めるのに早すぎる事はありません。あなた以外の人々からの支援なしでは、プロジェクトが有名（沢山の人が使っている）になってもサポートされていない（必要なメンテナー作業を行うことが出来ない）という不健康な状況に陥るリスクがあります。
 
-Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
+活動的だったコントリビューターも最終的には他に写ってしまうため、リテンションには[新しいコントリビューターの流入](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2)も必要です。
 
-Examples of community metrics that you may want to regularly track include:
+下記に定期的にトラッキングした方が良いコミュニティメトリクスの例を挙げます：
 
-* **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Insights" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
+* **コントリビューターのトータルの人数とコントリビューター毎のコミット数:** コントリビューターが何人いるか、そして誰がより活動的か。GitHubでは、"Insights" -> "Contributors"から見ることが出来ます。今現在はこのグラフはリポジトリのデフォルトブランチにコミットをしたコントリビューターのみを計上しています。
 
 ![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
+* **初めてのコントリビューター、一時的なコントリビューター、常連のコントリビューター:** 新しいコントリビューターを獲得できているかどうかや、彼らが再度コントリビュートしてくれているかどうかをトラッキングします。（一時的なコントリビューターとは、コミット数が少ないコントリビューターのことです。それが1コミットだけの人なのか、5コミット以下の人なのかはあなた次第です）。新しいコントリビューターが来ないと、プロジェクトのコミュニティは停滞してしまいます。
 
-* **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
+* **オープンなイシューとオープンなプルリクエストの数:** もしこれらの数値が高すぎるようであれば、イシューのトリアージやコードレビューに手助けが必要かもしれません。
 
-* **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
+* **_オープンされた_イシューと _オープンされた_ プルリクエストの数:** オープンされたイシューの数から、イシューをオープンするほどあなたのプロジェクトを気にかけている人がいるということがわかります。もし時間を経るに従ってその数が増えているのであれば、より多くの人がプロジェクトに興味を持ってくれているということを示しています。
 
-* **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
+* **コントリビュートの種類:** 例えば、コミット、タイポやバグの修正、イシューへのコメントなどです。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+  オープンソースというのはコードだけの話ではありません。成功するオープンソースプロジェクトでは、コードやドキュメントへのコントリビュートに加えて、それらの変更についての議論も行われているものです。
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
 </aside>
 
-## Maintainer activity
+## メンテナーの活動
 
-Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
+最後に、プロジェクトのメンテナーが受け取ったコントリビュートを処理することが出来ているかどうかを確かめましょう。自問すべき最後の質問はこれです： _私は（もしくは私達は）コミュニティに反応しているだろうか？_
 
-Unresponsive maintainers become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave.
+反応のないメンテナーはオープンソースプロジェクトのボトルネックとなります。もし誰かがコントリビュートしようとしても、メンテナーはから返事がなければ彼らはがっかりして去ってしまうでしょう。
 
-[Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
+[Mozillaの調査によると](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)、メンテナーの反応の早さは繰り返しコントリビュートしてもらうための重大な要素です。
 
-Consider tracking how long it takes for you (or another maintainer) to respond to contributions, whether an issue or a pull request. Responding doesn't require taking action. It can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
+イシューに対してでもプルリクエストに対してでも、コントリビュートに対してあなた（もしくは別のメンテナー）が反応するのにかかった時間をトラッキングすることを検討しましょう。反応をするために必ずしもアクションを起こす必要はありません。一言こういうだけでも良いのです： _「提案ありがとうございます！来週確認します。」_
 
-You could also measure the time it takes to move between stages in the contribution process, such as:
+下記のようなコントリビュートのプロセスのステージごとの時間を計測することも出来ます：
 
-* Average time an issue remains open
-* Whether issues get closed by PRs
-* Whether stale issues get closed
-* Average time to merge a pull request
+* イシューがオープンである平均期間
+* イシューがプルリクエストによってクローズされたかどうか
+* 古くなったイシューがクローズされたかどうか
+* プルリクエストをマージするまでの平均期間
 
-## Use 📊 to learn about people
+## 人々について学ぶために📊を使いましょう
 
-Understanding metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
+メトリクスを理解することで、活発で成長するオープンソースプロジェクトを作り上げる助けとなります。たとえ全ての指標をダッシュボードで可視化していなくても、プロジェクトを成功させるために必要な行動の種類に注目するために上述のフレームワークを使いましょう。
