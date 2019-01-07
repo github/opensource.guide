@@ -69,13 +69,13 @@ related:
  
 ### 公の場でコミュニケーションしよう
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+あなたのやり取りをドキュメント化することも忘れないようにしましょう。可能な限りいつでも、プロジェクトについてのコミュニケーションを公にしましょう。機能要望やサポートリクエストについてプライベートにコンタクトしてくる人がいたら、彼らをメーリングリストやイシュートラッカーのようなパブリックなコミュニケーションチャネルに丁寧に誘導しましょう。
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+他のメンテナーと会ったり、プライベートに大きな決断をした場合は、これらの会話を公の場にドキュメント化しましょう。たとえ、メモ書きを投稿するだけだとしても。
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+このようにして、コミュニティに参加した人は何年も所属している人と同じ情報にアクセスできるようになるでしょう。
 
-## Learning to say no
+## ノーを言うやり方を学ぼう
 
 You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
 
