@@ -87,13 +87,13 @@ related:
 
 ### 会話を友好的に保ちましょう
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+ノーということを実践する上で最も重要な場所の一つが、イシューやプルリクエスト上です。プロジェクトのメンテナーとして、必ず受け入れたくない提案を受けることでしょう。
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+そのコントリビュートはプロジェクトのスコープを変更してしまうか、ビジョンにマッチしないのかもしれません。アイデアは良くても、実装が良くないのかもしれません。
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+その理由にかかわらず、あなたのプロジェクトの基準を満たさないコントリビュートをそつなく対処する事は可能です。
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+もし受け入れたくないコントリビュートを受け取った場合は、あなたの最初の反応はそれを無視するか見なかったことにするでしょう。そうすることで、他の人の感情を傷つけ、コミュニティの潜在的なコントリビュータのやる気を削いでしまいます。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
