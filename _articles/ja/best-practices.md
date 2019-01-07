@@ -1,7 +1,7 @@
 ---
 lang: ja
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+title: メンテナーベストプラクティス
+description: プロセスのドキュメント化からコミュニティの活用まで、オープンソースメンテナーとしての日々を楽にしましょう
 class: best-practices
 order: 5
 image: /assets/images/cards/best-practices.png
@@ -10,19 +10,19 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## メンテナーになるということは何を意味するのか？
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+もし多くの人々に使われるオープンソースプロジェクトをメンテナンスしているのであれば、コーディングの時間が減り、イシューへの対応により多くの時間を使っていることでしょう。
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+プロジェクトの初期段階では、あなたがやりたいと思ったことに基づいて新しいアイデアを実験したり、意思決定しているでしょう。プロジェクトが人気を獲得するに従って、ユーザーやコントリビューターと一緒に仕事をする時間が多くなっていくでしょう。
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+プロジェクトを運営するということは、コードを書く以上のものです。そういったタスクは時にはあなたがやりたいと思っているものではないこともありますが、プロジェクトを大きくしていくためには重要なものなのです。この文書では、プロセスをドキュメント化する所からコミュニティの活用まで、あなたの日々を楽にする方法をいくつか集めました。
 
-## Documenting your processes
+## プロセスをドキュメント化しよう
 
-Writing things down is one of the most important things you can do as a maintainer.
+ドキュメント化はメンテナーとして最も大事な仕事の1つです。
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+ドキュメントを書くことであなた自身の考えが明確になるだけでなく、他の人があなたが必要としていることや望んでいることを、あなたが尋ねる前に理解する手助けとなります。
 
 Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
 
