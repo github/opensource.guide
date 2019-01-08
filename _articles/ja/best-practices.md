@@ -103,7 +103,7 @@ related:
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+望ましくないコントリビュートを放置しないようにしましょう。放置すると罪悪感を感じてしまいます。時間が経つにつれて、回答されていないイシューやプルリクエストによって、プロジェクトを進めることがストレスを伴い、恐怖を感じるものになってしまいます。
 
 It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
