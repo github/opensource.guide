@@ -97,7 +97,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  大規模なオープンソースプロジェクトでサポートの対応をする際に大事なのは、イシューを動かし続けることです。イシューを停滞させないようにしましょう。もしあなたがiOS開発者なのであれば、審査に時間がかかることがどれだけイライラするものかわかるでしょう。2年経ってから返事が返ってきて、iOSの最新バージョンでやり直してくれと言われるかもしれないのです。
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
