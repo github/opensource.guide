@@ -1,7 +1,7 @@
 ---
-lang: en
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+lang: pt
+title: Como contribuir para o open source
+description: Quer contribuir para open source? Um guia para fazer contribuições, pela primeira vez e para veteranos.
 class: contribute
 order: 1
 image: /assets/images/cards/contribute.png
@@ -10,35 +10,35 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## Por que contribuir para open source?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  Trabalhar no \[freenode\] me ajudou a obter várias habilidades que mais tarde usei para meus estudos na universidade e no meu atual trabalho. E penso que trabalhar em projetos open source me ajuda tanto quanto ajuda o projeto!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Porque eu amo contribuir para software open source"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+Contribuir para o open source pode ser uma maneira gratificante de aprender, ensinar e construir experiência em praticamente qualquer habilidade que você possa imaginar.
 
-Why do people contribute to open source? Plenty of reasons!
+Por que as pessoas contribuem para o open source? Muitas razões!
 
-### Improve existing skills
+### Melhorar as habilidades existentes
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Seja codificando, desenhando interface do usuário, desenhando gráfico, escrevendo ou organizando, se você está procurando por prática, há uma tarefa para você em um projeto de open source.
 
-### Meet people who are interested in similar things
+### Encontre pessoas que estão interessadas em coisas parecidas
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+Projetos open source com comunidades calorosas e acolhedoras mantêm as pessoas voltando por anos. Muitas pessoas formam amizades duradouras através da participação em código aberto, seja em reuniões em conferências ou conversas online sobre burritos.
 
-### Find mentors and teach others
+### Encontre mentores e ensine outras pessoas
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+Trabalhar com outras pessoas em um projeto compartilhado significa que você terá que explicar como você faz as coisas, além de pedir ajuda a outras pessoas. Os atos de aprendizagem e ensino podem ser uma atividade gratificante para todos os envolvidos.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### Construa artefatos públicos que ajudam você a crescer sua reputação (e uma carreira)
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+Por definição, todo o seu trabalho open source é público, o que significa que você recebe exemplos gratuitos para levar a qualquer lugar como uma demonstração do que você pode fazer.
 
 ### Learn people skills
 
