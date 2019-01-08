@@ -30,7 +30,7 @@ Seja codificando, desenhando interface do usuário, desenhando gráfico, escreve
 
 ### Encontre pessoas que estão interessadas em coisas parecidas
 
-Projetos open source com comunidades calorosas e acolhedoras mantêm as pessoas voltando por anos. Muitas pessoas formam amizades duradouras através da participação em código aberto, seja em reuniões em conferências ou conversas online sobre burritos.
+Projetos open source com comunidades calorosas e acolhedoras mantêm as pessoas voltando por anos. Muitas pessoas formam amizades duradouras através da participação em open source, seja em reuniões em conferências ou conversas online sobre burritos.
 
 ### Encontre mentores e ensine outras pessoas
 
@@ -40,107 +40,107 @@ Trabalhar com outras pessoas em um projeto compartilhado significa que você ter
 
 Por definição, todo o seu trabalho open source é público, o que significa que você recebe exemplos gratuitos para levar a qualquer lugar como uma demonstração do que você pode fazer.
 
-### Learn people skills
+### Aprenda habilidades interpessoais
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+O open source oferece oportunidades para praticar habilidades de liderança e gerenciamento, como resolver conflitos, organizar equipes de pessoas e priorizar o trabalho.
 
-### It's empowering to be able to make changes, even small ones
+### É empoderador poder fazer mudanças, mesmo pequenas
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+Você não precisa se tornar um contribuinte vitalício para participar de um open source. Você já viu um erro de digitação em um site e desejou que alguém o consertasse? Em um projeto de open source, você pode fazer exatamente isso. O open source ajuda as pessoas a sentirem propósito sobre suas vidas e como elas experimentam o mundo, e isso em si é gratificante.
 
-## What it means to contribute
+## O que significa contribuir
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+Se você é um novo colaborador de open source, o processo pode ser intimidador. Como você encontra o projeto certo? E se você não souber codificar? E se algo der errado?
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+Não se preocupe! Há todo tipo de maneiras de se envolver com um projeto de open source, e algumas dicas ajudarão você a aproveitar ao máximo sua experiência.
 
-### You don't have to contribute code
+### Você não precisa contribuir com código
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+Um equívoco comum sobre contribuir para o open source é que você precisa contribuir com código. Na verdade, muitas vezes são as outras partes de um projeto que são [mais negligenciadas ou esquecida] (https://github.com/blog/2195-the-shape-of-open-source). Você fará um grande favor ao projeto, oferecendo-se para contribuir com esses tipos de contribuições!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+  Fui elogiada pelo meu trabalho no CocoaPods, mas a maioria das pessoas não sabe que eu realmente não faço nenhum trabalho real na própria ferramenta CocoaPods. Meu tempo no projeto é principalmente gasto fazendo coisas como documentação e trabalhando na marca.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Mudando para o OSS por padrão"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+Mesmo se você gosta de escrever código, outros tipos de contribuições são uma ótima maneira de se envolver com um projeto e conhecer outros membros da comunidade. Construir esses relacionamentos lhe dará oportunidades de trabalhar em outras partes do projeto.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+  Eu entrei em contato com a equipe de desenvolvimento do Python (também conhecida como python-dev) quando enviei um email para a lista de discussão em 17 de junho de 2002 sobre a aceitação do meu patch. Eu rapidamente peguei o bug de open source e decidi começar a curar os resumos de e-mail para o grupo. Eles me deram uma ótima desculpa para pedir esclarecimentos sobre um tópico, mas, mais criticamente, pude perceber quando alguém apontou algo que precisava ser consertado.
   <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
+— @brettcannon, ["Histórias de mantenedores"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
-### Do you like planning events?
+### Você gosta de planejar eventos?
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* Organize workshops ou encontros sobre o projeto, [como @fzamperin fez para NodeSchool](https://github.com/nodeschool/organizers/issues/406)
+* Organize a conferência do projeto (se eles tiverem um)
+* Ajude os membros da comunida a encontrar as conferências apropriadas e a submeter proposta para apresentar.
 
-### Do you like to design?
+### Você gosta de design?
 
-* Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Put together a style guide to help the project have a consistent visual design
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+* Reestruture layout para melhorar a usabilidade do(s) projeto(s)
+* Realize pesquisas de usuário para reorganizar e refinar a navegação ou menu do projeto, [como sugere Drupal](https://www.drupal.org/community-initiatives/drupal-core/usability)
+* Coloque junto um guia de estilo para ajudar o projeto a ter um design visual consistente
+* Crie arte para camisetas ou um novo logotipo,[como contribuidores do hapi.js's fizeram](https://github.com/hapijs/contrib/issues/68)
 
-### Do you like to write?
+### Você gosta de escrever?
 
-* Write and improve the project's documentation
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Write a translation for the project's documentation
+* Escreva e melhore a documentação do projeto
+* Organize uma pasta de exemplos mostrando como o projeto é usado
+* Inicie uma newsletter para o projeto ou selecione resumos da lista de discussão
+* Escreva tutoriais para o projeto, [como os crontribuidore do PyPA's fizeram](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Escreva uma tradução para a documentação do projeto
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  Sério, \ [documentação \] é mega importante. A documentação até agora tem sido ótima e tem sido uma característica destruidora de Babel. Há seções que certamente poderiam ser trabalhada e até mesmo a adição de um parágrafo aqui ou ali é extremamente apreciada.
   <p markdown="1" class="pquote-credit">
-— @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
+— @kittens, ["Chamada para contribuidores"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
-### Do you like organizing?
+### Você gosta de organizar?
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* Links para issues duplicadas, e sugestão de labels para novas issues, para manter as coisas organizadas
+* Passar por issues abertos e sugerir o fechamento de antigos, [como @nzakas fez para o ESLint](https://github.com/eslint/eslint/issues/6765)
+* Faça perguntas de esclarecimento sobre questões abertas recentemente, para dar continuidade a discussão.
 
-### Do you like to code?
+### Você gosta de codificar?
 
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* Encontre um problema em aberto para resolver, [como @dianjin fez em Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* Pergunte se você pode ajudar a codificar uma nova função
+* Automatize a configuração do projeto
+* Melhore as ferramentas e os testes
 
-### Do you like helping people?
+### Você gosta de ajudar as pessoas?
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+* Responda a perguntas sobre o projeto, por exemplo no Stack Overflow ([como este exemplo do Postgres](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) ou Reddit
+* Responda as pessoas, em questões que ainda estão abertas
+* Ajude a moderar os painéis de discussão ou os canais de comunicação.
 
-### Do you like helping others code?
+### Você gosta de ajudar os outros a codificar?
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* Revise o código submetido por outras pessoas
+* Escreva tutoriais sobre como um projeto pode ser usado
+* Se ofereça para orientar outro colaborador,[como @ereichert fez com @bronzdoc em Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### Você não precisa apenas trabalhar em projetos de software!
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+Embora o "open source" geralmente se refira ao software, você pode colaborar em praticamente qualquer coisa. Existem livros, receitas, listas e classes que são desenvolvidos como projetos de open source.
 
-For example:
+Por exemplo:
 
-* @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
-* @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
+* @sindresorhus curates a [lista de listas "impressionantes"](https://github.com/sindresorhus/awesome)
+* @h5bp maintains a [lista de possíveis perguntas de entrevista](https://github.com/h5bp/Front-end-Developer-Interview-Questions) para candidatos a desenvolvedor front-end
+* @stuartlynn and @nicole-a-tesla made a [coleção de curiosidades sobre papagaios-do-mar](https://github.com/stuartlynn/puffin_facts)
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
+Mesmo se você for um desenvolvedor de software, trabalhar na documentação de um projeto pode ajudá-lo a começar no open source. Geralmente, é menos intimidador trabalhar em projetos que não envolvam código, e o processo de colaboração aumentará sua confiança e experiência.
 
 ## Orienting yourself to a new project
 
