@@ -109,24 +109,25 @@ related:
 
 また、コントリビュートを無視することはコミュニティに悪い影響を与えます。プロジェクトにコントリビュートすることは大変な作業です。特に初めてのコントリビュートであればなおさらです。たとえ、そのコントリビュートを受け入れないとしても、その人に対して受け入れない旨と感謝の気持ちを伝えましょう。それによって敬意を表すことが出来ます。
 
-If you don't want to accept a contribution:
+もし、コントリビュートを受け入れたくないのであれば：
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
+* 彼らのコントリビュートに**感謝しましょう**
+* なぜプロジェクトのスコープに**マッチしないか説明しましょう**。そして、可能であれば、明確な改善提案をしましょう。親切に、しかし確固たる態度で行いましょう。
+* もしあるのであれば、**関連するドキュメントにリンクしましょう**。もし受け入れたくない内容が繰り返し提案されるようであれば、ドキュメントにその旨を追記して繰り返しの作業をなくしましょう。
+* **リクエストをクローズしましょう**。
 
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+1,2文以上の返答は不要です。例えば、[celery](https://github.com/celery/celery/)のユーザーがWindows関連のエラーを報告してきたときに、@berkerpeksag は[このように返答しました](https://github.com/celery/celery/issues/3383)
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+ノーというのが恐ろしいと感じるのはあなただけではありません。@jessfraz も[こう書いています](https://blog.jessfraz.com/post/the-art-of-closing/)：
 
-> I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+> 私はこれまでMesosやKubernetes、Chromiumといったオープンソースプロジェクトのメンテナーと話をしてきました。そして、彼ら全員が同意した事は、メンテナーとして最も難しいことの1つは、受け入れたくないパッチに対して「ノー」を言うことだ、という点です。
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+コントリビュートを受け入れたくないと思うことを罪に感じる必要はありません。オープンソースの第一のルールは、
+Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, @shykes [によると](https://twitter.com/solomonstre/status/715277134978113536)： _「ノーというのは一時的なものだが、イエスと言うと永遠に影響がある」_ 。他の人の熱意に共感するのは良いことですが、コントリビュートを拒否することはその人自身を拒否することとは異なります。
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+残念ながらコントリビュートがあまり良くないものであれば、あなたにそれを受け入れる義務はありません。人々がプロジェクトにコントリビュートしてくれたときには親切に、またきちんと返事をするようにしましょう。しかし、本当にプロジェクトのためになるとあなたが思う変更のみを受け入れましょう。ノーという事を頻繁に言えば言うほど、それは簡単になっていきます。約束します。
 
 ### Be proactive
 
