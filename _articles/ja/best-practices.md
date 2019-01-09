@@ -105,9 +105,9 @@ related:
 
 望ましくないコントリビュートを放置しないようにしましょう。放置すると罪悪感を感じてしまいます。時間が経つにつれて、回答されていないイシューやプルリクエストによって、プロジェクトを進めることがストレスを伴い、恐怖を感じるものになってしまいます。
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+受け入れるつもりのないコントリビュートはすぐに閉じてしまうのが良いです。もし既に巨大なバックログで困っているのであれば、 @steveklabnik の [イシューを効率的にトリアージする方法](http://words.steveklabnik.com/how-to-be-an-open-source-gardener) が役に立つでしょう。
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+また、コントリビュートを無視することはコミュニティに悪い影響を与えます。プロジェクトにコントリビュートすることは大変な作業です。特に初めてのコントリビュートであればなおさらです。たとえ、そのコントリビュートを受け入れないとしても、その人に対して受け入れない旨と感謝の気持ちを伝えましょう。それによって敬意を表すことが出来ます。
 
 If you don't want to accept a contribution:
 
