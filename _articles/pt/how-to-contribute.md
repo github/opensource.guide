@@ -99,7 +99,7 @@ Mesmo se você gosta de escrever código, outros tipos de contribuições são u
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  Sério, \ [documentação \] é mega importante. A documentação até agora tem sido ótima e tem sido uma característica destruidora de Babel. Há seções que certamente poderiam ser trabalhada e até mesmo a adição de um parágrafo aqui ou ali é extremamente apreciada.
+  Sério, \[documentação \] é mega importante. A documentação até agora tem sido ótima e tem sido uma característica destruidora de Babel. Há seções que certamente poderiam ser trabalhada e até mesmo a adição de um parágrafo aqui ou ali é extremamente apreciada.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Chamada para contribuidores"](https://github.com/babel/babel/issues/1347)
   </p>
@@ -142,72 +142,72 @@ Por exemplo:
 
 Mesmo se você for um desenvolvedor de software, trabalhar na documentação de um projeto pode ajudá-lo a começar no open source. Geralmente, é menos intimidador trabalhar em projetos que não envolvam código, e o processo de colaboração aumentará sua confiança e experiência.
 
-## Orienting yourself to a new project
+## Se orientando para um novo projeto
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-  If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+  Se você for a uma lista de issues e as coisas parecerem confusas, não é só você. Essas ferramentas exigem muito conhecimento implícito, mas as pessoas podem ajudá-lo a navegar e você pode fazer perguntas.
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["Como contribuir para o open source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
-For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
+Para qualquer outra coisa a mais do que um erro de digitação, contribuir para o open source é como caminhar até um grupo de estranhos em uma festa. Se você começar a falar sobre lhamas, enquanto eles estavam mergulhados em uma discussão sobre peixinhos dourados, eles provavelmente olharão para você um pouco estranhamente.
 
-Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
+Antes de pular cegamente com suas próprias sugestões, comece aprendendo a ler a sala. Isso aumenta as chances de que suas ideias sejam notadas e ouvidas.
 
-### Anatomy of an open source project
+### Anatomia de um projeto de open source
 
-Every open source community is different.
+Toda comunidade de open source é diferente.
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+Passar anos em um projeto de open source significa que você conheceu um projeto de open source. Mude para um projeto diferente, e você pode achar que o vocabulário, as normas e os estilos de comunicação são completamente diferentes.
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+Dito isso, muitos projetos de open source seguem uma estrutura organizacional similar. Entender os diferentes papéis da comunidade e o processo geral, ajudará você a se orientar rapidamente em qualquer novo projeto.
 
-A typical open source project has the following types of people:
+Um típico projeto open source tem os seguintes tipos de pessoas:
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project.
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
+* **Autor:** A pessoa ou organização que criou o projeto
+* **Proprietário:** Pessoa (s) que tem propriedade administrativa sobre a organização ou repositório (nem sempre é o autor original)
+* **Mantenedores:** Colaboradores que são responsáveis por conduzir a visão e gerenciar os aspectos organizacionais do projeto. (Eles também podem ser autores ou proprietários do projeto.)
+* **Colaboradores:** Todos que contribuíram com algo para o projeto.
+* **Membros da comunidade:** Pessoas que usam o projeto. Eles podem estar ativos em conversas ou expressar sua opinião sobre a direção do projeto.
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+Projetos maiores também podem ter subcomitês ou grupos de trabalho focados em tarefas diferentes, como ferramentas, triagem, moderação da comunidade e organização de eventos. Procure no site do projeto uma página "equipe" ou no repositório procure por governança, para encontrar essas informações.
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+Um projeto também possui documentação. Esses arquivos são geralmente listados no nível superior de um repositório.
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
-* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+* **LICENSE:** Por definição, todo projeto de open source deve ter uma [licença open source] (https://choosealicense.com). Se o projeto não tiver uma licença, não é de open source.
+* **README:** O README é o manual de instruções que dá as boas-vindas aos novos membros da comunidade para o projeto. Isso explica por que o projeto é útil e como começar.
+* **CONTRIBUTING:** Enquanto os READMEs ajudam as pessoas a _usar_ o projeto, os documentos contribuintes ajudam as pessoas a _contribuir_ para o projeto. Ele explica quais tipos de contribuições são necessários e como o processo funciona. Embora nem todo projeto tenha um arquivo CONTRIBUTING, sua presença sinaliza que este é um projeto de boas-vindas para contribuir.
+* **CODE_OF_CONDUCT:** O código de conduta estabelece regras básicas para o comportamento dos participantes e ajuda a facilitar um ambiente amigável e acolhedor. Embora nem todo projeto tenha um arquivo CODE_OF_CONDUCT, sua presença indica que este é um projeto de boas-vindas para contribuir.
+* **Other documentation:** Pode haver documentação adicional, como tutoriais, instruções passo a passo ou políticas de controle, especialmente em projetos maiores.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+Por fim, os projetos de open source usam as seguintes ferramentas para organizar a discussão. Ao ler os arquivos, você terá uma boa ideia de como a comunidade pensa e trabalha.
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+* **Issue tracker:** Onde as pessoas discutem questões relacionadas ao projeto.
+* **Pull requests:** onde as pessoas discutem e revisam as alterações que estão em andamento.
+* **Fóruns de discussão ou listas de discussão:** Alguns projetos usam esses canais para tópicos de conversação (por exemplo, _"Como faço para ..."_ ou _"O que você acha sobre ..."_ em vez de relatórios de bugs ou solicitações de recursos). Outros usam o issue tracker para todas as conversas.
+* **Canais de bate-papo:** Alguns projetos usam canais de bate-papo (como o Slack ou o IRC) para conversas casuais, colaboração e trocas rápidas.
 
-## Finding a project to contribute to
+## Encontrando um projeto para contribuir
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+Agora que você descobriu como os projetos de open source funcionam, é hora de encontrar um projeto para contribuir!
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
+Se você nunca contribuiu para o open source antes, siga alguns conselhos do presidente dos EUA John F. Kennedy, que uma vez disse: _"Não pergunte o que seu país pode fazer por você - pergunte o que você pode fazer pelo seu país."_
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+Contribuir para o open source acontece em todos os níveis, nos projetos. Você não precisa pensar sobre o que exatamente será sua primeira contribuição ou como será sua aparência.
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+Em vez disso, comece pensando nos projetos que você já usa ou deseja usar. Os projetos para os quais você contribuirá ativamente são aqueles para os quais você voltará.
 
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+Dentro desses projetos, sempre que você se perceber pensando que algo poderia ser melhor ou diferente, aja de acordo com seu instinto.
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+O open source não é um clube exclusivo; é feito por pessoas como você. "Open source" é apenas um termo chique para tratar os problemas do mundo como consertáveis.
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+Você pode ler um README e encontrar um link quebrado ou um erro de digitação. Ou você é um novo usuário e percebeu que algo está quebrado ou um problema que você acha que deveria estar na documentação. Em vez de ignorá-lo e seguir em frente, ou pedir a alguém para consertá-lo, veja se você pode ajudar. É disso que se trata o open source!
 
-> [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> [28% das contribuições casuais](https://www.igor.pro.br/publica/papers/saner2016.pdf) para open source são de documentação, como uma correção de erro de digitação, reformatação ou escrita de tradução.
 
-You can also use one of the following resources to help you discover and contribute to new projects:
+Você também pode usar um dos seguintes recursos para ajudá-lo a descobrir e contribuir para novos projetos:
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
@@ -218,157 +218,157 @@ You can also use one of the following resources to help you discover and contrib
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
-### A checklist before you contribute
+### Uma lista de verificação antes de você contribuir
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+Quando você encontrar um projeto para o qual gostaria de contribuir, faça uma verificação rápida para garantir que o projeto seja adequado para aceitar contribuições. Caso contrário, seu trabalho duro poderá nunca obter uma resposta.
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+Aqui está uma lista de verificação útil para avaliar se um projeto é bom para novos colaboradores.
 
-**Meets the definition of open source**
+**Atende a definição de código aberto**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+  Tem licença? Geralmente, este é um arquivo chamado LICENSE na raiz do repositório.
   </label>
 </div>
 
 **Project actively accepts contributions**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+Veja a atividade de commit no branch master. No GitHub, você pode ver essas informações na página inicial de um repositório.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
+  Quando foi o último commit?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
+  Quantos colaboradores tem o projeto?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+  Quantas vezes as pessoas submetem? (No GitHub, você pode encontrar isso clicando em "Commits" na barra superior.)
   </label>
 </div>
 
-Next, look at the project's issues.
+Em seguida, examine as issues do projeto.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+    Quantas issues abertas existem?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
+    Os mantenedores respondem rapidamente os issues quando são abertos?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+    Existe discussão ativa sobre as issues?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+    Há issues recentes?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+    As issues estão sendo fechadas? (No GitHub, clique na guia "closed" na página "Issues" para ver as issues fechadas.)
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+Agora faça o mesmo para os pedidos de pull requests do projeto.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+    Quantos pull requests abertos existem?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+    Os mantenedores respondem rapidamente o pull request quando eles são abertos?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+    Há discussão ativa sobre os pull requests?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+    Os pull requests são recentes?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+    Em quanto tempo o pull request foram aceito e incluido? (No GitHub, clique na guia "closed" na página Pull Requests para ver os PRs fechados.)
   </label>
 </div>
 
-**Project is welcoming**
+**Projeto é acolhedor**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+Um projeto que é amigavel e acolhedor indica que eles serão receptivos a novos colaboradores.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
+    Os mantenedores respondem de maneira útil às questões nas issues?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
+    As pessoas são amigáveis nas issues, no fórum de discussão e no chat (por exemplo, IRC ou Slack)?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
+    Os pull requests são revisados?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
+    Os mantenedores agradecem as pessoas pelas contribuições?
   </label>
 </div>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+  Sempre que você vir um longo tópico, verifique as respostas dos principais desenvolvedores no final do tópico. Eles estão resumindo construtivamente, e tomando providências para levar a discussão a uma decisão de forma educada? Se você ver um monte de guerras acontecendo, isso freqüentemente é um sinal de que esta sendo gasto energia em discussões em vez de desenvolvimento.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Produzindo OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
