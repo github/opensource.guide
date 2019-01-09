@@ -129,38 +129,38 @@ Don't feel guilty about not wanting to accept someone's contribution. The first 
 
 残念ながらコントリビュートがあまり良くないものであれば、あなたにそれを受け入れる義務はありません。人々がプロジェクトにコントリビュートしてくれたときには親切に、またきちんと返事をするようにしましょう。しかし、本当にプロジェクトのためになるとあなたが思う変更のみを受け入れましょう。ノーという事を頻繁に言えば言うほど、それは簡単になっていきます。約束します。
 
-### Be proactive
+### 先回りしよう
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+まず第一に望ましくないコントリビュートの量を減らすには、コントリビュートガイドでコントリビュートの提案のプロセスとコントリビュートを受け入れるプロセスを説明しましょう。
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+もし品質の低いコントリビュートを多く受け取るようであれば、コントリビュータに事前に確認してもらうよう要求しましょう。例えば：
 
-* Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+* イシューやプルリクエストのテンプレート/チェックリストを埋めてもらう
+* プルリクエストを提出する前にイシューを開いてもらう
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+もしあなたのルールに従わない人がいたら、即座にイシューを閉じてドキュメントを共有しましょう。
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+はじめはこのやり方は親切ではないと感じるかもしれませんが、先回りしておくことは両者にとって良いことなのです。コントリビュートする人にとっては、受け入れられる見込みのないプルリクエストの何時間も費やす可能性が減ります。そして、あなた自身の作業量もやりくりしやすくなります。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+  コントリビュータに対してCONTRIBUTING.mdファイルでどういった変更は受け入れられるのかを、作業を開始する前に知ることができるようになっているのが理想的です。
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+時には、ノーということで、コントリビュータががっかりしたり、あなたの決定を批判するかもしれません。もし、彼らが敵対的な行動を取るようであれば、状況を[沈静化するために行動を起こす](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items)か、生産的にコラボレーションできないようであればコミュニティから抜けてもらいましょう。
 
-### Embrace mentorship
+### メンターになろう
 
-Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
+プロジェクトの基準に満たないコントリビュートを定期的に提出する人がいるかもしれません。何度も拒否されるのはお互いにとってイライラするものです。
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first issue,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
+もしその人がプロジェクトに対して情熱があるように感じるけれども、上達が必要な場合は、辛抱強くなりましょう。プロジェクトの期待する水準になぜ満たないのかを明確に説明しましょう。より簡単な、もしくはより明確なタスクを紹介しましょう。例えば、手始めに取り掛かるのにちょうど良いイシューに _"good first issue,"_ ラベルを付けるといったことです。もし時間があるのであれば、初めてのコントリビュートを通じて彼らのメンターとなることも検討しましょう。もしくは、コミュニティの中で喜んでメンターとなってくれそうな人を探しましょう。
 
-## Leverage your community
+## コミュニティを活用しよう
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+あらゆる事を一人で行う必要はありません。あなたのプロジェクトのコミュニティはそのためにいるのですから！たとえ現時点ではまだ活発なコントリビュータコミュニティを持っていないとしても、たくさんのユーザーがいるのであれば、彼らに仕事をしてもらいましょう。
 
 ### Share the workload
 
