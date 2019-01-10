@@ -180,7 +180,7 @@ Um projeto também possui documentação. Esses arquivos são geralmente listado
 * **README:** O README é o manual de instruções que dá as boas-vindas aos novos membros da comunidade para o projeto. Isso explica por que o projeto é útil e como começar.
 * **CONTRIBUTING:** Enquanto os READMEs ajudam as pessoas a _usar_ o projeto, os documentos contribuintes ajudam as pessoas a _contribuir_ para o projeto. Ele explica quais tipos de contribuições são necessários e como o processo funciona. Embora nem todo projeto tenha um arquivo CONTRIBUTING, sua presença sinaliza que este é um projeto de boas-vindas para contribuir.
 * **CODE_OF_CONDUCT:** O código de conduta estabelece regras básicas para o comportamento dos participantes e ajuda a facilitar um ambiente amigável e acolhedor. Embora nem todo projeto tenha um arquivo CODE_OF_CONDUCT, sua presença indica que este é um projeto de boas-vindas para contribuir.
-* **Other documentation:** Pode haver documentação adicional, como tutoriais, instruções passo a passo ou políticas de controle, especialmente em projetos maiores.
+* **Outros documentos:** Pode haver documentação adicional, como tutoriais, instruções passo a passo ou políticas de controle, especialmente em projetos maiores.
 
 Por fim, os projetos de open source usam as seguintes ferramentas para organizar a discussão. Ao ler os arquivos, você terá uma boa ideia de como a comunidade pensa e trabalha.
 
@@ -224,7 +224,7 @@ Quando você encontrar um projeto para o qual gostaria de contribuir, faça uma 
 
 Aqui está uma lista de verificação útil para avaliar se um projeto é bom para novos colaboradores.
 
-**Atende a definição de código aberto**
+**Atende a definição de open source**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -372,117 +372,117 @@ Um projeto que é amigavel e acolhedor indica que eles serão receptivos a novos
   </p>
 </aside>
 
-## How to submit a contribution
+## Como enviar uma contribuição
 
-You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
+Você encontrou um projeto que gosta e está pronto para fazer uma contribuição. Finalmente! Veja como realizar sua contribuição de forma correta.
 
-### Communicating effectively
+### Se comunicando de forma eficaz
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+Seja você um colaborador ocasional ou esteja tentando entrar em uma comunidade, trabalhar com outras pessoas é uma das habilidades mais importantes que você desenvolverá em open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+    \[Sendo um colaborador iniciante,\] eu rapidamente percebi que tinha que fazer perguntas se quisesse fechar a issue. Eu analizei o código. Assim que percebi o que estava acontecendo, pedi mais orientações. E voilà! Consegui resolver a issue depois de obter todos os detalhes relevantes de que precisava.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [Um colaborador iniciante e sua jornada atraves do mundo open source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
 </aside>
 
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+Antes de abrir uma issue, pull request ou fazer uma pergunta no bate-papo, ter os pontos a seguir em mente, irá ajudar a transmitir sua ideia de maneira eficaz.
 
-**Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
+**Contextualize** Ajude os outros a entenderem rapidamente, se você esta patinando em um erro, explique o que esta você esta tentando fazer e como reproduzir este erro. Se você esta sugerindo um nova ideia, explique por que você acha que seria util para o projeto (não apenas para você).
 
-> 😇 _"X doesn't happen when I do Y"_
+> 😇 _"Não acontece X quando eu faço Y"_
 >
-> 😢 _"X is broken! Please fix it."_
+> 😢 _"X esta quebrado! Por favor conserte isto."_
 
-**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**Faça a lição de casa de antecipadamente.** Não há problema em não saber as coisas, mas mostre que você tentou. Antes de pedir ajuda, verifique o README de um projeto, a documentação, as issues (abertas ou fechadas), a lista de e-mail e procure na internet por uma resposta. As pessoas vão gostar quando você demonstrar que está tentando aprender.
 
-> 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
+> 😇 _"Não sei como implementar o X. Verifiquei os documentos de ajuda e não encontrei nada mencionando."_
 >
-> 😢 _"How do I X?"_
+> 😢 _"Como eu faço X?"_
 
-**Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
+**Mantenha-se conciso e direto.** Assim como enviar um e-mail, todas as contribuições, por mais simples ou útil, exigem a análise de outra pessoa. Muitos projetos têm mais solicitações recebidas do que pessoas disponíveis para ajudar. Seja conciso. Você aumentará a chance de que alguém possa ajudá-lo.
 
-> 😇 _"I'd like to write an API tutorial."_
+> 😇 _"Eu gostaria de escrever um tutorial da API"_
 >
-> 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
+> 😢 _"Eu estava dirigindo pela estrada no outro dia e parei para o abastecer, e então eu tive essa ideia incrível para algo que deveríamos fazer, mas antes de explicar isso, deixe-me mostrar-lhe ..."_
 
-**Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
+**Mantenha toda a comunicação publica** Embora seja tentador, não procure mantenedores de forma privada, a menos que você precise compartilhar informações confidenciais (como um problema de segurança ou violação grave de conduta). Quando você mantém a conversa pública, mais pessoas podem aprender e se beneficiar com a sua troca. As discussões podem ser, em si mesmas, contribuições.
 
-> 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
+> 😇 _(um comentário) "@-maintainer Olá! Como devemos proceder neste PR?"_
 >
-> 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
+> 😢 _(um email) "Ei, desculpe incomodá-lo por e-mail, mas eu queria saber se você teve a chance de rever o meu PR"_
 
-**It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
+**Não há problema em fazer perguntas (mas seja paciente!).** Todo mundo foi novo no projeto em algum momento, e até colaboradores experientes precisam se atualizar quando olham para um novo projeto. Da mesma forma mantenedores de longa data nem sempre estão familiarizados com todas as partes do projeto. Mostre a mesma paciência que você gostaria que eles tivessem com você.
 
-> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
+> 😇 _"Obrigado por pegar este erro. Eu segui sua sugestão. Aqui esta a saída."_
 >
-> 😢 _"Why can't you fix my problem? Isn't this your project?"_
+> 😢 _"Porque você não pode resolver meu problema? Este projeto não é seu?"_
 
-**Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+**Respeite a decisão da comunidade.** Suas ideias podem ser diferentes das prioridades ou visão da comunidade. Eles podem oferecer feedback ou decidir não seguir sua ideia. Enquanto você deve discutir e procurar uma solução, os mantenedores têm que viver com sua decisão por mais tempo do que você. Se você não concordar com a decisão deles, você pode sempre trabalhar em sua própria cópia do projeto ou iniciar seu próprio projeto.
 
-> 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
+> 😇 _"Estou desapontado por não poder apoiar o meu caso de uso, mas como você explicou, isso afeta apenas uma pequena parte dos usuários, eu entendo o porquê. Obrigado por ouvir."_
 >
-> 😢 _"Why won't you support my use case? This is unacceptable!"_
+> 😢 _"Porque você não dá suporte ao meu caso de uso? Isto é inaceitavel!"_
 
-**Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
+**Acima de tudo, mantenha a classe.** Open source é composta por colaboradores de todo o mundo. O contexto se perde em idiomas, culturas, regiões geográficas e fusos horários. Além disso, a comunicação escrita torna mais difícil transmitir um tom ou humor. Assuma boas intenções nessas conversas. É bom  de forma educada se desfazer de uma ideia e pedir mais contexto ou esclarecer melhor sua posição. Apenas tente deixar a internet em um lugar melhor do que quando você a encontrou.
 
-### Gathering context
+### Capture o contexto
 
-Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+Antes de fazer qualquer coisa, faça uma verificação rápida para garantir que sua ideia não tenha sido discutida em outro lugar. Explore o README do projeto, os problemas (abertos e fechados), a lista de e-mails e o Stack Overflow. Você não tem que gastar horas passando por tudo, mas uma busca rápida por alguns termos-chave pode ter uma boa visão.
 
-If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by opening an issue or pull request:
+Se você não encontrar sua ideia em outro lugar, você está pronto para fazer uma contribuição. Se o projeto estiver no GitHub, você provavelmente se comunicará abrindo uma issue ou pull request:
 
-* **Issues** are like starting a conversation or discussion
-* **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
+* **Issues** são como inicio de uma conversão ou discussão
+* **Pull requests** são para inicio dos trabalhos em uma solução
+* **For lightweight communication,** para esclarecimentos ou questões de como fazer, tente perguntar no Stack Overflow, IRC, Slack, ou outro canal de comunicação, se o projeto tiver.
 
-Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
+Antes de abrir uma issue ou pull request, verifique os documentos de contribuição do projeto (geralmente um arquivo chamado CONTRIBUTING ou no README), para ver se é necessário incluir algo específico. Por exemplo, eles podem pedir que você siga um modelo ou exija que você use testes.
 
-If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+Se você quiser fazer uma contribuição substancial, abra uma issue para perguntar antes de trabalhar nela. É útil olhar o projeto por um tempo (no GitHub, [você pode clicar em "Watch"](https://help.github.com/articles/watching-repositories/) para ser notificado de todas as conversas) e conhecer os membros da comunidade, antes de realizar trabalhos que possam não ser aceitos.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
-  You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+  Você aprenderá <em>muito</em> se analizando projeto que você usa ativamente, "watching" no GitHub e lendo as issues e PR.
 <p markdown="1" class="pquote-credit">
-— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+— @gaearon [em unindo se a um projeto](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
-### Opening an issue
+### Abrindo uma issue
 
-You should usually open an issue in the following situations:
+Você deve normalmente abrir uma issue nas seguintes situações:
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
+* Reportar um erro que você não pode resolver por conta própria.
+* Discutir um tópico de alto nível ou ideia (por exemplo, comunidade, visão ou politicas)
+* Propor uma nova função ou outro ideia do projeto.
 
-Tips for communicating on issues:
+Dicas para se comunicar sobre problemas:
 
-* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
-* **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-* **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+* **Se você vir uma issue aberta que deseja resolver,** comente na issue para que as pessoas saibam que você está interessado nela. Dessa forma, as pessoas são menos propensas a duplicar seu trabalho.
+* **Se um problema foi aberto há algum tempo,** É possível que ele esteja sendo direcionada a algum outro lugar ou já tenha sido resolvido, por isso, comente para pedir confirmação antes de iniciar o trabalho.
+* **Se você abriu um problema, mas descobriu a resposta mais tarde,** comente na issue para que as pessoas saibam, então feche a issue. Mesmo este registro serve como documetação para o projeto.
 
-### Opening a pull request
+### Abrindo um pull request
 
-You should usually open a pull request in the following situations:
+Você deve normalmente abrir uma pull request nas seguintes situações:
 
-* Submit trivial fixes (for example, a typo, a broken link or an obvious error)
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+* Envio de correções triviais (por exemplo, um erro de digitação, um link quebrado ou um erro óbvio)
+* Iniciar o trabalho em um contribuição que já foi discutida, ou que você já tenha discutido em uma issue
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+Um pull request não precisa representar o trabalho final. Geralmente, é melhor abrir um pull request no início, para que outras pessoas possam acompanhar ou dar feedback sobre seu progresso. Basta marcá-lo com um "WIP" (Work in Progress) na linha de assunto. Você sempre pode adicionar mais commits depois.
 
-If the project is on GitHub, here's how to submit a pull request:
+Se o projeto estiver no GitHub, veja como enviar um pull request:
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
-* **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
-* **Reference any relevant issues** or supporting documentation in your PR (for example, "Closes #37.")
-* **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
-* **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+* **[Fork o repositorio](https://guides.github.com/activities/forking/)** e clone localmente. Conecte seu repositorio local com o "upstream" adicionado-o como repositorio remoto. Baixe as alterações de "upstream" com frequência para que você fique atualizado, quando enviar seu pull request, os conflitos de mesclagem serão menos prováveis. (Veja instruições mais detalhadas [aqui](https://help.github.com/articles/syncing-a-fork/).)
+* **[Crie um branch](https://guides.github.com/introduction/flow/)** para você edite.
+* **Referencie qualquer issue(s) relevante** ou documentação de suporte em seu PR (por exemplo, "Closes #37.")
+* **Inclua imagens do ante e de pois** se suas mudanças incluirem diferenças no HTML/CSS. Copie e cole as imagens na mensagem do seu pull request.
+* **Teste suas mudanças!** Execute suas alterações em relação a quaisquer testes existentes, e crie novos quando necessário. Se os testes existirem sempre verifique se suas alterações não quebram o projeto existente.
+* **Contribua para o estilo do projeto** para melhorar suas habilidades. Isso pode significar usar recuos, ponto-e-vírgula ou comentários de maneira diferente do que você faria em seu próprio repositório, mas torna mais fácil para o mantenedor unir codigos, e para outros manterem e entederem e melhorar no futuro.
 
-If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
+Se este é o seu primeiro pull reques, confira[Faça um pull request](http://makeapullrequest.com/), que @kentcdodds criou como um tutorial em vídeo passo a passo. Você também pode praticar uma pull request no repositório [Primeira Contribuição] (https://github.com/Roshanjossey/first-contributions), criado por @Roshanjossey.
 
 ## What happens after you submit a contribution
 
