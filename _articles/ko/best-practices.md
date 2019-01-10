@@ -159,117 +159,118 @@ related:
 
 ## 커뮤니티 활용하기
 
-당신은 모든 것을 스스로 할 필요가 없습니다. 프로젝트 공동체가 존재합니다! 적극적으로 참여한 커뮤니티가 없는 경우에도 많은 사용자가 있는 경우, 일하도록 하십시오.
+혼자서 모든 일을 맡을 필요는 없습니다. 프로젝트 커뮤니티가 존재하는 이유가 있습니다! 기여자 커뮤니티가 아직 활성화되어 있지 않더라도, 사용자가 많다면 그들을 작업에 이끌어 보세요.
 
-### 작업량을 분할하기
+### 일을 분담하세요
 
-피치를 받을 다른 사람을 찾고 있다면 주위에 물어보십시오.
+함께 일할 사람이 필요하다면 주위에 부탁하는 것에서부터 시작하세요.
 
-새로운 기여자가 반복적으로 기여를 하는 것을 보았을 때, 더 많은 책임을 제공함으로써 자신의 업무로 인정합시다. 원한다면 다른 사람들이 리더십 역할로 성장할 수 있는 방법을 문서화하십시오.
+반복적으로 기여하고 있는 사람을 찾았다면 그들에게 더 많은 권한을 주며 그들의 공로를 인정하세요. 그들이 원한다면 관리자 자리까지 맡게 되는 모범적인 경우를 더 많은 사람들에게 보일 수도 있습니다.
 
-@lmccart가 프로젝트 [p5.js](https://github.com/processing/p5.js)에서 발견한대로 [프로젝트 소유권 공유](../building-community/#share-ownership-of-your-project)를 권장하면 자신의 작업량을 크게 줄일 수 있습니다.
+@lmccart가 프로젝트 [p5.js](https://github.com/processing/p5.js)에서 발견한 대로 사람들이 [프로젝트의 소유감을 나눌 수 있도록](../building-community/#share-ownership-of-your-project) 독려하면 여러분이 맡는 일의 양을 현저히 줄일 수 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
   <p markdown="1" class="pquote-credit">
-—  @lmccart, [""오픈소스"란 무엇을 의미합니까? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
+—  @lmccart, ["What Does “Open Source” Even Mean? p5.js Edition”](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 
-프로젝트가 중단되거나 영구히 중단되어야하는 경우, 다른 사람에게 자신을 대신하도록 요청하는 것은 부끄러운 일이 아닙니다.
+잠깐이든 영원히든 여러분의 프로젝트를 떠나야 한다면 누군가에게 여러분의 역할을 대신해 달라고 부탁하는 것을 부끄럽게 생각하지 마세요.
 
-다른 사람들이 그 방향에 열성적이라면, 그들에게 접근을 허용하거나 공식적으로 다른 사람에게 통제 권한을 넘겨주도록 하십시오. 다른 사람이 프로젝트를 포크하고 다른 곳에서 적극적으로 유지 관리하는 경우, 원래 프로젝트의 포크에 연결하는 것이 좋습니다. 많은 사람들이 귀하의 프로젝트가 살아가기를 원합니다!
+프로젝트 방침에 열성적인 사람이 있다면 커밋이나 커뮤니티 관리 권한을 부여하세요. 여러분의 프로젝트를 포크해서 활동적으로 유지보수하는 사람이 있다면 여러분의 원본 프로젝트에서 링크를 제공하는 것도 고려해보세요. 여러분의 프로젝트가 계속 발전하길 바라는 사람이 많다는 것은 좋은 일입니다!
 
-@progrium은 프로젝트의 비전을 문서화[한 것으로 밝혀지면서](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) [Dokku](https://github.com/dokku/dokku)가 프로젝트에서 물러 난 후에도 이러한 목표를 달성 할 수 있도록 도왔습니다.
+@progrium은 그의 프로젝트 [Dokku](https://github.com/dokku/dokku)에 비전을 적어둔 것이 그가 프로젝트 관리에서 물러나고서도 [원래 목표를 향해 나아가는 데 도움](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/)이 되었다는 사실을 알았습니다.
 
-> I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
+> 저는 제가 원했던 것과 왜 그걸 원했는지에 대해 위키 페이지를 만들어 설명했어요. 관리자들이 프로젝트를 제가 의도한 대로 움직이기 시작한 것을 보고 놀라지 않을 수 없었습니다! 항상 정확히 제가 의도한 대로 되지는 않았지만, 기록해둔 것과는 가까웠지요.
 
-### 다른 사람들이 필요한 솔루션을 구축하게하기
+### 각자에게 필요한 솔루션을 구축하게 하세요
 
-잠재적 기여자가 프로젝트에서 해야 할 일에 대해 다른 견해를 가지고 있다면, 그들을 자신의 포크로 작업하도록 부드럽게 격려하고 싶을 수 있습니다.
+잠재적 기여자가 여러분의 프로젝트가 나아갈 방향에 대해 다른 견해를 가지고 있다면 그들이 따로 만든 포크에서 작업하도록 정중하게 권할 수 있습니다.
 
-프로젝트 포킹은 나쁜 일이 아닙니다. 프로젝트를 복사하고 수정할 수 있다는 것이 오픈소스에 관한 가장 좋은 것 중 하나입니다. 커뮤니티 회원들이 자신의 포크로 작업하도록 권장하면 프로젝트 비전과 상충하지 않고, 필요한 창의적인 판로를 제공 할 수 있습니다.
+프로젝트를 포크하는 것은 나쁜 일이 아닙니다. 온갖 프로젝트를 복사하고 수정할 수 있다는 것은 오픈소스의 최고 장점 중 하나입니다. 커뮤니티 구성원들이 포크해서 작업할 수 있게 권장하면 프로젝트 비전과 충돌하는 일 없이 그들의 상상력을 표출할 곳을 마련해줄 수 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
   <p markdown="1" class="pquote-credit">
-— @geerlingguy, ["PR을 닫는 이유"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+— @geerlingguy, ["Why I Close PRs”](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-실제로 대역폭을 구축 할 필요가 없는 솔루션을 원하는 사용자에게도 마찬가지입니다. API 및 사용자 정의 후크를 제공하면 소스를 직접 수정하지 않고도 다른 사람들이 자신의 필요를 충족시킬 수 있습니다. @orta는 CocoaPods용 플러그인이 "가장 흥미로운 아이디어 중 일부"를 이끌어 냈다는 것을 [알게 되었습니다](https://artsy.github.io/blog/2016/07/03/handling-big-projects/)
+여러분의 대역폭이 닿지 않는 기능을 간절히 원하는 사용자가 있을 때도 같은 방법이 적용됩니다. API와 사용자 정의 후크를 제공하면 사용자들이 소스를 직접 수정하지 않고서도 필요한 것을 구현하는 데 도움이 됩니다. @orta는 CocoaPods에서 플러그인 제작을 권장한 덕분에 몇몇 흥미로운 아이디어를 [얻기도 했습니다](https://artsy.github.io/blog/2016/07/03/handling-big-projects/).
 
-> 프로젝트가 커지면 메인테이너는 새로운 코드를 어떻게 도입할 것인지 훨씬 보수적으로 판단해야합니다. 당신은 "아니오"라고 말하는 것이 좋지만 많은 사람들이 합법적인 필요를 가지고 있습니다. 따라서 도구가 대신 플랫폼으로 변환됩니다.
+> 프로젝트가 커지면 관리자들이 새 코드에 보수적이게 되는 것은 거의 피할 수 없는 일입니다. 거절하는 데에는 익숙해지지만, 여전히 많은 사람들이 합리적인 수요를 가지고 있지요. 그래서 툴로서 개발했던 것을 대신 플랫폼으로 바꾸게 되었습니다.
 
-## Bring in the robots
+## 봇 활용하기
 
-다른 사람들이 당신을 도울 수 있는 작업이 있는 것처럼, 인간도 할 일이 없어야합니다. 로봇은 당신의 친구입니다. 그것들을 사용하여 메인테이너로서의 삶을 더 쉽게 만듭니다.
+남들이 도와줄 수 있는 일이 있는 것처럼, 굳이 사람이 할 필요가 없는 일도 있습니다. 로봇은 여러분의 친구입니다. 관리자로서의 삶을 더 쉽게 만들기 위해 로봇을 이용하세요.
 
-### 코드의 품질을 향상시키는 데 필요한 테스트 및 기타 검사
+### 코드의 질을 개선하기 위해 테스트를 거치도록 하세요
 
-프로젝트를 자동화하는 가장 중요한 방법 중 하나는 테스트를 추가하는 것입니다.
+여러분의 프로젝트를 자동화하는 가장 중요한 방법 중 하나는 테스트를 추가하는 것입니다.
 
-테스트는 기여자가 아무 것도 망가트리지 않을 것이라고 확신하는 데 도움이 됩니다. 또한 기여를 신속하게 검토하고 수락하기가 더 쉽습니다. 반응이 좋을수록 커뮤니티의 참여도가 높아집니다.
+테스트는 기여자가 아무것도 망가트리지 않았다는 확신을 가질 수 있게 해줍니다. 여러분이 기여를 더 빨리 검토하고 적용하기에도 좋습니다. 여러분이 더 적극적으로 반응한다면 커뮤니티의 모두도 더 적극적으로 참여할 것입니다.
 
-들어오는 모든 기여에 대해 실행할 자동 테스트를 설정하고, 기여자가 테스트를 로컬에서 쉽게 실행할 수 있도록 하십시오. 제출하기 전에 모든 코드가 테스트에 합격해야합니다. 모든 제출물에 대해 최소한의 품질 기준을 설정하는 데 도움이됩니다. GitHub의 [Required status checks](https://help.github.com/articles/about-required-status-checks/)는 테스트 통과없이 변경 사항이 병합되지 않도록 도와줍니다.
+들어오는 기여를 대상으로 자동으로 수행되는 테스트를 작성하고, 기여자들이 테스트를 로컬에서도 쉽게 수행할 수 있게 구성하세요. 모든 코드 기여는 제출되기 전에 테스트를 통과하도록 하세요. 모든 제출물에 대해 최소한의 수준을 확보할 수 있을 것입니다. GitHub의 [Required status checks](https://help.github.com/articles/about-required-status-checks/) 기능은 어떤 커밋도 테스트를 통과하지 않고서는 병합되지 않도록 도와줍니다.
 
-만약 테스트를 추가한다면, 그것들이 CONTRIBUTING 파일에 어떻게 작동하는지 설명합시다.
+테스트를 추가할 때는 반드시 CONTRIBUTING 파일에 어떻게 테스트가 동작하는지 설명하세요.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust'의 커뮤니티 자동화"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust’s Community Automation”](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
-### 자동적인 기본 관리 작업 도구를 사용하기
+### 기본적인 유지보수에는 툴을 이용하세요
 
-인기있는 프로젝트를 유지하는 것에 대한 좋은 소식은 다른 메인테이너가 비슷한 문제에 직면해 있고, 그에 대한 해결책을 마련한다는 것입니다.
+인기 있는 프로젝트를 관리하는 사람들에게 좋은 소식은, 다른 관리자들이 이미 비슷한 상황을 겪어 그에 대한 해결책을 마련해두었다는 점입니다.
 
-유지 보수 작업의 일부 측면을 자동화하는 데 도움이되는 [다양한 도구](https://github.com/showcases/tools-for-open-source)가 있습니다. 약간의 예시입니다:
+유지보수 작업의 몇몇 사항을 자동화해주는 [다양한 툴](https://github.com/showcases/tools-for-open-source)이 있습니다. 이하는 약간의 예시입니다.
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) 릴리즈를 자동화하기
-* [mention-bot](https://github.com/facebook/mention-bot) pull requests를 위한 잠재적 검토자 언급하기
-* [Danger](https://github.com/danger/danger) 코드 리뷰 자동화를 도와주기
+* [semantic-release](https://github.com/semantic-release/semantic-release)는 배포를 자동화합니다.
+* [mention-bot](https://github.com/facebook/mention-bot)은 풀 리퀘스트의 잠재적 검토자를 호출합니다.
+* [Danger](https://github.com/danger/danger)는 코드 검토의 자동화를 지원합니다.
 
-버그 보고서 및 기타 일반적인 공헌을 위해 GitHub는 [이슈 템플릿과 Pull Request 템플릿](https://github.com/blog/2111-issue-and-pull-request-templates)를 제공합니다, 귀하가 받을 수 있는 커뮤니케이션을 합리화하기 위해 만들 수 있습니다. [이메일 필터](https://github.com/blog/2203-email-updates-about-your-own-activity)를 설정하여 이메일 알림을 관리 할 수도 있습니다.
+GitHub에서는 버그 제보나 기타 평범한 기여에 사용할 [이슈 템플릿과 풀 리퀘스트 템플릿](https://github.com/blog/2111-issue-and-pull-request-templates)을 제공합니다. 이를 활용하면 의사소통을 능률적으로 진행할 수 있습니다. @TalAter는 여러분의 이슈와 풀 리퀘스트 템플릿 작성을 돕기 위해 [Choose Your Own Adventure](https://www.talater.com/open-source-templates/#/) 가이드를 만들었습니다.
 
-좀 더 진보적인 스타일을 원한다면, 스타일 가이드와 linter가 프로젝트 기여를 표준화하고 검토하고 받아들이기가 쉬워질 수 있습니다.
+이메일 알림 관리에는 우선순위별로 이메일을 분류하는 [이메일 필터](https://github.com/blog/2203-email-updates-about-your-own-activity)를 설정하는 방법이 있습니다.
 
-그러나, 표준이 너무 복잡하면, 기여에 대한 장벽이 높아질 수 있습니다. 모든 사람의 삶을 편하게 하기위한 규칙만 추가하고 있는지 확인하십시오.
+여기에 더하고 싶다면 스타일 가이드와 린터(linter)를 이용해 프로젝트에의 기여를 표준화하고, 검토하거나 적용하기 더 쉽게 만들 수 있습니다.
 
-어떤 도구를 사용해야하는지 잘 모르는 경우 다른 인기있는 프로젝트, 특히 같은 생태계에 있는 프로젝트를 살펴보십시오. 예를 들어, 다른 Node 모듈에 대한 기여 진행과정은 어떻게됩니까? 유사한 도구와 접근 방식을 사용하면 진행과정은 대상 기여자에게 더 익숙하게 됩니다.
+하지만 너무 복잡한 기준은 기여까지의 장벽을 높입니다. 모두의 삶을 편하게 해줄 수 있는 필요한 규칙만 추가하세요.
+
+어떤 툴을 사용할지 잘 모르겠다면 다른 유명한 프로젝트들은 어떻게 하고 있는지 살펴보세요. 특히 여러분의 프로젝트와 비슷한 분야를 찾아보세요. 예컨대, 다른 Node 모듈은 어떤 기여 과정을 가지고 있나요? 다른 프로젝트들과 비슷한 툴과 접근 방식을 적용하면 잠재적 기여자들에게 과정이 익숙하다는 장점도 있습니다.
 
 ## 잠시 멈춰도 괜찮습니다
 
-오픈소스 작업은 한 때 기쁨을 가져다주었습니다만. 어쩌면 이제는 회피하거나 죄책감을 느낄 수 있습니다.
+오픈소스는 즐겨야만 의미가 있습니다. 혹시 오픈소스가 여러분에게 부담감이나 죄책감을 가져다주고 있지는 않나요?
 
-아마도 당신은 이 프로젝트에 대해 생각할 때, 위압적이거나 두려움에 시달리고 있습니다. 그리고 그 동안 이슈와 pull request가 늘어납니다.
+어쩌면 여러분은 여러분이 맡은 프로젝트를 생각할 때마다 의지가 꺾이거나 두려움을 느낄지도 모릅니다. 게다가 그러는 동안에도 이슈와 풀 리퀘스트는 쌓이고 있고요.
 
-번아웃은 특히 메인테이너 간 오픈소스 작업에서 실제로 발생하는 보편적인 문제입니다. 메인테이너로서 여러분의 행복은 모든 오픈소스 프로젝트의 생존을 위한 협상을 할 수 없는 요구 사항입니다.
+신경쇠약은 오픈소스 관리자들이 실제로 직면하는 보편적인 문제입니다. 관리자로서 여러분의 행복은 그 어떤 오픈소스 프로젝트의 생존과도 타협하고 포기해야 하는 것이 아닙니다.
 
-아무 말도하지 말고 쉬쉽시오! 휴가를 위해 번아웃될 때까지 기다릴 필요가 없습니다.
-파이썬 핵심 개발자인 @brettcannon은 14년간 OSS 자원 봉사를 한 후 [1개월간의 휴가](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering)를 하기로 결정했습니다.
+말할 것도 없지만, 쉬면서 하세요! 완전히 지쳤을 때에만 휴가를 낼 필요는 없습니다. Python 핵심 개발자인 @brettcannon은 14년간의 자발적인 오픈소스 기여 후 [한 달간의 휴가](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering)를 떠나기로 결정했습니다.
 
-다른 유형의 일과 마찬가지로 정기적인 휴식을 취하면 일에 대해 새롭고, 행복하며, 짜릿함을 유지할 수 있습니다.
+다른 일들이 그렇듯, 정기적으로 휴식을 취하면 상쾌함과 행복감을 유지할 수 있고 여러분의 업무가 즐거울 것입니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["조의를 표합니다, 당신은 지금 인기있는 오픈소스 프로젝트의 메인테이너입니다."](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["My condolences, you’re now the maintainer of a popular open source project”](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
-때때로, 모든 사람들이 당신을 필요로 할 때 오픈소스 작업에서 휴식을 취하는 것이 어려울 수 있습니다. 사람들은 심지어 당신이 발걸음을 딛고 죄책감을 갖도록하려고 할 수도 있습니다.
+가끔, 모두가 여러분을 필요로 하는 것처럼 느껴져 쉬기 곤란할 때가 있습니다. 심지어 사람들이 여러분이 업무를 멈추지 못하게 하려고 부담을 줄 수도 있습니다.
 
-프로젝트를 떠나려는 동안 사용자와 커뮤니티에 대한 지원을 찾으려면 최선을 다하십시오. 필요한 지원을 찾을 수 없으면 어쨌든 휴식을 취하십시오. 사용할 수 없을 때, 반드시 의사 소통을 해야하므로 응답성이 부족하게하여 사람들에게 혼동을 주지 않도록하십시오.
+여러분이 프로젝트를 떠나 있는 동안 커뮤니티를 관리할 사람을 찾는 데 최선을 다하세요. 필요한 도움을 구하지 못했어도 하여튼 쉴 때는 쉬어야 합니다. 사람들이 여러분의 무반응에 혼란스러워하지 않도록, 작업을 맡지 않고 있을 때에도 의사소통은 잊지 마세요.
 
-휴식을 취하는 것은 방학기간이상 적용됩니다. 주말이나 근무 시간 중에 오픈소스 작업을 하고싶지 않다면, 그 계획을 다른 사람들에게 알려줌으로써 그들은 당신을 귀찮게하지 않을 것입니다.
+휴식을 취한다는 것은 단순히 휴가를 말하는 것이 아닙니다. 주말 혹은 근무 시간 중에는 오픈소스 작업을 하고 싶지 않다면 사람들이 여러분을 번거롭게 하지 않도록 그 사실을 알리세요.
 
-## Take care of yourself first!
+## 여러분이 최우선입니다
 
-인기있는 프로젝트를 유지하려면 성장 초기 단계와는 다른 기술이 필요하지만 그다지 보람이 없습니다. 메인테이너로서, 소수의 사람들이 경험할 수 있는 수준에서 리더십과 개인 기술을 연습하게됩니다. 관리가 항상 쉬운 것은 아니지만, 명확한 경계를 설정하고 자신이 편안하게 느끼는 것을 취하는 것만으로도 행복하고 생기넘치며 생산적으로 머물 수 있습니다.
+인기 있는 프로젝트의 관리는 초기 성장 단계와 다른 기술을 필요로 하지만 그만큼 보람 있는 일입니다. 관리자로서 여러분은 소수의 사람들만이 경험할 수 있는 수준에서 리더십과 개인 기술을 연마할 수 있습니다. 관리가 항상 쉬운 것은 아니지만, 명확한 경계를 설정하고 여러분이 편하게 느끼는 일을 맡아 하며 행복과 신선함과 생산성을 유지하세요.
