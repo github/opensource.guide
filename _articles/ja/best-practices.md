@@ -162,35 +162,35 @@ Don't feel guilty about not wanting to accept someone's contribution. The first 
 
 あらゆる事を一人で行う必要はありません。あなたのプロジェクトのコミュニティはそのためにいるのですから！たとえ現時点ではまだ活発なコントリビュータコミュニティを持っていないとしても、たくさんのユーザーがいるのであれば、彼らに仕事をしてもらいましょう。
 
-### Share the workload
+### 作業量を共有しよう
 
-If you're looking for others to pitch in, start by asking around.
+もし他の人に支援してもらいたいなら、まずはお願いして回る所からはじめましょう。
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+新しいコントリビュータが繰り返しコントリビュートを行っていることに気づいたら、より多くの責任を提供することで彼らの仕事を認めましょう。もし望むならどのようにすれば他の人もリーダーになれるのかをドキュメント化しましょう。
 
-Encouraging others to [share ownership of the project](../building-community/#プロジェクトの所有権を共有しよう) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js).
+他の人に対して[プロジェクトの所有権を共有する](../building-community/#プロジェクトの所有権を共有しよう)よう推奨することはあなたの作業量を大いに減らすことに繋がります。@lmccart が彼女のプロジェクトである[p5.js](https://github.com/processing/p5.js)で認識したように。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+  （コントリビュータ向けのイベントの告知で）私は「誰でも参加可能です、優れたコーディングスキルも必要ありません。」と言い続けてきました。その後、（イベントに）多くの人が登録してくれた時に、今まで自分が言ってきたことは本当だろうか？と思い始めました。40人もの参加者が来てくれたため、彼ら一人ひとりを私がサポートすることは出来ませんでした。しかし、皆が集まったのです。そして、うまくいきました。一人の人が状況を理解すると、すぐに近くの人にプロジェクトに必要な知識を教え始めたのです。
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+もし、一時的であれ恒久的であれ、あなたがプロジェクトから退く必要があるのであれば、他の誰かに代わってくれるようお願いするのは少しも恥ずかしいことではありません。
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+もしプロジェクトの方向性に熱意を持っている人がいれば、その人にコミット権限を与えるか、公式にその人にプロジェクトの管理を明け渡しましょう。もしあなたのプロジェクトをフォークしている人がいて、フォーク先が活発にメンテナンスされているのであれば、あなたの元々のプロジェクトとフォーク先をリンクすることを検討しましょう。多くの人があなたのプロジェクトがアクティブであり続けて欲しいと望んでくれることは素晴らしいことです。
 
-@progrium [found that](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
+@progrium が彼のプロジェクトである [Dokku](https://github.com/dokku/dokku) で[気づいたこととして](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/)、プロジェクトのビジョンをドキュメントに明記しておくことで、たとえ彼がプロジェクトから退いてもプロジェクトのゴールが生き続けたというものがあります：
 
-> I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
+> 私はwikiに私が望むものとその理由を書きました。私にとってとても驚きだったのは、プロジェクトのメンテナーたちがその方向に向かい始めたのです！全てが私がやるのと同じように実現されたでしょうか？常にそうだったわけではありません。しかし、それでも私が書いた理想像にプロジェクトが近づいていったのです。
 
-### Let others build the solutions they need
+### 他の人に彼らが必要な解決策を作ってもらおう
 
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
+もし潜在的なコントリビュータがあなたのプロジェクトがやるべきことについて異なる意見を持っているのであれば、彼ら自身のフォークを作ることを推奨するのも一つの手です。
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+プロジェクトをフォークすることは必ずしも悪いことではありません。プロジェクトをコピーしてそれを修正できるということはオープンソースの最も素晴らしい点の1つです。コミュニティメンバーに対して彼ら自身のフォークを作ることを推奨することで、あなた自身のプロジェクトのビジョンを衝突することなく、メンバーの創造性を発揮する場所を作り出すことが出来ます。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
