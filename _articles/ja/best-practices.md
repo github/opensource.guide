@@ -194,13 +194,13 @@ Don't feel guilty about not wanting to accept someone's contribution. The first 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+  私は80%のユースケースを満たすように提供します。もし滅多に使わない機能が必要なのであれば、フォークして下さい。私はそれによって傷つくことはありません。私のプロジェクトはほとんどが常に最もよくある問題を解決するためのものなのです; 更に深いことをやりたい場合のために、フォークしたり拡張しやすくするよう努めています。
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
+同じことが、自分で解決策を作るほどの余裕はない人に対しても言えます。APIとカスタマイズのためのフックを提供することで、他の人が彼ら自身のニーズを、ソースコードを直接修正することなく実現する助けとなります。@ortaはCocoaPods向けのプラグインを他の人に作ってもらうことで、「最も面白いアイデア」が出てきたと[言っています](https://artsy.github.io/blog/2016/07/03/handling-big-projects/)：
 
 > It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
 
