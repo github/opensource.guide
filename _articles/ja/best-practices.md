@@ -236,42 +236,42 @@ Don't feel guilty about not wanting to accept someone's contribution. The first 
 * [mention-bot](https://github.com/facebook/mention-bot) はプルリクエストのレビュアーになってくれる可能性のある人にメンションを送ります
 * [Danger](https://github.com/danger/danger) はコードレビューを自動化します
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
+バグ報告や他のよくあるコントリビュートに対しては、GitHubに [イシューテンプレートとプルリクエストテンプレート](https://github.com/blog/2111-issue-and-pull-request-templates) という機能があります。これを使うことで、コミュニケーションを簡素化することができます。@TalAterはイシューやプルリクエストのテンプレートを作成する助けとなるよう、 [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) を作りました。
 
-To manage your email notifications, you can set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to organize by priority.
+メール通知に対処するためには、優先順位を設定するために [メールフィルター](https://github.com/blog/2203-email-updates-about-your-own-activity) を使うことができます。
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+更に推し進めたいのであれば、スタイルガイドやリンターを使うことで、プロジェクトへのコントリビュートを標準化し、レビューや取り込みをしやすくすることができます。
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
+しかし、もしあなたが設定した標準が複雑すぎると、コントリビュートへの障壁が高くなってしまいます。みんなの作業を簡単にするために十分なルールだけを追加するように気をつけましょう。
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+もしどのツールを使うべきかわからないのであれば、他の有名なプロジェクトがどうしているかを見てみましょう。特に、同じエコシステムのプロジェクトを見てみましょう。例えば、他のNodeモジュールではコントリビュートプロセスをどのようにしているのだろう？と調べてみるのです。他のプロジェクトと似たようなツールや方法を使うことで、ターゲットとするコントリビューターがプロセスに親しみやすくなります。
 
-## It's okay to hit pause
+## 活動停止しても良い
 
-Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
+オープンソース活動をすることは、かつては喜びをもたらしてくれました。しかし、多分今となっては辞めたいと感じていたり、うしろめたい気持ちになっているかもしれません。
 
-Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
+おそらく、あなたは困惑しているか、プロジェクトについて考えるのが怖いと感じているかもしれません。その間にも、イシューやプルリクエストは積み上がっていくのです。
 
-Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
+オープンソース活動において、燃え尽きてしまうことは特にメンテナーの間で現実に発生し、よく起きることなのです。メンテナーとしてあなた自身が幸福であることは、オープンソースプロジェクトが生き残る上で交渉の余地なく必要なことです。
 
-Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. @brettcannon, a Python core developer, decided to take [a month-long vacation](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) after 14 years of volunteer OSS work.
+言うまでもないことですが、休みを取りましょう！バケーションを取るのに、燃え尽きたと感じるまで待つ必要はないのです。Pythonのコア開発者である@brettcannonは、14年間に及ぶOSSボランティア活動を経て、[1ヶ月の休みを取る](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/)ことを決断しました。
 
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+他の仕事と同じで、休みを取ることで、リフレッシュし、幸福で、喜んで仕事をしている状態を維持できるのです。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+  WP-CLIをメンテナンスする中で、まずは自分自身を幸せにし、自分がどこまで関わるかの境界を明確にすることが必要であると気づきました。私が見つけた最も良いバランスは、私の通常の仕事時間の中で週に2〜5時間を充てるというものです。このバランスで、私はプロジェクトに熱心に関わることができ、かつ仕事のようだと感じることもありません。取り掛かるイシューの優先順位付けをしているので、最も重要だと思うことで定期的に進捗を出すことができるのです。
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
-Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
+時には、皆があなたを必要としていると感じられて、オープンソース活動を休むのは難しいと感じることがあるかもしれません。あなたが退くことに対して、罪悪感を感じさせようとする人さえいるかもしれません。
 
-Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
+プロジェクトから離れる間にユーザーやコミュニティをサポートしてくれる人を探すために最善を尽くしましょう。もし必要なサポートを見つけられなかったとしても、とにかく休みを取りましょう。不在のときはきちんとその旨を共有しましょう。そうすることで、あなたからの返答がないことで人々を困惑させることもありません。
 
-Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+休みを取ることはバケーションを取ることだけではありません。もし週末であったり、業務時間中にはオープンソース活動をやりたくないのであれば、他の人にその希望を共有しましょう。そうすることで、彼らはあなたを悩ませないようにしてくれるでしょう。
 
-## Take care of yourself first!
+## まずはじめに自分を労ろう！
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+人気のあるプロジェクトをメンテナンスすることは、成長の初期ステージに必要なものとは異なるスキルが必要となります。しかし、それはなおも報われるものです。メンテナーとして、ほとんどの人が体験できないレベルのリーダーシップと個人スキルを体験することになります。常に簡単に対処できる訳ではありませんが、明確に線引をし、あなたが心地よく感じることだけを行うようにすることで、幸福でリフレッシュしていて、生産的な状態を維持する助けとなるのです。
