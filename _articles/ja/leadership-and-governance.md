@@ -1,7 +1,7 @@
 ---
 lang: ja
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+title: リーダーシップと組織運営
+description: 意思決定するためのルールを決めることで、オープンソースプロジェクトを成長させる助けとなります
 class: leadership
 order: 6
 image: /assets/images/cards/leadership.png
@@ -10,25 +10,25 @@ related:
   - metrics
 ---
 
-## Understanding governance for your growing project
+## 成長中のプロジェクトの運営方法を理解しよう
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
+あなたのプロジェクトは成長しており、人々が携わっていて、あなたは物事がこのまま進むように維持することに熱心でしょう。この段階では、あなたはどのようにして通常のコントリビューターをワークフローに組み込むのが良いか悩んでいるかもしれません。誰かにコミット権限を与えるかどうかであったり、コミュニティの議論をどのように収集させるのかであったり。もしこういった疑問があるのであれば、私達は答えを知っています。
 
-## What are examples of formal roles used in open source projects?
+## オープンソースプロジェクトで使われる公式の役割の例はなんですか？
 
-Many projects follow a similar structure for contributor roles and recognition.
+多くのプロジェクトでは、コントリビューターの役割は似たようなものを使っています。
 
-What these roles actually mean, though, is entirely up to you. Here are a few types of roles you may recognize:
+しかし、こういった役割が実際の所何を意味するのかは、完全にあなた次第です。下記にあなたが知っているであろう役割を挙げます：
 
-* **Maintainer**
-* **Contributor**
-* **Committer**
+* **メンテナー**
+* **コントリビューター**
+* **コミッター**
 
-**For some projects, "maintainers"** are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
+**幾つかのプロジェクトでは、「メンテナー」は** コミット権限を持っている唯一の人です。他のプロジェクトでは、単にREADMEにメンテナーとして記載されている人であることもあります。
 
-A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project, or written documentation that made the project more accessible to others. Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
+メンテナーはプロジェクトでコードを書いている人である必要はありません。プロジェクトの布教を熱心に行っている人でも良いですし、多くのドキュメントを書くことで他の人がプロジェクトにアクセスしやすくしている人でも良いのです。日常的に何をやっているのかにかかわらず、メンテナーはプロジェクトの方向性に責任を持っていると感じていて、またプロジェクトを改善するのに熱心である人でしょう。
 
-**A "contributor" could be anyone** who comments on an issue or pull request, people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
+**「コントリビューター」は誰でもなり得ます。** それは、イシューやプルリクエストにコメントを書いている人かもしれないし、プロジェクトに価値を与える（イシューを選別する、コードを書く、イベントを運営するなど）人かもしれないし、プルリクエストをマージしてもらった人（おそらくこれが最も狭義のコントリビューターの定義です）かもしれません。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
