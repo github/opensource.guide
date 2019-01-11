@@ -202,39 +202,39 @@ Don't feel guilty about not wanting to accept someone's contribution. The first 
 
 同じことが、自分で解決策を作るほどの余裕はない人に対しても言えます。APIとカスタマイズのためのフックを提供することで、他の人が彼ら自身のニーズを、ソースコードを直接修正することなく実現する助けとなります。@ortaはCocoaPods向けのプラグインを他の人に作ってもらうことで、「最も面白いアイデア」が出てきたと[言っています](https://artsy.github.io/blog/2016/07/03/handling-big-projects/)：
 
-> It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
+> プロジェクトが大きくなっていくにつれて、メンテナーが新しいコードを追加することに対して保守的になっていくのはほぼ避けようがない。「ノー」ということが上手になっていくだろうが、多くの人は理にかなったニーズを持っています。そこで代わりに、あなたのツールをプラットフォーム化することになるのです。
 
-## Bring in the robots
+## ロボットを使おう
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+他の人に手伝ってもらえるタスクがたくさんあるのと同様に、人間がやる必要のないタスクも多数あります。ロボットは友達です。ロボットを使うことでメンテナーとしての日々を簡単にしましょう。
 
-### Require tests and other checks to improve the quality of your code
+### コードの品質を向上させるためにテストやチェックを導入しよう
 
-One of the most important ways you can automate your project is by adding tests.
+プロジェクトを自動化する最も重要な方法の1つは、テストを追加することです。
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+テストがあることで、コントリビュータは何一つ壊していない事を自身を持って確認することができます。また、あなたにとっても、コントリビュートをすばやくレビューして取り込むことがやりやすくなります。より早く反応すればするほど、コミュニティもより熱心に取り組むようになります。
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Required status checks](https://help.github.com/articles/about-required-status-checks/) on GitHub can help ensure no change gets merged without your tests passing.
+全てのコントリビュートに対してテストを自動的に実行するように設定し、またコントリビュータがローカルで簡単にテストを実行できるようにしておきましょう。コントリビュートを提出する前に全てのテストが成功している事を必須にしましょう。こうすることで、全てのコントリビュートが提出される前に、最低限の品質基準を設けることができるようになります。GitHubの[Required status checks](https://help.github.com/articles/about-required-status-checks/)機能を使うことで、テストが成功していない変更はマージされないよう保証することができます。
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+テストを追加したら、CONTRIBUTINGファイルでテストがどう実行されるかを説明しましょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
-  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+  私は、あらゆるコードに対してテストが必要だと思っています。もしコードが完全に正しいのであれば、変更の必要はありませんが、 私達がコードを書くときは何かがおかしいときです、それは「クラッシュする」であったり「これこれの機能が足りない」といったようなケースです。どんな変更をしようとしているのであれ、テストは誤ってバグを入れ込んでしまう事を防ぐために非常に重要です。
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### ツールを使って基本的なメンテナンス作業を自動化しよう
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
+人気のあるプロジェクトをメンテナンスする人にとって良いニュースとしては、他のメンテナーも似たような問題に直面し、そのための解決策を作っているということでうす。
 
-There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
+メンテナンス作業を自動化するために、[非常に幅広いツール](https://github.com/showcases/tools-for-open-source)があります。幾つか例を挙げましょう：
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
+* [semantic-release](https://github.com/semantic-release/semantic-release) はリリースを自動化します
+* [mention-bot](https://github.com/facebook/mention-bot) はプルリクエストのレビュアーになってくれる可能性のある人にメンションを送ります
+* [Danger](https://github.com/danger/danger) はコードレビューを自動化します
 
 For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
 
