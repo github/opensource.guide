@@ -52,30 +52,30 @@ related:
 
 ## どのようにしてリーダーシップの役割を明確なものにするのか？
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
+リーダーシップの役割を明確にすることで、人々に責任を持たせ、他のコミュニティメンバーが助けが必要な時に誰に聞くべきかが明確になります。
 
-For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
+小さいプロジェクトでは、リーダーを任命することは単にREADMEやCONTRIBUTORSファイルに名前を追加するだけで済むこともあります。
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [Postgres](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+大きなプロジェクトでは、ウェブサイトを持っているのであれば、チームページやプロジェクトリーダーのリストのページを作りましょう。例えば、[Postgres](https://github.com/postgres/postgres/) では [チームのリストページ](https://www.postgresql.org/community/contributors/) に各コントリビュータの短いプロフィールを記載しています。
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (for example, security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+もしあなたのプロジェクトのコントリビュータが非常に活発なのであれば、メンテナーの「コアチーム」を作ったり、異なる問題領域ごと（例えば、セキュリティ、イシューの選別、コミュニティ運営）に席にを持つ分科会を持っているかもしれません。あなたが指名するのではなく、人々が自分の興味のある領域の役割に自律的にボランティアしてくれるように任せましょう。
 
 <aside markdown="1" class="pquote">
-  \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+  \[私達は\] コアチームに対して、幾つかの「サブチーム」で支えています。各サブチームはそれぞれ特定の領域にフォーカスしています。例えば、言語設計やライブラリなどです。 (...) 世界をまたがるコラボレーションと、プロジェクト全体として協力で一貫したビジョンを維持するために、各サブチームはコアチームのメンバーによってリードされています。
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+リーダーシップチームは(IRCのような)専用のチャンネルを作りたいと思ったり、プロジェクトについて定期的に議論するために(Gitter上やGoogle Hangout上で)集まりたいと思うかもしれません。こういったミーティングでさえも公にする事で、他の人も議論を聞けるようにしましょう。例えば、[Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) では、 [毎週オフィスアワーを設けています](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs)。
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md.
+一度リーダーシップの役割を確立したなら、どのようにして彼らにコンタクトを取れるかドキュメントにまとめることを忘れないようにしましょう。メンテナーにどのようにしたらなれるかであったりどのように分科会に参加するのかのプロセスを明確に確立し、GOVERNANCE.mdファイルにそれを記載しましょう。
 
-Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
+[Vossibility](https://github.com/icecrime/vossibility-stack) のようなツールは、プロジェクトに対するコントリビュートを誰がやっているのか（やっていないのか）を公にトラッキングするのに役立ちます。こういった情報をドキュメント化することで、メンテナーは非公開の場で意思決定を行う派閥を作っているとコミュニティから認識されることを避けることができます。
 
-Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#プロジェクトの所有権を共有しよう).
+最後に、プロジェクトがGitHub上にあるのであれば、プロジェクトを個人アカウントからOrganizationに移し、少なくとも一人の管理者をバックアップとして追加することを検討しましょう。[GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) を使うことで、権限や複数のリポジトリを管理し、[所有権を共有することで](../building-community/#プロジェクトの所有権を共有しよう)プロジェクトの資産を守ることがやりやすくなります。
 
-## When should I give someone commit access?
+## いつ他の人にコミット権限を与えるべきだろうか？
 
 Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
 
