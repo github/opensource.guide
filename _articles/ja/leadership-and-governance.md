@@ -85,19 +85,19 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
-  Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
+  誰かがプルリクエストを送ってきたときはいつでも、その人にプロジェクトへのコミット権限を与えましょう。はじめはそれが馬鹿げているように聞こえるかもしれませんが、この戦略によってGitHubの真の力を解き放つことができるようになります。 (...) 一度コミット権限をもらえば、人々はもはや自分のパッチがマージされるかどうか心配せずにすみます。こうすることで、彼らはより多くの仕事を成し遂げてくれるようになるのです。
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
-## What are some of the common governance structures for open source projects?
+## オープンソースプロジェクトによくある運営方法はどのようなものでしょうか？
 
-There are three common governance structures associated with open source projects.
+オープンソースプロジェクトに関連して、3つのよく使われる運営方法があります。
 
-* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+* **BDFL:** BDFLは"Benevolent Dictator for Life（優しい終身の独裁者）"の略です。これは、一人の人間（大抵はプロジェクトを立ち上げた人）が、全てのプロジェクトの大きな決断に最終承認を出すやり方です。[Python](https://github.com/python) は、古くからある例です。小さなプロジェクトではおそらく初めからBDFLを採用しているでしょう。なぜなら、メンテナーが一人か二人しかいないからです。企業が始めたプロジェクトもBDFLのカテゴリーに入るでしょう。
 
-* **Meritocracy:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](https://www.apache.org/); [all Apache projects](https://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **業績主義:** **(メモ: "業績主義"という言葉は、コミュニティによっては否定的な意味を持つかもしれなく、[複雑な社会的、政治的歴史](http://geekfeminism.wikia.com/wiki/Meritocracy)があります。)** 業績主義のもとでは、活動的なプロジェクトコントリビュータ（「業績」を出した人）が、公式の意思決定の役割を与えられます。意思決定はたいてい投票によって行われます。業績主義のコンセプトは[Apache Foundation](https://www.apache.org/)が先鞭をつけました; [全てのApacheプロジェクト](https://www.apache.org/index.html#projects-list)は業績主義で運営されています。コントリビュートは、全て企業ではなく代表する個人によってのみ行われます。
 
 * **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://foundation.nodejs.org/) and [Rust](https://www.rust-lang.org/).
 
