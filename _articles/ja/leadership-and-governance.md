@@ -77,11 +77,11 @@ related:
 
 ## いつ他の人にコミット権限を与えるべきだろうか？
 
-Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
+コントリビュートをするすべての人にコミット権限を与えるべきだと考える人もいます。そうすることで、より多くの人にプロジェクトに対して責任を感じてもらうことができます。
 
-On the other hand, especially for bigger, more complex projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+その一方で、大きく複雑なプロジェクトでは、プロジェクトに対して熱心に献身している人のみにコミット権限を与えたいと思うかもしれません。唯一の正解はありません - あなたが最も良いと思うことをやりましょう。
 
-If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
+もしプロジェクトがGitHub上にあるのであれば、[protected branches](https://help.github.com/articles/about-protected-branches/) を使うことで、どいうった状況で誰が特定のブランチにpushできるのかを管理することができます。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
