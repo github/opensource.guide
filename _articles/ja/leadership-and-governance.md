@@ -32,25 +32,25 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
+  \[Node.jsでは、\] イシューにコメントした人やコードを書いた人は皆コミュニティのメンバーなのです。彼らに会えたということは、ユーザーからコントリビュータへの一線を越えたということを意味しています。
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
 </aside>
 
-**The term "committer"** might be used to distinguish commit access, which is a specific type of responsibility, from other forms of contribution.
+**「コミッター」という言葉は** コミットアクセスという特定の種類の責務を、他の種類のコントリビュートと区別するために使われるでしょう。
 
-While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#貢献するということが意味するもの) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
+あなたの好きなようにプロジェクトの役割を定義できますが、より多くの種類のコントリビュートを奨励するためにより[広い定義を検討しましょう](../how-to-contribute/#貢献するということが意味するもの)。プロジェクトに多大な貢献をしている人に対しては、その人の技術スキルがどうであれ、その人の貢献を公式に認めるために、リーダーの役割を使うことができます。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
-  You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
+  皆さんは私のことをDjangoの「発明者」と認識しているかもしれません...しかし、実際は私は作られてから1年後に採用された人間なのです。 (...) 皆さんは私のプログラミングスキルのおかげで成功したと思うかもしれません...しかし、私はせいぜい平均的なプログラマーなのです。
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## どのようにしてリーダーシップの役割を明確なものにするのか？
 
 Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
 
