@@ -107,17 +107,17 @@ related:
 * [業績主義モデルテンプレート](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.jsの自由主義的コントリビュートポリシー](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
-## Do I need governance docs when I launch my project?
+## プロジェクトを立ち上げる時に、運営ドキュメントは必要でしょうか？
 
-There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
+プロジェクトの運営についてドキュメントを書くのに適切なタイミングはありませんが、コミュニティの力学が明らかになってから定義するほうがずっと簡単です。オープンソース運営における最善の（そして最も大変な）点は、コミュニティによって形作られているということです！
 
-Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch.
+しかしながら、初期段階でドキュメントを書くことでは必ずプロジェクト運営に寄与するでしょう。なので、書けるものから書き始めましょう。例えば、どういった行動を期待するかを明確に定義したり、コントリビュータのプロセスはどうなっているかといったものを、プロジェクトの立ち上げ時点に書きましょう。
 
-If you're part of a company launching an open source project, it's worth having an internal discussion before launch about how your company expects to maintain and make decisions about the project moving forward. You may also want to publicly explain anything particular to how your company will (or won't!) be involved with the project.
+もしあなたがオープンソースプロジェクトを立ち上げようとしている企業に所属しているのであれば、立ち上げの前にプロジェクトを進めるにあたって何をコミュニティに期待し、どのように意思決定するのかを内部で議論しておくことは価値のあることです。特に、あなたの企業がプロジェクトにどのように関わるか（もしくはかかわらないか）に関して公に説明しておきたいと思うかもしれません。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
+  Facebookでは、社内で実際にこのプロジェクトの仕事をしている小さなチームをGitHub上のプロジェクトの運営担当としています。例えば、ReactはReact開発者によって運営されています。
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
