@@ -1,7 +1,7 @@
 ---
 lang: ja
-title: Getting Paid for Open Source Work
-description: Sustain your work in open source by getting financial support for your time or your project.
+title: オープンソースで金銭を得る
+description: プロジェクト活動に対して金銭的サポートを得ることで、オープンソース活動を持続可能にしよう
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png
@@ -10,39 +10,39 @@ related:
   - leadership
 ---
 
-## Why some people seek financial support
+## なぜ金銭的サポートを探している人がいるのか？
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+多くのオープンソース活動はボランティアで行われています。例えば、ある人は自分が使っているプロジェクトでバグを見つけて簡単な修正を提出したのかもしれませんし、他の人は自分の空いた時間にオープンソースプロジェクトをいじるのを楽しんでいるのかもしれません。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+私は、クリスマスの週に取り掛かれる「趣味の」プログラミングプロジェクトを探していました。(...) 家にコンピュータを持っていて、他には特に手持ちがなかったのです。そこで、私は最近考えていた新しいスクリプト言語のインタープリタを書くことにしました。(...) その作品の名前はPythonとしました。
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
+人がオープンソース活動で金銭を受け取りたくないと思う理由はたくさんあります。
 
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+* **既に気に入っているフルタイムの仕事を持っているかもしれません。** これによって空いた時間にオープンソースにコントリビュートすることが可能になっています。
+* **オープンソースを趣味として楽しんでいるのかもしれません。** もしくは創造的な現実逃避として活動していて、金銭を得ることでそのプロジェクトに取り掛かるのに義務感を持ちたくないのかもしれません。
+* **オープンソースにコントリビュートすることで他のメリットを得ているのかもしれません。** 例えば、評判やポートフォリオを築いたり、新しいスキルを学んだり、コミュニティの近くにいると感じたり。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  金銭的な寄付を得ることによって、ある程度責任感が植え付けられます。(...) 世界中がつながっていて動きが早いこの世界で、「今は全く違うことがやりたい気分なんです」と言えるようになることは重要です。
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
+他の人にとっては、特にコントリビュートが現在進行中でまとまった時間が必要なときには、オープンソース活動によって金銭を得るのは、彼らがプロジェクトに参加できるようになるための唯一の方法です。たとえそれがプロジェクト側の要求であっても、個人的な理由であっても。
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+有名なプロジェクトを運営するのは大きな責任になるかもしれず、月に数時間ではなく週に10〜20時間も必要となるかもしれません。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  オープンソースプロジェクトのメンテナーに話を聞いてみてください。そうすると、彼らはプロジェクトを運営するのにどのくらいの仕事量が必要なのか、現実の話を教えてくれるでしょう。あなたには顧客がいます。彼らのために問題を解決しています。あなたは新しい機能を作っています。こういったことがあなたの時間を要求するのです。
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
