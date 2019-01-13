@@ -135,22 +135,22 @@ related:
 
 他の皆と同様に、お金を支払われて開発を行っている人もプロジェクト内の影響力を得るのは、コントリビュートの質や量によってです。明らかに、お金を支払われている開発者は支払われていない開発者よりも多くのことをできますが、それで良いのです：お金を得ているかどうかは、その人がどのくらい貢献するかに影響を与える要素が多くある中の1つでしかありません。プロジェクト内の議論では、コントリビュートを行う上での外部要因ではなく、コントリビュート自体に集中し続けましょう。
 
-## Do I need a legal entity to support my project?
+## プロジェクトを運営するのに法人は必要ですか？
 
-You don't need a legal entity to support your open source project unless you're handling money.
+お金を扱うのでなければ、オープンソースプロジェクトの運営に法人は必要ありません。
 
-For example, if you want to create a commercial business, you'll want to set up a C Corp or LLC (if you're based in the US). If you're just doing contract work related to your open source project, you can accept money as a sole proprietor, or set up an LLC (if you're based in the US).
+例えば、商用ビジネスを立ち上げたいのであれば、（もしUSで行うのであれば）C株式会社や有限会社の立ち上げを考えているでしょう。あなたがオープンソースプロジェクトに関連した請負作業を行うだけであれば、あなたが単独で報酬を受け取るか、もしくは（USで行うのであれば）LLCを設立することもできます。
 
-If you want to accept donations for your open source project, you can set up a donation button (using PayPal or Stripe, for example), but the money won't be tax-deductible unless you are a qualifying nonprofit (a 501c3, if you're in the US).
+あなたのオープンソースプロジェクトで寄付を受け取りたいのであれば、（例えばPayPalやStripeを使うことで）寄付ボタンを設置することができます。ただし、非営利団体（USの場合は501c3）でない場合は課税控除の対象にはなりません。
 
-Many projects don't wish to go through the trouble of setting up a nonprofit, so they find a nonprofit fiscal sponsor instead. A fiscal sponsor accepts donations on your behalf, usually in exchange for a percentage of the donation. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) are examples of organizations that serve as fiscal sponsors for open source projects.
+多くのプロジェクトでは非営利団体を設立するという面倒を避けるために、代わりに非営利の財政スポンサーを見つけています。財政スポンサーは、寄付額の一定の割合を受け取ることと引き換えにあなたの代わりに寄付を受け取ります。 [Software Freedom Conservancy](https://sfconservancy.org/)や[Apache Foundation](https://www.apache.org/)、[Eclipse Foundation](https://eclipse.org/org/foundation/)、[Linux Foundation](https://www.linuxfoundation.org/projects)、[Open Collective](https://opencollective.com/opensource)は、オープンソースプロジェクトの財政スポンサーとして活動している団体の例です。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
-  Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
+  私達のゴールは、コミュニティが自立して時速可能になるようなインフラを提供することで、コントリビュータ、支援者、スポンサーの全員が利益を得ることができるような環境を作ることです。  
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
   </p>
 </aside>
 
-If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.org/), the Python package manager, and the [Node.js Foundation](https://foundation.nodejs.org/) helps support [Express.js](https://expressjs.com/), a Node-based framework.
+もしあなたのプロジェクトが特定の言語やエコシステムと密接に関係しているのであれば、連携できるソフトウェア財団もあるかもしれません。例えば、[Python Software Foundation](https://www.python.org/psf/)は[PyPI](https://pypi.org/)というPythonのパッケージマネジャーをサポートしていますし、[Node.js Foundation](https://foundation.nodejs.org/)は[Express.js](https://expressjs.com/)というNodeベースのフレームワークをサポートしています。
