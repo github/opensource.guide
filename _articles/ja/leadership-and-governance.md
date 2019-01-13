@@ -99,13 +99,13 @@ related:
 
 * **業績主義:** **(メモ: "業績主義"という言葉は、コミュニティによっては否定的な意味を持つかもしれなく、[複雑な社会的、政治的歴史](http://geekfeminism.wikia.com/wiki/Meritocracy)があります。)** 業績主義のもとでは、活動的なプロジェクトコントリビュータ（「業績」を出した人）が、公式の意思決定の役割を与えられます。意思決定はたいてい投票によって行われます。業績主義のコンセプトは[Apache Foundation](https://www.apache.org/)が先鞭をつけました; [全てのApacheプロジェクト](https://www.apache.org/index.html#projects-list)は業績主義で運営されています。コントリビュートは、全て企業ではなく代表する個人によってのみ行われます。
 
-* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://foundation.nodejs.org/) and [Rust](https://www.rust-lang.org/).
+* **自由主義的なコントリビュート:** 自由主義的なコントリビュートモデルでは、最も働いている人が最も影響力があると認められますが、これはこれまでの貢献ではなく現時点での仕事に基づきます。プロジェクトでの大きな意思決定は、純粋な投票ではなく合意の模索プロセス（大きな不満点について議論する）によって行われます。そして、可能な限りコミュニティ内の多くの知見を集めようと努力します。自由主義的なコントリビュートモデルを採用している有名なプロジェクトの例としては、[Node.js](https://foundation.nodejs.org/)や[Rust](https://www.rust-lang.org/)があります。
 
-Which one should you use? It's up to you! Every model has advantages and trade-offs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
+どのモデルを使うべきでしょうか？それはあなた次第です！それぞれのモデルには利点と欠点があります。そして、はじめはこれらのモデルは全く異なるように見えるかもしれませんが、見かけ以上にこれらのモデルは共通点が多いのです。もしこれらのモデルのうちの1つを採用することに興味があるのであれば、これらのテンプレートを確認してみましょう：
 
-* [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
-* [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Node.js's liberal contribution policy](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
+* [BDFLモデルテンプレート](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
+* [業績主義モデルテンプレート](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
+* [Node.jsの自由主義的コントリビュートポリシー](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
 ## Do I need governance docs when I launch my project?
 
