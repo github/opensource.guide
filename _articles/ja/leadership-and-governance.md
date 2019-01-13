@@ -123,17 +123,17 @@ related:
   </p>
 </aside>
 
-## What happens if corporate employees start submitting contributions?
+## 企業の従業員がコントリビュートを提出したら何が起きますか？
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+成功したオープンソースプロジェクトは多くの人々や企業によって使われるようになります。そして、幾つかの企業では、プロジェクトが最終的な収益への流れに結びつくことになるかもしれません。例えば、プロジェクトのコードを商用のサービスの一部として使っているかもしれません。
 
-As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
+プロジェクトが広く使われるようになるほど、そのプロジェクトに習熟した人たちの需要が高まります - あなた自身もそうかもしれません！そして、プロジェクトでやっている仕事で採用されることも時にはあるでしょう。
 
-It's important to treat commercial activity as normal and as just another source of development energy. Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits. However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+企業の活動も、普通の活動と同じであり、1つの開発リソースの源であると捉えることは重要です。当然、給与をもらって開発している人を特別扱いすべきではありません; それぞれのコントリビュートは技術的な功績によって評価されるべきです。しかしながら、企業活動に従事する事を苦痛に感じるべきではありませんし、特定の改善や機能について議論するときにはユースケースを主張することにも苦痛を感じるべきではありません。
 
-"Commercial" is completely compatible with "open source". "Commercial" just means there is money involved somewhere - that the software is used in commerce, which is increasingly likely as a project gains adoption. (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+「商用利用」は、「オープンソース」とは完全に両立可能です。「商用利用」は単にどこかでお金が絡んでいることを意味するに過ぎません - それはソフトウェアが商取引で使われているということで、プロジェクトが多く採用されるにつれてその可能性は増していきます。（オープンソースソフトウェアがオープンソースではない製品の一部として使われる時、プロダクト全体はそれでも「プロプライエタリ」ソフトウェアですが、オープンソースのように商用も非商用のどちらでも利用可能です。）
 
-Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+他の皆と同様に、お金を支払われて開発を行っている人もプロジェクト内の影響力を得るのは、コントリビュートの質や量によってです。明らかに、お金を支払われている開発者は支払われていない開発者よりも多くのことをできますが、それで良いのです：お金を得ているかどうかは、その人がどのくらい貢献するかに影響を与える要素が多くある中の1つでしかありません。プロジェクト内の議論では、コントリビュートを行う上での外部要因ではなく、コントリビュート自体に集中し続けましょう。
 
 ## Do I need a legal entity to support my project?
 
