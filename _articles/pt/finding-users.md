@@ -61,29 +61,29 @@ Se seu projeto está hospedado no GitHub, você pode utilizar as [GitHub Pages](
 
 Agora que você tem uma mensagem para seu projeto, e uma maneira fácil das pessoa o acharem, vamo lá falar com seu público!
 
-## Go where your project's audience is (online)
+## Vá para onde o público do seu projeto está (online)
 
-Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
+Divulgação online é uma boa maneira de compartilhar e espalhar a palavra rapidamente. Usando canais online, você tem o potencial de atingir um público muito amplo.
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+Tome vantagem de comunidades e plataformas online existentes para atingir seu público. Se seu projeto open source é um projeto se software, você, provavelmente, pode encontrar seu público no [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), ou [Quora](https://www.quora.com/). Encontre os canais que você acha que as pessoas irão mais se beneficiar ou se excitar com o seu trabalho.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+  Cada programa tem funções muito específicas que somente uma fração dos usuários irá achar útil. Não dispare spam o maior número de pessoas possível. Em vez disso, direcione seus esforços para as comunidades que se beneficiarão com o conhecimento do seu projeto.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
-See if you can find ways to share your project in relevant ways:
+Veja se você pode encontrar maneiras de compartilhar seu projeto em modos relevantes:
 
-* **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
-* **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-* **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
+* **Conheça projetos e comunidades open source relevantes.** Às vezes, você não precisa promover o seu projeto diretamente. Se seu projeto é perfeito para cientistas de dados que usam Python, conheça a comunidade de ciência de dados do Python. À medida que as pessoas o conhecerem, oportunidades de falar sobre e compartilhar seu trabalho surgirão naturalmente.
+* **Encontre pessoas passando pelos problema que seu projeto resolve.** Procure em fóruns relacionados para pessoas que se enquadram no público-alvo de seu projeto. Responda as questões deles e encontre uma maneira sútil, quando apropriado, de sugerir seu projeto como solução.
+* **Peça feedback.** Introduza você mesmo e seu trabalho para uma audiência que o acharia relevante e interessante. Seja especifico sobre quem você acha que se beneficiaria com seu projeto. Tente completar a sentença:  _"Eu acho que meu projeto realmente ajudaria X, que está tentando fazer Y_". Ouça e responda os feedbacks dos outros, em vez de simplesmente promover seu trabalho.
 
-Generally speaking, focus on helping others before asking for things in return. Because anyone can easily promote a project online, there will be a lot of noise. To stand out from the crowd, give people context for who you are and not just what you want.
+De um modo geral, foque em ajudar os outros antes de pedir coisas em troca. Porque qualque um pode facilmente promover um projeto onlive, haverá muito ruído. Para se destacar da multidão, dê às pessoas um contexto para quem você e não apenas para o que você quer.
 
-If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. Promoting and launching your project takes time and dedication.
+Se ninguém prestar atenção ou responder seu trabalho inicial, não desanime! A maioria lançamentos de projetos é um processo iterativo que pode levar meses ou anos. Se você não obtiver resposta na primeira vez, tente uma tática diferente, ou busque por caminhos que agreguem valor paras os trabalhos dos outros primeiro. Promover e lançar seu projeto leva tempo e dedicação.
 
 ## Go where your project's audience is (offline)
 
