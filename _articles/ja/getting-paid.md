@@ -95,21 +95,21 @@ related:
 オープンソース活動を優先するということを現在の雇用主に納得してもらえなかった場合、オープンソースへのコントリビュートを奨励している新しい雇用主を探すことを検討しましょう。オープンソース活動への貢献を明確にしている企業を探しましょう。例えば：
 
 * [Netflix](https://netflix.github.io/)や[PayPal](https://paypal.github.io/)といった企業は、彼らのオープンソースへの関わりをまとめたウェブサイトを持っています。
-* [Rackspace](https://www.rackspace.com/en-us) published its [open source contribution policy](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) for employees
+* [Rackspace](https://www.rackspace.com/en-us)は従業員向けに[オープンソースコントリビュートポリシー](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/)を公開しています
 
-Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
+[Go](https://github.com/golang)や[React](https://github.com/facebook/react)のような大企業がはじめたプロジェクトでは、オープンソース活動を行う人々を採用する可能性があります。
 
-Depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
+あなた個人の状況によっては、あなた個人でオープンソース活動に資金を出してもらう試みをすることも可能です。例えば：
 
-* @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](https://redux.js.org/)
-* @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* @gaearon は[Patreonでのクラウドファンディング](https://redux.js.org/)を通じて、[Redux](https://github.com/reactjs/redux)の活動の資金を得ています。
+* @andrewgodwin は[through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)を通じて、Djangoのスキーママイグレーションの活動の資金を得ています。
 
-Finally, sometimes open source projects put bounties on issues that you might consider helping with. 
+最後に、オープンソースプロジェクトの中には問題解決を手伝ってもらうために報奨金を提示しているものもあります。
 
-* @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their javascript library [through a bounty on gitcoin](https://gitcoin.co/).
-* @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://beta.bounties.network/bounty/v1/134).
+* @ConnorChristie は[gitcoinの報奨金制度](https://gitcoin.co/)で@MARKETProtocolがjavascriptライブラリの作業を[手伝う](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14)ことで金銭を得ました。
+* @mamiMは@MetaMaskの日本語訳作業が[Bounties Networkに資金提供された際に](https://beta.bounties.network/bounty/v1/134)、その作業を行いました。
 
-## Finding funding for your project
+## あなたのプロジェクトへの資金提供を探そう
 
 Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
 
