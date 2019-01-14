@@ -48,23 +48,23 @@ related:
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time. This has ethical implications, as @ashedryden [has described](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), since work that is done is biased in favor of those who already have advantages in life, who then gain additional advantages based on their volunteer contributions, while others who are not able to volunteer then don't get later opportunities, which reinforces the current lack of diversity in the open source community.
+有償で仕事ができることで、異なる人生の歩み方をしている人が、コントリビュートを可能にします。現在の財政的状況や負債、家族、その他世話が必要な人がいる等の理由で、オープンソース活動を無償で行う余裕がない人もいます。この事は、ボランティアではオープンソース活動を行う余裕がない人たちからのコントリビュートが実現しないということを意味します。これは@ashedryden [が述べたように](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)、倫理的な問題があります。コントリビュートが、既に余裕のある人からだけに偏ってしまい、このボランティア活動によって彼らが更にメリットを得ることになるのです。その一方、ボランティア活動を行うことのできない人は機会を得ることができず、オープンソースコミュニティにおける多様性の不足がより増長されてしまいます。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+   OSSはテクノロジー業界に多大なメリットを生み出し、ひいてはあらゆる産業にメリットをもたらします。 (...) しかし、オープンソース活動に従事できるのがラッキーで夢中になっている人だけであるとしたら、それは大きな機会損失です。
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+もし金銭的なサポートを探しているのであれば、考えられる道は2つあります。コントリビュータとして有償で活動をするか、プロジェクトの支援をしてくれる組織を探すかです。
 
 ## Funding your own time
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
+今日では、多くの人がオープンソース活動でパートタイムやフルタイムの給与を得ています。これを実現するもっともよくあるケースは、雇用主に話してみることです。
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+もし雇用主がそのプロジェクトを使っているのであれば、オープンソース活動をするのはより簡単になるでしょう。しかし、説明の仕方はよく練る必要があります。そのプロジェクトを使っていないかもしれませんが、Pythonを使っているとすれば、Pythonの有名なプロジェクトに関わることで新しいPython開発者を惹き付ける役に立つでしょう。こう説明することで、雇用主はより友好的になるでしょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
