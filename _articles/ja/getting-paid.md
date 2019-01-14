@@ -111,41 +111,40 @@ related:
 
 ## あなたのプロジェクトへの資金提供を探そう
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+個人のコントリビュータの作業を超えて、時には企業、個人や他の人たちから現在進行中の作業に対して資金提供を得るプロジェクトもあります。
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+組織の資金は、現在のコントリビュータへの支払いや、（ホスティング費用などの）プロジェクト運営費の補填、新しい機能やアイデアへの投資に充てられます。
 
-As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
+オープンソースの知名度が向上しているため、プロジェクトへの資金提供は未だに手探り状態ではあるものの、幾つかのよくある選択肢が利用可能です。
 
-### Raise money for your work through crowdfunding campaigns or sponsorships
+### クラウドファンディングやスポンサーを通じて資金を得る
 
-Finding sponsorships works well if you have a strong audience or reputation already, or your project is very popular.
-A few examples of sponsored projects include:
+あなたが既に協力者や強力な名声を築いていたり、プロジェクトが非常に有名なのであれば、スポンサーを探すのはうまくいくでしょう。スポンサーを得たプロジェクトの例を幾つか挙げます：
 
-* **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[webpack](https://github.com/webpack)**は[OpenCollectiveを通じて](https://opencollective.com/webpack)企業や個人から資金を得ています。
+* **[Vue](https://github.com/vuejs/vue)**は[Patreonを通じて資金を得ています](https://github.com/open-source/stories/yyx990803)。
+* **[Ruby Together](https://rubytogether.org/)**という非営利団体は[bundler](https://github.com/bundler/bundler)や[RubyGems](https://github.com/rubygems/rubygems)といったRubyの基盤プロジェクトに資金を提供しています。
 
-### Create a revenue stream
+### 収益源を作る
 
-Depending on your project, you may be able to charge for commercial support, hosted options, or additional features. A few examples include:
+プロジェクトによっては、商用サポートやホスティング、追加機能によって課金するうことができるかもしれません。幾つか例を挙げます：
 
-* **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
-* **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
-* **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
+* **[Sidekiq](https://github.com/mperham/sidekiq)**は、サポートを追加することで有償版を提供しています。
+* **[Travis CI](https://github.com/travis-ci)**は、製品の有償版を提供しています。
+* **[Ghost](https://github.com/TryGhost/Ghost)**は、有償のマネージドサービスを提供する非営利サービスです。
 
-Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+[npm](https://github.com/npm/npm)や[Docker](https://github.com/docker/docker)のような有名なプロジェクトでは、ビジネスの成長を支えるためにベンチャーキャピタルから資金調達をしています。
 
-### Apply for grant funding
+### 助成金に応募する
 
-Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
+ソフトウェア財団や企業の中にはオープンソース活動に対して助成金を提供しているところもあります。プロジェクト用の法人を設置は不要で、個人に対して支払いをする助成金もあります。
 
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
-* **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
-* The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
+* **[Read the Docs](https://github.com/rtfd/readthedocs.org)**は[Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)から助成金を得ています。
+* **[OpenMRS](https://github.com/openmrs)**[StripeのOpen-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)から資金を得ています。
+* **[Libraries.io](https://github.com/librariesio)**は[Sloan Foundation](https://sloan.org/programs/digital-technology)から助成金を得ています。
+* **[Python Software Foundation](https://www.python.org/psf/grants/)**はPython関連のプロジェクトに対して助成金を提供しています。
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+更に詳細な選択肢や事例については、@nayafiaがオープンソース活動において資金を得るための[ガイドを書いています](https://github.com/nayafia/lemonade-stand)。資金調達方法によって必要なスキルは異なるので、あなたの強みを分析してどの選択肢が最善か検討しましょう。
 
 ## Building a case for financial support
 
