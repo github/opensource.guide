@@ -68,19 +68,19 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+  オープンソースを行っている多くの人のように、プロジェクト運営の重荷に苦しんでいました。はじめてオープンソース活動を始めた時、私は遅い時間か、家に帰ってすぐにオープンソース活動を行っていました。 (...) 私が直面していた問題について上司と話すことができたため、自分たちが使っていたBabelに関するタスクを普段の仕事に取り込む良い方法を思いつきました。
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
-If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
+もし取り組みたい既存のオープンソース活動がないけれども、現在の仕事の成果をオープンソースにしたいと望んでいる場合は、社内のソフトウェアをオープンソース化する事例を作りましょう。
 
-Many companies are developing open source programs to build their brand and recruit quality talent.
+多くの企業が、ブランド構築と有能な開発者の採用のためにオープンソースプログラムを作っています。
 
-@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
+例えば @hueniverse は、[ウォルマートがオープンソースに投資する](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html)べき金銭的理由がある事に気づきました。そして、 @jamesgpearce は、Facebookのオープンソースプログラムが採用に関して[差別化になる](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon)と気づきました：
 
-> It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
+> それは私達のハッカー文化や私達の組織の認知のされ方と緊密に整合していました。私達は従業員に対して、「Facebookのオープンソースソフトウェアプログラムを知っていますか？」と聞いてみました。三分の二は「はい」と答え、半分は仕事上の決定を行う際に良い影響を与えていると答えました。これは小さな値ではありませんし、これは今後も続いていくトレンドだと信じています。
 
 If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
 
