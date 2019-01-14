@@ -82,19 +82,19 @@ related:
 
 > それは私達のハッカー文化や私達の組織の認知のされ方と緊密に整合していました。私達は従業員に対して、「Facebookのオープンソースソフトウェアプログラムを知っていますか？」と聞いてみました。三分の二は「はい」と答え、半分は仕事上の決定を行う際に良い影響を与えていると答えました。これは小さな値ではありませんし、これは今後も続いていくトレンドだと信じています。
 
-If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
+あなたの会社がこれと同じ道をたどるのであれば、コミュニティと企業の活動の境界を明確に引いておくことが重要です。結局、オープンソースは世界中の人々のコントリビュートによって維持されており、それはどんな企業や場所よりも大きいのです。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
-  Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
+  オープンソース活動で金銭を得るのは稀で素晴らしい機会です。しかし、そうなる過程であなたの熱意を諦めるべきではありません。あなたの熱意こそが、会社がお金を払う理由であるはずだからです。
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
 </aside>
 
-If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
+オープンソース活動を優先するということを現在の雇用主に納得してもらえなかった場合、オープンソースへのコントリビュートを奨励している新しい雇用主を探すことを検討しましょう。オープンソース活動への貢献を明確にしている企業を探しましょう。例えば：
 
-* Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](https://paypal.github.io/), have websites that highlight their involvement in open source
+* [Netflix](https://netflix.github.io/)や[PayPal](https://paypal.github.io/)といった企業は、彼らのオープンソースへの関わりをまとめたウェブサイトを持っています。
 * [Rackspace](https://www.rackspace.com/en-us) published its [open source contribution policy](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) for employees
 
 Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
