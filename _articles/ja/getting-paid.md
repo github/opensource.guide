@@ -146,25 +146,26 @@ related:
 
 更に詳細な選択肢や事例については、@nayafiaがオープンソース活動において資金を得るための[ガイドを書いています](https://github.com/nayafia/lemonade-stand)。資金調達方法によって必要なスキルは異なるので、あなたの強みを分析してどの選択肢が最善か検討しましょう。
 
-## Building a case for financial support
+## 資金援助のための論拠を構築しよう
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+あなたのプロジェクトが新しいアイデアであろうと、何年も取り掛かってきたものだろうと、ターゲットとなる資金提供者を特定し、説得力のある論拠をつくるために考慮する必要があります。
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+あなた自身の活動に対して資金を得るにせよ、プロジェクトの資金調達をするにせよ、下記の質問に答えられるようにしておくべきです。
 
-### Impact
+### インパクト
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+なぜこのプロジェクトが役に立つのでしょうか？ユーザーや潜在的なユーザーはあなたのプロジェクトを気に入っているのでしょうか？5年後はどうなっているでしょうか？
 
-### Traction
+### トラクション
 
+あなたのプロジェクトが重要である証拠を集めましょう。それはメトリクスでも良いですし、
 Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
 
-### Value to funder
+### 資金提供者への価値
 
 Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
 
-### Use of funds
+### 資金の使い道
 
 What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
 
