@@ -484,38 +484,38 @@ Se o projeto estiver no GitHub, veja como enviar um pull request:
 
 Se este é o seu primeiro pull reques, confira[Faça um pull request](http://makeapullrequest.com/), que @kentcdodds criou como um tutorial em vídeo passo a passo. Você também pode praticar uma pull request no repositório [Primeira Contribuição] (https://github.com/Roshanjossey/first-contributions), criado por @Roshanjossey.
 
-## What happens after you submit a contribution
+## O que acontece depois que você envia uma contribuição
 
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+Você fez isso! Parabéns por se tornar um colaborador de código aberto. Esperamos que seja a primeira de muitas.
 
-After you submit a contribution, one of the following will happen:
+Depois de enviar uma contribuição, uma das seguintes situações ocorrerá:
 
-### 😭 You don't get a response.
+### 😭 Você não recebe uma resposta.
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+Espero que você [tenha checado o projeto em busca de sinais de atividade](#uma-lista-de-verificação-antes-de-você-contribuir) antes de fazer uma contribuição. Mesmo em um projeto ativo, no entanto, é possível que sua contribuição não receba uma resposta.
 
-If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+Se você não obtiver uma resposta após uma semana, é justo responder educadamente no mesmo tópico, pedindo a revisão de alguém. Se você souber o nome da pessoa certa para revisar sua contribuição, você poderá @menciona-la nesse tópico.
 
-**Don't** reach out to that person privately; remember that public communication is vital to open source projects.
+**Não** contate essa pessoa em particular; Lembre-se de que a comunicação pública é vital para projetos opensource.
 
-If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+Se você fizer uma chamada educada e ninguém responder, é possível que ninguém responda, nunca. Não é um sentimento agradável, mas não deixe que isso o desanime. Aconteceu com todos! Existem muitas razões possíveis pelas quais você não recebeu uma resposta, incluindo circunstâncias pessoais que podem estar fora de seu controle. Tente encontrar outro projeto ou uma maneira de contribuir. Bem como outro motivos, este é uma boa razão para não investir muito tempo em fazer uma contribuição antes que outros membros da comunidade estejam engajados e responsivos.
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 Alguém solicita alterações na sua contribuição.
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+É comum que você seja solicitado a fazer alterações em sua contribuição, ou mesmo feedback sobre o escopo de sua ideia ou alterações em seu código.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+Quando alguém solicita alterações, seja responsivo. Eles tomaram o tempo para revisar sua contribuição. Abrir um PR e ir embora é má educação. Se você não souber como fazer as alterações, pesquise o problema e peça ajuda se precisar.
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+Se você não tiver mais tempo para trabalhar no assunto (por exemplo, se a conversa já dura meses, e suas circunstâncias mudaram), informe ao mantenedor para que ele não esteja esperando uma resposta. Alguém pode ficar feliz em assumir o controle.
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 Sua contribuição não é aceita.
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
+Sua contribuição pode ou não ser aceita no final. Espero que você não tenha trabalhado muito nisso já. Se você não tem certeza do motivo pelo qual não foi aceito, é perfeitamente razoável pedir feedback e esclarecimentos ao mantenedor. Em última análise, no entanto, você precisa respeitar que essa é a decisão deles. Não discuta ou seja hostil. Você é sempre bem vindo para fazer  uma copia e trabalhar em sua própria versão, se você não concordar!
 
-### 🎉 Your contribution gets accepted.
+### 🎉 Sua contribuição é aceita.
 
-Hooray! You've successfully made an open source contribution!
+Viva! Você fez uma contribuição opensource com sucesso!
 
-## You did it!
+## Você fez isso!
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+Se você acabou de fazer sua primeira contribuição opensource ou está procurando novas maneiras de contribuir, esperamos que você esteja inspirado a agir. Mesmo que sua contribuição não tenha sido aceita, não se esqueça de agradecer quando um mantenedor se esforçar para ajudá-lo. O opensource é feito por pessoas como você: uma issue, pull request, comentário ou high-five de cada vez.
