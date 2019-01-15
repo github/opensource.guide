@@ -158,16 +158,15 @@ related:
 
 ### トラクション
 
-あなたのプロジェクトが重要である証拠を集めましょう。それはメトリクスでも良いですし、
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+あなたのプロジェクトが重要である証拠を集めましょう。それはメトリクスでも良いですし、事例でもユーザーの声でも構いません。今現在、あなたのプロジェクトを使っている企業や特筆すべき人々はいるでしょうか？もしいないのであれば、有名な人が支援してくれないでしょうか？
 
 ### 資金提供者への価値
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+雇用主であれ助成金を出す財団であれ、資金提供者は多くの人から相談を受けています。他の人ではなくあなたのプロジェクトを支援するべき理由は何でしょう？彼ら自身にはどういったメリットがあるでしょうか？
 
 ### 資金の使い道
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+資金を得たら、あなたはそれを使って具体的に何を達成するつもりでしょうか？給与の支払いではなく、プロジェクトのマイルストーンやプロジェクトの成果に焦点を当てましょう。
 
 ### How you'll receive the funds
 
