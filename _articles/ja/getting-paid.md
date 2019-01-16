@@ -168,20 +168,20 @@ related:
 
 資金を得たら、あなたはそれを使って具体的に何を達成するつもりでしょうか？給与の支払いではなく、プロジェクトのマイルストーンやプロジェクトの成果に焦点を当てましょう。
 
-### How you'll receive the funds
+### 資金をどのように受け取る予定か？
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+資金提供者は、支払いに関して何か要求していることはあるでしょうか？例えば、非営利である必要があったり、非営利の資金スポンサーがついている必要があるかもしれません。もしくは、資金が組織に対してではなく個人の請負として提供される必要があるかもしれません。これらの要求は資金提供車によって異なるので、事前に確かめておきましょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  何年もの間、私達はウェブサイトで使いやすいアイコンの提供する先進的なプロジェクトです。コミュニティには2000万人以上のメンバーがおり、7000万以上のウェブサイトで使われてきました。その中には、Whitehouse.govも含まれています。 (...) バージョン4は3年前にリリースされました。その当時からウェブ技術は大きく変わりましたが、率直に言うとFont Awesomeは少し古くなってしまいました。 (...) そのため、私達はFont Awesome 5を作りました。CSSをモダンにするために書き直し、すべてのアイコンを再デザインしています。私達は、よりよいデザイン、よりよい一貫性、よりよい可読性について話しています。
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
-## Experiment and don't give up
+## 実験し、諦めないようにしよう
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+資金調達は簡単ではありません、たとえそれがオープンソースプロジェクトであれ、非営利であれ、ソフトウェアスタートアップであれ。そして、多くの場合では創造的である必要があります。どのように支払ってほしいかを特定し、調査をし、資金提供者の立場で考えることで、資金調達に向けて納得感のある論拠を構築できるようになるでしょう。
 
 >
