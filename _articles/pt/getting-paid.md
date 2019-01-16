@@ -60,25 +60,25 @@ O trabalho pago também permite a pessoas com diferentes contextos e esferas de 
 
 Se você está procurando por suporte financeiro, há dois caminhos a considerar. Você pode financiar o seu próprio tempo como contribuidor, ou pode encontrar um financiamento organizacional para o projeto.
 
-## Funding your own time
+## Financiando o seu próprio tempo
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
+Hoje, muitas pessoas são pagas para trabalhar parcial ou integralmente com código aberto. A maneira mais comum de ser pago pelo seu tempo é falar com seu empregador.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+É mais fácil convencer o seu empregador se sua empresa, de fato, utilizar o seu projeto, mas seja criativo com a sua proposta. Talvez seu projeto não seja utilizado, mas Python sim, e manter um projeto Python popular ajude a atrair novos desenvolvedores Python. Pode fazer com que sua empresa pareça mais developer-friendly, de um modo geral.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+  Como muitos no código aberto, eu estava sustentando fardo de manter um projeto. Quando eu comecei com o código aberto, eu costumava ficar acordado até tarde para trabalhar nisso assim que chegava em casa. (...) Eu fui capaz de discutir com meu chefe os problemas que estava enfrentando e tivemos várias ideias sobre como poderíamos incorporar tarefas open source baseadas no nosso próprio uso do Babel.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
-If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
+Se você não tem um projeto de código aberto no qual gostaria de contribuir, mas contribuiria se o que fosse produzido no seu trabalho fosse de código aberto, convença o seu empregador a abrir o código de alguns dos softwares internos da empresa.
 
-Many companies are developing open source programs to build their brand and recruit quality talent.
+Muitas empresas estão desenvolvendo programas de código aberto para construir suar marca e recrutar talentos de qualidade.
 
-@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
+@hueniverse, por exemplo, descobriu que haviam razões financeiras para justificar [o investimento do Walmart em código aberto](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). E @jamesgpearce descobriu que o programa de código aberto do Facebook [fez uma diferença](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) no recrutamento:
 
 > It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
 
