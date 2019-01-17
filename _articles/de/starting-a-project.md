@@ -162,14 +162,14 @@ Versuchen Sie in Ihrer README folgende Fragen zu beantworten:
 Sie können Ihre README verwenden, um andere Fragen zu beantworten: z.B. wie Sie mit Beiträgen handhaben, welche Ziele das Projekt verfolgt, oder wie es um Lizenzen und Zuschreibungen steht. Wenn Sie keine Beiträge annehmen wollen oder Ihr Projekt noch nicht produktionsreif ist, schreiben Sie auch diese Informationen auf.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
 
   Bessere Dokumentation bedeutet mehr Benutzer\*innen, weniger Supportanfragen und mehr Mitwirkende. (...) Denken Sie daran, dass Ihre Leser\*innen und andere Leute, die auf Ihr Projekt stoßen andere Erfahrungshintergründe haben.
 
   _Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences._
 
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
