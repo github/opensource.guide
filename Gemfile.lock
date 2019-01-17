@@ -219,7 +219,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     octokit (4.13.0)
       sawyer (~> 0.8.0, >= 0.5.3)
-    parallel (1.12.1)
+    parallel (1.13.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
