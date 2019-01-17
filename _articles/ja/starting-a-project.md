@@ -150,10 +150,10 @@ READMEには、下記の質問に答えるようにしましょう：
 READMEでは、貢献をどのように扱うか、プロジェクトのゴールはなにか、ライセンスや帰属についての情報などといった他の疑問に答えるのに使うこともできる。もし貢献を受け入れたくなかったり、あなたのプロジェクトは運用に乗せる準備が整っていなかったりする場合は、その情報も書きましょう。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   良いドキュメントを書くことで、ユーザーが増え、サポートのリクエストが減り、コントリビュータが増えることを意味します。（…）読者はあなたとは違うということを忘れないで下さい。完全に異なる経験を持った人がプロジェクトに来るかもしれないのです。
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
