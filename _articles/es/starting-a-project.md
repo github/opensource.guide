@@ -150,10 +150,10 @@ Trata de que tu README responda a las siguientes preguntas:
 Puedes usarlo para responder otras preguntas: c&oacute;mo manejo las contribuciones, cu&aacute;les son las metas del proyecto, e informaci&oacute;n acerca de licencias y atribuciones. Si no quieres aceptar contribuciones, o tu proyecto no est&aacute; listo para producci&oacute;n, lo escribes.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Mejor documentaci&oacute;n significa m&aacute;s usuarios, menos pedidos de soporte, y m&aacute;s contribuyentes. Recuerda que tus lectores no son t&uacute;, son personas que quiz&aacute;s acudan al proyecto con experiencias totalmente distintas a las tuyas.
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
