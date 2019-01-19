@@ -125,32 +125,32 @@ Procure por conferências que são específicas para a sua linguagem ou ecossist
   </p>
 </aside>
 
-## Build a reputation
+## Construa uma reputação
 
-In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
+Além das estratégias descritas acima, a melhor forma de convidaer pessoas para compartilhar e contribuir para seu projete é compartilhar e contrbuir para os projetos delas.
 
-Helping newcomers, sharing resources, and making thoughtful contributions to others' projects will help you build a positive reputation. Being an active member in the open source community will help people have context for your work and be more likely to pay attention to and share your project. Developing relationships with other open source projects can even lead to official partnerships.
+Ajudar os recém-chegadors, compartilhar recursos, e fazar contribuições conscientes para os projetos dos outros o ajudará a construir um reputação positiva. Ser um membro ativo na comunidade open source ajudará as pessoas a terem contexto sobre o seu trabalho e terá maior probabilidade a prestarem atenção e compartilharem seu projeto. Desenvolver relacionamentos com os outros projetos open source pode até levar a parcerias oficiais.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
-  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+  A única razão para urllib3 ser a biblioteca Python de terceiro mais popular atualmente é porque faz parte da [requests](https://github.com/requests/requests).
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue to look for ways to help others.
+Nunca é cedo demais ou tarde demais para iniciar a construir sua reputação. Mesmo que você já tenha lançado seu próprio projeto, continue procurando por formas de ajuar os outros.
 
-There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and building your reputation never ends.
+Não há uma solução instantânea para a construção de uma audiência. Ganhar a confiança e o respeito dos outros leva tempo, e a construção de sua reputação nunca acaba.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
+  PhantomJS foi lançado pela primeira vez no início de 2011. (...) Eu espalhei a palavra da maneira usual: Eu "twittava" sobre isso, escrevia posts de blog sobre o que você pode fazer com isso, o mencionei durante várias discussões em meetups. Quando ficou mais conhecido em 2014, comecei a fazer apresentações sobre o assunto.
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
   </p>
 </aside>
 
-## Keep at it!
+## Continue assim!
 
-It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will spontaneously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
+Pode levar um longo tempo antes das pessoas notarem seu projeto open source. Está tudo bem! Alguns dos projetos mais populares hoje levaram anos para atingir os níveis mais altos de atividade. Concentre-se em construir relacionamentos em vez de esperar que seu projeto espontâneamente ganhe popularidade. Seja paciente, e mantenha-se compartilhando seu trabalho com aqueles que o apreciam.
