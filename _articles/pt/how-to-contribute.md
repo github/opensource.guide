@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Trabalhar no \[freenode\] me ajudou a obter várias habilidades que mais tarde usei para meus estudos na universidade e no meu atual trabalho. E penso que trabalhar em projetos open source me ajuda tanto quanto ajuda o projeto!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Porque eu amo contribuir para software open source"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -56,13 +56,13 @@ Não se preocupe! Há todo tipo de maneiras de se envolver com um projeto de ope
 
 ### Você não precisa contribuir com código
 
-Um equívoco comum sobre contribuir para o open source é que você precisa contribuir com código. Na verdade, muitas vezes são as outras partes de um projeto que são [mais negligenciadas ou esquecida] (https://github.com/blog/2195-the-shape-of-open-source). Você fará um grande favor ao projeto, oferecendo-se para contribuir com esses tipos de contribuições!
+Um equívoco comum sobre contribuir para o open source é que você precisa contribuir com código. Na verdade, muitas vezes são as outras partes de um projeto que são [mais negligenciadas ou esquecida](https://github.com/blog/2195-the-shape-of-open-source). Você fará um grande favor ao projeto, oferecendo-se para contribuir com esses tipos de contribuições!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Fui elogiada pelo meu trabalho no CocoaPods, mas a maioria das pessoas não sabe que eu realmente não faço nenhum trabalho real na própria ferramenta CocoaPods. Meu tempo no projeto é principalmente gasto fazendo coisas como documentação e trabalhando na marca.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Mudando para o OSS por padrão"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -72,7 +72,7 @@ Mesmo se você gosta de escrever código, outros tipos de contribuições são u
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
   Eu entrei em contato com a equipe de desenvolvimento do Python (também conhecida como python-dev) quando enviei um email para a lista de discussão em 17 de junho de 2002 sobre a aceitação do meu patch. Eu rapidamente peguei o bug de open source e decidi começar a curar os resumos de e-mail para o grupo. Eles me deram uma ótima desculpa para pedir esclarecimentos sobre um tópico, mas, mais criticamente, pude perceber quando alguém apontou algo que precisava ser consertado.
   <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Histórias de mantenedores"](https://github.com/open-source/stories/brettcannon)
+— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
@@ -101,7 +101,7 @@ Mesmo se você gosta de escrever código, outros tipos de contribuições são u
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   Sério, \[documentação \] é mega importante. A documentação até agora tem sido ótima e tem sido uma característica destruidora de Babel. Há seções que certamente poderiam ser trabalhada e até mesmo a adição de um parágrafo aqui ou ali é extremamente apreciada.
   <p markdown="1" class="pquote-credit">
-— @kittens, ["Chamada para contribuidores"](https://github.com/babel/babel/issues/1347)
+— @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
@@ -148,7 +148,7 @@ Mesmo se você for um desenvolvedor de software, trabalhar na documentação de 
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Se você for a uma lista de issues e as coisas parecerem confusas, não é só você. Essas ferramentas exigem muito conhecimento implícito, mas as pessoas podem ajudá-lo a navegar e você pode fazer perguntas.
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["Como contribuir para o open source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
@@ -176,7 +176,7 @@ Projetos maiores também podem ter subcomitês ou grupos de trabalho focados em 
 
 Um projeto também possui documentação. Esses arquivos são geralmente listados no nível superior de um repositório.
 
-* **LICENSE:** Por definição, todo projeto de open source deve ter uma [licença open source] (https://choosealicense.com). Se o projeto não tiver uma licença, não é de open source.
+* **LICENSE:** Por definição, todo projeto de open source deve ter uma [licença open source](https://choosealicense.com). Se o projeto não tiver uma licença, não é de open source.
 * **README:** O README é o manual de instruções que dá as boas-vindas aos novos membros da comunidade para o projeto. Isso explica por que o projeto é útil e como começar.
 * **CONTRIBUTING:** Enquanto os READMEs ajudam as pessoas a _usar_ o projeto, os documentos contribuintes ajudam as pessoas a _contribuir_ para o projeto. Ele explica quais tipos de contribuições são necessários e como o processo funciona. Embora nem todo projeto tenha um arquivo CONTRIBUTING, sua presença sinaliza que este é um projeto de boas-vindas para contribuir.
 * **CODE_OF_CONDUCT:** O código de conduta estabelece regras básicas para o comportamento dos participantes e ajuda a facilitar um ambiente amigável e acolhedor. Embora nem todo projeto tenha um arquivo CODE_OF_CONDUCT, sua presença indica que este é um projeto de boas-vindas para contribuir.
@@ -368,7 +368,7 @@ Um projeto que é amigavel e acolhedor indica que eles serão receptivos a novos
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Sempre que você vir um longo tópico, verifique as respostas dos principais desenvolvedores no final do tópico. Eles estão resumindo construtivamente, e tomando providências para levar a discussão a uma decisão de forma educada? Se você ver um monte de guerras acontecendo, isso freqüentemente é um sinal de que esta sendo gasto energia em discussões em vez de desenvolvimento.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Produzindo OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
@@ -384,7 +384,7 @@ Seja você um colaborador ocasional ou esteja tentando entrar em uma comunidade,
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
     \[Sendo um colaborador iniciante,\] eu rapidamente percebi que tinha que fazer perguntas se quisesse fechar a issue. Eu analizei o código. Assim que percebi o que estava acontecendo, pedi mais orientações. E voilà! Consegui resolver a issue depois de obter todos os detalhes relevantes de que precisava.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [Um colaborador iniciante e sua jornada atraves do mundo open source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
 </aside>
 
@@ -446,7 +446,7 @@ Se você quiser fazer uma contribuição substancial, abra uma issue para pergun
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   Você aprenderá <em>muito</em> se analizando projeto que você usa ativamente, "watching" no GitHub e lendo as issues e PR.
 <p markdown="1" class="pquote-credit">
-— @gaearon [em unindo se a um projeto](https://twitter.com/dan_abramov/status/819555257055322112)
+— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
@@ -482,7 +482,7 @@ Se o projeto estiver no GitHub, veja como enviar um pull request:
 * **Teste suas mudanças!** Execute suas alterações em relação a quaisquer testes existentes, e crie novos quando necessário. Se os testes existirem sempre verifique se suas alterações não quebram o projeto existente.
 * **Contribua para o estilo do projeto** para melhorar suas habilidades. Isso pode significar usar recuos, ponto-e-vírgula ou comentários de maneira diferente do que você faria em seu próprio repositório, mas torna mais fácil para o mantenedor unir codigos, e para outros manterem e entederem e melhorar no futuro.
 
-Se este é o seu primeiro pull reques, confira[Faça um pull request](http://makeapullrequest.com/), que @kentcdodds criou como um tutorial em vídeo passo a passo. Você também pode praticar uma pull request no repositório [Primeira Contribuição] (https://github.com/Roshanjossey/first-contributions), criado por @Roshanjossey.
+Se este é o seu primeiro pull reques, confira[Faça um pull request](http://makeapullrequest.com/), que @kentcdodds criou como um tutorial em vídeo passo a passo. Você também pode praticar uma pull request no repositório [Primeira Contribuição](https://github.com/Roshanjossey/first-contributions), criado por @Roshanjossey.
 
 ## O que acontece depois que você envia uma contribuição
 
