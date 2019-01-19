@@ -85,41 +85,41 @@ De um modo geral, foque em ajudar os outros antes de pedir coisas em troca. Porq
 
 Se ninguém prestar atenção ou responder seu trabalho inicial, não desanime! A maioria lançamentos de projetos é um processo iterativo que pode levar meses ou anos. Se você não obtiver resposta na primeira vez, tente uma tática diferente, ou busque por caminhos que agreguem valor paras os trabalhos dos outros primeiro. Promover e lançar seu projeto leva tempo e dedicação.
 
-## Go where your project's audience is (offline)
+## Vá para onde o público do seu projeto está (offline)
 
-![Public speaking](/assets/images/finding-users/public_speaking.jpg)
+![Falar em público](/assets/images/finding-users/public_speaking.jpg)
 
-Offline events are a popular way to promote new projects to audiences. They're a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
+Eventos offline são uma maneira popular de promover novos projetos para o público. Eles são uma ótima maneira de alcançar um público engajado e de construir relações humanas profundas, especialmente se você está interessado em encontrar desenvolvedores.
 
-If you're [new to public speaking](http://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
+Se você é [novato na fala em público](http://speaking.io/), comece encontrando um meetup local que se relaciona com a linguagem ou com o ecossistema de seu projeto.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
-  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+  Eu estava bem nervosa em ir à PyCon. Eu estava dando uma palestra, ia apenas conhecer umas pessoas lá, estava indo para uma semana inteira. (...) Eu não deveria ter me preocupado, no entanto. A Pycon foi fenomenalmente incrível! (...) Todo mundo era incrivelmente simpático e extrovertido, tanto que eu raramente encontrava tempo para não falar com as pessoas!
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
-If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
+Se você nunca falou em um evento antes, é prefeitamente normal se sentir nervoso(a)! Lembre-se que seu público está lá porque ele querem genuinamente ouvir sobre seu trabalho.
 
-As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+Quando escrever sua fala, foque no que seu público irá achar interessante e irá obter valor. Mantenha sua linguagem amigável e acessível. Sorria, respire, e divirta-se.
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+  Quando você começa a escrever sua palestra, não ligar para qual é o seu tópico, pode ajudar se você enxegar sua palestra como uma história que você conta para as pessoas.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
-When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
+Quando se sentir pronto(a), considere falar em uma conferência para promover seu projeto. Conferências podem ajudar você a alcançar mais pessoas, as vezes de todos os lugares do mundo.
 
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference to tailor your talk for attendees and increase your chances of being accepted to speak at the conference. You can often get a sense of your audience by looking at a conference's speakers.
+Procure por conferências que são específicas para a sua linguagem ou ecossistema. Antes de submeter sua palestra, pesquise sobre a conferência para adaptar sua palestra para os participantes e aumentar suas chances de ser aceito(a) para falar na conferência. Muitas vezes você pode ter uma noção do seu público olhando para os palestrantes da conferência.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
-  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
+  Eu escrevi muito bem ao pessoal da JSConf e implorei a eles para que me dessem um espaço onde eu poderia apresenta-lo na JSConf EU. (...) Eu estava extremamente assustada, apresentando essa coisa que estive trabalhando por seis meses. (...) Durante todo o tempo eu só pensava, meu Deus. O que estou fazendo aqui?
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
