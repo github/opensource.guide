@@ -12,43 +12,43 @@ related:
 
 ## Por que algumas pessoas buscam suporte financeiro
 
-Muito do trabalho _open source_ é voluntário. Por exemplo, alguém pode se deparar com um _bug_ em um projeto que utiliza e submeter uma pequena correção, ou gostar de fazer ajustes em um projeto _open source_ durante o tempo livre.
+Muito do trabalho open source é voluntário. Por exemplo, alguém pode se deparar com um bug em um projeto que utiliza e submeter uma pequena correção, ou gostar de fazer ajustes em um projeto open source durante o tempo livre.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-Eu estive procurando por um projeto de programação por "hobby" e que iria me manter ocupado durante a semana em torno do Natal. (...) Eu tinha um computador em casa, e nada muito além disso em minhas mãos. Eu decidi escrever um interpretador para a nova linguagem de _scripting_ em que estive pensando ultimamente. (...) Eu escolhi Python como um título de trabalho.
+Eu estive procurando por um projeto de programação por "hobby" e que iria me manter ocupado durante a semana em torno do Natal. (...) Eu tinha um computador em casa, e nada muito além disso em minhas mãos. Eu decidi escrever um interpretador para a nova linguagem de scripting em que estive pensando ultimamente. (...) Eu escolhi Python como um título de trabalho.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
-Há inúmeras razões pelas quais as pessoas não gostariam de ser pagas pelos seus trabalhos _open source_.
+Há inúmeras razões pelas quais as pessoas não gostariam de ser pagas pelos seus trabalhos open source.
 
-* **Elas já podem possuir um trabalho em horário integral que elas amem,** o que as habilita a contribuir com o _open source_ no seu tempo livre.
-* **Elas gostam de pensar no _open source_ como um hobby** ou escape criativo e não querem se sentir financeiramente obrigadas a trabalhar em seus projetos.
-* **Elas conseguem outros benefícios a partir da contribuição com o _open source_,** como construir uma reputação ou portfolio, aprender uma nova habilidade, ou se sentirem mais próximas da comunidade.
+* **Elas já podem possuir um trabalho em horário integral que elas amem,** o que as habilita a contribuir com o open source no seu tempo livre.
+* **Elas gostam de pensar em open source como um hobby** ou escape criativo e não querem se sentir financeiramente obrigadas a trabalhar em seus projetos.
+* **Elas conseguem outros benefícios a partir da contribuição com o open source,** como construir uma reputação ou portfolio, aprender uma nova habilidade, ou se sentirem mais próximas da comunidade.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  Doações financeiras trazem um sentimento de responsabilidade, para alguns. (...) É importante para nós, no mundo globalmente conectado e em ritmo acelerado em que vivemos, ser capaz de dizer "agora não, eu tenho a vontade de fazer algo completamente diferente".
+  Doações financeiras trazem um sentimento de responsabilidade, para alguns. (...) É importante para nós, no mundo globalmente conectado e em ritmo acelerado em que vivemos, ser capaz de dizer "agora não, tenho a intenção de fazer algo completamente diferente".
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-Para outros, especialmente quando as contribuições estão em curso ou requerem um tempo significativo, ser pago para contribuir com _open source_ é a única maneira através da qual eles podem participar, seja porque o projeto precisa disso ou por razões pessoais.
+Para outros, especialmente quando as contribuições estão em curso ou requerem um tempo significativo, ser pago para contribuir com open source é a única maneira através da qual eles podem participar, seja porque o projeto precisa disso ou por razões pessoais.
 
 Manter projetos populares pode ser uma responsabilidade significativa, tomando até 10 ou 20 horas toda semana, ao invés de algumas horas por mês.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  Pergunte a qualquer mantenedor de um projeto _open source_, e eles lhe dirão sobre a real quantidade de trabalho contida na administração de um projeto. Você possui clientes. Você está resolvendo _issues_ para eles. Você está criando novas _features_. Isso se torna uma demanda real por seu tempo.
+  Pergunte a qualquer mantenedor de um projeto open source, e eles lhe dirão sobre a real quantidade de trabalho contida na administração de um projeto. Você possui clientes. Você está resolvendo issues para eles. Você está criando novas features. Isso se torna uma demanda real pelo seu tempo.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-O trabalho pago também permite a pessoas com diferentes contextos e esferas de vida a fazer contribuições significativas. Algumas pessoas não podem gastar tempo "não-pago" em projetos _open source_, baseado em sua posição financeira atual, débito, família ou outras obrigações. Isso significa que o mundo nunca vê contribuições de pessoas talentosas que nao podem voluntariar seu tempo. Isso tem implicações éticas, como @ashedryden [descreveu](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), uma vez que o trabalho que é feito é enviesado em favor daqueles que já possuem vantagens na vida, que então ganham vantagens adicionais baseado em suas contribuições voluntárias, enquanto outros que não podem contribuir não conseguem oportunidades futuras, o que reforça a falta de diversidade na comunidade _open source_.
+O trabalho pago também permite a pessoas com diferentes contextos e esferas de vida a fazer contribuições significativas. Algumas pessoas não podem gastar tempo "não-pago" em projetos open source, baseado em sua posição financeira atual, débito, família ou outras obrigações. Isso significa que o mundo nunca vê contribuições de pessoas talentosas que não podem voluntariar seu tempo. Isso tem implicações éticas, como @ashedryden [descreveu](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), uma vez que o trabalho que é feito é enviesado em favor daqueles que já possuem vantagens na vida, que então ganham vantagens adicionais baseadas em suas contribuições voluntárias, enquanto outros que não podem contribuir não conseguem oportunidades futuras, o que reforça a falta de diversidade na comunidade open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
@@ -62,23 +62,23 @@ Se você está procurando por suporte financeiro, há dois caminhos a considerar
 
 ## Financiando o seu próprio tempo
 
-Hoje, muitas pessoas são pagas para trabalhar parcial ou integralmente com código aberto. A maneira mais comum de ser pago pelo seu tempo é falar com seu empregador.
+Hoje, muitas pessoas são pagas para trabalhar parcial ou integralmente com open source. A maneira mais comum de ser pago pelo seu tempo é falar com seu empregador.
 
 É mais fácil convencer o seu empregador se sua empresa, de fato, utilizar o seu projeto, mas seja criativo com a sua proposta. Talvez seu projeto não seja utilizado, mas Python sim, e manter um projeto Python popular ajude a atrair novos desenvolvedores Python. Pode fazer com que sua empresa pareça mais developer-friendly, de um modo geral.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Como muitos no código aberto, eu estava sustentando fardo de manter um projeto. Quando eu comecei com o código aberto, eu costumava ficar acordado até tarde para trabalhar nisso assim que chegava em casa. (...) Eu fui capaz de discutir com meu chefe os problemas que estava enfrentando e tivemos várias ideias sobre como poderíamos incorporar tarefas open source baseadas no nosso próprio uso do Babel.
+  Como muitos no open source, eu estava sustentando o fardo de manter um projeto. Quando eu comecei com o open source, eu costumava ficar acordado até tarde para trabalhar nisso assim que chegava em casa. (...) Eu fui capaz de discutir com meu chefe os problemas que estava enfrentando e tivemos várias ideias sobre como poderíamos incorporar tarefas open source baseadas no nosso próprio uso do Babel.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
-Se você não tem um projeto de código aberto no qual gostaria de contribuir, mas contribuiria se o que fosse produzido no seu trabalho fosse de código aberto, convença o seu empregador a abrir o código de alguns dos softwares internos da empresa.
+Se você não tem um projeto de open source no qual gostaria de contribuir, mas contribuiria se o que fosse produzido no seu trabalho fosse de open source, convença o seu empregador a abrir o código de alguns dos softwares internos da empresa.
 
-Muitas empresas estão desenvolvendo programas de código aberto para construir suar marca e recrutar talentos de qualidade.
+Muitas empresas estão desenvolvendo programas de open source para construir suar marca e recrutar talentos de qualidade.
 
-@hueniverse, por exemplo, descobriu que haviam razões financeiras para justificar [o investimento do Walmart em código aberto](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). E @jamesgpearce descobriu que o programa de código aberto do Facebook [fez uma diferença](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) no recrutamento:
+@hueniverse, por exemplo, descobriu que haviam razões financeiras para justificar [o investimento do Walmart em open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). E @jamesgpearce descobriu que o programa de open source do Facebook [fez uma diferença](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) no recrutamento:
 
 > It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
 
