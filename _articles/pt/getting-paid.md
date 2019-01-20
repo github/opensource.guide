@@ -80,7 +80,7 @@ Muitas empresas estão desenvolvendo programas open source para construir suar m
 
 @hueniverse, por exemplo, descobriu que haviam razões financeiras para justificar [o investimento do Walmart em open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). E @jamesgpearce descobriu que o programa de open source do Facebook [fez uma diferença](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) no recrutamento:
 
-> Está intimamente relacionado a nossa cultura hacker, e a como nossa organização foi percebida. Nós perguntamos aos nossos funcionários, "Você estava sabendo do programa de software open source do Facebook?". Dois terços disseram "Sim". Metade disse que o programa contribuiu positivamente na decisão de trabalhar para nós. Esses não são números marginais, e eu espero, uma tendência que continue.
+> Está intimamente relacionado a nossa cultura hacker, e a como nossa organização foi percebida. Nós perguntamos aos nossos funcionários, "Você estava sabendo do programa de software open source do Facebook?". Dois terços disseram "Sim". Metade disse que o programa contribuiu positivamente na sua decisão de trabalhar para nós. Esses não são números marginais e se trata de uma tendência que eu espero que continue.
 
 Se sua empresa tomar tal caminho, é importante manter os limites entre comunidade e atividade corporativa claros. Ultimamente, o open source se mantém através das contribuições de pessoas do mundo todo, e isso é maior do que qualquer empresa ou lugar.
 
@@ -104,18 +104,18 @@ Dependendo de suas circunstâncias pessoais, você pode tentar conseguir dinheir
 * @gaearon financiou seu trabalho no [Redux](https://github.com/reactjs/redux) através de uma [campanha de crowdfunding no Patreon](https://redux.js.org/)
 * @andrewgodwin financiou seu trabalho no Django schema migrations [através de uma campanha no Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-Finally, sometimes open source projects put bounties on issues that you might consider helping with. 
+Finalmente, as vezes, projetos open source põem recompensas em issues que você pode considerar ajudar a resolver. 
 
-* @ConnorChristie was able to get paid for [helping](https://github.com/MARKETProtocol/MARKET.js/issues/14) @MARKETProtocol work on their javascript library [through a bounty on gitcoin](https://gitcoin.co/).
-* @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://beta.bounties.network/bounty/v1/134).
+* @ConnorChristie conseguiu ser pago por [ajudar](https://github.com/MARKETProtocol/MARKET.js/issues/14) @MARKETProtocol a trabalhar em sua biblioteca javascript [através de uma recompensa em gitcoin](https://gitcoin.co/).
+* @mamiM fez traduções para o Japonês para @MetaMask após a [issue ser financiada na Bounties Network](https://beta.bounties.network/bounty/v1/134).
 
-## Finding funding for your project
+## Encontrando financiamento para o seu projeto
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+Além de arranjos para contribuidores individuais, algumas vezes os projetos conseguem dinheiro de empresas, indivíduos ou outros para financiar trabalho em andamento.
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+O financiamento organizacional pode ir além do pagamento dos contribuidores atuais, cobrindo os custos de rodar o projeto (como por exemplo hospedagem grátis), ou investindo em novas features ou ideias.
 
-As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
+A medida em que a popularidade do open source cresce, encontrar financiamento para o seu projeto ainda é experimental, mas há algumas opções comuns disponíveis.
 
 ### Raise money for your work through crowdfunding campaigns or sponsorships
 
