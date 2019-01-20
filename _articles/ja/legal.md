@@ -1,7 +1,7 @@
 ---
 lang: ja
-title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+title: オープンソースの法的側面
+description: オープンソースについてあなたが不思議に思ったことのすべてと、思いもしなかったいくつかのこと。
 class: legal
 order: 10
 image: /assets/images/cards/legal.png
@@ -10,9 +10,9 @@ related:
   - leadership
 ---
 
-## Understanding the legal implications of open source
+## オープンソースの法的意味を理解しよう
 
-Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about. Thankfully, you don't have to start from scratch. We've got your legal needs covered. (Before you dig in, be sure to read our [disclaimer](/notices/).)
+あなたの創造的な仕事を世界に共有することは、とても興奮することであり報われる経験になり得ます。しかし、それは懸念必要があることを知らなかった多くの法的な事柄が必要になるということでもあるのです。ありがたいことに、あなたはゼロから始める必要はありません。あなたが必要な法的知識をここにまとめました。（読み進める前に、私達の[免責事項](/notices/)をお読みください。）
 
 ## Why do people care so much about the legal side of open source?
 
