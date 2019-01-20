@@ -68,41 +68,41 @@ Hoje, muitas pessoas são pagas para trabalhar parcial ou integralmente com open
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Como muitos no open source, eu estava sustentando o fardo de manter um projeto. Quando eu comecei com o open source, eu costumava ficar acordado até tarde para trabalhar nisso assim que chegava em casa. (...) Eu fui capaz de discutir com meu chefe os problemas que estava enfrentando e tivemos várias ideias sobre como poderíamos incorporar tarefas open source baseadas no nosso próprio uso do Babel.
+  Como muitos no open source, eu estava sustentando o fardo de manter um projeto. Quando eu comecei com o open source, eu costumava ficar acordado até tarde para trabalhar nisso assim que chegava em casa. (...) Eu tive a oportunidade de discutir com meu chefe os problemas que estava enfrentando e tivemos várias ideias sobre como poderíamos incorporar tarefas open source baseadas no nosso próprio uso do Babel.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
-Se você não tem um projeto de open source no qual gostaria de contribuir, mas contribuiria se o que fosse produzido no seu trabalho fosse de open source, convença o seu empregador a abrir o código de alguns dos softwares internos da empresa.
+Se você não tem um projeto open source no qual gostaria de contribuir, mas contribuiria se o que fosse produzido no seu trabalho fosse de open source, convença o seu empregador a abrir o código de alguns dos softwares internos da empresa.
 
-Muitas empresas estão desenvolvendo programas de open source para construir suar marca e recrutar talentos de qualidade.
+Muitas empresas estão desenvolvendo programas open source para construir suar marca e recrutar talentos de qualidade.
 
 @hueniverse, por exemplo, descobriu que haviam razões financeiras para justificar [o investimento do Walmart em open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). E @jamesgpearce descobriu que o programa de open source do Facebook [fez uma diferença](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) no recrutamento:
 
-> It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
+> Está intimamente relacionado a nossa cultura hacker, e a como nossa organização foi percebida. Nós perguntamos aos nossos funcionários, "Você estava sabendo do programa de software open source do Facebook?". Dois terços disseram "Sim". Metade disse que o programa contribuiu positivamente na decisão de trabalhar para nós. Esses não são números marginais, e eu espero, uma tendência que continue.
 
-If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
+Se sua empresa tomar tal caminho, é importante manter os limites entre comunidade e atividade corporativa claros. Ultimamente, o open source se mantém através das contribuições de pessoas do mundo todo, e isso é maior do que qualquer empresa ou lugar.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
-  Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
+  Ser pago para trabalhar em open source é uma oportunidade rara e maravilhosa, mas você não tem que desistir de sua paixão no processo. Sua paixão deve ser o porquê das empresas buscarem lhe pagar.
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
 </aside>
 
-If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
+Se você não pode convencer o seu atual empregador a priorizar trabalho open source, considere encontrar um novo empregador que encorage as contribuições open source de seus funcionários. Procure empresas que façam a sua dedicação ao trabalho open source explícita. Por exemplo:
 
-* Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](https://paypal.github.io/), have websites that highlight their involvement in open source
-* [Rackspace](https://www.rackspace.com/en-us) published its [open source contribution policy](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) for employees
+* Algumas empresas, como a [Netflix](https://netflix.github.io/) ou o [PayPal](https://paypal.github.io/), têm websites que destacam o seu envolvimento com open source
+* [Rackspace](https://www.rackspace.com/en-us) publicou sua [política de contribuição com open source](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) para funcionários
 
-Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
+Projetos que se originaram em uma grande empresa, como o [Go](https://github.com/golang) ou o [React](https://github.com/facebook/react), também irão possivelmente empregar pessoas para trabalhar com open source.
 
-Depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
+Dependendo de suas circunstâncias pessoais, você pode tentar conseguir dinheiro independentemente para financiar o seu trabalho open source. Por exemplo:
 
-* @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](https://redux.js.org/)
-* @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* @gaearon financiou seu trabalho no [Redux](https://github.com/reactjs/redux) através de uma [campanha de crowdfunding no Patreon](https://redux.js.org/)
+* @andrewgodwin financiou seu trabalho no Django schema migrations [através de uma campanha no Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
 Finally, sometimes open source projects put bounties on issues that you might consider helping with. 
 
