@@ -14,9 +14,9 @@ related:
 
 あなたの創造的な仕事を世界に共有することは、とても興奮することであり報われる経験になり得ます。しかし、それは懸念必要があることを知らなかった多くの法的な事柄が必要になるということでもあるのです。ありがたいことに、あなたはゼロから始める必要はありません。あなたが必要な法的知識をここにまとめました。（読み進める前に、私達の[免責事項](/notices/)をお読みください。）
 
-## Why do people care so much about the legal side of open source?
+## なぜオープンソースの法的な側面を気にするんですか？
 
-Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
+聞いてくれて嬉しいです！何か作品（文書、グラフィックス、コードなど）を創作するときには、その作品はデフォルトで著作権によって守られます。つまり、あなたは作品の作者として、他の人があなたの作品についてやって良いことについて意見があるということを法律は想定しています。
 
 In general, that means nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
 
