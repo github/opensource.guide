@@ -8,5 +8,8 @@
   "dependencies": {
     "primer-core": "6.10.8",
     "primer-marketing": "6.3.3"
+  },
+  "devDependencies": {
+    "@primer/sync": "^0.1.0"
   }
 }
