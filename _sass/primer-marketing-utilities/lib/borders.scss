@@ -1,0 +1,9 @@
+// Border utilities
+
+// XXX If you're looking for responsive border utilities, they've moved to
+// ../../primer-utilities/lib/borders.scss
+
+/* Use with .border to turn the border rgba white 0.15 */
+.border-white-fade {
+  border-color: $white-fade-15 !important;
+}
