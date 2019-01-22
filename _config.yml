@@ -43,7 +43,7 @@ sass:
   sass_dir: assets/css/
   style: :compressed
   load_paths:
-    - node_modules
+    - _sass
 
 logo: /assets/images/cards/default.png
 
