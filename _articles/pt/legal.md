@@ -1,7 +1,7 @@
 ---
-lang: en
-title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+lang: pt
+title: O Lado Legal do Open Source
+description: Tudo que imaginou sobre o lado legal do open source, e algumas coisas que você não pensou.
 class: legal
 order: 10
 image: /assets/images/cards/legal.png
