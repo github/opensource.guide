@@ -153,9 +153,9 @@ Quer o seu projeto seja uma nova ideia, ou tenha estado por aí há anos, você 
 
 Quer você esteja querendo pagar pelo seu próprio temp, ou angariando fundos para um projeto, você deve ser capaz de responder as seguintes questões.
 
-### Impact
+### Impacto
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+Por que esse projeto é útil? Por que seus usuários, ou potenciais usuários, gostam tanto dele? Onde ele estará em cinco anos?
 
 ### Traction
 
