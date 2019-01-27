@@ -117,14 +117,14 @@ O financiamento organizacional pode ir além do pagamento dos contribuidores atu
 
 A medida em que a popularidade do open source cresce, encontrar financiamento para o seu projeto ainda é experimental, mas há algumas opções comuns disponíveis.
 
-### Raise money for your work through crowdfunding campaigns or sponsorships
+### Arrecade dinheiro para o seu trabalho através de campanhas de crowdfunding ou patrocínios
 
-Finding sponsorships works well if you have a strong audience or reputation already, or your project is very popular.
-A few examples of sponsored projects include:
+Encontrar patrocínio funciona bem se você já tem uma forte audiência ou reputação, ou seu projeto é bastante popular.
+Alguns exemplos de patrocínio incluem:
 
-* **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[webpack](https://github.com/webpack)** arrecada dinheiro de empresas e indivíduos [através do OpenCollective](https://opencollective.com/webpack)
+* **[Vue](https://github.com/vuejs/vue)** é [financiado através do Patreon](https://github.com/open-source/stories/yyx990803)
+* **[Ruby Together](https://rubytogether.org/),** é uma organização sem fins lucrativos que paga pelo trabalho no [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), e outros projetos de infraestrutura do Ruby.
 
 ### Create a revenue stream
 
