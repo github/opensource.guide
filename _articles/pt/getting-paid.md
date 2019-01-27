@@ -126,15 +126,15 @@ Alguns exemplos de patrocínio incluem:
 * **[Vue](https://github.com/vuejs/vue)** é [financiado através do Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** é uma organização sem fins lucrativos que paga pelo trabalho no [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), e outros projetos de infraestrutura do Ruby.
 
-### Create a revenue stream
+### Crie um fluxo de receita
 
-Depending on your project, you may be able to charge for commercial support, hosted options, or additional features. A few examples include:
+Dependendo do seu projeto, você pode ser capaz de cobrar por suporte comercial, opções de hospedagem, ou features adicionais. Alguns exemplos incluem:
 
-* **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
-* **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
-* **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
+* **[Sidekiq](https://github.com/mperham/sidekiq)** oferece versões pagas por suporte adicional
+* **[Travis CI](https://github.com/travis-ci)** oferece versões pagas de seu produto
+* **[Ghost](https://github.com/TryGhost/Ghost)** é uma organização sem fins lucrativos, com um serviço gerenciado pago
 
-Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+Alguns projetos populares, como o [npm](https://github.com/npm/npm) e o [Docker](https://github.com/docker/docker), conseguem até mesmo capital de risco para dar suporte ao crescimento de seu negócio.
 
 ### Apply for grant funding
 
