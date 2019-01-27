@@ -138,20 +138,20 @@ Alguns projetos populares, como o [npm](https://github.com/npm/npm) e o [Docker]
 
 ### Solicite financiamento de subsídio
 
-Algumas fundações de software e empresas oferencem subsídios pelo trabalho open source. Algumas vezes, os subsídios podem ser pagos a individuos sem a criação de uma entidade legal para o projeto.
+Algumas fundações de software e empresas oferencem subsídios pelo trabalho open source. Algumas vezes, os subsídios podem ser pagos a individuos sem a criação de uma entidade legal para o projetor.
 
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
-* **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
-* The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
+* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** recebeu um subsídio do [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
+* O trabalho da **[OpenMRS](https://github.com/openmrs)** foi financiado pelo [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
+* **[Libraries.io](https://github.com/librariesio)** recebeu um subsídio da [Sloan Foundation](https://sloan.org/programs/digital-technology)
+* A **[Python Software Foundation](https://www.python.org/psf/grants/)** oferece subsídios para trabalhos relacionados ao Python
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+Para opniões mais detalhadas e estudos de caso, @nayafia [escreveu um guia](https://github.com/nayafia/lemonade-stand) de como ser pago por trabalho open source. Diferentes tipos de financiamento requerem diferentes habilidades, então considere suas capacidades para entender qual opção funciona melhor para você.
 
-## Building a case for financial support
+## Construindo um caso de suporte financeiro
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+Quer o seu projeto seja uma nova ideia, ou tenha estado por aí há anos, você deve esperar colocar um esforço mental significativo em identificar o seu financiador-alvo e fazer um caso convincente.
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+Quer você esteja querendo pagar pelo seu próprio temp, ou angariando fundos para um projeto, você deve ser capaz de responder as seguintes questões.
 
 ### Impact
 
