@@ -136,9 +136,9 @@ Dependendo do seu projeto, você pode ser capaz de cobrar por suporte comercial,
 
 Alguns projetos populares, como o [npm](https://github.com/npm/npm) e o [Docker](https://github.com/docker/docker), conseguem até mesmo capital de risco para dar suporte ao crescimento de seu negócio.
 
-### Apply for grant funding
+### Solicite financiamento de subsídio
 
-Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
+Algumas fundações de software e empresas oferencem subsídios pelo trabalho open source. Algumas vezes, os subsídios podem ser pagos a individuos sem a criação de uma entidade legal para o projeto.
 
 * **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
 * **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
