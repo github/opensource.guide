@@ -157,32 +157,32 @@ Quer você esteja querendo pagar pelo seu próprio temp, ou angariando fundos pa
 
 Por que esse projeto é útil? Por que seus usuários, ou potenciais usuários, gostam tanto dele? Onde ele estará em cinco anos?
 
-### Traction
+### Tração
 
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+Tente coletar evidências de que seu projeto importa, sejam métricas, anedotas ou testemunhos. Há alguma empresa ou pessoa importante utilizando o seu projeto atualmente? Caso contrário, alguma pessoa proeminente o endossou?
 
-### Value to funder
+### Valor para o financiador
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+Financiadores, seja o seu empregador ou fundação de grantmaking, são frequentemente abordadas por oportunidades. Por que elas deveriam dar suporte ao seu projeto ao invés de qualquer outra oportunidade? Como elas recebem algum benefício disso?
 
-### Use of funds
+### Utilização dos financiamentos
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+O que, exatamente, você irá conquistar com o financiamento proposto? Foque nos objetivos ou resultados ao invés de pagar um salário.
 
-### How you'll receive the funds
+### Como você irá receber os fundos
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+O financiador tem algum requisito acerca do desembolso? Por exemplo, você pode precisar não ter nenhum fim lucrativo ou ter algum financiador fiscal sem fins lucrativos. Ou talvez os fundos devem ser dados a um contratante individual ao invés de uma organização. Tais requisitos variam entre financiadores, então tenha certeza de fazer sua pesquisa antecipadamente.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  Por anos, fomos o recurso líder do website friendly icons, com uma comunidade de mais de 20 milhões de pessoas e contando com mais de 70 milhões de websites, incluindo o Whitehouse.gov. (...) A versão 4 foi três anos atrás. A tecnologia Web mudou bastante desde então, e, francamente, a do Font Awesome ficou um pouco obsoleta. (...) Por isso estamos introduzindo o Font Awesome 5. Estamos modernizando e reescrevendo o CSS e reprojetando cada ícone, de cima a baixo. Estamos falando de melhor design, melhor consistência e melhor legibilidade.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
-## Experiment and don't give up
+## Experimente e não desista
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+Conseguir dinheiro não é fácil, quer você seja um projeto oppen source, uma organização sem fins lucrativos ou uma startup de software, e, na maioria dos casos, requer que você seja criativo. Identificar o quanto você precisa ser pago, fazer sua pesquisa, e se colocar no lugar do seu financiador irá ajudá-lo a construir um caso convincente de financiamento.
 
 >
