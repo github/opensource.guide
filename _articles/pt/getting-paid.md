@@ -122,9 +122,9 @@ A medida em que a popularidade do open source cresce, encontrar financiamento pa
 Encontrar patrocínio funciona bem se você já tem uma forte audiência ou reputação, ou seu projeto é bastante popular.
 Alguns exemplos de patrocínio incluem:
 
-* **[webpack](https://github.com/webpack)** arrecada dinheiro de empresas e indivíduos [através do OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** é [financiado através do Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** é uma organização sem fins lucrativos que paga pelo trabalho no [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), e outros projetos de infraestrutura do Ruby.
+* O **[webpack](https://github.com/webpack)** arrecada dinheiro de empresas e indivíduos [através do OpenCollective](https://opencollective.com/webpack)
+* O **[Vue](https://github.com/vuejs/vue)** é [financiado através do Patreon](https://github.com/open-source/stories/yyx990803)
+* A **[Ruby Together](https://rubytogether.org/),** é uma organização sem fins lucrativos que paga pelo trabalho no [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), e outros projetos de infraestrutura do Ruby.
 
 ### Crie um fluxo de receita
 
@@ -142,7 +142,7 @@ Algumas fundações de software e empresas oferencem subsídios pelo trabalho op
 
 * **[Read the Docs](https://github.com/rtfd/readthedocs.org)** recebeu um subsídio do [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
 * O trabalho da **[OpenMRS](https://github.com/openmrs)** foi financiado pelo [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* **[Libraries.io](https://github.com/librariesio)** recebeu um subsídio da [Sloan Foundation](https://sloan.org/programs/digital-technology)
+* O **[Libraries.io](https://github.com/librariesio)** recebeu um subsídio da [Sloan Foundation](https://sloan.org/programs/digital-technology)
 * A **[Python Software Foundation](https://www.python.org/psf/grants/)** oferece subsídios para trabalhos relacionados ao Python
 
 Para opniões mais detalhadas e estudos de caso, @nayafia [escreveu um guia](https://github.com/nayafia/lemonade-stand) de como ser pago por trabalho open source. Diferentes tipos de financiamento requerem diferentes habilidades, então considere suas capacidades para entender qual opção funciona melhor para você.
@@ -151,7 +151,7 @@ Para opniões mais detalhadas e estudos de caso, @nayafia [escreveu um guia](htt
 
 Quer o seu projeto seja uma nova ideia, ou tenha estado por aí há anos, você deve esperar colocar um esforço mental significativo em identificar o seu financiador-alvo e fazer um caso convincente.
 
-Quer você esteja querendo pagar pelo seu próprio temp, ou angariando fundos para um projeto, você deve ser capaz de responder as seguintes questões.
+Quer você esteja querendo pagar pelo seu próprio tempo, ou angariando fundos para um projeto, você deve ser capaz de responder as seguintes questões.
 
 ### Impacto
 
@@ -159,7 +159,7 @@ Por que esse projeto é útil? Por que seus usuários, ou potenciais usuários, 
 
 ### Tração
 
-Tente coletar evidências de que seu projeto importa, sejam métricas, anedotas ou testemunhos. Há alguma empresa ou pessoa importante utilizando o seu projeto atualmente? Caso contrário, alguma pessoa proeminente o endossou?
+Tente coletar evidências de que o seu projeto importa, sejam métricas, anedotas ou testemunhos. Há alguma empresa ou pessoa importante utilizando o seu projeto atualmente? Caso contrário, alguma pessoa proeminente o endossou?
 
 ### Valor para o financiador
 
@@ -171,11 +171,11 @@ O que, exatamente, você irá conquistar com o financiamento proposto? Foque nos
 
 ### Como você irá receber os fundos
 
-O financiador tem algum requisito acerca do desembolso? Por exemplo, você pode precisar não ter nenhum fim lucrativo ou ter algum financiador fiscal sem fins lucrativos. Ou talvez os fundos devem ser dados a um contratante individual ao invés de uma organização. Tais requisitos variam entre financiadores, então tenha certeza de fazer sua pesquisa antecipadamente.
+O financiador tem algum requisito acerca do desembolso? Por exemplo, pode ser necessário que você não tenha nenhum fim lucrativo ou que você tenha algum financiador fiscal sem fins lucrativos. Ou talvez os fundos devem ser dados a um contratante individual ao invés de uma organização. Tais requisitos variam entre financiadores, então tenha certeza de fazer sua pesquisa antecipadamente.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  Por anos, fomos o recurso líder do website friendly icons, com uma comunidade de mais de 20 milhões de pessoas e contando com mais de 70 milhões de websites, incluindo o Whitehouse.gov. (...) A versão 4 foi três anos atrás. A tecnologia Web mudou bastante desde então, e, francamente, a do Font Awesome ficou um pouco obsoleta. (...) Por isso estamos introduzindo o Font Awesome 5. Estamos modernizando e reescrevendo o CSS e reprojetando cada ícone, de cima a baixo. Estamos falando de melhor design, melhor consistência e melhor legibilidade.
+  Por anos, fomos o recurso líder do website friendly icons, com uma comunidade de mais de 20 milhões de pessoas e contando com mais de 70 milhões de websites, incluindo o Whitehouse.gov. (...) A versão 4 foi há três anos atrás. A tecnologia Web mudou bastante desde então, e, francamente, a do Font Awesome ficou um pouco obsoleta. (...) Por isso estamos introduzindo o Font Awesome 5. Estamos modernizando e reescrevendo o CSS e reprojetando cada ícone, de cima a baixo. Estamos falando de melhor design, melhor consistência e melhor legibilidade.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
