@@ -103,13 +103,13 @@ blockquote {
   h5,
   h6 {
     -webkit-font-smoothing: antialiased;
-    font-family: $alt-body-font;
+    font-family: $font-mktg
   }
 
-  h1 { @include alt-h1 }
+  h1 { @include h1-mktg }
 
   h3 {
-    @include alt-h3;
+    @include h3-mktg;
     margin-top: $spacer-4;
     margin-bottom: $spacer-3;
     @include breakpoint(md) {
@@ -132,7 +132,7 @@ blockquote {
   }
 
   h2 {
-    @include alt-h2;
+    @include h2-mktg;
     text-align: center;
     margin-bottom: $spacer-3;
     line-height: 1.25;
@@ -237,7 +237,7 @@ blockquote {
 
 *:lang(ko) {
   .lead,
-  .alt-lead,
+  .lead-mktg ,
   h2 + p {
     word-break: keep-all;
   }

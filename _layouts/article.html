@@ -7,7 +7,7 @@ layout: default
 <header class="article-header {{ page.class }} bg-gray-light">
   <div class="container-lg p-responsive clearfix mx-auto">
 
-    <h1 class="alt-h1 lh-condensed text-center mb-3">{{ page.title }}</h1>
+    <h1 class="h1-mktg lh-condensed text-center mb-3">{{ page.title }}</h1>
     <p class="lead text-center text-gray col-md-8 mx-auto mb-4 position-relative">{{ page.description }}</p>
     {% if page.lang == "en" %}
     <nav class="toc mb-4 mb-md-6">
@@ -36,7 +36,7 @@ layout: default
     {{ content }}
   </div>
   <div class="text-center pb-4">
-    <a class="alt-h3" href="/{% if page.lang and page.lang != 'en' %}{{ page.lang | append: '/' }}{% endif %}">
+    <a class="h3-mktg" href="/{% if page.lang and page.lang != 'en' %}{{ page.lang | append: '/' }}{% endif %}">
       {{ t.article.back_to_all_guides }}
     </a>
   </div>
@@ -44,7 +44,7 @@ layout: default
 
 {% if page.related %}
 <div class="container-lg p-responsive mx-auto border-top text-center pt-5">
-  <h2 class="alt-h2">{{ t.article.related_guides }}</h2>
+  <h2 class="h2-mktg">{{ t.article.related_guides }}</h2>
   <div class="gutter-sm d-flex flex-wrap flex-items-stretch pb-md-6">
   {% for related in page.related %}
     {% assign article = site.articles | where: 'lang', page.lang | where: 'class', related | first %}
@@ -56,7 +56,7 @@ layout: default
         </div>
 
         <div class="flex-self-end p-4 text-center p-lg-5">
-          <h3 class="alt-h3 text-bold lh-condensed mb-2 text-black">
+          <h3 class="h3-mktg text-bold lh-condensed mb-2 text-black">
             {{ article.title }}
           </h3>
           <div class="mb-0 text-gray">

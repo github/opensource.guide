@@ -1,6 +1,6 @@
 // Headings
 // --------------------------------------------------
-// stylelint-disable selector-no-type
+// stylelint-disable selector-max-type
 h1,
 h2,
 h3,
@@ -66,13 +66,14 @@ dd {
 tt,
 code {
   font-family: $mono-font;
-  font-size: 12px;
+  font-size: $font-size-small;
 }
 
 pre {
   margin-top: 0;
   margin-bottom: 0;
-  font: 12px $mono-font;
+  font-family: $mono-font;
+  font-size: $font-size-small;
 }
 
 // Octicons
