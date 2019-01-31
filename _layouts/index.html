@@ -25,7 +25,7 @@ layout: default
       {% for article in articles %}
       {% if article.layout != 'index' %}
       <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">
-        <a href="{{ article.url | relative_url }}" class="guide-cover {{ article.class }} card height-full d-block">
+        <a href="{{ article.url | relative_url }}" class="guide-cover {{ article.class }} Box height-full d-block">
 
           <div class="lh-none guide-cover-img text-center pt-4">
             <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class="" alt="{{ article.title }} illustration">
