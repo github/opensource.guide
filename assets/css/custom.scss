@@ -106,7 +106,7 @@ blockquote {
     font-family: $font-mktg
   }
 
-  h1 { @include h1-mktg }
+  h1 { @include h0-mktg }
 
   h3 {
     @include h3-mktg;
