@@ -3,6 +3,8 @@
 // Create rows with `.columns` to clear the floated columns and outdent the
 // padding on `.column`s with negative margin for alignment.
 
+@warn ".columns, .column, .one-third, .two-thirds, .one-fourth, .one-half, .three-fourths, .one-fifth, .four-fifths, .centered will be deprecated in 12.0.0 please migrate to grid.scss";
+
 .columns {
   margin-right: -$grid-gutter;
   margin-left: -$grid-gutter;

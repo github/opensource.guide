@@ -1,7 +1,7 @@
 // This file contains reusable animations for github.
 // stylelint-disable primer/selector-no-utility
-// Fade in
-// A class to fade in an element on the page.
+
+/* Fade in an element */
 .anim-fade-in {
   animation-name: fade-in;
   animation-duration: 1s;
@@ -19,6 +19,27 @@
 
   100% {
     opacity: 1;
+  }
+}
+
+/* Fade out an element */
+.anim-fade-out {
+  animation-name: fade-out;
+  animation-duration: 1s;
+  animation-timing-function: ease-out;
+
+  &.fast {
+    animation-duration: 0.3s;
+  }
+}
+
+@keyframes fade-out {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
   }
 }
 
@@ -149,5 +170,15 @@
 
   100% {
     transform: scale3d(1, 1, 1);
+  }
+}
+
+/* Increase scale of an element on hover */
+.hover-grow {
+  transition: transform 0.3s;
+  backface-visibility: hidden;
+
+  &:hover {
+    transform: scale(1.025);
   }
 }
