@@ -11,7 +11,7 @@ layout: default
     <p class="lead text-center text-gray col-md-8 mx-auto mb-4 position-relative">{{ page.description }}</p>
     {% if page.lang == "en" %}
     <nav class="toc mb-4 mb-md-6">
-      <div class="card col-sm-8 col-md-4 col-lg-3 mx-auto">
+      <div class="Box col-sm-8 col-md-4 col-lg-3 mx-auto">
         <a class="toc-trigger d-block text-center p-3">
           <span class="text-black">{{ t.article.table_of_contents }}</span><svg height="18" class="octicon octicon-triangle-down ml-2 fill-blue v-align-middle icon-flip" viewBox="0 0 12 16" version="1.1" width="13" role="img"><path fill-rule="evenodd" d="M0 5l6 6 6-6z"></path></svg>
         </a>
@@ -49,7 +49,7 @@ layout: default
   {% for related in page.related %}
     {% assign article = site.articles | where: 'lang', page.lang | where: 'class', related | first %}
     <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">
-      <a href="{{ article.url | relative_url }}" class="guide-cover {{ article.class }} card height-full d-block">
+      <a href="{{ article.url | relative_url }}" class="guide-cover {{ article.class }} Box height-full d-block">
 
         <div class="lh-none guide-cover-img text-center pt-4">
           <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class="" alt="{{ article.title }} illustration">
