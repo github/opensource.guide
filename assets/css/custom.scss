@@ -132,7 +132,7 @@ blockquote {
   }
 
   h2 {
-    @include h2-mktg;
+    @include h1-mktg;
     text-align: center;
     margin-bottom: $spacer-3;
     line-height: 1.25;
