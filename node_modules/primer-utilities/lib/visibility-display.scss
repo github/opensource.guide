@@ -2,55 +2,28 @@
 // stylelint-disable block-opening-brace-space-after, block-opening-brace-space-before, primer/selector-no-utility
 // stylelint-disable comment-empty-line-before
 
-// Visibility utilities
-/* Visibility hidden */
-.v-hidden { visibility: hidden !important; }
-/* Visibility visible */
-.v-visible { visibility: visible !important; }
+$display-values: (
+  block,
+  flex,
+  inline,
+  inline-block,
+  inline-flex,
+  none,
+  table,
+  table-cell
+);
 
-// Display utilites
-/* Set the display to table */
-.d-table      { display: table !important; }
-/* Set the display to table-cell */
-.d-table-cell { display: table-cell !important; }
-/* Set the table-layout to fixed */
-.table-fixed { table-layout: fixed !important; }
-
-/* Set the display to block */
-.d-block        { display: block !important; }
-/* Set the display to inline */
-.d-inline       { display: inline !important; }
-/* Set the display to inline-block */
-.d-inline-block { display: inline-block !important; }
-/* Set the display to flex */
-.d-flex { display: flex !important; }
-/* Set the display to inline-flex */
-.d-inline-flex { display: inline-flex !important; }
-/* Set the display to none */
-.d-none         { display: none !important; }
-
-// Responsive display utlities
-// .d-sm-none, .d-lg-inline, ...
-@each $breakpoint in map-keys($breakpoints) {
+// Responsive display utilities
+@each $breakpoint, $variant in $responsive-variants {
   @include breakpoint($breakpoint) {
-    /* Set the display to table at the #{$breakpoint} breakpoint */
-    .d-#{$breakpoint}-table      { display: table !important; }
-    /* Set the display to table cell at the #{$breakpoint} breakpoint */
-    .d-#{$breakpoint}-table-cell { display: table-cell !important; }
-    /* Set the display to block at the #{$breakpoint} breakpoint */
-    .d-#{$breakpoint}-block  { display: block !important; }
-    /* Set the display to inline at the #{$breakpoint} breakpoint */
-    .d-#{$breakpoint}-inline  { display: inline !important; }
-    /* Set the display to inline block at the #{$breakpoint} breakpoint */
-    .d-#{$breakpoint}-inline-block  { display: inline-block !important; }
-    /* Set the display to flex at the #{$breakpoint} breakpoint */
-    .d-#{$breakpoint}-flex  { display: flex !important; }
-    /* Set the display to flex at the #{$breakpoint} breakpoint */
-    .d-#{$breakpoint}-inline-flex  { display: inline-flex !important; }
-    /* Set the display to none at the #{$breakpoint} breakpoint */
-    .d-#{$breakpoint}-none  { display: none !important; }
+    @each $display in $display-values {
+      .d#{$variant}-#{$display} { display: $display !important; }
+    }
   }
 }
+
+.v-hidden { visibility: hidden !important; }
+.v-visible { visibility: visible !important; }
 
 // Hide utilities for each breakpoint
 // Each hide utility only applies to one breakpoint range.
@@ -77,6 +50,9 @@
     display: none !important;
   }
 }
+
+/* Set the table-layout to fixed */
+.table-fixed { table-layout: fixed !important; }
 
 // Only display content to screen readers
 //
