@@ -16,57 +16,57 @@ related:
 
 ## なぜオープンソースの法的な側面を気にするんですか？
 
-聞いてくれて嬉しいです！何か作品（文書、グラフィックス、コードなど）を創作するときには、その作品はデフォルトで著作権によって守られます。つまり、あなたは作品の作者として、他の人があなたの作品についてやって良いことについて意見があるということを法律は想定しています。
+聞いてくれて嬉しいです！何か作品（文書、グラフィックス、コードなど）を創作するときには、その作品はデフォルトで排他的な著作権によって守られます。つまり、あなたは作品の作者として、他の人があなたの作品についてやって良いことについて意見があるということを法律は想定しています。
 
-In general, that means nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
+この事は、一般的にはあなたの作品を使ったり、コピーしたり、配布したり、修正することは、取り下げや捜査、訴訟のリスクが発生することを意味します。
 
-Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
+しかし、オープンソースでは他の人が使って、修正して、それを共有することを推奨しており、通常とは異なる状況です。しかし、法的にはデフォルトで排他的な著作権で守られており、他の人に許可する事項を明確にライセンスで宣言する必要があります。
 
-If you don't apply an open source license, everybody who contributes to your project also becomes an exclusive copyright holder of their work. That means nobody can use, copy, distribute, or modify their contributions -- and that "nobody" includes you.
+もしオープンソースライセンスを適用しないと、プロジェクトにコントリビュートする全員が、彼らの作業についての排他的な著作権を持つことになります。つまり、彼らのコントリビュートに関しては他の誰もそれを使ったり、コピーしたり、配布したり、変更することができません。そして、あなたもそれに含まれます。
 
-Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
+最後に、あなたのプロジェクトの依存関係の中には、あなたが気付いていないような要求をするライセンスのものがあるかもしれません。プロジェクトのコミュニティや雇用主の方針によって、あなたのプロジェクトで特定のオープンソースライセンスを使うよう要求されることもあるかもしれません。これらの状況については、後述します。
 
-## Are public GitHub projects open source?
+## パブリックなGitHubプロジェクトはオープンソースですか？
 
-When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
+GitHub上で[新しいプロジェクトを作る](https://help.github.com/articles/creating-a-new-repository/)際、リポジトリをパブリックにするかプライベートにするか、2つの選択肢があります。
+ 
+![リポジトリの作成](/assets/images/legal/repo-create-name.png)
 
-![Create repository](/assets/images/legal/repo-create-name.png)
+**GitHub上のプロジェクトをおパブリックにするということと、プロジェクトにライセンスを設定することは同じではありません。** パブリックプロジェクトは[GitHubのTerms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership)によって保護されます。これによって、他の人があなたのプロジェクトを見たりフォークすることを許可します。しかし、それ以外の点については許可していません。
 
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+もし、他に人に対してプロジェクトの利用、配布、変更、コントリビュートをしてもらいたいと思うのであれば、オープンソースライセンスをプロジェクトに含める必要があります。たとえあなたのプロジェクトがパブリックだったとしても、もしあなたがプロジェクトのソースコードをほか脳pロジェクトで使って良いと明記しない限りは、他の人はそのプロジェクトのコードのどの部分も合法的に使うことができません。
 
-If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
+## 私のプロジェクトを守るのに必要な概要だけを教えてください。
 
-## Just give me the TL;DR on what I need to protect my project.
+あなたはラッキーです。なぜなら、今日ではオープンソースライセンスは標準化されていて、簡単に使うことができます。既存のライセンスを直接プロジェクトにコピーペーストすることが可能です。
 
-You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
+[MIT](https://choosealicense.com/licenses/mit/)や[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)、[GPLv3](https://choosealicense.com/licenses/gpl-3.0/) は最も有名なオープンソースライセンスです。しかし、他の選択肢もあります。[choosealicense.com](https://choosealicense.com/)では、そういったライセンスの全文と使い方の手順を確認することができます。
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](https://choosealicense.com/).
-
-When you create a new project on GitHub, you'll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
+GitHubで新しいプロジェクトを作るときには、[ライセンスを追加するよう聞かれます](https://help.github.com/articles/open-source-licensing/)。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
-  A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
+  標準化されたライセンスは、ソフトウェアに対して他の人は何ができて何ができないのかを正確に把握していない人にとっては、代理人として機能します。どうしても必要な場合を除いて、カスタムしたり、修正したり、標準的でない条項は使わないようにしましょう。そういったものは、政府機関のコードを下流で使う際の障壁となります。
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 
-## Which open source license is appropriate for my project?
+## 私のプロジェクトに適切なオープンソースライセンスはどれでしょう？
 
-If you're starting from a blank slate, it's hard to go wrong with the [MIT License](https://choosealicense.com/licenses/mit/). It's short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including your copyright notice. You'll be able to release the project under a different license if you ever need to.
+もし白紙からプロジェクトを始めるのであれば、[MITライセンス](https://choosealicense.com/licenses/mit/)を使えば失敗することはないでしょう。短くて、理解しやすく、あなたの著作権表示を含むライセンスのコピーを維持し続ける限りは誰が何をやっても良いというライセンスです。必要であれば、別のライセンスを使ってプロジェクトをリリースすることもできます。
 
-Otherwise, picking the right open source license for your project depends on your objectives.
+それ以外のケースでは、どれが適切なオープンソースライセンスかは目的によって異なります。
 
-Your project very likely has (or will have) **dependencies**. For example, if you're open sourcing a Node.js project, you'll probably use libraries from the Node Package Manager (npm). Each of those libraries you depend on will have its own open source license. If each of their licenses is "permissive" (gives the public permission to use, modify, and share, without any condition for downstream licensing), you can use any license you want. Common permissive licenses include MIT, Apache 2.0, ISC, and BSD.
+あなたのプロジェクトには **依存関係** があるはずです（もしくは今後必要になるでしょう）。例えば、オープンソースでNode.jsのプロジェクトに取り掛かっているのであれば、Node Package Manager (npm) を使ってライブラリを使っていることでしょう。あなたのプロジェクトで使っているこれらのライブラリはそれぞれのオープンソースライセンスを持っています。これらのライセンスが「寛容」（ライブラリを利用するプロジェクトのライセンスに条件をつけることなく、誰でも利用、修正、共有が可能）であれば、どういったライセンスのものでも使うことができます。よく使われる寛容なライセンスには、MIT、Apache 2.0、ISC、BSDといったものがあります。
 
-On the other hand, if any of your dependencies' licenses are "strong copyleft" (also gives public same permissions, subject to condition of using the same license downstream), then your project will have to use the same license. Common strong copyleft licenses include GPLv2, GPLv3, and AGPLv3.
+その一方で、もし依存するライブラリの中に「強いコピーレフト」（寛容なライセンス同様、誰でも利用してよいが、その条件としてライブラリを利用するプロジェクトも同じライセンスである必要がある）の場合、あなたのプロジェクトでも同じライセンスを使う必要が出るでしょう。よく使われる強いコピーレフトのライセンスには、GPLv2、GPLv3、AGPLv3といったものがあります。
 
-You may also want to consider the **communities** you hope will use and contribute to your project:
+また、 **コミュニティ** にあなたのプロジェクトを使ってもらったり、コントリビュートしてもらいたいとも思うでしょう:
 
-* **Do you want your project to be used as a dependency by other projects?** Probably best to use the most popular license in your relevant community. For example, [MIT](https://choosealicense.com/licenses/mit/) is the most popular license for [npm libraries](https://libraries.io/search?platforms=NPM).
-* **Do you want your project to appeal to large businesses?** A large business will likely want an express patent license from all contributors. In this case, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) has you (and them) covered.
-* **Do you want your project to appeal to contributors who do not want their contributions to be used in closed source software?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) or (if they also do not wish to contribute to closed source services) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) will go over well.
+* **他のプロジェクトから依存関係として使われるのを望みますか？** おそらく、関連するコミュニティで最も多く使われているライセンスを使うのが一番でしょう。例えば、 [MIT](https://choosealicense.com/licenses/mit/)は[npmライブラリ](https://libraries.io/search?platforms=NPM)で最もよく使われています。
+* **大企業に使ってもらいたいと思っていますか？** 大企業は全てのコントリビュータから特許ライセンスを望む傾向があります。この場合、[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)があなた（と大企業も）をカバーします。
+* **クローズドなソフトウェアではコントリビュートを使ってほしくないと思っているコントリビュータにもアピールしたいですか？** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)か（もしクローズドなサービスにも使われたくないと思っているのであれば）[AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)が適しています。
 
 Your **company** may have specific licensing requirements for its open source projects. For example, it may require a permissive license so that the company can use your project in the company's closed source product. Or your company may require a strong copyleft license and an additional contributor agreement (see below) so that only your company, and nobody else, can use your project in closed source software. Or your company may have certain needs related to standards, social responsibility, or transparency, any of which could require a particular licensing strategy. Talk to your [company's legal department](#what-does-my-companys-legal-team-need-to-know).
 
