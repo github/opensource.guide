@@ -87,9 +87,9 @@ Por exemplo, à medida que seu projeto cresce, ele adiciona dependências ou usu
 
 Como alternativa, você pode fazer com que os colaboradores concordem com antecedência (por meio de um acordo de colaborador adicional - veja abaixo) com determinadas alterações de licença em determinadas condições, além daquelas permitidas pela sua licença de código aberto existente. Isso muda um pouco a complexidade de alterar licenças. Você precisará de mais ajuda de seus advogados lá na frente, e você ainda vai querer se comunicar claramente com as partes interessadas do seu projeto ao executar uma alteração de licença.
 
-## Does my project need an additional contributor agreement?
+## Meu projeto precisa de um contrato de contribuição adicional?
 
-Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license. If your project is on GitHub, the GitHub Terms of Service make "inbound=outbound" the [explicit default](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
+Provavelmente não. Para a grande maioria dos projetos de código aberto, uma licença de código aberto serve implicitamente como a licença de entrada (de contribuidores) e de saída (para outros contribuidores e usuários). Se o seu projeto estiver no GitHub, os Termos de Serviço do GitHub tratam "entrada=saída" de [por padrão](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
 
 An additional contributor agreement -- often called a Contributor License Agreement (CLA) -- can create administrative work for project maintainers. How much work an agreement adds depends on the project and implementation. A simple agreement might require that contributors confirm, with a click, that they have the rights necessary to contribute under the project open source license. A more complicated agreement might require legal review and sign-off from contributors' employers.
 
