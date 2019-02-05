@@ -20,11 +20,11 @@ Ainda bem que pergunto! Quando você faz um trabalho criativo (como escrever, gr
 
 Em geral, isso significa que ninguém mais pode usar, copiar, distribuir ou modificar seu trabalho sem estar em risco de perdas, danos ou litigios.
 
-Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
+O código aberto é uma circunstância incomum, no entanto o autor espera que outros usem,modifiquem e compartilhem o trabalho. Mas como o padrão legal ainda é direitros autorais exclusivo, você precisa de uma licença que declare explicitamente essas permissões.
 
-If you don't apply an open source license, everybody who contributes to your project also becomes an exclusive copyright holder of their work. That means nobody can use, copy, distribute, or modify their contributions -- and that "nobody" includes you.
+Se você não declarar uma licença de código aberto, todos que contribuem para o seu projeto também se tornam detentores exclusivos dos direitos autorais de seu trabalho. Isso significa que ninguém pode usar, copiar, distribuir ou modificar suas contribuições - e "ninguém" significa inclusive você.
 
-Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
+Finalmente, seu projeto pode ter dependências que tenham licença ou que a licença especifique alguns requisitos que você não conhecia. A comunidade do seu projeto ou as políticas do seu empregador também podem exigir que seu projeto use licenças específicas de código aberto. Nós vamos cobrir essas situações abaixo.
 
 ## Are public GitHub projects open source?
 
