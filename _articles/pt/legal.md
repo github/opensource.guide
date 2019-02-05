@@ -91,9 +91,9 @@ Como alternativa, você pode fazer com que os colaboradores concordem com antece
 
 Provavelmente não. Para a grande maioria dos projetos de código aberto, uma licença de código aberto serve implicitamente como a licença de entrada (de contribuidores) e de saída (para outros contribuidores e usuários). Se o seu projeto estiver no GitHub, os Termos de Serviço do GitHub tratam "entrada=saída" de [por padrão](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
 
-An additional contributor agreement -- often called a Contributor License Agreement (CLA) -- can create administrative work for project maintainers. How much work an agreement adds depends on the project and implementation. A simple agreement might require that contributors confirm, with a click, that they have the rights necessary to contribute under the project open source license. A more complicated agreement might require legal review and sign-off from contributors' employers.
+Um contrato de contribuinte adicional - geralmente chamado de Contrato de Licença de Contribuidor (CLA) -- pode criar trabalho administrativo para os mantenedores do projeto. Quanto trabalho um contrato adiciona depende do projeto e da implementação. Um acordo simples pode exigir que os contribuidores confirmem, com um clique, que têm os direitos necessários para contribuir com a licença de código aberto do projeto. Um acordo mais complicado pode exigir revisão legal e aprovação dos empregadores dos colaboradores.
 
-Also, by adding "paperwork" that some believe is unnecessary, hard to understand, or unfair (when the agreement recipient gets more rights than contributors or the public do via the project's open source license), an additional contributor agreement may be perceived as unfriendly to the project's community.
+Além disso, adicionando "papelada" que alguns acreditam ser desnecessária, difícil de entender ou injusta (quando o destinatário do contrato obtém mais direitos que os contribuidores ou o público por meio da licença de código aberto do projeto), um acordo de contribuição adicional pode ser considerado hostil para a comunidade do projeto.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
@@ -103,14 +103,14 @@ Also, by adding "paperwork" that some believe is unnecessary, hard to understand
   </p>
 </aside>
 
-Some situations where you may want to consider an additional contributor agreement for your project include:
+Algumas situações em que você pode querer considerar um contrato de contribuição adicional para o seu projeto incluem:
 
-* Your lawyers want all contributors to expressly accept (_sign_, online or offline) contribution terms, perhaps because they feel the open source license itself is not enough (even though it is!). If this is the only concern, a contributor agreement that affirms the project's open source license should be enough. The [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) is a good example of a lightweight additional contributor agreement. For some projects, a [Developer Certificate of Origin](https://github.com/probot/dco) can be an alternative.
-* Your project uses an open source license that does not include an express patent grant (such as MIT), and you need a patent grant from all contributors, some of whom may work for companies with large patent portfolios that could be used to target you or the project's other contributors and users. The [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf) is a commonly used additional contributor agreement that has a patent grant mirroring the one found in the Apache License 2.0.
-* Your project is under a copyleft license, but you also need to distribute a proprietary version of the project. You'll need every contributor to assign copyright to you or grant you (but not the public) a permissive license. The [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement) is an example this type of agreement.
-* You think your project might need to change licenses over its lifetime and want contributors to agree in advance to such changes.
+* Seus advogados querem que todos os colaboradores aceitem expressamente os termos de contribuição (_sign_, online ou offline), talvez porque achem que a licença de código aberto em si não é suficiente (mesmo que seja!). Se essa for a única preocupação, um acordo de contribuidores que afirme a licença de código aberto do projeto deve ser suficiente. O [jQuery Contrato de licença de contribuinte individual](https://contribute.jquery.org/CLA/) é um bom exemplo de um acordo de contribuição adicional leve. Para alguns projetos, um [Certificado de origem do desenvolvedor](https://github.com/probot/dco) pode ser uma alternativa.
+* Seu projeto usa uma licença de código aberto que não inclui uma concessão de patente expressa (como MIT) e você precisa de uma concessão de patente de todos os contribuidores, alguns dos quais podem trabalhar para empresas com grandes portfólios de patentes que poderiam ser usados para você ou os outros contribuidores e usuários do projeto. O [Apache Contrato de licença de contribuinte individual](https://www.apache.org/licenses/icla.pdf) é um contrato de contribuição adicional comumente usado que tem uma concessão de patente espelhando a encontrada na Licença Apache 2.0.
+* Seu projeto está sob uma licença copyleft, mas você também precisa distribuir uma versão proprietária do projeto. Você precisará que todo colaborador assine garantindo a você ou lhe autorgando direitos autorais (mas não ao público) uma licença permissiva. O [Contrato de Contribuidor do MongoDB](https://www.mongodb.com/legal/contributor-agreement) é um exemplo desse tipo de acordo.
+* Você acha que seu projeto talvez precise alterar as licenças ao longo de sua vida útil e deseja que os colaboradores concordem antecipadamente com essas alterações.
 
-If you do need to use an additional contributor agreement with your project, consider using an integration such as [CLA assistant](https://github.com/cla-assistant/cla-assistant) to minimize contributor distraction.
+Se você precisar usar um contrato de contribuição adicional com seu projeto, considere usar uma integração como [CLA assistente](https://github.com/cla-assistant/cla-assistant) para minimizar a distração do contribuidor.
 
 ## What does my company's legal team need to know?
 
