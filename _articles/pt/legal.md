@@ -10,15 +10,15 @@ related:
   - leadership
 ---
 
-## Understanding the legal implications of open source
+## Entendendo as implicações legais do open source
 
-Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about. Thankfully, you don't have to start from scratch. We've got your legal needs covered. (Before you dig in, be sure to read our [disclaimer](/notices/).)
+Compartilhar seu trabalho criativo com o mundo pode ser uma experiência empolgante e recompensadora. Isso também pode significar um monte de coisas legais que você não sabia que tinha que se preocupar. Felizmente, você não precisa começar do zero. Nós temos suas necessidades legais identificadas. (Antes de entrar, leia nosso [aviso](/notices/).)
 
-## Why do people care so much about the legal side of open source?
+## Porque as pessoas se importam tanto com o lado legal do open source?
 
-Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
+Ainda bem que pergunto! Quando você faz um trabalho criativo (como escrever, graficos, ou codigo), por padrão este trabalho esta sob direitos autorais exclusivos. Ou seja, a lei assume que como autor do seu trabalho, você deve dizer como os outros podem utilizar o seu trabalho.
 
-In general, that means nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
+Em geral, isso significa que ninguém mais pode usar, copiar, distribuir ou modificar seu trabalho sem estar em risco de perdas, danos ou litigios.
 
 Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
 
