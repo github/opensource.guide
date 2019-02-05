@@ -134,7 +134,7 @@ Se você está lançando o primeiro projeto de código aberto da sua empresa, as
 
 A longo prazo, sua equipe jurídica pode fazer mais para ajudar a empresa a obter mais de seu envolvimento em código aberto e permanecer segura:
 
-* **Employee contribution policies:** Consider developing a corporate policy that specifies how your employees contribute to open source projects. A clear policy will reduce confusion among your employees and help them contribute to open source projects in the company's best interest, whether as part of their jobs or in their free time. A good example is Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Employee contribution policies:** Considere desenvolver uma política corporativa que especifique como seus funcionários contribuem para projetos de código aberto. Uma política clara reduzirá a confusão entre seus funcionários e os ajudará a contribuir para projetos de código aberto no melhor interesse da empresa, seja como parte de seus trabalhos ou em seu tempo livre. Um bom exemplo é o da Rackspace [Modelo de propriedade intelectual e políticas de contribuição para projetos abertos](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
@@ -144,8 +144,8 @@ A longo prazo, sua equipe jurídica pode fazer mais para ajudar a empresa a obte
   </p>
 </aside>
 
-* **What to release:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) If your legal team understands and is invested in your company's open source strategy, they'll be best able to help rather than hinder your efforts.
-* **Compliance:** Even if your company doesn't release any open source projects, it uses others' open source software. [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) can prevent headaches, product delays, and lawsuits.
+* **O que liberar:** [(Quase) tudo?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Se a sua equipe jurídica entender e investir na estratégia de código aberto da sua empresa, ela será mais capaz de ajudar do que atrapalhar seus esforços.
+* **Conformidade:** Mesmo que sua empresa não libere nenhum projeto de código aberto, ele usa o software de código aberto dos outros. [Conscientização e processo](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) pode evitar dores de cabeça, atrasos de produtos e ações judiciais.
 
 <aside markdown="1" class="pquote">
   Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
@@ -154,5 +154,5 @@ A longo prazo, sua equipe jurídica pode fazer mais para ajudar a empresa a obte
   </p>
 </aside>
 
-* **Patents:** Your company may wish to join the [Open Invention Network](https://www.openinventionnetwork.com/), a shared defensive patent pool to protect members' use of major open source projects, or explore other [alternative patent licensing](https://www.eff.org/document/hacking-patent-system-2016).
-* **Governance:** Especially if and when it makes sense to move a project to a [legal entity outside of the company](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
+* **Patentes:** Sua empresa pode querer participar do [Open Invention Network](https://www.openinventionnetwork.com/), um conjunto de patentes defensivas compartilhadas para proteger o uso de grandes projetos de código aberto pelos membros, ou explorar outros [licenciamento alternativo de patentes](https://www.eff.org/document/hacking-patent-system-2016).
+* **Governança:** Especialmente se e quando fizer sentido mover um projeto para um [entidade legal fora da empresa](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
