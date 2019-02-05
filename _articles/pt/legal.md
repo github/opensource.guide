@@ -26,15 +26,15 @@ Se você não declarar uma licença de código aberto, todos que contribuem para
 
 Finalmente, seu projeto pode ter dependências que tenham licença ou que a licença especifique alguns requisitos que você não conhecia. A comunidade do seu projeto ou as políticas do seu empregador também podem exigir que seu projeto use licenças específicas de código aberto. Nós vamos cobrir essas situações abaixo.
 
-## Are public GitHub projects open source?
+## Os projetos públicos do GitHub são de código aberto?
 
-When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
+Quando você [cria um novo projeto](https://help.github.com/articles/creating-a-new-repository/) no GitHub, você tem a opção de criar um repositorio **privado** ou **publico**.
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+**Tornar seu projeto no GitHub publico não é o mesmo que licenciar seu projeto.** Projetos publicos são cobertos pelos [Termos de Servicos do GitHub's](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), o que permite que outras pessoas vejam e copiem seu projeto, mas seu trabalho também não possui permissões.
 
-If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
+Se você quiser que outras pessoas usem, distribuam, modifiquem ou contribuam com seu projeto, você precisa incluir uma licença de código aberto. Por exemplo, alguém não pode usar legalmente qualquer parte de seu projeto do GitHub em seu código pessoal, mesmo que seu projeto seja público, a menos que você conceda explicitamente a eles o direito de fazer isso.
 
 ## Just give me the TL;DR on what I need to protect my project.
 
