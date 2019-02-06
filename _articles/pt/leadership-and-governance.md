@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+lang: pt
+title: Liderança e Governança
+description: Projetos de código aberto em expansão podem se beneficiar de regras formais para tomar decisões.
 class: leadership
 order: 6
 image: /assets/images/cards/leadership.png
@@ -10,41 +10,41 @@ related:
   - metrics
 ---
 
-## Understanding governance for your growing project
+## Entendendo a governança para seu projeto em crescimento
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
+Seu preojeto está crescendo, pessoas estão engajadas, e você esta comprometido em manter isso em andamento. Neste ponto, você pode estar imaginando como incorporar contribuidores regulares do projeto em seu workflow, seja para dar acesso de commit para alguém ou resolver debates da comunidade. Se você possuir dúvidas, nós temos respostas.
 
-## What are examples of formal roles used in open source projects?
+## Quais são os exemplos de regras formais usadas em projetos open source?
 
-Many projects follow a similar structure for contributor roles and recognition.
+Muitos projetos seguem um estrutura similar para funções e reconhecimento de contribuidores.
 
-What these roles actually mean, though, is entirely up to you. Here are a few types of roles you may recognize:
+O que essas funções realmente significam, entretanto, depende inteiramente de você. Aqui estão alguns tipos de papéis que você pode reconhecer:
 
 * **Maintainer**
 * **Contributor**
 * **Committer**
 
-**For some projects, "maintainers"** are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
+**Para alguns projetos, "maintainers"** são as únicas pessoas no projeto com permissão de commit. Em outros projetos, eles são simplesmente pessoas que estão listadas no README como mantenedores.
 
-A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project, or written documentation that made the project more accessible to others. Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
+Um maintainer não precisa necessariamente ser alguém que escreve código para seu projeto. Pode ser alguém que tenha feito muito trabalho para evangelizar seu projeto, ou escreveu documentação que torna o projeto mais acessível aos outros. Independentemente do que eles fazem no dia-a-dia, um maintainer é provavelmente alguém que se sente responsável pela direção do projeto e está comprometido em melhorá-lo.
 
-**A "contributor" could be anyone** who comments on an issue or pull request, people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
+**Um "contribuidor" pode ser qualquer um** que comente em uma issue ou pull request, pessoas que adicionam valor ao projeto (seja triando issues, escrevendo código, ou organizando eventos), ou qualquer pessoa com um pull request mesclado (talvez a mais estreita definição de um contributor).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
+  \[Para o Node.js,\] toda pessoa que venha a comentar em uma issue ou submeta um código é um membro da comunidade do projeto. Apenas ser capaz de vê-los, já significa que eles cruzaram a linha de ser usuário e passaram a ser um contribuidor.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
 </aside>
 
-**The term "committer"** might be used to distinguish commit access, which is a specific type of responsibility, from other forms of contribution.
+**O termo "committer"** pode ser usado para distinguir o acesso de commit, que é um tipo específico de responsabilidade, de outras formas de contribuição.
 
-While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#what-it-means-to-contribute) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
+Embora você possa definir os papéis do seu projeto da maneira que preferir, [considere o uso de definições mais amplas](../how-to-contribute/#what-it-means-to-contribute) para encorajar mais formas de cntribuição. Você pode usar papéis de liderança para formalmente reconhecer pessoas que fizeram contribuições notáveis para seu projeto, independentemente das habilidades tecnicas deles.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
-  You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
+  Você pode me conhecer como o "inventor" do Django... mas na verdade, eu sou o cara que foi contratado para trabalhar em uma coisa um ano depois de já ter sido feito. (...) As pessoas suspeitam que sou bem sucedido por causa de minhas habilidades em programação... mas eu sou, na melhor das hipóteses, um programador médio.
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
