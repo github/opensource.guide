@@ -150,10 +150,10 @@ Pada dokumen README, cobalah untuk menjawab pertanyaan berikut:
 Anda bisa menggunakan README untuk menjawab pertanyaan lainnya, seperti bagaiman Anda akan menangani kontribusi, apa tujuan akhir dari proyek, dan informasi tentang lisensi. Jika Anda tidak ingin menerima kontribusi, atau proyek Anda belum siap untuk produksi, tuliskan informasi ini.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Dokumentasi yang lebih baik berarti lebih banyak pengguna, lebih sedikit bantuan untuk dukungan ke pengguna, dan lebih banyak kontributor. (...) Ingatlah bahwa pembaca bukanlah Anda. Terdapat orang-orang yang datang pada sebuah proyek yang memiliki pengalaman yang sama sekali berbeda.
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 

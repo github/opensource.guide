@@ -150,10 +150,10 @@ Dans votre fichier README, essayez de répondre aux questions suivantes:
 Vous pouvez utiliser votre fichier README pour répondre à d'autres questions, telles que la manière dont vous gérez les contributions, les objectifs du projet et les informations sur les licences et l'attribution. Si vous ne souhaitez pas accepter de contributions ou si votre projet n'est pas encore prêt pour la production, écrivez ces informations.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Une meilleure documentation signifie plus d'utilisateurs, moins de demandes de support et plus de contributeurs. (...) Rappelez-vous que vos lecteurs ne sont pas vous. Il y a des gens qui pourraient venir à un projet et qui ont des expériences complètement différentes.
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
