@@ -300,7 +300,6 @@ masterブランチのコミットアクティビティをみてみましょう�
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-  オープンなプルリクエストはいくつあるか？
   </label>
 </div>
 
@@ -474,7 +473,6 @@ masterブランチのコミットアクティビティをみてみましょう�
 プルリクエストでは、仕事が完了している必要はありません。大抵の場合、早い段階でプルリクエストを開き、他の人があなたの進捗を確認したり、フィードバックを与えられるようにしたほうが望ましいです。タイトルに"WIP" (Work in Progress)とつけましょう。いつでもさらなるコミットを追加できます。
 
 そのプロジェクトがGitHub上にあるのであれば、下記がプルリクエストを提出する方法です：
-If the project is on GitHub, here's how to submit a pull request:
 
 * **[リポジトリをフォークし](https://guides.github.com/activities/forking/)** ローカルにクローンしましょう。あなたのローカルと元の"upstream"リポジトリをremoteとして追加することで紐づけましょう。"upstream"からの変更を頻繁にプルすることで、プルリクエストを提出する時にマージコンフリクトが起きづらくなるように、最新に追いついているようにしましょう。（より詳細な手順は[こちら](https://help.github.com/articles/syncing-a-fork/)を確認して下さい)。
 * あなたの変更のための**[ブランチを切りましょう](https://guides.github.com/introduction/flow/)**。
@@ -488,7 +486,6 @@ If the project is on GitHub, here's how to submit a pull request:
 ## 貢献を提出した後に起こること
 
 やりました！おめでとう、あなたはオープンソースコントリビュータになりました。これからも多数の貢献を行う第一歩になることを願っています。
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
 
 貢献を提出した後、下記のうちのどれかが起きるでしょう：
 
