@@ -134,7 +134,7 @@ GitHub上で新しいプロジェクトを作ると、ライセンスの選択�
 Longer term, your legal team can do more to help the company get more from its involvement in open source, and stay safe:
 
 * **従業員のコントリビュートポリシー：** 従業員がどのようにオープンソースにコントリビュートするかを定めた社内規約を作ることを検討しましょう。明確な規約を作ることで従業員同士の混乱も減りますし、従業員に対して企業が最も関心のあるオープンソースプロジェクトに業務の一環であれ空き時間でコントリビュートする手助けにもなります。Rackspaceの[Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)が良い例です。
- 
+
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   パッチに関連した知的財産を手放すことで従業員の知識ベースと名声を築く事ができます。そうすることで、その企業は従業員の能力を高め、自律的に働くことに投資していることを示すことができます。こういったメリットは、モラルの向上や従業員の維持にも繋がります。
