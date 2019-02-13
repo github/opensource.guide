@@ -43,20 +43,6 @@
     </div>
 
     <div class="border-top text-gray py-5">
-      {% if page.lang and site.data.locales.size > 1 %}
-      <select id="language" class="float-md-left">
-        {% assign locales = site.data.locales | sort %}
-        {% for locale in locales %}
-          {% assign lang = locale[0] %}
-          {% assign locale_name = locale[1][lang].locale_name %}
-          {% if page.lang == lang %}
-          <option value="{{ lang }}" selected="selected">{{ locale_name }}</option>
-          {% else %}
-          <option value="{{ lang }}">{{ locale_name }}</option>
-          {% endif %}
-        {% endfor %}
-      </select>
-      {% endif %}
       <p class="float-md-right"><a class="text-gray-light text-small" href="{{ "/notices/" | relative_url }}">fine print</a></p>
 
       <div>
