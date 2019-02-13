@@ -95,7 +95,7 @@ Si necesitas un presupuesto dedicado o personal para la promoci&oacute;n, operac
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   A medida que abres el c&oacute;digo de tu proyecto, es importante que puedas asegurarte de que los procesos de administraci&oacute;n tengan en cuenta a las contribuciones y a las habilidades de la comunidad alrededor de tu proyecto. No hay que asustarse al involucrar contribuyentes, que no est&eacute;n empleados en tu empresa, en aspectos claves del proyecto (especialmente si son contribuyentes frecuentes).
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
