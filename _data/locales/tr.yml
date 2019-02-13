@@ -1,0 +1,31 @@
+entr:
+  locale_name: Turkish
+  nav:
+    about: Hakkında
+    contribute: Katkıda bulun
+  index:
+    lead: Açık kaynaklı yazılım, tıpkı sizin gibi insanlar tarafından yapılır. Projenizi nasıl başlatıp büyüteceğinizi öğrenin.
+    opensourcefriday: Bugün cuma! Kullandığınız ve sevdiğiniz yazılıma katkıda bulunmak için birkaç saat ayırın
+  article:
+    table_of_contents: İçindekiler
+    back_to_all_guides: Tüm kılavuzlara geri dön
+    related_guides: İlgili Kılavuzlar
+  footer:
+    contribute:
+      heading: Katkıda bulun
+      description: Bir öneride bulunmak ister misiniz? Bu içerik açık kaynaklı. Geliştirmemize yardımcı olun.
+      button: Katkıda bulun
+    subscribe:
+      heading: İletişimde kalın
+      description: GitHub'ın en son açık kaynak kodlu ipuçlarını ve kaynaklarını ilk duyan siz olun.
+      label: E-posta adresi
+      button: Abone ol
+    byline:
+      # [code], [love], ve [github] octicons ile değiştirilecek
+      format: "[github] ve [friends] tarafından [love] ile [code]"
+      # Label for code octicon
+      code_label: kod
+      # Label for love octicon
+      love_label: sevgi
+      # Label for the contributors link
+friends_label: arkadaşları
