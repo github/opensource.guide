@@ -95,7 +95,7 @@ related:
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   オープンソースプロジェクトを始める時に、あなたの管理プロセスにおいて貢献やそのプロジェクトのコミュニティの能力が考慮されているかどうかを確かめておくのは大事なことです。プロジェクトの大事な部分であなたの企業に雇われていないコントリビュータを巻き込むことを恐れてはいけません - 特に彼らが頻繁に貢献をしてくれるのであれば。
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
