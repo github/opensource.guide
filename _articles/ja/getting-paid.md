@@ -16,7 +16,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-私は、クリスマスの週に取り掛かれる「趣味の」プログラミングプロジェクトを探していました。(...) 家にコンピュータを持っていて、他には特に手持ちがなかったのです。そこで、私は最近考えていた新しいスクリプト言語のインタープリタを書くことにしました。(...) その作品の名前はPythonとしました。
+私は、クリスマスの週に取り掛かれる「趣味の」プログラミングプロジェクトを探していました。(...) 家にコンピュータを持っていて、他には特に手持ちがなかったのです。そこで、私は最近考えていた新しいスクリプト言語のインタープリタを書くことにしました。(...) その作品の名前は Python としました。
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
@@ -48,11 +48,11 @@ related:
   </p>
 </aside>
 
-有償で仕事ができることで、異なる人生の歩み方をしている人が、コントリビュートを可能にします。現在の財政的状況や負債、家族、その他世話が必要な人がいる等の理由で、オープンソース活動を無償で行う余裕がない人もいます。この事は、ボランティアではオープンソース活動を行う余裕がない人たちからのコントリビュートが実現しないということを意味します。これは@ashedryden [が述べたように](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)、倫理的な問題があります。コントリビュートが、既に余裕のある人からだけに偏ってしまい、このボランティア活動によって彼らが更にメリットを得ることになるのです。その一方、ボランティア活動を行うことのできない人は機会を得ることができず、オープンソースコミュニティにおける多様性の不足がより増長されてしまいます。
+有償で仕事ができることで、異なる人生の歩み方をしている人が、コントリビュートを可能にします。現在の財政的状況や負債、家族、その他世話が必要な人がいる等の理由で、オープンソース活動を無償で行う余裕がない人もいます。この事は、ボランティアではオープンソース活動を行う余裕がない人たちからのコントリビュートが実現しないということを意味します。これは @ashedryden [が述べたように](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)、倫理的な問題があります。コントリビュートが、既に余裕のある人からだけに偏ってしまい、このボランティア活動によって彼らが更にメリットを得ることになるのです。その一方、ボランティア活動を行うことのできない人は機会を得ることができず、オープンソースコミュニティにおける多様性の不足がより増長されてしまいます。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
-   OSSはテクノロジー業界に多大なメリットを生み出し、ひいてはあらゆる産業にメリットをもたらします。 (...) しかし、オープンソース活動に従事できるのがラッキーで夢中になっている人だけであるとしたら、それは大きな機会損失です。
+   OSS はテクノロジー業界に多大なメリットを生み出し、ひいてはあらゆる産業にメリットをもたらします。 (...) しかし、オープンソース活動に従事できるのがラッキーで夢中になっている人だけであるとしたら、それは大きな機会損失です。
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
   </p>
@@ -64,7 +64,7 @@ related:
 
 今日では、多くの人がオープンソース活動でパートタイムやフルタイムの給与を得ています。これを実現するもっともよくあるケースは、雇用主に話してみることです。
 
-もし雇用主がそのプロジェクトを使っているのであれば、オープンソース活動をするのはより簡単になるでしょう。しかし、説明の仕方はよく練る必要があります。そのプロジェクトを使っていないかもしれませんが、Pythonを使っているとすれば、Pythonの有名なプロジェクトに関わることで新しいPython開発者を惹き付ける役に立つでしょう。こう説明することで、雇用主はより友好的になるでしょう。
+もし雇用主がそのプロジェクトを使っているのであれば、オープンソース活動をするのはより簡単になるでしょう。しかし、説明の仕方はよく練る必要があります。そのプロジェクトを使っていないかもしれませんが、 Python を使っているとすれば、 Python の有名なプロジェクトに関わることで新しい Python 開発者を惹き付ける役に立つでしょう。こう説明することで、雇用主はより友好的になるでしょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
@@ -78,9 +78,9 @@ related:
 
 多くの企業が、ブランド構築と有能な開発者の採用のためにオープンソースプログラムを作っています。
 
-例えば @hueniverse は、[ウォルマートがオープンソースに投資する](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html)べき金銭的理由がある事に気づきました。そして、 @jamesgpearce は、Facebookのオープンソースプログラムが採用に関して[差別化になる](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon)と気づきました：
+例えば @hueniverse は、[ウォルマートがオープンソースに投資する](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html)べき金銭的理由がある事に気づきました。そして、 @jamesgpearce は、 Facebook のオープンソースプログラムが採用に関して[差別化になる](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon)と気づきました：
 
-> それは私達のハッカー文化や私達の組織の認知のされ方と緊密に整合していました。私達は従業員に対して、「Facebookのオープンソースソフトウェアプログラムを知っていますか？」と聞いてみました。三分の二は「はい」と答え、半分は仕事上の決定を行う際に良い影響を与えていると答えました。これは小さな値ではありませんし、これは今後も続いていくトレンドだと信じています。
+> それは私達のハッカー文化や私達の組織の認知のされ方と緊密に整合していました。私達は従業員に対して、「 Facebook のオープンソースソフトウェアプログラムを知っていますか？」と聞いてみました。三分の二は「はい」と答え、半分は仕事上の決定を行う際に良い影響を与えていると答えました。これは小さな値ではありませんし、これは今後も続いていくトレンドだと信じています。
 
 あなたの会社がこれと同じ道をたどるのであれば、コミュニティと企業の活動の境界を明確に引いておくことが重要です。結局、オープンソースは世界中の人々のコントリビュートによって維持されており、それはどんな企業や場所よりも大きいのです。
 
@@ -94,20 +94,20 @@ related:
 
 オープンソース活動を優先するということを現在の雇用主に納得してもらえなかった場合、オープンソースへのコントリビュートを奨励している新しい雇用主を探すことを検討しましょう。オープンソース活動への貢献を明確にしている企業を探しましょう。例えば：
 
-* [Netflix](https://netflix.github.io/)や[PayPal](https://paypal.github.io/)といった企業は、彼らのオープンソースへの関わりをまとめたウェブサイトを持っています。
-* [Rackspace](https://www.rackspace.com/en-us)は従業員向けに[オープンソースコントリビュートポリシー](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/)を公開しています
+* [Netflix](https://netflix.github.io/) や [PayPal](https://paypal.github.io/) といった企業は、彼らのオープンソースへの関わりをまとめたウェブサイトを持っています。
+* [Rackspace](https://www.rackspace.com/en-us) は従業員向けに[オープンソースコントリビュートポリシー](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/)を公開しています
 
-[Go](https://github.com/golang)や[React](https://github.com/facebook/react)のような大企業がはじめたプロジェクトでは、オープンソース活動を行う人々を採用する可能性があります。
+[Go](https://github.com/golang) や [React](https://github.com/facebook/react) のような大企業がはじめたプロジェクトでは、オープンソース活動を行う人々を採用する可能性があります。
 
 あなた個人の状況によっては、あなた個人でオープンソース活動に資金を出してもらう試みをすることも可能です。例えば：
 
-* @gaearon は[Patreonでのクラウドファンディング](https://redux.js.org/)を通じて、[Redux](https://github.com/reactjs/redux)の活動の資金を得ています。
-* @andrewgodwin は[Kickstarterのキャンペーン](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)を通じて、Djangoのスキーママイグレーションの活動の資金を得ています。
+* @gaearon は [Patreon でのクラウドファンディング](https://redux.js.org/)を通じて、 [Redux](https://github.com/reactjs/redux) の活動の資金を得ています。
+* @andrewgodwin は [Kickstarter のキャンペーン](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)を通じて、 Django のスキーママイグレーションの活動の資金を得ています。
 
 最後に、オープンソースプロジェクトの中には問題解決を手伝ってもらうために報奨金を提示しているものもあります。
 
-* @ConnorChristie は[gitcoinの報奨金制度](https://gitcoin.co/)で@MARKETProtocolがjavascriptライブラリの作業を[手伝う](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14)ことで金銭を得ました。
-* @mamiMは@MetaMaskの日本語訳作業が[Bounties Networkに資金提供された際に](https://beta.bounties.network/bounty/v1/134)、その作業を行いました。
+* @ConnorChristie は [gitcoin の報奨金制度](https://gitcoin.co/)で @MARKETProtocol が javascript ライブラリの作業を[手伝う](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14)ことで金銭を得ました。
+* @mamiM は @MetaMask の日本語訳作業が [Bounties Network に資金提供された際に](https://beta.bounties.network/bounty/v1/134)、その作業を行いました。
 
 ## あなたのプロジェクトへの資金提供を探そう
 
@@ -121,30 +121,30 @@ related:
 
 あなたが既に協力者や強力な名声を築いていたり、プロジェクトが非常に有名なのであれば、スポンサーを探すのはうまくいくでしょう。スポンサーを得たプロジェクトの例を幾つか挙げます：
 
-* **[webpack](https://github.com/webpack)**は[OpenCollectiveを通じて](https://opencollective.com/webpack)企業や個人から資金を得ています。
-* **[Vue](https://github.com/vuejs/vue)**は[Patreonを通じて資金を得ています](https://github.com/open-source/stories/yyx990803)。
-* **[Ruby Together](https://rubytogether.org/)**という非営利団体は[bundler](https://github.com/bundler/bundler)や[RubyGems](https://github.com/rubygems/rubygems)といったRubyの基盤プロジェクトに資金を提供しています。
+* **[webpack](https://github.com/webpack)** は [OpenCollective を通じて](https://opencollective.com/webpack)企業や個人から資金を得ています。
+* **[Vue](https://github.com/vuejs/vue)** は [Patreon を通じて資金を得ています](https://github.com/open-source/stories/yyx990803)。
+* **[Ruby Together](https://rubytogether.org/)** という非営利団体は [bundler](https://github.com/bundler/bundler) や [RubyGems](https://github.com/rubygems/rubygems) といった Ruby の基盤プロジェクトに資金を提供しています。
 
 ### 収益源を作る
 
 プロジェクトによっては、商用サポートやホスティング、追加機能によって課金するうことができるかもしれません。幾つか例を挙げます：
 
-* **[Sidekiq](https://github.com/mperham/sidekiq)**は、サポートを追加することで有償版を提供しています。
-* **[Travis CI](https://github.com/travis-ci)**は、製品の有償版を提供しています。
-* **[Ghost](https://github.com/TryGhost/Ghost)**は、有償のマネージドサービスを提供する非営利サービスです。
+* **[Sidekiq](https://github.com/mperham/sidekiq)** は、サポートを追加することで有償版を提供しています。
+* **[Travis CI](https://github.com/travis-ci)** は、製品の有償版を提供しています。
+* **[Ghost](https://github.com/TryGhost/Ghost)** は、有償のマネージドサービスを提供する非営利サービスです。
 
-[npm](https://github.com/npm/npm)や[Docker](https://github.com/docker/docker)のような有名なプロジェクトでは、ビジネスの成長を支えるためにベンチャーキャピタルから資金調達をしています。
+[npm](https://github.com/npm/npm) や [Docker](https://github.com/docker/docker) のような有名なプロジェクトでは、ビジネスの成長を支えるためにベンチャーキャピタルから資金調達をしています。
 
 ### 助成金に応募する
 
 ソフトウェア財団や企業の中にはオープンソース活動に対して助成金を提供しているところもあります。プロジェクト用の法人を設置は不要で、個人に対して支払いをする助成金もあります。
 
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)**は[Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)から助成金を得ています。
-* **[OpenMRS](https://github.com/openmrs)**[StripeのOpen-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)から資金を得ています。
-* **[Libraries.io](https://github.com/librariesio)**は[Sloan Foundation](https://sloan.org/programs/digital-technology)から助成金を得ています。
-* **[Python Software Foundation](https://www.python.org/psf/grants/)**はPython関連のプロジェクトに対して助成金を提供しています。
+* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** は [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/) から助成金を得ています。
+* **[OpenMRS](https://github.com/openmrs)** は [Stripe の Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees) から資金を得ています。
+* **[Libraries.io](https://github.com/librariesio)** は [Sloan Foundation](https://sloan.org/programs/digital-technology) から助成金を得ています。
+* **[Python Software Foundation](https://www.python.org/psf/grants/)** は Python 関連のプロジェクトに対して助成金を提供しています。
 
-更に詳細な選択肢や事例については、@nayafiaがオープンソース活動において資金を得るための[ガイドを書いています](https://github.com/nayafia/lemonade-stand)。資金調達方法によって必要なスキルは異なるので、あなたの強みを分析してどの選択肢が最善か検討しましょう。
+更に詳細な選択肢や事例については、 @nayafia がオープンソース活動において資金を得るための[ガイドを書いています](https://github.com/nayafia/lemonade-stand)。資金調達方法によって必要なスキルは異なるので、あなたの強みを分析してどの選択肢が最善か検討しましょう。
 
 ## 資金援助のための論拠を構築しよう
 
@@ -174,7 +174,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  何年もの間、私達はウェブサイトで使いやすいアイコンの提供する先進的なプロジェクトです。コミュニティには2000万人以上のメンバーがおり、7000万以上のウェブサイトで使われてきました。その中には、Whitehouse.govも含まれています。 (...) バージョン4は3年前にリリースされました。その当時からウェブ技術は大きく変わりましたが、率直に言うとFont Awesomeは少し古くなってしまいました。 (...) そのため、私達はFont Awesome 5を作りました。CSSをモダンにするために書き直し、すべてのアイコンを再デザインしています。私達は、よりよいデザイン、よりよい一貫性、よりよい可読性について話しています。
+  何年もの間、私達はウェブサイトで使いやすいアイコンの提供する先進的なプロジェクトです。コミュニティには2000万人以上のメンバーがおり、7000万以上のウェブサイトで使われてきました。その中には、Whitehouse.gov も含まれています。 (...) バージョン4は3年前にリリースされました。その当時からウェブ技術は大きく変わりましたが、率直に言うと Font Awesome は少し古くなってしまいました。 (...) そのため、私達は Font Awesome 5 を作りました。 CSS をモダンにするために書き直し、すべてのアイコンを再デザインしています。私達は、よりよいデザイン、よりよい一貫性、よりよい可読性について話しています。
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
