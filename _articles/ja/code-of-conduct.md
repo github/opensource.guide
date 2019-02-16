@@ -29,11 +29,11 @@ related:
 * 行動規範に違反したら何が起きるのか
 * 違反はどのようにして報告するのか
 
-できる限り、既存の行動規範を使いましょう。[Contributor Covenant](https://contributor-covenant.org/)は40,000以上のオープンソースプロジェクトで使われている行動規範で、Kubernetes、Rails、Swiftでも使われています。
+できる限り、既存の行動規範を使いましょう。 [Contributor Covenant](https://contributor-covenant.org/) は40,000以上のオープンソースプロジェクトで使われている行動規範で、 Kubernetes 、 Rails 、 Swift でも使われています。
 
-[Django Code of Conduct](https://www.djangoproject.com/conduct/)や[Citizen Code of Conduct](http://citizencodeofconduct.org/)の2つもよく使われる行動規範です。
+[Django Code of Conduct](https://www.djangoproject.com/conduct/) や [Citizen Code of Conduct](http://citizencodeofconduct.org/) の2つもよく使われる行動規範です。
 
-CODE_OF_CONDUCTファイルをプロジェクトのルートディレクトリに置き、CONTRIBUTINGやREADMEファイルからリンクを張ってコミュニティの皆がすぐに見れるようにしましょう。
+CODE_OF_CONDUCT ファイルをプロジェクトのルートディレクトリに置き、 CONTRIBUTING や README ファイルからリンクを張ってコミュニティの皆がすぐに見れるようにしましょう。
 
 ## どのように行動規範に従ってもらうかを決めよう
 
@@ -54,11 +54,11 @@ CODE_OF_CONDUCTファイルをプロジェクトのルートディレクトリ�
 
 メンバーに対しては、行動規範の違反を報告するための（メールアドレスのような）プライベートな方法を与え、それを受け取るのが誰なのかを説明するべきです。それはメンテナーのうちの一人かもしれないし、何人かのメンテナーかもしれないし、行動規範チームかもしれません。
 
-行動規範の違反の報告を受け取る人の違反を報告したいというケースもあることを忘れてはいけません。この場合は、他の人に違反を報告できるような選択肢を設けましょう。例えば、@ctb と @mr-c は、彼らの[khmer](https://github.com/dib-lab/khmer)というプロジェクトで[このように説明しています](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst):
+行動規範の違反の報告を受け取る人の違反を報告したいというケースもあることを忘れてはいけません。この場合は、他の人に違反を報告できるような選択肢を設けましょう。例えば、 @ctb と @mr-c は、彼らの [khmer](https://github.com/dib-lab/khmer) というプロジェクトで[このように説明しています](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst):
 
-> 不正行為やハラスメント、受け入れられない行為は、 **khmer-project@idyll.org** にメールを送ることによって報告することが出来ます。このメールは、C. Titus Brown と Michael R. Crusoe のみが受け取ります。彼ら二人のどちらかが関係する問題について報告する場合は、NSF Center for Science and Technology の BEACON Center for the Study of Evolution in Action のダイバーシティディレクターの **Judi Brown Clarke, Ph.D.** にメールで報告して下さい。*
+> 不正行為やハラスメント、受け入れられない行為は、 **khmer-project@idyll.org** にメールを送ることによって報告することが出来ます。このメールは、 C. Titus Brown と Michael R. Crusoe のみが受け取ります。彼ら二人のどちらかが関係する問題について報告する場合は、 NSF Center for Science and Technology の BEACON Center for the Study of Evolution in Action のダイバーシティディレクターの **Judi Brown Clarke, Ph.D.** にメールで報告して下さい。*
 
-他にもDjangoの[enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/)も参考になります （ただし、プロジェクトのサイズによってはここまで網羅したものは必要ないかもしれません）。
+他にも Django の [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) も参考になります （ただし、プロジェクトのサイズによってはここまで網羅したものは必要ないかもしれません）。
 
 ## 行動規範を強制しよう
 
@@ -89,7 +89,7 @@ CODE_OF_CONDUCTファイルをプロジェクトのルートディレクトリ�
 
 * **公の場で問題の人物に警告を与え**、彼らの行動がどのように他の人に対して悪い影響を与えているかを説明しましょう。そして、問題が起きたチャネルで説明することが望ましいです。公の場でのやり取りは、コミュニティの残りのメンバーに対して、あなたが行動規約を重要なものだと捉えている事を示すことが出来ます。丁寧に、しかしはっきりとした態度でコミュニケーションしましょう。
 
-* **問題の人物に個別に連絡を取り**、彼らの行動がどのように他の人に対して悪い影響を与えているかを説明しましょう。取扱に注意が必要な個人情報を含んでいる場合には、個別のコミュニケーションチャネルを使いたいと思うでしょう。もし個別で遣り取りをするのであれば、最初に問題を報告した人をCCに入れるのは良い考えです。そうすることで、報告者に対して行動を取っているということを知らせることができるためです。ただし、報告者をCCに入れる前に彼らに同意を取りましょう。
+* **問題の人物に個別に連絡を取り**、彼らの行動がどのように他の人に対して悪い影響を与えているかを説明しましょう。取扱に注意が必要な個人情報を含んでいる場合には、個別のコミュニケーションチャネルを使いたいと思うでしょう。もし個別で遣り取りをするのであれば、最初に問題を報告した人を CC に入れるのは良い考えです。そうすることで、報告者に対して行動を取っているということを知らせることができるためです。ただし、報告者を CC に入れる前に彼らに同意を取りましょう。
 
 時には解決に至らないこともあります。問題の人物が攻撃的になるかもしれないし、対面したときに悪意をむき出しにしてくるかもしれないし、行動を全く変えないかもしれません。そういった場合には、より強い行動に出る必要があるかもしれません。例えば:
 
