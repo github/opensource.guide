@@ -33,7 +33,7 @@ related:
 
 [Django Code of Conduct](https://www.djangoproject.com/conduct/)や[Citizen Code of Conduct](http://citizencodeofconduct.org/)の2つもよく使われる行動規範です。
 
-CODE_OF_CONDUCGファイルをプロジェクトのルートディレクトリに置き、CONTRIBUTINGやREADMEファイルからリンクを張ってコミュニティの皆がすぐに見れるようにしましょう。
+CODE_OF_CONDUCTファイルをプロジェクトのルートディレクトリに置き、CONTRIBUTINGやREADMEファイルからリンクを張ってコミュニティの皆がすぐに見れるようにしましょう。
 
 ## どのように行動規範に従ってもらうかを決めよう
 
