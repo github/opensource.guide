@@ -22,16 +22,16 @@ related:
 
 人々ははじめはユーザーとしてプロジェクトに関わり始め、あなたのプロジェクトが彼らの問題を解決することで、その後コントリビュータになるということを忘れないようにしましょう。プロジェクトのメッセージや価値を考える際に、 _ユーザーとコントリビュータ_ が何を望むだろうかという視点で考えるようにしましょう。
 
-例えば、@robbはなぜ彼のプロジェクトである[Cartography](https://github.com/robb/Cartography)が便利なのかをコードの例を通してわかりやすく伝えています:
+例えば、 @robb はなぜ彼のプロジェクトである [Cartography](https://github.com/robb/Cartography) が便利なのかをコードの例を通してわかりやすく伝えています:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-メッセージについてより深掘りするために、Mozillaの["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/)に目を通してみましょう。これはユーザーペルソナを作る練習になります。
+メッセージについてより深掘りするために、 Mozilla の ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) に目を通してみましょう。これはユーザーペルソナを作る練習になります。
 
 ## 人々があなたのプロジェクトを見つけたりフォローしやすくしよう
 
 <aside markdown="1" class="pquote">
-  理想的には、あなたのプロジェクトに関して宣伝したり人に伝えたりできる一つの「ホーム」URLが必要です。きれいなテンプレートを使ったり、きれいなドメイン名を使う必要はありませんが、中心となる場所が必要です。
+  理想的には、あなたのプロジェクトに関して宣伝したり人に伝えたりできる一つの「ホーム」 URL が必要です。きれいなテンプレートを使ったり、きれいなドメイン名を使う必要はありませんが、中心となる場所が必要です。
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
@@ -39,13 +39,13 @@ related:
 
 人々のプロジェクトについて伝える時に教える場所を一つにすることで、人々がプロジェクトを見つけて覚えやすくしましょう。
 
-**あなたの作業を宣伝するためにわかりやすいハンドルを使いましょう** Twitterのハンドル、GitHubのURLやIRCチャンネルは、あなたのプロジェクトを人々に示す事ができる簡単な方法です。こうした場所は、拡大するコミュニティに対して集まる場所を提供することにもなります。
+**あなたの作業を宣伝するためにわかりやすいハンドルを使いましょう** Twitter のハンドル、 GitHub の URL や IRC チャンネルは、あなたのプロジェクトを人々に示す事ができる簡単な方法です。こうした場所は、拡大するコミュニティに対して集まる場所を提供することにもなります。
 
-もし、そうった場所を作るにはまだ早いと思うのであれば、あなた自身のTwitterやあなたが実際に活動しているGitHubのハンドルを宣伝しましょう。あなたのTwitterやGitHubのハンドルを宣伝することで、人々はどうやってあなたに接したり、あなたの仕事をフォローできるのか知ることができます。もしミートアップやイベントで発表するのであれば、自己紹介やスライドに連絡先情報を含めているか確認しましょう。
+もし、そうった場所を作るにはまだ早いと思うのであれば、あなた自身の Twitter やあなたが実際に活動している GitHub のハンドルを宣伝しましょう。あなたの Twitter や GitHub のハンドルを宣伝することで、人々はどうやってあなたに接したり、あなたの仕事をフォローできるのか知ることができます。もしミートアップやイベントで発表するのであれば、自己紹介やスライドに連絡先情報を含めているか確認しましょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
-  プロジェクトの初期段階で私が犯したミスは、プロジェクトのためのTwitterアカウントを作らなかったことです。Twitterを使うことで、プロジェクトについての最新情報を人々に伝え続けることができるだけでなく、プロジェクトについて定期的に人々に示すことができます。
+  プロジェクトの初期段階で私が犯したミスは、プロジェクトのための Twitter アカウントを作らなかったことです。 Twitter を使うことで、プロジェクトについての最新情報を人々に伝え続けることができるだけでなく、プロジェクトについて定期的に人々に示すことができます。
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
@@ -53,11 +53,11 @@ related:
 
 **ウェブサイトを作ることを検討しましょう** ウェブサイトを作ることで、あなたのプロジェクトはより友好的で簡単に誘導することができます。特にそのウェブサイトにわかりやすいドキュメントとチュートリアルがあればなおさらです。ウェブサイトがあることで、あなたのプロジェクトが活動をしているということも示すことができます。これによって、プロジェクトを見ている人は安心して使うことができるようになります。あなたのプロジェクトをどのように使うのかの例も提供しましょう。
 
-Djangoの共同作者の[@adrianholovaty](https://news.ycombinator.com/item?id=7531689)は、 _「ウェブサイトを作ったことはDjangoの初期段階でやったことの中で圧倒的に最善のことでした」_ と言っています。
+Django の共同作者の [@adrianholovaty](https://news.ycombinator.com/item?id=7531689) は、 _「ウェブサイトを作ったことは Django の初期段階でやったことの中で圧倒的に最善のことでした」_ と言っています。
 
-プロジェクトをGitHub上でホストしているのであれば、[GitHub Pages](https://pages.github.com/)を使うことで簡単にウェブサイトを作ることができます。[Yeoman](http://yeoman.io/)や[Vagrant](https://www.vagrantup.com/)、[Middleman](https://middlemanapp.com/)は、網羅的で素晴らしいウェブサイトの[例](https://github.com/showcases/github-pages-examples)です。
+プロジェクトを GitHub 上でホストしているのであれば、 [GitHub Pages](https://pages.github.com/) を使うことで簡単にウェブサイトを作ることができます。 [Yeoman](http://yeoman.io/) や [Vagrant](https://www.vagrantup.com/) 、 [Middleman](https://middlemanapp.com/) は、網羅的で素晴らしいウェブサイトの[例](https://github.com/showcases/github-pages-examples)です。
 
-![Vagrantのホームページ](/assets/images/finding-users/vagrant_homepage.png)
+![Vagrant のホームページ](/assets/images/finding-users/vagrant_homepage.png)
 
 ここまでで、あなたはプロジェクトのメッセージを作り、人々があなたのプロジェクトを簡単に見つけることができる方法を提供しました。次は、外に出てユーザーと話しましょう！
 
@@ -65,7 +65,7 @@ Djangoの共同作者の[@adrianholovaty](https://news.ycombinator.com/item?id=7
 
 オンラインで働きかけることは、素早くあなたの言葉を共有して広めるのに良い方法です。オンラインの媒体を使うことで、非常に広い範囲のユーザーと接点を持つことができる可能性があります。
 
-ユーザーと接点を持つのに、既存のオンラインコミュニティやプラットフォームを利用しましょう。あなたのオープンソースプロジェクトがソフトウェアのプロジェクトであれば、おそらく[Stack Overflow](https://stackoverflow.com/)や[Reddit](https://www.reddit.com)、[Hacker News](https://news.ycombinator.com/)、[Quora](https://www.quora.com/)でユーザーを見つけることができるでしょう。人々に最もメリットがあったり、あなたの仕事に喜んでくれる人がいると思う媒体を見つけましょう。
+ユーザーと接点を持つのに、既存のオンラインコミュニティやプラットフォームを利用しましょう。あなたのオープンソースプロジェクトがソフトウェアのプロジェクトであれば、おそらく [Stack Overflow](https://stackoverflow.com/) や [Reddit](https://www.reddit.com) 、 [Hacker News](https://news.ycombinator.com/) 、 [Quora](https://www.quora.com/) でユーザーを見つけることができるでしょう。人々に最もメリットがあったり、あなたの仕事に喜んでくれる人がいると思う媒体を見つけましょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
@@ -77,9 +77,9 @@ Djangoの共同作者の[@adrianholovaty](https://news.ycombinator.com/item?id=7
 
 あなたのプロジェクトを共有するのに、あなたにとって適切な方法があるか確かめてみましょう：
 
-* **関連するオープンソースプロジェクトとコミュニティと知り合いになろう。** 直接プロジェクトを宣伝する必要がない場合もあります。もしあなたのプロジェクトがPythonを使っているデータサイエンティストにぴったりだとすれば、Pythonのデータサイエンスコミュニティと知り合いになりましょう。人々があなたのことを知るに連れて、あなたのやっていることについて話して共有する機会が自然とやってくるでしょう。
+* **関連するオープンソースプロジェクトとコミュニティと知り合いになろう。** 直接プロジェクトを宣伝する必要がない場合もあります。もしあなたのプロジェクトが Python を使っているデータサイエンティストにぴったりだとすれば、 Python のデータサイエンスコミュニティと知り合いになりましょう。人々があなたのことを知るに連れて、あなたのやっていることについて話して共有する機会が自然とやってくるでしょう。
 * **あなたのプロジェクトが解決する問題に遭遇している人を探そう。** あなたのプロジェクトがターゲットに当てはまる人のためのフォーラムを通して探しましょう。彼らの質問に答え、機転を利かせて適切なタイミングで、あなたのプロジェクトが解決策となることを提案しましょう。
-* **フィードバックを求めよう。** あなたのプロジェクトが適切であり面白いと感じてくれるであろう人々に対して、あなた自身とあなたのプロジェクトを紹介しましょう。あなたのプロジェクトから利益を得るであろう人を具体的にしましょう。そして、次のように話を締めくくりましょう： _「私のプロジェクトはYをしようとしているXにとって本当に役に立つと考えています」。_ そして、単にあなたのやったことを宣伝するのではなく、フィードバックをもらい、それに対応しましょう。
+* **フィードバックを求めよう。** あなたのプロジェクトが適切であり面白いと感じてくれるであろう人々に対して、あなた自身とあなたのプロジェクトを紹介しましょう。あなたのプロジェクトから利益を得るであろう人を具体的にしましょう。そして、次のように話を締めくくりましょう： _「私のプロジェクトは Y をしようとしているXにとって本当に役に立つと考えています」。_ そして、単にあなたのやったことを宣伝するのではなく、フィードバックをもらい、それに対応しましょう。
 
 一般的に、何かをお願いする前に人々を助けることに専念しましょう。プロジェクトをオンラインで宣伝するのは誰でも簡単にできるので、ノイズが多いのです。そういった大勢の中で目立つために、あなたが望むものだけでなく、あなたが誰であるかという文脈を人々に説明しましょう。
 
@@ -95,7 +95,7 @@ Djangoの共同作者の[@adrianholovaty](https://news.ycombinator.com/item?id=7
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
-  私はPyConに行くのに非常に緊張していました。発表をし、そこで数名としか知り合いになれず、それがまる1週間続くのではないかと。（…）しかし、私は心配する必要はなかったのです。PyConは並外れて素晴らしかった！（…）誰もが驚くほど友好的で社交的だったので、誰かと話していない時間が殆どないほどでした。
+  私は PyCon に行くのに非常に緊張していました。発表をし、そこで数名としか知り合いになれず、それがまる1週間続くのではないかと。（…）しかし、私は心配する必要はなかったのです。 PyCon は並外れて素晴らしかった！（…）誰もが驚くほど友好的で社交的だったので、誰かと話していない時間が殆どないほどでした。
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
@@ -119,7 +119,7 @@ Djangoの共同作者の[@adrianholovaty](https://news.ycombinator.com/item?id=7
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
-  私はJSConfのメンバーにJSConf EUで発表する枠をもらえるようにお願いをしました。（…）私は、半年をかけてやってきたことについて発表することが完全に怖くなってしまいました。（…）常に、なんてこった、自分はここで何をしようとしているんだ、とだけ考えていました。
+  私は JSConf のメンバーに JSConf EU で発表する枠をもらえるようにお願いをしました。（…）私は、半年をかけてやってきたことについて発表することが完全に怖くなってしまいました。（…）常に、なんてこった、自分はここで何をしようとしているんだ、とだけ考えていました。
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
@@ -133,7 +133,7 @@ Djangoの共同作者の[@adrianholovaty](https://news.ycombinator.com/item?id=7
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
-  今日urllib3がPythonの最も有名なサードパーティライブラリになった唯一の理由は、requestsの一部であったためです。
+  今日 urllib3 が Python の最も有名なサードパーティライブラリになった唯一の理由は、 requests の一部であったためです。
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov)
   </p>
@@ -145,7 +145,7 @@ Djangoの共同作者の[@adrianholovaty](https://news.ycombinator.com/item?id=7
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJSは2011年初頭に初めてリリースされました。（…）私は普通のやり方で言葉を広めていきました：プロジェクトについてツイートし、人々がこのプロジェクトを使うことでできることについてブログポストを書き、ミートアップの様々な議論で言及しました。2014年にもっと知られるようになった時、プロジェクトについてプレゼンテーションをし始めました。
+  PhantomJS は2011年初頭に初めてリリースされました。（…）私は普通のやり方で言葉を広めていきました：プロジェクトについてツイートし、人々がこのプロジェクトを使うことでできることについてブログポストを書き、ミートアップの様々な議論で言及しました。2014年にもっと知られるようになった時、プロジェクトについてプレゼンテーションをし始めました。
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
   </p>
