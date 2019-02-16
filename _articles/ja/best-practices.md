@@ -32,11 +32,11 @@ related:
 
 ### プロジェクトのビジョンを書こう
 
-プロジェクトのゴールを書く所から始めましょう。それをREADMEに追記するか、VISIONという名前の別のファイルを作りましょう。もし他にも関連するもの、例えばプロジェクトロードマップなど、があればそれも公開しましょう。
+プロジェクトのゴールを書く所から始めましょう。それを README に追記するか、 VISION という名前の別のファイルを作りましょう。もし他にも関連するもの、例えばプロジェクトロードマップなど、があればそれも公開しましょう。
 
 明確でドキュメント化されたビジョンを持つことで、プロジェクトの焦点を絞り、他の人からのコントリビュートによってプロジェクトが肥大化するのを防ぐ助けとなります。
 
-例えば @lord は、プロジェクトビジョンを持つことでどのリクエストに時間を割くべきか判断しやすくなる、ということに気づきました。新しいメンテナーとして、彼は[Slate](https://github.com/lord/slate)への最初の機能要望を受け取ったときに、プロジェクトのスコープを固執しなかったことを後悔していました。
+例えば @lord は、プロジェクトビジョンを持つことでどのリクエストに時間を割くべきか判断しやすくなる、ということに気づきました。新しいメンテナーとして、彼は [Slate](https://github.com/lord/slate) への最初の機能要望を受け取ったときに、プロジェクトのスコープを固執しなかったことを後悔していました。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
@@ -65,7 +65,7 @@ related:
 * リマインドをするのはいつが適切か？（ _例えば、「メンテナーが7日以内に返答をします。もしそれを過ぎても返事がない場合は、スレッドで気軽にリマインドして下さい」_ ）
 * あなたがどのくらいの時間をプロジェクトにつかうか（ _例えば、「私達はこのプロジェクトに週5時間しか使いません。」_ ）
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs)や[CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules)、[Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) は、メンテナーとコントリビューターのための基本ルールを定めたプロジェクトの良い例です。
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs) や [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) 、 [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) は、メンテナーとコントリビューターのための基本ルールを定めたプロジェクトの良い例です。
  
 ### 公の場でコミュニケーションしよう
 
@@ -97,7 +97,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  大規模なオープンソースプロジェクトでサポートの対応をする際に大事なのは、イシューを動かし続けることです。イシューを停滞させないようにしましょう。もしあなたがiOS開発者なのであれば、審査に時間がかかることがどれだけイライラするものかわかるでしょう。2年経ってから返事が返ってきて、iOSの最新バージョンでやり直してくれと言われるかもしれないのです。
+  大規模なオープンソースプロジェクトでサポートの対応をする際に大事なのは、イシューを動かし続けることです。イシューを停滞させないようにしましょう。もしあなたが iOS 開発者なのであれば、審査に時間がかかることがどれだけイライラするものかわかるでしょう。2年経ってから返事が返ってきて、 iOS の最新バージョンでやり直してくれと言われるかもしれないのです。
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
@@ -105,7 +105,7 @@ related:
 
 望ましくないコントリビュートを放置しないようにしましょう。放置すると罪悪感を感じてしまいます。時間が経つにつれて、回答されていないイシューやプルリクエストによって、プロジェクトを進めることがストレスを伴い、恐怖を感じるものになってしまいます。
 
-受け入れるつもりのないコントリビュートはすぐに閉じてしまうのが良いです。もし既に巨大なバックログで困っているのであれば、 @steveklabnik の [イシューを効率的にトリアージする方法](http://words.steveklabnik.com/how-to-be-an-open-source-gardener) が役に立つでしょう。
+受け入れるつもりのないコントリビュートはすぐに閉じてしまうのが良いです。もし既に巨大なバックログで困っているのであれば、 @steveklabnik の[イシューを効率的にトリアージする方法](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)が役に立つでしょう。
 
 また、コントリビュートを無視することはコミュニティに悪い影響を与えます。プロジェクトにコントリビュートすることは大変な作業です。特に初めてのコントリビュートであればなおさらです。たとえ、そのコントリビュートを受け入れないとしても、その人に対して受け入れない旨と感謝の気持ちを伝えましょう。それによって敬意を表すことが出来ます。
 
@@ -116,13 +116,13 @@ related:
 * もしあるのであれば、**関連するドキュメントにリンクしましょう**。もし受け入れたくない内容が繰り返し提案されるようであれば、ドキュメントにその旨を追記して繰り返しの作業をなくしましょう。
 * **リクエストをクローズしましょう**。
 
-1,2文以上の返答は不要です。例えば、[celery](https://github.com/celery/celery/)のユーザーがWindows関連のエラーを報告してきたときに、@berkerpeksag は[このように返答しました](https://github.com/celery/celery/issues/3383)
+1,2文以上の返答は不要です。例えば、 [celery](https://github.com/celery/celery/) のユーザーが Windows 関連のエラーを報告してきたときに、 @berkerpeksag は[このように返答しました](https://github.com/celery/celery/issues/3383)
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
-ノーというのが恐ろしいと感じるのはあなただけではありません。@jessfraz も[こう書いています](https://blog.jessfraz.com/post/the-art-of-closing/)：
+ノーというのが恐ろしいと感じるのはあなただけではありません。 @jessfraz も[こう書いています](https://blog.jessfraz.com/post/the-art-of-closing/)：
 
-> 私はこれまでMesosやKubernetes、Chromiumといったオープンソースプロジェクトのメンテナーと話をしてきました。そして、彼ら全員が同意した事は、メンテナーとして最も難しいことの1つは、受け入れたくないパッチに対して「ノー」を言うことだ、という点です。
+> 私はこれまで Mesos や Kubernetes 、 Chromium といったオープンソースプロジェクトのメンテナーと話をしてきました。そして、彼ら全員が同意した事は、メンテナーとして最も難しいことの1つは、受け入れたくないパッチに対して「ノー」を言うことだ、という点です。
 
 コントリビュートを受け入れたくないと思うことを罪に感じる必要はありません。オープンソースの第一のルールは、 @shykes [によると](https://twitter.com/solomonstre/status/715277134978113536)： _「ノーというのは一時的なものだが、イエスと言うと永遠に影響がある」_ 。他の人の熱意に共感するのは良いことですが、コントリビュートを拒否することはその人自身を拒否することとは異なります。
 
@@ -143,7 +143,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-  コントリビュータに対してCONTRIBUTING.mdファイルでどういった変更は受け入れられるのかを、作業を開始する前に知ることができるようになっているのが理想的です。
+  コントリビュータに対して CONTRIBUTING.md ファイルでどういった変更は受け入れられるのかを、作業を開始する前に知ることができるようになっているのが理想的です。
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
@@ -167,7 +167,7 @@ related:
 
 新しいコントリビュータが繰り返しコントリビュートを行っていることに気づいたら、より多くの責任を提供することで彼らの仕事を認めましょう。もし望むならどのようにすれば他の人もリーダーになれるのかをドキュメント化しましょう。
 
-他の人に対して[プロジェクトの所有権を共有する](../building-community/#プロジェクトの所有権を共有しよう)よう推奨することはあなたの作業量を大いに減らすことに繋がります。@lmccart が彼女のプロジェクトである[p5.js](https://github.com/processing/p5.js)で認識したように。
+他の人に対して[プロジェクトの所有権を共有する](../building-community/#プロジェクトの所有権を共有しよう)よう推奨することはあなたの作業量を大いに減らすことに繋がります。 @lmccart が彼女のプロジェクトである [p5.js](https://github.com/processing/p5.js) で認識したように。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
@@ -199,7 +199,7 @@ related:
   </p>
 </aside>
 
-同じことが、自分で解決策を作るほどの余裕はない人に対しても言えます。APIとカスタマイズのためのフックを提供することで、他の人が彼ら自身のニーズを、ソースコードを直接修正することなく実現する助けとなります。@ortaはCocoaPods向けのプラグインを他の人に作ってもらうことで、「最も面白いアイデア」が出てきたと[言っています](https://artsy.github.io/blog/2016/07/03/handling-big-projects/)：
+同じことが、自分で解決策を作るほどの余裕はない人に対しても言えます。 API とカスタマイズのためのフックを提供することで、他の人が彼ら自身のニーズを、ソースコードを直接修正することなく実現する助けとなります。 @orta は CocoaPods 向けのプラグインを他の人に作ってもらうことで、「最も面白いアイデア」が出てきたと[言っています](https://artsy.github.io/blog/2016/07/03/handling-big-projects/)：
 
 > プロジェクトが大きくなっていくにつれて、メンテナーが新しいコードを追加することに対して保守的になっていくのはほぼ避けようがない。「ノー」ということが上手になっていくだろうが、多くの人は理にかなったニーズを持っています。そこで代わりに、あなたのツールをプラットフォーム化することになるのです。
 
@@ -213,9 +213,9 @@ related:
 
 テストがあることで、コントリビュータは何一つ壊していない事を自身を持って確認することができます。また、あなたにとっても、コントリビュートをすばやくレビューして取り込むことがやりやすくなります。より早く反応すればするほど、コミュニティもより熱心に取り組むようになります。
 
-全てのコントリビュートに対してテストを自動的に実行するように設定し、またコントリビュータがローカルで簡単にテストを実行できるようにしておきましょう。コントリビュートを提出する前に全てのテストが成功している事を必須にしましょう。こうすることで、全てのコントリビュートが提出される前に、最低限の品質基準を設けることができるようになります。GitHubの[Required status checks](https://help.github.com/articles/about-required-status-checks/)機能を使うことで、テストが成功していない変更はマージされないよう保証することができます。
+全てのコントリビュートに対してテストを自動的に実行するように設定し、またコントリビュータがローカルで簡単にテストを実行できるようにしておきましょう。コントリビュートを提出する前に全てのテストが成功している事を必須にしましょう。こうすることで、全てのコントリビュートが提出される前に、最低限の品質基準を設けることができるようになります。 GitHub の [Required status checks](https://help.github.com/articles/about-required-status-checks/) 機能を使うことで、テストが成功していない変更はマージされないよう保証することができます。
 
-テストを追加したら、CONTRIBUTINGファイルでテストがどう実行されるかを説明しましょう。
+テストを追加したら、 CONTRIBUTING ファイルでテストがどう実行されるかを説明しましょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
@@ -235,15 +235,15 @@ related:
 * [mention-bot](https://github.com/facebook/mention-bot) はプルリクエストのレビュアーになってくれる可能性のある人にメンションを送ります
 * [Danger](https://github.com/danger/danger) はコードレビューを自動化します
 
-バグ報告や他のよくあるコントリビュートに対しては、GitHubに [イシューテンプレートとプルリクエストテンプレート](https://github.com/blog/2111-issue-and-pull-request-templates) という機能があります。これを使うことで、コミュニケーションを簡素化することができます。@TalAterはイシューやプルリクエストのテンプレートを作成する助けとなるよう、 [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) を作りました。
+バグ報告や他のよくあるコントリビュートに対しては、 GitHubに [イシューテンプレートとプルリクエストテンプレート](https://github.com/blog/2111-issue-and-pull-request-templates) という機能があります。これを使うことで、コミュニケーションを簡素化することができます。 @TalAter はイシューやプルリクエストのテンプレートを作成する助けとなるよう、 [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) を作りました。
 
-メール通知に対処するためには、優先順位を設定するために [メールフィルター](https://github.com/blog/2203-email-updates-about-your-own-activity) を使うことができます。
+メール通知に対処するためには、優先順位を設定するために[メールフィルター](https://github.com/blog/2203-email-updates-about-your-own-activity)を使うことができます。
 
 更に推し進めたいのであれば、スタイルガイドやリンターを使うことで、プロジェクトへのコントリビュートを標準化し、レビューや取り込みをしやすくすることができます。
 
 しかし、もしあなたが設定した標準が複雑すぎると、コントリビュートへの障壁が高くなってしまいます。みんなの作業を簡単にするために十分なルールだけを追加するように気をつけましょう。
 
-もしどのツールを使うべきかわからないのであれば、他の有名なプロジェクトがどうしているかを見てみましょう。特に、同じエコシステムのプロジェクトを見てみましょう。例えば、他のNodeモジュールではコントリビュートプロセスをどのようにしているのだろう？と調べてみるのです。他のプロジェクトと似たようなツールや方法を使うことで、ターゲットとするコントリビューターがプロセスに親しみやすくなります。
+もしどのツールを使うべきかわからないのであれば、他の有名なプロジェクトがどうしているかを見てみましょう。特に、同じエコシステムのプロジェクトを見てみましょう。例えば、他の Node モジュールではコントリビュートプロセスをどのようにしているのだろう？と調べてみるのです。他のプロジェクトと似たようなツールや方法を使うことで、ターゲットとするコントリビューターがプロセスに親しみやすくなります。
 
 ## 活動停止しても良い
 
@@ -253,13 +253,13 @@ related:
 
 オープンソース活動において、燃え尽きてしまうことは特にメンテナーの間で現実に発生し、よく起きることなのです。メンテナーとしてあなた自身が幸福であることは、オープンソースプロジェクトが生き残る上で交渉の余地なく必要なことです。
 
-言うまでもないことですが、休みを取りましょう！バケーションを取るのに、燃え尽きたと感じるまで待つ必要はないのです。Pythonのコア開発者である@brettcannonは、14年間に及ぶOSSボランティア活動を経て、[1ヶ月の休みを取る](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/)ことを決断しました。
+言うまでもないことですが、休みを取りましょう！バケーションを取るのに、燃え尽きたと感じるまで待つ必要はないのです。 Python のコア開発者である @brettcannon は、14年間に及ぶ OSS ボランティア活動を経て、[1ヶ月の休みを取る](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/)ことを決断しました。
 
 他の仕事と同じで、休みを取ることで、リフレッシュし、幸福で、喜んで仕事をしている状態を維持できるのです。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-  WP-CLIをメンテナンスする中で、まずは自分自身を幸せにし、自分がどこまで関わるかの境界を明確にすることが必要であると気づきました。私が見つけた最も良いバランスは、私の通常の仕事時間の中で週に2〜5時間を充てるというものです。このバランスで、私はプロジェクトに熱心に関わることができ、かつ仕事のようだと感じることもありません。取り掛かるイシューの優先順位付けをしているので、最も重要だと思うことで定期的に進捗を出すことができるのです。
+  WP-CLI をメンテナンスする中で、まずは自分自身を幸せにし、自分がどこまで関わるかの境界を明確にすることが必要であると気づきました。私が見つけた最も良いバランスは、私の通常の仕事時間の中で週に2〜5時間を充てるというものです。このバランスで、私はプロジェクトに熱心に関わることができ、かつ仕事のようだと感じることもありません。取り掛かるイシューの優先順位付けをしているので、最も重要だと思うことで定期的に進捗を出すことができるのです。
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
