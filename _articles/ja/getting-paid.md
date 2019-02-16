@@ -102,7 +102,7 @@ related:
 あなた個人の状況によっては、あなた個人でオープンソース活動に資金を出してもらう試みをすることも可能です。例えば：
 
 * @gaearon は[Patreonでのクラウドファンディング](https://redux.js.org/)を通じて、[Redux](https://github.com/reactjs/redux)の活動の資金を得ています。
-* @andrewgodwin は[through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)を通じて、Djangoのスキーママイグレーションの活動の資金を得ています。
+* @andrewgodwin は[Kickstarterのキャンペーン](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)を通じて、Djangoのスキーママイグレーションの活動の資金を得ています。
 
 最後に、オープンソースプロジェクトの中には問題解決を手伝ってもらうために報奨金を提示しているものもあります。
 
