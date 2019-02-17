@@ -50,30 +50,30 @@ Embora você possa definir os papéis do seu projeto da maneira que preferir, [c
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## Como eu formalizo esses papei de liderança?
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
+Fomalizar seus papéis de liderança ajuda as pessoas a sentirem-se proprietárias e mostra aos outros membros da comunidade quem procurar caso precisem de ajuda.
 
-For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
+Para um projeto menor, designar lideres pode ser tão simples quanto adicionar os nomes deles ao arquivo de texto de seu README ou de seu CONTRIBUTORS.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [Postgres](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+Para um projeto maior, se você possui um website, crie uma página para o time ou liste seus lideres de projeto lá. Por exemplo, o [Postgres](https://github.com/postgres/postgres/) possui uma [página de time completa](https://www.postgresql.org/community/contributors/), com perfis curtos para cada contribuidor.
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (for example, security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+Se seu projeto possui uma comunidade contribuinte muito ativa, você pode formar um "equipe principal" de mantenedores, ou até mesmo subcomitês de pessoas que terão a propriedade do projeto em diferentes áreas de issues (por exemplo, segurança, triagem de issues ou conduta da comunidade). Deixe as pessoas se auto-organizarem a voluntariarem para os papéis que eles mais se identificam, em vez de atribuí-los.
 
 <aside markdown="1" class="pquote">
-  \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+  \[Nós\] complementamos a equipe principal com várias "subequipes". Cada subequipe é focada em um área específica, e.q., design de linguagem ou bibliotecas. (...) Para asseguram a coordenação global e uma forte e coerente visão para o projeto como um todo, cada subequipe é liderada por um membro da equipe principal.
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+Times de lideranças pode querer criar um cana designado (como no IRC) ou se encontrar regularmente para discutir o projeto (como no Gitter ou Google Hangouts). Você pode sempre tornar essas reuniões públicas para que outras pessoãs possam escutá-las. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), por exemplo, [disponibiliza horários de atendimento toda semana](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md.
+Uma vez que você tenha estabelecido papéis de liderança, não esqueça de documentar como as pessoas podem alcançá-los! Estabeleça um processo claro de como alguém pode se tornar um mantenedor, ou se juntar à um subcomitê em seu projeto, e escreva isso em seu arquivo GOVERNANCE.md.
 
-Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
+Ferramentas como [Vossibility](https://github.com/icecrime/vossibility-stack) pode ajudar você a rastrear publicamente quem está (ou não) fazendo contribuições para o projeto. A documentação dessas informações evita a percepção da comunidade de que os mantenedores são um grupo que toma suas decisões de maneira privada.
 
-Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#share-ownership-of-your-project).
+Por fim, se seu projeto está no GitHub, considere movê-lo de sua conta pessoal para uma Organização e adicionar ao menos um admin de backup. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) torna mais fácil de gerenciar permissões e múltiplos repositórios e proteje o legado de seu projeto por meio de [propriedade compartilhada](../building-community/#share-ownership-of-your-project).
 
 ## When should I give someone commit access?
 
