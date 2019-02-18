@@ -24,7 +24,7 @@ related:
 * **コントリビューター**
 * **コミッター**
 
-**幾つかのプロジェクトでは、「メンテナー」は** コミット権限を持っている唯一の人です。他のプロジェクトでは、単にREADMEにメンテナーとして記載されている人であることもあります。
+**幾つかのプロジェクトでは、「メンテナー」は** コミット権限を持っている唯一の人です。他のプロジェクトでは、単に README にメンテナーとして記載されている人であることもあります。
 
 メンテナーはプロジェクトでコードを書いている人である必要はありません。プロジェクトの布教を熱心に行っている人でも良いですし、多くのドキュメントを書くことで他の人がプロジェクトにアクセスしやすくしている人でも良いのです。日常的に何をやっているのかにかかわらず、メンテナーはプロジェクトの方向性に責任を持っていると感じていて、またプロジェクトを改善するのに熱心である人でしょう。
 
@@ -32,7 +32,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  \[Node.jsでは、\] イシューにコメントした人やコードを書いた人は皆コミュニティのメンバーなのです。彼らに会えたということは、ユーザーからコントリビュータへの一線を越えたということを意味しています。
+  \[Node.js では、\] イシューにコメントした人やコードを書いた人は皆コミュニティのメンバーなのです。彼らに会えたということは、ユーザーからコントリビュータへの一線を越えたということを意味しています。
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
@@ -54,9 +54,9 @@ related:
 
 リーダーシップの役割を明確にすることで、人々に責任を持たせ、他のコミュニティメンバーが助けが必要な時に誰に聞くべきかが明確になります。
 
-小さいプロジェクトでは、リーダーを任命することは単にREADMEやCONTRIBUTORSファイルに名前を追加するだけで済むこともあります。
+小さいプロジェクトでは、リーダーを任命することは単に README や CONTRIBUTORS ファイルに名前を追加するだけで済むこともあります。
 
-大きなプロジェクトでは、ウェブサイトを持っているのであれば、チームページやプロジェクトリーダーのリストのページを作りましょう。例えば、[Postgres](https://github.com/postgres/postgres/) では [チームのリストページ](https://www.postgresql.org/community/contributors/) に各コントリビュータの短いプロフィールを記載しています。
+大きなプロジェクトでは、ウェブサイトを持っているのであれば、チームページやプロジェクトリーダーのリストのページを作りましょう。例えば、 [Postgres](https://github.com/postgres/postgres/) では [チームのリストページ](https://www.postgresql.org/community/contributors/) に各コントリビュータの短いプロフィールを記載しています。
 
 もしあなたのプロジェクトのコントリビュータが非常に活発なのであれば、メンテナーの「コアチーム」を作ったり、異なる問題領域ごと（例えば、セキュリティ、イシューの選別、コミュニティ運営）に席にを持つ分科会を持っているかもしれません。あなたが指名するのではなく、人々が自分の興味のある領域の役割に自律的にボランティアしてくれるように任せましょう。
 
@@ -67,13 +67,13 @@ related:
   </p>
 </aside>
 
-リーダーシップチームは(IRCのような)専用のチャンネルを作りたいと思ったり、プロジェクトについて定期的に議論するために(Gitter上やGoogle Hangout上で)集まりたいと思うかもしれません。こういったミーティングでさえも公にする事で、他の人も議論を聞けるようにしましょう。例えば、[Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) では、 [毎週オフィスアワーを設けています](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs)。
+リーダーシップチームは( IRC のような)専用のチャンネルを作りたいと思ったり、プロジェクトについて定期的に議論するために( Gitter 上や Google Hangout 上で)集まりたいと思うかもしれません。こういったミーティングでさえも公にする事で、他の人も議論を聞けるようにしましょう。例えば、 [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) では、 [毎週オフィスアワーを設けています](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs)。
 
-一度リーダーシップの役割を確立したなら、どのようにして彼らにコンタクトを取れるかドキュメントにまとめることを忘れないようにしましょう。メンテナーにどのようにしたらなれるかであったりどのように分科会に参加するのかのプロセスを明確に確立し、GOVERNANCE.mdファイルにそれを記載しましょう。
+一度リーダーシップの役割を確立したなら、どのようにして彼らにコンタクトを取れるかドキュメントにまとめることを忘れないようにしましょう。メンテナーにどのようにしたらなれるかであったりどのように分科会に参加するのかのプロセスを明確に確立し、 GOVERNANCE.md ファイルにそれを記載しましょう。
 
 [Vossibility](https://github.com/icecrime/vossibility-stack) のようなツールは、プロジェクトに対するコントリビュートを誰がやっているのか（やっていないのか）を公にトラッキングするのに役立ちます。こういった情報をドキュメント化することで、メンテナーは非公開の場で意思決定を行う派閥を作っているとコミュニティから認識されることを避けることができます。
 
-最後に、プロジェクトがGitHub上にあるのであれば、プロジェクトを個人アカウントからOrganizationに移し、少なくとも一人の管理者をバックアップとして追加することを検討しましょう。[GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) を使うことで、権限や複数のリポジトリを管理し、[所有権を共有することで](../building-community/#プロジェクトの所有権を共有しよう)プロジェクトの資産を守ることがやりやすくなります。
+最後に、プロジェクトが GitHub 上にあるのであれば、プロジェクトを個人アカウントから Organization に移し、少なくとも一人の管理者をバックアップとして追加することを検討しましょう。 [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) を使うことで、権限や複数のリポジトリを管理し、[所有権を共有することで](../building-community/#プロジェクトの所有権を共有しよう)プロジェクトの資産を守ることがやりやすくなります。
 
 ## いつ他の人にコミット権限を与えるべきだろうか？
 
@@ -81,11 +81,11 @@ related:
 
 その一方で、大きく複雑なプロジェクトでは、プロジェクトに対して熱心に献身している人のみにコミット権限を与えたいと思うかもしれません。唯一の正解はありません - あなたが最も良いと思うことをやりましょう。
 
-もしプロジェクトがGitHub上にあるのであれば、[protected branches](https://help.github.com/articles/about-protected-branches/) を使うことで、どいうった状況で誰が特定のブランチにpushできるのかを管理することができます。
+もしプロジェクトが GitHub 上にあるのであれば、 [protected branches](https://help.github.com/articles/about-protected-branches/) を使うことで、どいうった状況で誰が特定のブランチに push できるのかを管理することができます。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
-  誰かがプルリクエストを送ってきたときはいつでも、その人にプロジェクトへのコミット権限を与えましょう。はじめはそれが馬鹿げているように聞こえるかもしれませんが、この戦略によってGitHubの真の力を解き放つことができるようになります。 (...) 一度コミット権限をもらえば、人々はもはや自分のパッチがマージされるかどうか心配せずにすみます。こうすることで、彼らはより多くの仕事を成し遂げてくれるようになるのです。
+  誰かがプルリクエストを送ってきたときはいつでも、その人にプロジェクトへのコミット権限を与えましょう。はじめはそれが馬鹿げているように聞こえるかもしれませんが、この戦略によって GitHub の真の力を解き放つことができるようになります。 (...) 一度コミット権限をもらえば、人々はもはや自分のパッチがマージされるかどうか心配せずにすみます。こうすることで、彼らはより多くの仕事を成し遂げてくれるようになるのです。
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
@@ -95,17 +95,17 @@ related:
 
 オープンソースプロジェクトに関連して、3つのよく使われる運営方法があります。
 
-* **BDFL:** BDFLは"Benevolent Dictator for Life（優しい終身の独裁者）"の略です。これは、一人の人間（大抵はプロジェクトを立ち上げた人）が、全てのプロジェクトの大きな決断に最終承認を出すやり方です。[Python](https://github.com/python) は、古くからある例です。小さなプロジェクトではおそらく初めからBDFLを採用しているでしょう。なぜなら、メンテナーが一人か二人しかいないからです。企業が始めたプロジェクトもBDFLのカテゴリーに入るでしょう。
+* **BDFL:** BDFL は "Benevolent Dictator for Life（優しい終身の独裁者）" の略です。これは、一人の人間（大抵はプロジェクトを立ち上げた人）が、全てのプロジェクトの大きな決断に最終承認を出すやり方です。 [Python](https://github.com/python) は、古くからある例です。小さなプロジェクトではおそらく初めから BDFL を採用しているでしょう。なぜなら、メンテナーが一人か二人しかいないからです。企業が始めたプロジェクトも BDFL のカテゴリーに入るでしょう。
 
-* **業績主義:** **(メモ: "業績主義"という言葉は、コミュニティによっては否定的な意味を持つかもしれなく、[複雑な社会的、政治的歴史](http://geekfeminism.wikia.com/wiki/Meritocracy)があります。)** 業績主義のもとでは、活動的なプロジェクトコントリビュータ（「業績」を出した人）が、公式の意思決定の役割を与えられます。意思決定はたいてい投票によって行われます。業績主義のコンセプトは[Apache Foundation](https://www.apache.org/)が先鞭をつけました; [全てのApacheプロジェクト](https://www.apache.org/index.html#projects-list)は業績主義で運営されています。コントリビュートは、全て企業ではなく代表する個人によってのみ行われます。
+* **業績主義:** **(メモ: "業績主義"という言葉は、コミュニティによっては否定的な意味を持つかもしれなく、[複雑な社会的、政治的歴史](http://geekfeminism.wikia.com/wiki/Meritocracy)があります。)** 業績主義のもとでは、活動的なプロジェクトコントリビュータ（「業績」を出した人）が、公式の意思決定の役割を与えられます。意思決定はたいてい投票によって行われます。業績主義のコンセプトは [Apache Foundation](https://www.apache.org/) が先鞭をつけました; [全ての Apache プロジェクト](https://www.apache.org/index.html#projects-list)は業績主義で運営されています。コントリビュートは、全て企業ではなく代表する個人によってのみ行われます。
 
-* **自由主義的なコントリビュート:** 自由主義的なコントリビュートモデルでは、最も働いている人が最も影響力があると認められますが、これはこれまでの貢献ではなく現時点での仕事に基づきます。プロジェクトでの大きな意思決定は、純粋な投票ではなく合意の模索プロセス（大きな不満点について議論する）によって行われます。そして、可能な限りコミュニティ内の多くの知見を集めようと努力します。自由主義的なコントリビュートモデルを採用している有名なプロジェクトの例としては、[Node.js](https://foundation.nodejs.org/)や[Rust](https://www.rust-lang.org/)があります。
+* **自由主義的なコントリビュート:** 自由主義的なコントリビュートモデルでは、最も働いている人が最も影響力があると認められますが、これはこれまでの貢献ではなく現時点での仕事に基づきます。プロジェクトでの大きな意思決定は、純粋な投票ではなく合意の模索プロセス（大きな不満点について議論する）によって行われます。そして、可能な限りコミュニティ内の多くの知見を集めようと努力します。自由主義的なコントリビュートモデルを採用している有名なプロジェクトの例としては、 [Node.js](https://foundation.nodejs.org/) や [Rust](https://www.rust-lang.org/) があります。
 
 どのモデルを使うべきでしょうか？それはあなた次第です！それぞれのモデルには利点と欠点があります。そして、はじめはこれらのモデルは全く異なるように見えるかもしれませんが、見かけ以上にこれらのモデルは共通点が多いのです。もしこれらのモデルのうちの1つを採用することに興味があるのであれば、これらのテンプレートを確認してみましょう：
 
-* [BDFLモデルテンプレート](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
+* [BDFL モデルテンプレート](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 * [業績主義モデルテンプレート](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Node.jsの自由主義的コントリビュートポリシー](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
+* [Node.js の自由主義的コントリビュートポリシー](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
 ## プロジェクトを立ち上げる時に、運営ドキュメントは必要でしょうか？
 
@@ -117,7 +117,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  Facebookでは、社内で実際にこのプロジェクトの仕事をしている小さなチームをGitHub上のプロジェクトの運営担当としています。例えば、ReactはReact開発者によって運営されています。
+  Facebook では、社内で実際にこのプロジェクトの仕事をしている小さなチームを GitHub 上のプロジェクトの運営担当としています。例えば、 React は React 開発者によって運営されています。
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
@@ -139,11 +139,11 @@ related:
 
 お金を扱うのでなければ、オープンソースプロジェクトの運営に法人は必要ありません。
 
-例えば、商用ビジネスを立ち上げたいのであれば、（もしUSで行うのであれば）C株式会社や有限会社の立ち上げを考えているでしょう。あなたがオープンソースプロジェクトに関連した請負作業を行うだけであれば、あなたが単独で報酬を受け取るか、もしくは（USで行うのであれば）LLCを設立することもできます。
+例えば、商用ビジネスを立ち上げたいのであれば、（もし US で行うのであれば） C 株式会社や有限会社の立ち上げを考えているでしょう。あなたがオープンソースプロジェクトに関連した請負作業を行うだけであれば、あなたが単独で報酬を受け取るか、もしくは（ US で行うのであれば） LLC を設立することもできます。
 
-あなたのオープンソースプロジェクトで寄付を受け取りたいのであれば、（例えばPayPalやStripeを使うことで）寄付ボタンを設置することができます。ただし、非営利団体（USの場合は501c3）でない場合は課税控除の対象にはなりません。
+あなたのオープンソースプロジェクトで寄付を受け取りたいのであれば、（例えば PayPal や Stripe を使うことで）寄付ボタンを設置することができます。ただし、非営利団体（ US の場合は 501c3 ）でない場合は課税控除の対象にはなりません。
 
-多くのプロジェクトでは非営利団体を設立するという面倒を避けるために、代わりに非営利の財政スポンサーを見つけています。財政スポンサーは、寄付額の一定の割合を受け取ることと引き換えにあなたの代わりに寄付を受け取ります。 [Software Freedom Conservancy](https://sfconservancy.org/)や[Apache Foundation](https://www.apache.org/)、[Eclipse Foundation](https://eclipse.org/org/foundation/)、[Linux Foundation](https://www.linuxfoundation.org/projects)、[Open Collective](https://opencollective.com/opensource)は、オープンソースプロジェクトの財政スポンサーとして活動している団体の例です。
+多くのプロジェクトでは非営利団体を設立するという面倒を避けるために、代わりに非営利の財政スポンサーを見つけています。財政スポンサーは、寄付額の一定の割合を受け取ることと引き換えにあなたの代わりに寄付を受け取ります。 [Software Freedom Conservancy](https://sfconservancy.org/) や [Apache Foundation](https://www.apache.org/) 、 [Eclipse Foundation](https://eclipse.org/org/foundation/) 、 [Linux Foundation](https://www.linuxfoundation.org/projects) 、 [Open Collective](https://opencollective.com/opensource) は、オープンソースプロジェクトの財政スポンサーとして活動している団体の例です。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
@@ -153,4 +153,4 @@ related:
   </p>
 </aside>
 
-もしあなたのプロジェクトが特定の言語やエコシステムと密接に関係しているのであれば、連携できるソフトウェア財団もあるかもしれません。例えば、[Python Software Foundation](https://www.python.org/psf/)は[PyPI](https://pypi.org/)というPythonのパッケージマネジャーをサポートしていますし、[Node.js Foundation](https://foundation.nodejs.org/)は[Express.js](https://expressjs.com/)というNodeベースのフレームワークをサポートしています。
+もしあなたのプロジェクトが特定の言語やエコシステムと密接に関係しているのであれば、連携できるソフトウェア財団もあるかもしれません。例えば、 [Python Software Foundation](https://www.python.org/psf/) は [PyPI](https://pypi.org/) という Python のパッケージマネジャーをサポートしていますし、 [Node.js Foundation](https://foundation.nodejs.org/) は [Express.js](https://expressjs.com/) という Node ベースのフレームワークをサポートしています。
