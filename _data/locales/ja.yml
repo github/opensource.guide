@@ -17,7 +17,7 @@ ja:
       button: 貢献する
     subscribe:
       heading: 情報を受け取る
-      description: GitHubの最新のオープンソースのコツや資料を受け取りましょう。
+      description: GitHub の最新のオープンソースに関するヒントや情報をすぐに受け取りましょう。
       label: メールアドレス
       button: 購読する
     byline:
