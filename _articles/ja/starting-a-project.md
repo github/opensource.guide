@@ -159,7 +159,7 @@ README では、貢献をどのように扱うか、プロジェクトのゴー�
 
 時々、プロジェクトが未完了であったり貢献を求めていないといった理由で README を書くのを避ける人が居ます。これらも README に書いておくと良いでしょう。
 
-さらなるヒントとしては、完全な README を書くために @18F の ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) か @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) を読んでみると良いでしょう。
+さらなるヒントとしては、完全な README を書くために @18F の ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) か @PurpleBooth の [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) を読んでみると良いでしょう。
 
 README ファイルをルートディレクトリに置くことで、 GitHub が自動的にリポジトリのホームページに表示してくれます。
 
