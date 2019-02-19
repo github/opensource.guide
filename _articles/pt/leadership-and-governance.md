@@ -75,17 +75,17 @@ Ferramentas como [Vossibility](https://github.com/icecrime/vossibility-stack) po
 
 Por fim, se seu projeto está no GitHub, considere movê-lo de sua conta pessoal para uma Organização e adicionar ao menos um admin de backup. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) torna mais fácil de gerenciar permissões e múltiplos repositórios e proteje o legado de seu projeto por meio de [propriedade compartilhada](../building-community/#share-ownership-of-your-project).
 
-## When should I give someone commit access?
+## Quando eu devo dar acesso de commit a alguém?
 
-Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
+Algumas pessoas pensam que você deve dar acesso de commit para todo mundo que faz um contribuição. Isso pode incentivar mais pessoas a se sentirem responsáveis pelo seu projeto.
 
-On the other hand, especially for bigger, more complex projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+Por outro lado, especialmente para projetos maiores e mais complexos, você pode querer apenas dar acesso de commit para pessoas que demonstraram compromisso. Não há um jeito certo de fazer isso - faça o que te deixa mais confortável!
 
-If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
+Se seu projeto está no GitHub, você pode usar os [branches protegidos](https://help.github.com/articles/about-protected-branches/) para gerenciar quem e sob quais circustâncias, pode efetuar um push em um branch particular.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
-  Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
+  Sempre que alguém enviar uma pull request, conceda-lhe acesso ao seu projeto. Embora possa parecer incrivelmente estúpido a princípio, o uso dessa estratégia permitirá que você libere o verdadeiro poder do GitHub. (...) Uma vez que as pessoas tenham acesso de commit, elas não se preocupam mais com o fato de que o patch delas possa não ser mesclado... fazendo com que elas coloquem muito mais trabalho nele.
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
