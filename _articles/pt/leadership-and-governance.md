@@ -91,17 +91,18 @@ Se seu projeto está no GitHub, você pode usar os [branches protegidos](https:/
   </p>
 </aside>
 
-## What are some of the common governance structures for open source projects?
+## Quais são algumas das estruturas de governança comuns em projetos open source?
 
+Existem três estruturas de governança comuns associadas com projetos open source.
 There are three common governance structures associated with open source projects.
 
-* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+* **BDFL:** BDFL significa "Benevolent Dictator for Life". Sob essa estrutura, uma pessoa (comumente o autor inicial do projeto) tem a palavra final em todas as principais decisões do projeto. O [Python](https://github.com/python) é um exemplo cássico. Projetos menores são provavelmente BDFL por padrão, porque existe apenas um ou dois mantenedores. Um projeto criado dentro de uma companhia também pode cair na categoria BDFL.
 
-* **Meritocracy:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](https://www.apache.org/); [all Apache projects](https://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **Meritocracy:** **(Note: o termo "meritocracy" carrega uma conotação negativa em algumas comunidades e possui [uma história política e social complexa](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Sob a meritocracy, contribuidores ativos do projeto (aqueles que demonstram "mérito") recebem um papel formal de tomada de decisão. As decisões, geralmente, são tomadas baseadas em puro consenso de voto. O conceito de meritocracy foi cunhado pela [Apache Foundation](https://www.apache.org/); [todos os projetos Apache](https://www.apache.org/index.html#projects-list) são meritocracias. Contribuições só podem ser feitas por indivíduos representando eles mesmos, não por uma companhia.
 
-* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://foundation.nodejs.org/) and [Rust](https://www.rust-lang.org/en-US/).
+* **Liberal contribution:** Sob um modelo liberal contribution, as pessoas que trabalham mais são reconhecidas como mais influentes, mas isso é baseado no trabalho atual e não no histórico de contribuições. As principais decisões do projeto são tomadas com base em um processo de busca por consenso (discuta as principais queixas) em vez de voto puro, e se esforçam para incluir o máximo de perspectivas da comunidade possível. Exemplos populares de projetos que usam o modelo liberal contribution incluem o [Node.js](https://foundation.nodejs.org/) e o [Rust](https://www.rust-lang.org/en-US/).
 
-Which one should you use? It's up to you! Every model has advantages and trade-offs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
+Qual delas você deve usar? A decisão é sua! Todos os modelos possuem vantagens e desvantagens. E possam parecer bastante diferentes à primeira vista, todos os três modelos tem mais em comum do que parecem. Se você está interessado em adotar algum desses modelos, veja esses templates:
 
 * [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 * [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
