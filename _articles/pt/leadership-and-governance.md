@@ -108,17 +108,17 @@ Qual delas você deve usar? A decisão é sua! Todos os modelos possuem vantagen
 * [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.js's liberal contribution policy](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
-## Do I need governance docs when I launch my project?
+## Preciso de documentos de governança quando lançar meu projeto?
 
-There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
+Não há tempo certo para escrever a governança de seu projeto, mas é muito mais fácil definir uma vez que você viu dinâmica de sua comunidade. A melhor (e mais difícil) parte da governança open source é que ela é moldada pela comunidade!
 
-Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch.
+No entanto, alguma documentação inicial irá inevitavelmente contribuir para a governança do seu projeto, então comece a escrever o que você puder. Por exemplo, você pode definir expectativas claras de comportamento ou como o processo da contribuição funciona, mesmo no lançamento do seu projeto.
 
-If you're part of a company launching an open source project, it's worth having an internal discussion before launch about how your company expects to maintain and make decisions about the project moving forward. You may also want to publicly explain anything particular to how your company will (or won't!) be involved with the project.
+Se você faz parte de uma empresa que está lançando um projeto de código aberto, vale a pena ter uma discussão interna antes do lançamento sobre como sua empresa espera manter e tomar decisões sobre o andamento do projeto. Você também pode querer explicar publicamente qualquer coisa em particular sobre como sua empresa irá (ou não) se envolver com o projeto.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
+  Designamos pequenas equipes para gerenciar projetos no GitHub que estão trabalhando neles no Facebook. Por exemplo, o React é executado por um engenheiro do React.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
