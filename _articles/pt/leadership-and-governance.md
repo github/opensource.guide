@@ -124,17 +124,17 @@ Se você faz parte de uma empresa que está lançando um projeto de código aber
   </p>
 </aside>
 
-## What happens if corporate employees start submitting contributions?
+## O que acontece se empregados de uma corporação começam a submeter contribuições?
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+Projetos open source de sucesso são utilizados por muitas pessoas e companhias, e algumas companhias podem, eventualmente, ter fluxos de receitas vinculados ao projeto. Por exemplo, uma empresa pode usar o ódigo do projeto como um componente em uma oferta de serviço comercial.
 
-As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
+À medida que o projeto se torna mais amplamente utilizado, pessoas que possuem expertise nele, tornam-se mais demandadas - você pode ser uma delas! - e irão, algumas vezes, serem pagas pelo trabalho que fazem no projeto.
 
-It's important to treat commercial activity as normal and as just another source of development energy. Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits. However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+É importante tratar atividades comerciais como normais e como somente uma outra fonte de energia para o desenvolvimento. Desenvolvedores pagos não devem receber tratamento especial em relação ao não pagos, é claro; cada contribuição deve ser avaliada por seus méritos técnicos. No entanto, as pessoas devem se sentir confortáveis para se em engajarem em atividades comerciais e à vontade em declarar seus casos de uso ao argumentarem a favor de uma melhoria ou feature em particular.
 
-"Commercial" is completely compatible with "open source". "Commercial" just means there is money involved somewhere - that the software is used in commerce, which is increasingly likely as a project gains adoption. (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+O "comercial" é completamente compatível com o "open source". O "comercial" apenas significa que há dinheiro envolvido em algum lugar - que o software é usado no comércia, o que é cada vez mais provável à medida que um projeto ganha adoção. (Quando um software open source é usado como parte de um produto non-open-source, o produto total ainda é um software "proprietário", embora, assim como no open source, possa ser usado para fins comerciais ou não comerciais.)
 
-Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+Como qualquer outro, desenvolvedores comercialmente motivados ganhar influência no projeto pela qualidades e quantidade de susas contribuições. Obviamente, um desenvolvedor que é pago por seu tempo, pode ser capaz de fazer mais que alguém que não é pago, mas isso é ok: o pagamento é somente uma dos muitos possíveis fatores que podem afetar o quanto uma pessoa faz. Mantenha as discussões de seu projeto focadas nas contribuições, não em fatores externos que habilitam as pessoas a fazerem tais contribuições.
 
 ## Do I need a legal entity to support my project?
 
