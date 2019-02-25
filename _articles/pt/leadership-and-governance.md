@@ -136,22 +136,22 @@ O "comercial" é completamente compatível com o "open source". O "comercial" ap
 
 Como qualquer outro, desenvolvedores comercialmente motivados ganhar influência no projeto pela qualidades e quantidade de susas contribuições. Obviamente, um desenvolvedor que é pago por seu tempo, pode ser capaz de fazer mais que alguém que não é pago, mas isso é ok: o pagamento é somente uma dos muitos possíveis fatores que podem afetar o quanto uma pessoa faz. Mantenha as discussões de seu projeto focadas nas contribuições, não em fatores externos que habilitam as pessoas a fazerem tais contribuições.
 
-## Do I need a legal entity to support my project?
+## Preciso de uma entidade legal para apoiar o meu projeto?
 
-You don't need a legal entity to support your open source project unless you're handling money.
+Você não precisa de uma entidade legal para apoiar seu projeto open source, a menos que esteja lidando com dinheiro.
 
-For example, if you want to create a commercial business, you'll want to set up a C Corp or LLC (if you're based in the US). If you're just doing contract work related to your open source project, you can accept money as a sole proprietor, or set up an LLC (if you're based in the US).
+Por exemplo, se você quer criar um negócio comercial, você irá querer montar uma C Corp ou LLC (se estiver nos EUA). Se você está apenas fazendo um contrato relacionado ao seu projeto open source, pode aceitar dinheiro como único proprietário ou criar uma LLC (se estiver nos EUA).
 
-If you want to accept donations for your open source project, you can set up a donation button (using PayPal or Stripe, for example), but the money won't be tax-deductible unless you are a qualifying nonprofit (a 501c3, if you're in the US).
+Se desejar aceitar doações para seu projeto open source, você pode configurar um botão de doações (usando PayPal ou Stripe, por exemplo), mas o dinheiro não será livre de tributação, a menos que você seja uma organização sem fins lucrativos (uma 501c3, se estiver nos EUA).
 
-Many projects don't wish to go through the trouble of setting up a nonprofit, so they find a nonprofit fiscal sponsor instead. A fiscal sponsor accepts donations on your behalf, usually in exchange for a percentage of the donation. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) are examples of organizations that serve as fiscal sponsors for open source projects.
+Muitos projetos não querem se dar ao trabalho de criar uma organização sem fins lucrativos, então encontram um patrocinador fiscal sem fins lucrativos. Um patrocinador fiscal aceita doações em seu nome, geralmente em troca de uma porcentagem da doação. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) e [Open Collective](https://opencollective.com/opensource) são exemplos de organizações que servem como patrocinadores fiscais para projetos open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
-  Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
+  Nosso objetivo é prover uma infra-estrutura que as comunidades possam usar para se tornarem autossustentáveis, criando assim um ambiente em que todos - contribuidore, apoiadores, patrocinadores - obtenham benefícios concretos.
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
   </p>
 </aside>
 
-If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.org/), the Python package manager, and the [Node.js Foundation](https://foundation.nodejs.org/) helps support [Express.js](https://expressjs.com/), a Node-based framework.
+Se o seu projeto estiver intimamente associado a uma determinada linguagem ou ecossistema, também poderá haver uma fundação de software relacionada com a qual você possa trabalhar. Por exemplo, a [Python Software Foundation](https://www.python.org/psf/) ajuda a apoiar o [PyPI](https://pypi.org/), gerenciador de pacotes do Python, e a [Node.js Foundation](https://foundation.nodejs.org/) ajuda a apoiar o [Express.js](https://expressjs.com/), um framework baseado em Node.
