@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Open Source Metrics
-description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
+lang: pt
+title: Open Source Métricas
+description: Tome decisões bem embasado para ajudar o seu projeto open source a prosperar medindo e acompanhando seu sucesso.
 class: metrics
 order: 9
 image: /assets/images/cards/metrics.png
@@ -10,91 +10,93 @@ related:
   - best-practices
 ---
 
-## Why measure anything?
+## Porquê medir algo?
 
-Data, when used wisely, can help you make better decisions as an open source maintainer.
+Os dados, quando usados com sabedoria, podem ajudá-lo a tomar decisões melhores como um mantenedor de open source.
 
-With more information, you can:
+Com mais informação, você pode:
 
-* Understand how users respond to a new feature
-* Figure out where new users come from
-* Identify, and decide whether to support, an outlier use case or functionality
-* Quantify your project's popularity
-* Understand how your project is used
-* Raise money through sponsorships and grants
+* Entender como usuários respondem a uma nova funcionalidade
+* Descubrir de onde os novos usuários vêm
+* Identificar e decidir se deve suportar um caso de uso ou uma funcionalidade sugerida.
+* Quantificar a popularidade do seu projeto
+* Entender como seu projeto é usado
+* Arrecadar dinheiro através de patrocínios e doações
 
-For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
+Por exemplo, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) descobriu que o Google Analytics os ajuda a priorizar o trabalho:
 
 > Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
 
-Popularity isn't everything. Everybody gets into open source for different reasons. If your goal as an open source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
+Popularidade não é tudo. Todo mundo entra em open source por diferentes razões. Se o seu objetivo como mantenedor de open source for mostrar seu trabalho, ser transparente sobre seu código ou apenas se divertir, as métricas podem não ser importantes para você.
 
-If you _are_ interested in understanding your project on a deeper level, read on for ways to analyze your project's activity.
+Se você _esta_ interessado em entender seu projeto em um nível mais profundo, leia as maneiras de analisar a atividade do seu projeto.
 
-## Discovery
+## Descubra
 
-Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
+Antes das pessoas poderem contribuir para o seu projeto, elas precisam saber que o projeto existe. Pergunte a si mesmo: _as pessoas estão encontrando este projeto?_
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Insights", then "Traffic". On this page, you can see:
+Se seu projeto esta hospedado no GitHub, [você pode ver](https://help.github.com/articles/about-repository-graphs/#traffic) como as pessoas navegam no seu projeto e de onde elas vem. Na pagina do seu projeto, clique "Insights", então "Traffic". Nesta pagina , você pode ver:
 
-* **Total page views:** Tells you how many times your project was viewed
+* **Total de visualizações da página:** Informa quantas vezes seu projeto foi visualizado
 
-* **Total unique visitors:** Tells you how many people viewed your project
+* **Total de visitantes únicos:** Informa quantas pessoas visualizaram seu projeto
 
-* **Referring sites:** Tells you where visitors came from. This metric can help you figure out where to reach your audience and whether your promotion efforts are working.
+* **Referência de sites:** Informa de onde vieram os visitantes. Essa métrica pode ajudar você a descobrir como alcançar seu público-alvo e se seus esforços de promoção estão funcionando.
 
-* **Popular content:** Tells you where visitors go on your project, broken down by page views and unique visitors.
+* **Conteudo popular:** Informa a você onde os visitantes vão em seu projeto, a exibição mostra o número de visualizações por página e quantidade de visitantes.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
+[GitHub stars](https://help.github.com/articles/about-stars/) também pode ajudar a fornecer uma medida básica de popularidade. Embora GitHub stars não estejam necessariamente relacionadas a downloads e uso, elas podem dizer quantas pessoas estão percebendo seu trabalho.
 
-You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
+Talvez você também queira [rastrear a descoberta apartir de lugares específicos](https://opensource.com/business/16/6/pirate-metrics): por exemplo, Google PageRank, tráfego de referência do site do seu projeto ou referências de outros projetos ou sites open source.
 
-## Usage
+## Uso
 
-People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using this project?_
+As pessoas estão encontrando seu projeto nesta coisa louca e louca que chamamos de internet. O ideal é que, quando eles virem seu projeto, eles se sintam compelidos a fazer alguma coisa. A segunda pergunta a se fazer é:
+_as pessoas estão utilizando este projeto?_
 
-If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project's downloads.
+Se você usa um gerenciador de pacotes, como npm or RubyGems.org, para distribuir seu projeto, você será capas de rastrear os downloads do seu projeto.
 
-Each package manager may use a slightly different definition of "download", and downloads do not necessarily correlate to installs or use, but it provides some baseline for comparison. Try using [Libraries.io](https://libraries.io/) to track usage statistics across many popular package managers.
+Cada gerenciador de pacotes pode usar uma definição ligeiramente diferente de "download", e os downloads não necessariamente estão relacionados instalação ou ao uso, mas fornece uma base para comparação. Tente usar [Libraries.io](https://libraries.io/) para rastrear estatísticas de uso em muitos gerenciadores de pacotes populares.
 
-If your project is on GitHub, navigate again to the "Traffic" page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
+Se o seu projeto esta no GitHub, navege novamento até a página "Traffic". Você pode usar o [clone graph](https://github.com/blog/1873-clone-graphs) para ver quantas vezes o seu projeto foi clonado em determinada data, a apresentação mostra o total de clonagem e clonagem por pessoa.
 
 ![Clone graph](/assets/images/metrics/clone_graph.png)
 
-If usage is low compared to the number of people discovering your project, there are two issues to consider. Either:
+Se a clonagem é baixa comparada com a quantidade de pessoas que descobrem seu projeto, ha duas coisas a se considerar. São elas:
 
-* Your project isn't successfully converting your audience, or
-* You're attracting the wrong audience
+* Seu projeto não esta obtendo sucesso em converter sua audiencia, ou
+* Você esta atraindo a audiencia errada
 
-For example, if your project lands on the front page of Hacker News, you'll probably see a spike in discovery (traffic), but a lower conversion rate, because you're reaching everyone on Hacker News. If your Ruby project is featured at a Ruby conference, however, you're more likely to see a high conversion rate from a targeted audience.
+Por exemplo, se o seu projeto chegar na primeira página do Hacker News, você provavelmente verá um pico na descoberta (tráfego), mas uma taxa de conversão mais baixa, porque você está alcançando todos no Hacker News. Se o seu projeto Ruby é apresentado em uma conferência Ruby, no entanto, é mais provável que você veja uma alta taxa de conversão de um público-alvo.
 
-Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you're facing.
+Tente descobrir de onde vem seu público e peça a opinião de outras pessoas na página do projeto para descobrir quais desses dois problemas você está enfrentando.
 
-Once you know that people are using your project, you might want to try to figure out what they are doing with it. Are they building on it by forking your code and adding features? Are they using it for science or business?
+Uma vez que você saiba que as pessoas estão usando o seu projeto, você pode tentar descobrir o que elas estão fazendo com ele. Eles estão construindo nele, bifurcando seu código e adicionando recursos? Eles estão usando isso para ciência ou negócios?
 
-## Retention
+## Retenção
 
-People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to this project?_
+As pessoas estão encontrando seu projeto e estão usando. A próxima pergunta a se fazer é:
+_as pessoas estão contribuindo de volta para este projeto?_
 
-It's never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is _popular_ (many people use it) but not _supported_ (not enough maintainer time to meet demand).
+Nunca é cedo de mais para pensar nos contribuidores. Sem outras pessoas colaborando, você corre o risco de se colocar em uma situação insustentável onde seu projeto é _popular_ (muitas pessoas o usam), mas não há _suporte_ (não há tempo suficiente para atender a demanda).
 
-Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
+A retenção também requer o [ingresso de novos colaboradores](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), entenda que contribuidores anteriormente ativos acabarão por fazer outras coisas.
 
-Examples of community metrics that you may want to regularly track include:
+Exemplos de métricas da comunidade que você pode acompanhar regularmente incluem:
 
-* **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Insights" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
+* **Total de contribuidores e número de commits por contribuidor:** Mostra quantos contribuidores você tem, e quem é mais ou menos ativo. No GitHub, você pode ver isso em "Insights" -> "Contributors." Neste momento, este gráfico conta apenas os contribuidores que se comprometeram com o branch padrão do repositório.
 
 ![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
+* **Primeira vez, casual, e contribuidores recorrentes:** Ajuda você a acompanhar se está recebendo novos colaboradores e se eles retornam. (Contribuidores ocasionais são contribuidores com um baixo número de commits. Se é um commit, menos de cinco commits, ou qualquer outra coisa, é com você.) Sem novos contribuidores, a comunidade do seu projeto pode ficar estagnada.
 
-* **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
+* **Números de issues abertas e pull requests em abertos:** Se esses números ficarem muito altos, talvez você precise de ajuda com a triagem de problemas e as revisões de código.
 
-* **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
+* **Número de issues _abertas_ e pull requests _abertos_:** Issues abertas, significa que alguém se preocupa o suficiente com o seu projeto para abrir um problema. Se esse número aumenta com o tempo, isso sugere que as pessoas estão interessadas em seu projeto.
 
-* **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
+* **Tipos de contribuições:** Por exemplo, commits, correções textuais or correções de bugs, ou comentários em uma issue.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
@@ -104,23 +106,23 @@ Examples of community metrics that you may want to regularly track include:
   </p>
 </aside>
 
-## Maintainer activity
+## Atividade do mantenedor
 
-Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
+Finalmente, você desejará fechar o loop certificando-se de que os mantenedores do seu projeto sejam capazes de lidar com o volume de contribuições recebidas. A última pergunta que você deve se fazer é: _eu estou (ou estamos) respondendo à nossa comunidade?_
 
-Unresponsive maintainers become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave.
+Mantenedores não responsivos se tornam um gargalo para projetos de open source. Se alguém enviar uma contribuição, mas nunca receber uma resposta de um mantenedor, ela poderá se sentir desencorajada e sair.
 
 [Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
 
-Consider tracking how long it takes for you (or another maintainer) to respond to contributions, whether an issue or a pull request. Responding doesn't require taking action. It can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
+Considere acompanhar quanto tempo leva para você (ou outro mantenedor) responder às contribuições, seja um issue ou um pull request. A resposta não exige ação. Pode ser tão simples como dizer: _"Obrigado pela sua contribuição! E irei revisa-la dentro da proxima semana."_
 
-You could also measure the time it takes to move between stages in the contribution process, such as:
+Você também pode medir o tempo necessário para mover entre as etapas no processo de contribuição, como:
 
-* Average time an issue remains open
-* Whether issues get closed by PRs
-* Whether stale issues get closed
-* Average time to merge a pull request
+* Tempo médio que um problema permanece em aberto
+* Se as questões são fechadas por PRs
+* Se as issues obsoletas são fechadas
+* Tempo médio para fazer o merge  de um pull request
 
-## Use 📊 to learn about people
+## Use 📊 para aprender sobre pessoas
 
-Understanding metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
+Entender as métricas ajudará você a construir um projeto open source ativo e crescente. Mesmo que você não acompanhe todas as métricas em um painel, use a estrutura acima para focar sua atenção no tipo de comportamento que ajudará seu projeto a prosperar.
