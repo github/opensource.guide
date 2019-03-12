@@ -31,6 +31,10 @@ Contributing to open source can be a rewarding way to learn, teach, and build ex
 
 Why do people contribute to open source? Plenty of reasons!
 
+### top techs joined open source
+
+microsoft joins open chain project as platinum member,edX started open edX,AWS opensources Neo-AI project to accelerate machine learning deployments on edge services and so on.
+
 ### Improve existing skills
 
 Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
