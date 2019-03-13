@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+lang: pt
+title: Iniciando um Projeto Open Source
+description: Saiba mais sobre o mundo do open source e se prepare para iniciar o seu próprio projeto
 class: beginners
 order: 2
 image: /assets/images/cards/beginner.png
