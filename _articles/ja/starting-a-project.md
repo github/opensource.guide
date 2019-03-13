@@ -41,7 +41,7 @@ related:
 
 人々や組織がオープンソースプロジェクトを始めるには[様々な理由があります](https://ben.balter.com/2015/11/23/why-open-source/)。いくつか例を挙げてみましょう：
 
-* **コラボレーション：** オープンソースプロジェクトは世界の誰からも変更を受け付けます。例えば [Exercism](https://github.com/exercism/) は、350を超えるコントリビュータがいるプログラミング練習プラットフォームです。
+* **コラボレーション：** オープンソースプロジェクトは世界の誰からも変更を受け付けます。例えば [Exercism](https://github.com/exercism/) は、350を超えるコントリビューターがいるプログラミング練習プラットフォームです。
 
 * **取り入れて再構成：** オープンソースプロジェクトは誰しもがほとんどいかなる理由のためにも使えるものです。人々は他のものを作るためにでも使うことができます。例えば [WordPress](https://github.com/WordPress) は、 [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) と呼ばれる既存のプロジェクトのフォークとして始まりました。
 
@@ -73,7 +73,7 @@ related:
 
 この質問に唯一の正解はありません。一つのプロジェクトに対して複数のゴールがあるかもしれないし、異なるプロジェクトで異なるゴールがあるかもしれません。
 
-もしあなたのゴールがあなたの作品を見せびらかすことだけなのであれば、コントリビュートは望まないでしょうし、 README でそういうべきですらあります。その一方で、コントリビュータを望むであれば、明確なドキュメントと新しく来た人が歓迎されていると感じるように時間を投資するでしょう。
+もしあなたのゴールがあなたの作品を見せびらかすことだけなのであれば、コントリビュートは望まないでしょうし、 README でそういうべきですらあります。その一方で、コントリビューターを望むであれば、明確なドキュメントと新しく来た人が歓迎されていると感じるように時間を投資するでしょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
@@ -93,7 +93,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  オープンソースプロジェクトを始める時に、あなたの管理プロセスにおいてコントリビュートやそのプロジェクトのコミュニティの能力が考慮されているかどうかを確かめておくのは大事なことです。プロジェクトの大事な部分であなたの企業に雇われていないコントリビュータを巻き込むことを恐れてはいけません - 特に彼らが頻繁にコントリビュートをしてくれるのであれば。
+  オープンソースプロジェクトを始める時に、あなたの管理プロセスにおいてコントリビュートやそのプロジェクトのコミュニティの能力が考慮されているかどうかを確かめておくのは大事なことです。プロジェクトの大事な部分であなたの企業に雇われていないコントリビューターを巻き込むことを恐れてはいけません - 特に彼らが頻繁にコントリビュートをしてくれるのであれば。
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
@@ -103,7 +103,7 @@ related:
 
 もしあなたのゴールが他の人とコラボレーションする方法を学んだり、オープンソースがどうやって機能しているのかを理解することなのであれば、既存のプロジェクトにコントリビュートすることも考えてみましょう。あなたが既に使っていて気に入っているプロジェクトから始めましょう。プロジェクトにコントリビュートするのは誤植を直したり、ドキュメントを更新したりといったシンプルなものでもよいのです。
 
-コントリビュータとして活動し始める方法がわからないのであれば、私達の[オープンソースにコントリビュートする方法](../how-to-contribute/)をチェックしてみて下さい。
+コントリビューターとして活動し始める方法がわからないのであれば、私達の[オープンソースにコントリビュートする方法](../how-to-contribute/)をチェックしてみて下さい。
 
 ## あなた自身のオープンソースプロジェクトを立ち上げる
 
@@ -151,7 +151,7 @@ README では、コントリビュートをどのように扱うか、プロジ�
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  良いドキュメントを書くことで、ユーザーが増え、サポートのリクエストが減り、コントリビュータが増えることを意味します。（…）読者はあなたとは違うということを忘れないで下さい。完全に異なる経験を持った人がプロジェクトに来るかもしれないのです。
+  良いドキュメントを書くことで、ユーザーが増え、サポートのリクエストが減り、コントリビューターが増えることを意味します。（…）読者はあなたとは違うということを忘れないで下さい。完全に異なる経験を持った人がプロジェクトに来るかもしれないのです。
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
@@ -175,7 +175,7 @@ CONTRIBUTING ファイルはあなたのプロジェクトにどうやって参�
 
 * あなたが求めているコントリビュートの種類
 * プロジェクトのロードマップやビジョン
-* コントリビュータがどのようにしてあなたにコンタクトすべきか（もしくはすべきでないか）
+* コントリビューターがどのようにしてあなたにコンタクトすべきか（もしくはすべきでないか）
 
 暖かく友好的なトーンを使って、（ドキュメントを書く、もしくはウェブサイトを作る、といったような）コントリビュートを具体的に提示することで、新しく来る人が歓迎されていて是非参加したいと思ってもらうのにとても役に立ちます。
 
@@ -189,7 +189,7 @@ CONTRIBUTING ファイルはあなたのプロジェクトにどうやって参�
 
 CONTRIBUTING ファイルを書くときに更に役に立つものとして、 @nayafia の [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) や @mozilla の ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) も参考になるでしょう。
 
-README に CONTRIBUTING ファイルへのリンクをすることで、より多くの人の目に触れるようになります。 [CONTRIBUTING ファイルをプロジェクトのリポジトリに置くことで](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)、 GitHub でコントリビュータがイシューを登録したり、プルリクエストをオープンする際に、そのファイルへのリンクが自動的に表示されます。
+README に CONTRIBUTING ファイルへのリンクをすることで、より多くの人の目に触れるようになります。 [CONTRIBUTING ファイルをプロジェクトのリポジトリに置くことで](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)、 GitHub でコントリビューターがイシューを登録したり、プルリクエストをオープンする際に、そのファイルへのリンクが自動的に表示されます。
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -254,7 +254,7 @@ README に CONTRIBUTING ファイルへのリンクをすることで、より�
   </p>
 </aside>
 
-暖かく、排他的でない言葉遣い（一人の人を指すときであっても「彼ら」を使う、といったような）をすることで、あなたのプロジェクトで新しいコントリビュータが歓迎されていると感じてもらうことに繋がります。シンプルな言葉遣いをすることにこだわりましょう。あなたのプロジェクトを見る人の多くは英語のネイティブスピーカーではないかもしれません。
+暖かく、排他的でない言葉遣い（一人の人を指すときであっても「彼ら」を使う、といったような）をすることで、あなたのプロジェクトで新しいコントリビューターが歓迎されていると感じてもらうことに繋がります。シンプルな言葉遣いをすることにこだわりましょう。あなたのプロジェクトを見る人の多くは英語のネイティブスピーカーではないかもしれません。
 
 あなたがどう文書を書くかに加えて、あなたのコーディングスタイルもプロジェクトのブランドの一分になるかもしれません。 [Angular](https://github.com/johnpapa/angular-styleguide) と [jQuery](https://contribute.jquery.org/style-guide/js/) の2つは厳密なコーディングスタイルとガイドラインを持つプロジェクトの例です。
 

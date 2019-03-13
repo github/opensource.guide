@@ -132,7 +132,7 @@ related:
 
 まず第一に不要なコントリビュートの量を減らすには、コントリビュートガイドでコントリビュートを提案するプロセスとコントリビュートを受け入れるプロセスを説明しましょう。
 
-もし品質の低いコントリビュートを多く受け取るようであれば、コントリビュータに事前に確認してもらうよう要求しましょう。例えば：
+もし品質の低いコントリビュートを多く受け取るようであれば、コントリビューターに事前に確認してもらうよう要求しましょう。例えば：
 
 * イシューやプルリクエストのテンプレート/チェックリストを埋めてもらう
 * プルリクエストを提出する前にイシューを開いてもらう
@@ -143,7 +143,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-  コントリビュータに対して CONTRIBUTING.md ファイルでどういった変更は受け入れられるのかを、作業を開始する前に知ることができるようになっているのが理想的です。
+  コントリビューターに対して CONTRIBUTING.md ファイルでどういった変更は受け入れられるのかを、作業を開始する前に知ることができるようになっているのが理想的です。
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
@@ -171,7 +171,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  （コントリビュータ向けのイベントの告知で）私は「誰でも参加可能です、優れたコーディングスキルも必要ありません。」と言い続けてきました。その後、（イベントに）多くの人が登録してくれた時に、今まで自分が言ってきたことは本当だろうか？と思い始めました。40人もの参加者が来てくれたため、彼ら一人ひとりを私がサポートすることは出来ませんでした。しかし、彼らは一致団結し、そしてうまくいきました。一人が状況を理解するとすぐに、近くの人に理解した内容を教えることができたのです。
+  （コントリビューター向けのイベントの告知で）私は「誰でも参加可能です、優れたコーディングスキルも必要ありません。」と言い続けてきました。その後、（イベントに）多くの人が登録してくれた時に、今まで自分が言ってきたことは本当だろうか？と思い始めました。40人もの参加者が来てくれたため、彼ら一人ひとりを私がサポートすることは出来ませんでした。しかし、彼らは一致団結し、そしてうまくいきました。一人が状況を理解するとすぐに、近くの人に理解した内容を教えることができたのです。
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
   </p>

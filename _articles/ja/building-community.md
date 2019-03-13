@@ -128,11 +128,11 @@ Stack Overflow、Twitter、Reddit といったインターネットにおける�
 
 優れたドキュメントは、コミュニティが成長するにつれてより重要になります。あなたのプロジェクトに精通していない通りすがりのコントリビューターは、ドキュメントを読むことで必要とする周辺知識を得ることができます。
 
-CONTRIBUTING ファイルに、新しいコントリビューターに始め方を明示しましょう。この説明のために専用のセクションを作成したいとさえ思うかもしれません。例えば [Django](https://github.com/django/django) は、新しいコントリビュータを迎えるためのランディングページを用意しています。
+CONTRIBUTING ファイルに、新しいコントリビューターに始め方を明示しましょう。この説明のために専用のセクションを作成したいとさえ思うかもしれません。例えば [Django](https://github.com/django/django) は、新しいコントリビューターを迎えるためのランディングページを用意しています。
 
 ![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-イシューのリストにおいて、バグに対してコントリビュータの種類に応じたラベル付けをしましょう：例えば、 [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05) や _"good first issue"_ 、 _"documentation"_ といったものです。[こういったラベル](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)によって、あなたのプロジェクトに詳しくない人がイシューをざっと目を通してコントリビュートを始める事が簡単になります。
+イシューのリストにおいて、バグに対してコントリビューターの種類に応じたラベル付けをしましょう：例えば、 [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05) や _"good first issue"_ 、 _"documentation"_ といったものです。[こういったラベル](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)によって、あなたのプロジェクトに詳しくない人がイシューをざっと目を通してコントリビュートを始める事が簡単になります。
 
 最後に、あらゆるステップにおいて歓迎されていると人々に感じてもらえるようにドキュメントを活用しましょう。
 
@@ -162,7 +162,7 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
 
 * **CONTRIBUTORS ファイルや AUTHORS ファイルをプロジェクトに作ろう。** [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) が実施しているように、これらのファイルにプロジェクトにコントリビュートしてくれた人すべてをリストしましょう。
 
-* かなり大きなコミュニティを既に獲得しているのであれば、コントリビュータへの感謝を伝える **ニュースレターを送ったり、ブログポストを書いたりしましょう。** Rust の [This Week in Rust](https://this-week-in-rust.org/) や Hoodie の [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) はどちらも良い事例です。
+* かなり大きなコミュニティを既に獲得しているのであれば、コントリビューターへの感謝を伝える **ニュースレターを送ったり、ブログポストを書いたりしましょう。** Rust の [This Week in Rust](https://this-week-in-rust.org/) や Hoodie の [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) はどちらも良い事例です。
 
 * **全てのコントリビューターにコミット権限を与えよう。** @felixge はこれによって人々が [パッチに磨きをかけることによりワクワクするようになる](https://felixge.de/2013/03/11/the-pull-request-hack.html)ことに気づき、更にしばらくの間取り組んでいなかったプロジェクトの新しいメンテナーを見つけることさえできたのです。
 
