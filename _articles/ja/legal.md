@@ -123,15 +123,15 @@ GitHub 上で新しいプロジェクトを作ると、ライセンスの選択�
 
 * **ビジネス上の秘密：** プロジェクトの中に企業が世間一般に見られたくないと思うような何かが含まれていないかどうかを調べましょう。もし含まれているのであれば、秘密にしておきたいコードを取り除いた後に残りの部分をオープンソース化することができます。
 
-* **特許：** あなたの企業はプロジェクトをオープンソース化することで[一般開示](https://en.wikipedia.org/wiki/Public_disclosure)に繋がるような特許を申請中ですか？残念ながら、オープンソース化を待つよう依頼されるかもしれません(or maybe the company will reconsider the wisdom of the application). If you're expecting contributions to your project from employees of companies with large patent portfolios,法務部門はコントリビューターからの特許許諾を明記したライセンス（ Apache 2.0 や GPLv3 のような）を使うよう要求するか、追加のコントリビューターアグリーメント（上述参照）を望むでしょう。
+* **特許：** あなたの企業はプロジェクトをオープンソース化することで[一般開示](https://en.wikipedia.org/wiki/Public_disclosure)に繋がるような特許を申請中ですか？残念ながら、オープンソース化を待つよう依頼されるかもしれません（もしくは企業は賢明にも特許の申請を再検討するかもしれません）。もし、大きな特許ポートフォリオを持つ企業の従業員からもプロジェクトにコントリビュートしてもらう事を望むのであれば、法務部門はコントリビューターからの特許許諾を明記したライセンス（ Apache 2.0 や GPLv3 のような）を使うよう要求するか、追加のコントリビューターアグリーメント（上述参照）を望むでしょう。
 
 * **商標：** あなたのプロジェクトの名前が[既存の商標と衝突していないか](../starting-a-project/#名前の衝突を避ける)入念に確認しましょう。もしあなたの企業の商標をプロジェクトで使っている場合は、それによって利害の対立が発生しないかを確認しましょう。 [FOSSmarks](http://fossmarks.org/) はフリーやオープンソースプロジェクトの文脈における商標について理解するための実践的なガイドです。
 
 * **プライバシー：** あなたのプロジェクトではユーザーのデータを収集していますか？"Phone home" to company servers?法務部門が企業の方針や外部の規制を遵守するために手助けしてくれます。
 
-もし企業内で初めてのオープンソースプロジェクトを公開しようとしているのであれば、the above is more than enough to get through （でも心配しないでください、ほとんどのプロジェクトでは大きな問題はありません）。
+もし企業内で初めてのオープンソースプロジェクトを公開しようとしているのであれば、オープンソース化の道のりには上記以外にもあるかもしれません（でも心配しないでください、ほとんどのプロジェクトでは大きな問題はありません）。
 
-Longer term, your legal team can do more to help the company get more from its involvement in open source, and stay safe:
+長期的には、法務部門は企業がオープンソースに関わることでより多くのことを安全に獲得する助けとなります：
 
 * **従業員のコントリビュートポリシー：** 従業員がどのようにオープンソースにコントリビュートするかを定めた社内規約を作ることを検討しましょう。明確な規約を作ることで従業員同士の混乱も減りますし、従業員に対して企業が最も関心のあるオープンソースプロジェクトに業務の一環であれ空き時間でコントリビュートする手助けにもなります。 Rackspace の [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) が良い例です。
 
@@ -153,5 +153,5 @@ Longer term, your legal team can do more to help the company get more from its i
   </p>
 </aside>
 
-* **特許：** あなたの企業は [Open Invention Network](https://www.openinventionnetwork.com/) に参加したいと望むかもしれません。これはメンバーが有名なオープンソースプロジェクトを使うための共有のdefensive patent poolです。もしくは[代替となる特許ライセンス](https://www.eff.org/document/hacking-patent-system-2016)を調査してみましょう。
+* **特許：** あなたの企業は [Open Invention Network](https://www.openinventionnetwork.com/) に参加したいと望むかもしれません。これはメンバーが有名なオープンソースプロジェクトを使うための共有の防御的パテントプールです。もしくは[代替となる特許ライセンス](https://www.eff.org/document/hacking-patent-system-2016)を調査してみましょう。
 * **組織運営：** [社外の法人](../leadership-and-governance/#プロジェクトを運営するのに法人は必要ですか)にプロジェクトを移すことが理にかなっているときは特に必要です。
