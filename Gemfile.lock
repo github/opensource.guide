@@ -249,7 +249,7 @@ GEM
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     unicode-display_width (1.5.0)
-    yell (2.0.7)
+    yell (2.1.0)
 
 PLATFORMS
   ruby
