@@ -14,20 +14,20 @@ related:
 
 Então você está pensando em começar com open source? Parabéns! O mundo aprecia sua contribuição. Vamos falar sobre o que o open source é e porque as pessoas fazem isso.
 
-### What does "open source" mean?
+### O que significa "open source"?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+Quando um projeto é open source, isso significa que **Qualquer um pode ver, usar, modificar e distribuir o projeto por qualquer motivo** Essas permissões são reforçadas através de [uma licença open source](https://opensource.org/licenses).
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+O open source é poderoso porque diminui as barreiras para adoção, o que permite às ideias se espalhar rapidamente.
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
+Para entender como funciona, imagine que seu amigo está dando uma festa, e você leva uma torta de cereja.
 
-* Everybody tries the pie (_use_)
-* The pie is a hit! They ask you for the recipe, which you provide (_view_)
-* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
-* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
+* Todos experimentam a torta (_usa_)
+* A torta é um sucesso! Eles te pedem a receita, que você disponibilizai (_vê_)
+* Um amigo, Alex, que é um chefe de pastelaria, sugere reduzir o açúcar (_modifica_)
+* Outra amiga, Lisa, pede para utilizá-la em uma janta na próxima semana (_distribui_)
 
-By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
+Em comparação, um processo de código fechado seria ir a um restaurante e pedir um pedaço de torta. Você tem que pagar uma taxa para comer a torta, e o restaurante provavelmente não te dará a receita. Se vocẽ copiasse a torta deles exatamente e a vendesse sob seu próprio nome, o restaurante poderia abrir uma ação contra você.
 
 ### Why do people open source their work?
 
