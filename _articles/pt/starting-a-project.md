@@ -10,9 +10,9 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## O "o que" e "porquê" do open source
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+Então você está pensando em começar com open source? Parabéns! O mundo aprecia sua contribuição. Vamos falar sobre o que o open source é e porque as pessoas fazem isso.
 
 ### What does "open source" mean?
 
