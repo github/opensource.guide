@@ -35,7 +35,7 @@ Sebagai perbandingan, sebuah proses yang tertutup akan seperti dimana Anda pergi
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   Salah satu pengalaman yang paling berharga dengan menggunakan dan berkolaborasi pada open source datang dari relasi yang saya bangun dengan pengembang yang lain ketika menghadapi masalah yang sama seperti yang saya alami.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80)
+— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
