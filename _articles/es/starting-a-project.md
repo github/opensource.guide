@@ -35,7 +35,7 @@ Realicemos una comparaci&oacute;n: un proceso de c&oacute;digo cerrado ser&iacut
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   Una de las experiencias m&aacute;s gratificantes que obtengo de usar y colaborar en "C&oacute;digo abierto" proviene de las relaciones que construyo con cada uno de los desarrolladores que se encuentran enfrentando los mismos problemas que yo.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80)
+— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 

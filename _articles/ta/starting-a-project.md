@@ -35,7 +35,7 @@ related:
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   திறந்த மூலத்தைப் பயன்படுத்துவதற்கும், ஒத்துழைப்பதற்கும் எனக்கு கிடைத்த மிகச் சிறப்பான அனுபவங்களில் ஒன்று, நான் பல பிரச்சனைகளை எதிர்கொள்ளும் பிற நிரலாளர்களுடன் நான் உருவாக்கும் உறவுகளில்தான் வருகிறது.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["திறந்த மூலத்தில் நுழைவது எப்படி எனக்கு ஆச்சரியமாக இருக்கிறது"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80)
+— @kentcdodds, ["திறந்த மூலத்தில் நுழைவது எப்படி எனக்கு ஆச்சரியமாக இருக்கிறது"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
