@@ -132,7 +132,7 @@ Pada dokumen CONTRIBUTING, jelaskan secara eksplisit bagaimana kontributor baru 
 
 ![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-Pada daftar laporan masalah Anda, tandai masalah yang cocok untuk setiap jenis kontributor yang berbeda: misalnya, [_"hanya pemula"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"laporan kesalahan pertama"_, atau _"dokumentasi"_. [Label ini](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) mempermudah orang yang baru pada proyek Anda untuk mencari daftar laporan masalah dan mulai berkontribusi.
+Pada daftar laporan masalah Anda, tandai masalah yang cocok untuk setiap jenis kontributor yang berbeda: misalnya, [_"hanya pemula"_](https://kentcdodds.com/blog/first-timers-only), _"laporan kesalahan pertama"_, atau _"dokumentasi"_. [Label ini](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) mempermudah orang yang baru pada proyek Anda untuk mencari daftar laporan masalah dan mulai berkontribusi.
 
 Akhirnya, gunakan dokumentasi Anda untuk membuat orang lain nyaman pada setiap langkahnya.
 

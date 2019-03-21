@@ -146,7 +146,7 @@ Geben Sie in Ihrer CONTRIBUTING-Datei explizit an, wie sie anfangen sollen. Viel
 
 ![Djangos Startseite für neue Mitwirkende](/assets/images/building-community/django_new_contributors.png)
 
-Die Liste der Issues sollte durchsortiert sein, Bugs z.B. als solche markiert, sowie Issues auch für unterschiedliche potentielle Kontributor\*innen: z.B. [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"good first issue"_, oder _"documentation"_. [Solche  "Labels"](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) vereinfachen es Neuankömmlingen, sich in Ihrem Projekt zurechtzufinden und mit der Lösung eines Problems zu beginnen.
+Die Liste der Issues sollte durchsortiert sein, Bugs z.B. als solche markiert, sowie Issues auch für unterschiedliche potentielle Kontributor\*innen: z.B. [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, oder _"documentation"_. [Solche  "Labels"](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) vereinfachen es Neuankömmlingen, sich in Ihrem Projekt zurechtzufinden und mit der Lösung eines Problems zu beginnen.
 
 Nicht zuletzt sollten Sie die Dokumentation nutzen, um Leute mit offenen Armen zu empfangen und ihnen Schritt-für-Schritt zu helfen.
 
