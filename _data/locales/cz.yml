@@ -16,6 +16,7 @@ cz:
       button: Přispějte
     subscribe: 
       heading: Zůstaňme v kontaktu!
+      describtion: Buď první, kdo uslyší o posledních Open source tipech a zdrojích od GitHubu.
       label: Emailová adresa
       button: Odebírat
     byline:
