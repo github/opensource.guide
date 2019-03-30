@@ -1,1 +1,10 @@
-
+cz:
+  locale_name: Czech
+  nav:
+    about: O nás
+    contribute: Přispějte
+  index:
+    lead: Open Source software je vytvořen lidmi stejně jako jste vy. Nauč se o tom jak spustit a rozšiřovat svůj projekt.
+    opensourcefriday: Je pátek! Věnuj pár hodin přispíváním do softwaru, který používáte a milujete.
+  article:
+    table_of_contents: Seznam článků
