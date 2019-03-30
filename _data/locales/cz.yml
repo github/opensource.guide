@@ -8,3 +8,18 @@ cz:
     opensourcefriday: Je pátek! Věnuj pár hodin přispíváním do softwaru, který používáte a milujete.
   article:
     table_of_contents: Seznam článků
+    back_to_all_guides: Zpátky na všechny průvodce
+    related_guides: Průvodci na podobné téma
+  footer:
+    contribute: 
+      description: Chcete vytvořit návrh na změnu? Tento obsah je Open source. Pomoc nám ho zlepšit.
+      button: Přispějte
+    subscribe: 
+      heading: Zůstaňme v kontaktu!
+      label: Emailová adresa
+      button: Odebírat
+    byline:
+      format: "[code] with [love] by [github] and [friends]"
+      code_label: kód
+      love_label: láska
+      friends_label: prátelé
