@@ -29,25 +29,25 @@ Para entender como funciona, imagine que seu amigo está dando uma festa, e voc�
 
 Em comparação, um processo de código fechado seria ir a um restaurante e pedir um pedaço de torta. Você tem que pagar uma taxa para comer a torta, e o restaurante provavelmente não te dará a receita. Se vocẽ copiasse a torta deles exatamente e a vendesse sob seu próprio nome, o restaurante poderia abrir uma ação contra você.
 
-### Why do people open source their work?
+### Porque as pessoas tornam seu trabalho open source?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+  Uma das experiências mais recompensadores que eu obtenho do uso e colaboração no open source vêm dos relacionamentos que eu construo com outros desenvolvedores enfrentando muitos dos mesmos problemas que eu.
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
   </p>
 </aside>
 
-[There are many reasons](https://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+[Há muitas razões](https://ben.balter.com/2015/11/23/why-open-source/) pela qual uma pessoa ou organização iria querer tornar um projeto open source. Alguns exemplos incluem:
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **Colaboração:** Projetos open source podem aceitar mudanças de qualquer pessoa no mundo. [Exercism](https://github.com/exercism/), por exemplo, é uma plataforma de exercícios de programação com mais de 350 contribuidores.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adoção e remixing:** Projetos open source podem ser utilizados por qualquer um para praticamente qualquer propósito. As pessoas podem até mesmo utilizá-lo para construir outras coisas. [WordPress](https://github.com/WordPress), por exemplo, começou como um fork de um projeto chamado [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparência:** Qualquer um pode inspecionar um projeto open source por erros ou inconsistências. A transparência importa a gorvernos como a [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) ou os [Estados Unidos](https://sourcecode.cio.gov/), industrias regulamentadas como bancos ou industrias de saúde, e softwares de segurança como [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+O open source, também, não é somente para software. Você pode tornar open source tudo, de conjuntos de dados a livros. Dê uma olhada no [GitHub Explore](https://github.com/explore) por ideias do que você pode tornar open source.
 
 ### Does open source mean "free of charge"?
 
