@@ -49,13 +49,13 @@ Em comparação, um processo de código fechado seria ir a um restaurante e pedi
 
 O open source, também, não é somente para software. Você pode tornar open source tudo, de conjuntos de dados a livros. Dê uma olhada no [GitHub Explore](https://github.com/explore) por ideias do que você pode tornar open source.
 
-### Does open source mean "free of charge"?
+### Open source significa "grátis"?
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+Uma das maiores atrações do open source é que ele não custa dinheiro. "Grátis", porém, é um subproduto do valor total do open source.
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+Como [uma licença open source requer](https://opensource.org/osd-annotated) que qualquer um possa usar, modificar e compartilhar o seu projeto por aproximadamente qualquer propósito, os projetos, por si só, tendem a ser livres de qualquer custo. Se o projeto custa algum dinheiro para ser utilizado, qualquer um poderia, em vez disso, legalmente fazer uma cópia e utilizar a versão grátis.
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+Como resultado, a maior parte dos projetos open source são grátis, mas "grátis" não faz parte da definição do open source. Há maneiras de cobrar por um projeto open source indiretamente através de licenças duais ou features limitadas, enquanto ainda de acordo com a definição oficial de open source.
 
 ## Should I launch my own open source project?
 
