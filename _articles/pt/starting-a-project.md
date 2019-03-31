@@ -57,15 +57,15 @@ Como [uma licença open source requer](https://opensource.org/osd-annotated) que
 
 Como resultado, a maior parte dos projetos open source são grátis, mas "grátis" não faz parte da definição do open source. Há maneiras de cobrar por um projeto open source indiretamente através de licenças duais ou features limitadas, enquanto ainda de acordo com a definição oficial de open source.
 
-## Should I launch my own open source project?
+## Eu deveria lançar o meu próprio projeto open source?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+A resposta curta é sim, porque não importa o resultado, lançar o seu próprio projeto é uma ótima maneira de aprender como o open source funciona.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+Se você nunca tornou um projeto open source antes, você pode se sentir nervoso sobre o que as pessoas irão falar, ou mesmo se alguém vai dar a ele alguma atenção. Se isso soa familiar para você, saiba que não está sozinho!
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+O open source funciona como qualquer outra atividade criativa, seja escrita ou pintura. Pode parecer assustador compartilhar o seu trabalho com o mundo, mas a única maneira de se aperfeiçoar é praticando - mesmo que você não possua uma audiência.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+Se você ainda não está convencido, reserve um momento para pensar sobre quais são seus objetivos.
 
 ### Setting your goals
 
