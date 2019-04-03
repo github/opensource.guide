@@ -217,7 +217,7 @@ GEM
     multipart-post (2.0.0)
     nokogiri (1.10.2)
       mini_portile2 (~> 2.4.0)
-    octokit (4.13.0)
+    octokit (4.14.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     parallel (1.14.0)
     pathutil (0.16.2)
