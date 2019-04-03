@@ -105,22 +105,22 @@ Se seu objetivo é aprender como contribuir com outras pessoas ou entender como 
 
 Se você não tem uma ideia clara de como iniciar enquanto contribuidor, dê uma olhada em [How to Contribute to Open Source guide](../how-to-contribute/).
 
-## Launching your own open source project
+## Lançando o seu próprio projeto open source
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+Não há um momento perfeito para tornar o seu trabalho open source. Você pode tornar uma ideia open source, um trabalho em andamento ou mesmo um trabalho que passou anos como código fechado.
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+De um modo geral, você deve tornar o seu projeto open source quando se sentir confortável em ter outras pessoas vendo e dando feedback no seu trabalho.
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+Independente do estágio em que você decida tornar o seu projeto open source, todo projeto deve incluir as seguintes documentações:
 
 * [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
 * [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 * [Code of conduct](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+Como um mantenedor, esses componentes irão ajudá-lo a comunicar suas espectativas, administrar contribuições, e projeger o direito legal de todos (inclusive o seu). Eles aumentam suas chances de ter uma experência positiva significativamente.
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+Se seu projeto está no GitHub, colocar esses arquivos no seu diretório root com os nomes recomendados ajudará o GitHub a reconhecê-los e automaticamente mostrá-los da maneira apropriada aos seus leitores.
 
 ### Choosing a license
 
