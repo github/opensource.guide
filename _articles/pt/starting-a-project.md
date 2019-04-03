@@ -99,11 +99,11 @@ Se você precisar de uma renda dedicada ou pessoal para promoção, operações 
   </p>
 </aside>
 
-### Contributing to other projects
+### Contribuindo para outros projetos 
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+Se seu objetivo é aprender como contribuir com outras pessoas ou entender como o open source funciona, considere contribuir para um projeto existente. Comece com um projeto que você utiliza e ama. Contribuir para um projeto pode ser tão simples quanto consertar erros de escrita ou atualizar uma documentação.
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+Se você não tem uma ideia clara de como iniciar enquanto contribuidor, dê uma olhada em [How to Contribute to Open Source guide](../how-to-contribute/).
 
 ## Launching your own open source project
 
