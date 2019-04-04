@@ -132,7 +132,7 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
 
 ![Django 새로운 기여자 페이지](/assets/images/building-community/django_new_contributors.png)
 
-이슈 대기열에서, 기여자의 다른 유형에 적합한 버그 라벨을 붙이십시오: 예를 들어, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"good first issue"_, 혹은 _"documentation"_이 있습니다. [이 라벨들은](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
+이슈 대기열에서, 기여자의 다른 유형에 적합한 버그 라벨을 붙이십시오: 예를 들어, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, 혹은 _"documentation"_이 있습니다. [이 라벨들은](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
 프로젝트에 익숙하지 않은 사용자가 문제를 신속하게 스캔하고 시작하기가 쉽습니다.
 
 마지막으로, 문서를 사용하여 사람들이 모든 단계에서 환영받는다고 느끼게 하십시오.
