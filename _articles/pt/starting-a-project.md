@@ -122,19 +122,19 @@ Como um mantenedor, esses componentes irão ajudá-lo a comunicar suas espectati
 
 Se seu projeto está no GitHub, colocar esses arquivos no seu diretório root com os nomes recomendados ajudará o GitHub a reconhecê-los e automaticamente mostrá-los da maneira apropriada aos seus leitores.
 
-### Choosing a license
+### Escolhendo uma licença
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+Uma licença open source garante que outros possam utilizar, copiar, modificar e contribuir com o seu projeto sem repercussões. Ela também lhe protege de situações legais problemáticas. **Você deve incluir uma licença sempre que lançar um projeto open source.**
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+Trabalho legal não é divertido. A boa noticia é que você pode copiar e colar uma licença existente no seu repositório. Só levará um minuto e vai proteger seu trabalho duro.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), e [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) são as licenças open source mais populares, mas [há outras opções](https://choosealicense.com) disponíveis.
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+Quando você cria um projeto do GitHub, é dada a opção de escolher uma licença. Incluir uma licença open source fará seu projeto GitHub open source.
 
 ![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+Se você possui outros questionamentos e preocupações acerca dos aspectos legais da administração de um projeto open source, [podemos te ajudar](../legal/).
 
 ### Writing a README
 
