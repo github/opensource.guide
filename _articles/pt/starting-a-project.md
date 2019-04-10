@@ -136,32 +136,32 @@ Quando você cria um projeto do GitHub, é dada a opção de escolher uma licen�
 
 Se você possui outros questionamentos e preocupações acerca dos aspectos legais da administração de um projeto open source, [podemos te ajudar](../legal/).
 
-### Writing a README
+### Escrevendo um README
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+READMEs fazem mais do que explicar como usar o seu projeto. Eles também explicam porque o seu projeto importa, e o que os seus usuários podem fazer com ele.
 
-In your README, try to answer the following questions:
+No seu README, tente responder as seguintes questões:
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* O que esse projeto faz?
+* Por que esse projeto é útil?
+* Como começo?
+* Onde posso conseguir ajuda, seu eu precisar?
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+Você pode usar o seu README para responder outras questões, por exemplo como você lida com contribuições, quais são os objetivos do projeto e informações sobre licenças e atribuições. Se você não quer aceitar contribuições, ou seu projeto não está pronto para produção, escreva no README essa informação.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+  Uma documentação melhor significa mais usuários, menos requisições de suporte, e mais contribuidores. (...) Lembre-se de que os seus leitores não são você. Há pessoas que chegarão ao projeto com experiências completamente diferentes.
   <p markdown="1" class="pquote-credit">
 — @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
-Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+Algumas vezes, as pessoas evitam escrever um README porque sentem que o projeto não está finalizado, ou não querem contribuições. Essas são todas boas razões para escrever um.
 
-For more inspiration, try using @18F's ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+Para mais inspiração, tente usar o ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) do @18F ou o [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) do @PurpleBooth para escrever um README completo.
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+Quando você inclui um arquivo de README no seu diretório raiz, o GitHub irá automaticamente renderizá-lo na página inicial do projeto.
 
 ### Writing your contributing guidelines
 
