@@ -24,7 +24,6 @@ Code, including source files and code samples if any in the content, is released
 * The primer components in `node_modules` are under the MIT license; see `LICENSE` in each component's directory
 * The [Octicons images](https://octicons.github.com) are under the [SIL OFL 1.1](https://scripts.sil.org/ofl)
 
-
 This means you can use the code and content in this repository except for GitHub trademarks in your own projects. When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
 
 When you contribute to this repository you are doing so under the above licenses.
