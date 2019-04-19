@@ -175,7 +175,7 @@ Sie können Ihre README verwenden, um andere Fragen zu beantworten: z.B. wie Sie
 
 Manchmal vermeiden es Leute, eine README zu schreiben, weil sie das Gefühl haben, das Projekt sei unvollendet, oder weil sie keine Beiträge wollen. Aber auch dies sind gute Gründe, eine zu schreiben.
 
-Weitere Inspirationen zum Schreiben einer README finden Sie in @18F's ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) oder in @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+Weitere Inspirationen zum Schreiben einer README finden Sie in @dguo's ["Make a README"-Anleitung](https://www.makeareadme.com/) oder in @PurpleBooth's [README-Vorlage](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
 
 Wenn Sie eine README-Datei im Hauptordner Ihres Projektes anlegen, zeigt GitHub diese automatisch auf der Homepage des Repos an.
 
