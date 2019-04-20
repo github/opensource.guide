@@ -163,33 +163,33 @@ Para mais inspiração, tente usar o ["Making READMEs Readable"](https://pages.1
 
 Quando você inclui um arquivo de README no seu diretório raiz, o GitHub irá automaticamente renderizá-lo na página inicial do projeto.
 
-### Writing your contributing guidelines
+### Escrevendo suas diretrizes de contribuição
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+Um arquivo CONTRIBUTING diz a sua audiência como participar no seu projeto. Por exemplo, você pode incluir informações sobre:
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+* Como criar um relatório de bug (tente usar um [template de issue ou pull request](https://github.com/blog/2111-issue-and-pull-request-templates))
+* Como sugerir uma nova feature
+* Como configurar o seu ambiente e rodar testes
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+Além dos detalhes técnicos, um arquivo CONTRIBUTING é uma oportunidade de comunicar suas expectativas para contribuições, como:
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
+* Os tipos de contribuições que você está procurando
+* Seu roadmap ou visão para o projeto
+* Como contribuidores devem (ou não devem) entrar em contato com você
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+Usar um tom acolhedor, amigável e oferecer sugestões específicas para contribuições (como escrever uma documentação, ou fazer um website) pode fazer uma grande diferença em fazer com que novos contribuidores se sintam bem vindos e felizes em participar.
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with:
+Por exemplo, [Active Admin](https://github.com/activeadmin/activeadmin/) começa [seu guia de contribuição](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) com:
 
-> First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+> Primeiramente, obrigado por considerar contribuir para o Active Admin. São pessoas como você que fazem o Active Admin esta grande ferramenta. 
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+Nos primeiros estágios do seu projeto, seu arquivo de CONTRIBUTING pode ser simples. Você deve sempre explicar como relatar bugs ou registrar issues, e qualquer requisito técnico (como testes) necessário para se fazer uma contribuição.
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+Ao longo do tempo, você pode adicionar outras questões frequentemente respondidas ao seu arquivo CONTRIBUTING. Escrever essas informações significa que menos pessoas te farão as mesmas perguntas repetidas vezes.
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+Para mais ajuda em como escrever seu arquivo CONTRIBUTING, dê uma olhada no [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) de @nayafia ou o ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) do @mozilla.
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+Crie um link para seu arquivo CONTRIBUTING a partir do seu README, de modo que mais pessoas possam vê-lo. Se você [colocar seu arquivo CONTRIBUTING no repositório do seu projeto](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), o GitHub irá automaticamente 'linkar' para o seu arquivo quando um contribuidor criar uma issue ou abrir um pull request.
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
