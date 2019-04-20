@@ -260,37 +260,37 @@ Muito além de como você escreve palavras, seu estilo de código também pode s
 
 Não é necessário escrever um guia de estilo para o seu projeto quando você está apenas começando, e você pode descobrir que você gosta de incorporar diferentes estilos de codificação no seu projeto, de qualquer forma. Porém você deve antecipar como seu estilo de escrita e codificação pode atrair ou desencorajar diferentes tipos de pessoas. Os estágios mais iniciais do seu projeto são sua oportunidade de definir o precedente que você deseja ver.
 
-## Your pre-launch checklist
+## Seu checklist pré-lançamento
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+Pronto para tornar o seu projeto open source? Aqui está uma checklist para ajudar. Marcou todas as caixas? Você está pronto! [Clique em "publish"](https://help.github.com/articles/making-a-private-repository-public/) e dê um tapinha em suas costas.
 
-**Documentation**
+**Documentação**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    O Projeto possui um arquivo LICENSE com uma licença open source
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    O Projeto possui documentação básica (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    O nome é fácil de lembrar, dá alguma ideia do que o projeto faz e não entra em conflito com um projeto existente ou infringe alguma marca registrada
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    A fila de issues está atualizada, com issues claramente organizadas e rotuladas
   </label>
 </div>
 
@@ -299,62 +299,62 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    O projeto utiliza convenções de código consistentes e nomes de funções/métodos/variáveis claros
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    O código é comentado de forma clara, documentando intenções e edge cases
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+    Não há material sensível no histórico de revisões, issues, ou pull requests (por exemplo, senhas ou outras informações não-públicas)
   </label>
 </div>
 
-**People**
+**Pessoas**
 
-If you're an individual:
+Se você é um indivíduo:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  Você falou com o departamento legal e/ou entendeu o IP e políticas open source de sua empresa (se você é um funcionário em algum lugar)
   </label>
 </div>
 
-If you're a company or organization:
+Se você está em uma empresa ou organização:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    Você falou com seu departamento legal
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    Você possui um plano de marketing para anunciar e promover o projeto
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    Alguém está engajado em administrar as interações com a comunidade (responder a issues, revisar e 'merjar' pull requests)
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    Pelo menos duas pessoas têm acesso administrativo ao projeto
   </label>
 </div>
 
