@@ -213,9 +213,9 @@ De modo muito parecido com licenças open source, também há padrões emergente
 
 Cole o texto diretamente em um arquivo CODE_OF_CONDUCT no seu repositório. Mantenha o arquivo no diretório raiz do seu projeto, de modo que ele seja fácil de ser encontrado, e crie um link para ele a partir do seu README.
 
-## Naming and branding your project
+## Nomeando e criando uma marca para o seu projeto
 
-Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
+Uma marca é mais do que uma logo chamativa ou um nome atraente. É sobre como você fala sobre o seu projeto, e quem você atinge com sua mensagem.
 
 ### Choosing the right name
 
