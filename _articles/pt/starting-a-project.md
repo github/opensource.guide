@@ -179,7 +179,7 @@ Além dos detalhes técnicos, um arquivo CONTRIBUTING é uma oportunidade de com
 
 Usar um tom acolhedor, amigável e oferecer sugestões específicas para contribuições (como escrever uma documentação, ou fazer um website) pode fazer uma grande diferença em fazer com que novos contribuidores se sintam bem vindos e felizes em participar.
 
-Por exemplo, [Active Admin](https://github.com/activeadmin/activeadmin/) começa [seu guia de contribuição](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) com:
+Por exemplo, o [Active Admin](https://github.com/activeadmin/activeadmin/) começa [seu guia de contribuição](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) com:
 
 > Primeiramente, obrigado por considerar contribuir para o Active Admin. São pessoas como você que fazem o Active Admin esta grande ferramenta. 
 
