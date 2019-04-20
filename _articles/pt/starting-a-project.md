@@ -240,25 +240,25 @@ Você pode conferir o [WIPO Global Brand Database](http://www.wipo.int/branddb/e
 
 Finalmente, realize uma busca rápida no Google pelo nome do seu projeto. As pessoas encontrarão o seu projeto com facilidade? Há algo que aparece nos resultados de busca que você não gostaria que eles vissem?
 
-### How you write (and code) affects your brand, too!
+### Como você escreve (e 'coda') afeta sua marca, também!
 
-Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
+Ao longo da vida do seu projeto, você escreverá bastante: READMEs, tutoriais, documentos da comunidade, responder a issues, talvez até mesmo newsletters e listas de email.
 
-Whether it's official documentation or a casual email, your writing style is part of your project's brand. Consider how you might come across to your audience and whether that is the tone you wish to convey.
+Quer seja documentação oficial ou um email casual, seu estilo de escrita é parte da marca do seu projeto. Considere como você se portará diante de sua audiência e se esse é o tom que você deseja transmitir.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+  Eu procurei estar envolvido com todas as threads na lista de emails e mostrar comportamento exemplar, sendo legal com as pessoas, levando seus problemas a sério e tentando ser útil de um modo geral. Após um tempo, as pessoas permaneceram não somente para fazer questionamentos, mas para ajudar com as respostas também, e, para minha completa alegria, elas imitaram o meu estilo.
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
+Utilizar uma linguagem acolhedora e inclusiva (como "eles", mesmo quando se referindo a uma única pessoa) pode fazer uma grande diferença em fazer com que seu projeto seja acolhedor para novos contribuidores. Permaneça com uma linguagem simples, já que muitos dos seus leitores podem não ser falantes nativos de inglês.
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://github.com/johnpapa/angular-styleguide) and [jQuery](https://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+Muito além de como você escreve palavras, seu estilo de código também pode se tornar parte da marca do seu projeto. [Angular](https://github.com/johnpapa/angular-styleguide) e [jQuery](https://contribute.jquery.org/style-guide/js/) são dois exemplos de projetos com estilos de códificação e guidelines rigorozas.
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+Não é necessário escrever um guia de estilo para o seu projeto quando você está apenas começando, e você pode descobrir que você gosta de incorporar diferentes estilos de codificação no seu projeto, de qualquer forma. Porém você deve antecipar como seu estilo de escrita e codificação pode atrair ou desencorajar diferentes tipos de pessoas. Os estágios mais iniciais do seu projeto são sua oportunidade de definir o precedente que você deseja ver.
 
 ## Your pre-launch checklist
 
