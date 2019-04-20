@@ -228,17 +228,17 @@ Se você está construindo algo sobre um projeto existente, usar o nome deles co
 
 Considere clareza acima de tudo. Trocadilhos são engraçados, mas lembre-se de que algumas piadas podem não possuir tradução para outras culturas ou pessoas com experiências diferentes das suas. Alguns dos seus potenciais usuários podem ser funcionários de alguma empresa: você não quer fazê-los sentirem-se desconfortáveis ao explicar o seu projeto no trabalho!
 
-### Avoiding name conflicts
+### Evitando conflitos de nomes
 
-[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+[Procure projetos open source com um nome similar](http://ivantomic.com/projects/ospnc/), especialmente se você compartilha a mesma linguagem ou ecossistema. Se seu nome se sobrepõe ao de um projeto popular existente, você pode confundir sua audiência.
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
+Se você quer um website, Twitter handle, ou outras propriedades para representar o seu projeto, assegure-se de que você pode ter os nomes que procura. Idealmente, [reserve tais nomes agora](https://instantdomainsearch.com/) para paz mental, mesmo que você não planeje utilizá-los no momento.
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
+Assegure-se de que o nome do seu projeto não infringe nenhuma marca registrada. Uma empresa pode pedir que você derrube seu projeto no futuro, ou até mesmo tomar alguma ação legal contra você. Simplesmente não vale o risco.
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+Você pode conferir o [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) por conflitos com marcas registradas. Se você está em uma empresa, essa é uma das coisas em que [o seu time legal pode ajudá-lo](../legal/).
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+Finalmente, realize uma busca rápida no Google pelo nome do seu projeto. As pessoas encontrarão o seu projeto com facilidade? Há algo que aparece nos resultados de busca que você não gostaria que eles vissem?
 
 ### How you write (and code) affects your brand, too!
 
