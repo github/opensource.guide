@@ -193,25 +193,25 @@ Crie um link para seu arquivo CONTRIBUTING a partir do seu README, de modo que m
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
-### Establishing a code of conduct
+### Estabelecendo um código de conduta
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+  Todos nós já tivemos experiências em que encaramos um provável abuso, seja como um mantenedor tentando explicar porque alguma coisa tinha de ser feita de um certo modo, ou como um usuário... fazendo um simples questionamento. (...) Um código de conduta se torna um documento facilmente referenciável e 'linkavel' que indica como o seu time leva o discurso construtivo de modo bastante sério.
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+Finalmente, um código de conduta ajuda a criar regras básicas de comportamento para os participantes do seu projeto. Isso possui um valor especial se vocẽ está lançando um projeto open source para a comunidade ou empresa. Um código de conduta te dá o poder de facilitar um comportamento saudável e construtivo da comunidade, que irá reduzir seu estresse como mantenedor.
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+Para mais informações, dê uma olhada no nosso [guia do Código de Conduta](../code-of-conduct/).
 
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+Além de comunicar _como_ você espera que os participantes se comportem, um código de conduta também tende a descrever a quem essas expectativas se aplicam, quando se aplicam e o que fazer se uma violação ocorrer.
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+De modo muito parecido com licenças open source, também há padrões emergentes para códigos de conduta, de modo que você não precisa escrever o seu. O [Contributor Covenant](https://contributor-covenant.org/) é um código de conduta 'pronto para o uso' que é usado por [mais de 40,000 projetos open source](https://www.contributor-covenant.org/adopters), incluindo Kubernetes, Rails, e Swift. Não importa que texto você utilize, você deve estar sempre preparado para impor o seu código de conduta quando necessário.
 
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
+Cole o texto diretamente em um arquivo CODE_OF_CONDUCT no seu repositório. Mantenha o arquivo no diretório raiz do seu projeto, de modo que ele seja fácil de ser encontrado, e crie um link para ele a partir do seu README.
 
 ## Naming and branding your project
 
