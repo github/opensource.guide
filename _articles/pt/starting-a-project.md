@@ -217,16 +217,16 @@ Cole o texto diretamente em um arquivo CODE_OF_CONDUCT no seu repositório. Mant
 
 Uma marca é mais do que uma logo chamativa ou um nome atraente. É sobre como você fala sobre o seu projeto, e quem você atinge com sua mensagem.
 
-### Choosing the right name
+### Escolhendo o nome certo
 
-Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
+Escolha um nome que é fácil de lembrar e, idealmente, dê alguma ideia sobre o que o projeto faz. Por exemplo:
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Sentry](https://github.com/getsentry/sentry) monitora aplicações para criar relatórios de falha
+* [Thin](https://github.com/macournoyer/thin) é um servidor web Ruby rápido e simples
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+Se você está construindo algo sobre um projeto existente, usar o nome deles como prefixo pode ajudar a esclarecer o que o seu projeto faz (por exemplo, [node-fetch](https://github.com/bitinn/node-fetch) traz o `window.fetch` para o Node.js).
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+Considere clareza acima de tudo. Trocadilhos são engraçados, mas lembre-se de que algumas piadas podem não possuir tradução para outras culturas ou pessoas com experiências diferentes das suas. Alguns dos seus potenciais usuários podem ser funcionários de alguma empresa: você não quer fazê-los sentirem-se desconfortáveis ao explicar o seu projeto no trabalho!
 
 ### Avoiding name conflicts
 
