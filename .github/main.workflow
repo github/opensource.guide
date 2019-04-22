@@ -1,9 +1,9 @@
 workflow "CI Test Runner" {
-  resolves = ["CI Test Runner"]
+  resolves = ["test"]
   on = "push"
 }
 
-action "CI Test Runner" {
+action "test" {
   uses = "./.github/test_runner"
   secrets = ["GITHUB_TOKEN"]
 }
