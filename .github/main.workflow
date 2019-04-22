@@ -10,9 +10,10 @@ action "CI Test Runner" {
 
 workflow "build" {
   on = "push"
-  resolves = ["CI Test Runner-1"]
+  resolves = ["Jekyll Pages Builder"]
 }
 
-action "CI Test Runner-1" {
-  uses = "./.github/test_runner"
+action "Jekyll Pages Builder" {
+  uses = "./.github/pages_builder"
+  secrets = ["GITHUB_TOKEN"]
 }
