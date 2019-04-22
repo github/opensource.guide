@@ -1,7 +1,7 @@
 FROM jekyll/jekyll
 
-LABEL "com.github.actions.name"="Test Runner"
-LABEL "com.github.actions.description"="Write arguments to the standard output"
+LABEL "com.github.actions.name"="CI Test Runner"
+LABEL "com.github.actions.description"="Run the full test suite"
 LABEL "com.github.actions.icon"="gear"
 LABEL "com.github.actions.color"="purple"
 
