@@ -1,16 +1,14 @@
-workflow "test" {
-  resolves = ["CI Test Runner"]
+workflow "Test and build on push" {
+  resolves = [
+    "CI Test Runner",
+    "Jekyll Pages Builder",
+  ]
   on = "push"
 }
 
 action "CI Test Runner" {
   uses = "./.github/test_runner"
   secrets = ["GITHUB_TOKEN"]
-}
-
-workflow "build" {
-  on = "push"
-  resolves = ["Jekyll Pages Builder"]
 }
 
 action "Jekyll Pages Builder" {
