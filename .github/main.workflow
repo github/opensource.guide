@@ -1,6 +1,6 @@
 workflow "Test and build on push" {
   resolves = ["Jekyll Pages Builder"]
-  on = "push"
+  on = "pull_request"
 }
 
 action "CI Test Runner" {
