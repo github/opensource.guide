@@ -30,7 +30,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     ffi (1.10.0)
     forwardable-extended (2.6.0)
-    gemoji (3.0.0)
+    gemoji (3.0.1)
     github-pages (198)
       activesupport (= 4.2.11.1)
       github-pages-health-check (= 1.16.1)
