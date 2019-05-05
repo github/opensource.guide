@@ -1,0 +1,31 @@
+ja:
+  locale_name: 日本語
+  nav:
+    about: 私たちについて
+    contribute: 貢献
+  index:
+    lead: オープンソースソフトウェアはあなたのような人々によって作られています。プロジェクトを立ち上げて成長させる方法を学びましょう。
+    opensourcefriday: 金曜日です！ あなたが使用し愛するソフトウェアに貢献する数時間を投資しましょう。
+  article:
+    table_of_contents: 目次
+    back_to_all_guides: すべてのガイドに戻る
+    related_guides: 関連ガイド
+  footer:
+    contribute:
+      heading: 貢献
+      description: 提案をしたいですか？ このコンテンツはオープンソースです。改善にご協力ください。
+      button: 貢献する
+    subscribe:
+      heading: 連絡をとる
+      description: はじめに GitHub の最新のオープンソースのヒントやリソースについて聞いてください。
+      label: メールアドレス
+      button: 購読
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[github] や [friends] からの [love] をこめた [code]"
+      # Label for code octicon
+      code_label: code
+      # Label for love octicon
+      love_label: love
+      # Label for the contributors link
+      friends_label: friends
