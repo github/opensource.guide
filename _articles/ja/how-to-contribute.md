@@ -105,42 +105,42 @@ related:
   </p>
 </aside>
 
-### Do you like organizing?
+### 整理することが好きですか？
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* 課題を整理しておくために、重複する課題にリンクし、新しい課題ラベルを提案しましょう
+* [@nzakas が ESLint で行ったように](https://github.com/eslint/eslint/issues/6765)、未解決の課題を調べて古い課題を解決することを提案します。
+* 議論を前進させるために最近オープンになった課題についての明確な質問をしましょう
 
-### Do you like to code?
+### コードを書くことが好きですか？
 
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* [@dianjin が Leaflet に対して行ったように](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)、取り組むべき未解決の課題を見つけましょう
+* 新しい機能を書くのを手伝うことができるかどうか聞いてみましょう
+* プロジェクト設定を自動化しましょう
+* ツールとテストを改善しましょう
 
-### Do you like helping people?
+### 人々を助けることが好きですか？
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+* ([この Postgres の例のように](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) Stack Overflow や Reddit を使って、プロジェクトに関する質問に答えましょう
+* 未解決の課題に関する人々への質問に答えましょう
+* ディスカッション掲示板や会話チャンネルをモデレートして助けましょう
 
-### Do you like helping others code?
+### 他の人が書いたコードを手助けするのが好きですか？
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* 他の人の投稿に関するコードを確認しましょう
+* プロジェクトの使用方法についてのチュートリアルを書きましょう
+* [@ereichert が Rust の @bronzdoc のためにしたように](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)、他の貢献者を指導することを申し出ましょう
 
-### You don't just have to work on software projects!
+### ただソフトウェアプロジェクトに取り組む必要はありません！
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+「オープンソース」とはソフトウェアを指すことが多いのですが、コラボレーションすることができます。オープンソースプロジェクトとして開発される本、レシピ、リスト、そしてクラスがあります。
 
-For example:
+例えば:
 
-* @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
-* @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
+* @sindresorhus は["awesome" lists のリスト](https://github.com/sindresorhus/awesome)をキュレートします
+* @h5bp は、フロントエンド開発者候補のための[潜在的なインタビューの質問のリスト](https://github.com/h5bp/Front-end-Developer-Interview-Questions) を維持しています
+* @stuartlynn と @nicole-a-tesla が [puffins についてのおもしろい事実](https://github.com/stuartlynn/puffin_facts)を集めました
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
+あなたがソフトウェア開発者であっても、ドキュメンテーションプロジェクトに取り組むことはオープンソースを始める助けになります。コードを含まないプロジェクトに取り組むことはそれほどプレッシャーもなく、コラボレーションのプロセスはあなたの自信と経験になります。
 
 ## Orienting yourself to a new project
 
