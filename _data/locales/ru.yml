@@ -1,0 +1,31 @@
+en:
+  locale_name: Русский
+  nav:
+    about: Что это?
+    contribute: Внести вклад
+  index:
+    lead: Открытые проекты создаются людьми как вы. Узнайте как запустить и развивать свой собственный.
+    opensourcefriday: А вот и пятница! Потратьте несколько часов, чтобы внести вклад в используемые и любимые вами проекты
+  article:
+    table_of_contents: Содержание
+    back_to_all_guides: Вернуться к руководствам
+    related_guides: Связанные руководства
+  footer:
+    contribute:
+      heading: Внесите вклад
+      description: Желаете что-то предложить? Это открытый проект. Помогите нам его улучшить.
+      button: Внести вклад
+    subscribe:
+      heading: Оставайтесь на связи
+      description: Становитесь одним из первых, кто узнает о последних полезных советах открытым проектам и ресурсах от GitHub.
+      label: E-mail адрес
+      button: Подписаться
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] с [love] от [github] и [friends]"
+      # Label for code octicon
+      code_label: код
+      # Label for love octicon
+      love_label: любовью
+      # Label for the contributors link
+      friends_label: друзей
