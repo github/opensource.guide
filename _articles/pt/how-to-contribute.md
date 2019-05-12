@@ -1,7 +1,7 @@
 ---
 lang: pt
 title: Como contribuir para o open source
-description: Quer contribuir para open source? Um guia para fazer contribuições, pela primeira vez e para veteranos.
+description: Quer contribuir para o open source? Um guia sobre como fazer contribuições, para novatos e veteranos.
 class: contribute
 order: 1
 image: /assets/images/cards/contribute.png
@@ -10,11 +10,11 @@ related:
   - building
 ---
 
-## Por que contribuir para open source?
+## Por que contribuir para o open source?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Trabalhar no \[freenode\] me ajudou a obter várias habilidades que mais tarde usei para meus estudos na universidade e no meu atual trabalho. E penso que trabalhar em projetos open source me ajuda tanto quanto ajuda o projeto!
+  Trabalhar no \[freenode\] me ajudou a obter várias habilidades que mais tarde usei em meus estudos na universidade e no meu atual trabalho. E penso que trabalhar em projetos open source me ajuda tanto quanto ajuda o projeto!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
@@ -22,11 +22,11 @@ related:
 
 Contribuir para o open source pode ser uma maneira gratificante de aprender, ensinar e construir experiência em praticamente qualquer habilidade que você possa imaginar.
 
-Por que as pessoas contribuem para o open source? Muitas razões!
+Por que as pessoas contribuem para o open source? Há muitas razões!
 
 ### Melhorar as habilidades existentes
 
-Seja codificando, desenhando interface do usuário, desenhando gráfico, escrevendo ou organizando, se você está procurando por prática, há uma tarefa para você em um projeto de open source.
+Seja codificando, desenhando interface do usuário, desenhando gráfico, escrevendo ou organizando, se você está procurando por prática, há uma tarefa para você em um projeto open source.
 
 ### Encontre pessoas que estão interessadas em coisas parecidas
 
