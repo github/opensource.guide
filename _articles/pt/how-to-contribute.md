@@ -46,17 +46,17 @@ O open source oferece oportunidades para praticar habilidades de liderança e ge
 
 ### É empoderador poder fazer mudanças, mesmo pequenas
 
-Você não precisa se tornar um contribuinte vitalício para participar de um open source. Você já viu um erro de digitação em um site e desejou que alguém o consertasse? Em um projeto de open source, você pode fazer exatamente isso. O open source ajuda as pessoas a sentirem propósito sobre suas vidas e como elas experimentam o mundo, e isso em si é gratificante.
+Você não precisa se tornar um contribuidor vitalício para participar no open source. Você já viu um erro de digitação em um site e desejou que alguém o consertasse? Em um projeto open source, você pode fazer exatamente isso. O open source ajuda as pessoas a sentirem propósito sobre suas vidas e como elas experimentam o mundo, e isso em si é gratificante.
 
 ## O que significa contribuir
 
-Se você é um novo colaborador de open source, o processo pode ser intimidador. Como você encontra o projeto certo? E se você não souber codificar? E se algo der errado?
+Se você é um novo contribuidor open source, o processo pode ser intimidador. Como você encontra o projeto certo? E se você não souber codificar? E se algo der errado?
 
 Não se preocupe! Há todo tipo de maneiras de se envolver com um projeto de open source, e algumas dicas ajudarão você a aproveitar ao máximo sua experiência.
 
 ### Você não precisa contribuir com código
 
-Um equívoco comum sobre contribuir para o open source é que você precisa contribuir com código. Na verdade, muitas vezes são as outras partes de um projeto que são [mais negligenciadas ou esquecida](https://github.com/blog/2195-the-shape-of-open-source). Você fará um grande favor ao projeto, oferecendo-se para contribuir com esses tipos de contribuições!
+Um equívoco comum sobre contribuir para o open source é que você precisa contribuir com código. Na verdade, muitas vezes são as outras partes de um projeto que são [mais negligenciadas ou esquecidas](https://github.com/blog/2195-the-shape-of-open-source). Você fará um grande favor ao projeto, oferecendo-se para contribuir com esses tipos de contribuições!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
@@ -70,7 +70,7 @@ Mesmo se você gosta de escrever código, outros tipos de contribuições são u
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Eu entrei em contato com a equipe de desenvolvimento do Python (também conhecida como python-dev) quando enviei um email para a lista de discussão em 17 de junho de 2002 sobre a aceitação do meu patch. Eu rapidamente peguei o bug de open source e decidi começar a curar os resumos de e-mail para o grupo. Eles me deram uma ótima desculpa para pedir esclarecimentos sobre um tópico, mas, mais criticamente, pude perceber quando alguém apontou algo que precisava ser consertado.
+  Eu entrei em contato com a equipe de desenvolvimento do Python (também conhecida como python-dev) quando enviei um email para a lista de discussão em 17 de junho de 2002 sobre a aceitação do meu patch. Eu rapidamente peguei o bug do open source e decidi começar a curar os resumos de e-mail para o grupo. Eles me deram uma ótima desculpa para pedir esclarecimentos sobre um tópico, mas, mais criticamente, pude perceber quando alguém apontou algo que precisava ser consertado.
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
   </p>
@@ -79,27 +79,27 @@ Mesmo se você gosta de escrever código, outros tipos de contribuições são u
 ### Você gosta de planejar eventos?
 
 * Organize workshops ou encontros sobre o projeto, [como @fzamperin fez para NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize a conferência do projeto (se eles tiverem um)
-* Ajude os membros da comunida a encontrar as conferências apropriadas e a submeter proposta para apresentar.
+* Organize a conferência do projeto (se eles tiverem uma)
+* Ajude os membros da comunidade a encontrar as conferências apropriadas e a submeter propostas de apresentação
 
 ### Você gosta de design?
 
-* Reestruture layout para melhorar a usabilidade do(s) projeto(s)
-* Realize pesquisas de usuário para reorganizar e refinar a navegação ou menu do projeto, [como sugere Drupal](https://www.drupal.org/community-initiatives/drupal-core/usability)
+* Reestruture layouts para melhorar a usabilidade do projeto
+* Realize pesquisas de usuário para reorganizar e refinar a navegação ou menu do projeto, [como sugere o Drupal](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * Coloque junto um guia de estilo para ajudar o projeto a ter um design visual consistente
-* Crie arte para camisetas ou um novo logotipo,[como contribuidores do hapi.js's fizeram](https://github.com/hapijs/contrib/issues/68)
+* Crie arte para camisetas ou um novo logotipo, [como os contribuidores do hapi.js fizeram](https://github.com/hapijs/contrib/issues/68)
 
 ### Você gosta de escrever?
 
 * Escreva e melhore a documentação do projeto
 * Organize uma pasta de exemplos mostrando como o projeto é usado
 * Inicie uma newsletter para o projeto ou selecione resumos da lista de discussão
-* Escreva tutoriais para o projeto, [como os crontribuidore do PyPA's fizeram](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Escreva tutoriais para o projeto, [como os crontribuidore do PyPA fizeram](https://github.com/pypa/python-packaging-user-guide/issues/194)
 * Escreva uma tradução para a documentação do projeto
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  Sério, \[documentação \] é mega importante. A documentação até agora tem sido ótima e tem sido uma característica destruidora de Babel. Há seções que certamente poderiam ser trabalhada e até mesmo a adição de um parágrafo aqui ou ali é extremamente apreciada.
+  Sério, \[documentação \] é mega importante. A documentação até agora tem sido ótima e tem sido uma característica destruidora de Babel. Há seções que certamente poderiam ser trabalhadas e até mesmo a adição de um parágrafo aqui ou ali é extremamente apreciada.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
@@ -107,13 +107,13 @@ Mesmo se você gosta de escrever código, outros tipos de contribuições são u
 
 ### Você gosta de organizar?
 
-* Links para issues duplicadas, e sugestão de labels para novas issues, para manter as coisas organizadas
-* Passar por issues abertos e sugerir o fechamento de antigos, [como @nzakas fez para o ESLint](https://github.com/eslint/eslint/issues/6765)
-* Faça perguntas de esclarecimento sobre questões abertas recentemente, para dar continuidade a discussão.
+* Crie links para issues duplicadas, e sugira novos labels para issues, para manter as coisas organizadas
+* Revise as issues abertas e sugira o fechamento das antigas, [como @nzakas fez para o ESLint](https://github.com/eslint/eslint/issues/6765)
+* Faça perguntas de esclarecimento sobre issues abertas recentemente, para dar continuidade a discussão.
 
 ### Você gosta de codificar?
 
-* Encontre um problema em aberto para resolver, [como @dianjin fez em Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* Encontre um problema em aberto para resolver, [como @dianjin fez para o Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
 * Pergunte se você pode ajudar a codificar uma nova função
 * Automatize a configuração do projeto
 * Melhore as ferramentas e os testes
@@ -128,19 +128,19 @@ Mesmo se você gosta de escrever código, outros tipos de contribuições são u
 
 * Revise o código submetido por outras pessoas
 * Escreva tutoriais sobre como um projeto pode ser usado
-* Se ofereça para orientar outro colaborador,[como @ereichert fez com @bronzdoc em Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* Se ofereça para orientar outro contribuidor, [como @ereichert fez com @bronzdoc no Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
 ### Você não precisa apenas trabalhar em projetos de software!
 
-Embora o "open source" geralmente se refira ao software, você pode colaborar em praticamente qualquer coisa. Existem livros, receitas, listas e classes que são desenvolvidos como projetos de open source.
+Embora "open source" geralmente se refira a software, você pode colaborar em praticamente qualquer coisa. Existem livros, receitas, listas e aulas que são desenvolvidos como projetos open source.
 
 Por exemplo:
 
-* @sindresorhus curates a [lista de listas "impressionantes"](https://github.com/sindresorhus/awesome)
-* @h5bp maintains a [lista de possíveis perguntas de entrevista](https://github.com/h5bp/Front-end-Developer-Interview-Questions) para candidatos a desenvolvedor front-end
-* @stuartlynn and @nicole-a-tesla made a [coleção de curiosidades sobre papagaios-do-mar](https://github.com/stuartlynn/puffin_facts)
+* @sindresorhus faz a curadoria de uma [lista de listas "impressionantes"](https://github.com/sindresorhus/awesome)
+* @h5bp mantém uma [lista de possíveis perguntas de entrevistas](https://github.com/h5bp/Front-end-Developer-Interview-Questions) para candidatos a desenvolvedor front-end
+* @stuartlynn e @nicole-a-tesla fizeram uma [coleção de curiosidades sobre papagaios-do-mar](https://github.com/stuartlynn/puffin_facts)
 
-Mesmo se você for um desenvolvedor de software, trabalhar na documentação de um projeto pode ajudá-lo a começar no open source. Geralmente, é menos intimidador trabalhar em projetos que não envolvam código, e o processo de colaboração aumentará sua confiança e experiência.
+Mesmo que vocẽ seja um desenvolvedor de software, trabalhar na documentação de um projeto pode ajudá-lo a começar no open source. Geralmente, é menos intimidador trabalhar em projetos que não envolvam código, e o processo de colaboração aumentará sua confiança e experiência.
 
 ## Se orientando para um novo projeto
 
@@ -152,9 +152,9 @@ Mesmo se você for um desenvolvedor de software, trabalhar na documentação de 
   </p>
 </aside>
 
-Para qualquer outra coisa a mais do que um erro de digitação, contribuir para o open source é como caminhar até um grupo de estranhos em uma festa. Se você começar a falar sobre lhamas, enquanto eles estavam mergulhados em uma discussão sobre peixinhos dourados, eles provavelmente olharão para você um pouco estranhamente.
+Para qualquer outra coisa além de um erro de digitação, contribuir para o open source é como caminhar até um grupo de estranhos em uma festa. Se você começar a falar sobre lhamas, enquanto eles estavam mergulhados em uma discussão sobre peixinhos dourados, eles provavelmente olharão para você um pouco estranhamente.
 
-Antes de pular cegamente com suas próprias sugestões, comece aprendendo a ler a sala. Isso aumenta as chances de que suas ideias sejam notadas e ouvidas.
+Antes de pular cegamente com suas próprias sugestões, comece aprendendo a ler o ambiente. Isso aumenta as chances de que suas ideias sejam notadas e ouvidas.
 
 ### Anatomia de um projeto de open source
 
