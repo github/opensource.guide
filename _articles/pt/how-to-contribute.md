@@ -52,7 +52,7 @@ Você não precisa se tornar um contribuidor vitalício para participar no open 
 
 Se você é um novo contribuidor open source, o processo pode ser intimidador. Como você encontra o projeto certo? E se você não souber codificar? E se algo der errado?
 
-Não se preocupe! Há todo tipo de maneiras de se envolver com um projeto de open source, e algumas dicas ajudarão você a aproveitar ao máximo sua experiência.
+Não se preocupe! Há todo tipo de maneiras de se envolver com um projeto open source, e algumas dicas ajudarão você a aproveitar ao máximo sua experiência.
 
 ### Você não precisa contribuir com código
 
@@ -60,7 +60,7 @@ Um equívoco comum sobre contribuir para o open source é que você precisa cont
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  Fui elogiada pelo meu trabalho no CocoaPods, mas a maioria das pessoas não sabe que eu realmente não faço nenhum trabalho real na própria ferramenta CocoaPods. Meu tempo no projeto é principalmente gasto fazendo coisas como documentação e trabalhando na marca.
+  Fui elogiado pelo meu trabalho no CocoaPods, mas a maioria das pessoas não sabe que eu realmente não faço nenhum trabalho real na própria ferramenta CocoaPods. Meu tempo no projeto é principalmente gasto fazendo coisas como documentação e trabalhando na marca.
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
@@ -99,7 +99,7 @@ Mesmo se você gosta de escrever código, outros tipos de contribuições são u
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  Sério, \[documentação \] é mega importante. A documentação até agora tem sido ótima e tem sido uma característica destruidora de Babel. Há seções que certamente poderiam ser trabalhadas e até mesmo a adição de um parágrafo aqui ou ali é extremamente apreciada.
+  Sério, \[documentação\] é mega importante. A documentação até agora tem sido ótima e tem sido uma característica destruidora de Babel. Há seções que certamente poderiam ser trabalhadas e até mesmo a adição de um parágrafo aqui ou ali é extremamente apreciada.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
@@ -176,7 +176,7 @@ Projetos maiores também podem ter subcomitês ou grupos de trabalho focados em 
 
 Um projeto também possui documentação. Esses arquivos são geralmente listados no nível superior de um repositório.
 
-* **LICENSE:** Por definição, todo projeto de open source deve ter uma [licença open source](https://choosealicense.com). Se o projeto não tiver uma licença, não é open source.
+* **LICENSE:** Por definição, todo projeto open source deve ter uma [licença open source](https://choosealicense.com). Se o projeto não tiver uma licença, não é open source.
 * **README:** O README é o manual de instruções que dá as boas-vindas aos novos membros da comunidade para o projeto. Isso explica por que o projeto é útil e como começar.
 * **CONTRIBUTING:** Enquanto os READMEs ajudam as pessoas a _usar_ o projeto, os documentos sobre contribuição ajudam as pessoas a _contribuir_ para o projeto. Ele explica quais tipos de contribuições são necessários e como o processo funciona. Embora nem todo projeto tenha um arquivo CONTRIBUTING, sua presença sinaliza que este é um projeto acolhedor a novas contribuições.
 * **CODE_OF_CONDUCT:** O código de conduta estabelece as regras básicas para o comportamento dos participantes e ajuda a facilitar um ambiente amigável e acolhedor. Embora nem todo projeto tenha um arquivo CODE_OF_CONDUCT, sua presença indica que este é um projeto acolhedor a novas contribuições.
@@ -307,7 +307,7 @@ Agora faça o mesmo para os pedidos de pull requests do projeto.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Os mantenedores respondem rapidamente o pull request quando eles são abertos?
+    Os mantenedores respondem rapidamente aos pull requests quando eles são abertos?
   </label>
 </div>
 
@@ -436,7 +436,7 @@ Se você não encontrar sua ideia em outro lugar, você está pronto para fazer 
 
 * **Issues** são como o inicio de uma conversa ou discussão
 * **Pull requests** são para inicio dos trabalhos em uma solução
-* **For lightweight communication,** para esclarecimentos ou questões de como fazer, tente perguntar no Stack Overflow, IRC, Slack, ou outro canal de comunicação, se o projeto tiver.
+* **Para communicações leves,** para esclarecimentos ou questões de como fazer, tente perguntar no Stack Overflow, IRC, Slack, ou outro canal de comunicação, se o projeto tiver.
 
 Antes de abrir uma issue ou pull request, verifique os documentos de contribuição do projeto (geralmente um arquivo chamado CONTRIBUTING ou no README), para ver se é necessário incluir algo específico. Por exemplo, eles podem pedir que você siga um modelo ou exigir que você use testes.
 
@@ -475,18 +475,18 @@ Um pull request não precisa representar o trabalho final. Geralmente, é melhor
 
 Se o projeto estiver no GitHub, veja como enviar um pull request:
 
-* **[Faça um fork do repositorio](https://guides.github.com/activities/forking/)** e clone localmente. Conecte seu repositorio local com o "upstream" adicionado-o como repositorio remoto. Baixe as alterações do "upstream" com frequência para que você fique atualizado, quando enviar seu pull request, os conflitos de mesclagem serão menos prováveis. (Veja instruições mais detalhadas [aqui](https://help.github.com/articles/syncing-a-fork/).)
+* **[Faça um fork do repositorio](https://guides.github.com/activities/forking/)** e clone localmente. Conecte seu repositorio local com o "upstream" adicionado-o como repositorio remoto. Baixe as alterações do "upstream" com frequência para que você fique atualizado, quando enviar seu pull request, os conflitos de mesclagem serão menos prováveis. (Veja instruções mais detalhadas [aqui](https://help.github.com/articles/syncing-a-fork/).)
 * **[Crie um branch](https://guides.github.com/introduction/flow/)** para suas edições.
 * **Referencie qualquer issue relevante** ou documentação de suporte em seu PR (por exemplo, "Closes #37.")
 * **Inclua imagens do antes e depois** se suas mudanças incluirem diferenças no HTML/CSS. Copie e cole as imagens na mensagem do seu pull request.
 * **Teste suas mudanças!** Execute suas alterações em relação a quaisquer testes existentes, e crie novos quando necessário. Se os testes existirem sempre verifique se suas alterações não quebram o projeto existente.
-* **Contribua para o estilo do projeto** para melhorar suas habilidades. Isso pode significar usar recuos, ponto-e-vírgula ou comentários de maneira diferente do que você faria em seu próprio repositório, mas torna mais fácil para o mantenedor unir codigos, e para outros manterem e entederem e melhorar no futuro.
+* **Contribua para o estilo do projeto** para melhorar suas habilidades. Isso pode significar usar recuos, ponto-e-vírgula ou comentários de maneira diferente do que você faria em seu próprio repositório, mas torna mais fácil para o mantenedor unir codigos, e para outros manter, enteder e melhorar no futuro.
 
 Se este é o seu primeiro pull request, confira [Faça um pull request](http://makeapullrequest.com/), que @kentcdodds criou como um tutorial em vídeo passo a passo. Você também pode praticar a criação de um pull request no repositório [Primeira Contribuição](https://github.com/Roshanjossey/first-contributions), criado por @Roshanjossey.
 
 ## O que acontece depois que você envia uma contribuição
 
-Você fez isso! Parabéns por se tornar um colaborador open source. Esperamos que seja a primeira de muitas.
+Você fez isso! Parabéns por se tornar um contribuidor open source. Esperamos que seja a primeira de muitas.
 
 Depois de enviar uma contribuição, uma das seguintes situações ocorrerá:
 
@@ -496,7 +496,7 @@ Espero que você [tenha checado o projeto em busca de sinais de atividade](#uma-
 
 Se você não obtiver uma resposta após uma semana, é justo responder educadamente no mesmo tópico, pedindo a revisão de alguém. Se você souber o nome da pessoa certa para revisar sua contribuição, você poderá @menciona-la nesse tópico.
 
-**Não** contate essa pessoa em particular; Lembre-se de que a comunicação pública é vital para projetos opensource.
+**Não** contate essa pessoa em particular; Lembre-se de que a comunicação pública é vital para projetos open source.
 
 Se você fizer uma chamada educada e ninguém responder, é possível que ninguém responda, nunca. Não é um sentimento agradável, mas não deixe que isso o desanime. Aconteceu com todos! Existem muitas razões possíveis pelas quais você não recebeu uma resposta, incluindo circunstâncias pessoais que podem estar fora de seu controle. Tente encontrar outro projeto ou uma maneira de contribuir. Bem como outros motivos, esta é uma boa razão para não investir muito tempo em fazer uma contribuição antes que outros membros da comunidade estejam engajados e responsivos.
 
@@ -504,13 +504,13 @@ Se você fizer uma chamada educada e ninguém responder, é possível que ningu�
 
 É comum que você seja solicitado a fazer alterações em sua contribuição, ou mesmo feedback sobre o escopo de sua ideia ou alterações em seu código.
 
-Quando alguém solicita alterações, seja responsivo. Eles levaram algum tempo para revisar sua contribuição. Abrir um PR e ir embora é má educação. Se você não souber como fazer as alterações, pesquise o problema e peça ajuda se precisar.
+Quando alguém solicitar alterações, seja responsivo. Eles levaram algum tempo para revisar sua contribuição. Abrir um PR e ir embora é má educação. Se você não souber como fazer as alterações, pesquise o problema e peça ajuda se precisar.
 
 Se você não tiver mais tempo para trabalhar no assunto (por exemplo, se a conversa já dura meses, e suas circunstâncias mudaram), informe ao mantenedor para que ele não esteja esperando uma resposta. Alguém pode ficar feliz em assumir o controle.
 
 ### 👎 Sua contribuição não é aceita.
 
-Sua contribuição pode ou não ser aceita no final. Espero que você não tenha trabalhado muito nisso até então. Se você não tem certeza do motivo pelo qual não foi aceito, é perfeitamente razoável pedir feedback e esclarecimentos ao mantenedor. Em última análise, no entanto, você precisa respeitar que essa é a decisão deles. Não discuta ou seja hostil. Você é sempre bem vindo para fazer  uma copia e trabalhar em sua própria versão, se você não concordar!
+Sua contribuição pode ou não ser aceita no final. Espero que você não tenha trabalhado muito nisso até então. Se você não tem certeza do motivo pelo qual não foi aceito, é perfeitamente razoável pedir feedback e esclarecimentos ao mantenedor. Em última análise, no entanto, você precisa respeitar que essa é a decisão deles. Não discuta ou seja hostil. Você é sempre bem vindo para fazer uma cópia e trabalhar em sua própria versão, se você não concordar!
 
 ### 🎉 Sua contribuição é aceita.
 
