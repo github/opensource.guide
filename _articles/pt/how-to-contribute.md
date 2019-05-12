@@ -156,36 +156,36 @@ Para qualquer outra coisa além de um erro de digitação, contribuir para o ope
 
 Antes de pular cegamente com suas próprias sugestões, comece aprendendo a ler o ambiente. Isso aumenta as chances de que suas ideias sejam notadas e ouvidas.
 
-### Anatomia de um projeto de open source
+### Anatomia de um projeto open source
 
-Toda comunidade de open source é diferente.
+Toda comunidade open source é diferente.
 
-Passar anos em um projeto de open source significa que você conheceu um projeto de open source. Mude para um projeto diferente, e você pode achar que o vocabulário, as normas e os estilos de comunicação são completamente diferentes.
+Passar anos em um projeto open source significa que você conheceu um projeto open source. Mude para um projeto diferente, e você pode achar que o vocabulário, as normas e os estilos de comunicação são completamente diferentes.
 
-Dito isso, muitos projetos de open source seguem uma estrutura organizacional similar. Entender os diferentes papéis da comunidade e o processo geral, ajudará você a se orientar rapidamente em qualquer novo projeto.
+Dito isso, muitos projetos open source seguem uma estrutura organizacional similar. Entender os diferentes papéis da comunidade e o processo geral ajudará você a se orientar rapidamente em qualquer novo projeto.
 
 Um típico projeto open source tem os seguintes tipos de pessoas:
 
 * **Autor:** A pessoa ou organização que criou o projeto
-* **Proprietário:** Pessoa (s) que tem propriedade administrativa sobre a organização ou repositório (nem sempre é o autor original)
+* **Proprietário:** Pessoa(s) que tem propriedade administrativa sobre a organização ou repositório (nem sempre é o autor original)
 * **Mantenedores:** Colaboradores que são responsáveis por conduzir a visão e gerenciar os aspectos organizacionais do projeto. (Eles também podem ser autores ou proprietários do projeto.)
 * **Colaboradores:** Todos que contribuíram com algo para o projeto.
-* **Membros da comunidade:** Pessoas que usam o projeto. Eles podem estar ativos em conversas ou expressar sua opinião sobre a direção do projeto.
+* **Membros da comunidade:** Pessoas que usam o projeto. Eles podem ser ativos em diálogos ou expressar sua opinião sobre a direção do projeto.
 
-Projetos maiores também podem ter subcomitês ou grupos de trabalho focados em tarefas diferentes, como ferramentas, triagem, moderação da comunidade e organização de eventos. Procure no site do projeto uma página "equipe" ou no repositório procure por governança, para encontrar essas informações.
+Projetos maiores também podem ter subcomitês ou grupos de trabalho focados em tarefas diferentes, como ferramentas, triagem, moderação da comunidade e organização de eventos. Procure no site do projeto uma página "equipe" ou no repositório procure por documentação sobre governança, para encontrar essas informações.
 
 Um projeto também possui documentação. Esses arquivos são geralmente listados no nível superior de um repositório.
 
-* **LICENSE:** Por definição, todo projeto de open source deve ter uma [licença open source](https://choosealicense.com). Se o projeto não tiver uma licença, não é de open source.
+* **LICENSE:** Por definição, todo projeto de open source deve ter uma [licença open source](https://choosealicense.com). Se o projeto não tiver uma licença, não é open source.
 * **README:** O README é o manual de instruções que dá as boas-vindas aos novos membros da comunidade para o projeto. Isso explica por que o projeto é útil e como começar.
-* **CONTRIBUTING:** Enquanto os READMEs ajudam as pessoas a _usar_ o projeto, os documentos contribuintes ajudam as pessoas a _contribuir_ para o projeto. Ele explica quais tipos de contribuições são necessários e como o processo funciona. Embora nem todo projeto tenha um arquivo CONTRIBUTING, sua presença sinaliza que este é um projeto de boas-vindas para contribuir.
-* **CODE_OF_CONDUCT:** O código de conduta estabelece regras básicas para o comportamento dos participantes e ajuda a facilitar um ambiente amigável e acolhedor. Embora nem todo projeto tenha um arquivo CODE_OF_CONDUCT, sua presença indica que este é um projeto de boas-vindas para contribuir.
+* **CONTRIBUTING:** Enquanto os READMEs ajudam as pessoas a _usar_ o projeto, os documentos sobre contribuição ajudam as pessoas a _contribuir_ para o projeto. Ele explica quais tipos de contribuições são necessários e como o processo funciona. Embora nem todo projeto tenha um arquivo CONTRIBUTING, sua presença sinaliza que este é um projeto acolhedor a novas contribuições.
+* **CODE_OF_CONDUCT:** O código de conduta estabelece as regras básicas para o comportamento dos participantes e ajuda a facilitar um ambiente amigável e acolhedor. Embora nem todo projeto tenha um arquivo CODE_OF_CONDUCT, sua presença indica que este é um projeto acolhedor a novas contribuições.
 * **Outros documentos:** Pode haver documentação adicional, como tutoriais, instruções passo a passo ou políticas de controle, especialmente em projetos maiores.
 
-Por fim, os projetos de open source usam as seguintes ferramentas para organizar a discussão. Ao ler os arquivos, você terá uma boa ideia de como a comunidade pensa e trabalha.
+Por fim, os projetos open source usam as seguintes ferramentas para organizar a discussão. Ao ler os arquivos, você terá uma boa ideia de como a comunidade pensa e trabalha.
 
-* **Issue tracker:** Onde as pessoas discutem questões relacionadas ao projeto.
-* **Pull requests:** onde as pessoas discutem e revisam as alterações que estão em andamento.
+* **Issue tracker:** Onde as pessoas discutem issues relacionadas ao projeto.
+* **Pull requests:** Onde as pessoas discutem e revisam as alterações que estão em andamento.
 * **Fóruns de discussão ou listas de discussão:** Alguns projetos usam esses canais para tópicos de conversação (por exemplo, _"Como faço para ..."_ ou _"O que você acha sobre ..."_ em vez de relatórios de bugs ou solicitações de recursos). Outros usam o issue tracker para todas as conversas.
 * **Canais de bate-papo:** Alguns projetos usam canais de bate-papo (como o Slack ou o IRC) para conversas casuais, colaboração e trocas rápidas.
 
