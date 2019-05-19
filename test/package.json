@@ -4,7 +4,7 @@
     "async": "^2.0.0",
     "dictionary-en-us": "^2.0.0",
     "download": "^5.0.3",
-    "ebrew": "^0.1.1",
+    "ebrew": "^0.2.3",
     "fastmatter": "^1.1.1",
     "glob": "^7.0.5",
     "ignore": "^3.1.3",

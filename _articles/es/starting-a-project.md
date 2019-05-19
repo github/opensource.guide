@@ -35,7 +35,7 @@ Realicemos una comparaci&oacute;n: un proceso de c&oacute;digo cerrado ser&iacut
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   Una de las experiencias m&aacute;s gratificantes que obtengo de usar y colaborar en "C&oacute;digo abierto" proviene de las relaciones que construyo con cada uno de los desarrolladores que se encuentran enfrentando los mismos problemas que yo.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80)
+— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
@@ -77,7 +77,7 @@ Si tu &uacute;nico objetivo es mostrar al mundo tu trabajo, quiz&aacute;s no nec
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  En alg&uacute;n punto cre&eacute; un UIAlertView personalizado que estaba usando... I decid&iacute; hacerla c&oacute;digo abierto. Entonces la modifiqu&eacute; para que fuera m&aacute;s din&aacute;mica y la sub&iacute; a GitHub. Adem&aacute;s escrib&iacute; mi primera documentaci&oacute;n explicando a otros desarrolladores c&oacute;mo usarla en sus proyectos. Probablemente nadie jam&aacute;s la haya usado porque era un proyecto muy simple, pero me sent&iacute;a bien habiendo contribuido.
+  En alg&uacute;n punto cre&eacute; un UIAlertView personalizado que estaba usando... Y decid&iacute; hacerlo c&oacute;digo abierto. Entonces lo modifiqu&eacute; para que fuera m&aacute;s din&aacute;mico y lo sub&iacute; a GitHub. Adem&aacute;s escrib&iacute; mi primera documentaci&oacute;n explicando a otros desarrolladores c&oacute;mo usarlo en sus proyectos. Probablemente nadie jam&aacute;s lo haya usado porque era un proyecto muy simple, pero me sent&iacute;a bien habiendo contribuido.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>

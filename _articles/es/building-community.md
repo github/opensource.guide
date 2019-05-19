@@ -132,7 +132,7 @@ En tu archivo CONTRIBUTING, indica de manera expl&iacute;cita a los nuevos colab
 
 ![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-En tu cola de asuntos, etiqueta errores que son convenientes para diferentes tipos de colaboradores: por ejemplo, [_"solo principiantes"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), "conveniente para quienes resuelven su primer bug", o "documentaci&oacute;n". [Estas etiquetas](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) hacen que sea m&aacute;s f&aacute;cil buscar problemas a resolver para alguien nuevo en el proyecto y as&iacute; poder comenzar.
+En tu cola de asuntos, etiqueta errores que son convenientes para diferentes tipos de colaboradores: por ejemplo, [_"solo principiantes"_](https://kentcdodds.com/blog/first-timers-only), "conveniente para quienes resuelven su primer bug", o "documentaci&oacute;n". [Estas etiquetas](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) hacen que sea m&aacute;s f&aacute;cil buscar problemas a resolver para alguien nuevo en el proyecto y as&iacute; poder comenzar.
 
 Finalmente, utiliza tu documentaci&oacute;n para hacer que las personas se sientan bienvenidas en cada etapa del camino.
 
