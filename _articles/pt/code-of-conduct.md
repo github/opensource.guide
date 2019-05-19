@@ -1,7 +1,7 @@
 ---
 lang: pt
 title: Seu código de conduta
-description: Facilite comportamentos saudáveis e construtivos de sua comunidade adotando e reforçando um código de conduta
+description: Facilite comportamentos saudáveis e construtivos em sua comunidade, adotando e reforçando um código de conduta
 class: coc
 order: 8
 image: /assets/images/cards/coc.png
@@ -16,7 +16,7 @@ Um código de conduta é um documento que estabelece o comportamento esperado do
 
 Códigos de conduta ajudam a proteger não somente seus participantes, mas você mesmo. Se você mantém um projeto, pode chegar a conclusão de que atitudes improdutivas de outros participantes podem fazer com que você se sinta drenado ou infeliz com o seu trabalho ao longo do tempo.
 
-Um código de conduta te empondera para facilitar comportamentos saudáveis e construtivos de sua comunidade. Ser proativo reduz a probabilidade de que você, ou outros, se tornem fatigados com o seu projeto, e o ajudam a tomar alguma ação quando alguém faz algo que você não concorde.
+Um código de conduta te empondera para facilitar comportamentos saudáveis e construtivos de sua comunidade. Ser proativo reduz a probabilidade de que você, ou outros, fiquem fatigados com o seu projeto, e os ajudam a tomar alguma ação quando alguém faz algo que você não concorde.
 
 ## Estabelecendo um código de conduta
 
@@ -38,7 +38,7 @@ Coloque um arquivo CODE_OF_CONDUCT no diretório raiz do seu projeto, e faça-o 
 ## Decidindo como você irá aplicar seu código de conduta
 
 <aside markdown="1" class="pquote">
-  Um código de conduta que não é (ou não pode) ser aplicado é pior do que não ter nenhum código de conduta: isso passa a mensagem de que os valores no código de conduta não são, na verdade, importantes ou respeitados na sua comunidade.
+  Um código de conduta que não é (ou não pode ser) aplicado é pior do que não ter nenhum código de conduta: isso passa a mensagem de que os valores no código de conduta não são, na verdade, importantes ou respeitados em sua comunidade.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   </p>
@@ -48,15 +48,15 @@ Você deve explicar como o seu código de conduta será aplicado **_antes_** que
 
 * Demonstra sua seriedade sobre tomar as devidas ações, quando necessário.
 
-* Sua comunidade irá se sentir mais reafirmada de seus relatos são de fatos revisados.
+* Sua comunidade irá se sentir mais reafirmada de que seus relatos são de fatos revisados.
 
 * Você irá reafirmar a sua comunidade de que o processo de revisão é justo e transparente, caso eles se encontrem investigados por uma violação.
 
-Você deve sempre dar as pessoas um modo privado (como um endereço de email) para relatar uma violação do código de conduta e explicar quem recebe tal queixa. Poderia ser um mantenedor, um grupo de mantenedores, ou um grupo de trabalho do código de conduta.
+Você deve sempre dar as pessoas um modo privado (como um endereço de e-mail) para relatarem uma violação do código de conduta e informar os reponsáveis por receber as queixas. Pode ser um mantenedor, um grupo de mantenedores, ou um grupo de trabalho do código de conduta.
 
 Não se esqueça de que alguém pode querer relatar uma violação sobre alguém que receba esses relatos. Neste caso, dê a eles uma opção para relatar violações a outra pessoa. Por exemplo, @ctb e @mr-c [explicam em seu projeto](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-> Casos de comportamento abusivo, de assédio, ou de outra forma inaceitáveis podem ser relatados enviando um email para **khmer-project@idyll.org**, chegando somente a C. Titus Brown e Michael R. Crusoe. Para relatar um problema envolvendo algum deles, por favor envie um email para **Judi Brown Clarke, Ph.D.**, o Diretor de Diversidade no Centro BEACON para o Estudo da Evolução em Ação, um Centro NSF para Ciência e Tecnologia.*
+> Casos de comportamento abusivo, de assédio, ou de outra forma inaceitável podem ser relatados enviando um e-mail para **khmer-project@idyll.org**, chegando somente a C. Titus Brown e Michael R. Crusoe. Para relatar um problema envolvendo algum deles, por favor envie um e-mail para **Judi Brown Clarke, Ph.D.**, o Diretor de Diversidade no Centro BEACON para o Estudo da Evolução em Ação, um Centro NSF para Ciência e Tecnologia.*
 
 Para inspiração, dê uma olhada no [manual de aplicação](https://www.djangoproject.com/conduct/enforcement-manual/) do Django (embora possa ser o caso de você não precisar de algo tão compreensivo, dependendo do tamanho do seu projeto).
 
@@ -70,7 +70,7 @@ Trate a voz de cada membro da comunidade como tão importante quanto a sua. Se v
 
 O membro da comunidade em questão pode ser um infrator reincidente que, consistentemente, faz os outros se sentirem desconfortáveis, ou ele pode ter dito ou feito algo somente uma vez. Ambos podem motivar a tomada de ação, dependendo do contexto.
 
-Antes de responder, tome algum tempo para entender o que aconteceu. Leia os comentários anteriores da pessoa e suas conversas para entender melhor quem elas são e porque elas podem ter agido dessa forma. Tente coletar perspectivas de outros sobre esta pessoa e seu comportamento.
+Antes de responder, tome algum tempo para entender o que aconteceu. Leia os comentários anteriores da pessoa e suas conversas, para entender melhor quem elas são e porque elas podem ter agido dessa forma. Tente coletar perspectivas de outros sobre esta pessoa e seu comportamento.
 
 <aside markdown="1" class="pquote">
   Não seja puxado para dentro de uma discussão. Não seja desviado para lidar com o comportamento de outra pessoa antes de ter terminado de lidar com o assunto em questão. Foque no que você precisa.
@@ -87,7 +87,7 @@ Quando alguém relata uma violação do código de conduta, é seu trabalho, e n
 
 Existem algumas ações que você pode tomar para responder a uma violação ao código de conduta:
 
-* **Dê à pessoa em questão uma advertência pública** e explique como o seu comportamento impactou negativamente os outros, preferencialmente no canal onde isso ocorreu. Onde possível, a comunicação pública transmite ao resto da comunidade que você toma o código de conduta seriamente. Seja gentil, mas firme em sua comunicação.
+* **Dê à pessoa em questão uma advertência pública** e explique como o seu comportamento impactou negativamente os outros, preferencialmente no canal onde isso ocorreu. Quando possível, a comunicação pública transmite ao resto da comunidade que você toma o código de conduta seriamente. Seja gentil, mas firme em sua comunicação.
 
 * **Entre em contato privado com a pessoa** em questão para explicar como o seu comportamento impactou os outros negativamente. Você pode querer utilizar um canal de comunicação privado se a situação envolver informação pessoal sensível. Se você se comunicar com alguem privadamente, é uma boa ideia enviar uma cópa do diálogo àqueles que primeiro relataram a situação, de modo que eles saibam que você tomou uma ação. Peça ao relator consentimento antes de enviá-lo tal cópia.
 
@@ -111,4 +111,4 @@ No fim, como um mantenedor, você estabelece e aplica os padrões de comportamen
 
 ## Encoraje o comportamento que você quer ver no mundo 🌎
 
-Quando um projeto párece hostil ou não acolhedor, mesmo que seja somente uma pessoa cujo comportamento não é tolerado por outras, você corre o risco de perder muitos outros contribuidores, alguns dos quais você pode nem mesmo vir a conhecer. Nem sempre é fácil adotar e aplicar um código de conduta, mas fomentar um ambiente acolhedor irá ajudar sua comunidade a crescer.
+Quando um projeto parece hostil ou não acolhedor, mesmo que seja somente uma pessoa cujo comportamento não é tolerado por outras, você corre o risco de perder muitos outros contribuidores, alguns dos quais você pode nem mesmo vir a conhecer. Nem sempre é fácil adotar e aplicar um código de conduta, mas fomentar um ambiente acolhedor irá ajudar sua comunidade a crescer.
