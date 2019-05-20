@@ -1,5 +1,5 @@
 ---
-locale: zh-TW
+lang: zh-tw
 title: 開源衡量準則
 description: 透過持續的追蹤專案，幫助你做出最佳決策，讓開源專案更成功。
 class: metrics
@@ -11,6 +11,9 @@ toc:
   maintainer-activity: "維護者活躍度"
 order: 9
 image: /assets/images/cards/metrics.png
+related:
+  - finding
+  - best-practices
 ---
 
 ## 爲何要度量所有?

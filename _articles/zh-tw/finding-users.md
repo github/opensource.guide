@@ -1,5 +1,5 @@
 ---
-locale: zh-TW
+lang: zh-tw
 title: 找尋專案的使用者
 description: 透過使用者的心得來幫助你的開源專案成長。
 class: finding
@@ -12,6 +12,9 @@ toc:
   build-a-reputation: "贏得口碑"
 order: 3
 image: /assets/images/cards/finding.png
+related:
+  - beginners
+  - building
 ---
 
 ## 四處傳播

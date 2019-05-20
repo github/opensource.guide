@@ -1,5 +1,5 @@
 ---
-locale: zh-TW
+lang: zh-tw
 title: 發起一個開源專案
 description: 從開源的世界汲取智慧，著手發起開源專案。
 class: beginners
@@ -11,6 +11,9 @@ toc:
   your-pre-launch-checklist: "發起專案之前的檢查項"
 order: 2
 image: /assets/images/cards/beginner.png
+related:
+  - finding
+  - building
 ---
 
 ## 什麼是開源，爲什麼要開源

@@ -1,5 +1,5 @@
 ---
-locale: zh-TW
+lang: zh-tw
 title: 如何為開源做貢獻？
 description: 想為開源貢獻心力？一個菜鳥老手都值得一看的指南。
 class: contribute
@@ -12,6 +12,9 @@ toc:
   提交後需要善後的事宜: "提交後需要善後的事宜"
 order: 1
 image: /assets/images/cards/contribute.png
+related:
+  - beginners
+  - building
 ---
 
 ## **為何要為開源貢獻心力？**

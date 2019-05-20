@@ -1,5 +1,5 @@
 ---
-locale: zh-TW
+lang: zh-tw
 title: 開源的法律保障
 description: 對於開源你應該瞭解的法律知識。
 class: legal
@@ -13,6 +13,9 @@ toc:
   what-does-my-companys-legal-team-need-to-know: "我的公司的法律團隊需要知道什麼?"
 order: 10
 image: /assets/images/cards/legal.png
+related:
+  - contribute
+  - leadership
 ---
 
 

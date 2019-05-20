@@ -1,5 +1,5 @@
 ---
-locale: zh-TW
+lang: zh-tw
 title: 領導與治理
 description: 有了正式規則的決策，可讓開源專案順利的成長。
 class: leadership
@@ -13,6 +13,9 @@ toc:
   do-i-need-a-legal-entity-to-support-my-project: "我是否需要一個法律實體來支持我的專案?"
 order: 6
 image: /assets/images/cards/leadership.png
+related:
+  - best-practices
+  - metrics
 ---
 
 ## 針對增長的專案來理解治理

@@ -1,5 +1,5 @@
 ---
-locale: zh-TW
+lang: zh-tw
 title: 透過為開源專案工作而獲得報酬
 description: 透過經濟上的補助，支持你在開源專案裡的工作。
 class: getting-paid
@@ -10,6 +10,9 @@ toc:
   建立經濟上的支持: "建立經濟上的支持"
 order: 7
 image: /assets/images/cards/getting-paid.png
+related:
+  - best-practices
+  - leadership
 ---
 
 ## **為何有人尋求經濟上的支持**
