@@ -3,11 +3,6 @@ lang: zh-tw
 title: 透過為開源專案工作而獲得報酬
 description: 透過經濟上的補助，支持你在開源專案裡的工作。
 class: getting-paid
-toc:
-  為何有人尋求經濟上的支持: "為何有人尋求經濟上的支持"
-  贊助你的時間: "贊助你的時間"
-  為你的專案尋找資助: "為你的專案尋找資助"
-  建立經濟上的支持: "建立經濟上的支持"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -49,11 +44,11 @@ related:
   <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
   詢問任何一位開源專案的維護者，他們都會告訴你管理一個專案需要投入大量時間。你有使用者、替他們修正錯誤、撰寫新的功能。這些都需要花你的時間去完成。
   <p markdown="1" class="pquote-credit">
-— @ashedryden, ["無償勞動的道德哲學與開源軟件社群"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
+— @ashedryden, ["無償勞動的道德哲學與開源軟體社群"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-有償工作也能使各行各業的人創造有意義的貢獻。有些人需要贊助才願意參與開源專案，可能是因為他當前的財務收入不足、身上有債務、或者需要照顧家庭、撫養他人。有能力但在經濟上沒辦法無償貢獻自己時間的人，依然能當個貢獻者。這涉及道德倫理，正如 @ashedryden 在 [無償勞動的倫理和開源軟件社群](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) 一文中所描述的，人們經常誤以為，專案成果都是由那些在事業上已經有成就的人們完成的，這些人得以透過無償貢獻獲得更多的成果，而其他無法負擔無償貢獻的人就會錯失了這樣的機會，不斷負向循環下去，會使得開源社群越來越缺乏多樣性。
+有償工作也能使各行各業的人創造有意義的貢獻。有些人需要贊助才願意參與開源專案，可能是因為他當前的財務收入不足、身上有債務、或者需要照顧家庭、撫養他人。有能力但在經濟上沒辦法無償貢獻自己時間的人，依然能當個貢獻者。這涉及道德倫理，正如 @ashedryden 在 [無償勞動的倫理和開源軟體社群](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) 一文中所描述的，人們經常誤以為，專案成果都是由那些在事業上已經有成就的人們完成的，這些人得以透過無償貢獻獲得更多的成果，而其他無法負擔無償貢獻的人就會錯失了這樣的機會，不斷負向循環下去，會使得開源社群越來越缺乏多樣性。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -79,13 +74,13 @@ related:
   </p>
 </aside>
 
-如果你現在還沒有爲開源專案做工作，但是你希望你現在所做得成績開源出來，那麼你可以和你的老闆講，奉勸他將內部的軟件開源。
+如果你現在還沒有爲開源專案做工作，但是你希望你現在所做得成績開源出來，那麼你可以和你的老闆講，奉勸他將內部的軟體開源。
 
 很多公司都在開發開源專案，從而能夠打造自己的品牌，以及希望僱傭到高質量的人才。
 
-@hueniverse ，舉例來說，有充足的證據證明 [沃爾瑪對開源的投資](https://hueniverse.com/2014/08/15/open-source-aint-charity/)是合理的。 @jamesgpearce 同樣，臉譜網的開源專案讓它的招聘顯得[與衆不同](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) :
+@hueniverse ，舉例來說，有充足的證據證明 [沃爾瑪對開源的投資](https://hueniverse.com/2014/08/15/open-source-aint-charity/)是合理的。 @jamesgpearce 同樣，Facebook的開源專案讓它的招聘顯得[與衆不同](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) :
 
-> 開源能夠與我們Hacker文化密切配合，也能夠和我們的組織融洽。我們詢問員工：”在Facebook真的那麼的在意開源軟件？“ 超過2/3的人的回答是”yes“。一半的人表示，該計劃對他們爲我們工作的決定作出了積極的貢獻。這可不是一個戲謔的數字，我們希望繼續保持這樣。
+> 開源能夠與我們Hacker文化密切配合，也能夠和我們的組織融洽。我們詢問員工：”在Facebook真的那麼的在意開源軟體？“ 超過2/3的人的回答是”yes“。一半的人表示，該計劃對他們爲我們工作的決定作出了積極的貢獻。這可不是一個戲謔的數字，我們希望繼續保持這樣。
 
 如果你所在的公司不贊同這麼做，沒關係，重要的是保持社群和企業活動之間的界限清晰。你要告訴老闆，開源的維持是由全球各地的人所貢獻，要比任何一個公司或某一地域都大的多。老闆會自己作出權衡的。
 
@@ -124,8 +119,8 @@ related:
 儘管開源日漸的流行，但是爲專案尋找資金仍然是處於試驗中。目前所收集到的包括：
 
 * **通過大力宣傳活動或募捐，爲您的工作籌集資金** 這策略在你擁有足夠的粉絲，或者是已經社群聲譽良好的情況下，又或者是專案非常的受歡迎，等情況下有效。
-* **接受基金巨頭的資助** 一些軟件基金會和公司爲開源的相關工作提供很好的機會，如[Python 軟件基金會](https://www.python.org/psf/grants/), [Mozilla 基金會](https://www.mozilla.org/en-US/grants/)、以及[Stripe](https://stripe.com/blog/open-source-retreat-2016).
-* **獲得公司或獨立投資商的贊助** 通過軟件基金會，或者是乾脆 **創業** 來支撐專案。
+* **接受基金巨頭的資助** 一些軟體基金會和公司爲開源的相關工作提供很好的機會，如[Python 軟體基金會](https://www.python.org/psf/grants/), [Mozilla 基金會](https://www.mozilla.org/en-US/grants/)、以及[Stripe](https://stripe.com/blog/open-source-retreat-2016).
+* **獲得公司或獨立投資商的贊助** 通過軟體基金會，或者是乾脆 **創業** 來支撐專案。
 
 更多的案例和細節， @nayafia [專門寫過一個指南](https://github.com/nayafia/lemonade-stand) ，專門針對的就是如何爲開源工作獲得報酬。不同類型的資助需要不同的技能，所以仔細的掂量下資格，然後找個最適合自己的方式。
 
@@ -147,7 +142,7 @@ related:
 
 資助者，無論他是僱傭你的老闆，還是一家獲得授權的基金會，你都有機會和他們頻繁的進行接觸。 他們爲什麼會放棄其它機會而去支持你的專案？他們個人有何好處？
 
-### 利用風投
+### 利用風險投資
 
 您將如何用擬議的資金完成什麼？專注於專案里程碑或成果，而不是支付工資。
 
@@ -165,5 +160,4 @@ related:
 
 ## 嘗試，不要放棄
 
-賺更多的錢不是件容易的事情，無論你是在開源專案，亦或是在非盈利組織，又或者是軟件的創業公司，但是無論在哪裏，掙更多錢的祕密就是更多的創造力。當確定了你想如何獲得報酬的時候，請繼續你的研究，將自己放在投資人的角度來看問題，可以幫助你更好的構建一個更加令人信服的賺錢之道。
-
+賺更多的錢不是件容易的事情，無論你是在開源專案，亦或是在非盈利組織，又或者是軟體的創業公司，但是無論在哪裏，掙得更多錢的祕密就是更多的創造力。當確定了你想如何獲得報酬的時候，請繼續你的研究，將自己放在投資人的角度來看問題，可以幫助你更好的構建一個更加令人信服的賺錢之道。

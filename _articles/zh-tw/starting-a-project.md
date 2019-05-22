@@ -3,12 +3,6 @@ lang: zh-tw
 title: 發起一個開源專案
 description: 從開源的世界汲取智慧，著手發起開源專案。
 class: beginners
-toc:
-  the-what-and-why-of-open-source: "什麼是開源，爲什麼要開源"
-  should-i-launch-my-own-open-source-project: "我有必要去發起開源專案?"
-  launching-your-own-open-source-project: "發起自己的開源專案"
-  naming-and-branding-your-project: "爲專案命名及設立品牌"
-  your-pre-launch-checklist: "發起專案之前的檢查項"
 order: 2
 image: /assets/images/cards/beginner.png
 related:

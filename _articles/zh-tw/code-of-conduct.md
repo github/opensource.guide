@@ -3,11 +3,6 @@ lang: zh-tw
 title: 建立一套行為準則
 description: 為了促進社羣朝健康且有建設性的方向發展，必須設立一個共同遵守的行為守則。
 class: coc
-toc:
-  why-do-i-need-a-code-of-conduct: "我爲什麼需要行爲守則?"
-  establishing-a-code-of-conduct: "建立行爲守則"
-  deciding-how-youll-enforce-your-code-of-conduct: "決定你們如何執行行爲守則"
-  enforcing-your-code-of-conduct: "執行你們的行爲守則"
 order: 8
 image: /assets/images/cards/coc.png
 related:

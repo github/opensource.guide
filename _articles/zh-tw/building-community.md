@@ -3,10 +3,6 @@ lang: zh-tw
 title: 打造友善、溫暖的社群
 description: 打造個人們願意使用、貢獻並願意主動宣傳的人氣社群。
 class: building
-toc:
-  setting-your-project-up-for-success: "讓專案朝成功邁進"
-  growing-your-community: "讓社群成長茁壯"
-  resolving-conflicts: "化解衝突"
 order: 4
 image: /assets/images/cards/building.png
 related:

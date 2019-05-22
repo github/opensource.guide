@@ -3,13 +3,6 @@ lang: zh-tw
 title: 維護者最佳實踐
 description: 身為開源的維護者，如何輕鬆駕馭專案？本指南從文件流程到有效利用社群來展開。
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: "身爲一名維護者意味著什麼？"
-  documenting-your-processes: "將流程文件化"
-  learning-to-say-no: "學會拒絕他人"
-  leverage-your-community: "有效利用社群"
-  bring-in-the-robots: "使用機器人"
-  its-okay-to-hit-pause: "首先照顧好自己"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -21,15 +14,15 @@ related:
 
 如果你維護著一個非常流行的專案，你可能就會意識到自己寫程式的時間變少，而花費在回答issue的時間越來越多。
 
-在專案的起步階段，你會不斷嘗試著實現自己的新想法，也能夠基於自己想要的作出決定。隨著專案逐漸的開始流行，就會發現你的大部分時間都花在了與用戶、貢獻者打交道上。
+在專案的起步階段，你會不斷嘗試著實現自己的新想法，也能夠基於自己想要的作出決定。隨著專案越來越受歡迎，就會發現你大部分的時間都花在了與用戶、貢獻者打交道上。
 
 維護一個專案需要的不僅僅是寫程式的能力。有些時候會有一個你意想不到的的事情要應付，但是這對一個專案的成長也很重要（相對於寫程式來說），我們收集了一些小技巧來讓你的維護工作變得稍輕鬆些，這些技巧，涉及範圍頗廣，從寫文件到管理社群都有所涉獵。
 
-## 將流程撰文件化
+## 將流程文件化
 
 對於一個專案的維護者來說寫文件是最重要的事情之一。
 
-文件不僅說清楚了你的想法是什麼，而且還幫助別人在問問題之前理解你需要什麼和接下在希望做什麼。
+文件不僅說清楚了你的想法是什麼，還能幫助別人在問問題之前理解你需要什麼和接下在希望做什麼。
 
 將一些東西寫下來，當遇到不符合專案預期的內容時，可以輕鬆的拒絕。同時，它對於人們的參與和提供幫助提供了指導。最有意思的是，撰寫文件的人可能永遠也不知道是誰讀了他寫的文件，或者使用專案。
 
@@ -39,9 +32,9 @@ related:
 
 請在專案啓動時就寫下專案目標，並將之加到 README 文件中，或者創建一個單獨的 **VISION** 文件，其它還能幫助人們瞭解這方面的訊息如專案管理路線圖，最好是也把他們公開。
 
-有一個明確的，用文件表達清晰的願景，能保證專案的走向不會跑偏，同時也能保障因爲其他的貢獻者增加的奇怪的需求而使專案變質。
+有一個明確的，用文件表達清晰的願景，能保證專案的走向不會跑偏，同時也能保障不會因爲其他的貢獻者增加的奇怪的需求而使專案變質。
 
-比如，@lord 發現專案有一個明確的願景能夠幫助他決定哪個 PR 值得花時間。作爲一個維護者的新手，他甚至還後悔當他接到第一個關於[slate](https://github.com/lord/slate))PR的時候沒有堅持專案本身的原則。
+比如，@lord 發現專案有一個明確的願景能夠幫助他決定哪個 PR 值得花時間。作爲一個維護者的新手，他甚至還後悔當他接到第一個關於[slate](https://github.com/lord/slate)PR的時候沒有堅持專案本身的原則。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
@@ -70,11 +63,11 @@ related:
 * 在合適的時候跟進專案（比如說 _如果你在七天之內沒有收到maintainer的回覆，而且依舊沒有其它任何人的回應，那麼就直接找他/她。_）
 * 你會在這個專案上話多少時間（比如說 "_我們每星期只會在這個專案上花5個小時_"）
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs)、[CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules)、以及 [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) 均是爲維護者和貢獻者提供了很好的基本規則的專案.乃業內典範。
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs)、[CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules)、以及 [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) 均是爲維護者和貢獻者提供了很好的基本規則的專案，乃業內典範。
 
 ### 保證交流是公開進行的
 
-不管是什麼時候，保證你的交流是在公共的場所（就是大家都能看到的地方）。如果有人嘗試和你私聊，哪怕是討論一個新的需求或者功能，請禮貌的引導他/她到公共的交流場所，比如郵件列表或者iuuse tracker。
+不管是什麼時候，保證你的交流是在公共的場所（就是大家都能看到的地方）。如果有人嘗試和你私聊，哪怕是討論一個新的需求或者功能，請禮貌的引導他/她到公共的交流場所，比如郵件列表或者issue tracker。
 
 如果你和別的維護者面談了，或者在私下做了一個很重要的決定，把這些訊息告訴大家，即使只是把你的筆記發上去。
 
@@ -108,7 +101,7 @@ related:
 
 別因爲自己感到內疚或者想做一個好人就把你不想接受的貢獻繼續保留。隨著時間的流逝，這些你沒有回答的issue和PR會讓你覺得很不爽。
 
-更好的方式是馬上關掉你不想接受的貢獻。如果你的專案已經保守積壓的issue的折磨，@steveklabnik 可以給你點兒建議，[如何高效率的解決issue](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)。
+更好的方式是馬上關掉你不想接受的貢獻。如果你的專案已經飽受積壓的issue的折磨，@steveklabnik 可以給你點建議，[如何高效率的解決issue](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)。
 
 第二點，忽略別人的貢獻等於是在社群傳遞了一個負面的信號。讓人感覺提交一個貢獻是蠻恐懼的事情，尤其是對於剛加入的新手來說。即使你不接受他們的貢獻，告訴他們爲什麼然後致謝。這會讓人覺得更舒服。
 
@@ -202,7 +195,7 @@ fork一個專案不什麼壞事情。能複製並且修改別人的程式是開�
   </p>
 </aside>
 
-這對於那些強烈的需要某個你沒時間實現的解決方案的用戶來說也是一樣的。提供API或者自定義的鉤子幫助他們更好的實現自己的需求而不需要改動源碼。[@orta](https://github.com/orta)[发现](https://artsy.github.io/blog/2016/07/03/handling-big-projects/)鼓勵在CocoaPods上使用插件導致了很多有趣的想法的誕生。
+這對於那些強烈的需要某個你沒時間實現的解決方案的用戶來說也是一樣的。提供API或者自定義的鉤子幫助他們更好的實現自己的需求而不需要改動源碼。[@orta](https://github.com/orta)[發現](https://artsy.github.io/blog/2016/07/03/handling-big-projects/)鼓勵在CocoaPods上使用插件導致了很多有趣的想法的誕生。
 
 > 一旦一個專案變大之後，維護者對怎麼增加新程式變得保守是不可避免的事情。你可能很會拒絕別人的需求，但是很多人提的都是合法的需求。所以，你不得不把你的一個工具變成平臺。
 
