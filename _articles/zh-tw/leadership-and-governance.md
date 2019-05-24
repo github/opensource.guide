@@ -40,7 +40,7 @@ related:
 
 **術語 "修訂者"** 可能用於區分其他形式的貢獻的提交訪問，這是一種特定類型的責任。
 
-其實你可以根據自己喜歡的方式來定義專案的角色，[考慮使用更廣泛的定義](../how-to-contribute/#what-it-means-to-contribute) 來鼓勵更多的形式的貢獻。無論技術技能如何，您都可以使用領導角色來正式識別爲您的專案做出突出貢獻的人員。
+其實你可以根據自己喜歡的方式來定義專案的角色，[考慮使用更廣泛的定義](../how-to-contribute/#具體而言什麼是貢獻) 來鼓勵更多的形式的貢獻。無論技術技能如何，您都可以使用領導角色來正式識別爲您的專案做出突出貢獻的人員。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/21148?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -75,7 +75,7 @@ related:
 諸如[Vossibility](https://github.com/icecrime/vossibility-stack) 這樣的工具，可以幫助你追蹤誰是（或不是）專案的貢獻者。爲這些資訊作說明，以避免社群出現維護者作出私自的決定。
 
 另外，如果你的專案在託管在GitHub上，考慮將你的專案從個人賬戶遷移到某個組織，而且要爲組織增加額外的一個備份的管理員。
-[GitHub 上的組織](https://help.github.com/articles/creating-a-new-organization-account/) 能夠讓權限管理和多倉庫管理更加的輕鬆，而且可通過 [共享所有權](../building-community/#share-ownership-of-your-project)來保護你的專案。
+[GitHub 上的組織](https://help.github.com/articles/creating-a-new-organization-account/) 能夠讓權限管理和多倉庫管理更加的輕鬆，而且可通過 [共享所有權](../building-community/#分享專案的所有權)來保護你的專案。
 
 ## 何時該賦予提交者權限？
 

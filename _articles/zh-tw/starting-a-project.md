@@ -35,7 +35,7 @@ related:
   <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
 我從開源使用和協作中獲得的最有價值的經驗之一，就是在我面臨許多與其他開發人員相同問題的過程中所建立的聯繫。
   <p markdown="1" class="pquote-credit">
-    — @kentcdodds, ["參與開源對我來說太棒了"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
+    — @kentcdodds, ["參與開源對我來說太棒了"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
@@ -77,9 +77,9 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
-在某些時候，我創建了一個自己正在使用的自定義 UIAlertView，我決定將它開源。所以我修改它使其更有活力，並把它上傳到了 GitHub。我還寫了我的第一個文檔，解釋給其他開發人員如何在他們的專案中使用它。很可能沒有人會去使用它，因爲它是一個簡單的專案，但我的貢獻讓我感覺很好。 
+在某些時候，我創建了一個自己正在使用的自定義 UIAlertView，我決定將它開源。所以我修改它使其更有活力，並把它上傳到了 GitHub。我還寫了我的第一個文檔，解釋給其他開發人員如何在他們的專案中使用它。很可能沒有人會去使用它，因爲它是一個簡單的專案，但我的貢獻讓我感覺很好。
   <p markdown="1" class="pquote-credit">
-— @mavris, ["自學的軟件開發者：爲什麼開源對我們那麼重要"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+— @mavris, ["自學的軟件開發者：爲什麼開源對我們那麼重要"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
 </aside>
 
@@ -95,7 +95,7 @@ related:
   <img src="https://avatars2.githubusercontent.com/u/1857993?v=3&s=460" class="pquote-avatar" alt="avatar">
 當你開始開源一個專案時，確保您的管理流程考慮到您專案周圍社群的貢獻和能力很重要。不要害怕讓那些沒有在你的企業中受僱的貢獻者參與專案的關鍵部分 - 尤其如果他們是頻繁的貢獻者的話。
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["所以你想開源一個專案，是嗎？"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["所以你想開源一個專案，是嗎？"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
@@ -136,7 +136,7 @@ related:
 
 如果您在管理開放源碼專案的法律方面有其他問題或疑慮，我們已經[在這裏](../legal/)介紹了。
 
-### 編寫自述文件 (README)
+### 編寫自述文件
 
 自述文件不僅僅是用於說明如何使用你的專案。他們還可以解釋你的專案爲什麼重要，以及它可以爲你的用戶做什麼。
 
@@ -153,7 +153,7 @@ related:
   <img src="https://avatars0.githubusercontent.com/u/168572?v=3&s=460" class="pquote-avatar" alt="avatar">
 更好的文檔意味着更多的用戶，更少的求助和更多的貢獻者，等等。要記住你的讀者不是你自己。來到專案中的每個人可能有着截然不同的經歷。
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["這樣寫給他人看（視頻）"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["這樣寫給他人看（視頻）"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
