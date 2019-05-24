@@ -26,12 +26,12 @@ related:
 
 ![cartography readme](/assets/images/finding-users/cartography.jpg)
 
-如果你想深入瞭解如何挖掘專案的“賣點”，看一下Mozilla的["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/)，練習如何建立用戶的形象。
+如果你想深入瞭解如何挖掘專案的"賣點"，看一下Mozilla的["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/)，練習如何建立用戶的形象。
 
 ## 幫助人們找到並關注你的專案
 
 <aside markdown="1" class="pquote">
-  你最好有一個唯一的“主頁”鏈接用來推廣，引導人們關注你的專案。你不需要找一個炫酷的模板或者域名，但是你的專案確實需要一個入口。
+  你最好有一個唯一的"主頁"鏈接用來推廣，引導人們關注你的專案。你不需要找一個炫酷的模板或者域名，但是你的專案確實需要一個入口。
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
@@ -53,20 +53,19 @@ related:
 
 **考慮給你的專案做一個網站**一個網站可以讓你的專案更加友好，而且更加容易瀏覽，更重要的是附上清晰的文檔和教程。這也是象徵著你的專案還是活躍的，這會讓你的用戶使用你專案的時候感覺更放心。可以用一些例子告訴人們如何使用的專案。
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), Django的協作者說，我們給Django做的網站可以說是“在早期開發Django的時候做的最好的一件事情了”。
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), Django的協作者說，我們給Django做的網站可以說是"在早期開發Django的時候做的最好的一件事情了"。
 
-如果你的專案是託管在GitHub上的，你可以用[GitHub Pages](https://pages.github.com/)簡單的創建一個網站。[Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) 是一些優秀的內容詳盡的網站的[例子](https://github.com/showcases/github-pages-examples) 
+如果你的專案是託管在GitHub上的，你可以用[GitHub Pages](https://pages.github.com/)簡單的創建一個網站。[Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) 是一些優秀的內容詳盡的網站的[例子](https://github.com/showcases/github-pages-examples)
 
 ![vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
-現在你的專案有了“賣點”，和讓人們很容易發現你專案的渠道，接下來我們談談如何和你的用戶交流吧！
+現在你的專案有了"賣點"，和讓人們很容易發現你專案的渠道，接下來我們談談如何和你的用戶交流吧！
 
 ## 到你專案的受眾在的地方去（線上）
 
 網上拓展是分享和快速宣傳專案的一個好方法。藉助一些網上的渠道，你有可能找到一大批受眾。
 
 利用既有的線上社群和平臺去找你的受眾。如果你的開源專案是一個軟件專案，你可能會在[Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), 或者[Quora](https://www.quora.com/)。找到你覺得人們會最有可能從你的專案中受益或者對你專案感興趣的渠道。
-
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -78,17 +77,15 @@ related:
 
 來看看下面的一些方法吧，也許推廣你的專案的時候用得著。
 
-+ **快找找有沒有相關的開源專案和社群。**有時候，你不需要直接的推廣你的專案。如果你的專案對使用Python的數據科學家來說是無可挑剔的，那麼就去找Python數據科學的社群。等他們知道你的專案之後，很自然的就會談論然後分享你的工作成果。
-+ **如果你專案嘗試解決某些問題，那麼找到會遇到這些問題的人。**想象你的專案受眾會在哪些論壇，然後搜索這些論壇，回答他們的問題，然後找一個合適的實際，向他們建議使用你的專案來作爲一種解決方案。
-+ **尋求反饋。**給一個可能會用到你專案的人介紹你自己和你做的工作。對哪些人會從你的專案受益要很明確。嘗試完善一下下面這句話：“我覺得我的專案能夠幫助A，那些嘗試做B的人”。聽取和回覆別人的反饋，而不是簡單的推廣。
+* **快找找有沒有相關的開源專案和社群。**有時候，你不需要直接的推廣你的專案。如果你的專案對使用Python的數據科學家來說是無可挑剔的，那麼就去找Python數據科學的社群。等他們知道你的專案之後，很自然的就會談論然後分享你的工作成果。
+* **如果你專案嘗試解決某些問題，那麼找到會遇到這些問題的人。**想象你的專案受眾會在哪些論壇，然後搜索這些論壇，回答他們的問題，然後找一個合適的實際，向他們建議使用你的專案來作爲一種解決方案。
+* **尋求反饋。**給一個可能會用到你專案的人介紹你自己和你做的工作。對哪些人會從你的專案受益要很明確。嘗試完善一下下面這句話："我覺得我的專案能夠幫助A，那些嘗試做B的人"。聽取和回覆別人的反饋，而不是簡單的推廣。
 
 一般來說，在你索取什麼回報之前先把精力放在幫助別人上。因爲在網上推廣一個專案對任何人都是一個不難的事情，所以有很多人和坐著一樣的事。告訴人們你是誰，而不是你想要什麼，這樣才能從眾多推廣者中脫穎而出。
 
 如果沒有人對你的推廣感興趣，不要灰心！大部分的專案的開展都是一個要花費數月和數年的反覆過程。如果你第一次沒收到反應，嘗試換一種策略，或者找辦法給別人的專案做做貢獻。這都是些需要時間和奉獻精神的事情。
 
-
 ## 到你專案受眾在的地方去（線下）
-
 
 ![public speaking](/assets/images/finding-users/public_speaking.jpg)
 
@@ -157,5 +154,3 @@ related:
 ## 保持精進
 
 有時候，讓人麼注意你的開源專案會花費很多時間。但是沒關係！現在很多流行的專案也都是花了很多年才有今天的活躍度。把重點放在建立聲望上而不是企圖一夜成名。耐心一點，一如既往的和那些可能會從中受益的人們分享你的專案。
-
-

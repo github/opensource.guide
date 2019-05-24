@@ -82,11 +82,12 @@ related:
 * 為專案舉辦一個大型會議﹝如果它有需求的話﹞
 * 幫助社群成員找到合適的會議，或是協助成員找到窗口提交演講的提案。
 
-### **你是否喜愛設計？**
+### 你是否喜愛設計？
+
 * 重新佈置佈局以提高專案的可用性
 * 做一份使用者調查去整頓與完善專案導覽或菜單，像 [Drupal 所提出的建議](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * 整理一個風格指南，以幫助專案有一致的視覺設計方針。
-* 透過藝術創作設計T恤或畫一個新標誌，就像 [hapi.js 的貢獻者所做的](https://github.com/hapijs/contrib/issues/68) 
+* 透過藝術創作設計T恤或畫一個新標誌，就像 [hapi.js 的貢獻者所做的](https://github.com/hapijs/contrib/issues/68)
 
 ### **你是否熱愛寫作？**
 
@@ -105,6 +106,7 @@ related:
 </aside>
 
 ### **你喜歡組織活動嗎？**
+
 * 指認出過去討論過或重複的議題、推薦一個新的議題類別，讓事物井井有序
 * 瀏覽在開放狀態（open）的議題，並建議將已經處於開放狀態很久的議題設為已結束（closed）[就像 @nzakas 在專案 eslint 做的](https://github.com/eslint/eslint/issues/6765)
 * 鼓勵最近才剛提問的人將疑問闡釋清楚，加速討論的進展
@@ -118,7 +120,7 @@ related:
 
 ### **你喜歡幫助他人？**
 
-* 回答有關於專案的問題，例如在 Stack Overflow（[ Postgres 的展示範例](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-to-ge)）或者 reddit 上
+* 回答有關於專案的問題，例如在 Stack Overflow( [Postgres 的展示範例](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-to-ge) )或者 reddit 上
 * 回答處於開放狀態的議題
 * 鼓勵、協助創造友善的討論區禮儀
 
@@ -333,7 +335,6 @@ related:
 
 一個專案的友好程度意味着更能接納新的貢獻者。
 
-
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
@@ -480,7 +481,7 @@ related:
 * **測試你的工作！**用原本寫好的測試來跑你寫好的新功能，若沒有的話，則需要寫一個測試。無論是否有測試，一定要確保你的改動不會弄壞現有的專案的功能。
 * **和專案現有的風格保持一致**，盡你最大的努力，在使用縮排、分號或註釋很可能和你自己的風格大相徑庭，但這是為了節省維護者的精力，為了以後要了解、維護時的方便。
 
-如果這是你第一次提交 PR。可以瀏覽[提交 PR ](http://makeapullrequest.com/)的文件，這是 @kentcdodds 專門爲初次創建 PR 的人寫的手把手教學。
+如果這是你第一次提交 PR。可以瀏覽[提交 PR](http://makeapullrequest.com/)的文件，這是 @kentcdodds 專門爲初次創建 PR 的人寫的手把手教學。
 
 ## **提交後需要善後的事宜**
 

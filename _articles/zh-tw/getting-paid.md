@@ -80,7 +80,7 @@ related:
 
 @hueniverse ，舉例來說，有充足的證據證明 [沃爾瑪對開源的投資](https://hueniverse.com/2014/08/15/open-source-aint-charity/)是合理的。 @jamesgpearce 同樣，Facebook的開源專案讓它的招聘顯得[與衆不同](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) :
 
-> 開源能夠與我們Hacker文化密切配合，也能夠和我們的組織融洽。我們詢問員工：”在Facebook真的那麼的在意開源軟體？“ 超過2/3的人的回答是”yes“。一半的人表示，該計劃對他們爲我們工作的決定作出了積極的貢獻。這可不是一個戲謔的數字，我們希望繼續保持這樣。
+> 開源能夠與我們Hacker文化密切配合，也能夠和我們的組織融洽。我們詢問員工："在Facebook真的那麼的在意開源軟體？" 超過2/3的人的回答是"yes"。一半的人表示，該計劃對他們爲我們工作的決定作出了積極的貢獻。這可不是一個戲謔的數字，我們希望繼續保持這樣。
 
 如果你所在的公司不贊同這麼做，沒關係，重要的是保持社群和企業活動之間的界限清晰。你要告訴老闆，開源的維持是由全球各地的人所貢獻，要比任何一個公司或某一地域都大的多。老闆會自己作出權衡的。
 
@@ -104,7 +104,7 @@ related:
 * @gaearon 通過 [Patreon crowdfunding campaign](http://redux.js.org/)爲他的專案 [Redux](https://github.com/reactjs/redux)成功的融到了資金。
 * @andrewgodwin [通過 Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) 爲Django schema 遷移拿到了資金
 
-## **為你的專案尋找資助**
+## 為你的專案尋找資助
 
 除了針對個人貢獻者的建議之外，還有一些專案可以從公司、獨立投資方、以及其它的資金處來獲得進一步的工作。
 
@@ -124,7 +124,7 @@ related:
 
 更多的案例和細節， @nayafia [專門寫過一個指南](https://github.com/nayafia/lemonade-stand) ，專門針對的就是如何爲開源工作獲得報酬。不同類型的資助需要不同的技能，所以仔細的掂量下資格，然後找個最適合自己的方式。
 
-## **建立經濟上的支持**
+## 建立經濟上的支持
 
 無論你的專案是新的創意，還是已經運行多年，你都需要爲你的資助者滿意，並提出有效而合理的案例。
 

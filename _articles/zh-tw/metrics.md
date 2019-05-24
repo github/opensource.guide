@@ -37,7 +37,7 @@ related:
 
 ![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-如果你的專案是託管在Github, 你可以[訪問](https://help.github.com/articles/about-repository-graphs/#traffic) 獲取諸如多少人訪問過你的專案，他們從哪裏得知的之類的資訊。在你的專案主頁，點擊”Graphs”, 然後”Traffic”。在這個頁面，你可以看到:
+如果你的專案是託管在Github, 你可以[訪問](https://help.github.com/articles/about-repository-graphs/#traffic) 獲取諸如多少人訪問過你的專案，他們從哪裏得知的之類的資訊。在你的專案主頁，點擊"Graphs", 然後"Traffic"。在這個頁面，你可以看到:
 
 * **總瀏覽量:** 專案被查看了多少次
 
@@ -45,7 +45,7 @@ related:
 
 * **關聯網站:** 訪問者從哪裏來的。這個數據能幫助你搞清楚哪裏可以接觸到你的受衆和你爲推廣做出的努力是不是有效的。
 
-*   **受歡迎的內容:** 訪問者都查看了你專案的那些內容，按照頁面訪問量和獨立訪客數。
+* **受歡迎的內容:** 訪問者都查看了你專案的那些內容，按照頁面訪問量和獨立訪客數。
 
 [GitHub stars](https://help.github.com/articles/about-stars/) 可以提供一個基本的衡量流行度的標準。然而GitHub 點贊數並不和下載量、使用量直接掛鉤，但是他可以告訴你有多少人在關注你的專案。
 
@@ -59,7 +59,7 @@ related:
 
 每個包管理工具可能會對下載量有着大同小異的定義，而且下載量並不直接和安裝、使用有關，但是它提供了一個基本的比較標準。嘗試使用[Libraries.io](https://libraries.io/) 來跟蹤很多流行包管理工具的使用數據。
 
-如果你的專案是託管在Github上，再一次切換到”Traffic” 頁面，你可以用[clone graph](https://github.com/blog/1873-clone-graphs)看看你的專案在一個給定的日期被克隆了多少次，按照獨立克隆者的總克隆數排序。
+如果你的專案是託管在Github上，再一次切換到"Traffic" 頁面，你可以用[clone graph](https://github.com/blog/1873-clone-graphs)看看你的專案在一個給定的日期被克隆了多少次，按照獨立克隆者的總克隆數排序。
 
 ![clone graph](/assets/images/metrics/clone_graph.png)
 
@@ -84,13 +84,13 @@ related:
 
 可能會經常用的衡量社群的指標包括：
 
-*   **貢獻者的總數和每個貢獻者的提交次數：** 有多少貢獻者，哪些是活躍的，哪些是不活躍。github上，你可以在”Graphs” -> “Contributors”面板查看這些資訊。目前，這個圖標只計算了那些往倉庫默認分支推送的貢獻者。
+* **貢獻者的總數和每個貢獻者的提交次數：** 有多少貢獻者，哪些是活躍的，哪些是不活躍。github上，你可以在"Graphs" -> "Contributors"面板查看這些資訊。目前，這個圖標只計算了那些往倉庫默認分支推送的貢獻者。
 
 ![contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
-*   **第一次，偶爾爲之的，和持續的貢獻者：** 幫助檢測是否有新的貢獻者，以及他們是不是會再來。（偶爾的貢獻者是那些提交的次數很少的人，當然啦，這個數目是多少取決於你，比如說五次。）如果沒有新的貢獻者，你的專案就會停滯不前。
+* **第一次，偶爾爲之的，和持續的貢獻者：** 幫助檢測是否有新的貢獻者，以及他們是不是會再來。（偶爾的貢獻者是那些提交的次數很少的人，當然啦，這個數目是多少取決於你，比如說五次。）如果沒有新的貢獻者，你的專案就會停滯不前。
 
-*   **打開的issue的數目和PR的數目：** 如果這些數目太高，就意味着你可能需要有人幫你給issue分類以及做代碼審查。
+* **打開的issue的數目和PR的數目：** 如果這些數目太高，就意味着你可能需要有人幫你給issue分類以及做代碼審查。
 
 * **所有的打開過的issue和PR：** 一個issue被人提出說明你的專案對他來說比較重要。如果這個數目隨着時間在增長，這就意味着人們對你的專案感興趣。
 
@@ -100,7 +100,7 @@ related:
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
 開源遠遠不止程式碼，成功的開源專案包括程式碼、文件，以及它們在演進過程中的所有討論。
   <p markdown="1" class="pquote-credit">
-— @arfon, [“開源的形態”](https://github.com/blog/2195-the-shape-of-open-source)
+— @arfon, ["開源的形態"](https://github.com/blog/2195-the-shape-of-open-source)
 </p>
 </aside>
 
@@ -112,7 +112,7 @@ related:
 
 [來自Mozilla的研究](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) 說： **維護者的回應是鼓勵更多貢獻者中非常重要的一環**。
 
-考慮記錄一下你或者其他的專案維護者對一次貢獻（issue或者PR）回應的時間，回應並不需要花多少精力。哪怕只是說一句：“謝謝你的貢獻，我下週會查看的。”
+考慮記錄一下你或者其他的專案維護者對一次貢獻（issue或者PR）回應的時間，回應並不需要花多少精力。哪怕只是說一句："謝謝你的貢獻，我下週會查看的。"
 
 你也可以測量一在一個貢獻被處理的過程中狀態變化的時間。比如：
 

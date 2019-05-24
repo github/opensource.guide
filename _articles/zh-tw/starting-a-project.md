@@ -12,10 +12,9 @@ related:
 
 ## 什麼是開源，爲什麼要開源
 
-
 所以你在考慮開始參與開源？恭喜！世界讚賞你的貢獻。讓我們來談談開源是什麼，以及人們這樣做。
 
-### “開源”是什麼意思？
+### "開源"是什麼意思？
 
 當一個專案被開源，這意味着**任何人都可以出於任何目的查看，使用，修改和分發你的專案**。 這些權限通過[開源許可](https://opensource.org/licenses)強制實施。
 
@@ -36,7 +35,7 @@ related:
   <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
 我從開源使用和協作中獲得的最有價值的經驗之一，就是在我面臨許多與其他開發人員相同問題的過程中所建立的聯繫。
   <p markdown="1" class="pquote-credit">
-    — @kentcdodds, [“參與開源對我來說太棒了”](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
+    — @kentcdodds, ["參與開源對我來說太棒了"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
   </p>
 </aside>
 
@@ -50,13 +49,13 @@ related:
 
 開源並不僅僅限於軟件。您可以開源任何事物，從數據集到書本。查看 [GitHub Explore](https://github.com/explore) 開找找有什麼是你可以開源的。
 
-### 開源是指“免費”嗎？
+### 開源是指"免費"嗎？
 
-開源最大的吸引之一是它不花錢。 但是，“免費”只是開源的總體價值的一個副產品。
+開源最大的吸引之一是它不花錢。 但是，"免費"只是開源的總體價值的一個副產品。
 
 因爲[開源許可證要求](https://opensource.org/osd-annotated)任何人可以幾乎出於任何目使用，修改和共享您的專案，專案本身往往是免費的。 如果該專案花錢使用，任何人也都可以合法地複製和使用免費版本。
 
-因此，大多數開源專案是免費的，但“免費”不是開源定義的一部分。 有些方法可以通過雙重許可或有限功能間接地爲開源專案收費，同時仍然遵守開源的官方定義。
+因此，大多數開源專案是免費的，但"免費"不是開源定義的一部分。 有些方法可以通過雙重許可或有限功能間接地爲開源專案收費，同時仍然遵守開源的官方定義。
 
 ## 我是否應該發起我自己的開源專案?
 
@@ -80,7 +79,7 @@ related:
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
 在某些時候，我創建了一個自己正在使用的自定義 UIAlertView，我決定將它開源。所以我修改它使其更有活力，並把它上傳到了 GitHub。我還寫了我的第一個文檔，解釋給其他開發人員如何在他們的專案中使用它。很可能沒有人會去使用它，因爲它是一個簡單的專案，但我的貢獻讓我感覺很好。 
   <p markdown="1" class="pquote-credit">
-— @mavris, [“自學的軟件開發者：爲什麼開源對我們那麼重要”](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+— @mavris, ["自學的軟件開發者：爲什麼開源對我們那麼重要"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
 </aside>
 
@@ -96,7 +95,7 @@ related:
   <img src="https://avatars2.githubusercontent.com/u/1857993?v=3&s=460" class="pquote-avatar" alt="avatar">
 當你開始開源一個專案時，確保您的管理流程考慮到您專案周圍社群的貢獻和能力很重要。不要害怕讓那些沒有在你的企業中受僱的貢獻者參與專案的關鍵部分 - 尤其如果他們是頻繁的貢獻者的話。
   <p markdown="1" class="pquote-credit">
-— @captainsafia, [“所以你想開源一個專案，是嗎？”](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["所以你想開源一個專案，是嗎？"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
   </p>
 </aside>
 
@@ -188,7 +187,7 @@ related:
 
 隨着時間的推移，你硬弓增加其他常見問題到你的貢獻文件中去。寫下這些資訊意味着問你相同問題的人會越來越少。
 
-想要獲得更多有關編寫貢獻文件的方式，請查閱 @nayafia 的 [貢獻指南模板](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 或者 @mozilla 的 [“如何構建 CONTRIBUTION.md”](http://mozillascience.github.io/working-open-workshop/contributing/)。
+想要獲得更多有關編寫貢獻文件的方式，請查閱 @nayafia 的 [貢獻指南模板](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 或者 @mozilla 的 ["如何構建 CONTRIBUTION.md"](http://mozillascience.github.io/working-open-workshop/contributing/)。
 
 來你的 README 中鏈接你的 CONTRIBUTING，這樣更多人就能看到他。如果你[在你的專案中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，當一個貢獻者創建 issue 或者開啓一個 pull request 時，GitHub 會自動鏈接你的文件。
 
@@ -200,7 +199,7 @@ related:
   <img src="https://avatars3.githubusercontent.com/u/11214?v=3&s=460" class="pquote-avatar" alt="avatar">
   我們都有過這樣的關於重複勞動的經驗，無論是維護者試着解釋爲什麼某些事物必須通過某種明確的方式執行，或者是用戶...提出一個簡單的問題。行爲規範成爲一個便利的參考和可鏈接的文檔標明你的團隊會認真對待具有建設性的討論。
   <p markdown="1" class="pquote-credit">
-— @mlynch, [“讓開源成爲一個有趣的地方”](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
+— @mlynch, ["讓開源成爲一個有趣的地方"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
 </aside>
 
@@ -255,7 +254,7 @@ related:
   </p>
 </aside>
 
-使用熱情，通俗易懂的語言（如“他們”，即使是指一個人）能夠讓新來的貢獻者感覺專案非常歡迎他們。使用簡單的語言，因爲你的讀者可能英語不是很好。
+使用熱情，通俗易懂的語言（如"他們"，即使是指一個人）能夠讓新來的貢獻者感覺專案非常歡迎他們。使用簡單的語言，因爲你的讀者可能英語不是很好。
 
 除了書寫風格外，你的編碼風格也是你專案品牌的一部分。 [Angular](https://github.com/johnpapa/angular-styleguide) 和 [jQuery](http://contribute.jquery.org/style-guide/js/)是兩個專案代碼風格嚴謹的示例和指南。
 
@@ -362,5 +361,3 @@ related:
 ## 你做到了！
 
 恭喜你開源了你的首個專案。不論結果如何，對開源社群都是一份禮物。隨着每次commit,comment和pull request，你正在爲自己或者他人創造學習和成長的機會。
-
-
