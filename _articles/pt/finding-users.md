@@ -20,7 +20,7 @@ Antes de iniciar realmente o trabalho de promoção de seu projeto, você deve s
 
 O que faz o seu projeto diferente ou interessante? Porque o criou? Responder essas perguntas para você mesmo irá lhe ajudar a comunicar o significado de seu projeto.
 
-Lembre-se de que as pessoas se involvem como usuários e eventualmente tornam-se contribuidores, porque seu projeto resolveu um problema deles. Ao pensar sobre a mensagem e o valor de seu projeto, tente visualizá-los através da lente do que os usuários e colaboradores podem desejar.
+Lembre-se de que as pessoas se involvem como usuários e eventualmente tornam-se contribuidores, porque seu projeto resolveu um problema deles. Ao pensar sobre a mensagem e o valor de seu projeto, tente visualizá-los através da lente do que os _usuários e colaboradores_ podem desejar.
 
 Por exemplo, @robb usa exemplos de código para comunicar claramente porque o projeto dele, [Cartography](https://github.com/robb/Cartography), é útil:
 
