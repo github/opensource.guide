@@ -37,6 +37,7 @@ $ npm run build
 
 <!-- %docs
 title: Forms
+path: components/forms
 status: Stable
 -->
 
@@ -176,7 +177,7 @@ Primer adds light `height` and `vertical-align` styles to `<select>`s for all br
 
 ##### Small
 
-Use the `.select-sm` class to resize both default and custom `<select>`s to match the size of [our small buttons](../buttons/#default-buttons).
+Use the `.select-sm` class to resize both default and custom `<select>`s to match the size of [our small buttons](./buttons#default-buttons).
 
 ```html
 <select class="form-select select-sm" aria-label="Preference">
@@ -314,7 +315,7 @@ Content that is hidden by default should only be done so if it is non-essential 
 
 Attached an input and button to one another.
 
-```html
+```erb
 <form>
   <div class="input-group">
     <input class="form-control" type="text" placeholder="Username" aria-label="Username">

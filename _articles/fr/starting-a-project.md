@@ -35,7 +35,7 @@ Par comparaison, un processus de source fermée se rendrait dans un restaurant e
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   L'une des expériences les plus enrichissantes que je retire de l'utilisation et de la collaboration sur l'open source vient des relations que je construis avec d'autres développeurs confrontés aux mêmes problèmes que moi.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80)
+— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
@@ -95,7 +95,7 @@ Si vous avez besoin d'un budget ou d'un personnel dédié pour la promotion, les
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   Lorsque vous commencez à ouvrir le projet, il est important de vous assurer que vos processus de gestion prennent en compte les contributions et les capacités de la communauté autour de votre projet. N'ayez pas peur d'impliquer des contributeurs qui ne sont pas employés dans votre entreprise dans les aspects clés du projet — surtout s'ils sont des contributeurs fréquents.
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
@@ -150,10 +150,10 @@ Dans votre fichier README, essayez de répondre aux questions suivantes:
 Vous pouvez utiliser votre fichier README pour répondre à d'autres questions, telles que la manière dont vous gérez les contributions, les objectifs du projet et les informations sur les licences et l'attribution. Si vous ne souhaitez pas accepter de contributions ou si votre projet n'est pas encore prêt pour la production, écrivez ces informations.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Une meilleure documentation signifie plus d'utilisateurs, moins de demandes de support et plus de contributeurs. (...) Rappelez-vous que vos lecteurs ne sont pas vous. Il y a des gens qui pourraient venir à un projet et qui ont des expériences complètement différentes.
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 

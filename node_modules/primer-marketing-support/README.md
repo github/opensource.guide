@@ -31,7 +31,8 @@ You can also import specific portions of the module by importing those partials 
 
 <!-- %docs
 title: Marketing support
-status: new release
+path: support/marketing-variables
+status: Stable
 -->
 
 ### Extended spacing scale
@@ -48,7 +49,7 @@ Starting where the `primer-core` spacing scale ends at spacer 6, the marketing s
 | 11    | 112   |
 | 12    | 128   |
 
-See [primer-marketing-support](../../support/marketing-variables/) for the extended spacing scale used for marketing needs and the related y-axis spacing utilities for [margin](../../utilities/marketing-margin) and [padding](../../utilities/marketing-padding).
+See [primer-marketing-support](https://npm.im/primer-marketing-support) for the extended spacing scale used for marketing needs and the related y-axis spacing utilities for [margin](/css/utilities/marketing-margin) and [padding](/css/utilities/marketing-padding).
 
 <!-- %enddocs -->
 

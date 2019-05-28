@@ -6,10 +6,7 @@
 @each $breakpoint, $variant in $responsive-variants {
   @include breakpoint($breakpoint) {
     // Loop through the spacer values
-    @for $i from 1 through length($spacers) {
-      $size: nth($spacers, $i); // xs, sm, md, lg, xl
-      $scale: $i - 1;  // 0, 1, 2, 3, 4, 5, 6
-
+    @each $scale, $size in $spacer-map {
       /* Set a $size padding to all sides at $breakpoint */
       .p#{$variant}-#{$scale}  { padding: $size !important; }
       /* Set a $size padding to the top at $breakpoint */

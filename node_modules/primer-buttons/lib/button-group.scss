@@ -2,7 +2,6 @@
 //
 // A button group is a series of buttons laid out next to each other, all part
 // of one visual button, but separated by rules to be separate.
-@warn ".BtnGroup-form will be deprecated in version 11. Use .BtnGroup-parent instead.";
 
 .BtnGroup {
   display: inline-block;
@@ -40,15 +39,13 @@
     border-right-width: $border-width;
 
     + .BtnGroup-item,
-    + .BtnGroup-parent .BtnGroup-item,
-    + .BtnGroup-form .BtnGroup-item {
+    + .BtnGroup-parent .BtnGroup-item {
       border-left-width: 0;
     }
   }
 }
 
-.BtnGroup-parent,
-.BtnGroup-form {
+.BtnGroup-parent {
   float: left;
 
   &:first-child .BtnGroup-item {
@@ -76,8 +73,7 @@
     }
 
     + .BtnGroup-item,
-    + .BtnGroup-parent .BtnGroup-item,
-    + .BtnGroup-form .BtnGroup-item {
+    + .BtnGroup-parent .BtnGroup-item {
       border-left-width: 0;
     }
   }
@@ -85,8 +81,7 @@
 
 // ensure that the focus ring sits above the adjacent buttons
 .BtnGroup-item,
-.BtnGroup-parent,
-.BtnGroup-form {
+.BtnGroup-parent {
   &:focus,
   &:active {
     z-index: 1;

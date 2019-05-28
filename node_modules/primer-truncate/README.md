@@ -37,6 +37,7 @@ $ npm run build
 
 <!-- %docs
 title: Truncate
+path: components/truncate
 status: Stable
 -->
 

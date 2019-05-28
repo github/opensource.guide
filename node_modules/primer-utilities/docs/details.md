@@ -1,6 +1,7 @@
 ---
 title: Details
-status: New release
+path: utilities/details
+status: Stable
 ---
 
 Details classes are created to enhance the native behaviors of `<details>`.

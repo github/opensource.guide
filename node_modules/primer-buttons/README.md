@@ -37,6 +37,7 @@ $ npm run build
 
 <!-- %docs
 title: Buttons
+path: components/buttons
 status: Stable
 -->
 
@@ -162,7 +163,7 @@ You can easily append a count to a **small button**. Add the `.with-count` class
 
 **Be sure to clear the float added by the additional class.**
 
-```html
+```erb
 <div class="clearfix">
   <a class="btn btn-sm btn-with-count" href="#url" role="button">
     <%= octicon "eye" %>
@@ -172,7 +173,7 @@ You can easily append a count to a **small button**. Add the `.with-count` class
 </div>
 ```
 
-You can also use the [counter](../labels#counters) component within buttons:
+You can also use the [counter](./labels#counters) component within buttons:
 
 ```html
 <button class="btn" type="button">

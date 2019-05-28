@@ -37,8 +37,8 @@ $ npm run build
 
 <!-- %docs
 title: Table object
+path: objects/table-object
 status: Stable
-key: /css/styles/core/objects/table-object
 -->
 
 The table object is a module for creating dynamically resizable elements that always sit on the same horizontal line (e.g., they never break to a new line). Using table styles in our CSS means it's cross browser friendly back to at least IE9.

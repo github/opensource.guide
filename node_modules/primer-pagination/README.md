@@ -37,6 +37,7 @@ $ npm run build
 
 <!-- %docs
 title: Pagination
+path: components/pagination
 status: New Release
 -->
 

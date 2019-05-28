@@ -277,38 +277,3 @@
     }
   }
 }
-
-// Alert tooltips
-//
-// Colors for different alert states.
-@mixin colorizeTooltip($text-color, $background-color) {
-  &::after {
-    color: $text-color;
-    background: $background-color;
-  }
-
-  &.tooltipped-s,
-  &.tooltipped-se,
-  &.tooltipped-sw {
-    &::before {
-      border-bottom-color: $background-color;
-    }
-  }
-
-  &.tooltipped-n,
-  &.tooltipped-ne,
-  &.tooltipped-nw {
-    &::before {
-      border-top-color: $background-color;
-    }
-  }
-
-  &.tooltipped-e::before {
-    border-right-color: $background-color;
-  }
-
-  &.tooltipped-w::before {
-    border-left-color: $background-color;
-  }
-}
-@warn "the colorizeTooltip mixin will be deprecated in version 11.";

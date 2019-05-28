@@ -135,7 +135,7 @@ related:
 
 ![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-在issue列表中，缺陷的标签需要做到适合不同类型的贡献者：例如，[_"仅供入门者"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"优质Bug首秀"_, 或者 _"文档"_. [这些标签](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能够帮助新人快速浏览issues以及开始。
+在issue列表中，缺陷的标签需要做到适合不同类型的贡献者：例如，[_"仅供入门者"_](https://kentcdodds.com/blog/first-timers-only), _"优质Bug首秀"_, 或者 _"文档"_. [这些标签](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能够帮助新人快速浏览issues以及开始。
 
 最后，撰写让人赏心悦目的文档，进一步让人感到愉悦和舒服。
 

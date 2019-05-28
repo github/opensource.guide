@@ -8,11 +8,11 @@ layout: default
 
   <header class="py-4 py-md-6">
     <div class="container-lg p-responsive mx-auto text-center pt-6">
-      <h1 class="alt-h1">{{ site.title }}</h1>
-      <p class="alt-lead text-gray mb-md-5 col-md-8 mx-auto">
+      <h1 class="h00-mktg">{{ site.title }}</h1>
+      <p class="lead-mktg text-gray mb-md-5 col-md-8 mx-auto">
         {{ t.index.lead }}
       </p>
-      <p class="alt-lead" id="opensourcefriday" style="display:none">
+      <p class="lead-mktg " id="opensourcefriday" style="display:none">
         {{ t.index.opensourcefriday }}:
         <a href='https://opensourcefriday.com'>opensourcefriday.com</a>
       </p>
@@ -25,14 +25,14 @@ layout: default
       {% for article in articles %}
       {% if article.layout != 'index' %}
       <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">
-        <a href="{{ article.url | relative_url }}" class="guide-cover {{ article.class }} card height-full d-block">
+        <a href="{{ article.url | relative_url }}" class="guide-cover {{ article.class }} Box height-full d-block">
 
           <div class="lh-none guide-cover-img text-center pt-4">
             <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class="" alt="{{ article.title }} illustration">
           </div>
 
           <div class="flex-self-end p-4 text-center p-lg-5">
-            <h3 class="alt-h3 text-bold lh-condensed mb-2 text-black">
+            <h3 class="h3-mktg text-bold lh-condensed mb-2 text-black">
               {{ article.title }}
             </h3>
             <div class="mb-0 text-gray">

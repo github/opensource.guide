@@ -37,6 +37,7 @@ $ npm run build
 
 <!-- %docs
 title: Navigation
+path: components/navigation
 status: Stable
 -->
 
@@ -59,7 +60,7 @@ The menu is a vertical list of navigational links. **A menu's width and placemen
 
 There are a few subcomponents and add-ons that work well with the menu, including avatars, counters, and Octicons.
 
-```html title="Menu with octicons, avatars and counters"
+```erb title="Menu with octicons, avatars and counters"
 <nav class="menu" aria-label="Person settings">
   <a class="menu-item selected" href="#url" aria-current="page">
     <%= octicon "tools" %>
@@ -156,7 +157,7 @@ Use `.UnderlineNav--right` to right align the navigation.
 <!-- Update wording here -->
 `.Counters` and `.octicons` can be used with navigation items. Use `.UnderlineNav-octicon` to add color and hover styles.
 
-```html title="UnderlineNav with Counter"
+```erb title="UnderlineNav with Counter"
 <nav class="UnderlineNav" aria-label="Foo bar">
   <div class="UnderlineNav-body">
     <a href="#url" class="UnderlineNav-item selected">
@@ -296,7 +297,7 @@ A vertical list of filters. Grey text on white background. Selecting a filter fr
 
 You can have `subnav-search` in the subnav bar.
 
-```html title="subnav-search"
+```erb title="subnav-search"
 <div class="subnav">
   <nav class="subnav-links" aria-label="Repository">
     <a href="#url" class="subnav-item selected" aria-current="page">Item 1</a>
@@ -313,7 +314,7 @@ You can have `subnav-search` in the subnav bar.
 
 You can also use a `subnav-search-context` to display search help in a select menu.
 
-```html title="subnav-search-context"
+```erb title="subnav-search-context"
 <div class="subnav">
   <nav class="subnav-links">
     <a href="#url" class="subnav-item selected">Item 1</a>

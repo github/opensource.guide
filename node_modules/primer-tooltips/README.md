@@ -37,6 +37,7 @@ $ npm run build
 
 <!-- %docs
 title: Tooltips
+path: components/tooltips
 status: Stable
 -->
 

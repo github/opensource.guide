@@ -1,40 +1,15 @@
 // Padding spacer utilities for marketing
 // stylelint-disable block-opening-brace-space-before, declaration-colon-space-before
 // stylelint-disable comment-empty-line-before
-@for $i from 1 through length($marketingSpacers) {
-  $size: #{nth($marketingSpacers, $i)};
-  $scale: #{$i + 6};  // 7, 8, 9, 10, 11
 
-  /* Set a #{$size} padding to the top */
-  .pt-#{$scale}  { padding-top   : #{$size} !important; }
-  /* Set a #{$size} padding to the bottom */
-  .pb-#{$scale}  { padding-bottom: #{$size} !important; }
+@each $breakpoint, $variant in $responsive-variants {
+  @include breakpoint($breakpoint) {
+    @each $scale, $size in $marketing-spacers {
 
-  /* Set a #{$size} padding to the top & bottom */
-  .py-#{$scale} {
-    padding-top: #{$size} !important;
-    padding-bottom: #{$size} !important;
-  }
-}
+      .pt#{$variant}-#{$scale} { padding-top: #{$size} !important; }
+      .pb#{$variant}-#{$scale} { padding-bottom: #{$size} !important; }
 
-// Responsive padding spacer utilities
-
-// Loop through the breakpoint values
-@each $breakpoint in map-keys($breakpoints) {
-
-  // Loop through the spacer values
-  @for $i from 1 through length($marketingSpacers) {
-    @include breakpoint($breakpoint) {
-      $size: #{nth($marketingSpacers, $i)}; // xs, sm, md, lg, xl
-      $scale: #{$i + 6};  // 7, 8, 9, 10, 11
-
-      /* Set a #{$size} padding to the top at the #{$breakpoint} breakpoint */
-      .pt-#{$breakpoint}-#{$scale} { padding-top: #{$size} !important; }
-      /* Set a #{$size} padding to the bottom at the #{$breakpoint} breakpoint */
-      .pb-#{$breakpoint}-#{$scale} { padding-bottom: #{$size} !important; }
-
-      /* Set a #{$size} padding to the top & bottom at the #{$breakpoint} breakpoint */
-      .py-#{$breakpoint}-#{$scale} {
+      .py#{$variant}-#{$scale} {
         padding-top: #{$size} !important;
         padding-bottom: #{$size} !important;
       }

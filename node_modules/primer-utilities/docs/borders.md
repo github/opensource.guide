@@ -1,6 +1,7 @@
 ---
 title: Borders
-status: New release
+path: utilities/borders
+status: Stable
 status_issue: https://github.com/github/design-systems/issues/72
 ---
 

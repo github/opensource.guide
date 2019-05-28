@@ -77,19 +77,19 @@ $edges: (
     @each $edge, $corners in $edges {
       .rounded#{$variant}-#{$edge}-0 {
         @each $corner in $corners {
-          border-#{$corner}-radius: 0;
+          border-#{$corner}-radius: 0 !important;
         }
       }
 
       .rounded#{$variant}-#{$edge}-1 {
         @each $corner in $corners {
-          border-#{$corner}-radius: $border-radius;
+          border-#{$corner}-radius: $border-radius !important;
         }
       }
 
       .rounded#{$variant}-#{$edge}-2 {
         @each $corner in $corners {
-          border-#{$corner}-radius: $border-radius * 2;
+          border-#{$corner}-radius: $border-radius * 2 !important;
         }
       }
     }

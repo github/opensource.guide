@@ -1,9 +1,10 @@
 ---
 title: Padding
+path: utilities/padding
 status: Stable
 ---
 
-Padding utilities are based on a global [spacing scale](../../support/spacing) which helps keep horizontal and vertical spacing consistent. These utilities help us reduce the amount of custom CSS that could share the same properties, and allows to achieve many different page layouts using the same styles.
+Padding utilities are based on a global [spacing scale](/css/support/spacing) which helps keep horizontal and vertical spacing consistent. These utilities help us reduce the amount of custom CSS that could share the same properties, and allows to achieve many different page layouts using the same styles.
 
 {:toc}
 
@@ -85,7 +86,7 @@ Use directional utilities to apply padding to an individual side, or the X and Y
 
 ## Responsive padding
 
-All padding utilities can be adjusted per [breakpoint](../../support/breakpoints) using the following formula: <br /> `p-[direction]-[breakpoint]-[spacer]`. Each responsive style is applied to the specified breakpoint and up.
+All padding utilities can be adjusted per [breakpoint](/css/support/breakpoints) using the following formula: <br /> `p-[direction]-[breakpoint]-[spacer]`. Each responsive style is applied to the specified breakpoint and up.
 
 ```html
 <div class="px-sm-2 px-lg-4 d-inline-block padding-green">
@@ -99,7 +100,7 @@ All padding utilities can be adjusted per [breakpoint](../../support/breakpoints
 
 `.p-responsive` is a padding class that adds padding on the left and right sides of an element. On small screens, it gives the element padding of `$spacer-3`, on mid-sized screens it gives the element padding of `$spacer-6`, and on large screens, it gives the element padding of `$spacer-3`.
 
-It is intended to be used with [container styles](../../objects/grid#containers)
+It is intended to be used with [container styles](/css/objects/grid#containers)
 
 ```html
 <div class="container-lg p-responsive">
