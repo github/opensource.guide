@@ -1,7 +1,7 @@
 ---
 lang: pt
 title: Encontrando Usuários para Seu Projeto
-description: Ajude seu projeto de código aberto a crescer, colocando-o nas mãos de usuários felizes.
+description: Ajude seu projeto open source a crescer, colocando-o nas mãos de usuários felizes.
 class: finding
 order: 3
 image: /assets/images/cards/finding.png
@@ -12,7 +12,7 @@ related:
 
 ## Espalhando a palavra
 
-Não há uma regra que diga que você deve promover um projeto _open source_ quando iniciar. Existem inúmeras razões para trabalhar em um projeto _open source_ que não tem nada a ver com popularidade. Em vez de esperar que os outros encontrem e usem seu projeto _open source_, você pode divulgar o seu trabalho duro!
+Não há uma regra que diga que você deve promover um projeto open source quando iniciar. Existem inúmeras razões para trabalhar em um projeto open source que não tem nada a ver com popularidade. Em vez de esperar que os outros encontrem e usem seu projeto open source, você pode divulgar o seu trabalho duro!
 
 ## Descubra sua mensagem
 
@@ -20,42 +20,42 @@ Antes de iniciar realmente o trabalho de promoção de seu projeto, você deve s
 
 O que faz o seu projeto diferente ou interessante? Porque o criou? Responder essas perguntas para você mesmo irá lhe ajudar a comunicar o significado de seu projeto.
 
-Lembre-se que as pessoas se involvem como usuários e eventualmente tornam-se contribuidores, porque seu projeto resolveu um problema deles. Ao pensar sobre a mensagem e o valor de seu projeto, tente visualizá-los através da lente do que os _usuários e colaboradores_ podem desejar.
+Lembre-se de que as pessoas se involvem como usuários e eventualmente tornam-se contribuidores, porque seu projeto resolveu um problema deles. Ao pensar sobre a mensagem e o valor de seu projeto, tente visualizá-los através da lente do que os _usuários e colaboradores_ podem desejar.
 
 Por exemplo, @robb usa exemplos de código para comunicar claramente porque o projeto dele, [Cartography](https://github.com/robb/Cartography), é útil:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-Para um mergulho mais profundo nas mensagens, confira o exercício para desenvolvimento de _personas_ de usuário da Mozilla: ["_Personas and Pathways_"](https://mozillascience.github.io/working-open-workshop/personas_pathways/).
+Para um mergulho mais profundo nas mensagens, confira o exercício para desenvolvimento de personas de usuário da Mozilla: ["_Personas and Pathways_"](https://mozillascience.github.io/working-open-workshop/personas_pathways/).
 
 ## Ajudando pessoas a encontrar e seguir seu projeto
 
 <aside markdown="1" class="pquote">
-  Você precisa idealmente de uma única URL _"home"_ que possa promover e direcionar as pessoas em relação ao seu projeto. Você não precisa usar um _template_ sofisticado ou até mesmo um nome de domínio, mas seu projeto precisa de um ponto focal.
+  Você precisa idealmente de uma única URL "home" que possa promover e direcionar as pessoas em relação ao seu projeto. Você não precisa usar um template sofisticado ou até mesmo um nome de domínio, mas seu projeto precisa de um ponto focal.
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Ajude as pessoas a encontrar e lembrar de seu projeto apontando-as para um único _namespace_.
+Ajude as pessoas a encontrar e lembrar de seu projeto apontando-as para um único namespace.
 
 **Tenha um canal claro para promover seu trabalho.** Um usuário do Twitter, uma URL do GitHub ou um canal do IRC são jeitos fáceis de direcionar as pessoas para seu projeto. Esses canais também dão à sua crescente comunidade um lugar para se reunir.
 
-Se você não deseja configurar canais para seu projeto ainda, atualize sua própria conta do Twitter ou do GitHub em qualquer coisa que você fizer. Atualizando seu canais do Twitter ou GitHub irá deixar as pessoas cientes de como contatar ou seguir o seu trabalho. Se você palestrar em um _meetup_ ou evento, certifique-se que suas informações de contato estão incluídas em sua biografia ou _slides_.
+Se você não deseja configurar canais para seu projeto ainda, atualize sua própria conta do Twitter ou do GitHub em qualquer coisa que você fizer. Atualizando seu canais do Twitter ou GitHub irá deixar as pessoas cientes de como contatar ou seguir o seu trabalho. Se você palestrar em um meetup ou evento, certifique-se de que suas informações de contato estão incluídas em sua biografia ou slides.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
-  Um erro que cometi no passado (...) foi não criar uma conta do Twitter para o projeto. O Twitter é uma ótima maneira de manter as pessoas atualizadas sobre o projeto, assim como, constantemente expões elas ao projeto.
+  Um erro que cometi no passado (...) foi não criar uma conta do Twitter para o projeto. O Twitter é uma ótima maneira de manter as pessoas atualizadas sobre o projeto, assim como constantemente expõe elas ao projeto.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**Considere criar um _website_ para seu projeto.** Um _website_ torna seu projeto mais amigável e fácil de navegar, especialmente quando está emparelhando com uma documentação clara e tutoriais. Ter um _website_ também sugere que seu projeto está ativo, o que fará com que o público se sinta mais à vontade para usá-lo. Disponibilize exemplos para dar as pessoas ideias de como usar o seu projeto.
+**Considere criar um website para seu projeto.** Um website torna seu projeto mais amigável e fácil de navegar, especialmente quando está emparelhando com uma documentação clara e tutoriais. Ter um website também sugere que seu projeto está ativo, o que fará com que o público se sinta mais à vontade para usá-lo. Disponibilize exemplos para dar as pessoas ideias de como usar o seu projeto.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-criador do Django, disse que um _website_ foi _"de longe a melhor coisa que fizemos com Django no início"_.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-criador do Django, disse que um website foi _"de longe a melhor coisa que fizemos com Django no início"_.
 
-Se seu projeto está hospedado no GitHub, você pode utilizar as [GitHub Pages](https://pages.github.com/) para fácilmente criar um _website_. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), e [Middleman](https://middlemanapp.com/) são [alguns exemplos](https://github.com/showcases/github-pages-examples) de _websites_ excelentes e abrangentes.
+Se seu projeto está hospedado no GitHub, você pode utilizar as [GitHub Pages](https://pages.github.com/) para fácilmente criar um website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), e [Middleman](https://middlemanapp.com/) são [alguns exemplos](https://github.com/showcases/github-pages-examples) de websites excelentes e abrangentes.
 
 ![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
@@ -65,25 +65,25 @@ Agora que você tem uma mensagem para seu projeto, e uma maneira fácil das pess
 
 Divulgação online é uma boa maneira de compartilhar e espalhar a palavra rapidamente. Usando canais online, você tem o potencial de atingir um público muito amplo.
 
-Tome vantagem de comunidades e plataformas online existentes para atingir seu público. Se seu projeto open source é um projeto se software, você, provavelmente, pode encontrar seu público no [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), ou [Quora](https://www.quora.com/). Encontre os canais que você acha que as pessoas irão mais se beneficiar ou se excitar com o seu trabalho.
+Tome vantagem de comunidades e plataformas online existentes para atingir seu público. Se seu projeto open source é um projeto de software, você, provavelmente, pode encontrar seu público no [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), ou [Quora](https://www.quora.com/). Encontre os canais que você acha que as pessoas irão se beneficiar mais ou se excitar com o seu trabalho.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  Cada programa tem funções muito específicas que somente uma fração dos usuários irá achar útil. Não dispare spam o maior número de pessoas possível. Em vez disso, direcione seus esforços para as comunidades que se beneficiarão com o conhecimento do seu projeto.
+  Cada programa tem funções muito específicas que somente uma fração dos usuários irá achar útil. Não dispare spam para o maior número de pessoas possível. Em vez disso, direcione seus esforços para as comunidades que se beneficiarão com o conhecimento do seu projeto.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
-Veja se você pode encontrar maneiras de compartilhar seu projeto em modos relevantes:
+Veja se você pode encontrar maneiras de compartilhar seu projeto de maneiras relevantes:
 
 * **Conheça projetos e comunidades open source relevantes.** Às vezes, você não precisa promover o seu projeto diretamente. Se seu projeto é perfeito para cientistas de dados que usam Python, conheça a comunidade de ciência de dados do Python. À medida que as pessoas o conhecerem, oportunidades de falar sobre e compartilhar seu trabalho surgirão naturalmente.
-* **Encontre pessoas passando pelos problema que seu projeto resolve.** Procure em fóruns relacionados para pessoas que se enquadram no público-alvo de seu projeto. Responda as questões deles e encontre uma maneira sútil, quando apropriado, de sugerir seu projeto como solução.
+* **Encontre pessoas passando pelos problemas que seu projeto resolve.** Procure em fóruns relacionados as pessoas que se enquadram no público-alvo de seu projeto. Responda as questões deles e encontre uma maneira sutil, quando apropriado, de sugerir seu projeto como solução.
 * **Peça feedback.** Introduza você mesmo e seu trabalho para uma audiência que o acharia relevante e interessante. Seja especifico sobre quem você acha que se beneficiaria com seu projeto. Tente completar a sentença:  _"Eu acho que meu projeto realmente ajudaria X, que está tentando fazer Y_". Ouça e responda os feedbacks dos outros, em vez de simplesmente promover seu trabalho.
 
-De um modo geral, foque em ajudar os outros antes de pedir coisas em troca. Porque qualque um pode facilmente promover um projeto onlive, haverá muito ruído. Para se destacar da multidão, dê às pessoas um contexto para quem você e não apenas para o que você quer.
+De um modo geral, foque em ajudar os outros antes de pedir coisas em troca. Como qualquer pessoa pode facilmente promover um projeto online, haverá muito ruído. Para se destacar da multidão, dê às pessoas um contexto para quem você e não apenas para o que você quer.
 
-Se ninguém prestar atenção ou responder seu trabalho inicial, não desanime! A maioria lançamentos de projetos é um processo iterativo que pode levar meses ou anos. Se você não obtiver resposta na primeira vez, tente uma tática diferente, ou busque por caminhos que agreguem valor paras os trabalhos dos outros primeiro. Promover e lançar seu projeto leva tempo e dedicação.
+Se ninguém prestar atenção ou responder seu trabalho inicial, não desanime! A maioria dos lançamentos de projetos é um processo iterativo que pode levar meses ou anos. Se você não obtiver resposta na primeira vez, tente uma tática diferente, ou busque por caminhos que agreguem valor para os trabalhos dos outros primeiro. Promover e lançar seu projeto leva tempo e dedicação.
 
 ## Vá para onde o público do seu projeto está (offline)
 
@@ -107,7 +107,7 @@ Quando escrever sua fala, foque no que seu público irá achar interessante e ir
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  Quando você começa a escrever sua palestra, não ligar para qual é o seu tópico, pode ajudar se você enxegar sua palestra como uma história que você conta para as pessoas.
+  Quando você começa a escrever sua palestra, não ligar para qual é o seu tópico pode ajudar, se você enxegar sua palestra como uma história que você conta para as pessoas.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
@@ -127,9 +127,9 @@ Procure por conferências que são específicas para a sua linguagem ou ecossist
 
 ## Construa uma reputação
 
-Além das estratégias descritas acima, a melhor forma de convidaer pessoas para compartilhar e contribuir para seu projete é compartilhar e contrbuir para os projetos delas.
+Além das estratégias descritas acima, a melhor forma de convidar pessoas para compartilhar e contribuir para seu projete é compartilhar e contribuir para os projetos delas.
 
-Ajudar os recém-chegadors, compartilhar recursos, e fazar contribuições conscientes para os projetos dos outros o ajudará a construir um reputação positiva. Ser um membro ativo na comunidade open source ajudará as pessoas a terem contexto sobre o seu trabalho e terá maior probabilidade a prestarem atenção e compartilharem seu projeto. Desenvolver relacionamentos com os outros projetos open source pode até levar a parcerias oficiais.
+Ajudar os recém-chegadors, compartilhar recursos, e fazer contribuições conscientes para os projetos dos outros o ajudará a construir uma reputação positiva. Ser um membro ativo na comunidade open source ajudará as pessoas a terem contexto sobre o seu trabalho e aumentará a probabilidade delas prestarem atenção e compartilharem seu projeto. Desenvolver relacionamentos com os outros projetos open source pode até levar a parcerias oficiais.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
@@ -139,7 +139,7 @@ Ajudar os recém-chegadors, compartilhar recursos, e fazar contribuições consc
   </p>
 </aside>
 
-Nunca é cedo demais ou tarde demais para iniciar a construir sua reputação. Mesmo que você já tenha lançado seu próprio projeto, continue procurando por formas de ajuar os outros.
+Nunca é cedo demais ou tarde demais para iniciar a construir sua reputação. Mesmo que você já tenha lançado seu próprio projeto, continue procurando por formas de ajudar os outros.
 
 Não há uma solução instantânea para a construção de uma audiência. Ganhar a confiança e o respeito dos outros leva tempo, e a construção de sua reputação nunca acaba.
 
