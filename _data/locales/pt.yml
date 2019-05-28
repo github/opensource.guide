@@ -18,7 +18,7 @@ pt:
     subscribe:
       heading: Fique ligado(a)
       description: "Seja o(a) primeiro(a) a saber as últimas dicas e recursos open source do GitHub."
-      label: Endereço de Email
+      label: Endereço de E-mail
       button: Inscrever-se
     byline:
       # [code], [love], and [github] will be replaced by octicons
