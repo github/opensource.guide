@@ -222,7 +222,7 @@ GEM
     parallel (1.17.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (3.0.3)
+    public_suffix (3.1.0)
     rake (12.3.2)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
