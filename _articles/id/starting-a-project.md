@@ -324,7 +324,7 @@ Jika Anda perseorangan:
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  Anda telah mengunjungi kantor hukum dan/atau membahami hak cipta dan kebijakan open source pada perusahaan Anda (jika Anda merupakan karyawan pada sebuah perusahaan)
+  Anda telah mengunjungi kantor hukum dan/atau memahami hak cipta dan kebijakan open source pada perusahaan Anda (jika Anda merupakan karyawan pada sebuah perusahaan)
   </label>
 </div>
 
@@ -354,7 +354,7 @@ Jika Anda merupakan perusahaan atau organisasi:
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Minimal terdapat dua orang yang memiliki akses admministratif pada proyek
+    Minimal terdapat dua orang yang memiliki akses administratif pada proyek
   </label>
 </div>
 
