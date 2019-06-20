@@ -110,7 +110,7 @@ related:
 * 如果你们的项目使用的是copyleft许可协议，但你们也需要分发项目的专有版本。那你们需要每个贡献者分配版权给你们或者授予你们许可权。[MongoDB贡献者协议](https://www.mongodb.com/legal/contributor-agreement)就是这中类型的。
 * 你们认为你们的项目在其有效期内需要更换许可协议，以及事先得到贡献者的同意。
 
-如果你的项目确实需要使用额外的贡献者协议，请考虑使用[CLA助手]（https://github.com/cla-assistant/cla-assistant）等集成来最大限度地减少贡献者分心。
+如果你的项目确实需要使用额外的贡献者协议，请考虑使用[CLA助手](https://github.com/cla-assistant/cla-assistant)等集成来最大限度地减少贡献者分心。
 
 ## What does my company's legal team need to know?
 
