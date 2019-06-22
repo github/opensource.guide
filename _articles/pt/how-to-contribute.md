@@ -1,6 +1,6 @@
 ---
 lang: pt
-title: Como contribuir para o open source
+title: Como Contribuir para o Open Source
 description: Quer contribuir para o open source? Um guia sobre como fazer contribuições, para novatos e veteranos.
 class: contribute
 order: 1

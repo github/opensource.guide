@@ -1,6 +1,6 @@
 ---
 lang: pt
-title: Construindo comunidades acolhedoras
+title: Construindo Comunidades Acolhedoras
 description: Como construir uma comunidade que encoraje pessoas a utilizarem, contribuirem e evangelizarem o seu projeto
 class: building
 order: 4
