@@ -1,6 +1,6 @@
 ---
 lang: pt
-title: Seu código de conduta
+title: Seu Código de Conduta
 description: Facilite comportamentos saudáveis e construtivos em sua comunidade, adotando e reforçando um código de conduta
 class: coc
 order: 8
