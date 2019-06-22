@@ -1,6 +1,6 @@
 ---
 lang: pt
-title: Sendo pago por trabalhos Open Source
+title: Sendo Pago por Trabalhos Open Source
 description: Mantenha seu trabalho open source conseguindo suporte financeiro por seu tempo ou seu porojeto.
 class: getting-paid
 order: 7
@@ -38,21 +38,21 @@ Há inúmeras razões pelas quais as pessoas não gostariam de ser pagas pelos s
 
 Para outros, especialmente quando as contribuições estão em curso ou requerem um tempo significativo, ser pago para contribuir com open source é a única maneira através da qual eles podem participar, seja porque o projeto precisa disso ou por razões pessoais.
 
-Manter projetos populares pode ser uma responsabilidade significativa, tomando até 10 ou 20 horas toda semana, ao invés de algumas horas por mês.
+Manter projetos populares pode ser uma responsabilidade significativa, tomando até 10 ou 20 horas por semana, ao invés de algumas horas por mês.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  Pergunte a qualquer mantenedor de um projeto open source, e eles lhe dirão sobre a real quantidade de trabalho contida na administração de um projeto. Você possui clientes. Você está resolvendo issues para eles. Você está criando novas features. Isso se torna uma demanda real pelo seu tempo.
+  Pergunte a qualquer mantenedor de um projeto open source, e eles lhe dirão sobre a real quantidade de trabalho envolvida na administração de um projeto. Você possui clientes. Você está resolvendo issues para eles. Você está criando novas features. Isso se torna uma demanda real pelo seu tempo.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-O trabalho pago também permite a pessoas com diferentes contextos e esferas de vida a fazer contribuições significativas. Algumas pessoas não podem gastar tempo "não-pago" em projetos open source, baseado em sua posição financeira atual, débito, família ou outras obrigações. Isso significa que o mundo nunca vê contribuições de pessoas talentosas que não podem voluntariar seu tempo. Isso tem implicações éticas, como @ashedryden [descreveu](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), uma vez que o trabalho que é feito é enviesado em favor daqueles que já possuem vantagens na vida, que então ganham vantagens adicionais baseadas em suas contribuições voluntárias, enquanto outros que não podem contribuir não conseguem oportunidades futuras, o que reforça a falta de diversidade na comunidade open source.
+O trabalho pago também permite a pessoas com diferentes contextos e esferas de vida a realizarem contribuições significativas. Algumas pessoas não podem gastar tempo "não-pago" em projetos open source, baseado em sua posição financeira atual, débito, família ou outras obrigações. Isso significa que o mundo nunca vê contribuições de pessoas talentosas que não podem voluntariar seu tempo. Isso tem implicações éticas, como @ashedryden [descreveu](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), uma vez que o trabalho que é feito é enviesado em favor daqueles que já possuem vantagens na vida, que então ganham vantagens adicionais baseadas em suas contribuições voluntárias, enquanto outros que não podem contribuir não conseguem oportunidades futuras, o que reforça a falta de diversidade na comunidade open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
-   OSS traz enormes benefícios à industria de tecnologia, o que, por sua fez, significa benefícios a todas as indústrias. (...) Todavia, se a únicas pessoas que podem focar nisso são as sortudas e as obcecadas, então existe um grande potencial inexplorado.
+   OSS traz enormes benefícios à industria de tecnologia, o que, por sua vez, significa benefícios a todas as indústrias. (...) Todavia, se a únicas pessoas que podem focar nisso são as sortudas e as obcecadas, então existe um grande potencial inexplorado.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
   </p>
@@ -68,7 +68,7 @@ Hoje, muitas pessoas são pagas para trabalhar parcial ou integralmente com open
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Como muitos no open source, eu estava sustentando o fardo de manter um projeto. Quando eu comecei com o open source, eu costumava ficar acordado até tarde para trabalhar nisso assim que chegava em casa. (...) Eu tive a oportunidade de discutir com meu chefe os problemas que estava enfrentando e tivemos várias ideias sobre como poderíamos incorporar tarefas open source baseadas no nosso próprio uso do Babel.
+  Como muitos no open source, eu estava sustentando o fardo de manter um projeto. Quando eu comecei com o open source, eu costumava ficar acordado até tarde para trabalhar nisso ou assim que chegava em casa. (...) Eu tive a oportunidade de discutir com meu chefe sobre os problemas que estava enfrentando e tivemos várias ideias sobre como poderíamos incorporar tarefas open source baseadas no nosso próprio uso do Babel.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
@@ -183,6 +183,6 @@ O financiador tem algum requisito acerca do desembolso? Por exemplo, pode ser ne
 
 ## Experimente e não desista
 
-Conseguir dinheiro não é fácil, quer você seja um projeto oppen source, uma organização sem fins lucrativos ou uma startup de software, e, na maioria dos casos, requer que você seja criativo. Identificar o quanto você precisa ser pago, fazer sua pesquisa, e se colocar no lugar do seu financiador irá ajudá-lo a construir um caso convincente de financiamento.
+Conseguir dinheiro não é fácil, quer você seja um projeto open source, uma organização sem fins lucrativos ou uma startup de software, e, na maioria dos casos, requer que você seja criativo. Identificar o quanto você precisa ser pago, fazer sua pesquisa, e se colocar no lugar do seu financiador irá ajudá-lo a construir um caso convincente de financiamento.
 
 >
