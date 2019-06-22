@@ -50,7 +50,7 @@ Embora você possa definir os papéis do seu projeto da maneira que preferir, [c
   </p>
 </aside>
 
-## Como eu formalizo esses papeis de liderança?
+## Como eu formalizo esses papéis de liderança?
 
 Fomalizar seus papéis de liderança ajuda as pessoas a sentirem-se proprietárias e mostra aos outros membros da comunidade quem procurar caso precisem de ajuda.
 
