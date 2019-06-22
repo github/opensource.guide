@@ -47,7 +47,7 @@ Quando você criar um novo projeto no GitHub, será [dada a opção de adição 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
-  Uma licença padronizada serve como um proxy para aqueles sem treinamento legal saberem precisamente o que eles podem ou não fazer com o software. Ao menos que seja absolutamente necessário, evite termos customizados, modificados ou não-padrão, que irão servir como uma barreira para o uso final do código da agência.
+  Uma licença padronizada serve como um proxy para aqueles sem treinamento jurídico saberem precisamente o que eles podem ou não fazer com o software. Ao menos que seja absolutamente necessário, evite termos customizados, modificados ou não-padrão, que irão servir como uma barreira para o uso final do código da agência.
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
