@@ -154,5 +154,5 @@ A longo prazo, sua equipe jurídica pode fazer mais para ajudar a empresa a obte
   </p>
 </aside>
 
-* **Patentes:** Sua empresa pode querer participar do [Open Invention Network](https://www.openinventionnetwork.com/), um conjunto de patentes defensivas compartilhadas para proteger o uso de grandes projetos open source pelos membros, ou explorar outros [licenciamentos alternativo de patentes](https://www.eff.org/document/hacking-patent-system-2016).
+* **Patentes:** Sua empresa pode querer participar do [Open Invention Network](https://www.openinventionnetwork.com/), um conjunto de patentes defensivas compartilhadas para proteger o uso de grandes projetos open source pelos membros, ou explorar outros [licenciamentos alternativos de patentes](https://www.eff.org/document/hacking-patent-system-2016).
 * **Governança:** Especialmente se e quando fizer sentido mover um projeto para um [entidade legal fora da empresa](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
