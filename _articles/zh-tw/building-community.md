@@ -16,7 +16,7 @@ related:
 
 友善的社群對於專案的未來至關重要，如果你的專案開始有人願意貢獻，記得給這些先行者一個愉快的協作體驗，鼓勵他們持續參與。
 
-### 让大家感到受欢迎
+### 讓大家感到受歡迎
 
 @MikeMcQuaid 提供了一個思考專案社群的看法稱之為[貢獻者漏斗](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/)
 
