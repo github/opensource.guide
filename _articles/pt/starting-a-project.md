@@ -1,7 +1,7 @@
 ---
 lang: pt
 title: Iniciando um Projeto Open Source
-description: Saiba mais sobre o mundo do open source e se prepare para iniciar o seu próprio projeto
+description: Saiba mais sobre o mundo do open source e se prepare para começar o seu próprio projeto
 class: beginners
 order: 2
 image: /assets/images/cards/beginner.png
@@ -16,7 +16,7 @@ Então você está pensando em começar com open source? Parabéns! O mundo apre
 
 ### O que significa "open source"?
 
-Quando um projeto é open source, isso significa que **Qualquer um pode ver, usar, modificar e distribuir o projeto por qualquer motivo** Essas permissões são reforçadas através de [uma licença open source](https://opensource.org/licenses).
+Quando um projeto é open source, isso significa que **Qualquer um pode ver, usar, modificar e distribuir o projeto por qualquer motivo**. Essas permissões são reforçadas através de [uma licença open source](https://opensource.org/licenses).
 
 O open source é poderoso porque diminui as barreiras para adoção, o que permite às ideias se espalhar rapidamente.
 
@@ -25,11 +25,11 @@ Para entender como funciona, imagine que seu amigo está dando uma festa, e voc�
 * Todos experimentam a torta (_usa_)
 * A torta é um sucesso! Eles te pedem a receita, que você disponibilizai (_vê_)
 * Um amigo, Alex, que é um chefe de pastelaria, sugere reduzir o açúcar (_modifica_)
-* Outra amiga, Lisa, pede para utilizá-la em uma janta na próxima semana (_distribui_)
+* Outra amiga, Lisa, pede para utilizá-la em um jantar na próxima semana (_distribui_)
 
 Em comparação, um processo de código fechado seria ir a um restaurante e pedir um pedaço de torta. Você tem que pagar uma taxa para comer a torta, e o restaurante provavelmente não te dará a receita. Se vocẽ copiasse a torta deles exatamente e a vendesse sob seu próprio nome, o restaurante poderia abrir uma ação contra você.
 
-### Porque as pessoas tornam seu trabalho open source?
+### Por que as pessoas tornam seu trabalho open source?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
@@ -47,13 +47,13 @@ Em comparação, um processo de código fechado seria ir a um restaurante e pedi
 
 * **Transparência:** Qualquer um pode inspecionar um projeto open source por erros ou inconsistências. A transparência importa a gorvernos como a [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) ou os [Estados Unidos](https://sourcecode.cio.gov/), industrias regulamentadas como bancos ou industrias de saúde, e softwares de segurança como [Let's Encrypt](https://github.com/letsencrypt).
 
-O open source, também, não é somente para software. Você pode tornar open source tudo, de conjuntos de dados a livros. Dê uma olhada no [GitHub Explore](https://github.com/explore) por ideias do que você pode tornar open source.
+Open source não é só sobre software. Você pode tornar qualquer coisa open source, de conjuntos de dados a livros. Dê uma olhada no [GitHub Explore](https://github.com/explore) por ideias do que você pode tornar open source.
 
 ### Open source significa "grátis"?
 
-Uma das maiores atrações do open source é que ele não custa dinheiro. "Grátis", porém, é um subproduto do valor total do open source.
+Uma das maiores atrações do open source é que ele tem custo zero. "Grátis", porém, é um subproduto do valor total do open source.
 
-Como [uma licença open source requer](https://opensource.org/osd-annotated) que qualquer um possa usar, modificar e compartilhar o seu projeto por aproximadamente qualquer propósito, os projetos, por si só, tendem a ser livres de qualquer custo. Se o projeto custa algum dinheiro para ser utilizado, qualquer um poderia, em vez disso, legalmente fazer uma cópia e utilizar a versão grátis.
+Como [uma licença open source requer](https://opensource.org/osd-annotated) que qualquer um possa usar, modificar e compartilhar o seu projeto por aproximadamente qualquer propósito, os projetos, por si só, tendem a ser livres de qualquer custo. Se o projeto cobra para ser utilizado, qualquer um poderia, em vez disso, legalmente fazer uma cópia e utilizar a versão grátis.
 
 Como resultado, a maior parte dos projetos open source são grátis, mas "grátis" não faz parte da definição do open source. Há maneiras de cobrar por um projeto open source indiretamente através de licenças duais ou features limitadas, enquanto ainda de acordo com a definição oficial de open source.
 
@@ -85,7 +85,7 @@ Se seu único objetivo é mostrar seu trabalho, você pode não querer contribui
 
 A medida que o seu projeto cresce, sua comunidade pode precisar de mais do que apenas código de você. Responder issues, revisar código e evangelizar o seu projeto são todas tarefas importantes em um projeto open source.
 
-Enquanto a quantidade de tempo que você gasta em tarefas que não envolvem código vá depender do tamanho e escopo do seu projeto, você deve estar preparado, como um mantenedor, a cuidar delas você mesmo ou a encontrar alguém para ajudá-lo.
+Enquanto a quantidade de tempo que você gasta em tarefas que não envolvem código depende do tamanho e escopo do seu projeto, você deve estar preparado, como um mantenedor, a cuidar delas você mesmo ou a encontrar alguém para ajudá-lo.
 
 **Se você faz parte de uma empresa tornando um projeto open source,** certifique-se de que seu projeto tem os recursos internos que ele precisa para florescer. Vocẽ irá querer identificar quem é responsável por manter o projeto após o almoço e compartilhar essas tarefas com a comunidade.
 
@@ -203,7 +203,7 @@ Crie um link para seu arquivo CONTRIBUTING a partir do seu README, de modo que m
   </p>
 </aside>
 
-Finalmente, um código de conduta ajuda a criar regras básicas de comportamento para os participantes do seu projeto. Isso possui um valor especial se vocẽ está lançando um projeto open source para a comunidade ou empresa. Um código de conduta te dá o poder de facilitar um comportamento saudável e construtivo da comunidade, que irá reduzir seu estresse como mantenedor.
+Finalmente, um código de conduta ajuda a criar regras básicas de comportamento para os participantes do seu projeto. Isso possui um valor especial se vocẽ está lançando um projeto open source para a comunidade ou alguma empresa. Um código de conduta te dá o poder de facilitar um comportamento saudável e construtivo da comunidade, o que irá reduzir seu estresse como mantenedor.
 
 Para mais informações, dê uma olhada no nosso [guia do Código de Conduta](../code-of-conduct/).
 
