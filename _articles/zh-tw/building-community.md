@@ -252,7 +252,7 @@ Atom 專案的 Issues 沒有投票機制，因為 Atom 團隊並不會遵循投�
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-如何循循善誘的將討論串引導到有益的方向，是一門藝術。直接要求人們不要發沒有建設性的文，要大家別浪費彼此的時間，這樣做是沒有效的。（。。。）反而，你必須設立一些限制條件，給大家一個方向，讓大家的意見最終導向成你所期待的結果，這樣就不像是無用的口頭訓斥。
+如何循循善誘的將討論串引導到有益的方向，是一門藝術。直接要求人們不要發沒有建設性的文，要大家別浪費彼此的時間，這樣做是沒有效的。（...）反而，你必須設立一些限制條件，給大家一個方向，讓大家的意見最終導向成你所期待的結果，這樣就不像是無用的口頭訓斥。
 
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_打造開源軟體_](https://producingoss.com/en/producingoss.html#common-pitfalls)

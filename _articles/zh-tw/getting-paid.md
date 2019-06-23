@@ -154,7 +154,7 @@ related:
   <img src="https://avatars1.githubusercontent.com/u/1076721?v=3&s=460" class="pquote-avatar" alt="avatar">
   多年以來，我們一直都是網站友好圖標資源的領先者，社群超過2千萬人，併爲7千萬網站提供資源，其中包括 Whitehouse.gov。 (...) 3年前我們發佈了Font Awesome 的第4個版本。Web技術從那時起改變了更多事情，而且坦率的說Font Awesome 都有點過時。 (...) 這也是我們剛剛發佈 FontAwesome 5的原因之一，我們模塊化和重寫了 CSS，並從上到下重新設計了每一個圖標。我們積極的探討更好的設計、更好的一致性、以及更好的可讀性。
   <p markdown="1" class="pquote-credit">
-— @davegandy, [Font Awesome Kickstarter 衆籌視頻](https://www.kickstarter.com/projects/232193852/font-awesome-5)
+— @davegandy, [Font Awesome Kickstarter 群眾募資影片](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
