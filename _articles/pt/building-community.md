@@ -114,7 +114,7 @@ Dê o melhor de si para adotar uma política de tolerância zero contra esse tip
   <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
   A verdade é que ter uma comunidade solidária é uma característica chave. Eu nunca poderia ter feito este trabalho sem a ajuda dos meus colegas, estranhos amigáveis da internet, e canais IRC tagarelas. (...) Não se contente com menos. Não se contente com idiotas.
   <p markdown="1" class="pquote-credit">
-  — @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
+  — @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -130,7 +130,7 @@ Em seu arquivo CONTRIBUTING, deixe claro, aos novos contribuidores, como começa
 
 ![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-Na sua fila de issues, rotule os bugs de acordo com os diferentes tipos de contribuidores: por exemplo, [_"somente os novatos"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"uma boa primeira issue"_, ou _"documentação"_. [Esses rótulos](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) fazem com que seja fácil, para alguém novo ao seu projeto, navegar entre as issues e começar a contribuir.
+Na sua fila de issues, rotule os bugs de acordo com os diferentes tipos de contribuidores: por exemplo, [_"somente os novatos"_](https://kentcdodds.com/blog/first-timers-only), _"uma boa primeira issue"_, ou _"documentação"_. [Esses rótulos](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) fazem com que seja fácil, para alguém novo ao seu projeto, navegar entre as issues e começar a contribuir.
 
 Por fim, use a sua documentação para fazer as pessoas se sentirem bem-vindas a cada passo do caminho.
 
