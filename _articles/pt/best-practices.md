@@ -167,7 +167,7 @@ Se você está procurando por outras pessoas, comece perguntando.
 
 Quando perceber novos contribuidores fazendo contribuições repetidamente, reconheça o trabalho deles oferecendo mais responsabilidades. Documente como os outros podem crescer em termos de liderança no projeto se assim eles desejarem.
 
-Encorajar os outros a [compartilhar a propriedade do projeto](../building-community/#share-ownership-of-your-project) pode rapidamente reduzir sua própria carga de trabalhos, assim como @lmccart descobriu no projeto dela, [p5.js](https://github.com/processing/p5.js).
+Encorajar os outros a [compartilhar a propriedade do projeto](../building-community/#compartilhe-a-responsabilidade-pelo-seu-projeto) pode rapidamente reduzir sua própria carga de trabalhos, assim como @lmccart descobriu no projeto dela, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">

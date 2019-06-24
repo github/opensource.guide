@@ -99,7 +99,7 @@ Se você precisar de uma renda dedicada ou pessoal para promoção, operações 
   </p>
 </aside>
 
-### Contribuindo para outros projetos 
+### Contribuindo para outros projetos
 
 Se seu objetivo é aprender como contribuir com outras pessoas ou entender como o open source funciona, considere contribuir para um projeto existente. Comece com um projeto que você utiliza e ama. Contribuir para um projeto pode ser tão simples quanto consertar erros de escrita ou atualizar uma documentação.
 

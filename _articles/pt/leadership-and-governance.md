@@ -40,7 +40,7 @@ Um maintainer não precisa necessariamente ser alguém que escreve código para 
 
 **O termo "committer"** pode ser usado para distinguir o acesso de commit, que é um tipo específico de responsabilidade, de outras formas de contribuição.
 
-Embora você possa definir os papéis do seu projeto da maneira que preferir, [considere o uso de definições mais amplas](../how-to-contribute/#what-it-means-to-contribute) para encorajar mais formas de contribuição. Você pode usar papéis de liderança para formalmente reconhecer pessoas que fizeram contribuições notáveis para seu projeto, independentemente das habilidades tecnicas deles.
+Embora você possa definir os papéis do seu projeto da maneira que preferir, [considere o uso de definições mais amplas](../how-to-contribute/#o-que-significa-contribuir) para encorajar mais formas de contribuição. Você pode usar papéis de liderança para formalmente reconhecer pessoas que fizeram contribuições notáveis para seu projeto, independentemente das habilidades tecnicas deles.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
@@ -73,7 +73,7 @@ Uma vez que você tenha estabelecido papéis de liderança, não esqueça de doc
 
 Ferramentas como [Vossibility](https://github.com/icecrime/vossibility-stack) podem ajudar você a rastrear publicamente quem está (ou não) fazendo contribuições para o projeto. A documentação dessas informações evita a percepção da comunidade de que os mantenedores são um grupo que toma suas decisões de maneira privada.
 
-Por fim, se seu projeto está no GitHub, considere movê-lo de sua conta pessoal para uma Organização e adicionar ao menos um admin de backup. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) torna mais fácil de gerenciar permissões e múltiplos repositórios e protege o legado de seu projeto por meio de [propriedade compartilhada](../building-community/#share-ownership-of-your-project).
+Por fim, se seu projeto está no GitHub, considere movê-lo de sua conta pessoal para uma Organização e adicionar ao menos um admin de backup. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) torna mais fácil de gerenciar permissões e múltiplos repositórios e protege o legado de seu projeto por meio de [propriedade compartilhada](../building-community/#compartilhe-a-responsabilidade-pelo-seu-projeto).
 
 ## Quando eu devo dar acesso de commit a alguém?
 

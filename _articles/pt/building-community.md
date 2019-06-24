@@ -26,15 +26,15 @@ A medida em que você constrói a sua comunidade, considere como uma pessoa no t
 
 Comece com a documentação:
 
-* **Faça com que seja fácil, para outras pessoas, utilizarem seu projeto.** [Um README amigável](../starting-a-project/#writing-a-readme) e exemplos claros de código tornarão mais fáceis o início e ambientação de qualquer pessoa chegando ao seu projeto.
-* **Explique claramente como contribuir**, usando [seu arquivo CONTRIBUTING](../starting-a-project/#writing-your-contributing-guidelines) e mantendo suas issues atualizadas.
+* **Faça com que seja fácil, para outras pessoas, utilizarem seu projeto.** [Um README amigável](../starting-a-project/#escrevendo-um-readme) e exemplos claros de código tornarão mais fáceis o início e ambientação de qualquer pessoa chegando ao seu projeto.
+* **Explique claramente como contribuir**, usando [seu arquivo CONTRIBUTING](../starting-a-project/#escrevendo-suas-diretrizes-de-contribuição) e mantendo suas issues atualizadas.
 
 A [GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) mostrou que uma documentação incompleta ou confusa é um dos maiores problemas para usuários open source. Uma boa documentação é uma porta de entrada para que pessoas interajam com o seu projeto. Eventualmente, alguém abrirá uma issue ou pull request. Use essas interações como oportunidades para trazer essas pessoas para o fundo do funil.
 
 * **Quando alguém chegar ao seu projeto, agradeça pelo interesse** Basta somente uma experiência negativa para que as pessoas não queiram voltar.
 * **Seja responsivo.** Se você não responder às issues por um mês, as chances são de que as pessoas que as criaram já tenham se esquecido do seu projeto.
-* **Seja mente aberta sobre os tipos de contribuições que você irá aceitar** Muitos contribuidores começam com um bug report ou um pequeno fix. Existem [diversas formas de contribuir](../how-to-contribute/#what-it-means-to-contribute) com um projeto. Faça com que as pessoas ajudem da forma como elas queiram.
-* **Se houver alguma contribuição que você não concorde,** agradeça pela ideia e [explique por que](../best-practices/#learning-to-say-no) ela não se encaixa no escopo do projeto, apontando para a documentação relevante, caso você a possua.
+* **Seja mente aberta sobre os tipos de contribuições que você irá aceitar** Muitos contribuidores começam com um bug report ou um pequeno fix. Existem [diversas formas de contribuir](../how-to-contribute/#o-que-significa-contribuir) com um projeto. Faça com que as pessoas ajudem da forma como elas queiram.
+* **Se houver alguma contribuição que você não concorde,** agradeça pela ideia e [explique por que](../best-practices/#aprendendo-a-dizer-não) ela não se encaixa no escopo do projeto, apontando para a documentação relevante, caso você a possua.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
@@ -120,7 +120,7 @@ Dê o melhor de si para adotar uma política de tolerância zero contra esse tip
 
 Debates recorrentes sobre aspectos triviais do seu projeto distraem os outros, incluindo você, das tarefas importantes. Novas pessoas que chegarem ao seu projeto poderão ver tais conversas e não querer participar.
 
-Quando notar um comportamento negativo acontecendo no seu projeto, chame a atenção publicamente. Explique, em um tom gentil, porém firme, por que o comportamento não é aceitável. Se o problema persistir, você pode [pedir para que os envolvidos saiam](../code-of-conduct/#enforcing-your-code-of-conduct). Seu [código de conduta](../code-of-conduct/) pode ser uma guia construtivo para essas conversas.
+Quando notar um comportamento negativo acontecendo no seu projeto, chame a atenção publicamente. Explique, em um tom gentil, porém firme, por que o comportamento não é aceitável. Se o problema persistir, você pode [pedir para que os envolvidos saiam](../code-of-conduct/#aplicando-o-seu-código-de-conduta). Seu [código de conduta](../code-of-conduct/) pode ser uma guia construtivo para essas conversas.
 
 ### Conheça os contribuidores onde eles estão
 
@@ -190,7 +190,7 @@ Na maior parte das vezes, se você cultivou uma comunidade amigável e respeitos
 
 Quando sua comunidade estiver enfrentando problemas com uma issue difícil, os ânimos podem ser aflorados. As pessoas podem ficar com raiva ou frustradas e descontar isso um no outro, ou em você.
 
-Seu trabalho como um mantenedor é prevenir que tais situações cresçam, escalem. Mesmo que tenha uma forte opinião no tópico, tente tomar a posição de um moderador ou facilitador, em vez de entrar na briga e forçar seus pontos de vista. Se alguém estiver sendo indelicado ou monopolizando a conversa, [aja imediatamente](../building-community/#dont-tolerate-bad-actors) para manter as discussões civilizadas e produtivas.
+Seu trabalho como um mantenedor é prevenir que tais situações cresçam, escalem. Mesmo que tenha uma forte opinião no tópico, tente tomar a posição de um moderador ou facilitador, em vez de entrar na briga e forçar seus pontos de vista. Se alguém estiver sendo indelicado ou monopolizando a conversa, [aja imediatamente](../building-community/#não-tolere-mau-comportamento) para manter as discussões civilizadas e produtivas.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
@@ -206,7 +206,7 @@ Manter a calma não é fácil, porém demonstrar liderança melhora a saúde da 
 
 ### Trate o seu README como uma constituição
 
-Seu README é [mais do que um conjunto de instruções](../starting-a-project/#writing-a-readme). É também um lugar para discutir sobre os seus objetivos, visão de produto, e roteiro. Se as pessoas estão excessivamente focadas em debater o mérito de uma feature em particular, revisitar o seu README e falar sobre o seu projeto, de um ponto de vista mais alto nível, pode ajudar. Focar no seu README também despersonaliza a conversa, de modo que você pode ter uma discussão construtiva.
+Seu README é [mais do que um conjunto de instruções](../starting-a-project/#escrevendo-um-readme). É também um lugar para discutir sobre os seus objetivos, visão de produto, e roteiro. Se as pessoas estão excessivamente focadas em debater o mérito de uma feature em particular, revisitar o seu README e falar sobre o seu projeto, de um ponto de vista mais alto nível, pode ajudar. Focar no seu README também despersonaliza a conversa, de modo que você pode ter uma discussão construtiva.
 
 ### Foque na jornada, não no destino
 

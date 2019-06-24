@@ -492,7 +492,7 @@ Depois de enviar uma contribuição, uma das seguintes situações ocorrerá:
 
 ### 😭 Você não recebe uma resposta.
 
-Espero que você [tenha checado o projeto em busca de sinais de atividade](#uma-lista-de-verificação-antes-de-você-contribuir) antes de fazer uma contribuição. Mesmo em um projeto ativo, no entanto, é possível que sua contribuição não receba uma resposta.
+Espero que você [tenha checado o projeto em busca de sinais de atividade](#um-checklist-antes-de-você-contribuir) antes de fazer uma contribuição. Mesmo em um projeto ativo, no entanto, é possível que sua contribuição não receba uma resposta.
 
 Se você não obtiver uma resposta após uma semana, é justo responder educadamente no mesmo tópico, pedindo a revisão de alguém. Se você souber o nome da pessoa certa para revisar sua contribuição, você poderá @menciona-la nesse tópico.
 
